@@ -1,3 +1,5 @@
+# coding: utf-8
+
 from __future__ import division          #integer division
 from collections import defaultdict
 import random
@@ -205,7 +207,7 @@ def sentence_extraction():
 
     best_sentences = []
     for i in range(min( len(sent_scores), 10)):
-        print sent_scores[i].sentence
+        print sent_scores[i].sentence.replace("<br />", "").replace("<p>", "").replace("&quot;", "").replace("quot;", "");
 
 
 if __name__=='__main__':

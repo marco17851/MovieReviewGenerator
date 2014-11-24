@@ -1,3 +1,4 @@
+# coding: utf-8
 #!/usr/bin/env python
 #The above line specifies to the Unix that the file is a python script 
 
@@ -26,6 +27,7 @@ posEmissions = defaultdict(list)
 bgPosEmissions = defaultdict(list)
 uniPosEmissions = defaultdict(list)
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
+dontInclude = ["-RRB-", "-LRB-", "<br />"]
 
 class TF_IDF:
     def __init__(self, docCounts):
@@ -58,7 +60,7 @@ def build_POS_table(posFile):
         if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
             posTable.append(total_sequence)
             total_sequence = []
-        else:
+        elif tags[1] not in dontInclude:
             total_sequence.append(tags[1])
     return posTable
 
@@ -158,7 +160,7 @@ def getWordFromUnigramEmissions(ID, pos):
     file = open("./data/" + ID + "/emissions.txt")
     for line in file:
         words = line.strip().split("\t")
-        if words[0] == pos:
+        if words[0] == pos and len(words) == 1:
             found = 1
             continue
         if len(words) == 2 and found == 0:
