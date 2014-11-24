@@ -43,17 +43,16 @@ NNP	4
 NN
 MD	1
 NN	2
--RRB-	1
 CC	1
 POS	1
 ,	2
 .	2
 VBP	1
 RB	1
-IN	7
--LRB-	2
-NNS	1
+IN	9
 VBZ	1
+:	1
+NNS	1
 POS
 MD	1
 CC	1
@@ -67,10 +66,9 @@ VBN	1
 JJ	1
 RB
 VB	1
--RRB-	1
 CC	1
 VBN	2
-.	2
+.	3
 PRP	1
 JJ	1
 IN	2
@@ -78,8 +76,6 @@ VBZ	1
 DT	1
 CD	1
 ,	1
--LRB-
-IN	1
 :
 ``	1
 VBP	1
@@ -133,8 +129,6 @@ NNS	1
 NNP	2
 MD
 VB	1
--RRB-
-:	1
 JJS
 JJR
 IN	1

@@ -63,8 +63,7 @@ NNS	1
 NNP	7
 NN
 ``	1
-NN	9
--RRB-	1
+NN	10
 CC	1
 POS	1
 VBN	2
@@ -79,10 +78,6 @@ VBZ	3
 NNS	1
 ,	1
 NNP	2
-FW
-DT	1
-NN	2
-FW	2
 ,
 ``	1
 IN	1
@@ -114,7 +109,6 @@ RB	1
 IN	2
 VBZ	1
 .	1
--LRB-
 :
 VB	1
 PRP	1
@@ -131,15 +125,14 @@ RB	1
 NN	1
 VBD	3
 CC	2
--LRB-	1
 ,	2
 .	1
 ''	1
-JJ	1
+JJ	2
 IN	7
 VBZ	2
 NNS	2
-NNP	16
+NNP	15
 ``
 DT	2
 NNP	1
@@ -175,7 +168,6 @@ DT	18
 NNP	2
 MD
 VB	3
--RRB-
 JJS
 NNS	1
 VB

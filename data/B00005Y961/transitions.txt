@@ -1,12 +1,7 @@
 PRP$
 VBG
+PRP$	1
 JJ	1
--RRB-	1
-FW
-PRP	1
-RB	1
-JJ	1
-FW	2
 VBN
 ,
 NNP	6
@@ -26,13 +21,12 @@ NN	4
 NN
 VBG	1
 NN	2
-FW	1
-CC	2
+CC	3
 ,	3
 .	1
 PRP	1
+RB	1
 IN	2
--LRB-	1
 NNS	1
 POS
 NN	1
@@ -45,7 +39,6 @@ MD	2
 WRB	1
 RB
 VB	1
--LRB-
 :
 NNP	1
 NNS
@@ -78,5 +71,4 @@ DT	5
 NNP	1
 MD
 VB	2
--RRB-
 JJS

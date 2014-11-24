@@ -1,5 +1,5 @@
 PRP$
--LRB-	1
+RB	1
 NNS	7
 JJ	8
 NN	14
@@ -23,17 +23,16 @@ NNS	1
 VBD
 RP	2
 RB	8
-VBG	2
+NN	1
 FW	1
-CC	1
+CC	2
 VBN	6
 .	2
 TO	5
-NN	1
 PRP	7
 JJ	5
 IN	7
--LRB-	1
+VBG	2
 DT	9
 NNS	3
 ,	1
@@ -43,18 +42,18 @@ PRP	1
 NN	1
 VBN
 JJ	1
-RP	3
+VB	1
+WRB	1
 NN	3
 VBG	1
 CC	5
-IN	13
 ,	2
 .	3
 TO	12
 PRP	2
 JJR	1
--LRB-	1
-WRB	1
+IN	13
+RP	3
 DT	2
 NNS	1
 POS
@@ -75,7 +74,6 @@ FW	1
 NNS	3
 PDT	1
 VBN	9
--RRB-	1
 VB	1
 TO	6
 PRP	8
@@ -83,7 +81,7 @@ RB	10
 IN	6
 VBG	4
 DT	6
-VBZ	1
+VBZ	2
 WDT
 VBZ	3
 VBP	2
@@ -91,25 +89,23 @@ PRP	1
 VBD	2
 JJ
 VBG	1
-PDT	1
+NNPS	1
 WRB	1
-RB	1
-NN	54
+RB	2
+NN	55
 VBD	1
 CC	9
 POS	1
--RRB-	2
+PDT	1
 ,	7
 .	11
 ''	1
 TO	3
-NNPS	1
 PRP	1
 JJ	9
-IN	11
+IN	12
 VBZ	3
-NNS	39
--LRB-	2
+NNS	40
 NNP	1
 WP
 VBD	2
@@ -124,7 +120,7 @@ PRP$	1
 RP	1
 JJ	3
 NN	3
--RRB-	1
+VBD	1
 ``	1
 .	1
 TO	7
@@ -167,7 +163,7 @@ RB	2
 IN	3
 DT	2
 NN
-VBG	1
+VBG	2
 VBD	9
 VB	1
 ,	34
@@ -175,8 +171,8 @@ VB	1
 VBP	1
 WDT	2
 JJ	6
-WP	2
-VBZ	12
+WP	3
+VBZ	14
 DT	2
 NN	14
 POS	2
@@ -184,28 +180,20 @@ POS	2
 TO	9
 PRP	2
 RB	7
--LRB-	4
 :	1
 NNS	9
 NNP	1
 ``	1
 WRB	5
-CC	18
-IN	61
+CC	20
+IN	63
 MD	5
--RRB-	4
 FW
 VB	1
-NN	1
-FW	22
-CC	1
--RRB-	1
+IN	2
 ,	1
-CD	3
-PRP	4
-RB	1
-IN	7
-DT	4
+NN	1
+FW	3
 ,
 VBG	4
 FW	1
@@ -229,7 +217,6 @@ CC	15
 CD	1
 IN	13
 JJR	1
-.
 TO
 VB	39
 NN	2
@@ -268,7 +255,6 @@ JJ	17
 NN	2
 VBD	4
 CC	3
--LRB-	1
 RBR	1
 ``	1
 ,	7
@@ -282,16 +268,8 @@ IN	11
 VBZ	5
 DT	3
 PRP$	1
-JJR	2
--LRB-
-VB	1
-VBG	1
-CC	3
-WP	1
-RB	1
-IN	2
 NNS	1
-NNP	1
+JJR	2
 :
 PRP	1
 NNS
@@ -300,13 +278,12 @@ VB	1
 WRB	2
 VBG	2
 VBD	8
-CC	12
+CC	13
 POS	3
 WP	3
 ,	18
 WDT	1
 .	24
--RRB-	1
 TO	3
 VBP	8
 VBN	4
@@ -320,23 +297,21 @@ NNPS	12
 NN	2
 VBD	1
 CC	3
--LRB-	1
--RRB-	1
 ,	6
 .	7
 TO	2
 WDT	1
 PRP	1
+RB	1
 IN	4
 VBZ	3
 NNS	2
-NNP	7
+NNP	8
 VB
 PRP$	4
 WRB	2
 JJ	2
 NN	6
--RRB-	1
 CC	5
 POS	1
 RBR	1
@@ -350,7 +325,7 @@ IN	9
 WP	1
 RP	3
 DT	15
-NNS	6
+NNS	7
 NNP	2
 WRB
 DT	2
@@ -389,10 +364,10 @@ JJ	2
 IN	1
 CD
 NN	3
+CC	1
 ,	1
 JJ	5
 IN	5
--LRB-	1
 NNS	4
 EX
 VBP	1
@@ -432,16 +407,6 @@ CC	3
 VBP	1
 IN	2
 VBZ	1
--RRB-
-JJ	1
-NN	1
-VBD	1
-CC	2
-,	1
-RB	1
-IN	1
-VBZ	3
-NNS	1
 JJS
 JJ	1
 NN	1

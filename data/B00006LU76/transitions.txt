@@ -14,7 +14,7 @@ PRP	1
 .	1
 VBP
 VBN	3
-NN	1
+PRP	1
 VBD	1
 WDT
 JJ
@@ -47,7 +47,7 @@ VBD	2
 CC	3
 ,	3
 .	9
-PRP	3
+PRP	2
 JJR	2
 IN	8
 VBZ	3
@@ -66,7 +66,6 @@ VBP	6
 VBZ	3
 DT	1
 RB
-VB	1
 RB	3
 NN	1
 CD	1
@@ -116,8 +115,7 @@ DT	14
 NNS	1
 NNP	2
 MD
-VB	2
-RB	1
+VB	3
 JJS
 JJR
 CC	1

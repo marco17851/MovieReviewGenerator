@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 # Authors: 	Marco Barragan, Barry Chen
 # Date: 	November 16, 2014
@@ -18,7 +19,7 @@
 				Afterwards, it creates the text files that contain the
 				information mentioned above as well as the reviews.arpa file.
 """
-
+# coding=utf-8
 from collections import defaultdict
 import sys
 import os
@@ -34,6 +35,8 @@ import os
 				from each movie file.
 """
 def get_Ems_Trans_Uni(folderpath):
+
+	dontInclude = ["-RRB-", "-LRB-", "<br />"]
 
 	# Loops through the data folder
 	for ID in os.listdir(folderpath):
@@ -62,6 +65,9 @@ def get_Ems_Trans_Uni(folderpath):
 
 				# If the word does not have a part of speech, disregard it
 				if len(pieces) != 2:
+					continue
+
+				if pieces[0] in dontInclude or pieces[1] in dontInclude:
 					continue
 
 				# Updates the unigram transitions/frequencies based on 

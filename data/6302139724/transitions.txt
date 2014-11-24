@@ -31,13 +31,11 @@ WDT
 VBZ	1
 NNP	1
 JJ
-NN	11
--RRB-	1
-CC	1
+CC	2
+NNS	1
+NN	12
 JJ	2
 IN	3
--LRB-	1
-NNS	1
 WP
 VBZ	1
 VBP	1
@@ -96,7 +94,6 @@ TO	1
 RB	1
 VBZ	1
 NNP	1
--LRB-
 NNS
 JJ	1
 NN	1
@@ -157,7 +154,6 @@ NNP	8
 WP$
 CD
 IN	1
--RRB-
 JJR
 NN	1
 IN	1

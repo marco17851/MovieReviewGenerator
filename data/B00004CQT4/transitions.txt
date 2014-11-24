@@ -53,8 +53,6 @@ IN	6
 :	2
 NNS	2
 FW
-FW	1
-NNP	1
 ,
 JJR	1
 VBG	1
@@ -79,7 +77,6 @@ JJ	5
 IN	3
 VBZ	2
 DT	2
--LRB-
 :
 RB	1
 NNS
@@ -91,14 +88,13 @@ RB	1
 NNP
 NN	1
 CC	1
-IN	1
 ,	1
 CD	1
 ''	1
 VBP	1
--LRB-	1
+IN	1
 VBZ	4
-NNP	6
+NNP	7
 VB
 TO	1
 DT	2
@@ -112,7 +108,7 @@ NNP	1
 CD
 CC	1
 POS	1
--RRB-	1
+RB	1
 EX
 IN
 ``	1
@@ -125,5 +121,4 @@ DT	5
 NNP	3
 MD
 VB	1
--RRB-
 JJR

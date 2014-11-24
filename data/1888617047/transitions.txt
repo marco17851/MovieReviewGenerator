@@ -142,24 +142,22 @@ VBN	1
 PRP	3
 RB	1
 IN	1
--LRB-
 :
 PRP	1
 NN	1
 NNS
 VBG	1
 VBD	3
-CC	5
+CC	6
 WP	1
 ,	4
 .	1
 ''	1
 IN	4
--LRB-	1
 :	1
 NNP
 .	1
--RRB-	1
+,	1
 IN	1
 VB
 PRP$	2
@@ -222,4 +220,3 @@ MD
 VB	2
 RB	1
 NNPS
--RRB-

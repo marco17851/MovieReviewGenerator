@@ -1,7 +1,8 @@
-FW
-:	1
+VBD
+DT	1
+RP	1
 PRP	1
-FW	2
+VBN	2
 ``
 VBN
 DT	1
@@ -47,11 +48,7 @@ RB	1
 IN	4
 VBZ	3
 NNS	1
-VBD
-DT	1
-RP	1
-PRP	1
-VBN	2
+FW
 ,
 TO
 VB	1
@@ -68,7 +65,6 @@ VBN	1
 RB	1
 JJ	2
 IN	1
--LRB-
 :
 VB	1
 NNS
@@ -101,5 +97,4 @@ NN	2
 NNP	2
 MD
 RB	2
--RRB-
 JJR

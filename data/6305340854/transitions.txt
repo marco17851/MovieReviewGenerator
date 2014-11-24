@@ -4,9 +4,6 @@ NN	2
 VBG
 IN	2
 FW
-IN	1
-PRP	1
-FW	2
 ``
 ,
 DT	1
@@ -34,9 +31,8 @@ JJ	2
 NN	4
 NN
 VBG	1
-NN	3
--RRB-	1
--LRB-	1
+NN	4
+CC	1
 ,	2
 .	3
 ''	1
@@ -59,7 +55,6 @@ CD	1
 JJ	1
 IN	1
 DT	1
--LRB-
 :
 RB	1
 NNS
@@ -87,4 +82,3 @@ CD
 NNS	1
 MD
 VB	1
--RRB-

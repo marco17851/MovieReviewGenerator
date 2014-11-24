@@ -1,10 +1,7 @@
 PRP$
 VBG
 PRP	1
-FW
-VBZ	1
-FW	1
-NNP	1
+VBD
 VBN
 VBG	1
 RP	1
@@ -52,7 +49,8 @@ WDT	1
 IN	7
 VBZ	3
 NNS	2
-VBD
+FW
+VBZ	1
 ,
 RB	1
 NNP	1
@@ -135,4 +133,4 @@ MD	2
 ,	1
 DT	1
 NNS	1
-NNP	11
+NNP	9

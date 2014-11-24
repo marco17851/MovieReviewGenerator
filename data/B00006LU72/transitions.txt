@@ -16,10 +16,10 @@ VBZ	1
 JJ
 $	1
 NN	4
--RRB-	1
 CC	1
 .	3
 TO	1
+PRP	1
 IN	1
 VBZ
 TO	1
@@ -37,26 +37,19 @@ RP
 $
 TO	1
 NN
-,	2
-NN	1
-FW	1
-CC	1
+NN	2
 VBD	1
+CC	1
 VBN	1
 .	1
 TO	1
 WDT	2
 RB	1
 IN	8
--LRB-	1
-NNS	1
 VBZ	2
-FW
 DT	1
-NN	1
-EX	1
-PRP	1
-FW	3
+NNS	1
+,	2
 ,
 CC	1
 DT	1
@@ -79,18 +72,15 @@ PDT	1
 JJ	3
 IN	1
 DT	2
--LRB-
-DT	1
 NNS
 IN	1
 NNP
 VBG	1
-CC	1
+CC	2
 ,	1
 .	1
 VBP	1
 IN	1
--LRB-	1
 NNP	3
 VB
 DT	1
@@ -115,5 +105,3 @@ NNP	6
 MD
 VB	1
 RB	1
--RRB-
-PRP	1

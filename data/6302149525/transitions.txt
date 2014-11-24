@@ -56,8 +56,8 @@ VBG	1
 NN	4
 VBD	2
 CC	5
--LRB-	1
 ,	4
+WDT	1
 .	11
 ''	2
 TO	5
@@ -67,10 +67,6 @@ IN	13
 VBZ	3
 NNS	1
 NNP	1
-FW
-DT	1
-NNP	1
-FW	1
 ,
 PRP$	1
 CC	4
@@ -105,24 +101,21 @@ JJ	2
 IN	3
 VBZ	1
 NNS	1
--LRB-
-WDT	1
 NNS
 VBD	1
--RRB-	1
 VBN	1
-.	1
+,	5
+TO	1
 VBP	1
 IN	2
--LRB-	1
-,	5
+DT	1
+.	1
 NNP
 VBG	1
 NN	3
--RRB-	1
 CC	1
 POS	3
-.	2
+.	3
 RB	2
 IN	1
 VBZ	1
@@ -161,8 +154,6 @@ NNS	1
 NNP	4
 MD
 RB	1
--RRB-
-.	1
 JJR
 VB
 PRP$	1

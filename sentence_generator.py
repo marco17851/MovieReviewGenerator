@@ -155,9 +155,11 @@ def getWordFromUnigramEmissions(ID, pos):
     found = 0
 
     file = open("./data/" + ID + "/emissions.txt")
+
     for line in file:
         words = line.strip().split("\t")
-        if words[0] == pos:
+
+        if words[0] == pos and len(words) == 1:
             found = 1
             continue
         if len(words) == 2 and found == 0:
@@ -169,13 +171,13 @@ def getWordFromUnigramEmissions(ID, pos):
         for x in range (0, int(words[1])):
             array.append(words[0])
 
-    #print array
     rand = 0
     try:
         rand = random.randint(0, len(array)-1)
     except:
         if len(array) == 0:
             return "..."
+
     return array[rand]
 
 #returns list of sentences corresponding to pos_sequence

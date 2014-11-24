@@ -60,8 +60,7 @@ VBG	2
 NN	3
 VBD	2
 CC	1
--RRB-	1
-,	2
+,	3
 .	6
 ''	2
 VBP	1
@@ -74,7 +73,7 @@ NNS	2
 FW
 IN	1
 NN	1
-FW	2
+FW	1
 ,
 VBG	1
 JJ	1
@@ -115,13 +114,12 @@ JJ	8
 IN	1
 VBZ	1
 DT	1
--LRB-
 :
 NN	1
 IN	1
 NNS
 CC	1
--LRB-	1
+DT	1
 VBP	3
 ,	1
 IN	1
@@ -167,5 +165,4 @@ NNP	3
 MD
 VB	2
 RB	2
--RRB-
 JJS

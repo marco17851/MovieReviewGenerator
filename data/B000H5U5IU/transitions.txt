@@ -10,13 +10,8 @@ JJ	1
 IN	2
 DT	3
 FW
-FW	11
 .	1
-VBP	1
-PRP	1
-IN	2
-DT	2
-NNS	1
+FW	4
 VBN
 CD	1
 IN	2
@@ -147,9 +142,9 @@ IN	2
 DT	1
 .	2
 ,	2
--LRB-
 :
 NNS
+NN	1
 VBD	1
 CC	3
 WP	1
@@ -157,12 +152,11 @@ WP	1
 .	4
 VBP	1
 IN	5
--LRB-	1
 NNP
 NN	1
--RRB-	1
 POS	1
 ,	1
+VBP	1
 VBN	1
 IN	1
 VBZ	1
@@ -214,7 +208,6 @@ NNS	2
 MD
 VB	1
 RB	2
--RRB-
 JJS
 SYM
 UH

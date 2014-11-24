@@ -13,12 +13,12 @@ VBP
 VBN	1
 JJ
 NN	5
--RRB-	1
 CC	2
 VBN	1
 .	1
 PRP	1
 IN	2
+VBZ	1
 WP
 VBZ
 MD	1
@@ -70,8 +70,6 @@ JJ	3
 VBZ	1
 DT	1
 NNP	1
--LRB-
-JJ	1
 NNS
 VBP	1
 ,	2
@@ -90,7 +88,7 @@ DT	1
 NNP	1
 CD
 CC	1
--RRB-	1
+,	1
 .	1
 IN
 NNP	2
@@ -100,13 +98,12 @@ NN	2
 FW	1
 MD
 VB	1
--RRB-
-VBZ	1
 NNP
+JJ	1
 CC	2
 ,	2
 .	1
 VBP	1
+RB	1
 VBZ	1
--LRB-	2
 NNP	2

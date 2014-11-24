@@ -53,25 +53,14 @@ MD	1
 PRP$	1
 NN	3
 VBD	1
-CC	1
--RRB-	1
+CC	2
 ,	3
 .	8
 WDT	1
-IN	2
--LRB-	2
+RB	1
+IN	3
 DT	2
 NNS	4
-FW
-PRP$	1
-WRB	1
-NN	1
-FW	12
-SYM	6
-PRP	1
-RB	1
-DT	1
-NNS	1
 ,
 CC	1
 VB	1
@@ -96,11 +85,8 @@ POS	1
 RB	1
 IN	1
 .	1
--LRB-
-CC	1
-RB	1
 :
-FW	1
+DT	1
 IN	1
 NNS
 MD	3
@@ -109,16 +95,14 @@ VBN	1
 .	6
 VBP	1
 WDT	1
-IN	6
--LRB-	1
+IN	7
 DT	1
 NNP
 VB	1
--RRB-	1
 CC	1
 PRP$	2
 CD	1
-.	4
+.	5
 ,	1
 NNP	4
 VB
@@ -143,8 +127,8 @@ PDT
 CD
 MD	1
 NN	1
--RRB-	1
 CC	1
+,	1
 CD	1
 TO	1
 DT	1
@@ -165,9 +149,6 @@ VBZ	1
 VB	4
 RB	1
 NNPS
--RRB-
-.	1
-IN	1
 JJR
 NNS	1
 SYM

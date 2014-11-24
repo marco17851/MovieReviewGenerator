@@ -54,12 +54,11 @@ PRP
 VBD	3
 CD	1
 RB
--LRB-	1
 :	1
+NNP	1
 VBN	1
 JJ	1
 .	1
--LRB-
 :
 CC	1
 PRP	1
@@ -84,8 +83,8 @@ CC
 MD	1
 PDT
 CD
+:	1
 NNS	1
--RRB-	1
 IN
 NN	1
 PDT	1
@@ -96,5 +95,4 @@ DT	2
 MD
 VB	1
 DT	1
--RRB-
 SYM
