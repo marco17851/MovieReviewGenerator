@@ -141,9 +141,6 @@ class SentScore:
     def __ne__ (self, other):
         return not self.__eq__(other)
 
-if __name__=='__main__':
-    sentence_extraction()
-
 def sentence_extraction():
 
     #n-gram model parameters
@@ -210,3 +207,6 @@ def sentence_extraction():
     for i in range(min( len(sent_scores), 10)):
         print sent_scores[i].sentence
 
+
+if __name__=='__main__':
+    sentence_extraction()

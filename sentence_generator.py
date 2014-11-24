@@ -495,7 +495,7 @@ if __name__=='__main__':
 
     tfidf_dict = tfidf()
 
-    if word_selection_type == 1:
+    if int(word_selection_type) == 1:
         for i in range(len(randomly_chosen_pos_sequences)):
             #print 'heyo' + str(len(randomly_chosen_pos_sequences[i]))
             tri_pos_seq = trigramify_pos_seq(randomly_chosen_pos_sequences[i])
@@ -505,7 +505,7 @@ if __name__=='__main__':
             for sent in sentence(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
 
-    elif word_selection_type == 0:
+    elif int(word_selection_type) == 0:
         for pos in randomly_chosen_pos_sequences:
             for sent in sentenceBigrams(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
