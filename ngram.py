@@ -1,11 +1,14 @@
 from __future__ import division          #integer division
 from collections import defaultdict
 import random
-import os
 import string        #some string-related utilities
 import sys        #for command-line args
 import re    #for regular expressions
 import math
+import misc_func
+#Program is adapted from Prof. Reddy's Assignment 2 solution.
+
+tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
 
 class NGramModel:
     def __init__(self, order, unkcount, lambdaweight):
@@ -73,6 +76,23 @@ class NGramModel:
             numtokens+=1
         return 2**(cross_ent/numtokens)
 
+class SentenceScore:
+    def __init__(self, s, v):
+        self.sentence = s
+        self.val = v
+
+    def __lt__ (self, other):
+        return self.val < other.val
+
+    def __gt__ (self, other):
+        return other.__lt__(self)
+
+    def __eq__ (self, other):
+        return self.val == other.val
+
+    def __ne__ (self, other):
+        return not self.__eq__(other)
+
 def parse_essayfile(filename):
     essay = open(filename.strip())
     array = []
@@ -86,13 +106,6 @@ def parse_essayfile(filename):
                 array.append(x.split())
     return array
 
-def write_results(hypotheses):
-    """hypotheses is a dictionary mapping essays (denoted by their filenames) to languages"""
-    o = open('results.txt', 'w')
-    for essay in hypotheses:
-        o.write(essay+','+hypotheses[essay]+'\n')
-    o.close()
-
 def sentence_grams(essay):
     array = []
 
@@ -101,82 +114,97 @@ def sentence_grams(essay):
 
     return array
 
-        
+
+def tfidf():
+    tfidf_dict = defaultdict(float)
+    for line in open('./tfidf.txt'):
+        words = line.split('|')
+        try:
+            tfidf_dict[words[0]] = float(words[1].strip())
+        except:
+            continue
+    return tfidf_dict
+
+class SentScore:
+    def __init__(self, s, v):
+        self.sentence = s
+        self.val = v
+
+    def __lt__ (self, other):
+        return self.val < other.val
+
+    def __gt__ (self, other):
+        return other.__lt__(self)
+
+    def __eq__ (self, other):
+        return self.val == other.val
+
+    def __ne__ (self, other):
+        return not self.__eq__(other)
+
 if __name__=='__main__':
 
-    #n-gram model parameters (to fiddle with)
+    #n-gram model parameters
     order = 3
     lambdaweight = 0.7
     unkcount = 0.5
-    
-    #reads training and test data from the nli folder (relative path).
-    #creates a "training" dictionary which maps each language to a list of the associated essay files
-    """training = defaultdict(list)
-    traininginfo = open('./nli/training_langid.txt', 'r')
-    for line in traininginfo:
-        essayfile, language = line.strip().split(',')
-        training[language].append(essayfile)
 
-    #store a "testing" essay list.
-    testing = open('./nli/testing_list.txt', 'r')"""
-
-    #train a language model for every language in the training set
+    #train a language model on the summaries of all movie reviews
     models = {}
     models['summaries'] = NGramModel(order, unkcount, lambdaweight)
-    models['summaries'].count_from_training(parse_essayfile('./summaries.txt'))
+    models['summaries'].count_from_training(parse_essayfile('./allsummaries.txt'))
+
     models['summaries'].normalize()
 
+    #essay is an array of sentences, where each sentence is an array of words
+    #as an example: essay = [["that's", 'original,', 'but', 'not', 'independent'], ['<br', '/><br', '/>the', 'film', 'is', 'never', 'scary']]
+    essay = parse_essayfile('./data/' + sys.argv[1] + '/texts.txt')
 
+    #the compute_perplexity method takes an array of sentences, and calculates its perplexity
+    #we want to compute the perplexity of each summary sentence, so we construct an array containing a single summary sentence
+    #so we can legally pass that array to compute_perplexity
 
-
-
-
-    #models are all trained, now test
-    essay = parse_essayfile('./texts.txt')
-    #print '----'
-    #print essay
-    #print '----'
-
-    #sentencegrams returns an array of sentences, where each sentence is an array of words
+    #components is an array of array of sentences, where each inner array corresponds to a single summary sentence
     components = sentence_grams(essay)
-    #print '------'
-    #print components
-    #print '------'
-    bestVal = 1000000000
-    bestPhrase = ''
-    #print components
-    #print '-------'
+
+    sent_scores = []
 
     for c in components:
-        #print c
+
+        #compute the perplexity of c, which is an array containing a single summary sentence
         perplexities = map(lambda (language, model): (language, model.compute_perplexity(c)),
                            models.items())
-        #print perplexities[0][1]
-        
-        if perplexities[0][1] < bestVal:
-            #print '======'
-            #print c
-            #print '======'
-            #print 'got here'
-            bestPhrase = ' '.join(c[0])
-            bestVal = perplexities[0][1]
 
-    #perplexities = map(lambda (language, model): (language, model.compute_perplexity(essay)),
-    #                       models.items())
-    
-    print bestPhrase
-    """
-    hypotheses = {}
-    for essayfile in testing:
-        essay = parse_essayfile(os.path.join('nli', 'testing', essayfile))
-        
-        perplexities = map(lambda (language, model): (language, model.compute_perplexity(essay)),
-                           models.items())   #compute the perplexity of each language model on this essay
-
+        #debugging:
+        #print c
         #print perplexities
-        hypotheses[essayfile] = min(perplexities,
-                                    key=lambda x:x[1])[0]
+        #print perplexities[0][1]
+
+        #make a SentenceScore object that contains the summary sentence and its perplexity
+        sent_scores.append(SentenceScore(' '.join(c[0]), perplexities[0][1]))
+
+    #sort sentences by perplexity
+    sent_scores.sort()
+
+    #keep the top 1/5th sentences with the lowest perplexities
+    sentences = sent_scores[1:int(len(sent_scores)/5)]
+
+    tfidf_dict = tfidf()
+
+    #to score each sentence, compute the TFIDF scores of each word in the sentence, sum up the scores, and divide by the number of words
+    #output the sentences with the highest scores
     
-    write_results(hypotheses)
-    """
-    #print "Testing completed"
+    for sent in sentences:
+        tfidf_score = 0.0
+        sent_words = sent.sentence.split()
+        for w in sent_words:
+            tfidf_score += float(tfidf_dict[w])
+
+        tfidf_score /= len(sent_words)
+        sent_scores.append(SentScore(sent, tfidf_score))
+    sent_scores.sort(reverse=True)
+
+    best_sentences = []
+    for i in range(min( len(sent_scores), 10)):
+        print sent_scores[i].sentence
+
