@@ -5,7 +5,6 @@ import string        #some string-related utilities
 import sys        #for command-line args
 import re    #for regular expressions
 import math
-import misc_func
 #Program is adapted from Prof. Reddy's Assignment 2 solution.
 
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
@@ -143,6 +142,9 @@ class SentScore:
         return not self.__eq__(other)
 
 if __name__=='__main__':
+    sentence_extraction()
+
+def sentence_extraction():
 
     #n-gram model parameters
     order = 3
