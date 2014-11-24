@@ -88,6 +88,16 @@ def tfidf_counts():
         documentCounts[word] = str(math.log(numberDocs/count))
     return documentCounts
 
+def tfidf():
+    tfidf_dict = defaultdict(float)
+    for line in open('./tfidf.txt'):
+        words = line.split('|')
+        try:
+            tfidf_dict[words[0]] = float(words[1].strip())
+        except:
+            continue
+    return tfidf_dict
+
 class WordFreq:
     def __init__(self, w, f):
         self.word = w
@@ -262,22 +272,64 @@ def separate_pos(pos_sequence):
 
     return pos_seq
 
+def overlap(pos_sequence):
+    #print pos_sequence
+    overlapping_pos_seq = []
+
+    unigram_pos_seq = []
+    for pos in pos_sequence:
+        for p in pos.split('_'):
+            unigram_pos_seq.append(p)
+
+    curr_pos_seq = ''
+    for i in range(len(unigram_pos_seq)):
+        if (i - 2) % 2 == 0 and i >= 2:
+            curr_pos_seq += unigram_pos_seq[i]
+            overlapping_pos_seq.append(curr_pos_seq)
+            curr_pos_seq = unigram_pos_seq[i] + '_'
+        elif i == len(unigram_pos_seq) - 1 and len(curr_pos_seq) != 0:
+            curr_pos_seq += unigram_pos_seq[i]
+            overlapping_pos_seq.append(curr_pos_seq)
+            continue
+        else:
+            curr_pos_seq += unigram_pos_seq[i] + '_'
+    #print overlapping_pos_seq
+    return overlapping_pos_seq
+
+
 #generates a single sentence based on part of speech sequence (pos_sequence), emission probabilities (posEmissions), and sentence_ids (id_dictionary)
 def generateSentence(pos_sequence, posEmissions, id_dictionary):
     sentence = ""
-    
+    #print posEmissions
+    #print pos_sequence
+    #print overlap(pos_sequence)
+    #print '------'
+    pos_sequence = overlap(pos_sequence)
+
+    first_pos = True
+
     for pos in pos_sequence:
         #generate a random number between 0 and 1, representing which trigram to select
         rand_num = random.random()
         
         #if pos is not in posEmissions, then pos is a bigram or unigram part-of-speech sequence
         if pos not in posEmissions:            
+            wordsToAdd = []
             if len(pos.split('_')) == 2:
                 for word in bgPosEmissions[pos][0].word.split('_'):
-                    sentence += word + ' '
+                    #sentence += word + ' '
+                    wordsToAdd.append(word)
 
             if len(pos.split('_')) == 1:
                 for word in uniPosEmissions[pos][0].word.split('_'):
+                    wordsToAdd.append(word)
+                    #sentence += word + ' '
+            if first_pos == True:
+                first_pos = False
+                for word in wordsToAdd:
+                    sentence += word + ' '
+            else:
+                for word in wordsToAdd[1:]:
                     sentence += word + ' '
             continue
 
@@ -285,6 +337,12 @@ def generateSentence(pos_sequence, posEmissions, id_dictionary):
             rand_num -= posEmissions[pos][i].freq
             if rand_num < 0:
                 words = posEmissions[pos][i].word.split("_")
+
+                if first_pos == True:
+                    first_pos = False
+                else:
+                    words = words[1:]
+
                 if words[0] == "<s>":
                     for y in range(1, len(words)):
                         sentence += words[y] + ' '
@@ -292,7 +350,9 @@ def generateSentence(pos_sequence, posEmissions, id_dictionary):
                     for y in range(0, len(words)):
                         sentence += words[y] + ' '
                 break
-            
+    
+    #print len(sentence.split())
+    #print '-------'
     return sentence
 
 #generates a single sentence based on part of speech sequence (pos_sequence), emission probabilities (posEmissions), and sentence_ids (id_dictionary)
@@ -426,18 +486,22 @@ if __name__=='__main__':
 
     #----------------
     #outputting sentences
+
+    tfidf_dict = tfidf()
+
     if int(sys.argv[2]) == trigram_level:
         for i in range(len(randomly_chosen_pos_sequences)):
+            #print 'heyo' + str(len(randomly_chosen_pos_sequences[i]))
             tri_pos_seq = trigramify_pos_seq(randomly_chosen_pos_sequences[i])
             randomly_chosen_pos_sequences[i] = tri_pos_seq
 
         for pos in randomly_chosen_pos_sequences:
-            for sent in sentence(sys.argv[1], tfidf_counts(), pos):
+            for sent in sentence(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
 
     elif int(sys.argv[2]) == bigram_level:
         for pos in randomly_chosen_pos_sequences:
-            for sent in sentenceBigrams(sys.argv[1], tfidf_counts(), pos):
+            for sent in sentenceBigrams(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
                 sys.exit()
 
