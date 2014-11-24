@@ -15,6 +15,7 @@ import sys        #for command-line args
 import re    #for regular expressions
 import os
 import math
+import ngram
 
 #Metadata of your program
 ___author__ = 'Sravana Reddy'
@@ -463,8 +464,13 @@ def trigramify_pos_seq(pos_seq):
 
 if __name__=='__main__':
 
-    trigram_level = 2
-    bigram_level = 3
+    word_selection_type = sys.argv[5]
+    pos_type = sys.argv[4]
+    review_type = sys.argv[3]
+
+    if int(review_type) == 0:
+        ngram.sentence_extraction()
+        sys.exit(0)
 
     #----------------
     #populate randomly_chosen_pos_sequences with part-of-speech sequences
@@ -489,7 +495,7 @@ if __name__=='__main__':
 
     tfidf_dict = tfidf()
 
-    if int(sys.argv[2]) == trigram_level:
+    if word_selection_type == 1:
         for i in range(len(randomly_chosen_pos_sequences)):
             #print 'heyo' + str(len(randomly_chosen_pos_sequences[i]))
             tri_pos_seq = trigramify_pos_seq(randomly_chosen_pos_sequences[i])
@@ -499,7 +505,7 @@ if __name__=='__main__':
             for sent in sentence(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
 
-    elif int(sys.argv[2]) == bigram_level:
+    elif word_selection_type == 0:
         for pos in randomly_chosen_pos_sequences:
             for sent in sentenceBigrams(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
