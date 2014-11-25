@@ -13,9 +13,9 @@ VBZ_JJ
 is_ok	1
 CD_CC
 4_&	1
-VBN_.
-discontinued_.	1
-revealed_.	1
+CC_RB
+but_not	1
+and_lastly	1
 VBN_,
 kidnapped_,	1
 JJ_CC
@@ -24,10 +24,12 @@ crazy_and	1
 CC_VBD
 and_kept	1
 and_was	1
+CD_,
+2_,	1
 CC_CD
 &_5	1
-CD_-RRB-
-2_-RRB-	1
+CD_.
+5_.	1
 WRB_VBN
 How_come	1
 PRP$_JJ
@@ -65,8 +67,6 @@ WP_VBZ
 who_does	1
 PRP_VBZ
 she_didnt	1
--RRB-_,
--RRB-_,	1
 NNP_CC
 Saturn_and	1
 POINT_and	1
@@ -74,6 +74,8 @@ RB_IN
 even_though	1
 DT_CD
 all_5	1
+JJ_VBZ
+chibi-usa_is	1
 NNP_,
 Uranus_,	1
 Neptune_,	1
@@ -101,8 +103,6 @@ ashame_these	1
 VBN_IN
 revealed_in	1
 voiced_by	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 seasons_.	1
 NNS_,
@@ -110,23 +110,16 @@ scouts_,	1
 returns_,	1
 VBD_JJ
 was_sad	1
-NNP_-LRB-
-Pluto_-LRB-	1
-Rini_-LRB-	1
 VBN_NN
 come_nobody	1
 dubbed_person	1
 ,_CC
 ,_and	2
--LRB-_RB
--LRB-_Already	1
 NN_NNS
 Kaorinite_returns	1
 sailor_scouts	1
 NN_WP
 person_who	1
-JJ_-RRB-
-chibi-usa_-RRB-	1
 RB_NNP
 lastly_Sailor	1
 PRP_MD
@@ -145,17 +138,15 @@ have_been	1
 are_revealed	1
 NNP_VBZ
 Saturn_makes	1
-CC_RB
-but_not	1
-and_lastly	1
+VBN_.
+discontinued_.	1
+revealed_.	1
 VBZ_NN
 didnt_return	1
 NN_NN
 snatcher_arc	1
 SuperS_series	1
 heart_snatcher	1
--LRB-_JJ
--LRB-_chibi-usa	1
 DT_NNS
 these_DVDs	1
 IN_NNP
@@ -173,6 +164,8 @@ the_english	1
 VBD_DT
 preferred_the	1
 reviewed_this	1
+NNP_JJ
+Rini_chibi-usa	1
 NN_,
 arc_,	1
 NN_.
@@ -186,6 +179,8 @@ fate_of	1
 end_of	1
 appearance_in	1
 favorite_out	1
+NNP_RB
+Pluto_Already	1
 NNP_VBP
 Pluto_are	1
 CC_DT
@@ -195,8 +190,6 @@ original_voiced	1
 NN_CC
 series_and	1
 S_&	1
-CD_.
-5_.	1
 NN_VBD
 nobody_reviewed	1
 story_was	1

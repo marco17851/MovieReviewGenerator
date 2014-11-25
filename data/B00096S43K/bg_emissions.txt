@@ -37,9 +37,10 @@ NNS_RB
 men_as	1
 scenes_not	1
 extras_too	1
+operas_then	1
 minutes_instead	1
-NNS_-LRB-
-telenovelas_-LRB-	1
+PRP$_IN
+its_on	1
 CC_JJ
 and_bittersweet	1
 and_white	1
@@ -69,8 +70,6 @@ name_a	1
 follow_the	1
 cut_the	1
 watch_a	1
-FW_PRP
-<br />_You	1
 RB_TO
 back_to	1
 there_to	1
@@ -105,8 +104,6 @@ DT_IN
 any_of	1
 all_in	1
 some_of	1
-PRP$_IN
-its_on	1
 PRP_IN
 it_for	1
 it_because	1
@@ -122,8 +119,6 @@ JJ_CC
 refreshing_and	1
 great_and	1
 black_and	1
-FW_CC
-<br />_But	1
 CD_,
 one_,	1
 CD_.
@@ -516,8 +511,6 @@ NNS_TO
 thanks_to	1
 CC_PRP$
 But_her	1
--LRB-_JJ
--LRB-_Spanish	1
 JJ_NNS
 beautiful_women	1
 important_parts	1
@@ -651,8 +644,6 @@ of_2004	1
 RB_VBG
 not_letting	1
 never_going	1
-FW_IN
-<br />_Although	1
 NNS_VBZ
 reviewers_states	1
 PRP_MD
@@ -702,8 +693,6 @@ like_telenovelas	1
 ban_cortados	1
 VBP_NNP
 love_Yadhira	1
-RP_IN
-down_at	1
 EX_VBP
 There_are	3
 there_are	1
@@ -714,11 +703,7 @@ are_some	2
 are_a	2
 love_the	2
 FW_NNP
-<br />_Barbara	1
-<br />_Rubi	1
 y_Los	1
-NNS_-RRB-
-operas_-RRB-	1
 NN_NN
 product_overall	1
 DVD_dose	1
@@ -730,7 +715,6 @@ se_le	1
 esta_entera	1
 La_novela	1
 entera_comienza	1
-<br />_<br />	7
 comienza_adelantada	1
 su_dinero	1
 adelantada_y	1
@@ -771,8 +755,6 @@ the_Dr.	1
 ,_Western	1
 ,_beautiful	2
 ,_other	1
--RRB-_RB
--RRB-_then	1
 DT_JJ
 the_important	1
 an_alternative	1
@@ -872,7 +854,6 @@ telenovelas_of	1
 cover_that	1
 fan_of	1
 episode_of	1
-<br />_If	1
 disappointment_in	1
 telenovela_from	1
 fun_with	1
@@ -990,6 +971,8 @@ I_really	3
 I_also	1
 DT_.
 all_.	1
+NNS_JJ
+telenovelas_Spanish	1
 RB_RB
 never_really	1
 far_behind	1
@@ -1019,11 +1002,10 @@ NNP_NNS
 Los_capitulos	1
 NNP_NNP
 Yadhira_Carillo	1
-Eduardo_Santamarina	1
-Babrabra_Mori	1
-Dr._Aleandro	1
 Barbara_Mori	2
-<br />_EDIT	1
+Dr._Aleandro	1
+Babrabra_Mori	1
+Eduardo_Santamarina	1
 RB_VBZ
 else_is	1
 finally_sees	1
@@ -1094,9 +1076,8 @@ n't_come	1
 also_had	1
 JJS_NN
 best_telenovelas	1
-FW_RB
-<br />_So	1
-<br />_However	1
+RP_IN
+down_at	1
 ,_IN
 ,_in	1
 ,_since	1

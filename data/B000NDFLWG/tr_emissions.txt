@@ -25,12 +25,6 @@ We_Trust_does	1
 NN_NN_MD
 movie_star_can	1
 timeshare_salesman_may	1
-FW_FW_NNP
-<br />_<br />_Again	1
-<br />_<br />_Overall	3
-<br />_<br />_Finance	1
-FW_FW_NNS
-<br />_<br />_Commercials	1
 NNS_IN_VBG
 consumers_by_lumping	1
 DT_WP_VBP
@@ -55,8 +49,6 @@ NN_RB_VBN
 film_barely_touched	1
 VBP_PRP_.
 love_it_!	1
-FW_EX_RB
-<br />_There_really	1
 VBD_DT_NN
 saw_this_DVD	1
 exposed_the_credit	1
@@ -182,8 +174,6 @@ of_currency_manipulation	1
 at_debt_education	1
 VBP_IN_PRP
 recommend_that_you	2
-FW_CC_WP
-<br />_And_what	1
 NN_,_PRP
 film_,_you	1
 end_,_I	1
@@ -272,8 +262,8 @@ the_working_class	1
 a_growing_light	1
 RB_VB_WDT
 n't_avoid_that	1
-VBD_RP_IN
-came_out_in	1
+VBD_PRP_.
+did_I_.	1
 VBP_TO_VB
 need_to_be	1
 want_to_help	1
@@ -306,8 +296,8 @@ I_am_pessimistic	1
 they_are_separate	1
 JJ_VBP_TO
 bankrupt_want_to	1
-VBN_IN_NNP
-initiated_by_President	1
+VB_RB_CD
+go_broke_??	1
 $_CD_IN
 $_16,000_in	1
 $_750_for	1
@@ -537,10 +527,8 @@ DT_TO_PRP$
 this_to_their	1
 DT_VBZ_NN
 that_means_merchant	1
-``_VB_''
-`_see_'	1
-CD_-RRB-_CC
-??_-RRB-_and	1
+VBP_VBN_DT
+have_gotten_a	1
 JJ_NN_NN
 first_credit_card	1
 greedy_credit_card	1
@@ -647,8 +635,9 @@ to_it_as	1
 to_me_because	1
 IN_PRP_JJ
 as_you_personal	1
-,_``_PRP
-,_``_We	1
+VBP_PRP_JJ
+find_it_dishonest	1
+are_they_responsible	1
 DT_JJ_VBG
 a_conservative_bashing	1
 RB_IN_PRP
@@ -743,8 +732,6 @@ PRP$_NNS_WRB
 my_30s_when	1
 RB_IN_JJ
 there_with_many	1
-FW_RB_NN
-<br />_Very_informative.A	1
 NN_,_``
 attack_,_``	1
 salesman_,_``	1
@@ -843,8 +830,8 @@ The_executives_were	1
 both_parties_argued	1
 DT_NNS_VBG
 those_scholars_being	1
-FW_IN_DT
-<br />_Toward_the	1
+VBD_RP_IN
+came_out_in	1
 JJ_,_IN
 honest_,_at	1
 DT_NN_``
@@ -885,8 +872,8 @@ one_good_scene	1
 2008_economic_melt-down	1
 VBP_NN_CC
 are_nothing_but	1
-VBP_VBN_DT
-have_gotten_a	1
+``_VB_''
+`_see_'	1
 PRP_RP_CC
 them_off_and	1
 NN_,_RB
@@ -927,6 +914,7 @@ return_,_the	1
 week_,_the	1
 film_,_the	1
 consumption_,_the	1
+crisis_,_the	1
 scene_,_the	1
 association_,_a	1
 NNS_CC_DT
@@ -934,6 +922,7 @@ consumers_and_the	1
 expenses_and_the	1
 means_and_an	1
 schools_and_all	1
+children_and_some	1
 VBG_NNS_IN
 rising_costs_of	1
 stagnating_incomes_while	1
@@ -958,16 +947,10 @@ is_a_perfect	1
 offers_some_good	1
 covers_the_predatory	1
 faces_a_daily	1
-VBG_JJR_NN
-wanting_more_information	1
-IN_NN_.
-in_debt_.	2
-by_EVERYONE_.	1
-for_nothing_?	1
-of_life_.	1
-of_bankruptcy_.	1
-in_advertising_.	1
-for_bad_.	1
+VBG_RB_IN
+renting_rather_than	1
+IN_IN_DT
+out_of_a	1
 IN_NN_,
 of_consumption_,	1
 of_healthcare_,	1
@@ -1012,7 +995,6 @@ NN_CC_JJ
 unemployment_and_medical	1
 lending_and_usurious	1
 debt_and_predatory	1
-<br />_And_last	1
 credit_and_national	1
 RB_WRB_PRP
 especially_how_we	1
@@ -1029,8 +1011,6 @@ out_roughly_at	1
 VBD_IN_PRP$
 joked_that_his	1
 was_in_my	1
-FW_NNS_VBP
-<br />_Commercials_have	1
 NNP_VBZ_DT
 This_is_a	1
 Trust_does_a	1
@@ -1064,12 +1044,16 @@ sailors_returning_from	1
 people_living_below	1
 VBZ_JJ_DT
 's_insane_these	1
-''_VB_,
-''_ignore_,	1
 VBP_,_WDT
 mean_,_that	1
-IN_IN_DT
-out_of_a	1
+IN_NN_.
+in_debt_.	2
+by_EVERYONE_.	1
+for_nothing_?	1
+of_life_.	1
+of_bankruptcy_.	1
+in_advertising_.	1
+for_bad_.	1
 CD_NNS_VBG
 nine_years_paying	1
 VB_WRB_JJ
@@ -1157,13 +1141,12 @@ what_the_program	1
 ,_there_is	1
 DT_JJ_WDT
 the_frivolous_that	1
-JJS_PRP_MD
-least_they_will	1
+VBG_JJ_VBG
+going_bankrupt_including	1
 VB_NNS_TO
 send_offers_to	1
-RB_VBG_IN
-repeatedly_saying_that	1
-Very_enlighteniing_on	1
+,_RB_DT
+,_still_another	1
 IN_TO_WRB
 as_to_how	1
 NNP_MD_VB
@@ -1212,8 +1195,6 @@ is_long_overdue	1
 is_as_informative	1
 hurts_so_many	1
 's_eerily_prophetic	1
-RB_,_PRP$
-ago_,_my	1
 VBG_$_CD
 paying_$_750	1
 VBN_DT_NN
@@ -1273,10 +1254,6 @@ WDT_VBP_``
 which_have_``	1
 VBN_NN_NNS
 inflated_interest_rates	1
-VBD_PRP_-RRB-
-did_I_-RRB-	1
-FW_VBG_IN
-<br />_Looking_at	1
 VBN_IN_IN
 gotten_out_of	1
 incurred_because_of	1
@@ -1318,10 +1295,6 @@ NNS_RB_CC
 minutes_ago_and	1
 NNS_CC_VB
 debts_and_change	1
-FW_FW_PRP
-<br />_<br />_I	3
-<br />_<br />_It	1
-<br />_<br />_He	1
 NN_WDT_MD
 debt_which_may	1
 DT_``_NN
@@ -1337,8 +1310,8 @@ you_realize_that	1
 I_recommend_that	1
 POS_CC_PRP$
 's_and_their	1
-VBP_RB_DT
-are_n't_the	1
+IN_NNPS_TO
+for_Americans_to	1
 IN_WRB_JJ
 of_how_corporate	1
 in_how_much	1
@@ -1383,6 +1356,7 @@ public_policy_must	1
 VB_JJ_IN
 be_aware_of	1
 PRP$_NNS_CC
+their_children_and	1
 our_means_and	1
 our_debts_and	1
 their_debts_and	1
@@ -1513,8 +1487,6 @@ DT_CD_NNS
 the_99_weeks	1
 IN_$_CD
 for_$_195	1
--LRB-_VBG_NN
--LRB-_including_actress	1
 TO_VB_,
 to_say_,	1
 IN_``_DT
@@ -1538,18 +1510,11 @@ and_awareness_are	1
 ``_the_left	1
 PRP_VBP_JJR
 you_do_more	1
-FW_PRP_VBZ
-<br />_It_covers	1
 WRB_``_JJ
 how_``_easy	1
-FW_PRP_VBP
-<br />_I_feel	1
 NN_IN_IN
 pay_for_whether	1
 mail_for_at	1
-FW_PRP_VBD
-<br />_He_smiled	1
-<br />_I_kept	1
 NNS_''_.
 rewards_''_.	1
 NN_NNS_CC
@@ -1578,6 +1543,8 @@ JJ_NN_VBN
 similar_documentary_titled	1
 VBZ_RP_VBG
 starts_out_talking	1
+VBG_,_``
+saying_,_``	1
 VB_PRP$_NNS
 decrease_our_debts	1
 RP_VBG_$
@@ -1613,14 +1580,11 @@ might_say_it	1
 'd_take_her	1
 should_watch_themselves	1
 NN_CC_PRP
-<br />_And_I	1
 melt-down_and_it	1
 way_but_it	1
 wife_and_I	1
 NNS_VBZ_RB
 goods_hurts_so	1
--LRB-_CD_JJ
--LRB-_One_young	1
 VB_NNS_DT
 hear_solutions_the	1
 NNS_IN_CC
@@ -1633,6 +1597,7 @@ the_number_one	1
 DT_NN_CC
 this_way_but	1
 a_budget_and	1
+the_economy_and	1
 the_dollar_and	1
 A_house_and	1
 the_consumer_and	1
@@ -1642,8 +1607,8 @@ VBD_TO_RB
 referred_to_above	1
 VB_VBN_JJ
 have_been_prescient	1
-NNP_NNP_VBD
-Rudy_Giuliani_said	1
+JJ_NN_VBP
+national_debt_are	1
 JJS_JJ_NN
 least_informative_documentary	1
 NNP_,_CC
@@ -1687,8 +1652,6 @@ NN_IN_JJR
 form_of_higher	1
 VBP_VBG_''
 are_skyrocketing_''	1
-FW_CC_DT
-<br />_And_another	1
 VB_DT_CD
 affect_any_one	1
 VB_JJ_NNS
@@ -1777,8 +1740,6 @@ n't_see_it	1
 n't_do_us	1
 however_show_you	1
 then_let_them	1
-VB_RB_CD
-go_broke_??	1
 IN_DT_NN
 at_the_end	2
 for_a_credit	1
@@ -1839,8 +1800,6 @@ as_an_advance	1
 on_the_development	1
 as_an_indictment	1
 because_the_material	1
--LRB-_RB_,
--LRB-_so_,	1
 VB_DT_JJR
 give_a_lower	1
 DT_MD_RB
@@ -1863,12 +1822,8 @@ one_of_those	1
 750_for_a	1
 PRP_VBZ_IN
 it_ends_with	1
-FW_FW_CC
-<br />_<br />_And	3
 NN_CD_DT
 card_:-RRB-_The	1
-NNP_NN_-RRB-
-NY_institution_-RRB-	1
 POS_VBP_PRP
 's_have_it	1
 VBG_DT_``
@@ -1984,8 +1939,6 @@ companies_galore_giving	1
 groups_are_becoming	1
 classes_are_drowning	1
 households_are_facing	1
-NN_VB_NNS
-<br />_Reward_cards	1
 NN_''_VBZ
 debt_'_is	1
 VBP_VBN_VBG
@@ -2033,7 +1986,6 @@ NN_''_IN
 color_''_in	1
 NNP_NNP_IN
 Lorraine_Bracco_of	1
-<br />_See_IN	1
 East_River_in	1
 TO_VB_RP
 to_pay_off	2
@@ -2064,23 +2016,19 @@ billion_dollars_in	1
 99_weeks_of	1
 CC_VB_PRP$
 and_change_our	1
-NN_NN_-LRB-
-credit_card_-LRB-	1
 VBP_VBN_RP
 are_rounded_off	1
 CC_VBG_PRP
 and_putting_them	1
 VBG_PRP$_NN
 working_their_way	1
-FW_FW_RB
-<br />_<br />_Very	1
-<br />_<br />_As	1
+VBP_VBN_RB
+have_gotten_there	1
+prefer_Maxed_Out	1
 VBP_NN_WDT
 are_something_that	1
 CC_DT_MD
 and_some_should	1
-FW_FW_``
-<br />_<br />_`	1
 VB_``_VBD
 have_``_had	1
 IN_WP_JJ
@@ -2099,9 +2047,6 @@ it_._''	1
 ``_Go_shopping	1
 NN_VBZ_JJ
 film_travels_much	1
-FW_FW_DT
-<br />_<br />_This	2
-<br />_<br />_The	3
 ,_NN_,
 ,_housing_,	1
 ,_education_,	1
@@ -2180,10 +2125,6 @@ IN_DT_WRB
 on_the_how	1
 RP_CC_VBG
 off_and_putting	1
-NN_-RRB-_,
-crisis_-RRB-_,	1
-NN_-RRB-_.
-institution_-RRB-_.	1
 VBP_JJR_IN
 do_more_about	1
 IN_WDT_PRP
@@ -2227,10 +2168,8 @@ IN_DT_IN
 Given_that_about	1
 RP_:_IN
 off_--_for	1
-NN_:_DT
-reflection_:_the	1
-debt_-_that	1
-title_;_the	1
+NNS_,_NNS
+kids_,_grand-kids	1
 VBP_VBN_NN
 have_inflated_interest	1
 have_filed_bankruptcy	1
@@ -2264,6 +2203,8 @@ than_it_helps	1
 So_it_'s	1
 that_it_pervades	1
 as_it_is	1
+JJS_PRP_MD
+least_they_will	1
 VBG_TO_NN
 committing_to_saving	1
 IN_PRP_VBP
@@ -2399,12 +2340,6 @@ one_contributors_to	1
 two_sides_to	1
 NN_NN_JJ
 consumer_information_such	1
-VBN_RP_DT
-rounded_off_an	1
-put_off_that	1
-FW_NNP_,
-<br />_Overall_,	3
-<br />_Again_,	1
 NN_VBP_CD
 debt_are_two	1
 RB_NN_JJ
@@ -2427,8 +2362,6 @@ of_us_allegedly	1
 VBZ_IN_NNS
 remains_on_someones	1
 continues_in_chapters	1
-PRP$_NNS_-LRB-
-their_children_-LRB-	1
 WDT_VBD_DT
 which_were_the	1
 DT_NNP_,
@@ -2439,16 +2372,12 @@ IN_IN_PRP
 for_whether_we	1
 RB_,_RB
 above_,_again	1
-FW_DT_NNS
-<br />_The_filmmakers	1
 NNP_IN_``
 Bracco_of_``	1
 ''_PRP_VBZ
 ''_it_was/is	1
-RB_RB_VBP
-as_well_have	1
-FW_FW_EX
-<br />_<br />_There	1
+RB_,_PRP$
+ago_,_my	1
 RB_JJ_IN
 As_recent_as	1
 as_informative_as	1
@@ -2517,8 +2446,8 @@ NNS_VBP_NNPS
 lenders_break_Americans	1
 NNP_IN_NNP
 River_in_NY	1
-VBG_,_``
-saying_,_``	1
+IN_NNP_TO
+in_Congress_to	1
 PRP_VBD_IN
 I_went_on	1
 I_was_in	1
@@ -2551,7 +2480,6 @@ VB_PRP_DT
 show_you_that	1
 send_them_any	1
 NNP_NNP_NNP
-<br />_<br />_See	1
 George_W._Bush	1
 POS_NNS_VBP
 's_leaders_have	1
@@ -2639,8 +2567,6 @@ them_in_debtors	1
 RB_JJ_NN
 already_weak_movie	1
 very_good_documentary	1
-FW_IN_NNP
-<br />_In_Debt	1
 DT_NNS_CC
 these_offers_or	1
 the_foreclosures_and	1
@@ -2662,6 +2588,8 @@ finance_very_clear	1
 NN_CC_WRB
 industry_and_how	1
 debt_and_how	1
+NN_RB_,
+card_so_,	1
 NN_RB_.
 part_here_.	1
 anyone_else_.	1
@@ -2691,7 +2619,6 @@ see_the_film	1
 acknowledge_the_responsibility	1
 live_this_way	1
 see_This_docu	1
-<br />_The_public	1
 make_any_sense	1
 recommend_this_documentary	1
 have_the_education	1
@@ -2709,8 +2636,6 @@ I_got_roped	1
 it_was_presented	1
 VB_JJ_CC
 use_subtle_and	1
--LRB-_DT_VBP
--LRB-_Some_are	1
 NNS_CC_JJ
 policies_and_financial	1
 companies_and_subprime	1
@@ -2739,8 +2664,6 @@ VB_VB_PRP$
 re_establish_your	1
 VBD_NN_NN
 got_junk_mail	1
--RRB-_CC_WRB
--RRB-_and_why	1
 RB_RB_VBG
 am_still_processing	1
 RB_RB_VBN
@@ -2803,8 +2726,6 @@ for_persons_to	1
 IN_VBG_DT
 by_lumping_both	1
 of_starting_a	1
-NNS_-LRB-_CC
-children_-LRB-_and	1
 TO_PRP$_NN
 to_our_society	1
 NNS_MD_RB
@@ -2897,10 +2818,11 @@ whole_economic_culture	1
 much_national_debt	1
 TO_DT_RB
 to_that_as	1
+NNS_VBD_IN
+companies_spent_over	1
+parties_argued_in	1
 VBN_NNS_IN
 given_loans_at	1
-FW_VB_,
-<br />_Spend_,	1
 RP_CD_NN
 out_one_loan	1
 NNS_,_IN
@@ -2917,9 +2839,6 @@ really_is_n't	1
 TO_VB_PRP
 to_help_you	1
 to_send_them	1
-VBP_VBN_RB
-have_gotten_there	1
-prefer_Maxed_Out	1
 VBD_VBN_DT
 had_spent_the	1
 POS_NN_.
@@ -2968,8 +2887,6 @@ NNP_,_PRP
 Overall_,_I	1
 :_IN_DT
 -_whether_those	1
-DT_NN_-RRB-
-the_crisis_-RRB-	1
 PRP$_JJ_JJ
 our_whole_economic	1
 TO_VB_PRP$
@@ -3047,8 +2964,6 @@ from_financial_hardship	1
 about_personal_credit	1
 CC_NN_RB
 and_time_again	1
-RB_CD_-RRB-
-broke_??_-RRB-	1
 CC_WRB_.
 and_why_.	1
 VBD_RB_VB
@@ -3114,8 +3029,8 @@ shopping_._''	1
 VBD_IN_CD
 was_over_two	1
 spent_over_2	1
-VBG_RB_IN
-renting_rather_than	1
+VBG_JJR_NN
+wanting_more_information	1
 PRP_RB_.
 it_alone_.	1
 ,_CC_RB
@@ -3158,8 +3073,9 @@ with_a_``	1
 in_the_``	1
 for_the_``	1
 of_the_``	1
-,_RB_DT
-,_still_another	1
+RB_VBG_IN
+repeatedly_saying_that	1
+Very_enlighteniing_on	1
 NN_NNS_TO
 credit_cards_to	2
 VBZ_JJ_CC
@@ -3193,8 +3109,8 @@ shown_to_use	1
 made_to_educate	1
 allowed_to_send	2
 changed_to_address	1
-FW_PRP_MD
-<br />_I_would	1
+RB_RB_VBP
+as_well_have	1
 TO_VB_NN
 to_put_someone	1
 to_spend_money	1
@@ -3210,8 +3126,6 @@ why_not_acknowledge	1
 ,_many_people	1
 IN_RBR_RB
 at_more_closely	1
-FW_FW_VBG
-<br />_<br />_Looking	1
 WDT_VBP_DT
 that_give_the	1
 NNS_WDT_MD
@@ -3294,8 +3208,6 @@ depressing_but_needs	1
 ``_nonpartisanship_,	1
 ``_NN_.
 ``_metaphor_.	1
-FW_FW_VB
-<br />_<br />_Spend	1
 CC_NNP_NNP
 and_Rudy_Giuliani	1
 PRP_IN_PRP
@@ -3322,8 +3234,6 @@ RB_VBN_IN
 just_gotten_out	1
 not_caused_by	1
 barely_touched_upon	1
-JJ_-LRB-_VBG
-bankrupt_-LRB-_including	1
 RB_PRP_VBP
 everywhere_you_go	1
 yet_they_do	1
@@ -3331,8 +3241,6 @@ VBD_DT_JJ
 were_the_real	1
 WRB_PRP_VBZ
 where_it_states	1
-DT_NN_-LRB-
-the_economy_-LRB-	1
 NNS_CC_VBG
 debts_and_becoming	1
 questions_and_wanting	1
@@ -3378,8 +3286,9 @@ pressing_and_making	1
 declining_and_stagnating	1
 ,_VBG_.
 ,_bursting_.	1
-IN_NNPS_TO
-for_Americans_to	1
+VBN_RP_DT
+rounded_off_an	1
+put_off_that	1
 NNS_VBP_NNS
 films_include_clips	1
 filmmakers_score_points	1
@@ -3407,10 +3316,8 @@ our_massive_borrowing	1
 JJ_,_PRP
 Ironic_,_I	1
 late_,_you	1
--RRB-_,_DT
--RRB-_,_the	1
-IN_NNP_TO
-in_Congress_to	1
+CD_CC_WRB
+??_and_why	1
 CC_VBD_PRP
 and_felt_it	1
 nor_did_I	1
@@ -3479,11 +3386,6 @@ DT_``_NNS
 these_``_rewards	1
 PRP$_VBG_NN
 our_purchasing_patterns.All	1
-FW_DT_NN
-<br />_This_film	1
-<br />_The_documentary	1
-<br />_The_film	1
-<br />_This_program	1
 RB_VBD_PRP
 just_saw_it	1
 PRP_$_CD
@@ -3504,8 +3406,6 @@ will_end_up	1
 will_pay_off	1
 PRP_VBN_RP
 it_set_up	1
-NN_-LRB-_RB
-card_-LRB-_so	1
 NNP_._''
 Finance_!_''	1
 MD_VB_RB
@@ -3516,8 +3416,6 @@ in_overcoming_our	1
 for_managing_their	1
 PRP_VBD_DT
 I_told_the	1
-FW_CC_NN
-<br />_And_credit	1
 VBP_VBG_VBG
 are_facing_declining	1
 ``_JJ_''
@@ -3615,8 +3513,6 @@ cards_to_young	1
 contributors_to_political	1
 VBD_NN_VBD
 declared_recession_was	1
-PRP_-RRB-_.
-I_-RRB-_.	1
 DT_VBZ_DT
 this_keeps_the	1
 this_is_a	1
@@ -3629,11 +3525,8 @@ address_personal_credit	1
 ignore_individual_responsibility	1
 make_significant_progress	1
 misappropriate_confidential_consumer	1
-FW_FW_IN
-<br />_<br />_Toward	1
-<br />_<br />_In	1
-NN_CD_NN
-<br />_I_hope	1
+RB_JJ_MD
+newly_bankrupt_should	1
 IN_WDT_DT
 in_which_a	1
 VBG_NN_NN
@@ -3708,8 +3601,6 @@ VBZ_PRP_VBZ
 is_it_starts	1
 RB_CC_RB
 ago_and_am	1
-RB_._-RRB-
-again_!_-RRB-	1
 CC_JJ_NNS
 and_financial_institutions	1
 and_structural_issues	1
@@ -3735,9 +3626,8 @@ IN_NNP_IN
 in_Norfolk_because	1
 VBN_IN_NNS
 wrapped_in_envelopes	1
--LRB-_CC_DT
--LRB-_and_the	1
--LRB-_and_some	1
+VBN_IN_NNP
+initiated_by_President	1
 NNS_IN_TO
 ideas_as_to	1
 VBP_RB_VBZ
@@ -3745,6 +3635,7 @@ come_up_is	1
 VBP_DT_VBG
 give_the_returning	1
 JJ_VBG_NN
+bankrupt_including_actress	1
 conservative_bashing_story	1
 VBP_RB_VBN
 buy_only_used	1
@@ -3798,9 +3689,8 @@ CD_:_PRP
 2006_;_it	1
 RB_JJ_VBP
 newly_bankrupt_want	1
-VBP_PRP_JJ
-find_it_dishonest	1
-are_they_responsible	1
+,_``_PRP
+,_``_We	1
 NN_TO_NNS
 credit_to_people	1
 danger_to_consumers	1
@@ -3814,8 +3704,8 @@ VBD_CC_IN
 covered_and_because	1
 MD_VB_PRP$
 may_endanger_our	1
-VBG_JJ_-LRB-
-going_bankrupt_-LRB-	1
+''_VB_,
+''_ignore_,	1
 RB_JJR_WRB
 even_worse_when	1
 IN_RB_VBG
@@ -3861,6 +3751,8 @@ the_hope_alive	1
 the_shrinking_middle	1
 CC_JJR_NNS
 and_lower_classes	1
+VBP_RB_DT
+are_n't_the	1
 WRB_TO_VB
 how_to_decrease	1
 DT_RB_VBG
@@ -3880,8 +3772,10 @@ NN_WDT_VBP
 something_that_need	1
 VB_''_NNS
 own_''_shops	2
-NNS_,_NNS
-kids_,_grand-kids	1
+NN_:_DT
+reflection_:_the	1
+debt_-_that	1
+title_;_the	1
 NNPS_POS_NN
 Americans_'_bankruptcy	1
 DT_NN_:
@@ -3898,6 +3792,8 @@ DT_NNS_PRP$
 the_problems_their	1
 WDT_VBZ_JJ
 that_puts_many	1
+RB_CD_CC
+broke_??_and	1
 DT_NN_,
 the_film_,	1
 the_meantime_,	1
@@ -3906,6 +3802,7 @@ this_film_,	1
 another_documentary_,	1
 the_director_,	1
 an_association_,	1
+the_crisis_,	1
 the_salesman_,	1
 some_point_,	1
 the_end_,	2
@@ -3942,8 +3839,6 @@ not_so_young	1
 not_even_sure	1
 WDT_PRP_VBP
 which_they_'re	1
-FW_RB_JJ
-<br />_As_recent	1
 ,_VBP_JJ
 ,_are_free	1
 NNP_NNP_VBZ
@@ -3971,8 +3866,8 @@ legal_loan-sharking_has	1
 NNS_CC_NN
 cards_and_lending	1
 places_and_credit	1
-JJ_NN_VBP
-national_debt_are	1
+NNP_NNP_VBD
+Rudy_Giuliani_said	1
 NN_CC_RB
 dollar_and_then	1
 debt_and_approximately	1
@@ -4021,9 +3916,10 @@ CC_VBD_TO
 but_needed_to	1
 NN_CC_DT
 house_and_a	1
-money_but_no	1
-nothing_but_a	1
 chance_and_these	1
+money_but_no	1
+economy_and_the	1
+nothing_but_a	1
 debt_and_the	1
 NNP_VBP_VBG
 Iraq_are_being	1
@@ -4133,8 +4029,6 @@ IN_``_PRP
 like_``_we	1
 RB_VBZ_PRP
 now_makes_it	1
-NN_WP_VBZ
-<br />_Who_is	1
 JJ_IN_PRP$
 critical_of_our	1
 VBG_NNPS_POS
@@ -4218,8 +4112,6 @@ POS_IN_PRP$
 's_with_their	1
 TO_VB_''
 to_own_''	2
-FW_``_IN
-<br />_`_In	1
 ,_RB_,
 ,_again_,	1
 ,_however_,	2
@@ -4245,9 +4137,8 @@ where_the_congregation	1
 how_the_finance	1
 how_this_issue	1
 how_the_debt	1
-NNS_VBD_IN
-companies_spent_over	1
-parties_argued_in	1
+NN_NN_RB
+credit_card_so	1
 NNS_VBP_RB
 issues_come_up	1
 cards_are_n't	1
@@ -4255,8 +4146,6 @@ CC_NNP_,
 and_A.R.M.s_,	1
 ,_JJ_CC
 ,_young_and	1
-RB_JJ_MD
-newly_bankrupt_should	1
 DT_,_CC
 that_,_but	1
 ,_RB_IN
@@ -4317,6 +4206,7 @@ NNS_PRP$_NNS
 problems_their_debts	1
 NNP_NN_.
 Finance_vacation_?	1
+NY_institution_.	1
 NNP_NN_,
 BIG_price_,	1
 ,_``_VB
@@ -4446,8 +4336,6 @@ PRP_DT_VBP
 we_all_face	1
 VBG_IN_PRP
 saying_that_it	1
-FW_NNP_NN
-<br />_Finance_vacation	1
 VBD_IN_DT
 gave_about_a	1
 went_on_a	1
@@ -4459,8 +4347,6 @@ RB_VBN_NNS
 only_used_models	1
 IN_NNS_VBP
 while_costs_are	1
-NN_-LRB-_CC
-economy_-LRB-_and	1
 NN_JJ_NNS
 vacation_several_years	1
 NN_CC_EX

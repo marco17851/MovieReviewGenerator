@@ -1,6 +1,3 @@
-NN_-LRB-
-uniform_-LRB-	1
-set_-LRB-	1
 IN_NN
 in_sickbay	1
 Like_DEATH	1
@@ -14,11 +11,6 @@ on_occasion	1
 PRP_RB
 She_playfully	1
 her_back	1
-LS_-RRB-
-1_-RRB-	1
-2_-RRB-	1
--LRB-_CD
--LRB-_one	1
 VB_WP
 cover_what	1
 VBN_VBN
@@ -40,6 +32,7 @@ MD_RB
 can_plainly	1
 NN_WDT
 uniform_that	1
+uniform_which	1
 RB_NNS
 visibly_upsets	1
 VB_DT
@@ -47,7 +40,6 @@ wear_the	1
 be_a	1
 resupply_the	1
 control_the	1
-<p>_The	1
 fit_a	1
 probe_the	1
 have_a	1
@@ -57,8 +49,6 @@ RB_TO
 back_to	1
 IN_VBG
 by_risking	1
-NN_-RRB-
-back_-RRB-	1
 ,_PRP
 ,_she	1
 ,_you	1
@@ -72,16 +62,14 @@ mission_to	1
 life_to	1
 ability_to	1
 device_to	1
--LRB-_NNP
--LRB-_Helen	1
--LRB-_Dr.	1
--LRB-_Mr.	1
-NNP_-RRB-
-Kirk_-RRB-	2
-Noel_-RRB-	2
-Spock_-RRB-	1
+LS_PRP
+2_It	1
+PRP_IN
+it_like	1
 VBN_.
 covered_.	1
+:_''
+:_''	1
 VBG_TO
 refreshing_to	1
 ,_PRP$
@@ -103,10 +91,10 @@ VB_TO
 want_to	1
 VBZ_CD
 is_one	2
+NNP_WP
+Noel_who	1
 NNS_WDT
 jumpsuits_that	1
--RRB-_PRP
--RRB-_It	1
 POS_NN
 's_chair	1
 's_director	1
@@ -114,7 +102,7 @@ POS_NN
 :_NNS
 ..._undies	1
 :_NNP
-:_<p>	1
+:_Kirk	1
 VBD_DT
 did_an	1
 PRP_VBD
@@ -206,11 +194,9 @@ fan_will	1
 PRP_VBZ
 It_looks	1
 she_proves	1
--RRB-_.
--RRB-_.	3
 NNP_CC
 Adams_and	1
-Spock_and	1
+Spock_and	2
 Cathy_and	1
 Kirk_and	1
 RB_VBZ
@@ -241,7 +227,6 @@ PRP_.
 her_.	1
 :_NN
 ..._ummmm	1
-:_<p>	1
 IN_PRP$
 during_their	2
 in_her	1
@@ -265,18 +250,16 @@ Gelder_,	1
 Second_,	1
 Adams_,	1
 Hill_,	1
-VBN_PRP
-brought_her	1
+LS_NNP
+1_Dr.	1
 NNP_.
-Kirk_.	1
+Kirk_.	3
 Noel_.	1
 Adams_.	1
 Gelder_.	1
 Trek_.	1
 ,_VBG
 ,_making	1
--LRB-_WDT
--LRB-_which	1
 IN_IN
 out_of	1
 While_on	1
@@ -287,6 +270,8 @@ her_life	1
 her_courage	1
 RP_TO
 up_to	1
+NNP_PRP
+Kirk_I	1
 JJ_RB
 charming_yet	1
 VB_IN
@@ -327,8 +312,6 @@ NNS_,
 years_,	1
 WDT_RB
 which_just	1
--RRB-_DT
--RRB-_a	1
 TO_DT
 to_the	3
 CC_IN
@@ -338,19 +321,16 @@ gave_Marianna	1
 JJ_:
 unpleasant_:	1
 superb_--	1
-NNS_:
-observations_:	1
-items_:	1
+VBP_JJ
+are_common	1
+are_several	1
+are_enough	1
 ,_VBZ
 ,_looks	1
-:_-LRB-
-:_-LRB-	1
 RB_NN
 not_swoon	1
-NNP_-LRB-
-Hill_-LRB-	1
-Kirk_-LRB-	1
-Nimoy_-LRB-	1
+NNS_TO
+things_to	1
 JJ_NNS
 few_scenes	1
 few_times	1
@@ -376,8 +356,8 @@ reshape_memories	1
 ,_but	1
 VB_NN
 convince_anyone	1
--RRB-_CC
--RRB-_and	1
+VB_NNP
+save_Captain	1
 NN_NNS
 wardrobe_items	1
 control_minds	1
@@ -389,6 +369,7 @@ NNS_NNP
 upsets_Kirk	1
 films_Helen	1
 NN_NNP
+set_Dr.	1
 sister_Cathy	1
 psychiatrist_Dr.	1
 psychologist_Dr.	1
@@ -401,6 +382,8 @@ my_observations	1
 PRP_MD
 they_could	1
 you_can	1
+:_LS
+:_1	1
 VBG_NNP
 making_Kirk	1
 IN_RB
@@ -410,10 +393,9 @@ PRP_WRB
 it_when	1
 :_DT
 --_a	1
-VBP_JJ
-are_common	1
-are_several	1
-are_enough	1
+NNS_:
+observations_:	1
+items_:	1
 VBP_PRP
 wish_they	1
 love_it	1
@@ -438,8 +420,6 @@ CC_NN
 and_company	1
 and_control	1
 and_suspense	1
-PRP_IN
-it_like	1
 ,_DT
 ,_this	1
 ,_a	1
@@ -462,10 +442,6 @@ POS_VBZ
 NN_VB
 mind_meld	1
 staff_wear	1
--LRB-_PRP
--LRB-_I	1
-NNS_TO
-things_to	1
 JJ_TO
 enough_to	1
 VBN_NNP
@@ -492,7 +468,6 @@ century_dentist	1
 A_couple	1
 transporter_room	1
 rehabilitation_colony	1
-<p>_A	1
 ``_IN
 ``_Like	1
 POS_JJ
@@ -547,7 +522,6 @@ WP$_NN
 whose_mind	1
 JJ_JJ
 first_few	1
-<p>_Great	1
 blue_mini-skirted	1
 NN_:
 episode_:	1
@@ -569,7 +543,7 @@ NN_.
 occasion_.	1
 DEATH_!	1
 neutralizer_.	1
-back_.	1
+back_.	2
 colony_.	2
 sun_.	1
 action_.	1
@@ -580,8 +554,6 @@ device_.	1
 time_.	1
 mind_.	1
 fan_.	1
--RRB-_NNP
--RRB-_Dr.	1
 NN_IN
 surface_of	1
 search_of	1
@@ -607,9 +579,6 @@ director_of	1
 description_of	2
 anyone_that	1
 woman_on	1
--LRB-_LS
--LRB-_2	1
--LRB-_1	1
 NNP_RB
 Kirk_visibly	1
 Helen_playfully	1
@@ -672,6 +641,8 @@ RB_RB
 n't_quite	1
 ,_WP
 ,_who	1
+JJ_CD
+uncomfortable_one	1
 NN_VBP
 company_are	1
 sickbay_are	1
@@ -682,11 +653,10 @@ Helen_'s	1
 DT_JJR
 the_better	4
 NN_RB
-man_nearly	1
-bit_too	2
-<p>_Highly	1
-woman_actually	1
 size_too	1
+woman_actually	1
+bit_too	2
+man_nearly	1
 female_actually	1
 JJ_IN
 small_for	1
@@ -694,35 +664,27 @@ teriffic_in	1
 few_of	1
 common_throughout	1
 short_in	2
--RRB-_WP
--RRB-_who	1
 NNS_JJ
 things_unpleasant	1
 IN_EX
 While_there	1
-VB_NNP
-save_Captain	1
 VBZ_DT
 is_a	3
 plays_the	1
 gives_a	1
 steals_the	1
 gets_the	2
-JJ_-LRB-
-uncomfortable_-LRB-	1
 VBZ_NNP
 plays_Enterprise	2
 NNP_NNP
 Tristan_Adams	1
-<p>_Kirk	1
 Neural_Neutralizer	2
 Van_Gelder	6
-<br />_Van	1
 Star_Trek	3
 Helen_Noel	4
+Hill_Helen	1
 Captain_Kirk	2
 Tantalus_V	1
-<p>_The	1
 The_Neural	1
 Simon_Van	3
 Dr._Simon	3
@@ -734,11 +696,11 @@ Morgan_Woodward	3
 Classic_Trek	1
 James_Gregory	1
 Vulcan_Mind	1
+Nimoy_Mr.	1
 Dr._Tristan	1
 Dr._Adams	2
 Marianna_Hill	3
 Mr._Spock	1
-<p>_Morgan	1
 VBZ_NNS
 contains_moments	1
 DT_JJS
@@ -771,11 +733,12 @@ NNP_VBD
 Woodward_did	1
 NN_''
 make_''	1
-<p>_''	2
 Mind_''	2
 VBG_DT
 holding_a	1
 using_a	1
+NNP_DT
+Noel_a	1
 RB_VBD
 Highly_recommended	1
 JJS_NN
@@ -800,6 +763,8 @@ and_gaps	1
 NNP_''
 Trek_''	1
 Mind_''	1
+VBN_PRP
+brought_her	1
 VBZ_TO
 happens_to	1
 seems_to	1

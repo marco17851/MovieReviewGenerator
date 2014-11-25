@@ -22,7 +22,6 @@ Me_parece_que	1
 :_,_NN
 -_,_son	1
 FW_FW_NNP
-<br />_<br />_Si	1
 su_etapa_Soda	1
 declarado_de_Soda	1
 FW_FW_NNS
@@ -34,8 +33,8 @@ FW_''_.
 Luz_''_?	1
 JJ_NN_,
 exclusivamente_vocal_,	1
-''_,_FW
-''_,_etc.	1
+FW_FW_``
+vestuario_de_`	1
 CC_JJS_:
 &_iquest_;	1
 FW_NN_VBD
@@ -75,8 +74,8 @@ venta_,_no	1
 ;_..._``	1
 NN_VBD_PRP
 material_audiovisual_me	1
-,_FW_-RRB-
-,_etc._-RRB-	1
+FW_DT_NN
+va_a_cualquier	1
 NNP_''_NN
 Carne_''_son	1
 FW_FW_DT
@@ -124,6 +123,7 @@ IN_NN_NN
 de_ser_suprema	1
 FW_,_FW
 pasado_,_es	1
+etc._,_sobre	1
 NNS_FW_FW
 cuestionables_las_elegidas	1
 NNP_''_FW
@@ -140,17 +140,16 @@ NNP_FW_FW
 El_formato_de	1
 Si_bien_las	1
 NN_:_FW
-embargo_..._<br />	1
+embargo_..._Siempre	1
 ntilde_;_os	1
 :_FW_FW
-..._<br />_<br />	1
+..._Siempre_me	1
 -_sobre_todo	1
 ;_os_Luz	1
 FW_FW_FW
 a_la_venta	1
 me_ha_parecido	1
 caso_de_Cerati	1
-<br />_<br />_Siempre	1
 un_signo_de	1
 la_experiencia_de	1
 diera_toda_la	1
@@ -158,7 +157,6 @@ de_Cerati_fue	1
 ha_parecido_que	1
 de_estar_en	1
 su_llamativo_vestuario	1
-<br />_Siempre_me	1
 perfectas_para_la	1
 de_cualquier_artista	1
 parece_que_el	1
@@ -211,16 +209,12 @@ o_de_querer	1
 engrandece_el_sonido	1
 son_mas_que	1
 fan_declarado_de	1
-NNS_-LRB-_``
-canciones_-LRB-_``	1
 VBP_DT_JJ
 que_le_significan	1
 ''_NNP_NNP
 ''_?!_Evidentemente	1
 FW_FW_''
 os_Luz_''	1
-FW_-RRB-_,
-etc._-RRB-_,	1
 NN_IN_NN
 deja_de_ser	1
 FW_FW_.
@@ -254,6 +248,8 @@ a_comprar_el	1
 ''_y_``	1
 NNP_NN_NNS
 Evidentemente_son_canciones	1
+JJ_NNS_``
+reversionar_canciones_``	1
 JJ_NN_NN
 introspectiva_o_concentrada	1
 NN_:_NN
@@ -280,8 +276,6 @@ FW_JJ_NNS
 de_reversionar_canciones	1
 NN_NNS_,
 sus_fans_,	1
-FW_DT_NN
-va_a_cualquier	1
 FW_NNP_NNP
 de_Soda_Stereo	1
 ,_DT_FW
@@ -290,10 +284,10 @@ FW_,_JJ
 interpretacion_,_exclusivamente	1
 NNS_,_FW
 fans_,_pero	1
+,_FW_,
+,_etc._,	1
 NNS_VBP_DT
 canciones_que_le	1
-JJ_NNS_-LRB-
-reversionar_canciones_-LRB-	1
 :_CC_JJS
 ;_&_iquest	1
 :_``_FW
@@ -306,18 +300,18 @@ iexcl_;_&	1
 '_logra_que	1
 :_``_NNP
 ;_``_El	1
-FW_FW_``
-vestuario_de_`	1
+''_,_FW
+''_,_etc.	1
 NN_''_,
 acusticamente_''_,	1
 sinfonicamente_''_,	1
 ``_NN_''
 ``_acusticamente_''	1
 ``_sinfonicamente_''	1
+NNS_``_NN
+canciones_``_sinfonicamente	1
 JJ_NNP_NNP
 comprar_el_CD	1
-FW_NNP_FW
-<br />_Si_bien	1
 ``_FW_FW
 ``_Un_Millon	1
 NN_NNS_VBP
@@ -332,8 +326,6 @@ no_le_va	1
 ,_``_A	1
 NN_,_JJ
 suprema_,_introspectiva	1
--RRB-_,_FW
--RRB-_,_sobre	1
 DT_JJ_NN
 le_significan_tanto	1
 a_nosotros_sus	1
@@ -354,8 +346,6 @@ A_&_ntilde	1
 ,_no_deja	1
 JJ_NN_DT
 significan_tanto_a	1
--LRB-_``_NN
--LRB-_``_sinfonicamente	1
 FW_NN_DT
 tratamiento_sinfonico_no	1
 :_NN_FW

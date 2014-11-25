@@ -14,18 +14,6 @@ VBD_PRP_RP
 turned_it_down	1
 JJ_IN_NNP
 small_for_Dolores	1
-NNP_NNP_-LRB-
-D._Eisenhower_-LRB-	1
-F._Kennedy_-LRB-	1
-S._Truman_-LRB-	1
-R._Ford_-LRB-	1
-Jimmy_Carter_-LRB-	1
-Ronald_Reagan_-LRB-	1
-M._Nixon_-LRB-	1
-Walker_Bush_-LRB-	1
-B._Johnson_-LRB-	1
-Bill_Clinton_-LRB-	1
-D._Roosevelt_-LRB-	1
 VBG_JJ_.
 being_devisive_.	1
 PRP_RP_IN
@@ -57,9 +45,6 @@ age_of_102	1
 television_for_46	1
 age_of_100	1
 age_of_93	1
-FW_FW_NNP
-<br />_<br />_Bob	1
-<br />_<br />_Franklin	1
 VBN_IN_NN
 delivered_on_time	1
 been_on_broadcast	1
@@ -80,19 +65,6 @@ PRP_VBD_NNP
 He_outlived_George	1
 TO_VB_.
 to_watch_.	1
--RRB-_,_NNP
--RRB-_,_George	1
--RRB-_,_Jimmy	1
--RRB-_,_Bill	1
--RRB-_,_Gerald	1
--RRB-_,_John	1
--RRB-_,_Ronald	1
--RRB-_,_Richard	1
--RRB-_,_Lyndon	1
--RRB-_,_Dwight	1
--RRB-_,_Harry	1
-FW_FW_PRP$
-<br />_<br />_Their	1
 DT_VBZ_NNP
 This_is_Bob	1
 IN_CD_NNS
@@ -112,6 +84,18 @@ buff_so_this	1
 appearance_at_the	1
 NN_,_DT
 perspective_,_this	1
+NNP_NNP_CD
+R._Ford_1974-77	1
+Bill_Clinton_1993-2001	1
+Walker_Bush_1989-93	1
+B._Johnson_1963-69	1
+F._Kennedy_1961-63	1
+Ronald_Reagan_1981-89	1
+Jimmy_Carter_1977-81	1
+M._Nixon_1969-74	1
+D._Eisenhower_1953-61	1
+S._Truman_1945-53	1
+D._Roosevelt_1933-45	1
 JJ_NN_,
 historical_perspective_,	1
 JJ_NN_.
@@ -124,8 +108,6 @@ VB_DT_JJ
 be_a_good	1
 NNPS_NNP_NNP
 States_Bob_Hope	1
-RB_JJ_IN
-too_small_for	1
 CD_,_CD
 23_,_1996	1
 19_,_2011	1
@@ -191,6 +173,17 @@ IN_NN_CC
 on_time_and	1
 IN_NN_IN
 through_time_of	1
+CD_,_NNP
+1989-93_,_Bill	1
+1961-63_,_Lyndon	1
+1963-69_,_Richard	1
+1945-53_,_Dwight	1
+1953-61_,_John	1
+1969-74_,_Gerald	1
+1974-77_,_Jimmy	1
+1933-45_,_Harry	1
+1977-81_,_Ronald	1
+1981-89_,_George	1
 WP_VBD_NNP
 who_died_March	1
 NNP_NNP_VBD
@@ -205,10 +198,20 @@ without_being_devisive	1
 NN_VBD_VBN
 DVD_was_delivered	1
 NNP_CD_,
-July_27_,	1
-November_23_,	1
+Ford_1974-77_,	1
+Nixon_1969-74_,	1
+Eisenhower_1953-61_,	1
 March_9_,	1
+Bush_1989-93_,	1
+Reagan_1981-89_,	1
+November_23_,	1
 September_19_,	1
+Johnson_1963-69_,	1
+Roosevelt_1933-45_,	1
+Truman_1945-53_,	1
+Kennedy_1961-63_,	1
+July_27_,	1
+Carter_1977-81_,	1
 NNP_CC_NNP
 Hope_and_Betty	1
 IN_PRP$_JJ
@@ -222,29 +225,27 @@ and_Betty_Ford	1
 PRP_,_PRP
 it_,_she	1
 NNP_NNP_NNP
-President_Gerald_Ford	1
-<br />_Bob_Hope	2
-Former_President_Gerald	1
-Richard_M._Nixon	1
-Franklin_D._Roosevelt	2
+Lady_Betty_Ford	1
+President_George_Bush	1
 Harry_S._Truman	1
 Lady_Barbara_Bush	1
-Lady_Betty_Ford	1
 George_Herbert_Walker	1
-Gerald_R._Ford	1
-First_Lady_Barbara	1
-President_Ronald_Reagan	1
-<br />_Johnny_Carson	1
-President_George_Bush	1
-John_F._Kennedy	1
-John_Davidson_Show	1
-Dwight_D._Eisenhower	1
-Herbert_Walker_Bush	1
-Former_President_George	1
 Former_First_Lady	2
+Herbert_Walker_Bush	1
+Former_President_Gerald	1
+President_Gerald_Ford	1
 Lyndon_B._Johnson	1
+John_F._Kennedy	1
 First_Lady_Betty	1
+John_Davidson_Show	1
+President_Ronald_Reagan	1
 President_Bill_Clinton	1
+Gerald_R._Ford	1
+Richard_M._Nixon	1
+Former_President_George	1
+Dwight_D._Eisenhower	1
+Franklin_D._Roosevelt	2
+First_Lady_Barbara	1
 DT_NN_VBZ
 this_DVD_is	1
 PRP$_JJ_NN
@@ -280,12 +281,8 @@ had_been_on	1
 ,_this_would	1
 ,_PRP_VBZ
 ,_she_is	1
-NN_NNP_NNP
-<br />_Lucille_Ball	1
 CC_IN_NN
 but_of_course	1
-NN_JJ_CC
-<br />_Nervous_and	1
 CC_PRP_VBD
 and_she_loved	1
 NNP_NNP_MD
@@ -322,6 +319,9 @@ NN_IN_IN
 company_with_as	1
 NN_IN_PDT
 time_of_all	1
+,_CD_IN
+,_2011_at	1
+,_1996_at	1
 DT_VBD_RB
 this_was_really	1
 NN_,_PRP
@@ -370,8 +370,6 @@ JJ_IN_VBG
 funny_without_being	1
 PRP_VBP_PRP
 they_take_you	1
-VB_PRP_MD
-<br />_You_will	1
 IN_NNP_.
 for_Dolores_.	1
 with_NBC_.	1
@@ -379,6 +377,8 @@ WRB_JJ_NN
 how_political_humor	1
 NN_NNP_VBD
 course_Bob_turned	1
+IN_:_NNP
+of_:_Lucille	1
 IN_NNS_:
 for_generations_-	1
 IN_DT_NNP
@@ -423,25 +423,16 @@ the_company_with	1
 a_contract_with	1
 NN_TO_NNP
 insight_to_Bob	1
-CD_-RRB-_,
-1977-81_-RRB-_,	1
-1989-93_-RRB-_,	1
-1961-63_-RRB-_,	1
-1933-45_-RRB-_,	1
-1945-53_-RRB-_,	1
-1953-61_-RRB-_,	1
-1974-77_-RRB-_,	1
-1981-89_-RRB-_,	1
-1963-69_-RRB-_,	1
-1969-74_-RRB-_,	1
-CD_-RRB-_.
-1993-2001_-RRB-_.	1
+RB_JJ_IN
+too_small_for	1
 NNP_,_VBD
 Dolores_,_passed	1
 IN_NNP_CD
 on_November_23	1
 PRP$_JJ_NNS
 his_personal_relationships	1
+NNP_CD_.
+Clinton_1993-2001_.	1
 RB_NN_TO
 really_fun_to	1
 IN_NNP_,
@@ -454,27 +445,10 @@ POS_NN_NN
 ,_1996_.	1
 NN_CC_PRP
 daughter_and_she	1
-FW_PRP$_VBP
-<br />_Their_are	1
 NNP_NNP_WP
 George_Burns_who	1
-NNP_-LRB-_CD
-Truman_-LRB-_1945-53	1
-Reagan_-LRB-_1981-89	1
-Carter_-LRB-_1977-81	1
-Nixon_-LRB-_1969-74	1
-Roosevelt_-LRB-_1933-45	1
-Eisenhower_-LRB-_1953-61	1
-Clinton_-LRB-_1993-2001	1
-Kennedy_-LRB-_1961-63	1
-Johnson_-LRB-_1963-69	1
-Ford_-LRB-_1974-77	1
-Bush_-LRB-_1989-93	1
 VBN_IN_DT
 been_in_the	1
-FW_NNP_NNP
-<br />_Bob_Hope	1
-<br />_Franklin_D.	1
 IN_PRP_RB
 because_he_already	1
 NNPS_NN_IN
@@ -522,29 +496,14 @@ CC_CD_NNS
 +_48_days	1
 NN_IN_NNP
 contract_with_NBC	1
-<br />_With_Tony	1
 satire_with_Bob	1
 broadcast_on_November	1
 JJ_NNP_JJ
 final_NBC_Special	1
 JJ_NNP_NNP
 former_President_Ronald	1
--LRB-_CD_-RRB-
--LRB-_1933-45_-RRB-	1
--LRB-_1969-74_-RRB-	1
--LRB-_1977-81_-RRB-	1
--LRB-_1981-89_-RRB-	1
--LRB-_1953-61_-RRB-	1
--LRB-_1961-63_-RRB-	1
--LRB-_1963-69_-RRB-	1
--LRB-_1989-93_-RRB-	1
--LRB-_1945-53_-RRB-	1
--LRB-_1993-2001_-RRB-	1
--LRB-_1974-77_-RRB-	1
 NNP_CC_PRP$
 Hope_and_his	1
-IN_:_NN
-of_:_<br />	1
 VBD_PRP_,
 loved_it_,	1
 RP_IN_PRP
@@ -571,8 +530,6 @@ Ann-Margret_,_President	1
 Ford_,_Former	1
 Bush_,_Former	1
 Reagan_,_Tom	1
-:_NN_NNP
-:_<br />_Lucille	1
 NNP_VBD_PRP
 Bob_turned_it	1
 VBZ_VBN_CD
@@ -623,6 +580,5 @@ VBN_CD_NNP
 entertained_11_Presidents	1
 VBD_RP_NNP
 passed_away_September	1
-,_CD_IN
-,_2011_at	1
-,_1996_at	1
+:_NNP_NNP
+:_Lucille_Ball	1

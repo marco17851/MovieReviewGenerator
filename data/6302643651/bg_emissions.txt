@@ -17,12 +17,15 @@ DT_RB
 a_very	1
 NNP_IN
 Amazon_in	1
+Europe_as	1
 Jesus_of	2
 Lawgiver_for	1
 Moses_from	1
 God_at	1
 Backed_by	1
 Lancaster_as	2
+America_with	1
+Exodus_although	1
 NNS_RB
 70s_usually	1
 POS_NNS
@@ -48,8 +51,8 @@ order_the	1
 FW_FW
 BETTER_!!!!	1
 MUCH_BETTER	1
-NN_-RRB-
-audio_-RRB-	1
+PRP_``
+I_`	1
 IN_``
 as_``	1
 of_``	1
@@ -65,11 +68,6 @@ CD_CC
 NN_TO
 player_to	1
 court_to	1
--LRB-_NNP
--LRB-_Central	1
--LRB-_Irene	1
--LRB-_Europe	1
--LRB-_US	1
 PRP_IN
 it_in	2
 NNS_DT
@@ -110,6 +108,8 @@ so_I	1
 ''_.	1
 VBZ_CD
 tells_one	1
+''_,
+''_,	1
 VBZ_CC
 plays_both	1
 POS_,
@@ -136,6 +136,10 @@ Ten_Commandments	2
 6_hours	1
 ten_plagues	1
 141_minutes	1
+CD_NNP
+4_Central	1
+1_US	1
+2_Europe	1
 PRP_VBG
 I_playing	1
 ``_RB
@@ -225,17 +229,13 @@ IN_JJ
 on_American	1
 DT_RBS
 the_most	1
--RRB-_.
--RRB-_.	2
--RRB-_!	1
 NNP_CC
 Europe_but	1
 US_and	1
+Canada_and	1
 Central_and	1
 NNP_CD
 Regions_1	1
-VB_,
-watch_,	1
 WP_MD
 who_would	1
 JJ_,
@@ -301,9 +301,10 @@ one_devoid	1
 NNP_.
 Europe_.	1
 Nazareth_.	1
-America_.	1
+America_.	2
 Aaron_.	1
 Moses_.	1
+Papas_.	1
 Amazon.com_.	1
 Israel_.	1
 CC_VBZ
@@ -330,8 +331,6 @@ and_ordered	1
 ,_``	1
 NNP_:
 Moses_:	1
-VBP_VBN
-have_seen	1
 ,_''
 ,_''	1
 JJ_.
@@ -344,8 +343,6 @@ NN_DT
 witness_the	1
 RB_,
 However_,	1
-''_-RRB-
-''_-RRB-	1
 VBN_IN
 broadcast_under	1
 edited_in	1
@@ -367,8 +364,6 @@ NNS_,
 movies_,	1
 miniseries_,	3
 plagues_,	1
-PRP_``
-I_`	1
 NN_CD
 Region_1	1
 Region_2	1
@@ -385,10 +380,6 @@ full_300	1
 original_300	1
 VBZ_,
 is_,	1
-CD_-LRB-
-2_-LRB-	1
-4_-LRB-	1
-1_-LRB-	1
 RB_NN
 then_witness	1
 NNS_TO
@@ -496,18 +487,11 @@ PRP_MD
 I_would	1
 I_could	1
 It_must	1
-NNP_-RRB-
-Canada_-RRB-	1
-Papas_-RRB-	1
-America_-RRB-	1
-Europe_-RRB-	1
 ,_DT
 ,_this	2
 ,_the	2
-NNP_-LRB-
-America_-LRB-	1
-Zipporah_-LRB-	1
-Exodus_-LRB-	1
+VBP_VBN
+have_seen	1
 NNP_VBZ
 Sea_does	1
 NNS_VBD
@@ -524,8 +508,8 @@ remember_watching	1
 JJ_TO
 willing_to	1
 painful_to	1
--RRB-_,
--RRB-_,	1
+VB_,
+watch_,	1
 EX_VBZ
 there_is	1
 VBP_DT
@@ -543,7 +527,6 @@ PAL_format	1
 player_u	1
 minute_original	1
 dvd_player	3
-<p>_A	1
 NNP_''
 Moses_''	1
 Nazareth_''	1
@@ -584,8 +567,6 @@ the_Red	1
 ''_as	1
 ,_JJ
 ,_uncut	1
--RRB-_IN
--RRB-_as	1
 WP_PRP
 What_we	1
 What_you	1
@@ -645,6 +626,7 @@ NN_.
 original_.	1
 audio_.	1
 respect_.	1
+audio_!	1
 way_.	1
 genre_.	1
 format_.	1
@@ -752,9 +734,6 @@ NN_VBP
 acting_are	1
 ``_DT
 ``_The	1
--LRB-_IN
--LRB-_although	1
--LRB-_with	1
 JJ_FW
 glad_i	1
 NNP_POS
@@ -777,8 +756,6 @@ this_.	1
 that_.	1
 IN_EX
 that_there	1
--RRB-_CC
--RRB-_and	1
 NN_JJ
 A_great	1
 VBZ_DT
@@ -798,10 +775,10 @@ NNP_NNS
 Europe_movies	1
 CBS_miniseries	1
 NNP_NNP
-Anthony_Quale	1
 Red_Sea	1
 Burt_Lancaster	2
 Vincenzo_Labella	1
+Zipporah_Irene	1
 AND_IT	1
 South_America	1
 Irene_Papas	1
@@ -810,7 +787,7 @@ Ennio_Morricone	1
 The_Lawgiver	1
 Franco_Zeffirelli	1
 Cecil_DeMille	1
-<p>_Backed	1
+Anthony_Quale	1
 VBZ_NNS
 Moses_returns	1
 RB_VBZ

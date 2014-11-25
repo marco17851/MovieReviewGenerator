@@ -13,8 +13,8 @@ WP_VBD_DT
 who_drove_the	1
 JJ_IN_NNP
 worn_as_Roger	1
-IN_DT_JJS
-for_the_most	1
+NN_IN_CC
+idea_in_either	1
 ,_RB_NN
 ,_not_brawn	1
 PRP$_NNS_,
@@ -27,14 +27,8 @@ NNS_CC_NNS
 cows_and_ewes	1
 RP_TO_VB
 in_to_help	1
--RRB-_,_RB
--RRB-_,_equally	1
 NN_IN_JJ
 sheep_onto_prime	1
--LRB-_NNP_NN
--LRB-_Academy_Award	1
-FW_FW_NNP
-<br />_<br />_Flynn	1
 VBN_IN_NN
 prejudiced_against_mutton	1
 JJ_CD_CC
@@ -58,8 +52,6 @@ VBZ_RP_RB
 shows_up_early	1
 JJ_,_PRP
 bizarre_,_we	1
--RRB-_,_DT
--RSB-_,_a	1
 JJS_NN_DT
 most_part_the	1
 :_RB_JJ
@@ -67,8 +59,8 @@ most_part_the	1
 ..._so_predictable	1
 CC_DT_NNS
 and_the_men	1
-NN_IN_CC
-idea_in_either	1
+IN_DT_JJS
+for_the_most	1
 NN_VBD_CD
 year_was_1950	1
 JJ_WRB_NNP
@@ -122,14 +114,10 @@ NNS_NN_IN
 cattle_country_in	1
 NNP_VBG_DT
 Flynn_strumming_a	1
-NN_PDT_DT
-<br />_all_the	1
 NNP_CC_NNP
 Smith_and_Douglas	1
 Chase_and_Charles	1
 Ford_and_Shirley	1
-,_DT_NN
-,_the_year	1
 DT_PRP_VBZ
 All_he_wants	1
 JJ_TO_VB
@@ -142,8 +130,10 @@ who_enjoy_music	1
 CC_RB_RB
 and_then_just	1
 And_not_just	1
-CD_CC_CD
-two_or_three	1
+JJ_CC_JJ
+easy_or_pleasant	1
+corrupted_and_drunk	1
+tired_and_worn	1
 VBP_RB_VB
 do_n't_stink	1
 NN_,_PRP
@@ -164,21 +154,14 @@ of_jokes_.	1
 ``_Cuddles_''	1
 VB_JJ_:
 keep_alive_...	1
-NNP_-RRB-_,
-Kennedy_-RRB-_,	1
-</a>_-RSB-_,	1
 NNP_NNP_WDT
 Errol_Flynn_that	1
 VB_VBN_DT
 have_needed_a	1
 RB_DT_VBZ
 Perhaps_that_'s	1
-JJ_NN_-RRB-
-GOOD_EARTH_-RRB-	1
 MD_VB_RP
 will_find_out	1
-NNP_-LRB-_DT
-Buttolph_-LRB-_THE	1
 PRP_VBD_PRP
 I_met_her	1
 PRP_VBZ_IN
@@ -231,8 +214,6 @@ IN_PRP$_NNS
 with_his_fists	1
 RB_VBN_NN
 yet_fallen_victim	1
-FW_IN_DT
-<br />_For_those	1
 VBG_PRP_.
 following_him_.	1
 WP_VBZ_PRP
@@ -248,19 +229,17 @@ JJR_IN_NNP
 better_than_<a href="http://www.amazon.com/gp/product/B000WZQHAK">	1
 NN_NN_NN
 empire_building_era	1
+NN_NNS_VBD
+HORSE_SOLDIERS_provided	1
 ,_DT_JJ
 ,_this_shtick-carrying	1
 ,_the_sneaky	1
 ,_a_great	1
 ,_a_sly	1
-FW_NNP_VBZ
-<br />_Flynn_smiles	1
 PRP_VBP_JJ
 you_'re_interested	1
 RB_IN_DT
 early_in_the	1
--RRB-_VBD_DT
--RRB-_provided_the	1
 NN_MD_VB
 stampede_will_take	1
 NNP_IN_NNP
@@ -270,10 +249,6 @@ CD_,_NNP
 IN_NNS_NNS
 by_cattle_ranchers	1
 with_cattle_ranchers	1
-FW_DT_JJ
-<br />_This_routine	1
-''_:_FW
-''_..._<br />	1
 VBD_NN_:
 was_king_...	1
 VB_PRP$_,
@@ -305,19 +280,22 @@ JJ_IN_NN
 good_as_sheepherder	1
 RB_IN_PRP
 ever_since_I	1
-FW_FW_IN
-<br />_<br />_For	1
-<br />_<br />_If	1
 VBZ_VBG_TO
 's_trying_to	1
-FW_IN_PRP
-<br />_If_you	1
 NNP_NNP_NNS
 Alexis_Smith_co-stars	1
 NNP_NNP_NNP
-<a href="http://www.amazon.com/gp/product/B000WZQHAK">_The_Sheepman	1
-Old_Dan_Tucker	1
+Ackroyd_Douglas_Kennedy	1
+Singleton_Alexis_Smith	1
 James_R._Webb	1
+Lane_Errol_Flynn	1
+Rod_Ackroyd_Douglas	1
+Maria_Singleton_Alexis	1
+Morgan_Lane_Errol	1
+Old_Dan_Tucker	1
+The_Sheepman_Stranger	1
+Karl_Freund_Academy	1
+<a href="http://www.amazon.com/gp/product/B000WZQHAK">_The_Sheepman	1
 VB_RB_JJ
 stink_as_much	1
 be_entirely_convincing	1
@@ -394,7 +372,6 @@ so_predictable_,	1
 PRP_PRP_VBP
 her_I_'m	1
 DT_NN_NN
-the_saddle_<br />	1
 the_empire_building	1
 the_colour_Cinematography	1
 the_punch_line	1
@@ -405,7 +382,7 @@ controlled_by_cattle	1
 VB_PRP$_NN
 recapture_their_glory	1
 NN_``_FW
-<br />_`_Skidoodle	1
+saddle_`_Skidoodle	1
 CC_CD_IN
 and_one_of	1
 FW_FW_FW
@@ -423,8 +400,8 @@ his_age_.	1
 their_sheep_.	1
 NNPS_VBD_NNP
 Fifties_saw_Flynn	1
-NN_NNS_-RRB-
-HORSE_SOLDIERS_-RRB-	1
+VBN_IN_JJ
+sung_by_rough	1
 CC_JJ_,
 and_drunk_,	1
 JJ_NN_NN
@@ -464,10 +441,10 @@ his_last_Western	1
 ,_1953_,	1
 VB_JJ_CC
 be_easy_or	1
-NN_-RRB-_-LRB-
-Gun_-RRB-_-LSB-	1
 :_PRP_VBD
 ..._they_had	1
+NNS_VBD_DT
+SOLDIERS_provided_the	1
 RB_VBN_,
 enough_made_,	1
 VBP_DT_NN
@@ -494,8 +471,6 @@ Texas_made_the	1
 IN_PRP$_NN
 as_their_sheep	1
 of_his_death	1
-NNS_-RRB-_VBD
-SOLDIERS_-RRB-_provided	1
 ,_NNS_MD
 ,_men_will	1
 NN_:_CC
@@ -517,8 +492,6 @@ day_._''	1
 `_Skidoodle_diddle	1
 WRB_NNP_NNP
 when_Morgan_Lane	1
-FW_POS_NN
-daddle_'_<br />	1
 NN_,_VBN
 movie_,_released	1
 DT_NN_TO
@@ -623,6 +596,8 @@ NN_WDT_VBD
 era_that_was	1
 NNP_NNP_,
 ROCKY_MOUNTAIN_,	1
+Douglas_Kennedy_,	1
+Australia_</a>_,	1
 NON-USA_FORMAT_,	1
 R._Webb_,	1
 PRP_VBZ_VBG
@@ -641,6 +616,8 @@ Montana_Territory_.	1
 Douglas_Kennedy_.	1
 NNP_``_NNP
 Z._``_Cuddles	1
+POS_PDT_DT
+'_all_the	1
 VBZ_PRP$_NN
 looks_his_age	1
 NN_TO_NN
@@ -652,10 +629,14 @@ JJ_JJ_JJ
 little_known_Civil	1
 ,_NNP_CD
 ,_Reg_.0	1
+NNP_VBZ_RB
+Smith_is_not	1
 NNP_NNP_VBZ
+Alexis_Smith_is	1
 MONTANA_Flynn_is	1
 Raoul_Walsh_is	1
 Roger_Livesey_looks	1
+Errol_Flynn_shows	1
 IN_DT_NN
 In_The_Master	1
 in_the_movie	1
@@ -669,13 +650,14 @@ into_the_foray	1
 of_the_empire	1
 in_this_section	1
 NNP_,_DT
+</a>_,_a	1
 Sakoll_,_this	1
-POS_NN_PDT
-'_<br />_all	1
 VB_NN_CC
 take_place_and	1
 JJ_NN_VBZ
 routine_oater_is	1
+NNP_VBZ_RP
+Flynn_shows_up	1
 ,_NNP_VBZ
 ,_Flynn_looks	1
 NNP_NNP_VBG
@@ -691,24 +673,18 @@ CD_,_VBD
 50_,_was	1
 NN_CC_RB
 movie_and_then	1
-<br />_And_ever	1
 IN_TO_VB
 about_to_let	1
 IN_PRP$_JJ
 of_my_favorite	1
-NNP_NNP_-LRB-
-David_Buttolph_-LRB-	1
-Rod_Ackroyd_-LRB-	1
-Maria_Singleton_-LRB-	1
-Morgan_Lane_-LRB-	1
-The_Sheepman_-LRB-	1
-Karl_Freund_-LRB-	1
 NNP_NNP_:
 Montana_Territory_...	1
 NNS_WP_VBD
 men_who_drove	1
 NNS_,_RB
 brains_,_not	1
+:_``_PRP
+..._``_I	1
 PRP_VBD_TO
 they_had_to	1
 VBG_TO_VB
@@ -718,6 +694,7 @@ looking_to_recapture	1
 CC_NN_CC
 and_sheep_and	1
 NN_NNP_NNP
+Gun_NON-USA_FORMAT	1
 Composer_David_Buttolph	1
 point_Raoul_Walsh	1
 queen_Maria_Singleton	1
@@ -726,8 +703,8 @@ EX_VBP_DT
 there_are_some	1
 IN_DT_WP
 For_those_who	3
-NNP_''_NNP
-Cuddles_''_Sakoll	1
+NNP_NNP_DT
+David_Buttolph_THE	1
 JJS_DT_NNS
 least_some_sheepmen	1
 VBZ_PRP_VBG
@@ -738,16 +715,18 @@ JJ_NNP_MD
 sneaky_Ackroyd_will	1
 VBN_RP_TO
 stepped_in_to	1
+NNP_DT_NN
+Buttolph_THE_HORSE	1
 RB_VBP_NNP
 even_have_Errol	1
--LRB-_NNP_IN
--LRB-_Stranger_with	1
 VBD_JJ_IN
 was_prevalent_in	1
 JJ_JJ_NN
 known_Civil_War	1
 RP_IN_NN
 up_on_horseback	1
+NNP_''_NNP
+Cuddles_''_Sakoll	1
 ``_PRP_VBD
 ``_I_met	1
 NNS_VBG_NNP
@@ -797,8 +776,6 @@ It_'s_not	1
 JJ_CC_DT
 usual_but_the	1
 alcoholic_and_the	1
--LRB-_DT_NN
--LRB-_THE_HORSE	1
 RB_IN_NNP
 up_from_Texas	1
 NNS_MD_VB
@@ -809,6 +786,8 @@ PRP_VBP_NNP
 we_hear_Celito	1
 DT_NNS_VBP
 some_sheepmen_do	1
+NNP_,_RB
+Kennedy_,_equally	1
 VBP_NNP_NNP
 enjoy_S._Z.	1
 have_Errol_Flynn	1
@@ -828,14 +807,14 @@ PRP_VBP_DT
 I_'m_a	1
 NNP_NNP_``
 S._Z._``	1
-DT_NN_-RRB-
-a_Gun_-RRB-	1
 VBD_VBG_TO
 was_looking_to	1
 NN_TO_VB
 chance_to_prove	1
 TO_VB_PRP$
 to_recapture_their	1
+DT_NN_``
+the_saddle_`	1
 WDT_VBD_JJ
 that_was_prevalent	1
 PRP$_NNS_VBD
@@ -851,6 +830,8 @@ someone_who_makes	1
 '_in_the	1
 VBP_DT_NNS
 are_some_scenes	1
+FW_POS_PDT
+daddle_'_all	1
 DT_JJ_NN
 a_little_juice	1
 THE_GOOD_EARTH	1
@@ -893,6 +874,7 @@ is_the_colour	1
 has_a_feel	1
 NNP_NNP_IN
 Warner_Bros._that	1
+Sheepman_Stranger_with	1
 WRB_EX_VBP
 why_there_are	1
 VBD_PRP_PRP
@@ -936,8 +918,6 @@ VBZ_IN_VBG
 smiles_while_singing	1
 VBZ_NNS_NN
 invades_cattle_country	1
-FW_FW_``
-<br />_<br />_``	1
 DT_,_CC
 this_,_but	1
 CC_JJ_WRB
@@ -948,6 +928,7 @@ to_do_this	1
 ,_RB_IN
 ,_sometimes_with	2
 JJ_NN_.
+GOOD_EARTH_.	1
 close_harmony_.	1
 CD_NNS_.
 three_years_.	1
@@ -970,6 +951,7 @@ not_about_to	1
 DT_NN_NNS
 THE_HORSE_SOLDIERS	1
 DT_NN_NNP
+a_Gun_NON-USA	1
 some_point_Raoul	1
 VBG_JJR_NN
 using_more_charm	1
@@ -983,17 +965,10 @@ CC_NNP_MD
 and_Maria_will	1
 TO_VB_VBN
 to_have_stepped	1
-FW_FW_DT
-<br />_<br />_This	1
-IN_NN_,
-against_mutton_,	1
-with_humor_,	1
-FW_``_PRP
-<br />_``_I	1
+WP_VBZ_NNS
+who_invades_cattle	1
 DT_JJS_NN
 the_most_part	1
-NN_NN_``
-saddle_<br />_`	1
 ,_NNP_,
 ,_PAL_,	1
 NN_CC_NNP
@@ -1003,10 +978,10 @@ NN_CC_NNS
 charm_and_brains	1
 VBZ_JJ_CC
 looks_corrupted_and	1
+NNP_NNP_NN
+Freund_Academy_Award	1
 PRP$_JJ_NN
 His_last_movie	1
--RRB-_-LRB-_NNP
--RRB-_-LSB-_NON-USA	1
 ,_PRP_VBP
 ,_we_hear	1
 ,_PRP_VBZ
@@ -1019,10 +994,8 @@ PRP_VB_DT
 me_feel_that	1
 DT_NNS_WP
 the_men_who	1
-JJ_CC_JJ
-easy_or_pleasant	1
-corrupted_and_drunk	1
-tired_and_worn	1
+CD_CC_CD
+two_or_three	1
 NNP_:_NNS
 Territory_..._1879	1
 DT_JJ_JJ
@@ -1036,16 +1009,6 @@ NN_POS_NN
 stinkin_'_sheep	1
 VBN_TO_VB
 said_to_have	1
-NNP_NNP_-RRB-
-Australia_</a>_-RSB-	1
-Errol_Flynn_-RRB-	1
-Alexis_Smith_-RRB-	1
-Douglas_Kennedy_-RRB-	1
--LRB-_NNP_NNP
--LSB-_NON-USA_FORMAT	1
--LRB-_Douglas_Kennedy	1
--LRB-_Alexis_Smith	1
--LRB-_Errol_Flynn	1
 ``_NNP_NNP
 ``_Montana_Territory	1
 VBD_JJ_NNS
@@ -1054,25 +1017,18 @@ DT_NN_WP
 a_sheepman_who	1
 NN_IN_RB
 foray_of_very	1
-NNP_-RRB-_VBZ
-Flynn_-RRB-_shows	1
-Smith_-RRB-_is	1
 NN_VBZ_PRP
 movie_shows_him	1
 VBD_VBG_NN
 was_wearing_make-up	1
 VBP_IN_NN
 'm_in_Love	1
-:_FW_FW
-..._<br />_<br />	1
 EX_VBZ_RB
 there_'s_not	1
 WDT_VBP_DT
 that_have_a	1
 RP_RB_IN
 up_early_in	1
-NN_-RRB-_.
-EARTH_-RRB-_.	1
 NNP_POS_JJ
 Flynn_'s_last	1
 ,_RB_JJ
@@ -1101,8 +1057,8 @@ CD_IN_PRP$
 one_of_my	1
 IN_DT_NNS
 during_the_40s	1
-VBN_IN_JJ
-sung_by_rough	1
+''_:_``
+''_..._``	1
 NNP_VBZ_VBN
 Walsh_is_said	1
 IN_NNS_CC
@@ -1135,8 +1091,9 @@ CC_PRP_MD
 but_he_must	1
 NNS_,_NNS
 fists_,_men	1
-WP_VBZ_NNS
-who_invades_cattle	1
+IN_NN_,
+against_mutton_,	1
+with_humor_,	1
 NN_CC_VBP
 sheep_and_share	1
 IN_NN_''
@@ -1164,14 +1121,10 @@ RB_JJ_NNS
 very_big_Westerns	1
 NN_''_:
 Love_''_...	1
--RRB-_VBZ_RB
--RRB-_is_not	1
 IN_CC_DT
 in_either_the	1
 RB_JJR_IN
 much_better_than	1
--RRB-_VBZ_RP
--RRB-_shows_up	1
 VBD_IN_DT
 warbled_around_a	1
 DT_,_RB
@@ -1199,12 +1152,8 @@ die_,_the	1
 NN_CC_NN
 booze_and_gravity	1
 guitar_and_singing	1
-NNP_-LRB-_NNP
-Sheepman_-LRB-_Stranger	1
-Ackroyd_-LRB-_Douglas	1
-Lane_-LRB-_Errol	1
-Freund_-LRB-_Academy	1
-Singleton_-LRB-_Alexis	1
+,_DT_NN
+,_the_year	1
 RB_VBN_IN
 equally_prejudiced_against	1
 RB_IN_PRP$

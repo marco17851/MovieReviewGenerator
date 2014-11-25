@@ -16,8 +16,6 @@ DT_VBZ_RB
 this_is_even	1
 CC_CD_NNS
 and_two_customers	1
-NNP_NNP_TO
-<br />_Stick_to	1
 NNS_CC_VBP
 demonstrators_and_are	1
 NN_NN_MD
@@ -208,8 +206,6 @@ TO_NN_NN
 to_saltwater_fishing	1
 RB_VBP_TO
 always_try_to	1
-CC_JJ_NNS
-or_early_eighties	1
 VBP_NN_IN
 buy_anything_on	1
 NNS_,_FW
@@ -239,8 +235,6 @@ CD_VBZ_PRP
 Two_introduces_you	1
 VBP_TO_VB
 try_to_get	1
-NNP_VB_PRP$
-GUIDE_<br />_Its	1
 TO_JJ_NN
 to_net_bait	1
 TO_NN_CC
@@ -257,6 +251,10 @@ saltwater_fishing_video	1
 fishing_rod_technique	1
 CC_VBD_DT
 and_found_a	1
+NNP_NN_JJ
+Larry_haircut_constant	1
+NN_JJ_NN
+haircut_constant_drivel	1
 RB_,_DT
 perhaps_,_the	1
 ,_CC_JJ
@@ -334,7 +332,6 @@ IT_A_GUIDE	1
 ANYONE_CALL_IT	1
 DARE_ANYONE_CALL	1
 CALL_IT_A	1
-<p>_Part_One	1
 HOW_DARE_ANYONE	1
 NN_IN_TO
 anesthetic_than_to	1
@@ -390,14 +387,11 @@ could_have_ever	1
 VBZ_PRP$_NN
 is_my_opinion	1
 VB_PRP_RB
-<br />_I_still	1
 take_you_through	1
 RB_JJ_CC
 so_negative_but	1
 TO_DT_NN
 to_this_video	1
-VB_PRP$_RB
-<br />_Its_just	1
 PRP_MD_RB
 you_will_rarely	1
 I_could_not	1
@@ -409,10 +403,12 @@ CC_NN_VBP
 and_shadow_prevent	1
 PRP$_NN_,
 her_fish_,	1
+POS_NNP_NNP
+'s_Jed_Clampett	1
 VBG_DT_JJ
 complementing_each_other	1
-VB_WP_VBP
-<br />_what_have	1
+CC_JJ_NNS
+or_early_eighties	1
 DT_NN_NN
 no_bait_discussion	1
 a_business_person	1
@@ -430,6 +426,8 @@ could_discern_and	1
 JJ_NNS_CC
 late_seventies_or	1
 fellow_fishermen_and	1
+NNP_PRP$_RB
+GUIDE_Its_just	1
 VBN_DT_VBZ
 floored_this_is	1
 VB_PRP$_NN
@@ -496,8 +494,6 @@ like_a_refund	1
 see_the_cover	1
 enjoy_this_video	1
 send_this_back	1
-<br />_This_video	1
-<p>_The_quality	1
 Forget_any_hope	1
 PRP_VBD_VBG
 I_was_looking	1
@@ -593,9 +589,6 @@ RB_VB_RP
 not_shut_up	1
 PRP$_JJ_IN
 her_stereotypical_if	1
-VBG_IN_DT
-looking_for_some	1
-happening_in_the	1
 VBG_DT_NN
 fishing_a_pass	1
 identifying_the_fish	1
@@ -603,8 +596,6 @@ IN_PRP_.
 from_him_.	1
 IN_PRP_,
 with_them_,	1
-VB_RB_PRP
-<br />_unfortunatly_I	1
 TO_VB_RP
 to_make_out	1
 VB_IN_DT
@@ -625,8 +616,6 @@ have_ever_imagined	1
 NNP_VBZ_DT
 Jim_imparts_no	1
 One_finds_the	1
-NN_-RRB-_JJ
-haircut_-RRB-_constant	1
 DT_NN_VB
 the_dentist_perform	1
 PRP$_JJ_CC
@@ -713,6 +702,8 @@ guide_to_saltwater	1
 way_to_fish	1
 JJ_RB_CC
 competent_enough_and	1
+NNP_NNP_PRP$
+A_GUIDE_Its	1
 VB_CD_NNS
 be_1000_times	1
 PRP_IN_PRP$
@@ -751,10 +742,6 @@ JJ_NN_PRP
 relavent_information_you	1
 informative_video_I	1
 last_week_I	1
-NNP_POS_-LRB-
-Jim_'s_-LRB-	1
-NNP_NNP_VB
-A_GUIDE_<br />	1
 NN_NN_VBG
 tv_screen_trying	1
 NN_NN_CC
@@ -764,8 +751,9 @@ NNP_CC_NNP
 Jim_and_Howard	1
 IN_TO_VB
 than_to_see	1
-NN_NN_CD
-<p>_Part_Two	1
+VBG_IN_DT
+looking_for_some	1
+happening_in_the	1
 NN_POS_VBG
 guide_'s_opening	1
 NNP_NNP_:
@@ -786,8 +774,6 @@ WP_VBD_VBG
 what_was_happening	1
 VBP_VB_WP
 dont_know_what	1
-NNP_NN_-RRB-
-Larry_haircut_-RRB-	1
 IN_RB_RB
 on_far_too	1
 WP_VBZ_NN
@@ -805,10 +791,9 @@ videos_for_anyone	1
 NNP_TO_DT
 Stick_to_the	1
 NN_PRP_MD
-information_you_would	1
 video_I_could	1
 one_I_would	1
-<p>_I_would	1
+information_you_would	1
 WP_VBP_PRP
 what_have_I	1
 VB_NNS_IN
@@ -894,6 +879,7 @@ NN_TO_JJ
 duty_to_fellow	1
 NNP_POS_NNP
 Stooge_'s_Larry	1
+Jim_'s_Jed	1
 NN_:_.
 way_..._.	1
 CC_MD_RB
@@ -975,12 +961,6 @@ a_real_stretch	1
 any_useful_information	1
 a_trolled_net	1
 a_weak_fishing	1
-NN_RB_RB
-<br />_once_again	1
-POS_-LRB-_NNP
-'s_-LRB-_Jed	1
--RRB-_JJ_NN
--RRB-_constant_drivel	1
 IN_RB_JJ
 if_not_insulting	1
 TO_VB_RB
@@ -1151,8 +1131,6 @@ JJ_CC_JJ
 insulting_and_sterotypical	1
 CC_IN_PRP
 and_for_you	1
-VB_PRP_MD
-<br />_I_would	1
 DT_JJ_JJ
 the_only_useful	1
 some_good_educational	1
@@ -1166,8 +1144,6 @@ CD_NN_NN
 52-53_minute_video	1
 VBZ_JJ_.
 is_poor_.	1
--LRB-_NNP_NNP
--LRB-_Jed_Clampett	1
 ``_NNP_NNP
 ``_Lady_Angler	1
 VBG_VBN_.

@@ -37,7 +37,6 @@ VBN_VBG
 been_looking	1
 FW_DT
 e.g._the	1
-<br />_This	1
 TO_WRB
 to_WHEN	1
 to_when	1
@@ -113,11 +112,6 @@ who_does	1
 who_plays	2
 who_'s	2
 who_has	1
--RRB-_,
--RRB-_,	6
--RRB-_.
--RRB-_.	10
--RRB-_?	1
 NNP_CC
 Jr._or	1
 Prince_and	2
@@ -127,12 +121,12 @@ Lowery_and	1
 Freddy_and	1
 Crystal_and	1
 Claire_and	1
-Forlani_and	1
+Forlani_and	2
 Spanisn_or	1
 Jennifer_and	1
 Jennifer_&	1
 Ryan_&	1
-Ryan_and	4
+Ryan_and	5
 Jr_and	1
 Berkeley_and	1
 Jr._and	1
@@ -143,10 +137,6 @@ WP_MD
 what_can	1
 What_can	1
 what_should	1
-VB_-LRB-
-be_-LRB-	1
--RRB-_:
--RRB-_:	1
 RBS_JJ
 most_unsettling	1
 VB_WDT
@@ -177,9 +167,6 @@ if_his	1
 NNS_''
 Girlfriends_''	1
 Girls_''	2
--LRB-_VBG
--LRB-_including	1
--LRB-_suggesting	1
 ``_VBG
 ``_making	1
 NN_VB
@@ -222,6 +209,7 @@ end_up	1
 happen_by	1
 wait_for	1
 JJ_PRP
+reasonable_it	1
 aware_he	1
 astounded_me	1
 ,_''
@@ -248,10 +236,6 @@ fun_the	1
 way_the	1
 fact_the	1
 movie_each	1
-PDT_DT
-all_this	1
-all_the	2
-All_the	1
 WDT_RB
 that_so	1
 TO_DT
@@ -272,9 +256,10 @@ have_many	1
 have_strange	1
 :_PRP$
 -_his	1
--LRB-_RB
--LRB-_not	2
--LRB-_well	1
+VB_NNP
+find_Claire	1
+think_Jennifer	1
+watch_Freddie	1
 NNS_NNP
 years_Ryan	1
 writers_Andrew	1
@@ -376,8 +361,10 @@ NNS_JJ
 feelings_warm	1
 MD_IN
 could_with	1
--LRB-_DT
--LRB-_this	1
+NNP_''
+Sally_''	1
+DT_PRP
+any_I	1
 DT_NNS
 the_supermodels	1
 both_favorites	1
@@ -528,6 +515,7 @@ name_but	1
 male_and	1
 name_and	1
 meeting_and	1
+break-up_and	1
 guy_and	1
 peak_and	1
 laugh_and	1
@@ -546,8 +534,6 @@ the_worst	1
 the_best	1
 MD_TO
 ought_to	1
--RRB-_WP
--RRB-_who	1
 NN_JJ
 material_watchable	1
 hotshot_high	1
@@ -562,41 +548,40 @@ NNP_NNS
 Secret_models	1
 WHMS_connections	1
 NNP_NNP
-<p>_This	1
-Freddie_Prince	2
 Victoria_Secret	1
-<br />_Prinze	1
-<br />_Providing	1
+Forlani_Jennifer	1
+Freddie_Prince	2
 Jane_Austen	1
 Met_Sally	2
 John_Hughes	2
 New_York	1
+Prinze_Ryan	1
 Harry_Met	2
 Robert_Isgrove	1
 Los_Angeles	1
+Hunter_Jason	1
 Claire_Forlani	13
 Bruno_Kirby	1
+Ryan_Freddie	1
 Andrew_Miller	1
 Prinze_Jr	1
 Eric_Rohmer	1
 Freddie_Prinz	1
-<br />_Incidently	1
 Meet_Sally	1
 Freddie_Prinze	8
 Golden_Gate	1
 Freddy_Prinze	1
 Does_Ryan	1
+Jennifer_Claire	1
 Carrie_Fisher	1
 Meg_Ryan	3
 Jason_Biggs	8
 American_Pie	1
-<p>_Claire	1
 Harry_Meet	1
 Prinze_Jr.	3
 Chris_Klein	1
 Andrew_Lowery	1
 Gate_Bridge	1
-<p>_Jennifer	1
 Prince_Jr	1
 Clarie_Forlani	1
 :_RB
@@ -609,8 +594,11 @@ better_.	1
 more_.	1
 JJR_,
 older_,	1
-DT_PRP
-any_I	1
+VB_TO
+relate_to	1
+expect_to	1
+have_to	2
+want_to	2
 VBN_TO
 brought_to	1
 addicted_to	1
@@ -691,11 +679,6 @@ WDT_JJ
 What_astounded	1
 VB_WP
 relieve_what	1
--LRB-_CC
--LRB-_or	1
-NNS_-LRB-
-characters_-LRB-	2
-plots_-LRB-	1
 RB_,
 forward_,	1
 accidentally_,	1
@@ -714,7 +697,7 @@ Well_,	1
 RB_.
 alone_.	1
 here_.	2
-together_.	3
+together_.	4
 there_.	1
 away_.	1
 JJS_RB
@@ -724,12 +707,6 @@ CD_CC
 VBD_CD
 made_one	1
 had_one	1
-NNP_-RRB-
-Jr._-RRB-	2
-Jennifer_-RRB-	1
-Ryan_-RRB-	1
-Biggs_-RRB-	1
-Forlani_-RRB-	1
 NNPS_CC
 Boys_&	1
 Boys_and	1
@@ -817,6 +794,7 @@ that_it	1
 of_us	2
 so_you	1
 ''_.
+''_?	1
 ''_.	1
 ''_,
 ''_,	1
@@ -1076,6 +1054,8 @@ it_,	4
 CC_VBP
 and_do	1
 and_have	1
+NNP_WDT
+Ryan_which	1
 PRP_VB
 I_say	3
 you_be	1
@@ -1092,6 +1072,8 @@ NN_WRB
 airport_where	1
 comedy_when	1
 relationship_where	1
+NNP_PRP
+Biggs_I	1
 CC_VBD
 but_punched	1
 and_did	1
@@ -1112,6 +1094,8 @@ good_,	2
 coarse_,	1
 innovative_,	1
 JJ_.
+impaired_.	1
+gorgeous_.	1
 original_.	1
 farcical_.	1
 interesting_.	1
@@ -1127,9 +1111,6 @@ cute_.	1
 terrible_.	1
 neurotic_.	1
 watchable_.	1
-VBN_NNP
-liked_Claire	1
-seen_WHMS	1
 VBN_IN
 impressed_by	1
 stuck_in	1
@@ -1171,10 +1152,12 @@ scenario_repeats	1
 teen_flicks	1
 club/16_candles	1
 NN_NNP
-hand_Claire	1
 something_Ryan	1
 roommate_Hunter	1
+hand_Claire	1
+cast_Jason	1
 character_Ryan	1
+experience_Jennifer	1
 NNPS_VBZ
 Girls_is	1
 WDT_NNP
@@ -1189,8 +1172,6 @@ with_narrower	1
 IN_JJS
 at_best	1
 at_least	1
-._-RRB-
-._-RRB-	1
 :_DT
 -_the	1
 -_That	1
@@ -1201,6 +1182,8 @@ narrower_appeal	1
 funnier_performer	1
 :_CD
 :_Ten	1
+VBP_VBZ
+digress_is	1
 RP_NNS
 up_girls	1
 up_parties	1
@@ -1244,9 +1227,10 @@ PRP$_DT
 his_all	1
 JJ_JJS
 strange_best	1
-JJS_IN
-Most_of	1
-most_of	1
+NNS_VBD
+connections_fascinated	1
+characters_showed	1
+scenes_had	1
 EX_VBZ
 There_is	1
 there_is	1
@@ -1261,6 +1245,7 @@ music_man	1
 foam_party	1
 fun_love	1
 youth_confusion	1
+end_result	1
 breakfast_club/16	1
 airplane_flight	1
 night_stand	1
@@ -1270,7 +1255,7 @@ teen_comedy	1
 friend_relationship	1
 group_sex	1
 party_scene	1
-end_result	1
+lead_Rushmore	1
 maturity_level	1
 beginning_half	1
 comedy_kind	1
@@ -1307,15 +1292,14 @@ football_game	1
 WRB_CD
 where_one	1
 NNS_RB
+characters_not	1
 lifes_together	1
 years_later	1
--LRB-_WDT
--LRB-_which	2
 EX_VBD
 there_were	1
 There_was	1
 JJS_.
-best_.	1
+best_.	2
 ,_JJ
 ,_unsure	1
 ,_glad	1
@@ -1400,7 +1384,6 @@ habit_of	1
 actress_with	1
 performance_as	1
 light_on	1
-<p>_For	1
 time_on	1
 body_of	1
 role_in	1
@@ -1412,7 +1395,6 @@ ripoff_of	1
 dream_with	1
 movie_in	2
 end_of	2
-<p>_If	1
 connection_between	1
 kind_of	2
 version_of	1
@@ -1515,8 +1497,6 @@ area_brought	1
 NNS_PRP
 films_I	1
 Things_I	2
-NNP_''
-Sally_''	1
 NN_VBG
 award_winning	1
 teen_attempting	1
@@ -1643,9 +1623,9 @@ While_there	1
 JJS_PRP
 worst_I	1
 best_he	1
-JJ_-LRB-
-reasonable_-LRB-	1
-shameless_-LRB-	1
+PRP_RP
+them_up	1
+it_up	1
 JJ_``
 teenage_`	1
 special_``	1
@@ -1682,7 +1662,6 @@ like_it	1
 buy_it	1
 play_it	1
 let_him	1
-<br />_I	1
 pick_them	1
 PRP_DT
 it_the	1
@@ -1746,10 +1725,10 @@ first_came	1
 just_picked	1
 actually_rented	1
 FW_IN
-<br />_If	1
-<p>_For	1
+:-RRB-_For	1
 NNS_NN
 studios_money	1
+plots_boy	1
 candles_scene	1
 CC_MD
 or_should	1
@@ -1802,8 +1781,6 @@ tries_to	1
 POS_NNS
 '_scenes	1
 's_advances	1
--LRB-_VBZ
--LRB-_Is	1
 ,_CD
 ,_10	1
 MD_RB
@@ -1833,9 +1810,7 @@ hit_the	1
 compare_any	1
 recomend_this	1
 make_this	1
-<p>_The	2
 put_the	1
-<p>_This	1
 maintain_any	1
 disguise_the	1
 repeat_the	1
@@ -1851,15 +1826,10 @@ RBR_WRB
 better_when	1
 WRB_DT
 when_a	1
-IN_IN
-along_with	1
-than_that	1
-by_on	1
-As_for	1
-through_out	1
-in_between	1
-of_like	1
-as_for	1
+PDT_DT
+all_this	1
+all_the	2
+All_the	1
 VBZ_JJ
 's_hard	1
 is_selectable	1
@@ -1873,11 +1843,6 @@ is_standard	1
 has_strong	1
 's_funny	1
 sheds_new	1
-JJ_-RRB-
-impaired_-RRB-	1
-gorgeous_-RRB-	1
-surprising_-RRB-	1
-shameful_-RRB-	1
 ''_DT
 ''_this	1
 NN_TO
@@ -1959,6 +1924,7 @@ really_a	1
 just_a	2
 clearly_an	1
 mostly_all	1
+together_this	1
 finally_the	1
 somehow_this	1
 maybe_a	1
@@ -2022,14 +1988,15 @@ personally_recite	1
 n't_want	1
 n't_be	2
 n't_find	1
-JJS_-RRB-
-best_-RRB-	1
-FW_FW
-:-RRB-_<p>	1
-<br />_<br />	3
-<p>_Ultra-feminists	1
-<p>_Clarie	1
-<p>_Enjoy	1
+IN_IN
+along_with	1
+than_that	1
+by_on	1
+As_for	1
+through_out	1
+in_between	1
+of_like	1
+as_for	1
 JJ_RB
 perceptive_enough	1
 lame_enough	1
@@ -2039,17 +2006,13 @@ hard_not	1
 ,_involving	1
 ,_discussing	1
 ,_ending	1
-''_-RRB-
-''_-RRB-	2
 ``_NNPS
 ``_Boys	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 credits_.	1
 emotions_.	1
 comedies_.	1
-girls_.	1
+girls_.	2
 levels_.	1
 movies_.	1
 supermodels_.	1
@@ -2073,6 +2036,7 @@ characters_,	1
 points_,	1
 subplots_,	1
 times_,	1
+parts_,	1
 movies_,	2
 relationships_,	1
 meetings_,	1
@@ -2083,7 +2047,7 @@ things_,	1
 dates_,	1
 romances_,	1
 friends_,	1
-parts_,	1
+books_,	1
 ,_VBP
 ,_bump	1
 ,_are	1
@@ -2142,8 +2106,6 @@ one_of	2
 ''_and	2
 IN_WP
 after_whom	1
--RRB-_CC
--RRB-_and	4
 FW_MD
 Ultra-feminists_will	1
 VBG_PRP
@@ -2170,7 +2132,6 @@ reason_I	1
 surprise_they	1
 fact_he	1
 party_he	1
-<p>_I	1
 way_they	1
 scene_they	1
 time_I	1
@@ -2222,8 +2183,6 @@ keep_having	1
 VBG_NNS
 getting_dates	1
 conflicting_emotions	1
-RBR_-RRB-
-better_-RRB-	1
 WRB_NNP
 how_Freddie	1
 When_Harry	2
@@ -2231,8 +2190,6 @@ when_Harry	1
 ,_DT
 ,_this	5
 ,_the	6
-FW_PRP$
-<br />_My	1
 VBZ_RBR
 sounds_better	1
 NNS_DT
@@ -2242,9 +2199,6 @@ hates_girl	1
 is_something	1
 loves_company	1
 meets_girl	3
-WDT_VBP
-that_want	1
-that_have	1
 DT_''
 That_''	1
 TO_JJ
@@ -2267,9 +2221,6 @@ have_no	1
 have_a	2
 develop_a	2
 play_the	1
-NNS_-RRB-
-girls_-RRB-	1
-books_-RRB-	1
 VBD_TO
 shredded_to	1
 used_to	1
@@ -2281,6 +2232,7 @@ awayany_more	1
 JJS_NNS
 best_friends	2
 NN_:
+genre_:	1
 original_;	1
 ending_-	1
 comedy_-	1
@@ -2295,6 +2247,8 @@ two_also	1
 one_out	1
 ._''
 ._''	4
+NNP_JJ
+Austen_early	1
 NN_,
 friend_,	1
 geek_,	1
@@ -2309,6 +2263,7 @@ sex_,	2
 problem_,	1
 everything_,	1
 acting_,	1
+sequence_,	1
 potential_,	1
 scene_,	2
 stand_,	1
@@ -2349,7 +2304,9 @@ fart_.	1
 tv_.	1
 sex_?	1
 appeal_.	1
+scene_.	1
 soundtrack_.	1
+predecessor_.	1
 money_.	1
 half_.	1
 period_.	1
@@ -2365,12 +2322,12 @@ character_.	1
 presence_.	1
 trouble_?	1
 format_.	1
-daughter_.	1
+roomate_.	1
 TV_.	1
 performance_.	2
 commitment_.	1
 pic_.	1
-school_.	1
+daughter_.	1
 picture_.	2
 waste_.	1
 while_.	1
@@ -2380,20 +2337,21 @@ etc._.	1
 life_.	1
 lol_.	1
 college_.	1
-predecessor_.	1
+mine_.	1
 company_.	1
 work_.	1
 P_.	1
 symbolism_.	1
 relationship_.	2
 girl_.	2
-scene_.	1
+rom-com_.	1
 extent_.	1
 romance_.	1
 love_.	1
 movie_!	1
 movie_.	4
-time_.	2
+time_.	3
+school_.	1
 gas_.	1
 game_.	1
 VBN_DT
@@ -2405,14 +2363,11 @@ seen_this	2
 seen_a	1
 JJR_TO
 better_to	1
-NN_-LRB-
-experience_-LRB-	1
-cast_-LRB-	1
-lead_-LRB-	1
+WDT_VBP
+that_want	1
+that_have	1
 ''_VBD
 ''_shredded	1
-VBP_VBD
-sorta_did	1
 ''_VBZ
 ''_gives	1
 ''_wants	1
@@ -2433,8 +2388,6 @@ being_very	1
 expecting_much	1
 WDT_.
 which_.	2
--RRB-_NN
--RRB-_ripoff	1
 DT_,
 No_,	1
 this_,	1
@@ -2447,14 +2400,19 @@ all_.	1
 VBG_RP
 passing_on	1
 picking_up	1
-VB_NNP
-find_Claire	1
-think_Jennifer	1
-watch_Freddie	1
+LS_RB
+i_first	1
 DT_:
 the_...	1
 this_-	1
 this_:	1
+DT_WDT
+this_which	1
+JJS_NN
+funniest_scene	1
+funniest_part	1
+best_friend	2
+funniest_performance	1
 RB_JJ
 so_happy	1
 too_slutty	1
@@ -2463,6 +2421,7 @@ really_good	1
 very_good	2
 too_much	1
 definitely_fit	1
+Instead_same	1
 almost_lame	1
 far_superior	1
 somewhat_surreal	1
@@ -2484,8 +2443,6 @@ very_American	1
 exactly_deep	1
 as_good	1
 quite_sure	1
-RB_-RRB-
-together_-RRB-	1
 WRB_IN
 when_at	1
 VB_``
@@ -2496,9 +2453,6 @@ NNPS_.
 Girls_.	1
 TO_NNP
 to_Los	1
-RB_-LRB-
-together_-LRB-	1
-Instead_-LRB-	1
 TO_NNS
 to_bits	1
 VBG_DT
@@ -2533,11 +2487,11 @@ gives_us	1
 wants_her	1
 VB_RB
 try_not	1
-<br />_Ultimately	1
 go_so	1
 get_together	1
 run_together	1
 expect_too	1
+be_not	1
 play_so	1
 be_very	1
 go_ahead	1
@@ -2554,11 +2508,13 @@ break_up	1
 NNS_WRB
 pre-teens_when	1
 NNP_IN
-Forlani_as	1
 Jennifer_during	1
 Kirby_like	1
-Forlani_in	1
 Incidently_if	1
+Forlani_as	1
+Biggs_of	1
+English_for	1
+Forlani_in	1
 RB_NNS
 just_friends	1
 so_years	1
@@ -2576,41 +2532,28 @@ without_losing	1
 in_trying	1
 for_admitting	1
 while_watching	1
-NN_-RRB-
-mine_-RRB-	1
-time_-RRB-	1
-rom-com_-RRB-	1
-break-up_-RRB-	1
-genre_-RRB-	1
-fame_-RRB-	1
-sequence_-RRB-	1
-roomate_-RRB-	1
 ,_PRP
 ,_it	9
 ,_he	3
 ,_I	8
 ,_you	4
 ,_they	3
--LRB-_NNP
--LRB-_Claire	1
--LRB-_Jennifer	2
--LRB-_Jason	2
--LRB-_Freddie	1
--LRB-_Ryan	1
 VBG_.
 beguiling_.	1
 leaving_.	1
 flying_.	1
 JJ_CC
 emotional_&	1
+entertaining_and	1
 deep_or	1
 romantic_nor	1
 ditzy_and	1
 silly_and	1
-entertaining_and	1
+surprising_and	1
 outstanding_and	1
 long_and	1
 straight_and	1
+shameless_or	1
 funny_and	1
 JJ_CD
 next_5	1
@@ -2626,11 +2569,6 @@ WRB_VBG
 when_picking	1
 VBZ_PDT
 's_all	1
-VBP_-RRB-
-digress_-RRB-	1
-PRP_RP
-them_up	1
-it_up	1
 WRB_VBP
 how_do	1
 POS_NN
@@ -2666,6 +2604,7 @@ done_much	1
 NNP_NN
 Ryans_college	1
 Prinz_fan	1
+Rohmer_director	1
 Pie_fame	1
 Freddie_P	1
 Jennifer_meeting	1
@@ -2798,16 +2737,17 @@ NNP_,
 WHMS_,	2
 Prinze_,	4
 Klein_,	1
-Rushmore_,	1
+Jr._,	2
 Steve_,	1
 Claire_,	1
-Biggs_,	3
+Biggs_,	4
 Miller_,	1
 Chris_,	1
 Ryan_,	3
 Jennifer_,	1
 Jr_,	1
 Bridge_,	1
+Rushmore_,	1
 Forlani_,	1
 CD_JJ
 two_main	1
@@ -2816,9 +2756,10 @@ NNP_.
 Fisher_.	1
 Angeles_.	1
 Biggs_.	1
-Sally_.	1
-ANTITRUST_.	1
 Forlani_.	1
+Sally_.	1
+Jennifer_.	1
+ANTITRUST_.	1
 NNP_WRB
 Freddie_when	1
 VBG_NN
@@ -2858,9 +2799,6 @@ parties_to	1
 stories_to	1
 VBP_``
 are_``	1
--LRB-_JJ
--LRB-_early	1
--LRB-_same	1
 VBZ_IN
 happens_during	1
 is_like	3
@@ -2892,9 +2830,9 @@ someone_who	1
 girl_who	1
 couple_who	1
 way_what	1
-<p>_What	1
 character_who	1
 start_what	1
+fame_who	1
 PRP_PDT
 us_all	1
 RB_RBR
@@ -2930,30 +2868,15 @@ IN_CC
 up_both	1
 in_both	1
 like_and	1
-NNP_-LRB-
-English_-LRB-	1
-Ryan_-LRB-	2
-Hunter_-LRB-	2
-French_-LRB-	1
-Forlani_-LRB-	1
-Jennifer_-LRB-	1
-Austen_-LRB-	1
-Prinze_-LRB-	1
-Rohmer_-LRB-	1
-Biggs_-LRB-	2
 PRP_:
 You_...	1
-NNS_VBD
-connections_fascinated	1
-characters_showed	1
-scenes_had	1
+JJS_IN
+Most_of	1
+most_of	1
 NNS_VBG
+characters_including	1
 Biggs_having	1
 groups_depending	1
--LRB-_PRP
--LRB-_I	1
--LRB-_it	1
--LRB-_We	1
 PRP_NNS
 it_appeals	1
 NNS_VBN
@@ -2977,10 +2900,8 @@ POS_JJ
 VBN_``
 called_``	1
 seen_``	1
-DT_-LRB-
-this_-LRB-	1
--RRB-_IN
--RRB-_with	1
+''_IN
+''_with	1
 VBD_VBN
 was_patterned	1
 became_addicted	1
@@ -3023,16 +2944,17 @@ of_When-Harry-Met-Sally-esque	1
 of_coarse	1
 about_flatulent	1
 After_many	1
-LS_RB
-i_first	1
+RBR_,
+better_,	1
 VBN_NN
 assured_college	1
 paid_studio	1
 rented_movie	1
 deleted_scene	1
 NNP_RB
-Jenny_too	1
+Hunter_well	1
 Prinze_definitely	1
+Jenny_too	1
 Providing_possibly	1
 Steve_also	1
 NNP_VBP
@@ -3076,11 +2998,6 @@ taps_into	1
 feelings_between	1
 Lots_of	1
 neuroses_without	1
-VB_TO
-relate_to	1
-expect_to	1
-have_to	2
-want_to	2
 NNP_VBZ
 Forlani_is	3
 Biggs_has	1
@@ -3159,6 +3076,7 @@ did_.	2
 POS_.
 '_.	1
 NNP_VBG
+French_suggesting	1
 Jennifer_showing	1
 NNP_VBD
 Freddie_was	1
@@ -3172,9 +3090,6 @@ Biggs_did	1
 Isgrove_was	1
 Isgrove_directed	1
 Biggs_was	1
--LRB-_IN
--LRB-_of	1
--LRB-_for	1
 NNP_POS
 Freddie_'s	1
 Biggs_'	1
@@ -3190,7 +3105,6 @@ Prince_'s	1
 NN_RB
 movie_so	1
 irony_here	1
-<p>_As	1
 angst_only	1
 plot_here	1
 mine_actually	1
@@ -3269,11 +3183,9 @@ VB_CC
 tear_or	1
 NNP_DT
 Freddie_both	1
-JJS_NN
-funniest_scene	1
-funniest_part	1
-best_friend	2
-funniest_performance	1
+VBN_NNP
+liked_Claire	1
+seen_WHMS	1
 RP_IN
 up_on	1
 up_for	1
@@ -3282,10 +3194,8 @@ up_with	1
 VBN_NNS
 plotted_romances	1
 seen_dozens	1
--LRB-_NN
--LRB-_Rushmore	1
--LRB-_director	1
--LRB-_boy	1
+VBP_VBD
+sorta_did	1
 ,_NNP
 ,_Jr.	4
 ,_Amy	1
@@ -3343,6 +3253,7 @@ supposed_symbolism	1
 final_credit	1
 great_plot	1
 only_reason	1
+shameful_ripoff	1
 madcap_satire	1
 trapped_gas	1
 comic_relief	1

@@ -1,8 +1,3 @@
-NN_-LRB-
-hilarity_-LRB-	1
-butler_-LRB-	1
-mystery/thriller_-LRB-	1
-fishing_-LRB-	1
 IN_NN
 in_love	1
 as_coercive	1
@@ -14,6 +9,7 @@ from_Youtube.I	1
 for_revenge	1
 for_MST3K	1
 at_will	1
+Within_nothing	1
 by_phone	1
 of_place	1
 in_India.I	1
@@ -39,19 +35,17 @@ VBN_.
 shot_.	1
 done_.	1
 murdered_.	1
--LRB-_``
--LSB-_``	2
 WDT_MD
 which_would	1
 VBN_CC
 edited_and	2
 NNS_WDT
 personalities_that	1
--RRB-_FW
--RRB-_<br />	2
 WP_VBD
 who_was	1
 What_made	1
+''_MD
+''_could	1
 RP_,
 off_,	1
 VBN_JJ
@@ -63,12 +57,6 @@ who_gets	1
 who_'s	2
 what_seems	1
 who_seems	1
--RRB-_MD
--RSB-_could	1
--RRB-_,
--RRB-_,	7
--RRB-_.
--RRB-_.	4
 ._''
 !_''	1
 NNP_CD
@@ -81,12 +69,9 @@ who_may	1
 who_will	1
 RP_PRP
 out_they	1
--RRB-_:
--RRB-_;	4
-''_-LRB-
-''_-LRB-	1
 :_NN
 ..._um	1
+..._Plot	1
 IN_PRP$
 despite_its	1
 in_his	1
@@ -126,26 +111,19 @@ VBP_JJ
 have_distinct	1
 're_new	1
 'm_sure	1
-NN_-RRB-
-note_-RRB-	1
-year_-RRB-	1
-award_-RRB-	1
 VB_NNS
 get_subtitles	1
 NNS_NNP
 sums_Bollywood	1
-VBD_JJ
-was_other	1
+CC_IN
+and_if	2
 VBP_TO
 rush_to	1
 germane_to	1
 want_to	1
 get_to	1
-JJ_-RRB-
-onscreen_-RRB-	1
-PRP$_NNS
-his_condolences	1
-their_legs	1
+,_TO
+,_to	1
 RB_NNP
 not_Bollywood	1
 IN_RB
@@ -238,8 +216,10 @@ thought_the	1
 WAS_AN	1
 NNS_CC
 sixties_and	1
+shortcomings_and	1
 themes_and	1
 cigars_and	1
+condolences_and	1
 ,_VB
 ,_take	1
 ,_say	1
@@ -250,17 +230,14 @@ NN_CC
 lot_and	1
 Romance_and	1
 job_but	1
+hilarity_and	1
 scenery_and	1
 movie_and	2
 internet_and	1
--LRB-_VB
--LRB-_Note	1
 DT_JJS
 the_Best	1
 the_best	2
 the_latest	1
--RRB-_WP
--RRB-_who	1
 NN_JJ
 love_right	1
 RB_EX
@@ -273,8 +250,11 @@ THAN_EXPECTED	1
 BUT_EVEN	1
 Pehechaan_Ho	1
 EVEN_BETTER	1
+Gumnaam_Raja	1
 Dance_Tune	2
+Kitty_Bombay	1
 RECOMMEND_HIGHLY	1
+Anand_Manoj	1
 Miss_Kitty	2
 Michaela_Conlin	1
 Jaan_Pehechaan	1
@@ -286,12 +266,15 @@ Hienikin_Beer	1
 BOLLYWOOD_FLICK	1
 Opening_Dance	1
 Mansion_Mystery	1
+FLICK_BUT	1
 Odd_Movie	1
 South_Pacific	1
+Asha_Prem	1
 Man_Mohan	1
 MY_MIND	1
 Raja_Nawathe	1
 Madan_Puri	1
+Rakesh_Bobby	1
 OLD_BOLLYWOOD	1
 WAS_BETTER	1
 IT_WAS	1
@@ -300,10 +283,13 @@ Manoj_Kumar	1
 Tarun_Bose	1
 India_Cinema	1
 BETTER_THAN	1
+Kishan_Kathputli	1
 Dev_Anand	1
 Beer_Commercial	1
+Cinema_Bollywood	1
 Agatha_Christie	1
-FLICK_BUT	1
+Madhusudan_Benazir	1
+Acharaya_Pyaar	1
 :_RB
 ..._well	1
 CC_EX
@@ -350,11 +336,6 @@ On_the	1
 of_a	4
 VB_WP
 know_who	1
--LRB-_CC
--LRB-_and	3
-NNS_-LRB-
-shortcomings_-LRB-	1
-condolences_-LRB-	1
 RB_WRB
 right_when	1
 CD_POS
@@ -374,15 +355,6 @@ RB_.
 there_.	1
 TO_:
 to_...	1
-NNP_-RRB-
-Pacific_-RRB-	1
-Mehmood_-RRB-	1
-Bollywood_-RRB-	1
-Dhumal_-RRB-	1
-Bose_-RRB-	1
-Mohan_-RRB-	1
-Nanda_-RRB-	1
-Puri_-RRB-	1
 CC_RB
 and_really	1
 but_truly	1
@@ -393,9 +365,6 @@ where_they	1
 when_you	1
 where_we	1
 When_it	1
-CD_-RRB-
-1965_-RRB-	1
-2010_-RRB-	1
 RBR_DT
 earlier_that	1
 :_IN
@@ -430,7 +399,7 @@ behind_it	1
 as_they	2
 Among_them	1
 ''_,
-''_,	1
+''_,	2
 RB_LS
 So_i	1
 Obviously_i	1
@@ -574,10 +543,9 @@ it_does	1
 IT_'S	1
 them_is	1
 it_'s	3
-FW_PRP
-<br />_It	1
 IN_,
 in_,	1
+above_,	1
 while_,	1
 IN_.
 up_.	1
@@ -601,13 +569,16 @@ NN_WRB
 joint_where	1
 RP_TO
 out_to	1
+NNP_PRP
+Ocean_I	1
 CC_VBD
 and_found	1
 JJ_,
 witty_,	1
-blunt_,	1
+onscreen_,	1
 great_,	1
 Musical_,	1
+blunt_,	1
 clear_,	1
 JJ_.
 horrible_.	1
@@ -627,8 +598,8 @@ based_on	1
 influenced_by	1
 sent_on	1
 used_in	1
-CC_IN
-and_if	2
+VBD_JJ
+was_other	1
 JJ_:
 short_:	1
 NN_NNS
@@ -636,7 +607,11 @@ type_tunes	1
 DANCE_SCENES	1
 dance_scenes	1
 NN_NNP
+butler_Dev	1
 Murder_Mansion	1
+fishing_Brahmachari	1
+CD_CD
+1965_One	1
 UH_NN
 oh_boy	1
 ,_WRB
@@ -678,9 +653,6 @@ whom_mastermind-guy	1
 EX_VBZ
 there_'s	1
 There_'s	1
-._-RRB-
-!_-RRB-	2
-?_-RRB-	1
 EX_VBP
 there_are	1
 NN_NN
@@ -699,6 +671,7 @@ week_sight	1
 dance_joint	1
 engine_trouble	1
 opening_scene	1
+mystery/thriller_IMDB	1
 party_girl	1
 movie_Ghost	1
 NNS_RB
@@ -858,8 +831,6 @@ PRP_RB
 We_also	1
 it_again	1
 I_never	1
-JJ_-LRB-
-great_-LRB-	1
 RB_VBZ
 really_comes	1
 also_reports	1
@@ -887,8 +858,8 @@ is_influenced	1
 VBZ_PRP$
 passes_his	1
 does_his	1
-WRB_NN
-when_everyone	1
+VB_RP
+find_out	1
 RB_VBN
 obviously_meant	1
 well_done	1
@@ -904,8 +875,6 @@ RB_VBG
 obviously_fiddling	1
 RB_VBD
 actually_thought	1
-FW_IN
-<br />_In	1
 NNS_NN
 sixties_culture	1
 CC_MD
@@ -951,12 +920,11 @@ mystery_that	1
 number_that	1
 thriller_which	1
 VB_DT
-watch_this	1
-add_the	1
 be_an	1
+add_the	1
+watch_this	1
 bring_a	1
 have_another	1
-<br />_The	1
 Beware_the	1
 drink_this	1
 have_a	1
@@ -1049,7 +1017,6 @@ easily_be	1
 FW_FW
 Bollywood_i	1
 Kinda_whiney	1
-<br />_<br />	4
 VBZ_WP
 's_who	1
 VBG_PRP$
@@ -1062,9 +1029,6 @@ expecting_their	1
 ,_breaking	1
 ,_reviewing	1
 ,_appearing	1
-''_-RRB-
-''_-RRB-	1
-''_-RSB-	2
 NNS_.
 tunes_.	1
 times_.	1
@@ -1073,10 +1037,11 @@ actors_.	1
 flicks_.	1
 NNS_,
 Others_,	1
+controls_,	1
 co-pilot_,	1
 legs_,	1
-tastes_,	1
 eyes_,	1
+tastes_,	1
 stores_,	1
 alcoholics_,	1
 VBD_NNS
@@ -1158,8 +1123,6 @@ English_Subtitles	1
 Little_Indians	1
 NNS_DT
 contacts_a	1
-IN_-RRB-
-above_-RRB-	1
 UH_,
 Oh_,	1
 VBP_DT
@@ -1171,8 +1134,6 @@ get_the	1
 love_the	1
 have_a	1
 think_the	1
-NNS_-RRB-
-controls_-RRB-	1
 VBD_TO
 had_to	2
 NN_FW
@@ -1180,8 +1141,6 @@ movie_i	1
 ,_WDT
 ,_which	4
 ,_that	1
-:_-RRB-
-..._-RRB-	1
 JJS_NNP
 latest_Hienikin	1
 Best_Beard	1
@@ -1190,6 +1149,7 @@ greatest_successes	1
 most_anyones	1
 NN_:
 self_:	1
+award_;	1
 team_...	1
 Plot_:	1
 arrival_...	1
@@ -1229,6 +1189,7 @@ justice_.	1
 climax_.	1
 flick_.	1
 problem_.	1
+note_.	1
 World_.	1
 MST3K_.	1
 investment_.	1
@@ -1239,6 +1200,7 @@ table_.	1
 island_.	1
 rape_!	1
 BUY_.	1
+year_.	1
 comedy_.	1
 fodder_.	1
 will_.	1
@@ -1305,13 +1267,13 @@ makes_it	1
 tells_them	1
 does_it	1
 VB_RB
-<br />_So	1
 fall_apart	1
-<br />_Obviously	1
-have_even	1
 seem_right	1
-VB_RP
-find_out	1
+have_even	1
+WRB_NN
+when_everyone	1
+NNP_WP
+Mehmood_who	1
 NNS_WRB
 reasons_why	1
 days_when	1
@@ -1324,8 +1286,9 @@ Anand_in	1
 Bollywood_up	1
 FW_,
 whiney_,	1
-,_TO
-,_to	1
+PRP$_NNS
+his_condolences	1
+their_legs	1
 IN_VBG
 of_ending	1
 than_being	1
@@ -1343,18 +1306,6 @@ POS_NN
 ,_they	1
 IN_VBN
 of_reminded	1
--LRB-_NNP
--LRB-_Bombay	1
--LRB-_Bollywood	1
--LRB-_Bobby	1
--LRB-_Manoj	1
--LRB-_Dev	1
--LRB-_Benazir	1
--LRB-_Pyaar	1
--LRB-_Raja	1
--LRB-_Prem	1
--LRB-_Brahmachari	1
--LRB-_Kathputli	1
 VBG_.
 viewing_.	1
 JJ_CC
@@ -1370,9 +1321,8 @@ VBZ_PDT
 has_all	1
 CD_:
 one_...	1
+2010_;	1
 1965_;	1
-FW_CD
-<br />_One	1
 VBN_WRB
 told_where	1
 TO_NN
@@ -1415,6 +1365,9 @@ gets_up	1
 takes_off	1
 NNS_MD
 SCENES_WILL	1
+NNP_``
+Kitty_``	1
+Kishan_``	1
 FW_VBP
 i_have	2
 TO_RB
@@ -1452,31 +1405,36 @@ Nawathe_,	1
 Pran_,	1
 Ho_,	1
 IMDB_,	1
+Bose_,	1
 Bollywood_,	2
 Kumar_,	1
 Heineken_,	1
+Mohan_,	1
 Dharamdas_,	1
+Nanda_,	1
 Tune_,	1
 Club_,	1
 CD_JJ
 one_little	1
 NNP_.
-Kitty_.	1
+Bollywood_.	1
 EXPECTED_.	1
 HIGHLY_.	1
+Pacific_.	1
+Kitty_.	1
 BETTER_.	1
 Mrow_!	1
 Movie_.	1
 Mystery_.	1
 MIND_.	1
 Commercial_.	1
-FW_NN
-<br />_Plot	1
 POS_CD
 's_Ten	1
 VBG_NN
 seeing_trip.Only	1
 NNP_:
+Puri_;	1
+Dhumal_;	1
 Kyun_...	1
 Helen_--	1
 PRP_DT
@@ -1501,8 +1459,6 @@ VBN_PRP
 told_they	1
 reminded_me	1
 murdered_himself	1
-:_FW
-..._<br />	1
 WRB_JJ
 how_warm	1
 how_awesome	1
@@ -1519,7 +1475,6 @@ be_reason	1
 NN_WP
 killer_who	1
 guy_who	1
-<br />_What	1
 PRP_TO
 you_to	2
 NNS_VBP
@@ -1532,19 +1487,6 @@ NNS_VBZ
 successes_is	1
 VBD_PRP$
 was_my	1
-NNP_-LRB-
-Ocean_-LRB-	1
-Kitty_-LRB-	1
-Cinema_-LRB-	1
-Anand_-LRB-	1
-Madhusudan_-LRB-	1
-Kitty_-LSB-	1
-Gumnaam_-LRB-	1
-Kishan_-LRB-	1
-Kishan_-LSB-	1
-Asha_-LRB-	1
-Acharaya_-LRB-	1
-Rakesh_-LRB-	1
 PRP_:
 me_...	1
 JJS_IN
@@ -1552,9 +1494,6 @@ most_of	1
 best_of	1
 NNPS_TO
 Subtitles_to	1
--LRB-_PRP
--LRB-_I	1
--LRB-_we	1
 PRP_NNS
 it_contacts	1
 JJS_NN
@@ -1568,8 +1507,6 @@ was_i	1
 POS_JJ
 's_clear	1
 's_Musical	1
-IN_-LRB-
-Within_-LRB-	1
 VBD_VBN
 was_made	2
 had_called	1
@@ -1595,6 +1532,7 @@ murdered_man	1
 NNP_RB
 Tune_alone	1
 :_PRP
+..._It	1
 ;_he	1
 NNS_IN
 sixties_like	1
@@ -1639,8 +1577,6 @@ alone_might	1
 alone_will	1
 NN_``
 term_``	1
--LRB-_IN
--LRB-_while	1
 NNP_POS
 Conlin_'s	1
 Goa_'s	1
@@ -1680,7 +1616,10 @@ great_for	1
 common_in	1
 first_of	1
 nostalgic_for	1
+great_while	1
 easy_on	1
+''_PRP
+''_we	1
 VBG_JJ
 opening_Dance-musical	1
 VBZ_DT
@@ -1716,9 +1655,6 @@ RP_IN
 out_that	1
 out_for	1
 up_if	1
--LRB-_NN
--LRB-_IMDB	1
--LRB-_nothing	1
 ,_NNP
 ,_IT	1
 ,_Acharaya	1
@@ -1735,8 +1671,6 @@ is_from	1
 comes_from	1
 'S_LIKE	1
 is_that	1
--LRB-_DT
--LRB-_That	1
 VBZ_MD
 is_must	1
 JJ_NN

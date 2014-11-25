@@ -7,8 +7,6 @@ game_was_a	1
 RB_DT_JJ
 generally_a_bad	1
 not_a_bad	1
--RRB-_IN_DT
--RRB-_with_a	1
 JJ_IN_NNP
 typical_of_Madacy	1
 VBD_DT_JJS
@@ -36,6 +34,8 @@ VBZ_RB_JJ
 is_far_superior	1
 is_not_bad	1
 is_still_ok	1
+VBN_IN_NN
+produced_by_shudder	1
 NNP_NN_VBZ
 Hardy_DVD_is	1
 NN_PRP_VBP
@@ -44,6 +44,8 @@ fan_you_wont	1
 Today_I_am	1
 ''_VBG_IN
 ''_looking_like	1
+NN_IN_NN
+quality_with_compression	1
 NNP_NN_PRP
 Hardy_fan_I	1
 NNS_IN_NNP
@@ -97,6 +99,8 @@ VBD_NN_DT
 DID_NOTICE_A	1
 NN_PRP$_RB
 whole_its_not	1
+NNP_NN_``
+Hardy_film_``	1
 IN_JJS_VBD
 at_least_was	1
 DT_NN_VBZ
@@ -111,6 +115,8 @@ DT_VBZ_VBG
 this_is_going	1
 PRP$_NN_CC
 his_appearance_and	1
+''_IN_DT
+''_with_a	1
 VBD_VBG_,
 were_making_,	1
 CC_PRP_VBZ
@@ -122,6 +128,7 @@ IN_DT_VBN
 like_a_dubbed	1
 IN_NN_NN
 on_video_tape	1
+by_shudder_Madacy	1
 JJ_IN_DT
 superior_than_the	1
 evident_on_both	1
@@ -147,8 +154,8 @@ JJR_NNS_VBP
 better_versions_become	1
 IN_DT_CD
 on_the_two	1
-JJ_NN_-RRB-
-american_version_-RRB-	1
+RB_,_RB
+very_,_very	1
 NNP_''_,
 Utopia_''_,	2
 NNP_NNP_WRB
@@ -181,8 +188,6 @@ I_bought_this	1
 it_was_a	1
 RB_VBP_TO
 really_need_to	1
-NN_-LRB-_``
-film_-LRB-_``	1
 NNS_:_IN
 films_..._although	1
 VBN_IN_DT
@@ -199,10 +204,10 @@ DT_NNS_RB
 the_studios_really	1
 IN_PRP$_NNP
 from_their_Hal	1
-NN_-RRB-_VBZ
-compression_-RRB-_is	1
 NNP_''_VBZ
 Deuces_''_is	1
+CD_``_NNP
+one_``_Utopia	1
 VBD_PRP_.
 loved_it_.	1
 VBD_PRP_,
@@ -226,14 +231,14 @@ regretted_completing_this	1
 was_getting_a	1
 IN_JJR_NNS
 until_better_versions	1
-JJ_NNS_-LRB-
-american_versions_-LRB-	1
 NN_NNS_VBP
 production_companies_release	1
 VBP_PRP$_NNS
 release_their_movies	1
 JJ_:_PRP
 poor_;_I	1
+NNP_''_.
+K_''_.	1
 NN_RB_IN
 film_ever_in	1
 dvd_even_though	1
@@ -329,8 +334,6 @@ RB_JJ_,
 not_bad_,	1
 RB_JJ_.
 still_ok_.	1
-IN_NN_-RRB-
-with_compression_-RRB-	1
 DT_NNS_:
 the_films_...	1
 RB_JJ_:
@@ -346,6 +349,8 @@ TO_DT_NN
 to_the_action	1
 RB_JJ_CD
 very_poor_one	1
+JJ_NNS_DT
+american_versions_the	1
 PRP_VBD_NN
 I_DID_NOTICE	1
 ``_NNP_''
@@ -386,8 +391,6 @@ DT_NNS_''
 the_boys_''	1
 VBZ_VBN_IN
 is_offset_by	1
-NNP_NN_-LRB-
-Hardy_film_-LRB-	1
 NN_DT_JJ
 NOTICE_A_SLIGHT	1
 VBD_RB_JJ
@@ -403,10 +406,8 @@ WRB_MD_PRP
 How_would_I	1
 PRP$_NN_.
 your_money_.	1
-NNS_-LRB-_DT
-versions_-LRB-_the	1
-VBN_IN_-LRB-
-produced_by_-LRB-	1
+NNP_''_IN
+Deuces_''_with	1
 JJ_NN_NN
 Bad_picture_quality	1
 NN_RB_.
@@ -453,9 +454,6 @@ NNP_NN_RB
 Hardy_film_ever	1
 NN_:_CC
 stinker_..._but	1
--LRB-_``_NNP
--LRB-_``_Flying	1
--LRB-_``_Utopia	1
 DT_NNS_PRP
 the_films_they	1
 DT_PRP$_NNS
@@ -467,8 +465,6 @@ hair_?_''	1
 DT_RB_JJ
 a_very_good	1
 a_pretty_big	1
-CC_IN_PRP$
-but_if_your	1
 PRP_MD_VB
 I_will_be	1
 you_should_stay	1
@@ -477,8 +473,8 @@ RB_IN_``
 ever_in_``	1
 :_IN_EX
 ..._although_there	1
-VB_DT_NNS
-<br />_The_extras	1
+NN_``_NNP
+film_``_Flying	1
 VBG_DT_NN
 completing_this_film	1
 DURING_THE_FILM	1
@@ -502,6 +498,8 @@ NNP_NNP_POS
 Stan_Laurel_'s	1
 IN_RB_DT
 by_possibly_the	1
+NN_CC_IN
+version_but_until	1
 NNS_VBP_JJ
 versions_become_available	1
 versions_are_complete	1
@@ -541,8 +539,6 @@ this_dvd_.	1
 the_film_.	1
 THE_FILM_!	1
 this_film_.	1
--LRB-_DT_JJ
--LRB-_the_european	1
 NNP_NNP_.
 AND_WHITE_!	1
 Flying_Deuces_.	1
@@ -557,6 +553,7 @@ also_really_poor	1
 JJ_JJ_JJ
 good_wholesome_funny	1
 NN_NN_VBZ
+shudder_Madacy_offers	1
 picture_quality_is	1
 NNP_VBZ_RB
 Utopia_is_far	1
@@ -612,8 +609,6 @@ VBZ_DT_IN
 shows_some_of	1
 TO_PRP_RB
 to_it_overall	1
-IN_-LRB-_NN
-by_-LRB-_shudder	1
 CC_PRP_RB
 and_it_definitely	1
 and_he_later	1
@@ -622,8 +617,6 @@ VBZ_NNP_CC
 loves_Laural_and	1
 NNP_NNP_DT
 Granted_Utopia_all	1
-NN_-RRB-_CC
-version_-RRB-_but	1
 RB_DT_JJS
 possibly_the_worst	1
 perhaps_the_best	1
@@ -656,8 +649,6 @@ this_dvd_even	1
 IN_IN_NN
 out_of_sync	1
 along_with_wafer	1
-NN_-RRB-_NN
-shudder_-RRB-_Madacy	1
 NNS_VBP_VB
 films_do_differ	1
 VB_:_DT
@@ -670,8 +661,6 @@ you_wont_be	1
 ,_but_compared	1
 NNS_CC_IN
 films_but_if	1
-NN_-LRB-_IN
-quality_-LRB-_with	1
 NN_,_NN
 game_,_filmography	1
 NNS_,_IN
@@ -693,6 +682,8 @@ IN_NNP_CC
 at_MGM_and	1
 MD_PRP_VB
 would_I_know	1
+NNS_DT_JJ
+versions_the_european	1
 VBD_JJ_TO
 was_able_to	1
 PRP_VBP_``
@@ -711,8 +702,6 @@ their_Hal_Roach	1
 IN_DT_JJ
 for_a_good	1
 than_the_american	1
--LRB-_IN_NN
--LRB-_with_compression	1
 PRP_VBP_DT
 I_am_a	1
 I_have_a	1
@@ -760,8 +749,6 @@ CD_NNS_RB
 2_seconds_behind	1
 NN_VBZ_IN
 problem_is_that	1
--LRB-_NN_-RRB-
--LRB-_shudder_-RRB-	1
 DT_JJ_NN
 a_bad_film	2
 a_good_price	1
@@ -782,16 +769,13 @@ dubbed_Japanese_movie	1
 JJ_DT_NN
 worth_the_purchase	1
 available_this_dvd	1
-''_-RRB-_.
-''_-RRB-_.	1
-NNP_NNP_IN
-<br />_All_in	1
 IN_TO_DT
 up_to_the	1
 CC_IN_DT
 but_until_that	1
 JJ_NN_CC
 old_style_and	1
+american_version_but	1
 bad_film_but	1
 NNP_POS_NN
 Laurel_'s_hair	1
@@ -812,8 +796,6 @@ IN_NNP_VBZ
 of_Utopia_is	2
 NN_VBN_IN
 DVD_produced_by	1
-NN_NN_-LRB-
-picture_quality_-LRB-	1
 ``_WDT_NN
 ``_what_color	1
 :_CC_``
@@ -846,8 +828,6 @@ nice_idea_,	1
 JJ_NN_.
 thin_sound_.	1
 funny_movie_.	1
--RRB-_VBZ_JJ
--RRB-_is_evident	1
 PRP_RB_,
 it_before_,	1
 ,_CC_RB
@@ -873,6 +853,7 @@ VBZ_DT_JJ
 loves_a_good	1
 is_a_prime	1
 NN_VBZ_JJ
+compression_is_evident	1
 version_is_available	1
 IN_NN_.
 on_DVD_.	1
@@ -880,8 +861,6 @@ on_dvd_.	1
 of_sync_.	1
 WP_VBZ_NNP
 who_loves_Laural	1
-''_-RRB-_IN
-''_-RRB-_with	1
 PRP_RB_VBZ
 it_definitely_shows	1
 IN_RB_IN
@@ -926,6 +905,8 @@ NNS_VBP_IN
 movies_are_in	1
 CC_NNS_IN
 and_gags_from	1
+IN_NN_VBZ
+with_compression_is	1
 ``_NNP_NNP
 ``_Flying_Deuces	3
 `_Flying_Deuces	1
@@ -934,9 +915,6 @@ VBD_JJ_NNS
 were_humorous_parts	1
 JJ_NNS_TO
 humorous_parts_to	1
-NNP_''_-RRB-
-Deuces_''_-RRB-	1
-K_''_-RRB-	1
 VBD_PRP_RB
 said_it_before	1
 NN_:_VBG
@@ -945,6 +923,8 @@ VBP_IN_NNP
 are_in_BLACK	1
 ,_RB_JJ
 ,_very_poor	1
+NN_NN_IN
+picture_quality_with	1
 ,_NNP_NNP
 ,_Stan_Laurel	1
 VBZ_IN_PRP$
@@ -987,8 +967,6 @@ JJS_VBD_JJ
 least_was_able	1
 EX_VBD_JJ
 there_were_humorous	1
-CD_-LRB-_``
-one_-LRB-_``	1
 CD_NNS_VBP
 two_films_do	1
 VBZ_IN_DT
@@ -997,10 +975,8 @@ NNS_RB_VBP
 studios_really_need	1
 DT_IN_JJR
 some_of_thier	1
--RRB-_CC_IN
--RRB-_but_until	1
-RB_,_RB
-very_,_very	1
+CC_IN_PRP$
+but_if_your	1
 CC_JJ_NN
 &_hardy_film	1
 and_infuriating_problem	1
@@ -1016,15 +992,11 @@ There_'s_a	1
 ''_that_looks	1
 IN_DT_RB
 with_a_very	1
--RRB-_NN_VBZ
--RRB-_Madacy_offers	1
 CC_NNP_NN
 &_Hardy_film	1
 and_Hardy_fan	1
 &_Hardy_DVD	1
 and_Hardy_film	1
-JJ_CD_-LRB-
-poor_one_-LRB-	1
 NNS_VBP_PRP$
 companies_release_their	1
 IN_NN_JJ
@@ -1041,6 +1013,8 @@ RB_PRP_VBD
 overall_it_was	1
 NNS_NN_VBD
 trivia_game_was	1
+JJ_CD_``
+poor_one_``	1
 RB_PRP_VBZ
 however_it_is	1
 NN_CC_NN

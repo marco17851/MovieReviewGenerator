@@ -17,18 +17,11 @@ of_information	1
 ,_IN
 ,_if	1
 ,_unless	1
-PRP_RB
-it_so	1
-you_probably	1
-it_again	1
-you_basically	1
-you_finally	1
-you_just	1
-I_also	2
+POS_NNS
+'_arms	1
+'s_routines	1
 ''_TO
 ''_to	1
-NN_EX
-<p>_There	1
 RP_DT
 down_the	1
 down_each	1
@@ -49,9 +42,6 @@ interuptions_pretty	1
 routines_instead	1
 instructions_not	1
 steps_easily	1
-POS_NNS
-'_arms	1
-'s_routines	1
 CC_JJ
 and_other	1
 or_professional	1
@@ -113,8 +103,6 @@ those_of	1
 some_of	1
 Some_of	1
 this_because	1
--LRB-_NNP
--LRB-_Tina	1
 PRP_IN
 it_on	1
 them_in	1
@@ -288,8 +276,6 @@ not_the	1
 then_this	1
 DT_VBN
 any_given	1
-NNPS_''
-Grooves_''	1
 JJ_VBD
 ready_did	1
 NN_MD
@@ -307,10 +293,6 @@ DT_RBS
 a_most	1
 ,_DT
 ,_this	1
-._-RRB-
-!_-RRB-	1
-._-RRB-	2
-?_-RRB-	1
 NNP_CC
 Tina_&	1
 Landon_&	1
@@ -388,8 +370,14 @@ NNP_.
 Mumba_.	1
 CC_VBZ
 and_does	1
-PRP_WRB
-them_when	1
+PRP_RB
+it_so	1
+you_probably	1
+it_again	1
+you_basically	1
+you_finally	1
+you_just	1
+I_also	2
 LS_VB
 i_find	1
 IN_IN
@@ -526,8 +514,6 @@ PRP_WP
 us_who	1
 VBG_PRP
 using_them	1
-FW_PRP
-<br />_I	1
 DT_RB
 a_little	1
 an_extremely	1
@@ -555,7 +541,6 @@ coordination_you	1
 mindset_you	1
 DVD_you	1
 dance/video_she	1
-<p>_I	1
 price_I	1
 dvd_I	1
 VB_PRP$
@@ -640,8 +625,8 @@ and_practice	1
 and_possess	1
 NNS_DT
 dollars_a	1
--LRB-_PRP
--LRB-_I	1
+VBP_VBD
+'ve_had	1
 IN_.
 with_.	1
 JJ_TO
@@ -695,8 +680,6 @@ bargain_price	1
 dance_dvd	1
 instruction_DVD	1
 book_collection	1
-FW_FW
-<br />_<br />	1
 ``_IN
 ``_If	1
 NNS_POS
@@ -739,8 +722,6 @@ DT_NNP
 Both_Tina	1
 CC_DT
 and_a	1
-VBP_VBD
-'ve_had	1
 ,_JJ
 ,_right	1
 VB_WRB
@@ -974,9 +955,12 @@ Spears_'	1
 Henson_'s	2
 DT_JJR
 a_better	1
+PRP_WRB
+them_when	1
 NN_RB
 way_too	1
 passion_very	1
+try_twice	1
 JJ_IN
 much_about	1
 interested_in	2
@@ -989,8 +973,6 @@ DT_,
 all_,	1
 IN_EX
 because_there	1
--LRB-_RB
--LRB-_twice	1
 NN_RP
 choreography_down	1
 NN_JJ
@@ -1041,7 +1023,6 @@ in_their	1
 than_my	1
 VB_PRP
 get_it	1
-<p>_It	1
 mention_you	1
 understand_them	1
 make_you	1
@@ -1057,8 +1038,6 @@ VBZ_VBN
 has_been	1
 has_done	1
 has_choreographed	1
-NN_-LRB-
-try_-LRB-	1
 DT_DT
 this_a	2
 RB_VBN
@@ -1086,8 +1065,8 @@ whishes_you	1
 shows_you	1
 ,_WDT
 ,_which	1
--LRB-_NN
--LRB-_Nothing	1
+NNPS_''
+Grooves_''	1
 ,_NNP
 ,_Christina	1
 ,_Ms.	1
@@ -1105,8 +1084,6 @@ keep_up	1
 break_down	1
 WRB_TO
 how_to	1
-NN_WP
-<p>_What	1
 VBZ_TO
 is_to	1
 controls_to	1

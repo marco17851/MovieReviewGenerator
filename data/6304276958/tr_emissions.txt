@@ -165,8 +165,6 @@ JJ_NN_JJR
 real_wrestler_deeper	1
 TO_VB_DT
 to_draw_any	1
-PDT_DT_-LRB-
-all_that_-LRB-	1
 VBP_DT_JJ
 are_no_flashy	1
 VBZ_TO_VB
@@ -179,8 +177,6 @@ DT_VBZ_VB
 this_does_lower	1
 JJ_DT_IN
 clear_this_from	1
-DT_-LRB-_IN
-that_-LRB-_because	1
 IN_IN_PRP
 because_of_it	1
 DT_JJ_NNS
@@ -189,8 +185,8 @@ No_big-name_actors	1
 ,_athletics_,	1
 DT_NN_DT
 the_acting_a	1
-JJ_WP_VBP
-many_who_do	1
+:_DT_VBZ
+:_this_is	1
 JJ_NNS_.
 special_effects_.	1
 big-name_actors_.	1
@@ -207,8 +203,6 @@ MD_VB_RB
 VB_DT_NN
 love_this_movie	1
 lower_the_acting	1
--LRB-_IN_IN
--LRB-_because_of	1
 NN_:_DT
 start_:_this	1
 CD_NNS_VBG
@@ -270,8 +264,8 @@ PRP_MD_VB
 I_can_say	1
 you_'ll_walk	1
 you_'ll_be	1
-:_DT_VBZ
-:_this_is	1
+JJ_WP_VBP
+many_who_do	1
 DT_JJ_NN
 any_real_wrestler	1
 a_last_shot	1
@@ -283,6 +277,8 @@ PRP$_NN_IN
 your_seat_during	1
 IN_JJ_.
 in_general_.	1
+PDT_DT_IN
+all_that_because	1
 RB_JJ_WP
 even_many_who	1
 DT_NNS_.
@@ -293,9 +289,9 @@ NN_NNS_VBP
 wrestling_heroes_play	1
 VBP_RB_RB
 do_n't_necessarily	1
+DT_IN_IN
+that_because_of	1
 VBZ_DT_NN
 portrays_the_determination	1
 NNS_VBG_DT
 men_making_a	1
-PRP_._-RRB-
-it_?_-RRB-	1

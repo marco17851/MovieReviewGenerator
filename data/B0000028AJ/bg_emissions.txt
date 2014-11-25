@@ -85,9 +85,6 @@ DT_IN
 some_of	2
 JJ_RB
 Antmusic_forever	1
-NNP_-RRB-
-Ant_-RRB-	1
-L.P._-RRB-	6
 CC_RB
 But_Not	1
 and_so	1
@@ -111,9 +108,8 @@ CD_,
 9_,	1
 NN_JJ
 something_different	1
+theme_tribal	1
 junoir_high	1
--LRB-_RB
--LRB-_musically	1
 JJ_CD
 first_6	1
 great_one	1
@@ -155,8 +151,9 @@ hits_that	2
 ,_Puss	1
 PRP$_RB
 his_rather	1
-NN_-RRB-
-face_-RRB-	1
+POS_NN
+'s_work	1
+'s_name	1
 TO_NN
 to_anyone	1
 PRP_VBD
@@ -173,6 +170,7 @@ WP_VBD
 who_gave	1
 NNP_NN
 London_cult	1
+Goddard_aka	1
 TO_PRP$
 to_my	1
 NN_UH
@@ -261,14 +259,16 @@ It_'s	1
 IN_JJ
 of_tribal	1
 in_numerous	1
--RRB-_,
--RRB-_,	4
+DT_RBS
+the_most	1
 ,_DT
 ,_this	3
 ,_those	1
 NNP_CC
 Britain_and	1
 Adam_&	2
+L.P._and	1
+Ant_and	1
 Adam_and	2
 NNP_CD
 Apollo_9	2
@@ -289,6 +289,7 @@ Soon_after	1
 well_as	1
 twice_before	1
 away_from	1
+musically_for	1
 VBG_IN
 questioning_if	1
 starting_with	1
@@ -311,8 +312,6 @@ RB_VB
 n't_be	1
 certainly_enjoy	1
 n't_get	1
-''_-LRB-
-''_-LRB-	6
 PRP_.
 it_!	1
 me_!	1
@@ -344,6 +343,7 @@ Zone_,	1
 Antmusic_,	3
 Frontier_,	1
 Boots_,	1
+L.P._,	4
 Dog_,	1
 Charming_,	3
 NNP_.
@@ -359,8 +359,6 @@ NNPS_IN
 Kings_Of	1
 TO_CD
 to_80	1
-RB_,
-again_,	1
 IN_IN
 off_of	1
 since_for	1
@@ -401,10 +399,8 @@ VBD_RB
 was_still	1
 did_n't	1
 was_so	1
-NNS_VBP
-songs_are	1
-standouts_include	1
-videos_are	1
+RB_,
+again_,	1
 VBN_IN
 complemented_with	1
 been_in	1
@@ -448,8 +444,6 @@ RB_NN
 still_fun	1
 NNS_TO
 days_to	1
--LRB-_JJ
--LRB-_tribal	1
 JJ_NNS
 top_songs	1
 late_seventies	1
@@ -491,16 +485,15 @@ make_people	1
 VB_NN
 Eat_Dog	1
 eat_Dog	1
--RRB-_CC
--RRB-_and	2
+VB_NNP
+conquer_America	1
+Eat_Dog	1
 NN_NNS
 time_listeners	2
 solo_releases	1
 brass_horns	1
 DT_VB
 a_listen	1
-RB_-RRB-
-musically_-RRB-	1
 NN_NNP
 manager_Malcolm	1
 Beat_My	1
@@ -510,12 +503,10 @@ name_Adam	1
 Foe_L.P.	1
 album_!!	1
 average_Antfan	1
--RRB-_TO
--RRB-_to	1
 CD_DT
 1980_the	1
-DT_RBS
-the_most	1
+NN_WP
+anyone_who	1
 VBG_DT
 learning_the	1
 DT_NNPS
@@ -559,8 +550,10 @@ NN_VBN
 group_needed	1
 PRP_TO
 you_to	1
-NNP_NNPS
-ex-Sex_Pistols	1
+NNS_VBP
+songs_are	1
+standouts_include	1
+videos_are	1
 IN_CD
 for_17	1
 in_1980	1
@@ -581,8 +574,8 @@ followed_his	1
 IN_CC
 over_and	1
 before_and	1
-NNP_-LRB-
-Goddard_-LRB-	1
+NNP_NNPS
+ex-Sex_Pistols	1
 NNP_VBZ
 Ant_takes	1
 CD_takes	1
@@ -693,10 +686,10 @@ a_London	1
 the_U.K.	1
 an_ANTFAN	1
 the_Strip	1
+''_IN
+''_from	6
 ,_JJ
 ,_Desparate	1
--RRB-_IN
--RRB-_for	2
 DT_JJ
 a_good	1
 the_new	1
@@ -769,6 +762,7 @@ POS_.
 's_.	1
 NN_IN
 place_in	1
+compliation_of	1
 help_of	1
 rest_of	1
 collection_of	1
@@ -787,7 +781,7 @@ paint_on	1
 addition_of	1
 stage_of	1
 chaos_of	1
-compliation_of	1
+face_for	1
 fan_for	1
 album_from	1
 VBP_NNP
@@ -828,9 +822,6 @@ power_and	1
 sound_and	2
 polish_and	1
 name_and	1
-NN_-LRB-
-theme_-LRB-	1
-decade_-LRB-	1
 VB_JJ
 get_much	1
 TO_VB
@@ -896,8 +887,6 @@ that_took	1
 which_produced	1
 that_did	2
 that_molded	1
--LRB-_IN
--LRB-_from	6
 NNP_POS
 Ant_'s	2
 Adam_'s	1
@@ -906,11 +895,12 @@ the_earlier	1
 DT_WP
 all_who	1
 NN_RB
+modernization_as	1
 rock_then	1
 place_away	1
 course_very	1
 album_twice	1
-modernization_as	1
+decade_musically	1
 airplay_as	1
 JJ_IN
 familar_with	1
@@ -921,9 +911,6 @@ Dog_Eat	1
 right.I_recommend	1
 NNS_VB
 people_ask	1
-VB_NNP
-conquer_America	1
-Eat_Dog	1
 RB_RB
 as_so	1
 just_enough	1
@@ -956,7 +943,6 @@ la_Rock	1
 Wears_White	2
 Ant_Music	1
 Frontier_L.P.	1
-<br />_Karl	1
 White_Sox	2
 Charming_L.P.	1
 Vive_Le	2
@@ -1029,9 +1015,6 @@ also_took	1
 ever_heard	1
 promptly_stolen	1
 finally_achieved	1
-POS_NN
-'s_work	1
-'s_name	1
 MD_DT
 will_any	1
 VBZ_PRP
@@ -1042,10 +1025,6 @@ VB_VBG
 be_humming	1
 VBN_TO
 set_to	1
-NN_WP
-anyone_who	1
--LRB-_NN
--LRB-_aka	1
 ,_NNP
 ,_Prince	3
 ,_Apollo	1
@@ -1068,6 +1047,8 @@ POS_JJ
 's_new	1
 CD_TO
 one_to	1
+NNP_TO
+L.P._to	1
 WRB_NN
 where_music	1
 VBZ_PDT

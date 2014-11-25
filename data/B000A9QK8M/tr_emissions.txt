@@ -21,8 +21,6 @@ WRB_PRP_VBD
 when_it_was	1
 NNS_CC_NNS
 programs_or_movies	1
-IN_CD_-RRB-
-from_1990-1993_-RRB-	1
 RB_CD_JJ
 Not_one_false	1
 RB_VB_IN
@@ -38,8 +36,6 @@ and_every_item	1
 ,_in_my	1
 CC_,_IN
 and_,_in	1
-FW_FW_NNS
-<br />_<br />_Films	1
 VBZ_VB_DT
 is_address_the	1
 VBN_IN_NN
@@ -210,8 +206,6 @@ colorized_movies_anymore	1
 NNP_VBD_IN
 Zorro_ended_with	1
 Lucy_were_in	1
-CD_-RRB-_,
-1990-1993_-RRB-_,	1
 VBN_DT_RB
 been_a_much	1
 PRP_VBD_DT
@@ -235,6 +229,8 @@ PRP_VBD_``
 It_was_``	1
 MD_VB_NNP
 WILL_BE_SPOILERS	1
+IN_NNP_JJ
+of_Zorro_well-portrayed	1
 JJ_PRP_RB
 good_it_almost	1
 DT_RBS_JJ
@@ -344,8 +340,8 @@ no_Zorro_in	1
 The_Zorro_in	1
 PRP_IN_DT
 it_in_the	1
-,_CC_PRP
-,_but_I	1
+NNP_JJ_IN
+Zorro_well-portrayed_by	1
 ,_PRP_MD
 ,_you_could	1
 VBD_TO_VB
@@ -409,8 +405,6 @@ think_this_a	1
 DT_NN_NN
 the_coloring_process	1
 a_b/w_picture	1
--LRB-_JJ_IN
--LRB-_well-portrayed_by	1
 ,_JJ_,
 ,_fantastic_,	1
 NN_NNS_CC
@@ -491,8 +485,9 @@ PRP_VBZ_DT
 he_kills_the	1
 MD_VB_PRP$
 'll_choose_my	1
-:_PRP_VBZ
--_he_threatens	1
+IN_PRP$_NN
+in_my_opinion	1
+in_their_vault	1
 RB_VBD_CD
 even_bought_3	1
 IN_NN_EX
@@ -627,6 +622,8 @@ NNP_POS_VB
 Zorro_'s_alter	1
 NN_VBP_JJ
 dream_come_true	1
+JJ_VBN_``
+beautiful_colorized_``	1
 NN_VBP_VBN
 today_are_shot	1
 NN_NN_VBZ
@@ -680,10 +677,8 @@ NNP_NNP_.
 Diego_Vega_.	1
 FURTHER_DOWN_.	1
 Robin_Hood_.	1
-JJ_VBN_``
-beautiful_colorized_``	1
-NNP_-LRB-_JJ
-Zorro_-LRB-_well-portrayed	1
+CD_,_VBZ
+1990-1993_,_is	1
 NN_NNP_NNP
 ego_Don_Diego	1
 VBZ_NNP_CC
@@ -729,8 +724,6 @@ NNS_VBD_VBN
 shows_were_shot	1
 ,_CC_RB
 ,_but_somewhere	1
-FW_NNS_CC
-<br />_Films_and	1
 IN_NNP_''
 in_Havana_''	1
 PRP_VBZ_PRP$
@@ -754,8 +747,6 @@ because_it_was	1
 because_they_wanted	1
 VB_NN_NNP
 alter_ego_Don	1
-IN_NNP_-LRB-
-of_Zorro_-LRB-	1
 FW_:_PRP
 !!!_-_he	1
 MD_VB_VBN
@@ -827,9 +818,8 @@ NN_NN_NNS
 technicolor_Fox_musicals	1
 DT_VBG_VBG
 The_colorizing_being	1
-IN_PRP$_NN
-in_my_opinion	1
-in_their_vault	1
+:_PRP_VBZ
+-_he_threatens	1
 JJ_JJ_NNS
 great_swashbuckling_classics	1
 NNP_NN_IN
@@ -867,6 +857,7 @@ VBP_NN_CC
 support_colorization_and	1
 IN_CD_,
 for_one_,	1
+from_1990-1993_,	1
 WRB_RB_JJ
 How_utterly_disgusting	1
 IN_NNS_IN
@@ -1050,6 +1041,8 @@ VBN_TO_VB
 Dressed_To_Kill	1
 CC_NNS_IN
 or_movies_in	1
+,_CC_PRP
+,_but_I	1
 NN_NNP_IN
 everything_Fox_until	1
 VBZ_RP_RB
@@ -1159,8 +1152,6 @@ VBG_NNP_POS
 buying_Fox_'s	1
 NNP_''_RB
 Casablanca_''_anytime	1
--RRB-_,_VBZ
--RRB-_,_is	1
 POS_JJ_CD
 's_successful_1957-1959	1
 EX_VBZ_DT

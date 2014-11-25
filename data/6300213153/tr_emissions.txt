@@ -4,8 +4,6 @@ PRP$_NNS_:
 my_observations_:	1
 DT_NNS_,
 the_years_,	1
-DT_NN_-LRB-
-the_set_-LRB-	1
 CC_DT_NN
 and_the_skirt	1
 and_the_rest	1
@@ -35,12 +33,8 @@ Helen_from_behind	1
 NN_RB_VBZ
 female_actually_gets	1
 woman_actually_gets	1
-NNP_-RRB-_CC
-Spock_-RRB-_and	1
 JJ_IN_NNP
 common_throughout_Star	1
-NN_RB_VBD
-<p>_Highly_recommended	1
 NNS_IN_NNP
 episodes_from_Star	1
 motives_of_Dr.	1
@@ -58,8 +52,8 @@ VBP_JJ_IN
 are_common_throughout	1
 IN_VBG_PRP$
 by_risking_her	1
-:_NN_''
-:_<p>_''	1
+NNP_''_DT
+Mind_''_an	1
 NN_VBZ_NNS
 episode_contains_moments	1
 VBD_PRP_IN
@@ -108,8 +102,8 @@ DT_VBD_VBG
 a_dove_reaching	1
 JJ_TO_VB
 enough_to_convince	1
-IN_NNP_-RRB-
-of_Kirk_-RRB-	2
+RB_JJ_CD
+visibly_uncomfortable_one	1
 VB_PRP_:
 see_her_...	1
 ,_VBN_DT
@@ -122,15 +116,13 @@ been_dominated_by	1
 IN_NN_.
 on_occasion_.	1
 Like_DEATH_!	1
--RRB-_CC_DT
--RRB-_and_the	1
 NN_,_PRP
 world_,_she	1
--RRB-_PRP_VBZ
--RRB-_It_looks	1
 VBZ_NNP_NN
 plays_Enterprise_psychiatrist	1
 plays_Enterprise_psychologist	1
+NNS_NNP_PRP
+upsets_Kirk_I	1
 RB_DT_NN
 well_some_action	1
 about_a_size	1
@@ -144,14 +136,12 @@ flirts_with_Captain	1
 flirts_with_Kirk	1
 CC_NNP_POS
 but_Helen_'s	1
-NNP_-RRB-_.
-Kirk_-RRB-_.	2
 NNP_CC_NN
 Kirk_and_company	1
+NNP_WP_VBD
+Noel_who_did	1
 RP_TO_DT
 up_to_the	1
-NNS_:_NN
-observations_:_<p>	1
 DT_NNP_''
 the_Mind_''	1
 PRP_VBP_IN
@@ -162,6 +152,8 @@ RB_JJ_IN
 too_short_in	2
 absolutely_teriffic_in	1
 too_small_for	1
+NNP_PRP_VBP
+Kirk_I_love	1
 ,_CC_NNP
 ,_but_Helen	1
 PRP_RB_TO
@@ -183,11 +175,6 @@ are_several_things	1
 VBP_VBN_TO
 are_shocked_to	1
 are_supposed_to	1
-NNP_NNP_-RRB-
-Helen_Noel_-RRB-	2
-Mr._Spock_-RRB-	1
-TO_VB_NN
-to_convince_anyone	1
 VBN_NNP_NNP
 used_Dr._Simon	1
 NN_VBD_NNP
@@ -202,14 +189,10 @@ NNP_,_NNP
 Second_,_Morgan	1
 JJR_IN_NNP
 better_of_Kirk	2
-NN_NN_NN
-<p>_A_couple	1
 IN_PRP$_NNS
 of_my_observations	1
 RB_,_DT
 However_,_the	1
-NNP_-LRB-_PRP
-Kirk_-LRB-_I	1
 WDT_VBP_JJ
 that_are_common	1
 VBD_NNP_NNP
@@ -218,6 +201,8 @@ NNP_CC_PRP
 Cathy_and_I	1
 NN_MD_VB
 fan_will_want	1
+:_NNP_:
+:_Kirk_:	1
 PRP_WRB_DT
 it_when_a	1
 :_``_IN
@@ -241,27 +226,29 @@ few_of_my	1
 teriffic_in_her	1
 NN_VBP_RB
 sickbay_are_particularly	1
-NN_-LRB-_NNP
-set_-LRB-_Dr.	1
 NNS_,_PRP$
 years_,_my	1
 NNP_NNP_NNP
 Dr._Tristan_Adams	1
-<br />_Van_Gelder	1
-<p>_The_Neural	1
+Leonard_Nimoy_Mr.	1
+Nimoy_Mr._Spock	1
 Simon_Van_Gelder	3
-<p>_Morgan_Woodward	1
+Marianna_Hill_Helen	1
 The_Neural_Neutralizer	1
 Vulcan_Mind_Meld	1
-Dr._Simon_Van	3
+Hill_Helen_Noel	1
 Dr._Helen_Noel	3
+Dr._Simon_Van	3
 Dr._Van_Gelder	1
 ,_PRP$_NN
 ,_my_sister	1
 VBZ_RB_RB
 does_n't_quite	1
 NNP_CC_DT
+Spock_and_the	1
 Adams_and_the	1
+IN_NNP_.
+of_Kirk_.	2
 NN_NNS_NNP
 camera_films_Helen	1
 NN_VB_DT
@@ -276,23 +263,15 @@ performance_as_Dr.	1
 sight_of_Kirk	1
 portrayal_of_Dr.	1
 mind_of_Dr.	1
-NNP_''_DT
-Mind_''_an	1
 DT_NNS_.
 the_inmates_.	1
 RB_JJ_.
 quite_enjoyable_.	1
 particularly_intense_.	1
+LS_NNP_NNP
+1_Dr._Adams	1
 TO_VB_.
 to_own_.	1
-JJ_-LRB-_CD
-uncomfortable_-LRB-_one	1
-,_DT_NN
-,_the_episode	1
-,_a_psychiatrist	1
-,_the_director	1
-,_this_episode	1
-,_the_chair	1
 VBN_PRP_RB
 brought_her_back	1
 NN_VBG_DT
@@ -331,13 +310,12 @@ NN_NNS_CC
 plot_inconsistencies_and	1
 VBG_TO_RB
 refreshing_to_finally	1
--LRB-_LS_-RRB-
--LRB-_1_-RRB-	1
--LRB-_2_-RRB-	1
 PRP$_NN_VBZ
 his_mind_has	1
 NN_VBZ_VBG
 director_is_using	1
+NN_NN_WDT
+Starfleet_uniform_which	1
 VBZ_TO_VB
 happens_to_be	1
 seems_to_fit	1
@@ -355,14 +333,10 @@ DT_NNP_VBZ
 these_Starfleet_skirts	1
 CC_NN_,
 and_suspense_,	1
-NNP_-RRB-_DT
-Noel_-RRB-_a	1
 NN_RB_JJ
 size_too_small	1
 bit_too_short	1
 bit_too_tight	1
-NN_-LRB-_WDT
-uniform_-LRB-_which	1
 JJ_NN_NN
 23rd_century_dentist	1
 interesting_story_make	1
@@ -381,15 +355,14 @@ Spock_uses_it	1
 VB_DT_NN
 probe_the_mind	1
 fit_a_bit	1
-<p>_The_acting	1
 have_a_woman	1
 be_a_bit	1
 PRP$_JJ_NNS
 His_emotional_expressions	1
-RB_JJ_-LRB-
-visibly_uncomfortable_-LRB-	1
 VB_NNP_NNP
 save_Captain_Kirk	1
+NNP_DT_NNP
+Noel_a_Starfleet	1
 VB_WP_VBZ
 cover_what_is	1
 IN_PRP$_NN
@@ -405,12 +378,12 @@ particulary_Leonard_Nimoy	1
 beautiful_Marianna_Hill	1
 NN_._''
 DEATH_!_''	1
+NNS_:_''
+observations_:_''	1
 :_NN_:
 ..._ummmm_...	1
 NN_,_VBN
 symbol_,_given	1
--LRB-_PRP_VBP
--LRB-_I_love	1
 NN_,_VBG
 planet_,_making	1
 NNS_JJ_:
@@ -429,6 +402,8 @@ DT_RB_NNS
 this_visibly_upsets	1
 :_NNS_.
 ..._undies_.	1
+:_LS_NNP
+:_1_Dr.	1
 IN_PRP_.
 for_her_.	1
 NN_:_JJ
@@ -447,6 +422,7 @@ Hill_plays_Enterprise	1
 NNP_RB_VBZ
 Helen_playfully_flirts	1
 NNP_NNP_CC
+Mr._Spock_and	1
 Dr._Adams_and	1
 NNP_NNP_POS
 Van_Gelder_'s	1
@@ -500,10 +476,12 @@ the_planet_,	1
 the_world_,	1
 this_symbol_,	1
 the_story-line_,	1
+:_''_NNP
+:_''_Dagger	1
 DT_NN_.
 the_sun_.	1
 some_action_.	1
-the_back_.	1
+the_back_.	2
 a_change_.	1
 DT_JJR_IN
 the_better_of	2
@@ -513,8 +491,6 @@ VB_DT_JJ
 wear_the_traditional	1
 RB_VB_PRP
 plainly_see_her	1
-:_-LRB-_LS
-:_-LRB-_1	1
 WDT_RB_VBZ
 which_just_happens	1
 VBZ_PRP$_NN
@@ -556,8 +532,6 @@ VBG_DT_VBD
 holding_a_dove	1
 JJ_NN_VBG
 gloved_hand_holding	1
--RRB-_NNP_NNP
--RRB-_Dr._Adams	1
 VB_VBN_.
 be_covered_.	1
 NNS_CC_NN
@@ -575,12 +549,8 @@ with_his_dramatic	1
 in_her_blue	1
 RB_VB_WP
 quite_cover_what	1
-NNP_NNP_-LRB-
-Marianna_Hill_-LRB-	1
-Leonard_Nimoy_-LRB-	1
 NNP_NNP_:
 Van_Gelder_:	1
-<p>_Kirk_:	1
 DT_JJ_``
 any_devout_``	1
 CD_IN_DT
@@ -601,35 +571,29 @@ Kirk_visibly_uncomfortable	1
 NN_NNP_NNP
 psychologist_Dr._Helen	1
 psychiatrist_Dr._Helen	1
+set_Dr._Helen	1
 EX_VBP_DT
 there_are_some	1
 DT_JJ_RB
 the_charming_yet	1
-NNS_:_-LRB-
-items_:_-LRB-	1
 MD_VB_TO
 will_want_to	1
-RB_DT_JJS
-not_the_greatest	1
+NNS_:_LS
+items_:_1	1
 TO_RB_VB
 to_finally_have	1
 VBP_PRP_WRB
 love_it_when	1
-NNS_NNP_-LRB-
-upsets_Kirk_-LRB-	1
 JJ_JJ_NN
 blue_mini-skirted_Starfleet	1
-<p>_Great_acting	1
-NNP_-RRB-_WP
-Noel_-RRB-_who	1
+NNP_NNP_DT
+Helen_Noel_a	1
 NNP_IN_NN
 Kirk_on_occasion	1
 Gelder_in_search	1
 Gelder_in_sickbay	1
 MD_RB_VB
 can_plainly_see	1
-NN_NN_-LRB-
-Starfleet_uniform_-LRB-	1
 NNP_NN_NN
 V_rehabilitation_colony	1
 NN_CC_DT
@@ -644,6 +608,8 @@ a_man_nearly	1
 a_size_too	1
 a_woman_actually	1
 a_bit_too	2
+RB_DT_JJS
+not_the_greatest	1
 PRP_TO_VB
 it_to_probe	1
 PRP_VBZ_PRP$
@@ -686,8 +652,8 @@ by_the_neural	1
 like_a_23rd	1
 from_the_first	1
 by_a_mind-control	1
-VBP_VBN_NNP
-have_used_Dr.	1
+LS_PRP_VBZ
+2_It_looks	1
 PRP_TO_DT
 us_to_the	2
 DT_NNS_IN
@@ -699,8 +665,6 @@ they_feature_a	1
 JJ_NN_TO
 mind-control_device_to	1
 routine_mission_to	1
-DT_NN_-RRB-
-the_back_-RRB-	1
 NN_TO_VB
 mission_to_resupply	1
 device_to_control	1
@@ -727,8 +691,6 @@ the_Tantalus_staff	1
 a_Starfleet_uniform	1
 the_Vulcan_mind	1
 the_Tantalus_colony	2
--LRB-_WDT_RB
--LRB-_which_just	1
 NN_VBZ_IN
 chair_looks_like	1
 DT_JJ_NN
@@ -764,10 +726,6 @@ Mind_Meld_for	1
 Captain_Kirk_during	1
 Van_Gelder_in	2
 Neural_Neutralizer_as	1
-:_NNP_NNP
-:_<p>_Kirk	1
--RRB-_WP_VBD
--RRB-_who_did	1
 CC_IN_DT
 and_on_the	1
 NN_NN_POS
@@ -801,8 +759,6 @@ POS_NN_.
 's_chair_.	1
 WP_VBD_PRP
 What_was_it	1
--LRB-_CD_IN
--LRB-_one_of	1
 IN_IN_PRP$
 out_of_his	1
 TO_VB_DT
@@ -813,6 +769,8 @@ to_be_a	1
 to_resupply_the	1
 VB_NNS_CC
 reshape_memories_and	1
+NN_WDT_RB
+uniform_which_just	1
 NN_IN_DT
 surface_of_the	1
 encounter_in_the	1
@@ -843,6 +801,8 @@ the_camera_films	1
 the_sinsiter_motives	1
 some_plot_inconsistencies	1
 the_guest_actors	1
+DT_NN_NNP
+the_set_Dr.	1
 NN_,_IN
 suspense_,_as	1
 device_,_with	1
@@ -906,7 +866,6 @@ her_life_to	1
 EX_VBP_JJ
 There_are_several	1
 NN_''_NNP
-<p>_''_Dagger	2
 make_''_Dagger	1
 NNP_NN_MD
 Trek_fan_will	1
@@ -933,12 +892,10 @@ shocked_to_discover	1
 supposed_to_be	2
 CC_NNS_IN
 and_gaps_in	1
--LRB-_NNP_NNP
--LRB-_Mr._Spock	1
--LRB-_Helen_Noel	1
--LRB-_Dr._Helen	1
+TO_VB_NN
+to_convince_anyone	1
 JJ_:_NNP
-unpleasant_:_<p>	1
+unpleasant_:_Kirk	1
 JJ_NNS_TO
 several_things_to	1
 NN_VBZ_PRP
@@ -953,10 +910,6 @@ IN_._''
 like_?_''	1
 VB_DT_NNS
 control_the_inmates	1
--RRB-_DT_NNP
--RRB-_a_Starfleet	1
-NN_-RRB-_.
-back_-RRB-_.	1
 NNP_POS_JJ
 Trek_'s_first	1
 NN_NN_IN
@@ -980,6 +933,8 @@ POS_VBZ_RB
 ''_fan_.	1
 PRP_VBP_VBN
 I_have_used	1
+VBP_VBN_NNP
+have_used_Dr.	1
 IN_DT_NNP
 of_the_Mind	1
 about_the_Tantalus	1
@@ -995,6 +950,8 @@ Over_the_years	1
 ,_with_the	1
 RB_,_CC
 together_,_and	1
+JJ_CD_IN
+uncomfortable_one_of	1
 NNS_IN_DT
 gaps_in_the	1
 episodes_from_the	1
@@ -1035,6 +992,8 @@ things_to_like	1
 VBZ_IN_DT
 looks_like_the	1
 looks_like_a	1
+NNP_NNP_WP
+Helen_Noel_who	1
 NN_NNS_.
 guest_actors_.	1
 control_minds_.	1
@@ -1044,10 +1003,8 @@ the_better_episodes	2
 ``_What_was	1
 VB_DT_NNP
 resupply_the_Tantalus	1
-LS_-RRB-_PRP
-2_-RRB-_It	1
-LS_-RRB-_NNP
-1_-RRB-_Dr.	1
+NNP_,_WP
+Hill_,_who	1
 RB_JJ_NNP
 yet_sinister_Dr.	1
 EX_VBZ_DT
@@ -1069,8 +1026,6 @@ Kirk_for_a	1
 Neutralizer_as_a	1
 Meld_for_the	1
 Dagger_of_the	3
-NNP_,_WP
-Hill_,_who	1
 VBP_RB_JJ
 are_particularly_intense	1
 WP_VBD_RB
@@ -1079,9 +1034,12 @@ NNS_NNP_IN
 films_Helen_from	1
 NN_,_NNP
 colony_,_Kirk	1
-NNP_-LRB-_NNP
-Nimoy_-LRB-_Mr.	1
-Hill_-LRB-_Helen	1
+,_DT_NN
+,_the_episode	1
+,_a_psychiatrist	1
+,_the_director	1
+,_this_episode	1
+,_the_chair	1
 RB_VBN_IN
 nearly_driven_out	1
 RB_JJ_,

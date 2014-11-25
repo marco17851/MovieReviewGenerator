@@ -28,13 +28,6 @@ VB_NN_JJ
 be_reason_enough	1
 CC_WP_VBD
 but_what_passed	1
-FW_FW_NNP
-<br />_<br />_Astrid	2
-<br />_<br />_Teresa	2
-<br />_<br />_Karl	1
-<br />_<br />_Strauss	1
-<br />_<br />_Wilde	1
-<br />_<br />_Stratas	1
 TO_VB_,
 to_do_,	1
 to_watch_,	1
@@ -64,6 +57,7 @@ time_she_raise	1
 person_you_love	1
 fact_I_think	1
 star-quality_you_associate	1
+end_I_admit	1
 NN_RB_VBZ
 problem_now_is	1
 production_really_captures	1
@@ -71,10 +65,8 @@ DVD_even_comes	1
 depravity_now_shows	1
 NNP_:_PRP
 Jokanaan_--_I	1
-NNP_-RRB-_CC
-Dance_-RRB-_and	1
-Salome_-RRB-_&	1
 NN_RB_VBD
+generation_ago_was	1
 praise_heretofore_said	1
 opera_however_used	1
 IN_NNP_PRP
@@ -94,16 +86,12 @@ VBZ_RP_:
 crashes_down_...	1
 VBP_PRP_.
 need_him_?	1
-RB_,_''
-dear_,_''	1
 CC_NN_JJ
 and_mouth_gaping	1
 VBZ_RP_.
 goes_on_.	1
 VBP_PRP_:
 own_them_;	1
--RRB-_VBD_NNP
--RRB-_praised_Stratas	1
 VBD_PRP_IN
 put_yourself_above	1
 used_it_for	1
@@ -158,6 +146,7 @@ strong_voice_of	1
 wonderful_actress_with	1
 dangerous_vibe_about	1
 obvious_excellence_of	1
+cinematic_version_in	1
 great_deal_of	1
 top_form_for	1
 hateful_screed_at	1
@@ -176,11 +165,10 @@ well_known_.	1
 NNS_JJ_CD
 shots_realistic_------	1
 DT_NNP_CC
+The_Dance_and	1
 the_Laserdisc_and	1
 TO_PRP$_NNS
 to_its_limits	1
--LRB-_NNP_POS
--LRB-_Salome_'s	1
 DT_NN_TO
 this_opera_to	1
 the_drama_to	1
@@ -199,11 +187,12 @@ and_including_a	1
 DT_NN_VBG
 the_boat_crossing	1
 DT_NN_VBD
-The_file_was	1
+this_DVD_praised	1
 The_film_shocked	1
 any_DVD_were	1
-the_machine_broke	1
 The_photography_was	1
+The_file_was	1
+the_machine_broke	1
 RB_JJ_CC
 truly_Medusa-looking_and	1
 so_scary_and	1
@@ -307,12 +296,6 @@ in_essence_everything	1
 of_morning_dew	1
 NNP_,_FW
 Iokanaan_,_mais	1
--LRB-_``_PRP
--LRB-_``_He	1
-FW_CC_WP
-<br />_But_what	1
-NNS_-LRB-_EX
-productions_-LRB-_there	1
 CC_IN_VBG
 but_by_repeating	1
 and_while_looking	1
@@ -359,8 +342,6 @@ VBD_VBN_VBN
 had_been_released	1
 DT_JJS_``
 the_best_`	1
-RB_JJ_-RRB-
-not_cinematic_-RRB-	1
 PRP$_NN_NN
 his_prima_donna	1
 JJ_:_DT
@@ -368,8 +349,6 @@ many_;_that	1
 harrowing_;_this	1
 PRP_VBZ_NNP
 it_follows_Wilde	1
-IN_NNS_-LRB-
-with_closeups_-LRB-	1
 WDT_NN_MD
 what_opera_can	1
 TO_DT_.
@@ -396,6 +375,9 @@ RB_VBN_CC
 rather_plumb_and	1
 CC_JJ_CC
 and_passionate_and	1
+FW_,_FW
+moi_,_moi	1
+bien_,_tu	1
 JJ_NNS_RB
 many_years_ago	1
 beautiful_things_around	1
@@ -403,12 +385,19 @@ JJ_IN_JJS
 scary_as_best	1
 IN_VBN_RBR
 As_noted_earlier	1
-FW_FW_JJR
-<br />_<br />_More	1
--RRB-_NNP_VBZ
--RRB-_Bilbo_is	1
-FW_CD_IN
-<br />_One_of	1
+MD_VB_DT
+may_be_a	1
+would_be_a	1
+would_save_the	1
+'ll_congratulate_the	1
+would_put_the	1
+must_be_a	1
+would_be_this	1
+can_imagine_a	1
+could_be_a	1
+can_do_that	1
+may_be_the	2
+must_feel_some	1
 DT_VBZ_IN
 That_is_of	1
 That_'s_because	1
@@ -452,6 +441,7 @@ JJS_NN_EX
 best_version_there	1
 CD_DT_NN
 one_a_number	1
+1974_the_image	1
 IN_VBG_.
 while_watching_.	1
 ,_CC_IN
@@ -548,8 +538,6 @@ NN_RP_.
 way_around_.	1
 VBZ_JJR_IN
 is_more_than	1
-NN_:_-LRB-
-PACKAGE_:_-LSB-	1
 DT_IN_WDT
 all_of_which	1
 CC_DT_NNP
@@ -559,8 +547,6 @@ enough_what_she	1
 CC_JJ_,
 &_alluring_,	1
 and_catlike_,	1
-FW_DT_JJ
-<br />_The_directorial	1
 NN_CC_VB
 love_and_enjoy	1
 production_and_settle	1
@@ -672,8 +658,6 @@ much_in_tune	1
 available_on_amazon	1
 available_on_DVD	1
 grotesque_in_appearance	1
-DT_VBN_-LRB-
-a_staged_-LRB-	1
 PRP$_NN_VBD
 my_perception_was	1
 her_backside_was	1
@@ -686,9 +670,8 @@ WDT_VBD_PRP
 that_disintigrated_I	1
 VBZ_,_IN
 is_,_with	1
-VBD_PRP_VBD
-disintigrated_I_spent	1
-thought_it_was	1
+NNP_CC_RB
+Dance_and_brilliantly	1
 MD_''_IN
 must_''_for	1
 ,_PRP$_NN
@@ -774,13 +757,12 @@ performance_of_Stratas	1
 film_of_Salome	3
 sequence_of_Salome	1
 madness_of_Salome	1
+Translation_of_Wilde	1
 queen_of_Salomes	1
 performance_as_Salome	1
 performance_from_Teresa	1
 audio_of_Nilsson	1
 production_from_Covent	1
--LRB-_CD_-RRB-
--LRB-_1974_-RRB-	1
 RB_,_VBZ
 however_,_is	1
 VBP_RB_VBG
@@ -809,15 +791,14 @@ PRP_,_VBP
 them_,_do	1
 RB_,_VBD
 else_,_found	1
-NNS_-LRB-_DT
-closeups_-LRB-_the	1
+DT_NNS_:
+the_subtitles_-	1
+these_reviews_...	1
 RB_,_VBG
 here_,_letting	1
 MD_VB_TO
 would_like_to	1
 can_attest_to	1
-FW_NN_-LRB-
-<br />_Translation_-LRB-	1
 NN_VBG_DT
 boat_crossing_the	1
 anybody_buying_this	1
@@ -953,8 +934,6 @@ PRP$_JJ_NNS
 her_fellow_performers	1
 NNP_DT_NNP
 John_the_Baptist	3
-JJ_NNS_-RRB-
-previous_reviews_-RRB-	1
 WRB_WDT_VBD
 when_that_disintigrated	1
 IN_NNP_MD
@@ -962,6 +941,8 @@ that_Herodes_would	1
 NN_,_CC
 conductor_,_and	1
 set_,_but	1
+R_,_and	1
+figure_,_but	1
 theatre_,_but	1
 finale_,_and	1
 version_,_and	1
@@ -995,10 +976,6 @@ CC_PRP$_NNS
 and_his_looks	1
 JJR_IN_CD
 more_than_five	1
-TO_VB_JJR
-to_happen_more	1
-to_have_more	1
-to_see_more	1
 DT_NN_VBN
 the_scene_restored	1
 a_dream_come	1
@@ -1010,18 +987,21 @@ PRP_VBZ_CD
 it_says_1976	1
 PRP_VBZ_CC
 she_demands_and	1
-NNP_-RRB-_VBZ
-Friedrich_-RRB-_has	1
+TO_DT_NNS
+to_the_performers	1
+to_the_demands	1
 VBD_IN_VBG
 passed_for_acting	1
 CD_IN_PRP
 one_of_them	1
+NNS_:_PRP
+words_:_You	1
 VB_RB_.
 buy_again_!	1
+NNP_DT_JJ
+Nilsson_the_only	1
 IN_WDT_NN
 into_what_opera	1
-DT_NNP_-LRB-
-The_Dance_-LRB-	1
 NNS_:_CC
 memories_-_and	1
 RP_NNP_POS
@@ -1031,14 +1011,12 @@ and_intelligent_acting	1
 and_overall_frightening	1
 NN_RP_VBG
 end_up_being	1
-IN_TO_DT
-up_to_the	1
+CC_NNP_IN
+and_Violetta_in	1
 RP_DT_RB
 up_all_just	1
 VBP_IN_EX
 feel_that_there	1
-NN_RB_-LRB-
-time_appropriately_-LRB-	1
 PRP_RB_IN
 it_back_with	1
 her_only_through	1
@@ -1048,10 +1026,11 @@ RB_VBN_PRP$
 now_changed_my	1
 NNP_NNP_CC
 Sophia_Loren_and	1
-Josephine_Barstow_and	1
 La_Traviata_and	1
+Stratas_Salome_&	1
 Meryl_Streep_or	1
 Georg_Solti_and	1
+Josephine_Barstow_and	1
 VBG_RB_VBN
 being_ideally_cast	1
 NNP_RB_MD
@@ -1127,11 +1106,8 @@ fact_that_they	1
 none_of_them	1
 store_for_me	1
 print_if_you	1
-<br />_Although_it	1
 vibe_about_her	1
 fear_than_she	1
-:_JJ_NNP
--_<br />_REVIEW	1
 VBN_JJR_DT
 gathered_more_all	1
 CC_NNS_VBP
@@ -1168,11 +1144,12 @@ let_you_feel	1
 NNP_VBZ_RB
 Varnay_is_also	1
 Beirer_is_not	1
-Mafitano_is_so	1
+Friedrich_has_also	1
 Varnay_is_well	1
 Berlin_proceeds_seemingly	1
 Herod_is_perfectly	1
 Salome_is_simply	2
+Mafitano_is_so	1
 Varnay_is_absolutely	1
 Stratas_looks_convincingly	1
 Weikl_is_vocally	1
@@ -1185,8 +1162,6 @@ VBN_CC_VBP
 played_and_are	1
 VB_DT_.
 do_that_.	1
-RB_:_JJ
-elsewhere_-_<br />	1
 NN_NN_CC
 laserdisc_version_and	1
 JJ_VBD_RB
@@ -1208,8 +1183,6 @@ R._Strauss_-	2
 Strauss_Operas_;	1
 VBG_JJ_NNS
 portraying_Biblical_figures	1
-IN_JJS_-RRB-
-at_least_-RRB-	1
 DT_NN_PRP
 the_way_it	1
 The_story_itself	1
@@ -1218,6 +1191,7 @@ The_costuming_I	1
 any_case_you	1
 the_look_she	1
 the_heroine_she	1
+the_end_I	1
 a_way_she	1
 every_whim_he	1
 this_video_she	1
@@ -1237,9 +1211,11 @@ seeking_to_arouse	1
 VBZ_DT_IN
 reveals_all_in	1
 NN_NNP_NNP
+director_Gotz_Friedrich	1
+librettist_Hedwig_Lachmann	1
 name_Teresa_Stratas	1
-EX_RB_VBZ
-There_simply_is	1
+NNP_NNS_EX
+Mafitano_productions_there	1
 ''_RB_VBN
 '_ever_filmed	1
 RB_DT_JJS
@@ -1254,8 +1230,6 @@ feelings_of_fear	1
 strengths_of_film	1
 breaks_that_film	1
 figures_on_stage	1
--LRB-_WDT_VBZ
--LRB-_which_is	1
 VBZ_RB_TO
 comes_back_to	1
 comes_close_to	1
@@ -1266,8 +1240,6 @@ TO_NN_NNS
 to_ticket_prices	1
 VBN_CC_VBG
 shown_&_listening	1
--LRB-_RB_DT
--LRB-_even_a	1
 VBD_JJ_IN
 became_available_on	1
 VBZ_PRP_VBP
@@ -1275,8 +1247,8 @@ raves_you_read	1
 RB_IN_JJ
 consistently_with_less-melodic	1
 not_by_insulting	1
-,_IN_VBZ
-,_though_is	1
+``_IN_DT
+``_over_the	1
 ``_PRP_VBD
 ``_He_did	1
 CC_NNP_WP$
@@ -1331,11 +1303,8 @@ dull_but_I	1
 NNP_NNPS_''
 Seven_Veils_''	1
 FW_FW_NN
-<br />_<br />_Translation	1
-veut_voir_son	1
 tu_ne_m	1
-<br />_<br />_Money	1
-<br />_<br />_Tha	1
+veut_voir_son	1
 tu_l'as_vu	1
 JJ_TO_RBR
 hard_to_better	1
@@ -1357,8 +1326,6 @@ RBS_JJ_NNP
 most_appropriate_Salome	1
 most_memorable_Herodias	1
 most_thrilling_Strauss	1
--LRB-_RB_JJ
--LRB-_not_cinematic	1
 RB_,_IN
 Now_,_if	1
 side-by-side_,_so	1
@@ -1366,6 +1333,7 @@ outwardly_,_at	1
 brilliantly_,_with	1
 NNP_NN_NNP
 Vickers_singing_Herod	1
+Johanaan_aka_John	1
 Stratas_avd_Varnay	1
 VB_NN_,
 create_excitement_,	1
@@ -1386,15 +1354,11 @@ MD_VB_IN
 must_be_for	1
 must_hope_that	1
 could_sit_through	1
-IN_NNP_-LRB-
-by_Strauss_-LRB-	1
 PRP_CC_NNP
 he_and_Salome	1
 she_and_Hans	1
 WRB_IN_NN
 where_in_fact	1
--RRB-_IN_PRP$
--RRB-_in_her	1
 NN_VBZ_RB
 scandal_is_actually	1
 opera_works_too	1
@@ -1429,8 +1393,6 @@ MD_PRP_VB
 Can_you_tell	1
 Will_it_be	1
 can_I_add	1
-NNP_NN_VBZ
-Michael_production_is	1
 VB_,_VBG
 count_,_beginning	1
 RB_VBG_WP
@@ -1447,8 +1409,6 @@ DT_NNS_VBP
 The_costumes_are	1
 the_hits_keep	1
 The_sets_are	1
-NN_-RRB-_VBD
-DVD_-RRB-_praised	1
 ,_VBD_PRP
 ,_put_yourself	1
 RB_IN_VBG
@@ -1486,7 +1446,6 @@ me_she_would	1
 NNP_NNP_``
 Simon_Estes_`	1
 FW_IN_DT
-<br />_With_the	1
 awe_as_this	1
 </a>_As_a	1
 JJ_,_IN
@@ -1538,18 +1497,18 @@ in_my_lifetime	1
 of_her_life	1
 in_its_impact	1
 about_their_skill	1
-PRP_VBP_-RRB-
-I_think_-RRB-	1
--RRB-_VBP_RB
--RRB-_are_not	1
+VBD_PRP_VBD
+disintigrated_I_spent	1
+thought_it_was	1
 CC_WP_RB
 But_what_really	1
 IN_NN_RB
 on_DVD_even	1
-of_film_brilliantly	1
+in_opera_even	1
 on_TV_long	1
-of_somethig_else	1
 on_video_so	1
+of_somethig_else	1
+of_film_brilliantly	1
 VB_``_JJ
 say_``_hey	1
 ''_NNP_WDT
@@ -1589,8 +1548,6 @@ VBP_,_NNP
 think_,_Jon	1
 VBP_IN_JJ
 compare_of_modern	1
--RRB-_WP_VBD
--RRB-_who_was	1
 VBZ_NNP_CC
 follows_Wilde_and	1
 ,_JJS_NN
@@ -1601,9 +1558,6 @@ VBN_PRP_NNP
 brought_me_OUT	1
 RB_VBD_NNP
 however_used_Oscar	1
-DT_CD_JJ
-this_one_last	1
-The_one_other	1
 IN_PRP_IN
 like_it_in	1
 NNS_PRP_TO
@@ -1611,6 +1565,7 @@ confines_itself_to	1
 JJR_,_PRP
 more_,_she	1
 NNP_IN_PRP$
+Varnay_in_her	1
 Salome_in_her	1
 VBZ_JJ_VBG
 is_worth_studying	1
@@ -1618,8 +1573,6 @@ CC_NNP_VBZ
 and_Riegel_is	1
 and_Varnay_is	1
 &_Sam_shows	1
--LRB-_MD_PRP
--LRB-_Can_you	1
 PRP_DT_JJ
 her_the_ideal	1
 herself_a_great	1
@@ -1643,8 +1596,6 @@ original_,_which	1
 staging_,_which	1
 IN_DT_PRP
 In_this_it	1
-JJ_-RRB-_NN
-cinematic_-RRB-_version	1
 VBN_,_NNP
 mentioned_,_Teresa	1
 CD_NNS_.
@@ -1682,10 +1633,10 @@ shows_only_in	1
 looks_convincingly_like	1
 is_well_past	1
 's_here_that	1
-IN_PRP_-RRB-
-for_it_-RRB-	1
 PRP_VBZ_NN
 she_has_beauty	1
+NNS_DT_NN
+closeups_the_shot	1
 POS_NN_RB
 's_play_almost	1
 ``_PRP$_NN
@@ -1754,13 +1705,14 @@ orchestra_and_singers	1
 direction_&_sets	1
 NNP_NNP_NN
 Nadja_Michael_production	1
-<br />_Karl_B&ouml;hm	1
+Weikl_Johanaan_aka	1
 JAMES_LEVINE_DVD	1
 Jon_Vickers_singing	1
 VBN_RB_,
 cast_here_,	1
-NNP_-LRB-_WDT
-Dance_-LRB-_which	1
+VBN_RB_.
+done_again_.	1
+set_back_.	1
 IN_PRP$_RB
 among_my_very	1
 CC_,_PRP
@@ -1785,6 +1737,7 @@ although_grotesque_in	1
 IN_VBZ_RB
 though_is_not	1
 JJ_NNS_VBD
+=_Circumstances_gave	1
 Other_artists_were	1
 conventional_arias_did	1
 JJ_NNS_VBG
@@ -1813,22 +1766,14 @@ RP_TO_NN
 out_to_something	1
 NN_POS_NN
 mother_'s_child	1
-NNP_NNP_-RRB-
-Astrid_Varnay_-RRB-	1
-Covent_Garden_-RRB-	1
-Hedwig_Lachmann_-RRB-	1
-Gotz_Friedrich_-RRB-	1
-Jon_Vickers_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Hedwig_Lachmann	1
--LRB-_Gotz_Friedrich	1
--LRB-_Astrid_Varnay	1
+NNS_PRP_MD
+things_one_can	1
 NNP_NN_JJ
 Roman_fool_ready	1
 IN_NNS_POS
 with_others_'	1
--RRB-_CC_RB
--RRB-_and_brilliantly	1
+RB_VBD_RB
+ago_was_mostly	1
 RB_,_JJ
 well_,_able	1
 ,_''_NNP
@@ -1898,8 +1843,8 @@ of_the_subtitles	1
 for_any_singers	1
 in_the_seventies	1
 of_the_tears	1
-FW_FW_:
-<br />_<br />_--	1
+:_:_NNP
+:_--_Strauss	1
 NNP_WRB_PRP
 Donizetti_when_you	1
 NNS_VBG_IN
@@ -1969,12 +1914,12 @@ CD_NNS_VBZ
 NN_NNS_,
 camera_pans_,	1
 film_permits_,	1
+JJ_:_:
+obvious_:_--	1
 TO_RBR_.
 to_better_.	1
 VBN_CC_IN
 remastered_and_in	1
-JJ_NN_-RRB-
-slight_figure_-RRB-	1
 CC_DT_VBP
 But_these_are	1
 CC_JJ_NN
@@ -1990,15 +1935,11 @@ and_dramatic_conducting	1
 TO_NN_.
 to_incest_.	1
 to_seed_.	1
-NN_``_NNP
-role_`_Salome	1
 CC_DT_VBZ
 but_this_is	2
 But_this_is	1
 NNP_POS_VBG
 Salome_'s_going	1
-FW_:_NNP
-<br />_--_Strauss	1
 VBZ_DT_``
 is_an_`	1
 EX_VBZ_DT
@@ -2012,25 +1953,23 @@ IN_DT_RB
 with_a_very	1
 by_this_again	1
 in_this_psychologically	1
+PRP_WRB_PRP
+it_when_you	1
 NN_''_.
 top_''_.	1
--RRB-_WDT_VBZ
--RRB-_that_comes	1
 IN_RB_.
 at_once_.	1
 IN_RB_,
 as_well_,	1
 TO_CD_,
 to_1080_,	1
-NN_._-RRB-
-stuff_._-RRB-	1
 VB_IN_VBG
 volunteer_for_drowning	1
 hear_while_sitting	1
+JJ_WRB_POS
+gaping_where_'s	1
 JJR_DT_IN
 more_all_of	1
-RB_NN_POS
-not_Salom&eacute;_'s	1
 VBZ_NNP_NNP
 'S_JAMES_LEVINE	1
 VBG_RB_.
@@ -2038,8 +1977,6 @@ studying_deeply_.	1
 watching_anyway_.	1
 VBZ_CD_IN
 is_one_of	1
-NNP_-LRB-_WP
-Varnay_-LRB-_who	1
 VB_IN_VBN
 see_that_done	1
 TO_JJR_NN
@@ -2072,9 +2009,6 @@ VBD_DT_JJS
 was_the_greatest	1
 DT_VBZ_RB
 this_is_not	1
-FW_NNP_POS
-<br />_Stratas_'s	1
-<br />_Strauss_'s	1
 RB_VB_IN
 n't_know_about	1
 n't_be_that	1
@@ -2126,17 +2060,13 @@ enjoyed_this_performance	1
 given_the_performance	1
 JJ_MD_RB
 aesthetic_ca_n't	1
-VBN_RB_.
-done_again_.	1
-set_back_.	1
 IN_NN_RBS
 of_onanism_best	1
 RB_:_NNS
 back_--_tears	1
 RB_:_NNP
+elsewhere_-_REVIEW	1
 much_..._Albert	1
-JJ_TO_RB
-ok_to_not	1
 NNP_WP$_NN
 Strauss_whose_prose	1
 JJ_,_JJ
@@ -2162,11 +2092,10 @@ insulting_Herodias_but	1
 RB_VBN_TO
 n't_directed_to	1
 well_known_to	1
-CC_NN_-RRB-
-&_eroticism_-RRB-	1
 VBG_WP_VBZ
 knowing_what_'s	1
 CC_NN_.
+&_eroticism_.	1
 and_music_.	1
 and_fun_.	1
 NN_WDT_VBP
@@ -2195,8 +2124,6 @@ CC_RB_:
 or_elsewhere_-	1
 PRP_RB_JJ
 me_truly_excited	1
-VBN_-RRB-_NNP
-hooked_-RRB-_Bilbo	1
 VBZ_PRP$_NNS
 tailors_her_histrionics	1
 VBN_VBZ_JJ
@@ -2209,8 +2136,8 @@ CC_NN_TO
 and_graciousness_to	1
 :_NNS_TO
 --_References_to	1
-DT_NNP_-RRB-
-The_Dance_-RRB-	1
+VB_PRP_WRB
+think_it_when	1
 PRP$_NN_CC
 my_head_and	1
 Their_artistry_and	1
@@ -2224,11 +2151,11 @@ are_out_of	1
 think_of_as	1
 PRP_DT_.
 it_all_.	2
+JJS_IN_NN
+least_of_nudity	1
 PRP_,_DT
 him_,_the	1
 me_,_this	1
-NN_JJ_-LRB-
-mouth_gaping_-LRB-	1
 ,_RB_NNS
 ,_not_films	1
 ,_RB_NNP
@@ -2249,7 +2176,6 @@ VBD_IN_NN
 came_on_screen	1
 JJ_NNP_:
 great_Jochanaan_-	1
-<br />_REVIEW_:	1
 RB_CC_PRP
 well_and_I	1
 again_&_I	1
@@ -2264,9 +2190,6 @@ creepy_Jochanaan_,	1
 quintessential_Herodias_,	1
 NNS_TO_NNP
 reactions_to_Herod	1
-RB_VB_CD
-ever_see_one	1
-certainly_be_one	1
 NN_VBG_IN
 palace_being_as	1
 NN_CC_NN
@@ -2297,26 +2220,24 @@ but_Michael_'s	1
 and_Strauss_'s	1
 NNS_RB_CC
 years_ago_and	1
+NNP_NNP_WDT
+Jon_Vickers_that	1
 JJ_CD_''
 old_12_''	1
 PRP_VBP_WRB
 I_remember_when	1
 RB_DT_VBZ
 then_this_is	1
-NNP_._-RRB-
-Dance_._-RRB-	1
 FW_FW_PRP
-<br />_<br />_I	5
 Salome_</a>_You	1
-<br />_<br />_We	2
 CD_CC_IN
 ------_and_if	1
+NNP_WP_VBD
+Herodias_who_was	1
 NN_WDT_MD
 role_that_could	1
 DT_``_NN
 the_``_scandal	1
-NNP_-LRB-_DT
-Nilsson_-LRB-_the	1
 JJ_CD_NNS
 harrowing_90_minutes	1
 PRP_VBP_IN
@@ -2328,6 +2249,7 @@ I_doubt_if	1
 you_are_out	1
 you_dig_for	1
 I_have_about	1
+I_think_with	1
 we_find_that	1
 I_know_of	1
 I_agree_with	2
@@ -2338,10 +2260,14 @@ VBP_RB_DT
 are_already_a	1
 NNP_WP_VBZ
 Mattila_who_is	1
+Varnay_who_sings	1
 TO_VB_TO
 to_learn_to	1
 to_add_to	1
 to_get_to	1
+MD_VB_NN
+would_be_reason	1
+will_use_anything	1
 VBZ_RB_VB
 does_n't_know	1
 does_not_dwell	1
@@ -2366,8 +2292,6 @@ and_then_someone	1
 and_never_tire	1
 DT_VBP_VBZ
 The_Kiss_is	1
-NNS_._-RRB-
-lip-synchers_._-RRB-	1
 ,_FW_:
 ,_moi_...	1
 DT_NNS_WDT
@@ -2395,8 +2319,6 @@ VBD_VBN_CD
 had_turned_180	1
 VB_PRP_NNP
 Buy_it_!!!!!!!!!	1
-NN_NN_-RRB-
-dance_smock_-RRB-	1
 NN_WDT_VBZ
 repertoire_that_says	1
 voice_that_'s	1
@@ -2416,8 +2338,8 @@ VBP_VBN_PRP
 have_shown_it	1
 CC_WRB_WDT
 and_when_that	1
-NN_NNS_VBD
-<br />_Circumstances_gave	1
+,_WRB_PRP
+,_when_you	1
 PRP_:_JJ
 them_;_such	1
 NN_NN_,
@@ -2438,8 +2360,6 @@ opera_singers_are	1
 ,_comes_across	1
 PRP_NNP_NNP
 it_!!!!!!!!!_Whether	1
-RB_TO_VBG
-forward_to_hearing	1
 NNS_VBG_DT
 voices_singing_this	1
 IN_JJ_WP
@@ -2520,8 +2440,6 @@ which_is_not	1
 that_comes_close	1
 that_is_pretty	1
 that_is_exactly	1
--LRB-_NN_-RRB-
--LRB-_R_-RRB-	1
 NNS_VBD_RB
 reviews_were_so	1
 arias_did_n't	1
@@ -2533,6 +2451,8 @@ PRP$_CD_''
 my_56_''	1
 EX_VBZ_,
 there_is_,	1
+,_VBG_PRP
+,_beginning_I	1
 CD_,_CC
 1080_,_and	1
 ,_JJ_JJ
@@ -2543,8 +2463,6 @@ The_Dance_of	1
 this_Salome_in	1
 the_Dance_of	1
 the_Judea_of	1
--LRB-_CC_NN
--LRB-_Or_track	1
 RB_NN_NNS
 suddenly_Salom&eacute;_sucker-punches	1
 TO_NNP_NNP
@@ -2580,13 +2498,12 @@ to_see_.	1
 to_get_!	1
 to_go_.	1
 to_spare_.	1
-JJ_-LRB-_CD
-old_-LRB-_1974	1
 CC_NN_VBN
 and_artistry_involved	1
 CC_NN_VBD
 or_understanding_failed	1
 IN_NNP_NN
+by_Strauss_R	1
 with_Stratas_avd	1
 CC_NN_VBZ
 and_singing_is	1
@@ -2605,14 +2522,8 @@ and_talent_are	1
 ;_so_is	1
 JJR_IN_DT
 More_than_this	1
-FW_FW_SYM
-<br />_<br />_*	1
 IN_VBG_NNP
 after_seeing_Stratas	1
-FW_PRP_VBP
-<br />_I_'ve	1
-<br />_I_have	1
-<br />_I_think	1
 NN_IN_IN
 notice_that_in	1
 VBN_JJ_NNS
@@ -2624,10 +2535,6 @@ find_other_opera	1
 expect_such_intensity	1
 VB_VBN_NNP
 have_sung_Salome	1
-FW_WP_PRP
-<br />_What_I	1
-VBP_CD_IN
-are_one_of	1
 VBP_PRP_CC
 wish_she_and	1
 VBZ_RBR_JJ
@@ -2645,8 +2552,8 @@ PRP$_NN_VBZ
 his_wife_seeks	1
 Her_voice_is	2
 your_interest_is	1
--RRB-_DT_NN
--RRB-_the_image	1
+:_:_:
+:_..._-	1
 CC_VB_IN
 and_settle_for	1
 and_sing_like	1
@@ -2661,11 +2568,10 @@ Karl_Bohm_is	1
 Bernd_Weikl_is	1
 Berlin_Mafitano_suffers	1
 Theresa_Stratas_looks	1
+Gotz_Friedrich_has	1
 Simon_Estes_sings	1
-<br />_Beirer_is	1
 Bernt_Weikl_is	1
 Teresa_Stratas_has	1
-<br />_Herod_is	1
 Astrid_Varnay_is	5
 Berlin_Mafitano_is	1
 Teresa_Stratas_is	5
@@ -2675,8 +2581,6 @@ NNP_DT_RBR
 Herodias_any_more	1
 TO_NNP_.
 to_Herod_.	1
-NN_NNS_-RRB-
-liner_notes_-RRB-	1
 VBZ_RB_WP
 is_exactly_what	1
 VB_PRP$_NNS
@@ -2685,8 +2589,6 @@ arouse_your_emotions	1
 VBP_DT_RB
 provide_an_immensely	1
 are_all_perfectly	1
-JJ_NN_VBG
-young_person_fleeing	1
 VBZ_TO_NN
 has_to_singing	1
 RB_VB_DT
@@ -2698,8 +2600,10 @@ not_miss_this	1
 n't_resist_this	1
 not_have_the	1
 NNP_NNP_VBP
+Covent_Garden_are	1
 Vienna_Philharmonic_provide	1
 Does_Salome_have	1
+Hedwig_Lachmann_are	1
 IN_``_NNP
 into_``_Salome	1
 JJ_IN_JJ
@@ -2715,8 +2619,6 @@ VB_DT_,
 read_this_,	1
 RB_VBZ_RB
 now_shows_only	1
-RB_-RRB-_VBD
-ago_-RRB-_was	1
 FW_NN_``
 tu_m_`	1
 ne_m_`	1
@@ -2763,13 +2665,21 @@ an_actor_and	1
 The_singing_&	1
 VBD_VBN_RB
 was_done_well	1
-FW_SYM_PRP
-<br />_*_I	1
+TO_VB_JJR
+to_happen_more	1
+to_have_more	1
+to_see_more	1
 :_CC_WRB
 -_and_how	1
 VB_VBN_JJ
 be_called_hyper-realistic	1
 have_been_able	2
+NNP_NN_IN
+Jagdpanzer_voice_of	1
+YouTube_video_of	1
+VHS_copy_from	1
+Strauss_conductor_of	1
+Ponelle_production_of	1
 NNP_,_CC
 Salome_,_and	1
 Stratas_,_but	1
@@ -2780,6 +2690,8 @@ Jochanaan_,_but	1
 BUT_,_and	1
 DT_DT_CD
 this_a_Five	1
+NNS_IN_JJS
+Hints_at_least	1
 PRP_VB_IN
 me_know_if	1
 it_be_in	1
@@ -2797,8 +2709,6 @@ desperately_clinging_to	1
 ``_scandal_''	1
 NNP_:_RB
 Welitsch_--_still	1
-JJ_-RRB-_,
-thankful_-RRB-_,	1
 WRB_JJ_:
 how_many_;	1
 NN_,_VBN
@@ -2876,6 +2786,7 @@ seeing_an_opera	1
 putting_this_show	1
 buying_this_DVD	1
 IN_PRP_.
+for_it_.	1
 of_it_.	2
 for_you_!	1
 of_him_.	1
@@ -2888,8 +2799,8 @@ of_us_,	1
 above_her_,	1
 between_them_,	1
 of_him_,	1
-FW_CC_DT
-<br />_But_this	1
+RB_NN_POS
+not_Salom&eacute;_'s	1
 IN_TO_JJR
 on_to_younger	1
 NNP_POS_CC
@@ -2915,6 +2826,7 @@ stunning_both_as	1
 NNP_NNP_POS
 G&ouml;tz_Friedrich_'s	1
 Birgit_Nilsson_'s	1
+Varnay_Salome_'s	1
 Peter_Hall_'s	1
 Karl_Bohm_'s	1
 Wieslaw_Ochman_'s	1
@@ -2925,10 +2837,6 @@ Oscar_Wilde_'s	1
 Richard_Strauss_'s	1
 NN_WRB_VBG
 scene_when_seeking	1
-VBD_JJ_-RRB-
-was_thankful_-RRB-	1
-:_NNS_-LRB-
---_Hints_-LRB-	1
 NN_DT_NN
 production_a_masterpiece	1
 NNP_VBG_DT
@@ -2975,11 +2883,6 @@ the_Berlin/Mafitano/Estes_Salome	1
 --_tears_streaming	1
 WP_PRP_MD
 What_I_would	1
-NN_:_NNS
-<br />_--_References	1
-<br />_--_Hints	1
-NN_:_NNP
-<br />_--_Necrophilia	1
 NN_NN_:
 title_role_-	1
 morning_dew_...	1
@@ -3019,6 +2922,7 @@ opera_audience_.	1
 acting_ability_.	1
 carp_nuzzle_.	1
 star_quality_.	1
+dance_smock_.	1
 VBN_NN_IN
 staged_production_in	1
 seen_anything_like	1
@@ -3026,8 +2930,6 @@ PRP_VBZ_VBG
 she_is_doing	1
 VBZ_NNP_POS
 stretches_Stratas_'	1
-NNS_-RRB-_,
-reviews_-RRB-_,	1
 RB_VBP_IN
 often_feel_that	1
 almost_wonder_if	1
@@ -3167,12 +3069,11 @@ this_should_certainly	1
 this_could_easily	1
 NNP_VBP_RB
 Salome_are_evenly	1
+Lachmann_are_not	1
 VB_VBN_.
 be_shocked_.	1
 VBN_VBG_RB
 involved_watching_anyway	1
-VBZ_JJ_-LRB-
-is_old_-LRB-	1
 RB_VB_WP
 even_remember_who	1
 EX_VBP_RB
@@ -3193,11 +3094,6 @@ PRP_VBZ_IN
 It_'s_like	1
 he_'s_under	4
 he_looks_like	1
-FW_FW_CC
-<br />_<br />_But	2
-FW_FW_CD
-<br />_<br />_Two	1
-<br />_<br />_One	1
 EX_VBP_DT
 There_are_some	1
 VBP_VBN_CC
@@ -3205,10 +3101,6 @@ are_shown_&	1
 PRP_IN_NN
 it_in_opera	1
 us_in_thrall	1
-VBN_-LRB-_RB
-staged_-LRB-_not	1
-NN_NNP_-RRB-
-mother_Herodias_-RRB-	1
 NNP_DT_NN
 Salome_all_end	1
 WRB_PRP_RB
@@ -3220,8 +3112,9 @@ DT_VBD_RB
 This_was_even	1
 WP_VBZ_RB
 who_is_desperately	1
-NNP_-RRB-_WP
-Herodias_-RRB-_who	1
+IN_JJ_JJ
+than_adequate_below-the-waist	1
+of_classic_Freudian	1
 NNP_IN_NN
 Salome_on_video	1
 Salome_on_DVD	1
@@ -3252,25 +3145,20 @@ to_do_this	1
 to_be_the	2
 to_approach_this	1
 To_make_the	1
-:_-RRB-_:
-..._-RSB-_-	1
 VBD_CC_VBP
 was_and_act	1
 VB_CD_IN
 be_one_of	2
-CD_IN_WP
-1930_on_what	1
 NN_CC_MD
 husband_and_will	1
 notch_&_would	1
-PRP$_NN_-LRB-
-his_librettist_-LRB-	1
 IN_NNS_PRP
 of_jewels_she	1
 of_things_one	1
 VBP_VBZ_DT
 Kiss_is_a	1
 NNP_VBP_JJ
+Garden_are_ham-fisted	1
 Salome_have_ambivalent	1
 VBZ_,_RB
 is_,_perhaps	1
@@ -3312,9 +3200,6 @@ VBG_JJR_,
 being_colder_,	1
 RB_JJ_WRB
 too_human_where	1
-NN_-LRB-_IN
-Translation_-LRB-_of	1
-stage_-LRB-_for	1
 VB_TO_DT
 get_to_the	1
 RB_TO_DT
@@ -3385,8 +3270,10 @@ reviews_have_mentioned	1
 reviewers_have_opined	1
 FW_._''
 aim&eacute;e_._''	1
-PRP_-LRB-_WRB
-it_-LRB-_when	1
+VBP_PRP_VBD
+admit_they_had	1
+NN_:_:
+PACKAGE_:_...	1
 NNS_VBP_VBG
 hits_keep_coming	1
 JJR_IN_NNP
@@ -3415,9 +3302,8 @@ CC_RB_PRP$
 and_then_his	1
 VBN_DT_NNP
 owned_the_Lazer	1
-NNP_VBD_RB
-Beirer_were_n't	1
-Stratas_did_not	1
+NNP_NNS_IN
+Palmour_clips_on	1
 WP_PRP_VBD
 what_she_wished	1
 what_she_was	1
@@ -3452,14 +3338,12 @@ VBN_JJ_NN
 spoiled_little_brat	1
 NN_''_IN
 MAHOGONNY_'_WITH	1
--LRB-_PRP_VBP
--LRB-_I_admit	1
--LRB-_I_think	1
 :_WP_VBD
 ..._what_did	1
 NNP_NNP_IN
 Teresa_Stratas_in	1
 Astrid_Varnay_as	1
+Astrid_Varnay_in	1
 Lazer_Disc_for	1
 Karl_Bohm_so	1
 New_York_in	1
@@ -3467,8 +3351,6 @@ Berlin/Mafitano/Estes_Salome_on	1
 Bryn_Teufel_as	1
 Hans_Beirer_as	1
 Teresa_Stratas_as	1
--LRB-_PRP_VBZ
--LRB-_it_brings	1
 :_NNP_NNP
 ..._Albert_Kleppe	1
 CC_IN_DT
@@ -3514,8 +3396,6 @@ Stratas_'_voice	1
 Wilde_'s_original	1
 VBZ_VBG_DT
 is_seeing_an	1
-RB_-LRB-_PRP
-appropriately_-LRB-_it	1
 VBG_IN_NN
 acting_in_opera	2
 ,_VBP_RB
@@ -3531,15 +3411,10 @@ IN_EX_VBZ
 that_there_'s	1
 :_RB_PRP$
 --_even_her	1
-FW_FW_RB
-<br />_<br />_Also	1
 DT_IN_PRP$
 all_of_his	1
 VB_PRP_TO
 allow_you_to	1
-IN_JJ_JJ
-than_adequate_below-the-waist	1
-of_classic_Freudian	1
 CC_DT_MD
 but_this_could	1
 VBZ_DT_JJ
@@ -3644,6 +3519,8 @@ NN_RB_WRB
 rating_so_why	1
 WP$_NN_CC
 whose_prose_and	1
+NN_RB_DT
+opera_even_a	1
 NNS_IN_WDT
 students_into_what	1
 VBP_JJ_TO
@@ -3801,9 +3678,6 @@ are_of_course	1
 act_with_compassion	1
 NN_NNP_VBZ
 opera_Stradas_is	1
-NN_-RRB-_,
-R_-RRB-_,	1
-figure_-RRB-_,	1
 NN_:_VBG
 one_:_portraying	1
 role_-_seeing	1
@@ -3812,6 +3686,7 @@ VBP_VBG_PRP
 VBP_IN_NNP
 agree_with_Robert	1
 find_that_Herod	1
+think_with_Dame	1
 think_of_Stratas	1
 VBP_IN_NNS
 concur_with_others	1
@@ -3940,6 +3815,7 @@ was_uninteresting_.	1
 :_DT_IN
 -_all_of	1
 VBD_JJ_,
+was_thankful_,	1
 felt_flat_,	1
 IN_PRP_VBP
 that_they_are	1
@@ -3969,8 +3845,6 @@ WP_NNP_MD
 what_Salome_should	1
 CC_PRP$_JJ
 &_her_own	1
-FW_PRP_RB
-<br />_I_just	1
 NN_VB_PRP
 somebody_let_me	1
 VB_PRP_IN
@@ -3992,11 +3866,6 @@ RB_NNS_,
 not_films_,	1
 RB_VBN_NNP
 frequently_placed_Salome	1
-NNP_-LRB-_NNP
-Stratas_-LRB-_Salome	1
-Varnay_-LRB-_Salome	1
-Weikl_-LRB-_Johanaan	1
-Herodias_-LRB-_Astrid	1
 IN_PRP_CC
 that_he_and	1
 RB_VBN_NNS
@@ -4027,8 +3896,6 @@ perfectly_apt_.	1
 so_delicious_.	1
 NN_VBD_DT
 performance_elevated_the	1
-PRP$_NNS_:
-our_laps_:	1
 CC_DT_NN
 and_the_casting	1
 and_the_rest	1
@@ -4052,12 +3919,13 @@ DG_happens_to	1
 IN_DT_JJS
 of_the_highest	1
 of_the_best	2
--LRB-_WRB_POS
--LRB-_where_'s	1
 CC_WP_VBZ
 And_what_is	1
 IN_JJS_IN
+at_least_of	1
 as_best_of	1
+IN_NNS_DT
+with_closeups_the	1
 DT_RB_CC
 this_again_&	1
 NNP_VBD_PRP$
@@ -4074,19 +3942,8 @@ be_in_my	1
 die_on_his	1
 NNP_:_FW
 Strauss_-_Salome	2
-MD_VB_DT
-may_be_a	1
-would_be_a	1
-would_save_the	1
-'ll_congratulate_the	1
-would_put_the	1
-must_be_a	1
-would_be_this	1
-can_imagine_a	1
-could_be_a	1
-can_do_that	1
-may_be_the	2
-must_feel_some	1
+NNP_NN_VBZ
+Michael_production_is	1
 NN_WP_PRP
 matter_what_she	1
 RB_RB_IN
@@ -4099,8 +3956,6 @@ as_far_as	1
 too_much_like	1
 Not_just_for	1
 well_especially_since	1
-FW_NN_NN
-<br />_Tha_name	1
 RB_,_NNP
 Also_,_Astrid	1
 CC_DT_NNS
@@ -4123,6 +3978,8 @@ CC_NN_NNP
 and_serpentine_Stratas	1
 NNP_WDT_VBZ
 Salome_that_is	1
+Vickers_that_comes	1
+Dance_which_is	1
 JVC_which_converts	1
 WP_NNP_VBZ
 whom_Herod_calls	1
@@ -4131,9 +3988,6 @@ studio_production_The	1
 RB_VB_WRB
 n't_remember_how	1
 n't_know_how	1
-DT_NNS_:
-the_subtitles_-	1
-these_reviews_...	1
 NN_VBZ_NNP
 STRATAS/VARNAY_IS_AVAILABLE	1
 MET_'S_JAMES	1
@@ -4156,11 +4010,12 @@ about_opera_on	1
 in_thrall_with	1
 as_set_on	1
 in_close_on	1
-of_depravity_for	1
+on_stage_for	1
 in_tune_with	1
 of_taste_though	1
 in_store_for	1
 like_diving_into	1
+of_depravity_for	1
 of_opera_on	2
 if_anyone_from	1
 :_DT_NN
@@ -4189,8 +4044,6 @@ NNS_:_WP
 laps_:_What	1
 VBP_JJ_NN
 are_great_music	1
-NNS_-RRB-_IN
-notes_-RRB-_with	1
 VB_WRB_DT
 know_how_a	1
 WRB_NNP_RB
@@ -4206,6 +4059,8 @@ VBP_IN_VBG
 talk_about_acting	1
 VBG_VBN_IN
 being_released_on	1
+VBN_NNP_VBZ
+hooked_Bilbo_is	1
 ,_VBG_RB
 ,_glancing_away	1
 NNP_MD_RB
@@ -4214,8 +4069,6 @@ Stratas_may_not	1
 devil_wo_n't	1
 :_IN_JJ
 :_As_previous	1
-NN_RB_-RRB-
-generation_ago_-RRB-	1
 NNS_TO_NN
 References_to_incest	1
 NN_,_IN
@@ -4237,8 +4090,6 @@ DVD_`_MAHOGONNY	1
 ATTENTION_`_JUSTOLDBILL	1
 VBZ_IN_NNS
 is_in_tatters	1
--LRB-_EX_VBP
--LRB-_there_are	1
 NN_IN_FW
 Tu_as_mis	1
 VB_,_RB
@@ -4248,10 +4099,6 @@ the_Baptist_...	1
 The_Jokanaan_--	1
 IN_NNS_WRB
 for_years_when	1
--LRB-_RB_PRP
--LRB-_curiously_it	1
-FW_JJ_JJ
-<br />_=_=	1
 DT_NNP_,
 the_Baptist_,	1
 the_Stratas_,	1
@@ -4276,8 +4123,6 @@ CC_VBG_RP
 and_reaching_out	1
 RB_,_PRP$
 here_,_her	1
-FW_DT_VBN
-<br />_The_forgotten	1
 RB_JJ_IN
 vaguely_familiar_with	1
 as_riveting_as	1
@@ -4308,10 +4153,9 @@ certainly_just_what	1
 NNS_:_IN
 subtitles_-_for	1
 reviews_..._because	1
-FW_NNP_NNP
-<br />_Astrid_Varnay	2
-<br />_Teresa_Stratas	2
-<br />_Karl_Bohm	1
+RB_VB_CD
+ever_see_one	1
+certainly_be_one	1
 RB_VB_CC
 not_see_nor	1
 VB_PRP_VBD
@@ -4320,12 +4164,6 @@ NNP_''_.
 Salome_'_.	1
 WRB_VBG_TO
 when_seeking_to	1
-VBP_PRP_VBD
-admit_they_had	1
-NNP_-RRB-_WDT
-Vickers_-RRB-_that	1
--RRB-_IN_NNP
--RRB-_with_Dame	1
 JJ_,_RB
 young_,_stunningly	1
 repulsive_,_yet	1
@@ -4339,8 +4177,6 @@ to_singing_consistently	1
 VBD_DT_NNS
 elevated_the_performances	1
 taught_a_humanities	1
-JJ_RB_,
-quaint_now_,	1
 NNP_DT_``
 Salome_a_``	1
 VBZ_DT_RBS
@@ -4442,8 +4278,6 @@ others_,_including	1
 times_,_including	1
 NN_VBP_``
 music_are_``	1
-NN_-LRB-_PRP
-end_-LRB-_I	1
 :_PRP_MD
 ;_you_can	1
 --_I_ca	1
@@ -4456,11 +4290,6 @@ DT_JJ_PRP
 the_sudden_I	1
 DT_``_JJ
 a_``_painted	1
-NN_-LRB-_NNP
-librettist_-LRB-_Hedwig	1
-director_-LRB-_Gotz	1
-VB_PRP_-LRB-
-think_it_-LRB-	1
 VB_NN_TO
 do_justice_to	1
 VB_PRP_DT
@@ -4468,10 +4297,12 @@ memorize_it_all	1
 NNP_NNP_NNS
 Deidra_Palmour_clips	1
 NNP_NNP_NNP
+Teresa_Stratas_Salome	1
+Bernd_Weikl_Johanaan	1
+Herodias_Astrid_Varnay	1
 Dame_Josephine_Barstow	1
 <a href="http://www.amazon.com/gp/product/B000NVL49W">_R._Strauss	2
-<br />_<a href="http://www.amazon.com/gp/product/B000NVL49W">_R.	1
-<br />_<br />_Beirer	1
+Astrid_Varnay_Salome	1
 POS_NNS_VBP
 '_chords_rise	1
 's_operas_are	1
@@ -4501,27 +4332,17 @@ is_about_as	1
 ,_you_may	1
 ,_you_would	1
 ,_I_would	1
-VBP_-RRB-_IN
-think_-RRB-_with	1
 NN_VBP_DT
 mouth_are_all	1
-CD_-RRB-_DT
-1974_-RRB-_the	1
 MD_VB_JJR
 may_be_better	1
 NNS_,_JJ
 cords_,_lithe	1
--RRB-_CC_NNP
--RRB-_&_Bernd	1
 VB_TO_PRP$
 add_to_my	1
 attest_to_their	1
-NNP_NN_IN
-Jagdpanzer_voice_of	1
-YouTube_video_of	1
-VHS_copy_from	1
-Strauss_conductor_of	1
-Ponelle_production_of	1
+VBP_CD_IN
+are_one_of	1
 VB_RB_VB
 do_just_fine	1
 VBP_VBG_RP
@@ -4530,8 +4351,9 @@ VBP_VBG_RP
 ,_is_to	1
 RB_JJ_PRP
 so_happy_I	1
-NNP_NNS_IN
-Palmour_clips_on	1
+NNP_VBD_RB
+Beirer_were_n't	1
+Stratas_did_not	1
 VBP_VBG_RB
 're_looking_right	1
 NNS_WRB_PRP
@@ -4541,8 +4363,6 @@ Thank_you_so	1
 have_it_forever	1
 VBZ_VBN_PRP
 has_brought_me	1
-NNP_-RRB-_IN
-Varnay_-RRB-_in	1
 MD_RB_,
 might_outwardly_,	1
 POS_JJ_NNS
@@ -4586,8 +4406,6 @@ no_video_version	1
 the_opera_audience	1
 the_stage_set	1
 an_opera_singer	2
-FW_DT_VBZ
-<br />_This_is	1
 VBZ_VBN_VBZ
 has_recorded_is	1
 IN_CC_PRP
@@ -4639,14 +4457,13 @@ POS_NNP_VBZ
 '_Salome_is	1
 's_Narraboth_is	1
 's_Salome_is	1
-VB_WRB_.
-<br />_Why_?	1
 RB_JJ_NN
+not_cinematic_version	1
+inexplicably_long_time	1
 very_favourite_opera	1
 jaw-droppingly_perfect_rendering	1
-only_last_summer	1
 just_great_music	1
-inexplicably_long_time	1
+only_last_summer	1
 CC_RB_``
 and_therefore_``	1
 MD_RB_NNS
@@ -4733,13 +4550,13 @@ it_was_done	2
 she_had_turned	1
 DT_NNP_MD
 the_devil_wo	1
+VB_NNP_NNP
+watch_Herodias_Astrid	1
 VBZ_JJ_NN
 is_great_singer	1
 's_high_time	1
 is_pure_emotion	1
 has_obsessive_madness	1
-NNS_PRP_MD
-things_one_can	1
 :_PRP_VBD
 :_I_sat	1
 DT_``_VBN
@@ -4836,12 +4653,14 @@ NN_,_JJ
 photography_,_wonderful	1
 towering_,_magnificent	1
 body_,_sensuous	1
+PRP_VBN_NNP
+me_hooked_Bilbo	1
 CD_MD_RB
 One_could_n't	1
 :_IN_EX
 --_as_there	1
-FW_VBG_IN
-<br />_Coming_into	1
+VBZ_DT_JJR
+is_no_better	1
 VBZ_DT_JJS
 is_the_greatest	2
 is_the_best	1
@@ -4902,6 +4721,8 @@ from_indulging_every	1
 in_putting_this	1
 :_JJ_IN
 ;_such_like	1
+PRP$_NN_NNP
+his_librettist_Hedwig	1
 PRP_VBZ_PRP
 it_brings_you	1
 he_shows_it	1
@@ -4915,20 +4736,20 @@ JJ_NN_PDT
 tremendous_production_all	1
 NN_DT_MD
 collection_this_should	1
+NNS_VB_JJ
+singer-actors_see_previous	1
 IN_VBZ_TO
 with_aces_to	1
 TO_PRP$_NN
 to_my_library	2
 to_her_control	1
 to_their_friendliness	1
--LRB-_DT_JJ
--LRB-_the_only	1
+,_IN_VBZ
+,_though_is	1
 VBN_NNP_WDT
 filmed_Salome_that	1
 MD_RB_RB
 ca_n't_even	1
--RRB-_,_PRP
--RRB-_,_I	1
 NN_TO_NN
 opera_to_life	1
 music_to_believability	1
@@ -4960,8 +4781,6 @@ streaming_down_Stratas	1
 NN_NNP_.
 son_Dieu_.	1
 avd_Varnay_.	1
-NNP_-RRB-_NN
-Johanaan_-RRB-_aka	1
 IN_VBG_RB
 as_being_far	1
 ,_NNP_VBZ
@@ -4987,8 +4806,8 @@ NNS_RB_,
 years_ago_,	1
 VB_IN_,
 begin_with_,	1
--RRB-_NN_IN
--RRB-_version_in	1
+VB_IN_.
+catch_on_?	1
 NNP_:_DT
 Jochanaan_-_the	1
 States_/_no	1
@@ -5018,6 +4837,7 @@ so_much_...	1
 then_back_--	1
 NNP_NNP_DT
 !!!!!!!!!_Whether_this	1
+Birgit_Nilsson_the	1
 RB_RB_,
 then_frankly_,	1
 long_ago_,	1
@@ -5033,8 +4853,6 @@ case_you_should	1
 way_it_should	1
 music_I_would	1
 fact_she_might	1
--RRB-_NN_NNP
--RRB-_aka_John	1
 JJ_DT_JJ
 worth_the_price-particularly	1
 PRP_DT_NNP
@@ -5061,7 +4879,6 @@ she_portays_.	1
 he_has_.	1
 JJ_JJ_NN
 youthful_sexual_depravity	1
-=_=_<br />	1
 rich_orchestral_sound	1
 whole_darn_thing	1
 shocking_old_queen	1
@@ -5085,8 +4902,6 @@ Bohm_,_as	1
 Schwarz_,_as	1
 Varnay_,_although	1
 Schwarz_,_at	1
-NN_NN_-LRB-
-TV_version_-LRB-	1
 PRP_,_CC
 her_,_and	1
 JJ_CC_MD
@@ -5096,16 +4911,10 @@ any_singers_to	1
 all_signals_to	1
 RB_NNP_VBZ
 Even_Narroboth_is	1
-JJS_-RRB-_IN
-least_-RRB-_of	1
 VBN_NNS_IN
 composed_shots_like	1
 PRP$_RB_JJ
 my_very_favourite	1
--LRB-_VB_JJ
--LRB-_see_previous	1
--LRB-_IN_JJS
--LRB-_at_least	1
 JJR_NNS_IN
 more_productions_of	1
 MD_VB_VBG
@@ -5134,14 +4943,11 @@ CC_NNP_.
 or_Marton_.	1
 VBD_VBN_DT
 had_heard_this	1
-VB_NNP_-LRB-
-watch_Herodias_-LRB-	1
--LRB-_IN_NNP
--LRB-_of_Wilde	1
 VB_VBN_TO
 have_loved_to	2
-FW_FW_UH
-<br />_<br />_Yes	1
+DT_CD_JJ
+this_one_last	1
+The_one_other	1
 VBD_JJ_:
 was_correct_:	1
 NNP_VBZ_``
@@ -5209,8 +5015,6 @@ WRB_VBD_PRP
 when_did_you	1
 VBG_NNP_RB
 seeing_Stratas_lithely	1
-DT_NN_-RRB-
-this_DVD_-RRB-	1
 JJS_NN_.
 highest_order_.	1
 NN_IN_RB
@@ -5234,8 +5038,6 @@ This_may_be	1
 this_would_be	1
 DT_JJ_WRB
 the_price-particularly_when	1
-FW_RB_,
-<br />_Also_,	1
 VBZ_PRP_IN
 brings_you_into	1
 holds_us_in	1
@@ -5249,6 +5051,7 @@ and_harrowing_;	1
 VBN_VBG_DT
 been_awaiting_this	1
 JJ_JJ_NNS
+=_=_Circumstances	1
 first_operas_singers	1
 DT_NNP_NN
 a_VHS_copy	1
@@ -5282,8 +5085,6 @@ one_expects_from	1
 opera_is_like	1
 CC_CD_IN
 and_six_of	1
-NNS_-RRB-_:
-words_-RRB-_:	1
 IN_CD_,
 in_1979_,	1
 from_1974_,	1
@@ -5310,15 +5111,12 @@ learn_to_love	1
 have_to_check	1
 like_to_do	1
 stop_to_look	1
-CC_NNP_IN
-and_Violetta_in	1
+IN_TO_DT
+up_to_the	1
 PRP_JJR_IN
 it_more_than	1
 TO_NNP_MD
 to_Strauss_can	1
-NN_-RRB-_.
-smock_-RRB-_.	1
-eroticism_-RRB-_.	1
 IN_JJ_NN
 with_great_artistry	1
 in_extreme_closeup	1
@@ -5346,8 +5144,6 @@ IN_VBG_VBN
 as_being_released	1
 PDT_DT_DT
 all_this_a	1
-FW_JJR_IN
-<br />_More_than	1
 VBD_RB_VB
 did_n't_say	1
 did_n't_bother	2
@@ -5382,10 +5178,9 @@ video_of_the	1
 actress_with_a	1
 review_of_the	1
 role_in_a	1
-<br />_At_the	1
+scene_with_the	1
 role_in_every	1
 performance_on_the	1
-comparison_of_the	1
 performance_of_this	1
 performance_from_a	1
 traversal_of_the	1
@@ -5402,7 +5197,7 @@ dance_as_a	1
 singer-actor_of_the	1
 neurosis_of_the	1
 track_down_the	1
-scene_with_the	1
+comparison_of_the	1
 interplay_with_the	1
 empathy_for_the	1
 diving_into_a	1
@@ -5513,6 +5308,8 @@ file_was_published	1
 backside_was_airbrushed	1
 IN_DT_``
 on_the_``	1
+VBZ_JJ_CD
+is_old_1974	1
 NNP_NN_CC
 Karl_B&ouml;hm_and	1
 Florida_production_and	1
@@ -5531,14 +5328,10 @@ is_good_and	1
 is_superb_and	2
 VB_IN_IN
 feel_as_if	1
--RRB-_IN_NN
--RRB-_of_nudity	1
 VBZ_DT_CD
 is_the_one	1
 PRP_VBP_RBR
 I_get_more	1
-POS_NNS_-RRB-
-'s_words_-RRB-	1
 NN_IN_``
 version_in_``	1
 RB_VBD_JJ
@@ -5582,27 +5375,19 @@ directed_to_be	1
 astoninshed_to_see	1
 FW_PRP_MD
 </a>_You_would	1
-<br />_We_must	1
-<br />_I_must	1
-<br />_We_shall	1
 TO_VB_NN
 to_create_excitement	1
 ,_DT_JJ
 ,_the_great	1
 ,_the_only	1
-TO_DT_NNS
-to_the_performers	1
-to_the_demands	1
+RB_TO_VBG
+forward_to_hearing	1
 TO_DT_NNP
 to_The_Dance	1
 RB_VBZ_PRP$
 really_exhibits_his	1
 POS_VBG_IN
 's_going_on	1
-FW_FW_VBG
-<br />_<br />_Coming	1
-VBZ_DT_JJR
-is_no_better	1
 PRP_VBP_WP
 you_have_what	1
 RB_RB_VBZ
@@ -5653,9 +5438,6 @@ Salome_is_,	1
 '_ANKENBROCK_-	1
 VBZ_VBG_.
 is_doing_.	1
-NNP_-RRB-_VBP
-Lachmann_-RRB-_are	1
-Garden_-RRB-_are	1
 RB_,_CC
 now_,_but	1
 ago_,_and	2
@@ -5709,37 +5491,34 @@ about_Simon_Estes	1
 by_Ken_Russell	1
 CC_RBR_JJ
 or_less_secondary	1
-NNP_NNS_-LRB-
-Mafitano_productions_-LRB-	1
 RB_VBD_IN
 heretofore_said_about	1
 CC_NN_NN
 and_supporting_cast	1
-FW_FW_DT
-<br />_<br />_This	3
-<br />_<br />_The	6
 VB_JJR_CC
 happen_more_&	1
 WP_VBZ_NNP
 who_sings_Herodias	1
 VBG_IN_``
 Coming_into_``	1
--LRB-_RB_,
--LRB-_Basically_,	1
 NNP_TO_NN
 Judea_to_life	1
 JJ_:_WRB
 correct_:_Why	1
-FW_EX_,
-<br />_There_,	1
 NNP_NNP_WP
+Astrid_Varnay_who	1
 Karita_Mattila_who	1
 NN_VBP_PRP
 NOT_own_them	1
--LRB-_:_-RRB-
--LSB-_..._-RSB-	1
+CD_IN_WP
+1930_on_what	1
 NN_,_WRB
 world_,_when	1
+NN_RB_PRP
+version_curiously_it	1
+time_appropriately_it	1
+:_:_CC
+..._-_or	1
 NN_''_NN
 JUSTOLDBILL_'_ANKENBROCK	1
 scandal_''_thing	1
@@ -5757,12 +5536,8 @@ very_young_Theresa	1
 too_high_<a href="http://www.amazon.com/gp/product/B000NVL49W">	1
 suitably_disgusting_Herod	1
 stunningly_beautiful_Teresa	1
--RRB-_VBZ_RB
--RRB-_has_also	1
 RB_JJR_IN
 far_better_than	1
-IN_:_``
-with_:_``	1
 JJ_NNP_JJ
 memorable_Herodias_imaginable	1
 never-convincing_Dance_appealing	1
@@ -5815,6 +5590,7 @@ just_fine_.	1
 RB_PRP_VBZ
 curiously_it_says	1
 vocally_she_is	1
+appropriately_it_brings	1
 NN_,_NNP
 director_,_G&ouml;tz	1
 show_,_Astrid	1
@@ -5845,9 +5621,8 @@ RB_RB_DT
 so_much_a	1
 WRB_PRP_VBZ
 when_she_fails	1
-DT_NN_-LRB-
-the_end_-LRB-	1
-The_director_-LRB-	1
+PRP$_NNS_:
+our_laps_:	1
 ,_IN_IN
 ,_so_that	1
 RBS_JJ_NN
@@ -5862,8 +5637,6 @@ and_probably_Monserrat	1
 WRB_PRP_VBP
 when_you_think	1
 when_you_need	1
--RRB-_IN_JJ
--RRB-_with_excellent	1
 JJ_IN_NNP
 decadent_while_Herodias	1
 welcome_in_Wilde	1
@@ -5882,11 +5655,14 @@ more_than_adequate	1
 more_than_fair	1
 PRP$_NNS_,
 its_limits_,	1
+JJ_CD_DT
+old_1974_the	1
 JJ_,_CC
 perfect_,_but	1
 good_,_but	1
 artistic_,_and	1
 sexy_,_and	1
+thankful_,_but	1
 dated_,_but	1
 magnificent_,_but	1
 PRP$_NN_JJ
@@ -5941,10 +5717,6 @@ remember_that_Jokanaan	1
 JJ_,_PRP
 catlike_,_she	1
 good_,_I	1
-FW_NN_VBD
-<br />_Money_was	1
--LRB-_IN_WDT
--LRB-_for_which	1
 IN_NNP_TO
 of_Judea_to	1
 of_Salome_to	1
@@ -5962,8 +5734,6 @@ IN_WDT_RB
 of_which_well	1
 UH_,_DT
 Yes_,_the	1
-``_IN_DT
-``_over_the	1
 VBG_,_DT
 shining_,_the	1
 DT_JJR_NN
@@ -5987,8 +5757,6 @@ CC_WRB_JJ
 and_how_wonderful	1
 RB_VBZ_NNP
 slowly_replaces_Salome	1
--RRB-_VBD_RB
--RRB-_was_mostly	1
 VBZ_DT_RB
 is_a_bit	1
 is_a_suitably	1
@@ -6011,6 +5779,7 @@ NN_PDT_DT
 production_all_the	1
 NNP_CC_NNP
 Varnay_or_Rysanek	1
+Salome_&_Bernd	1
 Stratas_and_Varnay	1
 Wilde_and_Strauss	1
 Streep_or_Cate	1
@@ -6088,20 +5857,14 @@ DT_``_NNP
 the_``_Dance	1
 POS_CC_NNP
 's_and_Strauss	1
-FW_DT_NN
-<br />_This_film	1
-<br />_The_music	1
-<br />_The_file	1
-<br />_This_DVD	1
-<br />_The_director	2
 RB_VBD_PRP
 never_thought_I	1
 finally_brought_me	1
 NN_JJR_.
 anything_less_.	1
-MD_VB_NN
-would_be_reason	1
-will_use_anything	1
+CC_VBZ_RB
+and_acts_very	1
+and_sings_beautifully	1
 JJR_NNS_VBG
 better_voices_singing	1
 VBD_VBN_TO
@@ -6129,8 +5892,6 @@ took_me_an	1
 gave_me_the	1
 NNP_,_WP
 Stratas_,_who	2
-,_WRB_PRP
-,_when_you	1
 RB_PRP_.
 n't_I_?	1
 NN_VBZ_JJR
@@ -6148,9 +5909,6 @@ would_give_up	1
 ,_the_most	1
 JJ_RB_WP
 careful_enough_what	1
-NN_-LRB-_RB
-version_-LRB-_curiously	1
-opera_-LRB-_even	1
 MD_VB_RB
 will_do_just	1
 would_return_gladly	1
@@ -6185,9 +5943,8 @@ Friedrich_it_is	1
 VBG_NNP_NNP
 including_Peter_Hall	1
 hearing_Birgit_Nilsson	1
-CC_VBZ_RB
-and_acts_very	1
-and_sings_beautifully	1
+RB_,_''
+dear_,_''	1
 NNP_,_VBG
 Weikl_,_looking	1
 Salome_,_playing	1
@@ -6212,8 +5969,6 @@ are_big_hankies	1
 're_terrible_lip-synchers	1
 DT_NNS_RB
 the_performers_here	1
-FW_FW_WP
-<br />_<br />_What	1
 NNP_,_VBZ
 Hagrid_,_is	1
 RB_VBN_NN
@@ -6224,6 +5979,8 @@ perfectly_calibrated_opera	1
 ,_go_with	1
 VBN_NNP_NNP
 heard_Inge_Borkh	1
+NN_VBD_NNP
+DVD_praised_Stratas	1
 DT_NNP_NNPS
 the_Seven_Veils	2
 PRP_VBD_RB
@@ -6252,9 +6009,6 @@ is_of_course	1
 seems_as_set	1
 VBG_IN_CC
 going_on_and	1
-IN_NN_-LRB-
-in_opera_-LRB-	1
-on_stage_-LRB-	1
 RB_,_DT
 perhaps_,_the	1
 meantime_,_this	1
@@ -6281,6 +6035,8 @@ NNP_''_:
 Salome_''_--	1
 VBZ_PRP_.
 's_it_.	1
+:_NNP_:
+-_REVIEW_:	1
 TO_NNS_CC
 to_expressions_and	1
 ''_IN_NN
@@ -6293,8 +6049,6 @@ DT_VBZ_JJ
 this_is_good	1
 :_WP_VBP
 :_What_are	1
-PRP_-RRB-_.
-it_-RRB-_.	1
 JJ_NN_JJ
 psychological_drama_such	1
 DT_VBZ_DT
@@ -6319,12 +6073,8 @@ sudden_I_'m	1
 RBR_CC_RBR
 more_or_less	1
 FW_FW_IN
-<br />_<br />_After	1
 Salome_</a>_As	1
-<br />_<br />_With	1
 in_awe_as	1
-NNS_-LRB-_VB
-singer-actors_-LRB-_see	1
 IN_WDT_DT
 in_which_the	1
 VBN_JJ_.
@@ -6359,6 +6109,8 @@ for_CGI_.	1
 of_Oscars_.	1
 in_German_.	1
 of_Salome_.	3
+POS_NNS_:
+'s_words_:	1
 JJ_NNS_.
 fellow_performers_.	1
 unseen_recordings_.	1
@@ -6372,6 +6124,7 @@ what-were-they-thinking_productions_,	1
 Freudian_calisthetics_,	1
 videotaped_productions_,	1
 vocal_cords_,	1
+previous_reviews_,	1
 non-opera_aficianados_,	1
 terrible_lip-synchers_,	1
 many_times_,	1
@@ -6409,8 +6162,6 @@ the_old_12	1
 DT_JJ_CC
 this_expressive_and	1
 a_magnificant_and	1
-FW_JJ_NN
-<br />_Personal_view	1
 DT_NNS_NN
 a_humanities_survey	1
 NN_:_IN
@@ -6422,8 +6173,6 @@ JJ_,_DT
 excellent_,_the	1
 vivid_,_the	1
 weak_,_the	1
--RRB-_:_PRP
--RRB-_:_You	1
 VBP_IN_PRP
 dig_for_it	1
 doubt_if_I	1
@@ -6432,15 +6181,12 @@ RB_CC_RB
 visually_and_dramatically	1
 lithely_and_gracefully	1
 again_&_again	2
--LRB-_WP_VBZ
--LRB-_who_sings	1
 JJ_IN_VBG
 insipid_from_indulging	1
 JJR_MD_PRP
 more_can_I	1
-FW_,_FW
-moi_,_moi	1
-bien_,_tu	1
+NNS_EX_VBP
+productions_there_are	1
 CC_JJ_NNP
 and_creepy_Jochanaan	1
 CC_JJ_NNS
@@ -6547,8 +6293,6 @@ CC_PDT_DT
 &_all_the	1
 NN_NNS_JJ
 location_shots_realistic	1
-NNP_-LRB-_NN
-Strauss_-LRB-_R	1
 NNS_VBG_RP
 tears_streaming_down	2
 NN_NN_VBP
@@ -6583,8 +6327,6 @@ Wilde_holds_us	1
 NN_TO_NNP
 river_to_Mordor	1
 predecessor_to_Karita	1
-PRP_VBN_-RRB-
-me_hooked_-RRB-	1
 VBZ_PRP_CC
 overdoes_it_and	1
 JJS_NNS_IN
@@ -6599,20 +6341,18 @@ NN_NNS_PRP
 Salom&eacute;_sucker-punches_us	1
 production_confines_itself	1
 opera_productions_I	1
-NNS_-LRB-_IN
-Hints_-LRB-_at	1
--RRB-_VBP_JJ
--RRB-_are_ham-fisted	1
 PRP_VBP_NNP
 I_think_Weikl	1
 you_want_Salome	1
 PRP_VBP_NNS
 you_get_views	1
+DT_VBN_RB
+a_staged_not	1
 MD_VB_PRP$
 must_upgrade_my	1
 can_compare_their	1
-JJ_NNS_-LRB-
-outstanding_singer-actors_-LRB-	1
+JJ_TO_RB
+ok_to_not	1
 NNP_VBD_DT
 Bohm_was_the	1
 NNS_,_NN
@@ -6646,10 +6386,6 @@ a_bit_dated	1
 a_suitably_disgusting	1
 A_very_young	1
 an_inexplicably_long	1
-FW_NNP_VBZ
-<br />_Wilde_holds	1
--LRB-_WRB_PRP
--LRB-_when_you	1
 ,_NNP_,
 ,_Welitsch_,	1
 ,_Neilson_,	1
@@ -6658,6 +6394,8 @@ FW_NNP_VBZ
 ,_Rysanek_,	1
 ,_Studer_,	1
 ,_Herodias_,	1
+VBG_PRP_VBP
+beginning_I_think	1
 VBZ_NNP_IN
 replaces_Salome_in	1
 sings_Herodias_on	1
@@ -6673,11 +6411,12 @@ congratulate_the_performers	1
 meet_the_demands	1
 NNS_IN_JJ
 dances_with_enough	1
+notes_with_excellent	1
 terms_of_classic	1
 VBG_TO_NNP
 listening_to_Strauss	1
-JJ_-LRB-_WRB
-gaping_-LRB-_where	1
+NN_``_NNP
+role_`_Salome	1
 VBZ_DT_VBG
 brings_the_shattering	1
 is_the_defining	1
@@ -6712,12 +6451,10 @@ VB_PRP$_JJ
 have_her_own	1
 NNS_,_PRP
 microphones_,_she	1
+reviews_,_I	1
 limits_,_she	1
 IN_RB_DT
 for_once_the	1
-FW_FW_JJ
-<br />_<br />_Personal	1
-<br />_<br />_=	1
 ,_VBZ_NN
 ,_sounds_wilfull	1
 :_VBG_PRP$
@@ -6843,6 +6580,8 @@ more_upset_with	1
 more_important_than	1
 NN_VBP_JJ
 cast_are_wonderful	1
+NN_NNP_WP
+mother_Herodias_who	1
 PRP_RB_RB
 you_so_much	1
 she_pretty_much	1
@@ -6851,8 +6590,8 @@ it_as_soon	1
 ,_Varnay_or	1
 IN_VBZ_JJ
 about_is_priceless	1
-JJ_:_FW
-obvious_:_<br />	1
+JJ_NN_VBG
+young_person_fleeing	1
 JJ_NN_PRP
 only_complaint_I	1
 sexy_star-quality_you	1
@@ -6878,8 +6617,6 @@ NNP_PRP_IN
 Cousin_It_at	1
 NNP_NNP_VBG
 Inge_Borkh_singing	1
-:_-LRB-_:
-:_-LSB-_...	1
 NNS_CC_NN
 things_or_person	1
 emotions_or_understanding	1
@@ -6896,15 +6633,12 @@ amazon_or_elsewhere	1
 dancer_and_convincingly	1
 NN_CC_VBP
 version_and_have	1
+NN_JJ_WRB
+mouth_gaping_where	1
 VBP_JJ_PRP
 am_sure_it	1
 VBZ_WRB_PRP
 's_why_I	1
-NNP_NNP_-LRB-
-Bernd_Weikl_-LRB-	1
-Teresa_Stratas_-LRB-	1
-Birgit_Nilsson_-LRB-	1
-Astrid_Varnay_-LRB-	2
 FW_,_IN
 vue_,_tu	1
 IN_TO_NNP
@@ -6922,15 +6656,15 @@ For_those_who	1
 for_those_who	3
 NNS_PRP_IN
 sucker-punches_us_with	1
-FW_CD_NNS
-<br />_Two_questions	1
 DT_JJ_RB
 a_sacrilege_not	1
 a_little_too	1
-FW_IN_NN
-<br />_After_watch	1
+NN_IN_WDT
+stage_for_which	1
 TO_RB_VB
 to_not_posses	1
+EX_RB_VBZ
+There_simply_is	1
 NN_,_NN
 acting_,_dancing	1
 girl_,_look	1
@@ -7042,8 +6776,6 @@ TO_VBG_DT
 to_being_the	1
 PRP$_NN_PRP
 her_dance_you	1
-,_VBG_-LRB-
-,_beginning_-LRB-	1
 VBN_IN_PRP
 terrified_of_him	1
 convinced_that_it	1
@@ -7126,8 +6858,6 @@ is_convincingly_danced	1
 appears_rather_plumb	1
 has_always_consumed	1
 is_not_set	1
--LRB-_DT_NN
--LRB-_the_shot	1
 VB_VBG_DT
 be_getting_this	1
 PRP_VBZ_RP
@@ -7139,12 +6869,8 @@ What_more_can	1
 RB_VBZ_JJ
 still_looks_good	1
 even_comes_close	1
-VB_IN_.
-catch_on_?	1
 FW_NN_NNP
 voir_son_Dieu	1
-FW_UH_,
-<br />_Yes_,	1
 IN_VBG_NN
 of_stretching_time	1
 for_drowning_duty	1
@@ -7196,6 +6922,8 @@ camera_to_go	1
 libretto_to_remember	1
 VBD_RB_.
 broke_down_.	1
+DT_NNP_WDT
+The_Dance_which	1
 CC_NN_IN
 and_descent_into	1
 or_DVD_that	1
@@ -7309,6 +7037,8 @@ probably_Monserrat_Caballe	1
 Actually_Teresa_Stratas	1
 WP_VBZ_JJR
 what_is_more	1
+:_NNS_IN
+--_Hints_at	1
 POS_NN_DT
 's_catalogue_the	1
 VBN_IN_TO
@@ -7320,6 +7050,7 @@ psychologically_tormenting_story	1
 NN_NNS_IN
 skin_scandals_until	1
 camera_inches_from	1
+liner_notes_with	1
 JJ_DT_NN
 wrong_no_matter	1
 VBZ_:_VBZ
@@ -7343,7 +7074,6 @@ that_finally_brought	1
 ,_perhaps_,	1
 ,_however_,	1
 JJ_NN_NNS
-=_<br />_Circumstances	1
 favourite_opera_dvds	1
 great_punch_lines	1
 NNP_CC_VBG
@@ -7371,6 +7101,7 @@ NNS_POS_NN
 others_'_praise	1
 NN_NN_RB
 Star_rating_so	1
+TV_version_curiously	1
 NNS_VBP_RB
 chords_rise_just	1
 costumes_are_very	1
@@ -7418,6 +7149,7 @@ cat-like_body_,	1
 whole_show_,	1
 stunning_acting_,	1
 great_photography_,	1
+slight_figure_,	1
 powerful_show_,	1
 great_artist_,	1
 pale_body_,	1
@@ -7474,6 +7206,7 @@ found_that_this	1
 IN_NN_VBN
 of_course_meant	1
 DT_NN_NNP
+The_director_Gotz	1
 this_opera_Stradas	1
 TO_VB_NNP
 to_watch_Herodias	1
@@ -7520,6 +7253,7 @@ NNP_NN_.
 Laserdisc_iteration_.	1
 Berlin_production_.	1
 NNP_NN_,
+Strauss_R_,	1
 Strauss_fan_,	1
 Berlin_production_,	1
 Strauss_conductor_,	1
@@ -7530,9 +7264,8 @@ VBG_RP_TO
 reaching_out_to	1
 IN_DT_VB
 of_a_disconnect	1
--RRB-_,_CC
--RRB-_,_but	2
--RRB-_,_and	1
+IN_:_``
+with_:_``	1
 PRP$_NN_POS
 her_mother_'s	1
 NN_NN_``
@@ -7570,8 +7303,6 @@ VBZ_:_JJ
 gets_-_great	1
 CC_CD_NN
 or_five_DVD	1
--RRB-_:_CC
--RSB-_-_or	1
 VB_NNP_,
 tell_Salome_,	1
 understand_Salome_,	1
@@ -7579,6 +7310,8 @@ VB_CD_.
 see_one_.	1
 VB_NNP_.
 placate_Herodias_.	1
+JJ_NNS_VB
+outstanding_singer-actors_see	1
 PDT_DT_JJ
 all_the_beautiful	1
 all_the_sudden	1
@@ -7597,7 +7330,6 @@ NN_VBN_TO
 course_meant_to	1
 sensuality_gone_to	1
 :_FW_FW
-:_<br />_<br />	1
 ..._tu_ne	1
 -_Salome_</a>	2
 EX_VBZ_RB
@@ -7651,8 +7383,8 @@ singers_'_actions	1
 VBN_TO_DT
 glued_to_the	1
 compared_to_this	1
-VBG_-LRB-_PRP
-beginning_-LRB-_I	1
+JJ_RB_,
+quaint_now_,	1
 ,_IN_DT
 ,_at_the	2
 ,_from_the	1
@@ -7679,12 +7411,10 @@ on_consecutive_nights	1
 of_Freudian_calisthetics	1
 VBN_RB_JJ
 been_so_delicious	1
+staged_not_cinematic	1
 released_only_last	1
 VBN_PRP_TO
 shown_it_to	1
-PRP_._-RRB-
-him_?_-RRB-	1
-it_?_-RRB-	1
 CC_PRP_MD
 and_you_ca	1
 &_I_'ll	1
@@ -7701,9 +7431,6 @@ CC_VBP_IN
 and_act_with	1
 IN_:_PRP
 on_-_he	1
--LRB-_NNP_-RRB-
--LRB-_Johanaan_-RRB-	1
--LRB-_Salome_-RRB-	1
 NN_VBD_NNS
 film_shocked_students	1
 RB_VBZ_DT
@@ -7742,8 +7469,6 @@ DT_RBR_:
 any_more_;	1
 RBR_JJ_NN
 more_perfect_performance	1
-FW_FW_EX
-<br />_<br />_There	1
 POS_NNS_.
 's_standards_.	1
 '_actions_.	1

@@ -32,11 +32,12 @@ telenovelas_of_2004	1
 CC_,_IN
 and_,_in	1
 FW_FW_NNP
-<br />_<br />_Rubi	1
 adelantada_y_Los	1
-<br />_<br />_Barbara	1
-VBZ_VB_DT
-does_cut_the	1
+VBZ_RB_JJ
+is_so_evil	1
+is_still_coherent	1
+is_very_bad	1
+'s_so_bad	1
 MD_VB_DT
 will_love_this	1
 WDT_VBD_VBN
@@ -73,8 +74,6 @@ VBP_JJ_IN
 are_great_because	1
 VBP_VBN_JJ
 have_purchased_other	1
--RRB-_RB_PRP
--RRB-_then_you	1
 NN_VBZ_NNP
 story_follows_Rubi	1
 VBZ_RB_VBN
@@ -229,8 +228,8 @@ there_and_it	1
 ,_goodness_and	1
 NN_IN_JJ
 sort_of_funny	1
-NNP_WDT_VBD
-Rubi_that_was	1
+NN_NNS_RB
+soap_operas_then	1
 RB_DT_NN
 actually_that_bad	1
 Yet_the_story	1
@@ -266,8 +265,8 @@ RB_CD_NN
 only_1_disc	1
 NNS_VBG_CD
 discs_playing_700	1
-FW_FW_PRP
-<br />_<br />_You	1
+VBG_RB_TO
+going_back_to	1
 CD_CC_IN
 one_but_as	1
 NNP_,_WP
@@ -283,11 +282,8 @@ I_gave_it	1
 I_watched_it	1
 PRP_VBZ_IN
 he_'s_in	1
-VBZ_RB_JJ
-is_so_evil	1
-is_still_coherent	1
-is_very_bad	1
-'s_so_bad	1
+VBZ_VB_DT
+does_cut_the	1
 RB_VBN_CC
 not_needed_either	1
 FW_FW_DT
@@ -324,8 +320,6 @@ FW_NNP_NNS
 y_Los_capitulos	1
 VBN_IN_DT
 gone_from_this	1
-FW_NNP_NNP
-<br />_Barbara_Mori	1
 MD_VB_NN
 will_have_plenty	1
 VB_PRP_VBD
@@ -365,9 +359,6 @@ JJ_,_RB
 good_,_however	1
 NNP_:_CD
 EDIT_:_One	1
-NNP_NNP_,
-Eduardo_Santamarina_,	1
-Yadhira_Carillo_,	1
 VBZ_IN_NN
 's_in_love	1
 sees_that_material	1
@@ -442,16 +433,10 @@ such_as_greed	1
 amazing_on_DVD	1
 PRP_VBD_.
 she_did_.	1
-FW_FW_IN
-<br />_<br />_Although	1
 VBZ_VBG_TO
 's_going_to	1
 TO_PDT_DT
 to_all_those	1
-TO_PRP_RB
-to_her_ever	1
-FW_IN_PRP
-<br />_Although_I	1
 VB_CC_VB
 watch_and_enjoy	1
 ,_PRP$_NN
@@ -539,8 +524,8 @@ will_enjoy_.	1
 RB_CD_IN
 probably_one_of	1
 arguably_one_of	1
-FW_PRP_VBP
-<br />_You_do	1
+NNP_WDT_VBD
+Rubi_that_was	1
 RB_IN_RB
 instead_of_only	1
 DT_NN_NN
@@ -577,8 +562,6 @@ esta_entera_comienza	1
 comienza_adelantada_y	1
 se_le_entiende	1
 entera_comienza_adelantada	1
-PRP$_NNS_IN
-their_telenovelas_on	1
 PRP$_NN_VBZ
 Her_character_is	1
 her_character_is	1
@@ -601,8 +584,6 @@ very_captivating_telenovela	1
 NNP_VBD_JJ
 Rubi_was_amazing	1
 Rubi_was_overall	1
-NN_NNS_-RRB-
-soap_operas_-RRB-	1
 WP_VBD_DT
 who_played_the	1
 RB_RB_TO
@@ -714,8 +695,6 @@ DT_RB_JJ
 the_often_boring	1
 a_little_iffy	1
 a_very_captivating	1
-FW_NNP_VBZ
-<br />_Rubi_is	1
 ,_NNP_.
 ,_Alejandro_.	1
 ,_Hector_.	1
@@ -826,12 +805,12 @@ NN_NN_.
 DVD_version_.	1
 NN_IN_PRP
 show_on_it	1
-<br />_If_you	1
 treat_that_you	1
 PRP_VBZ_VB
 It_does_cut	1
-DT_NN_PRP
-a_stand-in_I	1
+NNP_NNP_,
+Eduardo_Santamarina_,	1
+Yadhira_Carillo_,	1
 PRP_VBZ_VBG
 It_'s_going	1
 DT_NN_,
@@ -917,22 +896,20 @@ VBG_IN_DT
 pulling_in_the	1
 NNS_RB_.
 extras_too_!	1
-NNP_NNP_:
-<br />_EDIT_:	1
 VBN_RB_CC
 chopped_up_and	1
 CD_IN_DT
 One_of_the	1
 one_of_the	2
--LRB-_JJ_NN
--LRB-_Spanish_soap	1
+DT_NN_PRP
+a_stand-in_I	1
 NNP_NNP_.
 Dr._Aleandro_.	1
 VBG_TO_VB
 going_to_be	1
 beginning_to_end	1
-FW_FW_CC
-<br />_<br />_But	1
+TO_PRP_RB
+to_her_ever	1
 CC_PRP_RB
 But_I_really	1
 EX_VBP_DT
@@ -978,8 +955,6 @@ to_see_the	1
 to_watch_the	1
 RB_VB_PRP$
 definitely_get_your	1
-NNS_-RRB-_RB
-operas_-RRB-_then	1
 DT_JJ_.
 a_few_.	1
 ,_NN_,
@@ -991,8 +966,6 @@ NNS_VBD_IN
 stars_was_because	1
 IN_RB_CD
 of_only_1	1
-FW_RB_IN
-<br />_So_if	1
 RB_PRP_MD
 Yet_she_can	1
 then_you_will	1
@@ -1128,13 +1101,13 @@ and_white_.	1
 and_bittersweet_.	1
 VBP_IN_DT
 come_off_the	1
-FW_RB_,
-<br />_However_,	1
 NN_WP_VBZ
 woman_who_stops	1
 NN_IN_VBG
 goal_of_pulling	1
 telenovela_from_beginning	1
+NNS_RB_PRP
+operas_then_you	1
 VBP_VBN_VBN
 have_been_edited	1
 JJ_JJ_NNS
@@ -1226,9 +1199,6 @@ did_n't_like	1
 did_n't_take	1
 ``_NN_''
 `_telenovela_'	1
-FW_FW_RB
-<br />_<br />_So	1
-<br />_<br />_However	1
 POS_NN_.
 's_worth_.	1
 VB_PRP_TO
@@ -1276,8 +1246,6 @@ great_actress_.	1
 DT_NN_NNS
 this_DVD_collections	1
 a_telenovela_thanks	1
-VBP_NNS_-LRB-
-like_telenovelas_-LRB-	1
 JJ_NNP_.
 fluent_Spanish_.	1
 vivacious_Rubi_.	1
@@ -1437,10 +1405,8 @@ not_letting_go	1
 NN_IN_NN
 piece_of_information	1
 plenty_of_fun	1
-FW_CC_PRP
-<br />_But_it	1
-NNS_-LRB-_JJ
-telenovelas_-LRB-_Spanish	1
+PRP$_NNS_IN
+their_telenovelas_on	1
 PRP_VBP_VBN
 I_have_purchased	1
 they_are_meant	1
@@ -1498,8 +1464,6 @@ RBS_JJ_NNS
 most_beautiful_women	1
 VBZ_IN_DT
 states_that_the	1
-VBG_RB_TO
-going_back_to	1
 NN_NNS_.
 DVD_collections_.	1
 CC_NNS_RB
@@ -1510,6 +1474,8 @@ DT_VBZ_RB
 This_is_arguably	1
 that_is_actually	1
 that_is_not	1
+VBP_NNS_JJ
+like_telenovelas_Spanish	1
 CC_VBD_RB
 and_did_n't	1
 IN_PRP_VBD
@@ -1550,6 +1516,8 @@ RB_JJ_NNS
 often_boring_subplots	1
 NN_''_,
 telenovela_'_,	1
+NNS_JJ_NN
+telenovelas_Spanish_soap	1
 NN_CC_NN
 goodness_and_kindness	1
 disaster_and_misery	1

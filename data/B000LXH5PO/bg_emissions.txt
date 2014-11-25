@@ -1,4 +1,5 @@
 POS_NNP
+'s_Jed	1
 's_Larry	1
 IN_NN
 in_agony	1
@@ -31,7 +32,6 @@ NN_EX
 tide_there	1
 VB_WP
 know_what	1
-<br />_what	1
 DT_RB
 the_very	1
 NNP_IN
@@ -58,10 +58,8 @@ Forget_any	1
 be_a	1
 see_the	1
 make_any	1
-<p>_The	1
 send_this	1
 like_a	1
-<br />_This	1
 enjoy_this	1
 save_the	1
 perform_a	1
@@ -103,8 +101,6 @@ duty_to	1
 guide_to	1
 way_to	1
 contribution_to	1
--LRB-_NNP
--LRB-_Jed	1
 PRP_IN
 yourself_in	1
 it_for	1
@@ -152,8 +148,6 @@ received_one	1
 PRP$_RB
 his_very	1
 Its_just	1
-NN_-RRB-
-haircut_-RRB-	1
 :_NNP
 -_Kate	1
 TO_NN
@@ -331,8 +325,8 @@ VBD_RB
 was_absolutely	1
 CC_VBP
 and_are	1
-POS_-LRB-
-'s_-LRB-	1
+''_NNP
+'_Howard	1
 IN_JJ
 on_mute	1
 NNP_,
@@ -375,8 +369,6 @@ bad_it	1
 hard_it	1
 NNP_:
 Angler_-	1
-NNP_VB
-GUIDE_<br />	1
 JJ_,
 selfish_,	1
 unemployed_,	1
@@ -469,6 +461,8 @@ fishing_shows	1
 fishing_videos	1
 fishing_conditions	1
 tide_changes	1
+NNP_PRP$
+GUIDE_Its	1
 NNS_NNS
 women_anglers	1
 CC_IN
@@ -489,14 +483,12 @@ rig_they	1
 video_I	1
 one_I	1
 week_I	1
-<p>_I	1
 information_you	1
 video_itself	1
 VB_PRP$
 find_her	2
 check_your	1
 waste_your	1
-<br />_Its	1
 RB_RBR
 much_less	1
 IN_RB
@@ -633,7 +625,6 @@ home_video	1
 fish_pull	1
 bait_discussion	1
 fishing_rod	1
-<p>_Part	1
 VBG_PRP
 pushing_him	1
 NNP_''
@@ -655,8 +646,6 @@ best_.	1
 ,_JJ
 ,_irritating	1
 ,_idiot	1
--RRB-_JJ
--RRB-_constant	1
 DT_JJ
 a_trolled	1
 the_4th	1
@@ -866,7 +855,6 @@ WRB_JJ
 how_hard	1
 NN_RB
 money_back	1
-<br />_once	1
 amazon_first	1
 review_too	1
 PRP_RB
@@ -879,6 +867,7 @@ dentist_perform	1
 TO_``
 to_``	1
 NN_JJ
+haircut_constant	1
 im_annoyed	1
 VBZ_DT
 features_a	1
@@ -894,14 +883,12 @@ DARE_ANYONE	1
 Lady_Angler	1
 Kate_Jackson	1
 Jed_Clampett	1
-<br />_Stick	1
-<p>_Part	1
+Part_One	1
 A_GUIDE	1
 !!_HOW	1
 IT_A	1
 ANYONE_CALL	1
 CALL_IT	1
-Part_One	1
 HOW_DARE	1
 VBP_NN
 buy_anything	1
@@ -918,7 +905,6 @@ IN_PRP$
 for_your	1
 in_her	1
 VB_PRP
-<br />_I	2
 watch_it	1
 remember_it	1
 find_you	1
@@ -952,8 +938,6 @@ RB_PRP
 Instead_you	1
 again_I	1
 unfortunatly_I	1
-''_NNP
-'_Howard	1
 JJS_NN
 sorriest_excuse	1
 VBN_NNS
@@ -964,7 +948,6 @@ VB_RB
 have_ever	1
 be_so	1
 Do_Not	1
-<br />_unfortunatly	1
 CC_MD
 and_would	1
 and_will	1

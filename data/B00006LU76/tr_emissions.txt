@@ -24,14 +24,14 @@ IN_VBG_VBD
 That_being_said	1
 PRP_VBD_IN
 I_paid_for	1
-NN_PRP_DT
-<br />_it_a	1
+VBP_VBN_IN
+have_seen_of	1
 NNP_VBZ_DT
 Goldberg_has_a	1
 VBN_VBG_IN
 been_searching_for	1
-VBP_NN_PRP
-give_<br />_it	1
+VBP_VBN_VBG
+have_been_searching	1
 DT_NN_,
 the_money_,	1
 JJ_CC_RB
@@ -43,6 +43,8 @@ the_value_of	1
 No_structure_on	1
 VBD_NN_.
 printed_cover_.	1
+MD_VB_DT
+would_be_a	1
 DT_VBZ_DT
 This_is_some	1
 VBP_VBN_PRP
@@ -172,8 +174,8 @@ CC_PRP_VBZ
 but_it_is	1
 CC_NN_VBZ
 and_quality_exceeds	1
-PRP_MD_RB
-It_would_<br />	1
+VBP_PRP_DT
+give_it_a	1
 NN_IN_WDT
 understanding_on_what	1
 RB_RB_.
@@ -184,8 +186,8 @@ JJR_IN_DT
 more_than_a	2
 IN_NN_NN
 of_wing_chun	1
-NN_PRP_MD
-<p>_I_would	1
+VBZ_RB_CD
+'s_only_30	1
 RB_JJ_,
 not_great_,	1
 PDT_DT_JJ
@@ -202,6 +204,7 @@ NNS_PRP_VBP
 DVDs_I_buy	1
 PRP_MD_VB
 I_would_say	1
+It_would_be	1
 RB_IN_JJ
 so_for_overall	1
 NN_,_PRP
@@ -216,10 +219,8 @@ great_,_Master	1
 ,_It_would	1
 DT_IN_DT
 some_of_the	1
-MD_RB_VB
-would_<br />_be	1
-PRP_VBP_NN
-I_give_<br />	1
+VBN_IN_DT
+seen_of_this	1
 VBD_RB_JJ
 were_as_informative	1
 NN_NN_IN
@@ -237,6 +238,7 @@ I_buy_were	1
 DT_NN_RB
 a_DVD-R_not	1
 PRP_VBP_PRP
+I_give_it	1
 I_believe_it	1
 RB_DT_VBN
 not_a_pressed	1
@@ -258,10 +260,6 @@ IN_DT_CD
 as_this_one	1
 DT_JJ_NNS
 the_martial_arts	1
-VBN_IN_DT
-seen_of_this	1
-VBP_VBN_VBG
-have_been_searching	1
 NNS_IN_NN
 aspects_of_wing	1
 MD_VB_IN
@@ -269,8 +267,6 @@ might_occur_on	1
 would_say_that	1
 CC_RB_PRP
 and_now_I	1
-RB_VB_DT
-<br />_be_a	1
 JJ_NN_IN
 informative_Dvd_on	1
 good_understanding_on	1
@@ -287,8 +283,6 @@ be_better_but	1
 RB_JJ_IN
 very_good_in	1
 as_informative_as	1
-VBZ_RB_CD
-'s_only_30	1
 WDT_NN_NN
 what_wing_chun	1
 VBZ_IN_DT
@@ -306,8 +300,6 @@ NNS_VBN_.
 topics_covered_.	1
 VBP_PRP_VBZ
 believe_it_'s	1
-VBP_VBN_IN
-have_seen_of	1
 RB_JJ_DT
 not_worth_the	1
 IN_DT_JJ
@@ -335,8 +327,6 @@ CC_PRP$_NNS
 and_his_students	1
 NN_,_RB
 DVD_,_so	1
-NN_IN_VBG
-<p>_That_being	1
 NNP_VBZ_JJ
 Quality_is_OK	1
 NN_,_NNP

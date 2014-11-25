@@ -1,8 +1,8 @@
 VBZ_NNS_IN
 features_eps_from	1
 joins_forces_with	1
--LRB-_NN_NN
--LRB-_guest_star	3
+WRB_PRP_VBZ
+when_she_discovers	1
 NNP_VBZ_TO
 Lucy_wants_to	1
 Lucy_attempts_to	1
@@ -30,16 +30,16 @@ NN_IN_JJ
 freeway_through_beloved	1
 CC_,_IN
 but_,_on	1
-FW_FW_NNP
-<br />_<br />_Pretty	1
 VBG_CD_IN
 playing_one_of	1
+NNP_MD_VB
+Conreid_can_help	1
+NNP_NNP_JJ
+Carol_Bradford_guest	1
 VBP_VBG_IN
 are_fighting_against	1
 NN_RB_VBZ
 episode_also_features	1
-NNP_-RRB-_CC
-Ball_-RRB-_and	1
 IN_DT_JJR
 for_a_better	1
 NNP_NN_PRP
@@ -71,8 +71,6 @@ white_screen_with	1
 whisper-soft_rendition_of	1
 DT_RB_VB
 the_up_side	1
-FW_NNP_JJ
-<br />_Pretty_good	1
 POS_JJS_NN
 's_newest_celebrity	2
 ,_JJ_IN
@@ -94,17 +92,17 @@ VBP_IN_IN
 are_out_of	1
 VBD_CD_NNS
 paid_five_bucks	1
--RRB-_VBZ_DT
--RRB-_has_a	1
+DT_PRP_VBP
+all_you_see	1
 NNP_CC_NNP
 Lucy_and_Viv	2
+Ball_and_Viv	1
 Lucy_and_Carol	1
-POS_NN_-LRB-
-'s_nephew_-LRB-	1
 JJ_IN_DT
 much_of_an	1
 NNP_VBZ_DT
 Lucy_Gets_a	1
+Avalon_has_a	1
 VBZ_PRP_IN
 enters_him_in	1
 VBP_RB_VB
@@ -125,15 +123,8 @@ IN_NNS_,
 for_fans_,	1
 RB_DT_PRP
 Well_all_I	1
--RRB-_CC_NNP
--RRB-_and_Viv	1
 PRP$_NN_NN
 his_entertainment_career	1
-NNP_-RRB-_.
-Lee_-RRB-_.	1
-Bergerac_-RRB-_.	1
-Gordon_-RRB-_.	1
-Burnett_-RRB-_.	1
 PRP_VBZ_NNP
 he_resembles_Robert	1
 VBG_NN_RB
@@ -188,16 +179,12 @@ VB_JJ_IN
 make_much_of	1
 VBP_VBN_TO
 are_supposed_to	1
--RRB-_VBG_PRP$
--RRB-_raising_their	1
 IN_NN_:
 of_order_...	1
 RB_IN_,
 Later_on_,	1
 PRP_NN_.
 it_home_.	1
-TO_VB_NN
-to_save_money	1
 JJ_PRP_RB
 glad_I_only	1
 TO_JJ_NN
@@ -207,9 +194,14 @@ notices_he_resembles	1
 NN_TO_VB
 attempt_to_install	1
 NN_NN_NN
+replacement_guest_star	1
+celebrity_client_guest	1
+edition_DVD_package	1
+client_guest_star	1
 golfing_tournament_engagement	1
 show_DVD_set	1
-edition_DVD_package	1
+coach_guest_star	1
+voice_coach_guest	1
 NN_NNS_VBD
 roommate_episodes_were	1
 RB_VB_JJ
@@ -224,6 +216,8 @@ JJ_NN_DT
 down_side_the	1
 JJ_:_PRP
 white_..._I	1
+NNP_VBG_PRP$
+Vance_raising_their	1
 PRP_VBP_JJ
 I_'m_glad	1
 NNP_NNS_PRP
@@ -279,16 +273,20 @@ NN_VBP_RB
 show_do_n't	1
 JJR_PRP_VBZ
 higher_it_'s	1
-NN_-LRB-_NNP
-nephew_-LRB-_Frankie	1
 NN_CD_NN
 DVD_2_pack	1
 NNP_NN_WRB
 Arrowhead_vacation_when	1
 NNP_NNP_NNP
-Old_Mill_Stream	1
+Mooney_Gale_Gordon	1
 Main_Street_USA	1
+Lucy_Carmichael_Lucille	1
+Bagley_Vivian_Vance	1
+Carmichael_Lucille_Ball	1
 I_Love_Lucy	1
+Old_Mill_Stream	1
+Mr_Mooney_Gale	1
+Viv_Bagley_Vivian	1
 PRP_IN_DT
 him_in_a	1
 ,_CC_PRP
@@ -339,6 +337,8 @@ to_the_store	1
 ``_NNP_VBZ
 ``_Lucy_Meets	2
 ``_Lucy_Gets	1
+NNP_NNP_MD
+Hans_Conreid_can	1
 NNP_NNP_''
 Sheldon_Leonard_''	1
 Street_USA_''	1
@@ -390,6 +390,7 @@ CC_,_DT
 and_,_all	1
 JJ_NN_NN
 eccentric_voice_coach	1
+efficient_replacement_guest	1
 French_Movie_Star	1
 great_singing_voice	1
 bad_film_copy	1
@@ -440,8 +441,6 @@ a_very_bad	1
 some_fairly_good	1
 NN_NN_CC
 singing_voice_and	1
-NNP_-RRB-_VBG
-Vance_-RRB-_raising	1
 JJ_NN_WP
 local_town_who	1
 VBZ_JJ_,
@@ -453,8 +452,6 @@ value_,_bottom	1
 PRP_MD_VB
 I_'d_wait	1
 I_can_say	1
-NNP_-RRB-_VBZ
-Avalon_-RRB-_has	1
 VB_DT_NNS
 side_the_shows	1
 NNS_IN_DT
@@ -465,8 +462,6 @@ forces_with_a	1
 advances_of_the	1
 eps_from_both	1
 dates_of_each	1
-NNP_-RRB-_MD
-Conreid_-RRB-_can	1
 :_WRB_DT
 -_When_a	1
 VBP_VBG_NN
@@ -491,6 +486,7 @@ Lucy_joins_forces	1
 CD_IN_NNP
 one_of_Lucy	1
 NNP_NNP_CC
+Lucille_Ball_and	1
 Robert_Goulet_and	1
 DT_JJR_NN
 a_better_edition	1
@@ -503,6 +499,7 @@ CD_NN_.
 2_pack_!	1
 NNP_JJ_NN
 Pretty_good_box	1
+Bradford_guest_star	1
 DT_NNP_NNP
 the_Old_Mill	1
 THE_LUCY_SHOW	1
@@ -545,6 +542,7 @@ decides_to_help	1
 wants_to_join	1
 NNP_NNP_VBZ
 Madacy_Entertainment_comprises	1
+Frankie_Avalon_has	1
 Mr_Mooney_is	1
 ,_NNP_CC
 ,_Lucy_and	1
@@ -570,8 +568,7 @@ Lucy_calls_off	1
 ,_Lucy_takes	1
 NNP_NNP_VBG
 Lucie_Arnaz_playing	1
-DT_PRP_VBP
-all_you_see	1
+Vivian_Vance_raising	1
 JJ_NN_VBP
 later_show_do	1
 NN_NN_VBD
@@ -587,18 +584,15 @@ VBP_JJ_PRP
 'm_glad_I	1
 VBZ_RP_PRP$
 calls_off_her	1
-NNP_NNP_-LRB-
-Mr_Mooney_-LRB-	1
-Viv_Bagley_-LRB-	1
-Carol_Bradford_-LRB-	1
-Lucy_Carmichael_-LRB-	1
 CD_IN_DT
 one_of_the	1
 one_from_the	1
--LRB-_JJ_NN
--LRB-_guest_star	1
 NNP_NNP_.
+Jacques_Bergerac_.	1
+Carol_Burnett_.	1
+Gale_Gordon_.	1
 New_York_.	1
+Ruta_Lee_.	1
 LUCY_SHOW_.	1
 Main_Street_.	1
 NN_POS_VBP
@@ -606,8 +600,6 @@ DVD_'s_are	1
 VBG_TO_VB
 wanting_to_put	1
 Trying_to_save	1
-NNP_-LRB-_JJ
-Bradford_-LRB-_guest	1
 POS_NN_NN
 's_barbershop_group	1
 POS_VBP_VBN
@@ -619,9 +611,7 @@ star_Ruta_Lee	1
 star_Hans_Conreid	1
 star_Carol_Burnett	1
 star_Jacques_Bergerac	1
-FW_``_NNP
-<br />_``_Lucy	9
-<br />_``_Main	1
+nephew_Frankie_Avalon	1
 NNP_NNS_NNP
 Lucy_notices_Mr	1
 TO_VB_VB
@@ -643,8 +633,8 @@ JJ_CD_VBP
 first_4_are	1
 VBG_PRP$_NNS
 raising_their_children	1
-NNS_RB_VBP
-shows_almost_make	1
+NN_VBD_WRB
+series_changed_when	1
 RBR_IN_PRP
 more_than_she	1
 IN_IN_PRP$
@@ -653,8 +643,6 @@ TO_VB_DT
 to_be_the	1
 to_put_a	1
 to_install_a	1
-DT_NN_POS
-the_bank_'s	2
 PRP$_JJS_NN
 her_latest_flatmate	1
 NN_CC_DT
@@ -778,8 +766,6 @@ VB_NNP_POS
 join_Viv_'s	1
 PRP_RP_CC
 it_up_and	1
--RRB-_MD_VB
--RRB-_can_help	1
 RB_IN_JJ
 together_in_upstate	1
 RB_VBD_CD
@@ -802,10 +788,6 @@ Goulet_and_enters	1
 ,_which_would	1
 CC_IN_DT
 But_on_the	1
-NN_-LRB-_NN
-client_-LRB-_guest	1
-replacement_-LRB-_guest	1
-coach_-LRB-_guest	1
 JJ_NN_CC
 high_quality_but	1
 CC_VBZ_TO
@@ -822,8 +804,6 @@ Carol_'s_band	1
 JJ_NN_NNS
 new_roommate_episodes	1
 official_air_dates	1
-JJ_NN_-LRB-
-efficient_replacement_-LRB-	1
 JJ_NN_NNP
 grumpy_banker_Mr	1
 guest_star_Carol	1
@@ -837,9 +817,8 @@ NN_VBN_IN
 box_set_for	1
 VBZ_CD_JJ
 comprises_10_great	1
-NN_NN_-LRB-
-celebrity_client_-LRB-	1
-voice_coach_-LRB-	1
+DT_NN_POS
+the_bank_'s	2
 WRB_DT_NN
 When_a_truck-driver	1
 NNS_POS_NN
@@ -848,8 +827,6 @@ NNS_VBP_RB
 shows_are_highly	1
 POS_NN_.
 '_bedroom_.	1
-FW_FW_``
-<br />_<br />_``	10
 ,_IN_JJ
 ,_in_black	1
 CD_NNS_.
@@ -952,20 +929,8 @@ NNS_VBP_IN
 episodes_are_out	1
 VBN_TO_VB
 supposed_to_be	1
-NNP_NNP_-RRB-
-Gale_Gordon_-RRB-	1
-Vivian_Vance_-RRB-	1
-Frankie_Avalon_-RRB-	1
-Jacques_Bergerac_-RRB-	1
-Ruta_Lee_-RRB-	1
-Carol_Burnett_-RRB-	1
-Hans_Conreid_-RRB-	1
-Lucille_Ball_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Vivian_Vance	1
--LRB-_Gale_Gordon	1
--LRB-_Frankie_Avalon	1
--LRB-_Lucille_Ball	1
+TO_VB_NN
+to_save_money	1
 ``_NNP_NNP
 ``_Main_Street	1
 IN_CC_IN
@@ -1022,6 +987,8 @@ VBP_RB_JJ
 are_highly_entertaining	1
 WDT_MD_VB
 which_would_be	1
+POS_NN_NNP
+'s_nephew_Frankie	1
 VBZ_IN_DT
 jumps_in_a	1
 NN_CC_VBZ
@@ -1029,8 +996,8 @@ voice_and_decides	1
 illness_and_joins	1
 NN_NNS_.
 secretary_friends_.	1
-NN_VBD_WRB
-series_changed_when	1
+NNS_RB_VBP
+shows_almost_make	1
 NNP_NN_NN
 Lucy_show_DVD	1
 JJR_NN_NN
@@ -1071,12 +1038,6 @@ and_Viv_attempt	1
 and_Viv_Put	1
 :_VBG_TO
 -_Trying_to	1
-NNP_-LRB-_NNP
-Bagley_-LRB-_Vivian	1
-Mooney_-LRB-_Gale	1
-Carmichael_-LRB-_Lucille	1
-WRB_PRP_VBZ
-when_she_discovers	1
 CC_NNP_NNP
 and_Viv_Bagley	1
 VB_PRP_IN

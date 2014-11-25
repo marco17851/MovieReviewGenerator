@@ -70,23 +70,17 @@ pretty_good_,	1
 DT_NN_VBD
 The_acting_was	1
 The_story_was	1
-RB_-LRB-_NNP
-forever_-LRB-_Tony	1
 NNP_NNP_:
 !!_Wall_-	1
 NN_VBG_DT
 western_starring_the	1
 VB_PRP_CD
 love_it_!!	1
-DT_MD_DT
-This_would_a	1
 DT_NN_VBZ
 This_movie_is	1
 the_warehouse_seems	1
 NNP_NNP_,
 Tony_Jaa_,	1
-IN_RB_-LRB-
-on_forever_-LRB-	1
 NNP_NNP_.
 Steve_James_.	2
 NNS_RB_:
@@ -107,8 +101,6 @@ and_I_was	1
 ,_I_wanted	1
 NN_TO_DT
 tribute_to_the	1
--RRB-_:_CC
--RRB-_--_and	1
 ``_DT_NN
 `_The_Protector	1
 VB_VBN_IN
@@ -123,10 +115,8 @@ CD_NN_NN
 1990s_action_movie	1
 CC_MD_VB
 and_should_be	1
-PRP_CD_-RRB-
-it_!!_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Tony_Jaa	1
+WP_DT_CD
+what_the_1990s	1
 NN_IN_PDT
 DVD_with_all	1
 VBD_JJ_NNS
@@ -149,6 +139,8 @@ VBD_RB_JJ
 was_pretty_good	1
 DT_NN_''
 The_Protector_'	1
+NN_NN_NN
+action_movie_on-a-budget	1
 IN_NN_IN
 on_DVD_with	1
 NN_NN_IN
@@ -181,8 +173,8 @@ multiple_assailants_in	1
 ,_martial_arts/action	1
 VBD_IN_,
 was_over_,	1
-CD_-RRB-_:
-!!_-RRB-_--	1
+DT_MD_DT
+This_would_a	1
 MD_VB_PRP
 would_love_it	1
 ,_NN_VBG
@@ -205,12 +197,14 @@ good_,_too	1
 :_a_low-budget	1
 NN_,_CC
 classic_,_and	1
-WP_DT_CD
-what_the_1990s	1
+CD_:_CC
+!!_--_and	1
 NN_''_,
 Protector_'_,	1
 SYM_DT_JJ
 *_The_final	1
+PRP_CD_:
+it_!!_--	1
 JJ_NNP_NNP
 incomparable_Steve_James	1
 perfect_!!_Wall	1
@@ -228,12 +222,14 @@ to_the_great	1
 DT_JJ_NN
 The_final_fight	1
 a_fitting_tribute	1
-NN_NN_NN
-action_movie_on-a-budget	1
+RB_NNP_NNP
+forever_Tony_Jaa	1
 :_CC_PRP
 --_and_I	1
 NN_VBD_RB
 acting_was_pretty	1
+IN_RB_NNP
+on_forever_Tony	1
 DT_NNS_.
 the_extras_.	1
 VBZ_DT_NN

@@ -13,16 +13,15 @@ most_classic_surf	1
 NN_VBD_DT
 someone_said_this	1
 son_took_a	1
-DT_NN_-LRB-
-no_exception_-LRB-	1
 NN_IN_CD
 surfing_of_5	1
 narration_of_two	1
 RB_DT_JJ
 still_some_great	1
 only_a_few	1
--RRB-_IN_DT
--RRB-_in_any	1
+JJ_NN_DT
+respectful_surfer_this	1
+Great_film_all	1
 ,_DT_NNS
 ,_the_locations	1
 ,_the_characters	1
@@ -70,8 +69,6 @@ JJS_VBP_RB
 most_do_n't	1
 NN_NN_MD
 surf_film_can	1
-CC_CD_-LRB-
-and_2_-LRB-	1
 RB_VB_IN
 just_record_from	1
 subtly_delve_into	1
@@ -133,8 +130,8 @@ but_here_for	1
 or_even_if	1
 NNS_VBP_CD
 boys_are_16	1
-NN_RB_VBP
-<p>_Now_watch	1
+CC_VB_TO
+or_want_to	1
 TO_VB_.
 to_finish_.	1
 to_watch_.	1
@@ -142,6 +139,7 @@ WDT_VBZ_NN
 that_is_surfing	1
 NN_PRP_VBP
 way_they_visit	1
+film_I_have	1
 !!_I_think	1
 movie_I_have	1
 NN_RB_VBZ
@@ -181,9 +179,6 @@ recommend_this_film	1
 are_a_surfer	2
 VBZ_PRP_JJ
 gets_me_excited	1
-CD_-LRB-_IN
-2_-LRB-_along	1
-II_-LRB-_on	1
 CC_NN_NNP
 and_legend_August	1
 CC_NN_NNS
@@ -205,8 +200,6 @@ RB_VB_WRB
 n't_know_how	1
 TO_VB_PRP
 to_see_it	1
--LRB-_VBN_IN
--LRB-_shaped_by	1
 VBP_VBN_JJ
 are_considered_bland	1
 RB_IN_TO
@@ -407,6 +400,7 @@ JJ_IN_DT
 wrong_with_that	1
 large_with_a	1
 everyday_for_an	1
+true_behind_the	1
 good_as_the	1
 Simple_as_that	1
 mindful_of_the	1
@@ -440,22 +434,17 @@ do_n't_waste	1
 do_n't_change	1
 VBD_VBN_:
 were_scripted_...	1
-:_CC_DT
-..._but_both	1
-..._but_the	1
+NN_,_PRP
+surf_,_you	1
 TO_VB_``
 to_get_``	1
 to_have_``	1
-CC_NN_NN
-&_distribution_company	1
 VBP_RB_VBG
 'm_not_saying	1
 RB_CC_PRP
 now_and_we	1
 ago_and_I	1
 once_and_I	1
-CD_NNS_CC
-four_years_and	1
 ,_NN_CC
 ,_A_+	1
 CD_NN_CC
@@ -490,8 +479,6 @@ JJ_TO_DT
 true_to_the	1
 VBD_VBN_TO
 was_disheartened_to	1
-NNP_NNP_''
-Summer_Revisited_''	1
 IN_VBG_PRP
 while_watching_it	1
 about_putting_it	1
@@ -510,8 +497,8 @@ the_seen_with	1
 RB_DT_VBZ
 again_this_is	1
 then_this_is	1
-NNP_._-RRB-
-Fr_._-RRB-	1
+VBP_RB_NN
+do_n't_surf	2
 DT_NNP_,
 the_Zulu_,	1
 The_Good_,	1
@@ -558,9 +545,6 @@ will_be_extremely	1
 'll_stop_there	1
 CC_JJ_CC
 both_long_and	1
-DT_NN_VBN
-another_film_called	1
-some_pain_involved	1
 PRP_VBP_FW
 they_visit_costa	1
 VBN_IN_RB
@@ -594,8 +578,6 @@ DT_VBZ_JJR
 this_is_better	1
 ,_CC_NNS
 ,_and_others	1
-NN_,_PRP
-surf_,_you	1
 CC_NN_WDT
 or_anyone_that	1
 DT_VBZ_IN
@@ -613,23 +595,20 @@ seen_in_a	1
 seen_with_the	1
 stoked_for_the	1
 involved_in_the	1
-VB_PRP_VBD
-<p>_It_was	1
 IN_VBG_NN
 of_surfing_blood	1
 NN_PRP_VBZ
 course_it_has	1
 surf_it_is	1
-NN_-LRB-_VBN
-longboard_-LRB-_shaped	1
+DT_NN_VBN
+another_film_called	1
+some_pain_involved	1
 VB_VBN_RB
 be_blown_away	1
 IN_VBG_.
 for_vacationing_.	1
 ,_CC_IN
 ,_and_of	2
-CC_VB_TO
-or_want_to	1
 CC_VBZ_PRP
 and_makes_you	1
 PRP$_NNS_JJ
@@ -648,8 +627,6 @@ VBN_NN_.
 updated_feel_.	1
 TO_``_DT
 to_``_The	1
-RB_,_NNP
-not_,_CHECK	1
 VBN_TO_VB
 disheartened_to_find	1
 stoked_to_see	1
@@ -663,10 +640,10 @@ MD_VB_``
 will_do_``	1
 NNS_:_VBZ
 surf-brats_--_is	1
-NN_VBZ_PRP$
-place_has_its	1
 RB_VBZ_PRP$
 still_remains_my	1
+NNS_CC_RB
+breaks_and_also	1
 NNP_IN_CD
 HBO_about_five	1
 JJ_VBZ_DT
@@ -675,11 +652,6 @@ PRP_NN_,
 you_surf_,	1
 VB_JJ_,
 be_blasphemy_,	1
-DT_JJ_-LRB-
-the_true_-LRB-	1
-DT_NNS_VBN
-the_others_involved	1
-the_surfers_involved	1
 CD_NNS_RB
 2_years_ago	1
 five_years_ago	1
@@ -749,8 +721,6 @@ croc_chase_,	1
 narration_smooth_,	1
 bear_encounter_,	1
 surfing_movie_,	1
--LRB-_JJ_IN
--LRB-_reminiscent_of	1
 NN_DT_JJS
 doubt_the_best	1
 VBZ_TO_VB
@@ -770,25 +740,20 @@ VBP_RB_RB
 'm_not_there	1
 VBZ_JJ_NNS
 has_unbelievable_surfers	1
-RP_DT_NNP
-out_the_South	1
+IN_NNP_IN
+on_HBO_about	1
 RB_RB_RB
 not_quite_as	1
 NNS_VBG_DT
 surfers_riding_the	1
-,_JJ_,
-,_witty_,	1
-,_addicting_,	1
+VB_CC_RB
+be_and_still	1
 IN_NN_WRB
 of_place_where	1
 JJ_:_PRP
 amazing_--_I	1
--LRB-_NNS_-RRB-
--LRB-_breaks_-RRB-	1
 NNP_''_.
 Revisited_''_.	1
--RRB-_CC_RB
--RRB-_and_also	1
 PRP_VBP_JJ
 you_want_beautiful	1
 VB_PRP_IN
@@ -824,6 +789,8 @@ Barron_of_HI	1
 Weaver_from_Santa	1
 O'Connell_from_Dana	1
 Wizard_of_Oz	1
+NNS_NN_CC
+scenes_production_and	1
 LS_VBD_DT
 i_thought_no	1
 TO_NNS_CC
@@ -833,6 +800,8 @@ but_both_movies	1
 and_the_surfers	1
 CD_NN_VBD
 One_son_took	1
+NNS_JJ_IN
+friends_everyday_for	1
 NN_:_VBP
 note_;_do	1
 PRP_VBD_IN
@@ -849,15 +818,11 @@ NN_DT_JJ
 movie_a_definate	1
 ,_CC_VB
 ,_or_want	1
-NN_NNS_VB
-<p>_Thanks_be	1
 RB_VBZ_PRP
 always_gets_me	1
 rarely_takes_itself	1
 CC_JJR_IN
 or_less_if	1
-PRP$_NN_-LRB-
-his_longboard_-LRB-	1
 DT_VBZ_JJ
 this_is_nice	1
 IN_DT_.
@@ -887,6 +852,7 @@ a_joke_about	1
 this_movie_on	1
 the_world_at	1
 The_thing_about	1
+no_exception_though	1
 The_footage_of	1
 the_atmosphere_of	1
 this_video_for	1
@@ -912,8 +878,9 @@ to_disagree_that	1
 to_improve_on	1
 CD_VBZ_CD
 II_follows_2	1
-NN_-LRB-_PRP
-film_-LRB-_I	1
+VBZ_VBN_DT
+has_caught_the	1
+is_unveiled_a	1
 DT_VBZ_DT
 This_is_a	3
 this_is_no	1
@@ -961,12 +928,10 @@ much_better_surf	1
 ,_outspoken_blond	1
 IN_VBN_DT
 since_purchased_a	1
--LRB-_IN_IN
--LRB-_along_with	1
+RB_,_NNP
+not_,_CHECK	1
 NNP_NNP_NNP
 Cape_St._Francis	1
-<p>_Bottom_Line	1
-<p>_Bruce_Brown	1
 THIS_MOVIE_OUT	1
 CHECK_THIS_MOVIE	1
 DT_NNP_IN
@@ -976,8 +941,8 @@ JJ_VBD_PRP
 many_thought_he	1
 VBZ_RB_RB
 's_not_quite	1
-VBZ_JJ_-RRB-
-is_exceptional_-RRB-	1
+PRP_IN_DT
+it_on_a	1
 TO_NNP_NNP
 to_Biaritz_France	1
 ,_CC_PRP
@@ -1055,12 +1020,6 @@ was_so_great	1
 VBZ_JJ_TO
 remains_true_to	1
 is_hard_to	1
-VB_TO_VB
-want_to_learn	1
-want_to_see	1
-discredit_to_have	1
-want_to_ruin	1
-have_to_disagree	1
 RB_JJ_,
 really_special_,	1
 truly_beautiful_,	1
@@ -1072,8 +1031,6 @@ the_locations_,	1
 the_emotions_,	1
 PRP_,_PRP
 you_,_you	1
--LRB-_CC_JJR
--LRB-_or_less	1
 VBD_NN_JJ
 brained_gremmie_responsible	1
 NN_:_CC
@@ -1094,14 +1051,16 @@ the_original_or	1
 an_incredible_and	1
 the_innocent_and	1
 the_original_and	1
-NN_NN_CD
-<p>_ES_II	1
+WDT_VBD_JJ
+which_suffocated_many	1
 CD_VB_PRP
 !!!_Take_me	1
 RB_JJ_:
 truly_genious_--	1
 :_RB_VBG
 -_still_waiting	1
+DT_NNS_NN
+the_scenes_production	1
 VBN_PRP_RB
 seen_it_once	1
 VB_PRP_RB
@@ -1110,8 +1069,6 @@ NN_:_IN
 video_--_in	1
 NN_VBD_EX
 quality_was_there	1
-NNP_-RRB-_IN
-August_-RRB-_in	1
 TO_DT_NN
 to_the_way	1
 to_the_break	1
@@ -1131,8 +1088,8 @@ I_will_just	1
 ``_NNP_''
 ``_Revisited_''	1
 ``_Wingnut_''	1
-FW_NNP_CC
-<br />_Rent_or	1
+NNP_NNP_''
+Summer_Revisited_''	1
 IN_NN_CC
 of_fun_and	1
 of_surfing_and	1
@@ -1174,8 +1131,8 @@ a_KILLER_sountrack	1
 the_narration_smooth	1
 MD_VB_CC
 can_be_and	1
-NN_VBZ_.
-movie_flows_.	1
+NN_VBZ_PRP$
+place_has_its	1
 JJ_NNS_CC
 old_sons_and	1
 NN_PRP_RB
@@ -1199,8 +1156,9 @@ IN_NN_RB
 on_DVD_now	1
 PRP_TO_VB
 us_to_paddle	1
-VB_CC_RB
-be_and_still	1
+,_JJ_,
+,_witty_,	1
+,_addicting_,	1
 IN_DT_MD
 because_that_would	1
 NN_NNS_CC
@@ -1209,8 +1167,8 @@ FW_FW_,
 costa_rica_,	1
 NNS_IN_TO
 years_before_to	1
-NNS_JJ_IN
-friends_everyday_for	1
+PRP$_NN_VBN
+his_longboard_shaped	1
 RB_VBN_PRP
 just_seen_it	1
 PRP_IN_NNS
@@ -1225,8 +1183,6 @@ is_made_for	1
 is_thrown_in	1
 RB_VBN_VBN
 always_been_lauded	1
--RRB-_NN_CC
--RRB-_production_and	1
 JJ_VBG_NN
 adrenaline_pumping_sport	1
 VBP_RB_VBN
@@ -1244,6 +1200,8 @@ VBZ_PRP$_JJ
 's_my_favorite	1
 has_its_own	1
 is_my_favorite	1
+NN_CD_IN
+Summer_II_on	1
 RP_VBN_PRP
 out_done_himself	1
 NN_VBZ_VBN
@@ -1281,8 +1239,6 @@ RB_,_JJS
 However_,_most	1
 TO_NNP_,
 to_Bruce_,	1
-NN_NNS_-RRB-
-movie_posters_-RRB-	1
 IN_WDT_VBZ
 of_which_is	1
 CC_PDT_DT
@@ -1295,8 +1251,8 @@ VBZ_DT_MD
 is_a_must	1
 RB_TO_NN
 ever_to_grace	1
-NNS_VBG_RP
-events_going_off	1
+FW_CC_JJR
+bikinis_or_less	1
 DT_IN_JJ
 each_of_Endless	1
 CD_RB_CC
@@ -1307,6 +1263,8 @@ IN_VBG_NNS
 while_riding_waves	1
 VB_``_DT
 do_``_The	1
+JJ_JJ_IN
+narrative_reminiscent_of	1
 NN_RB_,
 air_anytime_,	1
 movie_ever_,	1
@@ -1336,6 +1294,8 @@ his_colorful_,	1
 VBZ_RB_DT
 is_perhaps_the	1
 's_also_an	1
+NNS_VBG_RP
+events_going_off	1
 IN_WP_VBZ
 with_what_'s	1
 at_what_drives	1
@@ -1356,11 +1316,12 @@ not_forget_the	1
 n't_know_the	1
 CC_IN_NN
 and_of_course	2
+NN_NN_PRP
+surf_film_I	1
 VB_DT_NN
 ruin_the_movie	1
 take_a_trip	1
 buy_this_dvd	1
-<p>_The_thing	2
 see_an_airport	1
 enjoy_this_landmark	1
 buy_this_film	1
@@ -1438,8 +1399,8 @@ australia_,_and	1
 greatness_,_and	1
 NNS_CC_JJ
 waves_and_nice	1
--LRB-_IN_NNP
--LRB-_on_VHS	1
+DT_NN_CD
+some_class_5	1
 DT_NN_CC
 the_beauty_and	1
 the_scenery_&	1
@@ -1457,15 +1418,14 @@ it_captures_the	1
 it_is_a	1
 It_'s_a	1
 one_'s_a	1
-JJ_NNS_-LRB-
-awesome_waves_-LRB-	1
 CC_JJ_JJ
 and_new_exciting	1
-NN_''_VBZ
-Summer_''_has	1
-:_PRP_VBZ
-:_it_puts	1
-;_one_'s	1
+IN_PRP$_NN
+from_my_ES	1
+in_my_opinion	1
+in_my_head	1
+with_my_roommate	1
+on_his_longboard	1
 VB_RB_RB
 change_too_soon	1
 get_out_there	1
@@ -1514,17 +1474,22 @@ NNP_:_RB
 VHS_-_still	1
 ,_NNP_.
 ,_Fr_.	1
-JJ_-RRB-_.
-exceptional_-RRB-_.	1
 ,_NNP_,
 ,_Pat_,	1
 ,_CA_,	2
 ,_Wingnut_,	1
+CC_CD_IN
+and_2_along	1
 VBG_DT_.
 watching_this_.	1
--LRB-_PRP_VBP
--LRB-_I_have	1
+VB_TO_VB
+want_to_learn	1
+want_to_see	1
+discredit_to_have	1
+want_to_ruin	1
+have_to_disagree	1
 NN_,_VBD
+DVD_,_turned	1
 heat_,_cracked	1
 NN_,_VBG
 part_,_surfing	1
@@ -1533,9 +1498,8 @@ globe_,_catching	1
 VBZ_JJ_,
 is_bad_,	1
 is_pleasant_,	1
-WDT_VBD_JJ
-which_suffocated_many	1
 VBZ_JJ_.
+is_exceptional_.	1
 is_great_.	1
 NN_,_JJ
 video_,_great	1
@@ -1570,8 +1534,8 @@ Robert_did_30	1
 PRP_VBD_JJ
 It_had_great	1
 you_enjoyed_Endless	1
-FW_-LRB-_CC
-bikinis_-LRB-_or	1
+NN_PRP_IN
+ocean_itself_on	1
 VBZ_PRP$_NN
 is_your_movie	1
 joins_its_predecessor	1
@@ -1584,12 +1548,15 @@ RB_VB_RP
 never_go_off	1
 ``_DT_JJ
 ``_The_Endless	3
-FW_VB_DT
-<br />_Add_this	1
+:_CC_DT
+..._but_both	1
+..._but_the	1
 PRP_WRB_JJ
 us_how_different	1
-IN_PRP$_JJ
-for_his_colorful	1
+VBG_IN_DT
+tromping_over_the	1
+waiting_for_that	1
+living_in_the	1
 VB_VBZ_VBN
 see_is_unveiled	1
 VBG_DT_NN
@@ -1612,6 +1579,8 @@ VBZ_DT_RB
 is_a_very	1
 ,_NNS_JJ
 ,_charactors_likable	1
+NNS_NNS_CC
+waves_breaks_and	1
 :_VBP_RB
 ;_do_n't	1
 VB_IN_DT
@@ -1632,6 +1601,8 @@ JJ_TO_PRP$
 true_to_its	1
 CC_RB_,
 and_instead_,	1
+CD_IN_NNP
+II_on_VHS	1
 WP_VBZ_DT
 what_drives_each	1
 Who_is_the	1
@@ -1652,8 +1623,6 @@ Pink_Floyd_'s	1
 Bruce_Brown_'s	1
 VBN_:_PRP
 scripted_..._I	1
-FW_FW_JJ
-<br />_<br />_Great	1
 VB_RB_VBN
 be_extremely_pleased	1
 NN_DT_NN
@@ -1661,8 +1630,6 @@ break_each_year	1
 grace_a_surfing	1
 VBD_RB_NN
 did_not_tire	1
-IN_PRP$_CD
-for_my_13	1
 NNS_VBP_JJ
 conditions_are_unparalleled	1
 surfers_are_able	1
@@ -1696,8 +1663,6 @@ is_surfing_,	1
 PRP_VBZ_PRP
 it_says_it	1
 it_puts_you	1
-IN_NNP_IN
-on_HBO_about	1
 NN_JJ_.
 surfing_breathtaking_.	1
 PRP$_RB_,
@@ -1708,12 +1673,12 @@ DT_RBR_JJ
 a_more_modern	1
 NN_WRB_NN
 review_where_someone	1
-NN_CD_-LRB-
-Summer_II_-LRB-	1
+CC_NN_NN
+&_distribution_company	1
 RB_VBZ_IN
 only_comes_from	1
--LRB-_IN_DT
--LRB-_behind_the	1
+CD_IN_IN
+2_along_with	1
 NN_NN_:
 summer_fun_...	1
 surf_footage_...	1
@@ -1750,10 +1715,11 @@ landmark_movie_.	1
 surf_film_.	1
 NN_IN_PRP
 anyone_so_I	1
-movie_that_I	1
-blood_in_you	1
 loop_so_it	1
 passion_that_we	1
+movie_that_I	1
+blood_in_you	1
+exception_though_it	1
 JJ_,_VBN
 present_,_stoked	1
 NNP_NNP_,
@@ -1773,8 +1739,6 @@ they_end_up	1
 you_check_out	1
 NN_VBN_``
 film_called_``	1
-NNS_-RRB-_.
-posters_-RRB-_.	1
 DT_NN_,
 this_dvd_,	1
 the_sun_,	1
@@ -1785,11 +1749,12 @@ the_globe_,	1
 the_beach_,	1
 the_collection_,	1
 the_cast_,	1
-the_content_,	1
+that_DVD_,	1
 the_ecology_,	1
 the_snow_,	1
 the_world_,	1
 the_food_,	1
+the_content_,	1
 the_footage_,	1
 the_ocean_,	1
 DT_NN_.
@@ -1797,6 +1762,7 @@ a_wave_.	1
 this_pick_.	1
 the_quality_.	1
 the_future_.	1
+a_dozen_.	1
 the_original_.	1
 the_beach_.	1
 this_video_.	1
@@ -1930,8 +1896,6 @@ NN_TO_NNP
 detour_to_Biaritz	1
 NNS_CC_NN
 people_and_place	1
-DT_NN_CD
-some_class_5	1
 NN_NN_VBD
 surf_documnetary_was	1
 VBP_JJ_.
@@ -1944,10 +1908,8 @@ think_surfing_videos	1
 ``_stoked_''	1
 IN_TO_VB
 before_to_find	1
-VBG_IN_DT
-tromping_over_the	1
-waiting_for_that	1
-living_in_the	1
+IN_PRP$_JJ
+for_his_colorful	1
 NNS_RB_.
 movies_ever_.	1
 breaks_ever_.	1
@@ -1985,6 +1947,8 @@ VBZ_DT_IN
 is_all_about	1
 DT_IN_NN
 some_of_earth	1
+FW_FW_CC
+in_bikinis_or	1
 VB_IN_CD
 rate_as_5	1
 NNS_VBG_PRP$
@@ -2021,14 +1985,12 @@ TO_RB_VB
 to_just_get	1
 VB_WRB_PRP
 see_where_they	1
-POS_JJ_-LRB-
-'s_narrative_-LRB-	1
 NNS_IN_NN
 sounds_of_surfing	1
 mechanisms_for_punk	1
 jeffries_in_S.Africa	1
-FW_RB_DT
-<br />_Certainly_a	1
+NN_VBN_.
+pain_involved_.	1
 RB_VBP_RB
 elsewhere_are_truly	1
 NNS_FW_FW
@@ -2081,8 +2043,6 @@ VBG_RP_IN
 going_off_that	1
 WP_VBZ_RB
 who_has_ever	1
-VBZ_JJR_IN
-is_better_than	1
 MD_RB_VB
 ca_n't_help	1
 would_never_go	1
@@ -2091,8 +2051,6 @@ might_even_get	1
 may_not_get	1
 RB_VB_PRP$
 n't_waste_your	1
-NN_NN_-LRB-
-surf_film_-LRB-	1
 VBG_IN_JJ
 being_in_Endless	1
 going_on_onscreen	1
@@ -2104,6 +2062,7 @@ A_+_No	1
 DT_WDT_VBZ
 all_that_is	1
 DT_JJ_IN
+the_true_behind	1
 a_must-own_if	1
 the_first_as	1
 the_last_of	1
@@ -2154,15 +2113,10 @@ called_``_The	1
 DT_NN_DT
 a_doubt_the	1
 this_movie_a	1
-NNS_VBP_RB
-things_are_now	1
-formats_do_n't	1
 IN_NNP_POS
 of_Wingnut_'s	1
 VB_NN_NNS
 find_luxury_homes	1
-NN_-LRB-_IN
-exception_-LRB-_though	1
 NN_,_NN
 africa_,_australia	1
 nature_,_beauty	1
@@ -2253,12 +2207,12 @@ worth_your_time	1
 ,_day_after	1
 NNS_MD_VB
 surfers_can_be	1
-NNS_-LRB-_NNS
-waves_-LRB-_breaks	1
+JJ_NNS_NNS
+awesome_waves_breaks	1
 NNS_VBN_CC
 locations_visited_and	1
-NN_NNP_-RRB-
-legend_August_-RRB-	1
+RP_DT_NNP
+out_the_South	1
 RB_VBZ_JJ
 also_has_unbelievable	1
 DT_NNS_VBP
@@ -2345,9 +2299,9 @@ JJ_NN_TO
 special_detour_to	1
 spiritual_connection_to	1
 personal_tradition_to	1
-DT_NN_-RRB-
-a_dozen_-RRB-	1
-that_DVD_-RRB-	1
+DT_NNS_VBN
+the_others_involved	1
+the_surfers_involved	1
 VBD_VBG_TO
 was_going_to	1
 JJ_,_IN
@@ -2357,9 +2311,6 @@ JJS_NN_,
 most_part_,	1
 ,_VBN_IN
 ,_stoked_for	1
-VBZ_VBN_DT
-has_caught_the	1
-is_unveiled_a	1
 CC_MD_VB
 and_should_be	1
 CC_NN_IN
@@ -2372,8 +2323,8 @@ and_essence_of	1
 and_majesty_of	1
 VBN_NNS_:
 spoiled_surf-brats_--	1
-IN_NN_-RRB-
-of_ES_-RRB-	1
+NN_''_VBZ
+Summer_''_has	1
 IN_PRP$_RB
 if_your_not	1
 VBZ_DT_VB
@@ -2406,12 +2357,9 @@ CC_JJ_:
 and_amazing_--	1
 CC_VBN_.
 and_surfed_.	1
-IN_PRP$_NN
-from_my_ES	1
-in_my_opinion	1
-in_my_head	1
-with_my_roommate	1
-on_his_longboard	1
+:_PRP_VBZ
+:_it_puts	1
+;_one_'s	1
 VBD_PRP_VBD
 thought_he_was	1
 ,_NN_,
@@ -2497,8 +2445,6 @@ CD_JJ_NN
 JJS_NN_NN
 best_surfing_movie	1
 greatest_surfing_documentary	1
-VBP_RB_NN
-do_n't_surf	2
 VBP_VBN_DT
 've_provided_the	1
 VBD_VBG_,
@@ -2583,9 +2529,6 @@ is_stoked_to	1
 VBP_WRB_PRP
 wonder_when_they	1
 mean_when_you	1
-JJ_NN_DT
-respectful_surfer_this	1
-Great_film_all	1
 JJ_NN_CC
 great_videography_and	1
 Excellent_sound_and	1
@@ -2629,13 +2572,12 @@ CD_NNS_IN
 30_years_before	1
 RBS_JJ_,
 most_spectacular_,	1
-JJ_-LRB-_JJ
-narrative_-LRB-_reminiscent	1
 PRP_DT_JJ
 it_the_first	1
 it_a_personal	1
 NN_VBN_IN
 scenery_caught_on	1
+longboard_shaped_by	1
 CC_NNP_VBP
 and_Weaver_are	1
 NN_WDT_RB
@@ -2658,8 +2600,9 @@ surfing_movie_ever	2
 VBD_JJ_NN
 enjoyed_Endless_summer	1
 had_great_camera	1
-FW_FW_-LRB-
-in_bikinis_-LRB-	1
+NNS_VBP_RB
+things_are_now	1
+formats_do_n't	1
 VBG_PRP$_NN
 doing_their_thing	1
 cheering_your_way	1
@@ -2672,8 +2615,6 @@ its_predecessor_in	1
 their_thing_in	1
 VBZ_WRB_PRP
 is_how_it	1
-FW_FW_NNP
-<br />_<br />_Rent	1
 PRP_VBP_NN
 you_want_adventure	1
 CC_NNP_VBG
@@ -2755,6 +2696,7 @@ encounter_,_a	1
 world_,_this	1
 food_,_the	1
 course_,_the	2
+ES_,_the	1
 JJ_NN_,
 full_frame_,	1
 east_coast_,	1
@@ -2786,8 +2728,6 @@ DT_NN_NNS
 the_way_things	1
 NN_DT_VBZ
 surfer_this_is	1
-NNS_-RRB-_CC
-breaks_-RRB-_and	1
 DT_NN_NNP
 a_couple_Coronas	1
 TO_NN_,
@@ -2799,8 +2739,8 @@ well_The_sequel	1
 also_an_innovator	1
 NNS_PRP_:
 places_themselves_:	1
-FW_VB_NN
-<br />_Please_note	1
+CD_NNS_CC
+four_years_and	1
 VBZ_RB_IN
 fits_together_with	1
 CC_RB_VBD
@@ -2876,14 +2816,13 @@ IN_NN_,
 into_surfing_,	1
 from_greatness_,	1
 after_day_,	1
+of_ES_,	1
 of_course_,	2
 VBN_DT_.
 seen_all_.	1
 PRP_RB_VBZ
 it_also_has	1
 It_always_gets	1
-NNS_-RRB-_NN
-scenes_-RRB-_production	1
 VBN_''_IN
 stoked_''_while	1
 DT_JJS_NN
@@ -2988,8 +2927,6 @@ the_thing_that	1
 the_kind_that	1
 JJ_NNS_VBN
 exciting_locations_visited	1
-PRP_IN_DT
-it_on_a	1
 DT_JJ_JJ
 the_other_dark-haired	1
 ,_CC_DT
@@ -3010,8 +2947,6 @@ storie_and_good	1
 footwork_and_amazing	1
 production_and_post-production	1
 videography_and_humorous	1
-NN_VBN_.
-pain_involved_.	1
 RB_DT_RBS
 Simply_the_most	1
 VBP_NN_IN
@@ -3056,6 +2991,7 @@ around_,_it	1
 ,_JJ_NNP
 ,_crazy_Laird	1
 NN_NNP_IN
+legend_August_in	1
 couple_Coronas_with	1
 RB_VBD_RB
 instantly_was_back	1
@@ -3087,13 +3023,6 @@ just_get_out	1
 n't_change_too	1
 VBP_DT_JJS
 are_the_best	1
-NN_-RRB-_,
-DVD_-RRB-_,	1
-ES_-RRB-_,	1
-NN_-RRB-_.
-dozen_-RRB-_.	1
-DT_NNS_-RRB-
-the_scenes_-RRB-	1
 VBP_IN_NNP
 're_in_Biaritz	1
 RB_JJ_PRP$
@@ -3142,8 +3071,8 @@ stranglehold_on_creativity	1
 masterpiece_of_surfing	1
 PRP_VBP_PRP
 they_show_us	1
--RRB-_,_DT
--RRB-_,_the	1
+NN_VBZ_.
+movie_flows_.	1
 IN_DT_RBR
 with_a_more	1
 WP_VBZ_VBG
@@ -3167,8 +3096,8 @@ have_saved_a	1
 IN_DT_NNP
 with_the_Wizard	1
 of_the_Moon	1
-NN_PRP_IN
-ocean_itself_on	1
+CC_RB_LS
+but_clearly_i	1
 IN_DT_NNS
 in_the_shots	1
 between_the_surfers	1
@@ -3203,8 +3132,6 @@ in_some_of	1
 of_an_around	1
 RBR_JJ_CC
 more_reserved_but	1
-CC_RB_LS
-but_clearly_i	1
 IN_NNS_CC
 with_waves_and	1
 IN_NN_POS
@@ -3274,8 +3201,6 @@ CC_VBP_IN
 and_hope_that	1
 VB_WRB_JJ
 know_how_many	1
-JJ_-LRB-_IN
-true_-LRB-_behind	1
 VBZ_NNP_POS
 is_Hollywood_'s	1
 VBZ_CD_IN
@@ -3311,14 +3236,13 @@ best_movies_ever	1
 ''_IN_VBG
 ''_while_riding	1
 NN_NNS_.
+movie_posters_.	1
 surf_adventures_.	1
 CC_NNS_RB
 and_breaks_ever	1
 NN_NNS_,
 luxury_homes_,	1
 movie_reviewers_,	1
--RRB-_,_VBD
--RRB-_,_turned	1
 NNP_VBP_DT
 Australia_are_the	1
 Weaver_are_the	1
@@ -3389,8 +3313,8 @@ DT_VBZ_PRP$
 this_is_your	1
 IN_CC_JJ
 with_both_long	1
-FW_JJ_NN
-<br />_Great_film	1
+VBZ_JJR_IN
+is_better_than	1
 VB_''_IN
 have_''_for	1
 NN_,_NNP
@@ -3405,19 +3329,14 @@ Hawaii_,_cold	1
 I_,_true	1
 CD_TO_DT
 one_to_the	1
-FW_FW_VB
-<br />_<br />_Add	1
-<br />_<br />_Please	1
--LRB-_IN_PRP
--LRB-_though_it	1
+IN_PRP$_CD
+for_my_13	1
 NNS_VB_TO
 Thanks_be_to	1
 CC_NNP_NNP
 and_Dick_Dale	1
 and_Robert_Weaver	1
 &_The_Ugly	1
-FW_FW_RB
-<br />_<br />_Certainly	1
 JJ_TO_JJ
 true_to_Endless	1
 ,_``_DT
@@ -3438,6 +3357,7 @@ is_Bruce_Brown	1
 ''_VBN_IN
 ''_associated_with	1
 NNP_IN_DT
+August_in_any	1
 Moon_with_the	1
 VBN_IN_PRP$
 lauded_for_his	1
@@ -3497,6 +3417,8 @@ me_excited_about	1
 VBD_DT_JJ
 did_the_other	1
 took_a_special	1
+POS_JJ_JJ
+'s_narrative_reminiscent	1
 RB_RB_DT
 as_well_The	1
 once_again_this	1

@@ -24,6 +24,8 @@ from collections import defaultdict
 import sys
 import os
 
+# Tags to be filtered out from the POS tagging
+dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
 
 """
 # Function: get_Ems_Trans_Uni()
@@ -35,8 +37,6 @@ import os
 				from each movie file.
 """
 def get_Ems_Trans_Uni(folderpath):
-
-	dontInclude = ["-RRB-", "-LRB-", "<br />"]
 
 	# Loops through the data folder
 	for ID in os.listdir(folderpath):
@@ -146,6 +146,9 @@ def get_Ems_Trans_Bg(folderpath):
 				if len(pieces) != 2:
 					continue
 
+				if pieces[0] in dontInclude or pieces[1] in dontInclude:
+					continue
+
 				# Appends the previous word / POS tag
 				if x < 1:
 					pastP.append(pieces[1])
@@ -230,6 +233,9 @@ def get_Ems_Trans_Tr(folderpath):
 				pieces = piece.split("_")
 
 				if len(pieces) != 2:
+					continue
+
+				if pieces[0] in dontInclude or pieces[1] in dontInclude:
 					continue
 
 				# Appends the first two words/POS tags

@@ -13,11 +13,10 @@ NNPS_IN
 Allies_that	1
 ``_JJ
 ``_Marked	1
-,_NN
-,_stock	1
-,_aka	1
-FW_DT
-<br />_This	1
+VBZ_VB
+does_have	1
+VBP_TO
+continue_to	1
 RB_WRB
 back_when	1
 NNP_IN
@@ -31,16 +30,10 @@ PHANTOM_OF	1
 NNS_RB
 movies_ever	1
 ones_only	1
--LRB-_VBN
--LRB-_portrayed	1
-NNS_-LRB-
-MOVIES_-LRB-	1
 CC_JJ
 and_Other	1
 and_well-defined	1
 and_audible	1
-CC_EX
-and_there	1
 MD_RB
 can_indeed	1
 may_well	1
@@ -61,14 +54,10 @@ seek_this	1
 destroy_an	1
 infiltrate_the	1
 describe_the	1
-FW_PRP
-<br />_It	1
 WRB_DT
 When_a	1
 When_the	1
 when_this	1
-VBN_NNP
-named_Greta	1
 CD_POS
 1937_'s	1
 IN_VBG
@@ -102,37 +91,14 @@ sign_to	1
 plot_to	1
 resemblance_to	1
 way_to	1
+ILLUSION_to	1
 information_to	1
 attention_to	1
-RB_VBP
-also_recommend	1
 DT_IN
 all_that	1
 some_of	2
--LRB-_NNP
--LRB-_John	1
--LRB-_Richard	1
--LRB-_SPOOK	1
--LRB-_PRC	1
--LRB-_Kathryn	1
--LRB-_Paul	1
--LRB-_Lola	1
--LRB-_code-named	1
--LRB-_Curtis	1
--LRB-_Howard	1
--LRB-_Producers	1
 VBG_NNP
 surrounding_Paris	1
-NNP_-RRB-
-Corporation_-RRB-	1
-Sheldon_-RRB-	1
-Lane_-RRB-	2
-Weigel_-RRB-	1
-Vosper_-RRB-	1
-Kipling_-RRB-	1
-Banks_-RRB-	1
-PRC_-RRB-	1
-SHIP_-RRB-	1
 RP_TO
 on_to	1
 VBN_.
@@ -150,8 +116,7 @@ to_romance	1
 :_''	1
 CD_,
 1942_,	1
-CD_-RRB-
-1973_-RRB-	1
+1973_,	1
 VBN_:
 seen_;	1
 JJ_CD
@@ -191,8 +156,9 @@ VBZ_CC
 meets_and	1
 NNS_WDT
 programmers_that	1
-JJ_-LRB-
-curious_-LRB-	1
+,_NN
+,_stock	1
+,_aka	1
 POS_NN
 's_print	1
 's_guess	1
@@ -285,6 +251,7 @@ actually_a	2
 WP_VBZ
 who_adopts	1
 NN_MD
+V_may	1
 picture_can	1
 effect_will	1
 PRP_VBZ
@@ -297,14 +264,15 @@ it_does	1
 it_'s	7
 DT_RBS
 the_most	1
--RRB-_.
--RRB-_.	4
+VBD_TO
+had_to	1
 NNP_CC
-Hiller_and	1
-Suchevcky_and	1
 Republic_and	1
-MOSCOW_and	1
+Hiller_and	1
 Greta_and	1
+MOSCOW_and	1
+Suchevcky_and	1
+Weigel_and	1
 NNP_CD
 War_Two	3
 NNP_``
@@ -328,14 +296,10 @@ quite_like	1
 suspiciously_like	1
 WDT_VBZ
 that_looks	2
-VBD_TO
-had_to	1
 ,_RB
 ,_certainly	1
 RP_PRP
 out_it	1
--RRB-_:
--RRB-_;	1
 CC_PRP
 and_they	1
 but_it	1
@@ -354,8 +318,6 @@ indeed_tell	1
 n't_look	1
 n't_know	1
 well_be	1
-''_-LRB-
-''_-LSB-	1
 ''_JJ
 ''_opposite	1
 :_NN
@@ -376,23 +338,16 @@ more_reason	1
 ''_NNS
 '_infiltrates	1
 ''_studios	1
-IN_JJ
-of_low-budget	1
-by_former	1
-in_occupied	1
-in_constant	1
-about_German	1
-for_movie-hungry	1
-as_possible	1
-though_other	1
-that_bad	1
-with_stern	1
-Amidst_variable	1
-across_German	1
-into_occupied	1
-of_bad	1
-of_glorious	1
-than_many	1
+NN_,
+spy_,	1
+player_,	1
+peril_,	1
+cinema_,	1
+thriller_,	1
+fact_,	1
+PRC_,	1
+BAT_,	1
+DETOUR_,	1
 NNP_,
 Henri_,	1
 Hitler_,	1
@@ -409,9 +364,12 @@ CD_JJ
 II_would-be	1
 NNP_.
 Paris_.	1
+Hiller_.	2
+SHIP_.	1
 France_.	1
 Moscow_.	2
-Hiller_.	2
+Banks_.	1
+Sheldon_.	1
 MOSCOW_.	1
 CC_VBZ
 and_manages	1
@@ -427,10 +385,8 @@ Sure_,	1
 Nevertheless_,	1
 sometimes_,	1
 Unfortunately_,	1
-FW_FW
-<br />_<br />	10
-FW_NN
-<br />_B-movie	1
+IN_IN
+because_of	1
 PRP$_NN
 her_cover	1
 his_milestone	1
@@ -461,20 +417,20 @@ CD_RP
 one_out	1
 NNP_:
 California_;	1
+PRC_;	1
 JJ_,
 poor_,	1
 spunky_,	1
 bad_,	2
 JJ_.
 dead_.	1
+good_.	1
 VBD_RB
 was_simply	1
 did_n't	1
 PDT_DT
 all_the	1
 All_the	1
-''_-RRB-
-'_-RRB-	1
 VBN_IN
 portrayed_with	1
 suspected_of	1
@@ -482,8 +438,6 @@ made_by	1
 filmed_in	1
 helped_by	1
 transmitted_by	1
--RRB-_VBZ
--RRB-_is	2
 NNS_.
 limitations_.	1
 flaws_.	1
@@ -501,8 +455,6 @@ accents_,	1
 WDT_RB
 which_briskly	1
 which_actually	1
--RRB-_VBD
--RRB-_was	1
 TO_DT
 to_the	1
 to_a	2
@@ -522,19 +474,14 @@ Disasters_:	1
 plans_--	1
 VBZ_,
 starts_,	1
-VBZ_PRP$
-contains_her	1
+CC_EX
+and_there	1
 RP_PRP$
 down_their	1
 TO_NNS
 to_ones	1
 NNS_VBN
 things_come	1
-JJ_-RRB-
-good_-RRB-	1
-NN_-RRB-
-ILLUSION_-RRB-	1
-V_-RSB-	1
 PRP_JJS
 her_greatest	1
 JJ_NNS
@@ -567,6 +514,7 @@ Marked_Woman	1
 several_PRC	1
 occupied_France	1
 opposite_Bette	1
+curious_SPOOK	1
 real_Greta	3
 occupied_Paris	1
 CD_IN
@@ -581,8 +529,6 @@ better_than	1
 VB_NN
 get_information	1
 Thank_goodness	1
--RRB-_CC
--RRB-_and	1
 NN_NNS
 film_companies	1
 wartime_audiences	1
@@ -591,40 +537,34 @@ enemy_lines	1
 B-movie_addicts	1
 NNS_NNP
 infiltrates_Nazi	1
+MOVIES_Curtis	1
 ,_CD
 ,_1973	1
 NN_NNP
 queen_Lola	1
 romance_Colonel	1
-spy_Vera	2
+V_Lola	1
 fighter_Henri	1
 player_Lola	1
 agent_Greta	1
 housekeeper_Minna	1
 agent_Vera	1
--RRB-_TO
--RRB-_to	2
--RRB-_,
--RRB-_,	1
+spy_Vera	2
 DT_RB
 the_strangely	1
 the_terminally	1
-JJS_-LRB-
-best_-LRB-	1
+DT_NNPS
+the_Allies	1
+the_Germans	1
+The_Russians	1
 PRP$_NNS
 its_flaws	1
 their_doubts	1
 its_limitations	1
 ,_WRB
 ,_when	2
-DT_NNPS
-the_Allies	1
-the_Germans	1
-The_Russians	1
 IN_JJS
 at_best	1
-VBP_TO
-continue_to	1
 ,_PRP$
 ,_our	1
 NN_PRP
@@ -634,10 +574,10 @@ Love_it	1
 VB_PRP$
 have_its	1
 have_their	1
-TO_NNP
-to_Greta	1
-to_Russia	1
-to_Moscow	2
+NN_''
+row_''	1
+V_'	1
+B_''	1
 DT_JJS
 the_most	1
 the_worst	2
@@ -682,15 +622,9 @@ far_more	1
 ,_DT
 ,_the	3
 ,_THE	1
-NNP_-LRB-
-Marova_-LRB-	2
-PRC_-LRB-	1
-Minna_-LRB-	1
-Devallier_-LRB-	1
-Corporation_-LRB-	1
-Suchevcky_-LRB-	1
-Heinrich_-LRB-	1
-Worth_-LRB-	1
+NNP_NNPS
+Curtis_Books	1
+Warner_Brothers	2
 NN_CC
 part_and	1
 delight_and	1
@@ -727,16 +661,13 @@ gives_Comrade	1
 's_anyone	1
 WDT_VBP
 which_are	1
-FW_IN
-<br />_Despite	1
-<br />_Of	1
-<br />_If	1
+VBN_NNP
+named_Greta	1
 DT_CD
 this_one	1
-JJS_NNP
-best_World	1
-._-RRB-
-._-RRB-	1
+WRB_NN
+when_Comrade	2
+why_B-movie	1
 TO_JJ
 to_B-movie	1
 EX_VBP
@@ -745,10 +676,6 @@ VBP_DT
 recommend_this	1
 back_the	1
 like_the	1
-FW_NNP
-<br />_Ironically	1
-<br />_Alpha	1
-<br />_Lola	1
 VB_.
 be_.	1
 survive_.	1
@@ -833,8 +760,6 @@ best_.	1
 ,_Soviet	1
 ,_EX
 ,_there	2
--RRB-_RB
--RRB-_even	1
 DT_JJ
 this_impoverished	1
 the_other	1
@@ -893,16 +818,23 @@ mesmerizing_to	1
 possible_to	1
 easy_to	1
 little_to	1
-NN_,
-spy_,	1
-player_,	1
-peril_,	1
-cinema_,	1
-thriller_,	1
-fact_,	1
-PRC_,	1
-BAT_,	1
-DETOUR_,	1
+IN_JJ
+of_low-budget	1
+by_former	1
+in_occupied	1
+in_constant	1
+about_German	1
+for_movie-hungry	1
+as_possible	1
+though_other	1
+that_bad	1
+with_stern	1
+Amidst_variable	1
+across_German	1
+into_occupied	1
+of_bad	1
+of_glorious	1
+than_many	1
 ``_NN
 `_V	1
 ``_poverty	1
@@ -932,10 +864,11 @@ sort_of	1
 career_in	1
 persona_of	1
 hoot_that	1
-role_in	1
+fact_that	2
 dreck_from	1
 life_in	1
 spy_by	1
+movie_if	1
 movie_despite	1
 film_for	1
 noise_in	1
@@ -944,12 +877,13 @@ information_about	2
 movie_of	1
 movie_from	1
 ground_out	1
-fact_that	2
+role_in	1
 acting_by	1
 determination_by	1
 footage_of	1
 bottom_of	1
 NNP_RB
+Vosper_even	1
 France_certainly	1
 VBN_DT
 considered_the	1
@@ -982,10 +916,10 @@ MOSCOW_is	3
 Video_has	1
 Greta_is	1
 Lane_plays	1
-Lane_is	2
-NN_-LRB-
-V_-LRB-	1
-movie_-LRB-	1
+Lane_is	4
+NNPS_VBP
+Russians_are	1
+Germans_do	1
 VB_JJ
 glean_top	1
 pay_close	1
@@ -1009,8 +943,8 @@ to_destroy	1
 NN_VBG
 area_surrounding	1
 minute_running	1
--RRB-_MD
--RSB-_may	1
+EX_VBZ
+there_'s	2
 NN_CD
 War_II	1
 WP_PRP
@@ -1035,29 +969,26 @@ V_gets	1
 agency_gives	1
 ''_NN
 ''_film	1
+''_MISS	1
 ''_movie	1
 IN_PDT
 Of_all	1
 NNP_VBD
 Moscow_was	1
-Lane_found	1
 Monogram_looked	1
-STREET_looked	1
+Corporation_was	1
 Miller_titled	1
+Lane_found	1
+STREET_looked	1
 VBD_IN
 interfered_with	1
 PRP_CC
 it_or	1
-NNPS_VBP
-Russians_are	1
-Germans_do	1
-EX_VBZ
-there_'s	2
+NNP_VBN
+Marova_portrayed	1
 WDT_VBD
 that_were	1
 that_interfered	1
--LRB-_IN
--LRB-_if	1
 NNP_POS
 Alpha_'s	1
 Video_'s	1
@@ -1065,8 +996,6 @@ Row_'	1
 Greta_'s	1
 DT_JJR
 the_more	1
-VBZ_VB
-does_have	1
 NN_RB
 film_nicely	1
 way_back	1
@@ -1085,8 +1014,6 @@ enjoyable_than	1
 good_although	1
 bad_as	1
 interested_in	1
--RRB-_WP
--RRB-_who	1
 DT_.
 this_.	2
 NNS_JJ
@@ -1122,35 +1049,45 @@ Wolfgang_Heinrich	1
 Howard_Banks	1
 Lola_Lane	5
 Releasing_Corporation	2
+Worth_Howard	1
 V_FROM	5
 World_War	3
 MISS_V	5
 SPOOK_TOWN	1
 John_Vosper	1
 Southern_California	2
+Marova_code-named	1
 Bette_Davis	1
 Colonel_Wolfgang	1
 Paul_Weigel	1
+Kathryn_Sheldon	1
 Greta_Hiller	4
 TORTURE_SHIP	1
 Henri_Devallier	1
+Minna_Kathryn	1
 Comrade_V	1
 Poverty_Row	3
+Suchevcky_Richard	1
 Miss_V	2
 Don_Miller	1
 Richard_Kipling	1
 42ND_STREET	1
+Heinrich_John	1
+Corporation_PRC	1
 Adolph_Hitler	1
 Steve_Worth	1
 Producers_Releasing	2
 Vera_Marova	3
-Kathryn_Sheldon	1
+PRC_Producers	1
+Devallier_Paul	1
 Alpha_Video	3
 Doctor_Suchevcky	2
 RB_VBZ
 actually_contains	1
 only_wants	1
 briskly_plays	1
+JJS_NNP
+best_World	1
 NNS_NNS
 outdoors_scenes	1
 RB_JJ
@@ -1164,8 +1101,8 @@ very_easy	1
 REALLY_bad	1
 VB_PRP
 hate_it	1
-IN_IN
-because_of	1
+RB_VBP
+also_recommend	1
 IN_RB
 if_only	1
 out_as	1
@@ -1174,14 +1111,12 @@ is_suspected	1
 is_sent	1
 has_done	1
 is_assigned	1
-NNP_NNPS
-Curtis_Books	1
-Warner_Brothers	2
+VBZ_PRP$
+contains_her	1
 CC_PRP$
 and_her	1
-WRB_NN
-when_Comrade	2
-why_B-movie	1
+''_WP
+'_who	1
 NNPS_,
 Books_,	1
 RB_VBN
@@ -1191,10 +1126,10 @@ ever_seen	1
 finally_blown	1
 also_helped	1
 then_transmitted	1
-NN_''
-row_''	1
-V_'	1
-B_''	1
+TO_NNP
+to_Greta	1
+to_Russia	1
+to_Moscow	2
 VBZ_VBZ
 thinks_is	1
 VB_CD
@@ -1212,6 +1147,7 @@ best_way	1
 worst_movie	1
 greatest_role	1
 most_part	1
+best_DETOUR	1
 RP_IN
 up_as	1
 VBP_NN
@@ -1224,13 +1160,8 @@ come_to	1
 sent_to	1
 headed_to	1
 assigned_to	1
--LRB-_DT
--LRB-_The	1
 VB_RB
 entertain_thoroughly	1
--LRB-_NN
--LRB-_DETOUR	1
--LSB-_MISS	1
 ,_NNP
 ,_France	1
 ,_Lane	1
@@ -1248,11 +1179,10 @@ CC_NNS
 and_others	1
 and_turns	1
 and_wires	1
-FW_WRB
-<br />_When	1
 ,_WDT
 ,_which	1
 NNP_TO
+Kipling_to	1
 Paris_to	1
 VBD_NN
 were_ground	1

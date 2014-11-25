@@ -1,7 +1,5 @@
 IN_VBG_NNP
 in_seeing_Spain	1
-POS_NN_NN
-'_Vol_.2	1
 PDT_DT_NNS
 all_the_fans	1
 IN_PRP$_NN
@@ -13,14 +11,12 @@ Spanish.The_coverage_of	1
 -_SPANISH_DANCE	1
 ,_NNP_CD
 ,_BWV_996	1
-NN_-LRB-_NN
-GOYA_-LRB-_music	1
 NNP_CC_PRP
 Platero_and_I	2
 JJ_IN_NNP
 great_with_Mr.	1
-CD_-LRB-_NNP
-52_-LRB-_Chanterelle	1
+DT_NN_VBP
+the_rest_are	1
 NNP_NNP_CD
 III_BWV_1006	1
 NNP_POS_NN
@@ -31,10 +27,8 @@ Lullaby_from_Suite	1
 :_NN_IN
 -_FANDANGUILLO_from	1
 -_SARABANDE_from	1
-NNP_-LRB-_VBN
-Granados_-LRB-_arranged	1
-NNP_-LRB-_``
-MARXANT_-LRB-_`	1
+JJR_NN_NN
+better_film_coverage	1
 TO_RB_NNS
 to_just_scenes	1
 IN_RB_DT
@@ -52,8 +46,6 @@ those_that_are	1
 IN_``_NNP
 from_`_Suite	1
 from_``_Platero	1
--RRB-_:_JJ
--RRB-_-_SPANISH	1
 CC_PRP_''
 and_I_''	1
 and_I_'	1
@@ -74,33 +66,30 @@ the_repertory_of	1
 a_couple_of	1
 a_relationship_of	1
 the_poem_of	1
-FW_FW_RB
-!!!_<p>_Extremely	1
+NN_VBZ_JJ
+playing_is_good	1
 VBN_DT_NN
 bought_a_video	1
 DT_NN_VBZ
 This_video_consists	1
-CC_NN_NN
-or_background_music	1
+DT_JJ_JJ
+a_popular_Catalonian	1
 NN_VBD_RP
 video_started_out	1
--LRB-_NN_IN
--LRB-_music_in	2
-JJ_NN_,
-Catalonian_song_,	1
-classical_guitar_,	1
 IN_``_DT
 from_`_The	1
 IN_DT_``
 than_the_``	1
--RRB-_,_DT
--RRB-_,_a	1
+NNP_``_DT
+MARXANT_`_The	1
+JJ_:_CD
+interested_:_1	1
 NN_NN_,
 DE_GOYA_,	1
 POS_NN_''
 's_Daughter_'	1
-NN_IN_PRP
-<p>_If_I	1
+NNP_NNP_POS
+Suite_Castellana_'	1
 RB_,_NN
 Also_,_footage	1
 NN_,_DT
@@ -113,27 +102,33 @@ relationship_of_the	1
 sound_of_the	1
 playing_than_the	1
 footage_of_a	1
+CD_:_JJ
+9_-_SPANISH	1
 DT_NN_.
 the_money_.	1
 the_background_.	1
 that_end_.	1
-NN_CD_NN
-<p>_I_wish	1
+JJ_NN_,
+Catalonian_song_,	1
+classical_guitar_,	1
 CD_JJ_NNS
 Three_full_pieces	1
 NNP_``_NNP
 Suite_`_Platero	1
 NN_NN_DT
 hour_long.Worth_the	1
-DT_VBZ_JJR
-This_has_better	1
 PRP$_NN_VBZ
 his_playing_is	1
 VBD_RP_JJ
 started_out_great	1
--LRB-_VBN_IN
--LRB-_arranged_by	1
+CD_:_NNP
+10_-_LA	1
+3_-_GAVOTTE	1
+8_-_LA	1
+5_-_LA	1
+1_-_LA	1
 NN_,_IN
+background_,_by	1
 GOYA_,_by	1
 NN_CD_IN
 Lesson_26_from	1
@@ -151,7 +146,7 @@ be_very_interesting	1
 ''_as_Segovia	1
 '_by_Mario	1
 FW_RB_JJ
-<p>_Extremely_disappointed	1
+!!!_Extremely_disappointed	1
 NN_CC_IN
 home_and_throughout	1
 JJR_NN_.
@@ -174,6 +169,8 @@ about_a_relationship	1
 in_the_background	1
 of_a_child	1
 of_the_playing	1
+VBG_NNS_IN
+narrating_shots_of	1
 NNP_''_NN
 Legacy_''_video	1
 IN_PDT_DT
@@ -186,9 +183,12 @@ by_F.M.Torroba_.	1
 JJ_NN_VBZ
 extraordinary_video_lacks	1
 IN_NN_,
+in_background_,	1
 on_film_,	1
 NN_PRP_JJ
 detail_them_next	1
+IN_NN_IN
+in_background_by	1
 VB_VBN_NN
 return_opened_video	1
 NNP_NNP_VBG
@@ -197,6 +197,7 @@ NNS_CC_NN
 excerpts_or_background	1
 NNP_CD_,
 BWV_996_,	1
+Chanterelle_802_,	1
 BWV_1006_,	1
 NN_NN_VBG
 background_music_narrating	1
@@ -206,17 +207,9 @@ repertory_of_pieces	1
 NN_IN_NNP
 G_by_Enrique	1
 SARABANDE_from_Lute	1
--LRB-_CD_-RRB-
--LRB-_6_-RRB-	1
--LRB-_1_-RRB-	1
--LRB-_3_-RRB-	1
--LRB-_5_-RRB-	1
--LRB-_4_-RRB-	1
--LRB-_7_-RRB-	1
--LRB-_9_-RRB-	1
--LRB-_8_-RRB-	1
--LRB-_10_-RRB-	1
--LRB-_2_-RRB-	1
+background_by_Francisco	1
+POS_NN_NN
+'_Vol_.2	1
 NN_NN_CC
 film_coverage_and	1
 DT_NN_TO
@@ -237,13 +230,11 @@ Extremely_disappointed_,	1
 very_interesting_,	1
 DT_NN_VBD
 The_video_started	1
-NNP_NNP_-LRB-
-LA_ALHAMBRA_-LRB-	1
-DEL_MARXANT_-LRB-	1
-Enrique_Granados_-LRB-	2
 NN_CC_NNS
 countryside_and_villages	1
 NNP_NNP_NN
+LA_ALHAMBRA_music	1
+Enrique_Granados_arrangement	1
 LA_MAJA_DE	2
 NNP_NNP_NNP
 Maestro_Andres_Segovia	1
@@ -260,8 +251,8 @@ NNS_TO_DT
 fans_to_the	1
 POS_,_IN
 '_,_by	1
-IN_NN_-RRB-
-in_background_-RRB-	2
+,_NN_VBG
+,_etc._illustrating	1
 NNP_NNP_,
 Suite_I_,	1
 Suite_IV_,	1
@@ -269,21 +260,17 @@ LA_ARRULLADORA_,	1
 EN_RONDEAU_,	1
 NNP_NNP_.
 Andres_Segovia_.	1
-Miguel_Llobet_.	1
+Miguel_Llobet_.	3
 Francisco_Tarrega_.	1
 Dionisio_Aguado_.	1
 Enrique_Granados_.	1
 Mario_Castelnuovo-Tedesco_.	1
-JJ_:_NN
-interested_:_<p>	1
+NNP_NN_IN
+ALHAMBRA_music_in	1
 ,_IN_PDT
 ,_for_all	1
-NNP_NNP_POS
-Suite_Castellana_'	1
-,_NN_VBG
-,_etc._illustrating	1
--LRB-_NN_NNP
--LRB-_arrangement_Miguel	1
+PRP$_NN_CC
+his_home_and	1
 NN_IN_``
 FANDANGUILLO_from_`	1
 piece_from_``	1
@@ -294,12 +281,10 @@ video_packages_!!!	1
 NN_NNP_NNP
 arrangement_Miguel_Llobet	1
 DE_LA_ALHAMBRA	1
-PRP$_NN_CC
-his_home_and	1
 TO_DT_NN
 to_that_end	1
--LRB-_``_DT
--LRB-_`_The	1
+''_,_DT
+'_,_a	1
 NNS_IN_FW
 Videos_of_Andres	1
 NNP_,_NN
@@ -310,8 +295,8 @@ PRP_MD_RB
 you_can_not	1
 JJ_NNS_VBN
 full_pieces_performed	1
-VB_PRP_MD
-<p>_It_would	1
+FW_IN_NN
+Segovia_in_DVD	1
 VBN_NN_NNS
 opened_video_packages	1
 ``_DT_NN
@@ -322,8 +307,6 @@ VBZ_JJ_,
 is_good_,	1
 IN_NN_NN
 in_DVD_format	1
-NNS_FW_FW
-packages_!!!_<p>	1
 NN_PRP_MD
 wish_I_could	1
 IN_NNP_``
@@ -334,8 +317,6 @@ IN_NNS_VBN
 of_pieces_performed	1
 NN_POS_NN
 Merchant_'s_Daughter	1
-NN_-RRB-_IN
-background_-RRB-_by	1
 NN_VBG_VBN
 music_being_played	1
 VBD_JJ_IN
@@ -347,8 +328,6 @@ country-side_with_only	1
 IN_NNP_IN
 with_Segovia_at	1
 of_Spain_in	1
--RRB-_,_IN
--RRB-_,_by	2
 JJ_JJ_NN
 popular_Catalonian_song	1
 VBN_IN_NNP
@@ -361,12 +340,8 @@ RONDEAU_,_from	1
 ,_by_Dionisio	1
 ,_from_Lute	1
 ,_by_J.S.Bach	2
-NN_VBZ_JJ
-playing_is_good	1
 FW_FW_NN
 in_Spanish.The_coverage	1
-:_NN_-LRB-
-:_<p>_-LRB-	1
 DT_``_NNP
 the_``_Segovia	1
 CC_NN_,
@@ -381,56 +356,39 @@ RB_VB_VBN
 not_return_opened	1
 RB_DT_NN
 only_the_music	1
-NN_-RRB-_,
-background_-RRB-_,	1
-VBZ_JJR_NN
-has_better_film	1
 DT_NNS_TO
 the_fans_to	1
 ,_NN_,
 ,_BWV1006A_,	1
--RRB-_:_NN
--RRB-_-_STUDY	1
--RRB-_-_RECUERDOS	1
--RRB-_-_SARABANDE	1
--RRB-_-_FANDANGUILLO	1
 NNP_POS_,
 Castellana_'_,	1
 VBZ_IN_NNS
 consists_of_interviews	1
-NNP_CD_-RRB-
-Chanterelle_802_-RRB-	1
 NN_NN_IN
 Nr.10-in_G_by	1
-DT_NN_VBP
-the_rest_are	1
+GOYA_music_in	1
+NN_CD_NNP
+page_52_Chanterelle	1
 NN_,_NN
 donkey_,_etc.	1
 JJ_IN_VBG
 interested_in_seeing	1
 IN_VBP_DT
 as_are_the	1
-FW_IN_NN
-Segovia_in_DVD	1
+NNP_NNP_''
+Segovia_Legacy_''	1
 IN_NNP_.
 by_J.S.Bach_.	2
 IN_FW_FW
 of_Andres_Segovia	1
 ''_NN_.
 ''_video_.	1
-NNP_-RRB-_.
-Llobet_-RRB-_.	2
-NN_''_-RRB-
-Daughter_'_-RRB-	1
 VBZ_CD_NN
 is_1_hour	1
 VB_VBN_DT
 have_bought_a	1
-NNP_-LRB-_NN
-Granados_-LRB-_arrangement	1
-ALHAMBRA_-LRB-_music	1
-DT_JJ_JJ
-a_popular_Catalonian	1
+:_CD_:
+:_1_-	1
 NN_VBP_NNS
 rest_are_excerpts	1
 RB_PRP_MD
@@ -439,6 +397,8 @@ RB_NNS_IN
 just_scenes_of	1
 DT_JJ_NNP
 The_Complete_Works	1
+NNP_NN_NNP
+Granados_arrangement_Miguel	1
 IN_NNS_CC
 of_peices_but	1
 VBG_NNP_,
@@ -465,6 +425,11 @@ by_Miguel_Llobet	2
 with_Mr._Segovia	1
 PRP_JJ_IN
 them_next_for	1
+CD_:_NN
+2_-_SARABANDE	1
+4_-_FANDANGUILLO	1
+6_-_STUDY	1
+7_-_RECUERDOS	1
 JJR_NN_CC
 more_playing_and	1
 MD_VB_VBN
@@ -473,32 +438,22 @@ NN_NN_PRP
 I_detail_them	1
 VB_DT_NN
 return_this_tape	1
-NN_CD_-LRB-
-page_52_-LRB-	1
+CC_NN_NN
+or_background_music	1
 NNS_IN_NNP
 villages_of_Spain	1
 interviews_with_Segovia	1
-CD_-RRB-_,
-802_-RRB-_,	1
+DT_VBZ_JJR
+This_has_better	1
+NNP_NNP_VBN
+Enrique_Granados_arranged	1
 NN_VBZ_CD
 video_is_1	1
--RRB-_:_NNP
--RRB-_-_LA	4
--RRB-_-_GAVOTTE	1
 MD_VB_DT
 could_return_this	1
 could_provide_all	1
-CD_-RRB-_:
-8_-RRB-_-	1
-1_-RRB-_-	1
-4_-RRB-_-	1
-3_-RRB-_-	1
-9_-RRB-_-	1
-5_-RRB-_-	1
-2_-RRB-_-	1
-7_-RRB-_-	1
-10_-RRB-_-	1
-6_-RRB-_-	1
+VBZ_JJR_NN
+has_better_film	1
 ,_CC_NNP
 ,_and_Violin	1
 VBZ_IN_DT
@@ -512,8 +467,6 @@ and_villages_of	1
 ,_could_provide	1
 JJ_NN_FW
 same_name_in	1
-DT_NNS_IN
-all_Videos_of	1
 NNP_VBZ_IN
 Segovia_reads_from	1
 VBN_IN_DT
@@ -533,14 +486,14 @@ DT_NN_CC
 a_child_and	1
 the_countryside_and	1
 this_tape_but	1
--LRB-_NNP_CD
--LRB-_Chanterelle_802	1
+DT_NNS_IN
+all_Videos_of	1
 NNP_,_PRP
 Spain_,_I	1
 IN_NNP_VBZ
 as_Segovia_reads	1
-JJR_NN_NN
-better_film_coverage	1
+NNP_VBN_IN
+Granados_arranged_by	1
 VBD_TO_RB
 degraded_to_just	1
 NN_CC_JJR
@@ -560,38 +513,25 @@ NN_NN_NNP
 RECUERDOS_DE_LA	1
 NNP_IN_CD
 Spain_in_1969	1
-''_-RRB-_,
-'_-RRB-_,	1
-NNP_NNP_-RRB-
-Miguel_Llobet_-RRB-	2
+NN_''_,
+Daughter_'_,	1
+NNP_NNP_``
+DEL_MARXANT_`	1
 ,_VBN_IN
 ,_arranged_by	1
-NN_NN_-LRB-
-DE_GOYA_-LRB-	1
 FW_FW_IN
 Andres_Segovia_in	1
+NNS_FW_RB
+packages_!!!_Extremely	1
 NNS_CC_RB
 peices_but_quickly	1
-VBG_NNS_IN
-narrating_shots_of	1
+CD_NNP_CD
+52_Chanterelle_802	1
 ``_NNP_NNP
 `_Suite_Castellana	1
 ``_Segovia_Legacy	1
 JJ_IN_PDT
 next_for_all	1
--RRB-_IN_NNP
--RRB-_by_Francisco	1
-NN_-LRB-_CD
-<p>_-LRB-_9	1
-<p>_-LRB-_8	1
-<p>_-LRB-_1	1
-<p>_-LRB-_3	1
-<p>_-LRB-_2	1
-<p>_-LRB-_5	1
-<p>_-LRB-_4	1
-<p>_-LRB-_7	1
-<p>_-LRB-_6	1
-<p>_-LRB-_10	1
 VBP_DT_NNS
 are_the_interviews	1
 CC_NNP_NNP
@@ -604,8 +544,6 @@ video_to_that	1
 PRP_''_IN
 I_''_as	1
 I_'_by	1
-NNP_NNP_''
-Segovia_Legacy_''	1
 NN_VBZ_IN
 video_lacks_about	1
 video_consists_of	1
@@ -626,8 +564,10 @@ provide_all_Videos	1
 CD_,_IN
 1006_,_by	1
 996_,_by	1
+802_,_by	1
 NN_NN_NN
 DANCE_Nr.10-in_G	1
+DE_GOYA_music	1
 Vol_.2_page	1
 PRP_VBD_JJ
 I_was_interested	1

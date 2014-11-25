@@ -6,8 +6,6 @@ VBG_VBG_NN
 considering_paying_X	1
 RP_DT_NN
 off_this_epic	1
-VBZ_NNP_-RRB-
-'s_LPD_-RRB-	1
 VBP_PRP$_JJS
 love_their_earliest	1
 PRP_VBZ_NNP
@@ -47,6 +45,8 @@ CC_RB_RB
 and_mostly_there	1
 NN_WDT_RB
 set_that_just	1
+VBZ_NNP_,
+'s_LPD_,	1
 VBZ_TO_PRP$
 pertains_to_their	1
 NN_NNS_RB
@@ -55,9 +55,6 @@ NN_NN_PRP
 camera_work_itself	1
 IN_NNS_TO
 of_dollars_to	1
-PRP_VBZ_IN
-it_culminates_with	1
-itself_is_of	1
 NNS_:_DT
 shows_;_this	1
 JJ_CC_RB
@@ -94,12 +91,8 @@ NN_NN_,
 stage_affair_,	1
 IN_CD_NN
 on_one_aspect	1
--RRB-_,_CC
--RRB-_,_or	1
-JJ_NN_,
-good_performance_,	1
-whole_duration_,	1
-early_stuff_,	1
+NNP_NNP_,
+The_Truth_,	1
 NN_,_DT
 stuff_,_this	1
 VBG_DT_NN
@@ -113,8 +106,10 @@ TO_PRP$_JJ
 to_their_underground	1
 DT_JJ_VBG
 the_other_being	1
--LRB-_DT_JJ
--LRB-_the_other	1
+JJ_NN_,
+good_performance_,	1
+whole_duration_,	1
+early_stuff_,	1
 JJ_,_JJ
 big-budget_,_flashy	1
 VBG_NN_NN
@@ -129,6 +124,8 @@ RB_JJ_IN
 already_familiar_with	1
 NN_,_IN
 duration_,_with	1
+NNP_''_DT
+Luna_''_this	1
 NNP_NNP_NNP
 Legendary_Pink_Dots	1
 JJ_NN_:
@@ -163,14 +160,13 @@ DT_CD_NN
 the_two_home	1
 NN_VBZ_JJ
 show_is_raw	1
-FW_FW_DT
-<br />_<br />_All	1
 IN_NN_,
 of_course_,	1
 RB_VBZ_DT
 rarely_gets_any	1
 IN_NN_IN
 in_fact_that	1
+for_everyone_of	1
 :_DT_NN
 ;_this_show	1
 VB_VBN_.
@@ -187,17 +183,17 @@ VBG_IN_PRP
 rolling_as_it	1
 IN_DT_,
 in_all_,	1
-PRP_VBP_-LRB-
-I_have_-LRB-	1
+RB_VBZ_NNS
+really_gets_things	1
 CD_,_DT
 87_,_this	1
 VBG_IN_DT
 looking_for_a	1
 DT_NN_VBG
 the_ball_rolling	1
-FW_FW_JJ
-<br />_<br />_Great	1
-<br />_<br />_First	1
+RB_JJ_,
+just_fine_,	1
+rather_intimate_,	1
 NNS_RB_,
 songs_here_,	1
 VBZ_JJ_CC
@@ -241,9 +237,6 @@ NN_CC_PRP
 love_but_it	1
 CC_PRP_VBZ
 but_it_is	1
-RB_JJ_NN
-completely_amazing_performance	1
-very_good_performance	1
 DT_NN_,
 the_band_,	1
 this_thing_,	1
@@ -264,14 +257,9 @@ RB_VBZ_IN
 ever_focuses_on	1
 MD_VB_.
 must_buy_.	1
-RB_JJ_,
-just_fine_,	1
-rather_intimate_,	1
 CD_NN_NN
 one_camera_angle	1
 two_home_video	1
-FW_DT_IN
-<br />_All_in	1
 DT_NN_NN
 this_epic_set	1
 the_camera_work	1
@@ -292,24 +280,21 @@ NN_,_PRP
 course_,_it	1
 JJ_JJ_NN
 odd_little_ditty	1
-FW_JJ_CC
-<br />_First_and	1
+PRP_VBZ_IN
+it_culminates_with	1
+itself_is_of	1
 DT_IN_DT
 All_in_all	1
 DT_NN_.
 a_whole_.	1
-NN_-LRB-_IN
-everyone_-LRB-_of	1
-NNP_''_-RRB-
-Luna_''_-RRB-	1
-NNP_-RRB-_,
-LPD_-RRB-_,	1
 PRP$_JJS_NN
 their_earliest_music	1
 WP_NNP_RB
 what_LPD_once	1
 NN_NN_WDT
 epic_set_that	1
+VBP_DT_JJ
+have_the_other	1
 DT_JJR_.
 the_better_.	1
 NN_VBG_IN
@@ -326,10 +311,15 @@ X_amount_of	1
 ,_NNP_NNP
 ,_The_Truth	1
 ,_The_Light	1
--RRB-_DT_VBZ
--RRB-_this_is	1
+RB_JJ_NN
+completely_amazing_performance	1
+very_good_performance	1
+VBZ_DT_NN
+gets_any_love	1
 ,_TO_VB
 ,_to_start	1
+NN_IN_NN
+everyone_of_course	1
 PRP_VBP_VBG
 you_'re_considering	1
 you_'re_looking	1
@@ -349,8 +339,8 @@ VBZ_CD_NN
 is_one_camera	1
 NNS_RB_CC
 zooms_here_and	1
-''_-RRB-_DT
-''_-RRB-_this	1
+,_RB_VBG
+,_usually_capturing	1
 NN_IN_WP
 glimpse_into_what	1
 VBG_``_NNP
@@ -434,8 +424,6 @@ VBP_VBG_VBG
 're_considering_paying	1
 VB_VBN_TO
 be_seen_to	1
-FW_JJ_NNS
-<br />_Great_selections	1
 NNS_VBG_,
 things_moving_,	1
 NN_NNS_PRP
@@ -445,8 +433,6 @@ Twins_really_gets	1
 NN_,_CC
 thing_,_and	1
 performance_,_and	1
--LRB-_IN_NN
--LRB-_of_course	1
 IN_DT_JJ
 for_a_big-budget	1
 for_the_whole	1
@@ -465,6 +451,7 @@ VBZ_DT_RB
 is_a_very	1
 PRP_VBP_DT
 I_Am_The	1
+I_have_the	1
 VBZ_NNS_VBG
 gets_things_moving	1
 IN_PRP$_NN
@@ -477,8 +464,8 @@ JJ_,_RB
 raw_,_rather	1
 IN_``_PRP
 of_``_I	1
-,_RB_VBG
-,_usually_capturing	1
+NNP_,_CC
+LPD_,_or	1
 NN_NN_NNS
 video_concert_releases	1
 ''_WDT_VBZ
@@ -501,8 +488,6 @@ PRP_DT_VBZ
 it_all_looks	1
 ''_WDT_RB
 ''_that_rarely	1
-VBP_-LRB-_DT
-have_-LRB-_the	1
 DT_RB_JJ
 a_very_good	1
 a_completely_amazing	1
@@ -536,8 +521,8 @@ a_shaky_angle	1
 a_professional_level	1
 a_rare_glimpse	1
 the_early_stuff	1
-VBZ_DT_NN
-gets_any_love	1
+''_DT_VBZ
+''_this_is	1
 VBZ_DT_JJR
 is_the_better	1
 RB_RB_VBZ
@@ -546,14 +531,8 @@ NN_NN_NN
 home_video_concert	1
 PRP_VBZ_TO
 it_pertains_to	1
-NNP_NNP_,
-The_Truth_,	1
-RB_VBZ_NNS
-really_gets_things	1
 VBP_RB_JJ
 're_already_familiar	1
-IN_NN_-LRB-
-for_everyone_-LRB-	1
 :_PRP_DT
 ;_it_all	1
 VBZ_TO_VB

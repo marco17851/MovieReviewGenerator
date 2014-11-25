@@ -54,10 +54,6 @@ CC_CD
 or_four	1
 PRP$_JJ
 its_old	1
-VB_VBN
-'ve_fit	1
-FW_DT
-<br />_The	1
 IN_PRP
 After_he	1
 before_he	1
@@ -69,8 +65,8 @@ all_you	1
 ''_,	1
 VBN_CD
 fit_three	1
-NN_-RRB-
-writer_-RRB-	1
+POS_NN
+'s_pace	1
 RB_JJS
 very_least	1
 JJ_JJ
@@ -156,9 +152,6 @@ CC_VBZ
 and_sings	1
 IN_IN
 along_with	1
-FW_NN
-<br />_Truth	1
-<br />_Best	1
 PRP$_NN
 Their_SLP	1
 his_hero	1
@@ -195,8 +188,8 @@ movies_:	1
 movies_--	1
 VBZ_,
 is_,	1
--LRB-_JJ
--LRB-_famous	1
+VBN_NN
+degraded_video	1
 JJ_NNS
 many_stars	1
 DT_PRP$
@@ -243,9 +236,8 @@ would_be	1
 should_buy	1
 NN_VBN
 movie_called	1
-<p>_Compared	1
-VBP_VBN
-have_degraded	1
+VB_VBN
+'ve_fit	1
 IN_CD
 of_two	1
 VBG_DT
@@ -259,8 +251,8 @@ you_can	1
 you_should	1
 RB_RBR
 much_more	1
-NNP_-LRB-
-Kern_-LRB-	1
+VBP_VBN
+have_degraded	1
 NN_CC
 movie_but	1
 NNS_VBG
@@ -292,14 +284,13 @@ NN_NN
 SP_mode	1
 assassination_movie	1
 Best_advice	1
-dose_space-waster	1
+writer_biopic	1
 pace_speed	1
+dose_space-waster	1
 background_history	1
 domain_stock	1
 song_writer	1
 box_series	1
-FW_FW
-<br />_<br />	3
 NNP_''
 River_''	1
 DT_NNS
@@ -337,6 +328,7 @@ videotape_:	1
 NNS_CC
 releases_or	1
 NNP_JJ
+Kern_famous	1
 MADACY_gray	1
 IN_JJ
 of_famous	1
@@ -393,8 +385,6 @@ to_be	1
 to_see	1
 to_take	1
 to_question	1
-NN_``
-<p>_``	1
 NN_VBZ
 SLP_dubs	1
 Truth_is	1
@@ -411,13 +401,9 @@ NN_RB
 issue_here	1
 track_poorly	1
 anyone_still	1
--RRB-_NN
--RRB-_biopic	1
 JJ_IN
 good_at	1
 such_as	1
-VBN_NN
-degraded_video	1
 EX_VBP
 there_are	1
 IN_EX
@@ -439,10 +425,8 @@ Dean_Martin	2
 John_F.	1
 Clouds_Roll	5
 Lee_Harvey	1
-<br />_This	1
 This_MADACY	1
 Jerome_Kern	1
-<p>_Picture	1
 Harvey_Oswald	1
 Man_River	1
 RB_VBZ
@@ -467,8 +451,6 @@ TO_NNP
 to_Sinatra	1
 WRB_``
 why_``	1
-POS_NN
-'s_pace	1
 VBN_NNS
 selected_stars	1
 ''_.

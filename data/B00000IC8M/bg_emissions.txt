@@ -7,6 +7,7 @@ on_dvd	1
 of_laural	1
 on_video	1
 of_sync	1
+by_shudder	1
 ,_IN
 ,_along	1
 ,_that	1
@@ -19,8 +20,6 @@ it_again	1
 it_before	1
 it_definitely	1
 he_later	1
--LRB-_``
--LRB-_``	2
 DT_RB
 a_pretty	1
 a_very	2
@@ -43,7 +42,6 @@ version_that	1
 VB_DT
 have_these	1
 finish_the	1
-<br />_The	1
 find_a	1
 ``_WDT
 ``_what	1
@@ -79,8 +77,8 @@ what_color	1
 PRP_IN
 he_at	1
 it_in	1
-CC_RB
-but_poorly	1
+NNS_DT
+versions_the	1
 VBG_,
 making_,	1
 JJ_CC
@@ -106,18 +104,16 @@ that_he	1
 Unless_you	1
 Although_I	1
 by_itself	1
+''_.
+''_.	1
 ''_,
 ''_,	2
 ,_NN
 ,_filmography	1
-NNS_NN
-trivia_game	2
 PRP$_RB
 its_not	1
-NN_-RRB-
-shudder_-RRB-	1
-compression_-RRB-	1
-version_-RRB-	1
+POS_NN
+'s_hair	1
 JJS_NNP
 best_Laurel	1
 worst_Laurel	1
@@ -174,8 +170,8 @@ is_still	1
 is_far	1
 DT_VBZ
 this_is	1
-NNS_-LRB-
-versions_-LRB-	1
+VBN_JJ
+dubbed_Japanese	1
 PRP_VBP
 I_have	1
 I_'ve	1
@@ -205,8 +201,6 @@ DT_RBS
 The_most	1
 ,_DT
 ,_this	1
--RRB-_.
--RRB-_.	1
 NNP_CC
 Laurel_&	3
 Laural_and	1
@@ -225,6 +219,8 @@ closing_until	1
 ,_RB
 ,_very	1
 ,_however	1
+PRP$_DT
+your_a	1
 RP_VBG
 up_getting	1
 DT_CD
@@ -245,6 +241,8 @@ it_.	1
 itself_.	1
 IN_:
 for_:	1
+VBN_.
+disapointed_.	1
 IN_PRP$
 for_my	1
 if_your	1
@@ -273,8 +271,11 @@ PRP$_NN
 my_mom	1
 your_money	1
 his_appearance	1
-VBN_JJ
-dubbed_Japanese	1
+``_NNP
+`_Flying	1
+``_Flying	3
+``_Utopia	2
+``_Atoll	1
 TO_NN
 to_anyone	1
 NNP_WRB
@@ -301,15 +302,11 @@ NOTICE_A	1
 RB_,
 before_,	1
 very_,	1
-''_-RRB-
-''_-RRB-	2
 VBN_IN
 synched_up	1
 produced_by	1
 offset_by	1
 been_in	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 movies_.	1
 films_.	1
@@ -332,8 +329,6 @@ are_typical	1
 become_available	1
 MD_PRP
 would_I	1
-CD_-LRB-
-one_-LRB-	1
 NNS_TO
 parts_to	1
 IN_WRB
@@ -359,11 +354,11 @@ longer_than	1
 better_than	1
 IN_JJS
 at_least	1
+CD_``
+one_``	1
 ,_CC
 ,_and	2
 ,_but	4
--RRB-_CC
--RRB-_but	1
 NN_NNS
 production_companies	1
 WRB_.
@@ -399,8 +394,6 @@ way_I	1
 fan_you	1
 VB_PRP$
 Save_your	1
--LRB-_NN
--LRB-_shudder	1
 IN_RB
 by_possibly	1
 though_far	1
@@ -451,6 +444,7 @@ However_I	1
 overall_it	1
 NN_CC
 production_and	1
+version_but	1
 laural_and	1
 film_but	1
 style_and	1
@@ -461,8 +455,8 @@ best_of	1
 VB_.
 sufice_.	1
 differ_.	1
-VBN_.
-disapointed_.	1
+CC_RB
+but_poorly	1
 VBP_VBD
 've_said	1
 JJ_TO
@@ -485,13 +479,16 @@ VBG_WP
 getting_what	1
 NN_NN
 picture_quality	2
+shudder_Madacy	1
 video_tape	1
 :_CC
 ..._but	1
--LRB-_DT
--LRB-_the	1
-IN_-LRB-
-by_-LRB-	1
+NNP_''
+K_''	1
+Utopia_''	2
+Deuces_''	3
+NN_``
+film_``	1
 DT_NNS
 some_biographies	1
 The_extras	1
@@ -513,12 +510,10 @@ a_VHS	1
 This_Laurel	1
 EX_VBD
 there_were	1
-PRP$_DT
-your_a	1
+''_IN
+''_with	1
 ,_JJ
 ,_amateur	1
--RRB-_IN
--RRB-_with	1
 DT_JJ
 a_nice	2
 a_big	1
@@ -575,6 +570,7 @@ movie_.	1
 NN_IN
 movie_for	1
 quality_on	1
+quality_with	1
 purchase_by	1
 SOUND_OF	1
 SYNC_WITH	1
@@ -602,9 +598,6 @@ films_they	1
 NNP_VBZ
 Utopia_is	2
 Deuces_is	2
-NN_-LRB-
-film_-LRB-	1
-quality_-LRB-	1
 TO_VB
 to_find	1
 to_stop	1
@@ -626,6 +619,7 @@ way_shows	1
 Madacy_offers	1
 color_is	1
 version_is	1
+compression_is	1
 ''_VBZ
 ''_is	1
 VBP_VB
@@ -643,8 +637,6 @@ NNS_:
 films_...	1
 WDT_VBD
 that_was	1
--LRB-_IN
--LRB-_with	1
 NNP_POS
 Laurel_'s	1
 CC_DT
@@ -654,8 +646,6 @@ least_was	1
 NN_RB
 film_ever	2
 dvd_even	1
--RRB-_NN
--RRB-_Madacy	1
 JJ_IN
 superior_than	1
 honest_about	1
@@ -697,7 +687,6 @@ Hal_Roach	1
 Century_Fox	1
 Flying_Deuces	6
 BLACK_AND	1
-<br />_All	1
 Stan_Laurel	3
 AND_WHITE	1
 Atoll_K	1
@@ -738,13 +727,8 @@ Utopia_all	1
 RB_VBD
 just_loved	1
 later_regretted	1
-POS_NN
-'s_hair	1
-``_NNP
-`_Flying	1
-``_Flying	3
-``_Utopia	2
-``_Atoll	1
+NNS_NN
+trivia_game	2
 :_VBG
 ..._DURING	1
 VBN_TO
@@ -769,10 +753,6 @@ shows_in	1
 is_out	1
 's_about	1
 is_that	1
-NNP_''
-K_''	1
-Utopia_''	2
-Deuces_''	3
 DT_TO
 this_to	1
 NN_WP

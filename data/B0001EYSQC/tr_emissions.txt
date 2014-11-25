@@ -2,9 +2,6 @@ NNP_VBZ_TO
 Jack_tries_to	1
 Lemmon_proceeds_to	1
 Joe_tries_to	2
-FW_NN_IN
-<br />_Look_at	1
-<br />_Shot_in	1
 RB_DT_JJ
 just_the_same	1
 quite_the_same	1
@@ -27,9 +24,8 @@ also_shows_how	2
 ,_however_everyone	1
 PRP_:_DT
 me_-_the	1
-TO_DT_NNS
-to_the_days	1
-to_a_couples	1
+,_JJ_.
+,_sobering_.	2
 RB_VBG_CD
 yet_losing_one	1
 VBG_RB_JJR
@@ -48,6 +44,8 @@ from_Alcoholics_Anonymous	1
 ;_just_another	1
 PRP_TO_NNP
 she_to_Anne	1
+NNS_JJ_NNP
+Alcoholics_Anonymous_Jack	1
 NNS_JJ_NNS
 films_comedic_undertones	1
 RB_WRB_NN
@@ -60,15 +58,6 @@ even_when_alcohol	1
 ,_although_her	1
 ,_in_his	1
 ,_with_his	1
-FW_FW_NNP
-<br />_<br />_Blake	1
-<br />_<br />_Jack	1
-<br />_<br />_Lemmon	2
-<br />_<br />_Lee	1
-<br />_<br />_Stevie	1
-<br />_<br />_Public	1
-<br />_<br />_Joe	3
-<br />_<br />_Kirsten	2
 FW_FW_NNS
 child.eventually_joe_turns	1
 NNS_IN_VBG
@@ -92,20 +81,21 @@ are_one_or	1
 ``_RB_VBZ
 ``_just_wants	1
 NN_PRP_VBZ
+script_he_is	1
+character_he_goes	1
 film_It_'s	1
 booze_he_has	1
 day_it_remains	1
 corporation_he_works	1
-script_he_is	1
-alcohol_she_is	1
 tale_it_tells	1
+alcohol_she_is	1
+work_it_'s	1
 CC_VB_TO
 and_lie_to	1
 or_want_to	1
 NNP_IN_RB
 Kirsten_for_not	1
 NN_EX_VBZ
-<p>_There_is	2
 denial_there_'s	1
 NN_PRP_VBP
 joe.somehow_they_end	1
@@ -126,6 +116,7 @@ film_never_bothers	1
 CD_VBZ_RB
 One_does_not	1
 NN_RB_VBG
+time_apparently_prompting	1
 something_strangely_haunting	1
 garden_just_trying	1
 NNP_NN_PRP
@@ -137,6 +128,7 @@ and_if_not	1
 and_before_long	2
 IN_NNP_PRP
 for_Lemmon_I	1
+on_VHS_I	1
 NNS_IN_PRP$
 films_of_its	1
 roles_in_his	1
@@ -176,9 +168,6 @@ VBP_PRP_,
 get_it_,	1
 :_VBN_IN
 -_shown_in	1
--LRB-_VBN_IN
--LRB-_made_about	1
--LRB-_known_for	1
 DT_VBN_VBP
 those_addicted_are	1
 CD_NNS_JJ
@@ -349,6 +338,7 @@ tragic_grip_of	1
 quick_note_of	1
 devastating_statement_on	1
 hard-hitting_drama_about	1
+mammary_envy_because	1
 own_descent_in	1
 narrow_code_of	1
 twelvth_time_as	1
@@ -416,6 +406,8 @@ The_title_was	1
 NN_:_IN
 sort_;_although	1
 story_-_about	1
+PRP_VBG_IN
+them_suffering_from	1
 DT_NN_VBZ
 the_alcohol_has	1
 the_window_is	1
@@ -480,10 +472,6 @@ the_scene_is	1
 this_today_is	1
 the_film_does	1
 this_day_lives	1
-CC_NN_VBD
-and_dad_divorced	1
--LRB-_VB_PRP
--LRB-_forgive_me	1
 DT_CD_,
 this_one_,	1
 VBN_,_JJ
@@ -521,8 +509,8 @@ RB_VBP_,
 subsequently_unravel_,	1
 DT_PRP_VBZ
 this_it_is	1
-DT_NN_FW
-this_order_<br />	1
+IN_JJS_NN
+at_least_attempt	2
 IN_WP_DT
 of_what_a	1
 DT_CC_VBG
@@ -561,9 +549,11 @@ difficult_to_watch	1
 slow_to_realize	1
 able_to_do	1
 unable_to_muster	1
--LRB-_VBG_IN
--LRB-_suffering_from	1
--LRB-_drowning_in	1
+NNP_,_NN
+Normally_,_accuracy	1
+Mikels_,_Author	1
+NNP_NNP_PRP
+Jack_Lemmon_I	1
 CC_VBD_PDT
 and_did_such	1
 ''_NNS_,
@@ -585,7 +575,6 @@ of_alcoholism_par	1
 at_home_mother	1
 on_cable_television	1
 of_alcohol_addiction	1
-of_dedication_<br />	1
 in_factory_condition	1
 than_tobacco_use	1
 from_substance_abuse	1
@@ -594,8 +583,6 @@ in_drinking_alcohol	1
 through_marketing_spin	1
 in_film_making	1
 on_AA_philosophy	1
--RRB-_WRB_NNP
--RRB-_where_Felix	1
 NNS_JJ_:
 ROSES_unique_;	1
 JJ_''_NNS
@@ -623,6 +610,7 @@ end_,_I	1
 movie_,_I	2
 teenager_,_it	1
 marriage_,_it	1
+Mockingbird_,_she	1
 chocolate_,_he	1
 form_,_I	1
 DT_VBN_NN
@@ -630,8 +618,6 @@ both_hit_rock	1
 VBD_WRB_TO
 learned_how_to	1
 knew_how_to	1
-NN_-RRB-_PRP
-Onion_-RRB-_I	1
 CC_VBZ_IN
 and_is_in	1
 and_apologizes_for	1
@@ -669,8 +655,6 @@ obstensibly_are_trying	1
 JJR_IN_NN
 worse_than_tobacco	1
 more_about_alcoholism	1
--LRB-_JJ_CC
--LRB-_alcoholic_or	1
 ``_NNP_''
 ``_Zone_''	1
 `_Spun_'	1
@@ -681,9 +665,6 @@ are_several_funny	1
 are_many_unspoken	1
 DT_JJS_``
 the_most_``	1
-RB_JJ_-RRB-
-terribly_likable_-RRB-	1
-seemingly_insincere_-RRB-	1
 PRP$_NN_NN
 my_No1_film	1
 my_organ_trio	1
@@ -712,8 +693,6 @@ VBN_NN_VBP
 seen_anyone_act	1
 JJ_CC_TO
 pallatable_and_to	1
--RRB-_VBP_TO
--RRB-_want_to	1
 NNP_VBG_RP
 Kiersten_gazing_out	1
 Joe_gazing_out	1
@@ -807,8 +786,6 @@ regarded_that_a	1
 portrayed_in_this	1
 suited_for_the	1
 found_in_a	1
-NN_-RRB-_VBP
-film_-RRB-_are	1
 VBD_TO_NNP
 moved_to_San	1
 IN_VBD_NN
@@ -829,12 +806,15 @@ NN_RB_VBP
 film_eventually_transform	1
 film_almost_seem	1
 one_often_reflect	1
+NNP_CC_,
+Wilder_and_,	1
 NN_CC_FW
 lemmon_and_lee	1
 NNP_VBZ_IN
 Jack_is_at	1
 Joe_is_in	1
 Jack_breaks_into	1
+Preachy_lectures_about	1
 Mancini_has_since	1
 Robertson_says_that	1
 Kirsten_remains_in	1
@@ -842,13 +822,9 @@ VB_DT_.
 surpass_this_.	1
 VB_WRB_``
 see_how_``	1
--RRB-_CC_VBP
--RRB-_and_hope	1
 MD_VB_``
 will_love_`	1
 should_screen_``	1
-NN_-RRB-_VBZ
-beauty_-RRB-_delivers	1
 POS_,_RB
 's_,_particularly	1
 DT_VBG_NN
@@ -875,8 +851,6 @@ forgot_it_.	1
 bought_it_.	2
 RB_CC_NNP
 far_but_Lemmon	1
-FW_IN_DT
-<br />_Until_this	1
 IN_NNP_JJ
 Under_Edwards_steady	1
 DT_FW_FW
@@ -916,12 +890,8 @@ Lemmon_was_known	1
 Lemmon_was_applauded	1
 Remick_had_stuck	1
 Father_was_told	1
-RB_RB_-RRB-
-much_away_-RRB-	1
-CC_VBD_DT
-and_got_a	1
-and_made_a	1
-and_deserved_the	1
+NN_UH_VB
+order_Please_call	1
 VBP_RB_.
 do_n't_.	1
 RB_RB_PRP$
@@ -966,8 +936,8 @@ all_the_errors	1
 JJ_:_PRP
 beautiful_..._I	1
 drunk_--_he	1
-JJ_,_-LRB-
-underrated_,_-LRB-	1
+JJ_:_VBG
+other_..._being	1
 PRP_VBP_JJ
 They_make_several	1
 I_am_afraid	1
@@ -989,16 +959,15 @@ VBZ_JJR_IN
 is_worse_for	1
 CC_PRP$_RBS
 or_his_most	1
-IN_CD_VBZ
-that_one_is	1
+NN_NN_NNP
+AA_counselor_Jack	1
+Best_Actor_Jack	1
+Best_Actress_Lee	1
+veteran_actor_Charles	1
 VBN_JJ_IN
 been_sober_for	1
 RP_,_RB
 in_,_then	1
-FW_DT_JJ
-<br />_A_classic	1
-<br />_The_special	1
-<br />_The_sad	1
 VBP_IN_DT
 revolve_around_an	1
 kirsten_onto_the	1
@@ -1013,8 +982,6 @@ like_about_this	1
 feel_for_the	1
 have_with_this	1
 sense_with_this	1
-,_JJ_.
-,_sobering_.	2
 CC_NNS_NNS
 and_60s_movies	1
 CC_VB_PRP
@@ -1024,8 +991,6 @@ and_let_me	1
 and_do_it	1
 NNS_RBR_JJ
 things_more_pallatable	1
-''_CC_JJ
-''_and_few	1
 IN_NNP_MD
 While_Remick_would	1
 Except_Joe_ca	1
@@ -1059,6 +1024,7 @@ the_discovery_of	1
 this_movie_in	1
 The_resposibility_of	1
 the_fact_that	5
+the_non-drinker_like	1
 the_person_of	1
 the_help_of	2
 a_taste_for	1
@@ -1238,12 +1204,11 @@ to_suceed_in	1
 to_choose_between	1
 to_look_for	1
 to_stop_at	1
+to_procure_ala	1
 to_begin_with	1
 to_look_at	1
 VB_CD_NN
 take_one_viewpoint	1
-NNP_-RRB-_RB
-Cage_-RRB-_also	1
 VBN_PRP_IN
 liked_it_if	1
 flubbed_it_over	1
@@ -1284,8 +1249,6 @@ RBR_VBN_CC
 more_subdued_but	1
 IN_NN_JJR
 as_anything_less	1
-PRP_CD_NN
-it_one_day	1
 VBD_RB_IN
 was_also_among	1
 played_passionately_by	1
@@ -1302,9 +1265,6 @@ VBZ_,_IN
 manages_,_above	1
 NNP_CC_RB
 Head-of-the-Household_and_thus	1
-PRP$_NN_-RRB-
-their_manifesto_-RRB-	1
-her_shape_-RRB-	1
 CC_IN_PRP$
 and_for_their	1
 ,_PRP$_NN
@@ -1313,8 +1273,6 @@ and_for_their	1
 ,_her_husband	1
 ,_your_selfesteem	1
 ,_his_situation	1
-JJ_._-RRB-
-wrenching_._-RRB-	1
 VBD_VBN_NN
 had_seen_something	1
 had_been_booze	1
@@ -1397,7 +1355,6 @@ DVD_in_Texas	1
 drinking_with_Lemmon	1
 lure_of_Wine	1
 format_than_US	1
-<p>_With_Lemmon	1
 help_of_A.A.	1
 commentary_by_Blake	1
 role_as_Joe	1
@@ -1426,8 +1383,6 @@ are_suddenly_popping	1
 'm_not_being	1
 am_still_waitning	1
 're_automatically_going	1
-FW_CC_VB
-<br />_And_let	1
 VBZ_JJ_TO
 is_possible_to	1
 is_unwilling_to	1
@@ -1440,8 +1395,9 @@ failed_marriages_a	1
 RB_JJ_,
 extremely_powerful_,	1
 forever_underrated_,	1
-only_bleak_,	1
 very_patient_,	1
+only_bleak_,	1
+terribly_likable_,	1
 so_hopeless_,	1
 easily_sign-posted_,	1
 yet_happy_,	1
@@ -1475,8 +1431,7 @@ me_,_watching	1
 PRP_,_VBD
 her_,_was	1
 them_,_removed	1
-RB_-RRB-_PRP
-away_-RRB-_they	1
+them_,_was	1
 VBD_VBD_JJ
 felt_was_genuine	1
 RB_RB_NNP
@@ -1488,6 +1443,8 @@ is_mesmerizing_in	1
 is_working_with	1
 VBG_DT_JJS
 awarding_the_Best	1
+RB_,_VBD
+anymore_,_got	1
 DT_NNS_:
 the_characters_...	1
 RB_,_VBG
@@ -1498,9 +1455,6 @@ that_in_DAYS	1
 NN_VBG_DT
 career_playing_an	1
 commercial_presenting_a	1
-<br />_Considering_this	1
-<br />_being_a	1
-<br />_being_an	1
 NNPS_''_IN
 Roses_''_on	1
 TO_DT_NN
@@ -1551,8 +1505,6 @@ I_could_n't	1
 I_would_sometimes	1
 CD_NNS_RB
 50_years_later	1
-FW_NNP_CC
-<br />_Lemmon_and	1
 VBZ_CC_CD
 is_but_one	1
 WP_NNP_VBD
@@ -1578,9 +1530,6 @@ VBN_NN_CC
 blown_alcoholism_and	1
 DT_``_DT
 the_`_The	1
-NNP_-LRB-_PRP
-VHS_-LRB-_I	1
-Lemmon_-LRB-_I	1
 NN_RB_MD
 one_certainly_wo	1
 MD_VB_WRB
@@ -1614,10 +1563,11 @@ NN_NN_WDT
 love/hate_relationship_that	1
 drug_abuse_that	1
 NN_CC_:
-<br />_but_...	1
+!!_but_...	1
 PRP$_RB_RB
 its_very_well	1
 NN_DT_JJ
+textbook_the_loud	1
 grace_the_big	1
 movie_the_first	1
 film_this_unsure	1
@@ -1627,6 +1577,8 @@ of_their_earlier	1
 IN_PRP$_JJS
 despite_their_best	1
 of_his_best	1
+:_NNP_CC
+:_Joe_and	1
 ''_,_CC
 '_,_or	1
 '_,_and	1
@@ -1638,8 +1590,6 @@ PRP_POS_NN
 It_'s_portrayal	1
 DT_NNP_VBZ
 the_World_seems	1
-VBN_._-RRB-
-accepted_._-RRB-	1
 ''_IN_JJ
 ''_by_many	1
 ''_on_late	1
@@ -1654,8 +1604,6 @@ DT_VBZ_NN
 this_is_No2	1
 ``_VB_''
 `_entertain_'	1
-VBZ_-LRB-_RB
-directs_-LRB-_not	1
 RB_CC_VBP
 perfectly_and_are	1
 JJ_NN_NN
@@ -1674,7 +1622,6 @@ late_night_television	1
 public_service_announcement	1
 good_life_style	1
 excellent_movie_depiction	1
-committed_<br />_manner	1
 great_acting_duo	1
 public_information_film	1
 alcoholic_husband_role	1
@@ -1719,6 +1666,8 @@ straight_laced_Kirsten	1
 '_the_executives	1
 JJ_RB_VBG
 sober_yet_losing	1
+DT_NN_UH
+this_order_Please	1
 NN_VBZ_CD
 movie_is_one	1
 film_is_one	1
@@ -1739,12 +1688,11 @@ father_persists_and	1
 movie_is_but	1
 PRP$_JJ_NNP
 your_happy_Hollywood	1
-NN_-RRB-_IN
-envy_-RRB-_because	1
--LRB-_WDT_PRP
--LRB-_which_I	1
-JJ_NNS_-RRB-
-favorite_actors_-RRB-	1
+NN_JJ_CC
+something_funny_and	1
+everyone_alcoholic_or	1
+film_major_and	1
+bit_strident_and	1
 NNP_VBP_RB
 Remick_are_simply	1
 Lemmon_revert_back	1
@@ -1774,6 +1722,7 @@ judgement_,_and	1
 curiosity_,_but	1
 job_,_and	1
 prowess_,_but	1
+year_,_but	1
 condition_,_or	1
 bum_,_and	2
 drama_,_but	1
@@ -1802,8 +1751,6 @@ alcoholism_,_yet	1
 film_,_and	1
 ,_NN_VBP
 ,_woman_do	1
--LRB-_IN_NNP
--LRB-_as_Lemmon	1
 ``_CC_PRP
 ``_And_they	1
 JJ_RB_RB
@@ -1817,8 +1764,6 @@ IN_TO_RB
 out_to_effectively	1
 VBP_VB_RB
 do_go_down	1
-RB_VBD_CC
-ever_was_and	1
 VBG_JJ_TO
 being_able_to	1
 JJR_,_NN
@@ -1829,9 +1774,6 @@ VBP_VB_RP
 dont_wind_up	1
 IN_JJ_DT
 of_disappointing_a	1
-IN_JJ_CD
-like_other_12	1
-in_early_1974	1
 RB_CC_VBD
 out_and_learned	1
 out_and_ordered	1
@@ -1871,8 +1813,10 @@ it_'s_two	1
 it_remains_one	1
 :_NN_.
 --_alcoholism_.	1
-NNP_-RRB-_VBZ
-Lemmon_-RRB-_is	1
+RBS_JJ_IN
+most_bitter_of	1
+most_appropriate_for	1
+most_annoying_since	1
 NNPS_VBZ_CC
 Roses_is_neither	1
 CD_IN_PRP
@@ -1887,8 +1831,6 @@ drink_alone_,	1
 CC_NNPS_VBZ
 and_Roses_succeeds	1
 and_Roses_is	7
-NNP_-RRB-_VBP
-Remeck_-RRB-_are	1
 ``_VBG_''
 `_Trainspotting_'	1
 RB_TO_NN
@@ -1902,8 +1844,6 @@ NN_RB_CD
 film_yet_one	1
 EX_VBD_RB
 there_was_quite	1
-FW_UH_VB
-<br />_Please_call	1
 TO_NNS_IN
 to_people_in	1
 to_Days_of	1
@@ -1911,6 +1851,7 @@ IN_TO_DT
 on_to_the	1
 NNS_''_IN
 walkouts_''_by	1
+bums_'_as	1
 TO_NN_DT
 To_witness_the	1
 to_drama_the	1
@@ -1927,22 +1868,22 @@ Playhouse_90_version	1
 JJ_TO_PRP$
 due_to_her	1
 Due_to_my	1
-JJ_-LRB-_WDT
-believable_-LRB-_Which	1
 NNP_NNP_CD
-Russell_<br />_2537	1
+Marie_Russell_2537	1
 NNP_NNP_CC
 Jack_Lemmon_and	8
 Cliff_Robertson_and	1
 Cousin_Larry_and	1
 leads-Jack_Lemmon_and	1
+Billy_Wilder_and	1
 Jack_Lemon_or	1
 Henry_Mancini_and	1
 Operation_Petticoat_and	1
 Lost_Weekend_and	1
 Jack_Lemon_and	3
-Lee_Remick_and	1
 Jack_Lemmon_&	1
+Lee_Remick_and	1
+Lee_Remick_And	1
 New_York_and	1
 DT_JJ_MD
 the_other_can	1
@@ -1999,8 +1940,6 @@ a_movie_which	1
 the_reality_that	1
 an_object_that	1
 a_tale_that	1
--RRB-_TO_VB
--RRB-_to_place	1
 JJ_IN_JJ
 campy_at_first	1
 full_of_potted	1
@@ -2041,8 +1980,6 @@ weakly_adds_that	1
 then_closes_within	1
 only_is_about	1
 even_climbs_on	1
-VB_-LRB-_IN
-procure_-LRB-_ala	1
 JJ_RB_JJ
 second_very_poignant	1
 CC_NNS_VBZ
@@ -2073,13 +2010,14 @@ package_after_I	1
 time_unless_he	1
 confession_that_she	1
 belief_that_it	1
-hope_that_she	1
+non-drinker_like_me	1
 silence_as_he	1
 film_since_it	1
 realism_that_you	1
 movie_because_I	1
 bit_of_it	1
 film_that_I	1
+hope_that_she	1
 VBZ_PRP_PRP$
 costs_him_his	1
 IN_PRP$_PRP$
@@ -2151,8 +2089,8 @@ woman_are_infatuated	1
 none_have_equalled	1
 DT_JJ_VBZ
 the_other_does	1
-NN_VBZ_-LRB-
-film_progresses_-LRB-	1
+PRP_CC_CD
+it_and_10	1
 NNP_VBZ_RB
 Remick_does_not	1
 World_seems_so	1
@@ -2161,6 +2099,7 @@ Lemmon_is_so	1
 </a>_is_also	1
 Joe_has_yet	1
 Edwards_does_not	1
+Edwards_directs_not	1
 Lemmon_does_n't	1
 AA_does_n't	1
 IN_PRP_VB
@@ -2172,17 +2111,12 @@ playing_a_recovering	1
 being_a_recovering	1
 NNS_:_PRP$
 scenes_--_his	1
-''_NN_-RRB-
-''_role_-RRB-	1
 NNP_VBZ_RP
 Joe_falls_in	1
 Klugman_stands_out	1
 Lemmon_sobers_up	1
 NNP_PRP$_JJ
 !!_its_available	1
--RRB-_VBZ_DT
--RRB-_delivers_another	1
--RRB-_is_an	1
 VBZ_,_DT
 smells_,_the	1
 RB_VBZ_RB
@@ -2204,9 +2138,6 @@ JJ_WRB_VBN
 funny_when_needed	1
 sound_when_needed	1
 charming_when_needed	1
-VBZ_IN_RB
-shows_that_not	1
-emerges_for_awhile	1
 VBG_IN_DT
 finishing_with_the	1
 mesmerizing_in_the	1
@@ -2237,8 +2168,15 @@ NNS_CC_VB
 milkshakes_and_go	1
 :_:_WRB
 -_-_When	1
-PRP_``_NN
-it_``_sense	1
+IN_PRP_IN
+with_him_in	1
+with_me_for	1
+about_him_that	1
+for_her_because	1
+of_it_for	1
+into_them_like	1
+on_me_by	1
+on_me_that	1
 PRP_VBD_WRB
 He_died_when	1
 it_was_when	1
@@ -2252,30 +2190,30 @@ Please_call_me	1
 NNP_NNP_,
 Jack_Lemmon_,	3
 Brandy_Alexander_,	1
-Kirsten_Arnesen_,	1
-<p>_Yes_,	1
+Lee_Remick_,	6
 Joe_Clay_,	5
 Mister_Roberts_,	1
-Jim_Hungerford_,	1
+Jack_Klugman_,	2
 Sunset_Blvd_,	1
 Henri_Mancini_,	1
-Lee_Remick_,	4
+Kirsten_Arnesen_,	1
 Blake_Edwards_,	1
 Kiersten_Clay_,	1
-<br />_Anchorage_,	1
-La_Duce_,	1
-Suburban_America_,	1
-Jack_Klugman_,	1
-Charles_Bickford_,	1
-Blake_Edward_,	1
 D._Mikels_,	1
-<p>_Normally_,	1
+La_Duce_,	1
+Avenue_Anchorage_,	1
+Jim_Hungerford_,	1
+Charles_Bickford_,	3
+Suburban_America_,	1
+Kirsten_Remick_,	1
+Blake_Edward_,	1
 Kirsten_Clay_,	1
 NNP_NNP_.
 Jack_Lemmon_.	3
 Lost_Weekend_.	2
 P._Miller_.	1
 Lee_Remick_.	2
+Jack_Klugman_.	1
 Ernest_Dowson_.	1
 Brandy_Alexander_.	1
 Blake_Edwards_.	1
@@ -2323,20 +2261,34 @@ POS_VBG_.
 NN_NNP_NNP
 director_Blake_Edwards	1
 father_Ellis_Arnesen	1
-Best_Screen_Play	1
+organist_Mel_Rhyne	1
 agent_Joe_Clay	1
 receptionist_Kirsten_Arnesen	1
+Actress_Lee_Remick	1
 movie_Felix_Unger	1
+counselor_Jack_Klugman	1
 Best_Acting_Oscar	1
 sponsor_Jim_Hungerford	1
 wife_Lee_Remick	1
 Dr_Jacques_COULARDEAU	1
 landscaper_Ellis_Arnesen	1
 TV_Oscar_Madison	1
+Actor_Jack_Lemon	1
+Best_Screen_Play	1
 actor_Charles_Bickford	1
+father_Charles_Bickford	1
 everyone_Jack_Lemmon	1
-organist_Mel_Rhyne	1
-movie_<br />_iTunes	1
+fiancee_Lee_Remeck	1
+NN_CC_PRP
+job_and_they	1
+alcohol_and_they	1
+musician_and_I	1
+night_and_it	1
+environment_and_it	1
+shape_and_I	1
+movie_and_I	1
+keeper_and_we	1
+addiction_and_it	1
 TO_VB_VB
 to_help_lose	1
 to_go_see	1
@@ -2346,8 +2298,13 @@ RB_VBP_.
 eventually_marry_.	1
 NNS_PDT_DT
 repeats_all_the	1
-IN_JJS_NN
-at_least_attempt	2
+,_CC_PRP$
+,_but_her	1
+,_but_his	2
+,_and_her	1
+,_and_his	1
+,_but_its	2
+,_or_its	1
 RB_DT_JJS
 probably_the_best	1
 still_the_best	1
@@ -2411,11 +2368,6 @@ were_guilty_of	1
 was_riddled_with	1
 VBZ_PRP_VBP
 realizes_they_need	1
-NNP_,_NN
-Normally_,_accuracy	1
-Mikels_,_Author	1
-WRB_RB_TO
-how_not_to	1
 VBN_VBN_RP
 been_dialed_down	1
 VBZ_PRP_VBZ
@@ -2427,14 +2379,12 @@ ROSES_is_basically	1
 characters_is_brilliantly	1
 ``_PRP_VBD
 ``_I_did	3
-FW_EX_VBP
-<br />_There_are	1
+MD_NN_CC
+will_laugh_&	1
 NNP_POS_RB
 Vegas_'_certainly	1
 NN_VBZ_WP
 movie_shows_what	1
--RRB-_CC_CD
--RRB-_and_10	1
 ``_PRP_VBP
 ``_They_are	1
 VBZ_RB_PRP
@@ -2479,9 +2429,6 @@ a_bit_too	1
 -_-_If	1
 FW_FW_NN
 Remicks_nurturing_father	1
-<br />_<br />_Shot	1
-<br />_<br />_Dr	1
-<br />_<br />_Look	1
 :_VBP_JJ
 --_are_wrenching	1
 VBN_PRP_.
@@ -2490,8 +2437,6 @@ shown_them_.	1
 VBG_PRP$_JJ
 exploring_my_own	1
 nursing_her_own	1
-NN_-RRB-_NN
-!!_-RRB-_<br />	1
 DT_NN_RP
 the_comedy_down	1
 VBG_NN_IN
@@ -2507,15 +2452,16 @@ coming_couple_about	1
 exchanging_poetry_for	1
 moving_story_of	1
 RB_PRP_MD
+away_they_will	1
 soon_it_will	1
 perhaps_they_can	1
 NNP_NNS_.
 Oscar_nominations_.	1
+VBZ_RB_NNP
+directs_not_Billy	1
 RBS_JJ_NNS
 most_ghastly_scenes	1
 most_intimate_experiences	1
--LRB-_RB_JJ
--LRB-_undoubtedly_due	1
 RB_,_IN
 Sadly_,_in	1
 there_,_as	1
@@ -2561,8 +2507,6 @@ will_meet_with	1
 could_identify_with	1
 can_deal_with	1
 can_happen_if	1
-IN_NNP_-LRB-
-on_VHS_-LRB-	1
 ,_FW_NN
 ,_i.e._alcohol	1
 VBZ_RP_CC
@@ -2575,8 +2519,6 @@ still_discover_some	1
 often_reflect_the	1
 PRP_VBD_JJR
 I_got_older	1
--RRB-_IN_PRP$
--RRB-_because_its	1
 PRP_VBZ_``
 it_'s_``	1
 NN_VBZ_RB
@@ -2622,9 +2564,11 @@ aided_by_Remicks	1
 DT_VBZ_RP
 all_plays_out	1
 JJ_CC_DT
+insincere_and_the	1
+alcoholic_and_the	1
 dangerous_but_some	1
 beautiful_and_the	1
-alcoholic_and_the	1
+preachy_and_the	1
 PRP_CC_PRP
 her_and_you	1
 him_or_her	1
@@ -2638,8 +2582,6 @@ might_he_have	2
 can_I_say	1
 VBD_DT_RBS
 was_the_most	1
-POS_NN_-LRB-
-'s_character_-LRB-	1
 VB_,_PRP
 say_,_it	1
 NNS_POS_CC
@@ -2699,6 +2641,7 @@ or_may_not	1
 RB_JJ_DT
 quite_rare_these	1
 just_such_a	1
+Not_great_a	1
 Well_worth_the	1
 IN_PRP_PRP
 that_he_himself	1
@@ -2787,15 +2730,8 @@ that_perhaps_they	1
 IN_DT_MD
 because_that_would	1
 that_this_will	1
-NNP_VBD_DT
-This_was_a	1
-Bickford_repeated_the	1
-Edwards_directed_this	1
-O'Toole_deserved_this	1
-Lemmon_was_a	1
-Remick_were_both	2
-Lemmon_played_this	1
-Remick_was_a	1
+VBP_PDT_DT
+are_all_the	1
 VBD_RB_PRP
 got_together_it	1
 VBD_PRP_VBN
@@ -2848,8 +2784,6 @@ Joe_trashes_his	1
 Remick_is_her	1
 Kirsten_sets_their	1
 Joe_sets_his	1
-IN_NN_EX
-in_denial_there	1
 NN_RB_RB
 bit_too_self-consciously	1
 study_not_only	1
@@ -2884,11 +2818,14 @@ NN_,_RB
 alcoholism_,_not	1
 couple_,_yet	1
 disease_,_not	1
+meeting_,_thus	1
 happiness_,_then	1
 alcoholism_,_just	1
 film_,_so	1
 VBP_,_NNS
 change_,_behaviors	1
+NNP_,_VBZ
+Bickford_,_is	1
 POS_VBZ_DT
 '_is_a	1
 '_is_the	1
@@ -2906,16 +2843,10 @@ MD_RB_JJ
 'll_pretty_much	1
 RB_VBD_NNP
 also_won_Oscars	1
-NN_-RRB-_CC
-friend_-RRB-_and	1
 DT_JJ_JJR
 the_real_deeper	1
-JJ_NN_-LRB-
-own_baby_-LRB-	1
-lounge-jazz_soundtrack_-LRB-	1
-personal_opinion_-LRB-	1
-Anonymous_scene_-LRB-	1
-very_textbook_-LRB-	1
+PRP_``_NN
+it_``_sense	1
 PRP$_JJR_IN
 its_more_of	1
 NNP_IN_PRP$
@@ -2985,8 +2916,8 @@ CC_NNP_VBG
 and_Kiersten_gazing	1
 ,_VBD_TO
 ,_took_to	1
-JJ_-RRB-_NN
-Anonymous_-RRB-_meeting	1
+NNP_WRB_NNP
+Klugman_where_Felix	1
 CC_JJ_WRB
 and_funny_when	1
 IN_JJS_WDT
@@ -3045,13 +2976,6 @@ people_and_the	1
 plants_and_the	1
 souls_and_some	1
 effects_and_the	1
-,_JJ_NNS
-,_mature_performances	1
-,_poetic_quotations	1
-,_white-collar_executives	1
-,_long_stretches	1
-,_soul-crushing_performances	1
-,_modern_pieces	1
 VB_VBN_PRP$
 have_preceeded_his	1
 ,_NNP_IN
@@ -3073,8 +2997,6 @@ meets_somewhere_between	1
 gets_maniacally_out	1
 is_deeply_in	1
 's_not_that	1
-IN_PRP_-RRB-
-like_me_-RRB-	1
 PRP_VBZ_NN
 He_finds_assistance	1
 it_inebriates_romance	1
@@ -3087,9 +3009,6 @@ NNS_DT_NN
 marriages_a_woman	1
 JJ_,_PRP$
 sober_,_their	1
-,_JJ_NNP
-,_strait-jacketed_Lemmon	1
-,_Double_Indemnity	1
 NN_VBG_TO
 end_appearing_to	1
 job_being_to	1
@@ -3176,13 +3095,34 @@ NNP_''_NN
 Dad_''_life	1
 IN_PDT_DT
 with_such_a	1
-IN_IN_DT
-before_as_both	1
-as_in_a	1
-along_with_that	1
-for_as_a	1
-Out_of_a	1
-out_of_the	2
+IN_NN_.
+of_self-destruction_.	1
+on_celluloid_.	1
+of_champagne_.	1
+of_stability_.	1
+with_alcohol_.	1
+from_drinking_.	1
+for_drink_?	1
+of_realism_.	1
+for_bad_.	1
+into_alcoholism_.	1
+about_addiction_.	1
+of_stone_.	1
+of_life_.	1
+on_film_.	1
+at_alcoholism_.	1
+about_alcoholism_.	3
+of_sobriety_.	1
+of_addiction_.	2
+for_woman_.	1
+at_hand_.	1
+of_drunkenness_.	1
+in_mood_.	1
+of_place_.	1
+of_control_.	1
+of_cocaine_.	1
+on_track_.	1
+of_alcoholism_.	5
 PRP_RB_VBP
 they_eventually_marry	1
 they_personally_get	1
@@ -3208,11 +3148,8 @@ he_first_learns	1
 he_frequently_admits	1
 It_also_shows	1
 it_perhaps_is	1
-VBZ_,_CC
-does_,_but	1
-arrives_,_and	1
 NN_TO_PRP$
-<br />_to_her	1
+dedication_to_her	1
 DT_JJS_NN
 the_best_role	1
 the_worst_thing	1
@@ -3269,8 +3206,8 @@ wine_and_roses	3
 NNP_NNP_NN
 Billy_Wilder_fan	1
 Lee_Remick_playing	1
-<br />_iTunes_version	1
 Blake_Edwards_commentary	1
+Jack_Lemon_Best	1
 Great_Film_!!!	1
 Henry_Mancini_score	1
 Blake_Edwards_drama	1
@@ -3348,7 +3285,6 @@ white-collar_executives_worn	1
 great_Movies_used	1
 VB_PRP_MD
 think_you_'d	1
-<br />_I_would	1
 POS_RB_VBD
 '_certainly_portrayed	1
 RB_MD_RB
@@ -3393,21 +3329,8 @@ film_'s_premise	1
 baby_'s_room	1
 film_'s_ending	1
 god_'s_eye	1
-NNP_NNP_-RRB-
-Lee_Remick_-RRB-	3
-Lee_Remeck_-RRB-	1
-Jack_Lemmon_-RRB-	2
-Billy_Wilder_-RRB-	1
-Charles_Bickford_-RRB-	2
-Jack_Klugman_-RRB-	5
-Jack_Lemon_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Lee_Remick	3
--LRB-_Charles_Bickford	2
--LRB-_Jack_Klugman	5
--LRB-_Lee_Remeck	1
--LRB-_Jack_Lemon	1
--LRB-_Jack_Lemmon	2
+CC_VBD_CD
+and_was_one	1
 ``_NNP_NNP
 ``_Lost_Weekend	3
 `_Alice_Does	1
@@ -3442,7 +3365,7 @@ FW_NNS_VBP
 joe_turns_kirsten	1
 NNP_VBZ_DT
 Klugman_is_a	1
-Lemmon_is_an	1
+Lemmon_is_an	2
 Joe_destroys_the	1
 Edwards_examines_the	1
 Joe_is_the	1
@@ -3482,8 +3405,6 @@ characters_into_alcoholic	1
 sufferers_as_real	1
 dynamics_within_human	1
 doses_of_contrived	1
--RRB-_PRP_RB
--RRB-_I_still	1
 IN_NN_CC
 in_love_and	3
 in_outlook_or	1
@@ -3518,8 +3439,6 @@ decision_is_,	1
 film_concludes_,	1
 owner_says_,	1
 baby_arrives_,	1
--RRB-_NN_CC
--RRB-_<br />_but	1
 ,_VBD_PRP$
 ,_found_their	1
 VBP_PRP$_NN
@@ -3622,34 +3541,13 @@ help_;_he	1
 ;_he_even	1
 WP_MD_CD
 What_can_one	1
-IN_NN_.
-of_self-destruction_.	1
-on_celluloid_.	1
-of_champagne_.	1
-of_stability_.	1
-with_alcohol_.	1
-from_drinking_.	1
-for_drink_?	1
-of_realism_.	1
-for_bad_.	1
-into_alcoholism_.	1
-about_addiction_.	1
-of_stone_.	1
-of_life_.	1
-on_film_.	1
-at_alcoholism_.	1
-about_alcoholism_.	3
-of_sobriety_.	1
-of_addiction_.	2
-for_woman_.	1
-at_hand_.	1
-of_drunkenness_.	1
-in_mood_.	1
-of_place_.	1
-of_control_.	1
-of_cocaine_.	1
-on_track_.	1
-of_alcoholism_.	5
+IN_IN_DT
+before_as_both	1
+as_in_a	1
+along_with_that	1
+for_as_a	1
+Out_of_a	1
+out_of_the	2
 VBP_VB_JJ
 do_hit_bottom	1
 VBZ_PRP_TO
@@ -3688,6 +3586,8 @@ of_alcoholism_,	4
 of_pain_,	1
 NN_PRP$_JJ
 clarity_their_subject	1
+NNP_CC_NN
+Remick_And_Best	1
 RB_JJS_NN
 truly_best_scene	1
 WDT_MD_VB
@@ -3768,20 +3668,11 @@ ROSES_also_seems	1
 films_afterall_is	1
 IN_JJS_IN
 at_least_on	1
-RB_,_RB
-awhile_,_then	1
-away_,_then	1
-thus_,_never	1
-Now_,_just	1
-Slowly_,_painfully	1
-Here_,_though	1
 NNS_RB_VBG
 winds_up_feeling	1
 TO_NN_,
 to_booze_,	1
 to_motherhood_,	1
-JJ_WP_VBZ
-alcoholic_who_has	1
 TO_NN_.
 to_time_.	2
 to_boot_.	1
@@ -3804,8 +3695,6 @@ Mancini_'s_haunting	1
 Lemmon_'s_urging	1
 Kirsten_'s_urging	1
 Joe_'s_going	1
-NN_NN_NNP
-veteran_actor_Charles	1
 NN_''_:
 comedy_''_...	1
 NN_``_DT
@@ -3817,8 +3706,6 @@ there_'s_a	1
 There_is_no	3
 there_is_no	2
 There_is_a	2
-FW_DT_NNS
-<br />_The_Days	1
 JJ_NNS_WP
 good_people_who	1
 VBD_DT_CD
@@ -3846,6 +3733,7 @@ pimp_'_,	1
 Dream_'_,	1
 NNS_JJ_NN
 things_American_cinema	1
+Alcoholics_Anonymous_meeting	1
 WP_VBP_RB
 who_do_n't	1
 who_have_never	1
@@ -3857,8 +3745,6 @@ IN_RB_,
 for_awhile_,	1
 POS_,_PRP
 '_,_you	1
-NN_._-RRB-
-melodrama_._-RRB-	1
 ''_NN_RB
 ''_life_back	1
 ,_EX_VBP
@@ -3878,9 +3764,8 @@ is_one_of	6
 remains_one_of	1
 FW_VBP_IN
 i_believe_that	1
-NNP_VBZ_-LRB-
-Preachy_lectures_-LRB-	1
-Edwards_directs_-LRB-	1
+VBD_JJ_RB
+was_fantastic_too	1
 JJ_,_PRP
 alcoholic_,_I	1
 NNS_NN_VBG
@@ -3930,15 +3815,12 @@ this_is_n't	1
 this_is_probably	1
 NNP_NN_VBD
 Edwards_drama_was	1
-,_-LRB-_RB
-,_-LRB-_undoubtedly	1
 NNS_VBG_IN
 boxed-sets_moving_off	1
-FW_NNP_POS
-<br />_Joe_'s	1
-<br />_Kirsten_'s	1
 NNS_NN_''
 relations_officer_'	1
+VBG_JJ_:
+being_clever_:	1
 VBG_JJ_RB
 becoming_sober_yet	1
 NN_''_WDT
@@ -3997,8 +3879,6 @@ NNPS_VBD_CD
 Roses_was_one	1
 IN_IN_NNP
 that_in_Joe	1
-RB_TO_JJ
-off_to_various	1
 VBZ_RB_JJ
 is_particularly_effective	1
 is_almost_trite	1
@@ -4024,8 +3904,8 @@ appears_almost_campy	1
 is_not_sure	1
 is_genuinely_interesting	1
 is_so_realistic	1
-RB_,_PRP$
-though_,_his	1
+VBP_VBG_NNS
+suggest_watching_Days	1
 VBN_DT_NN
 given_this_film	1
 taken_the_tone	1
@@ -4049,6 +3929,8 @@ other_will_probably	1
 ,_got_Best	1
 ``_NN_CC
 `_Fear_And	1
+CC_RB_MD
+or_not_would	1
 IN_JJ_TO
 As_great_to	1
 from_bad_to	1
@@ -4164,8 +4046,6 @@ VB_PRP_JJ
 enjoy_themselves_sober	1
 IN_CC_VBD
 over_and_tormented	1
--LRB-_RB_TO
--LRB-_probably_to	1
 PRP_RB_JJ
 it_increasingly_difficult	1
 you_so_much	1
@@ -4175,8 +4055,6 @@ saying_how_realistic	1
 VBZ_PRP$_NNS
 sets_his_sites	1
 has_its_thorns	1
-PRP_RB_-RRB-
-us_anymore_-RRB-	1
 TO_NN_NN
 to_life_drama	1
 to_self_destruction	1
@@ -4212,6 +4090,8 @@ WP_VBP_,
 who_meet_,	1
 PRP_DT_.
 them_both_.	1
+VBD_TO_PRP
+took_to_it	1
 JJS_IN_NN
 best_about_alcoholism	1
 PRP_,_DT
@@ -4223,8 +4103,6 @@ VBD_RP_DT
 found_out_the	1
 drowned_out_the	1
 held_off_a	1
-VBD_PRP_-RRB-
-called_them_-RRB-	1
 ,_RB_NNS
 ,_then_winds	1
 WP_VBP_NN
@@ -4239,6 +4117,8 @@ VBZ_PRP_IN
 leaves_us_with	1
 leaves_you_with	1
 offends_her_by	1
+NNS_VBD_RB
+addictions_were_very	1
 VBP_RB_VB
 do_n't_want	1
 do_n't_know	1
@@ -4248,16 +4128,14 @@ do_n't_mean	1
 do_n't_get	1
 do_n't_think	1
 have_never_see	1
-TO_-LRB-_CC
-to_-LRB-_and	1
 VB_JJ_DT
 be_deadly_both	1
 :_PRP_,
 -_herself_,	1
 ,_VB_PRP
 ,_let_me	1
-FW_NNP_NNS
-<br />_Public_relations	1
+POS_NN_``
+'s_film_``	1
 VBD_IN_NN
 suffered_from_PTSD	1
 CD_NN_VBZ
@@ -4286,6 +4164,7 @@ nursery_looking_for	1
 hospital_going_through	1
 greenhouse_searching_for	1
 light_flashing_in	1
+soundtrack_drowning_in	1
 time_thinking_of	1
 couple_floating_in	1
 VBN_VBZ_DT
@@ -4297,6 +4176,7 @@ about_alcoholics_.	1
 IN_NNS_,
 of_girls_,	1
 of_months_,	1
+in_moonriverisms_,	1
 at_times_,	1
 RB_DT_VBG
 then_the_sneaking	1
@@ -4305,14 +4185,10 @@ Surely_this_was	1
 CC_NNP_POS
 and_Mancini_'s	1
 and_Kirsten_'s	1
-NNP_-RRB-_,
-Bickford_-RRB-_,	2
-Klugman_-RRB-_,	1
-Remick_-RRB-_,	3
+IN_JJ_WDT
+of_believable_Which	1
 CD_NN_POS
 one_man_'s	1
-NNP_-RRB-_.
-Klugman_-RRB-_.	1
 IN_NNS_:
 for_cartoons_-	1
 DT_JJ_JJ
@@ -4320,14 +4196,15 @@ a_down-and-out_alcoholic	1
 the_great_comic	1
 the_loud_obnoxious	1
 a_nice_cheap	1
-a_whole_new	1
+a_good_stiff	1
 a_great_supporting	1
 a_spunky_young	1
 the_overall_dramatic	1
 a_sober_alcoholic	1
 A_great_American	1
+a_whole_new	1
 the_same_bad	1
-a_good_stiff	1
+the_young_ish	1
 the_past_several	1
 RB_IN_IN
 maniacally_out_of	1
@@ -4336,11 +4213,6 @@ VBN_NNP_TO
 convinced_Kirsten_to	1
 VBD_``_PRP
 said_``_I	1
-FW_FW_PRP
-<br />_<br />_I	4
-<br />_<br />_It	2
-<br />_<br />_They	1
-<br />_<br />_He	1
 NN_WRB_NNP
 scene_where_Lemmon	1
 VBG_,_CC
@@ -4361,10 +4233,8 @@ DT_``_NN
 the_``_drinking/cocktail	1
 a_``_legend	1
 the_``_greenhouse	1
-NNP_-LRB-_DT
-Klugman_-LRB-_another	1
-Sullivan_-LRB-_The	1
-Book_-LRB-_the	1
+NNP_NNP_WRB
+Jack_Klugman_where	1
 IN_VBZ_NNP
 as_does_Jack	1
 PRP_VBP_IN
@@ -4443,8 +4313,9 @@ treatment_centers_that	1
 ''_when_their	1
 NNS_JJ_JJ
 years_old_Great	1
-NN_-LRB-_VBG
-soundtrack_-LRB-_drowning	1
+DT_VBN_JJ
+a_reformed_alcoholic	1
+a_believed_good	1
 DT_NNS_WDT
 those_drinks_that	1
 the_consequences_that	1
@@ -4483,15 +4354,10 @@ DT_CD_VBD
 the_two_got	1
 NNS_CC_WRB
 drunks_and_how	1
-PRP$_JJR_NNS
-their_earlier_roles	1
-his_weaker_films	1
+IN_WRB_DT
+as_how_the	1
 VB_CC_DT
 scorch_both_the	1
-VB_._-RRB-
-go_!_-RRB-	1
-NNS_CC_VBG
-girls_and_drinking	1
 MD_VB_NNP
 would_be_Edward	1
 DT_NN_:
@@ -4524,7 +4390,6 @@ version_aired_in	1
 movie_was_for	1
 VB_PRP_VB
 let_me_know	1
-<br />_I_recommend	1
 let_me_say	1
 CC_VB_.
 and_marry_.	1
@@ -4541,15 +4406,26 @@ POS_NN_POS
 NNP_NNS_IN
 Immediate_associations_with	1
 Edwards_Days_of	1
-FW_NNP_VBN
-<br />_Lemmon_aided	1
-PRP_VBZ_VBN
-He_is_demoted	1
-he_has_buried	1
-he_'s_swept	1
-it_has_been	1
-he_'s_convinced	1
-she_is_pulled	1
+NN_NNS_VBD
+Step_Programs_were	1
+NN_NN_,
+case_alcohol_,	1
+widower_father_,	1
+job_loss_,	1
+family_fare_,	1
+veteran_actor_,	1
+joe_clay_,	1
+movie_history_,	1
+AA_meeting_,	1
+middle-class_happiness_,	1
+baby_daughter_,	1
+movie_viewer_,	1
+Serenity_Prayer_,	1
+alcohol_addiction_,	1
+goody_goody_,	1
+plot_line_,	1
+AA_philosophy_,	1
+screen_wife_,	1
 WP_,_VBG
 who_,_leaning	1
 VBN_IN_WRB
@@ -4563,9 +4439,9 @@ lead_another_to	1
 recommend_this_to	1
 VB_TO_PRP
 talk_to_him	1
-FW_NNP_VBZ
-<br />_Kirsten_is	1
-<br />_Joe_introduces	1
+,_JJ_NNP
+,_strait-jacketed_Lemmon	1
+,_Double_Indemnity	1
 ``_RB_JJ
 ``_scared_straight	1
 PRP_NNP_NNP
@@ -4602,13 +4478,12 @@ someone_can_get	1
 NN_JJ_TO
 sauce_due_to	1
 VBG_JJ_CC
+being_preachy_and	1
 staying_drunk_and	1
 CD_,_NNP
 one_,_Breakfast	1
 JJS_RB_VBN
 best_ever_made	1
-WP_DT_RB
-what_a_tremendously	1
 PRP_VBD_PRP$
 she_sent_my	1
 he_left_his	1
@@ -4630,8 +4505,8 @@ to_part_of	1
 to_temptation_if	1
 CC_NN_PRP
 or_esle_I	1
-VBD_NNS_IN
-were_movies_like	1
+NNP_DT_IN
+Klugman_another_of	1
 CC_NNPS_POS
 &_Roses_'	1
 And_Roses_'	4
@@ -4701,12 +4576,11 @@ no_temptation_.	1
 another_drink_.	2
 the_end_.	1
 a_person_.	1
--RRB-_,_JJ
--RRB-_,_long	1
 PRP$_NN_RB
 your_life_as	1
 their_time_alone	1
 my_mom_off	1
+its_time_apparently	1
 his_character_here	1
 his_job_there	1
 its_ending_only	1
@@ -4717,6 +4591,7 @@ with_everything_to	1
 on_alcohol_to	1
 of_place_to	1
 of_control_to	1
+of_dedication_to	1
 from_time_to	2
 of_conscience_to	1
 for_anybody_to	1
@@ -4768,8 +4643,6 @@ NNPS_,_DT
 Roses_,_a	1
 VBD_PRP_RB
 kept_him_so	1
-RB_-RRB-_MD
-not_-RRB-_would	1
 NN_DT_IN
 counsel_those_with	1
 WRB_NNP_CC
@@ -4788,6 +4661,8 @@ cast_,_to	1
 wife_,_to	1
 NNPS_,_''
 Roses_,_''	1
+VBD_PRP_,
+called_them_,	1
 TO_NNP_NNP
 to_Gregory_Peck	1
 to_Joe_Clay	1
@@ -4807,8 +4682,6 @@ CD_JJ_TO
 one_hard_to	1
 VBP_NN_:
 need_help_;	1
--RRB-_VBP_VBG
--RRB-_are_having	1
 DT_CD_NN
 the_two_fall	1
 this_1962_movie	1
@@ -4816,8 +4689,6 @@ The_1962_film	1
 the_5_Academy	1
 PRP$_PRP$_NN
 its_its_era	1
-RP_IN_NNS
-in_with_expectations	1
 RB_VBZ_DT
 nonetheless_injects_the	1
 still_remains_a	1
@@ -4826,8 +4697,6 @@ accurately_depicts_the	1
 also_does_a	1
 ever_watches_this	1
 here_is_an	1
-PRP_-LRB-_VBG
-them_-LRB-_suffering	1
 DT_CD_NNS
 a_hundred_times	1
 those_two_points	1
@@ -4855,10 +4724,9 @@ CC_VBP_VBN
 and_are_backed	1
 WP_VBP_IN
 who_fall_in	2
-IN_PRP_-LRB-
-of_them_-LRB-	1
-NNS_WP_VBD
-people_who_descend	1
+RP_RB_,
+out_again_,	1
+up_again_,	1
 ``_NNPS_''
 `_Roses_'	1
 VBD_NN_JJ
@@ -4897,8 +4765,8 @@ drinking_problem_in	1
 topic_square_on	1
 life_drama_that	1
 television_play_of	1
-JJ_-LRB-_CC
-incomplete_-LRB-_or	1
+NNS_DT_NNS
+cuts_no_corners	1
 NN_,_FW
 desire_,_i.e.	1
 CD_NNP_VBD
@@ -4910,16 +4778,12 @@ VB_RB_TO
 go_back_to	1
 VBZ_VBZ_CD
 tells_is_one	1
-NNS_NN_IN
-relations_man_in	1
-individuals_alcoholism_as	1
-eyes_sort_of	1
+CC_NN_VBD
+and_dad_divorced	1
 CC_NN_VBG
 and_heart_braking	1
 JJS_NNS_VBP
 most_movies_try	1
-NNS_DT_NNS
-cuts_no_corners	1
 ''_NN_NNS
 ''_time_movies	1
 ,_``_NNS
@@ -4953,17 +4817,11 @@ worse_than_the	1
 worse_without_a	1
 better_than_this	1
 more_of_a	1
-FW_PRP_VBZ
-<br />_It_'s	1
-<br />_It_is	1
-<br />_He_'s	1
+IN_,_UH
+although_,_yes	1
 WRB_``_JJ
 how_``_dirty	1
 where_`_public	1
-FW_PRP_VBP
-<br />_I_think	1
-<br />_I_have	2
-<br />_I_know	1
 VBP_DT_DT
 feel_all_these	1
 NNS_VBD_:
@@ -4981,6 +4839,8 @@ VBP_CD_IN
 're_one_of	1
 NNPS_POS_.
 Roses_'_.	1
+VBP_PRP_CC
+have_it_and	1
 NNPS_POS_,
 Roses_'_,	1
 JJ_JJ_,
@@ -5042,7 +4902,7 @@ Blake_Edwards_presents	1
 Mr_Baxter_has	1
 Blake_Edwards_skirts	1
 Blake_Edwards_directs	1
-Jack_Lemmon_is	3
+Jack_Lemmon_is	4
 Charles_Bickford_gives	1
 Charles_Bickford_is	1
 Henry_Mancini_is	1
@@ -5053,9 +4913,7 @@ Jack_Lemmon_plays	1
 Blake_Edwards_helms	1
 Tex_Avery_displays	1
 Charles_Bickford_lends	1
-Jack_Lemmon_proves	1
 Jack_Klugman_has	1
-<p>_Joe_is	1
 Jack_Klugman_plays	1
 First_Joe_falls	1
 Jack_Lemon_gives	1
@@ -5064,11 +4922,9 @@ CLiff_Robertson_says	1
 Jack_Lemmon_does	1
 Jack_Lemmon_gives	1
 Vegas_</a>_is	1
-<br />_This_is	1
+Jack_Lemmon_proves	1
 JJ_''_WRB
 happy_''_when	1
-VBP_PRP_-RRB-
-have_it_-RRB-	1
 TO_NNP_,
 to_Lemmon_,	1
 IN_WDT_VBZ
@@ -5077,6 +4933,10 @@ DT_IN_JJ
 another_for_good	1
 VBZ_RP_VBZ
 plays_out_is	1
+CC_VBD_DT
+and_got_a	1
+and_made_a	1
+and_deserved_the	1
 NNS_CC_VBZ
 points_and_weaves	1
 TO_NNP_:
@@ -5097,8 +4957,11 @@ delivered_promptly_in	1
 told_before_in	1
 RP_VBG_,
 up_clicking_,	1
--LRB-_NNS_JJ
--LRB-_Alcoholics_Anonymous	1
+JJ_NN_PRP
+alcohol-free_environment_he	1
+first_time_I	1
+secret_line_you	1
+versatile_actor_he	1
 VBZ_TO_NN
 continues_to_discipline	1
 goes_to_AA	1
@@ -5142,6 +5005,7 @@ not_have_a	1
 not_diminish_the	1
 NNP_NNP_VBP
 Lee_Remick_are	4
+Lee_Remeck_are	1
 LAS_VEGAS_suggest	1
 Las_Vegas_are	1
 IN_``_NNP
@@ -5159,6 +5023,7 @@ CD_''_NN
 90_''_version	1
 NNP_NNP_VBN
 Jim_Hungerford_played	1
+Blake_Edwards_known	1
 Joe_Clay_played	1
 CC_VB_PDT
 &_cry_all	1
@@ -5180,22 +5045,10 @@ will_watch_it	1
 would_recommend_it	1
 will_help_her	1
 would_show_it	1
-RB_JJ_-LRB-
-just_incomplete_-LRB-	1
-Not_great_-LRB-	1
 NNP_VBZ_CC
 Joe_hems_and	1
-NN_CC_PRP
-job_and_they	1
-alcohol_and_they	1
-musician_and_I	1
-night_and_it	1
-environment_and_it	1
-shape_and_I	1
-movie_and_I	1
-keeper_and_we	1
-<br />_And_I	1
-addiction_and_it	1
+``_NN_IN
+`_Anatomy_of	1
 CC_NNPS_''
 And_Roses_''	1
 and_Roses_''	9
@@ -5207,8 +5060,6 @@ and_Roses_''	9
 `_Days_of	1
 ``_IN_DT
 ``_in_the	1
--LRB-_CD_JJ
--LRB-_Two_specific	1
 ''_NNS_RB
 ''_rings_so	1
 '_movies_ever	1
@@ -5260,8 +5111,6 @@ the_bottle.lemmon_and	1
 another_movie_but	1
 :_NN_WP
 :_Nobody_who	1
-VBZ_TO_-LRB-
-admits_to_-LRB-	1
 VBD_VBN_RB
 was_lost_forever	1
 was_delivered_promptly	1
@@ -5320,8 +5169,8 @@ in_his_behavior	1
 for_their_manifesto	1
 RB_PRP_RB
 so_we_just	1
-NNS_-RRB-_VBD
-addictions_-RRB-_were	1
+IN_NN_EX
+in_denial_there	1
 DT_NNS_WRB
 these_days_when	1
 NN_:_RB
@@ -5333,6 +5182,7 @@ Joe_,_and	1
 Kirsten_,_or	1
 Alexander_,_and	1
 Lemmon_,_and	2
+Remick_,_and	2
 Blvd_,_and	1
 ACOA_,_or	1
 CD_PRP_MD
@@ -5358,8 +5208,9 @@ just_trying_to	1
 `_pimp_'	1
 WRB_VBD_VBG
 how_thought_provoking	1
-JJ_-RRB-_,
-likable_-RRB-_,	1
+VBZ_,_CC
+does_,_but	1
+arrives_,_and	1
 NN_,_VBN
 satisfaction_,_clarified	1
 kirsten_,_played	1
@@ -5383,8 +5234,6 @@ time_,_riding	1
 path_,_foresaking	1
 greenhouse_,_looking	1
 line_,_letting	1
-VBG_JJ_-RRB-
-being_preachy_-RRB-	1
 NN_,_VBZ
 beauty_,_matches	1
 escape_,_shames	1
@@ -5466,8 +5315,9 @@ WDT_VBZ_VBG
 which_means_having	1
 PRP$_NNS_NNP
 my_comments_Mirror	1
--RRB-_JJ_NNS
--RRB-_young_women	1
+CC_DT_IN
+and_Some_Like	1
+and_all_of	1
 WDT_VBZ_VBN
 that_is_given	1
 that_is_required	1
@@ -5523,15 +5373,16 @@ dry_out_again	1
 slip_up_again	1
 NN_IN_JJS
 realism_as_most	1
-JJ_RB_-RRB-
-uncommon_here_-RRB-	1
 VB_DT_CD
 mesh_the_two	1
 NN_IN_,
 personality_though_,	1
 client_with_,	1
-VBG_JJ_:
-being_clever_:	1
+PRP$_NNS_IN
+His_scenes_in	1
+its_sufferers_as	1
+my_favorites_with	1
+his_sites_on	1
 NN_IN_.
 part_of_.	1
 VB_JJ_NNS
@@ -5545,6 +5396,7 @@ court_pretty_Kirsten	1
 NNP_RB_VBD
 Kramer_never_made	1
 Services_strongly_suggested	1
+Cage_also_won	1
 CC_WRB_PRP
 and_how_it	3
 and_when_they	1
@@ -5582,8 +5434,6 @@ Neil_Simon_'s	1
 Henry_Mancini_'s	4
 Las_Vegas_'	3
 Lee_Remick_'s	2
-VBP_PDT_DT
-are_all_the	1
 POS_JJS_NNS
 's_finest_performances	1
 NN_DT_NN
@@ -5637,6 +5487,7 @@ WP_PRP_MD
 what_it_can	1
 POS_NN_PRP
 's_drinking_he	1
+'s_character_he	1
 ,_``_JJ
 ,_`_Meaningful	1
 NN_:_NNP
@@ -5668,31 +5519,18 @@ they_do_instead	1
 I_'m_increasingly	1
 I_'ve_already	1
 I_am_still	1
-DT_JJ_-LRB-
-the_young_-LRB-	1
 NN_NN_TO
-dedication_<br />_to	1
 film_version_to	1
 NN_,_PRP$
 willpower_,_your	1
 selfcontrol_,_your	1
-NN_NN_,
-case_alcohol_,	1
-widower_father_,	1
-job_loss_,	1
-family_fare_,	1
-veteran_actor_,	1
-joe_clay_,	1
-middle-class_happiness_,	1
-goody_goody_,	1
-movie_history_,	1
-baby_daughter_,	1
-movie_viewer_,	1
-Serenity_Prayer_,	1
-alcohol_addiction_,	1
-plot_line_,	1
-AA_philosophy_,	1
-screen_wife_,	1
+PRP_VBZ_VBN
+He_is_demoted	1
+he_has_buried	1
+he_'s_swept	1
+it_has_been	1
+he_'s_convinced	1
+she_is_pulled	1
 NN_NN_.
 par_excellence_.	1
 supporting_cast_.	1
@@ -5701,6 +5539,7 @@ life_salvation_.	1
 freight_train_.	1
 film_making_.	1
 control_mechanic_.	1
+Miracle_Worker_.	1
 organ_trio_.	1
 prostate_form_.	1
 cable_television_.	1
@@ -5708,7 +5547,6 @@ detox_ward_.	1
 self_delusion_.	1
 spft_drink_.	1
 glass_door_.	1
-<br />_manner_.	1
 winning_song_.	1
 theme_song_?	1
 jazz_score_.	1
@@ -5736,12 +5574,8 @@ they_pull_off	1
 VBZ_NNP_POS
 has_Jack_'s	1
 matches_Lemmon_'s	1
-NNS_-RRB-_.
-actors_-RRB-_.	1
 RB_WP_PRP$
 exactly_what_his	1
-NNS_-RRB-_,
-moonriverisms_-RRB-_,	1
 RP_JJ_NN
 on_social_alcoholism	1
 NN_,_NN
@@ -5799,8 +5633,6 @@ is_front_of	1
 JJ_JJ_JJ
 loud_obnoxious_drunk	1
 old_Great_black	1
-VBP_VBN_RB
-'ve_done_so	1
 ''_RB_JJ
 ''_again_last	1
 DT_IN_CC
@@ -6087,6 +5919,8 @@ be_nurtured_,	1
 NNS_WP_VBP
 people_who_love	1
 people_who_fall	1
+IN_CD_VBZ
+that_one_is	1
 IN_VBN_IN
 Though_made_in	1
 like_portrayed_in	1
@@ -6107,9 +5941,6 @@ CD_IN_DT
 three_of_the	1
 one_of_these	1
 one_of_the	18
--LRB-_JJ_NN
--LRB-_mammary_envy	1
--LRB-_young_friend	1
 PRP_VBZ_IN
 it_'s_like	1
 he_lies_on	1
@@ -6132,11 +5963,6 @@ DT_VBZ_,
 the_smells_,	1
 IN_NN_''
 at_risk_''	1
-FW_FW_CC
-<br />_<br />_And	1
-<br />_<br />_But	1
-TO_VB_-LRB-
-to_procure_-LRB-	1
 PRP_NN_DT
 I_counsel_those	1
 NNPS_''_WRB
@@ -6171,8 +5997,10 @@ NNS_WP_RB
 millions_who_sometimes	1
 NNP_IN_TO
 Peck_for_To	1
-CC_NNS_NNP
-and_marries_Kirsten	1
+NNP_DT_NN
+B&W_this_film	1
+Sullivan_The_Miracle	1
+Book_the_nickname	1
 RB_VBP_NNS
 gradually_become_alcoholics	1
 VBZ_DT_DT
@@ -6195,9 +6023,8 @@ NNS_''_VBG
 boys_''_following	1
 PRP_RB_MD
 you_almost_would	1
--RRB-_,_VBD
--RRB-_,_got	1
--RRB-_,_was	1
+POS_VBG_RB
+'s_going_hysterically	1
 WP_VBZ_RB
 who_is_not	1
 who_has_finally	1
@@ -6263,10 +6090,6 @@ this_unsure_of	1
 the_same_after	1
 IN_PRP_DT
 as_we_all	1
-PRP$_NN_-LRB-
-her_father_-LRB-	1
-its_time_-LRB-	1
-his_fiancee_-LRB-	1
 NN_NNP_VBZ
 arrangement_Lemmon_seduces	1
 job_Joe_finds	1
@@ -6291,9 +6114,11 @@ themselves_to_get	1
 me_to_assume	1
 NNP_TO_VB
 Lemmon_to_drink	1
-Lemmon_to_bring	1
-Kirsten_to_join	1
+Finch_To_Kill	1
 Either_to_look	1
+Klugman_to_place	1
+Kirsten_to_join	1
+Lemmon_to_bring	1
 VBD_RB_RB
 was_really_quite	1
 was_never_really	1
@@ -6394,8 +6219,8 @@ this_was_a	1
 This_was_a	2
 this_was_the	1
 that_was_a	1
-NN_-LRB-_IN
-non-drinker_-LRB-_like	1
+VBG_RP_NN
+drying_out_unit	1
 VB_NN_NNP
 have_movie_Felix	1
 NNP_VB_PDT
@@ -6434,9 +6259,8 @@ VBD_IN_.
 went_through_.	1
 NNP_CD_''
 Playhouse_90_''	1
-JJ_-RRB-_CC
-insincere_-RRB-_and	1
-preachy_-RRB-_and	1
+VBD_IN_,
+came_out_,	1
 IN_NNP_CC
 of_Wine_&	1
 for_Lawrence_and	1
@@ -6472,9 +6296,6 @@ it_clear_early	1
 ,_portrayal_of	1
 ,_tale_of	1
 ,_accuracy_in	1
-RP_RB_,
-out_again_,	1
-up_again_,	1
 VBZ_PRP$_JJ
 plays_his_usual	1
 gets_his_abstemious	1
@@ -6488,8 +6309,6 @@ Peck_'s_Atticus	1
 NNP_POS_NNS
 AMC_'s_Madmen	1
 Lemmon/Remick_'s_characters	1
-NNP_DT_NN
-B&W_this_film	1
 IN_PRP_RB
 with_us_anymore	1
 that_it_never	1
@@ -6596,11 +6415,11 @@ PRP$_NNS_VBP
 their_lives_are	1
 WRB_VBN_.
 when_needed_.	1
--RRB-_,_VBZ
--RRB-_,_is	1
-NN_IN_VBN
-viewpoint_as_apposed	1
-alcoholism_as_opposed	1
+NNS_RB_JJ
+rings_so_true	1
+times_deeply_disturbing	1
+things_as_bleak	1
+times_pretty_ugly	1
 VBZ_CC_DT
 escapes_and_the	1
 CC_RB_PRP$
@@ -6699,10 +6518,12 @@ VBZ_VBZ_IN
 is_falls_on	1
 DT_IN_IN
 any_before_as	1
+VBZ_TO_CC
+admits_to_and	1
 NNP_NNP_IN
 Peter_O'Toole_for	1
 recieved.An_Oscar_for	1
-Mel_Rhyne_at	1
+Lee_Remick_in	2
 Charles_Bickford_as	2
 Jack_Klugman_in	1
 Ernest_Dowson_for	1
@@ -6712,19 +6533,16 @@ San_Francisco_with	1
 Jack_Lemmon_as	1
 Issue_Picture_about	1
 Jack_Lemmon_during	1
-!!_<br />_So	1
-Jack_Lemmon_in	1
-<p>_DAYS_OF	1
+Jack_Lemmon_in	2
+Color_!!_So	1
+Jack_Klugman_from	1
 Jack_Lemmon_for	1
 Jack_Klugman_as	1
 Oscar_Madison_in	1
-Lee_Remick_in	2
+Mel_Rhyne_at	1
 RB_RB_WRB
 very_clearly_how	1
 away_even_when	1
--LRB-_PRP_VBZ
--LRB-_it_'s	1
--LRB-_he_goes	1
 :_NNP_NNP
 ..._Piper_Laurie	1
 ;_Jack_Lemmon	1
@@ -6751,9 +6569,10 @@ POS_VBD_DT
 's_constructed_a	1
 '_was_a	1
 NNS_,_DT
-roles_,_this	1
+moonriverisms_,_this	1
 fluids_,_the	1
 performances_,_the	1
+roles_,_this	1
 VBG_DT_PRP$
 foresaking_both_her	1
 VBZ_VBN_TO
@@ -6774,6 +6593,7 @@ brilliant_acting_and	1
 social_environment_and	1
 fantastic_actor_and	1
 touching_movie_and	1
+much_!!_but	1
 last_night_and	1
 wholesome_girl_and	1
 Great_movie_and	1
@@ -6785,6 +6605,7 @@ Anonymous_preachy_and	1
 ugly_habit_and	1
 alcoholic_couple_and	1
 great_shape_and	1
+young_friend_and	1
 NNS_RB_PRP$
 tears_apart_his	1
 NNP_POS_NN
@@ -6823,8 +6644,8 @@ ends_acquiring_a	1
 NN_WP_MD
 one_who_ca	1
 NNP_CD_NNP
+Russell_2537_East	1
 AK_99507-2489_This	1
-<br />_2537_East	1
 VBG_IN_NN
 altering_of_reality	1
 ,_VBP_RB
@@ -6849,11 +6670,8 @@ VBG_RP_IN
 gazing_out_at	1
 popping_up_on	1
 looking_down_on	1
-NN_NN_-LRB-
-AA_meeting_-LRB-	1
-Best_Actor_-LRB-	1
-AA_counselor_-LRB-	1
-Best_Actress_-LRB-	1
+IN_EX_VBZ
+if_there_is	1
 VBP_VBN_RP
 have_come_out	1
 IN_EX_VBD
@@ -6871,10 +6689,8 @@ VB_NN_RBR
 treat_woman_better	1
 NNP_FW_FW
 Artists_in_fhis	1
-FW_FW_RB
-<br />_<br />_Also	2
-<br />_<br />_Sadly	1
-<br />_<br />_Soon	1
+VBP_VBN_RB
+'ve_done_so	1
 DT_IN_PRP$
 all_of_his	1
 another_of_her	1
@@ -6885,17 +6701,16 @@ compare_them_to	1
 recommend_it_to	1
 VBZ_IN_VBG
 is_like_saying	1
+is_like_watching	1
+leaves_after_admitting	1
 's_like_peeling	1
 nods_of_trying	1
-leaves_after_admitting	1
-is_like_watching	1
+progresses_without_giving	1
 JJR_IN_PRP$
 deeper_into_their	1
 CC_DT_MD
 but_some_can	1
 and_that_can	1
-FW_FW_``
-<br />_<br />_`	1
 IN_IN_PRP$
 along_with_her	1
 because_of_her	1
@@ -6903,16 +6718,13 @@ NN_VBP_RBR
 maelstrom_are_more	1
 VBZ_IN_VBN
 has_since_become	1
-,_CC_PRP$
-,_but_her	1
-,_but_his	2
-,_and_her	1
-,_and_his	1
-,_but_its	2
-,_or_its	1
+NNS_NN_IN
+relations_man_in	1
+individuals_alcoholism_as	1
+eyes_sort_of	1
 NNP_IN_PRP
+!!_So_I	1
 Lemmon_as_we	1
-<br />_So_I	1
 Lemmon_in_it	1
 IN_CD_NN
 into_one_episode	1
@@ -6929,17 +6741,18 @@ was_genuine_and	1
 fell_flat_and	1
 NN_JJ_.
 something_extraordinary_.	1
-NNS_JJ_-LRB-
-Alcoholics_Anonymous_-LRB-	1
+RP_IN_NNS
+in_with_expectations	1
 JJ_NN_WDT
 merciless_story_which	1
 inner_strength_that	1
 poignant_movie_that	1
+drama-the_kind_that	1
 wonderful_movie_that	1
 only_film_that	1
 timeless_piece_that	1
 second_half_that	1
-drama-the_kind_that	1
+personal_opinion_which	1
 modern_life_that	1
 IN_NN_DT
 of_movie_this	1
@@ -6961,7 +6774,7 @@ NNP_,_DT
 Hungerford_,_a	1
 Remick_,_an	1
 Clay_,_a	3
-Remick_,_a	1
+Remick_,_a	2
 Clay_,_an	1
 Remick_,_the	1
 AA_,_the	1
@@ -6970,8 +6783,6 @@ Roberts_,_Some	1
 Yes_,_this	1
 Edward_,_the	1
 Arnesen_,_a	1
--RRB-_PRP_MD
--RRB-_they_will	1
 TO_DT_,
 to_this_,	1
 VBD_RB_VBN
@@ -7008,11 +6819,6 @@ outcome_is_uncertain	1
 score_is_beautiful	1
 result_becomes_violent	1
 direction_is_superb	1
-FW_FW_DT
-<br />_<br />_This	2
-<br />_<br />_Both	2
-<br />_<br />_The	10
-<br />_<br />_A	1
 ,_NN_,
 ,_confusion_,	1
 ,_Author_,	1
@@ -7026,20 +6832,18 @@ gets_well_.	1
 is_here_.	1
 NN_:_VB
 phrase_:_Hit	1
-NN_''_-LRB-
-Apartment_'_-LRB-	1
 VBZ_NN_TO
 finds_time_to	1
 POS_:_NNP
 's_-_Mister	1
-NN_-LRB-_WP$
-scene_-LRB-_whose	1
 RB_RB_VB
 n't_even_breach	1
 just_completely_wow	1
 JJ_NNP_NN
 happy_Hollywood_ending	1
 big_Hollywood_version	1
+NN_RB_WRB
+meeting_back_when	1
 NN_RB_DT
 movie_once_a	1
 VBP_JJ_TO
@@ -7055,7 +6859,6 @@ their_addiction_to	1
 my_mom_to	1
 JJ_:_NN
 truthful_;_something	1
-other_..._<br />	1
 NN_RP_CC
 comedy_down_and	1
 VB_WP_NN
@@ -7107,8 +6910,6 @@ PRP_VB_DT
 I_recommend_this	1
 IN_DT_,
 of_all_,	1
-NNS_,_VBZ
-parties_,_drives	1
 DT_NNS_WP
 the_millions_who	1
 CC_PRP_VBD
@@ -7177,6 +6978,7 @@ NNS_PRP_VBD
 years_she_sent	1
 NNP_VBN_IN
 Hungerford_played_by	1
+Edwards_known_for	1
 Lemmon_aided_by	1
 Clay_played_by	1
 NNS_VBP_IN
@@ -7257,25 +7059,12 @@ RP_CC_VBD
 out_and_made	1
 ,_RB_TO
 ,_always_to	1
-NN_FW_FW
-order_<br />_<br />	1
 RB_NN_.
 ultimately_tragedy_.	1
 absolutely_anything_.	1
 not_COLOR_.	1
-NN_-RRB-_,
-role_-RRB-_,	1
-Mockingbird_-RRB-_,	1
-meeting_-RRB-_,	1
-year_-RRB-_,	1
 RP_CC_VBZ
 over_and_affects	1
-NN_-RRB-_.
-Worker_-RRB-_.	1
-shape_-RRB-_.	1
-manifesto_-RRB-_.	1
-role_-RRB-_.	1
-time_-RRB-_.	1
 VBP_IN_NNP
 believe_that_Jack	1
 feel_that_Lemon	1
@@ -7283,12 +7072,8 @@ VBP_IN_NNS
 are_like_milkshakes	1
 pass_by_DAYS	1
 transform_from_lovers	1
-NN_-LRB-_JJ
-mine_-LRB-_young	1
-baby_-LRB-_mammary	1
-everyone_-LRB-_alcoholic	1
-POS_-RRB-_VBZ
-'s_-RRB-_makes	1
+NN_:_VBN
+search_-_shown	1
 IN_CD_IN
 with_one_of	1
 At_one_of	1
@@ -7299,13 +7084,20 @@ among_one_of	1
 in_one_of	2
 DT_NN_JJR
 this_film_more	1
+IN_NN_JJ
+of_mine_young	1
+that_everyone_alcoholic	1
 ,_TO_VB
 ,_to_understand	1
 ,_to_become	1
 ,_to_get	1
 ,_to_deliver	1
-PRP_VBP_VBD
-they_<br />_drowned	1
+JJ_IN_VBG
+guilty_of_offering	1
+same_after_seeing	1
+own_while_trying	1
+separate_after_having	1
+guilty_over_pushing	1
 PRP_VBP_VBG
 I_suggest_watching	1
 you_are_teetering	1
@@ -7380,9 +7172,12 @@ is_boozing_just	1
 ,_DT_VBZ
 ,_the_smells	1
 ,_this_is	6
--RRB-_,_NNP
--RRB-_,_Peter	1
--RRB-_,_Joe	1
+NN_:_DT
+alcoholism_:_the	2
+start_;_the	1
+recovery_;_the	2
+film_-_a	1
+relapse_;_the	1
 NNS_,_NNP
 clients_,_Kirsten	1
 nominations_,_Lemmon	1
@@ -7429,8 +7224,6 @@ DT_JJR_NNS
 the_fewer_facts	1
 VBD_VBN_.
 were_filmed_.	1
--LRB-_CC_VBZ
--LRB-_and_apologizes	1
 VBD_VBN_,
 was_based_,	1
 VB_VBN_NN
@@ -7439,6 +7232,7 @@ IN_PRP_VBD
 that_I_felt	1
 if_it_wanted	1
 while_it_was	1
+since_they_drowned	1
 After_I_had	1
 since_it_was	1
 as_I_got	1
@@ -7460,6 +7254,8 @@ that_it_was	2
 as_it_led	1
 of_them_had	1
 though_I_did	1
+IN_PRP_VBG
+of_them_suffering	1
 IN_PRP_VBZ
 if_he_comes	1
 that_it_is	1
@@ -7496,6 +7292,7 @@ if_we_'re	1
 if_you_feel	1
 if_you_take	1
 than_they_are	1
+like_me_want	1
 If_you_get	1
 because_I_love	1
 than_we_are	1
@@ -7506,7 +7303,6 @@ as_I_remember	1
 while_I_'ve	1
 if_you_get	1
 that_you_cant	1
-since_they_<br />	1
 that_you_have	1
 that_I_wish	1
 as_they_say	1
@@ -7524,6 +7320,8 @@ that_bottle_even	1
 VB_NNP_IN
 place_Joe_on	1
 get_Lemmon_into	1
+IN_PRP_TO
+of_you_to	1
 DT_JJS_JJ
 the_least_pleasant	1
 VBG_NNP_,
@@ -7547,9 +7345,8 @@ DT_JJ_TO
 an_alcoholic_to	1
 the_first_to	2
 the_positive_to	1
--LRB-_RB_WRB
--LRB-_back_when	1
 NN_._.
+melodrama_._.	1
 version_._.	1
 CC_PRP$_JJ
 but_its_complex	1
@@ -7566,8 +7363,6 @@ drink_when_confronted	1
 TO_VB_CD
 to_encourage_one	1
 to_take_one	1
-NNP_-RRB-_TO
-Klugman_-RRB-_to	1
 VB_PRP_IN
 steer_them_in	1
 help_her_through	1
@@ -7609,10 +7404,11 @@ worse_for_her	1
 more_of_her	1
 prettier_than_they	1
 more_for_it	1
-VBG_RP_NN
-drying_out_unit	1
-NN_-LRB-_DT
-textbook_-LRB-_the	1
+IN_JJ_CD
+like_other_12	1
+in_early_1974	1
+PRP_,_IN
+him_,_if	1
 RB_,_VBP
 instead_,_become	1
 CC_NNS_.
@@ -7653,14 +7449,6 @@ decency_and_integrity	1
 time_and_place	1
 laugh_or_cry	1
 haunting_and_quiet	1
-NNP_-LRB-_NNP
-Madison_-LRB-_Jack	1
-Arnesen_-LRB-_Charles	1
-Unger_-LRB-_Jack	1
-Kirsten_-LRB-_Remick	1
-Arnesen_-LRB-_Lee	2
-Hungerford_-LRB-_Jack	2
-Clay_-LRB-_Jack	1
 IN_PRP_CC
 around_him_or	1
 in_her_or	1
@@ -7699,8 +7487,6 @@ the_meetings_,	1
 the_fluids_,	1
 the_ruins_,	1
 the_times_,	1
-._-RRB-_.
-._-RRB-_.	1
 NN_VBD_DT
 song_won_the	1
 film_used_this	1
@@ -7761,8 +7547,6 @@ Yes_,_someone	1
 yes_,_woman	1
 RB_NN_DT
 ever_grace_the	1
-:_PRP_VBP
-..._I_am	1
 PRP_MD_CC
 You_may_or	1
 ''_WDT_DT
@@ -7772,6 +7556,9 @@ and_10_times	1
 but_two_characters	1
 DT_RB_CC
 an_up_and	2
+NNP_NNP_TO
+Jack_Klugman_to	1
+Atticus_Finch_To	1
 JJ_NNS_RBR
 several_times_more	1
 RB_CD_JJ
@@ -7782,8 +7569,8 @@ how_alcohol_is	1
 when_one_is	1
 PRP_VBD_VB
 I_did_find	1
-,_IN_VBZ
-,_as_does	1
+NNS_CC_VBG
+girls_and_drinking	1
 JJ_NNS_PRP
 pleasant_movies_you	1
 sinister_moments_you	1
@@ -7858,8 +7645,6 @@ great_comedies_in	1
 Adult_Children_of	1
 other_movies_about	1
 modern_pieces_like	1
--RRB-_RB_VBD
--RRB-_also_won	1
 RB_RB_IN
 as_much_into	1
 not_only_in	1
@@ -7874,17 +7659,12 @@ as_well_as	3
 so_instead_of	1
 as_strongly_that	1
 all_there_in	1
-FW_WRB_PRP
-<br />_When_I	1
-NN_-LRB-_VB
-junk_-LRB-_forgive	1
 VBD_``_RB
 got_``_scared	1
 NN_RB_VBD
 movie_first_came	1
 world_really_was	1
 actress_probably_underrated	1
-<br />_highly_recommended	1
 NNS_IN_NNP
 favorites_with_Jack	1
 efforts_like_LEAVING	1
@@ -7913,13 +7693,10 @@ CC_NN_NNS
 and_mug_shots	1
 and_recovery_films	1
 and_cable_programs	1
-FW_FW_TO
-<br />_<br />_To	1
 RB_NNS_VBP
 emotionally_draining.i_do	1
--LRB-_IN_DT
--LRB-_By_the	1
--LRB-_ala_The	1
+PRP_CD_NN
+it_one_day	1
 RB_VB_WRB
 n't_know_how	1
 VBG_,_VB
@@ -7948,8 +7725,8 @@ man_his_lack	1
 dream_our_path	1
 IN_WP_PRP
 of_whom_it	1
-VBD_IN_,
-came_out_,	1
+CD_POS_VBZ
+80_'s_makes	1
 VB_DT_VBZ
 see_this_suggests	1
 NNS_NNP_NNP
@@ -8000,9 +7777,11 @@ forget_the_haunting	1
 ,_JJ_IN
 ,_hung_over	1
 ,_other_than	1
-PRP_VBZ_RP
-He_meets_up	1
-it_stands_up	1
+PRP_,_CC
+him_,_and	1
+it_,_and	1
+me_,_and	1
+himself_,_and	1
 JJ_NN_''
 tough_love_''	1
 good_feeling_''	1
@@ -8018,8 +7797,6 @@ another_and_then	1
 JJS_JJ_NNS
 most_unrealistic_movies	1
 least_pleasant_movies	1
-NNS_-LRB-_NNP
-leads_-LRB-_Milland	1
 CD_NNS_TO
 two_ways_to	1
 VBP_PRP_RB
@@ -8028,11 +7805,15 @@ VBP_JJ_NN
 am_afraid_everyone	1
 PRP$_NNS_VB
 their_lives_spin	1
+VBD_NNS_IN
+were_movies_like	1
 NNS_RB_NN
 lives_quickly_spiral	1
 years_later_alcohol	1
--LRB-_IN_RB
--LRB-_about_not	1
+VBZ_IN_RB
+emerges_for_awhile	1
+shows_that_not	1
+lectures_about_not	1
 VBP_PRP_TO
 have_themselves_to	1
 DT_VBN_IN
@@ -8049,8 +7830,6 @@ RB_WP_VBZ
 just_what_happens	1
 DT_CD_VBP
 those_two_revolve	1
-FW_EX_VBZ
-<br />_There_is	3
 NNS_VBN_CC
 lives_deteroiated_and	1
 JJS_NN_NNS
@@ -8064,14 +7843,12 @@ DT_VBG_IN
 both_believing_that	1
 this_altering_of	1
 the_sneaking_of	1
--RRB-_CC_DT
--RRB-_and_the	2
+RP_DT_NNS
+away_these_dangers	1
 NN_:_:
 love_-_-	1
 era_-_-	1
 sponsor_-_-	1
-IN_,_UH
-although_,_yes	1
 VBG_VBN_IN
 being_presented_in	1
 being_wrecked_by	1
@@ -8096,8 +7873,6 @@ Joe_ca_n't	1
 Clay_can_not	1
 Kirsten_can_not	1
 Lemmon_would_easily	1
-NNS_JJ_-RRB-
-Alcoholics_Anonymous_-RRB-	1
 CC_IN_NNS
 and_at_times	1
 NNS_TO_NN
@@ -8128,8 +7903,6 @@ fare_,_as	1
 shame_,_because	1
 :_IN_CC
 --_with_both	1
--LRB-_JJ_-RRB-
--LRB-_ish_-RRB-	1
 VBN_,_IN
 forced_,_by	1
 NNP_,_RB
@@ -8171,15 +7944,15 @@ get_sober_.	1
 become_entangled_.	1
 be_easy_.	1
 Be_careful_!	1
-JJ_NN_-RRB-
-much_!!_-RRB-	1
-same_time_-RRB-	1
-luminous_beauty_-RRB-	1
-young_friend_-RRB-	1
-mammary_envy_-RRB-	1
-FW_DT_NNP
-<br />_Both_Remick	2
-<br />_The_Director	1
+RB_,_RB
+awhile_,_then	1
+away_,_then	1
+thus_,_never	1
+Now_,_just	1
+Slowly_,_painfully	1
+Here_,_though	1
+JJ_WP_VBZ
+alcoholic_who_has	1
 VBG_CD_IN
 creating_three_of	1
 VBZ_VBN_VBN
@@ -8193,14 +7966,15 @@ wife_,_who	1
 clay_,_who	1
 beauty_,_who	1
 NN_NNP_NN
+movie_iTunes_version	1
 post_WWII_era	1
 VBP_VBG_NNP
 consider_joining_ACOA	1
 RB_RB_VBP
 not_only_do	1
 probably_only_want	1
-FW_FW_EX
-<br />_<br />_There	4
+RB_,_PRP$
+though_,_his	1
 ,_VB_CC
 ,_marry_and	2
 WRB_TO_RB
@@ -8261,12 +8035,6 @@ lives_--_with	1
 CD_VBZ_DT
 one_is_both	1
 one_is_no	1
-FW_NNP_NNP
-<br />_Stevie_Marie	1
-<br />_Jack_Lemmon	1
-<br />_Lee_Remick	1
-<br />_Joe_Clay	1
-<br />_Blake_Edwards	1
 RB_VB_CC
 not_drink_but	1
 VB_PRP_VBD
@@ -8276,23 +8044,17 @@ WWII_era_and	1
 Odd_Couple_and	1
 VBZ_CC_PRP$
 is_but_its	1
-JJ_-LRB-_NNP
-Anonymous_-LRB-_Jack	1
 ,_MD_VB
 ,_can_sense	1
 ,_can_bring	1
 VB_PRP_VBZ
 say_it_is	1
-<p>_It_is	1
-VBG_IN_NNS
-drowning_in_moonriverisms	1
-suffering_from_addictions	1
+WP_DT_RB
+what_a_tremendously	1
 VB_PRP_VBP
 mean_you_'re	1
 VBZ_RP_DT
 takes_up_all	1
--RRB-_IN_NNS
--RRB-_in_scenes	1
 JJ_,_RB
 comic_,_turn	1
 true_,_once	1
@@ -8301,6 +8063,7 @@ awkward_,_not	1
 hopeless_,_not	1
 tragic_,_not	1
 great_,_however	1
+underrated_,_undoubtedly	1
 same_,_even	1
 pertinent_,_so	1
 IN_PRP$_NNP
@@ -8350,8 +8113,6 @@ RB_``_NNP
 not_``_Lost	1
 NNS_VBZ_VBN
 lives_is_shown	1
--RRB-_,_WP
--RRB-_,_who	1
 VBP_JJ_CC
 give_stark_and	1
 NN_:_``
@@ -8368,6 +8129,7 @@ Anchorage_,_AK	1
 Indemnity_,_Sunset	1
 Kiersten_,_Lee	1
 Lemmon_,_Lemmon	1
+Klugman_,_Joe	1
 AA_,_Joe	1
 Lemmon_,_Lee	1
 ``_JJ_NN
@@ -8403,6 +8165,8 @@ their_lives_deteroiated	1
 NN_DT_JJR
 film_a_better	1
 narrative_the_better	1
+NNP_RB_,
+Remick_sadly_,	1
 RB_VBD_JJR
 never_did_better	1
 VBN_RP_IN
@@ -8427,8 +8191,6 @@ got_home_from	1
 withheld_look_at	1
 received_help_for	1
 were_focus_on	1
-NNP_-RRB-_WRB
-Klugman_-RRB-_where	1
 CC_RB_JJ
 and_dramatically_sound	1
 and_frighteningly_realistic	1
@@ -8472,8 +8234,6 @@ somewhere_between_those	1
 instead_of_the	1
 firmly_on_the	1
 else_in_the	1
-NN_-LRB-_WP
-mockingbird_-LRB-_who	1
 NNP_,_TO
 Remick_,_to	1
 NNP_IN_NNP
@@ -8489,6 +8249,7 @@ DAYS_OF_WINE	1
 Madison_in_Neil	1
 NNP_IN_NNS
 Lemmon_for_Days	1
+Lemmon_in_scenes	1
 WRB_JJ_JJR
 how_many_younger	1
 ,_''_CC
@@ -8501,8 +8262,8 @@ she_left_at	1
 they_got_as	1
 he_had_with	1
 we_rented_through	1
-NNP_-LRB-_RB
-Remick_-LRB-_sadly	1
+NNS_,_VBZ
+parties_,_drives	1
 VBN_IN_JJS
 remembered_by_most	1
 VBZ_CC_JJ
@@ -8512,8 +8273,6 @@ he_or_wo	1
 NNS_,_VBP
 efforts_,_are	1
 alcoholics_,_are	1
-:_NN_VBG
-..._<br />_being	1
 NNS_,_VBN
 ROSES_,_developed	1
 ruins_,_buoyed	1
@@ -8535,9 +8294,6 @@ you_'re_one	1
 they_are_one	1
 NN_IN_VBD
 sort_of_had	1
-NN_-LRB-_PRP
-character_-LRB-_he	1
-work_-LRB-_it	1
 :_PRP_MD
 ..._he_might	1
 NNP_VBZ_NN
@@ -8559,27 +8315,19 @@ he_hid_.	1
 PRP_VBD_,
 he_was_,	1
 She_did_,	1
-NN_-LRB-_NNP
-Actor_-LRB-_Jack	1
-fiancee_-LRB-_Lee	1
-Actress_-LRB-_Lee	1
-father_-LRB-_Charles	1
-counselor_-LRB-_Jack	1
-NN_-LRB-_NNS
-AA_-LRB-_Alcoholics	1
 RB_VBZ_.
 never_recovers_.	1
-PRP$_IN_DT
-his_in_a	1
+NN_IN_VBN
+viewpoint_as_apposed	1
+alcoholism_as_opposed	1
 VB_NN_JJ
 have_something_funny	1
 DT_JJS_IN
 the_best_about	1
 the_best_of	1
-FW_IN_PRP
-<br />_If_you	1
+RB_TO_JJ
+off_to_various	1
 NNP_NNP_NNS
-<br />_Immediate_associations	1
 Blake_Edwards_Days	1
 Jack_Lemmon_memorabilia	1
 Acting_Oscar_nominations	1
@@ -8589,32 +8337,36 @@ it_years_ago	1
 NNP_NNP_NNP
 Featuring_Jack_Lemmon	1
 A.A._Counselor_Jim	1
-<p>_Jack_Klugman	1
 Corporate_Suburban_America	1
-<br />_Blake_Edward	1
 East_70th_Avenue	1
 COULARDEAU_Blake_Edwards	1
 WINE_AND_ROSES	1
+Madison_Jack_Klugman	1
 Director_Blake_Edwards	4
 Piper_Laurie_!!	1
-Color_!!_<br />	1
-Philip_H._Lathrop	1
-J._P._Miller	1
-Vitae_Summa_Brevis	1
-<p>_Jack_Lemmon	1
-Stevie_Marie_Russell	1
-Avenue_<br />_Anchorage	1
 Jacques_COULARDEAU_Blake	1
-<br />_D._Mikels	1
+Oscar_Madison_Jack	1
+Philip_H._Lathrop	1
+70th_Avenue_Anchorage	1
+J._P._Miller	1
+Unger_Jack_Lemmon	1
+Stevie_Marie_Russell	1
+Clay_Jack_Lemmon	1
 Alcoholism_Stanley_Kramer	1
+Kirsten_Arnesen_Lee	2
 LEAVING_LAS_VEGAS	1
-Marie_Russell_<br />	1
+Ellis_Arnesen_Charles	1
 Irma_La_Duce	1
 Counselor_Jim_Hungerford	1
-70th_Avenue_<br />	1
+Joe_Clay_Jack	1
+Felix_Unger_Jack	1
 Las_Vegas_</a>	1
 Robert_O._I	1
-<br />_Jack_Lemmon	1
+Hungerford_Jack_Klugman	2
+Jim_Hungerford_Jack	2
+Vitae_Summa_Brevis	1
+Arnesen_Charles_Bickford	1
+Arnesen_Lee_Remick	2
 Great_Jack_Lemmon	1
 NN_WP_VBP
 couple_who_fall	1
@@ -8623,6 +8375,8 @@ couple_who_meet	1
 VB_RB_JJ
 be_too_bland	1
 be_so_painful	1
+NN_WDT_PRP
+opinion_which_I	1
 VBZ_RB_RB
 is_not_really	1
 affects_not_only	1
@@ -8638,6 +8392,8 @@ is_so_very	1
 is_also_really	1
 does_n't_even	1
 is_just_as	2
+NN_''_VBN
+Apartment_'_made	1
 NNPS_VBD_DT
 Roses_was_a	1
 ,_CC_PRP
@@ -8685,9 +8441,6 @@ VB_RB_JJR
 go_down_quicker	1
 NNPS_POS_VBZ
 Roses_'_is	2
-RB_-RRB-_,
-anymore_-RRB-_,	1
-here_-RRB-_,	1
 NNP_NN_IN
 Prime_example_of	1
 UK_DVD_in	1
@@ -8715,31 +8468,22 @@ NN_VBZ_WRB
 incident_follows_where	1
 NNP_NNPS_NN
 Public_Relations_agent	1
-VBZ_VBG_.
-is_drinking_.	1
-finds_disarming_.	1
 VB_PRP_RB
+wow_me_here	1
 watch_it_again	1
 let_'s_not	1
-wow_me_here	1
 Thank_you_so	1
-<br />_I_highly	1
 see_it_instead	1
 VB_VBG_PRP$
 stop_nursing_her	1
 VBZ_VBN_PRP
 has_flubbed_it	1
-NNP_-RRB-_IN
-Klugman_-RRB-_from	1
-Lemmon_-RRB-_in	1
 MD_RB_.
 can_not_.	1
 NNP_VB_DT
 IT_tell_the	1
 POS_JJ_NNS
 's_violent_moods	1
-VBP_VBD_RP
-<br />_drowned_out	1
 NNP_NNP_''
 Las_Vegas_''	1
 Virginia_Woolf_''	1
@@ -8761,8 +8505,8 @@ MD_VB_.
 can_do_.	1
 can_help_.	1
 should_watch_!	1
-VB_NN_TO
-do_anything_to	1
+PRP$_IN_DT
+his_in_a	1
 MD_VB_CD
 can_influence_one	1
 might_be_one	1
@@ -8820,11 +8564,11 @@ the_greenhouse_search	1
 the_film_version	1
 a_freight_train	1
 a_Jazz_club	1
--LRB-_CC_RB
--LRB-_or_seemingly	1
-FW_DT_VBZ
-<br />_This_is	1
+VBG_IN_NNS
+drowning_in_moonriverisms	1
+suffering_from_addictions	1
 NN_PRP_RB
+Onion_I_still	1
 joy_they_personally	1
 rat-race_he_always	1
 !!_I_just	1
@@ -8860,7 +8604,6 @@ I_found_took	1
 VB_PRP$_NN
 do_his_job	1
 ruin_her_shape	1
-<br />_His_performance	1
 help_his_wife	1
 rip_your_heart	1
 change_your_life	1
@@ -8869,7 +8612,6 @@ get_my_mom	1
 raise_his_daughter	1
 face_his_wife	1
 market_his_boss	1
-<br />_His_acting	1
 fight_his_disease	1
 NNS_JJ_IN
 epigrams_full_of	1
@@ -8879,8 +8621,6 @@ is_even_more	1
 PRP_IN_NNP
 it_on_TCM	1
 it_if_Remick	1
-NNS_''_-LRB-
-bums_'_-LRB-	1
 PRP_IN_CD
 me_at_907-440-6910	1
 CC_VBG_NN
@@ -8965,6 +8705,8 @@ PRP$_DT_RB
 Its_a_beautifully	1
 VBP_JJ_RB
 are_scary_indeed	1
+JJ_NN_WP$
+Anonymous_scene_whose	1
 NNP_VBD_TO
 Milton_used_to	1
 NN_RB_JJ
@@ -8972,11 +8714,9 @@ bit_as_brilliant	1
 A_very_well-made	1
 look_so_hopeless	1
 film_so_powerful	1
-CC_DT_IN
-and_Some_Like	1
-and_all_of	1
-NN_-LRB-_WDT
-opinion_-LRB-_which	1
+RB_RB_TO
+out_there_to	1
+really_down_to	1
 NNPS_''_RB
 Roses_''_even	1
 Roses_''_again	1
@@ -8990,7 +8730,6 @@ problem_and_how	1
 era_and_how	1
 alcoholism_and_when	1
 NN_RB_,
-<p>_Soon_,	1
 plot_really_,	1
 fun_anymore_,	1
 problem_there_,	1
@@ -9020,7 +8759,6 @@ take_a_sip	1
 conquer_the_addiction	1
 climb_the_ladder	1
 kill_a_mockingbird	1
-<br />_This_item	1
 direct_a_comedy	1
 be_a_downfall	1
 see_the_movie	1
@@ -9045,9 +8783,7 @@ watch_the_movie	1
 sound_a_bit	1
 show_an_AA	1
 be_a_disappointment	1
-<br />_The_ending	1
 take_another_drink	1
-<br />_The_music	1
 sense_some_urgency	1
 review_an_item	1
 Forget_the_melodrama	1
@@ -9111,11 +8847,11 @@ forget_Henry_Mancini	1
 Imagine_Mr_Baxter	1
 RB_:_PRP$
 too_-_his	1
--RRB-_MD_VB
--RRB-_would_gain	1
 :_PRP_VBD
 ;_I_remembered	1
 ..._I_had	1
+TO_CC_VBZ
+to_and_apologizes	1
 VBN_JJ_NN
 believed_good_life	1
 NNS_CC_JJ
@@ -9125,9 +8861,6 @@ lunches_and_after-hours	1
 alcoholics_and_separate	1
 VBD_CD_VBN
 had_two_failed	1
-VB_VBN_RB
-have_been_so	1
-be_lost_forever	1
 TO_NNS_RB
 to_alcoholics_everywhere	1
 PRP_VBZ_DT
@@ -9186,6 +8919,7 @@ only_have_themselves	1
 JJ_NNP_NNS
 many_Lemmon_fans	1
 JJ_NNP_NNP
+superb_Lee_Remick	1
 busy-body_Joe_Clay	1
 classic_Henry_Mancini	1
 late_Jack_Lemmon	2
@@ -9194,7 +8928,8 @@ lovely_Lee_Remick	1
 comedic_Jack_Lemmon	1
 former_Miss_Kubelik	1
 late_Lee_Remick	1
-superb_Lee_Remick	1
+Anonymous_Jack_Klugman	1
+pretty_Kirsten_Remick	1
 great_Blake_Edwards	1
 NN_._''
 dream_._''	1
@@ -9207,6 +8942,7 @@ TO_RB_RB
 to_just_completely	1
 RB_RB_PRP
 Very_soon_it	1
+much_away_they	1
 VBZ_JJ_:
 is_fabulous_;	1
 gets_drunk_--	1
@@ -9216,9 +8952,10 @@ never_even_started	1
 never_really_got	1
 VBD_VBG_NN
 meant_getting_party	1
--LRB-_PRP_VBP
--LRB-_I_have	1
--LRB-_I_miss	1
+RB_VBD_CC
+ever_was_and	1
+JJ_WDT_RB
+believable_Which_certainly	1
 RB_RB_VBN
 so_relentlessly_engaged	1
 really_well_acted	1
@@ -9311,6 +9048,7 @@ POS_,_DT
 '_,_the	1
 '_,_a	1
 VB_IN_DT
+procure_ala_The	1
 look_for_the	1
 be_in_the	1
 portray_in_a	1
@@ -9357,8 +9095,6 @@ NNS_VBZ_DT
 ROSES_is_a	2
 PRP$_JJ_:
 their_drunk_;	1
-PRP_-RRB-_VBP
-me_-RRB-_want	1
 VB_RP_DT
 dry_out_the	1
 loosen_up_a	1
@@ -9367,8 +9103,6 @@ muster_up_the	1
 DT_JJ_NNPS
 the_obligatory_Alcoholics	1
 a_little_Alcoholics	1
-VBZ_NN_-LRB-
-starts_smoking_-LRB-	1
 IN_NNS_TO
 of_actors_to	1
 for_people_to	1
@@ -9399,7 +9133,9 @@ or_to_show	1
 or_to_keep	1
 PRP$_NN_NNP
 their_daughter_Debbie	1
+her_father_Charles	1
 her_father_Ellis	1
+his_fiancee_Lee	1
 his_wife_Lee	1
 PRP_VBZ_PRP
 it_makes_it	1
@@ -9423,8 +9159,6 @@ IN_NNS_RB
 at_times_pretty	1
 WDT_RB_VBD
 that_always_ended	1
-FW_PRP_DT
-<br />_They_both	1
 PRP$_JJS_CC
 their_best_and	1
 TO_PRP$_NN
@@ -9432,14 +9166,12 @@ to_her_addiction	1
 to_my_mom	1
 to_her_art	1
 NN_RB_TO
-spiral_downward_to	1
 mom_off_to	1
+spiral_downward_to	1
 merit_not_to	1
-POS_VBG_RB
-'s_going_hysterically	1
--LRB-_DT_JJ
--LRB-_the_loud	1
--LRB-_a_little	1
+smoking_probably_to	1
+,_IN_VBZ
+,_as_does	1
 DT_JJR_IN
 a_better_than	1
 VBN_TO_IN
@@ -9457,8 +9189,6 @@ becoming_a_Billy	1
 VBG_DT_NNS
 watching_the_transformations	1
 isolating_the_causes	1
--RRB-_,_PRP
--RRB-_,_she	1
 NN_TO_NN
 descent_to_hell	1
 opposite_to_joe.somehow	1
@@ -9526,14 +9256,13 @@ felt_Lemmon_'s	1
 ,_Lemmon_was	1
 NN_NN_VBP
 county_asylum_are	1
+information_film_are	1
 VB_NN_CC
 be_coffee_or	1
 stop_drinking_and	1
 balance_drama_and	1
 NN_NNP_.
 daughter_Debbie_.	1
-NNP_-RRB-_NN
-Lemon_-RRB-_Best	1
 IN_VBG_RB
 without_giving_too	1
 for_producing_much	1
@@ -9568,6 +9297,8 @@ title_song_won	1
 father/my_grandfather_was	1
 VBP_NN_NNS
 love_addiction_movies	1
+POS_VBZ_PRP$
+'s_makes_his	1
 VB_IN_:
 begin_with_--	1
 IN_PRP$_JJ
@@ -9623,8 +9354,6 @@ PRP_VBD_TO
 it_led_to	1
 it_wanted_to	1
 he_introduced_to	1
-''_-LRB-_VBN
-'_-LRB-_made	1
 NNS_RB_:
 years_ago_;	1
 POS_CC_RB
@@ -9642,8 +9371,6 @@ and_booze_and	1
 or_cry_and	1
 and_woman_and	1
 or_tea_or	1
-FW_PRP$_DT
-<br />_Its_a	1
 PRP$_NN_WRB
 his_home_where	1
 CC_NN_WRB
@@ -9653,29 +9380,17 @@ each_other_deeply	1
 an_alcoholic_too	1
 A_second_very	1
 an_alcoholic_always	1
-FW_``_NNS
-<br />_`_Days	1
 NNP_NNS_NNP
 Boston_natives_Jack	1
-NN_JJ_CC
-something_funny_and	1
-film_major_and	1
-bit_strident_and	1
 VBD_IN_IN
 went_along_with	1
 underrated_because_of	1
 seemed_out_of	1
-MD_VB_TO
-'d_have_to	1
-could_lead_to	1
-can_bring_to	1
-may_happen_to	1
-can_do_to	1
-'d_like_to	1
-could_talk_to	1
-can_take_to	1
-can_walk_to	1
-will_have_to	1
+NNP_NNP_DT
+Annie_Sullivan_The	1
+Jack_Klugman_all	1
+Big_Book_the	1
+Jack_Klugman_another	1
 RB_RB_,
 so_clearly_,	1
 right_away_,	1
@@ -9713,6 +9428,7 @@ not_being_preachy	1
 ever_getting_preachy	1
 not_being_clever	1
 JJ_DT_JJ
+great_a_little	1
 such_a_huge	1
 disappointing_a_strict	1
 PRP_DT_NNP
@@ -9751,10 +9467,8 @@ good_stiff_drink	1
 great_American_film	1
 such_purple-ish_production	1
 whole_new_perspective	1
-<br />_Great_Movie	1
 unexpected_dramatic_prowess	1
 nice_cheap_evening	1
-<br />_Wonderful_support	1
 RP_IN_NN
 up_on_cable	1
 out_as_fun	1
@@ -9764,10 +9478,6 @@ NNP_,_IN
 America_,_before	1
 Remick_,_despite	1
 Bickford_,_as	1
-FW_FW_PRP$
-<br />_<br />_Its	1
-IN_EX_VBZ
-if_there_is	1
 JJ_CC_MD
 alcoholic_and_should	1
 WDT_VBZ_IN
@@ -9783,14 +9493,10 @@ afterward_Joe_has	1
 then_Kirsten_is	1
 NN_RB_''
 fun_again_''	1
-FW_CC_WRB
-<br />_But_when	1
 WRB_DT_JJ
 when_the_social	1
 NNS_POS_JJ
 filmmakers_'_elitist	1
-CC_RB_-RRB-
-or_not_-RRB-	1
 IN_RB_CD
 that_almost_50	1
 in_probably_40	1
@@ -9835,6 +9541,8 @@ and_Roses_.	1
 NNP_NNS_RB
 Hollywood_films_afterall	1
 Lemmon_tears_apart	1
+''_VBN_IN
+'_made_about	1
 VBD_JJR_NN
 did_better_work	1
 TO_VBG_PRP
@@ -9913,11 +9621,6 @@ CC_VBZ_.
 and_Promises_.	1
 RB_``_IN
 totally_``_in	1
-JJ_NN_PRP
-alcohol-free_environment_he	1
-first_time_I	1
-secret_line_you	1
-versatile_actor_he	1
 IN_VBG_``
 after_catching_``	1
 VBD_JJ_TO
@@ -9939,8 +9642,8 @@ have_liked_to	1
 VB_RB_WP
 understand_exactly_what	1
 thats_just_what	1
-FW_FW_UH
-<br />_<br />_Please	1
+:_PRP_VBP
+..._I_am	1
 WRB_JJ_DT
 how_realistic_this	1
 how_great_the	2
@@ -10049,8 +9752,6 @@ in_a_mental	1
 of_the_physical	1
 JJS_NNS_,
 finest_performances_,	1
--LRB-_NNP_CC
--LRB-_Milland_&	1
 RB_DT_NNS
 especially_these_days	1
 so_the_films	1
@@ -10068,12 +9769,8 @@ VBN_VBN_IN
 been_disappointed_with	1
 ''_,_IN
 ''_,_for	1
-DT_NN_-RRB-
-a_year_-RRB-	1
-an_Onion_-RRB-	1
-a_Mockingbird_-RRB-	1
-this_role_-RRB-	1
-The_Apartment_-RRB-	1
+PRP$_NN_WP
+my_son_who	1
 NN_WRB_VBN
 booze_when_started	1
 JJS_NN_.
@@ -10125,13 +9822,10 @@ some_can_be	1
 A_must_have	1
 DT_JJ_WRB
 an_alcoholic_when	1
-FW_RB_,
-<br />_Sadly_,	1
-<br />_Also_,	2
+''_CC_JJ
+''_and_few	1
 NNS_NNP_PRP$
 comments_Mirror_your	1
-RP_DT_NNS
-away_these_dangers	1
 CC_JJ_:
 and_bitter_;	1
 :_PRP_VBZ
@@ -10139,14 +9833,13 @@ and_bitter_;	1
 --_he_gets	1
 PRP_NNP_.
 it_Hot_.	1
-FW_RB_PRP
-<br />_Soon_they	1
 ,_VBZ_CD
 ,_is_one	1
 JJ_JJ_NNS
 other_hard_liquirs	1
 several_unforgettable_images	1
 many_unspoken_parts	1
+young_ish_stars	1
 several_aborted_attempts	1
 many_engrossing_scenes	1
 great_comic_actors	1
@@ -10179,6 +9872,7 @@ NN_VBZ_IN
 support_comes_from	1
 moment_comes_in	1
 boyfriend_does_for	1
+film_progresses_without	1
 parenting_suffers_for	1
 path_emerges_for	1
 movie_is_about	1
@@ -10260,8 +9954,6 @@ up_the_narrative	1
 down_a_notch	1
 VB_NNS_CC
 become_alcoholics_and	1
-POS_NN_``
-'s_film_``	1
 VBD_RB_JJ
 was_quite_powerful	1
 was_really_pitiful	1
@@ -10381,8 +10073,8 @@ relations_and_can	1
 VBZ_,_``
 is_,_``	1
 says_,_``	1
-IN_PRP_TO
-of_you_to	1
+VB_NN_TO
+do_anything_to	1
 ``_VBG_JJ
 ``_Leaving_Last	1
 NN_IN_DT
@@ -10452,7 +10144,7 @@ end_of_the	2
 client_under_the	1
 fare_in_the	1
 half_of_the	1
-square_on_the	1
+object_of_the	2
 statement_on_the	2
 film_of_this	1
 preachiness_in_a	1
@@ -10493,7 +10185,7 @@ culture_of_the	1
 instance_in_the	1
 film_because_the	1
 heart_of_the	1
-object_of_the	2
+square_on_the	1
 pressure_of_a	2
 realism_of_the	1
 Anatomy_of_a	1
@@ -10536,9 +10228,7 @@ reflection_of_a	1
 representation_of_the	1
 culture_of_a	1
 era_of_the	1
-<br />_Although_the	1
 mood_for_a	1
-<p>_At_the	1
 film_on_the	1
 role_as_the	1
 happily-ever-after_in_this	1
@@ -10600,6 +10290,8 @@ Perhaps_the_fact	1
 not_a_comedy	1
 not_the_time-period	1
 n't_a_comedy	1
+PRP_RB_,
+us_anymore_,	1
 VBG_RB_IN
 taking_away_from	1
 leaning_heavily_on	1
@@ -10648,8 +10340,6 @@ types_you_'ll	1
 IN_DT_DT
 of_the_the	1
 in_all_the	1
--RRB-_NN_NN
--RRB-_Best_Actress	1
 TO_VB_VBG
 to_start_climbing	1
 NN_VBD_PRP
@@ -10721,9 +10411,6 @@ NN_''_NNS
 boss_'_parties	1
 VBZ_VBN_WRB
 is_healed_when	1
-VBZ_-LRB-_IN
-progresses_-LRB-_without	1
-lectures_-LRB-_about	1
 NN_IN_``
 role_in_`	1
 synonym_for_`	1
@@ -10735,18 +10422,29 @@ RB_VBD_JJ
 highly_recommended_wonderful	1
 DT_NNS_JJ
 the_films_comedic	1
-VBD_TO_PRP
-took_to_it	1
+,_DT_JJ
+,_the_former	1
+,_a_spunky	1
+,_the_noticeable	1
+,_no_late	1
+,_an_interesting	1
+,_the_various	1
+,_the_happy	1
+,_a_wholesome	1
+,_a_timeless	1
+,_the_young	1
+,_a_beautiful	1
+,_a_tough-looking	1
+,_a_public	1
+,_no_real	1
+,_an_exceptional	1
+,_a_good	1
+,_the_late	1
+,_the_average	1
 :_NNS_RB
 -_people_usually	1
 DT_VBG_CD
 This_shattering_1962	1
-JJ_IN_VBG
-guilty_of_offering	1
-same_after_seeing	1
-own_while_trying	1
-separate_after_having	1
-guilty_over_pushing	1
 DT_VBG_CC
 a_controlling_and	1
 ,_NN_CC
@@ -10781,10 +10479,9 @@ shown_to_revolve	1
 tried_to_support	1
 used_to_be	1
 drawn_to_watch	1
-NN_NN_-RRB-
-Miracle_Worker_-RRB-	1
-information_film_-RRB-	1
-AA_meeting_-RRB-	1
+PRP$_JJR_NNS
+their_earlier_roles	1
+his_weaker_films	1
 TO_VB_NN
 to_call_alcoholism	1
 to_take_anything	1
@@ -10806,44 +10503,27 @@ gave_stellar_performances	1
 were_vaudeville_performers	1
 were_bold_films	1
 typified_many_couples	1
-,_DT_JJ
-,_the_former	1
-,_a_spunky	1
-,_the_noticeable	1
-,_no_late	1
-,_an_interesting	1
-,_the_various	1
-,_the_happy	1
-,_a_wholesome	1
-,_a_timeless	1
-,_the_young	1
-,_a_beautiful	1
-,_a_tough-looking	1
-,_a_public	1
-,_no_real	1
-,_an_exceptional	1
-,_a_good	1
-,_the_late	1
-,_the_average	1
+,_JJ_NNS
+,_mature_performances	1
+,_poetic_quotations	1
+,_white-collar_executives	1
+,_long_stretches	1
+,_soul-crushing_performances	1
+,_modern_pieces	1
 VB_NN_RB
 be_fun_again	1
 keep_alcohol_away	1
 take_anything_away	1
-RBS_JJ_IN
-most_bitter_of	1
-most_appropriate_for	1
-most_annoying_since	1
+TO_DT_NNS
+to_the_days	1
+to_a_couples	1
 VB_VB_NN
 help_become_part	1
 help_lose_weight	1
-''_IN_PRP$
-''_as_my	1
 NNS_RB_WRB
 years_ago_when	1
 RB_VBZ_PRP$
 finally_destroys_his	1
-VB_PRP_POS
-<br />_It_'s	1
 WDT_VBP_DT
 that_understand_the	1
 ''_JJS_NNS
@@ -10852,8 +10532,6 @@ NNS_WDT_MD
 centers_that_would	1
 VB_IN_``
 ensure_that_``	1
-FW_FW_VBP
-<br />_i_believe	1
 NNP_POS_JJ
 Joe_'s_perspired	1
 Remick_'s_stern	1
@@ -10863,6 +10541,7 @@ Edward_'s_crowning	1
 Mancini_'s_melancholic	1
 ,_RB_JJ
 ,_forever_underrated	1
+,_undoubtedly_due	1
 ,_so_serious	1
 ''_IN_PRP
 '_that_it	1
@@ -10894,11 +10573,8 @@ he_''_.	1
 TO_``_VB
 to_``_loosen	1
 to_`_entertain	1
-PRP$_NNS_IN
-His_scenes_in	1
-its_sufferers_as	1
-my_favorites_with	1
-his_sites_on	1
+''_NN_.
+''_role_.	1
 ''_NN_,
 ''_scene_,	1
 CC_NNPS_RB
@@ -11036,12 +10712,8 @@ WP_VBZ_NNP
 Who_'s_Afraid	1
 VBG_IN_``
 writhing_in_``	1
--LRB-_RB_,
--LRB-_sadly_,	1
 NNP_TO_NN
 Kirsten_to_alcohol	1
-DT_NNS_-LRB-
-Both_leads_-LRB-	1
 NN_PRP$_JJR
 alcoholism_its_more	1
 RB_RBR_VBN
@@ -11072,6 +10744,7 @@ temptation_if_there	1
 VBD_PRP_DT
 made_me_the	1
 NNP_,_WP
+Bickford_,_who	1
 Lemmon_,_who	1
 Clay_,_who	1
 IN_,_IN
@@ -11087,6 +10760,8 @@ TO_DT_.
 to_all_.	1
 TO_JJR_IN
 to_worse_without	1
+CC_NNS_NNP
+and_marries_Kirsten	1
 CC_VBZ_CC
 and_haws_but	1
 ''_WDT_VBZ
@@ -11095,10 +10770,6 @@ RB_JJR_IN
 Much_worse_than	1
 JJ_NNS_``
 many_people_``	1
-VBP_VBG_NNS
-suggest_watching_Days	1
-:_WRB_CD
-;_how_one	1
 RP_IN_NNP
 up_in_AA	1
 off_at_Kirsten	1
@@ -11138,9 +10809,6 @@ it_if_he	1
 me_that_I	1
 ,_RB_VBN
 ,_not_forced	1
-RB_RB_TO
-out_there_to	1
-really_down_to	1
 WDT_NN_MD
 what_alcohol_can	1
 MD_VB_RP
@@ -11157,8 +10825,6 @@ among_many_.	1
 as_inconsequential_.	1
 that_good_.	1
 in_general_.	1
-JJ_WRB_NN
-dangerous_when_one	1
 IN_JJ_,
 as_sick_,	1
 of_insignificant_,	1
@@ -11182,11 +10848,6 @@ RP_PRP$_NN
 out_his_window	1
 WP_VBD_RB
 what_was_really	1
-NNS_RB_JJ
-rings_so_true	1
-times_deeply_disturbing	1
-things_as_bleak	1
-times_pretty_ugly	1
 RB_PRP_VBD
 Maybe_it_was	1
 together_it_was	1
@@ -11217,6 +10878,7 @@ NN_,_NNP
 example_,_Joe	1
 cast_,_Philip	1
 time_,_Lemmon	1
+role_,_Peter	1
 scene_,_Joe	1
 couple_,_Joe	1
 time_,_Joe	1
@@ -11252,6 +10914,8 @@ once_you_become	1
 Mostly_I_like	1
 Sometimes_they_are	1
 once_you_enter	1
+NN_VB_PRP
+junk_forgive_me	1
 VBD_DT_JJ
 portrayed_a_down-and-out	1
 made_a_significant	1
@@ -11283,19 +10947,17 @@ where_she_forces	1
 why_it_sticks	1
 why_it_is	1
 how_it_impacts	1
-DT_NN_-LRB-
-an_AA_-LRB-	1
-the_non-drinker_-LRB-	1
-a_mockingbird_-LRB-	1
-the_junk_-LRB-	1
+PRP$_NNS_:
+their_lives_--	1
+his_pictures_;	1
 ,_IN_IN
 ,_as_in	1
 RBS_JJ_NN
-most_committed_<br />	1
 most_vivid_performance	1
 most_intense_moment	1
 most_powerful_revelation	1
 most_difficult_year	1
+most_committed_manner	1
 NN_IN_CD
 story_of_two	3
 marriage_of_two	1
@@ -11339,6 +11001,8 @@ recommend_this_movie	1
 JJR_IN_JJ
 less_than_horrifying	1
 better_than_average	1
+''_IN_NNP
+'_as_Lemmon	1
 PRP$_NNS_.
 their_addictions_.	1
 my_20s_.	1
@@ -11356,22 +11020,21 @@ VBZ_``_WP
 is_``_Who	1
 DT_IN_WP
 neither_of_whom	1
-IN_JJ_-LRB-
-of_believable_-LRB-	1
 :_VBG_NNP
 -_chucking_Ernest	1
 JJ_,_CC
+likable_,_but	1
+happy_,_but	1
 horrifying_,_and	1
 sober_,_but	1
-drunk_,_and	1
 solvable_,_or	1
 comedic_,_and	1
 Alcoholic_,_but	1
 Alcoholic_,_and	1
-alcoholic_,_but	1
-alcoholic_,_and	1
 first_,_but	2
-happy_,_but	1
+alcoholic_,_and	1
+drunk_,_and	1
+alcoholic_,_but	1
 insignificant_,_but	1
 WRB_PRP_VBD
 When_she_left	1
@@ -11408,8 +11071,6 @@ POS_NN_VBZ
 's_script_is	1
 '_camera_is	1
 's_premise_is	1
--RRB-_,_RB
--RRB-_,_thus	1
 VBN_CC_NNP
 cast_and_Mancini	1
 VBN_TO_PRP$
@@ -11421,8 +11082,6 @@ POS_NN_VBG
 's_nursery_looking	1
 ,_VBG_:
 ,_convicing_-	1
-IN_WRB_DT
-as_how_the	1
 VBN_IN_NN
 disappointed_with_anything	1
 hooked_on_booze	1
@@ -11458,12 +11117,9 @@ VB_IN_NNS
 stop_at_points	1
 VBD_RB_RBR
 was_much_more	1
-FW_FW_WRB
-<br />_<br />_When	1
--RRB-_,_DT
--RRB-_,_the	1
--RRB-_,_a	1
--RRB-_,_this	1
+VBP_VBG_IN
+'re_looking_for	1
+are_teetering_on	1
 CC_VBG_PRP$
 and_upsetting_his	1
 VBN_PRP$_JJ
@@ -11497,9 +11153,8 @@ RP_NN_VBP
 out_unit_are	1
 UH_,_DT
 yes_,_the	1
-VBP_VBG_IN
-'re_looking_for	1
-are_teetering_on	1
+NNS_WP_VBD
+people_who_descend	1
 ,_WDT_PRP
 ,_which_I	1
 POS_JJ_NN
@@ -11528,8 +11183,8 @@ RB_VBZ_NNS
 just_wants_things	1
 ,_VB_TO
 ,_try_to	1
--RRB-_VBD_RB
--RRB-_were_very	1
+VBG_,_JJ
+screaming_,_strait-jacketed	1
 VBZ_DT_RB
 helms_an_extremely	1
 is_a_terribly	1
@@ -11614,8 +11269,6 @@ VBP_TO_RB
 want_to_never	1
 ''_RB_,
 ''_however_,	1
-VBD_JJ_RB
-was_fantastic_too	1
 IN_DT_VBN
 of_those_addicted	1
 IN_DT_VBD
@@ -11711,8 +11364,6 @@ VB_CD_DT
 influence_one_another	1
 VBG_RP_PRP$
 gazing_out_his	1
-JJ_-RRB-_NNS
-ish_-RRB-_stars	1
 JJ_,_NNP
 sober_,_Joe	1
 CD_NNS_CC
@@ -11733,14 +11384,6 @@ PRP_IN_``
 her_in_`	1
 IN_JJ_NNPS
 that_many_Americans	1
-FW_DT_NN
-<br />_The_music	1
-<br />_The_film	1
-<br />_The_script	1
-<br />_The_story	1
-<br />_The_resposibility	1
-<br />_The_ending	1
-<br />_This_time	1
 CC_DT_JJ
 or_the_other	1
 both_the_big	1
@@ -11773,9 +11416,8 @@ was_drawn_to	1
 was_amazed_to	1
 IN_CD_CC
 at_907-440-6910_and	1
-DT_VBN_JJ
-a_reformed_alcoholic	1
-a_believed_good	1
+''_IN_PRP$
+''_as_my	1
 VB_IN_PDT
 deal_with_such	1
 VB_VBN_DT
@@ -11828,8 +11470,8 @@ interesting_as_well	1
 strong_as_ever	1
 NNS_CD_NNS
 ways_two_people	1
--RRB-_NN_.
--RRB-_meeting_.	1
+JJ_WRB_NN
+dangerous_when_one	1
 NNP_NNP_FW
 Superb_Artists_in	1
 VBD_TO_NN
@@ -11840,10 +11482,9 @@ had_forced_herself	1
 CD_NNS_JJR
 hundred_times_worse	1
 10_times_better	1
-NN_-LRB-_RB
-time_-LRB-_apparently	1
-meeting_-LRB-_back	1
-smoking_-LRB-_probably	1
+VB_VBN_RB
+have_been_so	1
+be_lost_forever	1
 NNP_._''
 Weekend_._''	1
 MD_VB_RB
@@ -11858,8 +11499,6 @@ JJR_NN_TO
 younger_generation_to	1
 NNP_VBD_IN
 Jack_talked_about	1
-JJ_NNP_-LRB-
-pretty_Kirsten_-LRB-	1
 IN_VBG_PRP$
 on_getting_his	1
 of_entertaining_his	1
@@ -11889,8 +11528,9 @@ I_bought_this	1
 I_saw_this	3
 he_had_a	1
 I_thought_that	1
-VBG_,_JJ
-screaming_,_strait-jacketed	1
+NNP_PRP_VBP
+Lemmon_I_miss	1
+VHS_I_have	1
 VB_WRB_RB
 see_how_well	1
 feel_how_deeply	1
@@ -11978,8 +11618,11 @@ PRP_VBD_``
 I_watched_``	1
 I_saw_``	1
 I_got_``	1
-``_NN_IN
-`_Anatomy_of	1
+RB_VBN_NN
+never_seen_anyone	1
+powerfully_told_tale	1
+well_loved_film	1
+newly_married_couple	1
 NN_VBP_IN
 anyone_act_like	1
 alcoholism_are_about	1
@@ -12045,11 +11688,12 @@ out_and_in	1
 IN_WRB_PRP
 that_when_he	1
 PRP_VBP_TO
-You_have_to	1
-they_get_to	1
-you_watch_to	1
 you_have_to	1
+they_get_to	1
+me_want_to	1
+You_have_to	1
 they_need_to	1
+you_watch_to	1
 PRP$_RBS_JJ
 his_most_intimate	1
 NN_NN_NN
@@ -12058,17 +11702,12 @@ craggy_veteran_actor	1
 neon_bar_sign	1
 spin_control_mechanic	1
 alcoholism_par_excellence	1
--LRB-_WP$_NN
--LRB-_whose_brief	1
 VBZ_IN_NN
 comes_across_alcohol	1
 is_about_alcoholism	1
 gets_that_balance	1
 falls_in_love	1
 begins_in_middle-class	1
-NNP_-RRB-_CC
-Wilder_-RRB-_and	1
-Remick_-RRB-_And	1
 VBG_IN_CC
 talking_about_and	1
 TO_VB_WRB
@@ -12078,23 +11717,22 @@ JJS_NNS_TO
 greatest_actors_to	1
 best_films_to	1
 best_movies_to	1
-IN_NN_-LRB-
-of_work_-LRB-	1
-that_everyone_-LRB-	1
-of_mine_-LRB-	1
+RB_NN_NN
+blinking_BAR_light	1
 VBD_VBG_DT
 thought_provoking_the	1
 CD_POS_WRB
 60_'s_when	1
 RB_,_DT
-however_,_the	1
+Ingeniously_,_this	1
 ever_,_this	1
-Soon_,_the	1
+here_,_the	1
 literally_,_a	1
 Also_,_this	1
+however_,_the	1
 clearly_,_the	1
 long_,_the	1
-Ingeniously_,_this	1
+Soon_,_the	1
 sadly_,_neither	1
 Also_,_the	1
 painfully_,_each	1
@@ -12102,6 +11740,7 @@ Sadly_,_the	1
 ''_MD_VB
 ''_might_be	1
 JJ_NN_DT
+very_textbook_the	1
 usual_message_that	1
 VBD_IN_PRP
 got_as_they	1
@@ -12141,14 +11780,8 @@ hates_himself_,	1
 VBZ_PRP_.
 souses_herself_.	1
 loves_her_.	1
-CC_NNP_-RRB-
-&_Cage_-RRB-	1
 WP_DT_VBN
 what_a_believed	1
-NNP_-LRB-_VBN
-Edwards_-LRB-_known	1
--RRB-_IN_NNPS
--RRB-_from_Alcoholics	1
 VBG_RP_RB
 winding_up_straight	1
 EX_VBZ_NN
@@ -12168,30 +11801,23 @@ two_failed_marriages	1
 ``_Some_Like	1
 VBZ_TO_PRP$
 concedes_to_his	1
-RB_VBN_NN
-never_seen_anyone	1
-powerfully_told_tale	1
-well_loved_film	1
-newly_married_couple	1
 VBP_,_VBP
 meet_,_fall	1
-''_-LRB-_IN
-'_-LRB-_as	1
 CC_WP_,
 but_who_,	1
 DT_NN_PRP$
 a_clarity_their	1
-PRP_-RRB-_,
-them_-RRB-_,	1
+VBP_,_VBZ
+unravel_,_is	1
 RB_NN_IN
 quickly_spiral_out	1
+JJ_NN_JJ
+own_baby_mammary	1
 DT_VBZ_DT
 this_is_the	2
 This_is_a	10
 This_is_an	1
 this_is_a	6
--RRB-_CC_NN
--RRB-_And_Best	1
 VB_VBN_RBS
 have_been_most	1
 JJ_PRP_VBD
@@ -12214,9 +11840,6 @@ convicing_-_-	1
 VBD_WRB_PRP
 was_when_it	1
 died_when_I	1
-FW_FW_IN
-<br />_<br />_Until	1
-<br />_<br />_If	2
 VBP_RP_VBG
 end_up_clicking	1
 NN_CD_NN
@@ -12237,8 +11860,6 @@ and_what_it	1
 NN_POS_NNS
 one_'s_eyes	1
 film_'s_leads	1
-IN_-RRB-_,
-for_-RRB-_,	1
 ,_VBP_IN
 ,_fall_in	1
 TO_WDT_NNP
@@ -12268,8 +11889,6 @@ us_with_an	1
 you_with_the	1
 him_in_the	1
 her_because_this	1
-CC_VBD_CD
-and_was_one	1
 VBN_CC_WRB
 deteroiated_and_how	1
 IN_NNP_,
@@ -12286,8 +11905,9 @@ from_Amazon_.	1
 in_Texas_.	1
 VBZ_PRP_RBR
 makes_it_less	1
-JJ_-LRB-_JJ
-young_-LRB-_ish	1
+VBZ_VBG_.
+is_drinking_.	1
+finds_disarming_.	1
 JJ_NNS_.
 intimate_experiences_.	1
 sleepless_nights_.	1
@@ -12306,6 +11926,7 @@ engrossing_scenes_.	1
 old_movies_.	1
 excellent_performances_.	1
 sterling_performances_.	1
+favorite_actors_.	1
 JJ_NNS_,
 early_sixties_,	1
 classic_movies_,	1
@@ -12357,20 +11978,14 @@ more_believable_.	1
 less_miserable_.	1
 VBP_WRB_DT
 result_when_the	1
-NN_:_VBN
-search_-_shown	1
 VBZ_TO_VBG
 admits_to_enhancing	1
 NNP_VB_PRP$
 Remick_play_their	1
--LRB-_DT_IN
--LRB-_another_of	1
 NNS_WP_POS
 partners_who_'s	1
 VB_CD_CC
 encourage_one_and	1
--LRB-_IN_VBG
--LRB-_without_giving	1
 :_VB_PRP
 ..._see_it	1
 :_Hit_Me	1
@@ -12410,12 +12025,10 @@ fhis_theatrical_Masterpiece.This	1
 DT_NNS_NN
 an_alcoholics_life	1
 an_individuals_alcoholism	1
--RRB-_NNS_CC
--RRB-_stars_and	1
 VBN_PRP_RB
 sent_me_yet	1
--LRB-_WP_VBD
--LRB-_who_won	1
+VBD_NNS_CC
+became_drunks_and	1
 RB_JJ_CC
 very_young_and	1
 really_good_and	1
@@ -12425,13 +12038,17 @@ not_dangerous_but	1
 very_sad_but	1
 quite_depressing_and	1
 very_dramatic_and	1
+seemingly_insincere_and	1
 very_smart_and	1
+just_incomplete_or	1
 very_poignant_and	1
 VBG_NN_.
 shining_moment_.	1
 braking_scene_.	1
 enabling_person_.	1
 starring_role_.	1
+:_VBG_DT
+..._being_a	1
 JJ_,_DT
 alcoholic_,_the	2
 drunk_,_the	1
@@ -12486,10 +12103,11 @@ not_looked_back	1
 JJ_NNS_CC
 stellar_performances_and	1
 important_films_and	1
+poetic_quotations_and	1
 public_relations_and	1
 many_films_and	1
 shattered_lives_and	1
-poetic_quotations_and	1
+ish_stars_and	1
 phony_approximations_or	1
 own_goals_and	1
 potted_plants_and	1
@@ -12598,8 +12216,6 @@ her_to_alcohol	2
 VBD_DT_VBN
 was_a_reformed	1
 were_both_nominated	1
-CD_POS_-RRB-
-80_'s_-RRB-	1
 PRP$_NN_,
 his_job_,	1
 his_disease_,	1
@@ -12621,15 +12237,16 @@ his_boss_.	1
 my_player_.	1
 their_addiction_.	1
 her_art_.	1
+his_program_.	1
 my_drift_.	1
 their_alcoholism_.	1
 your_life_.	1
 your_selfesteem_.	1
 his_wife_.	2
-his_program_.	1
-his_career_.	1
 their_room_.	1
-her_shape_.	1
+his_career_.	1
+their_manifesto_.	1
+her_shape_.	2
 their_intensity_.	1
 his_performance_.	1
 his_face_.	1
@@ -12641,8 +12258,8 @@ Remick_gave_stellar	1
 Remick_was_fantastic	1
 Everything_seemed_very	1
 Laurie_was_incredible	1
-:_NNP_CC
-:_Joe_and	1
+NN_NNS_JJ
+AA_Alcoholics_Anonymous	1
 DT_DT_JJS
 the_the_most	1
 CC_VB_RB
@@ -12652,6 +12269,7 @@ PRP_VBD_RP
 I_held_off	1
 I_grew_up	1
 I_found_out	2
+they_drowned_out	1
 VBZ_DT_MD
 is_a_must	1
 CC_TO_DT
@@ -12678,8 +12296,6 @@ VBD_RB_TO
 got_down_to	1
 contributed_strongly_to	1
 reccommend_fully_to	1
-NN_NNS_VBD
-Step_Programs_were	1
 VBN_VBZ_RB
 seen_is_never	1
 IN_PRP_NN
@@ -12736,8 +12352,8 @@ ending_to_Days	1
 message_to_alcoholics	1
 JJS_NN_WDT
 worst_thing_that	1
--RRB-_CC_,
--RRB-_and_,	1
+VBZ_PRP_CC
+grabs_you_and	1
 CC_:_RB
 but_..._not	1
 PRP$_JJ_``
@@ -12753,19 +12369,8 @@ CD_PRP_VBD
 1973_I_understood	1
 WRB_VBN_RP
 when_started_out	1
-RB_NN_NN
-blinking_BAR_light	1
-IN_PRP_IN
-with_him_in	1
-with_me_for	1
-about_him_that	1
-for_her_because	1
-of_it_for	1
-into_them_like	1
-on_me_by	1
-on_me_that	1
-JJ_-LRB-_DT
-great_-LRB-_a	1
+WRB_RB_TO
+how_not_to	1
 VBZ_VBN_RP
 's_swept_up	1
 is_turned_in	1
@@ -12776,8 +12381,6 @@ VB_''_DT
 entertain_'_the	1
 JJR_NN_CC
 deeper_cause_and	1
--RRB-_VBP_JJ
--RRB-_are_prominent	1
 PRP_VBP_NNP
 you_cast_Jack	1
 I_love_Jack	2
@@ -12787,13 +12390,18 @@ MD_VB_PRP$
 could_change_your	1
 VBZ_IN_IN
 works_for_as	1
-PRP_-RRB-_CC
-it_-RRB-_and	1
+NNP_VBD_DT
+This_was_a	1
+Bickford_repeated_the	1
+Edwards_directed_this	1
+O'Toole_deserved_this	1
+Lemmon_was_a	1
+Remick_were_both	2
+Lemmon_played_this	1
+Remick_was_a	1
 NNS_,_NN
 relationships_,_job	1
 Steps_,_Serenity	1
-NNP_-LRB-_TO
-Finch_-LRB-_To	1
 VB_RB_RB
 work_as_well	1
 Live_Here_Anymore	1
@@ -12876,7 +12484,6 @@ keep_those_boxed-sets	1
 watch_some_scenes	1
 love_those_drinks	1
 inspire_any_alcoholics	1
-<p>_The_scenes	1
 VB_DT_NNP
 play_a_UK	1
 win_the_Oscar	1
@@ -12916,6 +12523,7 @@ a_film_major	1
 the_film_classic	1
 a_greenhouse_full	1
 a_bit_strident	1
+The_Apartment_young	1
 NNS_RB_.
 alcoholics_everywhere_.	1
 IN_CD_DT
@@ -12938,6 +12546,7 @@ everyone_has_a	1
 one_takes_a	1
 Movie_is_a	1
 acting_is_every	1
+beauty_delivers_another	1
 relapse_is_a	1
 movie_is_the	1
 Alcoholism_is_the	1
@@ -12995,6 +12604,7 @@ JJR_NNS_PRP
 younger_types_you	1
 VBZ_NN_RB
 is_something_strangely	1
+starts_smoking_probably	1
 NNP_''_.
 Woolf_''_.	1
 Dad_''_!	1
@@ -13008,8 +12618,8 @@ and_never_end	1
 JJ_JJ_CC
 Such_strong_and	1
 Great_black_and	1
-NN_-RRB-_JJ
-Apartment_-RRB-_young	1
+DT_NN_VB
+the_junk_forgive	1
 VBZ_PRP_:
 bothers_me_-	1
 ,_WP_VBZ
@@ -13020,6 +12630,7 @@ bothers_me_-	1
 ,_WP_VBD
 ,_who_was	1
 JJ_CC_RB
+incomplete_or_seemingly	1
 sad_but_also	1
 difficult_and_sometimes	1
 depressing_and_emotionally	1
@@ -13049,12 +12660,8 @@ I_felt_Lemmon	1
 I_found_Lee	1
 RP_IN_CD
 out_in_1962	1
-NN_:_DT
-alcoholism_:_the	2
-start_;_the	1
-recovery_;_the	2
-film_-_a	1
-relapse_;_the	1
+NNP_IN_NNPS
+Klugman_from_Alcoholics	1
 NN_WDT_VBZ
 piece_that_is	1
 scene_that_ties	1
@@ -13077,12 +12684,12 @@ movie_that_has	1
 CD_CC_PRP
 1974_and_I	1
 NN_JJ_NN
-film_worth_watching	1
+baby_mammary_envy	1
+mine_young_friend	1
 film_classic_status	1
+film_worth_watching	1
 RB_VBZ_``
 perhaps_is_``	1
-PRP$_NN_WP
-my_son_who	1
 NN_WDT_VBD
 story_which_typified	1
 film_that_was	1
@@ -13095,6 +12702,7 @@ the_role_he	1
 the_rat-race_he	1
 The_Reckoning_I	1
 The_script_he	1
+an_Onion_I	1
 an_item_you	1
 the_way_it	1
 the_end_you	1
@@ -13129,6 +12737,7 @@ the_movie_,	3
 the_impotence_,	1
 a_sweating_,	1
 the_audience_,	1
+a_Mockingbird_,	1
 the_obsession_,	1
 the_addiction_,	1
 the_bleariness_,	1
@@ -13153,6 +12762,8 @@ the_time-period_,	1
 the_way_,	1
 the_baby_,	1
 a_teenager_,	1
+a_year_,	1
+this_role_,	1
 an_actor_,	1
 this_film_,	1
 some_dignity_,	1
@@ -13193,9 +12804,6 @@ contemplate_a_sober	1
 do_the_same	1
 be_any_illicit	1
 pursue_the_American	1
-IN_NNS_-RRB-
-in_moonriverisms_-RRB-	1
-from_addictions_-RRB-	1
 RB_RB_JJ
 so_very_patient	1
 just_as_much	1
@@ -13221,14 +12829,13 @@ NNS_VBD_JJ
 parents_were_vaudeville	1
 times_were_bold	1
 NN_VBP_JJ
-remmick_are_great	1
+film_are_prominent	1
 wife_are_aware	1
 binge_are_scary	1
 asylum_are_harrowing	1
+remmick_are_great	1
 ,_``_CC
 ,_``_And	1
--RRB-_VBZ_PRP$
--RRB-_makes_his	1
 WDT_PRP_VBP
 which_I_see	1
 ,_VBP_JJ
@@ -13251,19 +12858,18 @@ him_so_relentlessly	1
 ,_Joe_and	2
 PRP_IN_IN
 me_out_of	1
-VBZ_PRP_CC
-grabs_you_and	1
 NN_JJ_RB
 something_special_too	1
 DT_NNS_MD
 some_people_can	1
 the_studios_would	1
 JJ_NN_VBG
-first_mainstream_starring	1
+lounge-jazz_soundtrack_drowning	1
 hard_time_thinking	1
-great_job_playing	1
 drunken_rage_trying	1
 average_businessman_struggling	1
+great_job_playing	1
+first_mainstream_starring	1
 NN_:_NN
 line_:_Nobody	1
 JJ_NN_VBD
@@ -13276,6 +12882,7 @@ social_drinking_has	1
 final_scene_leaves	1
 altered_reality_forms	1
 poignant_incident_follows	1
+luminous_beauty_delivers	1
 similar_crisis_awaits	1
 harsh_truth_is	1
 afraid_everyone_has	1
@@ -13291,6 +12898,8 @@ going_through_his	1
 NNP_NNP_VBG
 Jack_Lemmon_peering	1
 Lee_Remick_walking	1
+VBZ_IN_,
+apologizes_for_,	1
 NNS_CC_NN
 films_and_cable	1
 graphs_and_mug	1
@@ -13331,26 +12940,14 @@ humor_and_yet	1
 film_and_higly	1
 cry_and_so	1
 movie_and_very	1
+NN_CC_VBP
+friend_and_hope	1
 PRP_VB_VBN
 she_have_tried	1
 he_have_reacted	1
 he_have_taken	1
 ,_WP$_NN
 ,_whose_alcoholism	1
-NNP_NNP_-LRB-
-Ellis_Arnesen_-LRB-	1
-Felix_Unger_-LRB-	1
-Jack_Klugman_-LRB-	1
-Joe_Clay_-LRB-	1
-Annie_Sullivan_-LRB-	1
-Jack_Lemmon_-LRB-	1
-Blake_Edwards_-LRB-	1
-Oscar_Madison_-LRB-	1
-Atticus_Finch_-LRB-	1
-Lee_Remick_-LRB-	1
-Big_Book_-LRB-	1
-Jim_Hungerford_-LRB-	2
-Kirsten_Arnesen_-LRB-	2
 VBZ_EX_VBZ
 is_there_is	1
 :_``_PRP
@@ -13421,6 +13018,8 @@ which_this_was	1
 ,_VBG_IN
 ,_working_as	1
 ,_looking_for	1
+NNS_NNP_CC
+leads_Milland_&	1
 IN_PRP_MD
 because_it_may	1
 for_it_will	1
@@ -13438,8 +13037,17 @@ that_she_would	1
 because_one_can	1
 ,_IN_NNS
 ,_by_Alcoholics	1
-NNP_NNP_DT
-Jack_Klugman_all	1
+MD_VB_TO
+'d_have_to	1
+could_lead_to	1
+can_bring_to	1
+may_happen_to	1
+can_do_to	1
+'d_like_to	1
+could_talk_to	1
+can_take_to	1
+can_walk_to	1
+will_have_to	1
 VBG_PRP$_NNS
 upsetting_his_clients	1
 entertaining_his_clients	1
@@ -13453,8 +13061,6 @@ more_as_I	1
 better_than_they	1
 NNS_VBG_NNP
 comedies_including_Operation	1
-FW_IN_RB
-<br />_If_not	1
 MD_RB_VB
 may_not_have	1
 will_ever_forget	1
@@ -13510,6 +13116,7 @@ not_help_his	1
 VBD_NNP_PRP
 told_Frankenheimer_he	1
 NNP_NN_NN
+Lemon_Best_Actress	1
 Oscar_winning_song	1
 Remick_playing_secretary	1
 CC_VBD_TO
@@ -13534,6 +13141,8 @@ wag_or_the	1
 Couple_and_Some	1
 VB_CC_PRP
 think_and_I	1
+NNP_VBP_VBG
+Remeck_are_having	1
 IN_``_NN
 in_``_withdrawal	1
 in_`_Anatomy	1
@@ -13576,8 +13185,6 @@ CD_CC_RB
 ''_when_it	1
 CC_NNS_:
 and_roses_...	1
-VBP_,_VBZ
-unravel_,_is	1
 VBN_IN_PRP
 proven_that_he	1
 come_between_them	1
@@ -13635,8 +13242,6 @@ ends_up_in	1
 stands_out_in	1
 ,_CC_VBP
 ,_but_are	1
-VBD_NNS_CC
-became_drunks_and	1
 PRP_VBZ_RB
 It_is_n't	1
 he_does_not	1
@@ -13691,19 +13296,14 @@ is_n't_mentioned	1
 is_either_lost	1
 has_now_morphed	1
 is_perfectly_cast	1
--LRB-_DT_NN
--LRB-_the_nickname	1
--LRB-_The_Miracle	1
 WDT_IN_NN
 which_in_turn	1
 VB_VBG_DT
 recommend_seeing_this	1
 enjoy_seeing_the	1
-PRP_,_CC
-him_,_and	1
-it_,_and	1
-me_,_and	1
-himself_,_and	1
+PRP_VBZ_RP
+He_meets_up	1
+it_stands_up	1
 NN_PRP_MD
 tone_it_should	1
 alcohol_you_may	1
@@ -13730,10 +13330,6 @@ love_Jack_Lemmon	2
 cast_Jack_Lemmon	1
 love_Jack_Lemon	1
 lead_Jack_Lemmon	1
-FW_NN_NNP
-<br />_Dr_Jacques	1
--LRB-_RB_VBG
--LRB-_apparently_prompting	1
 CC_VBZ_VBN
 and_gets_caught	1
 and_has_been	1
@@ -13790,6 +13386,7 @@ Stanley_Kramer_never	1
 Lee_Remick_also	1
 Jack_Klugman_finally	1
 Lee_Remick_very	1
+Lee_Remick_sadly	1
 Family_Services_strongly	1
 NN_TO_VB
 everything_to_lose	1
@@ -13828,6 +13425,7 @@ And_Loathing_In	1
 and_addiction_in	1
 but_trouble_for	1
 NN_WP_VBD
+mockingbird_who_won	1
 mine_who_worked	1
 RB_VBZ_PRP
 finally_costs_him	1
@@ -13864,13 +13462,13 @@ violent_in_his	1
 devastating_as_her	1
 realistic_for_its	1
 great_in_their	1
--LRB-_TO_VB
--LRB-_To_Kill	1
 PRP_RBR_JJ
 it_more_realistic	1
 it_less_realistic	1
 NNS_CC_RB
 berates_and_completely	1
+RB_MD_VB
+not_would_gain	1
 DT_CD_RB
 the_two_together	1
 VB_VBG_RB
@@ -14178,6 +13776,8 @@ is_a_bum	2
 gives_a_performance	3
 PRP_CC_VB
 it_and_do	1
+DT_NNS_NNP
+Both_leads_Milland	1
 DT_NNS_NNS
 the_bees_knees	2
 WP$_NN_MD
@@ -14258,7 +13858,7 @@ NN_NN_RB
 No1_film_ever	1
 flower_garden_just	1
 inferiority_complex_too	1
-<br />_A_very	1
+AA_meeting_back	1
 case_study_not	1
 JJ_NNPS_JJ
 obligatory_Alcoholics_Anonymous	1
@@ -14295,8 +13895,6 @@ and_Remick_,	1
 ,_willing_and	1
 VBD_PRP$_NNP
 deserved_their_Oscar	1
-MD_NN_CC
-will_laugh_&	1
 RB_JJ_MD
 extremely_believable.i_would	1
 CC_VB_JJ
@@ -14312,8 +13910,6 @@ after_,_''	1
 ,_just_because	1
 POS_VBG_JJ
 's_haunting_musicial	1
-FW_TO_PRP
-<br />_To_me	1
 NNP_VBZ_WP
 Lemmon_proves_what	1
 NNS_:_WRB
@@ -14371,14 +13967,15 @@ good_time_,	1
 hidden_booze_,	1
 IN_NN_PRP
 that_today_we	1
+of_work_it	1
+of_alcohol_you	1
 of_booze_he	1
 that_balance_I	1
-of_alcohol_you	1
 with_anything_I	1
 JJ_NN_.
 excellent_drama_.	1
 American_Dream_.	1
-bad_Pal_!	1
+superb_acting_.	1
 rock_bottom_!	1
 old_disease_.	1
 sane_person_.	1
@@ -14386,6 +13983,7 @@ excellent_movie_.	1
 illicit_drug_.	1
 untimely_death_.	1
 cheap_evening_.	1
+bad_Pal_!	1
 sober_lifestyle_.	1
 white_movie_.	1
 unblinking_honesty_.	1
@@ -14397,7 +13995,7 @@ relevant_film_.	1
 Great_Movie_.	1
 sordid_existence_.	1
 small_apartment_.	1
-superb_acting_.	1
+Anonymous_meeting_.	1
 violent_destruction_.	1
 musicial_score_.	1
 pure_drama_.	1
@@ -14412,6 +14010,7 @@ classic_status_.	1
 fantastic_movie_.	1
 loving_couple_.	1
 little_girl_.	1
+committed_manner_.	1
 social_drinking_.	1
 good_movie_.	2
 hellish_descent_.	1
@@ -14437,7 +14036,7 @@ drab_day_.	1
 great_performance_.	1
 contrived_melodrama_.	1
 scarlet_letter_.	1
-same_time_.	1
+same_time_.	2
 crowning_achievement_.	1
 struggling_husband_.	1
 WDT_MD_RB
@@ -14445,6 +14044,7 @@ that_can_only	1
 that_could_n't	1
 DT_NN_NNS
 the_film_cuts	1
+an_AA_Alcoholics	1
 this_movie_years	1
 the_party_girls	1
 a_couple_others	1
@@ -14456,9 +14056,9 @@ of_life_wrought	1
 for_sobriety_aided	1
 DT_NN_NNP
 the_character_Ben	1
+this_movie_iTunes	1
 the_arrangement_Lemmon	1
 the_organist_Mel	1
-this_movie_<br />	1
 TO_VB_NNS
 to_become_alcoholics	1
 to_make_things	1
@@ -14509,6 +14109,7 @@ fear_of_her	1
 sake_of_their	1
 function_of_his	1
 pain_bc_his	1
+envy_because_its	1
 wife_for_his	1
 role_of_his	1
 par_with_his	1
@@ -14574,9 +14175,8 @@ VBG_NNP_VB
 letting_IT_tell	1
 ,_VBG_TO
 ,_having_to	1
--RRB-_,_CC
--RRB-_,_but	2
--RRB-_,_and	2
+:_WRB_CD
+;_how_one	1
 JJ_NN_PRP$
 p.r._man_his	1
 misty_dream_our	1
@@ -14658,9 +14258,6 @@ NNP_VB_NNP
 Remick_play_Joe	1
 NNP_VB_NNS
 Remick_become_alcoholics	1
-PRP$_NNS_:
-their_lives_--	1
-his_pictures_;	1
 ,_VBZ_JJ
 ,_is_harsh	1
 IN_:_RB
@@ -14673,8 +14270,6 @@ such_a_great	1
 ,_NNP_RB
 ,_Joe_not	1
 ,_Joe_finally	1
--LRB-_WDT_RB
--LRB-_Which_certainly	1
 CC_NNS_IN
 and_shoulders_above	1
 and_effects_of	1
@@ -14682,6 +14277,7 @@ and_hers_in	1
 and_children_of	1
 and_damages_of	1
 DT_NN_WP
+a_mockingbird_who	1
 the_one_who	1
 a_woman_who	1
 a_housewife_who	1
@@ -14690,6 +14286,8 @@ the_director_who	1
 a_secretary_who	1
 a_girl_who	1
 a_couple_who	2
+IN_,_JJ
+for_,_long	1
 NN_IN_RB
 warning_that_even	1
 client_in_far	1
@@ -14719,8 +14317,6 @@ TO_NNP_IN
 to_Lemmon_for	1
 WDT_VBD_JJ
 which_typified_many	1
--LRB-_RB_NNP
--LRB-_not_Billy	1
 NNPS_,_WP
 Roses_,_What	1
 VBD_PRP$_NN
@@ -14729,11 +14325,14 @@ sent_my_mom	1
 doubted_his_capacity	1
 left_his_share	1
 found_their_way	1
+NN_WP$_NN
+scene_whose_brief	1
 JJ_MD_VB
 other_can_deal	1
 informative_would_be	1
 CC_NNP_RB
 but_Lemmon_even	1
+&_Cage_also	1
 NN_IN_NN
 fall_in_love	1
 vision_of_addiction	1
@@ -14867,6 +14466,7 @@ to_him_.	1
 to_me_.	1
 to_us_.	1
 JJ_RB_,
+uncommon_here_,	1
 fantastic_too_,	1
 ,_IN_DT
 ,_in_a	1
@@ -14913,8 +14513,6 @@ VBZ_NNP_IN
 degrades_Kirsten_for	1
 VBN_PRP_TO
 forced_herself_to	1
-PRP_._-RRB-
-me_!_-RRB-	1
 CC_PRP_MD
 But_we_must	1
 but_you_will	1
@@ -14946,8 +14544,6 @@ VBZ_VBG_WRB
 keeps_saying_how	1
 ''_VBG_DT
 ''_following_the	1
--LRB-_NNP_-RRB-
--LRB-_Remick_-RRB-	1
 NN_VBD_NNS
 alcoholism_became_drunks	1
 NNS_TO_VB
@@ -14989,8 +14585,6 @@ about_one_alcoholic	1
 VBG_NNP_POS
 watching_Scorsese_'s	1
 wiping_Joe_'s	1
-PRP_,_IN
-him_,_if	1
 ,_VBN_IN
 ,_developed_from	1
 ,_written_by	1
@@ -15033,19 +14627,19 @@ felt_that_the	1
 ,_most_of	1
 IN_NNS_VBZ
 about_alcoholics_is	1
--LRB-_IN_PRP
--LRB-_like_me	1
 NN_POS_JJ
 husband_'s_violent	1
 film_'s_painful	1
 alcohol_'s_maddening	1
+NN_JJ_NNS
+Apartment_young_women	1
+IN_NNS_VBD
+from_addictions_were	1
 NN_VBN_JJ
 reason_become_Violent	1
 JJ_RB_DT
 true_especially_these	1
 alcoholic_always_an	1
-VBZ_IN_-RRB-
-apologizes_for_-RRB-	1
 NNP_IN_DT
 Rhyne_at_a	1
 Lemmon_into_an	1

@@ -36,8 +36,6 @@ NN_IN_NN
 joy_of_learning	1
 fun_for_life	1
 reason_for_language	1
-NN_PRP_VBD
-<p>_I_learned	1
 JJ_''_IN
 natural_''_because	1
 NNS_IN_PRP
@@ -81,8 +79,6 @@ VBD_VBN_IN
 was_offered_on	1
 NN_VBZ_TO
 language_is_to	1
-IN_NNP_-RRB-
-for_Life_-RRB-	1
 DT_NNS_WP
 the_people_who	1
 JJ_IN_DT
@@ -103,12 +99,8 @@ IN_NNS_.
 in_tears_.	1
 IN_NNS_,
 Within_days_,	1
-NNP_-RRB-_,
-Life_-RRB-_,	1
 IN_NNS_:
 for_children_--	1
-IN_NNS_-LRB-
-for_Quitters_-LRB-	1
 VBZ_``_JJ
 becomes_``_natural	1
 VBN_IN_RB
@@ -125,8 +117,8 @@ they_heard_the	1
 I_learned_a	1
 ``_JJ_''
 ``_natural_''	1
-VB_PRP_VBD
-<p>_It_was	1
+NNP_,_PRP
+Life_,_I	1
 IN_NN_MD
 that_laypeople_could	1
 ,_CC_IN
@@ -223,6 +215,8 @@ VBG_NN_NN
 producing_sheet_music	1
 VBD_RB_IN
 was_only_after	1
+NNS_CC_PRP
+Quitters_and_it	1
 ,_PRP$_NN
 ,_my_son	1
 CC_VBZ_DT
@@ -233,6 +227,8 @@ VBD_TO_VB
 got_to_know	1
 managed_to_survive	1
 wanted_to_learn	1
+IN_NNP_,
+for_Life_,	1
 IN_NNP_.
 on_Amazon.com_.	1
 ,_VBD_RP
@@ -248,8 +244,6 @@ PRP_,_PRP
 you_,_you	1
 PRP_,_VBD
 it_,_played	1
--RRB-_,_PRP
--RRB-_,_I	1
 TO_VB_,
 to_play_,	2
 TO_VB_.
@@ -316,10 +310,7 @@ VB_DT_NN
 play_the_keyboard	1
 play_the_piano	2
 have_any_music	1
-<p>_The_premise	1
 know_the_keyboard	1
-NNS_-LRB-_CC
-Quitters_-LRB-_and	1
 PRP_VBD_VBG
 they_started_writing	1
 I_was_searching	1
@@ -332,8 +323,6 @@ his_other_jobs	1
 :_PRP_VBD
 --_I_managed	1
 --_he_ended	1
--LRB-_CC_PRP
--LRB-_and_it	1
 NN_,_CC
 creativity_,_or	1
 NNS_CC_JJ
@@ -802,6 +791,7 @@ first_and_learn	1
 NNS_VBG_IN
 composers_doing_that	1
 IN_NNS_CC
+for_Quitters_and	1
 with_chords_and	1
 DT_,_VBG
 that_,_learning	1

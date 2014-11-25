@@ -18,8 +18,6 @@ it_back	1
 it_well	1
 DT_FW
 This_dvd	1
-EX_DT
-there_a	1
 ,_IN
 ,_with	1
 ,_as	3
@@ -53,6 +51,7 @@ review_this	1
 get_a	1
 feel_the	1
 make_a	1
+tell_a	1
 be_the	1
 WRB_DT
 when_the	1
@@ -66,8 +65,6 @@ captivated_;	1
 IN_IN
 out_of	1
 so_that	1
-VBN_WRB
-heard_when	1
 RB_.
 worldwide_.	1
 best_.	1
@@ -100,6 +97,7 @@ know_and	1
 PRP_IN
 it_by	2
 it_on	1
+it_at	1
 you_for	1
 PRP$_FW
 my_fav	1
@@ -116,13 +114,12 @@ JJ_CC
 live_and	1
 large_and	1
 loud_but	1
+interrupted_but	1
 potent_but	1
-VB_-RRB-
-tell_-RRB-	1
+EX_DT
+there_a	1
 IN_VBZ
 as_is	1
-VBZ_EX
-Is_there	1
 WRB_PRP
 when_you	1
 when_he	1
@@ -169,8 +166,8 @@ colleagues_which	1
 ,_half	1
 PRP$_RB
 his_very	1
-NN_-RRB-
-crowd_-RRB-	1
+VBN_WRB
+heard_when	1
 WP_VBP
 who_are	1
 who_know	1
@@ -269,8 +266,6 @@ DT_VBP
 the_drum	1
 a_listen	1
 a_bless	1
-NNP_NNS
-Reggae_fans	2
 DT_VBG
 the_drumming	2
 an_quoting	1
@@ -317,19 +312,13 @@ it_screams	1
 he_'s	4
 it_does	1
 it_'s	1
-FW_PRP
-<br />_I	1
 DT_RBR
 the_more	1
--RRB-_.
--RRB-_.	2
 NNS_MD
 people_should	1
 TO_NNP
 to_ATLANTA	1
 to_Lucky	1
-DT_JJR
-a_better	1
 VBP_EX
 know_there	1
 VBP_NN
@@ -338,8 +327,6 @@ drum_solo	1
 PRP_:
 it_-	1
 him_-	1
-VBN_-RRB-
-intended_-RRB-	1
 IN_.
 for_.	2
 RB_IN
@@ -368,8 +355,6 @@ me_watching	1
 DT_CD
 a_1/4	1
 the_90	1
-VB_-LRB-
-provide_-LRB-	1
 CC_PRP
 and_they	1
 or_they	2
@@ -434,7 +419,6 @@ RB_,
 Nonetheless_,	1
 FW_FW
 dvd_kinda	1
-<br />_<br />	5
 fav_reggae	1
 PRP$_NN
 my_advice	1
@@ -471,13 +455,13 @@ low_,	1
 JJ_.
 busy_.	1
 good_.	2
+DVD-like_.	1
 bad_.	1
 Brilliant_.	1
+grand_.	1
 tinny_.	1
 great_.	1
 unbelievable_.	1
--LRB-_CC
--LRB-_but	1
 VBD_RB
 was_still	1
 NN_DT
@@ -495,8 +479,6 @@ captured_on	1
 recorded_in	1
 biased_because	1
 shot_in	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 styles_.	1
 Roots_.	1
@@ -515,8 +497,6 @@ shirts_,	1
 fans_,	2
 ,_VBP
 ,_live	1
--RRB-_DT
--RRB-_a	1
 TO_DT
 to_the	4
 to_a	1
@@ -575,8 +555,6 @@ DVD_will	1
 VB_NN
 fall_asleep.I	1
 GET_THIS	1
--RRB-_CC
--RRB-_and	1
 NN_NNS
 camo_fatigues	1
 something_people	1
@@ -596,9 +574,8 @@ DT_RB
 a_little	1
 an_so	1
 both_very	2
-JJ_-RRB-
-grand_-RRB-	1
-DVD-like_-RRB-	1
+VBD_CC
+expected_and	1
 PRP$_NNS
 My_Roots	1
 PRP$_NNP
@@ -633,6 +610,7 @@ that_is	2
 -_the	2
 JJ_DT
 worth_a	1
+unbelievable_no	1
 brilliant_an	1
 VBG_TO
 According_to	1
@@ -650,8 +628,6 @@ can_get	1
 should_die	1
 must_have	2
 can_crank	1
-PRP_-LRB-
-it_-LRB-	1
 NN_VBN
 pun_intended	1
 NNS_VBP
@@ -698,9 +674,8 @@ more_radical	1
 VB_,
 Suffer_,	1
 watch_,	1
-WDT_VBP
-that_keep	1
-which_are	1
+NN_VB
+man_perform	1
 CC_VB
 but_live	1
 and_feel	1
@@ -725,9 +700,8 @@ RP_CC
 up_and	2
 VB_.
 perform_.	1
-FW_DT
-<br />_The	2
 NN_NN
+Dube_dj&uacute;bei	1
 bass_groove	1
 surplus_camo	1
 reggae_audience	1
@@ -902,8 +876,9 @@ spice_or	2
 tape_and	1
 venue_and	1
 sound_and	2
-NN_-LRB-
-Dube_-LRB-	1
+WDT_VBP
+that_keep	1
+which_are	1
 IN_,
 for_,	1
 at_,	1
@@ -927,21 +902,22 @@ guitar_is	1
 DVD_is	2
 band_seems	2
 gig_is	1
-solo_is	1
+song_is	1
 voice_is	1
-performance_is	1
+dvd_is	1
 drummer_performs	1
 band_is	1
-song_is	1
+performance_is	1
 groove_is	1
 version_has	1
 audio_is	1
 tape_is	1
 DVD_captures	1
+crowd_is	1
 imaging_is	1
 music_is	2
 style_is	1
-dvd_is	1
+solo_is	1
 POS_.
 's_.	1
 NNP_VBG
@@ -961,12 +937,10 @@ you_either	1
 NN_VBP
 picture_are	2
 picture_have	1
--LRB-_IN
--LRB-_at	1
 NNP_POS
 Lucky_'s	1
-VBD_CC
-expected_and	1
+DT_JJR
+a_better	1
 DT_WP
 those_who	1
 NN_RB
@@ -985,12 +959,8 @@ good_that	1
 mixed_in	1
 DT_,
 That_,	2
-NN_VB
-man_perform	1
 NNS_NN
 vhs_version	1
--LRB-_RB
--LRB-_almost	1
 NN_RP
 sound_up	1
 PRP_,
@@ -1007,14 +977,12 @@ reaches_the	1
 is_a	3
 captures_the	1
 asks_the	1
-JJ_-LRB-
-unbelievable_-LRB-	1
-interrupted_-LRB-	1
+PRP_RP
+it_up	1
 ._''
 ._''	1
-FW_NNP
-<br />_Sound	1
-<br />_Picture	1
+NNP_NNS
+Reggae_fans	2
 NNP_NNP
 AND_TURN	1
 !!!_Thanx	1
@@ -1085,8 +1053,6 @@ NNP_VBD
 GA_durung	1
 NN_''
 message_''	1
-PRP_RP
-it_up	1
 TO_NNS
 to_reviews	1
 RB_VBG
@@ -1106,19 +1072,23 @@ VBZ_PRP
 describes_it	1
 VBN_CC
 closed_and	1
+intended_and	1
 VBN_TO
 blessed_to	1
 told_to	2
 introduced_to	1
 oppossed_to	2
--LRB-_DT
--LRB-_no	1
--LRB-_NN
--LRB-_dj&uacute;bei	1
-:_VBN
-..._captured	1
+VBZ_EX
+Is_there	1
+VB_RB
+provide_almost	1
 PRP_VB
 me_fall	1
+:_VBN
+..._captured	1
+VBD_NN
+was_ALL	1
+guaranteed_!!!!!!	1
 CC_NNS
 and_people	1
 and_rimhots	1
@@ -1132,9 +1102,6 @@ live_on	1
 REALLY_LIKE	1
 NNP_TO
 Born_to	1
-VBD_NN
-was_ALL	1
-guaranteed_!!!!!!	1
 :_VBZ
 -_is	1
 VBG_PRP

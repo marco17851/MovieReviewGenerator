@@ -21,14 +21,12 @@ VBZ_JJ
 is_fantastic	1
 CD_JJ
 one_long	1
-FW_FW
-<br />_<br />	1
+DT_NN
+this_disc	1
 NNP_NNP
 Pretty_Sammy	1
 JJ_.
 fantastic_.	1
-FW_NNP
-<br />_This	1
 VBZ_CD
 is_one	1
 VBP_JJ
@@ -47,8 +45,6 @@ NNS_CC
 stories_and	1
 ._''
 ?_''	1
-NNP_RB
-This_actually	1
 WP_IN
 What_if	1
 NN_.
@@ -57,5 +53,5 @@ PRP_VBP
 I_love	1
 VB_RP
 spin_off	1
-DT_NN
-this_disc	1
+NNP_RB
+This_actually	1

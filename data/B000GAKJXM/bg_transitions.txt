@@ -43,7 +43,7 @@ VBP_CD	1
 VBP_NN	1
 VBP_DT	1
 CD_FW
-FW_IN	1
+IN_PRP	1
 PRP_VBD
 ``_NN	1
 CD_NNS
@@ -70,10 +70,10 @@ VBN_IN	1
 PRP_VBZ
 RBR_JJ	1
 NNP_CD
+FW_IN	1
 ,_''	1
 ''_WRB	1
 ''_VBD	1
-FW_FW	1
 ''_VBZ	3
 ''_IN	1
 JJ_,
@@ -104,8 +104,6 @@ NNP_,
 CC_DT	2
 NNPS_IN
 NNP_CD	3
-FW_FW
-IN_PRP	1
 ,_``
 WRB_VBD	1
 NNP_:

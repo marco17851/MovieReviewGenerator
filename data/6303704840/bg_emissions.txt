@@ -24,6 +24,7 @@ PRP$_NNS
 his_drinks	1
 his_characters	1
 VB_DT
+hide_the	1
 translocate_the	1
 IN_VBG
 as_being	1
@@ -41,15 +42,13 @@ VBD_CD
 was_one	1
 NN_TO
 compassion_to	1
--LRB-_NNP
--LRB-_Adam	1
--LRB-_Martin	1
--LRB-_Alexandra	1
-NNP_-RRB-
-Tattoo_-RRB-	1
-Ant_-RRB-	1
-Kemp_-RRB-	1
-Paul_-RRB-	1
+PRP_IN
+her_in	1
+him_into	2
+him_for	1
+you_on	1
+it_that	1
+it_as	1
 RBR_JJ
 more_known	1
 NNS_DT
@@ -62,8 +61,6 @@ top_but	1
 WRB_PRP
 when_I	1
 how_it	1
--RRB-_IN
--RRB-_of	1
 CC_CC
 but_but	1
 PRP$_JJ
@@ -149,10 +146,6 @@ you_involved	1
 PRP_VBZ
 It_has	1
 it_ends	1
--RRB-_,
--RRB-_,	2
--RRB-_.
--RRB-_.	1
 NNP_CC
 Wells_and	1
 Hong_and	1
@@ -169,8 +162,6 @@ so_since	1
 ,_particularly	1
 PRP$_VBG
 his_acting	1
-VB_-LRB-
-hide_-LRB-	1
 CC_PRP
 and_it	1
 but_I	1
@@ -212,11 +203,14 @@ implementation_,	1
 temptress_,	1
 design_,	1
 NNP_,
+Paul_,	1
 Wells_,	1
+Kemp_,	1
 Hays_,	1
 Jones_,	1
 Airplane_,	1
 NNP_.
+Tattoo_.	1
 Hayes_.	1
 Wells_.	1
 CC_VBZ
@@ -253,12 +247,10 @@ VBD_RB
 was_quite	1
 did_n't	1
 was_unjustly	1
--RRB-_VBP
--RRB-_have	1
+NN_DT
+round_a	1
 RB_,
 alone_,	1
-''_-RRB-
-''_-RRB-	1
 VBN_IN
 ruled_by	1
 typecast_as	1
@@ -379,12 +371,10 @@ VBP_IN
 are_at	1
 MD_VB
 will_remember	1
-NNS_VBP
-accents_are	1
 NN_VBN
 leave_interrupted	1
-VBP_VBN
-have_seen	1
+NNS_VBP
+accents_are	1
 VBG_DT
 having_the	1
 being_an	1
@@ -392,17 +382,8 @@ paying_a	1
 PRP_MD
 I_ca	1
 she_will	1
-PRP_IN
-her_in	1
-him_into	2
-him_for	1
-you_on	1
-it_that	1
-it_as	1
-NNP_-LRB-
-Manny_-LRB-	1
-Rebecca_-LRB-	1
-Morris_-LRB-	1
+VBP_VBN
+have_seen	1
 VBP_PRP$
 have_their	1
 JJS_IN
@@ -436,8 +417,8 @@ opposition_troupe	1
 travelogue_footage	1
 budget_film	1
 book_background	1
--LRB-_DT
--LRB-_the	1
+NNP_''
+Tattoo_''	1
 DT_NNS
 The_accents	1
 the_minds	1
@@ -457,6 +438,8 @@ Both_Martin	1
 an_Adam	1
 EX_VBD
 there_were	1
+''_IN
+''_of	1
 ,_JJ
 ,_sexy	1
 ,_realistic	1
@@ -510,10 +493,9 @@ time_.	1
 film_.	2
 VBN_NN
 financed_development	1
-NN_DT
-round_a	1
 NNP_VBP
 Ant_are	1
+Ant_have	1
 WDT_VBZ
 which_contains	1
 that_is	1
@@ -537,8 +519,6 @@ freedom_but	1
 acting_and	1
 escape_and	1
 lover_and	1
-NN_-LRB-
-action_-LRB-	1
 VB_JJ
 get_good	1
 be_able	1
@@ -602,14 +582,17 @@ is_the	1
 steals_a	1
 NNP_NNP
 Erik_Fleming	1
+Rebecca_Alexandra	1
 Martin_Kemp	2
 Alexandra_Paul	1
 Robert_Hayes	1
+Manny_Adam	1
 James_Hong	1
 Robert_Hays	1
 Grace_Jones	1
 James_Robinson	1
 Jack_Morris	1
+Morris_Martin	1
 Morgan_Wells	1
 Adam_Ant	3
 VBZ_NNS
@@ -651,8 +634,6 @@ understands_she	1
 keeps_you	1
 VBN_TO
 engineered_to	1
--LRB-_RBR
--LRB-_more	1
 PRP_VB
 it_get	1
 ,_NNP
@@ -662,8 +643,8 @@ CC_NNP
 and_Adam	1
 VBG_NNS
 acting_abilites	1
-NNP_''
-Tattoo_''	1
+NN_RBR
+action_more	1
 VB_RP
 bring_out	1
 IN_DT

@@ -1,7 +1,5 @@
 NNP_WDT
 Thi_that	1
-TO_PRP$
-to_my	1
 IN_NN
 with_Bollywood	1
 ``_JJ
@@ -13,8 +11,6 @@ Urmila_as	1
 Saif_in	1
 DT_NNS
 The_principals	1
-NNS_-LRB-
-principals_-LRB-	1
 CC_JJ
 and_good	1
 and_unusual	1
@@ -24,8 +20,6 @@ VB_DT
 be_the	1
 deserve_the	1
 show_this	1
-VBN_LS
-ordered_i	1
 IN_VBG
 as_seeing	1
 VBZ_JJ
@@ -34,8 +28,6 @@ has_clear	1
 NN_TO
 movie_to	1
 nothing_to	1
--LRB-_NNP
--LRB-_Urmila	1
 PRP_IN
 them_in	1
 CC_RB
@@ -50,8 +42,8 @@ PRP$_JJ
 your_average	1
 WDT_MD
 that_could	1
-WRB_VBD
-where_was	1
+VB_VBN
+be_called	1
 IN_PRP
 of_it	1
 that_we	1
@@ -141,8 +133,6 @@ Mumbai_,	1
 Matondkar_,	2
 CC_VBZ
 but_does	1
-CC_FW
-and_i	1
 FW_FW
 ?!!_i	1
 in_amazon	1
@@ -163,8 +153,6 @@ VBD_RB
 was_simply	1
 was_so	1
 was_very	1
--RRB-_VBP
--RRB-_demonstrate	1
 RB_,
 Actually_,	1
 ago_,	1
@@ -203,11 +191,15 @@ found_it	1
 NN_NNS
 fight_scenes	1
 Bollywood_movies	1
+NNS_NNP
+principals_Urmila	1
 VBG_PRP
 seeing_them	1
 DT_RB
 a_fairly	1
 a_deliciously	1
+RB_NNP
+anyway_Ek	1
 NN_PRP
 fate_she	1
 ''_WDT
@@ -221,14 +213,12 @@ RB_CC
 throughout_and	1
 MD_VB
 could_be	1
+CC_FW
+and_i	1
 NNS_VBP
 scenes_are	1
-VB_VBN
-be_called	1
 IN_CD
 for_2	1
-NNP_-RRB-
-Biswas_-RRB-	1
 ,_DT
 ,_a	1
 VBP_VBN
@@ -298,15 +288,16 @@ ending_.	1
 judge_!	1
 subtitle_.	1
 part_.	1
--RRB-_NNP
--RRB-_Ek	1
 NN_IN
 flick_with	1
 lot_of	1
+film_by	1
 stuff_for	1
 case_with	1
 friend_with	1
 moment_of	1
+NNP_VBP
+Biswas_demonstrate	1
 WDT_VBZ
 which_is	1
 that_'s	1
@@ -318,8 +309,8 @@ performances_from	1
 roles_that	1
 NNP_VBZ
 Thi_is	1
-NN_-LRB-
-film_-LRB-	1
+VBN_LS
+ordered_i	1
 TO_VB
 to_find	1
 to_show	1
@@ -345,8 +336,6 @@ WRB_FW
 when_i	1
 NN_VBP
 suspense_are	1
--LRB-_IN
--LRB-_by	1
 JJ_FW
 glad_i	1
 DT_JJS
@@ -390,8 +379,10 @@ so_disappointed	1
 JJ_''
 typical_''	1
 anti-heroine_''	1
-RB_-RRB-
-anyway_-RRB-	1
+TO_PRP$
+to_my	1
+WRB_VBD
+where_was	1
 RB_VBN
 well_maintained	1
 not_accustomed	1

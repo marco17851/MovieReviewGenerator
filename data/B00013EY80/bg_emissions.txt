@@ -36,8 +36,8 @@ trucks_why	1
 VBG_VBN
 being_taped	1
 being_videotaped	1
-FW_DT
-<br />_The	1
+VBN_VBN
+been_shown	1
 NNP_IN
 Lulubelle_from	1
 Bobby_on	1
@@ -91,9 +91,8 @@ Thanks_to	1
 companies_to	1
 VBZ_``
 does_``	1
-IN_IN
-by_for	1
-at_That	1
+IN_VBG
+That_Moving	1
 POS_NN
 's_audience	1
 's_piano	1
@@ -349,8 +348,6 @@ DT_VBZ
 this_is	1
 This_is	1
 that_is	2
-NNP_NNS
-Bobby_fans	1
 DT_VBG
 the_Moving	1
 VBN_RP
@@ -402,8 +399,6 @@ he_comes	1
 he_says	1
 ``_VBZ
 ``_is	1
-VBN_VBN
-been_shown	1
 ._''
 ?_''	1
 ._''	2
@@ -442,8 +437,6 @@ $_38,000	1
 ,_mostly	1
 RB_CC
 sometimes_and	1
-FW_``
-<br />_``	2
 CC_PRP
 but_I	1
 and_I	2
@@ -471,8 +464,6 @@ myself_,	1
 him_,	1
 TO_PRP
 to_him	1
--RRB-_VBP
--RRB-_sing	1
 IN_PRP$
 at_his	1
 with_my	1
@@ -530,8 +521,9 @@ PRP_WRB
 it_whenever	1
 JJ_VBN
 significant_filmed	1
-FW_FW
-<br />_<br />	6
+IN_IN
+by_for	1
+at_That	1
 RB_.
 again_.	1
 worldwide_.	1
@@ -594,8 +586,6 @@ soft_.	1
 overwhelming_.	1
 good_.	3
 personal_.	1
--LRB-_CC
--LRB-_and	1
 VBD_RB
 was_too	1
 were_there	1
@@ -778,6 +768,7 @@ Noel_and	1
 Ellington_and	1
 Jay_and	1
 Carlyle_but	1
+Short_and	1
 Carlyle_and	1
 Rodgers_&	1
 Bobby_and	1
@@ -847,8 +838,8 @@ had_his	1
 ,_some	2
 ,_The	1
 ,_this	1
-NNP_-LRB-
-Short_-LRB-	1
+VBP_VBN
+are_seen	1
 NNP_VBZ
 Carlyle_is	1
 Short_says	1
@@ -893,13 +884,12 @@ to_such	1
 to_beautiful	1
 ``_PRP
 ``_I	1
-FW_NNP
-<br />_Bobby	2
-<br />_Short	1
+RP_CC
+up_and	1
+NNS_VBP
+sidemen_sing	1
 CC_``
 and_``	1
-NNS_-RRB-
-sidemen_-RRB-	1
 NN_NN
 TV_audience	1
 saloon_singer	3
@@ -1126,7 +1116,6 @@ performance_because	1
 performance_at	1
 cafe_for	1
 edition_of	1
-<br />_For	1
 presentation_of	1
 show_because	1
 passion_for	1
@@ -1314,12 +1303,8 @@ all_,	2
 ''_he	1
 VBG_JJ
 performing_nightly	1
-IN_VBG
-That_Moving	1
 VBG_RP
 including_up	1
-VBP_VBN
-are_seen	1
 IN_:
 in_...	1
 NN_JJ
@@ -1336,8 +1321,8 @@ CD_NN
 one_night	1
 VBZ_NNP
 shows_Bobby	1
-RP_CC
-up_and	1
+NNP_NNS
+Bobby_fans	1
 NNP_NNP
 Leah_Jay	1
 Hotel_Carlyle	1

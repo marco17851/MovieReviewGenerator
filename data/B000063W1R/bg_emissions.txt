@@ -87,10 +87,8 @@ VBP_JJR
 think_more	1
 NNS_PRP$
 tunnels_his	1
-FW_DT
-<br />_These	1
-<br />_This	1
-<br />_The	3
+VBG_VBD
+Having_said	1
 PRP_RBR
 it_more	1
 POS_NNS
@@ -159,8 +157,8 @@ of_``	4
 VBP_.
 suppose_.	1
 concur_.	1
-POS_CC
-'_and	1
+FW_NN
+SEEN_EM	1
 VBP_CD
 watch_one	1
 are_two	1
@@ -208,8 +206,6 @@ that_could	1
 that_should	1
 that_may	1
 that_would	3
-VBG_VBD
-Having_said	1
 VB_TO
 walk_to	1
 have_to	2
@@ -281,12 +277,9 @@ what_happens	1
 who_plays	2
 who_takes	1
 who_teaches	1
--RRB-_,
--RRB-_,	15
--RRB-_.
--RRB-_.	15
 NNP_CC
 Villefort_and	1
+Edmond_and	1
 Education_or	1
 Edmund_and	1
 Harris_and	2
@@ -300,7 +293,7 @@ France_and	2
 God_and	1
 Confidential_and	1
 Three_and	1
-Edmond_and	1
+Dominczyk_and	1
 WP_MD
 what_would	1
 who_may	1
@@ -315,12 +308,13 @@ mistaken_.	1
 long_!	1
 superb_.	1
 same_.	1
-satisfying_.	1
+satisfying_.	2
 unrealistic_.	1
 ridiculous_!	1
 outstanding_.	1
 true_.	1
 exciting_.	1
+half-bad_.	1
 brief_.	1
 likable_.	1
 convincing_.	1
@@ -354,22 +348,14 @@ stunning_.	1
 murky_.	1
 good_!	1
 bloody_.	1
-VB_-LRB-
-swallow_-LRB-	1
-gore_-LRB-	1
--RRB-_:
--RRB-_;	1
 RBS_JJ
 most_favorite	1
 most_recent	1
-''_-LRB-
-'_-LRB-	1
 :_NN
 --_kinda	1
 ..._boy	1
 ;_life	1
 -_romance	1
-:_<br />	1
 IN_PRP$
 for_my	1
 though_her	1
@@ -497,6 +483,7 @@ know_about	1
 remade_in	1
 entertain_while	1
 captain_of	2
+add_on	1
 throw_in	1
 drag_for	1
 delight_in	1
@@ -507,6 +494,7 @@ see_that	1
 benefit_from	1
 Overcome_by	1
 stop_at	1
+swallow_that	1
 say_about	1
 live_after	1
 work_with	1
@@ -552,9 +540,11 @@ was_extreamly	1
 was_really	1
 came_out	2
 NN_DT
+ending_no	1
 watch_this	1
 something_a	1
 way_this	1
+line_the	1
 heartbeat_a	1
 friendship_all	1
 book_a	1
@@ -564,6 +554,7 @@ digging_a	1
 ROMANCE_this	1
 gettin_this	1
 Love_the	1
+man_the	1
 everything_a	1
 motion_a	1
 VBN_JJR
@@ -622,6 +613,8 @@ recognize_Dantes	1
 have_Edmond	1
 NNS_NNP
 plots_Dantes	1
+movies_York	1
+Adults_Rating	1
 mentors_Dantes	1
 NNS_NNS
 STARS_hands	1
@@ -629,8 +622,6 @@ WRB_,
 where_,	1
 JJS_JJ
 latest_big-screen	1
--RRB-_TO
--RRB-_to	1
 VBD_JJ
 served_cold	1
 was_fortunate	2
@@ -826,6 +817,7 @@ exist_.	1
 grow_.	1
 end_.	1
 enjoy_.	1
+speak_.	1
 hate_.	1
 come_.	1
 JJ_TO
@@ -856,12 +848,14 @@ intricacies_intact	1
 effects_laden	1
 techniques_reminiscent	1
 things_interesting	1
-FW_NNP
-<br />_Richard	1
-<br />_Available	1
--LRB-_DT
--LRB-_the	4
--LRB-_no	1
+WP_.
+what_?	1
+who_?	1
+NNP_''
+Koyanisquaatsi_'	1
+Cristo_''	4
+Celebration_'	1
+Christo_''	3
 DT_NNS
 the_movies	1
 the_theaters	1
@@ -1077,11 +1071,13 @@ scenes_and	1
 twists_and	4
 days_and	1
 friends_and	1
+swordfights_and	1
 emperors_and	1
 trumped-charges_and	1
 quips_and	1
 characters_and	1
 unknowns_and	1
+hours_and	1
 clich&eacute;s_and	1
 mansions_and	1
 adaptations_and	1
@@ -1092,6 +1088,7 @@ costumes_and	1
 VBN_PRP
 wronged_him	2
 viewed_it	1
+betrayed_we	1
 loved_it	1
 VBP_IN
 recall_that	1
@@ -1110,22 +1107,24 @@ learn_that	1
 come_from	1
 NN_CC
 line_and	1
+entertainment_and	1
 quality_and	1
 planning_and	1
 time_and	2
 girlfriend_and	2
 remake_but	1
 sailor_and	1
-entertainment_and	1
+source_but	1
 warmth_and	1
 end_but	1
 library_or	1
-rival_and	1
+drag_but	1
 treachery_and	1
 movie_and	8
 play_and	1
 attention_and	1
 betrayal_and	1
+tension_and	1
 wit_and	1
 character_and	1
 vengeance_and	1
@@ -1141,12 +1140,13 @@ violence_and	1
 face_and	1
 screenplay_and	1
 story_and	1
-<p>_But	1
+situation_and	1
 mustache_and	1
 language_and	1
 prowess_and	1
 look_and	1
 simplicity_and	1
+rival_and	1
 fire_and	1
 bookstore_and	1
 language_or	1
@@ -1157,7 +1157,6 @@ editing_and	1
 power_and	1
 blood_and	2
 nobility_and	1
-situation_and	1
 sex_and	1
 heart_and	1
 husband_and	1
@@ -1167,7 +1166,7 @@ voice_and	1
 lighting_and	1
 imagination_and	1
 film_and	2
-book_and	4
+book_and	5
 romance_and	2
 adventure_and	1
 acting_and	1
@@ -1175,16 +1174,19 @@ sex_or	1
 plot_AND	1
 ovation_and	1
 screen_and	1
-book_or	1
+appearance_and	1
+book_or	2
 revenge_and	1
 surperb_and	1
 revenge_or	1
-appearance_and	1
+case_and	1
 TO_CD
 to_one	1
 WDT_PRP
 whatever_it	1
 THAT_YOU	1
+JJ_FW
+stilted_eg	1
 DT_JJS
 the_most	2
 this_latest	2
@@ -1201,20 +1203,19 @@ the_older	1
 DT_WP
 those_who	7
 NN_JJ
-character_driven	1
 cast_befitting	1
-<br />_exceptional	1
-movie_great	1
+age_old	1
+movie_great	2
 nothing_bad	1
 hastle_free	1
 %_close	1
-age_old	1
+plot_exceptional	1
 finish_complete	1
 HUGE_A-list	1
 life_interested	1
 movie_numerous	1
 proof_positive	1
-<br />_great	1
+character_driven	1
 Anyone_familiar	1
 explosion_oriented	1
 span_common	1
@@ -1228,18 +1229,21 @@ Caviezel_excels	1
 God_themes	1
 Pearce_chews	1
 NNP_NNP
+Mercedes_Dagmara	2
 Gransons_Favorite	1
+Reynolds_This	1
 JIM_CAVAZIEL	1
 Kevin_Reynold	1
 Monte_Cristo	25
-<p>_This	4
+Iguanada_Dagmara	1
+Kevin_Reynolds	4
 Edmund_Dantes	1
 WEARING_OUT	1
-<br />_Rating	1
-L.A._Confidential	1
-IT_AGAIN	1
 Luigi_Vampa	1
+IT_AGAIN	1
+Hidden_Dragon	1
 Alexander_Dumus	1
+Faria_Richard	3
 MAY_ALREADY	1
 Guy_Peirce	1
 THIS_MOVIE	1
@@ -1253,35 +1257,30 @@ Guy_Peerce	1
 Barry_Lyndon	1
 Bernard_Shaw	1
 Jim_C.	1
-<p>_The	1
+Dantes_Jim	2
 Armand_Dorelac	1
-<br />_Rent	1
 Guy_Pierce	2
 Dagmara_Dominczyk	5
 OSCAR_CALIBER	1
-<br />_Recommended	1
+Jay_Wolpert	3
 George_Bernard	1
 MOVIE_EVER	1
 BEST_MOVIE	1
-<br />_Richard	1
 MONTE_CRISTO	3
-Reynolds_<p>	1
+L.A._Confidential	1
 Rob_Roy	1
-Hidden_Dragon	1
+Jacopo_Luis	1
 Fernand_Mondego	3
 The_Count	1
-<p>_Mondego	1
 Le_Comte	2
 Luis_Guizman	1
 Alexandre_Dumas	7
 Lius_Guzman	1
-EVEN_GOT	1
 Gerald_Depardieu	1
 Guy_Pearce	16
 Jim_C	1
 Abbe_Faria	1
 Crouching_Tiger	1
-<p>_Jim	1
 Monte_Christo	5
 Chateau_D'If	1
 Napoleon_Bonaparte	1
@@ -1289,21 +1288,19 @@ Dagmara_Domincyzk	3
 Richard_Harris	12
 Moulin_Rouge	1
 Edmond_Dantes	6
-Jay_Wolpert	3
+EVEN_GOT	1
 Time_Machine	1
-<br />_Jim	1
-GOT_SOME	1
 Daniel_Day-Lewis	1
-<br />_Guy	1
+James_Frain	1
 James_Calaziel	1
 Michael_Wincott	3
+Mondego_Guy	3
 SOME_COMEDY	1
-James_Frain	1
 COMPLETE_OPPOSITE	1
 Mercedes_Iguanada	1
 ITS_OSCAR	1
 The_Time	1
-Kevin_Reynolds	4
+GOT_SOME	1
 fianc&eacute;_Mercedes	1
 New_Cinema	1
 Errol_Flynn	1
@@ -1467,23 +1464,10 @@ is_where	1
 's_why	1
 WDT_JJ
 What_other	1
--LRB-_CD
--LRB-_131	1
 VB_WP
 expect_what	1
 see_what	1
 know_what	1
--LRB-_CC
--LRB-_or	1
--LRB-_but	1
--LRB-_and	3
-NNS_-LRB-
-years_-LRB-	1
-characters_-LRB-	1
-sequences_-LRB-	1
-movies_-LRB-	1
-hours_-LRB-	1
-swordfights_-LRB-	1
 DT_.
 that_.	1
 some_.	1
@@ -1549,18 +1533,6 @@ may_or	1
 ,_where	3
 VBD_CD
 was_one	1
-NNP_-RRB-
-Machine_-RRB-	1
-Flynn_-RRB-	1
-Kubrick_-RRB-	1
-Caviezel_-RRB-	2
-Mercedes_-RRB-	1
-Dominczyk_-RRB-	3
-Harris_-RRB-	3
-Pearce_-RRB-	2
-Guzman_-RRB-	1
-Dantes_-RRB-	1
-Pierce_-RRB-	1
 CC_RB
 but_honestly	1
 But_thankfully	1
@@ -1695,18 +1667,18 @@ for_yourself	1
 that_we	1
 ''_.
 ''_.	3
+'_.	1
 ''_,
 '_,	1
-PRP_-RRB-
-me_-RRB-	1
 ,_FW
 ,_etc.	1
 :_NNP
+:_Jim	1
 :_Michael	1
 -_ITS	1
-:_Daniel	1
 ..._Jim	1
 :_Monte	1
+:_Daniel	1
 PRP_VBD
 I_happened	1
 I_had	2
@@ -2159,8 +2131,6 @@ he_deserves	1
 It_is	3
 it_promises	1
 it_lacks	1
-FW_PRP
-<br />_I	1
 PRP_:
 it_-	1
 IN_.
@@ -2170,6 +2140,12 @@ between_.	1
 with_.	1
 about_.	1
 like_.	1
+FW_FW
+PLEASE_GO	1
+DO_NOT	1
+aka_Festen	1
+monte_cristo	1
+'VE_SEEN	1
 WP_NNS
 who_mentors	1
 ``_DT
@@ -2189,111 +2165,9 @@ CC_VBP
 and_are	1
 and_include	1
 NNP_WDT
-ZORRO_which	1
+Waterworld_which	1
 Napoleon_which	1
-RB_JJ
-very_funny	1
-really_good	1
-also_top-notch	2
-little_predictable	1
-even_sure	1
-truly_amazing	1
-elegantly_beautiful	1
-very_short	1
-surprisingly_well-directed	1
-never_bad	1
-Very_good	1
-here_venomous	1
-so_sexy	1
-even_aluded	1
-pretty_good	1
-visually_stunning	1
-simply_magnificent	1
-quite_long	1
-as_good	1
-well_aware	1
-so_glad	1
-So_good	1
-very_believeable	1
-not_worth	1
-very_nice	1
-always_excellent	1
-very_good	2
-so_dramatic	1
-very_captivating	1
-very_interesting	1
-too_loud	1
-rather_poor	1
-little_hard	1
-eminently_watchable	1
-completely_remarkable	1
-stunningly_beautiful	1
-rather_special	1
-pretty_much	1
-extremely_talented	1
-also_refreshing	1
-so_believable	2
-very_minor	1
-too_brief	2
-often_hilarious	1
-too_over-the-top	1
-indeed_refreshing	1
-so_entertaining	1
-too_much	4
-very_satisfying	1
-enough_good	1
-so_lucky	1
-currently_available	1
-too_pat	1
-so_innocent	1
-very_vocal	1
-hardly_detrimental	1
-so_dark	1
-so_weak	1
-very_enjoyable	1
-very_well-done	1
-so_many	2
-little_predicatable	1
-perfectly_balanced	1
-ESPECIALLY_short	1
-not_familiar	2
-little_murky	1
-only_mild	1
-immensely_satisfying	1
-rather_long	1
-nearly_impossible	1
-Also_worthy	1
-very_different	1
-too_short	1
-n't_half-bad	1
-extreamly_fast	1
-totally_unrealistic	1
-pretty_decent	1
-Very_romantic	1
-absolutely_stunning	1
-perhaps_due	1
-very_rich	1
-faintly_unsatisying	1
-dis_likable	1
-well_worth	3
-deliciously_evil	1
-Too_many	1
-too_hard	1
-equally_jealous	1
-particularly_jealous	1
-absolutely_top	1
-so_impressed	1
-utterly_beautiful	1
-totally_ridiculous	1
-historically_correct	1
-so_tiresome	1
-too_flamboyant	1
-just_perfect	1
-so_much	1
-always_off-stage	1
-now_free	1
-nearly_unheard	1
-insanely_long	1
+ZORRO_which	1
 PRP_VB
 him_get	1
 you_remember	2
@@ -2409,8 +2283,6 @@ magnificent_,	1
 intact_,	1
 naive_,	1
 entertaining_,	1
-FW_EX
-<br />_There	1
 JJR_NNS
 younger_boys	1
 more_ways	1
@@ -2466,6 +2338,7 @@ sacrificed_for	1
 written_with	1
 written_by	1
 poisoned_by	1
+acted_except	1
 directed_by	1
 turned_into	1
 known_with	1
@@ -2537,7 +2410,6 @@ standout_performances	1
 action_aficionados	1
 sword_fights	3
 action_sequences	2
-<br />_Thanks	1
 movie_expectations	1
 blood_enemies	1
 prison_scenes	1
@@ -2551,7 +2423,6 @@ NN_NNP
 revenge_Edmond	1
 veteran_Richard	1
 casting_Director	1
-<br />_Jim	1
 century_France	1
 friend_Fernand	1
 friend_Mondego	1
@@ -2563,7 +2434,6 @@ director_Kevin	1
 screenwriter_Jay	2
 prisoner_Faria	1
 lady_Dagmara	1
-<p>_James	1
 writer_Jay	1
 actor_Michael	1
 actress_Dagmara	1
@@ -2585,8 +2455,6 @@ IN_JJS
 than_most	1
 In_most	1
 At_least	1
-POS_-RRB-
-'_-RRB-	2
 VBD_WRB
 was_where	1
 PRP_WRB
@@ -2709,9 +2577,6 @@ There_is	7
 there_'s	2
 There_'s	2
 there_is	1
-._-RRB-
-!_-RRB-	1
-?_-RRB-	1
 EX_VBP
 there_are	2
 There_are	6
@@ -2735,14 +2600,14 @@ school_literature	1
 sword_play	1
 page_book	2
 movie_night	1
+childhood_friend	1
 TV_series	1
 location_documentary	1
 tv_screen	1
 preview_audience	1
 silver_screen	2
 jim_caviezel	1
-childhood_friend	1
-movie_<br />	1
+attention_span	1
 day_movie	1
 set_design	1
 adventure/supense/period_film	1
@@ -2750,7 +2615,6 @@ title_role	2
 location_cinematography	1
 swashbucklng_type	1
 mass_market	1
-popcorn_adventure	1
 prison_island	1
 step_mother	1
 police_chief	1
@@ -2768,13 +2632,13 @@ master_plan	1
 costume_drama	1
 revenge_plan	1
 person_think	1
-attention_span	1
+picture_quality	2
 source_novel	1
 play_adaptation	1
 film_commentary	1
-plot_<br />	1
+popcorn_adventure	1
 minute_film	1
-picture_quality	2
+novel_while	1
 trading_trip	1
 adventure_novel	1
 mouth_water	1
@@ -2791,13 +2655,10 @@ desk_work	1
 discussion_tool	1
 plot_development	1
 you_watch	1
-RP_-LRB-
-out_-LRB-	1
-over_-LRB-	1
-RP_RB
-out_much	1
-out_so	1
-out_well	1
+PRP_NNP
+YOU_MAY	1
+it_all.This	1
+me_Tarzan	1
 NNP_WP$
 France_whose	1
 PRP$_VB
@@ -2809,15 +2670,16 @@ films_so	1
 theaters_quickly	1
 kids_as	1
 movies_really	1
+years_personally	1
 eyes_just	1
 eyes_off	1
 characters_so	1
 merits_rather	1
 romantics_everywhere	1
--LRB-_WDT
--LRB-_which	1
 EX_VBD
 There_was	1
+JJS_.
+best_.	1
 ,_JJ
 ,_believable	1
 ,_humble	1
@@ -3030,10 +2892,8 @@ whose_fate	1
 NN_IN
 competition_from	1
 complexity_that	1
-novel_of	2
 d'If_for	1
 idea_of	2
-<p>_During	1
 movie_with	4
 remake_of	2
 help_of	1
@@ -3082,7 +2942,7 @@ knowledge_of	1
 job_of	1
 turn_in	1
 story_for	2
-<p>_If	2
+novel_of	2
 kinda_like	1
 none_of	1
 desire_for	2
@@ -3097,7 +2957,6 @@ interview_with	1
 access_for	1
 theme_of	4
 performance_as	1
-<p>_By	1
 showdown_between	1
 viewer_with	1
 classic_with	1
@@ -3290,9 +3149,6 @@ portrayl_of	1
 taste_of	1
 complaint_about	1
 novel_with	1
-VB_-RRB-
-speak_-RRB-	1
-add_-RRB-	1
 CC_DT
 and_an	2
 and_all	2
@@ -3319,7 +3175,6 @@ sailor_named	1
 novel_written	1
 while_forced	1
 detail_required	1
-<br />_Filmed	1
 film_based	2
 sailor_sent	1
 man_named	1
@@ -3334,11 +3189,6 @@ films_you	1
 clunkers_they	1
 remakes_I	1
 losses_it	1
-NNP_''
-Koyanisquaatsi_'	1
-Cristo_''	4
-Celebration_'	1
-Christo_''	3
 NN_VBG
 story_starring	1
 class_upbringing	1
@@ -3349,7 +3199,6 @@ time_playing	1
 scene_requiring	1
 woman_playing	1
 cast_mixing	1
-<p>_Accompanying	1
 revenge_being	1
 revenge_seeking	1
 PRP_FW
@@ -3536,6 +3385,7 @@ cared_about	1
 was_that	1
 occurred_in	1
 ordered_as	1
+was_by	1
 said_that	1
 returned_from	1
 assumed_that	1
@@ -3602,8 +3452,6 @@ JJS_PRP
 least_I	1
 ``_JJR
 ``_bigger	1
-VBD_-RRB-
-was_-RRB-	1
 SYM_FW
 **_DO	1
 JJ_``
@@ -3636,9 +3484,7 @@ buy_it	1
 purchase_it	1
 give_it	2
 treat_yourself	2
-<p>_It	1
 have_it	1
-<p>_We	1
 say_I	2
 let_me	1
 like_him	1
@@ -3648,7 +3494,6 @@ SEE_it	1
 get_'em	1
 spend_it	1
 view_it	1
-<br />_I	1
 Saw_it	1
 give_him	1
 recommend_it	1
@@ -3806,10 +3651,6 @@ never_read	1
 actually_hated	1
 first_saw	1
 best_served	1
-FW_IN
-<br />_if	1
-<br />_While	1
-<br />_Without	1
 CC_MD
 and_would	1
 or_would	1
@@ -3841,6 +3682,8 @@ PRP_WDT
 him_that	1
 POS_NNP
 '_Faria	1
+'_Errol	1
+'_Kubrick	1
 's_Mondego	1
 ,_IN
 ,_at	1
@@ -3901,7 +3744,6 @@ NN_WDT
 classic_that	1
 movie_that	2
 treasure_that	2
-adventure_that	1
 balloon_that	1
 novel_that	1
 tale_that	1
@@ -3912,7 +3754,7 @@ man_that	1
 manner_that	1
 script_that	1
 scene_that	1
-<br />_What	1
+adventure_that	1
 drama_that	1
 showdown_that	1
 plot_that	1
@@ -3929,7 +3771,6 @@ love_this	1
 keep_the	1
 choose_this	1
 become_a	1
-make_any	1
 make_the	1
 get_some	1
 feature_that	1
@@ -3942,14 +3783,15 @@ leave_a	1
 deliver_the	1
 watch_a	1
 make_this	1
-<p>_The	12
+make_any	1
 note_the	1
 become_the	1
 create_a	1
 fault_the	1
 read_every	1
-recommend_this	2
+Buy_the	1
 capture_the	1
+gore_the	1
 Whenever_a	1
 take_a	1
 adapt_the	1
@@ -3966,8 +3808,7 @@ express_the	1
 complete_the	1
 see_a	2
 assemble_an	1
-Buy_the	1
-catch_this	1
+recommend_this	2
 convey_the	1
 write_a	1
 do_a	1
@@ -3978,11 +3819,10 @@ read_this	1
 spend_the	1
 do_this	1
 make_an	1
-<br />_THE	1
 devise_a	1
 see_this	2
 be_the	4
-<br />_The	6
+catch_this	1
 WRB_DT
 where_the	5
 how_the	1
@@ -4029,10 +3869,6 @@ is_so-so	1
 is_okay	1
 's_nice	1
 sounds_hefty	1
-JJ_-RRB-
-few_-RRB-	1
-half-bad_-RRB-	1
-satisfying_-RRB-	1
 ''_DT
 ''_a	1
 NN_TO
@@ -4064,6 +3900,7 @@ recommendation_to	1
 book_to	1
 access_to	1
 fun_to	2
+inch_to	1
 plan_to	1
 youth_to	1
 novel_to	2
@@ -4086,6 +3923,7 @@ it_on	3
 it_over	1
 him_while	1
 me_that	1
+me_in	1
 them_on	1
 him_if	1
 it_in	1
@@ -4159,8 +3997,6 @@ who_usually	1
 PRP$_RB
 his_brilliantly	1
 its_yet	1
-''_JJ
-''_entertaining	1
 CC_,
 but_,	1
 and_,	1
@@ -4210,7 +4046,6 @@ my_best	1
 his_best	1
 NN_MD
 book_should	1
-version_may	1
 film_will	1
 one_should	1
 grandfather_can	1
@@ -4222,7 +4057,7 @@ soul_will	1
 U_wo	1
 hollywood_must	1
 family_will	1
-<br />_must	1
+version_may	1
 DT_VB
 the_plague	1
 CC_RBS
@@ -4330,18 +4165,25 @@ either_fight	1
 really_turn	1
 VBG_VB
 trying_find	1
-JJS_-RRB-
-best_-RRB-	1
-FW_FW
-'VE_SEEN	1
-monte_cristo	1
-PLEASE_GO	1
-aka_Festen	1
-<br />_****	1
-<br />_PLEASE	1
-<br />_<br />	17
-DO_NOT	1
-etc._<br />	1
+IN_IN
+by_as	1
+While_in	1
+for_in	1
+in_that	1
+out_by	1
+as_in	1
+except_for	1
+out_of	3
+about_because	1
+along_with	2
+because_of	2
+as_if	1
+than_on	1
+of_in	1
+while_in	1
+if_because	1
+out_for	1
+in_with	1
 JJ_RB
 entertaining_visually	1
 fortunate_enough	1
@@ -4352,6 +4194,7 @@ bad_just	1
 good_enough	1
 hard_not	1
 little_too	2
+entertaining_as	1
 ,_``
 ,_`	2
 ,_``	2
@@ -4367,10 +4210,6 @@ VBZ_WP
 ,_allowing	1
 ,_keeping	1
 ,_deviating	1
-''_-RRB-
-'_-RRB-	1
--RRB-_VBZ
--RRB-_envies	1
 NNS_.
 characters_.	2
 sprits_.	1
@@ -4415,6 +4254,7 @@ pieces_.	1
 NNS_,
 characters_,	1
 roles_,	3
+hours_,	1
 fights_,	1
 accents_,	1
 fans_,	1
@@ -4447,8 +4287,6 @@ exceptions_,	1
 ,_pick	1
 ,_have	1
 ,_use	1
--RRB-_VBG
--RRB-_trying	1
 RBR_RB
 more_visually	1
 more_now	1
@@ -4583,9 +4421,6 @@ than_what	1
 of_who	1
 for_what	1
 of_what	4
--RRB-_CC
--RRB-_and	6
--RRB-_but	1
 VBG_PRP
 watching_it	1
 giving_us	1
@@ -4623,6 +4458,7 @@ lended_my	1
 MD_,
 must_,	1
 NN_PRP
+material_I	1
 time_it	1
 story_itself	1
 gift_I	1
@@ -4666,7 +4502,9 @@ RB_CC
 once_and	1
 adequately_and	1
 out_and	2
+twice_and	1
 over_and	1
+elsewhere_and	1
 anyway_and	1
 here_and	1
 back_and	1
@@ -4736,10 +4574,6 @@ be_distracted	1
 be_disappointed	1
 have_read	1
 be_fit	1
-VBN_-LRB-
-acted_-LRB-	1
-based_-LRB-	2
-betrayed_-LRB-	1
 RP_JJ
 off_new	1
 VB_VBD
@@ -4795,12 +4629,6 @@ is_digging	1
 is_proof	1
 is_everything	1
 provides_warmth	1
-WDT_VBP
-that_make	1
-that_have	1
-which_are	1
-that_arise	1
-that_go	1
 DT_''
 this_''	1
 that_''	1
@@ -4829,8 +4657,6 @@ recommend_this	2
 have_a	1
 think_the	1
 love_every	1
-NNS_-RRB-
-hours_-RRB-	1
 VBD_TO
 loved_to	1
 needed_to	1
@@ -4839,7 +4665,6 @@ had_to	2
 decided_to	1
 was_to	1
 NN_JJR
-<p>_More	1
 LOT_more	1
 movie_more	1
 ,_WDT
@@ -4881,6 +4706,7 @@ officials_of	1
 exploits_about	1
 lines_throughout	1
 enemies_under	1
+sequences_with	1
 stars_as	1
 forces_before	1
 sets_in	1
@@ -4901,6 +4727,7 @@ closeups_of	1
 elements_of	3
 taps_into	1
 touches_throughout	1
+characters_as	1
 lines_in	1
 moviegoers_in	1
 extras_on	1
@@ -5037,8 +4864,9 @@ yesteryear_,	1
 something_,	1
 suspense_,	2
 interest_,	1
+knifefight_,	1
 documentary_,	1
-film_,	8
+film_,	9
 addition_,	1
 work_,	1
 design_,	1
@@ -5080,10 +4908,11 @@ hardship_,	1
 year_,	1
 science_,	1
 silly_,	1
-plot_,	1
+plot_,	2
 envy_,	1
 point_,	2
 revenge_,	5
+min_,	1
 love_,	3
 time_,	1
 ``_NN
@@ -5181,6 +5010,7 @@ audience_?	1
 d'If_.	1
 cast_.	1
 adultery_.	1
+etc_.	1
 audience_.	1
 jealousy_.	1
 text_.	1
@@ -5193,6 +5023,7 @@ antagonist_.	1
 style_.	1
 execution_.	1
 day_.	1
+disc_.	1
 DVD_.	1
 duration_.	1
 library_.	1
@@ -5212,45 +5043,44 @@ plot_.	2
 task_.	1
 sp_?	1
 Count_.	2
-year_.	1
+year_.	2
 fun_.	1
 revenge_.	5
 emperor_.	1
 point_!	1
 time_.	2
 quest_.	1
+NNP_VBG
+Pierce_trying	1
 VBN_DT
-enjoyed_the	1
-simplified_a	1
-been_a	1
-enjoyed_this	1
-done_the	1
-called_the	1
-seen_the	2
-done_a	1
-played_the	1
-realized_the	1
-had_all	1
-given_a	1
-mastered_a	1
-loved_this	1
-Enjoyed_the	1
 read_the	3
-watched_this	2
-discovered_the	1
+called_the	1
+enjoyed_the	1
 made_this	1
+discovered_the	1
+simplified_a	1
+enjoyed_this	1
+seen_the	2
 followed_the	1
+Enjoyed_the	1
 seen_this	2
-NN_-LRB-
-man_-LRB-	1
-tunnel_-LRB-	1
-novel_-LRB-	1
-material_-LRB-	1
-line_-LRB-	1
-surprise_-LRB-	1
-book_-LRB-	1
-ending_-LRB-	1
-drag_-LRB-	1
+been_a	1
+had_all	1
+mastered_a	1
+based_the	1
+loved_this	1
+given_a	1
+watched_this	2
+done_the	1
+done_a	1
+realized_the	1
+played_the	1
+WDT_VBP
+that_make	1
+that_have	1
+which_are	1
+that_arise	1
+that_go	1
 ,_VB
 ,_let	1
 ,_go	1
@@ -5286,8 +5116,6 @@ living_just	1
 doing_there	1
 requiring_dimly	1
 creating_yet	1
-FW_JJ
-<br />_Splendid	1
 WDT_,
 which_,	1
 DT_,
@@ -5301,55 +5129,126 @@ VBG_RP
 coming_out	1
 picking_up	1
 hooking_up	1
--LRB-_RB
--LRB-_as	1
--LRB-_just	1
--LRB-_slowly	1
--LRB-_personally	1
--LRB-_rather	1
-RB_-RRB-
-elsewhere_-RRB-	1
 FW_VB
 NOT_BE	1
 GO_SEE	1
 DT_WDT
 this_that	1
-POS_-LRB-
-'_-LRB-	3
--LRB-_FW
--LRB-_aka	1
--LRB-_eg	1
-IN_IN
-by_as	1
-While_in	1
-for_in	1
-in_that	1
-out_by	1
-as_in	1
-except_for	1
-out_of	3
-about_because	1
-along_with	2
-because_of	2
-as_if	1
-than_on	1
-of_in	1
-while_in	1
-if_because	1
-out_for	1
-in_with	1
+RB_JJ
+very_funny	1
+really_good	1
+also_top-notch	2
+little_predictable	1
+even_sure	1
+truly_amazing	1
+elegantly_beautiful	1
+very_short	1
+surprisingly_well-directed	1
+never_bad	1
+Very_good	1
+here_venomous	1
+so_sexy	1
+even_aluded	1
+pretty_good	1
+visually_stunning	1
+simply_magnificent	1
+quite_long	1
+as_good	1
+well_aware	1
+so_glad	1
+So_good	1
+very_believeable	1
+not_worth	1
+very_nice	1
+always_excellent	1
+very_good	2
+so_dramatic	1
+very_captivating	1
+very_interesting	1
+too_loud	1
+rather_poor	1
+little_hard	1
+eminently_watchable	1
+completely_remarkable	1
+stunningly_beautiful	1
+rather_special	1
+pretty_much	1
+extremely_talented	1
+also_refreshing	1
+so_believable	2
+very_minor	1
+too_brief	2
+often_hilarious	1
+too_over-the-top	1
+indeed_refreshing	1
+so_entertaining	1
+too_much	4
+very_satisfying	1
+enough_good	1
+so_lucky	1
+currently_available	1
+too_pat	1
+so_innocent	1
+very_vocal	1
+hardly_detrimental	1
+so_dark	1
+so_weak	1
+very_enjoyable	1
+very_well-done	1
+so_many	2
+little_predicatable	1
+perfectly_balanced	1
+ESPECIALLY_short	1
+not_familiar	2
+little_murky	1
+only_mild	1
+immensely_satisfying	1
+rather_long	1
+nearly_impossible	1
+Also_worthy	1
+very_different	1
+too_short	1
+n't_half-bad	1
+extreamly_fast	1
+totally_unrealistic	1
+pretty_decent	1
+Very_romantic	1
+absolutely_stunning	1
+perhaps_due	1
+very_rich	1
+faintly_unsatisying	1
+dis_likable	1
+well_worth	3
+deliciously_evil	1
+Too_many	1
+too_hard	1
+equally_jealous	1
+particularly_jealous	1
+absolutely_top	1
+so_impressed	1
+utterly_beautiful	1
+totally_ridiculous	1
+historically_correct	1
+so_tiresome	1
+too_flamboyant	1
+just_perfect	1
+so_much	1
+always_off-stage	1
+now_free	1
+nearly_unheard	1
+insanely_long	1
 CD_``
 one_``	1
 VB_``
 shout_``	1
+NNPS_.
+Mohicans_.	1
 TO_NNP
 to_Dantes	1
 to_Mercedes	1
 to_God	1
 to_Marseilles	1
 to_France	1
-RB_-LRB-
-twice_-LRB-	1
 VBG_DT
 changing_the	1
 creating_a	1
@@ -5415,10 +5314,9 @@ get_even	1
 watch_over	1
 expect_too	1
 be_not	1
-<br />_Even	1
+be_visually	1
 be_very	1
 be_exactly	1
-be_visually	1
 Sit_back	1
 shiver_even	1
 am_normally	1
@@ -5436,6 +5334,8 @@ get_out	1
 come_out	1
 VBZ_PDT
 encounters_all	1
+VBG_MD
+ending_must	1
 JJ_WRB
 much_where	1
 NN_RBR
@@ -5444,7 +5344,6 @@ NNS_WRB
 movies_where	1
 scenes_where	1
 NN_EX
-<p>_There	2
 someone_there	1
 ``_JJ
 ``_old	2
@@ -5461,6 +5360,7 @@ Caviezel_in	1
 Available_in	1
 Cristo_with	1
 Count_Of	1
+Dumas_although	1
 Dantes_with	1
 Harris_as	1
 Mask_Of	2
@@ -5488,6 +5388,7 @@ the_Mohicans	1
 RB_NNS
 actually_tunnels	1
 FW_.
+Festen_.	1
 eg_.	1
 IN_VBG
 by_watching	1
@@ -5517,19 +5418,6 @@ in_changing	1
 without_reworking	1
 of_enunciating	1
 at_being	2
-NN_-RRB-
-tension_-RRB-	1
-source_-RRB-	1
-disc_-RRB-	1
-book_-RRB-	1
-etc_-RRB-	1
-inch_-RRB-	1
-film_-RRB-	1
-plot_-RRB-	1
-case_-RRB-	1
-min_-RRB-	1
-knifefight_-RRB-	1
-year_-RRB-	1
 ,_PRP
 ,_he	4
 ,_they	1
@@ -5544,15 +5432,6 @@ with_quickened	1
 PRP$_NNP
 his_fianc&eacute;	1
 my_Gransons	1
--LRB-_NNP
--LRB-_Dagmara	3
--LRB-_Errol	1
--LRB-_Luis	1
--LRB-_Guy	3
--LRB-_Kubrick	1
--LRB-_York	1
--LRB-_Jim	2
--LRB-_Richard	3
 VBG_.
 dying_.	1
 watching_.	1
@@ -5578,9 +5457,10 @@ fat_and	1
 mild_and	1
 loud_and	2
 new_and	1
+sexy_and	1
 believable_both	1
 wily_and	1
-sexy_and	1
+few_and	1
 rich_and	1
 solid_and	1
 entertaining_and	2
@@ -5590,6 +5470,7 @@ graphic_and	1
 JJ_CD
 first_one	1
 cohesive_131	1
+long_131	1
 next_2	1
 CD_.
 one_.	3
@@ -5598,6 +5479,7 @@ TO_VBG
 to_reading	1
 NNP_WP
 Dantes_who	1
+Vampa_who	1
 Australian_who	1
 Faria_who	1
 PRP_RP
@@ -5621,6 +5503,7 @@ POS_NN
 '_arrest	1
 '_fiancee	1
 's_son	1
+'_sp	1
 '_genius	1
 's_role	1
 '_book	2
@@ -5653,6 +5536,7 @@ three_stars	3
 3_men	1
 VBN_RB
 portrayed_effectively	1
+based_rather	1
 been_endlessly	1
 seen_so	1
 seen_lately	1
@@ -5874,8 +5758,6 @@ gripping_on	1
 wondering_whether	1
 escaping_from	1
 speaking_in	1
-FW_VBG
-<br />_Judging	1
 DT_CD
 the_one	1
 this_2	1
@@ -5889,8 +5771,6 @@ This_one	1
 The_three	1
 DT_CC
 each_and	1
-NNPS_-RRB-
-Mohicans_-RRB-	1
 RP_DT
 up_a	1
 out_a	1
@@ -5932,7 +5812,9 @@ NNP_,
 Braveheart_,	1
 Reed_,	1
 Dorelac_,	1
+Machine_,	1
 York_,	1
+Kubrick_,	1
 Marseilles_,	2
 Malta_,	1
 Wincott_,	2
@@ -5940,16 +5822,16 @@ Cristo_,	6
 MOVIE_,	1
 D'If_,	1
 Ireland_,	1
-Harris_,	4
-Frain_,	1
+Harris_,	7
+Wolpert_,	1
 Tiger_,	1
 Heston_,	1
 Chamberlain_,	1
 Mondego_,	1
 Fernand_,	1
 CALIBER_,	1
-Wolpert_,	1
-Caviezel_,	1
+Flynn_,	1
+Caviezel_,	2
 Haydee_,	1
 Dumas_,	3
 Gladiator_,	1
@@ -5958,14 +5840,16 @@ Guzman_,	2
 Faria_,	2
 Count_,	1
 BUT_,	1
+Frain_,	1
 Villefort_,	2
-Mercedes_,	3
-Pearce_,	7
+Mercedes_,	4
+Pearce_,	8
 Reynolds_,	3
 Roy_,	1
 Danglars_,	1
 Yes_,	1
 Elba_,	3
+Dominczyk_,	1
 Zorro_,	2
 CAVAZIEL_,	1
 Dantes_,	6
@@ -5986,34 +5870,32 @@ Amazon_.	1
 NY_.	1
 Bonaparte_.	1
 Tarzan_?	1
-Caviezel_.	1
+Caviezel_.	2
 Wolpert_.	1
 Mondego_.	3
 EVER_.	1
 Jacopo_.	1
 AGAIN_.	1
+Guzman_.	1
 Hollywood_.	1
 Count_.	1
 Christo_.	2
 Christ_.	1
 IT_.	1
 Dragon_.	1
-Dantes_.	2
+Dominczyk_.	1
+Dantes_.	3
 JJ_VBP
 economic_ruin	1
-FW_NN
-<br />_Verdict	1
-SEEN_EM	1
-JJ_-LRB-
-long_-LRB-	1
-entertaining_-LRB-	1
-stilted_-LRB-	1
+POS_CC
+'_and	1
+''_JJ
+''_entertaining	1
 JJ_VBN
 old_fashioned	1
 full_blooded	1
 nice_done	1
 VBG_NN
-ending_<br />	1
 leading_lady	1
 seeking_Count	1
 viewing_background	1
@@ -6092,7 +5974,6 @@ many_other	1
 several_current	1
 next_several	1
 all-time_favorite	1
-<br />_Other	1
 Great_Blu-ray	1
 few_problematic	1
 standard_multiplex	1
@@ -6106,7 +5987,6 @@ such_easy	1
 few_notable	1
 jealous_first	1
 over-1200-page_voluminous	1
-<p>_Many	1
 A-list_leading	1
 whiny_little	1
 many_similar	1
@@ -6139,8 +6019,6 @@ say_something	1
 find_refuge	1
 VBZ_JJR
 deserves_more	2
-RP_CC
-out_and	1
 CD_VBD
 one_received	1
 NN_WP
@@ -6148,7 +6026,6 @@ enemy_who	1
 priest_who	1
 chief_who	1
 prisoner_who	1
-<p>_What	1
 character_who	1
 man_who	3
 director_who	1
@@ -6160,8 +6037,6 @@ where_Guzman	1
 when_Dantes	1
 VBD_WP
 said_what	1
--LRB-_WP
--LRB-_who	1
 VB_VBG
 remember_going	1
 enjoy_watching	2
@@ -6192,7 +6067,6 @@ filmmakers_sacrifice	1
 hopes_come	1
 scenes_last	1
 filmmakers_do	1
-Adults_<br />	1
 moviegoers_want	1
 bodies_go	1
 ones_try	1
@@ -6228,16 +6102,6 @@ destroyed_his	1
 IN_CC
 over_and	2
 in_and	1
-NNP_-LRB-
-Dumas_-LRB-	1
-Mercedes_-LRB-	2
-Iguanada_-LRB-	1
-Dantes_-LRB-	2
-Faria_-LRB-	3
-Waterworld_-LRB-	1
-Jacopo_-LRB-	1
-Vampa_-LRB-	1
-Mondego_-LRB-	3
 IN_,
 that_,	2
 on_,	1
@@ -6253,16 +6117,13 @@ NNS_VBG
 contradictions_concerning	1
 TV-series_starring	1
 years_suffering	1
-PRP_NNP
-YOU_MAY	1
-it_all.This	1
-me_Tarzan	1
+RP_RB
+out_much	1
+out_so	1
+out_well	1
 CD_VBZ
 one_is	1
 one_walks	1
--LRB-_PRP
--LRB-_I	1
--LRB-_we	1
 NNS_VBN
 hours_enthralled	1
 VBP_NNS
@@ -6270,16 +6131,14 @@ like_movies	1
 articulate_moves	1
 VBP_NNP
 replace_Dumas	1
-allow_Caviezel	1
 meet_Mercedes	1
-<br />_Rating	1
+allow_Caviezel	1
 understand_Dantes	1
 VBP_RP
 pop_out	1
 end_up	1
 FW_RB
-<br />_However	1
-<br />_Very	1
+etc._However	1
 NN_WP$
 someone_whose	1
 NN_PDT
@@ -6297,10 +6156,6 @@ POS_JJ
 ''_into	1
 ''_in	1
 ''_by	1
--RRB-_IN
--RRB-_in	1
--RRB-_by	1
--RRB-_on	1
 VBD_VBN
 were_sacrificed	1
 had_given	1
@@ -6431,6 +6286,8 @@ Cristo_never	1
 Dantes_eventually	1
 Cristo_actually	1
 Caviezel_easily	1
+POS_:
+'_;	1
 NNP_VBP
 Pearce_provide	1
 Pearce_do	1
@@ -6460,6 +6317,7 @@ Guzman_tells	1
 Wincott_is	1
 Cristo_is	4
 Reynolds_directs	1
+Pearce_envies	1
 Dantes_has	1
 Dantes_agrees	1
 CRISTO_has	1
@@ -6623,6 +6481,7 @@ VBD_.
 did_.	1
 missed_.	1
 POS_.
+'_.	1
 's_.	1
 VBG_NNS
 leading_characters	1
@@ -6642,12 +6501,6 @@ Napoleon_had	1
 NNP_VBN
 Dantes_thrown	1
 Edmond_arrested	1
--LRB-_IN
--LRB-_except	1
--LRB-_as	2
--LRB-_although	2
--LRB-_that	1
--LRB-_with	1
 NNP_POS
 Dumas_'	9
 York_'	1
@@ -6666,6 +6519,8 @@ Dumas_'s	4
 Mondego_'s	1
 Lyndon_'	1
 Edmond_'s	1
+''_FW
+'_aka	1
 NN_RB
 movie_so	1
 anything_else	1
@@ -6684,7 +6539,7 @@ career_again	1
 movie_never	1
 film_adequately	1
 movie_loosely	1
-<br />_Wonderfully	1
+surprise_just	1
 speed_just	1
 movie_adeptly	1
 plot_so	1
@@ -6707,6 +6562,7 @@ movie_truly	2
 novel_obviously	1
 movie_twice	1
 action_so	1
+tunnel_slowly	1
 D'if_So	1
 JJ_IN
 perfect_like	1
@@ -6847,24 +6703,23 @@ one_might	1
 ?_''	1
 ._''	5
 VBZ_NNP
+teaches_Dantes	1
 provides_Dantes	1
 meets_Abbe	1
 'S_EVEN	1
 is_Dantes	1
 trains_Dantes	1
-teaches_Dantes	1
+is_Jim	1
 follows_Edmond	1
 is_Mercedes	1
-is_<br />	1
 tells_Edmond	1
 asks_Dantes	1
 follows_Dumas	1
 has_Dantes	1
 plays_Dantes	3
 tells_Dantes	2
-WP_.
-what_?	1
-who_?	1
+RP_CC
+out_and	1
 VBZ_NNS
 spends_years	1
 keeps_things	1
@@ -6879,8 +6734,6 @@ NN_PRP$
 exact_his	1
 JJ_''
 old_''	1
-FW_-RRB-
-Festen_-RRB-	1
 VB_CD
 take_3	1
 VB_CC
@@ -6911,10 +6764,12 @@ most_part	1
 RP_IN
 off_for	1
 down_on	1
+up_with	1
 off_as	1
 down_in	1
 out_from	1
-up_with	1
+over_as	1
+out_although	1
 up_as	1
 out_as	2
 in_between	1
@@ -6927,9 +6782,6 @@ lit_rooms	1
 calculated_revelations	1
 ,_WP$
 ,_whose	1
--LRB-_NN
--LRB-_while	1
--LRB-_sp	1
 ,_NNP
 ,_Reed	1
 ,_Waterworld	1

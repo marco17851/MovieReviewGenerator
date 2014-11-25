@@ -9,8 +9,6 @@ Info_for	1
 DT_NNS
 the_details	1
 some_aspects	1
-MD_RB
-would_<br />	1
 VB_DT
 be_a	1
 IN_VBG
@@ -102,8 +100,6 @@ this_one	1
 a_4	1
 CC_PRP
 but_it	1
-RB_VB
-<br />_be	1
 PRP_.
 it_.	1
 PRP_,
@@ -121,8 +117,6 @@ JJ_,
 historic_,	1
 great_,	1
 ok_,	1
-PRP_DT
-it_a	1
 VBD_RB
 were_as	1
 PDT_DT
@@ -137,8 +131,14 @@ VBD_JJ
 looked_good	1
 RB_NN
 so_incompatibility	1
-VBN_NN
-pressed_DVD	1
+NN_IN
+structure_on	1
+footage_that	1
+Dvd_on	1
+video_with	1
+value_of	1
+understanding_on	1
+rip_of	1
 JJ_NNS
 martial_arts	1
 VBZ_IN
@@ -165,16 +165,16 @@ I_would	1
 It_would	1
 NN_PRP
 price_I	1
-<br />_it	1
-<p>_I	1
 IN_RB
 for_now	1
 JJ_DT
 worth_the	1
 VBP_PRP
+give_it	1
 believe_it	1
 MD_VB
 Could_be	1
+would_be	1
 would_say	1
 might_occur	1
 RB_CD
@@ -274,6 +274,8 @@ JJ_IN
 informative_as	1
 good_in	1
 fundamental_of	1
+VBN_NN
+pressed_DVD	1
 VBZ_DT
 is_some	1
 is_all	1
@@ -285,23 +287,14 @@ NNP_NNP
 Wing_Chun	2
 Master_Goldberg	1
 Good_Info	1
-VBP_NN
-give_<br />	1
 RB_JJ
 not_great	1
 really_poor	1
 very_good	2
 as_informative	1
 not_worth	1
-NN_IN
-structure_on	1
-footage_that	1
-Dvd_on	1
-video_with	1
-value_of	1
-understanding_on	1
-rip_of	1
-<p>_That	1
+PRP_DT
+it_a	1
 CC_PRP$
 and_his	1
 VBG_DT

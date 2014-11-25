@@ -16,8 +16,6 @@ NNS_WP
 men_who	1
 NNP_WDT
 Flynn_that	1
-FW_DT
-<br />_This	1
 NNP_IN
 Stranger_with	1
 Western_for	1
@@ -43,14 +41,11 @@ feel_that	1
 WRB_DT
 where_the	1
 FW_FW
-<br />_<br />	5
 diddle_daddle	1
 Skidoodle_diddle	1
-POS_NN
-'_sheep	1
-'s_scripting	1
-'_<br />	1
-'s_direction	1
+RB_.
+afterwards_.	1
+profitably_.	1
 ,_PRP
 ,_he	1
 ,_we	2
@@ -59,9 +54,6 @@ VBZ_JJ
 is_smooth	1
 looks_corrupted	1
 is_good	1
-VBD_NN
-was_king	1
-was_something	1
 VBD_CD
 was_1950	1
 was_one	1
@@ -70,22 +62,8 @@ chance_to	1
 victim_to	1
 RB_JJR
 much_better	1
--LRB-_NNP
--LRB-_Errol	1
--LSB-_NON-USA	1
--LRB-_Academy	1
--LRB-_Alexis	1
--LRB-_Douglas	1
--LRB-_Stranger	1
-NNP_-RRB-
-Kennedy_-RRB-	1
-Flynn_-RRB-	1
-</a>_-RSB-	1
-Smith_-RRB-	1
 NNS_DT
 Westerns_the	1
--RRB-_-LRB-
--RRB-_-LSB-	1
 VBN_,
 made_,	1
 IN_JJS
@@ -133,9 +111,10 @@ while_singing	1
 ,_run	1
 FW_POS
 daddle_'	1
-NN_-RRB-
-EARTH_-RRB-	1
-Gun_-RRB-	1
+POS_NN
+'_sheep	1
+'s_scripting	1
+'s_direction	1
 :_NNS
 ..._1879	1
 :_NNP
@@ -209,8 +188,15 @@ PRP_VBP
 we_hear	1
 I_'m	2
 you_'re	1
-VBZ_RP
-shows_up	2
+CC_NNP
+and_Old	1
+and_Maria	1
+and_Warner	1
+but_Livesey	1
+and_Charles	1
+and_Shirley	1
+and_Douglas	1
+and_Rod	1
 RB_DT
 not_an	1
 just_the	1
@@ -227,11 +213,6 @@ he_'s	1
 it_has	1
 It_'s	1
 he_wants	1
--RRB-_,
--RRB-_,	1
--RSB-_,	1
--RRB-_.
--RRB-_.	1
 NNP_CC
 Ford_and	1
 Chase_and	1
@@ -259,8 +240,6 @@ his_,	1
 ,_sometimes	2
 ,_equally	1
 ,_not	1
-NNP_''
-Cuddles_''	1
 VBZ_PRP$
 looks_his	1
 DT_MD
@@ -298,6 +277,8 @@ MOUNTAIN_,	1
 PAL_,	1
 FORMAT_,	1
 Webb_,	1
+</a>_,	1
+Kennedy_,	1
 Ballantrae_,	1
 NNP_.
 West_.	1
@@ -325,6 +306,8 @@ VBG_NN
 wearing_make-up	1
 NNP_:
 Territory_...	1
+VBZ_RP
+shows_up	2
 JJ_,
 drunk_,	1
 bizarre_,	1
@@ -347,9 +330,6 @@ prejudiced_against	1
 produced_during	1
 based_on	1
 released_in	1
--RRB-_VBZ
--RRB-_is	1
--RRB-_shows	1
 NNS_.
 jokes_.	1
 rules_.	1
@@ -367,11 +347,6 @@ NNS_,
 ewes_,	1
 brains_,	1
 fists_,	1
--RRB-_VBD
--RRB-_provided	1
-RB_.
-afterwards_.	1
-profitably_.	1
 CC_IN
 but_for	1
 and_under	1
@@ -416,8 +391,6 @@ CD_IN
 one_of	2
 JJR_IN
 better_than	1
-:_FW
-..._<br />	1
 ''_CC
 ''_And	1
 ,_CC
@@ -438,8 +411,11 @@ year_ROCKY	1
 Composer_David	1
 point_Raoul	1
 queen_Maria	1
+Gun_NON-USA	1
 VBP_JJ
 're_interested	1
+:_``
+..._``	1
 VBD_JJ
 were_hard	1
 was_prevalent	1
@@ -515,21 +491,17 @@ where_cattle	1
 ,_this	1
 ,_a	2
 ,_the	2
-NNP_-LRB-
-Buttolph_-LRB-	1
-Lane_-LRB-	1
-Freund_-LRB-	1
-Ackroyd_-LRB-	1
-Singleton_-LRB-	1
-Sheepman_-LRB-	1
 NNP_VBZ
+Flynn_smiles	1
+Flynn_shows	1
 Flynn_looks	1
 Flynn_is	3
-Walsh_is	1
-Flynn_smiles	1
+Smith_is	1
 Livesey_looks	1
+Walsh_is	1
 NNS_VBD
 cattle_was	1
+SOLDIERS_provided	1
 looks_had	1
 NNS_VBG
 scenes_involving	1
@@ -545,9 +517,6 @@ JJ_TO
 hard_to	1
 VB_,
 die_,	1
-FW_IN
-<br />_For	1
-<br />_If	1
 EX_VBZ
 there_'s	1
 EX_VBP
@@ -558,12 +527,7 @@ are_some	1
 share_the	1
 have_a	1
 'm_a	1
-FW_NNP
-<br />_Flynn	1
-NNS_-RRB-
-SOLDIERS_-RRB-	1
 NN_NN
-saddle_<br />	1
 Award_Winner	1
 building_era	1
 empire_building	1
@@ -655,6 +619,7 @@ NN_.
 gravity_.	1
 brawn_.	1
 age_.	1
+EARTH_.	1
 make-up_.	1
 way_.	1
 directing_.	1
@@ -685,8 +650,6 @@ bunch_of	1
 feel_of	1
 western_with	1
 section_of	1
-FW_``
-<br />_``	1
 VBN_DT
 needed_a	1
 CC_DT
@@ -710,7 +673,6 @@ charm_and	1
 direction_and	1
 place_and	1
 movie_and	1
-<br />_And	1
 sheep_and	1
 guitar_and	1
 WDT_VBP
@@ -735,8 +697,8 @@ hear_Celito	1
 have_Errol	1
 enjoy_S.	1
 NN_``
+saddle_`	1
 singing_``	1
-<br />_`	1
 NN_VBD
 year_was	1
 law_was	1
@@ -810,15 +772,20 @@ NON-USA_FORMAT	1
 Ray_Enright	1
 Warner_Bros.	2
 MONTANA_Flynn	1
+Ackroyd_Douglas	1
+Lane_Errol	1
+Singleton_Alexis	1
 Glenn_Ford	1
 Raoul_Walsh	1
 R._Webb	1
+Freund_Academy	1
 Montana_Territory	2
 Shirley_MacLaine	1
 ROCKY_MOUNTAIN	1
 Charles_O'Neal	1
 Old_Dan	1
 Maria_Singleton	1
+Sheepman_Stranger	1
 Karl_Freund	1
 Roger_Livesey	1
 The_Sheepman	1
@@ -847,6 +814,8 @@ as_much	1
 very_big	1
 CC_VBP
 and_share	1
+POS_PDT
+'_all	1
 VBG_JJR
 using_more	1
 VBZ_VBN
@@ -860,10 +829,10 @@ singin_'	1
 Love_''	1
 VBZ_VBZ
 wants_is	1
-NN_PDT
-<br />_all	1
 RB_VBG
 not_going	1
+NNP_DT
+Buttolph_THE	1
 JJS_NN
 most_part	1
 greatest_asset	1
@@ -888,15 +857,9 @@ me_feel	1
 ,_Borden	1
 ,_Reg	1
 ,_PAL	1
-CC_NNP
-and_Old	1
-and_Maria	1
-and_Warner	1
-but_Livesey	1
-and_Charles	1
-and_Shirley	1
-and_Douglas	1
-and_Rod	1
+VBD_NN
+was_king	1
+was_something	1
 CC_NNS
 and_ewes	1
 and_brains	1
@@ -905,8 +868,8 @@ and_brains	1
 VBZ_IN
 smiles_while	1
 looks_as	1
--LRB-_DT
--LRB-_THE	1
+NNP_''
+Cuddles_''	1
 VBP_IN
 'm_in	1
 VB_RP

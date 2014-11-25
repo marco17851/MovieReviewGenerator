@@ -12,12 +12,6 @@ as_conductor	1
 ,_for	2
 PRP_RB
 him_there	1
--LRB-_CD
--LRB-_1914-1996	1
-FW_DT
-<br />_A	1
-<br />_This	1
-<br />_The	1
 NNP_IN
 Gentele_by	1
 Son_of	1
@@ -48,6 +42,8 @@ later_.	1
 ,_PRP
 ,_he	1
 ,_we	1
+FW_FW
+G&ouml;ran_Gentele	1
 JJS_RB
 least_partly	1
 VBD_CD
@@ -58,8 +54,6 @@ return_to	1
 kind_to	1
 DT_IN
 all_over	1
--LRB-_NNP
--LRB-_Prague	1
 PRP_IN
 him_through	1
 him_as	1
@@ -88,8 +82,6 @@ his_brief	1
 his_triumphal	1
 WRB_VBG
 when_talking	1
--LRB-_CC
--LRB-_nor	1
 IN_PRP
 for_him	1
 that_he	1
@@ -101,6 +93,7 @@ who_first	1
 VBZ_CD
 is_one	1
 NNP_WP
+Barenboim_who	1
 Met_who	1
 IN_VBG
 from_conducting	1
@@ -175,10 +168,8 @@ PRP_VBZ
 It_features	1
 It_recounts	1
 it_is	1
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	1
+NNP_CD
+Kubelik_1914-1996	1
 VBN_WDT
 told_which	1
 RB_IN
@@ -248,12 +239,9 @@ Also_,	1
 there_,	1
 DT_PRP$
 all_its	1
-FW_FW
-<br />_<br />	6
-G&ouml;ran_Gentele	1
-FW_NN
-<br />_MW	1
-<br />_TT	1
+IN_IN
+that_in	1
+because_of	1
 PRP$_NN
 his_father	1
 his_son	1
@@ -264,8 +252,6 @@ his_death	2
 CC_VBD
 and_did	1
 and_made	1
-FW_NNP
-<br />_Scott	1
 JJ_,
 virtuoso_,	1
 gentle_,	1
@@ -294,8 +280,6 @@ instances_,	1
 works_,	1
 things_,	1
 musicians_,	1
--RRB-_VBD
--RRB-_was	1
 TO_DT
 to_this	1
 to_the	3
@@ -314,9 +298,6 @@ are_obscure	1
 ,_is	1
 RB_NN
 dear_friend	1
-NN_-RRB-
-matter_-RRB-	1
-child_-RRB-	1
 VBN_NN
 idolized_father	1
 JJ_NNS
@@ -357,13 +338,9 @@ soprano_Elsie	1
 MAN_AND	1
 son_Martin	1
 composer_Karl	1
--RRB-_TO
--RRB-_to	1
+conductor_Prague	1
 NN_WP
 composer_who	1
-IN_IN
-that_in	1
-because_of	1
 DT_RB
 a_very	2
 PRP$_NNS
@@ -384,15 +361,13 @@ see_him	1
 CC_DT
 and_the	1
 nor_a	1
-VBZ_VBZ
-emerges_is	1
 RB_CD
 obviously_one	1
-VBN_-LRB-
-informed_-LRB-	1
 IN_CD
 in_2003	1
 of_20	1
+CD_VBD
+1914-1996_was	1
 CC_NN
 and_piano	1
 both_violin	1
@@ -405,16 +380,11 @@ played_his	1
 ,_this	2
 ,_a	1
 ,_the	2
-NNP_-LRB-
-Kubelik_-LRB-	1
-Barenboim_-LRB-	1
 NNP_VBZ
 Sound_is	2
 Kubelik_is	1
 NNS_VBD
 subtitles_was	1
-WDT_VBP
-that_are	1
 CD_PRP
 one_it	1
 VBN_.
@@ -504,13 +474,14 @@ wife_,	1
 course_,	1
 piano_,	1
 documentary_,	1
+child_,	1
 man_,	1
 hero_,	1
 instance_,	1
 music_,	1
 NN_.
 father_.	1
-matter_.	1
+matter_.	2
 DOCUMENTARY_.	1
 death_.	1
 child_.	1
@@ -570,13 +541,11 @@ death_and	1
 violin_and	1
 videography_and	1
 emigr&eacute;_and	1
-NN_-LRB-
-conductor_-LRB-	1
+WDT_VBP
+that_are	1
 TO_VB
 to_leave	1
 to_write	1
-CD_-RRB-
-1914-1996_-RRB-	1
 NN_VBD
 government_forced	1
 NN_VBZ
@@ -659,8 +628,8 @@ RB_VBN
 not_identified	1
 musically_informed	1
 not_told	1
--LRB-_WP
--LRB-_who	1
+VBZ_VBZ
+emerges_is	1
 TO_NNS
 to_others	1
 VBG_DT
@@ -674,6 +643,8 @@ RP_IN
 off_from	1
 VBZ_PRP
 follows_him	1
+VBN_CC
+informed_nor	1
 VBN_TO
 destined_to	1
 VB_RB
@@ -693,8 +664,8 @@ VBG_NNS
 differing_sources	1
 VBZ_IN
 is_that	1
-NNP_-RRB-
-Munich_-RRB-	1
+NNP_TO
+Munich_to	1
 VBZ_MD
 features_may	1
 IN_DT

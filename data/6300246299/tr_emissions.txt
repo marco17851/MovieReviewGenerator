@@ -13,9 +13,6 @@ watch_after_seeing	1
 RB_DT_JJ
 certainly_a_strange	1
 perhaps_a_tiny	1
--RRB-_IN_DT
--RRB-_of_the	1
--RRB-_over_a	1
 ,_DT_NNP
 ,_the_Hunter	1
 VBP_DT_NN
@@ -24,8 +21,6 @@ include_a_photo	1
 ,_because_if	1
 PRP$_NNS_.
 his_films_.	1
--RRB-_VBG_DT
--RRB-_discovering_the	1
 NNP_NNP_TO
 Riz_Ortolani_to	1
 JJS_JJ_NNS
@@ -40,8 +35,6 @@ RP_MD_VB
 out_would_move	1
 POS_NN_VBZ
 's_wife_raises	1
-MD_VB_VBN
-could_'ve_used	1
 RB_VB_IN
 possibly_engage_in	1
 NN_IN_JJ
@@ -82,8 +75,6 @@ housekeeper_balefully_informs	1
 IN_``_DT
 with_``_The	1
 about_``_The	1
--RRB-_,_DT
--RRB-_,_a	1
 JJ_IN_NNP
 long_before_Podesta	1
 CC_DT_NNP
@@ -95,12 +86,13 @@ NN_PRP_VBD
 everyone_it_was	1
 NNP_``_NNP
 AKA_``_Horror	1
+Margheriti_``_Castle	1
 NNS_PRP_VBG
 witnesses_him_placing	1
--RRB-_VBG_IN
--RRB-_settling_into	1
--LRB-_IN_DT
--LRB-_with_a	1
+,_NN_RB
+,_nothing_much	1
+NN_NN_DT
+iron_maiden_the	1
 TO_VB_PRP
 to_give_it	1
 JJ_NNP_NNP
@@ -138,6 +130,7 @@ JJ_NN_IN
 significant_portion_of	1
 grisly_unmasking_of	1
 central_room_in	1
+large_rat_over	1
 ancestral_castle_on	1
 vast_majority_of	1
 Euro-jazz_score_with	1
@@ -188,6 +181,7 @@ stay_firmly_within	1
 PRP$_NN_CC
 our_heroine_and	1
 NNS_CC_NNS
+interiors_and_exteriors	1
 swords_and_axes	1
 IN_DT_VBP
 on_the_torture	1
@@ -196,8 +190,8 @@ come_out_,	1
 ,_CC_PRP$
 ,_but_his	1
 ,_and_his	1
-NNS_-RRB-_IN
-exteriors_-RRB-_of	1
+VBZ_VBN_VBN
+has_been_handled	1
 NNP_,_NN
 Margheriti_,_aka	1
 PRP_,_DT
@@ -270,10 +264,8 @@ VBZ_VBG_JJ
 is_acting_suspicious	1
 IN_NNS_.
 for_collectors_.	1
-JJ_TO_DT
-crucial_to_the	1
-NNP_-RRB-_,
-Erik_-RRB-_,	1
+''_IN_PRP$
+''_in_her	1
 VBD_PRP_JJ
 brought_us_several	1
 VB_VBN_DT
@@ -285,8 +277,6 @@ a_taciturn_German	1
 the_precious_few	1
 some_antique_surgical	1
 a_massive_central	1
-NNP_._-RRB-
-Lee_!_-RRB-	1
 DT_NNP_,
 the_Deep_,	1
 The_Virgin_,	1
@@ -299,8 +289,8 @@ IN_IN_PRP
 because_if_it	1
 RB_,_RB
 once_,_certainly	1
-VBZ_VBN_VBN
-has_been_handled	1
+POS_NNP_NNP
+'s_George_Riviere	1
 NN_WDT_MD
 someone_that_could	1
 DT_NNP_''
@@ -368,8 +358,6 @@ VBG_NNP_NNP
 seeing_Mary_Hunter	1
 VBN_IN_DT
 coupled_with_the	1
-FW_NNP_NNP
-<br />_Shriek_Show	1
 MD_VB_NN
 could_be_murderer	1
 JJR_VBG_RB
@@ -404,18 +392,14 @@ Nuremberg_''_differs	1
 Virgin_''_is	1
 JJ_VBG_RB
 worth_watching_once	1
-''_-RRB-_,
-''_-RRB-_,	1
-``_NN_IN
-``_Flesh_for	1
+CC_NNS_IN
+and_exteriors_of	1
 JJR_NNS_WDT
 earlier_movies_that	1
 VB_IN_NNS
 find_for_collectors	1
 IN_NNP_JJ
 in_Germany_many	1
-FW_``_DT
-<br />_``_The	1
 PRP_VBD_RB
 it_were_n't	1
 it_was_n't	1
@@ -428,8 +412,6 @@ VBP_WRB_JJ
 know_how_important	1
 NN_NN_NN
 rat_cage_sequence	1
-VBZ_NNP_-LRB-
-is_Erich_-LRB-	1
 VBZ_IN_NN
 comes_in_time	1
 VBP_RB_,
@@ -461,6 +443,7 @@ axes_hanging_all	1
 VBZ_DT_.
 reveals_all_.	1
 NNP_''_,
+Blood_''_,	1
 Punisher_''_,	1
 Castle_''_,	1
 CC_RB_JJ
@@ -486,19 +469,16 @@ NN_MD_VB
 actor_could_play	1
 NNP_IN_NNP
 Virgin_of_Nuremberg	6
+Lee_as_Erik	1
 Castle_of_Blood	3
 VBG_JJ_CC
 acting_suspicious_and	1
-NNP_-LRB-_``
-Margheriti_-LRB-_``	1
 VBG_RP_RB
 popping_up_suddenly	1
 ,_''_CC
 ,_''_and	4
 NNS_VBG_VB
 negligees_discovering_torture	1
-FW_DT_JJ
-<br />_The_first	1
 :_``_NNP
 :_``_Castle	1
 VBZ_NNP_POS
@@ -510,8 +490,8 @@ to_their_collection	1
 NNS_:_DT
 scenes_..._the	1
 stars_;_the	1
--LRB-_DT_``
--LRB-_the_``	1
+RB_CC_IN
+around_but_as	1
 DT_NN_IN
 this_sort_of	1
 a_bit_of	1
@@ -537,8 +517,6 @@ VBP_,_VBZ
 see_,_is	1
 JJ_NN_JJ
 low_budget_schlocky	1
--LRB-_CC_NNS
--LRB-_and_exteriors	1
 RB_NN_WDT
 definitely_someone_that	1
 JJ_IN_PRP$
@@ -551,17 +529,13 @@ CC_JJ_VBG
 and_worth_checking	1
 IN_DT_CD
 from_these_two	1
-NNP_-RRB-_NNS
-Riviere_-RRB-_digs	1
+``_DT_NNS
+``_The_Hunters	1
 RB_VBP_IN
 fairly_leap_off	1
 ``_DT_NNP
 ``_The_Virgin	6
 ``_the_Punisher	1
-NN_-LRB-_NNP
-bride_-LRB-_Rosana	1
-,_NN_RB
-,_nothing_much	1
 VBD_RB_IN
 were_n't_for	1
 NN_POS_NNP
@@ -571,13 +545,17 @@ picture_'s_deficits	1
 NNP_CC_RB
 II_and_long	1
 NNP_NNP_NNS
+George_Riviere_digs	1
 Christopher_Lee_completists	1
 ,_VB_NNS
 ,_torture_instruments	1
 NNP_NNP_NNP
+Mary_Hunter_Rossana	1
 World_War_II	1
-Second_World_War	1
+Hunter_Rossana_Podesta	1
 Anthony_M._Dawson	1
+Erich_Christopher_Lee	1
+Second_World_War	1
 DT_NNP_IN
 The_Virgin_of	6
 the_Hunter_from	1
@@ -597,6 +575,7 @@ NN_VBD_NN
 silver_haired_bloke	1
 IN_NNP_,
 of_Blood_,	2
+as_Erik_,	1
 of_Europe_,	1
 of_Nuremberg_,	3
 ``_JJ_NNS
@@ -640,8 +619,6 @@ DT_NNS_,
 the_proceedings_,	1
 JJ_NNP_WP
 strange_American_who	1
--RRB-_,_PRP
--RRB-_,_it	1
 RB_RB_IN
 as_late_as	1
 way_back_in	1
@@ -654,8 +631,6 @@ DT_NNS_:
 these_films_--	1
 CC_VBZ_PRP$
 and_wants_his	1
-FW_JJ_NN
-<br />_Sure_enough	1
 DT_VBG_NNS
 the_unfolding_crimes	1
 NN_VBG_DT
@@ -708,6 +683,7 @@ an_eye_gouging	1
 a_lead_weight	1
 a_rat_cage	1
 JJ_NNS_CC
+atmospheric_interiors_and	1
 sharp_knives_and	1
 sharp_swords_and	1
 NN_PRP_RB
@@ -762,6 +738,7 @@ their_collection_,	1
 DT_VBP_NN
 the_torture_suit	1
 VBZ_NNP_NNP
+is_Erich_Christopher	1
 discovers_Christopher_Lee	1
 NNP_WP_MD
 American_who_may	1
@@ -773,6 +750,7 @@ DT_TO_PRP$
 this_to_their	1
 NNP_''_IN
 Eye_''_among	1
+Virgin_''_in	1
 VBP_VBZ_NN
 torture_implements_vie	1
 VB_``_DT
@@ -813,16 +791,14 @@ responsible_for_such	1
 VB_DT_NN
 play_this_part	1
 have_a_plot	1
-NNS_-LRB-_CC
-interiors_-LRB-_and	1
 NN_TO_NNP
 manservant_to_Max	1
 NNP_CD_,
 Indio_2_,	1
 RP_,_IN
 out_,_on	1
-NN_-RRB-_IN
-rat_-RRB-_over	1
+MD_VB_PRP
+should_like_it	1
 JJ_RB_VBZ
 sure_enough_discovers	1
 IN_VBG_CC
@@ -847,8 +823,6 @@ VBN_JJ_NN
 seen_German-Italian_horror	1
 NNS_CC_JJ
 skulls_and_other	1
--LRB-_IN_NNP
--LRB-_as_Erik	1
 DT_NN_CC
 every_twist_and	1
 a_photo_and	1
@@ -893,17 +867,13 @@ a_very_hungry	1
 a_very_good	1
 this_very_same	1
 a_pretty_good	1
-NNP_-LRB-_IN
-Lee_-LRB-_as	1
-CC_VBZ_JJ
-and_involves_newlywed	1
+RB_RB_PRP
+n't_there_we	1
 POS_NNP_''
 's_Eye_''	1
 DT_NN_TO
 the_heir_to	1
 the_conclusion_to	1
--RRB-_NNS_.
--RRB-_digs_.	1
 PRP_IN_JJ
 it_that_odd	1
 VBG_NNS_.
@@ -969,8 +939,6 @@ to_lovers_of	1
 to_crescendos_at	1
 RB_VB_RB
 definitely_rent_first	1
-MD_VB_PRP
-should_like_it	1
 JJ_NNP_VBZ
 important_Margheriti_is	1
 IN_VBG_NNP
@@ -999,12 +967,10 @@ NNS_,_PRP
 classics_,_he	1
 NNP_NNP_POS
 Mario_Bava_'s	1
-FW_FW_JJ
-<br />_<br />_Sure	1
 NN_DT_NN
 counterbalance_the_picture	1
-CC_NNS_-RRB-
-and_exteriors_-RRB-	1
+NNP_VBG_DT
+Podesta_discovering_the	1
 POS_VB_NN
 's_torture_list	1
 CC_RB_RB
@@ -1030,8 +996,8 @@ PRP_RP_NN
 'em_up_action/war	1
 CC_NN_NN
 and_poster_gallery	1
-NNS_,_NNS
-films_,_films	1
+RP_DT_VBP
+up_the_gore	1
 PRP_VBP_RB
 I_have_n't	1
 IN_VBP_VBZ
@@ -1166,14 +1132,15 @@ bloody_punch_it	1
 entertaining_shoot_'em	1
 WDT_VBP_VBN
 that_have_come	1
-NNP_POS_-LRB-
-Max_'s_-LRB-	1
 JJ_NN_VBZ
 real_estate_consists	1
 VBG_IN_PRP$
 settling_into_her	1
 NNP_NNP_VB
 Mary_Hunter_run	1
+NNP_NNP_VBG
+Rossana_Podesta_settling	1
+Rosana_Podesta_discovering	1
 RB_VBZ_RB
 just_sits_around	1
 NN_NN_VBG
@@ -1188,10 +1155,6 @@ IN_PRP$_JJ
 into_her_new	1
 VBG_DT_IN
 hanging_all_over	1
-NNP_NNP_-LRB-
-Antonio_Margheriti_-LRB-	1
-Christopher_Lee_-LRB-	1
-Mary_Hunter_-LRB-	1
 JJR_CC_JJ
 more_and_sure	1
 ''_VBZ_DT
@@ -1219,6 +1182,7 @@ VBG_TO_VB
 dying_to_see	1
 NN_NNP_NNP
 director_Antonio_Margheriti	1
+bride_Rosana_Podesta	1
 aka_Anthony_M.	1
 CD_NNS_IN
 two_films_in	1
@@ -1269,9 +1233,6 @@ TO_VB_DT
 to_torture_the	1
 to_see_all	1
 to_add_this	1
-NN_NN_-LRB-
-iron_maiden_-LRB-	1
-rat_cage_-LRB-	1
 JJ_IN_VBG
 bent_on_torturing	1
 ,_NN_,
@@ -1291,8 +1252,8 @@ CC_JJ_TO
 and_crucial_to	1
 RB_PRP_MD
 there_we_would	1
-VBN_DT_JJR
-used_some_more	1
+NNP_NNS_.
+Riviere_digs_.	1
 NNP_TO_VB
 Ortolani_to_give	1
 VBD_RB_RB
@@ -1301,8 +1262,6 @@ was_n't_there	1
 IN_NNP_''
 of_Nuremberg_''	3
 of_Blood_''	1
-RB_CC_IN
-around_but_as	1
 DT_JJ_NNS
 the_great_castles	1
 a_few_others	1
@@ -1339,12 +1298,10 @@ MD_VB_IN
 'll_notice_about	1
 would_move_into	1
 would_drag_like	1
-JJ_NNS_-LRB-
-atmospheric_interiors_-LRB-	1
 ,_CC_VBP
 ,_or_are	1
--RRB-_IN_PRP$
--RRB-_in_her	1
+MD_VB_VBN
+could_'ve_used	1
 NN_VBZ_RB
 guy_is_downright	1
 movie_does_n't	1
@@ -1373,12 +1330,12 @@ around_in_negligees	1
 RB_IN_NNP
 long_before_World	1
 long_before_Mary	1
+VBN_DT_JJR
+used_some_more	1
 VBP_RB_TO
 are_soon_to	1
 NNP_NN_VBZ
 FBI_agent_is	1
-IN_PRP_VBZ
-as_it_is	1
 RP_DT_JJ
 out_the_gruesome	1
 PRP_JJ_RB
@@ -1393,6 +1350,8 @@ your_watch_after	1
 ''_shall_we	1
 VBZ_PRP$_JJ
 is_its_peppy	1
+NNP_POS_NNP
+Max_'s_George	1
 NNP_POS_NNS
 Max_'s_ancestors	1
 NNP_,_RB
@@ -1424,6 +1383,8 @@ you_need_any	1
 I_'m_a	1
 JJ_NN_TO
 personal_manservant_to	1
+NNP_NNP_``
+Antonio_Margheriti_``	1
 NN_:_``
 disc_:_``	1
 NN_TO_VB
@@ -1516,8 +1477,6 @@ VBP_NN_CC
 torture_suit_and	1
 VBP_VBN_DT
 've_seen_this	1
--LRB-_``_NNP
--LRB-_``_Castle	1
 CC_VBG_IN
 and_stalking_about	1
 TO_VB_RB
@@ -1542,9 +1501,8 @@ gives_the_movie	1
 's_a_bit	1
 's_the_silver	1
 NNP_NNP_IN
+Christopher_Lee_as	1
 Seven_Deaths_in	1
-IN_NNP_-RRB-
-as_Erik_-RRB-	1
 TO_VB_RP
 to_come_out	1
 VBP_IN_JJ
@@ -1561,8 +1519,6 @@ classics_as_``	1
 JJ_NN_CC
 good_photography_and	1
 small_apartment_or	1
-``_DT_NNS
-``_The_Hunters	1
 IN_JJ_NN
 of_despicable_behavior	1
 of_Italian_director	1
@@ -1577,10 +1533,9 @@ Hunter_'s_wife	1
 ``_NNP_IN
 ``_Castle_of	3
 ``_Ark_of	1
-JJ_NN_-LRB-
-new_bride_-LRB-	1
 JJ_NN_NNP
 Italian_director_Antonio	1
+new_bride_Rosana	1
 new_husband_Max	1
 VBZ_JJ_VBG
 's_worth_watching	1
@@ -1627,8 +1582,6 @@ IN_NNP_VBD
 before_Mary_strolled	1
 POS_NN_,
 's_runtime_,	1
-FW_FW_NNP
-<br />_<br />_Shriek	1
 POS_NN_.
 's_face_.	1
 WP_VBD_PRP
@@ -1637,14 +1590,17 @@ POS_NNS_TO
 's_ancestors_to	1
 VBD_PRP_MD
 thought_it_could	1
-FW_FW_``
-<br />_<br />_``	1
 DT_NNS_PRP
 the_ones_I	1
 CD_NNS_:
 three_stars_;	1
-POS_-LRB-_NNP
-'s_-LRB-_George	1
+NN_DT_``
+maiden_the_``	1
+MD_RB_VB
+could_possibly_engage	1
+would_n't_have	1
+wo_n't_be	1
+should_definitely_rent	1
 ,_RB_IN
 ,_ostensibly_on	1
 ,_long_before	1
@@ -1657,6 +1613,7 @@ room_of_the	1
 suit_of_a	1
 Flesh_for_the	1
 majority_of_the	1
+cage_with_a	1
 centerpiece_of_this	1
 relevancy_in_the	1
 unmasking_of_the	1
@@ -1671,6 +1628,7 @@ look_of_the	1
 castle_on_the	1
 disappearance_for_a	1
 bit_of_a	1
+rat_over_a	1
 castle_in_a	1
 NN_,_DT
 banana_,_that	1
@@ -1708,13 +1666,9 @@ she_suspects_something	1
 ,_CC_RB
 ,_but_nonetheless	1
 ,_but_just	1
-MD_RB_VB
-could_possibly_engage	1
-would_n't_have	1
-wo_n't_be	1
-should_definitely_rent	1
 NNP_,_DT
 Yor_,_the	1
+Erik_,_a	1
 Show_,_a	1
 NN_IN_PRP$
 fascination_with_our	1
@@ -1761,8 +1715,8 @@ PRP_RB_VBZ
 it_desperately_needs	1
 ,_VBZ_DT
 ,_is_a	1
-RB_RB_PRP
-n't_there_we	1
+CC_VBZ_JJ
+and_involves_newlywed	1
 PRP$_NN_POS
 her_husband_'s	1
 ``_NN_NN
@@ -1781,9 +1735,6 @@ acts_weird_and	1
 is_sinister_and	1
 VBG_CC_VBG
 torturing_and_killing	1
-NNP_-RRB-_VBG
-Podesta_-RRB-_discovering	1
-Podesta_-RRB-_settling	1
 VBZ_NN_JJR
 suspects_something_more	1
 PRP$_JJ_NN
@@ -1796,6 +1747,8 @@ PRP$_NN_TO
 his_wife_to	1
 :_RB_,
 ..._well_,	1
+''_,_PRP
+''_,_it	1
 ,_PRP_VBP
 ,_you_see	1
 ,_you_know	1
@@ -1853,15 +1806,8 @@ woman_'s_face	1
 film_'s_runtime	1
 NNS_PRP_VBP
 ones_I_have	1
-NNP_NNP_-RRB-
-Rossana_Podesta_-RRB-	1
-Rosana_Podesta_-RRB-	1
-George_Riviere_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Rosana_Podesta	1
--LRB-_Rossana_Podesta	1
--LRB-_George_Riviere	1
--LRB-_Christopher_Lee	1
+``_NN_IN
+``_Flesh_for	1
 ``_NNP_NNP
 ``_Seven_Deaths	1
 ``_Black_Sunday	1
@@ -1886,9 +1832,6 @@ VBP_IN_NN
 arrive_on_DVD	1
 CD_IN_PRP
 one_of_them	1
-NNP_''_-RRB-
-Blood_''_-RRB-	1
-Virgin_''_-RRB-	1
 VB_DT_NNS
 utilize_the_talents	1
 RP_RB_IN
@@ -1901,8 +1844,8 @@ there_is_Erich	1
 ,_not_perfect	1
 ''_IN_PRP
 ''_among_them	1
-RP_DT_VBP
-up_the_gore	1
+NN_NN_IN
+rat_cage_with	1
 NN_VBG_CD
 sequence_being_one	1
 TO_DT_NN
@@ -1984,8 +1927,11 @@ crescendos_at_every	1
 films_in_that	1
 grounds_of_the	1
 years_after_the	1
+exteriors_of_the	1
 :_CC_DT
 --_and_a	1
+NNP_VBG_IN
+Podesta_settling_into	1
 IN_NNP_NNP
 by_Antonio_Margheriti	1
 of_Christopher_Lee	1
@@ -1995,14 +1941,12 @@ VBD_RB_DT
 was_just_a	1
 ,_DT_VBZ
 ,_that_'s	1
-FW_FW_DT
-<br />_<br />_The	1
+NNS_,_NNS
+films_,_films	1
 NN_CC_VBG
 suit_and_stalking	1
 WRB_MD_DT
 How_can_this	1
-''_-RRB-_IN
-''_-RRB-_in	1
 TO_NNP_POS
 to_Dawson_'s	1
 NN_IN_RB
@@ -2028,8 +1972,8 @@ if_it_was	1
 If_it_were	1
 UH_,_VB
 Yeah_,_torture	1
-JJ_NN_-RRB-
-large_rat_-RRB-	1
+IN_PRP_VBZ
+as_it_is	1
 NNS_RB_VBG
 couples_just_starting	1
 CC_JJ_NN
@@ -2059,9 +2003,8 @@ PRP$_NNS_RP
 his_activities_out	1
 VBD_IN_DT
 strolled_into_the	1
-NNP_-LRB-_NNP
-Hunter_-LRB-_Rossana	1
-Erich_-LRB-_Christopher	1
+JJ_TO_DT
+crucial_to_the	1
 ,_RB_VBZ
 ,_certainly_makes	1
 IN_RB_,
@@ -2103,12 +2046,8 @@ RB_RB_VB
 n't_adequately_utilize	1
 WDT_VBD_RB
 that_was_once	1
-NN_-LRB-_IN
-cage_-LRB-_with	1
 RB_PRP$_NN
 Meanwhile_her_husband	1
-NN_-LRB-_DT
-maiden_-LRB-_the	1
 VBG_``_JJ
 killing_``_shameless	1
 PRP_VBD_PRP

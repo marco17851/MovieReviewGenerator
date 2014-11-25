@@ -18,8 +18,6 @@ CC_``_RB
 and_``_Suddenly	1
 VBZ_TO_NNP
 comes_to_Sinatra	1
-NNP_NNP_CC
-<p>_Picture_and	1
 RB_VBG_NN
 still_purchasing_videotape	1
 NNS_,_PRP
@@ -74,6 +72,7 @@ degraded_video_of	1
 VBN_CD_CC
 fit_three_or	1
 NNP_NNP_JJ
+Jerome_Kern_famous	1
 This_MADACY_gray	1
 NNP_NNS_JJ
 Sinatra_classics_such	1
@@ -99,18 +98,17 @@ of_two_movies	1
 ``_IN_RB
 ``_From_Here	1
 NN_NN_.
-domain_stock_.	1
-dose_space-waster_.	1
-background_history_.	1
+writer_biopic_.	1
 SP_mode_.	1
+domain_stock_.	1
+background_history_.	1
+dose_space-waster_.	1
 NN_IN_PRP
 movie_before_he	1
-DT_NN_PRP
-the_product_itself	1
+CC_IN_RB
+or_at_very	1
 VBP_VBN_NN
 have_degraded_video	1
-CC_VBP_VBN
-and_have_degraded	1
 NN_VBN_``
 movie_called_``	1
 NN_IN_DT
@@ -138,8 +136,8 @@ be_the_first	1
 buy_this_inexpensive	1
 PRP$_NN_VBZ
 Their_SLP_dubs	1
-NN_:_VB
-videotape_:_try	1
+VBP_JJ_NN
+are_certain_record	1
 NNP_NNS_VBG
 Hollywood_Classics_featuring	1
 ''_,_``
@@ -152,7 +150,6 @@ NNP_NNP_NNP
 John_F._Kennedy	1
 Old_Man_River	1
 Lee_Harvey_Oswald	1
-<br />_This_MADACY	1
 VBN_TO_``
 Compared_to_``	1
 VBN_NNS_.
@@ -185,8 +182,6 @@ IN_DT_NN
 in_this_movie	3
 at_the_SP	1
 at_that_snail	1
-FW_DT_NN
-<br />_The_issue	1
 JJ_NN_IN
 sound_quality_of	1
 dandy_package_of	1
@@ -199,8 +194,8 @@ RB_VBN_.
 not_realized_.	1
 NN_NN_VBN
 assassination_movie_called	1
-NNP_-LRB-_JJ
-Kern_-LRB-_famous	1
+NN_:_VB
+videotape_:_try	1
 NNP_NNP_VBD
 Dean_Martin_was	1
 Harvey_Oswald_had	1
@@ -228,10 +223,10 @@ DT_NNS_,
 all_scenes_,	1
 CC_NNP_NNP
 and_Dean_Martin	1
-NNP_NNP_-LRB-
-Jerome_Kern_-LRB-	1
 RB_,_PRP
 Otherwise_,_it	1
+NNS_:_PRP
+movies_--_they	1
 IN_DT_NNS
 in_all_scenes	1
 JJS_NNS_IN
@@ -240,8 +235,8 @@ PRP$_JJ_NN
 its_old_age	1
 RB_RB_IN
 only_once_as	1
--LRB-_JJ_NN
--LRB-_famous_song	1
+DT_NN_PRP
+the_product_itself	1
 NNP_NNP_.
 F._Kennedy_.	1
 TO_``_IN
@@ -265,8 +260,6 @@ NN_TO_NN
 advice_to_anyone	1
 EX_VBP_DT
 there_are_some	1
-VBP_JJ_NN
-are_certain_record	1
 VB_NN_NNS
 locate_studio_releases	1
 CC_PRP_VBD
@@ -288,8 +281,6 @@ Man_River_''	1
 ''_is_much	1
 ``_DT_NN
 ``_The_Man	1
-VBZ_NN_RB
-dubs_track_poorly	1
 RB_''_.
 Suddenly_''_.	1
 NN_PRP_MD
@@ -306,8 +297,8 @@ VBN_TO_VB
 supposed_to_take	1
 RB_JJS_NNS
 very_least_labels	1
-NN_NN_-RRB-
-song_writer_-RRB-	1
+RB_RBR_JJ
+much_more_interesting	1
 NN_IN_IN
 movie_along_with	1
 TO_VB_NN
@@ -323,8 +314,6 @@ VBZ_,_IN
 is_,_at	1
 PRP_VBZ_JJ
 it_is_worthwhile	1
-NN_VBN_TO
-<p>_Compared_to	1
 NNS_JJ_IN
 classics_such_as	1
 NN_NN_VBZ
@@ -353,8 +342,8 @@ RB_''_VBZ
 Suddenly_''_is	2
 ``_RB_''
 ``_Suddenly_''	3
-NNS_:_PRP
-movies_--_they	1
+NN_NN_NN
+song_writer_biopic	1
 RB_IN_VBG
 instead_of_issuing	1
 ''_CC_VBZ
@@ -362,8 +351,6 @@ instead_of_issuing	1
 RB_JJ_NN
 very_interesting_feeling	1
 very_dandy_package	1
-CC_IN_RB
-or_at_very	1
 PRP$_NN_,
 his_hero_,	1
 DT_NN_RB
@@ -374,15 +361,12 @@ NN_VBZ_,
 Truth_is_,	1
 TO_NNP_,
 to_Sinatra_,	1
-FW_FW_NN
-<br />_<br />_Best	1
-<br />_<br />_Truth	1
 PRP$_NN_NN
 its_background_history	1
 VBG_NN_:
 purchasing_videotape_:	1
-NN_-RRB-_NN
-writer_-RRB-_biopic	1
+VBZ_NN_RB
+dubs_track_poorly	1
 IN_RB_JJS
 at_very_least	1
 IN_DT_NNP
@@ -401,8 +385,8 @@ JJ_VBG_.
 worth_seeing_.	1
 DT_JJ_NNP
 a_single_VHS	1
-RB_CC_VBP
-poorly_and_have	1
+CC_VBP_VBN
+and_have_degraded	1
 VBN_``_DT
 called_``_The	1
 JJ_NN_NN
@@ -426,8 +410,6 @@ this_inexpensive_,	1
 NNP_IN_DT
 Sinatra_in_this	1
 Sinatra_in_all	1
-FW_FW_DT
-<br />_<br />_The	1
 MD_VB_VBN
 could_'ve_fit	1
 NN_NN_PRP
@@ -435,13 +417,12 @@ pace_speed_they	1
 VB_DT_NN
 buy_another_movie	1
 watch_this_movie	1
-NN_``_IN
-<p>_``_Till	1
 JJ_NNS_IN
 many_stars_in	1
 PRP_VBZ_RB
 it_is_quite	1
 NNP_JJ_NN
+Kern_famous_song	1
 MADACY_gray_box	1
 RB_,_NNP
 Interestingly_,_Dean	1
@@ -541,8 +522,6 @@ Arm_''_.	1
 Candidate_''_.	1
 NNS_CC_IN
 releases_or_at	1
-RB_RBR_JJ
-much_more_interesting	1
 NN_IN_VBG
 way_of_paying	1
 RBR_JJ_NNP
@@ -580,8 +559,6 @@ you_can_see	1
 they_could_'ve	1
 it_would_be	1
 you_should_buy	1
-FW_NN_VBZ
-<br />_Truth_is	1
 DT_JJ_NN
 the_first_movie	1
 The_Golden_Arm	1
@@ -602,8 +579,8 @@ PRP_VBZ_TO
 it_comes_to	1
 NN_RB_VBG
 anyone_still_purchasing	1
--RRB-_NN_.
--RRB-_biopic_.	1
+RB_CC_VBP
+poorly_and_have	1
 JJ_,_JJ
 inexpensive_,_interesting	1
 ''_VBZ_VBN
@@ -620,8 +597,6 @@ VBZ_DT_PRP
 's_all_you	1
 VBZ_NN_NNP
 shoots_president_Kennedy	1
-FW_NN_NN
-<br />_Best_advice	1
 NN_,_NNP
 hero_,_John	1
 VBZ_DT_RB

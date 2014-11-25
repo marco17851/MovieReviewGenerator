@@ -83,8 +83,6 @@ WP_VBZ
 who_does	1
 who_is	1
 what_makes	1
--RRB-_,
--RRB-_,	2
 NNP_CC
 Deason_but	1
 JJR_NNS
@@ -126,6 +124,7 @@ agree_with	2
 JJ_PRP
 much_I	1
 glad_I	2
+flexible_I	1
 VBD_RB
 were_also	1
 felt_very	1
@@ -150,16 +149,10 @@ think_downward	1
 am_new	1
 am_familiar	1
 'm_glad	1
-CD_-LRB-
-one_-LRB-	1
 PRP_JJR
 me_more	1
--LRB-_RB
--LRB-_often	1
 VBG_JJR
 seeing_better	1
--RRB-_TO
--RRB-_to	1
 VBD_JJ
 felt_GREAT	1
 was_great	1
@@ -172,10 +165,8 @@ need_to	1
 try_to	1
 listen_to	1
 go_to	1
-LS_-RRB-
-1_-RRB-	1
-2_-RRB-	1
-3_-RRB-	1
+RB_NNS
+not_people	1
 PRP$_NNP
 my_VCR	1
 ,_PRP$
@@ -313,15 +304,12 @@ beginner_but	1
 scenery_and	1
 DVD_and	1
 trial_and	1
-dubbing_and	1
+dubbing_and	2
 strength_and	1
 NN_CD
-<br />_4	1
+practice_3	1
+workout_2	1
 video_8	1
-<br />_3	1
-<br />_2	1
-JJ_FW
-flexible_<br />	1
 DT_JJS
 the_most	1
 the_least	1
@@ -332,6 +320,7 @@ NN_JJ
 face_downward	1
 yoga_gentle	1
 fun_intense	1
+yoga_intermediate	1
 video_several	1
 NNP_NNS
 NOT_beginners	1
@@ -412,8 +401,6 @@ EX_MD
 there_must	1
 VB_WP
 match_what	1
--LRB-_CC
--LRB-_and	1
 RB_WRB
 enough_how	1
 RB_,
@@ -424,10 +411,6 @@ Contrastly_,	1
 gracefully_,	1
 already_,	1
 Also_,	1
-FW_LS
-<br />_1	1
-<br />_3	1
-<br />_2	1
 RB_.
 throughly_.	1
 completely_.	1
@@ -441,11 +424,8 @@ well_.	1
 IN_VB
 that_pose	1
 VBD_CC
+were_and	1
 used_and	1
-VBZ_-RRB-
-moves_-RRB-	1
-NNP_-RRB-
-Yoga_-RRB-	1
 CC_RB
 and_just	2
 and_back	1
@@ -460,8 +440,6 @@ and_only	1
 and_downright	1
 and_finally	1
 but_never	1
--RRB-_WRB
--RRB-_where	1
 WRB_PRP
 where_she	1
 When_she	1
@@ -710,8 +688,6 @@ it_seems	1
 herself_is	1
 she_moves	1
 It_does	1
-FW_PRP
-<br />_I	4
 IN_,
 of_,	1
 IN_.
@@ -775,6 +751,7 @@ noticed_that	1
 excited_about	1
 VBP_WRB
 know_how	1
+forget_where	1
 CC_IN
 but_with	1
 and_in	2
@@ -809,6 +786,14 @@ more_energy	1
 more_variety	1
 RB_``
 so_``	1
+VBP_VBN
+'ve_noticed	1
+have_tried	1
+have_noticed	1
+'ve_been	2
+'ve_done	1
+am_done	1
+have_found	1
 PRP_MD
 I_would	3
 I_'d	1
@@ -822,14 +807,8 @@ It_should	1
 I_can	3
 I_could	2
 it_will	2
-VBP_VBN
-'ve_noticed	1
-have_tried	1
-have_noticed	1
-'ve_been	2
-'ve_done	1
-am_done	1
-have_found	1
+:_CD
+:_1	1
 CC_VB
 or_know	1
 and_am	1
@@ -849,24 +828,20 @@ There_is	1
 there_'s	1
 EX_VBP
 there_are	2
--RRB-_``
--RRB-_``	1
 CC_``
 and_``	1
 or_``	1
 NN_NN
 air_face	1
-yoga_tape	2
-practice_<br />	1
+YOGA_TAPE	1
 yoga_beginner	1
 yoga_program	1
 timer_kind	1
 heart_rate	2
 body_heat	1
-video_cover	1
-YOGA_TAPE	1
 tape_music	1
-workout_<br />	1
+yoga_tape	2
+video_cover	1
 relaxation_portion	1
 NNS_RB
 things_not	1
@@ -944,6 +919,7 @@ side_of	1
 undertone_of	1
 video_for	1
 felxibility_in	1
+chance/challenge_by	1
 plus_for	1
 yoga_with	1
 end_of	1
@@ -1053,10 +1029,8 @@ I_really	3
 I_also	3
 IN_EX
 because_there	1
-JJ_-LRB-
-intermediate_-LRB-	1
-VBD_-RRB-
-were_-RRB-	1
+PRP_RP
+it_off	1
 RB_VBZ
 just_seems	1
 here_is	1
@@ -1123,8 +1097,6 @@ ever_used	1
 back_was	1
 really_did	1
 yet_felt	1
-FW_IN
-<br />_On	1
 CC_MD
 but_may	1
 and_would	1
@@ -1194,18 +1166,21 @@ make_the	1
 do_the	1
 WRB_DT
 why_some	1
-FW_FW
-<br />_<br />	9
-LOVE_THIS	1
+IN_IN
+that_if	1
+in_that	1
+out_of	2
+along_with	1
+because_of	1
+so_that	2
 VBZ_JJ
 is_hard	1
 has_beautiful	1
 thats_fine	1
 's_short	1
-JJ_-RRB-
-intermediate_-RRB-	1
 NN_TO
 teacher_to	1
+challenge_to	1
 DVD_to	2
 sell_to	1
 thing_to	1
@@ -1301,13 +1276,8 @@ n't_say	1
 too_jump	1
 longer_have	1
 n't_get	2
-IN_IN
-that_if	1
-in_that	1
-out_of	2
-along_with	1
-because_of	1
-so_that	2
+FW_FW
+LOVE_THIS	1
 JJ_RB
 hard_especially	1
 short_enough	1
@@ -1340,8 +1310,6 @@ minutes_,	1
 videos_,	1
 positions_,	1
 beginners_,	1
--RRB-_DT
--RRB-_The	2
 RBR_RB
 more_slowly	1
 NNS_:
@@ -1370,8 +1338,6 @@ other_Beginner	1
 ''_or	1
 IN_WP
 of_what	1
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 holding_it	1
 overriding_it	1
@@ -1380,6 +1346,8 @@ DT_RB
 a_little	1
 a_fast	1
 a_too	1
+:_LS
+:_1	1
 NN_PRP
 repetition_I	1
 tape_I	1
@@ -1481,6 +1449,9 @@ movement_-	1
 workout_...	1
 ._''
 ._''	1
+LS_DT
+3_The	1
+2_The	1
 NN_,
 background_,	1
 voice_,	1
@@ -1556,10 +1527,8 @@ that_has	1
 that_bothers	1
 JJR_TO
 longer_to	1
-NN_-LRB-
-chance/challenge_-LRB-	1
-dubbing_-LRB-	1
-yoga_-LRB-	2
+LS_``
+1_``	1
 ''_VBZ
 ''_is	1
 VBP_VB
@@ -1571,8 +1540,6 @@ VBG_RB
 dubbing_not	1
 disconsorting_even	1
 skipping_too	1
--RRB-_NN
--RRB-_<br />	1
 DT_,
 some_,	1
 VBG_RP
@@ -1615,6 +1582,8 @@ Sometimes_her	1
 Otherwise_I	1
 Sometimes_it	1
 even_she	1
+CD_WP$
+one_whose	1
 VBZ_PRP
 bothers_you	1
 has_you	1
@@ -1643,8 +1612,9 @@ NNP_IN
 VHS_for	1
 OFFER_for	1
 Deason_in	1
-RB_NNS
-not_people	1
+PRP$_NNS
+my_capacities	1
+my_legs	2
 IN_VBG
 after_using	1
 in_creating	1
@@ -1653,8 +1623,6 @@ while_getting	1
 by_adding	1
 without_explaining	1
 without_skipping	1
-NN_-RRB-
-challenge_-RRB-	1
 ,_PRP
 ,_she	1
 ,_I	2
@@ -1671,6 +1639,7 @@ pleasant_and	1
 necessary_and	1
 challenging_and	1
 JJ_CD
+intermediate_4	1
 niffy_20	1
 CD_.
 1_.	1
@@ -1678,12 +1647,6 @@ one_.	1
 4_.	1
 2_.	1
 3_.	1
-VBP_-RRB-
-forget_-RRB-	1
-PRP_RP
-it_off	1
-FW_CD
-<br />_1	1
 POS_NN
 's_category	1
 's_delivery	1
@@ -1782,6 +1745,8 @@ do_n't	1
 pose_completely	1
 JJ_VBZ
 different_poses	1
+NNP_,
+Yoga_,	1
 CD_JJ
 4_other	1
 NNP_.
@@ -1815,6 +1780,8 @@ works_--	1
 prompts_-	1
 VBZ_.
 poses_.	1
+VBZ_,
+moves_,	1
 RB_NN
 just_timing	1
 NNS_TO
@@ -1824,8 +1791,6 @@ times_to	1
 CC_PRP$
 and_my	1
 and_her	2
--LRB-_JJ
--LRB-_intermediate	1
 JJ_JJ
 Fantastic_quick	1
 JJR_IN
@@ -1833,8 +1798,6 @@ better_as	1
 less_than	1
 limber_at	1
 more_of	1
-:_FW
-:_<br />	2
 WRB_JJ
 how_much	1
 ,_CC
@@ -1982,9 +1945,6 @@ NN_``
 word_``	1
 VBG_NNP
 Living_Art	1
--LRB-_IN
--LRB-_by	1
--LRB-_at	1
 NNP_POS
 Beginner_'s	2
 NN_RB
@@ -1998,6 +1958,7 @@ yoga_gracefully	1
 yoga_already	1
 music_too	1
 yoga_off	1
+yoga_often	1
 JJ_IN
 soothing_in	1
 next_without	1
@@ -2006,6 +1967,7 @@ much_that	1
 advanced_for	1
 great_because	1
 much_of	1
+intermediate_at	1
 good_for	2
 static_in	1
 same_as	1
@@ -2031,16 +1993,11 @@ VBZ_NNS
 poses_combinations	1
 NN_PRP$
 pace_its	1
-PRP$_NNS
-my_capacities	1
-my_legs	2
 JJ_''
 fast_''	1
 quick_''	1
 intermediate_''	1
 advanced_''	1
--LRB-_WP$
--LRB-_whose	1
 VB_CC
 pose_and	2
 pose_or	1

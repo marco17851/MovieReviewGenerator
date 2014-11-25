@@ -40,9 +40,8 @@ NN_IN_CD
 midnight_with_150	1
 JJ_NNS_PRP
 indie_films_you	1
-FW_FW_NNP
-<br />_<br />_P.S.	1
-<br />_<br />_P.P.S.	1
+VB_IN_PRP$
+do_with_your	1
 TO_NNP_PRP
 to_Wallace_himself	1
 VBZ_RB_JJ
@@ -50,7 +49,6 @@ is_very_entertaining	1
 is_entirely_false	1
 is_still_funny	1
 VBN_IN_NN
-mentioned_in_<br />	1
 seen_by_everyone	1
 NN_VBZ_RB
 film_is_very	1
@@ -68,7 +66,6 @@ JJS_CC_RBS
 funniest_and_most	1
 NN_RB_VBZ
 movie_really_needs	1
-<br />_actually_consists	1
 VBD_PRP$_RB
 granted_its_not	1
 NN_IN_NN
@@ -170,8 +167,6 @@ able_to_do	1
 sure_to_get	1
 CC_VBD_NNP
 or_hated_Braveheart	1
-FW_NNP_.
-<br />_P.S._.	1
 VBN_CC_VBN
 written_or_acted	1
 IN_DT_VBD
@@ -229,8 +224,6 @@ RBS_RB_JJ
 most_definitely_misleading	1
 VB_JJR_IN
 see_more_than	1
-FW_FW_PRP
-<br />_<br />_I	1
 ,_WRB_POS
 ,_Where_'s	1
 RB_,_RB
@@ -243,6 +236,7 @@ PRP_VBD_PRP
 I_gave_it	1
 It_reminded_me	1
 RB_RB_JJ
+far_not_appropriate	1
 not_quite_sure	1
 VBD_VBN_PRP
 was_made_I	1
@@ -253,6 +247,7 @@ Whether_you_loved	1
 RB_JJ_IN
 quite_sure_that	1
 so_bad_from	1
+not_appropriate_for	1
 still_funny_if	1
 n't_sure_if	1
 CC_VBG_NNS
@@ -274,19 +269,18 @@ was_even_an	1
 VBN_IN_DT
 acted_before_that	1
 come_from_the	1
+mentioned_in_the	1
 turned_into_a	1
-FW_NNP_NNP
-<br />_P.P.S._Brian	1
 NNP_,_VBD
 Cross_,_granted	1
 ,_PRP_IN
 ,_it_like	1
 VB_PRP_VBG
 get_you_going	1
-VBP_NN_IN
-know_<br />_that	1
-VBN_,_VBN
-crafted_,_written	1
+NN_PRP_VBZ
+acting_it_is	1
+VB_VBN_RB
+be_improved_drastically	1
 ,_CC_IN
 ,_and_as	1
 ,_but_if	1
@@ -294,8 +288,6 @@ crafted_,_written	1
 ,_would_have	1
 MD_VB_PDT
 can_appreciate_all	1
-VB_JJ_IN
-<br />_appropriate_for	1
 VBN_TO_VB
 edited_to_be	1
 VBP_PRP_IN
@@ -310,8 +302,6 @@ VBZ_IN_RB
 is_by_far	1
 NN_VBD_NNP
 name_was_Mel	1
-NN_PRP_VBZ
-acting_it_is	1
 NNS_DT_NNS
 remakes_these_days	1
 PRP_VBD_RB
@@ -328,7 +318,6 @@ Scottish_,_Aussie	1
 VBN_PRP_VBP
 made_I_applaud	1
 NN_NN_NN
-<br />_film_quality	1
 school_AV_club	1
 grammar_school_comprehension	1
 school_comprehension_level	1
@@ -341,8 +330,6 @@ VBP_RB_.
 have_n't_.	1
 NN_NNS_VBD
 film_makers_were	1
-RB_VB_JJ
-not_<br />_appropriate	1
 RB_CD_PRP
 easily_one_you	1
 EX_VBD_NNP
@@ -368,6 +355,8 @@ really_like_the	1
 about_as_an	1
 NN_MD_VB
 movie_would_be	1
+,_IN_RB
+,_while_irresponsibly	1
 PRP_VBD_PRP$
 I_saw_his	1
 PRP_VBD_IN
@@ -390,7 +379,7 @@ the_age_of	1
 an_idea_for	1
 the_spirit_in	1
 some_discussion_with	1
-the_fact_that	1
+the_fact_that	2
 the_money_that	1
 the_sheep_underneath	1
 a_sheep_in	1
@@ -473,7 +462,7 @@ funnier_that_way	1
 NN_IN_NNP
 fun_at_Mel	1
 spoof_of_Braveheart	1
-association_with_<br />	1
+association_with_Irish	1
 screen_like_Rocky	1
 fun_of_Braveheart	1
 VBZ_JJ_TO
@@ -498,10 +487,6 @@ VBZ_PRP_JJ
 Is_it_worth	1
 DT_JJ_CC
 a_black_and	1
-VBN_NN_RB
-improved_<br />_drastically	1
-IN_NN_RB
-while_<br />_irresponsibly	1
 VB_PRP_RB
 believe_they_actually	1
 CC_NN_VBD
@@ -533,8 +518,8 @@ not_mentioned_anywhere	1
 DT_NN_NN
 the_product_description	2
 a_side_note	1
-the_<br />_fact	1
 a_shoestring_budget	1
+a_grammar_school	1
 a_dream_sequence	1
 JJ_NNS_CC
 homophobic_jokes_and	1
@@ -577,6 +562,8 @@ DT_NNP_VB
 a_MUST_see	1
 PRP$_NN_.
 your_time_.	1
+''_VBP_IN
+''_know_that	1
 CC_VBG_NN
 and_clapping_!!	1
 RB_RB_TO
@@ -589,7 +576,6 @@ new_world_slap-stick	1
 middle_school_play	1
 full_length_film	1
 high_qaulity_movie	1
-<br />_grammar_school	1
 low_budget_film	1
 high_school_AV	1
 NN_RB_.
@@ -674,6 +660,7 @@ budget_,_not	1
 JJ_NNP_NNS
 drunken_Irish_guys	1
 IN_RB_RB
+while_irresponsibly_not	1
 by_far_not	1
 CC_IN_IN
 and_as_for	1
@@ -722,8 +709,6 @@ NN_IN_NNPS
 sport_for_Texans	1
 VB_RB_,
 say_again_,	1
-''_VBP_NN
-''_know_<br />	1
 NNP_RP_TO
 Braveheart_out_to	1
 VBG_DT_NN
@@ -756,14 +741,12 @@ Strangeheart_technically_qualifies	1
 NNP_NNP_CC
 Monte_Python_and	1
 Mel_Gibson_or	1
-<br />_Irish_or	1
 Anna_Molly_and	1
 NNP_NNP_POS
 Ian_Cross_'	1
 VB_VBN_JJR
 have_been_funnier	1
 NN_DT_NN
-<br />_the_product	1
 cleverness_the_film	1
 VBD_RB_NN
 was_even_someone	1
@@ -773,8 +756,6 @@ a_following_that	1
 a_spoof_that	1
 MD_CC_RB
 will_either_absolutely	1
-,_IN_NN
-,_while_<br />	1
 DT_NNP_JJ
 some_Hollyweird_big	1
 NNP_JJ_NN
@@ -878,11 +859,12 @@ on_this_embarrassment	1
 from_the_money	1
 in_the_theater	1
 that_the_product	1
+in_the_product	1
 in_the_film	1
 for_the_acting	1
 of_that_film	1
 as_a_movie	1
-Besides_the_<br />	1
+Besides_the_fact	1
 about_this_product	1
 down_the_toilet	1
 as_an_idea	1
@@ -895,8 +877,10 @@ throughout_the_film	1
 for_a_movie	1
 in_no_way	1
 like_the_fact	1
+at_a_grammar	1
 on_a_shoestring	1
 VBN_RB_IN
+improved_drastically_if	1
 made_locally_on	1
 mentioned_anywhere_about	1
 JJ_NN_PRP
@@ -912,7 +896,7 @@ POS_NNS_IN
 NN_NN_VBN
 film_quality_surpassed	1
 NNS_CC_NN
-jokes_and_<br />	1
+jokes_and_film	1
 JJ_NN_VBP
 perverse_writing_carry	1
 NNS_WP_VBP
@@ -962,8 +946,6 @@ out_there_.	1
 RB_DT_JJS
 not_the_best	1
 not_the_greatest	1
-VB_IN_PRP$
-do_with_your	1
 NNS_IN_NN
 stars_because_anything	1
 Kings_off_spring	1
@@ -1019,8 +1001,6 @@ VBG_NN_IN
 making_fun_of	1
 poking_fun_at	1
 having_fun_with	1
-FW_RB_IN
-<br />_Anyway_as	1
 NNS_IN_CC
 claims_that_and	1
 NNP_VB_.
@@ -1046,8 +1026,6 @@ WP$_NN_VBD
 whose_name_was	1
 VBG_RP_NN
 throwing_away_money	1
-NN_,_NN
-embarrassment_,_<br />	1
 MD_VB_IN
 could_tell_that	1
 MD_VB_VBG
@@ -1066,26 +1044,21 @@ PRP_VBZ_RB
 it_is_not	1
 it_is_still	1
 it_is_merely	1
-,_CC_NN
-,_but_<br />	1
 TO_VB_PRP
 to_get_you	1
 NNS_IN_NNS
 tons_of_outtakes	1
 VBZ_RB_VBN
 is_not_made	2
-VBZ_WRB_PRP
-is_where_it	1
 IN_NNP_CC
 by_Irish_or	2
+with_Irish_or	1
 MD_PRP_VB
 might_I_add	1
 VBP_RB_TO
 have_yet_to	1
 IN_DT_PRP
 because_all_you	1
-,_NN_IN
-,_<br />_because	1
 NNP_NNP_PRP
 !!!!_Whether_you	1
 PRP_VBP_``
@@ -1112,7 +1085,6 @@ with_a_different	1
 on_this_atrocious	1
 with_the_financial	1
 as_an_extra	1
-at_a_<br />	1
 into_a_full	1
 in_a_purple	1
 VBP_VBN_NNP
@@ -1134,18 +1106,18 @@ NNP_NNP_RB
 New_Zealander_as	1
 NN_TO_VB
 potential_to_cultivate	1
-NN_RB_IN
-<br />_drastically_if	1
 VBD_PRP_VBP
 Need_I_say	1
+NN_,_IN
+embarrassment_,_because	1
 VBD_NNP_NNP
 was_Mel_Gibson	1
 NN_NN_NNS
 AV_club_movies	1
 CC_JJ_,
 and_clever_,	1
-NN_CC_VB
-shipping_and_flush	1
+VBP_IN_DT
+know_that_the	1
 VBP_JJR_.
 say_more_?	1
 NN_WP_VBZ
@@ -1176,7 +1148,6 @@ NN_,_''
 film_,_''	1
 DT_JJ_NN
 The_rugby_game	1
-a_<br />_grammar	1
 a_different_perspective	1
 a_high_qaulity	1
 a_purple_teddy	1
@@ -1197,7 +1168,6 @@ an_independent_film	1
 a_short_spoof	1
 a_full_length	1
 NN_RB_RB
-<br />_irresponsibly_not	1
 ancestry_directly_back	1
 film_out_there	1
 NNP_,_WRB
@@ -1252,12 +1222,10 @@ can_come_from	1
 DT_NN_POS
 a_sheep_'s	1
 the_sheep_'s	1
-CC_NN_RB
-but_<br />_actually	1
 PRP$_NN_IN
 your_money_on	1
-FW_FW_RB
-<br />_<br />_Anyway	1
+VBZ_WRB_PRP
+is_where_it	1
 CC_NNP_,
 or_Scotsmen_,	3
 ,_JJ_CC
@@ -1279,13 +1247,11 @@ discussion_with_the	1
 money_on_this	2
 film_after_some	1
 perspective_of_the	1
-<br />_that_the	1
+fact_that_the	1
 mistake_that_this	1
 excuse_for_a	1
-fact_that_the	1
 spoof_of_that	1
 film_as_an	1
-<br />_because_all	1
 sheep_in_a	1
 idea_for_a	1
 NN_,_DT
@@ -1316,11 +1282,11 @@ screaming_lines_at	1
 RB_DT_NN
 actually_a_sheep	1
 CC_RB_VBZ
-but_actually_consists	1
+but_actually_consists	2
 VBZ_RB_IN
 consists_only_of	2
 ,_CC_RB
-,_but_actually	1
+,_but_actually	2
 IN_NN_VBP
 off_spring_are	1
 VBZ_RBS_RB
@@ -1359,8 +1325,6 @@ NN_VBD_VBN
 film_was_made	1
 VBN_NNP_IN
 seen_Braveheart_since	1
-RB_RB_VB
-far_not_<br />	1
 NN_VBD_VBG
 everyone_was_laughing	1
 theater_was_cracking	1
@@ -1391,6 +1355,8 @@ but_it_is	2
 JJ_NNS_VBG
 drunken_idiots_throwing	1
 worth_whats_being	1
+NN_CC_VB
+shipping_and_flush	1
 JJ_CC_JJ
 clever_and_funny	1
 black_and_white	1
@@ -1422,8 +1388,6 @@ NN_POS_NN
 sheep_'s_mask	2
 ,_NNP_RB
 ,_Hollyweird_only	1
-FW_PRP_MD
-<br />_I_will	1
 TO_VB_DT
 to_see_a	1
 to_see_the	1
@@ -1450,7 +1414,6 @@ movie_per_se	1
 DT_PRP_MD
 all_you_will	1
 NN_NN_IN
-<br />_fact_that	1
 length_film_after	1
 VB_RB_TO
 Welcome_back_to	1
@@ -1483,6 +1446,7 @@ of_the_days	1
 of_the_jokes	1
 ,_IN_DT
 ,_as_that	1
+,_because_all	1
 NNS_CC_CD
 hours_and_20	1
 RB_,_CC
@@ -1503,7 +1467,6 @@ NNS_IN_DT
 lines_at_a	1
 lines_at_the	1
 IN_NNP_NNP
-with_<br />_Irish	1
 from_Anna_Molly	1
 at_Mel_Gibson	1
 of_Monte_Python	1
@@ -1516,7 +1479,7 @@ NN_VBZ_JJ
 world_meets_new	1
 comedy_is_sure	1
 CC_NN_NN
-and_<br />_film	1
+and_film_quality	1
 IN_NNPS_MD
 for_Texans_might	1
 DT_NN_MD
@@ -1530,6 +1493,8 @@ NN_NNS_.
 club_movies_.	1
 NNS_VBN_,
 films_made_,	1
+VBN_,_VBN
+crafted_,_written	1
 NN_VBP_PRP
 writing_carry_you	1
 VBD_VBN_.
@@ -1538,8 +1503,6 @@ NN_VBZ_FW
 film_is_HILARIOUS	1
 CD_CC_NN
 27_plus_shipping	1
-VB_VBN_NN
-be_improved_<br />	1
 IN_PRP_VBD
 like_I_did	1
 that_it_was	1
@@ -1579,8 +1542,6 @@ PRP_IN_PRP
 it_like_I	1
 VB_PRP_IN
 flush_it_down	1
-IN_NN_DT
-in_<br />_the	1
 JJ_CC_NN
 packed_and_everyone	1
 DT_JJS_NNS

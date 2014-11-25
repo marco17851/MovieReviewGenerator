@@ -1,16 +1,12 @@
 VB_IN_DT
 say_about_this	1
 say_for_the	1
-JJ_NN_RB
-<br />_Nothing_really	1
 NN_VBZ_DT
 lead_is_a	1
 name_is_a	1
 IN_PRP$_NN
 that_his_name	1
 though_his_head	1
-:_JJ_NN
-..._<br />_Nothing	1
 CC_DT_NN
 but_the_truth	1
 NNS_,_DT
@@ -21,8 +17,6 @@ JJ_IN_NNS
 kinky_at_times	1
 ,_DT_NNP
 ,_those_Hollywood	1
-CC_DT_RB
-but_a_comparatively	1
 ,_IN_IN
 ,_except_that	1
 NNP_NNP_CC
@@ -127,8 +121,8 @@ for_the_price	1
 VBZ_DT_JJ
 is_a_hot	1
 has_a_supporting	1
-JJ_NNS_.
-actual_visuals_.	1
+NN_:_NN
+murder_..._Nothing	1
 JJ_NN_IN
 little_amount_of	1
 good_buy_for	1
@@ -176,6 +170,8 @@ RB_JJ_NN
 comparatively_little_amount	1
 JJS_NN_''
 biggest_star_''	1
+:_NN_RB
+..._Nothing_really	1
 JJ_TO_VB
 interesting_to_note	1
 much_to_say	1
@@ -243,9 +239,8 @@ IN_JJ_NNS
 than_actual_visuals	1
 NN_VBZ_RP
 head_fills_up	1
-VBZ_RB_DT
-'s_quite_a	1
-is_technically_the	1
+JJ_NNS_.
+actual_visuals_.	1
 VBZ_TO_NN
 wants_to_spice	1
 IN_NNP_NNP
@@ -256,8 +251,8 @@ will_say_that	1
 'd_say_for	1
 PRP_VBP_IN
 they_think_that	1
-NN_VBG_JJ
-<br />_Being_unrated	1
+CC_DT_RB
+but_a_comparatively	1
 VBP_IN_PRP$
 think_that_his	1
 ,_PRP_RB
@@ -304,8 +299,6 @@ that_he_is	1
 that_it_is	1
 that_it_'s	1
 until_it_results	1
-VB_PRP_VBZ
-<br />_It_'s	1
 NNP_VBZ_IN
 Lopez_is_in	1
 IN_PRP_VBP
@@ -318,14 +311,15 @@ TO_NN_RP
 to_spice_up	1
 DT_RB_JJ
 a_comparatively_little	1
-NN_''_IN
-star_''_in	1
 DT_NNP_NN
 those_Hollywood_marketing	1
 CC_NNP_NNP
 or_Shannon_Whirry	1
 RB_RB_VBN
 probably_already_been	1
+VBZ_RB_DT
+'s_quite_a	1
+is_technically_the	1
 NN_VBZ_IN
 matter_is_that	1
 cow_is_beyond	1
@@ -356,7 +350,7 @@ IN_PRP_.
 in_it_.	1
 IN_PRP_,
 beyond_me_,	1
-NN_:_JJ
-murder_..._<br />	1
+NN_''_IN
+star_''_in	1
 VBZ_DT_NN
 is_a_cash	1

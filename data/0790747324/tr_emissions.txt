@@ -18,8 +18,6 @@ not_a_classic	1
 only_a_couple	1
 not_the_cavalier	1
 quite_a_few	2
--RRB-_IN_DT
--RRB-_as_the	1
 ,_DT_NNS
 ,_the_ideas	1
 ,_the_sets	1
@@ -48,12 +46,12 @@ nymphs_and_idiots	1
 thousands_and_thousands	1
 eyes_and_ears	1
 parents_and_grandparents	1
-IN_CD_-RRB-
-for_1960_-RRB-	1
 :_RB_DT
 ..._Only_a	1
 NN_NN_MD
 time_travel_may	1
+NNS_IN_VBZ
+times_as_is	1
 ,_JJ_RB
 ,_different_yet	1
 TO_WRB_DT
@@ -65,17 +63,7 @@ to_how_the	1
 ,_for_their	1
 ,_with_his	1
 ,_as_his	1
-FW_FW_NNP
-<br />_<br />_Rod	3
-<br />_<br />_Round	1
-<br />_<br />_VHS	1
-<br />_<br />_Warner	1
-<br />_<br />_Second	1
-<br />_<br />_Yes	1
-<br />_<br />_Picture	1
-<br />_<br />_Georges	1
 FW_FW_NNS
-<br />_si-fi_nuts	1
 ~_Fi_Films	1
 :_JJ_NN
 :_great_sound	1
@@ -110,7 +98,7 @@ Young_for_quite	1
 NN_PRP_VBP
 contrast_I_'ve	1
 scene_they_'ve	1
-<p>_I_am	1
+ME_I_believe	1
 end_they_take	1
 story_they_think	1
 century_you_find	1
@@ -129,6 +117,7 @@ VBZ_RP_RB
 starts_out_slowly	1
 starts_off_slowly	1
 NNP_:_PRP
+Eloi_..._I	1
 George_..._he	1
 DT_:_.
 that_..._.	2
@@ -160,7 +149,6 @@ price_I_paid	1
 day_it_was	1
 lad_I_watched	1
 time_it_was	1
-<p>_I_loved	1
 movie_itself_set	1
 time_it_had	1
 title_he_had	1
@@ -229,6 +217,7 @@ saw_this_DVD	1
 absorbed_every_image	1
 knew_a_lot	1
 illustrated_this_well	1
+was_This_movie	1
 put_the_cigar	1
 watched_the_remake	1
 fled_the_surface	1
@@ -299,8 +288,6 @@ The_transfer_to	1
 a_chance_to	2
 DT_RB_CD
 the_only_one	1
-NNP_-LRB-_``
-Pal_-LRB-_``	1
 DT_NN_VBG
 the_machine_running	1
 the_screen_wanting	1
@@ -339,10 +326,9 @@ The_ending_was	1
 the_movie_scared	1
 this_movie_was	1
 the_film_reached	1
-NNS_-RRB-_JJ
-theatres_-RRB-_Fantastic	1
 NN_:_IN
 cliff_..._into	1
+chair_..._Like	1
 lifestyle_..._with	1
 Ok_..._so	1
 detriment_-_of	1
@@ -413,6 +399,12 @@ The_story_begins	1
 The_movie_starts	1
 The_movie_tells	1
 this_one_delivers	1
+NN_NN_:
+time_machine_:	1
+cult_movie_:	1
+feature_film_...	1
+fantasy_movie_...	1
+music_box_;	1
 DT_CD_,
 the_one_,	1
 this_one_,	1
@@ -455,12 +447,14 @@ traveler_comes_to	1
 technology_seems_to	1
 mission_is_to	1
 past_decides_to	1
+destiny_tries_to	1
 movie_is_to	1
 RB_VBP_,
 currently_know_,	1
 RB_VBP_.
-now_c'mon_!	1
 only_complain_.	1
+now_c'mon_!	1
+often_surpass_.	1
 ,_CC_PRP$
 ,_and_its	1
 ,_and_our	1
@@ -485,8 +479,6 @@ cool_to_see	1
 easy_to_make	1
 VBZ_DT_NNPS
 is_the_Morlocks	1
-MD_:_FW
-can_..._<br />	1
 VBN_CC_VBN
 changed_and_left	1
 written_&_acted	1
@@ -501,8 +493,10 @@ my_``_guilty	1
 NNPS_,_JJ
 Morlocks_,_beautiful	1
 Morlocks_,_grotesque	1
-DT_IN_-RRB-
-all_of_-RRB-	1
+VBD_,_CC
+happened_,_but	1
+wrote_,_but	1
+were_,_and	1
 IN_NN_NN
 in_film_history	1
 as_time_travel	1
@@ -515,8 +509,8 @@ of_reunion_tale	1
 of_time_travel	1
 VBD_VBD_IN
 knew_was_that	1
-NNP_VB_-LRB-
-Filby_reunite_-LRB-	1
+JJ_''_NNS
+outlandish_''_theories	1
 ,_RB_RB
 ,_oddly_enough	1
 ,_as_well	2
@@ -524,11 +518,8 @@ Filby_reunite_-LRB-	1
 VBZ_NN_PRP
 explains_everything_we	1
 lets_face_it	1
-NN_VBG_VBD
-<p>_Having_said	1
-FW_FW_UH
-<br />_<br />_Oh	1
-<br />_<br />_No	1
+NNP_FW_FW
+Sci_~_Fi	1
 NN_,_PRP
 DVD_,_it	1
 film_,_I	1
@@ -597,8 +588,6 @@ I_did_get	1
 ``_Weena_''	1
 VBP_,_IN
 pass_,_as	1
-RB_JJ_-RRB-
-even_creepy_-RRB-	1
 PRP$_NN_NN
 his_machine_change	1
 your_basement_train	1
@@ -610,28 +599,16 @@ PRP_VBZ_NNS
 He_finds_humans	1
 JJ_:_DT
 outstanding_..._the	1
-PRP_VBZ_NNP
-he_reaches_October	1
-It_features_Rod	1
+NN_CC_TO
+fan_and_to	1
 ``_DT_NN
 ``_The_War	1
 ``_The_Thing	1
-IN_NNS_-LRB-
-at_times_-LRB-	1
 IN_DT_CC
 of_this_and	1
 of_that_and	1
 ''_NN_NN
 '_Sci-Fi_movie	1
-PRP$_NNS_.
-my_favorites_.	1
-his_friends_.	1
-our_balls_.	1
-my_favorites_!	1
-his_colleagues_.	1
-their_roles_.	1
-your_favorites_.	1
-my_expectations_.	1
 NNP_CC_NN
 Weena_and_time	1
 IN_DT_CD
@@ -695,28 +672,24 @@ always_been_one	1
 ,_VBP_PRP
 ,_watch_it	1
 JJ_NNS_RB
+special_effects_also	1
 beautiful_faces_ever	1
 different_reasons_now	1
 few_years_later	1
 many_years_ago	1
+rear_channels_especially	1
 long_years_ago	1
 several_years_later	1
-CD_-RRB-_,
-2.0_-RRB-_,	1
-5.1_-RRB-_,	1
-CD_-RRB-_.
-1961_-RRB-_.	1
+JJ_IN_JJS
+ok_for_most	1
+PRP_RB_VB
+you_ever_get	1
 VBD_,_JJ
 said_,_different	1
 VBP_TO_DT
 compare_to_the	1
-VBN_NNP_NNP
-named_Herbert_George	1
-JJS_NNS_.
-finest_films_.	1
-most_kids_.	1
-FW_CD_IN
-<br />_One_of	1
+VBP_DT_VBZ
+believe_that_is	1
 :_VBZ_JJ
 --_is_unforgettable	1
 ``_DT_CD
@@ -796,10 +769,6 @@ featured_on_the	1
 surrounded_by_an	1
 RB_VBN_RB
 not_credited_correctly	1
-WRB_VBZ_IN
-when_says_that	1
--RRB-_CC_PRP
--RRB-_and_I	1
 NNS_VBP_DT
 friends_leave_the	1
 people_are_all	1
@@ -829,10 +798,6 @@ George_heads_toward	1
 Machine_endures_as	1
 Wells_is_as	1
 Weena_waits_for	1
--LRB-_NNP_TO
--LRB-_George_to	1
-RB_-RRB-_VBG
-literally_-RRB-_living	1
 DT_VBG_NN
 the_cracking_screenplay	1
 a_leading_man	1
@@ -844,10 +809,8 @@ PRP_NN_.
 it_color_.	1
 RB_VBZ_JJR
 definitely_has_flashier	1
-PRP$_NN_WP
-my_husband_who	1
-our_hero_who	1
-his_lover_who	1
+PRP_TO_PRP
+itself_to_me	1
 VBD_PRP_.
 scared_me_.	1
 saw_it_.	1
@@ -856,14 +819,9 @@ enjoyed_it_.	1
 VBD_PRP_,
 liked_it_,	1
 were_us_,	1
-FW_IN_DT
-<br />_Before_the	1
-<br />_In_the	1
 DT_FW_FW
 THE_BEST_!!	1
 A_MUST_HAVE	1
-WRB_PRP_MD
-how_they_may	1
 VBP_TO_VB
 seem_to_recall	1
 prefer_to_get	1
@@ -898,26 +856,31 @@ VBG_IN_VBN
 marching_like_mesmerized	1
 NNP_NNP_,
 Yvette_Mimieux_,	3
+Helmore_Vertigo_,	1
 Theatrical_Trailer_,	1
-Rod_Taylor_,	6
+Rod_Taylor_,	7
+Bissell_Airport_,	1
 Alan_Ladd_,	1
 George_Wells_,	1
 Mike_Minor_,	1
+The_Birds_,	1
 Journey_Back_,	1
 Geroge_Pal_,	1
 HG_Wells_,	1
 Tom_Helmore_,	1
 H.G._Wells_,	1
 Cold_War_,	1
+Cabot_Kismet_,	1
 OUT_PAST_,	1
 Time_Machine_,	1
 George_Pal_,	4
+Soylent_Green_,	1
 Doris_LLoyd_,	1
 Sebastian_Cabot_,	2
 Alan_Young_,	4
+Guy_Pearce_,	1
 G._Wells_,	1
 Whit_Bissell_,	1
-<p>_This_,	1
 Russell_Garcia_,	1
 Worlds_Collide_,	1
 VBD_WRB_JJ
@@ -927,11 +890,6 @@ CC_VBD_DT
 and_found_the	1
 and_rented_the	1
 and_knew_a	1
-,_-LRB-_NNP
-,_-LRB-_Morlock	1
-,_-LRB-_Eloi	1
--RRB-_,_VBZ
--RRB-_,_comes	1
 RB_VB_JJ
 not_have_heavy	1
 then_get_ready	1
@@ -941,8 +899,6 @@ But_,_considering	1
 NN_WDT_,
 film_which_,	1
 civilization_which_,	1
-``_CD_NNS
-``_7_Faces	1
 IN_,_CC
 in_,_and	1
 WP_MD_VB
@@ -953,8 +909,6 @@ VBP_PRP$_NNS
 live_their_lives	1
 CC_VBP_TO
 and_seem_to	1
-NNP_-RRB-_CC
-Morlock_-RRB-_and	1
 IN_NNP_IN
 as_Filby_as	1
 DT_NN_``
@@ -1007,10 +961,6 @@ move_back_or	1
 travel_backwards_and	1
 IN_CD_VBZ
 until_one_thinks	1
-FW_DT_JJ
-<br />_The_video	1
-<br />_The_special	1
-<br />_The_only	1
 CC_TO_NN
 and_to_everyone	1
 NNS_IN_IN
@@ -1054,6 +1004,7 @@ the_size_of	1
 a_society_of	1
 the_technology_of	1
 the_story_from	1
+the_movie_than	1
 this_movie_in	1
 the_fact_that	1
 an_inventor_by	1
@@ -1107,6 +1058,7 @@ the_machine_that	1
 the_future_for	1
 the_novel_as	1
 the_turn_of	2
+the_featurette_for	1
 the_battle_towards	1
 the_journey_that	1
 a_story_that	1
@@ -1233,8 +1185,10 @@ to_watch_if	1
 to_travel_through	1
 CC_NN_NNP
 and_director_George	1
-VBN_WP_PRP
-given_what_we	1
+VBZ_PRP_CD
+gives_it_3	1
+CC_JJ_VBZ
+and_entertaining_is	1
 NN_VBD_RB
 plot_was_very	1
 scene_made_quite	1
@@ -1264,6 +1218,7 @@ friends_and_I	1
 movies_and_he	1
 coins_and_they	1
 careers_and_they	1
+versions_and_I	1
 WDT_VBD_PRP
 that_was_it	1
 that_gave_me	1
@@ -1271,11 +1226,6 @@ that_bothered_me	1
 NNP_CC_RB
 Tuesday_and_eagerly	1
 Amazon_and_just	1
-VBD_PRP_VBD
-felt_it_was	1
-thought_you_liked	1
-thought_It_was	2
-bothered_me_was	1
 ,_PRP$_NN
 ,_their_friendship	1
 ,_his_age	1
@@ -1284,8 +1234,8 @@ NNPS_FW_DT
 Morlocks_vs._The	1
 VB_:_NNP
 enjoy_..._Laurie	1
-NNP_-LRB-_IN
-Traveller_-LRB-_so	1
+:_NNP_NN
+..._Picture_DVD	1
 CC_VB_IN
 and_speak_like	1
 NN_VBD_NN
@@ -1339,8 +1289,6 @@ flashier_special_effects	1
 VBZ_NN_CC
 is_man_and	1
 's_rescue_and	1
-FW_NNP_IN
-<br />_Yes_in	1
 PRP$_NN_WDT
 my_library_that	1
 NN_IN_NNS
@@ -1357,7 +1305,7 @@ group_of_critters	1
 kind_of_wishes	1
 NN_IN_NNP
 novel_of_H.G.	1
-role_as_George	1
+story_of_Rod	1
 voice_for_Disney	1
 visit_of_Welles	1
 relationship_between_Weena	1
@@ -1370,6 +1318,7 @@ entrepreneur_as_Walt	1
 movie_on_ABC	1
 potrayal_of_Wells	1
 novel_of_H.	1
+featurette_for_Gene	1
 impetus_for_George	1
 novel_by_H.G.	2
 classic_with_Rod	1
@@ -1382,13 +1331,10 @@ portrayal_of_David	1
 light_of_CGI	1
 adaptation_of_H.G.	1
 stuff_with_Alan	1
+role_as_George	1
 atmosphere_of_H.G.	1
 movie_in_Young	1
 episode_of_Star	1
--LRB-_CD_-RRB-
--LRB-_1960_-RRB-	4
--LRB-_1961_-RRB-	1
--LRB-_1953_-RRB-	1
 RB_,_VBZ
 too_,_is	1
 though_,_lets	1
@@ -1409,6 +1355,7 @@ NN_DT_NNS
 supply_the_basics	1
 NNS_NN_VBN
 Scenes_documentary_called	1
+Features_A_Cast	1
 VBZ_JJ_TO
 's_safe_to	1
 is_able_to	1
@@ -1435,7 +1382,7 @@ these_years_,	1
 any_scratches_,	1
 the_sets_,	1
 the_60s_,	1
-the_Worlds_,	1
+the_Worlds_,	2
 these_subtitles_,	1
 the_morlocks_,	1
 no_laws_,	2
@@ -1463,8 +1410,8 @@ As_far_as	1
 so_much_in	1
 as_much_as	1
 so_comfortably_into	1
-IN_NN_-RRB-
-like_LOTR_-RRB-	1
+NN_WRB_JJ
+time_when_special	1
 NN_FW_VBG
 dimension_i.e._moving	1
 ,_PRP_JJ
@@ -1552,14 +1499,14 @@ LS_VBD_VBG
 i_was_reading	1
 NN_PRP$_NN
 day_my_son	1
+NNS_VB_NN
+FEATURES_Play_Movie	1
 ''_CC_WRB
 '_but_when	1
 VBZ_NNS_CC
 finds_humans_and	1
 NNP_VBD_JJ
 Eloi_were_short	1
-NNP_-LRB-_PRP
-McDuck_-LRB-_he	1
 RB_EX_VBZ
 seriously_there_is	1
 then_there_'s	1
@@ -1641,6 +1588,7 @@ and_compassionate_enough	1
 JJ_NN_NN
 famous_cult_movie	1
 classic_Sci-Fi_film	1
+wide_screen_1.66:1	1
 basic_time_travel	1
 meticulous_stop_motion	1
 welcome_cameo_appearance	1
@@ -1687,13 +1635,15 @@ good_background_scenery	1
 VBP_,_DT
 Are_,_The	1
 know_,_the	1
+believe_,_some	1
 PRP$_JJ_,
 its_original_,	1
 JJ_NNS_WDT
-noble_possibilities_that	1
 little_touches_that	1
 few_parts_that	1
 shiny_discs_that	1
+noble_possibilities_that	1
+special_effects_which	3
 complex_structures_which	1
 PRP$_JJ_.
 its_wonderful_.	1
@@ -1795,8 +1745,6 @@ RB_VBN_NNP
 well_deserved_Oscar	1
 JJ_VBZ_IN
 not-to-be-overlooked_highlights_of	1
-,_VBN_TO
-,_mailed_to	1
 NN_VBZ_CD
 movie_is_one	2
 PRP$_JJ_NNS
@@ -1814,28 +1762,20 @@ NNS_VBG_PRP
 finishes_telling_them	1
 DT_RP_JJ
 all_out_great	1
-NN_-RRB-_IN
-featurette_-RRB-_for	1
-movie_-RRB-_than	1
-character_-RRB-_despite	1
--LRB-_WDT_PRP
--LRB-_which_they	1
+NN_JJ_CC
+room_dirty_and	1
 IN_NNS_WDT
 with_questions_that	1
 of_critters_that	1
 NNP_DT_NNP
 Atlantis_the_Lost	1
 George_the_Time	1
-JJ_NNS_-RRB-
-bad_ones_-RRB-	1
 NN_NNS_DT
 inventor_constructs_a	1
 :_DT_NNS
 ;_the_switches	1
 ..._no_issues	1
 ..._these_creeps	1
-JJ_-RRB-_IN
-creepy_-RRB-_at	1
 CC_WDT_VBZ
 and_which_is	1
 ,_NN_VBD
@@ -1894,8 +1834,9 @@ WRB_NN_CC
 where_harmony_and	1
 WP_CD_NN
 what_one_book	1
-JJ_-LRB-_VB
-creepy_-LRB-_see	1
+''_IN_DT
+''_for_the	1
+''_via_this	1
 CC_DT_,
 and_all_,	1
 NN_:_CC
@@ -1914,6 +1855,8 @@ from_such_an	1
 CC_VBZ_JJ
 and_is_ok	1
 and_is_able	1
+JJ_VB_JJ
+creepy_see_front	1
 DT_NN_VBN
 an_inventor_named	2
 the_segment_hosted	1
@@ -1979,6 +1922,7 @@ TO_NN_DT
 to_ability_each	1
 NN_VB_PRP$
 movie_get_your	1
+BYOC_bring_your	1
 DT_NNPS_DT
 the_Morlocks_a	1
 CC_VBZ_TO
@@ -2001,9 +1945,11 @@ me_for_how	1
 ,_VBZ_VBG
 ,_is_having	1
 NNP_NNP_CD
-Dolby_Dig_5.1	1
+David_Filby_one	1
 Dolby_Digital_5.1	2
 Bob_Burns_32	1
+Time_Machine_1960	1
+Dolby_Dig_5.1	1
 Dolby_Digital_2.0	1
 NNP_NNP_CC
 Rod_Taylor_and	8
@@ -2067,8 +2013,6 @@ Mimieux_is_the	1
 NN_CD_.
 year_802701_.	2
 year_800,000_.	1
--RRB-_TO_VB
--RRB-_to_dwell	1
 JJ_IN_JJ
 noticable_in_key	1
 perfect_for_young	1
@@ -2112,6 +2056,8 @@ and_clothes_torn	1
 and_idiots_dressed	1
 ,_VBG_NN
 ,_knowing_nothing	1
+JJ_RB_JJ
+schmaltzy_even_creepy	1
 PRP$_JJS_NNS
 his_finest_films	1
 TO_PRP_IN
@@ -2139,6 +2085,7 @@ movie_for_him	1
 today_as_they	1
 impact_on_me	1
 message_behind_it	1
+movie_than_it	1
 journey_that_it	1
 book_with_him	1
 shame_that_we	1
@@ -2231,6 +2178,7 @@ recreates_his_character	1
 is_his_friendship	1
 PRP_VBP_,
 I_know_,	2
+I_believe_,	1
 I_do_,	1
 I_imagine_,	1
 you_stop_,	1
@@ -2260,9 +2208,6 @@ VBD_VBG_.
 were_saying_.	1
 VBZ_,_DT
 spins_,_the	3
-JJ_NN_-LRB-
-wide_screen_-LRB-	1
-sic-fi_fan_-LRB-	1
 JJ_DT_CD
 second_the_60	1
 NN_NN_CC
@@ -2273,6 +2218,7 @@ train_set_and	1
 time_machine_and	4
 scale_model_and	1
 Sci-Fi_fan_or	1
+dome_building_and	1
 time_traveler_and	1
 science_fiction_and	1
 MISTER_ED_AND	1
@@ -2307,6 +2253,8 @@ has_something_that	1
 PRP_VBD_WRB
 it_was_when	1
 I_mentioned_how	1
+NNS_NN_NNP
+Awards_D_Theatrical	1
 VBG_JJ_NNS
 winning_special_effects	2
 accumulating_old_stories	1
@@ -2324,11 +2272,13 @@ NNP_NNP_.
 Alan_Young_.	2
 Time_Machine_.	1
 British_Invasion_.	1
+Filby_Young_.	1
 Warner_Bros._.	1
 Rod_Taylor_.	1
 H.G._Wells_.	1
 George_Pal_.	1
 Dr._Lao_.	1
+Mr._Ed_.	1
 Walt_Disney_.	1
 QUITE_WELL_.	1
 RBR_VBN_RP
@@ -2365,14 +2315,16 @@ PRP$_DT_JJS
 Its_the_greatest	1
 NNP_''_MD
 Machine_''_may	1
-NNPS_._-RRB-
-Morlocks_?_-RRB-	1
+NN_CC_LS
+traveler_and_i	1
+connection_and_i	1
+interpretation_and_i	1
 VBZ_VB_TO
 is_go_to	1
 VB_``_NNS
 say_``_Thanks	1
-FW_FW_WRB
-<br />_<br />_When	2
+DT_PRP_VBZ
+the_he_begins	1
 DT_CC_VBZ
 this_and_tries	1
 RB_DT_JJS
@@ -2381,8 +2333,6 @@ WDT_PRP_RB
 which_they_often	1
 VBN_RBR_.
 looked_better_.	1
-VBN_,_WDT
-heard_,_which	1
 DT_CD_VBZ
 this_one_is	1
 NNS_IN_NN
@@ -2403,8 +2353,9 @@ ruins_with_food	1
 Ranks_up_top	1
 wonders_of_childhood	1
 times_than_memory	1
-NN_VBN_.
-period_specified_.	1
+CC_NN_DT
+&_novel_this	1
+and_everything_a	1
 RB_VBP_RB
 well_are_simply	1
 VBZ_RB_TO
@@ -2432,9 +2383,6 @@ were_popular_in	1
 packed_spectacular_that	1
 VBZ_PRP_VBP
 makes_you_believe	1
--LRB-_WDT_VBD
--LRB-_which_earned	1
--LRB-_which_were	1
 EX_POS_CD
 There_'s_one	1
 VBN_VBN_RP
@@ -2447,10 +2395,10 @@ forward_with_great	1
 maybe_for_different	1
 WRB_LS_VBD
 how_i_viewed	1
-JJ_JJ_PRP
-big_dilemma-should_he	1
 VBN_NN_VB
 lit_candle_melt	1
+VBN_IN_PDT
+indicated_by_all	1
 NN_,_``
 friend_,_``	1
 PRP_VBN_TO
@@ -2463,9 +2411,6 @@ DT_RB_TO
 this_highly_to	1
 IN_VBG_JJR
 about_getting_older	1
-NNP_CD_-RRB-
-Digital_5.1_-RRB-	1
-Digital_2.0_-RRB-	1
 VBZ_RB_PRP
 goes_forward_he	1
 VB_VBN_VBG
@@ -2482,12 +2427,14 @@ the_film_still	1
 this_movie_so	1
 this_one_as	1
 the_public_mainly	1
+the_title_also	1
 the_lever_upward	1
 the_film_also	1
 this_film_so	1
 the_film_even	1
 each_scene_so	1
 the_movie_pretty	1
+the_planet_probably	1
 a_teenager_back	1
 the_novel_however	1
 that_life_amicably	1
@@ -2503,8 +2450,6 @@ VB_VBN_VBN
 have_been_devastated	1
 RB_._''
 Still_._''	1
-FW_FW_NN
-<br />_<br />_DVD	1
 VBN_PRP_,
 fascinated_me_,	1
 RP_VBG_PRP
@@ -2525,9 +2470,6 @@ left_wondering_what	1
 RBS_JJ_NNS
 most_entertaining_films	1
 most_noticeable_things	1
--LRB-_RB_JJ
--LRB-_even_creepy	1
--LRB-_especially_noticable	1
 RB_,_IN
 Anyway_,_after	1
 here_,_that	1
@@ -2567,8 +2509,6 @@ would_allow_for	1
 must_confess_that	1
 can_sympathize_with	1
 would_be_that	1
-IN_NNP_-LRB-
-for_George_-LRB-	1
 JJS_IN_NNS
 least_in_places	1
 VBN_WRB_PRP
@@ -2581,8 +2521,6 @@ even_do_a	1
 still_love_this	1
 PRP_VBD_JJR
 it_was_more	1
--RRB-_IN_PRP$
--RRB-_despite_her	1
 NN_VBZ_RB
 device_has_yet	1
 story_is_just	1
@@ -2622,6 +2560,8 @@ guests_leave_,	1
 years_pass_,	1
 DT_VBZ_RP
 This_takes_up	1
+JJS_NN_NNS
+best_science_fictions	1
 VBZ_IN_WP
 comes_across_what	1
 JJ_CC_DT
@@ -2651,6 +2591,7 @@ Elois_speak_in	1
 NNP_NNP_PRP
 H.G._Wells_himself	1
 Time_Machine_itself	1
+Scrooge_McDuck_he	1
 JJ_NNS_NNS
 special_effects_standards	1
 NNS_VBD_NN
@@ -2688,11 +2629,11 @@ RB_IN_VBG
 well_as_keeping	1
 instead_of_going	1
 Instead_of_having	1
+NN_JJ_VB
+poster_creepy_see	1
 NN_VBZ_NN
 hand_is_firm	1
 traveler_is_man	1
-NN_-RRB-_VBN
-A_-RRB-_Cast	1
 WP_VBZ_IN
 what_remains_of	1
 who_travels_through	1
@@ -2715,8 +2656,8 @@ PRP_PRP_MD
 it_you_would	1
 DT_IN_VBG
 all_while_occupying	1
-NN_-RRB-_VBZ
-etc._-RRB-_activates	1
+NNP_NNP_``
+George_Pal_``	1
 DT_NNS_VBN
 the_girls_named	1
 the_concepts_presented	1
@@ -2732,6 +2673,8 @@ thrilling_,_as	1
 needy_,_in	1
 good_,_if	1
 original_,_except	1
+WP_VBZ_PRP
+who_meets_him	1
 JJ_:_JJ
 excellent_:_great	1
 RB_RB_RB
@@ -2759,6 +2702,8 @@ believe_for_a	1
 tell_of_the	1
 hear_of_a	1
 speak_in_a	1
+NNP_WRB_NNP
+Pal_When_Worlds	1
 IN_RB_PRP
 as_perhaps_it	1
 CC_VBP_DT
@@ -2768,8 +2713,6 @@ IN_DT_MD
 that_all_should	1
 RB_DT_DT
 Obviously_the_both	1
-POS_NN_-RRB-
-'s_character_-RRB-	1
 ,_NNS_IN
 ,_filmographies_for	1
 JJR_PRP_VBZ
@@ -2777,8 +2720,11 @@ faster_it_moves	1
 faster_it_spins	1
 VBG_NNP_IN
 climbing_Everest_for	1
-PRP_VBP_-RRB-
-I_believe_-RRB-	1
+VBD_PRP_VBD
+felt_it_was	1
+thought_you_liked	1
+thought_It_was	2
+bothered_me_was	1
 VBD_PRP_VBG
 left_me_wondering	1
 CD_CC_DT
@@ -2787,8 +2733,6 @@ CD_CC_DT
 RP_IN_PRP
 up_until_it	1
 up_because_he	1
-CC_VBD_JJ
-and_sounded_great	1
 NNS_CC_PRP$
 visual-effects_and_his	1
 qualities_nor_its	1
@@ -2807,9 +2751,8 @@ NN_,_''
 davidfancella_,_'	1
 photography_,_''	1
 pleasure_,_''	1
-NNP_FW_FW
-Sci_~_Fi	1
-Back_<br />_<br />	1
+RB_TO_NNS
+especially_to_pre-teenagers	1
 NNP_VBZ_PRP$
 Bissel_recreates_his	1
 Taylor_plays_his	1
@@ -2879,12 +2822,6 @@ NNP_,_VBZ
 Back_,_is	1
 VBP_IN_JJ
 endure_despite_neverending	1
--RRB-_,_IN
--RRB-_,_in	1
-NN_-LRB-_NN
-screen_-LRB-_1.66:1	1
-past_-LRB-_look	1
-Thing_-LRB-_original	1
 CC_VBP_RB
 but_are_nonetheless	1
 but_do_n't	1
@@ -2894,9 +2831,6 @@ IN_JJ_PRP
 At_first_he	1
 ,_VBG_WRB
 ,_telling_how	1
--RRB-_WP_VBZ
--RSB-_who_has	1
--RRB-_who_invents	1
 IN_PRP_IN
 behind_it_like	1
 around_him_than	1
@@ -2937,8 +2871,9 @@ VBZ_JJ_VBN
 's_single_minded	1
 VBP_RB_IN
 are_just_as	1
-VBN_IN_PDT
-indicated_by_all	1
+NNP_MD_VB
+Taylor_would_look	1
+Pearce_can_outrun	1
 DT_NN_POS
 the_actor_'s	1
 the_movie_'s	1
@@ -2948,14 +2883,9 @@ the_text_'s	1
 The_film_'s	1
 the_machine_'s	1
 that_girl_'s	1
-IN_FW_FW
-that_<br />_<br />	1
 ,_WRB_DT
 ,_where_the	1
 ,_when_the	1
-RB_VBG_TO
-much_resorting_to	1
-rather_touching_to	1
 ,_VBD_NNP
 ,_played_Rod	1
 NN_,_WDT
@@ -2968,9 +2898,6 @@ IN_DT_PRP
 so_all_I	1
 PRP_RP_.
 you_off_.	1
-RB_NN_NN
-almost_paradise_world	1
-incredibly_fun_story	1
 VBP_NNS_,
 throw_pillows_,	1
 FW_:_DT
@@ -2980,8 +2907,8 @@ along_with_``	1
 that_of_`	1
 RB_RB_PRP$
 quite_literaly_my	1
-VBP_LS_-RRB-
-<br />_1_-RRB-	1
+CC_VBD_JJ
+and_sounded_great	1
 CD_NNS_:
 two_types_:	1
 CD_NNS_.
@@ -3032,18 +2959,13 @@ parts_but_the	1
 humans_and_a	1
 Wars_and_a	1
 wars_and_a	1
-,_JJ_NNS
-,_castrated_professors	1
-,_shiny_discs	1
-,_good_actors	1
-,_great_actors	1
-,_comic_books	1
-,_Special_Effects	1
-,_beautiful_women	1
+IN_RB_RB
+though_not_entirely	1
 VB_VBN_PRP$
 be_denied_its	1
 ,_NNP_IN
 ,_Filmogaphies_of	1
+,_Eloi_as	1
 VBG_NNS_IN
 stopping_points_for	1
 wearing_mops_on	1
@@ -3086,6 +3008,7 @@ NNS_DT_NN
 standards_this_movie	1
 effects_the_story	1
 constructs_a_device	1
+ones_the_one	1
 times_a_year	1
 VB_IN_CD
 allow_for_one	1
@@ -3230,12 +3153,14 @@ CD_NN_IN
 one_book_with	1
 2002_remake_in	1
 1960_!!_If	1
-VB_DT_RBS
-be_the_most	1
+NN_''_VB
+original_''_Please	1
 VB_IN_VBG
 confess_that_seeing	1
 VB_IN_VBD
 look_for_was	1
+IN_NNS_JJ
+in_theatres_Fantastic	1
 VBN_IN_WRB
 surprised_at_how	1
 DT_IN_DT
@@ -3259,9 +3184,10 @@ NNP_NNP_NN
 G_Wells_storyline	1
 Time_Machine_cast	1
 George_Pal_scene	1
+Journey_Back_DVD	1
+Journey_Back_C	1
 HG_Wells_fan	1
 G._Wells_novel	1
-Journey_Back_<br />	1
 ??_This_movie	1
 G._Wells_classic	1
 H.G._Wells_story	1
@@ -3281,8 +3207,6 @@ JJ_CD_.
 digital_5.1_.	1
 ,_DT_PRP
 ,_all_I	1
-IN_CD_-LRB-
-in_1917_-LRB-	1
 CC_PRP$_NN
 and_our_choice	1
 and_their_lack	1
@@ -3326,9 +3250,6 @@ name_and_keep	1
 underground_and_eat	1
 eloi_and_get	1
 time_and_make	1
-NNP_-LRB-_WRB
-Mimieux_-LRB-_Where	1
-Pal_-LRB-_When	1
 RB_VBZ_TO
 finally_gets_to	1
 CD_NN_WP
@@ -3343,9 +3264,12 @@ I_wonder_how	1
 RB_MD_RB
 very_will_here	1
 NN_CC_JJ
+sequel_or_followup	1
 dust_or_other	1
 set_and_hot	1
 fantasy_and_sci-fi	1
+NN_VBN_.
+period_specified_.	1
 RB_WRB_PRP
 again_when_he	1
 even_when_he	1
@@ -3367,19 +3291,6 @@ life_'s_review	1
 children_'s_book	1
 today_'s_movie	1
 text_'s_plot	1
-NNP_NNP_-RRB-
-Guy_Pearce_-RRB-	1
-Mr._Ed_-RRB-	1
-Rod_Taylor_-RSB-	1
-Soylent_Green_-RRB-	1
-The_Birds_-RRB-	1
-Rod_Taylor_-RRB-	2
--LRB-_NNP_NNP
--LRB-_HG_Wells	1
--LRB-_Rod_Taylor	2
--LSB-_Rod_Taylor	1
--LRB-_Mr._Ed	1
--LRB-_Dolby_Digital	2
 ``_NNP_NNP
 `_Time_Machine	4
 ``_The_Day	1
@@ -3392,22 +3303,18 @@ NNP_NN_JJ
 SCI_FI_top	1
 RB_IN_WP
 even_for_what	1
--RRB-_CC_RB
--RRB-_but_otherwise	1
+RB_VBD_RB
+once_was_not	1
 VBD_PRP_RP
 put_you_off	1
 VBD_VBG_NN
 was_leaving_home	1
 IN_._''
 if_._''	1
--LRB-_CD_CD
--LRB-_1_4	1
 PRP_MD_:
 we_can_...	1
 VBP_DT_JJR
 see_some_more	1
-NNP_''_-RRB-
-Continent_''_-RRB-	1
 ,_VBG_PRP
 ,_allowing_him	1
 RB_VBD_RP
@@ -3431,13 +3338,14 @@ IN_NN_CC
 in_content_and	1
 over_character_and	1
 of_awe_and	1
-of_transfer_but	1
+like_LOTR_but	1
 in_time_and	1
 through_time_and	1
 with_food_and	1
+for_thought_and	1
 in_fantasy_and	1
 on_TV_and	1
-for_thought_and	1
+of_transfer_but	1
 on_Pal_and	1
 with_curiosity_and	1
 in_color_and	1
@@ -3467,8 +3375,9 @@ VBG_IN_PRP
 waiting_for_him	1
 working_for_it	1
 thinking_behind_it	1
-VBP_PRP$_NN
-resume_their_character	1
+PRP_VBZ_NNP
+he_reaches_October	1
+It_features_Rod	1
 IN_DT_NNP
 on_a_Halloween	1
 from_a_Warner	1
@@ -3564,11 +3473,24 @@ VBZ_WP_PRP
 is_what_they	1
 :_PRP_RB
 ..._he_soon	1
--RRB-_JJ_NNP
--RRB-_Theatrical_Trailer	1
-NNS_-RRB-_CC
-versions_-RRB-_and	1
-times_-RRB-_but	1
+IN_NN_.
+of_grass_.	1
+on_t.v._.	1
+through_time_.	3
+for_air_.	1
+without_war_.	1
+of_time_.	1
+of_nostalgia_.	1
+in_mind_.	1
+except_online_.	1
+in_characterization_.	1
+of_yore_.	1
+through_space_.	1
+by_man_.	1
+on_earth_.	1
+with_age_.	1
+on_television_.	1
+in_time_.	2
 VB_WRB_JJ
 recall_how_many	1
 say_how_faithful	1
@@ -3653,6 +3575,7 @@ in_that_I	1
 as_though_he	1
 out_of_you	1
 NNS_RB_DT
+reviews_mostly_the	1
 actors_only_a	1
 NN_NNS_.
 travel_fans_.	1
@@ -3684,10 +3607,6 @@ and_``_Robinson	1
 and_``_The	1
 NNS_VBN_.
 clothes_torn_.	1
--RRB-_NN_IN
--RRB-_transfer_on	1
-NN_WDT_PRP
-film_which_I	1
 VBD_VBN_RP
 were_played_out	1
 had_seen_up	1
@@ -3695,11 +3614,8 @@ was_turned_off	1
 LS_VBD_NN
 i_was_kind	1
 VBN_CC_IN
+acted_and_for	1
 stated_and_in	1
-JJ_NN_-RRB-
-nuclear_halocaust_-RRB-	1
-own_chair_-RRB-	1
-Black_Hole_-RRB-	1
 NNS_RB_VBD
 years_later_bought	1
 eyes_frequently_popped	1
@@ -3733,6 +3649,7 @@ Taylor_'s_best	1
 NNS_RB_VBN
 reasons_now_compared	1
 movies_ever_made	1
+effects_also_discussed	1
 PRP$_NNS_RB
 our_eyes_frequently	1
 my_arms_even	1
@@ -3755,10 +3672,9 @@ CD_WRB_DT
 800,000_where_the	1
 WP_VBZ_PRP$
 what_drives_your	1
-FW_FW_IN
-<br />_<br />_Before	1
-<br />_<br />_In	1
-<br />_<br />_If	2
+JJ_NNS_WP
+strong_men_who	1
+underground_dwellers_who	1
 IN_DT_RB
 like_this_anywhere	1
 by_a_much	1
@@ -3777,12 +3693,9 @@ things_possible_today	1
 WP_VBP_RB
 who_do_n't	1
 who_are_not	1
-NNS_VBP_LS
-FEATURES_<br />_1	1
+who_are_literally	1
 NN_IN_JJR
 civilization_for_better	1
-:_DT_RB
-..._a_truly	1
 VBZ_PDT_DT
 is_half_the	1
 has_all_the	1
@@ -3791,10 +3704,10 @@ Machine_'_is	1
 IN_RB_.
 since_then_.	1
 as_before_.	1
+VB_DT_RBS
+be_the_most	1
 POS_,_PRP
 's_,_It	1
-NN_._-RRB-
-</a>_!_-RRB-	1
 TO_CD_.
 to_802701_.	1
 RB_NN_RB
@@ -3805,8 +3718,6 @@ quite_illogic_here	1
 ,_``_The	3
 VBP_CD_NN
 hope_one_day	1
-DT_NNS_-RRB-
-the_Worlds_-RRB-	1
 VBZ_NNP_NNP
 stars_Rod_Taylor	1
 is_Alan_Young	1
@@ -3816,19 +3727,13 @@ forty_years_old	1
 VBG_RB_.
 fighting_later_.	1
 coming_back_.	1
-,_-LRB-_NN
-,_-LRB-_book	1
 VBG_RB_,
 going_off_,	1
 VBZ_CD_IN
 is_one_of	6
 meets_one_of	1
-VBP_JJ_-RRB-
-are_amazing_-RRB-	1
 CD_,_PRP$
 one_,_his	1
-NNS_NN_VBD
-problems_<br />_included	1
 IN_LS_VBD
 Like_i_said	1
 while_i_was	1
@@ -3848,14 +3753,8 @@ whose_British_accent	1
 VB_JJ_TO
 get_ready_to	1
 be_easy_to	1
-PRP_VBD_.
-I_did_.	2
-it_was_.	1
-you_liked_.	1
 CD_,_RB
 one_,_only	1
--RRB-_JJ_.
--RRB-_Fantastic_!	1
 NNP_NN_VBZ
 Barr.The_movie_is	1
 Wells_novel_plays	1
@@ -3863,11 +3762,11 @@ RB_JJR_.
 little_longer_.	1
 even_scarier_.	1
 much_better_.	1
+RB_JJR_,
+much_older_,	1
 VBD_DT_JJS
 was_the_best	1
 was_the_greatest	1
-NNP_NNS_VBP
-VHS_FEATURES_<br />	1
 DT_VBZ_RB
 That_'s_especially	1
 this_does_n't	1
@@ -3922,6 +3821,8 @@ society_of_young	1
 head_with_such	1
 narration_about_technical	1
 group_of_futuristic	1
+CD_RB_VBD
+1960_really_helped	1
 CC_JJ_CC
 and_interesting_and	1
 IN_IN_NNS
@@ -3982,8 +3883,6 @@ POS_NN_''
 ,_though_not	1
 ,_except_perhaps	1
 ,_with_much	1
-JJ_IN_JJS
-ok_for_most	1
 ''_DT_NN
 '_a_sequel	1
 JJ_,_JJ
@@ -3996,6 +3895,8 @@ WRB_DT_VB
 how_the_prop	1
 PRP_RB_``
 him_twice_``	1
+JJ_NNP_CD
+Theatrical_Trailer_2	1
 VBP_JJ_IN
 'm_sure_if	1
 VBZ_VBN_.
@@ -4009,8 +3910,8 @@ JJ_NNP_CC
 gentle_Eloi_and	1
 :_IN_NN
 -_of_mankind	1
-NNS_NN_,
-things_change_,	1
+IN_JJ_VBG
+of_distinguished_looking	1
 RB_VBN_TO
 left_used_to	1
 now_compared_to	1
@@ -4022,16 +3923,8 @@ WRB_DT_NNPS
 Where_the_Boys	1
 PRP_VB_NNP
 you_expect_??	1
-CC_NN_-RRB-
-&_novel_-RRB-	1
-VBD_,_CC
-happened_,_but	1
-wrote_,_but	1
-were_,_and	1
-JJ_FW_FW
-amazing_!!_<p>	1
-FW_NNP_NNPS
-<br />_Warner_Brothers	1
+VBN_,_WDT
+heard_,_which	1
 NNPS_IN_DT
 Leagues_under_the	1
 CC_NN_.
@@ -4056,19 +3949,20 @@ IS_TRULY_AN	1
 does_not_a	1
 's_about_a	1
 is_still_the	1
+NNP_``_CD
+Pal_``_7	1
 CC_RB_,
 and_yet_,	1
-CC_NN_:
-or_detriment_-	1
-and_book_...	1
+NNS_WDT_PRP
+effects_which_they	1
 NNS_WDT_VBD
 critters_that_used	1
+effects_which_were	1
+effects_which_earned	1
 CC_RB_:
 and_then_...	2
 IN_CC_VBD
 ago_but_were	1
-NN_-LRB-_JJS
-read_-LRB-_most	1
 VBG_WP_VBD
 wondering_what_happened	1
 PDT_DT_JJ
@@ -4089,12 +3983,10 @@ VBG_PRP_RB
 watching_it_again	1
 NN_TO_CD
 machine_to_1960	1
--LRB-_CC_JJ
--LRB-_or_followup	1
+CC_NN_TO
+and_fun_to	1
 IN_JJS_,
 at_least_,	1
-CD_-RRB-_:
-1960_-RRB-_...	1
 DT_VBZ_VBN
 this_has_worn	1
 VB_PRP_WRB
@@ -4119,6 +4011,8 @@ his_machine_and	1
 its_way_and	1
 VBP_IN_IN
 look_for_in	1
+PRP$_NN_CD
+its_rim_1	1
 VBN_RP_.
 toned_down_.	1
 turned_off_!	1
@@ -4129,16 +4023,14 @@ JJS_IN_NN
 best_in_humanity	1
 PRP_,_DT
 itself_,_a	1
+NN_CD_PRP
+movie_1960_I	1
 PRP$_VB_RBR
 my_be_more	1
 VBD_IN_RB
 came_across_so	1
 DT_VBD_TO
 this_had_to	1
-NNP_''_-LRB-
-Machine_''_-LRB-	2
-NN_JJ_-LRB-
-poster_creepy_-LRB-	1
 DT_VBP_TO
 all_like_to	1
 ,_RB_NNS
@@ -4148,8 +4040,6 @@ all_like_to	1
 ,_soon_George	1
 VBN_IN_IN
 educated_out_of	1
--RRB-_VBP_RB
--RRB-_are_probably	1
 VBZ_RB_PRP$
 is_probably_his	1
 VBZ_PRP_IN
@@ -4173,8 +4063,9 @@ were_channeling_Charleton	1
 VBD_IN_NN
 fell_in_love	1
 did_in_grade	1
-JJ_NNP_:
-innocent_Weena_;	1
+CD_NN_VBZ
+one_disappointment_is	1
+1_etc._activates	1
 RB_CC_PRP
 later_and_I	1
 entirely_but_it	1
@@ -4245,22 +4136,11 @@ probably_his_finest	1
 RB_DT_PRP
 slowly_the_he	1
 VB_NN_FW
-Play_Movie_<br />	1
-NNP_-RRB-_,
-Pearce_-RRB-_,	1
-Green_-RRB-_,	1
-Birds_-RRB-_,	1
-Vertigo_-RRB-_,	1
-Kismet_-RRB-_,	1
-Taylor_-RRB-_,	1
-WWI_-RRB-_,	1
+Play_Movie_Scene	1
 NNS_RB_CC
 years_ago_and	1
 years_later_and	1
 minutes_long_and	1
-NNP_-RRB-_.
-Ed_-RRB-_.	1
-Young_-RRB-_.	1
 VBD_VBN_CD
 had_been_one	1
 DT_JJ_JJ
@@ -4292,27 +4172,20 @@ an_other_classic	1
 the_awesome_flat-screen	1
 a_sci-fi_classic	1
 an_all-time_excellent	1
--LRB-_WRB_VBZ
--LRB-_How_is	1
 RB_DT_VBZ
 Otherwise_this_is	1
 here_that_'s	1
 then_this_needs	1
 Perhaps_that_is	1
-CD_-RRB-_RB
-1960_-RRB-_really	1
+JJS_IN_NNP
+best_that_Wells	1
 VBZ_RP_JJS
 takes_up_most	1
 VBZ_WRB_CD
 learns_when_one	1
-FW_FW_PRP
-<br />_<br />_I	5
-<br />_<br />_You	1
-<br />_<br />_It	3
 NN_WRB_NNP
 day_when_George	1
 skit_where_Taylor	1
-<p>_When_George	1
 end_where_George	1
 NN_WRB_NNS
 recording_when_spinning-sounds	1
@@ -4328,8 +4201,9 @@ thought_that_would	1
 memory_that_could	1
 VBZ_NNP_VBG
 features_Rod_recreating	1
-NNP_-LRB-_DT
-Filby_-LRB-_the	1
+NNP_NNP_WRB
+Yvette_Mimieux_Where	1
+George_Pal_When	1
 JJ_CD_NNS
 last_40_years	1
 VBZ_VBG_PRP$
@@ -4347,15 +4221,15 @@ They_live_in	1
 I_'m_in	1
 you_discover_that	1
 VBP_RB_VBG
+are_literally_living	1
 'm_presently_doing	1
-CC_NN_DT
-and_everything_a	1
 JJR_VBP_PRP
 more_do_you	1
 RB_JJ_RB
 totally_fake_even	1
 NNP_WP_VBZ
 Wells_who_is	1
+Taylor_who_has	1
 NN_VBN_NNP
 inventor_named_George	1
 inventor_named_Herbert	1
@@ -4397,36 +4271,31 @@ NN_NNS_WDT
 travel_movies_that	1
 WRB_NNP_MD
 when_Taylor_would	1
-NN_-RRB-_RB
-title_-RRB-_also	1
-VB_-LRB-_DT
-reunite_-LRB-_both	1
 JJ_,_VBZ
 clean_,_has	1
-._-RRB-_.
-!_-RRB-_.	2
+CC_IN_JJ
+and_in_good	1
 JJ_VBP_VBZ
 somber_gaze_has	1
 ,_JJ_DT
 ,_second_the	1
-NN_-LRB-_VBZ
-destiny_-LRB-_tries	1
 VBD_DT_RB
 did_a_very	1
 was_the_very	1
 had_a_really	1
 reccommend_this_highly	1
 were_a_little	1
-CD_-RRB-_PRP
-1960_-RRB-_I	1
 PRP$_NNS_CC
 my_parents_and	1
 their_careers_and	1
 my_friends_and	1
 his_colleagues_and	1
+NNS_NN_,
+things_change_,	1
 NN_:_NNP
 cast_:_Sebastian	1
-tale_..._<br />	1
+tale_..._George	1
+century_..._Picture	1
 ,_CC_JJR
 ,_but_more	1
 VBD_VBG_CC
@@ -4460,10 +4329,8 @@ they_do_n't	1
 I_am_so	1
 they_are_still	1
 we_do_n't	1
-''_-RRB-_,
-''_-RRB-_,	1
-FW_PRP_MD
-<br />_I_will	1
+JJ_VBZ_DT
+entertaining_is_the	1
 VB_CC_DT
 wail_and_the	1
 know_and_this	1
@@ -4484,8 +4351,6 @@ the_most_basic	1
 the_most_noticeable	1
 the_most_fantastic	1
 the_most_entertaining	1
-FW_``_DT
-<br />_``_The	1
 NN_VBD_IN
 subwoofer_kicked_in	1
 movie_was_on	1
@@ -4503,14 +4368,14 @@ VBP_VBN_PRP
 have_watched_it	1
 have_said_it	1
 've_watched_it	1
--LRB-_IN_VBZ
--LRB-_as_is	1
 FW_VBG_RB
 i.e._moving_back	1
 CD_CC_PRP
 5.1_and_it	1
 NN_NNS_VBG
 pastel_togas_singing	1
+NN_:_CD
+DVD_:_3.5	1
 PRP_:_JJ
 it_:_Great	1
 NN_NN_,
@@ -4529,19 +4394,23 @@ slave_class_,	1
 sound_track_,	1
 science_fiction/fantasy_,	1
 scene_access_,	1
--RRB-_IN_PRP
--RRB-_than_it	1
-NNS_-LRB-_IN
-times_-LRB-_as	1
+NN_NNS_VBN
+fiction_films_made	1
+VBN_JJR_NNS
+seen_more_times	1
 VBN_WRB_NNP
 been_when_George	1
 excited_when_Amazon	1
 PRP$_``_NN
 his_`_wish	1
-JJ_NNS_-LRB-
-special_effects_-LRB-	4
-rear_channels_-LRB-	1
-Special_Effects_-LRB-	1
+,_JJ_NNS
+,_castrated_professors	1
+,_shiny_discs	1
+,_good_actors	1
+,_great_actors	1
+,_comic_books	1
+,_Special_Effects	1
+,_beautiful_women	1
 VB_DT_TO
 put_this_to	1
 RBR_RB_,
@@ -4565,8 +4434,6 @@ found_disturbing_was	1
 RB_:_RB
 later_..._highly	1
 relentlessly_--_believably	1
-RB_VBD_RB
-once_was_not	1
 PRP$_JJ_CC
 his_devoted_but	1
 its_long_and	1
@@ -4587,22 +4454,21 @@ film_may_be	1
 viewer_can_sympathize	1
 fan_will_love	1
 peace_will_reign	1
-complaint_would_be	1
 age_can_make	1
 humanity_would_progress	1
 everyone_should_own	1
-<br />_Would_recommend	1
+complaint_would_be	1
 future_will_depart	1
 NNS_NN_CC
 flowers_bloom_and	1
+CD_,_NNP
+5.1_,_French	1
 RB_JJ_JJ
 yet_clear_scientifical	1
 very_good_behind-the-scenes	1
 very_little_special	1
 very_good_special	1
 really_bad_audio	1
-JJS_IN_NNP
-best_that_Wells	1
 PRP_VBP_RP
 you_reach_down	1
 you_check_out	1
@@ -4610,8 +4476,6 @@ VBP_VBG_DT
 're_watching_this	1
 remember_seeing_The	1
 are_living_a	1
--LRB-_DT_RB
--LRB-_the_only	1
 VBZ_NNP_POS
 plays_Taylor_'s	1
 PRP_VB_TO
@@ -4627,17 +4491,12 @@ is_forty_years	1
 CC_NN_PRP
 and_nothing_we	1
 and_technology_itself	1
+AND_ME_I	1
 PRP_,_WP
 himself_,_who	1
-DT_PRP_VBZ
-the_he_begins	1
-VBZ_._-RRB-
-works_!_-RRB-	1
 NNS_:_DT
 arms_..._these	1
 circuits_;_the	1
-FW_FW_VBP
-<br />_<br />_Do	1
 RB_CC_IN
 back_and_that	1
 well_and_for	1
@@ -4672,8 +4531,6 @@ has_constructed_a	1
 is_based_a	1
 has_greated_a	1
 has_become_an	1
-NNS_-RRB-_,
-Worlds_-RRB-_,	1
 JJ_IN_PRP$
 likable_as_his	1
 limited_in_its	1
@@ -4682,10 +4539,6 @@ good_in_my	1
 popular_in_my	1
 RB_DT_RB
 still_an_incredibly	1
--LRB-_NN_-RRB-
--LRB-_1.66:1_-RRB-	1
--LRB-_DVD_-RRB-	1
--LRB-_original_-RRB-	1
 CC_RBR_IN
 and_faster_until	1
 NNS_VBD_RB
@@ -4704,8 +4557,6 @@ blew_me_away	1
 remembered_it_fondly	1
 VBD_PRP$_NNS
 met_my_expectations	1
--LRB-_JJS_DT
--LRB-_most_all	1
 NN_DT_IN
 time_all_while	1
 POS_NNS_DT
@@ -4739,6 +4590,7 @@ concepts_presented_within	1
 films_produced_by	1
 others_involved_in	1
 NNP_CC_DT
+Morlock_and_the	1
 George_and_the	1
 Weena_and_the	1
 Eloi_and_a	1
@@ -4794,8 +4646,9 @@ the_four_friends	1
 the_four_guests	1
 DT_CD_NNP
 the_two_World	1
-CC_-LRB-_IN
-and_-LRB-_for	1
+JJ_RB_IN
+fake_even_if	1
+different_yet_from	1
 VBG_VBD_IN
 Having_said_that	1
 JJ_NNS_JJ
@@ -4843,10 +4696,6 @@ VBZ_PRP_JJ
 takes_him_several	1
 VBN_CC_RB
 made_and_yet	1
-IN_DT_-LRB-
-with_both_-LRB-	1
--LRB-_VBG_RB
--LRB-_looking_much	1
 CC_NN_VBN
 and_clothing_provided	1
 IN_VBD_NN
@@ -4865,6 +4714,7 @@ that_cost_two	1
 JJ_NNS_DT
 several_times_a	1
 special_effects_the	1
+bad_ones_the	1
 VBP_NN_.
 mean_business_.	1
 ''_,_VBD
@@ -4885,13 +4735,9 @@ and_music_combine	1
 and_destruction_seem	1
 :_RB_VBZ
 ..._here_'s	1
--RRB-_,_NNP
--RRB-_,_Whit	1
--RRB-_,_French	1
--RRB-_,_Tom	1
--RRB-_,_Yvette	1
-LS_VBD_TO
-i_wanted_to	1
+VBN_NN_NN
+ruined_dome_building	1
+restored_time_machine	1
 JJR_IN_DT
 more_as_the	1
 more_so_the	1
@@ -4899,15 +4745,8 @@ more_of_a	1
 better_than_the	1
 more_than_the	1
 more_about_the	1
-FW_PRP_VBZ
-<br />_It_'s	3
-<br />_I_thinks	1
 DT_,_IN
 This_,_along	1
-FW_PRP_VBP
-<br />_I_wonder	1
-<br />_I_think	1
-<br />_You_take	1
 VBP_DT_DT
 consider_this_a	1
 NN_IN_IN
@@ -4919,13 +4758,10 @@ growth_from_within	1
 note_that_on	1
 VBN_JJ_NNS
 returned_countless_times	1
-FW_JJ_IN
-<br />_Preposterous_as	1
+WRB_PRP_MD
+how_they_may	1
 ''_RB_VB
 '_rarely_live	1
-NN_:_FW
-era_..._<br />	1
-century_..._<br />	1
 NNS_''_,
 people_''_,	1
 months_''_,	1
@@ -4934,18 +4770,18 @@ lead_actors_and	1
 world_wars_and	1
 Sci-Fi_movies_and	1
 talking_coins_and	1
--LRB-_NN_CC
--LRB-_book_&	1
 DT_NNS_''
 the_Worlds_''	1
+VBP_PRP$_NN
+resume_their_character	1
 VBP_WRB_JJ
 wonder_how_many	1
 PRP$_NN_VBG
 his_house_waiting	1
 his_time_going	1
 my_jaw_hanging	1
-CC_JJ_-RRB-
-or_followup_-RRB-	1
+VBN_WP_PRP
+given_what_we	1
 VBZ_PRP_DT
 shows_us_the	1
 shows_them_a	2
@@ -4963,10 +4799,6 @@ My_family_has	1
 his_story_begins	1
 their_friendship_endures	1
 His_journey_leads	1
--RRB-_DT_NN
--RRB-_This_movie	1
--RRB-_this_film	1
--RRB-_the_one	1
 CC_EX_VBP
 and_there_are	1
 NNS_RB_TO
@@ -5025,8 +4857,10 @@ Dig_5.1_and	1
 Digital_5.1_and	1
 NNPS_DT_NN
 Morlocks_a_race	1
--LRB-_._-RRB-
--LRB-_!_-RRB-	1
+JJR_,_CC
+older_,_and	1
+WRB_VBZ_IN
+when_says_that	1
 RB_VB_DT
 still_be_a	1
 n't_hold_a	1
@@ -5074,6 +4908,8 @@ that_`_remakes	1
 for_``_years	1
 :_VBP_PRP
 :_Are_we	1
+:_IN_JJS
+..._Like_most	1
 RB_VBZ_RB
 yet_captures_just	1
 slowly_fades_away	1
@@ -5082,8 +4918,6 @@ really_does_n't	1
 NNP_VBZ_CD
 Machine_is_one	2
 George_meets_one	1
-NNP_VBG_JJ
-Oscar_winning_special	1
 MD_VB_PRP
 will_enjoy_it	1
 will_depart_us	1
@@ -5116,8 +4950,6 @@ VB_WP_JJ
 see_what_great	1
 NNS_VBZ_RB
 effects_does_not	1
--RRB-_NNS_NN
--RRB-_Awards_<br />	1
 CC_VBD_IN
 and_looked_at	1
 NNS_IN_CC
@@ -5127,12 +4959,8 @@ JJS_NN_CC
 best_friend_and	1
 JJ_JJR_NNS
 many_more_generations	1
--LRB-_RB_IN
--LRB-_probably_because	1
 NNS_IN_CD
 dimensions_into_three	1
-PRP_VBD_-LRB-
-I_outgrew_-LRB-	1
 NN_VBD_JJ
 action_packed_spectacular	1
 leader_was_enough	1
@@ -5142,10 +4970,12 @@ service_was_quick	1
 DT_NN_CD
 the_story_five	1
 the_year_1900	1
+the_movie_1960	1
 the_year_800,000	2
 the_year_802701	3
 the_world_1,000,000	1
 DT_NN_CC
+a_sequel_or	1
 this_weekend_and	1
 the_book_and	1
 this_movie_and	2
@@ -5172,6 +5002,8 @@ an_AAAAA_+	1
 the_remake_and	1
 the_cast_and	1
 the_story_and	1
+''_CD_VBZ
+''_1960_remains	1
 VBD_VBN_RB
 was_released_seperately	1
 were_blown_back	1
@@ -5181,8 +5013,8 @@ to_know_more	1
 VBD_VB_PRP
 did_enjoy_it	1
 did_feel_it	1
-NN_NNP_-LRB-
-friend_Filby_-LRB-	1
+''_CD_VBP
+''_1953_are	1
 IN_PRP$_NN
 during_his_life	1
 on_its_rim	1
@@ -5238,11 +5070,10 @@ IN_NN_POS
 in_one_'s	1
 By_today_'s	2
 by_today_'s	1
-NNS_-RRB-_VBG
-friends_-RSB-_walking	1
 NNP_,_CC
 Morlocks_,_and	2
 Pal_,_and	1
+Green_,_and	1
 Eloi_,_and	1
 CGI_,_but	1
 Earth_,_but	1
@@ -5255,14 +5086,11 @@ PRP_VB_IN
 you_do_in	1
 RB_CD_NNS
 back_five_days	1
--LRB-_EX_POS
--LRB-_There_'s	1
+RB_VBG_TO
+much_resorting_to	1
+rather_touching_to	1
 ``_NN_''
 `_B_'	1
-NNS_-RRB-_VBZ
-theories_-RRB-_makes	1
-JJ_-RRB-_,
-amazing_-RRB-_,	1
 WP_VBP_JJ
 who_are_stupid	1
 NN_,_VBN
@@ -5356,8 +5184,6 @@ it_was_ok	1
 I_found_disturbing	1
 it_was_OK	1
 They_were_unconcerned	1
-PRP$_NNS_-RRB-
-his_friends_-RRB-	1
 WDT_VBZ_PRP
 that_astounds_him	1
 which_takes_us	1
@@ -5412,10 +5238,11 @@ for_it_.	1
 for_him_?	1
 for_me_.	2
 IN_PRP_,
-with_him_,	1
 for_it_,	1
-of_you_,	1
+of_it_,	1
 with_it_,	1
+with_him_,	1
+of_you_,	1
 by_him_,	1
 IN_WRB_VBP
 of_where_are	1
@@ -5437,7 +5264,6 @@ WP$_JJ_NNS
 whose_special_effects	1
 VB_DT_CD
 watch_the_2002	1
-<br />_The_one	1
 observe_the_two	1
 recommend_this_one	1
 NN_IN_,
@@ -5482,8 +5308,6 @@ Alan_Young_'s	2
 H.G._Well_'s	1
 G._Well_'s	1
 Time_Machine_'	4
--RRB-_VBN_CC
--RRB-_Cast_&	1
 NN_DT_NN
 part_the_time	1
 age_the_film	1
@@ -5492,6 +5316,7 @@ tale_any_one	1
 fruit_all_day	1
 everything_a_DVD	1
 work_the_film	1
+novel_this_film	1
 point_the_screen	1
 NNP_VBG_DT
 Rod_recreating_the	1
@@ -5526,6 +5351,7 @@ DT_NNP_NNP
 the_Warner_Bros.	1
 AN_ORIGINAL_AND	1
 the_Time_Machine	5
+both_English_Dolby	1
 the_Cold_War	1
 the_Time_Traveller	1
 the_H.G._Wells	1
@@ -5558,12 +5384,8 @@ what_they_can	1
 ,_``_time-lapse	1
 WDT_VBP_IN
 that_endure_despite	1
-NN_NN_:
-time_machine_:	1
-cult_movie_:	1
-feature_film_...	1
-fantasy_movie_...	1
-music_box_;	1
+:_DT_RB
+..._a_truly	1
 VB_PRP_NNP
 Thank_you_MGM	1
 LS_VBD_,
@@ -5581,7 +5403,7 @@ regards_to_how	1
 NN_NN_.
 change_fate_?	1
 horror_flick_.	1
-time_machine_.	4
+time_machine_.	5
 fiction_movie_.	1
 film_history_.	1
 review_brief_.	1
@@ -5598,6 +5420,7 @@ quartz_knob_.	1
 edge_stuff_.	1
 paradise_world_.	1
 fiction_classic_.	1
+thrift_shop_!	1
 motive_power_.	1
 CGI_today_.	1
 dinner_appointment_.	1
@@ -5610,8 +5433,8 @@ renewed_sense_of	1
 updated_visit_of	1
 written_story_by	1
 seen_film_for	1
-NNS_-RRB-_WP
-friends_-RRB-_who	1
+PRP_,_WRB
+itself_,_how	1
 RB_VB_NNS
 n't_find_movies	1
 FW_NNS_IN
@@ -5651,10 +5474,6 @@ VBP_NN_:
 find_war_;	1
 VBP_IN_.
 fly_by_.	1
-FW_TO_DT
-<br />_To_the	1
-EX_VBD_JJ
-there_was_real	1
 NNS_VBN_NNS
 monsters_called_morlocks	1
 NNS_VBN_NNP
@@ -5671,6 +5490,9 @@ VBN_VBG_NN
 been_cutting_edge	1
 JJ_JJ_JJ
 flimsy_transparent_souless	1
+VB_JJ_IN
+seem_quaint_by	1
+get_tired_of	1
 VBD_JJR_IN
 was_better_than	1
 IN_DT_NN
@@ -5900,9 +5722,8 @@ make_the_Best	1
 find_the_best	1
 VB_DT_JJR
 discover_the_more	1
--RRB-_NNP_NNP
--RRB-_Theatrical_Trailer	1
--RRB-_Time_Machine	2
+NNP_VBG_JJ
+Oscar_winning_special	1
 RB_,_RBR
 then_,_more	1
 VB_VBN_.
@@ -5910,16 +5731,15 @@ be_judged_.	1
 have_expired_.	1
 VB_VBN_,
 be_tested_,	1
-DT_NNS_FW
-the_versions_i	1
+NNP_VBZ_PDT
+Taylor_has_all	1
+VBG_VBN_PRP$
+having_read_his	1
 NNS_WP_VBP
 humans_who_live	1
 people_who_are	1
 dwellers_who_are	1
 men_who_are	1
-WRB_PRP$_NNS
-how_your_experiences	1
-when_his_friends	1
 IN_TO_VB
 over_to_reveal	1
 about_to_drown	1
@@ -5933,6 +5753,8 @@ CC_VB_PRP
 and_give_yourself	1
 and_kill_them	1
 and_get_them	1
+NNS_WP_VBZ
+friends_who_invents	1
 RB_VB_WP
 n't_know_what	1
 not_understand_what	1
@@ -5952,8 +5774,11 @@ One_of_the	2
 1900_for_an	1
 one_of_the	14
 one_of_those	1
--LRB-_JJ_NN
--LRB-_Great_strategy	1
+CD_NNS_VBP
+four_friends_leave	1
+four_friends_are	1
+four_guests_are	1
+four_friends_do	1
 PRP_VBZ_IN
 he_uses_in	1
 he_finds_that	1
@@ -5968,10 +5793,8 @@ it_sucks_for	1
 he_travels_through	1
 CD_CD_NN
 5_1_etc.	1
-FW_FW_CC
-<br />_<br />_And	2
-FW_FW_CD
-<br />_<br />_One	1
+DT_NNS_FW
+the_versions_i	1
 NN_CD_DT
 everyone_!!_The	1
 EX_VBP_DT
@@ -5992,11 +5815,6 @@ reaches_October_12	1
 NNS_,_VBZ
 places_,_manages	1
 things_,_looks	1
-VBD_-RRB-_DT
-was_-RRB-_This	1
-NN_-RRB-_CC
-LOTR_-RRB-_but	1
-building_-RRB-_and	1
 DT_JJR_NNS
 the_more_things	1
 VBG_JJ_CC
@@ -6152,6 +5970,8 @@ him_to_travel	2
 it_to_look	1
 him_to_meet	1
 myself_to_spend	1
+JJ_FW_DT
+amazing_!!_This	1
 RBR_JJ_TO
 more_exciting_to	1
 VBD_RB_RB
@@ -6198,8 +6018,6 @@ the_original_actors	1
 the_great_talents	1
 a_few_parts	1
 the_mid_1960s	1
--RRB-_TO_DT
--RRB-_to_the	1
 DT_JJ_NNP
 the_gentle_Eloi	1
 the_lovely_Yvette	1
@@ -6321,12 +6139,6 @@ that_used_to	1
 VBP_PRP_RB
 take_them_underground	1
 find_it_really	1
-VBN_CC_-LRB-
-acted_and_-LRB-	1
-FW_VB_PRP
-<br />_Dig_it	1
-RB_-RRB-_WDT
-mostly_-RRB-_that	1
 ,_NN_IN
 ,_nothing_in	1
 ,_girl_in	1
@@ -6398,18 +6210,19 @@ VB_NN_DT
 eat_fruit_all	1
 NNP_''_CC
 Machine_''_and	1
+NNP_''_CD
+Machine_''_1960	2
 VBZ_VBD_NNP
 's_got_Mr.	1
 NNP_PRP$_NN
 Eloi_their_food	1
 NN_IN_VBZ
 remark_with_regards	1
+device_that_enables	1
 :_PRP_MD
 ;_he_should	1
 PRP$_NNS_VBG
 his_adventures_traveling	1
-NNS_-RRB-_DT
-ones_-RRB-_the	1
 VBP_VBN_VBG
 have_been_looking	1
 PRP$_NNS_VBZ
@@ -6472,10 +6285,11 @@ what_you_'re	1
 what_we_'re	1
 what_we_know	1
 who_we_are	1
-CC_JJ_VBZ
-and_entertaining_is	1
 JJR_NNS_,
 older_movies_,	1
+VB_NNS_IN
+watch_movies_that	1
+find_movies_like	1
 TO_IN_NN
 to_in_sci-fi	1
 VBD_RP_.
@@ -6484,6 +6298,7 @@ CD_NN_JJ
 43_year_old	1
 2002_remake_last	1
 IN_NNS_IN
+at_times_as	1
 in_ruins_with	1
 of_wishes_that	1
 for_years_before	1
@@ -6521,32 +6336,36 @@ NNS_IN_RB
 times_since_then	1
 years_from_now	1
 movies_of_nowadays	1
--LRB-_PRP_VBZ
--LRB-_It_'s	1
+VBZ_TO_CD
+comes_to_1966	1
+gets_to_1964	1
 :_NNP_NNP
 ;_Alan_Young	1
 :_The_Journey	4
 ..._The_Journey	1
 :_Sebastian_Cabot	1
-..._<br />_George	1
 ;_Yvette_Mimieux	1
+..._George_Rod	1
 ,_RB_VB
 ,_then_get	1
 ,_first_stop	1
+NNP_WRB_DT
+Mimieux_Where_the	1
 VBG_RBR_RB
 ending_better_only	1
 CC_IN_DT
-and_although_this	1
 and_in_the	2
-and_behind_the	1
 and_while_the	1
+and_behind_the	1
 but_on_each	1
+and_although_this	1
 but_on_the	1
-and_for_the	1
+and_for_the	2
 and_though_the	1
 But_in_the	1
 but_at_the	1
 NNS_,_DT
+Worlds_,_a	1
 years_,_the	1
 actors_,_an	1
 60s_,_the	1
@@ -6558,8 +6377,6 @@ people_,_the	1
 races_,_the	1
 lovers_,_this	1
 laws_,_no	1
-FW_NN_NNS
-<br />_DVD_FEATURES	1
 VBZ_VBN_TO
 is_dedicated_to	1
 is_entitled_to	1
@@ -6571,7 +6388,7 @@ wonderful_movie_but	1
 great_book_and	1
 mild_action_and	1
 nuclear_bomb_and	1
-romantic_connection_and	1
+certain_charm_and	1
 last_night_and	1
 special_gift_and	1
 ten-year-old_son_and	1
@@ -6587,7 +6404,8 @@ only_one_and	1
 great_ending_and	1
 Victorian_world_or	1
 original_movie_and	1
-certain_charm_and	1
+sic-fi_fan_and	1
+romantic_connection_and	1
 great_cast_and	1
 good_effect_and	1
 fine_acting_and	1
@@ -6625,6 +6443,7 @@ JJ_NN_CD
 great_film_one	1
 NNP_CD_NNP
 Top_3_Favorite	1
+Trailer_2_Time	1
 NNP_CD_NNS
 George_four_friends	1
 Burns_32_years	1
@@ -6633,8 +6452,6 @@ being_in_sync	1
 growing_in_abundance	1
 ,_VBP_RB
 ,_do_n't	1
--RRB-_WDT_VBP
--RRB-_that_fear	1
 NNP_,_''
 Machine_,_''	1
 CC_VB_PRP$
@@ -6668,28 +6485,19 @@ recommend_it_to	1
 find_it_to	1
 allow_you_to	1
 get_them_to	1
--LRB-_VB_PRP$
--LRB-_bring_your	1
-NNP_-RRB-_WP
-Taylor_-RSB-_who	1
 VBZ_IN_VBG
 is_as_captivating	1
 JJR_IN_PRP$
 better_than_its	1
 more_of_his	1
-FW_FW_``
-<br />_<br />_``	1
 VBG_TO_RB
 listening_to_now	1
 VBD_DT_VBP
 heard_the_surround	1
 NNP_IN_PRP
 TV_so_I	1
+Traveller_so_I	1
 Oscar_for_it	1
-NN_CC_LS
-traveler_and_i	1
-connection_and_i	1
-interpretation_and_i	1
 IN_CD_NN
 at_8_pm	1
 in_1960_!!	1
@@ -6699,8 +6507,6 @@ WRB_NN_POS
 where_berry_'s	1
 PRP$_JJS_NN
 his_latest_invention	1
-CC_NNP_NN
-&_Crew_<br />	1
 JJ_NN_WDT
 way-back_machine_that	1
 great_movie_that	1
@@ -6711,8 +6517,6 @@ just_about_to	1
 IN_NN_DT
 of_course_The	1
 through_time_all	1
-FW_VB_NN
-<br />_Play_Movie	1
 ''_,_WDT
 ''_,_which	1
 VB_DT_RB
@@ -6728,6 +6532,7 @@ NNP_,_DT
 Yvette_,_the	1
 Pal_,_the	1
 David_,_the	1
+Taylor_,_an	1
 George_,_a	1
 This_,_the	1
 Taylor_,_the	1
@@ -6758,6 +6563,7 @@ up_to_our	1
 DT_VBZ_CD
 This_is_one	3
 IN_VBZ_PRP
+that_enables_him	1
 as_is_he	1
 NN_VBZ_JJ
 collection_is_complete	1
@@ -6772,10 +6578,6 @@ DVD_provides_brilliant	1
 line_is_great	1
 display_flutters_future	1
 FW_FW_DT
-<br />_<br />_This	3
-<br />_<br />_A	2
-<br />_<br />_The	8
-!!_<p>_This	1
 BEST_!!_The	1
 ,_NN_,
 ,_horror_,	1
@@ -6795,8 +6597,6 @@ VBZ_NN_TO
 's_time_to	1
 has_nothing_to	1
 sets_fire_to	1
-``_NN_,
-`_davidfancella_,	1
 RB_RB_VB
 n't_really_buy	1
 n't_really_detract	1
@@ -6807,7 +6607,6 @@ JJ_NNP_NN
 perfect_Scottish_accent	1
 terrific_Garcia_score	1
 dreadful_Scottish_accent	1
-Theatrical_Trailer_<br />	1
 WP_DT_NN
 What_a_difference	1
 what_the_book	1
@@ -6817,15 +6616,11 @@ CD_CC_VBD
 NN_RB_DT
 film_then_The	1
 entertainment_then_this	1
-<p>_Thus_the	1
 passage_here_that	1
-<p>_Certainly_the	1
 VBG_CC_VBG
 staring_and_giggling	1
 seeing_and_being	1
 singing_and_staring	1
--RRB-_RB_JJ
--RRB-_also_available	1
 VBN_PRP$_JJ
 denied_its_rightful	1
 :_RB_.
@@ -6872,9 +6667,8 @@ and_they_obey	1
 and_they_live	1
 and_he_want	1
 and_I_hope	1
-NNP_MD_VB
-Taylor_would_look	1
-Pearce_can_outrun	1
+NN_JJS_DT
+read_most_all	1
 ,_PRP_VBZ
 ,_he_tests	1
 ,_it_'s	6
@@ -6978,6 +6772,8 @@ PRP$_DT_NN
 my_all_time	1
 WDT_NN_PRP
 what_book_it	1
+PRP$_NNS_WP
+his_friends_who	1
 DT_NNPS_,
 the_Warlocks_,	1
 the_Morlocks_,	2
@@ -7002,8 +6798,6 @@ RB_RBR_JJ
 much_more_informative	1
 VBG_NNS_WDT
 spinning_discs_that	1
-NNS_JJ_.
-years_old_.	1
 JJ_NNS_TO
 brief_stops_to	1
 countless_times_to	1
@@ -7050,9 +6844,9 @@ actors_resume_their	1
 VBG_WDT_NN
 wondering_what_book	1
 NN_FW_FW
-Movie_<br />_Scene	1
-NN_-RRB-_,
-Hole_-RRB-_,	1
+Movie_Scene_Selections	1
+RB_FW_NNS
+especially_si-fi_nuts	1
 VBP_VBG_PRP
 'm_telling_you	1
 PRP_WP_VBD
@@ -7062,6 +6856,8 @@ would_supposedly_witness	1
 VBP_IN_NNS
 pass_within_instants	1
 live_in_ruins	1
+NN_:_VBN
+era_..._Tucked	1
 DT_NN_JJR
 a_lot_more	2
 IN_WDT_PRP
@@ -7136,6 +6932,7 @@ generation_has_its	1
 ,_time_travel	1
 IN_DT_IN
 by_all_of	1
+with_both_like	1
 of_those_that	1
 with_all_of	1
 as_some_of	1
@@ -7223,10 +7020,8 @@ time_and_wants	1
 DT_JJR_NNP
 the_newer_Time	1
 NNP_NN_NN
-Crew_<br />_B	1
 Pal_scene_access	1
 Wells_part_company	1
-Back_<br />_C	1
 ABC_afternoon_theater	1
 VBD_VBN_.
 had_ARRIVED_.	1
@@ -7343,10 +7138,6 @@ VBZ_DT_VB
 experiences_the_ruin	1
 NNPS_VBZ_VBN
 Morlocks_is_achieved	1
-RB_FW_FW
-especially_<br />_si-fi	1
-NN_VBD_-RRB-
-file_was_-RRB-	1
 CD_NN_MD
 1960_classic_ca	1
 one_book_would	1
@@ -7363,8 +7154,8 @@ NN_TO_PRP
 cd_to_me	1
 VB_NNS_JJR
 make_things_better	1
-CD_NN_-RRB-
-1_etc._-RRB-	1
+,_DT_WP
+,_those_who	1
 DT_VBZ_PRP$
 that_is_my	1
 NN_PRP_,
@@ -7377,6 +7168,7 @@ this_extra_to	1
 RP_WRB_PRP
 out_when_you	1
 NN_._.
+</a>_!_.	1
 appointment_._.	1
 CC_PRP$_JJ
 and_its_long	1
@@ -7410,15 +7202,16 @@ to_drown_but	1
 to_know_and	1
 JJ_:_RB
 afraid_..._far	1
-IN_RB_RB
-though_not_entirely	1
 JJR_IN_PRP
 more_than_I	1
+better_as_I	1
 PRP_,_IN
 it_,_for	1
 him_,_along	1
 WRB_VBZ_PRP
 How_is_it	1
+NNP_CD_VBD
+Machine_1960_was	1
 CC_NNS_.
 and_ears_.	1
 NN_CC_NN
@@ -7451,19 +7244,6 @@ fiction_and_Time	1
 book_and_read	1
 simlpe_and_fun	1
 ED_AND_ME	1
-NNP_-LRB-_NNP
-Wells_-LRB-_George	1
-English_-LRB-_Dolby	1
-Bissell_-LRB-_Airport	1
-Filby_-LRB-_Young	1
-Young_-LRB-_Mr.	1
-George_-LRB-_Rod	1
-George_-LRB-_HG	1
-Cabot_-LRB-_Kismet	1
-George_-LSB-_Rod	1
-French_-LRB-_Dolby	1
-Helmore_-LRB-_Vertigo	1
-Taylor_-LRB-_World	1
 IN_PRP_CC
 with_him_and	1
 for_him_and	1
@@ -7478,6 +7258,7 @@ far_as_its	1
 well_as_their	1
 comfortably_into_their	1
 DT_IN_PRP
+all_of_it	1
 some_of_it	1
 those_that_you	1
 ,_WP_DT
@@ -7524,7 +7305,7 @@ piece_was_the	1
 movie_was_the	1
 viewing_was_the	1
 film_focused_a	1
-<br />_included_a	1
+file_was_This	1
 film_reached_a	1
 PRP$_NNS_:
 their_differences_:	1
@@ -7588,6 +7369,8 @@ or_six_films	1
 or_three_times	1
 CC_WP_VBP
 and_what_do	1
+NNP_NNP_TO
+Wells_George_to	1
 CC_VB_VBN
 but_be_stirred	1
 WDT_VBD_IN
@@ -7622,8 +7405,6 @@ IN_:_DT
 for_:_a	1
 ,_RB_RBR
 ,_much_closer	1
-NNP_:_FW
-Eloi_..._<br />	1
 CC_JJR_VBZ
 or_worse_is	1
 MD_VB_DT
@@ -7663,41 +7444,10 @@ and_instead_of	1
 WDT_VBD_VBN
 that_was_done	1
 that_was_released	1
--RRB-_RB_VBD
--RRB-_really_helped	1
 RB_RB_NNP
 So_then_George	1
-PRP_VBZ_RB
-It_delivers_far	1
-she_dies_anyway	1
-he_goes_back	1
-It_'s_all	1
-It_'s_well	1
-He_does_n't	1
-itself_has_never	1
-It_fits_perfectly	1
-she_is_just	1
-it_'s_not	1
-it_'s_up	1
-it_has_always	1
-it_is_not	1
-it_is_very	1
-it_does_n't	3
-it_is_largely	1
-it_'s_just	1
-It_'s_quite	1
-It_has_n't	1
-It_'s_about	1
-he_goes_forward	1
-it_'s_still	2
-He_moves_forward	1
-he_is_not	1
 ,_WP_JJ
 ,_whom_many	2
-NN_-LRB-_VB
-BYOC_-LRB-_bring	1
-NN_WRB_JJ
-time_when_special	1
 RP_JJ_NN
 out_great_movie	1
 CC_DT_NNP
@@ -7736,8 +7486,6 @@ CD_POS_,
 60_'s_,	1
 50_'s_,	1
 40_'s_,	1
--LRB-_IN_DT
--LRB-_for_the	1
 RB_VB_WRB
 not_say_how	1
 n't_recall_how	1
@@ -7854,16 +7602,12 @@ his_friends_the	1
 his_friends_an	1
 VBD_CD_NNS
 was_11_years	1
-FW_NNP_:
-<br />_Second_...	1
 WP_DT_JJ
 what_a_great	1
 ,_RB_WP
 ,_just_what	1
-NN_NN_JJ
-<p>_A_great	1
-FW_NNP_,
-<br />_Round_,	1
+JJ_JJ_PRP
+big_dilemma-should_he	1
 NNS_MD_VB
 people_may_like	1
 people_would_evolve	1
@@ -7902,14 +7646,13 @@ the_end_they	1
 The_movie_itself	1
 IN_VB_PRP$
 as_heave_his	1
-JJS_NN_NNS
-best_science_fictions	1
--RRB-_CC_DT
--RRB-_but_the	1
--RRB-_and_the	2
+LS_JJ_NNP
+1_Theatrical_Trailer	1
 VBG_VBN_IN
 being_found_in	1
 being_fascinated_by	1
+MD_:_NNP
+can_..._Warner	1
 ,_VBG_RB
 ,_going_back	1
 PRP_,_WDT
@@ -7921,8 +7664,6 @@ POS_MD_VB
 '_will_trounce	1
 VBD_PRP_CC
 grabbed_it_and	1
--LRB-_PRP_RB
--LRB-_he_also	1
 DT_VB_VBD
 the_prop_had	1
 NN_,_IN
@@ -7976,8 +7717,6 @@ JJ_VBP_RB
 good_are_so	1
 NNS_CC_NNP
 actors_and_George	1
-NN_IN_FW
-device_that_<br />	1
 DT_NNP_:
 The_Eloi_...	1
 the_Eloi_...	1
@@ -8031,8 +7770,6 @@ situation_,_what	1
 future_,_what	1
 WP_JJ_NN
 what_great_filmmaking	1
-VBG_NNS_TO
-looking_gentlemen_to	1
 ,_VBD_JJ
 ,_were_great	1
 NN_CD_JJ
@@ -8059,6 +7796,7 @@ little_scary_for	1
 as_scary_as	1
 as_thought-provoking_as	1
 very_skilled_in	1
+even_creepy_at	1
 all_theoretical_as	1
 especially_noticable_in	1
 very_likable_as	1
@@ -8079,10 +7817,8 @@ almost_plausible_until	1
 very_good_in	1
 very_pleased_with	1
 so_impressed_with	1
-NNS_-LRB-_RB
-reviews_-LRB-_mostly	1
-channels_-LRB-_especially	1
-effects_-LRB-_also	1
+VBG_NNS_TO
+looking_gentlemen_to	1
 CC_VBG_NNP
 and_featuring_Alan	1
 MD_VB_CD
@@ -8096,6 +7832,7 @@ POS_NN_IN
 '_vision_of	1
 's_book_than	1
 's_potrayal_of	1
+'s_character_despite	1
 's_owner_in	1
 NNP_POS_JJ
 Young_'s_sensitive	1
@@ -8104,20 +7841,15 @@ RB_RB_WP
 out_there_who	1
 NNP_VBZ_WRB
 Traveler_learns_when	1
-FW_NNP_NNS
-<br />_VHS_FEATURES	1
+CD_VBZ_DT
+1960_remains_a	1
 JJS_DT_IN
 most_all_of	1
 best_every_of	1
 PRP_JJ_TO
 you_long_to	1
-FW_NNP_NNP
-<br />_Rod_Taylor	3
-<br />_Georges_Pal	1
 RB_VB_CC
 not_help_but	1
--LRB-_VBZ_TO
--LRB-_tries_to	1
 VB_PRP_VBD
 feel_it_got	1
 think_it_was	1
@@ -8132,8 +7864,6 @@ Taped_it_off	1
 ,_can_be	1
 VB_PRP_VBZ
 believe_it_'s	1
-<br />_It_ends	1
-<p>_It_is	1
 MD_VB_CC
 must_see_and	1
 ''_VBD_PRP
@@ -8141,10 +7871,6 @@ must_see_and	1
 ''_introduced_itself	1
 VBZ_RP_DT
 brings_out_the	1
--RRB-_IN_NNP
--RRB-_for_Gene	1
--RRB-_IN_NNS
--RRB-_at_times	1
 JJ_,_RB
 great_,_even	1
 true_,_even	1
@@ -8182,10 +7908,7 @@ to_everyone_else	1
 VBD_DT_NNS
 survived_the_years	1
 FW_DT_VBZ
-<br />_This_is	3
-<p>_This_is	1
-RB_VBZ_PRP$
-then_finds_his	1
+!!_This_is	1
 NNP_''_VBZ
 Machine_''_is	1
 NN_PRP_RB
@@ -8198,8 +7921,6 @@ NNS_VBN_DT
 people_called_the	1
 NNS_VBZ_VBN
 ways_is_played	1
--RRB-_,_WP
--RRB-_,_whom	1
 LS_VBD_VB
 i_did_feel	1
 i_did_enjoy	1
@@ -8210,12 +7931,14 @@ are_sharp_and	1
 are_primitive_and	1
 :_JJ_TO
 -_due_to	1
-WP_VBZ_PRP
-who_meets_him	1
+VBZ_VBN_RBR
+is_focused_more	1
 NNP_,_NNP
+Vertigo_,_Whit	1
 End_,_The	1
 Young_,_Sebastian	1
 Helmore_,_Whit	1
+Pearce_,_Yvette	1
 Mimieux_,_Young	1
 Young_,_Whit	1
 Bissell_,_Yvette	1
@@ -8249,8 +7972,6 @@ RB_VBZ_CD
 Really_makes_one	1
 eventually_arrives_five	1
 only_takes_one	1
-FW_VBN_RB
-<br />_Tucked_away	1
 VBP_CC_VBP
 are_and_share	1
 ,_VBG_PRP$
@@ -8260,10 +7981,10 @@ heard_things_I	1
 were_kids_we	1
 :_CC_PRP
 ..._and_it	1
+RB_WDT_VBP
+mostly_that_fear	1
 VBD_,_``
 said_,_``	1
-NNS_-LRB-_WDT
-effects_-LRB-_which	3
 VBG_CD_JJ
 creating_50_long	1
 NNP_RB_.
@@ -8289,8 +8010,6 @@ are_nonetheless_very	1
 are_not_as	2
 do_n't_really	2
 stand_up_well	1
-RB_TO_NNS
-especially_to_pre-teenagers	1
 VBZ_JJ_NNS
 flutters_future_dates	1
 has_good_actors	1
@@ -8303,9 +8022,6 @@ made_note_of	1
 was_kind_of	1
 boasted_state_of	1
 represented_sort_of	1
-CC_NNP_.
-&_Morlock_.	1
-and_French_.	1
 NN_RBR_RB
 floor_more_realistically	1
 CC_RB_JJ
@@ -8392,21 +8108,21 @@ I_experienced_on	1
 PRP_CD_IN
 it_3_out	1
 ,_RB_FW
-,_especially_<br />	1
+,_especially_si-fi	1
 RB_VBN_PRP
 always_fascinated_me	1
 RB_IN_PDT
 yet_from_all	1
-FW_CC_IN
-<br />_And_in	1
+NN_NNS_VB
+DVD_FEATURES_Play	1
 ,_JJ_TO
 ,_similar_to	1
 NNS_,_VBP
 morlocks_,_save	1
 CC_JJR_IN
 but_more_so	1
-PRP$_NN_-LRB-
-its_rim_-LRB-	1
+''_._.
+''_._.	1
 VBZ_PRP_WP
 tells_you_what	1
 VBZ_IN_CD
@@ -8427,22 +8143,12 @@ NN_''_VBD
 future_''_annoyed	1
 PRP_IN_NNP
 it_that_Guy	1
-NN_-LRB-_PRP
-ME_-LRB-_I	1
 VBN_TO_PRP
 mailed_to_me	1
 CC_CC_CC
 +_+_+	3
 NNP_VBZ_NN
 Wells_is_spot	1
-JJ_VBZ_DT
-entertaining_is_the	1
-FW_FW_FW
-Cookieman108_<br />_<br />	1
-<br />_Scene_Selections	1
-<br />_Cookieman108_<br />	1
-Scene_Selections_<br />	1
-<br />_<br />_Cookieman108	1
 WP_JJR_VBP
 What_more_do	1
 DT_``_JJ
@@ -8450,9 +8156,12 @@ the_``_new	1
 a_``_new	1
 :_VB_DT
 ..._enter_the	1
--RRB-_VBG_RP
--RRB-_living_off	1
--RSB-_walking_up	1
+PRP_VBD_.
+I_did_.	2
+it_was_.	1
+you_liked_.	1
+POS_NNS_VBG
+'s_friends_walking	1
 :_LS_RB
 ..._i_still	1
 VB_NN_TO
@@ -8472,43 +8181,46 @@ DT_JJS_IN
 the_best_that	1
 the_best_of	2
 the_best_in	1
-FW_IN_PRP
-<br />_If_you	2
+CC_NN_MD
+and_peace_will	1
 NNP_NNP_NNS
 George_Pal_movies	1
 Rod_Taylor_hosts	1
-NN_-RRB-_NNS
-C_-RRB-_Awards	1
-NN_-RRB-_NNP
-D_-RRB-_Theatrical	1
-B_-RRB-_Time	1
+LS_VBD_TO
+i_wanted_to	1
 NNP_NNP_NNP
 LOOK_OUT_PAST	1
+Sebastian_Cabot_Kismet	1
 DONE_QUITE_WELL	1
-The_Day_The	1
+Crusoe_On_Mars	1
 The_Earth_Stood	1
 NOT_AS_GOOD	1
 Herbert_George_Wells	1
 Sci_~_Fi/Fantasy	1
 Menus_Theatrical_Trailer	1
 Director_George_Pal	1
+English_Dolby_Digital	1
 Measured_Aspect_Ratio	1
+Tom_Helmore_Vertigo	1
 The_Time_Machine	2
-<p>_The_Time	1
 H_G_Wells	1
+Alan_Young_Mr.	1
+George_HG_Wells	1
 H._George_Wells	1
+French_Dolby_Digital	1
 H._G._Well	2
+George_Rod_Taylor	2
 The_Journey_Back	5
-<p>_Rod_Taylor	1
-Theatrical_Trailer_<br />	1
 Day_The_Earth	1
 H._G._Wells	5
-Crusoe_On_Mars	1
+Young_Mr._Ed	1
+The_Day_The	1
+George_Wells_George	1
+Whit_Bissell_Airport	1
 Interactive_Menus_Theatrical	1
 Robinson_Crusoe_On	1
 AND_DONE_QUITE	1
-<br />_LOOK_OUT	1
-<p>_The_Eloi	1
+Rod_Taylor_World	1
 ORIGINAL_AND_DONE	1
 VB_RB_JJ
 be_quite_enjoyable	1
@@ -8518,8 +8230,8 @@ look_totally_fake	1
 be_really_interesting	1
 be_as_thought-provoking	1
 seem_almost_plausible	1
-CD_-LRB-_PRP
-1917_-LRB-_It	1
+NN_WDT_PRP
+film_which_I	1
 VBZ_RB_RB
 's_still_really	1
 is_not_there	1
@@ -8554,10 +8266,6 @@ George_finishes_telling	1
 ``_beautiful_people	1
 NN_VBP_DT
 detail_add_a	1
-FW_RB_DT
-<br />_Regardless_the	1
-''_._.
-''_._.	1
 NNS_,_JJ
 sets_,_great	1
 movies_,_such	1
@@ -8584,8 +8292,8 @@ DT_RB_NN
 the_somewhat_ordinariness	1
 an_almost_paradise	1
 an_incredibly_fun	1
-FW_FW_TO
-<br />_<br />_To	1
+CC_VBD_WRB
+and_forgot_how	1
 IN_VBD_DT
 for_was_a	1
 VBP_VBG_RB
@@ -8607,15 +8315,10 @@ serve_it_well	1
 watch_it_straight	1
 VBZ_VBN_PRP
 has_watched_it	1
-FW_NNP_-LRB-
-<br />_Picture_-LRB-	1
-NNP_-RRB-_IN
-Eloi_-RRB-_as	1
 MD_RB_.
 will_here_.	1
-VB_NNS_IN
-watch_movies_that	1
-find_movies_like	1
+NNP_VB_DT
+Filby_reunite_both	1
 POS_JJ_NNS
 's_special_effects	1
 VBD_IN_EX
@@ -8676,12 +8379,14 @@ RB_IN_RB
 seperately_over_here	1
 much_in_so	1
 DT_NN_NN
+the_slave_class	1
 THE_TIME_MACHINE	1
 that_time_travel	1
 the_editorial_review	1
-the_slave_class	1
+the_past_look	1
 the_time_traveler	3
 the_TV_set-in	1
+The_Thing_original	1
 the_moptop_haircut	1
 the_credit_card	1
 the_control_cylinder	1
@@ -8772,40 +8477,14 @@ him_than_objects/props	1
 it_on_vhs	1
 JJ_CC_VBZ
 fantastic_and_is	1
-NNS_''_-LRB-
-Worlds_''_-LRB-	1
 IN_CD_POS
 of_50_'s	1
 DT_NNPS_WP
 the_Morlocks_who	2
 VBN_DT_VBN
 based_a_written	1
-VBN_NN_NN
-ruined_dome_building	1
-restored_time_machine	1
 NN_CD_IN
 year_1900_for	1
-IN_NN_.
-of_grass_.	1
-on_t.v._.	1
-through_time_.	3
-for_air_.	1
-without_war_.	1
-of_time_.	1
-of_nostalgia_.	1
-in_mind_.	1
-except_online_.	1
-in_characterization_.	1
-of_yore_.	1
-through_space_.	1
-by_man_.	1
-on_earth_.	1
-with_age_.	1
-on_television_.	1
-in_time_.	2
-''_-LRB-_CD
-''_-LRB-_1953	1
-''_-LRB-_1960	2
 CC_VBN_TO
 but_driven_to	1
 NN_VB_.
@@ -8825,10 +8504,6 @@ so_much_speaking	1
 not_big_science	1
 very_pretty_woman	1
 almost_idyllic_lifestyle	1
-FW_VBZ_PRP
-<br />_enables_him	1
--RRB-_:_IN
--RRB-_..._Like	1
 NNS_WDT_VBP
 devices_that_measure	1
 discs_that_play	1
@@ -8866,7 +8541,10 @@ excellent_film_whose	1
 NN_RB_JJ
 film_so_good	1
 quality_nearly_flawless	1
+title_also_available	1
 movie_so_special	1
+:_NNP_NNPS
+..._Warner_Brothers	1
 VBD_CC_VBZ
 expected_and_does	1
 RB_NNS_IN
@@ -8886,12 +8564,12 @@ film_though_,	1
 time_ago_,	1
 journey_back_,	1
 light_again_,	1
-<br />_Anyway_,	1
 illogic_here_,	1
 novel_however_,	1
 NN_JJ_JJ
 year_old_classic	1
 ass_flimsy_transparent	1
+time_great_special	1
 NN_RB_.
 time_ago_.	1
 adventure_nonetheless_.	1
@@ -8915,10 +8593,6 @@ Machine_a_must	1
 JJ_VBN_NN
 single_minded_devotion	1
 same_renewed_sense	1
-PRP_TO_PRP
-itself_to_me	1
-NNS_-LRB-_CD
-Effects_-LRB-_1961	1
 VB_DT_NN
 stand_the_light	1
 imagine_another_music	1
@@ -8944,16 +8618,14 @@ write_a_review	1
 make_any_difference	1
 change_a_bit	1
 Get_the_credit	1
-Make_no_mistake	1
 sell_the_film	1
 be_a_kid	1
 see_this_film	1
 read_the_book	1
 save_the_day	1
 drop_any_time	1
-<br />_The_FX	1
+Make_no_mistake	1
 get_a_copy	1
-<p>_The_music	1
 trounce_the_original	1
 Forgive_the_pun	1
 make_the_film	1
@@ -8964,14 +8636,12 @@ prevent_the_death	1
 miss_the_point	1
 let_the_fact	1
 spend_the_time	1
-<p>_The_story	1
 own_a_NEW	1
 proove_that_time	1
 be_a_paradise	2
 enjoy_the_original	1
 convey_the_atmosphere	1
 have_a_care	1
-<p>_The_movie	1
 know_the_impetus	1
 watch_this_movie	2
 miss_a_bit	1
@@ -9000,8 +8670,9 @@ that_spin_to	1
 ,_fabulous_film	1
 WDT_VBP_PRP
 that_measure_it	1
-VBZ_VBN_RBR
-is_focused_more	1
+CC_NN_:
+or_detriment_-	1
+and_book_...	1
 VBN_IN_VBG
 fooled_into_thinking	1
 stirred_after_viewing	1
@@ -9036,16 +8707,14 @@ DT_NNPS_VBZ
 the_Morlocks_is	1
 ''_CC_PRP
 ''_and_I	1
+:_PRP_VBD
+..._I_found	1
 DT_TO_DT
 this_to_an	1
-JJ_-LRB-_RB
-schmaltzy_-LRB-_even	1
 NNS_CC_JJ
 effects_and_clever	1
 effects_and_imaginative	1
 scenes_and_special	1
-VB_VBN_RB
-be_disapointed_again	1
 :_PRP_VBP
 ;_you_push	1
 ..._I_'m	1
@@ -9091,7 +8760,7 @@ the_Morlocks_.	3
 NNS_PRP_RB
 things_I_never	1
 JJ_NNS_NN
-Special_Features_<br />	1
+Special_Features_A	1
 NNPS_WP_VBP
 Morlocks_who_live	1
 Morlocks_who_are	1
@@ -9120,8 +8789,10 @@ co-star_Yvette_Mimieux	1
 lovely_Yvette_Mimieux	1
 VBD_NN_NN
 had_NO_IDEA	1
--RRB-_''_VB
--RRB-_''_Please	1
+NNS_CD_.
+Effects_1961_.	1
+CD_VBD_VBN
+1960_was_released	1
 NNS_''_NN
 days_''_indicator	1
 RB_RB_VBG
@@ -9141,16 +8812,11 @@ RB_RB_VBD
 also_really_liked	1
 probably_eventually_decided	1
 Then_along_came	1
--LRB-_PRP_VBP
--LRB-_I_believe	1
 RB_RB_VBN
 really_well_done	1
 very_well_done	1
 very_well_acted	1
 clearly_well_deserved	1
-JJ_NNS_WP
-strong_men_who	1
-underground_dwellers_who	1
 VBZ_JJ_,
 's_true_,	1
 pushes_foward_,	1
@@ -9248,9 +8914,10 @@ VBZ_PRP$_NNS
 tells_his_friends	1
 NNP_NNP_IN
 Aspect_Ratio_as	1
+Taylor_World_Without	1
 Time_Machine_on	1
+Time_Traveller_so	1
 Time_Machine_in	2
-<br />_Everything_about	1
 TIME_MACHINE_for	1
 UK_TV_so	1
 Charleton_Heston_at	1
@@ -9273,15 +8940,14 @@ all_..._and	1
 NN_IN_EX
 feel_that_there	1
 broadcast_as_there	1
-VBZ_TO_CD
-comes_to_1966	1
-gets_to_1964	1
 PRP$_NNP_CD
 my_Top_3	1
 NN_:_JJ
 movie_..._great	1
-NN_-RRB-_TO
-halocaust_-RRB-_to	1
+RB_VB_RB
+n't_work_very	1
+So_go_back	1
+n't_go_overboard	1
 TO_VB_RP
 to_pass_up	1
 to_break_on	1
@@ -9326,18 +8992,12 @@ Mimieux_is_Weena	1
 Young_plays_Taylor	1
 ,_CC_CD
 ,_and_one	2
-PRP_,_WRB
-itself_,_how	1
 VB_RP_.
 pass_up_.	1
-CC_NN_-LRB-
-AND_ME_-LRB-	1
-and_read_-LRB-	1
 NNP_,_WDT
 Garcia_,_which	1
 Taylor_,_that	1
-CC_NN_TO
-and_fun_to	1
+WWI_,_which	1
 IN_IN_JJ
 out_of_real	1
 along_with_superior	1
@@ -9351,8 +9011,6 @@ VB_RP_DT
 blow_up_the	1
 DT_JJ_NNPS
 the_thuggish_Morlocks	1
-PRP_RB_VB
-you_ever_get	1
 CD_VBZ_IN
 one_is_for	1
 one_thinks_about	1
@@ -9430,8 +9088,6 @@ to_his_machine	1
 to_his_laboratory	1
 to_their_opinion	1
 to_her_aid	1
-FW_RB_VBZ
-<br />_Here_comes	1
 NN_RB_TO
 imagination_close_to	1
 ,_IN_VBZ
@@ -9505,8 +9161,6 @@ attempts_to_prevent	1
 tries_to_put	1
 ''_CC_``
 ''_and_``	4
-WP_VBP_-LRB-
-who_are_-LRB-	1
 VBG_NN_JJ
 knowing_nothing_much	1
 ,_NNP_VBG
@@ -9544,10 +9198,10 @@ production_company_doing	1
 people_movie_commenting	1
 NN_PDT_DT
 movie_all_the	1
+IN_RB_WRB
+from_now_where	1
 NNP_NNP_NNPS
-Trailer_<br />_Languages	1
-FW_VBP_RB
-<br />_Do_n't	1
+Theatrical_Trailer_Languages	1
 IN_PRP$_JJ
 of_my_own	1
 in_its_own	1
@@ -9612,6 +9266,8 @@ IN_WRB_NNP
 as_when_Rod	1
 of_how_Burns	1
 in_where_Filby	1
+DT_IN_NN
+both_like_LOTR	1
 TO_PRP_RB
 to_me_recently	1
 DT_NNPS_VBP
@@ -9641,14 +9297,13 @@ seven_faces_of	1
 DT_JJ_RB
 a_few_probably	1
 the_original_far	1
-NN_JJ_CC
-room_dirty_and	1
 VBD_IN_IN
 was_that_of	1
 said_because_of	1
 NNP_NNP_DT
 Instant_Video_the	1
 Time_Machine_a	1
+David_Filby_the	1
 Rod_Taylor_every	1
 RB_IN_CD
 Even_in_1960	1
@@ -9734,12 +9389,6 @@ RP_IN_NN
 up_on_Pal	1
 NN_NNP_:
 hero_George_...	1
-CC_NN_MD
-and_peace_will	1
-CC_VBD_NNS
-and_heard_things	1
-NN_NN_-LRB-
-thrift_shop_-LRB-	1
 PRP_VBZ_WRB
 he_sees_how	1
 PRP_,_CC
@@ -9785,13 +9434,13 @@ over_here_but	1
 CC_VBD_,
 and_said_,	1
 CC_JJ_TO
+or_followup_to	1
 and_low_to	1
 POS_VBP_DT
 's_are_the	1
--LRB-_NNP_,
--LRB-_Airport_,	1
--LRB-_VB_JJ
--LRB-_see_front	1
+NNS_JJ_.
+theatres_Fantastic_!	1
+years_old_.	1
 DT_NNP_PRP$
 the_Eloi_their	1
 NNP_NNS_RB
@@ -9804,8 +9453,6 @@ derserved_more_work	1
 was_more_fun	1
 TO_VBG_PRP
 to_watching_it	1
-IN_-LRB-_NNP
-of_-LRB-_Rod	1
 NNP_POS_MD
 Machine_'_will	1
 NNS_,_IN
@@ -9829,6 +9476,7 @@ could_have_been	1
 might_have_appeared	1
 would_have_had	1
 CD_NNP_NNP
+2_Time_Machine	1
 3_Favorite_Sci	1
 TO_VB_PRP
 to_stop_him	1
@@ -9843,10 +9491,9 @@ to_show_us	1
 to_re-watch_it	1
 VBN_TO_VBG
 compared_to_watching	1
-FW_FW_RB
-<br />_<br />_Later	1
-<br />_<br />_Regardless	1
-<br />_<br />_Here	1
+CC_NNP_.
+&_Morlock_.	1
+and_French_.	1
 VBD_VBN_DT
 had_created_the	1
 had_purchased_this	1
@@ -9870,8 +9517,6 @@ POS_NN_.
 's_point_.	1
 's_library_.	1
 '_movie_.	1
-PRP_,_VBN
-it_,_hosted	1
 VB_VBN_TO
 have_apologized_to	1
 JJ_NN_FW
@@ -10007,8 +9652,9 @@ JJS_NNS_,
 most_people_,	1
 POS_NNS_MD
 's_predictions_will	1
--LRB-_CD_IN
--LSB-_one_of	1
+JJS_NNS_.
+finest_films_.	1
+most_kids_.	1
 NNS_''_WDT
 rings_''_that	1
 WP_VBP_NN
@@ -10027,14 +9673,12 @@ watch_it_you	1
 believe_him_he	1
 VBZ_RB_CC
 plays_perfectly_and	1
-DT_NN_-RRB-
-the_movie_-RRB-	1
-the_featurette_-RRB-	1
-the_time_-RRB-	1
-the_film_-RRB-	1
-the_title_-RRB-	1
-VBP_JJ_JJ
-are_great_behind-the-scenes	1
+PRP$_NN_WP
+my_husband_who	1
+our_hero_who	1
+his_lover_who	1
+:_VBN_RB
+..._Tucked_away	1
 JJS_NN_,
 latest_invention_,	1
 PRP$_JJ_JJ
@@ -10073,17 +9717,12 @@ A_must_own	1
 That_could_be	1
 a_must_see	1
 all_should_see	1
-''_IN_DT
-''_for_the	1
-''_via_this	1
 VBN_NNS_.
 called_morlocks_.	1
 PRP$_NN_NNS
 their_character_roles	1
 RP_TO_PRP$
 up_to_his	1
-FW_RB_PRP
-<br />_Later_we	1
 JJ_JJ_NNS
 glass-domed_futuristic_houses	1
 few_brief_stops	1
@@ -10176,8 +9815,6 @@ CC_VBG_IN
 and_giggling_like	1
 NNS_NN_NN
 scenes_documentary_time	1
-Awards_<br />_D	1
-Features_<br />_A	1
 JJ_NNP_IN
 Victorian_England_with	1
 CC_RB_NNS
@@ -10215,9 +9852,6 @@ impacted_my_whole	1
 established_their_own	1
 LS_MD_VB
 i_'d_like	1
-NN_-RRB-_.
-machine_-RRB-_.	1
-film_-RRB-_.	1
 IN_JJ_NN
 that_crystal_lever	1
 of_emotional_maturity	1
@@ -10258,11 +9892,8 @@ NNP_VBD_RB
 Taylor_did_very	1
 Wells_was_very	1
 Taylor_was_not	1
-CD_NN_VBZ
-one_disappointment_is	1
-CC_MD_VB
-and_will_be	1
-and_will_fulfill	1
+JJ_NNP_:
+innocent_Weena_;	1
 JJ_JJ_``
 own_wondrous_``	1
 CC_NN_RB
@@ -10332,7 +9963,6 @@ score_for_this	1
 time_in_the	1
 civilazation_from_the	1
 day_of_the	1
-<p>_In_the	2
 work_as_a	1
 moment_with_the	1
 sort_of_the	1
@@ -10359,13 +9989,13 @@ remake_of_an	1
 documentary_on_the	1
 movie_of_all	1
 life_of_no	1
-remake_of_the	1
+defeat_of_the	1
 switch_on_the	1
 rest_of_the	1
 punch_of_a	1
 version_of_THE	1
 conception_of_the	1
-defeat_of_the	1
+remake_of_the	1
 inventor_with_a	1
 production_on_the	1
 acting_by_all	1
@@ -10468,12 +10098,10 @@ transfer_on_this	1
 sort_out_the	1
 school_in_the	1
 doubt_that_the	1
-<p>_While_the	1
 turn_of_the	2
 scene_from_the	1
 invention_for_the	1
 making_of_the	2
-<p>_At_the	1
 step_of_the	1
 haircut_with_the	1
 character_in_a	1
@@ -10526,8 +10154,6 @@ us_then_.	1
 me_recently_.	1
 me_away_!	1
 it_fondly_.	1
-LS_-RRB-_JJ
-1_-RRB-_Theatrical	1
 ,_CC_RB
 ,_and_never	1
 ,_and_also	1
@@ -10538,10 +10164,9 @@ LS_-RRB-_JJ
 ,_but_surely	1
 NN_NN_''
 wish_list_'	1
+Thing_original_''	1
 DT_JJS_DT
 the_best_every	1
-RB_JJR_-LRB-
-not_better_-LRB-	1
 NN_WRB_PRP
 film_when_I	1
 kid_when_I	1
@@ -10623,8 +10248,6 @@ JJ_VBZ_VBN
 new_is_obscured	1
 NN_NNS_TO
 scene_selections_to	1
-NNP_NN_CD
-Trailer_<br />_2	1
 VBZ_JJ_CC
 is_fantastic_and	1
 is_silly_but	1
@@ -10640,9 +10263,8 @@ is_the_one	5
 is_a_47	1
 NNP_NNS_CC
 World_Wars_and	1
+VHS_versions_and	1
 Taylor_hosts_and	1
-POS_NNS_-RRB-
-'s_friends_-RSB-	1
 NNP_NN_MD
 Wells_fan_will	1
 PRP_VBP_POS
@@ -10656,10 +10278,18 @@ release_of_`	1
 race_of_``	1
 NNP_VBD_,
 Wells_wrote_,	1
-NN_NNS_FW
-DVD_FEATURES_<br />	1
-JJ_TO_NNS
-susceptible_to_raids	1
+JJ_NN_:
+able_cast_:	1
+superb_actor_...	1
+braindead_paradise_...	1
+good_shape_...	1
+carefree_lifestyle_...	1
+own_chair_...	1
+sci-fi_film_:	1
+top_ranking_:	1
+social_satire_-	1
+acting_superb_...	1
+8028th_century_...	1
 VBD_TO_PRP
 gave_to_him	1
 JJR_TO_VB
@@ -10673,6 +10303,7 @@ two_or_three	1
 ,_government_and	1
 ,_simlpe_and	1
 ,_dust_or	1
+,_book_&	1
 ,_clothing_and	1
 ,_CC_DT
 ,_and_a	4
@@ -10694,13 +10325,9 @@ continued_to_be	1
 come_to_realize	1
 needed_to_get	1
 used_to_create	1
-NN_NN_-RRB-
-dome_building_-RRB-	1
-<br />_C_-RRB-	1
-<br />_D_-RRB-	1
-<br />_A_-RRB-	1
-<br />_B_-RRB-	1
-time_machine_-RRB-	1
+IN_WRB_DT
+at_how_the	1
+with_how_this	1
 TO_VB_NN
 to_be_void	1
 to_be_food	1
@@ -10710,8 +10337,6 @@ to_lend_support	1
 to_do_nothing	1
 VBD_JJ_NNS
 were_great_monsters	1
-NNP_NNS_-RRB-
-VHS_versions_-RRB-	1
 PRP_NNS_TO
 he_desires_to	1
 ,_DT_JJ
@@ -10739,8 +10364,8 @@ to_the_Future	1
 to_the_Warner	1
 to_the_Morlock	1
 to_the_Center	2
-FW_FW_VBN
-<br />_<br />_Tucked	1
+RB_VBZ_PRP$
+then_finds_his	1
 VBG_JJR_VBZ
 getting_older_is	1
 WDT_VBP_DT
@@ -10752,8 +10377,6 @@ VBZ_DT_JJR
 is_a_better	1
 NNP_TO_PRP$
 George_to_his	1
-FW_FW_VBZ
-<br />_<br />_enables	1
 PRP_VBP_WP
 you_know_what	1
 you_find_what	1
@@ -10764,8 +10387,6 @@ Garcia_score_.	1
 Wells_story_.	1
 Woodpecker_doll_.	1
 THRIFT_STORE_!	1
-,_NNP_-LRB-
-,_French_-LRB-	1
 ,_WDT_IN
 ,_which_for	1
 ,_which_in	1
@@ -10784,10 +10405,12 @@ surprise_gift_for	1
 moptop_haircut_with	1
 NEW_DVD_of	1
 music_score_by	1
+1.66:1_transfer_on	1
 fiction_movie_on	1
 television_broadcast_as	1
 reunion_tale_as	1
 afternoon_theater_after	1
+past_look_at	1
 screen_play_of	1
 wife_kind_of	1
 restoration_work_on	1
@@ -10813,6 +10436,7 @@ screen_tv_in	1
 ,_Rod_Taylor	1
 ,_Tom_Helmore	2
 ,_Robert_Osbourne	1
+,_French_Dolby	1
 ,_Whit_Bissel	2
 CC_EX_VBZ
 And_there_'s	1
@@ -10869,6 +10493,7 @@ George_is_appalled	1
 DT_NNP_PRP
 the_VHS_I	1
 IN_NNS_CC
+at_times_but	1
 than_objects/props_and	1
 DT_NNS_WRB
 the_years_whenever	1
@@ -10931,6 +10556,8 @@ filmographies_for_the	1
 reviews_on_the	1
 DT_NN_RBR
 the_floor_more	1
+NN_CD_CD
+rim_1_4	1
 IN_NNP_NNP
 of_H.G._Well	1
 of_David_Filby	1
@@ -10941,8 +10568,9 @@ in_Rod_Taylor	1
 on_UK_TV	1
 of_H._G.	2
 of_Sci_~	1
-of_Rod_Taylor	1
+of_Rod_Taylor	2
 of_Jeremy_Irons	1
+for_George_HG	1
 on_Instant_Video	1
 of_Alan_Young	2
 in_Dolby_Dig	1
@@ -10978,23 +10606,22 @@ and_Academy_Award	1
 and_time_traveler	1
 and_CGI_today	1
 and_Time_travel	1
--LRB-_CC_TO
--LRB-_and_to	1
+EX_VBD_JJ
+there_was_real	1
 RBS_RB_JJ
 most_crushingly_beautiful	1
 :_IN_LS
 ..._while_i	1
 NNP_VBP_RB
 Eloi_do_n't	1
-DT_NNP_-LRB-
-both_English_-LRB-	1
-DT_NNS_-LRB-
-some_reviews_-LRB-	1
+PRP_,_VBN
+it_,_hosted	1
 IN_NN_''
 of_life_''	1
 CD_NN_PRP$
 one_day_my	1
 NNP_NNP_WP
+Rod_Taylor_who	1
 HG_Wells_who	1
 VBG_PRP_DT
 telling_them_the	1
@@ -11006,8 +10633,6 @@ TO_VBG_IN
 to_traveling_in	1
 NNS_IN_PDT
 1800s_for_such	1
-NN_CD_-RRB-
-<br />_2_-RRB-	1
 NN_,_WRB
 age_,_where	1
 day_,_when	1
@@ -11015,7 +10640,6 @@ paradise_,_where	1
 NNS_VBD_VB
 creatures_did_look	1
 NN_RB_PRP
-<p>_Then_you	1
 W_not_it	1
 EX_VBP_CD
 there_are_two	1
@@ -11051,6 +10675,7 @@ RB_JJR_IN
 far_more_than	2
 even_more_of	1
 still_better_than	1
+not_better_as	1
 VBZ_NNP_DT
 shows_David_the	1
 RP_TO_NNP
@@ -11064,29 +10689,23 @@ PRP_VB_RB
 you_take_forward	1
 he_go_back	1
 it_seem_almost	1
-''_NNS_-RRB-
-''_theories_-RRB-	1
-NN_-RRB-_DT
-novel_-RRB-_this	1
+CC_NNP_NN
+&_Crew_B	1
 JJ_TO_DT
 superior_to_the	1
-equal_to_a	1
 true_to_the	1
 due_to_the	1
 similar_to_the	1
+equal_to_a	1
+followup_to_the	1
 ,_RB_VBZ
 ,_ultimately_takes	1
 ,_yet_captures	1
 ,_HERE_COMES	1
 NNP_,_JJ
 Round_,_shiny	1
-RB_VB_RB
-n't_work_very	1
-So_go_back	1
-n't_go_overboard	1
-FW_FW_VB
-<br />_<br />_Play	1
-<br />_<br />_Dig	1
+``_NN_,
+`_davidfancella_,	1
 ,_RB_VBP
 ,_only_throw	1
 CC_NNP_NNP
@@ -11133,8 +10752,6 @@ my_grandma_'s	1
 IN_JJ_.
 as_much_.	1
 of_funny_.	1
-VBP_DT_VBZ
-believe_that_is	1
 IN_JJ_,
 in_particular_,	1
 VB_WP_PRP
@@ -11150,10 +10767,10 @@ presented_in_its	1
 filmed_with_your	1
 JJ_NNPS_IN
 thuggish_Morlocks_as	1
-VBD_-LRB-_RB
-outgrew_-LRB-_mostly	1
 WP_VBD_RB
 who_passed_away	1
+NNS_RB_JJ
+channels_especially_noticable	1
 RB_PRP_VBD
 However_it_had	1
 personally_I_thought	1
@@ -11176,10 +10793,13 @@ forever_it_seems	1
 maybe_it_has	1
 forward_he_stops	1
 NN_,_NNP
-writer_,_H.G.	1
-house_,_George	1
+class_,_Morlock	1
+Hole_,_Tom	1
 friend_,_Alan	1
 part_,_George	1
+writer_,_H.G.	1
+class_,_Eloi	1
+house_,_George	1
 DT_VBZ_WP
 that_is_what	1
 RB_VBN_IN
@@ -11270,6 +10890,7 @@ VB_VBD_VBN
 prop_had_become	1
 JJ_IN_NNS
 over-the-top_at_times	1
+creepy_at_times	1
 JJ_IN_NNP
 available_on_Amazon.com	1
 VBP_DT_NN
@@ -11308,17 +10929,15 @@ what_to_bring	1
 JJR_IN_JJ
 better_through_small	1
 better_than_many	1
-IN_DT_NNPS
-whereas_the_Morlocks	1
-of_the_Scots	1
-for_the_Morlocks	1
-of_the_Morlocks	1
-of_the_Elois	1
-of_the_Warlocks	1
-from_the_Morlocks	1
-over_the_Morlocks	1
-that_the_Morlocks	1
-with_the_Morlocks	1
+PRP$_NNS_.
+my_favorites_.	1
+his_friends_.	1
+our_balls_.	1
+my_favorites_!	1
+his_colleagues_.	1
+their_roles_.	1
+your_favorites_.	1
+my_expectations_.	1
 PRP$_NNS_,
 its_shortcomings_,	1
 their_heads_,	1
@@ -11338,6 +10957,7 @@ real_,_and	1
 vibrant_,_and	1
 humorous_,_but	1
 OK_,_and	1
+amazing_,_but	1
 awesome_,_but	1
 cheesy_,_but	1
 interesting_,_and	1
@@ -11383,11 +11003,6 @@ called_the_Morlocks	1
 CC_,_IN
 and_,_in	1
 and_,_for	1
-IN_WRB_DT
-at_how_the	1
-with_how_this	1
-JJ_JJ_-LRB-
-little_schmaltzy_-LRB-	1
 VBN_IN_NN
 based_on_way	1
 written_with_movie	1
@@ -11437,11 +11052,6 @@ JJR_NN_TO
 more_fun_to	1
 NNP_IN_VBG
 MGM_for_issuing	1
--RRB-_,_DT
--RRB-_,_an	1
--RRB-_,_the	1
--RRB-_,_a	1
--RRB-_,_some	1
 WRB_JJ_CC
 how_lazy_and	1
 PRP$_NN_TO
@@ -11486,6 +11096,8 @@ UH_,_DT
 No_,_this	1
 ``_IN_DT
 ``_in_the	1
+NNP_NNS_LS
+VHS_FEATURES_1	1
 VBP_VBZ_IN
 suspect_is_from	1
 ,_WDT_PRP
@@ -11507,17 +11119,10 @@ NN_VBD_JJR
 movie_was_better	1
 VBN_CC_DT
 made_and_the	1
-NNP_-LRB-_CD
-Machine_-LRB-_1960	1
-Filby_-LSB-_one	1
 JJ_NN_``
 old_friend_``	1
 NNP_NN_RB
 VHS_copy_always	1
-NNS_FW_FW
-FEATURES_<br />_<br />	1
-RB_JJR_-RRB-
-much_older_-RRB-	1
 CD_PDT_DT
 one_all_the	1
 NNS_IN_WP
@@ -11571,8 +11176,9 @@ Pal_and_Mike	1
 Warren_and_Tim	1
 Young_and_Rod	1
 NNS_VBZ_DT
-people_is_the	1
 writers_leaves_the	1
+people_is_the	1
+theories_makes_a	1
 CC_PRP_VBZ
 but_it_has	1
 and_it_is	2
@@ -11591,13 +11197,11 @@ and_he_'s	1
 but_he_'s	1
 WP_VBZ_,
 who_is_,	1
-IN_-RRB-_PRP
-of_-RRB-_it	1
 IN_DT_VBN
 with_an_added	1
 in_the_ruined	1
-IN_NNP_-RRB-
-in_WWI_-RRB-	1
+CC_VBD_NNS
+and_heard_things	1
 VBP_PRP_NNP
 Are_we_Rod	1
 RB_VB_NN
@@ -11697,8 +11301,6 @@ DT_``_NNP
 the_``_Father	1
 the_`_Back	1
 the_``_London	1
--LRB-_``_CD
--LRB-_``_7	1
 CD_NN_CC
 one_hour_and	1
 PRP$_VBG_NN
@@ -11710,13 +11312,6 @@ me_in_``	1
 VBG_VBN_RBR
 Having_seen_more	1
 FW_DT_NN
-<br />_A_favourite	1
-<br />_The_plot	1
-<br />_The_story	1
-<br />_The_protaganist	1
-<br />_The_ending	1
-<br />_A_film	1
-<br />_The_film	1
 !!_The_movie	1
 RB_VBD_PRP
 just_loved_it	1
@@ -11724,12 +11319,8 @@ first_saw_it	1
 really_enjoyed_it	1
 still_loved_it	1
 always_felt_it	1
-NNP_-RRB-_VBZ
-Taylor_-RRB-_has	1
 PRP_NNS_IN
 he_busts_through	1
--RRB-_PRP_VBD
--RRB-_I_did	1
 JJ_NN_VB
 first_class_live	1
 MD_VB_NN
@@ -11794,6 +11385,7 @@ NNP_,_WP
 George_,_who	1
 Eloi_,_who	1
 Taylor_,_who	1
+Kismet_,_whom	1
 Pal_,_who	1
 Young_,_whom	1
 Young_,_who	1
@@ -11810,13 +11402,14 @@ this_one_to	1
 the_one_to	3
 MD_VB_RP
 would_look_up	1
+NN_NNS_NN
+C_Awards_D	1
 NNP_NNP_FW
-Journey_Back_<br />	1
 Favorite_Sci_~	1
 ,_DT_RBR
 ,_the_more	1
-NN_-LRB-_RB
-planet_-LRB-_probably	1
+VB_VBN_RB
+be_disapointed_again	1
 NNP_._''
 Lao_._''	1
 MD_VB_RB
@@ -11842,6 +11435,8 @@ times_I_watched	1
 IN_VBG_PRP$
 After_taking_his	1
 of_using_his	1
+,_NN_VB
+,_BYOC_bring	1
 NNS_:_``
 circumstances_-_``	1
 VBZ_,_MD
@@ -11890,7 +11485,7 @@ Then_,_``	1
 NN_VBG_RB
 play_fighting_later	1
 FW_JJ_NNS
-<br />_Special_Features	1
+Selections_Special_Features	1
 ``_JJ_''
 ``_new_''	1
 `_Victorian_'	1
@@ -11906,8 +11501,6 @@ channeling_Charleton_Heston	1
 starring_Guy_Pearce	1
 pushing_H._G.	1
 featuring_Alan_Young	1
-,_NN_-LRB-
-,_BYOC_-LRB-	1
 NNP_,_VBD
 George_,_played	1
 David_,_played	1
@@ -11917,16 +11510,14 @@ Ladd_,_reprising	1
 Taylor_,_telling	1
 NN_VBD_VBG
 A-bomb_was_going	1
-CC_IN_JJ
-and_in_good	1
-VBG_VBN_PRP$
-having_read_his	1
 NN_TO_VBG
 devotion_to_rescuing	1
 VBP_NNP_CC
 see_George_but	1
 IN_DT_RBR
 on_the_more	1
+RB_._.
+else_!_.	1
 NN_JJ_IN
 nothing_short_of	1
 something_sinister_in	1
@@ -11937,12 +11528,10 @@ like_sci-fi_films	1
 are_slow_parts	1
 are_tiny_glitches	1
 DT_NNS_RB
+some_reviews_mostly	1
 the_actors_not	1
-NN_-LRB-_.
-shop_-LRB-_!	1
-VB_JJ_IN
-seem_quaint_by	1
-get_tired_of	1
+NNP_DT_RB
+Filby_the_only	1
 VBZ_VBN_CC
 has_set_and	1
 :_DT_JJ
@@ -11953,6 +11542,8 @@ VBN_NN_,
 rated_G_,	1
 CC_NN_POS
 but_today_'s	1
+''_CD_:
+''_1960_...	1
 ``_NN_IN
 ``_War_of	1
 ``_journey_into	1
@@ -11997,6 +11588,7 @@ It_was_still	1
 I_was_pleasantly	1
 it_was_first	1
 I_was_not	1
+I_outgrew_mostly	1
 I_had_only	1
 I_had_since	1
 it_was_just	1
@@ -12025,6 +11617,7 @@ they_tend_to	1
 They_have_to	1
 NN_NN_NN
 lava_destruction_sequence	1
+screen_1.66:1_transfer	1
 TV_set-in_B	1
 documentary_time_machine	1
 machine_change_fate	1
@@ -12035,6 +11628,7 @@ science_fiction_movie	3
 basement_train_set	1
 concave_copper_disk	1
 CC_NNS_VBD
+or_problems_included	1
 and_grandparents_saw	1
 VBZ_IN_NN
 remains_of_knowledge	1
@@ -12051,13 +11645,16 @@ VBD_IN_RBR
 included_on_more	1
 TO_CD_TO
 to_802701_to	1
-IN_NN_-LRB-
-with_destiny_-LRB-	1
+RB_NN_NN
+almost_paradise_world	1
+incredibly_fun_story	1
 VBD_VBG_DT
 was_buying_another	1
 was_reading_some	1
 CC_DT_DT
 and_an_all	1
+CD_VBP_RB
+1953_are_probably	1
 RB_,_DT
 upward_,_the	1
 Anyway_,_this	1
@@ -12081,8 +11678,6 @@ saw_that_I	1
 VBD_VBN_JJ
 had_hunted_high	1
 had_become_lost	1
-FW_PRP_VBD
-<br />_I_found	1
 NNPS_NN_NNP
 REMAKES_SRE_NOT	1
 RB_VBD_TO
@@ -12095,16 +11690,18 @@ eventually_decided_to	1
 NNP_''_,
 Mars_''_,	1
 Machine_''_,	3
+Continent_''_,	1
 Weena_''_,	1
 PRP_CC_VBZ
 us_and_is	1
 him_and_travels	1
 NN_RB_IN
+explanation_early_on	1
 way_back_around	1
 teenager_back_in	1
-explanation_early_on	1
-book_anyways_because	1
 public_mainly_through	1
+book_anyways_because	1
+planet_probably_because	1
 CC_MD_PRP$
 and_can_his	1
 NNP_CC_PRP
@@ -12113,9 +11710,6 @@ Eloi_and_they	2
 Taylor_and_I	1
 George_but_he	1
 Morlock_and_he	1
-NN_-RRB-_:
-chair_-RRB-_...	1
-DVD_-RRB-_:	1
 NN_VBN_``
 documentary_called_``	1
 VBZ_PRP_,
@@ -12132,8 +11726,6 @@ the_Elois_just	1
 PRP_CC_VBD
 him_and_found	1
 it_and_put	1
-NN_NNS_VBN
-fiction_films_made	1
 EX_VBZ_NN
 there_'s_trouble	1
 there_'s_something	1
@@ -12157,10 +11749,6 @@ DT_VBZ_JJ
 that_'s_straight	1
 CC_LS_IN
 and_i_like	1
-VBP_-RRB-_,
-believe_-RRB-_,	1
-VBP_-RRB-_.
-surpass_-RRB-_.	1
 WP_VBD_,
 what_happened_,	1
 DT_NN_PRP$
@@ -12171,9 +11759,6 @@ JJ_NN_JJ
 short_monologue_full	1
 high_quality_stereophonic	1
 crappy_ass_flimsy	1
--LRB-_RB_-RRB-
--LRB-_mostly_-RRB-	1
--LRB-_literally_-RRB-	1
 DT_VBZ_DT
 this_is_another	1
 that_is_the	1
@@ -12246,19 +11831,17 @@ it_off_the	1
 NN_CC_VBN
 everything_but_driven	1
 IN_NNP_,
-as_George_,	2
+in_WWI_,	1
 on_Prime_,	1
 of_CGI_,	1
+as_George_,	2
 Without_End_,	1
 with_David_,	1
 of_Tayor_,	1
 for_France_,	1
-IN_NNP_.
-on_Amazon.com_.	1
-of_Debussy_.	1
-in_Edinburgh_.	1
-CC_VBD_WRB
-and_forgot_how	1
+VBN_NNP_NNP
+named_Herbert_George	1
+named_George_Rod	1
 ,_VBD_RP
 ,_walked_up	1
 VBZ_VBG_.
@@ -12331,8 +11914,6 @@ JJ_CC_NNP
 present_and_George	1
 POS_NNS_.
 's_shoes_?	1
--LRB-_CC_RB
--LRB-_and_still	1
 RBR_JJ_,
 more_real_,	1
 VBG_DT_NNP
@@ -12407,8 +11988,6 @@ LS_VBP_RB
 i_do_n't	1
 PRP$_NNP_NN
 My_VHS_copy	1
--LRB-_WRB_NNP
--LRB-_When_Worlds	1
 JJ_,_DT
 stupid_,_the	1
 little_,_the	1
@@ -12426,8 +12005,6 @@ then_and_then	2
 ago_and_just	1
 back_and_luckily	1
 back_and_forth	2
-RB_._-RRB-
-else_!_-RRB-	1
 RB_CD_.
 only_8_.	1
 CC_PRP_CC
@@ -12461,6 +12038,10 @@ real_things_and	1
 special_features_and	1
 few_times_but	1
 human_thousands_and	1
+NNP_VBG_RB
+Taylor_looking_much	1
+JJ_NNS_CD
+Special_Effects_1961	1
 NN_IN_PDT
 unlikliness_of_such	1
 arse_of_such	1
@@ -12472,8 +12053,8 @@ VBG_RP_DT
 acting_out_a	1
 living_off_the	1
 Looking_back_the	1
--RRB-_,_WDT
--RRB-_,_which	1
+``_CD_NNS
+``_7_Faces	1
 PRP_PRP_VBD
 me_he_represented	1
 him_I_noticed	1
@@ -12484,6 +12065,8 @@ NNS_,_WRB
 stages_,_where	1
 WDT_IN_PRP$
 which_in_my	1
+IN_CD_RB
+for_1960_really	1
 NNP_NNPS_VBZ
 Warner_Brothers_provides	1
 VBP_DT_VBG
@@ -12588,17 +12171,20 @@ and_,_surprisingly	1
 JJR_CC_JJR
 better_or_worse	1
 older_and_stouter	1
+CC_NN_JJS
+and_read_most	1
 :_NNP_CC
 :_Eloi_&	1
-NNP_-LRB-_NN
-Picture_-LRB-_DVD	1
 PRP_VBD_RP
 they_ended_up	1
 it_came_out	2
 ,_NNP_VBD
 ,_George_invited	1
 NNS_VBG_RP
+friends_walking_up	1
 movies_growing_up	1
+``_WP_IN
+``_what_if	1
 VBN_PRP_RBR
 said_it_better	1
 NNS_CC_VB
@@ -12675,14 +12261,16 @@ VBP_PRP_JJ
 watch_it_several	1
 NN_VB_RB
 candle_melt_quickly	1
-VBZ_PRP_CD
-gives_it_3	1
+CD_PRP_VBZ
+1917_It_'s	1
 VBZ_PRP_CC
 gives_us_and	1
 VBZ_PRP$_RB
 is_my_only	1
 RB_JJ_VBG
 actually_worth_watching	1
+CD_PRP_VBD
+1960_I_did	1
 JJR_NNS_.
 more_generations_.	1
 IN_VBG_CD
@@ -12700,11 +12288,10 @@ Wells_had_created	1
 NNS_VBD_DT
 beings_called_the	1
 sixties_was_a	1
+problems_included_a	1
 films_won_an	1
-VBN_JJR_NNS
-seen_more_times	1
 NNP_NNPS_WRB
-<br />_Languages_When	1
+Trailer_Languages_When	1
 VBZ_VBN_RB
 has_worn_very	1
 NNS_RB_IN
@@ -12718,8 +12305,6 @@ MD_VB_PRP$
 'll_keep_my	1
 VBZ_IN_IN
 is_because_of	1
-FW_CC_CD
-<br />_And_one	1
 NNP_VBD_DT
 Amazon_sent_the	1
 Pal_predicted_the	1
@@ -12801,13 +12386,14 @@ VBZ_IN_PDT
 has_during_all	1
 VB_DT_NNS
 like_the_colors	1
-scare_the_witts	1
 help_the_people	1
+reunite_both_actors	1
 make_a_monkeys	1
 explain_the_principles	1
 confront_the_monsters	1
 see_any_scratches	1
 have_any_attachments	1
+scare_the_witts	1
 VB_DT_NNP
 raise_the_Elois	1
 outrun_those_CGI	1
@@ -12857,6 +12443,7 @@ DT_NN_JJ
 the_room_dirty	1
 all_time_favorite	1
 the_poster_creepy	1
+the_time_great	1
 the_art_special	1
 the_drama_riveting	1
 the_film_interesting	1
@@ -12867,6 +12454,8 @@ VBZ_DT_VBN
 uses_the_restored	1
 CC_JJR_NNP
 and_stouter_Rod	1
+VBP_JJ_JJ
+are_great_behind-the-scenes	1
 PRP_RBR_IN
 it_better_than	1
 it_better_so	1
@@ -12882,7 +12471,7 @@ classic_is_a	1
 version_is_the	1
 film_is_a	1
 disappointment_is_the	1
-scene_uses_the	1
+etc._activates_the	1
 film_is_the	2
 movie_tells_the	1
 DVD_is_a	1
@@ -12890,6 +12479,7 @@ scientist_narrarates_the	1
 opinion_is_the	1
 traveller_sees_the	1
 display_is_a	1
+scene_uses_the	1
 movie_is_the	1
 man_holds_a	1
 special_is_the	1
@@ -12922,10 +12512,8 @@ and_those_who	1
 VB_PRP$_JJ
 bring_your_own	1
 entertain_our_eager	1
-IN_JJ_VBG
-of_distinguished_looking	1
-NN_IN_-LRB-
-story_of_-LRB-	1
+NNS_''_CD
+Worlds_''_1953	1
 VBN_RBR_IN
 focused_more_on	1
 NNS_,_PRP
@@ -12938,8 +12526,7 @@ IN_RB_DT
 for_quite_a	1
 with_only_a	1
 FW_FW_JJ
-Selections_<br />_Special	1
-<br />_<br />_Preposterous	1
+Scene_Selections_Special	1
 DT_RB_VBZ
 that_really_does	1
 This_really_is	1
@@ -12957,8 +12544,6 @@ Fiction_''_.	1
 JJ_JJ_CC
 little_dated_but	1
 traditional_good_versus	1
-NN_-RRB-_JJ
-time_-RRB-_great	1
 DT_NN_VB
 the_movie_unfold	1
 the_original_prop	1
@@ -12983,7 +12568,6 @@ adult_and_still	1
 lost_and_then	1
 simple_but_yet	1
 CC_NNS_NN
-or_problems_<br />	1
 and_snails_race	1
 NN_RB_VBD
 imagination_then_read	1
@@ -13002,10 +12586,8 @@ PRP_VBD_NNS
 we_were_kids	1
 I_had_problems	1
 they_lost_members	1
--RRB-_JJ_JJ
--RRB-_great_special	1
-:_IN_JJS
-..._Like_most	1
+NNS_LS_JJ
+FEATURES_1_Theatrical	1
 NNS_,_NNS
 costumes_,_sets	1
 colors_,_costumes	1
@@ -13035,8 +12617,6 @@ A_great_story	1
 remake_last_night	1
 FI_top_ranking	1
 quality_stereophonic_sound	1
-NN_-RRB-_''
-original_-RRB-_''	1
 NN_WDT_VBD
 featurette_that_included	1
 one_that_bothered	1
@@ -13125,7 +12705,7 @@ this_transfer_.	1
 a_joke_.	1
 the_action_.	1
 the_night_.	1
-the_film_.	1
+the_film_.	2
 all_day_.	1
 every_way_.	1
 this_price_.	1
@@ -13172,9 +12752,8 @@ make_a_whole	1
 create_a_decent	1
 love_this_informative	1
 buy_this_mid-priced	1
-see_the_time-lapse	1
 say_the_original	1
-<p>_The_special	1
+see_the_time-lapse	1
 get_a_good	1
 stay_the_same	1
 see_a_great	1
@@ -13188,12 +12767,9 @@ hear_the_faint	1
 follow_the_original	1
 keep_a_straight	1
 feel_a_romantic	1
-get_a_romantic	1
-use_this_raw	1
 save_this_future	1
-IN_NNS_-RRB-
-at_times_-RRB-	1
-in_theatres_-RRB-	1
+use_this_raw	1
+get_a_romantic	1
 RB_RB_JJ
 still_really_cool	1
 still_as_good	1
@@ -13223,8 +12799,8 @@ IN_:_PRP
 throughout_..._I	1
 WDT_PRP_VBP
 which_I_'m	1
--LRB-_PRP$_RB
--LRB-_my_only	1
+CD_,_VBZ
+2.0_,_comes	1
 JJ_,_EX
 interested_,_there	1
 CC_VBD_PRP$
@@ -13232,29 +12808,31 @@ and_met_my	1
 VBG_NNS_CC
 groundbreaking_visual-effects_and	1
 NNP_NNP_VBZ
-George_Wells_builds	1
-Alan_Young_makes	1
-David_Filby_seems	1
 TIME_MACHINE_tells	1
-Rod_Taylor_plays	1
-Time_Traveler_gets	1
-Alan_Young_does	1
-Rod_Taylor_is	3
+Morlock_Caves_exists	1
 Russell_Garcia_is	1
 Yvette_Mimieux_is	3
-Time_Machine_is	11
 TIME_MACHINE_is	1
-Rod_Taylor_does	2
-Morlock_Caves_exists	1
+Time_Machine_takes	1
+Rod_Taylor_has	1
+Alan_Young_does	1
+Time_Machine_is	11
 ~_Fi/Fantasy_is	1
-Whit_Bissel_recreates	1
-Time_Machine_endures	1
 Time_Traveler_learns	1
 H.G._Wells_is	1
-Time_Machine_takes	1
+Time_Traveler_gets	1
+Alan_Young_makes	1
+Rod_Taylor_does	2
 Alan_Young_plays	1
+David_Filby_seems	1
+Rod_Taylor_is	3
+George_Wells_builds	1
+Rod_Taylor_plays	1
+Whit_Bissel_recreates	1
+Time_Machine_endures	1
 ,_NNP_CC
 ,_Young_and	1
+,_Morlock_and	1
 ,_Pal_and	1
 PRP_IN_IN
 me_because_of	1
@@ -13294,6 +12872,8 @@ original_classic_is	1
 main_focus_seems	1
 VBG_IN_PRP$
 living_within_their	1
+NNP_NNP_VBG
+Rod_Taylor_looking	1
 VBZ_IN_,
 goes_on_,	2
 NNS_CC_NN
@@ -13319,6 +12899,7 @@ are_phenomenal_.	1
 NNS_''_TO
 Thanks_''_to	1
 VBP_JJ_,
+are_amazing_,	1
 're_interested_,	1
 are_thrilling_,	1
 are_stupid_,	1
@@ -13333,25 +12914,8 @@ RB_VB_TO
 n't_seem_to	2
 VBP_JJ_PRP
 'm_sure_it	1
-NNP_NNP_-LRB-
-Sebastian_Cabot_-LRB-	1
-Time_Machine_-LRB-	1
-Whit_Bissell_-LRB-	1
-<br />_George_-LRB-	1
-David_Filby_-LRB-	1
-Time_Traveller_-LRB-	1
-Rod_Taylor_-LRB-	2
-George_Wells_-LRB-	1
-Alan_Young_-LRB-	1
-Scrooge_McDuck_-LRB-	1
-George_Pal_-LRB-	2
-Tom_Helmore_-LRB-	1
-David_Filby_-LSB-	1
-Yvette_Mimieux_-LRB-	1
 VBP_JJ_:
 are_outstanding_...	1
-NNP_-LRB-_VBG
-Taylor_-LRB-_looking	1
 CD_NNP_IN
 1960_Masterpiece_of	1
 :_``_PRP
@@ -13362,10 +12926,13 @@ NN_POS_VBP
 berry_'s_are	1
 NN_NNP_NNP
 film_Rod_Taylor	1
+B_Time_Machine	1
+D_Theatrical_Trailer	1
 century_George_Wells	1
 film_Director_George	1
 star_Rod_Taylor	1
 rotund_Mr._French	1
+friend_Filby_Young	1
 author_H.G._Wells	1
 director_George_Pal	1
 SRE_NOT_AS	1
@@ -13378,8 +12945,9 @@ POS_NN_NN
 's_food_supply	1
 's_television_show	1
 's_movie_technology	1
-RB_VBP_-RRB-
-often_surpass_-RRB-	1
+WRB_PRP$_NNS
+how_your_experiences	1
+when_his_friends	1
 CC_PRP_RB
 and_it_still	1
 and_they_mostly	1
@@ -13388,11 +12956,9 @@ and_I_really	1
 ,_more_real	1
 ''_,_DT
 ''_,_this	1
-''_,_the	1
-VBN_NNP_-LRB-
-named_George_-LSB-	1
--RRB-_:_.
--RRB-_..._.	1
+''_,_the	2
+,_VBN_TO
+,_mailed_to	1
 NN_VBD_TO
 thing_left_to	1
 JJ_CC_WRB
@@ -13416,6 +12982,7 @@ world_,_content	1
 food_,_clothing	1
 sc-fi_,_simlpe	1
 time_,_BYOC	1
+child_,_book	1
 storyline_,_time	1
 clothe_,_feed	1
 character_,_growth	1
@@ -13423,24 +12990,15 @@ grotesque_,_horror	1
 horror_,_action	1
 mystery_,_horror	1
 air_,_fruit	1
-DT_NN_-LRB-
-the_movie_-LRB-	1
-the_planet_-LRB-	1
-The_Thing_-LRB-	1
-the_past_-LRB-	1
-a_sequel_-LRB-	1
 PRP_DT_RB
 it_a_little	1
-JJ_-RRB-_TO
-followup_-RRB-_to	1
-CD_-RRB-_NNP
-2_-RRB-_Time	1
 JJ_CD_VBG
 other_one_being	1
 VBP_VBG_JJ
 'm_accumulating_old	1
-JJ_''_NNS
-outlandish_''_theories	1
+CC_MD_VB
+and_will_be	1
+and_will_fulfill	1
 WP_VBP_PRP
 what_do_you	1
 WRB_JJ_NNS
@@ -13549,13 +13107,15 @@ story_and_the	1
 bomb_and_the	1
 river_and_no	1
 movie_and_the	2
-film_and_an	1
+LOTR_but_the	1
 cast_and_the	1
 setting_and_the	1
 story_but_the	1
 answer_and_that	1
 plot_and_an	1
+building_and_the	1
 machine_and_the	1
+film_and_an	1
 NNP_VBP_VBG
 MGM_are_tagging	1
 IN_``_NN
@@ -13582,19 +13142,12 @@ POS_CD_POS
 's_-60_'s	1
 CD_,_WDT
 1966_,_which	1
+NN_VBN_CC
+A_Cast_&	1
 TO_VBG_DT
 to_rescuing_the	1
--RRB-_PRP_,
--RRB-_it_,	1
-DT_-LRB-_IN
-both_-LRB-_like	1
--RRB-_VBZ_PDT
--RRB-_has_all	1
 RBR_IN_DT
 better_than_the	1
-IN_JJS_NNS
-for_most_kids	1
-Like_most_people	1
 ''_WRB_PRP
 ''_when_I	1
 ,_CC_VBN
@@ -13634,8 +13187,6 @@ VBZ_RP_IN
 finds_out_that	1
 ends_up_in	1
 holds_out_on	1
-JJR_-RRB-_,
-older_-RRB-_,	1
 ,_CC_VBP
 ,_but_do	1
 ,_but_are	1
@@ -13643,9 +13194,31 @@ CC_,_WRB
 But_,_when	1
 VBZ_RB_VBG
 is_not_pushing	1
-FW_WRB_PRP
-<br />_When_you	1
-<br />_When_I	1
+PRP_VBZ_RB
+It_delivers_far	1
+she_dies_anyway	1
+he_goes_back	1
+It_'s_all	1
+It_'s_well	1
+He_does_n't	1
+itself_has_never	1
+It_fits_perfectly	1
+she_is_just	1
+it_'s_not	1
+it_'s_up	1
+it_has_always	1
+it_is_not	1
+it_is_very	1
+it_does_n't	3
+it_is_largely	1
+it_'s_just	1
+It_'s_quite	1
+It_has_n't	1
+It_'s_about	1
+he_goes_forward	1
+it_'s_still	2
+He_moves_forward	1
+he_is_not	1
 NNS_IN_NNP
 people_like_George	1
 talents_of_Alan	1
@@ -13705,8 +13278,6 @@ back_the_effects	1
 out_the_colors	1
 RB_VBZ_JJ
 never_grows_tiresome	1
--LRB-_RB_VBN
--LRB-_also_discussed	1
 CC_WRB_NN
 but_when_night	1
 VBP_NNP_NNP
@@ -13719,13 +13290,12 @@ CC_VBZ_VBN
 and_is_surrounded	1
 VBZ_WRB_JJ
 sees_how_lazy	1
--LRB-_IN_NN
--LRB-_like_LOTR	1
+CD_:_.
+1960_..._.	1
 NN_''_RB
 Sea_''_respectively	1
 FW_UH_,
-<br />_Oh_,	1
-<br />_No_,	1
+Cookieman108_Oh_,	1
 JJ_NN_POS
 great_grandson_'s	1
 PRP_VBP_DT
@@ -13756,7 +13326,7 @@ you_are_the	1
 we_find_the	1
 I_have_a	1
 JJ_NN_TO
-back_home_to	1
+nuclear_halocaust_to	1
 great_time_to	1
 original_tale_to	1
 much_fun_to	1
@@ -13767,6 +13337,7 @@ original_film_to	1
 romantic_interest_to	1
 time-lapse_photography_to	1
 original_material_to	1
+back_home_to	1
 raw_material_to	1
 great_attention_to	1
 nuclear_holocaust_to	1
@@ -13779,7 +13350,6 @@ movie_:_``	1
 NNP_NNP_RB
 George_Pal_never	1
 Earth_Stood_Still	1
-<p>_Directed_brillantly	1
 NN_TO_VB
 holocaust_to_destroy	1
 begining_to_end	1
@@ -13804,6 +13374,7 @@ time_to_be	1
 ability_to_show	1
 material_to_make	1
 class_to_watch	1
+halocaust_to_dwell	1
 protaganist_to_save	1
 laboratory_to_look	1
 film_to_appear	1
@@ -13832,7 +13403,6 @@ here_gives_it	1
 VBP_:_IN
 include_:_Behind	1
 NN_WP_VBZ
-<br />_What_'s	1
 man_who_travels	1
 anyone_who_loves	1
 lover_who_is	1
@@ -13863,14 +13433,10 @@ never_had_a	1
 WDT_VBZ_RB
 that_'s_already	1
 which_works_well	1
-,_VBN_IN
-,_hosted_by	3
--LRB-_RB_DT
--LRB-_mostly_the	1
-VBP_-LRB-_RB
-are_-LRB-_literally	1
-CD_-RRB-_VBZ
-1960_-RRB-_remains	1
+NNP_CD_IN
+Filby_one_of	1
+NNS_CC_RB
+times_but_otherwise	1
 POS_NN_DT
 's_supply_the	1
 VBZ_JJR_JJ
@@ -14123,8 +13689,6 @@ the_Wellsian_idyll	1
 a_small_size	1
 The_first_time	1
 a_classic_story	1
--LRB-_DT_NNS
--LRB-_both_actors	1
 VBZ_TO_DT
 is_to_the	1
 plays_to_the	1
@@ -14136,6 +13700,8 @@ supposedly_H.G._Wells	1
 Obviously_H._G.	1
 WP_VBZ_JJR
 who_loves_older	1
+''_NNS_VBZ
+''_theories_makes	1
 DT_JJ_VBP
 this_somber_gaze	1
 IN_WP_TO
@@ -14181,9 +13747,6 @@ re-watched_this_movie	1
 ..._._.	1
 WRB_EX_VBZ
 where_there_is	1
-NN_,_-LRB-
-class_,_-LRB-	2
-child_,_-LRB-	1
 VB_IN_NN
 improve_on_something	1
 travel_through_time	1
@@ -14196,8 +13759,6 @@ remains_:_Are	1
 NNP_CC_VBZ
 French_and_has	1
 Garcia_and_adds	1
-CD_-RRB-_VBP
-1953_-RRB-_are	1
 VBZ_WP_VBZ
 is_what_drives	1
 RBR_TO_NNP
@@ -14218,8 +13779,10 @@ that_truly_delivers	1
 which_now_hangs	1
 VBZ_JJ_VBG
 's_obvious_stopping	1
-IN_RB_WRB
-from_now_where	1
+IN_CD_PRP
+in_1917_It	1
+JJ_JJ_RB
+little_schmaltzy_even	1
 JJ_NN_NNS
 different_time_periods	1
 skimpy_pastel_togas	1
@@ -14244,10 +13807,9 @@ NNP_,_IN
 Taylor_,_as	1
 Mimieux_,_as	1
 Pal_,_with	1
+Birds_,_in	1
 NN_NN_RP
 credit_card_out	1
-,_DT_WP
-,_those_who	1
 PRP$_RB_VBP
 my_only_complain	1
 IN_NNP_VBZ
@@ -14287,6 +13849,8 @@ films_are_loosely	1
 sets_are_also	1
 CD_NNP_NNS
 two_World_Wars	1
+RB_VBG_RP
+literally_living_off	1
 IN_NNP_VBD
 that_Wells_wrote	1
 that_Weena_gave	1
@@ -14301,8 +13865,6 @@ and_David_,	1
 ,_disheveled_and	1
 WP_VBD_PRP
 who_helped_me	1
--LRB-_NN_IN
--LRB-_look_at	1
 DT_,_CC
 all_,_but	1
 CC_VB_JJ
@@ -14330,6 +13892,7 @@ before_video_became	1
 after_file_was	1
 JJ_NN_,
 pleasant_surprise_,	1
+Black_Hole_,	1
 red-velvet_chair_,	1
 timeless_classic_,	1
 curious_scientist_,	1
@@ -14486,17 +14049,8 @@ IN_NN_VBP
 for_detail_add	1
 RB_VBD_VB
 really_helped_sell	1
-JJ_NN_:
-able_cast_:	1
-superb_actor_...	1
-braindead_paradise_...	1
-good_shape_...	1
-carefree_lifestyle_...	1
-sci-fi_film_:	1
-top_ranking_:	1
-social_satire_-	1
-acting_superb_...	1
-8028th_century_...	1
+JJ_TO_NNS
+susceptible_to_raids	1
 NN_IN_PRP$
 hair_on_his	1
 character_from_his	1
@@ -14512,6 +14066,7 @@ home_of_their	1
 book_that_our	1
 nothing_of_their	1
 encoding_on_its	1
+character_despite_her	1
 Movie_in_my	1
 interest_of_his	1
 novel_of_my	1
@@ -14520,12 +14075,11 @@ movie_for_your	1
 book_than_his	1
 model_of_his	1
 hope_of_your	1
-CD_-RRB-_VBD
-1960_-RRB-_was	1
 VBZ_WRB_DT
 thats_when_the	1
 IN_NN_VBZ
 of_humanity_goes	1
+with_destiny_tries	1
 in_time_is	1
 that_nobody_has	1
 than_memory_serves	1
@@ -14555,6 +14109,8 @@ RB_PRP_DT
 Maybe_we_all	1
 ,_JJ_JJ
 ,_grotesque_underground	1
+NNP_NN_:
+Picture_DVD_:	1
 VBG_RP_TO
 ending_up_to	1
 walking_up_to	1
@@ -14563,14 +14119,13 @@ when_Amazon_sent	1
 how_Burns_found	1
 ,_VBG_TO
 ,_attempting_to	1
--RRB-_,_CC
--RRB-_,_but	1
--RRB-_,_and	2
 DT_NNP_TO
 the_Earth_to	1
 NNP_CD_,
 August_17_,	1
+Digital_5.1_,	1
 October_12_,	1
+Digital_2.0_,	1
 IN_NNS_VBZ
 of_people_is	1
 of_years_fascinates	1
@@ -14665,8 +14220,6 @@ VBN_RBR_JJ
 seen_more_recent	1
 DT_NNPS_JJ
 the_Scots_ginger-haired	1
--RRB-_:_CD
--RRB-_:_3.5	1
 ''_,_WP
 ''_,_who	1
 CC_VBZ_PDT
@@ -14680,8 +14233,6 @@ Weena_;_Alan	1
 Overall_:_EXCELLENT	2
 RP_IN_TO
 on_through_to	1
--RRB-_VBD_VBN
--RRB-_was_released	1
 ,_VBZ_JJ
 ,_has_little	1
 ,_looks_amazing	1
@@ -14692,8 +14243,6 @@ JJ_NNS_MD
 human_beings_can	1
 RB_PRP_NN
 not_it_color	1
-NN_-RRB-_NN
-1.66:1_-RRB-_transfer	1
 CC_NNS_IN
 and_implications_of	1
 and_people_like	1
@@ -14726,8 +14275,6 @@ dvd_compared_to	1
 JJ_CD_POS
 late_60_'s	1
 early_60_'s	1
-:_FW_FW
-..._<br />_<br />	4
 JJR_TO_DT
 closer_to_the	1
 RB_VBG_VBN
@@ -14767,7 +14314,7 @@ passage_of_time	2
 test_of_time	2
 quality_of_transfer	1
 precedent_over_character	1
-movie_in_spite	1
+time_as_author	1
 downfall_of_civilization	1
 friend_of_mine	1
 food_for_thought	1
@@ -14801,12 +14348,11 @@ obsession_with_time	1
 way_of_life	1
 lot_of_sense	1
 lot_of_respect	1
-<p>_In_closing	1
+movie_in_spite	1
 kind_of_paradise	1
 delight_from_begining	1
 history_after_production	1
 civilization_through_industrialization	1
-time_as_author	1
 cylinder_in_front	1
 end_of_course	1
 subject_of_mine	1
@@ -14814,6 +14360,10 @@ RB_JJR_CC
 much_older_and	1
 VBZ_RB_NN
 's_quite_illogic	1
+IN_NNP_.
+on_Amazon.com_.	1
+of_Debussy_.	1
+in_Edinburgh_.	1
 VBN_TO_DT
 dedicated_to_the	1
 grown_to_a	1
@@ -14882,12 +14432,6 @@ despite_neverending_conflicts	1
 in_special_effects	1
 through_several_devices	1
 for_different_reasons	1
--RRB-_VBZ_DT
--RRB-_activates_the	1
--RRB-_remains_a	1
--RRB-_makes_a	1
-PRP_._-RRB-
-it_?_-RRB-	1
 JJ_VBN_WP
 terrible_given_what	1
 WP_VBZ_DT
@@ -14904,6 +14448,17 @@ UH_,_IN
 Oh_,_in	1
 VBG_WP_PRP
 considering_what_they	1
+IN_DT_NNPS
+whereas_the_Morlocks	1
+of_the_Scots	1
+for_the_Morlocks	1
+of_the_Morlocks	1
+of_the_Elois	1
+of_the_Warlocks	1
+from_the_Morlocks	1
+over_the_Morlocks	1
+that_the_Morlocks	1
+with_the_Morlocks	1
 PRP_,_RB
 it_,_too	1
 itself_,_eventually	1
@@ -14911,12 +14466,6 @@ him_,_then	1
 me_,_especially	1
 PRP$_NN_MD
 my_son_will	1
--LRB-_NNP_-RRB-
--LRB-_Young_-RRB-	1
--LRB-_Kismet_-RRB-	1
--LRB-_Morlock_-RRB-	1
--LRB-_Eloi_-RRB-	1
--LRB-_Vertigo_-RRB-	1
 IN_,_VBZ
 on_,_plays	1
 NNS_TO_VB
@@ -14926,20 +14475,18 @@ desires_to_see	1
 effects_to_create	1
 instructions_to_start	1
 friends_to_have	1
--LRB-_NNP_IN
--LRB-_World_Without	1
 NNP_VBP_DT
 Eloi_suggest_a	1
 Eloi_are_the	1
--LRB-_WRB_DT
--LRB-_Where_the	1
 :_VB_WRB
 ..._remember_when	1
+NNP_PRP_RB
+McDuck_he_also	1
 NNPS_VBP_,
 Boys_Are_,	1
-JJ_RB_IN
-fake_even_if	1
-different_yet_from	1
+IN_JJS_NNS
+for_most_kids	1
+Like_most_people	1
 UH_,_PRP
 Nope_,_it	1
 IN_CD_TO
@@ -14951,18 +14498,20 @@ such_a_contraption	1
 all_the_way	1
 all_the_time	1
 half_the_experience	1
-``_WP_IN
-``_what_if	1
+NNP_NN_NNP
+Crew_B_Time	1
 ,_WP_CD
 ,_what_one	1
-JJR_-LRB-_IN
-better_-LRB-_as	1
+,_VBN_IN
+,_hosted_by	3
 JJR_NNP_NNP
 stouter_Rod_Taylor	1
 newer_Time_Machine	1
 PRP_DT_VBD
 it_all_happened	1
 NNP_NN_NNS
+Back_DVD_FEATURES	1
+Back_C_Awards	1
 Machine_cast_members	1
 RBR_JJ_NN
 more_recent_documentary	1
@@ -15004,19 +14553,10 @@ TO_RB_IN
 to_now_as	1
 JJR_NN_EX
 newer_version_there	1
--LRB-_IN_PRP
--LRB-_as_I	1
--LRB-_so_I	1
-NN_-LRB-_CD
-rim_-LRB-_1	1
-movie_-LRB-_1960	1
 VBN_CD_IN
 been_one_of	2
 IN_NNS_VBP
 of_years_pass	1
-NN_-LRB-_CC
-fan_-LRB-_and	1
-sequel_-LRB-_or	1
 IN_NNS_VBN
 by_people_called	1
 of_monsters_called	1
@@ -15030,16 +14570,12 @@ friend_and_there	1
 IN_NNS_VBD
 in_seconds_was	1
 that_others_had	1
-CD_NNS_VBP
-four_friends_leave	1
-four_friends_are	1
-four_guests_are	1
-four_friends_do	1
 NNP_IN_DT
 Center_of_the	2
 Everest_for_the	1
-Yes_in_the	1
+Eloi_as_the	1
 Morlock_than_an	1
+Yes_in_the	1
 Wells_that_the	1
 Machine_in_the	1
 Irons_as_the	1
@@ -15073,6 +14609,8 @@ that_was_just	1
 which_was_also	1
 CC_RB_RB
 and_maybe_never	1
+VBD_RB_WDT
+outgrew_mostly_that	1
 VB_,_DT
 work_,_no	1
 Remember_,_the	1

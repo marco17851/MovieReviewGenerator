@@ -54,9 +54,6 @@ NNS_PRP$
 problems_their	1
 VBN_VBG
 been_saying	1
-FW_DT
-<br />_This	2
-<br />_The	3
 VBG_VBG
 facing_declining	1
 VBG_NNPS
@@ -146,10 +143,6 @@ Who_is	1
 who_'s	1
 What_'s	1
 what_is	1
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	2
 NNP_CC
 Bush_and	1
 Schecter_and	1
@@ -182,8 +175,6 @@ that_his	1
 NNS_''
 households_''	1
 rewards_''	1
-NN_VB
-<br />_Reward	1
 ``_VBD
 ``_had	1
 JJ_MD
@@ -274,7 +265,6 @@ to_the	3
 to_that	1
 to_those	1
 NN_CD
-<br />_I	1
 card_:-RRB-	1
 number_one	1
 VBD_RP
@@ -297,8 +287,8 @@ mislead_consumers	1
 send_offers	1
 Reward_cards	1
 educate_individuals	1
--LRB-_RB
--LRB-_so	1
+VB_NNP
+hear_Schecter	1
 WRB_.
 why_.	1
 VBG_JJR
@@ -345,8 +335,6 @@ love_it	1
 guess_I	1
 think_it	1
 view_you	1
-''_JJR
-''_more	1
 POS_IN
 's_with	1
 CC_NN
@@ -365,11 +353,6 @@ spend_,	1
 ignore_,	1
 say_,	1
 Spend_,	1
-WDT_VBP
-that_give	1
-that_are	1
-which_have	1
-that_need	1
 JJ_TO
 convenient_to	1
 needless_to	1
@@ -381,14 +364,10 @@ good_to	1
 NNS_JJ
 years_old	1
 troops_instant	1
-FW_NNS
-<br />_Commercials	1
 WP_.
 What_?	1
 RP_CD
 out_one	1
--LRB-_DT
--LRB-_Some	1
 VBP_NNPS
 break_Americans	1
 DT_NNS
@@ -478,6 +457,7 @@ policies_and	1
 offers_or	1
 options_and	1
 consumers_and	1
+children_and	1
 means_and	1
 expenses_and	1
 families_and	1
@@ -502,13 +482,13 @@ agree_that	1
 realize_that	1
 spend_out	1
 NN_CC
-<br />_And	2
+unemployment_and	1
 middle_and	1
 time_and	1
 stupidity_or	1
 wife_and	1
 money_but	1
-unemployment_and	1
+economy_and	1
 credit_and	2
 consumer_and	1
 bankruptcy_and	1
@@ -566,10 +546,8 @@ Rudy_Giuliani	1
 Danny_Schecter	1
 President_Bush	1
 George_W.	1
-<br />_<br />	1
 !!_This	1
 WE_TRUST	3
-<br />_See	1
 :_RB
 --_too	1
 TO_PRP$
@@ -660,12 +638,6 @@ demonstrates_how	1
 's_how	1
 EX_MD
 There_should	1
--LRB-_CD
--LRB-_One	1
--LRB-_CC
--LRB-_and	2
-NNS_-LRB-
-children_-LRB-	1
 RB_WRB
 just_how	1
 especially_how	1
@@ -724,8 +696,6 @@ where_I	1
 When_I	2
 when_they	2
 when_I	1
-CD_-RRB-
-??_-RRB-	1
 :_IN
 -_about	1
 --_for	1
@@ -768,8 +738,8 @@ so_he	1
 while_he	1
 ''_.
 ''_.	4
-PRP_-RRB-
-I_-RRB-	1
+NNS_VB
+solutions_be	1
 ,_FW
 ,_i.e.	1
 PRP_VBD
@@ -791,8 +761,9 @@ I_moved	1
 I_got	2
 PRP_VBG
 it_coming	1
-''_EX
-''_there	1
+DT_VBP
+all_face	1
+Some_are	1
 DT_NN
 an_association	1
 the_crisis	1
@@ -1012,14 +983,10 @@ It_offers	1
 it_pervades	1
 it_does	1
 It_covers	1
-FW_PRP
-<br />_It	1
-<br />_He	1
-<br />_I	3
+IN_$
+for_$	1
 IN_,
 that_,	1
-FW_FW
-<br />_<br />	27
 EX_RB
 There_really	1
 PRP_$
@@ -1029,11 +996,12 @@ her_$	1
 ``_the	1
 ``_The	1
 PRP_.
+I_.	1
 themselves_.	2
+them_.	1
 it_!	1
 us_.	1
 it_.	1
-them_.	1
 PRP_,
 me_,	1
 CC_VBP
@@ -1083,8 +1051,6 @@ late_,	1
 Ironic_,	1
 young_,	1
 last_,	1
-FW_EX
-<br />_There	1
 JJ_.
 desperate_.	1
 wrong_.	1
@@ -1156,13 +1122,12 @@ CD_CD
 2_billion	1
 CD_CC
 26_or	1
+??_and	1
 IN_JJR
 on_more	1
 of_higher	1
 IN_JJS
 at_least	3
-._-RRB-
-!_-RRB-	1
 :_DT
 -_that	1
 ;_the	1
@@ -1610,8 +1575,8 @@ I_certainly	1
 I_also	2
 JJS_PRP
 least_they	1
-JJ_-LRB-
-bankrupt_-LRB-	1
+PRP_RP
+them_off	1
 RB_VBZ
 too_discusses	1
 really_goes	1
@@ -1694,9 +1659,6 @@ still_accusing	1
 RB_VBD
 really_appealed	1
 just_saw	1
-FW_IN
-<br />_In	1
-<br />_Toward	1
 NNS_NN
 busineses_profit	1
 filmmakers_pawn	1
@@ -1792,10 +1754,7 @@ find_these	1
 see_this	2
 buy_a	1
 choose_a	1
-<br />_The	1
 acknowledge_the	1
--LRB-_VBG
--LRB-_including	1
 WRB_DT
 how_this	1
 where_the	1
@@ -2056,8 +2015,6 @@ on_what	1
 on_who	1
 into_what	1
 of_what	2
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 putting_them	1
 ripping_them	1
@@ -2220,6 +2177,7 @@ price_,	1
 scene_,	1
 status_,	1
 credit_,	1
+crisis_,	1
 documentary_,	1
 week_,	1
 film_,	3
@@ -2297,6 +2255,7 @@ responsibility_.	1
 security_?	1
 home_.	1
 fresher_.	1
+institution_.	1
 metaphor_.	1
 movie_.	1
 film_!	1
@@ -2309,9 +2268,11 @@ become_an	1
 spent_the	1
 Given_the	1
 gotten_a	1
-NN_-LRB-
-economy_-LRB-	1
-card_-LRB-	1
+WDT_VBP
+that_give	1
+that_are	1
+which_have	1
+that_need	1
 ,_VB
 ,_see	1
 ,_spend	1
@@ -2343,10 +2304,6 @@ VBG_RP
 taking_out	1
 cutting_up	1
 paying_off	1
-VB_NNP
-hear_Schecter	1
-FW_VB
-<br />_Spend	1
 RB_JJ
 also_unforseen	1
 so_convenient	1
@@ -2406,8 +2363,6 @@ fall_apart	1
 get_back	1
 WRB_NN
 when_credit	1
-NNS_VB
-solutions_be	1
 NNS_WRB
 30s_when	1
 shops_where	1
@@ -2456,9 +2411,6 @@ at_ripping	1
 for_managing	1
 in_helping	1
 by_lumping	1
-NN_-RRB-
-crisis_-RRB-	1
-institution_-RRB-	1
 ,_PRP
 ,_it	1
 ,_I	6
@@ -2490,11 +2442,8 @@ subtle_and	1
 VBN_RBR
 stressed_more	2
 included_more	1
-TO_NN
-to_saving	1
-to_everyone	2
-to_freshman	1
-to_unemployment	1
+''_JJR
+''_more	1
 JJ_CD
 top_10	1
 last_nine	1
@@ -2505,13 +2454,14 @@ MD_PRP$
 Will_our	1
 CD_:
 2006_;	1
-PRP_RP
-them_off	1
 POS_NN
 '_bankruptcy	1
 's_society	1
-FW_CC
-<br />_And	3
+TO_NN
+to_saving	1
+to_everyone	2
+to_freshman	1
+to_unemployment	1
 CD_NNS
 billion_dollars	1
 ten_minutes	1
@@ -2559,9 +2509,8 @@ co_'s	4
 TO_PRP
 to_it	1
 to_me	1
-DT_VBP
-all_face	1
-Some_are	1
+''_EX
+''_there	1
 VBN_RP
 put_off	1
 rounded_off	1
@@ -2608,16 +2557,12 @@ $_CD
 $_750	1
 $_16,000	1
 $_195	1
-FW_VBG
-<br />_Looking	1
 DT_CD
 any_one	1
 the_99	1
 the_26	1
 the_9/11	1
 the_2008	1
-FW_``
-<br />_`	1
 RP_DT
 off_the	2
 off_half	1
@@ -2677,8 +2622,9 @@ purchasing_patterns.All	1
 growing_light	1
 expanding_problem	1
 JJ_VBG
-conservative_bashing	1
 important_maintaining	1
+conservative_bashing	1
+bankrupt_including	1
 PRP_DT
 we_all	3
 them_any	1
@@ -2744,12 +2690,6 @@ charge_interest	1
 spend_money	1
 VBZ_JJR
 's_more	1
-RP_CC
-off_and	1
-NN_WP
-<br />_Who	1
-IN_$
-for_$	1
 NNS_VBP
 institutions_are	1
 creditors_hoodwink	1
@@ -2836,9 +2776,6 @@ roughly_at	1
 now_at	1
 ''_WRB
 '_how	1
-FW_RB
-<br />_Very	1
-<br />_As	1
 ``_PRP
 ``_you	1
 ``_We	1
@@ -3029,6 +2966,7 @@ Trust_'	1
 NN_RB
 debt_together	1
 prison_again	1
+card_so	1
 part_here	1
 help_whatsoever	1
 time_again	1
@@ -3094,10 +3032,8 @@ one_loan	1
 9/11_terror	1
 VBZ_NNP
 is_CONSUMPTION	1
-FW_NNP
-<br />_Overall	3
-<br />_Finance	1
-<br />_Again	1
+RP_CC
+off_and	1
 VBZ_NNS
 includes_stories	1
 destroys_people	1

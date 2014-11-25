@@ -10,18 +10,6 @@ through_time	1
 ,_at	1
 PRP_RB
 he_already	1
--LRB-_CD
--LRB-_1953-61	1
--LRB-_1933-45	1
--LRB-_1969-74	1
--LRB-_1945-53	1
--LRB-_1981-89	1
--LRB-_1993-2001	1
--LRB-_1989-93	1
--LRB-_1974-77	1
--LRB-_1963-69	1
--LRB-_1961-63	1
--LRB-_1977-81	1
 NNP_IN
 Danza_as	1
 Hope_for	1
@@ -41,8 +29,6 @@ without_being	1
 ,_PRP
 ,_she	1
 ,_they	1
-FW_FW
-<br />_<br />	3
 NN_TO
 insight_to	1
 fun_to	1
@@ -52,17 +38,28 @@ you_through	1
 JJ_CC
 Nervous_and	1
 CD_,
-23_,	1
-2003_,	1
+1977-81_,	1
 9_,	1
-27_,	1
+1969-74_,	1
+1989-93_,	1
+2003_,	1
 19_,	1
+1945-53_,	1
+1933-45_,	1
+1963-69_,	1
+1974-77_,	1
+23_,	1
+27_,	1
+1953-61_,	1
+1961-63_,	1
+1981-89_,	1
 CC_CD
 +_59	1
 +_48	1
 CD_.
 102_.	1
 1996_.	1
+1993-2001_.	1
 PRP$_JJ
 his_good-spirited	1
 his_personal	1
@@ -82,6 +79,8 @@ entertained_11	1
 POS_NN
 's_wife	1
 's_DVD	1
+:_NNP
+:_Lucille	1
 TO_NN
 to_one	1
 PRP_VBD
@@ -121,17 +120,24 @@ humor_can	1
 PRP_VBZ
 It_shows	1
 she_is	1
--RRB-_,
--RRB-_,	10
--RRB-_.
--RRB-_.	1
 NNP_CC
 Hope_and	2
 NNP_CD
-March_9	1
 November_23	1
-September_19	1
+Ford_1974-77	1
+Bush_1989-93	1
+Eisenhower_1953-61	1
+Kennedy_1961-63	1
+March_9	1
 July_27	1
+Clinton_1993-2001	1
+Reagan_1981-89	1
+Nixon_1969-74	1
+Johnson_1963-69	1
+Truman_1945-53	1
+Roosevelt_1933-45	1
+Carter_1977-81	1
+September_19	1
 RB_IN
 away_from	1
 back_at	1
@@ -139,8 +145,6 @@ CC_PRP
 and_she	1
 RB_VB
 also_see	1
-:_NN
-:_<br />	1
 PRP_,
 it_,	1
 IN_PRP$
@@ -226,7 +230,6 @@ how_political	1
 ,_1996	2
 NN_NNP
 course_Bob	1
-<br />_Lucille	1
 VBP_PRP
 take_you	1
 DT_MD
@@ -234,22 +237,8 @@ this_would	1
 MD_VB
 can_be	1
 would_be	2
-NNP_-LRB-
-Nixon_-LRB-	1
-Eisenhower_-LRB-	1
-Johnson_-LRB-	1
-Reagan_-LRB-	1
-Truman_-LRB-	1
-Ford_-LRB-	1
-Roosevelt_-LRB-	1
-Kennedy_-LRB-	1
-Carter_-LRB-	1
-Clinton_-LRB-	1
-Bush_-LRB-	1
 NNP_MD
 House_would	1
-FW_PRP$
-<br />_Their	1
 IN_CD
 at_100	1
 of_102	1
@@ -271,9 +260,6 @@ VB_.
 watch_.	1
 VBP_NNS
 are_interviews	1
-FW_NNP
-<br />_Franklin	1
-<br />_Bob	1
 :_CC
 -_and	1
 NN_NN
@@ -327,7 +313,6 @@ business_.	1
 condition_.	1
 guest_.	1
 NN_IN
-<br />_With	1
 outside_of	1
 satire_with	1
 buff_so	1
@@ -355,18 +340,6 @@ VB_JJ
 be_funny	1
 TO_VB
 to_watch	1
-CD_-RRB-
-1974-77_-RRB-	1
-1969-74_-RRB-	1
-1977-81_-RRB-	1
-1989-93_-RRB-	1
-1963-69_-RRB-	1
-1961-63_-RRB-	1
-1933-45_-RRB-	1
-1993-2001_-RRB-	1
-1945-53_-RRB-	1
-1953-61_-RRB-	1
-1981-89_-RRB-	1
 NN_VBD
 DVD_was	2
 NN_VBZ
@@ -391,8 +364,6 @@ VBG_JJ
 being_devisive	1
 IN_:
 of_:	1
-NN_JJ
-<br />_Nervous	1
 VBZ_DT
 is_a	2
 CD_NN
@@ -409,7 +380,6 @@ Jimmy_Carter	1
 John_Davidson	1
 Barbara_Bush	1
 Harry_S.	1
-<br />_Bob	2
 President_Bill	1
 First_Lady	2
 Lady_Barbara	1
@@ -442,7 +412,6 @@ Ronald_Reagan	2
 President_Gerald	1
 Herbert_Walker	1
 M._Nixon	1
-<br />_Johnny	1
 White_House	2
 George_Bush	1
 D._Roosevelt	2
@@ -450,8 +419,6 @@ NNPS_NNP
 States_Bob	1
 RB_JJ
 too_small	1
-VB_PRP
-<br />_You	1
 VBZ_VBN
 has_been	1
 has_entertained	1

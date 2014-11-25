@@ -33,8 +33,6 @@ NN_VBZ_RB
 animation_is_quite	1
 story_is_so	1
 movie_is_just	1
-FW_FW_RB
-<br />_<br />_Not	1
 MD_VB_DT
 would_love_this	1
 PRP_VBD_NNP
@@ -71,12 +69,8 @@ NN_IN_WRB
 NC-17_for_how	1
 RB_RB_JJ
 Not_as_pretentious	1
-FW_RB_RB
-<br />_Not_as	1
 NN_,_IN
 HOwever_,_if	1
-FW_VB_NN
-<br />_Please_note	1
 MD_RB_RB
 might_as_well	1
 RB_NNP_.
@@ -99,8 +93,8 @@ north_america_about	1
 mediocre_ie_if	1
 much_contrast_in	1
 much_commentary_in	1
-FW_FW_DT
-<br />_<br />_This	1
+NNP_NN_:
+RUN_w_/	1
 VBN_TO_NN
 used_to_ghost	1
 VB_VBN_NN
@@ -112,7 +106,6 @@ predictable_&_situations	1
 NN_NN_CC
 color_scheme_&	1
 FW_NN_,
-<br />_HOwever_,	1
 oshi_stuff_,	1
 NNP_CC_NNP
 Aika_or_Najica	1
@@ -148,8 +141,6 @@ this_as_there	1
 IN_NN_NN
 in_color_scheme	1
 that_amazon_review	1
-FW_DT_VBD
-<br />_This_was	1
 DT_NN_NN
 this_box_set	1
 RB_NN_VBZ
@@ -187,9 +178,6 @@ just_a_waste	1
 just_this_box	1
 NN_CC_DT
 money_and_the	1
-IN_NN_.
-as_NOIR_.	1
-at_home_.	1
 VBD_RB_JJ
 were_very_clever	1
 CC_RB_VB
@@ -213,7 +201,6 @@ PRP_VBP_VBG
 I_am_including	1
 FW_FW_NN
 shell/mamoru_oshi_stuff	1
-<br />_<br />_HOwever	1
 NNP_NNP_WDT
 De_Niro_which	1
 JJ_NN_NN
@@ -232,8 +219,9 @@ VB_DT_NN
 love_this_series	1
 IN_IN_EX
 in_that_there	1
-NNP_NN_:
-RUN_w_/	1
+IN_NN_.
+as_NOIR_.	1
+at_home_.	1
 PRP_VBZ_RB
 it_looks_very	1
 DT_NN_IN
@@ -281,8 +269,6 @@ DT_RB_JJ
 a_pretty_good	1
 DT_FW_FW
 the_shell/mamoru_oshi	1
-FW_FW_VB
-<br />_<br />_Please	1
 VBG_NNS_.
 beginning_episodes_.	1
 JJ_NNS_IN

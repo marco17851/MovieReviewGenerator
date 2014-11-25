@@ -1,9 +1,7 @@
-FW_PRP
-<br />_It	1
 IN_NN
 in_action	1
--LRB-_NN
--LRB-_Sting	1
+WDT_VBZ
+that_is	1
 PRP$_NNS
 his_basses	1
 DT_NN
@@ -13,8 +11,6 @@ a_jazz	1
 the_price	1
 NNP_VBZ
 Michael_is	1
-NN_-LRB-
-Police_-LRB-	1
 NNP_,
 Davis_,	1
 Coltrane_,	1
@@ -33,8 +29,6 @@ keep_your	1
 ,_then	1
 NN_VBZ
 action_is	1
-WDT_VBZ
-that_is	1
 DT_MD
 this_should	1
 NN_WDT
@@ -52,8 +46,8 @@ NNP_POS
 Michael_'s	1
 IN_PRP$
 of_his	1
-NN_-RRB-
-Sting_-RRB-	1
+VB_:
+watch_...	1
 NNS_VBP
 musicians_play	1
 ''_NNS
@@ -72,14 +66,13 @@ He_can	1
 ``_solo	1
 ,_DT
 ,_The	1
-FW_FW
-!!!_<br />	1
-<br />_<br />	2
+NNS_NN
+hours_worth	1
+NN_CC
+Sting_and	1
 PRP_IN
 him_at	1
 him_in	1
--RRB-_CC
--RRB-_and	1
 NNS_VBG
 hours_playing	1
 VBZ_DT
@@ -120,12 +113,11 @@ solo_bass	1
 jazz_quartet	1
 bass_playing	1
 quartet_studio	1
+Police_Sting	1
 CC_TO
 and_to	1
 IN_PRP
 If_you	1
-VB_:
-watch_...	1
 RB_VBN
 never_seen	1
 NN_''
@@ -140,15 +132,13 @@ POS_NN
 CC_DT
 and_some	1
 FW_IN
-<br />_In	1
+!!!_In	1
 CD_NNS
 two_hours	1
 DT_JJ
 any_prior	1
 some_other	1
 an_educational	1
-NNS_NN
-hours_worth	1
 JJ_NNS
 other_tunes	1
 NN_RB

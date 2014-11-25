@@ -41,9 +41,6 @@ case_on_many	1
 DVD_as_South	1
 JJ_NNS_PRP
 reggae_underdogs_you	1
-FW_FW_NNP
-<br />_<br />_Sound	1
-<br />_<br />_Picture	1
 FW_FW_NNS
 fav_reggae_artists	1
 VBZ_RB_JJ
@@ -58,8 +55,6 @@ VBN_IN_NN
 captured_on_tape	1
 DT_WP_VBP
 those_who_are	1
-RB_VB_-LRB-
-still_provide_-LRB-	1
 VBG_PRP_IN
 doing_it_on	1
 CC_RB_IN
@@ -68,8 +63,8 @@ NN_PRP_VBZ
 video_itself_is	1
 NN_PRP_VBP
 message_they_convey	1
-NN_RB_VBD
-asleep.I_digitally_captured	1
+:_RB_JJ
+:_so_good	1
 CC_DT_NNS
 and_the_horns	1
 but_the_ones	1
@@ -85,8 +80,6 @@ JJ_,_JJ
 keyboard-laden_,_poppy	1
 soft_,_keyboard-laden	1
 huge_,_crowded	1
--LRB-_IN_DT
--LRB-_at_the	1
 :_VBN_IN
 ..._captured_on	1
 ,_NN_NNP
@@ -107,8 +100,6 @@ or_hate_.	1
 NNS_WDT_VBP
 colleagues_which_are	1
 ones_that_keep	1
-DT_JJR_NN
-a_better_one	1
 VBZ_RB_DT
 is_actually_a	1
 JJ_NN_IN
@@ -138,10 +129,13 @@ the_tape_was	1
 The_concert_was	1
 CC_NN_TO
 or_improv_to	2
+VBN_CC_EX
+intended_and_there	1
 DT_NN_VBZ
 This_DVD_is	1
 The_gig_is	1
 This_DVD_captures	1
+the_crowd_is	1
 the_DVD_is	1
 The_music_is	2
 The_tape_is	1
@@ -151,9 +145,6 @@ The_guitar_is	1
 the_audio_is	1
 the_band_seems	2
 the_drummer_performs	1
-FW_NNP_:
-<br />_Picture_:	1
-<br />_Sound_:	1
 VBD_VBN_IN
 was_recorded_in	1
 VBZ_NN_RB
@@ -210,9 +201,8 @@ Well_yeah_I	1
 RB_DT_NN
 quite_some_time	1
 actually_a_joy	1
-FW_DT_NN
-<br />_The_introduction	1
-<br />_The_performance	1
+VBP_DT_JJ
+get_the_full	1
 IN_IN_DT
 out_of_this	1
 JJ_NN_VB
@@ -221,8 +211,6 @@ VBZ_IN_NNP
 's_from_South	1
 VBD_VBN_TO
 were_told_to	2
-RB_JJ_-RRB-
-almost_DVD-like_-RRB-	1
 RB_DT_VBP
 even_the_drum	1
 NNP_:_NNP
@@ -232,16 +220,12 @@ the_World_,	1
 DT_NN_MD
 an_inch_can	1
 This_DVD_will	1
-FW_FW_PRP
-<br />_<br />_I	1
+IN_IN_PRP
+so_that_I	1
 VB_IN_PRP
 begin_with_he	1
 PRP_VBP_IN
 I_REALLY_LIKE	1
-VB_-LRB-_RB
-provide_-LRB-_almost	1
-FW_FW_DT
-<br />_<br />_The	2
 PRP_NNP_VBG
 him_ALIVE_doing	1
 JJ_NNS_RB
@@ -258,8 +242,6 @@ VBZ_RB_VB
 does_n't_see	1
 VBN_DT_NN
 produced_a_concert	1
-FW_PRP_VBP
-<br />_I_know	1
 DT_NNS_DT
 the_dynamics_a	1
 VBN_IN_DT
@@ -281,20 +263,14 @@ CC_VBZ_RP
 but_crosses_over	1
 JJ_WP_RB
 many_who_actually	1
-VBG_IN_NNS
-playing_with_eyes	1
 IN_PRP$_FW
 of_my_fav	1
 :_DT_JJ
 ;_a_great	1
-NN_-RRB-_VBZ
-crowd_-RRB-_is	1
 DT_RB_RB
 an_so_far	1
 VBP_NN_PRP
 bless_coz_you	1
-PRP_-LRB-_IN
-it_-LRB-_at	1
 TO_NNS_,
 to_reviews_,	1
 ,_VBP_IN
@@ -319,8 +295,6 @@ DT_NN_PRP
 the_video_itself	1
 NN_NN_NN
 music_scene_today	1
-TO_PRP_IN
-to_you_for	1
 VBZ_IN_NN
 recaptures_that_night	1
 does_for_anyone	1
@@ -352,8 +326,8 @@ CC_RB_JJ
 but_not_tinny	1
 RB_VBD_DT
 actually_got_the	1
-:_RB_JJ
-:_so_good	1
+NN_RB_VBD
+asleep.I_digitally_captured	1
 RB_IN_DT
 greatly_in_the	1
 particularly_with_the	2
@@ -387,8 +361,6 @@ To_begin_with	1
 to_die_for	1
 VBZ_VBN_DT
 has_produced_a	1
--LRB-_DT_JJ
--LRB-_no_racial	1
 WDT_VBZ_RB
 that_is_simply	1
 that_is_actually	1
@@ -416,11 +388,14 @@ LOVERS_!!!_Thanx	1
 AND_TURN_IT	1
 DT_NNP_IN
 the_King_of	1
+VB_RB_JJ
+provide_almost_DVD-like	1
 VBZ_RB_RB
 is_not_always	1
 PRP_IN_DT
 it_by_the	2
 you_for_a	1
+it_at_the	1
 RB_NN_NNS
 not_something_people	1
 :_VBZ_CD
@@ -462,11 +437,10 @@ the_numbers_.	2
 RB_JJ_.
 not_tinny_.	1
 very_busy_.	1
-still_great_.	1
-very_good_.	2
 simply_unbelievable_.	1
-RB_VB_-RRB-
-n't_tell_-RRB-	1
+almost_DVD-like_.	1
+very_good_.	2
+still_great_.	1
 ,_IN_FW
 ,_as_i	1
 TO_VB_,
@@ -478,18 +452,14 @@ NN_VB_.
 man_perform_.	1
 DT_JJ_CC
 a_large_and	1
-JJ_-LRB-_CC
-interrupted_-LRB-_but	1
--RRB-_CC_EX
--RRB-_and_there	1
 PRP_VBP_.
 they_convey_.	1
 DT_NNS_NN
 the_vhs_version	1
-VBN_-RRB-_CC
-intended_-RRB-_and	1
 VB_PRP_RB
 send_it_back	1
+RB_JJ_CC
+skillfully_interrupted_but	1
 RB_VBG_IN
 away_playing_with	1
 TO_DT_NN
@@ -531,8 +501,8 @@ the_reggae_audience	1
 The_bass_groove	1
 the_music_scene	1
 a_concert_film	1
--LRB-_CC_RB
--LRB-_but_not	1
+VBG_IN_NNS
+playing_with_eyes	1
 JJ_NNS_CC
 treble_sparkles_and	1
 VBN_JJ_NNS
@@ -555,8 +525,6 @@ his_style_is	1
 VBP_RB_VBN
 'm_totally_biased	1
 are_totally_captivated	1
--RRB-_DT_NN
--RRB-_a_minute	1
 NN_NN_WDT
 concert_film_that	1
 CC_VB_IN
@@ -596,13 +564,12 @@ is_a_must	1
 CD_IN_PRP$
 one_of_my	1
 ONE_OF_HIS	1
-VBG_RB_TO
-Going_Back_to	1
 VBP_DT_RB
 are_both_very	2
 RBR_JJ_NN
 more_radical_root	1
 JJ_NN_NN
+Lucky_Dube_dj&uacute;bei	1
 military_surplus_camo	1
 NN_RB_.
 audience_worldwide_.	1
@@ -617,8 +584,11 @@ a_huge_,	1
 a_strong_,	1
 VB_JJ_JJ
 see_LUCKY_live	1
+DT_JJ_.
+a_grand_.	1
 RB_VB_DT
 n't_believe_the	1
+n't_tell_a	1
 certainly_have_any	1
 NNP_VBZ_PRP
 Perfect_describes_it	1
@@ -628,6 +598,7 @@ VB_DT_NN
 RECOMMEND_THE_DVD	1
 crank_the_sound	1
 review_this_DVD	1
+tell_a_minute	1
 feel_the_instrumentation	1
 NN_DT_MD
 course_a_must	1
@@ -638,17 +609,15 @@ WDT_VBP_PRP
 that_keep_me	1
 VB_DT_JJR
 get_a_better	1
+NN_VBZ_CD
+crowd_is_one	1
 PRP_VBD_VBN
 they_were_told	2
 I_had_been	1
 NNP_VBZ_CD
 Dube_is_one	1
-RB_JJ_-LRB-
-skillfully_interrupted_-LRB-	1
 NN_CC_PRP
 world_and_you	1
-JJ_-LRB-_DT
-unbelievable_-LRB-_no	1
 VBZ_VBN_RP
 has_been_out	1
 IN_NN_IN
@@ -695,9 +664,6 @@ direct_when_he	1
 sad_when_you	1
 RB_RB_VBG
 purposely_not_overpowering	1
-JJ_-RRB-_.
-DVD-like_-RRB-_.	1
-grand_-RRB-_.	1
 RB_RB_VBN
 not_always_heard	1
 JJ_NN_WP
@@ -762,8 +728,8 @@ VBN_,_RB
 edited_,_even	1
 PDT_DT_NNS
 all_the_tracks	1
-DT_JJ_-RRB-
-a_grand_-RRB-	1
+DT_JJR_NN
+a_better_one	1
 IN_RB_DT
 for_quite_some	1
 WP$_VBN_NNS
@@ -779,6 +745,7 @@ of_writing_this	1
 JJ_CC_RB
 loud_but_not	1
 potent_but_purposely	1
+interrupted_but_not	1
 PRP_VBG_DT
 me_watching_the	1
 :_VB_NN
@@ -807,8 +774,8 @@ you_are_not	1
 ,_contrasting_statement	1
 NN_WDT_VBZ
 film_that_is	1
-NN_CC_RB
-tape_and_even	1
+TO_PRP_IN
+to_you_for	1
 NN_NN_,
 reggae_audience_,	1
 NN_NN_.
@@ -896,8 +863,8 @@ whole_band_is	1
 last_song_is	1
 JJ_JJ_CC
 LUCKY_live_and	1
-VBZ_JJ_-LRB-
-'s_unbelievable_-LRB-	1
+NN_CC_RB
+tape_and_even	1
 RB_VB_TO
 n't_want_to	2
 NNS_RB_.
@@ -953,6 +920,8 @@ VBZ_RB_TO
 is_simply_to	1
 NN_PRP_MD
 coz_you_can	1
+JJ_DT_JJ
+unbelievable_no_racial	1
 JJS_IN_PRP$
 most_of_their	1
 VBN_VBN_RB
@@ -1002,8 +971,6 @@ a_great_atmos	1
 the_early_1990s	1
 the_stellar_performers	1
 those_reggae_underdogs	1
--LRB-_RB_JJ
--LRB-_almost_DVD-like	1
 JJ_DT_VBG
 brilliant_an_quoting	1
 NNS_DT_CD
@@ -1104,8 +1071,6 @@ PRP_VBP_DT
 you_get_the	1
 :_RB_IN
 -_almost_like	2
-DT_NN_-RRB-
-the_crowd_-RRB-	1
 JJ_,_IN
 pristine_,_with	1
 NN_TO_VB
@@ -1180,8 +1145,6 @@ one_of_many	1
 NNS_,_DT
 artists_,_an	1
 reviews_,_the	1
-NN_-LRB-_NN
-Dube_-LRB-_dj&uacute;bei	1
 VBZ_VBN_TO
 's_introduced_to	1
 CC_VBP_RB
@@ -1190,8 +1153,6 @@ JJ_NN_CC
 sound_quality_and	1
 little_spice_or	2
 crowded_venue_and	1
--RRB-_VBZ_CD
--RRB-_is_one	1
 IN_JJ_NN
 on_many_concert	1
 because_Lucky_Dube	1
@@ -1199,8 +1160,8 @@ in_military_surplus	1
 JJ_NN_NNS
 radical_root_styles	1
 many_concert_tapes	1
-JJ_NN_-LRB-
-Lucky_Dube_-LRB-	1
+IN_PRP_IN
+for_it_at	1
 JJ_NN_NNP
 African_artist_Lucky	1
 IN_NNP_VBZ
@@ -1223,8 +1184,6 @@ people_are_totally	1
 images_are_not	1
 CD_NNP_NNP
 ONE_AND_TURN	1
--LRB-_NN_IN
--LRB-_dj&uacute;bei_as	1
 DT_,_CC
 That_,_or	2
 ,_IN_JJ
@@ -1282,8 +1241,6 @@ Dube_collector_,	1
 VHS_artifacting_,	1
 VBZ_DT_JJ
 is_a_vast	1
-VBP_DT_JJ
-get_the_full	1
 NN_VBZ_JJ
 groove_is_potent	1
 music_is_good	2
@@ -1346,8 +1303,6 @@ large_and_varied	1
 live_and_direct	1
 ,_CC_DT
 ,_but_the	3
-NN_VBN_-RRB-
-pun_intended_-RRB-	1
 TO_NNP_NNP
 to_Lucky_Dube	1
 VBN_TO_VB
@@ -1386,6 +1341,7 @@ Lucky_'s_small	1
 ,_RB_JJ
 ,_especially_true	1
 NN_NN_IN
+Dube_dj&uacute;bei_as	1
 scene_today_as	1
 ,_NNP_NNP
 ,_Lucky_Dube	1
@@ -1439,6 +1395,7 @@ for_true_Reggae	1
 IN_JJ_NNS
 with_amazing_results	1
 VBZ_JJ_DT
+'s_unbelievable_no	1
 is_brilliant_an	1
 NNS_IN_DT
 1990s_so_the	1
@@ -1459,11 +1416,13 @@ camera_and_do	2
 VBZ_IN_DT
 screams_during_the	1
 is_of_the	1
-IN_IN_PRP
-so_that_I	1
+VBG_RB_TO
+Going_Back_to	1
 NN_NNS_.
 root_styles_.	1
 concert_tapes_.	1
+NN_VBN_CC
+pun_intended_and	1
 IN_PRP_VBD
 that_I_expected	1
 IN_PRP_VBZ
@@ -1505,14 +1464,12 @@ RBR_JJ_NNS
 more_consecrated_colleagues	1
 DT_JJ_TO
 the_first_to	1
-IN_PRP_-LRB-
-for_it_-LRB-	1
 PRP_VBD_CC
 I_expected_and	1
-VB_-RRB-_DT
-tell_-RRB-_a	1
 NNS_VBD_PRP
 concerts_made_me	1
+RB_VB_RB
+still_provide_almost	1
 IN_NNS_VBN
 with_eyes_closed	1
 VB_PRP_IN

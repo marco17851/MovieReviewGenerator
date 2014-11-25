@@ -22,26 +22,11 @@ you_much	1
 you_accidentally	1
 NNS_WP
 people_who	2
-FW_JJ
-<br />_Twisted	1
 NN_WRB
 countryside_where	1
 fortune_when	1
--LRB-_CD
--LRB-_1989	1
--LRB-_1934	1
--LRB-_1960	2
--LRB-_1970	1
--LRB-_1958	1
--LRB-_1959	1
--LRB-_1974	1
--LRB-_1961	1
--LRB-_1973	1
--LRB-_1963	2
--LRB-_``
--LRB-_``	1
-FW_DT
-<br />_The	3
+``_JJ
+``_charming	1
 NNP_IN
 Earth_vs.	1
 Empire_of	1
@@ -70,8 +55,10 @@ from_losing	1
 against_dying	1
 after_serving	1
 In_opening	1
-NN_-RRB-
-b/w_-RRB-	2
+RB_.
+not_.	1
+before_.	1
+yes_?	1
 PRP_''
 me_''	1
 ,_PRP
@@ -108,12 +95,8 @@ told_,	1
 gone_,	1
 JJ_CC
 blind_and	1
-,_JJ
-,_plain	1
 IN_VBZ
 as_is	1
-``_JJ
-``_charming	1
 WRB_PRP
 where_she	1
 CD_,
@@ -121,19 +104,12 @@ CD_,
 13_,	1
 CC_CD
 but_one	1
-CD_-RRB-
-1960_-RRB-	2
-1989_-RRB-	1
-1963_-RRB-	2
-1970_-RRB-	1
-1959_-RRB-	1
-1934_-RRB-	1
-1974_-RRB-	1
-1973_-RRB-	1
+CD_.
+one_.	1
+1960_.	1
 :_IN
 --_In	1
 NN_JJ
-<br />_Tormented	1
 studio_insured	1
 PRP$_JJ
 his_spare	1
@@ -152,10 +128,14 @@ because_he	1
 VBN_CC
 convicted_and	1
 dated_and	1
-JJ_-LRB-
-Tormented_-LRB-	1
-CD_FW
-1/2_<br />	2
+CD_:
+1960_--	1
+1970_--	1
+1973_--	1
+1963_--	2
+1989_--	1
+1934_--	1
+1974_--	1
 POS_NN
 's_death	1
 's_eye	1
@@ -250,6 +230,8 @@ you_do	1
 They_take	1
 I_think	1
 they_'re	2
+RB_DT
+then_the	1
 DT_VBN
 all_gone	1
 PRP_JJ
@@ -274,11 +256,6 @@ in_high	1
 for_small	1
 on_small	1
 as_anti-social	1
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	2
--RRB-_?	1
 NNP_CC
 Laverne_&	1
 Corman_and	1
@@ -287,7 +264,11 @@ Tormented_and	1
 Sadist_and	1
 England_and	1
 NNP_CD
+Kind_1973	1
 Dementia_13	1
+Allan_1970	1
+Psycho_1960	1
+Psycho_1961	1
 RB_IN
 then_in	1
 back_into	1
@@ -297,14 +278,13 @@ VBG_IN
 dying_of	1
 carrying_on	1
 running_through	1
-VBP_PRP
-think_they	1
+VBZ_NN
+shows_coffin	1
+plays_screenwriter	1
 DT_CD
 This_one	1
 this_one	1
 A_50	1
--RRB-_:
--RRB-_--	10
 CC_PRP
 but_it	2
 but_I	1
@@ -343,6 +323,9 @@ Coppola_,	1
 Paris_,	1
 Gordon_,	1
 Overall_,	1
+CD_JJ
+1/2_Tormented	1
+1/2_Twisted	1
 NNP_.
 Spider_.	1
 Sandy_.	1
@@ -362,15 +345,11 @@ murders_his	1
 WDT_PRP
 which_I	1
 FW_FW
-***_<br />	3
-<br />_<br />	9
 Sucks_hind	1
 FW_NN
 hind_teat	1
-<br />_Craze	1
-<br />_Maniac	1
-<br />_Anatomy	1
-<br />_Dementia	1
+***_Maniac	1
+***_Craze	1
 PRP$_NN
 her_husband	2
 his_brother	1
@@ -395,7 +374,7 @@ serving_time	1
 opening_scene	1
 Screaming_Skull	1
 FW_NNP
-<br />_Overall	1
+***_Overall	1
 JJ_PRP
 glad_I	1
 unfortunate_you	1
@@ -430,8 +409,6 @@ RB_,
 Then_,	1
 throughout_,	1
 well_,	1
-''_-RRB-
-''_-RRB-	1
 VBN_IN
 Produced_by	1
 supported_by	1
@@ -459,6 +436,8 @@ VBD_JJ
 was_taboo	1
 directed_dopey	1
 were_ugly	1
+JJ_CD
+Tormented_1960	1
 MD_PRP
 could_it	1
 VBZ_PRP$
@@ -498,15 +477,13 @@ How_unfortunate	1
 VB_NN
 whack_job	1
 satisfy_exploitation	1
--RRB-_CC
--RRB-_and	1
+VB_NNP
+see_Tormented	1
 NN_NNS
 exploitation_diehards	1
 monster_movies	1
 NNS_NNP
 movies_Empire	1
-RB_-RRB-
-yes_-RRB-	1
 NN_NNP
 girlfriend_Carol	1
 jane_fianc&eacute;	1
@@ -515,6 +492,7 @@ NN_WP
 daughter-in-law_who	1
 CD_CD
 ***_1/2	1
+13_1963	1
 DT_RB
 a_little	1
 a_very	1
@@ -522,6 +500,8 @@ DT_NNPS
 the_Ants	1
 PRP$_NNS
 their_mid-thirties	1
+CD_CC
+1959_and	1
 CC_NN
 but_coherence	1
 VBG_NNP
@@ -536,8 +516,8 @@ in_exquisitely	1
 of_before	1
 CC_IN
 and_in	1
-WDT_VBZ
-which_is	1
+VBN_DT
+been_a	1
 :_DT
 --_An	1
 --_A	1
@@ -557,8 +537,6 @@ will_remind	1
 will_bring	1
 VBZ_,
 ensues_,	1
-PRP_-LRB-
-her_-LRB-	1
 VB_VBG
 be_carrying	1
 be_slipping	1
@@ -567,13 +545,13 @@ her_to	1
 VB_VBN
 have_been	1
 be_told	1
+WP_RB
+who_also	1
 IN_CD
 of_one	1
 about_20	1
 at_74	1
 in_1934	1
-CD_-LRB-
-13_-LRB-	1
 PRP_MD
 he_may	1
 she_might	1
@@ -581,57 +559,52 @@ it_should	1
 she_ca	1
 You_'ll	1
 it_will	2
-NNP_-LRB-
-Kind_-LRB-	1
-Allan_-LRB-	1
-Psycho_-LRB-	2
-NNP_VBZ
-Tom_neglects	1
-Palance_runs	1
-Jr._overacts	1
-Jr._is	1
-Perkins_is	1
-Vi_loses	1
-Goldblum_plays	1
+NN_CC
+classic_and	1
+coffin_and	1
+castle_and	1
+relationship_and	1
+footing_and	1
+patient_and	1
+Vi_and	1
 CD_VBZ
 one_is	1
-NNS_VBD
-women_were	1
-teenagers_were	1
-NNS_VBG
-Actors_playing	1
+VB_,
+know_,	1
+SYM_DT
+**_The	2
+*_The	1
 NN_VB
 Truth_be	1
 VBP_VBG
 are_leering	1
-POS_JJ
-'s_attractive	1
 PRP_NNS
 He_frames	1
 JJ_JJR
 attractive_younger	1
-VBZ_NN
-shows_coffin	1
-plays_screenwriter	1
+NNS_VBD
+women_were	1
+teenagers_were	1
 VBP_NNS
 're_students	1
+NNS_VBG
+Actors_playing	1
 EX_VBP
 there_are	1
 VBP_DT
 're_all	1
 RP_CC
 out_and	1
-VBN_DT
-been_a	1
 NN_NN
 JD_film	1
+husband_hint	1
 TV_movie	1
 lab_assistant	1
 gas_station	1
 family_reunion	1
 family_tragedy	1
 dynamite_body	1
-<br />_<br />	1
+death_Vi	1
 budget_thriller	1
 Opening_scene	1
 ax_murderer	1
@@ -640,7 +613,6 @@ cult_classic	1
 film_studio	1
 hospital_patient	1
 domain_stuff	1
-death_Vi	1
 sexpot_mistress	1
 ,_WDT
 ,_which	3
@@ -673,8 +645,8 @@ The_Killing	1
 the_Spider	1
 The_Sadist	1
 the_Hayes	1
-VB_-RRB-
-know_-RRB-	1
+,_JJ
+,_plain	1
 WP_PRP
 whom_he	1
 DT_JJ
@@ -706,6 +678,7 @@ anti-social_psychotic	1
 nice_noir	1
 NN_:
 hint_:	1
+b/w_--	2
 NNS_CC
 sounds_and	1
 VBD_PRP
@@ -791,8 +764,8 @@ POS_:
 's_-	1
 NNP_VBP
 Code_do	1
--LRB-_NN
--LRB-_hint	1
+WDT_VBZ
+which_is	1
 CC_DT
 and_the	1
 but_a	1
@@ -806,22 +779,14 @@ patrons_against	1
 movies_than	1
 NNS_PRP
 suspicions_she	1
-NN_CC
-classic_and	1
-coffin_and	1
-castle_and	1
-relationship_and	1
-footing_and	1
-patient_and	1
-Vi_and	1
-NN_-LRB-
-Murder_-LRB-	1
-Maniac_-LRB-	1
-Sadist_-LRB-	1
-husband_-LRB-	1
-Obsession_-LRB-	1
-Skull_-LRB-	1
-Craze_-LRB-	1
+NNP_VBZ
+Tom_neglects	1
+Palance_runs	1
+Jr._overacts	1
+Jr._is	1
+Perkins_is	1
+Vi_loses	1
+Goldblum_plays	1
 VB_JJ
 get_cheap	1
 TO_VB
@@ -837,10 +802,14 @@ fright_watching	1
 character_plucking	1
 vibe_running	1
 movie_starring	1
-CD_.
-one_.	1
 NN_CD
+Sadist_1963	1
+Murder_1959	1
+Obsession_1989	1
+Maniac_1934	1
+Skull_1958	1
 Dementia_13	1
+Craze_1974	1
 VBD_,
 did_,	1
 NN_VBZ
@@ -872,6 +841,8 @@ Coppola_did	1
 VBD_IN
 testified_against	1
 were_in	1
+SYM_NN
+**_Dementia	1
 WDT_VBD
 which_was	1
 NNP_POS
@@ -879,6 +850,8 @@ Corman_'s	1
 Tom_'s	1
 IN_WP
 with_whom	1
+PRP_``
+her_``	1
 JJ_IN
 Awful_About	1
 long_at	1
@@ -917,12 +890,9 @@ CD_NN
 1958_b/w	1
 1961_b/w	1
 one_scene	1
-1/2_<br />	1
+1/2_Anatomy	1
 JJ_VB
 obvious_whack	1
-SYM_FW
-**_<br />	3
-*_<br />	1
 VBZ_NNP
 haunts_Tom	1
 NNP_NNS
@@ -996,15 +966,12 @@ Or_her	1
 and_his	1
 WRB_NN
 when_Palance	1
+VBP_PRP
+think_they	1
 RB_VBN
 pretty_dated	1
 justly_convicted	1
 even_heard	1
-RB_-LRB-
-then_-LRB-	1
-RB_.
-not_.	1
-before_.	1
 VBG_DT
 watching_the	1
 RB_PRP
@@ -1020,8 +987,8 @@ leaves_him	1
 has_her	1
 takes_her	1
 abandons_her	1
-WP_RB
-who_also	1
+''_.
+''_.	1
 VBN_TO
 released_to	1
 CC_MD
@@ -1041,12 +1008,10 @@ CC_NNS
 but_women	1
 JJ_WP
 psychotic_who	1
--LRB-_DT
--LRB-_the	1
+POS_JJ
+'s_attractive	1
 VB_RP
 cover_up	1
-VB_NNP
-see_Tormented	1
 VBZ_TO
 threatens_to	1
 neglects_to	1

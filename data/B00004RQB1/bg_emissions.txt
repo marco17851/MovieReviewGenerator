@@ -1,32 +1,3 @@
-NN_-LRB-
-house_-LRB-	2
-novel_-LRB-	1
-scene_-LRB-	1
-life_-LRB-	1
-audience_-LRB-	1
-Actress_-LRB-	1
-group_-LRB-	2
-script_-LRB-	1
-direction_-LRB-	1
-decision_-LRB-	1
-film_-LRB-	3
-Lordship_-LRB-	1
-dupe_-LRB-	1
-master_-LRB-	1
-bunk_-LRB-	1
-butler_-LRB-	1
-pride_-LRB-	1
-cinematography_-LRB-	1
-milieu_-LRB-	1
-acting_-LRB-	1
-pre-WWII_-LRB-	1
-period_-LRB-	1
-outset_-LRB-	1
-housekeeper_-LRB-	1
-music_-LRB-	1
-manor_-LRB-	1
-nephew_-LRB-	1
-<p>_-LRB-	1
 IN_NN
 of_course	1
 of_overreaching	1
@@ -204,13 +175,10 @@ being_involved	1
 having_read	1
 VBP_JJR
 seem_more	1
--LRB-_``
--LRB-_``	4
+VBN_VBG
+been_watching	1
 FW_DT
-<br />_These	1
-<br />_This	5
-<p>_An	1
-<br />_The	9
+Gofran_An	1
 PRP_RBR
 it_more	1
 VBG_VBZ
@@ -316,6 +284,8 @@ and_convincing	1
 and_distant	1
 VBN_VBZ
 dove_becomes	1
+VBG_VBP
+including_find	2
 RB_TO
 back_to	2
 only_to	1
@@ -479,9 +449,8 @@ much_appreciated	1
 thick_headed	1
 special_understated	1
 single_minded	1
+American_played	1
 simple_minded	1
-VBN_VBG
-been_watching	1
 WDT_MD
 that_can	3
 which_could	2
@@ -491,8 +460,6 @@ that_must	1
 that_will	2
 that_may	1
 which_would	1
-,_-RRB-
-,_-RRB-	1
 CC_TO
 And_to	1
 and_to	8
@@ -522,10 +489,6 @@ VBZ_CD
 leaves_one	1
 is_one	15
 dismisses_two	1
-IN_VBD
-of_nailed	1
-as_was	1
-as_did	1
 VBZ_CC
 fires_and	1
 observes_and	1
@@ -635,24 +598,17 @@ who_works	1
 What_makes	1
 what_separates	2
 who_calls	1
-who_has	3
+who_has	4
 who_threatens	1
 who_plays	1
 who_sacrifices	1
 what_amounts	1
 what_is	6
 who_places	1
--RRB-_MD
--RRB-_would	1
--RRB-_,
--RRB-_,	18
--RRB-_.
--RRB-_.	23
--RRB-_!	1
--RCB-_.	1
 NNP_CC
 Stevens_and	9
 BBC_and	1
+Winger_and	1
 Benn_and	1
 Stevens_or	1
 Crew_and	1
@@ -664,13 +620,15 @@ Hopkins_and	27
 Goodfellas_and	1
 Hopkins_&	1
 Hopkins_or	1
-Winger_and	1
+Hitler_and	1
 Pinter_and	1
 Ivory_and	4
+Ishiguro_and	1
 Europe_and	1
 Darlington_and	4
+Fox_and	1
 Kenton_nor	1
-Hitler_and	1
+Pierce-Roberts_and	1
 Germany_and	1
 Germany_but	1
 End_and	1
@@ -680,9 +638,10 @@ Merchant_and	5
 Thompson_or	1
 Anna_and	2
 Beavan_and	1
-Ishiguro_and	1
+Robbins_and	1
 Chaplin_and	1
 Reeve_and	2
+King_and	1
 Oxfordshire_and	1
 NNP_CD
 War_2	1
@@ -707,12 +666,6 @@ JJR_NNS
 more_ways	1
 more_details	1
 lower_classes	1
-VB_-LRB-
-know_-LRB-	1
-understand_-LRB-	1
--RRB-_:
--RSB-_...	1
--RRB-_;	2
 RBS_JJ
 most_probable	1
 most_talented	1
@@ -724,67 +677,12 @@ most_intense	1
 most_genteel	1
 most_bittersweet	1
 most_memorable	1
-''_-LRB-
-''_-LRB-	4
-'_-LRB-	1
 JJS_CD
 least_10	1
-IN_PRP$
-of_your	1
-since_their	1
-down_your	1
-on_her	2
-since_my	1
-of_his	20
-as_Our	1
-on_his	4
-before_its	1
-of_their	5
-in_my	5
-with_her	4
-than_their	1
-at_their	1
-over_his	2
-at_his	2
-Despite_his	1
-On_my	1
-about_your	1
-under_his	1
-of_her	2
-at_its	2
-in_its	2
-from_his	4
-throughout_his	3
-about_his	5
-around_his	1
-of_our	1
-that_his	3
-upto_my	1
-in_her	2
-before_his	2
-with_their	3
-by_his	2
-on_its	3
-like_his	1
-for_their	4
-through_his	1
-on_my	1
-on_their	3
-of_my	4
-in_their	9
-until_his	1
-during_their	1
-in_his	10
-as_his	1
-for_its	1
-behind_his	1
-for_her	3
-though_his	1
-as_their	1
-with_his	5
-in_your	2
-for_his	9
-about_our	1
+``_VBN
+``_suppressed	1
+``_sacked	1
+``_Gone	1
 NNS_''
 ends_''	1
 documentaries_''	1
@@ -996,6 +894,7 @@ feel_that	1
 move_on	1
 learn_about	1
 take_like	1
+hide_from	1
 add_that	1
 complain_about	1
 let_on	1
@@ -1020,7 +919,7 @@ see_that	1
 wait_until	1
 engage_at	1
 think_about	1
-hide_from	1
+know_as	1
 comment_on	1
 change_with	1
 believe_that	2
@@ -1096,24 +995,26 @@ played_well	1
 NN_DT
 intensity_a	1
 integrity_this	1
-way_a	1
-DVD_the	1
-firing_those	1
 point_the	1
-film_all	1
-treat_a	2
-film_some	1
+film_the	1
 money_this	1
 thing_a	1
+DVD_the	1
+treat_a	2
+film_some	1
+insult_the	1
 shame_the	1
-<a href="http://www.amazon.com/gp/product/0679731725">_The	1
 room_a	1
 place_some	1
 way_this	1
-film_the	1
-insult_the	1
-mold_the	1
 screen_the	1
+milieu_the	1
+mold_the	1
+way_a	1
+film_all	1
+firing_those	1
+<a href="http://www.amazon.com/gp/product/0679731725">_The	1
+decision_the	1
 way_the	2
 VBN_JJR
 seen_more	2
@@ -1199,8 +1100,6 @@ PRP_JJR
 them_happier	1
 PRP_JJS
 me_most	1
-DT_-LRB-
-this_-LRB-	1
 JJ_PRP$
 misguided_his	1
 VB_NNS
@@ -1237,8 +1136,9 @@ WRB_.
 why_.	2
 Why_?	1
 NNS_NNS
-scenes_featurettes	1
+lifestyles_butlers	1
 masters_friends	1
+scenes_featurettes	1
 scenes_details	1
 JJS_JJ
 best_Merchant-Ivory	1
@@ -1549,7 +1449,7 @@ One_finds	1
 two_is	1
 One_gets	1
 One_is	1
-1993_is	1
+1993_is	2
 VB_,
 stop_,	1
 watch_,	1
@@ -1644,12 +1544,12 @@ themes_congruent	1
 ages_several	1
 ones_own	1
 FW_NNS
-<br />_Guests	1
 Merchant/Ivory_films	1
-<br />_Remains	1
 RP_CC
 out_and	2
 up_or	1
+RP_CD
+out_1993	1
 VB_FW
 digest_in	2
 WDT_DT
@@ -2042,6 +1942,7 @@ NNP_VB
 Thompson_give	2
 Thompson_play	1
 Kenton_meet	1
+Fox_use	1
 VBD_DT
 was_all	1
 added_a	1
@@ -2106,8 +2007,8 @@ treason_and	1
 twists_and	1
 years_and	1
 struggles_and	1
-emotions_and	3
-people_and	1
+emotions_and	4
+people_and	2
 opportunities_and	1
 readers_and	2
 performances_and	2
@@ -2156,10 +2057,6 @@ missed_it	1
 proved_me	1
 ''_RBR
 ''_more	1
-FW_VB
-<br />_Check	1
-<br />_Get	1
-<br />_Consider	1
 VBP_IN
 read_that	1
 remain_as	1
@@ -2186,12 +2083,9 @@ see_in	1
 work_with	1
 RBS_VBG
 most_involving	1
-CC_CD
-and_one	3
-but_one	1
-but_two	2
 NN_CC
 pause_or	1
+sense_but	1
 Abigail_but	1
 day_and	1
 %_and	1
@@ -2229,7 +2123,7 @@ lonlieness_and	1
 pace_and	1
 richnesss_and	1
 extreme_or	1
-<p>_But	1
+time_and	3
 identity_and	1
 background_or	1
 movie_and	3
@@ -2243,7 +2137,7 @@ despair_and	1
 duo_and	1
 nothing_but	1
 house_and	1
-manor_and	1
+manor_and	2
 DVD_and	1
 control_but	1
 modernism_and	1
@@ -2264,7 +2158,7 @@ action_and	3
 mannerism_and	1
 class_and	1
 study_and	1
-director_and	2
+film_but	1
 stranger_and	1
 interior_and	1
 perfection_and	1
@@ -2272,7 +2166,7 @@ bit_but	1
 line_and	1
 game_and	1
 scene_but	1
-period_and	1
+period_and	2
 father_and	1
 adultery_or	1
 ignorance_and	1
@@ -2281,12 +2175,12 @@ coldness_and	1
 Sense_and	2
 aristocracy_and	1
 samurai_or	1
-time_and	3
 heart_and	1
 lead_and	1
 condition_and	1
 clarification_and	1
 order_and	2
+kiss_and	1
 front_and	1
 commentary_and	1
 greenery_and	1
@@ -2307,6 +2201,7 @@ nature_but	1
 viewpoint_and	1
 fondness_and	1
 colonialism_and	1
+director_and	2
 scenery_and	1
 END_and	2
 perfectionism_and	1
@@ -2344,13 +2239,10 @@ to_one	1
 NN_CD
 circa_1958	1
 doubt_five	1
-<br />_One	3
-<p>_2	1
-<p>_3	1
+pre-WWII_1930	1
 top_ten	1
-<p>_1	1
-Lambs_three	1
 Day_.1989	1
+Lambs_three	1
 POS_POS
 's_'	1
 DT_JJS
@@ -2378,11 +2270,6 @@ a_better	1
 an_earlier	1
 DT_WP
 those_who	13
--RRB-_WP
--RRB-_who	2
-VBG_-RRB-
-including_-RRB-	2
-viewing_-RRB-	2
 NN_JJ
 anyone_interested	1
 life_unlived	1
@@ -2392,15 +2279,18 @@ anything_else	1
 woman_eager	1
 anyone_else	1
 film_numerous	1
+script_compelling	1
 everything_minimal	1
+direction_suspenseful	1
 life_sad	1
-<br />_Many	1
+film_due	1
 film_slow	3
 something_special	1
 someone_such	1
 movie_possible	1
 support_impossible	1
 system_perfect	1
+cinematography_gloomy	1
 homo_sapiens	1
 loneliness_due	1
 fantasy_based	1
@@ -2410,7 +2300,6 @@ class_British	1
 circumspection_comparable	1
 pitch_perfect	1
 actress_alive	1
-film_due	1
 drama_worth	1
 something_stuffy	1
 bit_confusing	1
@@ -2442,8 +2331,10 @@ Again_Amazon	1
 AND_THEY	1
 Guy_Ritchie	1
 Sir_Tony	1
-<br />_<br />	1
+Butler_Anthony	1
+Kenton_Emma	3
 Mr_Stevens	5
+THEY_DO	1
 Darlington_Manor	4
 Emma_Thompson	54
 Winston_Churchill	2
@@ -2457,29 +2348,24 @@ Luciana_Arrighi	1
 Neville_Chamberlin	1
 Mike_Nichols	1
 Mr_Hopkins	1
-<p>_Darlington	2
 James_Fox	15
-<p>_Anthony	3
 Anthony_Hopkin	2
 Slowly_Stevens	1
 pre-WWII_England	1
 War_I	1
 Mr._Stevens	19
-<p>_Ivory	1
-<p>_Watch	1
 Lord_Halifax	3
 Mr._Steven	3
-<br />_Thompson	1
 Abigail_Hopkins	1
-<p>_Hopkins	2
+Russell_Crowe	1
 Sir_Anthony	3
 Peter_Vaughn	1
+Kenton_Thompson	2
 Anthony_Hopkins/Emma	2
 Mrs._Benn	1
-THEY_DO	1
+Pearl_Earring	1
 Jim_Stevens	1
 Anthnoy_Hopkins	1
-<br />_Draped	1
 Jennifer_Bussey	1
 Kazuo_Ishiguro	14
 Dyrham_Park	1
@@ -2487,54 +2373,45 @@ John_Calley	1
 Info_Trac	1
 Ian_Whittaker	1
 Mr._Belvedere	1
-Doctor_Zhivago	1
 King_George	1
 Edward_Fox	1
-<br />_Never	1
 Saving_Private	1
-Master_Stevens	3
+Stevens_Anthony	2
 Jenny_Beavan	1
 Hannibal_Lector	1
-<br />_Hopkins	1
 Prawer_Jhabvala	3
 Japanese_Salaryman	1
 Eden-Webster_Library	1
 Sally_Kenton	2
 Richard_Robbins	5
-<p>_Christopher	1
 Picture_Oscars	1
-<p>_Kazuo	1
 EVEN_TOUCH	1
 Tom_Hanks	2
 Glass_Cocoon	1
 :-RRB-_Have	1
 Ms_Thompson	1
-Pearl_Earring	1
+Stevens_Hopkins	4
 Day_</a>	1
 TOUCH_EACH	1
 Bert_Cardullo	1
-<p>_Jim	1
+Doctor_Zhivago	1
 Darlington_Hall	10
-<p>_Location	1
+Stevens_Anthnoy	1
 Dolby_Digital	1
-<br />_Hopefully	1
 Merchant_Ivory	7
 Original_Sin	1
 Christopher_Reeves	3
-<p>_Cardullo	1
 War_I.	1
-<p>_Read	1
+Whittaker_Anna	1
 Downton_Abbey	1
 Notice_Mr.	2
 Hannibal_Lecter	3
 Pictures_Ltd.	1
-<br />_This	2
 Serena_F.	1
 Anthony_Hopkins	53
 'N_Rolla	1
 War_II	5
 Ben_Chaplin	2
-<p>_Most	1
 Ms._Thompson	2
 Mein_Kampf	1
 John_Bright	1
@@ -2542,12 +2419,7 @@ Ms._Kenton	4
 Howards_End	10
 The_Leopard	1
 Great_Britain	1
-<p>_Ishiguro	1
 Mr._Benn	2
-<p>_Lord	1
-<p>_This	1
-<p>_Kenton	1
-<br />_First	1
 Tony_Pierce-Roberts	1
 World_War	13
 Adolf_Hitler	1
@@ -2567,12 +2439,12 @@ Debra_Winger	1
 Rock_'N	1
 First_World	1
 Prince_Salina	1
+Darlington_James	5
 Congressman_Lewis	2
 Romper_Stomper	1
 Gosford_Park	2
 F._Holder	1
 !!_Merchant	1
-Russell_Crowe	1
 Christopher_Jarmick	1
 Samurai_Rebellion	1
 Mr._Hopkins	2
@@ -2581,6 +2453,7 @@ Colombia_Pictures	1
 Ismail_Merchant	2
 Rated_PG	1
 Chistopher_Reeve	1
+Master_Stevens	3
 James_Ivory	8
 Gaman_Enryo	1
 Mister_Stevens	2
@@ -2615,10 +2488,6 @@ JJR_.
 more_.	1
 JJR_,
 better_,	1
--LRB-_JJ
--LRB-_gloomy	1
--LRB-_compelling	1
--LRB-_suspenseful	1
 RP_WRB
 up_when	1
 VB_TO
@@ -2659,10 +2528,6 @@ liked_to	1
 failed_to	2
 made_to	1
 got_to	1
--LRB-_DT
--LRB-_the	4
--LRB-_another	1
--LRB-_The	1
 WDT_NNP
 which_Germany	1
 which_Miss	1
@@ -2848,10 +2713,6 @@ thought_one	1
 EX_MD
 there_would	1
 there_could	1
--LRB-_CD
--LRB-_1930	1
--LRB-_1991	1
--LRB-_1993	2
 VB_WP
 ponder_what	1
 notice_who	1
@@ -2860,17 +2721,6 @@ know_what	3
 guess_what	1
 understand_what	1
 say_what	1
--LRB-_CC
--LRB-_or	1
--LRB-_but	1
--LRB-_And	1
--LRB-_and	3
-NNS_-LRB-
-lifestyles_-LRB-	1
-values_-LRB-	1
-feelings_-LRB-	1
-details_-LRB-	1
-emotions_-LRB-	1
 RB_WRB
 probably_how	1
 even_when	1
@@ -2991,20 +2841,6 @@ was_three	1
 RP_NNP
 out_Guy	1
 out_Thompson	1
-NNP_-RRB-
-Lewis_-RRB-	1
-Fox_-RCB-	1
-LaMorte_-RRB-	1
-Hopkins_-RCB-	1
-Thompson_-RRB-	9
-AMAZING_-RRB-	1
-Earring_-RRB-	1
-Pierce-Roberts_-RRB-	1
-Robbins_-RRB-	1
-King_-RRB-	1
-Hopkins_-RRB-	10
-Fox_-RRB-	4
-Reeve_-RSB-	1
 NNPS_CC
 Lords_and	1
 CC_RB
@@ -3036,6 +2872,7 @@ and_very	2
 and_likely	1
 and_ever	1
 and_quite	1
+and_often	1
 and_much	1
 but_not	1
 and_ultimately	2
@@ -3107,11 +2944,6 @@ where_he	2
 when_she	2
 how_he	2
 why_they	1
-CD_-RRB-
-1932_-RRB-	1
-1991_-RRB-	1
-2005_-RRB-	1
-1993_-RRB-	2
 :_IN
 :_as	1
 :_in	1
@@ -3198,104 +3030,98 @@ it_you	1
 EX_DT
 there_a	1
 IN_PRP
-as_we	1
-of_us	3
-at_it	2
-though_they	2
-While_we	1
-around_it	1
-while_you	1
-because_it	3
-because_they	2
-into_it	1
-For_her	1
-around_him	1
-for_me	1
-that_she	2
-if_you	13
-with_me	1
-As_he	1
-with_her	3
-Before_I	1
-for_them	1
-before_you	1
-while_I	1
-during_it	1
-if_it	2
-of_them	3
-as_he	3
-like_you	1
-between_them	1
-in_it	1
-on_himself	1
-before_they	2
-as_you	1
-if_they	2
-at_him	1
-For_me	1
-whether_he	1
-If_you	11
-with_them	1
-underneath_he	1
-so_I	6
-of_themselves	1
-before_I	1
-as_I	1
-that_they	5
-by_him	1
-though_you	1
-on_me	1
-on_you	1
 on_him	1
-than_it	1
-until_you	2
-that_I	2
-on_it	2
-in_him	1
-of_himself	1
-between_him	1
-for_you	6
-because_I	1
 if_she	1
-like_it	1
-at_yourself	1
-unless_it	1
-that_he	18
-as_it	3
+before_you	1
+around_him	1
+underneath_he	1
+at_him	1
 towards_her	1
-whether_it	1
-as_they	3
-that_you	2
-of_it	7
-for_him	2
-like_me	1
-Although_it	1
+that_they	5
+that_I	2
+for_you	6
+with_them	1
 than_you	1
-with_him	4
 if_he	2
 that_it	4
+in_him	1
+of_us	3
+while_he	2
+While_we	1
+into_it	1
+as_it	3
+Before_I	1
+like_me	1
+on_himself	1
+For_me	1
+whether_he	1
+so_I	6
+as_I	1
+by_I	1
+if_it	2
+until_you	2
+on_it	2
+unless_it	1
+that_she	2
+that_you	2
+for_him	2
 because_we	1
-As_she	1
-with_it	2
-though_she	1
-about_it	2
 for_yourself	2
 by_it	3
 that_we	2
-while_he	2
+between_them	1
+as_we	1
+of_himself	1
+for_them	1
+like_you	1
+because_they	2
+As_he	1
+If_you	11
+before_I	1
+while_you	1
+though_you	1
+than_it	1
+between_him	1
+at_yourself	1
+whether_it	1
+of_it	7
+with_him	4
+during_it	1
+For_her	1
+with_it	2
+because_I	1
+around_it	1
+at_it	2
+though_they	2
+by_him	1
+because_it	3
+as_he	3
+for_me	1
+if_you	13
+with_me	1
+with_her	3
+of_themselves	1
+while_I	1
+of_them	3
+like_it	1
+in_it	1
+before_they	2
+as_they	3
+on_you	1
+on_me	1
+that_he	18
+if_they	2
+Although_it	1
+As_she	1
+though_she	1
+about_it	2
+as_you	1
 ''_.
 ''_?	2
-''_.	15
+''_.	16
 '_.	2
 ''_,
-''_,	7
-PRP_-RRB-
-herself_-RRB-	1
-himself_-RRB-	1
--RRB-_PRP
--RRB-_I	1
-CD_FW
-5/5_<br />	1
+''_,	10
 :_NNS
 :_Remains	1
 ;_people	1
@@ -4110,15 +3936,12 @@ he_hires	1
 He_gives	1
 he_fails	1
 he_hopes	1
-FW_PRP
-<br />_It	3
-<br />_They	1
-<br />_I	2
 VBP_EX
 are_there	1
 realize_there	1
 IN_,
 on_,	1
+after_,	1
 below_,	1
 at_,	1
 IN_.
@@ -4130,21 +3953,13 @@ through_.	1
 about_.	2
 for_.	1
 FW_FW
-<br />_In	1
 in_his/her	2
-:-RRB-_<br />	1
 !!!!!_:-RRB-	1
 plum_obsessive/compulsive	1
-<p>_Surging	2
-Gofran_<p>	1
 KISS_HER	1
 Shahzada_Gofran	1
 HER_!!!	1
-<br />_<br />	63
-<p>_Bibliography	1
 hoi_polloi	1
-Bibliography_<p>	1
-<p>_Merchant/Ivory	1
 http_:80	1
 MD_VBD
 will_made	1
@@ -4166,7 +3981,7 @@ you_.	4
 yourself_.	1
 her_.	3
 it_.	15
-himself_.	1
+himself_.	2
 myself_.	1
 IN_:
 around_...	1
@@ -4182,10 +3997,10 @@ and_are	2
 and_lose	1
 VBN_WDT
 filmed_that	1
+PRP$_PRP
+her_she	1
 NNP_WDT
 Versailles_which	1
-POS_-LRB-
-'_-LRB-	1
 PRP_VB
 me_want	1
 me_cry	1
@@ -4234,7 +4049,6 @@ but_realizes	1
 NN_WRB
 life_when	1
 end_when	1
-isolation_when	1
 reason_why	2
 matter_how	1
 man_when	1
@@ -4251,7 +4065,7 @@ time_when	2
 movie_when	1
 dissent_when	1
 conference_where	1
-<p>_When	1
+isolation_when	1
 RP_TO
 on_to	1
 up_to	2
@@ -4298,18 +4112,7 @@ and_honoring	1
 And_having	1
 or_moving	1
 FW_NNP
-<p>_Ishiguro	1
-<br />_Jennifer	1
-<br />_Mr.	1
-<br />_Slowly	1
-<br />_Darlington	2
-<br />_Stevens	1
-<br />_Anthony	4
-<br />_Final	1
-<br />_Hopkins	1
-<br />_This	1
-<br />_Into	1
-<br />_Now	1
+Bibliography_Ishiguro	1
 NNPS_VB
 Nazis_lead	1
 CC_VBN
@@ -4322,7 +4125,7 @@ and_expressed	1
 or_said	1
 and_directed	2
 JJR_NNP
->_<p>	1
+>_Ivory	1
 JJ_,
 stiff_,	1
 much_,	2
@@ -4340,6 +4143,7 @@ breathtaking_,	1
 high_,	1
 impactful_,	1
 interesting_,	1
+compelling_,	1
 glib_,	1
 personal_,	1
 quiet_,	1
@@ -4357,7 +4161,7 @@ American_,	1
 reserved_,	2
 sad_,	2
 fantastic_,	1
-like_,	1
+like_,	2
 crisp_,	1
 stringent_,	1
 excellent_,	1
@@ -4377,10 +4181,11 @@ seamless_,	1
 political_,	1
 unfeeling_,	1
 hopeful_,	1
-gloomy_,	1
+gloomy_,	2
 long_,	1
 reliable_,	1
 measured_,	1
+suspenseful_,	1
 brilliant_,	1
 important_,	1
 placid_,	1
@@ -4392,6 +4197,7 @@ obsessive_,	1
 novel_,	2
 coy_,	1
 contemplative_,	1
+realistic_,	1
 boring_,	1
 unfilmable_,	1
 subtle_,	1
@@ -4422,8 +4228,6 @@ wrong_,	1
 funny_,	1
 own_,	2
 first_,	2
-FW_EX
-<br />_There	1
 JJ_.
 heart-breaking_.	1
 complimentary_.	1
@@ -4649,8 +4453,6 @@ dragged_into	1
 VBP_WRB
 know_why	1
 wonder_how	1
--LRB-_VB
--LRB-_save	1
 CC_IN
 and_that	2
 or_with	1
@@ -4704,8 +4506,6 @@ of_how	3
 by_how	2
 NNPS_VBD
 Nazis_was	1
-VBD_-LRB-
-reunited_-LRB-	1
 PRP$_VBG
 your_looking	1
 his_dying	1
@@ -4713,8 +4513,6 @@ its_telling	1
 IN_PDT
 with_all	2
 In_all	1
--RRB-_VB
--RRB-_use	1
 JJ_WDT
 present_which	1
 interesting_which	1
@@ -4725,6 +4523,7 @@ appeasement_policies	1
 television_programs	1
 period_details	3
 dinner_parties	1
+house_houses	1
 cast_members	2
 topdog_politicians	1
 film_makers	2
@@ -4744,14 +4543,13 @@ film_onwards	1
 tone_intrigues	1
 DVD_extras	3
 period_pictures	1
-content_matters	1
 boom_mikes	1
 exterior_scenes	1
 love_stories	1
 love_scenes	1
 class_values	1
 policy_questions	1
-<p>_Remains	3
+content_matters	1
 story_centers	1
 film_snobs	1
 casting_people	1
@@ -4778,9 +4576,11 @@ housekeeper_Miss	1
 director_James	2
 world_Stevens	1
 head_Butler	1
+film_Sir	1
 co-star_Emma	1
 point_Darlington	1
 war_Darlington	1
+house_Hopkins	1
 Best_Picture	1
 film_Rock	1
 partner_Ismail	1
@@ -4790,14 +4590,16 @@ novelist_Kazuo	1
 day_Japanese	1
 composer_Richard	1
 master_Lord	1
-housekeeper_Thompson	1
+nephew_Hugh	1
 opponent_Winston	1
+housekeeper_Thompson	1
 butler_Stevens	1
 author_Kazuo	2
 movie_James	1
 employer_Darlington	1
 star_Anthony	1
 kazuo_Ishiguro	1
+Actress_Emma	1
 character_Stevens	2
 employer_Lord	1
 minute_HBO	1
@@ -4807,19 +4609,12 @@ millionaire_Lewis	1
 Best_Film	1
 aging_Hopkins	1
 movie_!!	1
+butler_Anthony	1
 ''_RB
 ''_yet	2
 '_here	1
 :_``
 :_``	2
-VBG_CC
-involving_and	1
-growing_or	1
-watching_and	1
-filming_and	1
-hugging_and	1
-confessing_and	1
-leaving_and	1
 UH_NN
 eh_wot	1
 CD_CC
@@ -4840,9 +4635,8 @@ of_best	1
 in_most	1
 In_best	1
 at_least	6
-POS_-RRB-
-'_-RRB-	1
-'s_-RRB-	1
+POS_PRP
+'_I	1
 VBD_WRB
 was_when	1
 did_when	1
@@ -4893,9 +4687,11 @@ bigger_audience	1
 RB_``
 not_``	1
 :_CD
+:_1	1
 --_one	2
 :_5/5	1
 VBP_VBZ
+say_is	1
 read_enhances	1
 know_is	1
 think_is	1
@@ -5047,8 +4843,6 @@ PRP$_DT
 my_all	1
 His_every	1
 her_the	1
--LRB-_WRB
--LRB-_where	1
 JJ_JJS
 single_greatest	1
 JJ_JJR
@@ -5067,8 +4861,6 @@ there_is	9
 there_'s	2
 There_'s	2
 There_is	5
-._-RRB-
-._-RRB-	1
 EX_VBP
 there_are	1
 There_are	8
@@ -5093,6 +4885,7 @@ period_detail	2
 wish_fulfillment	1
 commentary_track	3
 estate_house	1
+audience_ie	1
 mediorce_script	1
 cinema_photography	1
 life_circa	1
@@ -5133,10 +4926,11 @@ time_change	1
 pigeon_scene	1
 film_perfection	1
 feature_length	1
-STUFF_<p>	1
+icy_demeanor	1
 day_life	1
 category_placement	1
 library_scene	1
+music_dark	1
 character_study	1
 estimation_rank	1
 genius_director	1
@@ -5146,7 +4940,6 @@ eye_level	1
 period_piece	1
 job_environment	1
 clue_you	1
-icy_demeanor	1
 A_film	1
 minute_featurette	1
 world_order	1
@@ -5157,6 +4950,7 @@ press_kit	2
 head_?!	1
 war_debt	1
 father_upstairs	1
+Best_Actress	2
 quality_presentation	1
 self_image	1
 country_home	2
@@ -5172,7 +4966,7 @@ life_slip	1
 production_design	1
 world_efficiency	1
 length_commentary	1
-Best_Actress	2
+fox_pre-WWII	1
 dvd_release	1
 Best_Actor	1
 character_acting	1
@@ -5182,8 +4976,6 @@ period_drama	3
 person_form	1
 end_result	1
 Hopkins/Thompson_team	1
-<p>_Thing	1
-<p>_A	1
 concentration_camp	1
 self_esteem	1
 country_estate	1
@@ -5203,10 +4995,10 @@ costume_dramas	1
 ensemble_cast	1
 someone_unfit	1
 cast_member	1
-RP_-LRB-
-out_-LRB-	3
 RP_RB
 out_anyway	1
+out_figuratively	1
+out_back	1
 WRB_CC
 when_and	1
 WRB_CD
@@ -5228,6 +5020,7 @@ times_outrageously	1
 times_seemingly	1
 roles_always	1
 years_prior	1
+values_absolutely	1
 critiques_here	1
 times_very	1
 performances_ever	1
@@ -5622,7 +5415,7 @@ whose_icy	1
 VBD_JJR
 were_more	1
 ''_``
-''_``	2
+''_``	3
 PRP_POS
 one_'s	3
 NN_IN
@@ -5639,6 +5432,7 @@ appeasement_with	1
 impact_on	1
 mist_in	1
 irony_of	1
+reminder_of	1
 ignorance_of	1
 mistake_of	2
 voice_in	2
@@ -5650,9 +5444,8 @@ movie_in	2
 genre_out	1
 way_with	1
 commentary_in	1
-<p>_If	6
+must-see_if	1
 job_as	1
-<p>_In	1
 drama_at	1
 reality_of	1
 pride_on	1
@@ -5762,7 +5555,6 @@ time_since	1
 emotion_behind	1
 study_in	2
 Put_in	1
-must-see_if	1
 idea_of	3
 owner_of	1
 performance_as	2
@@ -5778,12 +5570,11 @@ representation_of	2
 horror_of	1
 approach_into	1
 everyone_around	1
-<p>_As	1
-<p>_At	1
 film_on	1
 critique_on	1
 book_that	1
 importance_of	1
+house_without	1
 lack_of	4
 shake_in	1
 struggle_against	1
@@ -5808,7 +5599,7 @@ scene_with	1
 expression_on	2
 novel_into	1
 charm_of	1
-reminder_of	1
+master_in	1
 examination_of	1
 faith_in	1
 youth_while	1
@@ -5861,6 +5652,7 @@ dignity_of	1
 period_in	1
 stretch_for	1
 technique_of	1
+bunk_in	1
 butler_of	1
 television_so	1
 obsession_with	1
@@ -5887,9 +5679,7 @@ part_of	4
 opportunity_of	2
 life_if	1
 delicacy_throughout	1
-<br />_If	1
 score_by	2
-<br />_In	1
 longing_for	1
 design_by	1
 way_on	1
@@ -5921,7 +5711,7 @@ couple_of	2
 specter_of	1
 movie_like	1
 soldier_in	1
-<p>_With	1
+ensemble_without	1
 laugh_out	1
 sympathy_for	1
 version_of	2
@@ -6075,7 +5865,6 @@ masterpiece_of	3
 character_of	2
 air_of	1
 psyche_in	1
-ensemble_without	1
 living_in	1
 affair_with	2
 collaboration_on	1
@@ -6115,7 +5904,6 @@ image_of	1
 judge_of	2
 comfort_in	1
 picture_in	1
-<p>_While	1
 weakness_of	1
 movie_for	2
 review_for	1
@@ -6146,6 +5934,7 @@ flaw_in	1
 extreme_that	1
 love_of	1
 portrayal_of	5
+pride_at	1
 reuniting_of	1
 writer_of	1
 everyone_in	2
@@ -6194,20 +5983,21 @@ NN_VBN
 top_rung	1
 scene_labeled	1
 anything_written	1
+outset_set	1
 man_buried	1
 book_done	1
 feeling_known	1
 commentary_provided	1
 audience_pulverized	1
 man_immured	1
-movie_set	1
-man_filled	1
 threat_posed	1
-<br />_Based	1
+man_filled	1
+movie_set	1
 ideal_carried	1
 life_depicted	1
 thing_mentioned	1
 humor_dispersed	1
+housekeeper_played	1
 coffin_shut	1
 butler_named	1
 care_taken	1
@@ -6248,6 +6038,7 @@ anything_concerning	1
 life_changing	1
 section_describing	2
 business_losing	1
+novel_telling	1
 prize_winning	1
 cast_including	1
 life_working	1
@@ -6255,7 +6046,6 @@ homosexual_taking	1
 guy_watching	1
 difficulty_adapting	1
 subplot_concerning	1
-<p>_Portraying	2
 head_concerning	1
 CC_WRB
 and_how	2
@@ -6342,7 +6132,7 @@ story_is	7
 actor_gets	1
 drama_is	1
 life_goes	1
-DVD_is	3
+DVD_is	4
 story_takes	2
 commentary_is	1
 something_has	1
@@ -6594,6 +6384,7 @@ felt_by	1
 believed_on	1
 died_in	1
 heard_that	2
+reunited_after	1
 existed_in	1
 longed_for	1
 said_about	1
@@ -6692,7 +6483,6 @@ herself_even	1
 :_NN
 -_watch	1
 -_period	1
-:_<p>	1
 /_Hopkins/Thompson	1
 ..._Z	1
 -_galenet.galegroup.com.library3.webster.edu	1
@@ -6710,9 +6500,6 @@ her_in	1
 it_up	2
 himself_up	1
 it_off	1
-VBD_-RRB-
-remained_-RRB-	1
-married_-RRB-	1
 JJ_``
 only_``	1
 tenacious_``	1
@@ -6788,16 +6575,67 @@ is_said	1
 ,_whom	2
 ,_who	7
 ,_what	2
-``_VBN
-``_suppressed	1
-``_sacked	1
-``_Gone	1
+IN_PRP$
+of_your	1
+since_their	1
+down_your	1
+on_her	2
+since_my	1
+of_his	20
+as_Our	1
+on_his	4
+before_its	1
+of_their	5
+in_my	5
+with_her	4
+than_their	1
+at_their	1
+over_his	2
+at_his	2
+Despite_his	1
+On_my	1
+about_your	1
+under_his	1
+of_her	2
+at_its	2
+in_its	2
+from_his	4
+throughout_his	3
+about_his	5
+around_his	1
+of_our	1
+that_his	3
+upto_my	1
+in_her	2
+before_his	2
+with_their	3
+by_his	2
+on_its	3
+like_his	1
+for_their	4
+through_his	1
+on_my	1
+on_their	3
+of_my	4
+in_their	9
+until_his	1
+during_their	1
+in_his	10
+as_his	1
+for_its	1
+behind_his	1
+for_her	3
+though_his	1
+as_their	1
+with_his	5
+in_your	2
+for_his	9
+about_our	1
 VB_PRP
 separate_it	1
 hold_himself	1
-<br />_It	1
 view_him	1
-<p>_You	1
+tell_it	1
 make_you	1
 judge_him	1
 dump_it	1
@@ -6812,7 +6650,6 @@ see_him	1
 open_himself	1
 show_it	1
 force_him	1
-tell_it	1
 Thank_you	1
 hate_it	1
 hurt_him	1
@@ -6831,7 +6668,6 @@ watch_it	1
 treat_him	1
 think_it	1
 allow_yourself	1
-<br />_I	2
 make_him	1
 apply_it	1
 give_yourself	2
@@ -7176,20 +7012,9 @@ thoroughly_enjoyed	1
 practically_destroed	1
 never_let	1
 originally_came	1
-FW_IN
-<br />_Without	1
-<br />_By	1
-<br />_That	1
-<br />_From	1
-<br />_If	1
-<br />_Because	1
-<br />_For	1
-<br />_In	2
 JJ_WRB
 ridiculous_when	1
 tic_when	1
--RRB-_VBG
--RRB-_wanting	1
 CC_MD
 and_might	1
 Or_should	1
@@ -7245,11 +7070,12 @@ PRP_WDT
 him_that	1
 them_that	1
 POS_NNP
-'s_Booker	1
-'s_End	1
+'_Hopkins	1
+'s_Nazi	1
 's_Woman	1
 's_Miss	3
-'s_Nazi	1
+'s_End	1
+'s_Booker	1
 ,_IN
 ,_with	13
 ,_though	3
@@ -7299,10 +7125,15 @@ RP_NN
 over_part	1
 ,_CD
 ,_one	3
--LRB-_VBN
--LSB-_played	1
--LRB-_set	1
--LRB-_played	3
+VBG_CC
+involving_and	1
+growing_or	1
+viewing_and	2
+watching_and	1
+filming_and	1
+hugging_and	1
+confessing_and	1
+leaving_and	1
 VBG_CD
 delivering_one	1
 being_one	1
@@ -7351,7 +7182,6 @@ tension_that	1
 production_that	2
 thing_that	1
 think-piece_that	1
-<p>_Whatever	1
 information_that	1
 morning_that	1
 pride_that	1
@@ -7391,7 +7221,6 @@ character_that	1
 scene_that	1
 VB_DT
 enjoy_the	1
-<br />_The	6
 compare_the	1
 do_a	1
 understand_that	1
@@ -7423,7 +7252,6 @@ feel_the	1
 regret_the	1
 govern_the	1
 serve_the	2
-<p>_The	13
 leave_the	1
 turn_the	1
 show_the	3
@@ -7450,7 +7278,7 @@ break_the	2
 know_a	1
 do_another	1
 know_each	1
-<p>_Each	1
+feel_a	1
 read_the	4
 discuss_the	1
 make_the	2
@@ -7468,15 +7296,12 @@ beat_this	1
 soften_the	1
 miss_this	3
 focus_a	1
-judge_a	1
+judge_this	1
 expect_any	1
 say_this	1
-feel_a	1
 be_the	4
-judge_this	1
+judge_a	1
 view_this	1
--LRB-_VBG
--LRB-_telling	1
 WRB_DT
 why_the	1
 when_the	4
@@ -7572,14 +7397,8 @@ is_right	1
 looks_dashing	1
 LS_VBP
 i_want	1
-JJ_-RRB-
-suspenseful_-RRB-	1
-compelling_-RRB-	1
-depressing_-RRB-	1
-gloomy_-RRB-	1
-realistic_-RRB-	1
-like_-RRB-	1
 ''_DT
+''_The	1
 ''_the	2
 NN_TO
 counterweight_to	1
@@ -7794,15 +7613,12 @@ What_a	1
 what_each	1
 what_this	1
 what_the	2
--RRB-_IN
--RRB-_in	2
--RRB-_without	1
--RRB-_with	1
--RRB-_near	1
+CC_CD
+and_one	3
+but_one	1
+but_two	2
 PRP_PRP$
 it_their	1
-FW_-LRB-
-<br />_-LRB-	1
 CC_CC
 but_either	1
 WP_RB
@@ -7860,10 +7676,6 @@ what_her	1
 what_your	1
 RP_WP
 out_what	1
-FW_TO
-<br />_To	1
-RP_:
-out_-	1
 ``_RB
 ``_simply	1
 ``_not	1
@@ -8223,8 +8035,6 @@ shows_what	1
 ,_regretted	1
 ,_was	1
 ,_played	3
--RRB-_VBP
--RRB-_find	2
 ,_VBG
 ,_probing	1
 ,_allowing	1
@@ -8244,97 +8054,92 @@ shows_what	1
 ,_making	1
 ,_delivering	1
 ,_connecting	1
-''_-RRB-
-''_-RRB-	6
--RRB-_VBZ
--RRB-_is	7
--RRB-_arrives	1
--RRB-_wants	1
 NNS_.
 hearts_.	2
-SHADOWLANDS_.	1
-duties_.	1
+servants_.	1
+1960s_.	1
+cousins_.	1
+parts_.	1
+issues_.	2
+reasons_.	1
+professionals_.	1
+themes_.	1
+jobs_.	1
+feelings_.	3
+times_!	1
+times_.	1
+hallways_.	1
+achievements_.	1
+responses_.	1
+meanings_.	1
+ones_.	2
+scenes_.	2
+lives_.	2
+beliefs_.	1
+elites_.	1
 fingers_.	1
-animals_.	1
 levels_.	4
-recalls_.	1
-methods_.	1
-roles_.	2
+leaders_.	1
+circumstances_?	1
 features_.	1
 diplomats_.	1
-meanings_.	1
-consequences_.	2
-widescreen_.	1
-trenches_.	1
-cousins_.	1
 possibilities_.	1
-places_.	1
-parts_.	1
-decisions_.	1
-servants_.	1
-professionals_.	1
-issues_.	2
-luxuries_!	1
-theaters_.	1
-politics_?	1
-sympathizers_.	2
+1930s_.	1
+words_.	2
 years_.	3
 pills_.	1
-decades_.	3
-elites_.	1
-performances_.	2
-themes_.	1
-minds_.	1
+Remains_.	1
+machines_.	1
 regrets_.	1
-jobs_.	1
-achievements_.	1
+SHADOWLANDS_.	1
+sympathizers_.	2
+mansions_.	1
+costs_.	1
+emotions_.	4
+fires_.	1
+choices_.	1
+overtures_.	1
 characters_.	3
-feelings_.	3
+citizens_.	1
+recalls_.	1
+places_.	1
+politics_.	1
+performances_.	2
+documentaries_.	1
+decades_.	3
+politics_?	1
+minds_.	1
+employers_.	1
+consequences_.	2
+decisions_.	1
+mistakes_.	2
+comments_.	1
+boundries_.	1
+cheeks_.	1
+interviews_.	1
+trenches_.	1
+methods_.	1
+duties_.	1
+animals_.	1
+roles_.	2
+widescreen_.	1
+luxuries_!	1
 details_.	1
 actors_.	3
 miracles_!	1
-politics_.	1
-employers_.	1
-circumstances_?	1
 institutions_.	1
-times_!	1
 movies_.	2
-times_.	1
 makers_.	1
-mistakes_.	2
-hallways_.	1
 films_.	2
-choices_.	1
-documentaries_.	1
-responses_.	1
-machines_.	1
-boundries_.	1
-words_.	2
-reasons_.	1
-drinks_.	1
-mansions_.	1
-cheeks_.	1
-costs_.	1
-interviews_.	1
-others_.	2
-emotions_.	4
-comments_.	1
+theaters_.	1
 limitations_.	1
-ones_.	2
-citizens_.	1
+drinks_.	1
+others_.	2
 signs_.	1
-scenes_.	2
-fires_.	1
-leaders_.	1
-lives_.	2
 sympathies_.	1
-overtures_.	1
 matters_.	1
 people_.	1
-1960s_.	1
-beliefs_.	1
 amateurs_.	1
-1930s_.	1
 viewings_.	1
 ,_VBN
 ,_filmed	1
@@ -8410,9 +8215,6 @@ values_,	1
 ,_have	2
 ,_do	3
 ,_are	3
--RRB-_DT
--RCB-_a	1
--RRB-_a	1
 RBR_RB
 more_highly	1
 more_often	1
@@ -8462,8 +8264,6 @@ emotions_...	1
 ,_observes	1
 ,_dismisses	1
 ,_is	16
--RRB-_NNP
--RRB-_:-RRB-	1
 WRB_RB
 how_deeply	1
 How_far	1
@@ -8719,10 +8519,12 @@ two_of	4
 One_of	2
 one_of	22
 5.1_though	1
+''_CD
+''_1993	1
 VBG_RBR
 becoming_more	1
 ''_CC
-''_and	6
+''_and	7
 ''_or	2
 '_but	1
 IN_WP
@@ -8739,9 +8541,6 @@ on_what	4
 RB_''
 slightly_'	1
 enough_''	1
--RRB-_CC
--RRB-_and	11
--RRB-_but	2
 VBG_PRP
 telling_us	1
 honoring_one	1
@@ -8840,6 +8639,7 @@ longing_he	1
 tho_he	1
 regime_he	1
 man_she	1
+life_we	1
 also.Although_you	1
 mistake_it	1
 way_he	1
@@ -8858,6 +8658,7 @@ home_he	1
 film_he	1
 degree_myself	1
 production_you	1
+group_myself	2
 VB_PRP$
 use_his	1
 keep_his	2
@@ -8870,7 +8671,6 @@ speak_their	1
 do_his	1
 open_his	1
 see_his	3
-<p>_My	1
 sacrifice_their	1
 improve_their	1
 paste_my	1
@@ -8892,8 +8692,6 @@ waste_my	1
 demean_his	1
 acquaint_his	1
 know_his	1
-PRP$_-LRB-
-her_-LRB-	1
 ._.
 ._.	8
 ,_MD
@@ -8922,6 +8720,7 @@ not_and	1
 yet_and	2
 over_and	5
 emotionally_and	1
+highly_and	1
 ago_and	1
 long_and	4
 well_and	1
@@ -9010,12 +8809,12 @@ MD_:
 might_...	1
 :_JJ
 :_timely	1
-:_<p>	1
+;_volatile	1
 -_busy	1
 -_flat	1
 ;_similar	1
+:_Plentiful	1
 :_fair	1
-;_volatile	1
 ;_many	1
 ..._shy	1
 :_critical	1
@@ -9121,8 +8920,6 @@ how_butlers	1
 ,_the	60
 NNP_NNPS
 Lord_Darlingtons	1
-VBZ_-LRB-
-shows_-LRB-	1
 VB_VBZ
 say_is	1
 do_is	1
@@ -9136,12 +8933,11 @@ VBZ_RBS
 CD_PRP
 one_it	1
 NNS_DT
-concerns_a	1
+details_the	1
 times_this	2
 intrigues_the	1
 scenes_an	1
-IN_-RRB-
-after_-RRB-	1
+concerns_a	1
 VBZ_NN
 offers_insight	1
 takes_place	4
@@ -9237,10 +9033,6 @@ share_a	1
 deserve_an	1
 ,_RBS
 ,_most	1
-NNS_-RRB-
-Remains_-RRB-	1
-people_-RRB-	1
-days_-RRB-	1
 VBD_TO
 wanted_to	2
 proposed_to	1
@@ -9256,8 +9048,6 @@ tried_to	1
 came_to	1
 seemed_to	2
 was_to	2
-NN_JJR
-<br />_<	1
 ,_WDT
 ,_which	8
 ,_that	2
@@ -9302,6 +9092,7 @@ manor_;	1
 job_:	1
 housekeeper_...	2
 screen_:	1
+design_;	1
 read_:	1
 regime_:	1
 film_:	1
@@ -9319,6 +9110,7 @@ interest_--	1
 butler_--	1
 movie_-	1
 direction_--	2
+war_;	1
 article_:	1
 movie_:	1
 sake_...	1
@@ -9483,6 +9275,7 @@ emotionalism_,	1
 set_,	1
 master_,	1
 foil_,	1
+dark_,	1
 individuality_,	1
 beginning_,	1
 footman_,	1
@@ -9549,7 +9342,8 @@ separation_.	1
 board_.	1
 father_.	2
 piece_.	1
-housekeeper_.	9
+ljlkjljlkj_.	1
+housekeeper_.	10
 ladder_.	1
 heart_.	1
 member_.	1
@@ -9567,6 +9361,7 @@ perfection_.	1
 cost_.	1
 portrayal_.	1
 keeper_.	1
+,1_.	1
 ability_.	1
 feat_.	1
 attention_.	1
@@ -9575,6 +9370,7 @@ face_.	1
 future_.	1
 emotion_.	2
 veneer_.	1
+direction_.	1
 mind_.	1
 resolve_.	1
 life_!	1
@@ -9594,7 +9390,7 @@ right_.	2
 screen_.	1
 cinematography_.	1
 era_.	2
-direction_.	1
+fan_.	1
 infamy_.	1
 madness_.	1
 feeling_.	1
@@ -9607,7 +9403,7 @@ aid_.	1
 hall_.	1
 classic_.	1
 detail_.	1
-end_.	6
+word_.	2
 conscience_.	1
 manor_.	2
 superiority_.	1
@@ -9635,6 +9431,7 @@ atmosphere_.	1
 viewer_.	1
 experience_.	1
 happiness_.	2
+run_.	1
 picture_.	2
 context_.	1
 bargain_.	1
@@ -9668,7 +9465,6 @@ spirit_.	1
 journey_.	1
 moment_.	1
 WW2_.	1
-word_.	2
 station_.	1
 mechanism_.	1
 wonder_.	1
@@ -9711,11 +9507,13 @@ generation_.	2
 show_.	2
 fulfillment_.	1
 power_.	1
+end_.	6
 max_.	1
 thriller_.	1
 dedication_.	1
 metaphor_.	1
 museum_.	2
+description_.	1
 question_.	1
 gentility_.	1
 making_.	1
@@ -9735,7 +9533,7 @@ boot_.	1
 butler_?	1
 home_.	1
 nazis_.	1
-day_.	3
+day_.	5
 crown_.	1
 DVD_.	2
 conditioning_.	1
@@ -9743,6 +9541,7 @@ way_.	8
 accomplishment_.	1
 office_.	1
 performance_.	3
+scene_.	1
 spouse_.	1
 exception_.	2
 position_.	2
@@ -9818,14 +9617,15 @@ that_are	3
 CC_UH
 And_oh	1
 ''_VBZ
-''_is	8
+''_is	9
 '_is	1
 ''_divides	2
 ''_has	1
 ''_does	1
 ''_NN
 ''_movie	1
-''_<br />	2
+''_ljlkjljlkj	1
+''_critique	1
 ''_film	1
 ''_picture	1
 ''_level	1
@@ -9852,6 +9652,7 @@ he_and	1
 him_and	3
 yourself_and	1
 it_&	1
+herself_but	1
 them_and	1
 her_and	1
 it_or	3
@@ -9889,10 +9690,6 @@ WDT_,
 which_,	1
 RBR_TO
 closer_to	1
--RRB-_NN
--RRB-_style	1
--RRB-_father	1
--RRB-_pre-WWII	1
 DT_,
 that_,	2
 this_,	2
@@ -9913,14 +9710,8 @@ pointing_out	1
 coming_off	1
 looking_out	1
 pulling_off	1
--LRB-_RB
--LRB-_even	2
--LRB-_figuratively	1
--LRB-_absolutely	1
--LRB-_back	1
--LRB-_shockingly	1
--LRB-_often	1
--LRB-_not	2
+JJ_VB
+alive_save	1
 CC_LS
 and_i	1
 NNS_NNP
@@ -10124,11 +9915,6 @@ particularly_difficult	1
 much_identical	1
 so_raw	1
 unswervingly_dedicated	1
-RB_-RRB-
-highly_-RRB-	1
-here_-RRB-	1
-anyway_-RRB-	1
-figuratively_-RRB-	1
 VB_``
 see_``	2
 picture_``	1
@@ -10136,6 +9922,7 @@ TO_PDT
 to_such	1
 CD_DT
 one_another	1
+5/5_This	1
 NNPS_.
 Nazis_.	2
 Jews_.	1
@@ -10271,6 +10058,7 @@ happen_frequently	1
 be_almost	1
 brave_enough	1
 say_sometimes	2
+understand_even	1
 be_as	1
 see_not	1
 sit_through	1
@@ -10317,7 +10105,7 @@ so_years	1
 Arguably_Remains	1
 not_years	1
 NN_EX
-<p>_There	3
+film_there	1
 ``_JJ
 ``_manly	1
 ``_intelligent	1
@@ -10360,7 +10148,7 @@ Salina_in	1
 Thompson_on	1
 Never_before	1
 Grant_as	1
-Ivory_after	2
+Hopkins_near	1
 Woman_in	1
 Hopkins_at	1
 Chancellor_of	1
@@ -10382,6 +10170,7 @@ Germany_by	1
 Kampf_in	1
 Kenton_as	1
 Vietnam_during	1
+Ivory_after	2
 Cocoon_with	1
 Darlington_while	1
 HBO_behind	1
@@ -10509,26 +10298,13 @@ while_viewing	2
 in_changing	1
 while_providing	1
 of_marrying	1
+IN_VBD
+of_nailed	1
+as_was	1
+as_did	1
 VBN_WRB
 enforced_when	1
 terrified_when	1
-NN_-RRB-
-house_-RRB-	1
-housekeeper_-RRB-	1
-scene_-RRB-	1
-fan_-RRB-	1
-day_-RRB-	2
-sense_-RRB-	1
-kiss_-RRB-	1
-DVD_-RRB-	1
-,1_-RRB-	1
-design_-RRB-	1
-description_-RRB-	1
-run_-RRB-	1
-dark_-RRB-	1
-ljlkjljlkj_-RRB-	1
-war_-RRB-	1
-fox_-RRB-	1
 ,_PRP
 ,_he	15
 ,_they	5
@@ -10549,24 +10325,11 @@ in_told	1
 with_repressed	1
 RB_NNP
 subtly_Miss	1
+actually_Emma	1
+anyway_:-RRB-	1
 N'T_EVEN	1
 Yet_Stevens	2
 specially_Emma	1
-actually_Emma	1
--LRB-_NNP
--LRB-_Emma	4
--LRB-_Hugh	1
--LRB-_Sir	1
--LRB-_Anna	1
--LCB-_James	1
--LCB-_Anthnoy	1
--LRB-_Hopkins	6
--LRB-_Anthony	4
--LRB-_James	4
--LRB-_Thompson	2
--LRB-_NNS
--LRB-_houses	1
--LRB-_butlers	1
 VBG_.
 filming_.	1
 writing_.	1
@@ -10664,27 +10427,8 @@ VBN_RBR
 been_more	1
 become_closer	1
 written_more	1
-TO_NN
-to_boot	1
-to_maximum	1
-to_one	1
-to_perfection	1
-to_shame	1
-to_council	1
-to_duty	1
-to_dissent	1
-to_anyone	1
-to_peek	1
-to_insult	1
-to_word	1
-to_day	1
-to_separation	1
-to_function	1
-to_anything	1
-to_someone	1
-to_revolt	1
-to_tradition	1
-to_life	1
+''_JJR
+''_<	1
 IN_VBZ
 As_is	1
 IN_WP$
@@ -10701,10 +10445,14 @@ late_1930	1
 CD_,
 one_,	1
 1981_,	1
+2005_,	1
 two_,	2
 CD_.
-1954_.	1
+1932_.	1
 1_.	1
+1954_.	1
+1993_.	1
+1991_.	1
 1958_.	2
 one_!	1
 2_.	1
@@ -10716,18 +10464,13 @@ When_playing	1
 when_working	1
 when_dealing	1
 NNP_WP
-Thompson_who	2
+Thompson_who	3
 Kenton_who	3
 Reeve_who	1
-Hopkins_who	2
+Hopkins_who	3
 Darlington_who	1
-VBP_-RRB-
-say_-RRB-	1
 CD_:
 .1989_;	1
-JJ_-LRB-
-American_-LSB-	1
-alive_-LRB-	1
 WRB_VBP
 why_see	1
 POS_NN
@@ -10785,9 +10528,27 @@ POS_NN
 's_End	3
 's_bulk	1
 '_study	1
-FW_CC
-<br />_But	1
-<br />_And	1
+TO_NN
+to_boot	1
+to_maximum	1
+to_one	1
+to_perfection	1
+to_shame	1
+to_council	1
+to_duty	1
+to_dissent	1
+to_anyone	1
+to_peek	1
+to_insult	1
+to_word	1
+to_day	1
+to_separation	1
+to_function	1
+to_anything	1
+to_someone	1
+to_revolt	1
+to_tradition	1
+to_life	1
 IN_FW
 after_!!!!!	1
 by_Shahzada	1
@@ -10887,6 +10648,7 @@ Stevens_mind	1
 Nazi_regime	1
 Hitler_regime	1
 Final_word	1
+Hopkins_father	1
 Merchant-Ivory_collaboration	1
 Ivory_masterpiece	1
 Hopkins_brillance	1
@@ -11063,7 +10825,9 @@ people_will	2
 scenes_can	1
 characters_would	1
 NNP_``
+England_``	2
 Stevens_``	1
+Arrighi_``	1
 TO_RB
 to_ever	1
 to_simply	1
@@ -11095,6 +10859,7 @@ aptly_by	1
 so_out	1
 just_before	1
 just_as	1
+figuratively_in	1
 just_in	1
 Only_in	1
 shortly_after	1
@@ -11139,6 +10904,7 @@ previously_in	1
 secondly_in	1
 also_in	1
 not_for	2
+here_in	1
 seriously_than	1
 perhaps_of	1
 together_in	2
@@ -11244,9 +11010,9 @@ DT_CC
 Each_and	1
 this_and	1
 all_but	1
+this_or	1
 FW_``
 !!!_``	1
-<br />_``	1
 RP_DT
 off_the	1
 out_the	3
@@ -11290,9 +11056,8 @@ are_almost	1
 've_ever	4
 are_quite	1
 have_n't	3
--LRB-_EX
--LRB-_There	1
--LRB-_there	1
+VBG_``
+making_``	1
 JJ_VBZ
 other_is	1
 possible_is	1
@@ -11314,6 +11079,7 @@ Cardullo_,	1
 Zhivago_,	1
 Anthony_,	1
 Mechant_,	1
+LaMorte_,	1
 Abbey_,	1
 II_,	1
 Ivory_,	3
@@ -11323,18 +11089,18 @@ Emma_,	1
 Park_,	1
 Reeves_,	1
 Abigail_,	1
-Thompson_,	11
+Thompson_,	12
 Music_,	1
-Germany_,	3
-Hopkins_,	7
-Fox_,	5
+End_,	1
+Hopkins_,	9
+Fox_,	7
 Steven_,	1
 Grant_,	4
 Calley_,	1
 Day_,	1
 Jarmick_,	1
 Versailles_,	1
-End_,	1
+Germany_,	3
 Ben-Hur_,	1
 Kent_,	1
 Ishiguro_,	13
@@ -11383,20 +11149,23 @@ Charming_.	1
 Halifax_.	1
 Housekeeper_.	1
 God_.	1
-Thompson_.	10
+Thompson_.	13
 I._.	1
 Hall_.	3
 Reeves_.	1
 Salaryman_.	1
-FLAWLESS_.	1
-Hopkins_.	3
-Fox_.	1
+Lewis_.	1
+Hopkins_.	4
+Fox_.	2
 Thompson-Mrs_.	1
 Germany_.	2
 Deniro_.	1
 Hitler_.	3
 Ishiguro_?	1
+AMAZING_!	1
 Library_.	1
+Earring_.	1
+FLAWLESS_.	1
 Ishiguro_.	1
 Stephens_.	1
 Thonpson_!	1
@@ -11429,11 +11198,11 @@ is_feeling	1
 is_leaving	1
 FW_NN
 his/her_mind	2
-<br />_One	1
 obsessive/compulsive_spot	1
 NNP_WRB
 Jhabvala_when	1
 War_when	1
+Hall_where	1
 VBG_NN
 getting_revenge	1
 reviving_love	1
@@ -11476,6 +11245,7 @@ Kazuo_:	1
 Hall_...	1
 Britain_;	1
 Europe_;	1
+Reeve_...	1
 Jmames_:	1
 Chaplin_--	1
 JJ_VBD
@@ -11515,8 +11285,6 @@ lies_--	1
 ``_to	1
 WP_LS
 what_i	1
-CC_-LRB-
-and_-LRB-	1
 VBZ_.
 works_.	1
 lingers_.	1
@@ -11608,7 +11376,6 @@ usual_exceptional	1
 new_present	1
 occasional_visible	1
 great_beautiful	1
-<p>_Plentiful	1
 foremost_devoted	1
 outstanding_British	1
 overt_sexual	1
@@ -11658,7 +11425,7 @@ where_personal	1
 how_flawed	1
 how_beautiful	1
 ,_CC
-,_and	92
+,_and	93
 ,_or	10
 ,_but	57
 ,_yet	1
@@ -11705,6 +11472,7 @@ woman_who	3
 American_who	1
 aristocrat_who	1
 politician_who	1
+Lordship_who	1
 housekeeper_who	3
 character_who	1
 man_who	8
@@ -11796,14 +11564,13 @@ feelings_give	1
 values_are	1
 levels_are	1
 characters_are	2
--LRB-_WP$
--LRB-_whose	1
 NNP_MD
-Ishiguro_might	1
-Stevens_could	1
+Thompson_would	1
 Stevens_must	1
+Ishiguro_might	1
 Darlington_would	2
 Sally_must	1
+Stevens_could	1
 IN_CD
 between_two	2
 from_1993	1
@@ -11815,6 +11582,7 @@ than_one	1
 about_1958	1
 of_one	2
 in_1932	1
+before_1991	1
 in_2005	1
 At_2/1/2	1
 that_two	1
@@ -11854,20 +11622,6 @@ about_both	1
 whether_or	1
 on_and	1
 During_and	1
-NNP_-LRB-
-Kenton_-LRB-	7
-Arrighi_-LRB-	1
-Robbins_-LRB-	2
-Darlington_-LCB-	1
-Darlington_-LRB-	4
-Hall_-LRB-	1
-End_-LRB-	1
-Stevens_-LRB-	6
-Whittaker_-LRB-	1
-England_-LRB-	2
-Stevens_-LCB-	1
-Hitler_-LRB-	1
-Butler_-LRB-	1
 PRP_:
 it_:	1
 itself_;	1
@@ -11917,11 +11671,6 @@ PRP_NNP
 me_Anthony	1
 VBN_MD
 made_would	1
--LRB-_PRP
--LRB-_I	1
--LRB-_myself	2
--LRB-_she	1
--LRB-_we	1
 PRP_NNS
 he_ages	1
 them_prisons	1
@@ -11964,18 +11713,15 @@ VBP_RP
 stroll_off	1
 come_in	1
 FW_RB
-<br />_Also	1
 polloi_often	1
-<br />_Seriously	1
-<br />_So	1
-<br />_Highly	1
-<br />_Then	1
+:-RRB-_Seriously	1
 ``_PRP
 ``_I	1
 ``_we	1
 ``_he	1
 NN_WP$
 protagonist_whose	1
+scene_whose	1
 butler_whose	1
 lord_whose	1
 VBG_WP
@@ -12010,9 +11756,8 @@ POS_JJ
 's_emotional	1
 's_substantial	2
 's_main	1
-IN_-LRB-
-by_-LRB-	1
-before_-LRB-	1
+RP_:
+out_-	1
 VBN_``
 subdued_``	1
 labeled_``	1
@@ -12021,6 +11766,7 @@ seen_``	2
 '_than	1
 ''_below	1
 '_in	1
+'_though	1
 ''_if	1
 ''_by	1
 ''_as	3
@@ -12267,11 +12013,13 @@ Kenton_obviously	1
 Thompson_nearly	1
 Hopkins_amazingly	1
 Thompson_too	1
+Hitler_even	1
 Have_just	1
 This_truly	1
 Either_critically	1
 Ishiguro_once	1
 Stevens_whatsoever	2
+Robbins_not	2
 Grant_also	1
 Now_here	1
 Thompson_however	1
@@ -12367,6 +12115,7 @@ discussions_around	1
 choices_in	2
 priorities_in	2
 things_like	1
+days_with	1
 words_in	1
 treatments_of	1
 emotions_from	1
@@ -12493,28 +12242,29 @@ Day_joins	1
 Hopkins_has	1
 Robbins_disucss	1
 Kenton_speculates	1
-Stevens_is	10
+Hopkins_delivers	2
 Darlington_is	6
 Sin_is	1
 Thompson_responds	1
+Thompson_wants	1
 Whoa_is	1
 Stevens_considers	1
-Thompson_matches	1
 Stevens_imposes	1
-<br />_has	1
+MrStevens_has	1
 Kenton_is	4
 Lewis_is	1
 Hopkins_does	1
+Thompson_arrives	1
 Abigail_is	1
 Kenton_believes	1
 Thompson_stars	1
 Hopkins_gives	2
 Grant_comes	1
 Manor_is	1
-Hopkins_delivers	2
+Stevens_is	10
 Charlie_is	1
 Lewis_attends	1
-Hopkins_is	9
+Hopkins_is	12
 Germany_gets	1
 Emma_is	1
 Germany_feels	1
@@ -12532,7 +12282,7 @@ This_is	3
 Hopkins_lets	1
 Stevens_keeps	1
 Kenton_has	1
-Kenton_tests	1
+Thompson_matches	1
 Lewis_represents	1
 Hall_becomes	1
 Stevens_spills	1
@@ -12546,7 +12296,7 @@ Thompson_is	5
 Stevens_thinks	1
 Hopkins_makes	1
 Thompson_plays	3
-MrStevens_has	1
+Kenton_tests	1
 Stevens_knows	1
 Stevens_embarks	1
 Hopkins_deserves	1
@@ -12729,13 +12479,13 @@ alone_should	1
 far_will	1
 NN_``
 fine_``	1
+STUFF_``	1
 thriller_``	1
 word_``	2
 gem_``	1
-<p>_``	1
 aan_``	1
+dupe_``	1
 classic_``	1
-<br />_``	1
 film_`	1
 VBG_NNP
 marrying_Miss	1
@@ -12761,23 +12511,26 @@ allowing_Hitler	1
 VBD_,
 missed_,	2
 interacted_,	1
+remained_,	1
 said_,	3
 hit_,	1
 married_,	1
 bound_,	1
 VBD_.
-recommended_!	1
 included_.	1
 portrayed_.	1
 lived_.	1
+recommended_!	1
 did_.	2
+married_.	1
 POS_.
-'s_.	1
+'s_.	2
 NNP_VBG
 Crowe_delivering	1
 Thompson_having	1
 Ishiguro_concerning	1
 Hopkins_doing	1
+Thompson_wanting	1
 Butler_releasing	1
 Manor_looking	1
 Nichols_directing	1
@@ -12806,17 +12559,11 @@ Ivory_turned	1
 Darlington_was	1
 Stevens_had	3
 Amazon_came	1
+NNP_VBN
+Kenton_played	2
 WP_NNP
 what_Stevens	1
 whom_Stevens	1
-who_<br />	1
--LRB-_IN
--LRB-_ok	1
--LRB-_after	1
--LRB-_though	1
--LRB-_as	1
--LRB-_at	1
--LRB-_in	2
 NNP_POS
 Kenton_'s	3
 Hall_'s	1
@@ -12853,10 +12600,8 @@ Ishiguro_'s	6
 Stevens_'	13
 Schinder_'s	1
 NN_RB
-<p>_Nonetheless	1
 dignity_actually	1
 father_also	1
-sunset_just	1
 life_emotionally	1
 work_together	1
 movie_truly	1
@@ -12866,9 +12611,7 @@ bit_too	1
 man_then	1
 role_as	1
 period_shortly	1
-<p>_Just	1
 camera_as	1
-movie_definitely	1
 plot_right	1
 mind_incredibly	1
 jod_so	1
@@ -12878,17 +12621,17 @@ DVD_very	1
 esteem_just	1
 game_best	1
 plan_back	1
-<p>_Much	1
 era_long	1
+acting_shockingly	1
 household_so	1
-<p>_Highly	1
+movie_definitely	1
 person_totally	1
 scene_paricualy	1
 film_elegantly	1
 dignity_here	1
 duty_completely	1
 end_quite	1
-<p>_Indeed	2
+sunset_just	1
 movie_again	1
 film_still	1
 exception_perhaps	1
@@ -12903,7 +12646,6 @@ one_ever	1
 temper_once	2
 part_thus	1
 film_ever	1
-<p>_Eventually	1
 job_perfectly	1
 subtlety_too	1
 end_up	1
@@ -12929,8 +12671,6 @@ someone_so	1
 cast_also	1
 efficiency_even	1
 something_so	1
-VBG_``
-making_``	1
 JJ_IN
 secluded_from	1
 effortless_on	1
@@ -13044,6 +12784,7 @@ NNS_NN
 credits_roll	1
 reserves_judgment	1
 viewers_mind	1
+feelings_film	1
 downstairs_activity	1
 Features_section	1
 qualities_wit	1
@@ -13135,7 +12876,7 @@ belies_a	1
 urges_the	1
 drives_the	1
 sees_the	1
-shows_the	4
+shows_the	5
 covers_a	1
 runs_the	1
 Does_the	2
@@ -13227,8 +12968,6 @@ naive_''	1
 ,_most	1
 RBS_IN
 best_for	1
--LRB-_WP
--LRB-_who	1
 VB_CD
 address_two	1
 be_one	1
@@ -13259,14 +12998,16 @@ NNP_DT
 With_a	1
 Kenton_the	3
 Britain_some	1
+End_another	1
 Into_this	1
 Fox_a	1
-Charlie_the	1
+Hopkins_a	2
 Stevens_the	3
 Read_the	1
 Holder_a	1
 View_the	1
 Thompson_this	1
+Charlie_the	1
 JJS_NN
 finest_Mechant/Ivory	1
 cruelest_tragedy	1
@@ -13312,12 +13053,6 @@ educated_people	1
 missed_opportunities	1
 ,_WP$
 ,_whose	2
--LRB-_NN
--LRB-_critique	1
--LRB-_dark	1
--LRB-_ie	1
--LRB-_ljlkjljlkj	1
--LRB-_film	1
 ,_NNP
 ,_Bert	1
 ,_Jmames	1
@@ -13664,7 +13399,6 @@ critical_essay	1
 shaped_movie	1
 main_storyline	1
 human_emotion	2
-<p>_DVD	2
 bad_treatment	1
 personal_happiness	1
 good_film	1
@@ -13953,6 +13687,7 @@ great_man	2
 sad_conclusion	1
 by-the-book_butler	1
 little_bit	1
+depressing_style	1
 unimportant_attribute	1
 rare_feat	1
 cumbersome_attempt	1

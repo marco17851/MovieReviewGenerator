@@ -323,25 +323,38 @@ NNS_PRP$
 segments_their	1
 concepts_my	1
 years_my	1
+discs_our	1
 rocks_your	1
--LRB-_``
--LRB-_``	8
+VBN_VBG
+been_playing	3
+loved_watching	2
+been_watching	2
+played_according	1
+been_talking	1
+enjoyed_watching	2
+loved_remembering	1
+been_using	3
+stopped_wanting	1
+been_searching	1
+caught_singing	1
+been_checking	1
+been_sending	1
+been_learning	1
+started_memorizing	1
+been_listening	1
+been_singing	2
+suggested_leaving	1
+been_waiting	2
+stopped_making	1
 FW_DT
-<br />_No	1
+:-RRB-_These	1
 Dandin_This	1
-<br />_These	3
-i.e._the	1
+;-RRB-_Every	1
 ?!_This	1
-<br />_Another	1
 Bought_this	1
-<br />_This	10
-<br />_All	1
-<br />_Any	1
-<br />_Every	1
-<br />_A	2
+i.e._the	1
 :--RRB-_This	1
 WORTH_THE	1
-<br />_The	10
 VBG_VBG
 starting_getting	1
 enjoying_reliving	1
@@ -450,6 +463,8 @@ thinking_?!	1
 :_WP
 ..._what	1
 -_who	2
+VBN_VBP
+loved_are	1
 RB_TO
 back_to	26
 prior_to	2
@@ -467,6 +482,7 @@ not_to	5
 outside_to	1
 now_to	1
 there_to	2
+indoubtedly_to	1
 enough_to	8
 first_to	1
 solely_to	1
@@ -528,17 +544,11 @@ need_.	1
 FW_NN
 THIS_STUFF	1
 !!_She	1
-<br />_TPW	1
-<br />_ALSO	1
-<br />_Shipper	1
 Bottom_line	1
-<br />_EDUCATIONAL	1
-<br />_Today	1
-<br />_KEEP	1
+!!!_interjection	1
+CLR_PS	1
 HOW_QUICKLY	1
-<p>_PS	1
-<br />_Conjuntion	1
-<br />_JM	1
+!!!_Conjuntion	1
 VBP_CD
 're_12	1
 'm_42	1
@@ -562,13 +572,16 @@ CD_``
 30_`	1
 20_``	1
 four_``	1
+one_``	1
 70_``	1
 VBP_CC
+say_and	1
 are_and	1
+suppose_and	1
 are_both	1
-learn_and	1
-homeschool_or	1
 work_and	1
+homeschool_or	1
+learn_and	1
 watch_and	2
 remember_and	1
 enjoy_and	2
@@ -667,27 +680,10 @@ do_more	1
 JJ_VBN
 old_sat	1
 social_studied	1
-VBN_VBG
-been_playing	3
-loved_watching	2
-been_watching	2
-played_according	1
-been_talking	1
-enjoyed_watching	2
-loved_remembering	1
-been_using	3
-stopped_wanting	1
-been_searching	1
-caught_singing	1
-been_checking	1
-been_sending	1
-been_learning	1
-started_memorizing	1
-been_listening	1
-been_singing	2
-suggested_leaving	1
-been_waiting	2
-stopped_making	1
+FW_CC
+vs._and	1
+GOOD_AND	1
+woogie_and	1
 WDT_MD
 that_can	1
 that_would	3
@@ -773,10 +769,12 @@ generations_that	1
 shorts_that	1
 ones_that	2
 lessons_that	1
+influences_which	1
 minds_that	1
 kids_that	1
 jingles_that	1
 subjects_that	1
+70s_which	1
 songs_which	1
 lyrics_that	1
 guys_that	1
@@ -790,6 +788,7 @@ tunes_that	2
 numbers_that	1
 cartoons_that	2
 videos_that	2
+kids_which	1
 things_that	2
 WRB_TO
 how_to	7
@@ -888,11 +887,6 @@ who_have	4
 who_find	1
 who_do	1
 who_like	1
--LRB-_PRP$
--LRB-_Her	1
--LRB-_My	3
--LRB-_our	1
--LRB-_my	2
 POS_MD
 's_will	2
 RB_PDT
@@ -926,11 +920,6 @@ singing_one	2
 being_100	1
 being_9	1
 reminiscing_one	1
--RRB-_,
--RRB-_,	25
--RRB-_.
--RRB-_.	52
--RRB-_!	5
 NNP_CC
 BLUES_and	1
 Sid_and	1
@@ -951,8 +940,9 @@ School_and	1
 Amazon.com_and	1
 Trivia_and	1
 Computer_and	5
+Tonight_and	1
 Disney_and	2
-Rock_and	11
+Rock_and	12
 Lolly_and	1
 ABC_and	1
 Dearie_and	2
@@ -999,16 +989,16 @@ All_they	1
 these_you	1
 all_you	2
 these_we	1
+all_she	1
 this_myself	1
 some_you	1
 All_we	1
 this_I	2
 VBN_WDT
+produced_which	1
 watched_whatever	1
 RP_VBZ
 up_is	1
--LRB-_VBD
--LRB-_was	1
 RP_VBG
 up_remembering	1
 up_needing	1
@@ -1042,12 +1032,6 @@ older_children	1
 younger_children	2
 thier_kids	1
 more_questions	1
-VB_-LRB-
-see_-LRB-	1
-watch_-LRB-	2
-disappoint_-LRB-	1
-recall_-LRB-	1
-sing_-LRB-	1
 RBS_JJ
 most_welcome	1
 most_effective	1
@@ -1060,8 +1044,6 @@ most_beloved	1
 most_memorable	1
 JJS_CC
 best_but	1
-''_-LRB-
-''_-LRB-	5
 VB_WDT
 choose_which	2
 know_which	1
@@ -1072,16 +1054,15 @@ remember_which	1
 ;_Conjunction	1
 --_STILL	1
 ;_Music	1
-..._<br />	1
 ..._cool	1
 -_watch	1
 ..._anyone	1
 :_plenty	1
 --_grammar	1
 ;_2x2	1
-:_<p>	1
 ..._something	1
 -_ALL	1
+..._year	1
 -_HEY	1
 ..._Nostalgia	1
 --_Score	2
@@ -1185,8 +1166,10 @@ years_''	1
 twelvetoes_''	1
 heads_''	1
 kings_''	1
--LRB-_MD
--LRB-_should	1
+``_VBG
+``_gon	1
+``_Suffering	2
+``_watching	1
 NN_VB
 rock_live	1
 custom_create	1
@@ -1202,6 +1185,8 @@ multiplication_go	1
 song_help	1
 ``_VBD
 `_thought	1
+VB_FW
+BUY_FROM	1
 JJ_MD
 great_would	1
 old_can	3
@@ -1429,6 +1414,7 @@ gleen_from	1
 fill_in	1
 show_in	1
 like_about	1
+disappoint_unless	1
 do_with	1
 describe_for	1
 use_in	5
@@ -1537,9 +1523,6 @@ keep_on	1
 get_on	1
 CD_WDT
 2_that	1
-MD_IN
-must_for	4
-will_at	1
 JJ_PRP
 much_you	2
 aware_I	1
@@ -1552,18 +1535,19 @@ honest_I	1
 glad_we	2
 certain_they	1
 much_they	1
+educational_we	1
 old_you	1
 rare_you	1
 few_I	1
 sure_we	1
 worn_we	1
 much_I	3
-young_I	1
+delighted_I	1
 much_it	1
 sure_you	1
 educational_it	1
 bad_they	2
-delighted_I	1
+young_I	1
 glad_I	6
 worth_it	4
 ``_VBP
@@ -1666,10 +1650,12 @@ brain_a	1
 reason_the	1
 tool_these	1
 grade_the	1
+money_the	1
 seller_The	1
 class_the	1
 head_all	2
 LOVES_this	1
+etc_all	1
 fun_a	1
 class_this	1
 whole_this	1
@@ -1686,10 +1672,14 @@ DVD_the	1
 UP_THE	1
 resource_this	1
 money_This	1
+influence_the	1
 time_this	1
 shuffle_each	1
+grammar_all	1
+fun_the	1
 child_the	1
 lot_these	1
+constitution_that	1
 test_a	1
 DVD_a	1
 shuffle_all	2
@@ -1698,25 +1688,17 @@ manner_that	1
 grade_this	2
 round_the	1
 experience_a	1
-fun_the	1
+jukebox_the	1
 ALL_THE	1
+animation_the	1
 course_the	1
 way_the	2
 disc_the	1
-PDT_DT
-all_these	7
-half_the	1
-all_those	3
-all_the	80
-All_the	5
-such_a	2
 POS_TO
 's_to	3
 VBN_JJR
 made_more	1
 been_cheaper	1
-JJR_-RRB-
-older_-RRB-	1
 WDT_RB
 that_much	1
 that_just	1
@@ -1847,9 +1829,9 @@ are_perfect	1
 'm_only	1
 speak_Spanish	1
 have_fond	1
-CD_-LRB-
-one_-LRB-	1
-!!_-LRB-	1
+RP_PRP$
+out_their	1
+up_my	2
 :_PRP$
 :_your	1
 -_our	1
@@ -1861,9 +1843,6 @@ it_cheaper	1
 it_easier	1
 PRP_JJS
 you_least	1
-DT_-LRB-
-this_-LRB-	1
-a_-LRB-	1
 VB_NNS
 put_subtitles	1
 buy_copies	1
@@ -1897,26 +1876,31 @@ receive_DVDs	1
 educate_years	1
 CD_WP
 1970_who	1
--LRB-_RB
--LRB-_as	2
--LRB-_still	1
--LRB-_even	1
--LRB-_mostly	2
--LRB-_much	1
--LRB-_maybe	1
--LRB-_especially	3
--LRB-_unfortunately	1
--LRB-_almost	1
--LRB-_though	1
--LRB-_Now	1
--LRB-_again	1
--LRB-_not	1
--LRB-_POLITICALLY	1
+VB_NNP
+love_School	1
+learn_English	1
+access_Grammer	1
+hum_Schoolhouse	1
+bring_Schoolhouse	1
+hear_SHR	1
+teach_Cubscouts	1
+watch_School	2
+Thank_God	1
+play_Schoolhouse	1
+quote_Mr.	1
+contact_Disney	1
+remember_School	1
+watch_Dora	1
+recognize_Bob	1
+care_HOW	1
+remember_Money	1
+watch_Saturday	2
+watch_Schoolhouse	1
+teach_Math	1
+suggest_Baby	1
 FW_VB
-<br />_Find	1
 i_remember	1
 i_know	1
-<br />_Buy	1
 VBG_JJS
 knowing_most	1
 VBG_JJR
@@ -1929,8 +1913,6 @@ most_current	1
 best_educational	1
 best_short	1
 most_other	1
--RRB-_TO
--RRB-_to	1
 POS_JJS
 's_greatest	1
 CC_IN
@@ -2000,109 +1982,8 @@ tend_to	3
 use_to	2
 ask_to	1
 plan_to	1
-RB_``
-not_``	2
-intently_``	1
-Just_``	1
-PRP$_NNS
-My_nieces	1
-my_neighbors	1
-our_students	1
-my_favorites	7
-your_customers	1
-my_expectations	1
-their_songs	1
-your_kids	14
-my_students	15
-my_grandchildren	5
-her_favorites	3
-your_eyes	1
-your_children	8
-my_hands	2
-My_siblings	1
-our_outings	1
-his_kids	1
-Your_kids	2
-My_grandchildren	1
-my_teenagers	1
-My_sons	2
-my_time-tables	1
-their_heads	2
-my_girls	2
-your_friends	1
-my_nieces	4
-their_peers	1
-My_godchildren	1
-our_kids	7
-their_products	1
-our_friends	1
-my_nieces/nephews	1
-my_siblings	1
-our_sons	1
-your_students	1
-their_classrooms	2
-my_sons	2
-her_times	2
-Her_eyes	1
-My_students	7
-My_kids	22
-my_lungs	1
-Your_Adverbs	10
-their_20s	1
-Our_teachers	1
-our_assignments	1
-my_grandsons	1
-my_socks	1
-my_colleagues	1
-your_prices	1
-our_Grandkids	1
-their_countries	1
-My_boys	2
-our_children	4
-My_neices	1
-your_teachers	1
-our_cartoons	1
-my_forties	1
-my_years	1
-my_nephews	3
-their_segments	1
-our_favorites	5
-her_classes	1
-My_children	14
-my_teeth	1
-their_favorites	3
-my_adjectives	1
-your_adverbs	6
-my_stories	1
-my_friends	2
-their_kids	3
-my_neices	1
-his_times	2
-your_grandchildren	1
-their_viewers	1
-my_childs	1
-our_daughters	1
-my_eyes	1
-my_classes	1
-my_parents	1
-their_parents	1
-its_rituals	1
-my_children	19
-Our_daughters	1
-Our_children	1
-his_favorites	1
-your_kids/grandkids	1
-Your_Adjectives	3
-your_parents	1
-my_kids	52
-my_40s	1
-My_childrens	1
-my_granddaughters	1
-your_numbers	1
-their_lives	1
-our_televisions	1
-my_freshmen	1
-my_macs	1
+,_TO
+,_to	7
 CC_:
 or_...	1
 But_...	1
@@ -2317,17 +2198,21 @@ help_them	1
 hope_it	3
 allude_us	1
 WORK_I	1
-<br />_he	1
 let_him	1
 get_them	2
 NNPS_NNPS
 Rocks_Conjunctions	1
-''_JJR
-''_more	1
 LS_MD
 i_could	1
-CC_-LRB-
-+_-LRB-	1
+VB_:
+see_:	5
+be_--	1
+learn_:	2
+work_;	1
+change_;	1
+be_...	1
+watch_...	1
+surround_;	1
 JJS_VB
 least_expect	1
 CD_VBG
@@ -2502,7 +2387,7 @@ start_.	1
 sing_.	2
 appreciate_.	1
 we_?	1
-do_!	1
+do_!	2
 be_.	2
 remember_.	2
 stop_!	1
@@ -2589,7 +2474,9 @@ appropriate_to	1
 enjoyable_to	1
 glad_to	3
 CD_VBP
+3,4,6_enjoy	1
 2_are	1
+6_enjoy	1
 MD_``
 can_``	1
 NNPS_VBG
@@ -2604,6 +2491,7 @@ children_interested	1
 mornings_free	1
 eyes_open	1
 features_such	1
+kids_2nd	1
 years_old	4
 yrs_old	1
 extras_such	1
@@ -2613,31 +2501,19 @@ lessons_such	1
 discs_full	1
 kids_various	1
 FW_NNS
-<br />_creators	1
 !!_Kids	1
 los_angeles	1
-<p>_Thanks	1
-<br />_Thanks	1
-FW_NNP
-<br />_Thankfully	1
-<br />_DJ	1
-<br />_Sneak	1
-<br />_America	1
-<br />_Schoolhouse	2
-<br />_Overall	1
-<br />_Money	1
-<br />_BTW	1
-<br />_Now	1
-<br />_Grammar	1
-<br />_VERY	1
-<br />_Science	1
-<br />_Disc	2
+;--RRB-_Thanks	1
+RP_CC
+out_and	1
+up_and	9
+around_and	1
+down_and	1
 RP_CD
 up_one	1
 out_one	1
-VB_FW
-watch_<br />	1
-BUY_FROM	1
+WRB_WP
+how_what	1
 NNP_''
 Pot_''	1
 Enchilada_''	2
@@ -3184,6 +3060,7 @@ the_Preamble	4
 a_Schoolhouse	4
 This_Video	1
 the_West	1
+a_Spielberg	1
 THE_SHIPPING	1
 The_Playlist	1
 these_School	1
@@ -3298,6 +3175,7 @@ us_something	1
 him_self	1
 they_stutter	1
 them_something	1
+them_mine	1
 him_boxing	1
 it_loop	1
 myself_singing	1
@@ -3439,7 +3317,7 @@ dances_and	1
 plots_or	1
 DVDs_and	2
 commercials_and	1
-children_and	8
+children_and	9
 weeks_and	1
 changes_and	1
 aids_and	1
@@ -3450,11 +3328,12 @@ neices_and	1
 lessons_and	1
 tables_and	2
 conjunctions_or	1
-videos_and	5
+videos_and	6
 adjectives_or	1
 games_and	1
 groups_and	1
 weekends_and	1
+entanglements_and	1
 mornings_and	4
 minutes_or	1
 greats_and	1
@@ -3479,11 +3358,11 @@ friends_and	1
 jingles_and	2
 times_and	1
 BASICS_and	1
-characters_and	1
+lyrics_and	4
 children_but	1
 skills_and	1
 goals_and	1
-kids_and	8
+kids_and	9
 70s_and	3
 friends_but	1
 prices_and	1
@@ -3495,13 +3374,14 @@ thirties_and	1
 voices_and	1
 memories_and	1
 toons_plus	1
+taxes_and	1
 politics_and	1
 classes_and	1
 Dollars_and	2
 30s_&	1
 nieces/nephews_and	1
 juniors_and	1
-lyrics_and	4
+characters_and	1
 tunes_and	5
 ones_and	1
 cartoons_and	7
@@ -3515,7 +3395,7 @@ sounds_but	1
 segments_or	1
 planets_or	1
 adults_but	1
-kids_or	2
+kids_or	3
 siblings_and	1
 numbers_and	2
 previews_and	1
@@ -3545,9 +3425,6 @@ Awards_and	1
 girls_and	1
 shorts_but	1
 standards_and	1
-VBN_-RRB-
-loved_-RRB-	1
-raised_-RRB-	1
 NNS_CD
 ages_3	2
 ages_2	1
@@ -3555,14 +3432,23 @@ kids_11	1
 ages_6	2
 ages_5	1
 ages_4	1
+kids_8,6,3	1
+sons_10	1
+DVDs_8-10	1
 times_12	1
+mountains_3	1
 ages_3,4,6	1
 ages_2-4	1
+children_6	1
+years_2008	1
 lessons_24	1
 days_!!!	1
 times_8	2
+NNPS_``
+Lemonheads_``	1
 ''_VBZ
 ''_is	9
+''_leaves	1
 ''_shows	1
 VBN_PRP
 helped_me	1
@@ -3586,6 +3472,7 @@ brought_us	1
 told_us	1
 Loved_it	1
 taught_you	1
+loved_I	1
 gotten_it	1
 taught_them	1
 heard_them	1
@@ -3594,6 +3481,7 @@ dumbed_them	1
 Cracked_us	1
 VBP_IN
 are_on	4
+!!_Like	1
 remember_as	3
 are_like	1
 hear_in	1
@@ -3658,7 +3546,7 @@ remember_from	5
 like_that	1
 ask_for	1
 moan_that	1
-!!_Like	1
+learn_with	1
 pass_on	1
 are_about	1
 NNPS_RB
@@ -3666,22 +3554,22 @@ Hossenpfeffers_not	1
 NN_CC
 disc_and	1
 granddaughter_and	1
-<p>_But	2
 Bill_and	2
 day_and	3
 tool_and	2
+??_and	1
 knowledge_and	1
 library_and	1
 collection_and	1
-youth_but	1
 place_or	2
 teacher_&	1
 software_and	1
 home_and	3
 *_&	1
-cartoon_and	2
+cartoon_and	3
 commercialism_and	1
 topic_and	1
+party_and	1
 night_and	1
 video_and	3
 DVD_but	1
@@ -3707,6 +3595,7 @@ order_or	5
 baby_and	1
 video_but	2
 History_and	2
+teacher_or	1
 speech_and	1
 favor_and	1
 junction_and	2
@@ -3715,12 +3604,14 @@ time_either	1
 source_or	1
 shipping_and	2
 skit_but	1
+featurette_and	1
 Mom_and	1
 innocence_and	1
 bit_and	1
 time_and	4
 music_and	3
 set_and	1
+home_or	1
 blip_or	1
 multiplication_and	1
 attention_and	3
@@ -3741,7 +3632,7 @@ government_and	1
 curve_and	1
 house_and	2
 List_and	1
-DVD_and	16
+DVD_and	17
 A_+	2
 voting_or	1
 nephew_and	2
@@ -3749,6 +3640,7 @@ learning_and	1
 van_or	1
 history_and	7
 pace_and	1
+tape_and	1
 series_and	2
 hand_and	1
 daughter_and	4
@@ -3760,6 +3652,7 @@ generation_and	3
 picture_nor	1
 trouble_and	1
 action_and	2
+etc_or	1
 kid_and	9
 class_and	2
 em_and	1
@@ -3769,12 +3662,13 @@ machine_or	1
 school_and	4
 math_or	1
 quality_and	1
-<br />_And	1
+youth_but	1
 child_or	1
 catchiness_and	1
 game_and	1
 rock_and	3
 dearie_and	1
+autism_and	1
 color_and	1
 sake_and	1
 site_and	1
@@ -3801,10 +3695,12 @@ animation_and	2
 education_or	1
 feel_and	1
 Nickelodeon_and	1
-featurette_and	1
+Teacher_and	1
 culture_and	1
 inside_and	1
+VERB_or	1
 song_and	5
+I_and	1
 car_and	1
 today_and	4
 voice_and	1
@@ -3817,40 +3713,45 @@ bill_and	1
 grammer_and	2
 constitution_and	1
 gospel_or	1
-tape_and	1
+career_and	1
 country_and	2
 language_and	1
 road_and	1
 man_and	1
 movie_but	1
 sister_and	3
-autism_and	1
+rock_or	1
+etc._or	1
 lot_and	2
 rock_&	1
 smile_and	1
 education_and	2
 teaching_and	1
 entertainment_and	1
-<br />_but	1
 rock_but	1
 circulation_and	1
+town_or	1
+catchy_but	1
 morning_and	6
 grammar_and	8
 buff_or	1
 civics/history_and	1
+pain_and	1
 something_and	1
 game_&	1
 parent_or	1
 playlist_or	1
-school_but	1
+school_but	2
 husband_&	1
 consitution_and	1
 Place_or	7
 CD_and	1
 Kindergarten_and	1
 dancing_and	1
+FUN_&	1
 preamble_and	2
 horn_but	1
+mode_and	1
 person_and	1
 conjunction_and	1
 singing_and	2
@@ -3869,6 +3770,7 @@ system_and	1
 science_and	7
 Simplicity_and	1
 product_and	1
+complaint_and	1
 gift_and	2
 TO_CD
 to_2	1
@@ -3882,19 +3784,23 @@ experience_!!	1
 ITS_ONE	1
 number_8	1
 family_!!!	1
+collection_46	1
 school_1	1
+video_3	1
+daughter_9	1
 kid_!!	1
-age_5	1
 ALL_46	1
 head_thirty	1
 DVD_5	1
 figure_eight	1
-age_48	1
+son_10	1
 disc_1	4
 disc_2	6
+age_48	1
 school_one	1
 age_3	2
-<br />_I	2
+age_5	1
+material_2	1
 doubt_one	1
 number_30	1
 figure_8	1
@@ -3904,20 +3810,22 @@ fun_2	1
 :_IN
 -_if	1
 ;_if	1
+:_In	1
 ..._before	1
 ..._if	1
 :_through	1
 ..._as	1
 :_by	1
+..._In	1
 -_of	1
 ''_VBP
 ''_are	2
+''_Do	1
 CC_LS
 but_i	1
 But_i	1
 and_i	2
 JJ_FW
-original_<br />	1
 little_intro	1
 glad_i	1
 DT_JJS
@@ -3950,13 +3858,9 @@ the_worse	1
 the_less	1
 DT_WP
 those_who	9
--RRB-_WP
--RRB-_what	1
 WP_JJ
 what_many	1
 what_young	1
-VBG_-RRB-
-learning_-RRB-	1
 NN_JJ
 money_well-spent	1
 childhood_favorite	1
@@ -3968,6 +3872,7 @@ GED_adult	1
 user_friendly	3
 month_old	1
 something_entertaining	1
+school_2nd-6th	1
 fun_educational	2
 lol_Great	1
 Anniversary_Limited	1
@@ -3975,6 +3880,7 @@ mind_numbing	1
 crystal_clear	1
 town_last	1
 birthday_present	2
+collection_famous	1
 year_old	57
 review_necessary	1
 Anniversary_Special	1
@@ -3990,11 +3896,13 @@ generation_interested	1
 rock_verbatim	1
 2x2_=	1
 grade_American	1
+speech_English	1
 something_useful	1
 house_rock	1
-music_on-line	1
+order_mild	1
 fun_easy	1
 glitter_iron-on	1
+beginning_loud	1
 time_favorite	1
 brand_new	2
 something_valuable	1
@@ -4009,7 +3917,7 @@ morning_nostalgic	1
 etc._easy	1
 something_educational	3
 content_wholesome	1
-<p>_Fourth	1
+music_on-line	1
 surprise_many	1
 history_such	1
 school_aged	1
@@ -4071,7 +3979,6 @@ Computer_songs	1
 NNP_NNP
 EVERY_Schoolhouse	1
 Rock_Live	1
-<br />_ROCK	1
 !!_Do	1
 George_Newall	3
 Debt_:--RRB-	1
@@ -4083,7 +3990,7 @@ Emmy_Schoolhouse	1
 Shoolhouse_Rock	1
 EVERY_SATURDAY	1
 A_Schoolhouse	2
-EVEN_FINE	1
+Energy_Blues	2
 Anniversay_Edition	1
 Grammar_Rock	11
 Tax_Man	2
@@ -4094,10 +4001,8 @@ Electric_Company	1
 BABY_!!	1
 R.I.P_Saturday	1
 Mr._Dorough	1
-My_Dear	3
+Lion_Sleeps	1
 A_SOLID	1
-<p>_My	1
-<br />_<br />	3
 Elementary_My	2
 Christmas_Eve	1
 ABC_School	1
@@ -4105,7 +4010,6 @@ WE_WERE	1
 Mr._Chips	6
 Solar_System	1
 Lynn_Ahrens	1
-<p>_Bob	1
 Fraggle_Rock	1
 ME_BACK	1
 Rocks_CD	1
@@ -4113,7 +4017,7 @@ Seven_Samson	1
 ??_Now	1
 House_Rock	60
 Elbow_Room	3
-Energy_Blues	2
+Constitution_The	1
 Language_Learners	1
 Master_Jumble	1
 The_Energy	2
@@ -4126,14 +4030,13 @@ Electric_Slide	1
 IV_MADE	1
 US_Constitution	4
 The_Lion	1
-<p>_Second	1
 MY_MATH	1
 !!_My	2
 American_Government	2
 MUCH_PLEASED	1
 :-P_Our	1
 Electoral_College	2
-<br />_Now	1
+ROCK_TAPE	1
 Little_House	1
 !!_The	1
 Rocks_!!!	1
@@ -4149,12 +4052,11 @@ Play_All	1
 BUT_LISTEN	1
 Mr._Lolly	1
 Tyrannosaurus_Debt	4
-<p>_Seventh	1
 MATH_PLUS	1
 The_Good	2
-<p>_Eighth	1
 ???_Fun	1
 Mr._Morton	3
+EVEN_FINE	1
 School_Social	1
 ASIDE_AT	1
 Whole_Enchilada	4
@@ -4166,7 +4068,6 @@ The_Cartoon	1
 Great_American	4
 Junior_High	1
 HOUSE_ROCK	3
-<br />_Extra	1
 Schoolhouse_Rocks	1
 Monsters_Inc.	1
 School_House	68
@@ -4181,29 +4082,24 @@ Jack_Sheldon	4
 INVESTMENTS_IV	1
 The_Great	2
 !!!_Product	1
-ROCK_TAPE	1
 !!!!!!_All	1
 Computer_Rock	1
-<p>_Elementary	1
 Social_Studies	4
 USE_THEM	1
 Science_Rock	7
 Grammer_Rock	1
 SCHOOLHOUSE_ROCK	1
 !!!_Classic	1
-<br />_School	1
 Love_School	1
 Melting_Pot	4
 Northern_Ireland	1
 Lucky_Seven	3
-<p>_Well	1
 KEEPER_!!!	1
 Saturday_Dec.	1
 Weather_Show	9
 Xavier_Sasparilla	1
 U._S.	1
 Three_Is	3
-<br />_Top	1
 Naughty_Number	2
 Mother_Necessity	3
 ;-RRB-_This	1
@@ -4213,12 +4109,9 @@ REMEMBER_BUT	1
 A_Shot	1
 STILL_USE	1
 !!!_Great	1
-<br />_The	2
-Lion_Sleeps	1
 RETRO_BABY	1
 America_Rock	8
 Lolly_Lolly	13
-<p>_Fifth	1
 FINE_SCHOOL	1
 Them_Not-So-Dry	1
 Ring_Government	2
@@ -4231,7 +4124,6 @@ The_Preamble	3
 Electricity_Electricity	3
 ON_SATURDAY	1
 Generation_Xer	1
-<br />_Multiplication	1
 Number_Nine	3
 MINUTES_EVERY	1
 The_World	1
@@ -4245,22 +4137,18 @@ The_Top	1
 DI$_NEY	1
 Rock_Rocks	1
 A_KEEPER	1
-TAKES_ME	1
-<br />_Conjunction	1
+Scripture_Rock	3
+R&B_ROCK	1
 Rufus_Xavier	3
 A_Magic	4
-FASTER_THAN	1
 Multipication_Rock	1
 Telegraph_Line	3
 Conjuction_Junction	2
-R&B_<br />	1
 AND_STILL	1
 Mr_Chips	2
-<br />_This	2
 The_Weather	1
 Not-So-Dry_Bones	1
 American_Melting	4
-<p>_Overall	2
 Xavier_Sarsparilla	1
 Extra_Credit	3
 The_Four-Legged	1
@@ -4272,36 +4160,28 @@ Money_Rock	4
 Mr._Twelve	1
 THIS_TAKES	1
 Naught_Number	1
-Scripture_Rock	3
+TAKES_ME	1
 House_Rocks	2
 Bob_!!	1
-<br />_Lolly	1
-<p>_Darn	1
+FASTER_THAN	1
 Hannah_Montana	1
 Buster_Brown	1
-<br />_Scripture	1
+Trivia_Game	1
 !!!_None	1
 Saturday_Mornings	1
 PLUS_READING	1
 Age_Have	1
 Super_FAST	1
-<p>_Third	1
 Wall_Street	2
 Leapster_Schoolhouse	1
 :--RRB-_Great	1
-Trivia_Game	1
-<p>_The	1
 A_Bill	5
-<p>_Money	1
 ONLY_CAN	1
 Conjuntion_Junction	1
 LEARNING_MY	1
 Sesame_Street	5
 SCHOOL_HOUSE	3
-<p>_Sixth	1
-Constitution_<br />	1
 Xavier_Sasaparillia	1
-<p>_Yes	1
 George_Carlin	1
 VERY_MUCH	1
 Three_Ring	2
@@ -4309,10 +4189,11 @@ S._Constitution	1
 Seven_Sampson	2
 A_Noun	5
 Magic_Number	17
+Tokens_The	1
 LOVE_IT	1
 Man_Max	2
 Olive_Oyl	1
-<br />_Way	1
+My_Dear	3
 US_Government	1
 Revolutionary_War	1
 SATURDAY_MORNING	1
@@ -4321,7 +4202,6 @@ NOT_ONLY	1
 LOVES_IT	1
 Magic_School	1
 Number_Cruncher	1
-<p>_Now	2
 Sleeps_Tonight	1
 Scool_House	1
 MY_ORDER	1
@@ -4354,8 +4234,6 @@ Round_The	1
 Blossom_Dearie	3
 JJR_:
 more_-	2
-JJR_VBZ
-better_is	1
 JJR_CD
 more_!!!!	1
 :_RB
@@ -4394,9 +4272,6 @@ did_remind	1
 JJR_PRP
 less_I	1
 better_it	1
-VBZ_JJS
-learns_best	1
-has_most	1
 CC_EX
 and_there	3
 And_there	1
@@ -4413,7 +4288,7 @@ gets_older	1
 JJR_DT
 worse_a	1
 JJR_.
-older_.	2
+older_.	3
 softer_.	1
 older_!	1
 smoother_!	1
@@ -4496,8 +4371,8 @@ created_to	1
 obligated_to	1
 NNPS_VBZ
 Rocks_covers	1
-VBG_-LRB-
-watching_-LRB-	1
+PRP$_PRP
+her_she	1
 VBP_FW
 am_i	1
 love_em	1
@@ -4711,8 +4586,6 @@ is_how	2
 shows_when	1
 WDT_JJ
 What_wonderful	1
-RBR_:
-better_...	1
 JJR_RB
 better_now	1
 VBN_CD
@@ -4720,24 +4593,12 @@ bought_two	1
 Bought_two	1
 bought_one	2
 released_three	1
-LS_-RRB-
-2_-RRB-	1
 EX_MD
 there_will	1
 CD_WRB
 !!_How	1
 one_where	1
 !!!!_When	1
--LRB-_CD
--LRB-_46	1
--LRB-_2008	1
--LRB-_10	2
--LRB-_6	1
--LRB-_8-10	1
--LRB-_2	2
--LRB-_3	2
--LRB-_8,6,3	1
--LRB-_9	1
 VB_WP
 appreciate_what	1
 watch_what	1
@@ -4751,44 +4612,13 @@ learn_what	1
 supplement_what	1
 Guess_what	1
 previw_what	1
--LRB-_CC
--LRB-_or	4
--LRB-_but	3
--LRB-_&	1
--LRB-_But	1
--LRB-_and	16
 RP_WDT
 out_which	2
-NNS_-LRB-
-nephews_-LRB-	1
-versions_-LRB-	1
-words_-LRB-	1
-cartoons_-LRB-	1
-songs_-LRB-	2
-children_-LRB-	3
-influences_-LRB-	1
-segments_-LRB-	1
-ideas_-LRB-	1
-grandsons_-LRB-	1
-favorites_-LRB-	5
-sons_-LRB-	1
-70s_-LRB-	1
-kids_-LRB-	7
-mountains_-LRB-	1
-ones_-LRB-	1
-concepts_-LRB-	1
-menus_-LRB-	1
-discs_-LRB-	1
-years_-LRB-	1
-categories_-LRB-	1
-DVDs_-LRB-	1
 WDT_PRP
 which_they	1
 which_I	3
 whatever_they	1
 which_you	2
-VBD_FW
-was_in	1
 UH_DT
 Wow_this	1
 RB_WRB
@@ -4805,8 +4635,6 @@ constantly_when	1
 again_why	1
 now_whenever	1
 again_whenever	2
-$_-LRB-
-$_-LSB-	1
 CD_POS
 1980_'s	3
 1970_'s	5
@@ -4821,7 +4649,7 @@ CD_POS
 RB_,
 Surprisingly_,	1
 not_,	1
-hey_,	1
+especially_,	1
 However_,	6
 sometimes_,	1
 Here_,	5
@@ -4832,11 +4660,13 @@ lolly_,	6
 ever_,	1
 quickly_,	1
 Altogether_,	1
+hey_,	1
 better_,	1
 there_,	2
 anyway_,	1
 yeah_,	1
 First_,	2
+already_,	1
 too_,	3
 together_,	1
 Admittedly_,	1
@@ -4862,7 +4692,7 @@ Seriously_,	1
 nowadays_,	1
 anymore_,	1
 randomly_,	1
-later_,	4
+later_,	5
 unfortunately_,	2
 Apparently_,	1
 Personally_,	2
@@ -4893,7 +4723,7 @@ not_.	5
 immediately_.	1
 Here_!	1
 early_!	1
-ago_.	8
+ago_.	9
 quickly_!	1
 away_.	2
 ever_.	2
@@ -4905,7 +4735,7 @@ later_!	2
 ago_?	1
 long_!	1
 ago_!	2
-too_.	30
+too_.	31
 apart_.	1
 better_!	1
 along_!	1
@@ -4954,7 +4784,7 @@ here_!	1
 still_.	2
 regularly_.	1
 here_.	5
-now_.	7
+now_.	8
 again_.	17
 next_.	1
 alot_.	1
@@ -4964,6 +4794,7 @@ around_.	1
 fast_.	1
 n't_.	1
 first_.	3
+again_!	1
 recently_.	1
 overseas_.	1
 IN_VB
@@ -5005,15 +4836,6 @@ was_8	1
 was_one	2
 turned_5	1
 were_40	1
-PRP$_-LRB-
-My_-LSB-	1
-her_-LRB-	1
-NNP_-RRB-
-Tonight_-RRB-	1
-Rock_-RRB-	4
-Parton_-RRB-	1
-Constitution_-RRB-	1
-Lolly_-RRB-	1
 ''_LS
 ''_i	1
 NNS_DT
@@ -5043,6 +4865,7 @@ memories_this	1
 things_a	1
 years_no	1
 morinings_a	1
+songs_some	1
 students_a	1
 kids_all	1
 answers_these	1
@@ -5067,7 +4890,7 @@ well_...	1
 here_...	2
 Here_;	2
 TO_.
-to_.	1
+to_.	2
 to_!	1
 TO_,
 to_,	3
@@ -5098,22 +4921,6 @@ how_they	6
 WHEN_I	2
 why_they	2
 whenever_I	5
-CD_-RRB-
-8-10_-RRB-	1
-4_-RRB-	1
-5_-RRB-	2
-196_-RRB-	1
-3,4,6_-RRB-	1
-42_-RRB-	1
-!!!_-RRB-	1
-3_-RRB-	1
-8_-RRB-	1
-11_-RRB-	1
-6_-RRB-	1
-2008_-RRB-	1
-1994_-RRB-	1
-12_-RRB-	1
-13_-RRB-	1
 RBR_DT
 longer_a	1
 JJS_DT
@@ -5224,18 +5031,6 @@ it_yourself	1
 us_they	1
 her_her	1
 it_I	1
-VBD_WRB
-learned_how	1
-ANd_how	1
-wondered_why	1
-thought_how	1
-anticipated_how	1
-realized_how	2
-were_when	1
-enjoyed_when	1
-was_when	2
-forgot_how	2
-did_when	3
 IN_PRP
 While_I	5
 once_I	2
@@ -5375,28 +5170,21 @@ about_it	6
 so_he	2
 ''_.
 ''_?	1
-''_.	29
+''_.	34
 '_.	2
 ''_!	1
 ''_,
 '_,	1
-''_,	23
-PRP_-RRB-
-me_-RRB-	2
-yourself_-RRB-	2
-ourselves_-RRB-	1
+''_,	25
+NNS_VB
+kids_learn	2
 VB_EX
 think_there	1
 ,_FW
 ,_etc.	2
 ,_i	2
-,_<br />	1
+,_CLR	1
 ,_huh	1
--RRB-_PRP
--RRB-_you	1
--RRB-_she	1
--RRB-_They	1
--RRB-_I	3
 TO_WP
 to_what	3
 RB_NNS
@@ -5409,12 +5197,14 @@ even_children	1
 maybe_gerunds	1
 then_kids	1
 :_NNS
-:_Students	1
+:_People	1
+;_Fireworks	1
 ;_Interjections	2
 :_Dollars	2
 ..._ROCKS	1
-;_Fireworks	1
+:_Students	1
 ..._rules	1
+..._Cartoons	1
 :_lots	1
 -_touches	1
 :_NNP
@@ -5424,12 +5214,10 @@ then_kids	1
 ;_This	1
 --_Quick	1
 ;_Elementary	1
-..._<br />	1
 ;_Walkin	1
 ;_Sufferin	1
 ;_Tyrannosaurus	1
 ..._Geeeezzzz	1
-:_<p>	2
 ;_Rufus	1
 ;_Nike	1
 ..._Saturday	1
@@ -5437,25 +5225,28 @@ then_kids	1
 ;_The	4
 ..._;-RRB-	1
 ;_Three	3
-:_<br />	3
 ..._RETRO	1
 :_Software	1
+:_Grammar	1
+:_Math	1
 ;_A	3
 ;_Lolly	2
 ;_Audio	1
 ;_Tax	1
 ;_Mother	1
 ;_Emmy	1
-:_Grammar	1
+:_Extra	1
 ;_Elbow	1
 ;_Telegraph	1
+:_Now	1
 ..._School	1
-:_Math	1
-:_My	2
+..._Way	1
+:_My	3
 ;_Figure	1
 ;_Weather	1
-:_Conjunction	1
+:_Conjunction	2
 :_Interjection	1
+:_Lolly	1
 -_School	1
 ;_Little	1
 ;_Interplanet	2
@@ -5724,17 +5515,8 @@ they_thinking	1
 him_watching	1
 them_learning	1
 us_claiming	1
-:_JJ
-..._Great	1
-;_Busy	1
-:_Little	1
--_great	1
-..._Many	1
-..._<br />	1
-:_Top	1
-..._educational	1
-;_great	1
--_television-unless-it-also-has-a-toy-to-sell	1
+VB_LS
+know_i	1
 DT_VBP
 all_need	1
 The_verb	1
@@ -5759,7 +5541,6 @@ both_enjoy	2
 WP_CD
 what_one	1
 NN_UH
-<p>_Oh	1
 segment_oh	1
 I._Wow	1
 DT_NN
@@ -5973,6 +5754,7 @@ a_multiplication	1
 the_play	3
 a_computer	1
 the_process	4
+this_conjunction	1
 a_blast	9
 a_conjunction	1
 every_semster	1
@@ -6520,7 +6302,7 @@ this_reminded	1
 PRP_VBP
 I_come	1
 They_learn	1
-They_overlook	1
+me_remember	1
 He_sing	1
 I_enjoy	4
 you_get	7
@@ -6576,7 +6358,7 @@ we_finish	1
 We_watch	2
 I_keep	2
 they_memorize	1
-I_rank	1
+They_overlook	1
 We_are	4
 they_pick	1
 They_love	6
@@ -6661,6 +6443,7 @@ They_keep	1
 you_hear	3
 you_homeschool	1
 we_drive	1
+I_rank	1
 I_Come	4
 We_have	2
 they_perform	1
@@ -6845,15 +6628,10 @@ it_lacks	1
 it_remains	1
 it_turns	1
 FW_PRP
-<br />_It	4
-Mabye_we	1
-<br />_They	1
-<br />_We	2
 !!!_I	1
-<br />_He	3
-<br />_I	19
-VBD_''
-thought_'	1
+41/2_He	1
+Mabye_we	1
+!!!_It	1
 VBP_EX
 are_there	1
 wish_there	2
@@ -6894,6 +6672,28 @@ after_.	1
 for_.	2
 beyond_.	1
 from_.	1
+FW_FW
+BELIEVE_HOW	1
+intro_dvd	1
+1smileycat_:--RRB-	1
+i_wasnt	1
+i_hadnt	1
+FROM_!!	1
+LOVE_THIS	1
+BEST_!!!	1
+WAS_GOOD	1
+!!!_Enjoy	1
+WELL_WORTH	1
+adverb_vs.	1
+:-RRB-_Bought	1
+in_los	1
+dvd_afer	1
+WOW_!!!	1
+JoAnne_Dandin	1
+boogie_woogie	1
+huh_?!	1
+lol_!!	1
+in_awe	1
 VBN_WP
 forgotten_what	1
 known_what	1
@@ -6903,6 +6703,8 @@ MD_VBN
 'd_viewed	1
 EX_RB
 there_now	1
+CD_PRP$
+!!_My	1
 WP_NNS
 what_memories	1
 what_adjectives	1
@@ -6935,22 +6737,19 @@ yourself_.	2
 her_.	5
 it_.	89
 myself_.	2
-JJS_.
-most_.	2
-best_.	3
+VBD_FW
+was_in	1
 PRP_,
-me_,	4
+me_,	5
 itself_,	1
 him_,	1
 them_,	14
 you_,	1
 her_,	1
-yourself_,	1
+yourself_,	2
 us_,	3
 myself_,	2
 it_,	39
-JJS_VBZ
-hardest_is	1
 CC_VBP
 and_want	1
 and_intend	1
@@ -7060,12 +6859,12 @@ way_how	1
 time_when	2
 information_when	1
 wonder_how	1
-<p>_when	1
 rock_when	1
 DVD_when	1
 TV_when	5
 tool_when	1
 face_when	1
+game_where	1
 youth_when	1
 breeze_when	1
 series_when	2
@@ -7074,8 +6873,6 @@ life_where	1
 JM_How	1
 hour_when	1
 History_when	1
-,_-LRB-
-,_-LRB-	1
 POS_PDT
 's_all	1
 RP_TO
@@ -7087,10 +6884,12 @@ out_to	2
 down_to	2
 NNP_PRP
 september_you	1
+Constitution_I	1
 Bratz_it	1
 Show_me	1
 LOVE_them	1
 Eve_I	1
+Sheldon_I	1
 Everything_you	1
 CAN_I	1
 Plus_it	1
@@ -7098,6 +6897,7 @@ CC_VBD
 but_had	1
 but_was	2
 and_brought	1
++_was	1
 and_sang	4
 and_heard	1
 and_looked	1
@@ -7237,7 +7037,7 @@ necessary_,	1
 wonderful_,	1
 low_,	3
 on-line_,	1
-old_,	7
+old_,	8
 happy_,	1
 own_,	4
 simple_,	1
@@ -7283,8 +7083,6 @@ classic_,	1
 clean_,	1
 unscratched_,	1
 great_,	6
-FW_EX
-<br />_There	2
 JJ_.
 educational_!	1
 cool_.	2
@@ -7315,7 +7113,7 @@ sure_!	1
 classic_.	1
 wierd_.	1
 routine_.	1
-loud_!	1
+gorgeous_.	1
 prompt_.	1
 quick_.	1
 adult-oriented_.	1
@@ -7335,6 +7133,7 @@ possible_.	1
 annoying_.	1
 entertaining_.	2
 great_!	7
+avoidant_.	1
 true_.	2
 intrigued_.	1
 good_.	4
@@ -7345,10 +7144,12 @@ modern_.	1
 educational_.	11
 dull_.	1
 frustrated_.	1
+important_.	1
 cute_!	1
 catchy_.	1
 BORING_!	2
 many_.	2
+open_.	1
 few_.	1
 worthwhile_.	1
 beneficial_.	1
@@ -7376,7 +7177,7 @@ wonderful_.	3
 GREAT_.	1
 wonderful_!	2
 old_!	2
-gorgeous_.	1
+loud_!	1
 fabulous_.	1
 lovely_.	1
 clear_.	1
@@ -7401,7 +7202,6 @@ most_certainly	1
 :_Unpack	2
 -_Get	1
 :_get	1
-:_<br />	1
 VBN_IN
 tired_of	1
 stuck_with	2
@@ -7500,7 +7300,7 @@ haunted_by	1
 convenced_in	1
 disappointed_in	2
 enthralled_in	1
-raised_with	1
+raised_with	2
 pulled_from	1
 forgotten_along	1
 mastered_from	1
@@ -7652,18 +7452,12 @@ that_where	1
 about_how	3
 of_how	4
 by_how	2
-VBD_-LRB-
-remembered_-LRB-	1
+POS_WRB
+'s_when	1
 PRP$_VBG
 our_writing	1
 my_understanding	1
 my_complaining	1
-CD_''
-three_''	1
-!!!_''	2
-3_''	1
-8_''	1
-Eight_''	3
 IN_PDT
 at_such	1
 with_all	3
@@ -7741,6 +7535,7 @@ arrow_keys	1
 animation_clips	1
 morning_cartoons	29
 chord_changes	1
+history_buffs	1
 multiplication_tables	9
 school_students	5
 memory_tools	1
@@ -7766,7 +7561,7 @@ DVD_players	1
 form_thanks	1
 SR_creators	1
 nursery_rhymes	1
-history_buffs	1
+singing_eyebrows	1
 trading_cards	1
 grade_students	1
 fun_videos	1
@@ -7833,11 +7628,13 @@ history_videos	1
 teaching_tools	4
 anniversary_editions	1
 language_arts	5
+dvd_dvds	1
 bonus_materials	1
 quiz_scores	1
 Morning_cartoons	1
 teaching_parts	1
 money_songs	1
+DVD_s	1
 mulitiplication_patterns	1
 NNP_PRP$
 DEFINITELY_your	1
@@ -7854,13 +7651,16 @@ UP_WATCHING	1
 time_Disney	1
 liike_George	1
 watch_Tyrannosaurus	1
+b_Disney	1
 school_English	1
 job_Disney	1
 dozen_DI$	1
 childhood_Saturday	1
 parent_Disney	1
+group_Grammar	1
 word_!!!	1
 fun_!!!	1
+group_Science	1
 Anniversary_Ed	1
 school_House	1
 buy_!!!!!!	1
@@ -7868,6 +7668,7 @@ singer_Jack	1
 schoolhouse_Rock	2
 OR_America	1
 grade_US	1
+generation_Mr	1
 P_Diddy	1
 time_Schoolhouse	1
 kid_School	1
@@ -7887,7 +7688,7 @@ more_could	1
 ;_``	2
 -_``	3
 :_``	1
-..._``	2
+..._``	3
 WDT_NNS
 which_busts	1
 which_adults	1
@@ -7933,6 +7734,7 @@ Eight_and	1
 4_and	2
 38_and	1
 one_or	1
+196_and	1
 9_and	1
 40_+	1
 IN_JJR
@@ -7954,13 +7756,20 @@ at_least	8
 POS_PRP
 's_I	3
 's_you	1
-POS_-RRB-
-'s_-RRB-	2
-._-RRB-
-!_-RRB-	20
-._-RRB-	7
-?_-RRB-	3
+VBD_WRB
+learned_how	1
+ANd_how	1
+wondered_why	1
+thought_how	1
+anticipated_how	1
+realized_how	2
+were_when	1
+enjoyed_when	1
+was_when	2
+forgot_how	2
+did_when	3
 MD_NN
+should_work	1
 can_shuffle	2
 can_custom	1
 PRP_WRB
@@ -7972,27 +7781,29 @@ myself_when	1
 me_when	4
 him_how	1
 :_DT
--_those	1
--_these	1
---_the	1
+..._each	2
+..._Any	1
 --_a	2
+-_those	1
 -_some	1
-;_A	1
 -_a	3
-:_The	3
--_That	1
-;_all	1
-..._the	2
-:_That	2
-..._This	3
--_the	4
 ;_The	5
-:_the	3
-..._this	4
-..._a	2
 :_No	2
 ..._The	2
-..._each	1
+-_these	1
+;_A	1
+-_That	1
+:_The	3
+..._This	3
+..._the	2
+--_the	1
+;_all	1
+..._a	2
+:_That	2
+:_a	1
+-_the	4
+:_the	3
+..._this	4
 ''_PRP$
 ''_My	1
 DT_MD
@@ -8030,14 +7841,17 @@ more_information	1
 younger_son	1
 older_child	1
 More_King	1
-PRP_-LRB-
-It_-LRB-	1
-them_-LRB-	1
+RB_``
+not_``	2
+intently_``	1
+Just_``	1
 :_CD
+:_1	1
 :_one	1
+..._80	1
+;_2	1
 -_6	1
 ..._30	1
-..._80	1
 POS_VBN
 's_been	1
 's_learned	1
@@ -8212,7 +8026,7 @@ POS_VBZ
 -_or	3
 ..._+	1
 -_but	1
-..._and	8
+..._and	10
 -_And	1
 ;_but	2
 ..._or	1
@@ -8371,8 +8185,6 @@ VBP_VBD
 wish_did	1
 have_had	2
 've_had	1
--LRB-_WRB
--LRB-_where	1
 POS_VBP
 's_are	2
 JJ_JJR
@@ -8394,353 +8206,358 @@ Teachers_to	1
 EX_VBP
 There_are	12
 there_are	10
--RRB-_``
--RRB-_``	1
+VBG_RBR
+learning_more	1
+ordering_more	1
 CC_``
 and_``	16
 &_``	1
 +_``	2
 or_``	5
 NN_NN
-WAY_!!!!!!!!!	1
-constitution_day	1
-student_prank	1
-schoolhouse_rock	13
-lyric_!!	1
-learning_fun	10
-rock_video	1
-disc_set	2
-multiplication_problem	1
-colection_!!!	1
-video_collection	1
-Jukebox_Shuffle	1
-travel_time	1
-jazz_musician	1
-list_option	1
-HEY_ABC/DISNEY	1
-america_rock	2
-history_part	1
-sharing_multiplication	1
-coffee_shop	1
-tripartate_system	1
-song_set	1
+classroom_instruction	1
+age_group	1
+teaching_aid	1
 ala_SHR	1
 grade_boy	1
-SCHOOLHOUSE_ROCK	1
-FUN_!!	1
-DVD_fun	1
-web_site	1
-jazz_satire	1
 interjection_unit	1
-DVD_set	7
-learning_DVD	1
-money_stuff	1
-DVD_today	1
+door_neighbor	1
 History_teacher	2
-O/G_product	1
-Conjunction_junction	2
-stock_market	1
 nostalgia_factor	1
-THIS_DVD	1
-'cause_knowledge	1
-soap_dramas	1
-hip_!!!	1
-product_everyday	1
-grammar_rule	1
-family_time	1
-television_content	1
-promo_material	2
-education_system	1
-History_etc.	1
-disc_2x	1
+monster_jumble	1
 price_:--RRB-	1
-?!_Ah	1
-student_learning	1
 mass_consumption	1
-collection_special	1
-t_class	1
-morning_television	1
-software_engineer	1
 play_school	1
-science_protion	1
-learning_medium	1
-school_rock	1
-cost_average	1
 type_learning	1
-pop_culture	2
-record_time	1
-grader_bleew	1
+Bonus_material	1
+child_!!	1
 history_teacher	1
-culture_garbage	1
-disc_play	2
-school_education	1
-menu_setup	1
-menu_program	1
-refresher_course	1
+DVD_release	2
+GOD_FORBID	1
 jukebox_feature	1
 song_list	1
 working_career	1
-video_production	1
-math_class	1
+Folk_Implosion	1
+school_age	5
+money_segment	1
+topic_history	1
 TV_time	1
-television_info-commercials/animation	1
-play_list	1
-noun_song	1
-jack_sheldon.bob	1
-jack_sheldon	1
-DVD_edition	2
-DVD_release	2
-math_etc.	1
-ABC_ad	1
-Generation_Xer	1
-fun_outlet	1
-product_placement	1
-Preamble_Song	1
-grade_class	1
-SHR_song	1
-volume_level	1
-DVD_format	1
-television_watching	1
-DVD_case	1
-ta_love	1
-classroom_instruction	1
-Morning_lineup	1
-school_child	1
-shuffle_mode	1
-A_student	1
-grammar_rock	1
-teaching_moment	1
-I_bat	1
-math_homework	1
-nation_today	1
-DVD_right	1
+training_package	1
 history_lesson	1
-school_level	1
-School_house	1
-age_group	1
-center_time	1
-core_content	1
-morning_cartoon	4
-college_mathematics	1
-science_section	1
+memorization_information	1
+student_prank	1
 juke_box	1
 multiplication_table	2
-constitution_test	2
-anchor_learning	1
-election_cycle	1
 jumble_word	1
-learning_tool	18
-morning_tv	1
 rock_series	1
-core_audience	1
-telegraph_line	1
-anniversary_edition	2
-GOD_FORBID	1
-musician_composer	1
+television_watching	1
+Interjection_She	1
 neighbor_child	1
 jazz_heratige	1
 school_teacher	2
 MUSIC_history	1
 disk_set	1
 elbow_room	2
-darling_way	1
-person_place	1
-Schoolhouse_rock	6
-Bonus_material	1
-learning_process	1
-mathematics_teacher	1
-voting_song	1
-stage_musical	1
-keepsake_booklet	1
-dollar_cost	1
-preamble_today	1
+electricity_song	2
 juntion_singer	1
-school_newspaper	1
-house_rock	8
 deleware_water	1
-<br />_c	1
-fun_thing	1
-shuffle_program	1
-fun_manner	1
 y/o_son	1
 blossom_dearie	1
-Generation_X	3
-government_class	1
-warm-up_time	1
-training_package	1
+childhood_fav	1
 DVD_overall	1
 yo_daughter	1
-grade_student	1
-door_neighbor	1
-Hip_Hooray	1
 school_classroom	1
-school_age	5
-music_video	1
-yesterday_morning	1
-parent_company	1
-conjunction_junction	11
 teaching_multiplication	1
-day_activity	1
-Preamble_cartoon	1
-shuffle_play	3
-college_history	1
-school_Conjunction	1
-SCRIPTURE_ROCK	1
-core_material	1
 Morning_TV	1
-session_work	1
 gift_idea	1
-bonus_tape	1
-spring_break	1
 water_gap	1
-grocery_store	1
-playlist_menu	1
-school_curiculum	1
-time_consuming	1
-baby_girl	1
+song_anthology	1
 sheldon.bob_dorough	1
-family_entertainment	1
-home_schooling	1
-A_brand	1
-school_band	1
-school_valedictorian	1
-age_child	2
-book_work	1
-KEEP_UP	1
-learning_experience	1
 band_director	1
-math_OR	1
-debate_class	1
-DVD_collection	1
 childhood_flashback	1
-fun_childhood	1
-FAMILY_FUN	1
-learning_atmosphere	1
-day_singing	1
 dvd_set	2
 morning_staple	1
-multiplication_rock	4
-money_rock	4
-rock_section	1
-grade_daughter	1
-money_segment	1
-distinctiveness_uniqueness	1
-constitution_becuase	1
-teaching_aid	1
-language_instruction	1
-history_exam	1
-viewer_feedback	1
-house_singing	2
-pocket_knife	1
-shuffle_feature	2
-Anniversary_edition	1
-til_Suffrage	1
-Emmy_Award	1
-DVD_library	2
-tent_!!	1
-grandma_house	1
-child_inside	1
-dave_frisberg	1
-college_campus	1
 menu_structure	1
-Hip_Hip	1
-math_test	1
-<p>_She	1
-scene_selection	1
-school_house	11
-age_son	1
+Emmy_Award	1
+c_P	1
 classroom_work	1
-school_librarian	1
-morning_TV	3
-suffrage_movement	1
-Award_featurette	1
-EDUCATIONAL_ALL	1
-school_system	1
-Anniversary_Edition	6
-playing_quality	1
-voter_booth	1
-class_singing	1
-college_leave	1
-adverb_song	1
+history_part	1
 tv_industry	1
-medium_puzzle	1
-Conjuntion_Junction	1
-companion_SCRIPTURE	1
-toon_set	1
 DVD_doesnt	1
-cartoon_music	1
-college_professor	1
-advertising_community	1
-Folk_Implosion	1
-library_catalog	1
 bonus_material	4
-memory_lane	9
-jump_start	1
-quality_material	1
-play_button	1
-HAIL_ROCK	1
-rock_collection	1
-ha_ha	1
-garbage_trend	1
-enjoyment_sake	1
-monster_jumble	1
-child_!!	1
-morning_commercial	1
 DVD_Menu	1
-Kindergarten_son	1
 Anniversary_DVD	1
-teaching_tool	6
-DVD_navigation	1
-galaxy_girl	1
-<p>_A	2
 fun_way	7
-Grammar_rock	1
-learning_exprience	1
 conjunction_juntion	1
 DVD_everyday	1
-song_anthology	1
-subject_matter	1
-bob_dorough	1
-satire_singer	1
-<br />_b	1
-Grammar_set	1
-Edition_DVD	1
-school_<br />	1
-dinner_table	1
-grade_school	5
-Conjunction_Junction	26
-MY_FAMILY	1
+life_reinforcement	1
+ta_love	1
 song_form	1
 science_rock	2
-Person_Place	4
+grade_classroom	2
+learning_process	1
+SHR_swimming	1
+Nothing_good	1
+grammar_school	1
+pin_drop	1
+mono_broadcast	1
+lyric_!!	1
+Grammar_rock	1
+multiplication_problem	1
+coffee_shop	1
+song_set	1
+Conjunction_junction	2
+THIS_DVD	1
+preamble_today	1
+soap_dramas	1
+student_learning	1
+t_class	1
+science_protion	1
+culture_garbage	1
+school_education	1
+menu_program	1
+video_production	1
+money_saving	1
+math_etc.	1
+ha_ha	1
+grammar_rock	1
+DVD_2DAYS	1
+companion_SCRIPTURE	1
+product_everyday	1
+learning_tool	18
+morning_tv	1
+anniversary_edition	2
+musician_composer	1
+house_rock	8
+person_place	1
+keepsake_booklet	1
+fun_thing	1
+shuffle_program	1
+warm-up_time	1
+day_activity	1
+school_Conjunction	1
+advertising_community	1
+core_material	1
+bonus_tape	1
+grocery_store	1
+school_curiculum	1
+age_child	2
+book_work	1
+age_son	1
+way_cool	1
+constitution_becuase	1
+history_exam	1
+house_singing	2
+collection_special	1
+DVD_library	2
+chapter_index	1
+grandma_house	1
+child_inside	1
+scene_selection	1
+family_time	1
+suffrage_movement	1
+school_system	1
+playing_quality	1
+college_leave	1
+adverb_song	1
+pocket_knife	1
+Conjuntion_Junction	1
+toon_set	1
+library_catalog	1
+play_button	1
+enjoyment_sake	1
+morning_commercial	1
+teaching_tool	6
+DVD_navigation	1
+menu_setup	1
+learning_exprience	1
+grade_school	5
+Conjunction_Junction	26
 school_presentation	1
 delight_singing	1
-star_DVD	1
-grade_classroom	2
-song_clip	1
-mint_condition	1
-history_course	1
-SHR_swimming	1
+grade_class	1
+school_librarian	1
 family_fun	1
-Nothing_good	1
-memorization_information	1
-grammar_school	1
 dvd_format	1
 rock_song	1
 home_use	1
-dad_dance	1
-way_cool	1
-head_start	1
-football_player	1
-pin_drop	1
-History_class	1
-electricity_song	2
-childhood_fav	1
+song_clip	1
 DVD_player	6
-chapter_index	1
-mono_broadcast	1
-RP_-LRB-
-up_-LRB-	2
+constitution_day	1
+core_content	1
+schoolhouse_rock	13
+learning_fun	10
+disc_set	2
+travel_time	1
+jazz_musician	1
+list_option	1
+Grammar_set	1
+Schoolhouse_rock	6
+FUN_!!	1
+learning_DVD	1
+jazz_satire	1
+O/G_product	1
+day_singing	1
+hip_!!!	1
+grammar_rule	1
+morning_TV	3
+television_content	1
+promo_material	2
+dinner_table	1
+software_engineer	1
+learning_medium	1
+music_bachelor	1
+mathematics_master	1
+pop_culture	2
+refresher_course	1
+I_bat	1
+WAY_!!!!!!!!!	1
+History_class	1
+play_list	1
+jack_sheldon	1
+DVD_edition	2
+Generation_Xer	1
+daughter_age	1
+Preamble_Song	1
+DVD_right	1
+group_science	1
+sharing_multiplication	1
+morning_cartoon	4
+college_mathematics	1
+constitution_test	2
+darling_way	1
+mathematics_teacher	1
+voting_song	1
+dollar_cost	1
+fun_manner	1
+Generation_X	3
+money_stuff	1
+america_rock	2
+stage_musical	1
+music_video	1
+parent_company	1
+fun_outlet	1
+college_history	1
+math_class	1
+dad_dance	1
+time_consuming	1
+home_schooling	1
+A_brand	1
+school_band	1
+learning_experience	1
+math_OR	1
+debate_class	1
+multiplication_rock	4
+money_rock	4
+viewer_feedback	1
+ha_photo	1
+grade_daughter	1
+language_instruction	1
+DVD_today	1
+core_audience	1
+dave_frisberg	1
+Hip_Hip	1
+math_test	1
+telegraph_line	1
+DVD_collection	1
+college_professor	1
+memory_lane	9
+HAIL_ROCK	1
+rock_collection	1
+Kindergarten_son	1
+cost_average	1
+DVD_case	1
+noun_song	1
+MY_FAMILY	1
+mint_condition	1
+head_start	1
+til_Suffrage	1
+government_class	1
+rock_video	1
+colection_!!!	1
+stock_market	1
+Anniversary_edition	1
+HEY_ABC/DISNEY	1
+grade_student	1
+tripartate_system	1
+SCHOOLHOUSE_ROCK	1
+DVD_fun	1
+web_site	1
+DVD_set	7
+playlist_menu	1
+school_child	1
+Jukebox_Shuffle	1
+education_system	1
+disc_2x	1
+?!_Ah	1
+video_collection	1
+school_rock	1
+record_time	1
+grader_bleew	1
+shuffle_mode	1
+television_info-commercials/animation	1
+product_placement	1
+SHR_song	1
+'cause_knowledge	1
+Morning_lineup	1
+School_house	1
+A_student	1
+teaching_moment	1
+math_homework	1
+nation_today	1
+school_level	1
+center_time	1
+morning_television	1
+anchor_learning	1
+election_cycle	1
+jack_sheldon.bob	1
+disc_play	2
+school_newspaper	1
+Hip_Hooray	1
+yesterday_morning	1
+conjunction_junction	11
+ABC_ad	1
+Preamble_cartoon	1
+shuffle_play	3
+SCRIPTURE_ROCK	1
+session_work	1
+spring_break	1
+baby_girl	1
+family_entertainment	1
+school_valedictorian	1
+KEEP_UP	1
+fun_childhood	1
+FAMILY_FUN	1
+learning_atmosphere	1
+DVD_format	1
+science_section	1
+rock_section	1
+distinctiveness_uniqueness	1
+shuffle_feature	2
+volume_level	1
+school_house	11
+History_etc.	1
+Award_featurette	1
+EDUCATIONAL_ALL	1
+Anniversary_Edition	6
+voter_booth	1
+class_singing	1
+medium_puzzle	1
+cartoon_music	1
+bob_dorough	1
+jump_start	1
+quality_material	1
+garbage_trend	1
+galaxy_girl	1
+subject_matter	1
+satire_singer	1
+Edition_DVD	1
+Person_Place	4
+star_DVD	1
+history_course	1
+tent_!!	1
+football_player	1
+college_campus	1
 PRP_NNP
 us_Generation	1
 you_Scool	1
@@ -8776,7 +8593,7 @@ years_ago	15
 shorts_ever	1
 songs_too	3
 weeks_ago	1
-kids_still	2
+kids_still	3
 characters_as	1
 Years_ago	1
 kids_so	1
@@ -8791,6 +8608,7 @@ days_ahead	1
 toons_together	1
 mornings_long	1
 kids_actually	1
+kids_almost	1
 ideas_ever	1
 songs_randomly	1
 songs_soon	1
@@ -8799,7 +8617,7 @@ favorites_again	1
 tables_as	1
 songs_as	1
 videos_really	1
-favorites_as	1
+favorites_as	2
 students_as	1
 tools_ever	1
 cartoons_ever	1
@@ -8816,7 +8634,7 @@ Adverbs_Here	9
 cartoons_even	1
 songs_now	1
 children_as	1
-songs_usually	1
+students_really	1
 kids_also	1
 decades_there	1
 Infomercials_together	1
@@ -8825,8 +8643,9 @@ videos_now	1
 people_only	1
 minutes_somehow	1
 kids_really	2
-students_really	1
+songs_usually	1
 songs_anyway	1
+ones_especially	1
 cartoons_too	1
 songs_here	1
 songs_so	2
@@ -8855,9 +8674,12 @@ shorts_again	1
 thumbs_down	1
 :_MD
 --_can	1
--LRB-_WDT
--LRB-_which	5
--LRB-_whatever	1
+CD_''
+three_''	1
+!!!_''	2
+3_''	1
+8_''	1
+Eight_''	3
 EX_VBD
 there_were	5
 there_was	5
@@ -8866,25 +8688,6 @@ My_all	1
 its_a	1
 our_the	1
 Its_a	2
-VBP_NNS
-back_memories	1
-have_children	3
-guess_classics	1
-keep_kids	1
-are_ages	1
-learn_somethings	1
-are_interviews	1
-are_days	1
-are_touchdowns	1
-promote_discussions	1
-have_flashbacks	1
-are_commentaries	1
-purchase_DVDs	1
-are_qualities	1
-have_kids	3
-remember_images	1
-have_sons	1
-are_fireworks	1
 ,_JJ
 ,_glad	1
 ,_plaid	1
@@ -8932,9 +8735,25 @@ are_fireworks	1
 ,_significant	1
 ,_EX
 ,_there	9
--RRB-_RB
--RRB-_absolutely	1
--RRB-_randomly	1
+NNS_NNS
+toddlers_ages	1
+grandsons_ages	1
+favorites_songs	1
+tables_thanks	2
+importants_facts	1
+fans_votes	1
+nephews_ages	1
+needs_kids	1
+concepts_conjunctions	1
+years_olds	1
+kids_teachers	1
+students_juniors	1
+trivia_games	2
+civics_lessons	1
+artists_interpretions	1
+kids_ages	2
+times_tables	9
+children_ages	1
 DT_JJ
 a_fantastic	3
 a_5th	1
@@ -8949,7 +8768,7 @@ every_single	2
 This_complete	1
 an_American	1
 an_entertaining	1
-a_key	2
+the_local	1
 some_old	1
 an_extra	2
 a_nostalgic	1
@@ -8972,6 +8791,7 @@ the_main	3
 the_behind-the-scenes	1
 the_Native	1
 the_first	12
+a_dated	1
 a_terrific	1
 a_subtle	1
 a_super	1
@@ -9010,7 +8830,7 @@ the_major	1
 The_second	2
 the_back	1
 the_separate	1
-the_local	1
+a_key	2
 the_2nd	1
 these_classic	2
 the_early	7
@@ -9316,22 +9136,21 @@ EX_,
 there_,	1
 RP_PRP
 out_they	1
+out_we	1
 up_I	1
 out_I	1
-out_we	1
-''_``
-''_``	17
--RRB-_NNS
--RRB-_People	1
--RRB-_songs	1
--RRB-_commentaries	1
--RRB-_opinions	1
+up_you	1
+NNS_``
+requests_`	1
+songs_``	1
+blossoms_``	1
+favorites_``	1
+classics_``	1
 PRP_POS
 it_'s	1
 NN_IN
 home_from	1
 generation_of	7
-<br />_by	1
 school_for	1
 emphasis_on	1
 delivery_of	1
@@ -9351,10 +9170,8 @@ emmy_in	1
 way_with	1
 DVD_as	2
 DVD_at	5
-<p>_If	5
 segment_as	1
 job_as	1
-<p>_In	2
 reinforcement_in	1
 outside_of	1
 video_on	3
@@ -9392,6 +9209,7 @@ medley_of	1
 education_through	1
 information_while	1
 outlet_that	1
+understatement_while	1
 time_before	1
 copy_for	3
 law_from	2
@@ -9418,11 +9236,13 @@ imforamtion_for	1
 compilation_of	1
 rock_in	1
 TV_so	1
-quality_of	5
+documentary_on	2
 age_of	3
 range_of	1
 kid_like	1
+keeper_if	1
 signing_of	1
+feel_of	1
 something_with	1
 history_in	1
 form_for	1
@@ -9478,6 +9298,7 @@ information_in	3
 childhood_with	1
 teaching_in	1
 side_by	1
+bunch_although	1
 fortune_of	1
 program_that	1
 number_of	3
@@ -9495,8 +9316,7 @@ drop_onto	1
 ease_with	1
 class_without	1
 group_of	3
-set_in	1
-review_that	1
+set_in	2
 wake_of	1
 idea_of	1
 review_with	1
@@ -9509,6 +9329,7 @@ DVD_out	1
 appeal_that	1
 coast_because	1
 touch_with	1
+childhood_as	1
 song_by	1
 kid_at	1
 son_with	1
@@ -9534,7 +9355,7 @@ show_as	1
 yesterday_that	1
 cross_of	1
 beginning_through	1
-school_that	2
+Edition_as	1
 interview_with	4
 audience_for	1
 bowl_of	1
@@ -9547,7 +9368,6 @@ game_of	1
 edition_of	2
 fun_in	1
 stick_in	1
-<p>_While	1
 bar_in	1
 enjoyment_like	1
 thing_on	1
@@ -9571,7 +9391,7 @@ bleew_through	1
 TV_for	1
 value_with	1
 day_after	1
-keeper_if	1
+school_that	2
 dose_of	1
 history_with	1
 option_on	1
@@ -9586,7 +9406,7 @@ sense_that	1
 Review_of	1
 collection_of	6
 throwing_in	1
-feel_of	1
+song_so	1
 rating_of	1
 issue_with	1
 singing_along	6
@@ -9645,6 +9465,7 @@ test_by	1
 commercial_with	1
 freezing_during	1
 encapsulation_of	1
+niece_of	1
 time_at	1
 anything_from	1
 classroom_in	1
@@ -9657,7 +9478,7 @@ day_for	1
 unit_for	1
 hook_for	1
 help_for	1
-<br />_If	3
+review_that	1
 apprehension_about	1
 forwarding_through	1
 problem_in	1
@@ -9679,6 +9500,7 @@ girl_of	1
 everything_in	1
 attention_with	1
 bunch_without	1
+schoolgirl_while	1
 noun_in	1
 shop_in	1
 treatment_of	1
@@ -9687,7 +9509,7 @@ something_along	1
 attention_during	1
 era_of	1
 class_for	1
-collection_for	1
+collection_for	2
 preamble_during	1
 system_of	1
 friend_at	1
@@ -9706,10 +9528,8 @@ quiz_over	1
 purchase_though	1
 advancement_in	1
 item_for	1
-<br />_From	1
 head_until	1
 reminder_for	1
-<p>_After	1
 talk_about	1
 Everyone_in	1
 music_from	1
@@ -9743,7 +9563,6 @@ friend_for	2
 television_with	1
 place_without	1
 something_for	1
-<p>_On	1
 feedback_from	1
 luxury_of	1
 SHR_on	1
@@ -9773,6 +9592,7 @@ catchiness_of	1
 preview_of	1
 night_over	1
 Everything_on	1
+Edition_for	1
 work_from	1
 cd_so	1
 memory_'til	1
@@ -9804,7 +9624,6 @@ education_for	1
 time_in	2
 way_if	1
 seller_for	1
-<br />_As	1
 memorization_of	1
 HOST_of	1
 bunch_of	3
@@ -9838,6 +9657,7 @@ brochure_inside	1
 thing_about	4
 complaint_about	1
 back_on	1
+day_that	1
 series_than	1
 DVD_from	1
 day_before	1
@@ -9898,14 +9718,14 @@ Tale_of	2
 atmosphere_for	1
 whiz_at	1
 teacher_of	2
-documentary_on	2
+quality_of	5
 education_in	1
 morning_before	1
 condition_for	1
 program_for	1
 DVD_because	2
 class_in	1
-stuff_from	1
+stuff_from	2
 boy_with	1
 turn_for	1
 use_of	1
@@ -9950,6 +9770,7 @@ grammar_as	1
 value_of	3
 work_in	1
 preamble_from	1
+grammar_at	1
 time_without	1
 blast_from	5
 control_of	1
@@ -9994,14 +9815,9 @@ opportunity_for	2
 refresher_for	2
 head_for	1
 home_while	1
--LRB-_LS
--LRB-_2	1
-FW_PDT
-<br />_All	1
 ''_VB
 ''_feel	1
-VB_-RRB-
-do_-RRB-	1
+''_Buy	1
 CC_DT
 and_that	3
 plus_the	1
@@ -10067,6 +9883,7 @@ songs_we	2
 others_I	1
 menus_you	1
 phrases_she	1
+times_he	1
 options_you	1
 clips_I	1
 songs_you	2
@@ -10079,7 +9896,7 @@ songs_I	8
 ways_I	1
 reviewers_I	1
 lyrics_I	1
-children_I	1
+children_I	2
 kids_they	1
 discs_it	1
 videos_I	2
@@ -10092,6 +9909,7 @@ lessons_it	1
 sales_you	1
 tunes_we	1
 shows_we	1
+favorites_I	2
 quicks_we	1
 DVDs_I	1
 months_he	1
@@ -10118,6 +9936,7 @@ cartoons_you	1
 lessons_we	1
 kids_it	1
 things_I	3
+dvds_you	1
 favorites_we	1
 cartoons_I	1
 lessons_I	1
@@ -10146,7 +9965,6 @@ commercial_featuring	1
 !!_Being	1
 lane_watching	1
 DVD_containing	1
-<p>_Looking	1
 bill_waiting	2
 material_including	1
 child_thinking	1
@@ -10253,6 +10071,7 @@ teacher_asked	1
 Mom_bought	1
 daughter_had	1
 daughter_learned	1
+pronoun_sucked	1
 reviewer_had	2
 time_did	1
 reviewer_wrote	1
@@ -10354,6 +10173,7 @@ positive_is	1
 son_asks	1
 DVD_includes	2
 set_includes	1
+Song_has	1
 favorite_is	3
 bill_goes	1
 sun_is	1
@@ -10364,7 +10184,7 @@ stepson_is	1
 dvd_'s	1
 tv_shows	1
 attention_spans	1
-Song_has	1
+Bill_does	1
 husband_says	1
 education_is	1
 song_stands	1
@@ -10394,6 +10214,7 @@ video_has	1
 set_does	1
 rock_seems	1
 rock_is	2
+custody_is	1
 Noun_Is	3
 drawback_is	1
 one_does	1
@@ -10593,6 +10414,7 @@ not_quite	2
 only_vaguely	1
 very_much	2
 very_briefly	1
+always_POLITICALLY	1
 n't_always	1
 Not_really	1
 n't_even	5
@@ -10733,6 +10555,7 @@ generation_have	1
 school_do	1
 girl_get	1
 ROCK_are	1
+re_learn	1
 today_are	1
 documentary_are	1
 material_are	1
@@ -10944,10 +10767,6 @@ I_also	6
 JJS_CD
 least_4	1
 least_ONE	1
-NNS_VB
-kids_learn	2
-MD_-RRB-
-should_-RRB-	1
 IN_EX
 that_there	6
 Though_there	1
@@ -10972,9 +10791,8 @@ me_out	1
 them_out	3
 it_up	3
 it_down	1
-VBD_-RRB-
-did_-RRB-	1
-cleaned_-RRB-	1
+CD_UH
+!!!_Yeah	1
 JJ_``
 favorite_``	1
 funky_``	1
@@ -11056,6 +10874,7 @@ really_fits	1
 NNPS_NNP
 States_Constitution	2
 LESSONS_AND	1
+Twelvetoes_America	1
 ,_WP
 ,_What	1
 ,_who	9
@@ -11111,7 +10930,6 @@ Thank_you	5
 learn_them	2
 remind_you	1
 believe_me	1
-<p>_It	2
 see_I	1
 remember_I	1
 Buy_it	1
@@ -11136,7 +10954,6 @@ share_them	1
 recommend_them	1
 run_it	1
 re-discover_them	1
-<p>_They	1
 thank_you	1
 skip_them	1
 Get_them	1
@@ -11157,7 +10974,6 @@ awe_you	1
 identify_they	1
 expect_you	1
 sing_you	1
-<br />_I	5
 believe_I	1
 put_it	3
 teach_him	1
@@ -11166,7 +10982,6 @@ pop_it	2
 see_it	2
 fix_it	1
 sing_them	1
-<p>_You	1
 make_you	1
 know_I	1
 donate_it	1
@@ -11226,7 +11041,6 @@ enjoy_it	8
 teach_them	1
 find_them	1
 put_them	1
-<br />_It	5
 let_it	2
 choose_it	1
 start_them	1
@@ -11264,6 +11078,7 @@ them_each	1
 you_those	1
 they_both	1
 it_every	5
+It_that	1
 them_every	2
 them_all	9
 us_the	2
@@ -11728,16 +11543,8 @@ even_begged	1
 also_thought	1
 previously_owned	1
 FW_IN
-<br />_Like	1
-<br />_That	1
-<br />_As	1
-<br />_For	1
-<br />_If	6
-<br />_Of	1
-<br />_Although	1
-<br />_In	2
-<br />_Besides	1
 dvd_for	1
+!!!!!!!!!_If	1
 NNS_NN
 puzzles_game	1
 kids_age	1
@@ -11749,9 +11556,11 @@ multiplications_rock	1
 trivia_quiz	1
 needs_child	1
 countries_covernment	1
+categories_grammar	1
 things_fun	1
 songs_today	2
 subjects_fun	1
+words_conjunction	1
 Civics_class	1
 rhodes_piano	1
 Awards_Featurette	1
@@ -11761,11 +11570,13 @@ lyrics_briefly	1
 classrooms_today	1
 memories_sake	1
 childs_education	1
+months_LOVE	1
 kids_something	1
 children_today	1
 Awards_featurette	1
 Kids_today	1
 videos_section	1
+segments_math	1
 trivia_game	4
 kids_attention	1
 trivia_challenge	1
@@ -11834,10 +11645,6 @@ RBR_VBG
 more_looking	1
 JJ_WP
 many_who	1
-``_VBG
-``_gon	1
-``_Suffering	2
-``_watching	1
 NNP_TO
 BACK_TO	1
 Zero_to	1
@@ -11854,8 +11661,6 @@ Japan_to	1
 Rock_to	2
 Early_to	1
 LISTEN_TO	1
--LRB-_VBN
--LRB-_voted	1
 VBZ_TO
 chooses_to	1
 sings_to	1
@@ -11891,7 +11696,7 @@ POS_NNP
 ,_until	1
 ,_because	14
 ,_since	3
-,_by	2
+,_by	3
 ,_while	1
 ,_that	2
 ,_like	3
@@ -11931,9 +11736,10 @@ retro-kids_who	1
 kids_who	3
 RP_NN
 up_today	1
-up_year	1
+up_spicy	1
 down_memory	3
 up_disc	1
+up_year	1
 off_campus	1
 RBR_CC
 more_and	1
@@ -12052,6 +11858,7 @@ product_that	1
 audio_that	1
 video_that	1
 grader_that	1
+interjection_What	1
 clue_which	1
 tool_that	1
 set_that	1
@@ -12077,8 +11884,7 @@ arrange_the	1
 we_all	1
 watch_all	1
 hear_a	2
-<br />_Some	1
-<p>_The	7
+demand_a	1
 pass_this	1
 have_these	3
 enjoy_this	1
@@ -12092,7 +11898,6 @@ Do_all	1
 buy_this	6
 recieve_this	1
 pique_the	1
-replace_the	1
 structure_the	1
 provide_a	1
 see_a	1
@@ -12112,7 +11917,6 @@ appreciate_these	1
 review_this	1
 find_this	2
 Bought_this	2
-<br />_a	1
 provide_an	2
 see_all	3
 hear_the	3
@@ -12153,14 +11957,14 @@ want_this	2
 say_this	1
 buy_a	2
 think_the	1
-<br />_The	2
-top_that	1
+share_some	1
+sing_a	1
 have_every	1
 get_every	1
 believe_the	1
 help_some	1
 recall_some	1
-demand_a	1
+replace_the	1
 see_these	4
 read_the	1
 list_all	1
@@ -12172,7 +11976,7 @@ mimic_the	1
 air_these	1
 get_an	1
 play_each	3
-put_this	1
+recall_the	1
 forget_the	1
 feel_any	1
 learn_this	1
@@ -12180,7 +11984,6 @@ choose_each	1
 turn_the	1
 sing_every	2
 play_every	1
-purchase_the	2
 create_a	2
 cringe_a	1
 remember_the	10
@@ -12190,6 +11993,7 @@ see_every	1
 Verb_That	1
 get_any	1
 include_the	1
+put_this	1
 teach_the	1
 resurrect_the	1
 buy_these	1
@@ -12208,7 +12012,7 @@ Ater_the	1
 pass_the	2
 know_the	4
 purchase_a	1
-<p>_This	4
+purchase_the	2
 cover_a	1
 get_the	9
 have_any	1
@@ -12256,14 +12060,12 @@ press_the	1
 mention_the	1
 read_this	1
 forget_these	1
-share_some	1
 do_this	1
 get_this	9
 see_this	2
+top_that	1
 be_the	2
 choose_an	1
--LRB-_VBG
--LRB-_using	1
 WRB_DT
 when_this	1
 how_these	1
@@ -12281,50 +12083,13 @@ why_this	2
 how_a	10
 POS_RBR
 's_more	1
-IN_IN
-that_since	1
-that_on	1
-for_on	1
-with_on	1
-after_about	1
-from_as	1
-for_at	1
-with_during	1
-while_on	1
-because_as	1
-that_out	1
-along_with	20
-of_over	1
-so_that	4
-like_for	1
-after_over	2
-as_for	1
-as_at	1
-along_whether	1
-in_for	3
-as_in	1
-with_over	1
-out_of	15
-of_BEHIND	1
-Along_with	1
-as_if	1
-that_about	1
-than_in	1
-of_about	1
-in_between	6
-because_over	1
-about_in	1
-out_until	1
-except_that	1
-out_from	1
-because_of	7
-that_in	2
-that_for	2
-than_from	1
-like_in	1
-through_like	1
-Out_of	1
-in_with	2
+PDT_DT
+all_these	7
+half_the	1
+all_those	3
+all_the	80
+All_the	5
+such_a	2
 PRP_``
 myself_``	1
 him_``	2
@@ -12399,23 +12164,13 @@ is_very	1
 is_autistic	1
 LS_VBP
 i_'m	1
-JJ_-RRB-
-revealing_-RRB-	1
-avoidant_-RRB-	1
-old_-RRB-	2
-CORRECT_-RRB-	1
-open_-RRB-	1
-important_-RRB-	1
-mild_-RRB-	1
-correct_-RRB-	1
-educational_-RRB-	2
-little_-RRB-	1
 ''_DT
 ''_every	1
 ''_This	1
 ''_this	2
 ''_The	2
 ''_the	2
+''_both	1
 ''_all	2
 '_all	1
 ''_a	2
@@ -12511,7 +12266,7 @@ DVD_to	13
 opportunity_to	3
 start_to	1
 set_to	4
-Preamble_to	16
+Preamble_to	17
 means_to	1
 medium_to	1
 speech_to	3
@@ -12708,8 +12463,6 @@ and_8	1
 PRP_PRP$
 me_my	1
 it_Our	1
-FW_-LRB-
-!!!_-LRB-	1
 CC_CC
 +_+	1
 WDT_TO
@@ -12727,8 +12480,6 @@ who_still	2
 what_otherwise	1
 who_just	1
 What_really	1
-WRB_-LRB-
-how_-LRB-	1
 ,_NN
 ,_THIS	1
 ,_adverb	1
@@ -12748,7 +12499,6 @@ how_-LRB-	1
 ,_learning	1
 ,_bill	2
 ,_catchiness	1
-,_<br />	1
 ,_fun	1
 ,_Science	1
 ,_language	4
@@ -12808,13 +12558,13 @@ my_very	2
 Its_not	1
 NNP_RBS
 My_most	1
+$_:
+$_...	1
 WP_PRP$
 what_our	2
 what_your	1
 RP_WP
 up_what	1
-FW_TO
-<br />_To	1
 RP_:
 along_-	1
 ``_RB
@@ -12932,6 +12682,7 @@ Definitely_an	1
 previously_this	1
 however_the	1
 not_the	1
+energetically_an	1
 Now_that	2
 even_a	3
 really_the	1
@@ -12963,8 +12714,9 @@ then_this	1
 once_that	1
 then_all	1
 then_the	1
-POS_WRB
-'s_when	1
+``_VBN
+``_stuck	1
+``_lost	2
 PRP$_JJS
 our_oldest	1
 their_best	1
@@ -13169,6 +12921,7 @@ not_disappoint	3
 n't_need	2
 n't_love	2
 really_care	2
+still_love	1
 only_remember	1
 still_sing	6
 then_behold	1
@@ -13314,10 +13067,6 @@ actually_stop	1
 ''_audio	1
 VBD_MD
 thought_might	1
--RRB-_JJ
--RRB-_great	1
--RRB-_Awesome	1
--RRB-_fantastic	1
 VBN_PDT
 converted_all	1
 NNPS_IN
@@ -13335,50 +13084,56 @@ LS_VB
 i_have	1
 i_remember	1
 i_know	1
-FW_FW
-:-RRB-_<br />	1
-LOVE_THIS	1
-!!!!!!!!!_<br />	1
-WAS_GOOD	1
-adverb_vs.	1
-:-RRB-_Bought	1
-<br />_1smileycat	1
-<p>_Enjoy	1
-BELIEVE_HOW	1
-i_hadnt	1
-<br />_Verb	1
-lol_!!	1
-<br />_CLR	1
-<br />_<br />	145
-<br />_Bottom	1
-1smileycat_:--RRB-	1
-<p>_;--RRB-	1
-?!_<p>	1
-WELL_WORTH	1
-in_los	1
-JoAnne_Dandin	1
-huh_?!	1
-<br />_JoAnne	1
-intro_dvd	1
-;--RRB-_<p>	1
-i_wasnt	1
-<br />_Mabye	1
-41/2_<br />	1
-BEST_!!!	1
-CLR_<p>	1
-!!!_Enjoy	1
-boogie_woogie	1
-!!!_<br />	2
-;-RRB-_<br />	1
-FROM_!!	1
-<p>_Darn	1
-dvd_afer	1
-WOW_!!!	1
-in_awe	1
+IN_IN
+that_since	1
+that_on	1
+for_on	1
+with_on	1
+after_about	1
+from_as	1
+for_at	1
+with_during	1
+while_on	1
+because_as	1
+that_out	1
+along_with	20
+of_over	1
+so_that	4
+like_for	1
+after_over	2
+as_for	1
+as_at	1
+along_whether	1
+in_for	3
+as_in	1
+with_over	1
+out_of	15
+of_BEHIND	1
+Along_with	1
+about_like	1
+as_if	1
+that_about	1
+than_in	1
+of_about	1
+in_between	6
+because_over	1
+about_in	1
+out_until	1
+except_that	1
+out_from	1
+because_of	7
+that_in	2
+that_for	2
+than_from	1
+like_in	1
+through_like	1
+of_like	1
+Out_of	1
+in_with	2
 JJ_RB
 informative_so	1
 long_enough	2
-good_too	1
+unique_though	1
 hesitant_initially	1
 little_too	1
 handy_again	1
@@ -13397,17 +13152,16 @@ old_enough	1
 many_late	1
 old_actually	1
 educational_even	1
+funny_not	1
 catchy_enough	1
 interested_enough	1
 great_too	1
+good_too	1
 honest_so	1
 ,_``
 ,_``	22
-NNS_``
-requests_`	1
-classics_``	1
-blossoms_``	1
-songs_``	1
+''_``
+''_``	17
 VBZ_WP
 's_What	3
 groans_what	1
@@ -13450,12 +13204,9 @@ teaching_my	1
 learning_his	1
 rocking_my	1
 teaching_their	1
--RRB-_VBP
--RRB-_are	1
--RRB-_remember	1
--RRB-_amd	1
--RRB-_enjoy	2
--RRB-_learn	1
+JJS_.
+most_.	2
+best_.	3
 ,_VBG
 ,_moving	1
 ,_being	1
@@ -13476,15 +13227,6 @@ teaching_their	1
 ,_singing	4
 ,_making	2
 ,_offering	1
-''_-RRB-
-''_-RRB-	11
--RRB-_VBZ
--RRB-_leaves	1
--RRB-_needs	1
--RRB-_does	1
--RRB-_takes	1
--RRB-_is	1
--RRB-_loves	1
 NNS_.
 aliens_?	1
 things_.	3
@@ -13510,6 +13252,7 @@ trips_!	2
 70s_.	4
 CLASSICS_.	1
 times_.	3
+slaves_.	1
 eyes_.	1
 memories_.	13
 mornings_!	2
@@ -13534,7 +13277,7 @@ videos_!	1
 reruns_.	1
 images_.	1
 patterns_.	1
-videos_.	15
+videos_.	16
 youngsters_.	1
 90s_.	1
 levels_.	1
@@ -13572,7 +13315,7 @@ songs_!	5
 classics_.	2
 tests_.	1
 ways_.	2
-songs_.	49
+songs_.	50
 lyrics_.	3
 kids/grandkids_.	1
 presentations_.	1
@@ -13583,6 +13326,7 @@ words_!	1
 complaints_.	1
 words_.	3
 somethings_.	1
+clips_.	3
 politics_.	2
 graphics_.	1
 expectations_!	1
@@ -13610,7 +13354,7 @@ trailers_.	2
 studies_!	1
 points_.	1
 clips_!	1
-clips_.	3
+stoves_.	1
 answers_.	1
 meals_.	1
 studies_.	2
@@ -13652,6 +13396,7 @@ children_!	1
 rocks_!	2
 movies_.	1
 rocks_.	1
+preschoolers_.	1
 programs_.	1
 tunes/cartoons_.	1
 episodes_.	2
@@ -13769,7 +13514,7 @@ favorites_,	2
 producers_,	1
 commentaries_,	1
 miracles_,	1
-stars_,	2
+stars_,	3
 mathematics_,	1
 seniors_,	1
 colonies_,	1
@@ -13799,15 +13544,6 @@ sets_,	1
 ,_fix	1
 ,_continue	1
 ,_have	2
--RRB-_DT
--RSB-_each	1
--RRB-_these	1
--RRB-_all	2
--RRB-_A	1
--RRB-_VBD
--RRB-_loved	1
--RRB-_sucked	1
--RRB-_brought	1
 RBR_RB
 more_ethnically	1
 more_recently	1
@@ -13841,6 +13577,12 @@ added_Schoolhouse	1
 created_Schoolhouse	1
 loved_Schoolhouse	2
 called_Scripture	1
+PRP_WP
+it_what	1
+you_who	2
+me_who	1
+them_what	1
+us_who	7
 NNS_:
 conjunctions_...	1
 purchasers_:	1
@@ -13892,9 +13634,6 @@ Kings_;	1
 ,_gets	1
 ,_is	5
 ,_makes	1
--RRB-_NNP
--RRB-_Disney	1
--RRB-_Spielberg	1
 WRB_RB
 how_about	1
 how_well	2
@@ -13931,6 +13670,7 @@ cute_cartoons	2
 elementary_levels	1
 great_episodes	1
 excellent_songs	1
+correct_opinions	1
 would-be_purchasers	1
 other_planets	1
 memorable_songs	2
@@ -14043,7 +13783,7 @@ old_times	1
 own_memories	1
 bite-sized_portions	1
 important_things	1
-multiple_times	1
+revealing_commentaries	1
 difficult_concepts	1
 great_videos	1
 many_fans	1
@@ -14073,7 +13813,6 @@ separate_DVDs	1
 nice_touches	1
 old_verbs	1
 many_subjects	1
-<br />_Cartoons	1
 several_favorites	1
 many_bases	1
 animated_pieces	1
@@ -14103,7 +13842,7 @@ colorful_videos	1
 certain_songs	1
 other_parts	1
 little_facts	1
-educational_songs	3
+educational_songs	4
 third_graders	1
 other_oddities	1
 basic_mathematics	1
@@ -14137,7 +13876,7 @@ nostalgic_televisions	1
 many_songs	2
 even_years	1
 cool_songs	1
-original_creators	1
+original_creators	2
 academic_skills	1
 special_features	1
 educational_cartoonettes	1
@@ -14257,6 +13996,7 @@ different_jingles	1
 own_kids	2
 simple_pleasures	1
 old_favorites	3
+multiple_times	1
 several_menus	1
 iron-on_shirts	1
 random_quicks	1
@@ -14300,6 +14040,7 @@ bad_The	1
 unnecessary_Disney	1
 local_Vons	1
 favorite_ABC	1
+old_School	1
 great_Christmas	1
 different_VHS	1
 long-lost_Schoolhouse	1
@@ -14315,7 +14056,6 @@ many_Disney	1
 great_Saturday	1
 soft-spoken_Olive	1
 new_SHR	1
-old_<br />	1
 favorite_Shoolhouse	1
 different_Saturday	1
 other_Schoolhouse	1
@@ -14351,6 +14091,7 @@ One_with	1
 1/2_of	1
 3_of	2
 three_of	2
+8-10_of	1
 two_in	1
 one_after	1
 one_on	1
@@ -14368,7 +14109,7 @@ em_'	1
 ''_CC
 ''_but	3
 ''_&	1
-''_and	29
+''_and	30
 ''_or	11
 ''_+	3
 IN_WP
@@ -14386,11 +14127,8 @@ RB_''
 Here_''	1
 here_''	1
 peacefully_''	1
--RRB-_CC
--RRB-_and	16
--RRB-_or	6
-FW_MD
-<br />_Ca	1
+JJR_VBZ
+better_is	1
 VBD_WDT
 told_which	1
 VBG_PRP
@@ -14503,6 +14241,7 @@ can_,	2
 might_,	1
 NN_PRP
 fault_she	1
+year_I	1
 cause_they	1
 information_they	2
 shuffle_them	1
@@ -14514,6 +14253,8 @@ LOVE_it	1
 product_I	1
 dvd_itself	1
 becuase_I	1
+today_I	1
+daughter_he	1
 video_I	1
 singing_it	1
 time_we	1
@@ -14523,7 +14264,6 @@ music_you	1
 memory_we	1
 series_I	1
 professor_I	1
-<br />_it	1
 child_myself	1
 reason_I	1
 preamble_I	1
@@ -14537,14 +14277,14 @@ luck_I	1
 order_you	2
 fact_we	1
 Love_it	4
+tool_I	1
 Junction_I	1
-<p>_I	2
 child_yourself	2
 STUFF_I	1
 number_they	1
 husband_I	1
 something_we	1
-!!!_I	4
+therapy_I	1
 time_they	1
 service_I	1
 title_you	1
@@ -14561,6 +14301,7 @@ musicianship_I	1
 word_you	1
 requirement_she	1
 DVD_I	1
+catalog_I	1
 fact_they	1
 whim_I	1
 info_he	1
@@ -14573,6 +14314,7 @@ part_I	1
 course_it	1
 show_I	1
 something_myself	1
+air_it	1
 something_I	1
 beef_I	1
 kid_I	1
@@ -14584,11 +14326,12 @@ song_they	1
 song_I	2
 QUICKLY_I	1
 choice_they	1
+grammar_it	1
 gripe_I	1
 chance_I	1
 student_he	1
 stuff_we	1
-therapy_I	1
+!!!_I	4
 put_it	1
 TPW_I	1
 money_I	1
@@ -14607,7 +14350,7 @@ mother_I	1
 heart_yourself	1
 purchase_I	1
 america_she	1
-year_I	1
+wonder_I	2
 science_I	1
 age_I	1
 day_I	2
@@ -14622,13 +14365,11 @@ concept_I	1
 fun_it	2
 section_it	1
 shame_they	1
-wonder_I	2
 Bob/heard_him	1
 style_you	1
 GenX-er_I	1
 crap_we	1
 VB_PRP$
-supplement_their	1
 find_your	2
 Give_your	1
 profess_my	1
@@ -14659,9 +14400,8 @@ give_your	1
 get_her	1
 Send_Your	15
 remember_your	1
-<p>_My	2
 assist_my	1
-<br />_My	4
+supplement_their	1
 use_their	1
 get_my	3
 choose_their	1
@@ -14672,7 +14412,7 @@ introduce_your	1
 pass_his	1
 learn_her	2
 have_your	1
-watch_my	1
+watch_my	2
 define_my	1
 know_their	1
 let_my	1
@@ -14705,22 +14445,19 @@ help_my	4
 DT_RP
 this_off	1
 ''_WDT
-''_which	3
-WRB_,
-how_,	1
-why_,	1
-when_,	1
+''_which	4
 ,_MD
 ,_should	1
 ,_will	1
 ,_can	1
 JJ_DT
+educational_these	1
 fantastic_this	1
 such_an	1
 much_those	1
 possible_the	1
-big_a	1
 worth_every	3
+big_a	1
 sure_the	1
 effective_these	1
 timeless_this	1
@@ -14731,6 +14468,7 @@ worth_the	5
 funky_the	1
 such_a	5
 RB_CC
+n't_or	1
 away_or	1
 down_and	2
 ago_and	1
@@ -15006,9 +14744,6 @@ or_all	2
 and_all	3
 and_half	1
 +_all	1
-VBN_-LRB-
-loved_-LRB-	1
-produced_-LRB-	1
 VB_VBG
 enjoy_learning	1
 be_running	1
@@ -15034,8 +14769,6 @@ see_having	1
 bother_buying	1
 stop_singing	1
 enjoy_reliving	1
-:_-LRB-
-:_-LRB-	1
 WRB_NNP
 when_School	1
 when_Saturday	1
@@ -15077,12 +14810,6 @@ The_Lemonheads	1
 Saturday_Mornings	1
 SATURDAY_MORNINGS	1
 Dry_Bones	1
-FW_PRP$
-<br />_My	6
-<br />_my	1
-<br />_Her	1
-VBZ_-LRB-
-works_-LRB-	1
 NNPS_CC
 Monkees_and	1
 Americans_and	1
@@ -15101,8 +14828,9 @@ CD_PRP
 !!_I	1
 one_he	1
 :-RRB-_I	1
-!!!_I	1
+!!!_I	2
 !!!!_It	1
+5_They	1
 one_I	1
 CC_RB
 and_actually	1
@@ -15227,20 +14955,6 @@ loves_singing	1
 's_history	1
 is_nothing	1
 has_math	1
-WDT_VBP
-which_are	2
-that_introduce	1
-WHAT_ARE	1
-which_include	1
-that_stay	1
-that_have	1
-that_educate	1
-that_pack	1
-which_keep	1
-that_do	1
-that_teach	1
-that_are	13
-which_speak	1
 ``_WRB
 ``_Where	1
 ``_how	2
@@ -15398,19 +15112,6 @@ criticize_the	1
 recomend_this	2
 hope_the	1
 think_any	1
-NNS_-RRB-
-preschoolers_-RRB-	1
-dvds_-RRB-	1
-stars_-RRB-	1
-months_-RRB-	1
-entanglements_-RRB-	1
-slaves_-RRB-	1
-songs_-RRB-	1
-taxes_-RRB-	1
-s_-RRB-	1
-stoves_-RRB-	1
-videos_-RRB-	2
-segments_-RRB-	2
 VBD_TO
 started_to	1
 paid_to	1
@@ -15443,7 +15144,7 @@ lot_more	1
 Im_older	1
 way_more	1
 ,_WDT
-,_whatever	1
+,_whatever	2
 ,_which	19
 ,_that	4
 ``_PRP$
@@ -15454,10 +15155,6 @@ Yeah_Baby	1
 CC_WDT
 but_whatever	1
 but_WHAT	1
-:_-RRB-
-..._-RRB-	2
-..._-RSB-	2
-:_-RRB-	1
 VBN_VB
 helped_spark	1
 NNS_PDT
@@ -15572,6 +15269,7 @@ time_;	2
 sense_...	1
 Bill_-	1
 CD_RB
+3_absolutely	1
 6_actually	1
 eight_too	1
 thirty_not	1
@@ -15586,6 +15284,7 @@ Dec._28th	1
 Our_whole	1
 Perfect_little	1
 Christmas_present	1
+Rock_Special	2
 Education_responsible	1
 Nike_commercial	1
 Plays_great	1
@@ -15595,6 +15294,7 @@ NN_,
 cool_,	1
 economy_,	1
 Thing_,	5
+trend_,	1
 tape_,	3
 wife_,	1
 featurette_,	1
@@ -15610,12 +15310,12 @@ everyone_,	3
 KID_,	1
 today_,	4
 Boy_,	1
-addition_,	1
+adjective_,	1
 IDEA_,	1
 bill_,	2
 keeper_,	1
 video_,	5
-series_,	3
+series_,	4
 animation_,	1
 borrowing_,	1
 opening_,	1
@@ -15633,6 +15333,7 @@ quality_,	1
 bat_,	2
 director_,	1
 product_,	1
+cable_,	1
 Disorder_,	1
 condition_,	1
 cereal_,	1
@@ -15644,7 +15345,7 @@ dorough_,	1
 function_,	1
 t.v._,	1
 example_,	1
-rock_,	8
+rock_,	9
 generation_,	3
 nostalgia_,	4
 bit_,	1
@@ -15653,6 +15354,7 @@ book_,	1
 grammar_,	30
 disk_,	2
 baby_,	1
+jingle_,	1
 child_,	7
 success_,	1
 category_,	1
@@ -15684,6 +15386,7 @@ place_,	2
 service_,	1
 mail_,	1
 counting_,	1
+2DAYS_,	1
 shopping_,	1
 collection_,	1
 yesterday_,	1
@@ -15693,7 +15396,7 @@ student_,	1
 menu_,	5
 delivery_,	2
 grade_,	2
-etc._,	1
+etc._,	2
 anniversary_,	1
 learning_,	1
 rockin_,	1
@@ -15701,7 +15404,7 @@ songwriting_,	1
 keepsake_,	1
 tool_,	1
 right_,	1
-Junction_,	3
+Junction_,	4
 stuff_,	4
 fact_,	2
 presentation_,	1
@@ -15709,6 +15412,7 @@ way_,	2
 Fun_,	1
 indication_,	1
 kid_,	16
+addition_,	1
 junction_,	1
 Conjunction_,	4
 shot_,	1
@@ -15721,9 +15425,10 @@ tune_,	1
 money_,	3
 chilhood_,	1
 uhhhhh_,	1
-page_,	1
+market_,	1
 tutor_,	1
 material_,	3
+page_,	1
 Grammar_,	2
 song_,	9
 player_,	2
@@ -15750,7 +15455,7 @@ archive_,	1
 community_,	1
 language_,	5
 country_,	1
-adjective_,	1
+segment_,	1
 someone_,	1
 Internet_,	1
 deal_,	1
@@ -15764,7 +15469,7 @@ Person_,	4
 multiplication_,	7
 law_,	6
 childhood_,	8
-etc_,	1
+etc_,	2
 set_,	4
 run_,	1
 completist_,	1
@@ -15792,7 +15497,7 @@ reviewer_,	1
 preview_,	1
 day_,	4
 HAIL_,	1
-everything_,	1
+everything_,	2
 lane_,	2
 outset_,	1
 animator_,	1
@@ -15801,7 +15506,7 @@ rule_,	1
 mathematics_,	2
 SHR_,	1
 Number_,	1
-speech_,	2
+speech_,	3
 occasion_,	1
 electricity_,	2
 age_,	2
@@ -15878,7 +15583,7 @@ animation_.	1
 Yay_!	1
 Song_.	1
 staple_.	1
-etc._.	5
+etc._.	6
 screen_.	3
 condition_!	1
 fan_.	1
@@ -15902,7 +15607,7 @@ bargain_!	1
 week_.	3
 yesterday_.	1
 week_!	1
-use_.	4
+use_.	5
 delivery_.	1
 adult_.	1
 price_?	1
@@ -15928,17 +15633,19 @@ deal_.	1
 difference_.	1
 show_.	3
 class_.	3
+etc_.	1
 alot_.	1
 sake_!	1
 aswome_.	1
 sake_.	2
 fav_.	1
 Function_?	1
-TV_.	9
+TV_.	10
 room_?	1
 style_.	1
 knife_.	1
 blast_.	1
+course_!	1
 course_.	1
 ETC._.	1
 fault_!	2
@@ -15950,7 +15657,7 @@ singer_.	1
 connection_.	1
 recommendation_!	1
 singing_.	3
-junction_.	1
+junction_.	2
 science_.	6
 junction_!	1
 group_.	1
@@ -16012,6 +15719,7 @@ penny_.	3
 citizenship_.	2
 bonus_.	1
 campus_!	1
+race_.	1
 car_!	1
 car_.	3
 topic_.	1
@@ -16049,6 +15757,7 @@ lark_.	1
 morning_!	1
 process_.	2
 star_.	1
+town_!	1
 past_.	5
 something_.	4
 grandchilren_.	1
@@ -16079,6 +15788,7 @@ day_?	1
 STILL_!	1
 king_.	1
 DVD_?	1
+sub-par/hokey_.	1
 treasure_.	1
 age_.	8
 year_!	1
@@ -16102,7 +15812,7 @@ cost_.	1
 test_.	4
 understanding_.	1
 investment_.	1
-series_.	3
+series_.	5
 gem_.	1
 option_?	1
 series_!	2
@@ -16112,6 +15822,7 @@ travesty_.	1
 life_.	1
 shower_.	1
 fluff_.	1
+;-D_.	1
 feeling_!	1
 step_!	1
 knowledge_.	1
@@ -16119,7 +15830,7 @@ rock_.	7
 entertainment_!	1
 industry_.	1
 category_.	1
-child_.	13
+child_.	14
 disk_.	4
 yay_!	1
 television_?	1
@@ -16197,7 +15908,7 @@ remastering_!	1
 morning_.	4
 Jukebox_.	1
 navigation_.	1
-day_.	6
+day_.	7
 town_.	1
 !!_.	1
 office_.	1
@@ -16208,7 +15919,7 @@ online_.	1
 featurette_.	1
 tv_.	1
 behavior_.	1
-teacher_.	4
+teacher_.	5
 puzzle_.	1
 son_.	6
 fashion_.	2
@@ -16216,6 +15927,7 @@ value_.	3
 head_!	1
 treat_!	1
 CD_!	1
+spicy_.	1
 head_.	2
 product_.	9
 grandson_.	1
@@ -16232,6 +15944,7 @@ homework_.	1
 van_!	1
 concept_.	2
 subject_.	2
+site_.	1
 form_!	1
 culture_.	1
 buy_.	1
@@ -16245,9 +15958,10 @@ study_.	1
 replacement_.	1
 cable/dish_.	1
 night_.	1
-Junction_.	1
+Junction_.	3
 Junction_!	1
 husband_.	1
+;D_.	1
 STUFF_.	1
 mom_?	1
 start_!	1
@@ -16296,8 +16010,6 @@ family_.	1
 game_.	2
 TO_CC
 to_and	1
--LRB-_TO
--LRB-_to	3
 NNP_VBG
 STILL_watching	1
 Rock_discussing	1
@@ -16340,62 +16052,20 @@ more_to	1
 easier_to	2
 cheaper_to	1
 better_to	2
-NN_-LRB-
-son_-LRB-	2
-setup_-LRB-	1
-money_-LRB-	2
-career_-LRB-	1
-niece_-LRB-	1
-topic_-LRB-	1
-Implosion_-LRB-	1
-dvd_-LRB-	1
-Goodness_-LRB-	1
-vote_-LRB-	1
-pain_-LRB-	1
-TV_-LRB-	1
-buying_-LRB-	1
-childhood_-LRB-	1
-mathematics_-LRB-	1
-group_-LRB-	3
-complaint_-LRB-	1
-age_-LRB-	1
-home_-LRB-	1
-bunch_-LRB-	1
-collection_-LRB-	3
-Mom_-LRB-	1
-pleasure_-LRB-	1
-generation_-LRB-	1
-grammar_-LRB-	2
-singing_-LRB-	1
-game_-LRB-	1
-order_-LRB-	1
-speech_-LRB-	1
-influence_-LRB-	1
-constitution_-LRB-	1
-catchy_-LRB-	1
-town_-LRB-	1
-DVD_-LRB-	3
-school_-LRB-	1
-catalog_-LRB-	1
-video_-LRB-	1
-animation_-LRB-	1
-jukebox_-LRB-	1
-stuff_-LRB-	1
-matter_-LRB-	1
-Preamble_-LRB-	1
-air_-LRB-	1
-beginning_-LRB-	1
-past_-LRB-	1
-tool_-LRB-	1
-daughter_-LRB-	3
-material_-LRB-	1
-music_-LRB-	1
-song_-LRB-	1
-teacher_-LRB-	1
-I_-LRB-	1
-set_-LRB-	2
-etc_-LRB-	1
-FUN_-LRB-	1
+WDT_VBP
+which_are	2
+that_introduce	1
+WHAT_ARE	1
+which_include	1
+that_stay	1
+that_have	1
+that_educate	1
+that_pack	1
+which_keep	1
+that_do	1
+that_teach	1
+that_are	13
+which_speak	1
 ''_VBD
 ''_were	2
 ''_helped	2
@@ -16407,8 +16077,6 @@ FUN_-LRB-	1
 CC_UH
 And_oh	1
 but_Hey	1
-``_JJR
-``_better	1
 ,_VB
 ,_Get	3
 ,_sell	1
@@ -16430,16 +16098,17 @@ but_Hey	1
 '_sake	1
 ''_video	1
 ''_over-and-over	1
+''_c	1
+''_b	1
 ''_TV	1
-''_<br />	2
 ''_version	1
 ''_setting	1
+''_I	1
 ''_shuffle	1
 ''_song	5
 ''_set	1
 ''_feature	1
 ''_world	1
-''_<p>	1
 ''_track	1
 ''_melody	1
 '_DVD	1
@@ -16473,7 +16142,7 @@ it_and	28
 Me_and	1
 you_and	1
 it_or	2
-ourselves_and	1
+ourselves_and	2
 them_or	2
 he_and	1
 yourself_and	1
@@ -16544,11 +16213,7 @@ looking_forward	4
 staying_away	1
 smiling_anymore	1
 FW_JJ
-<br />_Dissapointed	1
-<br />_Good	1
-<br />_Other	1
 wasnt_sure	1
-<br />_Clever	1
 WDT_.
 whatever_.	1
 UH_JJR
@@ -16558,18 +16223,6 @@ these_when	8
 all_when	1
 this_whenever	1
 this_when	4
--RRB-_NN
--RSB-_year	1
--RRB-_LOVE	1
--RRB-_work	1
--RRB-_P	1
--RRB-_reinforcement	1
--RRB-_photo	1
--RRB-_<p>	1
--RRB-_GOD	1
--RRB-_DVD	1
--RRB-_VB
--RRB-_love	1
 DT_,
 that_,	5
 That_,	1
@@ -16592,7 +16245,6 @@ NNS_FW
 ones_i	1
 ROCKS_!!!!!!!!!	1
 mornings_;-RRB-	1
-children_<br />	1
 VBG_RP
 coming_out	2
 growing_up	29
@@ -16609,28 +16261,9 @@ going_down	1
 walking_off	1
 picking_up	1
 Hooking_up	1
-VB_NNP
-love_School	1
-learn_English	1
-access_Grammer	1
-hum_Schoolhouse	1
-bring_Schoolhouse	1
-hear_SHR	1
-teach_Cubscouts	1
-watch_School	2
-Thank_God	1
-play_Schoolhouse	1
-quote_Mr.	1
-contact_Disney	1
-remember_School	1
-watch_Dora	1
-recognize_Bob	1
-care_HOW	1
-remember_Money	1
-watch_Saturday	2
-watch_Schoolhouse	1
-teach_Math	1
-suggest_Baby	1
+LS_RB
+i_first	1
+i_also	1
 DT_:
 some_...	1
 these_-	2
@@ -16649,12 +16282,30 @@ Commentaries_;	1
 Mornings_...	1
 DT_WDT
 this_WHAT	1
-PRP_WP
-it_what	1
-you_who	2
-me_who	1
-them_what	1
-us_who	7
+JJS_NN
+greatest_way	1
+best_set	1
+greatest_box	1
+hardest_part	1
+best_birthday	1
+most_part	1
+easiest_song	1
+biggest_kid	1
+best_collection	1
+best_money	1
+best_teacher	2
+best/catchiest/coolest_music	1
+simplest_form	1
+best_purchase	1
+best_part	4
+best_TV	1
+best_friend	1
+best_teaching	1
+Most_school	1
+best_thing	3
+greatest_thing	1
+best_way	3
+latest_pop	1
 RB_JJ
 heretofore_unreleased	1
 actually_new	1
@@ -16670,7 +16321,7 @@ only_3rd	1
 little_young	1
 little_cumbersome	1
 Otherwise_awesome	1
-very_accessible	1
+mostly_fantastic	1
 unbelievably_catchy	1
 really_low	1
 moderately_impaired	1
@@ -16742,6 +16393,7 @@ Still_great	2
 n't_phenomenal	1
 as_long	1
 so_funny	1
+too_Awesome	1
 factually_inaccurate	1
 really_BORING	1
 too_slick	1
@@ -16761,6 +16413,7 @@ still_catchy	2
 as_young	1
 rather_primitive	1
 so_nice	1
+mostly_great	1
 very_low	1
 bit_dated	1
 very_limited	1
@@ -16779,6 +16432,7 @@ too_much	2
 so_pleased	2
 very_intrigued	1
 Too_bad	2
+very_accessible	1
 really_ancient	1
 too_simple	1
 n't_careful	1
@@ -16885,19 +16539,10 @@ Not_appropriate	1
 very_satisfied	1
 Too_cool	1
 just_such	1
--LRB-_FW
--LRB-_i.e.	1
-RB_-RRB-
-especially_-RRB-	1
-ago_-RRB-	1
-later_-RRB-	1
-too_-RRB-	3
-already_-RRB-	1
-now_-RRB-	1
-again_-RRB-	1
-n't_-RRB-	1
-mostly_-RRB-	2
-still_-RRB-	1
+WRB_,
+how_,	1
+why_,	1
+when_,	1
 WRB_IN
 How_about	1
 when_by	1
@@ -16920,11 +16565,14 @@ NNPS_,
 Bellywhackers_,	1
 Anyways_,	1
 CD_DT
-???_This	1
 -30_th	1
-9_all	1
+13_all	1
 1974_the	1
 one_this	1
+???_This	1
+12_A	1
+9_all	1
+11_all	1
 NNPS_.
 Rocks_!	4
 Puzzles_.	1
@@ -16951,28 +16599,6 @@ to_VHS	1
 to_College	7
 TO_EVEN	1
 to_Conjunction	1
-RB_-LRB-
-energetically_-LRB-	1
-always_-LRB-	1
-actually_-LRB-	1
-well_-LRB-	1
-indoubtedly_-LRB-	1
-down_-LRB-	1
-NNS_NNS
-favorites_songs	1
-tables_thanks	2
-importants_facts	1
-fans_votes	1
-civics_lessons	1
-needs_kids	1
-years_olds	1
-kids_teachers	1
-students_juniors	1
-trivia_games	2
-times_tables	9
-kids_ages	2
-artists_interpretions	1
-toddlers_ages	1
 TO_NNS
 to_reruns	1
 to_mid-ninties	1
@@ -17160,9 +16786,6 @@ Once_you	2
 MD_DT
 would_all	1
 would_an	1
-``_CD
-``_three	1
-``_3	2
 :_VBG
 :_Making	1
 VBZ_PRP
@@ -17206,13 +16829,12 @@ VB_RB
 move_around	1
 have_even	1
 get_much	1
+sing_along	4
 be_much	1
 be_just	1
 skip_ahead	1
 flash_right	1
 be_well	1
-look_forward	2
-be_factually	1
 play_back	1
 do_n't	1
 understand_quite	1
@@ -17249,14 +16871,15 @@ know_almost	1
 buy_even	1
 sing_so	1
 exist_solely	1
-<br />_Just	1
+be_factually	1
 sit_back	1
 be_rather	2
-sing_along	4
+look_forward	2
 play_just	1
 be_very	1
 get_so	2
 believe_later	1
+see_much	1
 sit_through	1
 come_back	1
 :_VBN
@@ -17353,6 +16976,7 @@ point_out	1
 pick_out	2
 round_out	1
 NNP_WP
+Rock_What	1
 Boothy_who	1
 RB_FW
 here_!!!	1
@@ -17385,7 +17009,6 @@ segments_when	1
 cartoons_when	3
 songs_when	3
 NN_EX
-<p>_There	4
 newspaper_there	1
 ``_JJ
 ``_intelligent	1
@@ -17437,6 +17060,7 @@ Constitution_from	2
 Bill_with	1
 Declaration_of	1
 Parts_of	1
+Street_for	1
 Math_through	1
 Edition_for	1
 System_from	1
@@ -17457,8 +17081,10 @@ Rock_than	1
 Hooray_for	1
 Rock_as	2
 Rock_that	1
+Constitution_for	1
 Second_on	1
 Entertainment_for	1
+Better_Than	1
 Third_on	1
 Enchilada_for	1
 Sixth_on	1
@@ -17474,12 +17100,12 @@ TWICE_that	1
 Rock_from	1
 Series_on	1
 Division_in	1
-Street_for	1
+Dorough_although	1
 Rock_on	7
 CD_for	2
 MORNING_FOR	1
 English_as	1
-Better_Than	1
+PBS_because	1
 VBG_PDT
 singing_all	2
 using_all	1
@@ -17487,8 +17113,105 @@ buying_all	1
 learning_all	1
 seeing_all	1
 watching_all	3
-,_TO
-,_to	7
+PRP$_NNS
+My_nieces	1
+my_neighbors	1
+our_students	1
+my_favorites	7
+your_customers	1
+my_expectations	1
+their_songs	1
+your_kids	14
+my_students	15
+my_grandchildren	5
+her_favorites	3
+your_eyes	1
+your_children	8
+my_hands	2
+My_siblings	1
+our_outings	1
+his_kids	1
+Your_kids	2
+My_grandchildren	1
+my_teenagers	1
+My_sons	2
+my_time-tables	1
+their_heads	2
+my_girls	2
+your_friends	1
+my_nieces	4
+their_peers	1
+My_godchildren	1
+our_kids	7
+their_products	1
+our_friends	1
+my_nieces/nephews	1
+my_siblings	1
+our_sons	1
+your_students	1
+their_classrooms	2
+my_sons	2
+her_times	2
+Her_eyes	1
+My_students	7
+My_kids	22
+my_lungs	1
+Your_Adverbs	10
+their_20s	1
+Our_teachers	1
+our_assignments	1
+my_grandsons	1
+my_socks	1
+my_colleagues	1
+your_prices	1
+our_Grandkids	1
+their_countries	1
+My_boys	2
+our_children	4
+My_neices	1
+your_teachers	1
+our_cartoons	1
+my_forties	1
+my_years	1
+my_nephews	3
+their_segments	1
+our_favorites	5
+her_classes	1
+My_children	14
+my_teeth	1
+their_favorites	3
+my_adjectives	1
+your_adverbs	6
+my_stories	1
+my_friends	2
+their_kids	3
+my_neices	1
+his_times	2
+your_grandchildren	1
+their_viewers	1
+my_childs	1
+our_daughters	1
+my_eyes	1
+my_classes	1
+my_parents	1
+their_parents	1
+its_rituals	1
+my_children	19
+Our_daughters	1
+Our_children	1
+his_favorites	1
+your_kids/grandkids	1
+Your_Adjectives	3
+your_parents	1
+my_kids	52
+my_40s	1
+My_childrens	1
+my_granddaughters	1
+your_numbers	1
+their_lives	1
+our_televisions	1
+my_freshmen	1
+my_macs	1
 FW_.
 Darn_!	1
 etc._.	2
@@ -17577,7 +17300,7 @@ about_being	1
 about_watching	1
 after_seeing	1
 in_using	1
-on_using	1
+on_using	2
 around_singing	2
 by_making	1
 of_learning	1
@@ -17589,6 +17312,9 @@ of_having	1
 like_watching	1
 while_providing	1
 that_growing	1
+``_CD
+``_three	1
+``_3	2
 VBN_WRB
 surprised_when	1
 startled_when	1
@@ -17597,41 +17323,6 @@ damaged_when	1
 thrilled_when	1
 forgotten_how	1
 produced_when	1
-POS_NN
-'s_fault	2
-'_til	1
-'s_release	1
-'s_nostalgia	1
-'_yesterday	1
-'s_programming	1
-'s_generation	1
-'s_birthday	1
-'s_?!	1
-'s_Disorder	1
-'s_past	1
-'_attention	1
-'s_collection	1
-'s_preamble	1
-'s_library	1
-'_interest	1
-'s_in	1
-'s_multiplication	1
-'s_parent	1
-'s_beginning	1
-'_t	1
-'S_MEOW	1
-'s_office	1
-'s_son	1
-'s_house	1
-'s_school	1
-'s_classroom	1
-'s_joy	1
-'s_magazine	1
-'s_understanding	1
-'s_history	3
-'s_age	1
-'s_involvement	1
-'s_DVD	1
 ,_PRP
 ,_she	10
 ,_they	20
@@ -17660,9 +17351,8 @@ as_lost	1
 as_determined	1
 with_added	1
 for_selected	1
-``_VBN
-``_stuck	1
-``_lost	2
+NN_LS
+Edition_2	1
 PRP$_NNP
 his_Future	1
 its_SHR	2
@@ -17683,28 +17373,14 @@ My_Son	1
 Your_Diploma	1
 their_Math	1
 our_Social	1
--LRB-_NNP
--LRB-_Pssst	1
--LRB-_Grammar	1
--LRB-_The	1
--LRB-_Early	1
--LRB-_Mine	1
--LRB-_Mr	1
--LRB-_Science	1
 ``_MD
 ``_must	1
--LRB-_NNS
--LRB-_ages	3
--LRB-_conjunctions	1
--LRB-_dvds	1
--LRB-_eyebrows	1
--LRB-_s	1
 VBG_.
 teaching_.	2
 writing_.	1
 happening_!	1
 loving_.	1
-learning_.	8
+learning_.	9
 singing_.	2
 coming_!	1
 studying_.	1
@@ -17729,130 +17405,98 @@ studying_,	1
 complaining_,	2
 JJ_CC
 localized_and	1
-appropriate_and	1
-same_and	1
-informative_and	1
 year-old_and	1
-tried_and	1
 amazing_and	1
-light_and	1
-quick_and	1
+down_and	1
+Entertaining_and	1
 long_and	2
-complex_and	1
-alive_and	1
-fantastic_and	1
-good_and	1
 gee-whiz_and	1
-dated_but	1
 grown_and	1
-mild_or	1
-slick_and	1
-educational_and	5
-crafty_and	1
-autistic_and	1
 good_or	1
-creative_and	1
-interactive_and	1
-on-line_and	1
-enjoyable_and	1
-goofy_but	1
-clean_and	1
-catchy_and	4
-subtle_but	1
-idiotic_and	1
 slow_and	1
 compact_and	1
-sad_and	1
-down_and	1
-Ready_Or	1
-little_and	1
-nostalgic_and	2
-Accurate_or	1
-bad_and	1
-bright_but	1
-unsound_and	1
-Entertaining_and	1
-interested_and	1
-informative_or	1
-stupid_and	1
-captive_and	1
-friendly_and	1
-young_or	1
-low_and	1
-simple_and	1
-uplifting_and	1
-GREAT_and	1
-incredible_and	1
-short_and	2
-sceptical_but	1
-real_&	1
-old_and	5
-young_and	2
 impressed_and	1
+Accurate_or	1
+appropriate_and	1
+visual_and	1
+GREAT_and	1
+old_and	6
+humble_but	1
 mundane_or	1
-nice_and	1
-cute_and	2
 Snappy_but	1
 profound_and	1
-early_and	1
-lively_and	2
-easy_and	1
-own_and	2
-wrong_either	1
-entertaining_and	11
-evil_or	1
-adult_and	1
-great_and	4
-interesting_and	2
-annoying_but	1
-clever_and	2
-timeless_and	2
-funny_and	1
-awesome_and	1
+educational_and	5
+interesting_but	1
 verbatim_and	1
+clean_and	1
+unsound_and	1
+friendly_and	1
+alive_and	1
+same_and	1
+creative_and	1
+catchy_and	4
+interesting_and	2
+little_and	1
+on-line_and	1
+informative_or	1
+simple_and	1
+uplifting_and	1
+clever_and	2
+Ready_Or	1
+sceptical_but	1
+goofy_but	1
+early_and	1
+easy_and	1
+entertaining_and	11
+adult_and	1
+autistic_and	1
+subtle_but	1
+annoying_but	1
+timeless_and	2
+informative_and	1
+fantastic_and	1
+good_and	1
+mild_or	2
+interested_and	1
+crafty_and	1
+low_and	1
+interactive_and	1
+idiotic_and	1
+wrong_either	1
+funny_and	2
+quick_and	1
+captive_and	1
+real_&	1
+young_and	2
+cute_and	2
+complex_and	1
+evil_or	1
+short_and	2
+enjoyable_and	1
+great_and	4
+awesome_and	1
+tried_and	1
+bright_but	1
+dated_but	1
+sad_and	1
+nostalgic_and	2
+bad_and	1
+stupid_and	1
+incredible_and	1
+light_and	1
+slick_and	1
+nice_and	1
+lively_and	2
+own_and	2
+young_or	1
 used_but	1
 :_$
 ;_$	1
 VBN_RBR
 gone_better	1
 become_more	1
-TO_NN
-to_nursery	1
-to_town	1
-to_recess	1
-to_experience	1
-to_music	5
-to_self	1
-to_someone	1
-to_lunch	1
-to_school	3
-to_memory	1
-to_one	1
-to_Conjunction	1
-to_anyone	3
-to_television	1
-to_record	1
-to_childhood	1
-to_tail	1
-to_mind	1
-to_cable	1
-to_DVD	2
-to_tire	1
-to_math	1
-To_anyone	1
-to_suffer/scan	1
-to_license	1
-to_today	1
-to_college	6
-to_History	2
-to_everyone	4
-to_reminisce	1
-to_grammar	1
-to_bed	1
-to_student	1
-to_anchor	1
-to_history	1
-to_topic	1
+''_JJR
+''_more	1
 IN_VBZ
 about_wraps	1
 on_is	2
@@ -17885,6 +17529,7 @@ early_70	3
 same_one	1
 early_1980s	1
 original_4	1
+thorough_2	1
 CD_,
 7_,	3
 9:30_,	1
@@ -17894,6 +17539,7 @@ Eight_,	3
 6_,	2
 39_,	1
 8_,	1
+42_,	1
 one_,	1
 three_,	1
 4_,	1
@@ -17911,15 +17557,18 @@ Six_,	1
 ONE_,	1
 CD_.
 7_.	1
-8_.	2
+2008_.	1
+8_.	3
 1_.	3
 one_?	1
 43_!	1
 13_!	1
 one_.	7
 6-12_.	1
+1994_.	1
 6_.	2
 4_.	3
+5_.	1
 thousand_.	1
 9_.	1
 2_.	3
@@ -17969,9 +17618,6 @@ encompasses_all	1
 includes_all	1
 Includes_all	1
 is_all	1
-VBP_-RRB-
-learn_-RRB-	1
-say_-RRB-	1
 CD_:
 one_...	1
 2_:	1
@@ -17984,87 +17630,84 @@ Eight_;	1
 4_...	1
 5,10,15,20,25,30_...	1
 1_:	1
-JJ_-LRB-
-educational_-LRB-	1
-entertaining_-LRB-	1
-boring_-LRB-	1
-unique_-LRB-	1
-thorough_-LRB-	1
-funny_-LRB-	2
-old_-LRB-	1
-interesting_-LRB-	1
-humble_-LRB-	1
-visual_-LRB-	1
-FW_CD
-<br />_19	1
-<br />_One	1
-<br />_1	1
-<br />_10	1
-<br />_2	1
+``_JJR
+``_better	1
 WRB_VBP
 Why_are	2
-NN_-RRB-
-grade_-RRB-	1
-today_-RRB-	1
-understatement_-RRB-	1
-trend_-RRB-	1
-child_-RRB-	1
-self_-RRB-	1
-Edition_-RRB-	3
-ha_-RRB-	1
-2DAYS_-RRB-	1
-everything_-RRB-	1
-town_-RRB-	1
-race_-RRB-	1
-site_-RRB-	1
-segment_-RRB-	1
-VERB_-RRB-	1
-etc_-RRB-	3
-c_-RRB-	1
-party_-RRB-	1
-jingle_-RRB-	1
-market_-RRB-	1
-series_-RRB-	3
-teacher_-RRB-	1
-rock_-RRB-	2
-Junction_-RRB-	3
-spicy_-RRB-	1
-life_-RRB-	1
-librarian_-RRB-	1
-cable_-RRB-	1
-grammar_-RRB-	1
-;-D_-RRB-	1
-schoolgirl_-RRB-	1
-custody_-RRB-	1
-Teacher_-RRB-	1
-etc._-RRB-	3
-??_-RRB-	1
-pronoun_-RRB-	1
-day_-RRB-	2
-course_-RRB-	1
-TV_-RRB-	1
-junction_-RRB-	1
-sub-par/hokey_-RRB-	1
-Interjection_-RRB-	1
-mode_-RRB-	1
-speech_-RRB-	1
-interjection_-RRB-	1
-cartoon_-RRB-	1
-b_-RRB-	1
-re_-RRB-	1
-;D_-RRB-	1
-Bill_-RRB-	1
-use_-RRB-	1
+POS_NN
+'s_fault	2
+'_til	1
+'s_release	1
+'s_nostalgia	1
+'_yesterday	1
+'s_programming	1
+'s_generation	1
+'s_birthday	1
+'s_?!	1
+'s_Disorder	1
+'s_past	1
+'_attention	1
+'s_collection	1
+'s_preamble	1
+'s_library	1
+'_interest	1
+'s_in	1
+'s_multiplication	1
+'s_parent	1
+'s_beginning	1
+'_t	1
+'S_MEOW	1
+'s_office	1
+'s_son	1
+'s_house	1
+'s_school	1
+'s_classroom	1
+'s_joy	1
+'s_magazine	1
+'s_understanding	1
+'s_history	3
+'s_age	1
+'s_involvement	1
+'s_DVD	1
 ``_CC
 ``_And	1
-CD_UH
-!!!_Yeah	1
-FW_CC
-vs._and	1
-<br />_But	1
-<br />_And	6
-GOOD_AND	1
-woogie_and	1
+TO_NN
+to_nursery	1
+to_town	1
+to_recess	1
+to_experience	1
+to_music	5
+to_self	1
+to_someone	1
+to_lunch	1
+to_school	3
+to_memory	1
+to_one	1
+to_Conjunction	1
+to_anyone	3
+to_television	1
+to_record	1
+to_childhood	1
+to_tail	1
+to_mind	1
+to_cable	1
+to_DVD	2
+to_tire	1
+to_math	1
+To_anyone	1
+to_suffer/scan	1
+to_license	1
+to_today	1
+to_college	6
+to_History	2
+to_everyone	4
+to_reminisce	1
+to_grammar	1
+to_bed	1
+to_student	1
+to_anchor	1
+to_history	1
+to_topic	1
 IN_FW
 as_i	1
 for_ex	1
@@ -18247,7 +17890,6 @@ Saturday_morning	56
 All_button	1
 VHS_copy	1
 Montana_lyric	1
-Rock_<br />	1
 Rock_set	1
 Learning_r	1
 SECOND_copy	1
@@ -18287,90 +17929,91 @@ House_rock	2
 School_Bus	1
 Play_List	1
 VBZ_RB
-is_also	8
-is_now	3
 is_well	2
-is_generally	1
-does_n't	12
 is_mostly	1
 is_truly	2
-'s_all	2
-is_frankly	1
-has_greatly	1
-walks_around	1
-is_rather	1
-is_there	3
-'s_still	5
-has_now	1
-brings_back	9
-is_utterly	1
-is_incredibly	1
-is_mainly	1
-is_definitely	3
-'s_even	2
-is_long	1
-does_not	1
-'s_actually	1
-is_far	1
-is_as	1
-'s_too	1
-is_indubitably	1
-is_right	2
-is_n't	3
-looks_very	1
-is_just	7
-'s_also	4
-is_extremely	1
-has_already	3
-comes_close	1
-'s_probably	1
-is_wonderfully	1
-is_only	4
-shows_back	1
-'s_out	1
-'s_just	2
-is_exactly	1
-has_not	2
-is_secretly	1
+is_generally	1
 is_probably	1
-'s_positively	1
-is_definately	1
+is_definitely	3
+is_as	1
+is_right	2
+'s_visibly	1
 is_too	1
 goes_away	1
-is_really	3
-goes_absolutely	1
 is_obviously	1
-'s_back	1
+is_absolutely	1
+'s_really	1
+is_finally	1
+is_rather	1
+is_exactly	1
+walks_around	1
+is_still	9
+is_mathematically	1
+is_mainly	1
+has_so	2
+is_long	1
+'s_not	6
+is_utterly	1
+brings_back	9
+is_incredibly	1
+is_indubitably	1
+'s_also	4
+'s_even	2
+shows_back	1
+is_always	3
+works_maybe	1
+has_greatly	1
+is_very	7
+is_definately	1
+'s_only	2
 's_so	4
 is_so	4
-is_absolutely	1
-is_quite	1
-'s_really	1
-is_completely	1
-is_actually	2
-is_simply	1
-is_finally	1
-is_much	2
-makes_otherwise	1
-'s_visibly	1
-is_already	2
-is_not	9
-is_usually	2
-is_way	1
-has_so	2
-is_even	1
-'s_exactly	1
-'s_not	6
-has_ever	1
-spans_just	1
-is_still	9
-'s_very	1
-is_always	3
 has_n't	3
-'s_only	2
-is_mathematically	1
-is_very	7
+is_not	9
+'s_just	2
+is_now	3
+'s_very	1
+has_ever	1
+is_also	8
+'s_probably	1
+is_simply	1
+is_there	3
+has_not	2
+has_now	1
+is_far	1
+does_not	1
+has_already	3
+comes_close	1
+goes_absolutely	1
+is_frankly	1
+is_secretly	1
+looks_very	1
+is_quite	1
+is_wonderfully	1
+is_way	1
+'s_exactly	1
+'s_out	1
+is_usually	2
+does_n't	12
+'s_all	2
+'s_back	1
+'s_still	5
+is_really	3
 costs_considerably	1
+'s_too	1
+is_n't	3
+'s_actually	1
+is_just	7
+is_much	2
+is_extremely	1
+is_only	4
+'s_positively	1
+is_completely	1
+makes_otherwise	1
+is_already	2
+is_even	1
+spans_just	1
+is_actually	2
 's_mainly	2
 NN_POS
 student_'s	1
@@ -18422,10 +18065,8 @@ to_your	4
 to_our	3
 to_her	1
 ._.
-!_.	2
+!_.	8
 ._.	12
-VB_LS
-know_i	1
 VBN_RP
 voted_on	1
 passed_on	1
@@ -18517,12 +18158,12 @@ kids_would	2
 teachers_can	1
 adults_could	1
 NNP_``
+Ezra_``	1
 Heard_`	6
-FW_VBP
-i_'m	1
-i_do	1
-<p>_Do	1
-<br />_Do	3
+,_JJR
+,_cheaper	1
+,_more	1
+,_easier	1
 TO_RB
 to_easily	1
 to_not	2
@@ -18570,6 +18211,7 @@ alot_about	1
 just_by	1
 well_as	18
 Instead_of	1
+well_like	1
 now_that	2
 again_for	2
 somewhere_between	1
@@ -18583,6 +18225,8 @@ not_on	3
 away_at	1
 then_if	1
 now_in	1
+also_in	1
+down_during	1
 especially_on	1
 along_after	1
 back_into	1
@@ -18628,7 +18272,7 @@ just_for	5
 along_with	1
 right_in	1
 Even_if	2
-also_in	1
+too_In	1
 not_for	1
 now_on	1
 not_that	3
@@ -18667,7 +18311,7 @@ greatly_from	1
 again_after	1
 there_on	1
 then_as	1
-mainly_about	1
+Now_that	3
 luckily_for	1
 probably_because	2
 Even_with	1
@@ -18688,15 +18332,13 @@ here_with	1
 not_in	3
 especially_as	1
 down_for	1
-Now_that	3
+mainly_about	1
 only_for	3
 especially_like	2
 already_as	1
 together_with	1
 soon_as	1
 straight_through	1
-FW_VBZ
-<br />_Includes	1
 VBG_IN
 appearing_in	1
 presiding_over	1
@@ -18727,7 +18369,7 @@ Depending_on	1
 waiting_for	2
 dancing_around	1
 killing_off	1
-happening_with	1
+sneaking_in	1
 expecting_that	1
 learning_from	2
 feeling_like	1
@@ -18735,7 +18377,7 @@ crashing_through	1
 putting_in	1
 counting_by	1
 teaching_for	1
-spinning_at	1
+happening_with	1
 playing_in	1
 griping_about	1
 singing_with	1
@@ -18748,6 +18390,7 @@ learning_through	1
 Suffering_Until	1
 turning_on	1
 being_in	1
+spinning_at	1
 driving_around	1
 playing_for	1
 learning_about	8
@@ -18757,7 +18400,7 @@ learning_as	1
 being_on	1
 seeing_on	1
 learning_at	2
-sneaking_in	1
+watching_while	1
 wondering_about	1
 going_down	1
 learning_until	1
@@ -18838,8 +18481,6 @@ these_and	2
 this_and	6
 this_or	2
 A_+	3
-FW_``
-<br />_``	4
 RP_DT
 in_these	1
 out_the	2
@@ -18878,6 +18519,7 @@ go_back	1
 have_always	1
 are_n't	3
 'm_too	1
+are_mostly	1
 sing_along	2
 have_so	2
 am_still	2
@@ -18890,6 +18532,7 @@ have_n't	6
 live_overseas	1
 last_twice	1
 do_n't	57
+'re_mostly	1
 are_just	8
 'm_also	1
 drive_around	1
@@ -18958,6 +18601,8 @@ hum_right	1
 are_equally	1
 IN_$
 at_$	1
+PRP$_:
+My_...	1
 VBG_``
 humming_``	1
 learning_``	1
@@ -18972,7 +18617,7 @@ sending_``	1
 JJ_VBZ
 rare_is	1
 old_does	1
-old_loves	5
+old_loves	6
 wacked_is	1
 old_enjoys	1
 five-year-old_loves	1
@@ -18984,9 +18629,10 @@ old_has	2
 ''_NNP
 ''_:-RRB-	1
 ''_WE	1
+''_The	1
 ''_School	1
-''_<br />	2
 ''_Trivia	1
+''_Multiplication	1
 ''_NNS
 ''_seniors	1
 ''_answers	1
@@ -19084,7 +18730,7 @@ Mornings_,	1
 Max_,	1
 Blues_,	1
 Zoo_,	1
-Rock_,	18
+Rock_,	20
 Enchilada_,	1
 Sufferage_,	1
 Wiggles_,	1
@@ -19139,7 +18785,7 @@ Rock_!	16
 MADE_.	1
 Bob_.	1
 Barney_!	1
-Rock_.	47
+Rock_.	49
 Inc._.	1
 Morton_.	3
 Geeeezzzz_.	1
@@ -19161,10 +18807,12 @@ Bravo_!	1
 ROCK_.	1
 Game_.	1
 Number_.	2
+Lolly_!	1
 College_.	6
 CD_.	3
 July_.	1
 BelleVille_!	1
+Parton_.	1
 Christmas_.	4
 Schoolhouse_.	1
 Edition_.	1
@@ -19192,11 +18840,9 @@ Government_.	2
 Love_.	1
 JJ_VBP
 neat_are	1
-FW_NNPS
-<br />_Anyways	1
 POS_CC
 '_and	1
-'s_and	14
+'s_and	15
 's_or	1
 WDT_PRP$
 which_my	1
@@ -19412,29 +19058,15 @@ still_have	1
 even_hear	1
 now_spat	1
 already_own	1
-NNPS_-LRB-
-Lemonheads_-LRB-	1
 VBZ_:
 Goes_;	1
 Includes_:	7
 WRB_EX
 why_there	1
-RP_PRP$
-out_their	1
-up_my	2
 JJ_PRP$
 much_my	1
 little_my	1
 sure_my	1
-VB_:
-see_:	5
-be_--	1
-learn_:	2
-work_;	1
-change_;	1
-be_...	1
-watch_...	1
-surround_;	1
 VBZ_.
 cares_.	1
 comes_.	1
@@ -19459,13 +19091,14 @@ RB_NN
 anyway_;-D	1
 just_yesterday	1
 already_sig	1
+actually_re	1
 still_fun	1
 only_grammar	1
-mainly_fluff	1
+nowadays_television	1
 Wonderfully_fun	1
 well_today	1
 especially_spice	1
-nowadays_television	1
+mainly_fluff	1
 n't_grade	1
 Only_thing	1
 Even_today	1
@@ -19522,21 +19155,14 @@ clips_to	1
 generations_to	2
 tools_to	1
 VBP_``
-buy_``	1
-remember_``	1
 are_``	2
 !!_``	1
 get_``	1
--LRB-_JJ
--LRB-_2nd-6th	1
--LRB-_2nd	1
--LRB-_loud	1
--LRB-_mild	1
--LRB-_Special	3
--LRB-_dated	1
--LRB-_English	1
--LRB-_famous	1
--LRB-_Even	1
+buy_``	1
+remember_``	1
+choose_``	1
+VBD_''
+thought_'	1
 WDT_CD
 which_13	1
 JJ_JJ
@@ -19597,7 +19223,6 @@ overall_good	1
 personal_favorite	1
 super_cute	1
 comprehensive_muscial	1
-<p>_Great	1
 great_catchy	1
 startling_present	1
 Good_educational	1
@@ -19658,12 +19283,10 @@ more_for	5
 cheaper_at	1
 older_than	1
 LS_NN
+2_DVD	1
 e_member	1
 :_FW
 ..._WOW	1
-..._<br />	4
-;_<br />	1
-:_<br />	1
 WRB_JJ
 when_bad	1
 how_effective	1
@@ -19765,43 +19388,40 @@ have_copy	1
 ,_96	1
 ,_14	1
 ,_four	1
-DT_-RRB-
-a_-RRB-	1
-all_-RRB-	1
-TO_-RRB-
-to_-RRB-	1
+VBZ_JJS
+learns_best	1
+has_most	1
 CD_VBD
 3_had	1
 13_loved	1
+4_loved	1
 NN_WP
-sister_who	1
-grandson_who	1
-person_who	1
-X_who	1
-brother_who	1
-junction_what	2
-<br />_What	1
-anybody_who	1
-boy_who	1
-anyone_who	9
-one_who	1
-<p>_What	2
-Junction_what	2
-Anyone_who	3
 musician_who	1
+sister_who	1
+one_who	1
+son_who	4
 course_what	1
+person_who	1
 !!_What	1
+daughter_who	1
 everyone_who	1
-son_who	3
+Anyone_who	3
+X_who	1
+anybody_who	1
+grandson_who	1
+junction_what	2
+librarian_what	1
 kid_who	2
 clue_what	1
-daughter_who	1
+brother_who	1
+Junction_what	2
+boy_who	1
+anyone_who	9
 PRP_PDT
 it_all	4
 them_all	1
-VBG_RBR
-learning_more	1
-ordering_more	1
+``_FW
+``_i	1
 RB_RBR
 even_deeper	1
 far_more	1
@@ -19822,6 +19442,7 @@ was_what	1
 NN_FW
 Edition_dvd	1
 childhood_:-RRB-	1
+past_i.e.	1
 way_i	1
 singing_in	1
 generation_i	1
@@ -19835,7 +19456,7 @@ it_to	26
 them_to	13
 me_to	11
 him_to	6
-yourself_to	1
+yourself_to	2
 NNS_VBP
 videos_toss	1
 skits/lessons_are	1
@@ -19872,13 +19493,12 @@ things_occur	1
 students_start	1
 extras_are	3
 subjects_include	1
-sons_are	1
+videos_are	7
 children_watch	1
 children_do	1
 Concepts_are	1
 melodies_are	1
-videos_are	7
-songs_have	1
+favorites_are	2
 nephews_love	1
 granddaughters_learn	1
 kids_!!	1
@@ -19901,12 +19521,11 @@ kids_have	4
 rhymes_let	1
 kids_get	2
 parts_are	1
-favorites_are	2
+songs_have	1
 godchildren_love	1
 Grandchildren_love	1
 grades_hum	1
 works_do	1
-times_<br />	1
 people_think	1
 screens_are	1
 songs_get	1
@@ -19920,6 +19539,7 @@ students_are	2
 boys_are	1
 macs_are	1
 teachers_love	1
+sons_are	1
 images_are	1
 gerunds_are	1
 times_have	1
@@ -19999,14 +19619,16 @@ clips_are	3
 kids_are	12
 episodes_match	1
 cartoons_do	1
+segments_amd	1
 memories_have	1
 jingles_are	1
 characters_are	1
-,_JJR
-,_cheaper	1
-,_more	1
-,_easier	1
+FW_VBP
+i_'m	1
+i_do	1
+?!_Do	1
 NNP_MD
+Government_should	1
 Rock_may	1
 Navigation_could	1
 Disney_would	1
@@ -20095,16 +19717,6 @@ remembering_how	1
 enjoying_how	1
 playing_when	1
 seeing_how	1
-NNS_POS
-students_'	1
-daughters_'	1
-people_'s	1
-friends_'	2
-children_'s	2
-lessons_'	1
-oldies_'	1
-childrens_'	1
-kids_'	1
 NNS_VBZ
 mini_shows	1
 students_is	1
@@ -20113,6 +19725,7 @@ videos_is	2
 things_is	1
 children_needs	1
 kids_takes	1
+s_takes	1
 kids_loves	1
 songs_is	1
 kids_brings	1
@@ -20164,15 +19777,6 @@ around_and	1
 along_and	1
 though_and	1
 over_or	1
-NNP_-LRB-
-Constitution_-LRB-	1
-Rock_-LRB-	3
-PBS_-LRB-	1
-Ezra_-LRB-	1
-Government_-LRB-	1
-Dorough_-LRB-	1
-Tokens_-LRB-	1
-Sheldon_-LRB-	1
 PRP_:
 myself_...	1
 it_:	1
@@ -20190,6 +19794,7 @@ hallways_were	1
 videos_were	2
 children_grew	2
 tests_made	1
+songs_was	1
 songs_piqued	1
 tapes_had	1
 boys_learned	1
@@ -20248,7 +19853,7 @@ olds_were	1
 shorts_were	2
 eyes_lit	1
 creators_said	1
-songs_was	1
+segments_brought	1
 shorts_helped	1
 hygenists_came	1
 admen_thought	1
@@ -20298,14 +19903,6 @@ up_next	1
 up_as	1
 down_perfectly	1
 back_so	1
--LRB-_PRP
--LRB-_ya	1
--LRB-_it	2
--LRB-_she	1
--LRB-_you	1
--LRB-_we	1
--LRB-_he	1
--LRB-_I	11
 PRP_NNS
 us_things	1
 he_dances	1
@@ -20313,8 +19910,6 @@ you_choices	1
 they_parts	1
 she_desires	1
 us_concepts	1
--LRB-_:
--LSB-_...	2
 NNS_VBN
 segments_accompanied	1
 subcultures_represented	1
@@ -20329,39 +19924,35 @@ eyebrows_raised	1
 songs_created	1
 days_engrossed	1
 segments_produced	1
-children_enthralled	1
-vehicles_created	1
-schools_rocked	1
 times_gone	1
+vehicles_created	1
+favorites_voted	1
+schools_rocked	1
+children_enthralled	1
 concepts_learned	1
 songs_based	1
 commercials_placed	1
 mornings_gone	1
 mornings_spent	1
-JJS_NN
-greatest_way	1
-best_set	1
-greatest_box	1
-hardest_part	1
-best_birthday	1
-most_part	1
-easiest_song	1
-biggest_kid	1
-best_collection	1
-best_money	1
-best_teacher	2
-best/catchiest/coolest_music	1
-simplest_form	1
-best_purchase	1
-best_part	4
-best_TV	1
-best_friend	1
-best_teaching	1
-Most_school	1
-best_thing	3
-greatest_thing	1
-best_way	3
-latest_pop	1
+VBP_NNS
+back_memories	1
+have_children	3
+guess_classics	1
+keep_kids	1
+are_ages	1
+learn_somethings	1
+are_interviews	1
+are_days	1
+are_touchdowns	1
+promote_discussions	1
+have_flashbacks	1
+are_commentaries	1
+purchase_DVDs	1
+are_qualities	1
+have_kids	3
+remember_images	1
+have_sons	1
+are_fireworks	1
 VBP_NNP
 love_School	2
 do_NOT	1
@@ -20389,15 +19980,8 @@ end_up	1
 ''_WRB
 ''_when	1
 FW_RB
-<br />_Also	1
 afer_not	1
-<br />_Really	1
-<br />_Not	1
 hadnt_even	1
-<br />_Now	1
-<br />_Personally	1
-<br />_Perhaps	1
-<br />_Then	1
 ``_PRP
 ``_I	40
 ``_You	1
@@ -20428,10 +20012,16 @@ POS_JJ
 's_lackluster	1
 's_favorite	2
 's_original	1
-IN_-LRB-
-about_-LRB-	1
-on_-LRB-	1
-of_-LRB-	1
+:_JJ
+..._Great	1
+;_Busy	1
+-_great	1
+..._Many	1
+-_television-unless-it-also-has-a-toy-to-sell	1
+:_Top	1
+..._educational	1
+;_great	1
+:_Little	1
 VBN_``
 released_``	1
 stated_``	1
@@ -20444,6 +20034,7 @@ called_``	6
 ''_from	1
 '_after	1
 ''_while	1
+''_In	1
 ''_on	2
 ''_if	1
 ''_that	1
@@ -20455,16 +20046,9 @@ called_``	6
 ''_of	2
 :_TO
 ..._to	1
--RRB-_IN
--RRB-_In	1
--RRB-_of	1
--RRB-_for	2
--RRB-_that	1
--RRB-_as	1
--RRB-_with	2
--RRB-_at	1
--RRB-_from	1
--RRB-_while	2
+:_to	1
+RBR_:
+better_...	1
 VBN_PRP$
 gotten_my	1
 helped_my	1
@@ -20700,6 +20284,8 @@ wanted_watched	1
 arrived_was	1
 thought_sounded	1
 received_were	1
+VBD_VBZ
+did_needs	1
 IN_JJ
 into_other	1
 than_worth	1
@@ -20861,9 +20447,6 @@ for_prompt	1
 of_childish	1
 in_early	1
 with_small	3
-LS_RB
-i_first	1
-i_also	1
 RBR_.
 smarter_.	1
 better_.	1
@@ -20876,8 +20459,6 @@ longer_,	1
 IN_''
 like_''	1
 of_''	1
-NNPS_FW
-Twelvetoes_<br />	1
 VBD_VBP
 taught_are	1
 had_are	1
@@ -20936,7 +20517,7 @@ Saturdays_are	1
 :_you	2
 -_you	2
 ;_they	1
-..._I	7
+..._I	8
 ..._You	1
 ..._he	2
 ..._We	1
@@ -20944,13 +20525,14 @@ Saturdays_are	1
 --_I	3
 :_I	1
 -_it	1
-..._it	4
+..._it	5
 ..._we	2
 ..._you	1
 ..._It	1
 ..._they	2
 NNS_IN
 games_on	1
+ideas_like	1
 ideas_with	1
 wonders_for	1
 classes_on	1
@@ -21027,6 +20609,7 @@ scenes_of	1
 adverbs_in	1
 rocks_in	1
 commentaries_on	1
+menus_with	1
 favorites_on	2
 questions_about	3
 snippets_that	1
@@ -21115,6 +20698,7 @@ stories/songs_on	1
 lessons_that	2
 toons_in	1
 memories_on	1
+cartoons_though	1
 time-tables_through	1
 memories_of	17
 multiples_of	1
@@ -21135,7 +20719,7 @@ generators_as	1
 problems_in	1
 kinds_of	3
 things_for	1
-versions_of	1
+versions_of	2
 kids_as	1
 aspects_of	1
 topics_from	1
@@ -21268,7 +20852,7 @@ gems_for	1
 songs_since	2
 songs_at	1
 commentaries_for	1
-songs_as	5
+songs_as	6
 interviews_with	1
 busts_into	1
 originals_in	1
@@ -21611,19 +21195,22 @@ probably_could	1
 just_ca	2
 NN_``
 song_``	5
-title_``	1
-<p>_``	1
+vote_``	1
+Goodness_``	1
+asking_``	1
+Implosion_``	1
 word_``	1
 noun_``	1
 kind_``	1
 cheek_``	1
 singing_``	2
 gap_``	1
-asking_``	1
+title_``	1
 master_``	1
 toon_``	1
-cartoon_`	1
+self_``	1
 junction_`	1
+cartoon_`	1
 gerund_``	1
 CC_NNP
 and_Little	1
@@ -21691,7 +21278,6 @@ came_,	1
 was_,	1
 FW_VBN
 i_purchased	1
-<br />_Cracked	1
 VBD_.
 lost_.	1
 continued_.	1
@@ -21707,7 +21293,7 @@ selected_.	1
 remembered_!	1
 did_.	10
 remembered_.	3
-worked_!	1
+cleaned_.	1
 wanted_!	1
 retained_.	1
 got_.	1
@@ -21720,11 +21306,12 @@ educated_.	1
 purchased_.	1
 shuffled_.	1
 played_.	1
+worked_!	1
 were_!	1
 were_.	2
 POS_.
 's_?	1
-'s_.	6
+'s_.	7
 CC_NNS
 and_videos	2
 and_songs	1
@@ -21807,21 +21394,6 @@ was_$	1
 UH_.
 Wow_!	2
 Hey_!	2
--LRB-_IN
--LRB-_during	1
--LRB-_of	2
--LRB-_unless	1
--LRB-_like	4
--LRB-_because	1
--LRB-_so	1
--LRB-_although	2
--LRB-_for	1
--LRB-_though	1
--LRB-_from	2
--LRB-_as	2
--LRB-_with	1
--LRB-_in	1
--LRB-_while	1
 NNP_POS
 Xer_'s	1
 CD_'s	1
@@ -21850,19 +21422,20 @@ produced_and	1
 entertained_but	1
 recalled_or	1
 made_and	1
+remembered_and	1
 danced_and	1
 composed_and	1
-''_FW
-''_<br />	2
 NN_RB
 DD_instead	1
 way_back	1
 vote_prior	1
 order_just	1
 DO_N'T	1
+age_especially	1
 thing_ever	2
 bit_as	1
 DVD_really	1
+TV_again	1
 law_just	1
 DVD_before	1
 class_just	1
@@ -21874,7 +21447,7 @@ ME_back	1
 money_either	1
 video_twice	1
 movie_quite	1
-plus_as	1
+buying_even	1
 something_too	1
 DVD_as	1
 songwriting_mostly	1
@@ -21899,10 +21472,11 @@ whiz_as	1
 way_too	1
 singing_energetically	1
 video_ever	1
+family_always	1
 2x2_still	1
 anything_better	1
 child_even	1
-time_again	1
+Im_just	1
 original_still	1
 grammar_so	1
 time_ago	2
@@ -21911,7 +21485,7 @@ lot_off	1
 son_just	1
 feature_naturally	1
 watching_intently	1
-family_always	1
+setup_especially	1
 song_ever	2
 school_somewhere	1
 daughter_just	2
@@ -21957,19 +21531,21 @@ time_now	1
 parent_now	1
 son_especially	1
 adult_also	1
-Im_just	1
+time_again	1
+grade_randomly	1
 tool_as	1
 something_so	1
 set_also	1
 fun_too	1
 today_then	1
 money_back	1
+plus_as	1
 review_here	1
+pleasure_unfortunately	1
 head_right	1
 stuff_indeed	1
 indication_even	1
 FW_WRB
-<br />_When	1
 awe_when	1
 :_:
 ..._...	1
@@ -22007,6 +21583,7 @@ priceless_for	1
 mind-numbing_for	1
 proud_of	1
 such_as	7
+little_from	1
 catchy_that	1
 Great_for	4
 sick_of	1
@@ -22089,6 +21666,7 @@ top_on	1
 much_of	3
 curious_about	1
 =_through	1
+entertaining_from	1
 young_for	2
 astounded_at	1
 Enjoyable_for	1
@@ -22130,11 +21708,12 @@ was_``	3
 said_``	1
 called_``	1
 ''_PRP
+''_ya	1
+''_it	1
 ''_you	1
 '_I	2
 '_it	1
-''_I	3
-''_it	1
+''_I	5
 VBG_JJ
 singing_memorable	1
 watching_regular	1
@@ -22363,8 +21942,8 @@ one_video	2
 I_love	1
 10_jukebox	1
 13_year	1
-``_FW
-``_i	1
+JJS_VBZ
+hardest_is	1
 VBZ_NNP
 has_James	1
 is_A	1
@@ -22385,11 +21964,9 @@ is_Three	1
 is_Multipication	1
 has_Autism	1
 is_Science	1
-RP_CC
-out_and	1
-up_and	9
-around_and	1
-down_and	1
+MD_IN
+must_for	4
+will_at	1
 :_.
 ..._?	1
 ..._!	1
@@ -22428,6 +22005,7 @@ do_laugh	1
 learn_stuff	1
 know_someone	1
 are_fun	9
+remember_Conjunction	1
 skip_button	1
 are_user	1
 urge_everyone	1
@@ -22437,15 +22015,18 @@ NN_PRP$
 kid_their	1
 time_my	1
 something_my	1
+way_my	1
 teaching_my	1
 fun_my	1
-condition_your	1
-way_my	1
+set_my	1
+Mom_my	1
 rate_her	1
 shuffle_your	1
 dvd_My	1
+matter_My	1
 matter_your	1
 day_my	1
+condition_your	1
 fun_My	1
 table_my	1
 JJ_''
@@ -22463,8 +22044,6 @@ television-unless-it-also-has-a-toy-to-sell_''	1
 spicy_''	1
 new_''	2
 other_''	1
--RRB-_WDT
--RRB-_What	1
 NN_NNPS
 Song_Puzzles	1
 PRP_VBN
@@ -22482,9 +22061,6 @@ being_taught	1
 being_hummed	1
 being_used	1
 having_grown	1
--LRB-_WP
--LRB-_who	1
--LRB-_what	1
 VB_CD
 do_30	1
 get_!!!!	1
@@ -22514,7 +22090,7 @@ C'mon_and	1
 find_and	1
 sit_and	1
 watch_or	1
-watch_and	7
+watch_and	9
 enjoy_and	3
 select_either	1
 sing_and	2
@@ -22541,9 +22117,9 @@ Now_every	1
 VBN_NNP
 sang_Schoolhouse	1
 experienced_School	1
+lost_Weather	1
 hit_Saturday	1
 learned_AND	1
-called_<br />	1
 enjoyed_Schoolhouse	1
 failed_Scooter	1
 shown_Schoolhouse	1
@@ -22554,7 +22130,7 @@ paid_TWICE	1
 punned_Electoral	1
 viewed_Schoolhouse	1
 loved_Schoolhouse	1
-lost_Weather	1
+called_Scripture	1
 RP_IN
 up_against	1
 off_of	1
@@ -22598,32 +22174,6 @@ complicated_concepts	1
 lost_songs	1
 informed_citizens	1
 memorized_lots	1
-VBP_-LRB-
-remember_-LRB-	1
-suppose_-LRB-	1
-'re_-LRB-	1
-choose_-LRB-	1
-are_-LRB-	1
--RRB-_-LRB-
--RRB-_-LRB-	1
--LRB-_NN
--LRB-_Conjunction	1
--LRB-_grammar	2
--LRB-_spicy	1
--LRB-_master	1
--LRB-_re	1
--LRB-_bachelor	1
--LRB-_history	1
--LRB-_Interjection	1
--LRB-_I	1
--LRB-_conjunction	2
--LRB-_saving	1
--LRB-_math	1
--LRB-_mine	1
--LRB-_2DAYS	1
--LRB-_age	1
--LRB-_interjection	1
--LRB-_science	1
 ,_NNP
 ,_Hooray	1
 ,_Lynn	1
@@ -22815,15 +22365,16 @@ says_that	1
 sings_along	2
 learns_about	1
 helps_with	1
--LRB-_DT
--LRB-_all	2
--LRB-_an	1
--LRB-_a	1
--LRB-_the	5
--LRB-_both	1
--LRB-_that	2
--LRB-_The	1
--LRB-_some	1
+NNS_POS
+students_'	1
+daughters_'	1
+people_'s	1
+friends_'	2
+children_'s	2
+lessons_'	1
+oldies_'	1
+childrens_'	1
+kids_'	1
 DT_TO
 all_to	1
 some_to	1
@@ -23210,6 +22761,7 @@ same_DVD	1
 special_treat	1
 great_music	2
 very_time	1
+boring_grammar	1
 great_childhood	1
 great_set	1
 American_history	4
@@ -23468,6 +23020,7 @@ great_price	2
 English_grammar	1
 supporting_manner	1
 great_shame	1
+CORRECT_GOD	1
 irreplaceable_jack	1
 fond_memory	1
 old_kid	1

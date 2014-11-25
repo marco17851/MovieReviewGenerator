@@ -4,17 +4,15 @@ where_she_meets	1
 whenever_she_realizes	1
 when_he_is	1
 When_he_is	1
-DT_NN_-LRB-
-the_killer_-LRB-	1
-a_master_-LRB-	1
-the_investigator_-LRB-	1
-JJ_NN_RB
-now-wealthy_widow_suddenly	1
 VB_JJ_TO
 be_sure_to	2
+JJ_NN_RB
+now-wealthy_widow_suddenly	1
 CC_DT_NN
 and_the_dialogue	1
 and_the_direction	1
+NNP_MD_VB
+Winger_will_catch	1
 ,_DT_NNP
 ,_the_Vanishing	1
 VBP_DT_NN
@@ -73,8 +71,8 @@ painless_,_nonviolent	1
 good_,_shy	1
 VBZ_VBN_.
 is_killed_.	1
-DT_NNS_:
-the_films_:	1
+VBZ_IN_TO
+is_about_to	1
 VBZ_``_VBN
 is_``_cracked	1
 RB_VBZ_.
@@ -103,6 +101,7 @@ RB_VBZ_NNP
 relentlessly_tracks_Russell	1
 DT_NN_VBN
 A_detective_played	1
+the_killer_played	1
 JJ_,_CC
 shy_,_and	1
 DT_NN_VBZ
@@ -118,8 +117,6 @@ VBN_CC_VBZ
 kidnapped_and_searches	1
 JJ_TO_VB
 sure_to_catch	2
-NNP_NNP_PRP
-CA_Luster_I	1
 VBZ_WRB_VBG
 occurs_when_sleeping	1
 RB_VB_NN
@@ -145,8 +142,6 @@ NNP_POS_NNP
 Ondine_'s_Curse	1
 NN_,_IN
 film_,_with	1
-RB_VB_CD
-only_review_one	1
 VBP_DT_JJ
 have_the_full-screen/wide-screen	1
 MD_VB_NN
@@ -155,8 +150,6 @@ IN_NNS_WRB
 of_deaths_when	1
 ,_VBD_DT
 ,_loved_all	1
-NNP_-RRB-_,
-Bullock_-RRB-_,	1
 PRP$_NN_NN
 her_desk_job	2
 His_family_life	1
@@ -166,8 +159,6 @@ POS_NNP_,
 's_Curse_,	1
 IN_DT_CD
 Of_these_two	1
-FW_FW_NNP
-<br />_<br />_CA	1
 RB_,_RB
 however_,_curiously	1
 truly_,_honestly	1
@@ -183,8 +174,6 @@ she_realizes_that	1
 it_looks_like	1
 PRP_VBZ_PRP
 He_believes_she	1
-FW_FW_DT
-<br />_<br />_Both	1
 RB_JJ_RB
 kind_wealthy_newly	1
 CC_JJ_CC
@@ -207,18 +196,14 @@ JJ_,_NN
 nonviolent_,_death	1
 NNP_PRP_VBZ
 Hawaii_she_gets	1
-FW_NNP_NNP
-<br />_CA_Luster	1
+RB_VB_CD
+only_review_one	1
 CC_VBZ_RB
 and_searches_relentlessly	1
-NN_-LRB-_VBN
-killer_-LRB-_played	1
 NNP_VBZ_IN
 Winger_is_at	1
 VBP_JJ_NNS
 are_excellent_thrillers	1
-FW_NNPS_:
-<br />_Synopsis_:	1
 VBN_NN_.
 married_anthropologist_.	1
 JJ_,_RB
@@ -227,12 +212,17 @@ VBZ_VBN_CC
 is_kidnapped_and	1
 RB_VBN_NN
 newly_married_anthropologist	1
+NNP_,_NNP
+Bullock_,_Kiefer	1
 ,_CC_WP
 ,_but_who	1
+NNP_NNP_,
+Sandra_Bullock_,	1
 VBZ_IN_NN
 realizes_that_somebody	1
 NN_NN_,
 desk_job_,	1
+chess_champion_,	1
 ,_CC_JJ
 ,_and_sick	1
 NN_NNS_VBP
@@ -261,10 +251,8 @@ PRP_CC_VBN
 him_and_taken	1
 ,_NN_WDT
 ,_death_that	1
-PRP$_NN_-LRB-
-his_girlfriend_-LRB-	1
-NN_NN_-RRB-
-chess_champion_-RRB-	1
+NN_DT_JJ
+girlfriend_a_then-unknown	1
 DT_NN_IN
 the_string_of	1
 another_life_with	1
@@ -294,10 +282,6 @@ IN_CD_NNS
 for_three_years	1
 :_VB_DT
 -_wish_all	1
-NN_-LRB-_NNP
-investigator_-LRB-_Debra	1
-FW_FW_IN
-<br />_<br />_In	1
 VBN_._''
 cracked_._''	1
 VBZ_RB_RB
@@ -316,6 +300,8 @@ several_leads_.	1
 JJ_NNS_,
 great_movies_,	1
 beautiful_visuals_,	1
+PRP$_NN_DT
+his_girlfriend_a	1
 RB_VBZ_DT
 finally_meets_the	1
 then_follows_the	1
@@ -339,8 +325,8 @@ enough_so_as	1
 as_well_as	1
 RB_,_VBD
 honestly_,_loved	1
-VBZ_IN_TO
-is_about_to	1
+DT_NNS_:
+the_films_:	1
 NNS_WRB_PRP
 deaths_when_she	1
 NN_VBZ_WRB
@@ -381,6 +367,7 @@ catching_the_black	1
 conducting_a_deadly	1
 DT_NN_NN
 a_chess_champion	1
+a_master_mistress	1
 this_DVD_set	1
 a_gas_station	1
 JJ_NNS_CC
@@ -445,8 +432,6 @@ Vanishing_falls_short	1
 DT_JJ_,
 a_good_,	1
 a_painless_,	1
-JJ_NN_CC
-own_innocence_and	1
 NNP_VBZ_PRP
 Winger_blames_herself	1
 Sutherland_meets_him	1
@@ -483,6 +468,7 @@ NNPS_VBZ_JJ
 Bridges_is_effective	1
 NN_,_CC
 death_,_and	1
+champion_,_but	1
 NNS_IN_CD
 films_in_one	1
 DT_NN_CC
@@ -508,8 +494,6 @@ JJ_NNS_NN
 facial_expressions_accent	1
 IN_TO_RB
 about_to_completly	1
--LRB-_WP_MD
--LRB-_who_could	1
 NN_,_RB
 killer_,_only	1
 JJ_NNP_NNP
@@ -542,8 +526,6 @@ CD_IN_PRP
 One_of_them	1
 IN_NN_NNP
 by_veteran_Bob	1
-NNP_-RRB-_MD
-Winger_-RRB-_will	1
 RB_VB_RP
 completly_give_up	1
 VBP_VBG_NN
@@ -557,8 +539,6 @@ RB_IN_NN
 not_in_question	1
 RB_CC_NNP
 thereafter_and_Winger	1
--LRB-_NN_.
--LRB-_mistress_?	1
 PRP_IN_NN
 herself_into_trouble	1
 NNS_NN_.
@@ -601,8 +581,6 @@ RB_VBZ_IN
 then_disposes_of	1
 then_stumbles_on	1
 repeatedly_states_that	1
-NN_-LRB-_NN
-master_-LRB-_mistress	1
 WDT_VBP_IN
 that_look_like	1
 PRP_VBP_RB
@@ -619,6 +597,7 @@ PRP_VBZ_VBN
 she_is_kidnapped	1
 he_is_killed	1
 NN_NN_.
+master_mistress_?	1
 DVD_set_.	1
 NN_IN_PRP
 recognition_as_it	1
@@ -636,8 +615,8 @@ the_country_.	1
 the_plot_.	1
 this_choice_.	1
 a_ride_.	1
--LRB-_DT_JJ
--LRB-_a_then-unknown	1
+JJ_NN_CC
+own_innocence_and	1
 CD_JJ_NNS
 Two_great_movies	1
 VBZ_IN_PRP
@@ -646,8 +625,6 @@ states_that_she	1
 disposes_of_them	1
 RB_VB_PRP
 not_keep_him	1
-NN_-LRB-_WP
-manipulator_-LRB-_who	1
 ,_IN_VBG
 ,_after_tracking	1
 ,_although_calculating	1
@@ -655,13 +632,14 @@ PRP_IN_PRP$
 herself_for_his	1
 NNP_VBZ_RB
 Widow_works_well	1
+Russell_is_not	1
 NNP_NNP_VBZ
 Kiefer_Sutherland_makes	1
 Bob_Rafelson_features	1
 Black_Widow_works	1
 The_Vanishing_falls	1
 Debra_Winger_starts	1
-Theresa_Russell_is	1
+Theresa_Russell_is	2
 Black_Widow_is	1
 IN_DT_NN
 for_a_ride	1
@@ -713,6 +691,7 @@ VB_IN_CC
 be_in_both	1
 NN_NNP_NNP
 fianc&eacute;_Sandra_Bullock	1
+investigator_Debra_Winger	1
 veteran_Bob_Rafelson	1
 PRP$_NN_WRB
 his_spell_when	1
@@ -765,8 +744,6 @@ NNP_VBP_JJ
 Russell_are_captivating	1
 VBG_NN_IN
 doing_paperwork_on	1
-FW_IN_``
-<br />_In_``	1
 DT_JJ_NNS
 some_beautiful_visuals	1
 the_narrative_moves	1
@@ -807,8 +784,8 @@ PRP_VBZ_RP
 She_follows_up	1
 PRP_JJ_RB
 him_happy_enough	1
--LRB-_VBN_TO
--LRB-_played_to	1
+NNP_NNP_PRP
+CA_Luster_I	1
 ,_RB_RB
 ,_as_well	1
 ,_not_so	1
@@ -902,8 +879,8 @@ NNP_,_WRB
 Seattle_,_where	1
 VBZ_JJ_NN
 is_full_screen	1
--RRB-_MD_VB
--RRB-_will_catch	1
+NNP_NNP_MD
+Debra_Winger_will	1
 RB_TO_VB
 only_to_fall	1
 not_to_spoil	1
@@ -936,6 +913,8 @@ NNP_POS_NN
 Russell_'s_guilt	1
 VBZ_VBG_DT
 starts_suspecting_the	1
+NN_WP_MD
+manipulator_who_could	1
 IN_PRP_IN
 of_them_in	1
 CD_NNS_IN
@@ -969,9 +948,6 @@ IN_NN_VBG
 into_jail_trying	1
 IN_CD_NN
 in_one_package	1
-TO_DT_JJ
-to_a_flawless	1
-to_the_next	1
 NN_IN_DT
 paperwork_on_a	1
 life_with_a	1
@@ -1008,6 +984,8 @@ JJ_NN_WDT
 scientific_kidnapper_that	1
 DT_NN_NNS
 the_kidnapper_contacts	1
+DT_NN_NNP
+the_investigator_Debra	1
 IN_VBG_RB
 as_being_very	1
 IN_VBG_PRP
@@ -1072,8 +1050,6 @@ She_then_follows	1
 he_finally_meets	1
 NN_:_VB
 fine_-_wish	1
--RRB-_,_CC
--RRB-_,_but	1
 VBZ_RB_IN
 searches_relentlessly_for	1
 is_not_in	1
@@ -1110,12 +1086,6 @@ NN_,_VBZ
 job_,_becomes	1
 VBN_TO_VB
 Claimed_to_be	1
-NNP_NNP_-RRB-
-Sandra_Bullock_-RRB-	1
-Debra_Winger_-RRB-	1
-Theresa_Russell_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Debra_Winger	1
 ``_NNP_NNP
 ``_Black_Widow	1
 ``_The_Vanishing	1
@@ -1127,14 +1097,15 @@ sustained_efforts_to	1
 ,_a_good	1
 ,_a_painless	1
 ,_an_ambitious	1
-NNP_-RRB-_VBZ
-Russell_-RRB-_is	1
+TO_DT_JJ
+to_a_flawless	1
+to_the_next	1
+NN_VBN_TO
+killer_played_to	1
 VBZ_DT_JJR
 is_the_better	1
 NNP_TO_PRP$
 Hawaii_to_her	1
-NN_-RRB-_,
-champion_-RRB-_,	1
 ,_RB_JJ
 ,_curiously_implausible	1
 NN_NN_IN
@@ -1179,8 +1150,6 @@ IN_NNP_NNP
 by_Nancy_Travis	1
 by_Debra_Winger	1
 while_Keifer_Sutherland	1
--RRB-_,_NNP
--RRB-_,_Kiefer	1
 VBD_DT_PRP$
 loved_all_her	1
 VBZ_PRP_TO
@@ -1216,16 +1185,10 @@ and_apparent_death	1
 and_wide_screen	1
 IN_PRP_VBP
 if_you_enjoy	1
-PRP_,_IN
-her_,_after	1
 RB_VBZ_``
 nonetheless_is_``	1
 RB_JJ_NNS
 relatively_minor_characters	1
--RRB-_VBZ_RB
--RRB-_is_not	1
-FW_DT_NNS
-<br />_Both_women	1
 IN_DT_RB
 of_the_relatively	1
 NNS_JJ_NN
@@ -1234,8 +1197,6 @@ DT_PRP$_JJ
 all_her_previous	1
 IN_RB_,
 along_nicely_,	1
-NN_._-RRB-
-mistress_?_-RRB-	1
 CC_PRP$_JJ
 and_her_facial	1
 CC_VBN_DT
@@ -1244,10 +1205,8 @@ PRP_VBZ_TO
 them_goes_to	1
 VBZ_CD_IN
 is_one_of	1
-FW_FW_NNPS
-<br />_<br />_Synopsis	1
-NN_-LRB-_DT
-girlfriend_-LRB-_a	1
+PRP_,_IN
+her_,_after	1
 NN_,_NNP
 package_,_Black	1
 sum_,_Black	1

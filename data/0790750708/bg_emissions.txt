@@ -1,18 +1,3 @@
-NN_-LRB-
-anything_-LRB-	1
-name_-LRB-	1
-character_-LRB-	1
-Connection_-LRB-	1
-picturesque_-LRB-	2
-pornographer_-LRB-	1
-community_-LRB-	1
-Man_-LRB-	1
-film_-LRB-	1
-remake_-LRB-	2
-charisma_-LRB-	1
-day_-LRB-	1
-widescreen_-LRB-	1
-landlady_-LRB-	2
 IN_NN
 with_shotgun	1
 of_course	2
@@ -170,10 +155,7 @@ bar_where	1
 VBN_VBG
 been_burning	1
 FW_DT
-<br />_A	2
-<br />_This	4
 &#8230;_This	1
-<br />_The	7
 PRP_RBR
 him_more	1
 VBG_VBZ
@@ -271,6 +253,7 @@ VBN_:
 played_:	1
 VBP_,
 mean_,	1
+do_,	1
 fear_,	1
 are_,	1
 watch_,	1
@@ -286,10 +269,8 @@ VBP_.
 meet_.	1
 cool_.	1
 like_.	1
+suppose_.	1
 explode_!	1
-POS_CC
-'_and	1
-'s_and	2
 VBP_CD
 are_one	1
 think_one	1
@@ -339,11 +320,9 @@ VB_JJR
 find_more	1
 NNP_WRB
 Carter_where	1
+Micklewhite_how	1
 England_where	1
 Caine_when	1
--LRB-_``
--LRB-_``	2
--LRB-_`	1
 WDT_MD
 which_could	1
 that_will	1
@@ -379,10 +358,9 @@ characters_that	1
 choices_which	1
 WRB_TO
 how_to	1
--RRB-_FW
--RRB-_<br />	1
 DT_FW
 The_Ipcress	1
+all_er	1
 RB_JJS
 Not_least	1
 very_best	1
@@ -424,6 +402,8 @@ who_have	1
 who_get	2
 who_try	1
 who_help	1
+POS_FW
+'s_eg	1
 WP_VBZ
 who_helps	1
 who_works	2
@@ -450,16 +430,14 @@ what_is	1
 :_CD
 /_5	1
 -_6.3	2
--RRB-_,
--RRB-_,	20
--RRB-_.
--RRB-_.	15
+VBP_MD
+stare_can	1
 NNP_CC
 Boorman_and	1
 Time_or	1
 Stock_and	2
 Croupier_and	1
-Caine_and	3
+Caine_and	4
 Hannah_and	2
 London_and	1
 Hard_and	1
@@ -471,10 +449,13 @@ Hodges_and	3
 Walker_and	1
 Carter_and	5
 MGM_and	1
+Bridge_but	2
 Hendry_and	1
 Newcastle_and	3
 NNP_CD
 January_2001	1
+BLANK_1967	1
+Carter_1971	1
 WP_MD
 What_can	1
 who_may	1
@@ -494,10 +475,6 @@ more_fans	1
 better_things	1
 larger_audiences	1
 seamier_locations	1
-VB_-LRB-
-leave_-LRB-	1
--RRB-_:
--RRB-_;	1
 RBS_JJ
 most_photographed	1
 most_primal	1
@@ -572,12 +549,11 @@ Barrels_''	1
 ``_VBG
 ``_swinging	1
 NN_VB
-<p>_Take	1
-money_Get	1
-film_Get	1
 cast_take	1
+money_Get	1
 action_star	1
 ability_Get	1
+film_Get	1
 ``_NN
 `_official	1
 ``_film	1
@@ -754,10 +730,11 @@ was_over	1
 headed_back	1
 was_probably	1
 NN_DT
+practice_no	1
+view_the	1
 course_this	1
 mirroring_the	1
 person_each	1
-<p>_This	2
 viewer_these	1
 film_a	2
 pace.and_every	1
@@ -766,7 +743,7 @@ home_the	1
 screen_a	1
 instance_the	1
 command_a	1
-view_the	1
+picturesque_the	2
 classic_no	1
 course_the	1
 way_the	1
@@ -782,7 +759,8 @@ to_the	24
 to_a	4
 NN_CD
 distracts.Overall_4/5	1
-<br />_I	1
+Man_1972	1
+widescreen_1.74:1	1
 ``_EX
 ``_There	1
 VBD_RP
@@ -820,8 +798,6 @@ off_his	1
 away_his	1
 WRB_:
 why_;	1
-DT_-LRB-
-all_-LRB-	2
 VB_NNS
 have_audiences	1
 be_reprisals	1
@@ -850,6 +826,7 @@ kill_Carter	1
 NNS_NNP
 orders_Caine	1
 1970s_Newcastle	1
+characters_Harry	1
 NNS_NNS
 workers_homes	1
 brothers_hands	1
@@ -861,8 +838,6 @@ where_,	1
 JJS_JJ
 greatest_British	1
 best_british	1
--RRB-_TO
--RRB-_to	1
 VBD_JJ
 had_many	2
 had_vague	1
@@ -889,9 +864,6 @@ need_to	1
 seem_to	1
 try_to	1
 want_to	3
-RB_``
-recently_``	1
-never_``	1
 ,_TO
 ,_to	7
 RB_NNP
@@ -980,6 +952,7 @@ answer_;	1
 Note_:	1
 CD_VBD
 1971_created	1
+1967_was	1
 CC_NN
 or_apology	1
 and_humour	1
@@ -1085,17 +1058,8 @@ hands_dirty	1
 years_old	1
 scenes_worthy	1
 films_such	2
-FW_NNS
-<br />_Loads	1
-FW_NNP
-<br />_Michael	3
-<br />_Well	1
-<br />_Hodges	1
-<br />_Caine	3
-<br />_Edgy	1
-<br />_Charlie	1
-<br />_Great	1
-<br />_Carter	2
+RP_CC
+out_and	1
 NNP_''
 Carter_''	15
 Lisa_''	1
@@ -1239,6 +1203,7 @@ as_Jack	4
 with_Carter	3
 with_Mike	1
 alongside_Marvin	1
+by_Ted	1
 about_Jack	1
 in_Michael	1
 Despite_Caine	1
@@ -1416,6 +1381,8 @@ and_what	1
 But_what	3
 but_what	1
 NNS_CC
+films_and	1
+talent.Hodges_and	1
 effects_or	1
 crims_and	1
 sixties_and	1
@@ -1448,7 +1415,7 @@ scenes_or	1
 characters_or	1
 dreams_and	1
 pensioners_and	1
-talent.Hodges_and	1
+Nerds_and	1
 actors_and	1
 60s_and	1
 shadows_and	1
@@ -1473,6 +1440,9 @@ better_than	1
 better_for	1
 better_in	1
 more_of	1
+FW_VB
+i_know	1
+yo_watch	1
 VBP_IN
 see_of	1
 are_in	2
@@ -1494,15 +1464,16 @@ get_about	1
 stink_of	1
 show_as	1
 feel_like	2
+NNPS_RB
+Americans_apart	1
 NN_CC
 sympathy_or	1
 movement_or	1
 character_and	1
-<p>_And	1
+mobster_and	1
 swagger_and	1
 cinematography_and	1
 time_and	1
-<p>_But	2
 menace_and	2
 nod_or	1
 music_and	1
@@ -1555,6 +1526,7 @@ line_or	1
 brother_and	3
 pity_nor	1
 flair_but	2
+mood_but	1
 flesh_and	1
 stretch_but	1
 assurance_and	1
@@ -1577,7 +1549,6 @@ portrait_or	1
 information-gathering_or	1
 gun_and	1
 atmosphere_and	1
-mobster_and	1
 darkness_and	1
 style_and	1
 WDT_PRP
@@ -1610,13 +1581,9 @@ the_newer	1
 a_better	1
 DT_WP
 those_who	3
--RRB-_WP
--RRB-_who	1
 WP$_NNS
 whose_roots	1
 whose_morals	1
-VBG_-RRB-
-speaking_-RRB-	1
 NN_JJ
 nothing_sacred	1
 movie_high	1
@@ -1661,29 +1628,26 @@ Carter_novels	1
 Tyneside_crooks	2
 Carter_trusts	1
 NNP_NNP
-<br />_Caine	1
+Carter_Caine	1
 Jack_Carter	37
 Laon_This	1
 Philip_Marlowe	1
 The_Long	1
 Bottom_Line	1
 Pam_Grier	1
-<p>_Caine	3
 Joseph_Micklewhite	1
 Albert_Swift	1
+Carter_Michael	3
 Michael_Caines	1
-<br />_<br />	1
 Mickey_Spillane	1
 Boormans_POINT	1
-<p>_Carter	1
 Too_Late	1
 Harry_Palmer	1
 Bernie_Casey	2
 Michael_Cain	1
 John_Boormans	1
 Raymond_Chandler	3
-?!_<p>	1
-<p>_This	1
+DR._PHIBES	1
 John_Osbourne	1
 Flash_Gordon	1
 Mykal_Banta	1
@@ -1704,6 +1668,7 @@ Nowadays_Old	1
 Silvester_Stallone	1
 Captain_Kronos	1
 Art_Deco	1
+?!_Caine	1
 Maurice_Joseph	1
 Glynn_Edwards	1
 Point_Blank	4
@@ -1724,13 +1689,12 @@ A_Clockwork	1
 Americanized_Stallone	1
 Vampire_Hunter	1
 Chris_Jarmick	1
-Pianist_Roy	1
+Grier_Coffy	1
 Northern_England	1
 Brit_Eckland	1
 The_Sweeney	1
 Straw_Dogs	1
-<p>_Recommended	2
-<p>_Marching	1
+Charlie_Tesoro	1
 Italian_Job	4
 North_England	1
 ABOMINABLE_DR.	1
@@ -1738,16 +1702,21 @@ Steven_Soderbergh	1
 Little_Voice	1
 Farewell_My	1
 Director_Hodges	2
+Hodges_The	1
 Britt_Ekland	7
 Glass_Cocoon	1
 Alun_Armstrong	1
+Casey_Brian	1
 Jack_Regan/George	1
 Sid_Fletcher	1
 Benny_Hill	1
 Dolby_Digital	1
+Hendry_Captain	1
+Mosley_Far	1
 Ian_Hendry	7
 British_MGM	1
 Lee_Marvin.Get	1
+Caine_Zulu	1
 Serena_F.	1
 American_Ending	1
 Ipress_File	1
@@ -1756,16 +1725,15 @@ Sir_Michael	1
 MY_RATING	2
 POINT_BLANK	3
 South_America	1
-<p>_Laon	1
-<br />_Overall	2
 Tesoro_The	1
 Ted_Lewis	4
 Doc_McCoy	1
 Terminal_Man	1
-Charlie_Tesoro	1
+Osborne_Tomorrow	1
 Richard_Burton	1
 Rosemarie_Dunham	1
 John_Shaft	1
+Armstrong_Krull	1
 John_Boorman	3
 Clockwork_Orange	1
 American_MGM	1
@@ -1774,18 +1742,21 @@ Long_Good	4
 Mona_Lisa	3
 Michael_Caine	62
 Mike_Hodges	18
+Regan/George_Carter	1
 F._Holder	1
 The_Bottom	1
 Tyne_Bridge	2
 Foxy_Brown	1
 Robert_Fuest	1
-DR._PHIBES	1
+Pianist_Roy	1
 Straight_Time	1
 Marvin.Get_Carter	1
 Jaws_IV	1
-Regan/George_Carter	1
+Kinnear_Osborne	1
 Sir_Laurence	1
 Wolfgang_Suschitzky	2
+Carter_Stallone	1
+Carter_Mike	1
 Geraldine_Moffat	1
 :_RB
 ..._then	2
@@ -1812,8 +1783,6 @@ JJR_,
 darker_,	1
 RP_WRB
 out_how	2
-VBN_WRB
-become_when	1
 VBN_CC
 paced_and	1
 written_and	2
@@ -1993,28 +1962,14 @@ EX_MD
 There_would	1
 CD_WRB
 one_where	1
--LRB-_CD
--LRB-_1972	1
--LRB-_1967	1
--LRB-_1.74:1	1
--LRB-_1971	1
 VB_WP
 find_who	1
 Forget_what	1
 ignore_what	1
 decide_who	1
--LRB-_CC
--LRB-_but	1
--LRB-_and	2
-NNS_-LRB-
-characters_-LRB-	1
 RB_WRB
 So_where	1
 ago_when	1
-IN_:
-with_--	1
-because_...	1
-around_...	1
 CD_POS
 60_'s	1
 70_'s	6
@@ -2114,20 +2069,6 @@ six_and	1
 one_or	1
 VBD_CD
 were_two	1
-VBZ_-RRB-
-Comes_-RRB-	1
-NNP_-RRB-
-Hunter_-RRB-	1
-Krull_-RRB-	1
-Caine_-RRB-	5
-UK_-RRB-	1
-Carter_-RRB-	1
-Osborne_-RRB-	1
-Bridge_-RRB-	2
-Brown_-RRB-	1
-Croupier_-RRB-	1
-Stallone_-RRB-	1
-Dunham_-RRB-	1
 NNPS_CC
 Marvins_and	1
 Americans_and	1
@@ -2190,21 +2131,14 @@ When_I	1
 when_you	1
 when_I	1
 when_it	2
-CD_-RRB-
-one_-RRB-	1
-1971_-RRB-	2
-1972_-RRB-	1
-71_-RRB-	1
-1.74:1_-RRB-	1
-1967_-RRB-	1
 :_IN
 ..._because	1
 -_although	1
 -_as	1
 ;_on	1
-..._<p>	1
 ''_:
 ''_...	1
+''_;	1
 PRP$_JJ
 its_first	1
 its_great	2
@@ -2272,7 +2206,6 @@ so_I	1
 before_I	1
 as_I	3
 that_they	1
-<p>_It	1
 until_he	1
 although_I	1
 though_it	2
@@ -2304,13 +2237,12 @@ since_it	1
 ''_.	8
 '_.	3
 ''_,
-'_,	2
-''_,	7
+'_,	3
+''_,	8
 NNS_VB
 needs_be	1
 VB_EX
 know_there	1
-<br />_There	1
 :_PRP$
 ;_their	1
 TO_WP
@@ -2321,9 +2253,11 @@ not_boring.things	1
 -_Mykal	1
 :_Kinnear	1
 --_Sylvester	1
+..._Cheers	1
 :_Farewell	1
 ..._Carter	1
-..._<br />	1
+..._Caine	1
+..._Well	1
 -_Michael	2
 -_Vampire	1
 -_Robert	1
@@ -2985,17 +2919,17 @@ he_succeeds	1
 It_does	1
 he_investigates	1
 FW_PRP
-<br />_It	2
 felt.but_it	1
-<br />_I	1
 outta_you	1
 VBP_EX
 wish_there	1
 realize_there	1
-PRP_:
-you_...	1
-them_;	1
-it_--	1
+IN_,
+in_,	5
+for_,	1
+through_,	1
+since_,	1
+with_,	2
 IN_.
 in_.	1
 for_.	1
@@ -3037,8 +2971,6 @@ England_which	1
 Lisa_which	1
 Friday_which	1
 Newcastle_which	2
-POS_-LRB-
-'s_-LRB-	1
 PRP_VB
 him_uncover	1
 us_see	1
@@ -3203,8 +3135,6 @@ paper-thin_,	1
 ugly_,	1
 forthcoming_,	1
 tough_,	1
-FW_EX
-<br />_There	1
 JJ_.
 showy_.	1
 welcome_.	1
@@ -3225,6 +3155,7 @@ necessary_!	1
 smart_.	1
 anti_.	1
 manipulative_.	1
+lovable_.	1
 dead_.	1
 complex_.	1
 scary_.	1
@@ -3309,8 +3240,6 @@ of_how	4
 of_where	1
 ''_WP
 '_who	1
-VBD_-LRB-
-acted_-LRB-	1
 PRP$_VBG
 his_working	1
 his_enforcing	1
@@ -3341,7 +3270,6 @@ availabilty_increases	1
 ganster_movies	1
 film_actors	1
 Smoking_Barrels	3
-<p>_Women	1
 council_flats	1
 action_setpieces	1
 camera_angles	1
@@ -3361,6 +3289,7 @@ crime_bosses	1
 character_details	1
 life_events	1
 row_houses	1
+etc_stars	1
 tan_greatcoats	1
 setting_compliments	1
 drill_routines	1
@@ -3402,12 +3331,13 @@ composer_Roy	1
 director_Hodges	1
 car_Fletcher	1
 cinematographer_Wolfgang	2
+name_Jack	1
+landlady_Rosemarie	1
 point_Carter	1
 example_Lock	1
 boss_Kinnear	1
 winner_Michael	1
 way_Michael	1
-horror_Carter	1
 gangster_Kinear	1
 classic_Point	1
 book_Carter	1
@@ -3416,7 +3346,7 @@ journey_Carter	1
 gangster_Jack	2
 witness_Carter	1
 opinion_Caine	1
-<p>_Cheers	1
+horror_Carter	1
 character_Walker	1
 series_The	1
 Jazz_Pianist	1
@@ -3445,15 +3375,13 @@ IN_JJS
 at_most	1
 POS_PRP
 '_you	1
-._-RRB-
-._-RRB-	3
-?_-RRB-	2
 VBZ_FW
 is_michael	1
 VB_FW
 have_yo	1
 :_DT
 -_this	1
+:_A	1
 -_a	2
 --_no	1
 ..._a	1
@@ -3470,9 +3398,10 @@ better_role	1
 more_impact	1
 larger_purpose	1
 younger_brother	1
-PRP_-LRB-
-them_-LRB-	1
-him_-LRB-	1
+RB_``
+recently_``	1
+ever_`	1
+never_``	1
 PRP_WP
 We_who	1
 POS_VBN
@@ -3562,8 +3491,6 @@ start_messing	1
 remember_seeing	1
 are_gon	1
 are_being	1
--LRB-_WRB
--LRB-_how	1
 POS_VBP
 's_GET	1
 's_stare	1
@@ -3644,7 +3571,7 @@ phone_call	2
 saving_grace	1
 film_nudity	1
 l_Caine	1
-<p>_A	1
+guy-Working_class	1
 eye_candy	1
 Taxi_Driver	1
 kazoo_soundtrack	1
@@ -3668,6 +3595,7 @@ cult_favourite	1
 season_star	2
 character_study	2
 porno_film	1
+landlady_anything	1
 story_line	1
 board_study	1
 film_experience	1
@@ -3727,7 +3655,6 @@ underworld_community	1
 side_note	1
 action_flick	1
 A_DVD	1
-guy-Working_class	1
 heroin_overdose	1
 uber_cool	1
 film_Academy	1
@@ -3746,6 +3673,7 @@ arm_intimidation	1
 burning_hatred	1
 class_background	1
 PRP_NNP
+them_Carter	1
 you_MUST	1
 WRB_CD
 when_two	1
@@ -4123,10 +4051,6 @@ set_most	1
 ''_``
 ''_``	2
 ''_`	1
--RRB-_NNS
--RRB-_stars	1
--RRB-_NNP
--RRB-_Ted	1
 NN_IN
 movie_because	1
 city_in	1
@@ -4146,11 +4070,9 @@ third_of	2
 movie_in	2
 Persona_for	1
 way_with	1
-<p>_If	1
 underbelly_of	2
 drama_as	1
 performance_by	2
-<p>_In	1
 trace_of	1
 bar_in	1
 track_by	1
@@ -4239,10 +4161,10 @@ stock_of	1
 fear_in	1
 effect_in	2
 woman_with	2
+community_after	1
 REMAKE_AT	1
 film_of	3
 building_because	1
-<p>_At	1
 injection_of	1
 film_for	1
 building_with	2
@@ -4278,13 +4200,14 @@ hatred_like	1
 undercurrent_of	1
 godfather_if	1
 angel_of	1
+remake_although	1
 quip_for	1
 movie_before	1
 cable_in	1
 form_as	1
 front_of	1
 score_by	1
-spirit_of	1
+door_for	1
 display_for	1
 mood_of	2
 obsession_with	1
@@ -4303,6 +4226,7 @@ moment_in	1
 realization_that	1
 backdrop_for	2
 hero_with	1
+year_of	1
 villain_in	1
 film_as	1
 sun_for	1
@@ -4325,7 +4249,7 @@ element_in	1
 couple_of	3
 message_of	1
 mind_since	1
-door_for	1
+spirit_of	1
 none_of	2
 desire_for	1
 version_of	4
@@ -4337,7 +4261,6 @@ death_in	1
 truth_behind	1
 origional_with	1
 acting_with	1
-<p>_Upon	1
 landscape_of	1
 glimpse_of	1
 scene_in	4
@@ -4382,7 +4305,6 @@ hometown_in	1
 vision_into	1
 city_of	1
 despair_for	1
-<p>_Like	1
 moment_as	1
 film_in	2
 degree_of	1
@@ -4475,13 +4397,12 @@ transfer_from	1
 portrayal_of	3
 galaxy_of	1
 pearl_for	1
+pornographer_among	1
 something_like	1
 tide_of	1
 disapoitting_at	2
 score_in	1
 study_as	1
--LRB-_LS
--LRB-_i	1
 CC_DT
 and_both	1
 both_the	2
@@ -4880,7 +4801,9 @@ her_up	1
 him_off	1
 himself_up	1
 JJ_``
+sympathetic_``	1
 likable_``	1
+clumsy_``	1
 superlative_``	1
 mannered_``	1
 other_``	1
@@ -4946,7 +4869,6 @@ is_tracking	1
 VB_PRP
 pre-order_it	1
 let_us	1
-<p>_You	1
 convince_him	1
 remake_it	3
 bring_him	1
@@ -4964,7 +4886,6 @@ stop_him	1
 remind_you	2
 get_it	2
 understand_it	1
-<p>_It	3
 top_it	1
 Deary_me	1
 get_us	1
@@ -4972,7 +4893,6 @@ watch_it	2
 want_him	1
 call_him	1
 convince_you	1
-<br />_I	1
 describe_it	1
 make_him	1
 shut_her	1
@@ -5197,13 +5117,7 @@ first_returned	1
 really_happened	2
 simply_were	1
 FW_IN
-<br />_While	1
-<br />_By	1
-<br />_As	2
-<br />_After	1
-<br />_If	1
-<br />_At	1
-<br />_In	1
+Cookieman108_By	1
 NNS_NN
 actors_today	1
 things_spiral	1
@@ -5394,10 +5308,10 @@ propose_this	1
 love_this	1
 remake_a	1
 live_the	1
-demand_a	1
+make_any	1
 find_this	1
 call_an	1
-make_any	1
+let_these	1
 attend_the	2
 Get_this	1
 solve_this	1
@@ -5412,16 +5326,16 @@ Avoid_the	1
 AVOID_THE	1
 exemplify_the	1
 watch_the	4
-<p>_The	10
+demand_a	1
 be_no	1
 get_a	1
 give_the	1
-<p>_Some	1
+raise_the	1
 like_this	1
 know_the	1
 know_this	1
 find_the	1
-raise_the	1
+mention_a	1
 unravel_the	1
 see_the	3
 buy_this	1
@@ -5435,7 +5349,6 @@ make_a	2
 investigate_the	1
 contrast_this	1
 hold_a	1
-mention_a	1
 save_this	1
 Bought_the	1
 be_a	9
@@ -5444,18 +5357,14 @@ see_a	1
 mitigate_the	1
 soften_the	1
 purchase_the	1
-let_these	1
 Get_a	1
-find_an	1
 expect_any	1
 star_the	1
 kick_the	1
 believe_this	1
 be_the	1
-<br />_The	3
+find_an	1
 justify_the	1
--LRB-_VBG
--LRB-_concerning	1
 WRB_DT
 when_this	1
 When_the	1
@@ -5543,13 +5452,9 @@ LS_VBP
 i_do	1
 EX_POS
 There_'s	2
-JJ_-RRB-
-lovable_-RRB-	1
-British_-RRB-	1
-good_-RRB-	1
-likely_-RRB-	1
 NN_TO
 price_to	1
+coast_to	1
 scene_to	1
 anything_to	2
 ride_to	1
@@ -5559,7 +5464,6 @@ line_to	1
 order_to	2
 analogy_to	1
 need_to	1
-<p>_To	1
 time_to	4
 something_to	4
 kick_to	1
@@ -5600,6 +5504,7 @@ DT_IN
 this_in	1
 this_by	2
 that_in	1
+all_as	1
 some_of	4
 All_of	1
 this_on	1
@@ -5974,14 +5879,11 @@ n't_find	1
 VBN_PDT
 Given_such	1
 FW_FW
-Hmmm_&#8230;	1
 Ipcress_File	1
 michael_caine	1
-Cookieman108_<br />	1
+Hmmm_&#8230;	1
 i_felt.but	1
 micheal_caine	1
-<br />_<br />	55
-<br />_Cookieman108	1
 bleep_outta	1
 JJ_RB
 many_well	1
@@ -6000,9 +5902,6 @@ VBZ_WP
 is_what	1
 gets_what	1
 knows_what	1
-WRB_.
-why_!	1
-Why_?	1
 VBG_PRP$
 regarding_his	1
 wasting_your	1
@@ -6011,8 +5910,6 @@ surrounding_his	1
 investigating_his	2
 being_my	1
 taking_his	1
--RRB-_VBP
--RRB-_are	1
 ,_VBG
 ,_asking	1
 ,_roughing	1
@@ -6038,14 +5935,8 @@ taking_his	1
 ,_taking	2
 ,_indulging	1
 ,_using	1
-''_-RRB-
-''_-RRB-	3
-'_-RRB-	1
--RRB-_VBZ
--RRB-_travels	1
--RRB-_returns	1
 NNS_.
-gangsters_.	1
+cars_.	1
 friends_!	1
 features_!	1
 floosies_.	1
@@ -6084,7 +5975,7 @@ scenes_.	1
 actors_.	1
 participants_.	1
 performances_!	1
-cars_.	1
+gangsters_.	2
 drugs_.	1
 motifs_.	1
 cheers_.	1
@@ -6150,8 +6041,9 @@ reprisals_,	2
 streets_,	1
 circumstances_,	1
 lessons_,	1
+efforts_,	1
 tears_,	1
-means_,	1
+standards_,	1
 locals_,	1
 portrayals_,	1
 sisters_,	1
@@ -6167,8 +6059,9 @@ feathers_,	1
 broads_,	1
 details_,	1
 dandies_,	1
-standards_,	1
+means_,	1
 bosses_,	1
+Sisters_,	1
 mid-90s_,	1
 skies_,	1
 times_,	1
@@ -6210,10 +6103,6 @@ audiences_,	1
 ,_know	1
 ,_pale	1
 ,_throw	1
--RRB-_DT
--RRB-_no	1
--RRB-_VBD
--RRB-_was	1
 RBR_RB
 better_only	1
 more_recently	1
@@ -6224,6 +6113,7 @@ were_scratches	1
 helped_pensioners	1
 tipped_collars	1
 VBD_NNP
+acted_Michael	1
 directed_Croupier	1
 made_Caine	1
 said_?!	1
@@ -6233,8 +6123,6 @@ played_Carter	1
 played_Alfie	1
 seemed_Carter	1
 interested_Caine	1
--RRB-_VBN
--RRB-_named	1
 NNS_:
 greatcoats_:	1
 films_...	1
@@ -6412,6 +6300,7 @@ available_January	1
 intense_Michael	1
 ultra-derivative_London	1
 second_Oscar	1
+original_UK	1
 decaying_Newcastle	1
 cheeky_Casonova	1
 beautiful_Art	1
@@ -6437,7 +6326,7 @@ one_of	41
 '_and	1
 ''_plus	1
 ''_or	1
-''_and	7
+''_and	8
 IN_WP
 than_what	1
 about_who	1
@@ -6445,9 +6334,6 @@ for_what	1
 of_what	1
 RB_''
 anymore_''	1
--RRB-_CC
--RRB-_and	4
--RRB-_but	3
 NNS_EX
 streets_there	1
 VBG_PRP
@@ -6502,7 +6388,6 @@ train_he	1
 mov_I	2
 actor_I	1
 night_I	1
-<p>_I	3
 time_I	1
 movie_I	2
 investigation_he	2
@@ -6513,12 +6398,14 @@ anything_I	1
 film_it	1
 form_himself	1
 thing_you	1
+day_I	1
 film_they	1
 scene_we	1
 mistake_him	1
 arrival_he	1
 someone_it	1
 DVD_I	1
+charisma_I	1
 boss_he	1
 girl_he	1
 way_they	1
@@ -6528,15 +6415,30 @@ claim_he	1
 end_he	1
 film_I	1
 shotgun_he	1
-anything_he	1
+anything_he	2
 fan_you	1
 moment_he	1
 film_he	1
 moment_we	1
 movie_itself	1
-VBP_-RRB-
-do_-RRB-	1
-suppose_-RRB-	1
+VB_PRP$
+investigate_his	1
+haunt_your	1
+achieve_his	1
+take_your	2
+avenge_his	1
+further_his	1
+snap_his	1
+find_his	1
+bury_his	1
+take_their	1
+advance_his	1
+reach_his	1
+pay_their	1
+satisfy_his	1
+get_his	1
+smudge_their	1
+share_his	1
 ''_WDT
 ''_that	1
 ,_MD
@@ -6694,8 +6596,6 @@ Wails_a	1
 befits_the	1
 POS_``
 's_``	2
-IN_-RRB-
-by_-RRB-	1
 VBZ_NN
 encounters_plenty	1
 seeks_revenge	1
@@ -6862,13 +6762,6 @@ VBG_,
 including_,	1
 happening_,	1
 confronting_,	1
-NNS_-RRB-
-Sisters_-RRB-	1
-gangsters_-RRB-	1
-films_-RRB-	1
-Nerds_-RRB-	1
-efforts_-RRB-	1
-things_-RRB-	1
 VBD_TO
 took_to	1
 raised_to	1
@@ -6888,8 +6781,6 @@ impression_i	1
 ,_that	3
 VBG_EX
 discovering_there	1
-:_-RRB-
-..._-RRB-	2
 VBN_VB
 titled_Get	1
 WP$_VBD
@@ -6922,7 +6813,6 @@ north_;	1
 DVD_-	1
 version_-	1
 touch_...	1
-<p>_--	1
 close_-	1
 film_;	1
 banker_:	1
@@ -6965,6 +6855,7 @@ everyone_,	1
 mistress_,	1
 today_,	4
 CARTER_,	1
+Man_,	1
 stuff_,	1
 mummy_,	1
 hate_,	1
@@ -6994,7 +6885,7 @@ overdose_,	1
 tale_,	1
 protagonist_,	1
 girl_,	1
-death_,	2
+death_,	3
 actor_,	1
 truth_,	3
 moneyman_,	1
@@ -7017,6 +6908,7 @@ mission_,	3
 tripod_,	1
 acting_,	1
 prejudice_,	1
+glove_,	1
 favourite_,	1
 experience_,	2
 light_,	1
@@ -7049,6 +6941,7 @@ guy_,	1
 side_,	1
 smoke_,	1
 movie_,	3
+introduction_,	1
 gag_,	1
 theme_,	2
 man_,	4
@@ -7094,7 +6987,8 @@ pace_,	1
 darkness_,	1
 hell_,	1
 spiderman_,	1
-introduction_,	1
+niece_,	1
+Chapter_,	1
 title_,	1
 co-creating_,	1
 dark_,	1
@@ -7191,10 +7085,11 @@ rawness_.	1
 scum_.	1
 dialogue_.	2
 pondlife_.	1
-death_.	4
+death_.	5
 dawn_.	1
 vengeange_.	1
 actor_.	1
+Minder_.	1
 masterpiece_!	1
 concrete_.	1
 classic_.	2
@@ -7206,9 +7101,10 @@ lipstick_.	1
 Outfit_.	1
 head/enforcer_.	1
 lining_.	1
-justice_.	1
+Anger_.	1
 argument_.	1
 story_.	1
+hero_.	1
 sky_.	1
 concern_.	1
 form_.	1
@@ -7235,7 +7131,7 @@ location_.	1
 flair_.	1
 study_.	1
 delivery_.	1
-business_.	1
+business_.	2
 winner_.	1
 side_.	1
 guy_.	2
@@ -7254,6 +7150,7 @@ vengeance_.	1
 original_.	1
 money_.	2
 w/M_.	1
+w/S_.	1
 purpose_.	1
 underworld_.	2
 score_.	1
@@ -7273,8 +7170,8 @@ ugliness_.	1
 use_.	1
 routine_.	1
 accident_.	3
-hero_.	1
-w/S_.	1
+star_.	1
+descruction_.	1
 film_?	1
 killer_.	1
 ethos_.	1
@@ -7287,6 +7184,7 @@ film_.	14
 goal_.	1
 thing_.	1
 Hair_.	1
+justice_.	1
 darkness_.	1
 rot_.	1
 razor_.	1
@@ -7301,7 +7199,7 @@ role_.	3
 world_.	1
 action_.	4
 rage_.	1
-descruction_.	1
+Crowd_.	1
 music_.	2
 cremation_.	1
 breath_.	1
@@ -7346,8 +7244,6 @@ shape_!	2
 gesture_.	1
 character_.	4
 time_.	6
--LRB-_TO
--LRB-_to	1
 NNP_VBG
 Caine_stepping	1
 Caine_making	1
@@ -7430,6 +7326,7 @@ in_to	1
 out_to	1
 PRP_CC
 it_and	1
+him_and	1
 WDT_VBD
 that_were	1
 that_made	1
@@ -7452,14 +7349,9 @@ showing_virtually	1
 observing_methodically	1
 jumping_around	1
 FW_JJ
-<br />_Low-level	1
 caine_second	1
 DT_WRB
 this_when	1
--RRB-_NN
--RRB-_<p>	2
--RRB-_version	1
--RRB-_film	2
 DT_,
 that_,	3
 This_,	1
@@ -7481,20 +7373,13 @@ stretching_out	1
 running_out	1
 blasting_away	1
 letting_up	1
--LRB-_RB
--LRB-_especially	1
--LRB-_apart	1
--LRB-_comparatively	1
--LRB-_well	1
--LRB-_coincidentally	1
+LS_RB
+i_am	1
 DT_:
 all_...	1
-FW_VB
-<p>_Get	1
-<br />_Get	2
-yo_watch	1
-i_know	1
-<br />_Avoid	1
+WRB_.
+why_!	1
+Why_?	1
 DT_WDT
 all_THAT	1
 JJS_NN
@@ -7638,9 +7523,6 @@ very_incomplete	1
 just_stale	1
 So_many	1
 particularly_good	1
--LRB-_FW
--LRB-_eg	1
--LRB-_er	1
 IN_IN
 as_for	1
 from_so	1
@@ -7670,6 +7552,7 @@ years_earlier	1
 VB_``
 get_``	1
 CD_DT
+6.3_This	2
 1970_the	1
 NNP_VBD
 Carter_was	3
@@ -7695,8 +7578,6 @@ to_Carter	1
 to_Newcastle	7
 to_South	1
 to_Bob	1
-RB_-LRB-
-ever_-LRB-	1
 TO_NNS
 to_guns	1
 to_Carters	1
@@ -7796,28 +7677,26 @@ sets_himself	1
 makes_him	2
 means_they	1
 VB_RB
-get_mildly	1
-find_here	1
-be_too	1
-be_extremely	1
-expect_there	1
-be_intentionally	1
-name_just	1
-see_nearly	1
 be_brutally	1
-<br />_Apart	1
-Look_also	2
-sit_back	1
-be_even	1
-<br />_However	2
-go_so	2
-have_desperately	1
-exchange_now	1
 get_too	2
+get_mildly	1
+come_back	1
+name_just	1
+go_so	2
+find_here	1
+see_nearly	1
+be_too	1
+have_desperately	1
+expect_there	1
 play_just	1
 go_back	1
+be_intentionally	1
+exchange_now	1
+Look_also	2
 do_so	2
-come_back	1
+sit_back	1
+be_extremely	1
+be_even	1
 CD_MD
 One_might	1
 :_VBP
@@ -7831,7 +7710,6 @@ NNS_WRB
 scenes_when	1
 moments_when	1
 NN_EX
-<p>_There	1
 death.Once_there	1
 brutality_there	1
 hand_there	1
@@ -7892,8 +7770,6 @@ North_of	1
 DT_NNPS
 The_Avengers	2
 The_British	1
-FW_UH
-<br />_Well	1
 FW_,
 File_,	1
 PRP$_NNS
@@ -7932,6 +7808,7 @@ IN_VBG
 of_chanting	1
 in_checking	1
 in_getting	1
+of_concerning	1
 of_viewing	1
 of_avenging	1
 by_revealing	1
@@ -7963,24 +7840,10 @@ in_reflecting	1
 After_disembarking	1
 after_reading	1
 after_finishing	1
+VBN_WRB
+become_when	1
 ``_CD
 `_71	1
-NN_-RRB-
-coast_-RRB-	1
-business_-RRB-	1
-death_-RRB-	2
-Chapter_-RRB-	1
-etc_-RRB-	1
-Crowd_-RRB-	1
-niece_-RRB-	1
-practice_-RRB-	1
-Anger_-RRB-	1
-Man_-RRB-	1
-glove_-RRB-	1
-year_-RRB-	1
-mood_-RRB-	1
-star_-RRB-	1
-Minder_-RRB-	1
 ,_PRP
 ,_he	14
 ,_they	2
@@ -8001,26 +7864,6 @@ my_Caine	1
 His_Brother	1
 his_Brother	1
 his_London	2
--LRB-_NNP
--LRB-_Caine	1
--LRB-_Coffy	1
--LRB-_Mike	1
--LRB-_Osborne	1
--LRB-_Harry	1
--LRB-_Far	1
--LRB-_Captain	1
--LRB-_The	1
--LRB-_Stallone	1
--LRB-_Carter	1
--LRB-_Michael	4
--LRB-_Jack	1
--LRB-_Tomorrow	1
--LRB-_Though	1
--LRB-_Krull	1
--LRB-_UK	1
--LRB-_Rosemarie	1
--LRB-_Brian	1
--LRB-_Zulu	1
 VBG_.
 filming_.	1
 telling_.	1
@@ -8038,6 +7881,7 @@ cunning_or	1
 grim_and	1
 memorable_and	1
 black_and	1
+first_but	1
 solid_and	2
 direct_and	1
 fast_and	1
@@ -8122,18 +7966,19 @@ gritty_1971	1
 single_one	1
 last_30	1
 CD_,
+1.74:1_,	1
+1972_,	1
+1971_,	3
+15_,	1
 1970_,	1
-1971_,	2
 one_,	1
 70s_,	1
-15_,	1
 CD_.
-one_.	4
 1971_.	2
+one_.	5
+71_.	1
 2001_.	1
 2000_.	1
-VBP_MD
-stare_can	1
 WRB_VBN
 when_done	1
 WRB_VBD
@@ -8147,36 +7992,12 @@ how_'s	1
 NNP_WP
 Carter_who	1
 London_who	2
-Caine_who	1
-Cinematographer_whom	1
+Caine_who	2
 Sheriff_who	1
-VB_PRP$
-investigate_his	1
-haunt_your	1
-achieve_his	1
-take_your	2
-avenge_his	1
-further_his	1
-snap_his	1
-find_his	1
-bury_his	1
-take_their	1
-advance_his	1
-reach_his	1
-pay_their	1
-satisfy_his	1
-get_his	1
-smudge_their	1
-share_his	1
+Cinematographer_whom	1
+Osborne_who	1
 CD_:
 3.5_/	1
-JJ_-LRB-
-English_-LRB-	1
-sympathetic_-LRB-	1
-first_-LRB-	1
-original_-LRB-	1
-less-famous_-LRB-	1
-clumsy_-LRB-	1
 WRB_VBP
 Why_do	1
 where_are	1
@@ -8299,6 +8120,7 @@ London_mob	1
 Caine_collection	1
 UK_release	1
 TV_series	1
+UK_version	1
 Caine_original	1
 London_gang	1
 Spillane_proud	1
@@ -8411,8 +8233,10 @@ to_me	1
 TO_PRP$
 to_his	11
 to_your	1
-VB_POS
-let_'s	1
+._.
+._?	1
+._.	3
+?_.	1
 VBN_RP
 laid_out	1
 set_up	1
@@ -8463,8 +8287,6 @@ Carter_``	1
 Hoskins_``	1
 Banta_``	1
 Though_``	1
-FW_VBP
-<br />_Do	1
 TO_RB
 to_ever	1
 to_really	1
@@ -8559,12 +8381,13 @@ wondering_if	1
 observing_that	1
 calling_in	1
 working_for	1
+being_in	1
 indulging_in	1
 burning_for	1
 lacking_in	1
 gasping_for	1
 revealing_that	1
-being_in	1
+speaking_of	1
 turning_in	1
 Winding_through	1
 bursting_with	1
@@ -8573,6 +8396,8 @@ driving_on	1
 mucking_about	1
 running_through	1
 cheering_for	1
+VB_POS
+let_'s	1
 FW_VBG
 caine_asking	1
 DT_CD
@@ -8643,6 +8468,7 @@ dangerous_is	1
 ''_characters	1
 ''_films	1
 NNP_,
+Walker_,	1
 Coffy_,	1
 Carter_,	21
 England_,	3
@@ -8653,13 +8479,14 @@ Hodges_,	5
 Hill_,	1
 Gordon_,	1
 Warner_,	1
+Blank_,	1
 Lock_,	2
 Ekland_,	1
 Man_,	1
-Walker_,	1
-Osborne_,	3
+Hunter_,	1
+Osborne_,	4
 Osbourne_,	1
-Caine_,	11
+Caine_,	12
 Alfie_,	1
 Overall_,	2
 Zulu_,	2
@@ -8672,11 +8499,12 @@ Hollywood_,	1
 Hero_,	1
 Sleuth_,	1
 Hendry_,	1
+Krull_,	1
 Britain_,	1
 Farewell_,	1
-Stallone_,	3
+Stallone_,	4
 devil_,	1
-Blank_,	1
+Croupier_,	1
 Well_,	1
 Suschitzky_,	1
 London_,	3
@@ -8690,7 +8518,7 @@ three_tasty	1
 one_powerful	1
 NNP_.
 Impecable_.	1
-Carter_.	9
+Carter_.	10
 Phew_.	1
 Saloon_.	1
 Eklund_.	1
@@ -8700,6 +8528,7 @@ Jewish_.	1
 Classic_.	1
 Cheers_!	1
 England_.	3
+Brown_.	1
 Swift_?	1
 BLANK_.	1
 Lisa_.	1
@@ -8730,9 +8559,9 @@ Lovely_.	2
 JJ_VBP
 memorable_are	1
 stale_stink	1
-FW_NN
-<br />_Caine/Carter	1
-<br />_Caine	1
+POS_CC
+'_and	1
+'s_and	2
 DT_VBD
 This_was	1
 JJ_VBN
@@ -8787,15 +8616,17 @@ memorable_leading	1
 destructive_compromising	1
 amazing_considering	1
 NNP_:
-Carter_;	1
+Atlantic_:	1
 Caine_;	1
 Woo_-	1
 PHIBES_-	1
-Atlantic_:	1
+Carter_;	1
 Line_:	1
 Jaws_:	2
+Holder_-	1
 Carter_...	1
 RATING_-	2
+Ekland_...	1
 Kronos_-	1
 RB_VBP
 later_have	1
@@ -8810,8 +8641,6 @@ unmistakably_cool	1
 then_do	1
 also_have	2
 then_GET	1
-NNPS_-LRB-
-Americans_-LRB-	1
 JJ_PRP$
 worth_your	1
 VBZ_.
@@ -8823,11 +8652,12 @@ wants_.	1
 inhabits_.	1
 is_.	2
 VBZ_,
-succeeds_,	1
+Comes_,	1
 watches_,	1
+thinks_,	1
+succeeds_,	1
 arrives_,	1
 is_,	6
-thinks_,	1
 RB_NN
 back_home	1
 just_one.Caine	1
@@ -8941,9 +8771,6 @@ betrayed_him	1
 shown_us	1
 given_us	1
 decided_it	1
-:_FW
-..._<br />	1
-:_<br />	1
 WRB_JJ
 how_high	1
 where_grim	1
@@ -8991,7 +8818,7 @@ gangster_who	1
 hoodlum_who	1
 villain_who	1
 Man_Who	1
-character_who	1
+character_who	2
 kid_who	1
 professional_who	1
 friend_whom	1
@@ -9031,7 +8858,6 @@ dialogs_become	1
 bodies_are	1
 Women_wear	1
 mobsters_get	1
-<p>_Get	1
 characters_have	1
 enforcers_are	1
 times_Get	1
@@ -9108,37 +8934,16 @@ corrupted_his	1
 was_his	1
 denied_his	1
 IN_CC
-on_or	1
-through_and	1
-with_and	1
 in_and	1
 from_both	1
-NNP_-LRB-
-Micklewhite_-LRB-	1
-Grier_-LRB-	1
-Edwards_-LRB-	1
-Ekland_-LRB-	2
-Kinnear_-LRB-	1
-Hodges_-LRB-	1
-Moffat_-LRB-	1
-Casey_-LRB-	1
-Hendry_-LRB-	1
-Alfie_-LRB-	1
-Newcastle_-LRB-	1
-BLANK_-LRB-	1
-Carter_-LRB-	7
-Eckland_-LRB-	1
-Mosley_-LRB-	1
-Holder_-LRB-	1
-Caine_-LRB-	1
-Osborne_-LRB-	2
-Armstrong_-LRB-	1
-IN_,
-in_,	5
-for_,	1
-through_,	1
-since_,	1
-with_,	2
+through_and	1
+on_or	1
+on_and	1
+with_and	1
+PRP_:
+you_...	1
+them_;	1
+it_--	1
 NNS_VBD
 Characters_played	1
 movies_were	1
@@ -9161,18 +8966,12 @@ off_rather	1
 up_north	1
 off_so	1
 out_wordlessly	1
--LRB-_PRP
--LRB-_he	1
--LRB-_I	2
 PRP_NNS
 us_opportunities	1
 He_touches	1
 them_lines	1
 he_touches	1
 it_beggars	2
--LRB-_:
--LRB-_-	1
--LRB-_...	2
 NNS_VBN
 threads_sported	1
 films_shot	1
@@ -9181,9 +8980,10 @@ people_ignored	1
 businessmen_played	1
 skulls_cracked	1
 boys_sent	1
-cheerleaders_aged	1
-individuals_involved	1
 beaches_peopled	1
+individuals_involved	1
+cheerleaders_aged	1
+things_named	1
 Carters_detached	1
 VBP_NNS
 are_dandies	1
@@ -9198,10 +8998,6 @@ VBP_RP
 end_up	1
 ''_WRB
 ''_how	1
-FW_RB
-<br />_Apart	1
-<br />_Then	1
-<br />_Gradually	2
 ``_PRP
 ``_I	2
 `_You	3
@@ -9233,9 +9029,6 @@ POS_JJ
 's_constant	1
 's_violent	1
 's_suspicious	1
-IN_-LRB-
-on_-LRB-	1
-of_-LRB-	1
 VBN_``
 titled_``	1
 ''_IN
@@ -9248,8 +9041,6 @@ titled_``	1
 '_that	1
 ''_for	1
 ''_in	4
--RRB-_IN
--RRB-_of	2
 VBD_VBN
 was_made	3
 had_gotten	1
@@ -9379,8 +9170,6 @@ with_good	1
 by_real	1
 while_modern	2
 in_such	1
-LS_RB
-i_am	1
 RBR_.
 better_.	2
 IN_''
@@ -9405,6 +9194,7 @@ threaded_tapestry	1
 made_today	1
 NNP_RB
 Ekland_almost	1
+Caine_recently	1
 God_only	1
 Boorman_likewise	1
 Zulu_also	1
@@ -9417,11 +9207,13 @@ Carter_first	1
 Carter_so	1
 Caine_never	1
 Carter_soon	1
-Caine_recently	1
+Edwards_well	1
 Carter_barely	1
 Caine_as	1
 POS_:
 's_:	1
+NNP_VBP
+Dunham_are	1
 :_PRP
 -_I	1
 :_you	1
@@ -9432,6 +9224,7 @@ POS_:
 :_he	1
 ;_you	2
 -_it	1
+..._It	1
 ;_it	1
 --_we	1
 NNS_IN
@@ -9539,13 +9332,14 @@ try_to	1
 want_to	3
 afford_to	1
 do_to	1
-travel_to	1
+go_to	1
 pay_to	1
 wait_to	1
 expect_to	1
+travel_to	1
 happen_to	1
 seem_to	1
-go_to	1
+leave_to	1
 wish_to	1
 listen_to	1
 have_to	1
@@ -9559,6 +9353,7 @@ Never_Comes	1
 Carter_follows	1
 Jack_discovers	1
 Carter_puts	1
+Caine_travels	1
 Caine_has	3
 Caine_plays	7
 Caine_turns	1
@@ -9586,6 +9381,7 @@ Carter_reads	1
 Jack_travels	1
 Sheriff_seems	1
 Osborne_is	1
+Caine_returns	1
 Carter_does	2
 Carter_transforms	1
 Hendry_gets	1
@@ -9727,9 +9523,6 @@ to_inflict	1
 to_shock	1
 to_soften	1
 To_make	1
-._.
-._.	3
-._?	1
 RB_MD
 now_can	1
 really_should	1
@@ -9762,8 +9555,6 @@ directed_,	1
 said_,	1
 proposed_,	1
 died_,	1
-FW_VBN
-<br />_Given	1
 VBD_.
 sampled_.	1
 rented_.	1
@@ -9799,12 +9590,6 @@ NNP_VBN
 Kinnear_played	1
 WP_NNP
 what_Carter	1
--LRB-_IN
--LRB-_after	1
--LRB-_as	2
--LRB-_although	1
--LRB-_for	1
--LRB-_among	1
 NNP_POS
 Marvin_'s	1
 Britain_'s	1
@@ -9840,17 +9625,17 @@ way_almost	2
 end_crudely	1
 puzzle_together	1
 hesitation_whatsoever	1
-<p>_Totally	1
 soundtrack_too	1
 movie_enough	1
 plot_away	1
 information_eventually	1
 film_anyway	1
 Someone_too	1
+remake_comparatively	1
 brother_never	1
 doubt_perfectly	1
-<p>_Still	1
 air_here	1
+Connection_coincidentally	1
 role_effortlessly	1
 time_now	1
 cinema_recently	1
@@ -9862,7 +9647,7 @@ half_ruthlessly	1
 film_as	1
 script_just	1
 simple-though_internally	1
-vengence_finally	1
+film_especially	1
 public_alike	1
 remake_instead	1
 ky_Just	1
@@ -9871,6 +9656,7 @@ film_ever	1
 man_almost	1
 character_here	1
 friend_just	1
+vengence_finally	1
 drawback_here	1
 role_here	2
 market_right	1
@@ -9885,16 +9671,12 @@ ending.A_very	1
 movie_first	1
 journey_up	1
 music_only	1
-<p>_So	1
 talent_namely	1
 CARTER_soon	1
 Look_Back	1
 train_back	1
 violence_truly	1
 fare_then	1
-FW_WRB
-<br />_When	1
-<br />_Why	1
 JJ_IN
 good_as	2
 unforgettable_as	1
@@ -9928,6 +9710,7 @@ betrayal_for	1
 reminiscent_of	1
 welcome_in	1
 dead_on	1
+much_of	1
 full_of	3
 terrific_as	1
 obvious_that	1
@@ -9955,6 +9738,7 @@ else_about	1
 stylish_by	1
 percolationg_as	1
 ugly_as	1
+likely_If	1
 unstoppable_as	1
 naked_in	1
 such_as	3
@@ -9975,7 +9759,8 @@ violent_than	1
 boring_at	1
 good_that	1
 acceptable_in	1
-much_of	1
+less-famous_for	1
+English_as	1
 deliberate_than	1
 safe_from	1
 VBD_``
@@ -9997,8 +9782,10 @@ NN_RP
 stand_out	1
 time_off	1
 funeral_up	1
-TO_WDT
-to_which	1
+IN_:
+with_--	1
+because_...	1
+around_...	1
 VBZ_DT
 gets_a	1
 's_a	15
@@ -10077,7 +9864,6 @@ one_point	1
 2000_remake	3
 70s_cool	1
 1970s_vein	1
-6.3_<p>	2
 2000_film	1
 one_man	1
 Two_Smoking	3
@@ -10116,9 +9902,8 @@ does_Mickey	1
 stars_Michael	1
 's_Michael	1
 is_Cain	1
-RP_CC
-out_and	1
 :_.
+..._.	1
 -_.	1
 VBZ_NNS
 cultivates_relationships	1
@@ -10142,8 +9927,8 @@ colorful_''	1
 lovable_''	1
 ,_JJS
 ,_bleakest	1
--LRB-_WP
--LRB-_who	2
+CD_EX
+1971_There	1
 VB_CD
 be_one	2
 pick_one	1
@@ -10160,10 +9945,15 @@ stop_and	1
 follow_and	1
 like_and	1
 NNP_DT
-Caine_an	1
-Late_the	1
-London_a	1
+Newcastle_a	1
+Ekland_The	1
+Alfie_the	1
+Moffat_The	1
 Carter_a	1
+Late_the	1
+Caine_an	1
+London_a	1
+Eckland_a	1
 VBN_NNP
 named_Carter	1
 named_Albert	1
@@ -10195,8 +9985,6 @@ had_lots	1
 known_faces	1
 ,_WP$
 ,_whose	2
--LRB-_NN
--LRB-_anything	1
 ,_NNP
 ,_Too	1
 ,_Alun	1
@@ -10312,10 +10100,8 @@ is_that	3
 moves_at	1
 learns_that	2
 begins_with	1
--LRB-_DT
--LRB-_the	3
--LRB-_The	2
--LRB-_a	2
+TO_WDT
+to_which	1
 JJ_NN
 evil_person	1
 theatrical_trailer	1
@@ -10434,6 +10220,7 @@ intriguing_character	1
 courageous_performance	1
 dimensional_portrait	1
 French_Connection	2
+good_film	1
 moderate_pace.it	1
 neat_commentary	1
 seedy_underbelly	1
@@ -10602,7 +10389,7 @@ redeeming_quality	1
 visual_poetry	1
 local_porn-king	1
 mysterious_death	1
-British_film	1
+British_film	2
 little_hope	1
 unrecognized_co-star	1
 certain_charm	1

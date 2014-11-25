@@ -32,14 +32,10 @@ VB_VBZ_IN
 say_is_that	1
 :_VBG_NNP
 ..._watching_Walken	1
-JJ_,_CC
-good_,_but	1
-excellent_,_but	1
-suspenseless_,_and	1
+,_PRP_RB
+,_I_highly	1
 WRB_PRP_VBD
 When_he_was	1
-VBP_VBN_IN
-am_disappointed_that	1
 JJ_EX_VBP
 disjointed_there_are	1
 NN_IN_JJ
@@ -76,8 +72,8 @@ NN_PRP_VBP
 kind_I_like	1
 NN_RB_VBZ
 movie_closely_follows	1
-NN_,_VBD
-book_,_became	1
+NNP_:_VBZ
+Besucher_-_is	1
 RP_JJ_NN
 out_great_story	1
 VBZ_VB_RP
@@ -86,14 +82,8 @@ VBP_''_IN
 do_'_like	1
 TO_VB_PRP
 to_see_her	1
-VBN_RB_NN
-cut_differently_<br />	1
-TO_PRP$_JJ
-to_his_physical	1
 VBP_PRP_,
 ask_yourself_,	1
--LRB-_VB_NNP
--LSB-_Die_Besucher	1
 IN_VBG_PRP$
 like_watching_his	1
 JJS_,_NN
@@ -102,8 +92,8 @@ DT_VBZ_RB
 this_is_not	1
 RB_VBN_TO
 too_repulsed_to	1
-NNP_TO_PRP
-Walken_to_me	1
+,_NN_NNS
+,_rubber_muppets	1
 NNS_IN_PRP
 terms_with_it	1
 ways_that_we	1
@@ -181,8 +171,10 @@ the_film_had	1
 This_movie_was	1
 VBD_VBD_RB
 felt_were_very	1
-NNP_NNP_TO
-Christopher_Walken_to	1
+JJ_,_CC
+good_,_but	1
+excellent_,_but	1
+suspenseless_,_and	1
 IN_JJS_,
 at_best_,	1
 PRP_VBG_IN
@@ -219,8 +211,8 @@ CD_VBZ_NNP
 one_is_Fire	1
 VBP_TO_RB
 get_to_actually	1
--RRB-_:_VBZ
--RSB-_-_is	1
+IN_JJS_NN
+As_most_film	1
 DT_CD_VBZ
 this_one_is	1
 JJ_TO_VB
@@ -249,8 +241,6 @@ the_book_which	1
 a_scene_that	1
 POS_PRP_VBP
 '_themselves_represent	1
-IN_NN_.
-on_religion_.	1
 CC_IN_VBG
 But_in_succeeding	1
 CC_VBN_IN
@@ -268,8 +258,6 @@ The_`_visitors	1
 the_``_visitors	1
 DT_VB_PRP
 that_dissuade_you	1
-NNP_-LRB-_VB
-Germany_-LSB-_Die	1
 RB_VB_VBN
 never_have_imagined	1
 still_get_scared	1
@@ -285,6 +273,8 @@ am_a_big	1
 CC_DT_JJ
 but_an_overall	1
 but_the_awesome	1
+RB_,_IN
+away_,_unless	1
 VBN_RB_DT
 had_even_a	1
 IN_NNS_,
@@ -311,8 +301,8 @@ the_last_true	1
 THE_classic_alien	1
 NN_CD_POS
 story_80_'s	1
-NNP_-RRB-_:
-Besucher_-RSB-_-	1
+WDT_VBD_DT
+that_scared_the	1
 DT_NN_MD
 the_film_would	1
 IN_DT_CD
@@ -372,6 +362,8 @@ PRP_DT_TO
 us_all_to	1
 ,_CC_NNP
 ,_but_God	1
+NN_:_RB
+bedroom_..._so	1
 VBN_IN_DT
 disappointed_that_the	1
 expressed_in_the	1
@@ -379,47 +371,45 @@ driven_from_the	1
 based_on_the	1
 depicted_in_this	1
 spoofed_in_the	1
+RB_VBN_RB
+ever_had_even	1
 CC_VBZ_RB
 but_has_n't	1
 NNP_,_VBG
 Streiber_,_shifting	1
 VBD_TO_NNP
 happened_to_Whitely	1
--RRB-_CC_PRP
--RRB-_and_we	1
 NNP_NN_CC
 UFO_reasercher_or	1
-CC_IN_JJ
-and_in_particular	1
-CC_VBZ_PRP
-Or_is_he	1
 NN_JJ_IN
 abductee_such_as	1
 Anyone_interested_in	1
-VB_JJ_IN
-be_real_as	1
+CC_VBZ_PRP
+Or_is_he	1
+:_RB_RB
+..._so_anyway	1
+VBD_DT_RB
+did_this_really	1
 VBN_NN_.
 written_script_.	1
 NNS_POS_PRP
 visitors_'_themselves	1
-VBD_DT_RB
-did_this_really	1
+VB_JJ_IN
+be_real_as	1
 IN_PRP$_NNS
 In_his_movies	1
 of_my_pants	1
 of_his_experiences	1
 DT_VBG_NN
 a_defining_role	1
+VBG_NNS_RB
+acting_skills_ever	1
 DT_RB_RB
 the_comically_yet	1
-NNS_CC_RB
-times_and_still	1
 RB_VBN_NN
 dreadfully_written_script	1
 RB_IN_,
 still_though_,	1
-IN_JJ_CC
-for_absolute_and	1
 PRP_WRB_RB
 me_how_there	1
 CD_NNS_RB
@@ -489,8 +479,6 @@ back_in_the	1
 together_in_the	1
 VB_PRP$_JJS
 see_his_greatest	1
--RRB-_VBD_DT
--RRB-_was_a	1
 NN_MD_VB
 film_would_be	1
 VBZ_,_NN
@@ -500,13 +488,15 @@ enjoy_pressing_the	1
 PRP_VBD_IN
 I_heard_that	1
 I_jumped_out	1
+CD_VBD_DT
+1989_was_a	1
 VBZ_''_RB
 is_'_very	1
 NNS_IN_IN
 wits_out_of	1
 lights_on_at	1
-NN_RB_FW
-disc_alone_<br />	1
+RB_CC_IN
+differently_and_because	1
 DT_NN_IN
 the_movie_as	1
 that_film_than	1
@@ -565,13 +555,13 @@ PRP_VBD_.
 you_slept_?	1
 RB_DT_NNP
 not_a_UFO	1
+NNS_CC_PRP
+strings_and_we	1
 VBZ_JJ_JJ
 plays_such_strong-willed	1
 NNP_NNP_NNS
 Chris_Walken_movies	1
 Christopher_Walken_pieces	1
-NN_VBP_VBZ
-imagination.I_say_lets	1
 VBN_NNS_.
 discarded_animatronics_.	1
 VB_RB_JJ
@@ -625,8 +615,6 @@ acting_of_Christopher	1
 movie_as_Walken	1
 experience_of_Whitley	1
 pilot_of_South	1
--LRB-_CD_-RRB-
--LRB-_1989_-RRB-	1
 VBP_WRB_DT
 know_how_these	1
 RB_,_VBP
@@ -649,8 +637,8 @@ IN_``_DT
 with_``_The	1
 DT_JJ_CD
 those_weird_80s	1
-FW_JJ_NN
-<br />_honorable_mention	1
+NNP_TO_PRP
+Walken_to_me	1
 DT_NNS_NN
 this_reviewers_opinion	1
 RB_JJ_CC
@@ -659,8 +647,6 @@ deeply_frustrated_and	1
 TO_DT_NN
 to_the_kid	1
 to_the_attention	1
-:_NN_RB
-..._<br />_so	1
 NNP_VB_DT
 Walken_portray_the	1
 POS_JJ_NNS
@@ -688,8 +674,8 @@ WDT_VBZ_DT
 that_overtakes_an	1
 CC_JJ_NNS
 or_creepy_preformances	1
-RB_VBN_RB
-ever_had_even	1
+NNS_''_:
+guys_''_...	1
 DT_NN_NN
 the_film_version	1
 The_product_quality	1
@@ -751,6 +737,7 @@ and_still_get	1
 PRP_RB_RB
 it_very_much	1
 RB_JJ_NN
+alone_honorable_mention	1
 remotely_similar_experience	1
 reasonably_enjoyable_film	1
 absolutely_thought-provoking_movie	1
@@ -784,6 +771,8 @@ worth_watching_.	1
 IN_DT_NNP
 with_The_Dead	1
 though_that_Christopher	1
+NN_RB_JJ
+disc_alone_honorable	1
 NNS_CC_VB
 books_and_inspire	1
 eighties_and_remember	1
@@ -801,8 +790,8 @@ year_afterwards_.	1
 film_though_.	1
 VBP_,_DT
 go_,_this	1
-JJ_NN_PRP
-alien_film_I	1
+NN_:_NN
+movie_..._period	1
 ,_VB_RB
 ,_stay_away	1
 IN_WP_VBZ
@@ -859,8 +848,6 @@ NN_JJ_DT
 Im_glad_this	1
 CC_VBG_IN
 or_performing_from	1
--RRB-_-LRB-_CD
--RRB-_-LRB-_1989	1
 NN_VBD_JJ
 film_had_several	1
 VBZ_VBN_RB
@@ -888,6 +875,8 @@ of_his_experience	1
 of_your_mind	1
 around_his_bedroom	1
 of_my_skin	1
+NNS_,_NN
+aliens_,_rubber	1
 VBG_RB_JJ
 feeling_deeply_frustrated	1
 NNS_PRP_RB
@@ -1028,8 +1017,8 @@ Whitley_Strieber_'s	1
 Whitley_Streiber_'s	1
 NNS_NNP_``
 movies_Walken_`	1
-FW_FW_JJ
-<br />_<br />_honorable	1
+CD_POS_NN
+80_'s_B	1
 NN_DT_NN
 hoax_a_lie	1
 movie_a_dozen	1
@@ -1038,7 +1027,6 @@ book_a_chance	1
 `_did_'	1
 NN_CC_IN
 presence_and_in	1
-<br />_and_because	1
 ,_PRP_VBZ
 ,_he_does	1
 CD_NN_.
@@ -1100,8 +1088,6 @@ NN_WDT_VBD
 sci-fi_that_scared	1
 scene_that_was	1
 book_which_had	1
-FW_''_:
-<br />_''_...	1
 NNP_NNP_,
 Whitley_Streiber_,	1
 DT_NN_,
@@ -1127,8 +1113,8 @@ VB_DT_JJ
 be_any_good	1
 have_a_good	1
 portray_the_full	1
-IN_NNS_-RRB-
-on_strings_-RRB-	1
+NN_VBP_VBZ
+imagination.I_say_lets	1
 RB_RB_JJ
 almost_always_difficult	1
 not_as_interesting	1
@@ -1195,9 +1181,8 @@ NN_WP_RB
 friend_who_actually	1
 VBG_NNS_VBD
 flying_saucers_dragged	1
-NN_:_NN
-bedroom_..._<br />	1
-movie_..._period	1
+JJ_NN_PRP
+alien_film_I	1
 JJ_NN_VBD
 alien_creature_was	1
 JJ_NN_VBZ
@@ -1212,13 +1197,9 @@ Christopher_Walken_portray	1
 ,_Communion_brings	1
 VB_VBN_.
 have_imagined_.	1
-NNP_-LRB-_JJ
-Communion_-LRB-_Special	1
 NNP_NNP_VBD
 Christopher_Walken_was	1
 Lindsay_Crouse_were	1
-NNS_,_-LRB-
-aliens_,_-LRB-	1
 NN_CC_RB
 family_and_just	1
 wonder_and_definitely	1
@@ -1235,8 +1216,6 @@ EX_VBP_RB
 there_are_very	1
 NNP_NNP_:
 Christopher_Walken_...	1
-RB_NN_CC
-differently_<br />_and	1
 DT_JJ_``
 THE_famous_``	1
 NNP_:_DT
@@ -1270,11 +1249,10 @@ VBD_IN_IN
 jumped_out_of	1
 NNP_NNP_DT
 High_School_a	1
-<br />_Make_no	1
 RB_RB_,
 so_anyway_,	1
-IN_JJS_NN
-As_most_film	1
+RB_RB_.
+very_much_.	1
 TO_RB_VB
 to_actually_see	1
 VBN_RBR_.
@@ -1286,8 +1264,8 @@ borders_on_religion	1
 questions_of_life	1
 NN_VBN_.
 bedtime_guaranteed_.	1
-NNS_FW_FW
-guys_<br />_<br />	1
+VBZ_RB_TO
+brings_forth_to	1
 JJ_DT_JJ
 sure_a_great	1
 NNP_DT_NN
@@ -1297,6 +1275,8 @@ IN_VBP_NNS
 as_are_books	1
 WRB_PRP_RB
 when_it_first	1
+IN_NNP_VB
+from_Germany_Die	1
 CC_MD_VB
 and_will_leave	1
 POS_NN_WRB
@@ -1308,8 +1288,6 @@ makes_him_potentially	1
 VBZ_NN_TO
 gives_nothing_to	1
 does_nothing_to	1
-NN_-RRB-_-LRB-
-Edition_-RRB-_-LRB-	1
 JJ_JJ_NN
 such_strong-willed_career	1
 classic_alien_abduction	1
@@ -1341,12 +1319,10 @@ kid_and_the	1
 style_but_an	1
 WP_VBZ_VBN
 what_is_depicted	1
-FW_FW_''
-<br />_<br />_''	1
+,_NN_.
+,_yuck_!	1
 NNS_''_VBP
 visitors_''_are	1
-RB_RB_.
-very_much_.	1
 CD_POS_JJ
 80_'s_dated	1
 DT_NN_RB
@@ -1390,8 +1366,8 @@ a_hoax_a	1
 the_book_a	1
 NNP_NNS_RB
 Walken_freaks_out	1
-,_CC_VBD
-,_and_enjoyed	1
+NNP_JJ_NNP
+Communion_Special_Collector	1
 VB_,_IN
 be_,_at	1
 DT_VBD_DT
@@ -1402,14 +1378,14 @@ MD_VB_IN
 would_be_about	1
 will_say_that	1
 will_say_though	1
-IN_NNP_-LRB-
-from_Germany_-LSB-	1
+MD_VB_VBG
+'ll_be_leaving	1
 ,_CC_VBP
 ,_and_appear	1
 JJ_DT_VBZ
 glad_this_is	1
-,_PRP_RB
-,_I_highly	1
+NN_NNS_''
+blu_guys_''	1
 MD_VB_VBN
 will_be_driven	1
 must_have_seen	1
@@ -1431,8 +1407,8 @@ novels_go_,	1
 NNS_IN_NNP
 recollections_of_Whitley	1
 preformances_by_Christopher	1
-VBZ_RB_TO
-brings_forth_to	1
+TO_PRP$_JJ
+to_his_physical	1
 NNS_IN_NNS
 muppets_on_strings	1
 lives_in_ways	1
@@ -1516,8 +1492,6 @@ NN_NN_NNS
 lil_blu_guys	1
 CC_JJ_.
 and_disappointed_.	1
-VB_NNP_-RRB-
-Die_Besucher_-RSB-	1
 DT_MD_VB
 this_could_have	1
 VBP_IN_DT
@@ -1533,8 +1507,6 @@ actually_read_the	1
 highly_recommended_this	1
 only_had_a	1
 also_scared_the	1
-POS_NN_-RRB-
-'s_Edition_-RRB-	1
 VBZ_PRP_WRB
 mystifies_me_how	1
 ''_IN_DT
@@ -1545,9 +1517,8 @@ VBD_PRP_VBG
 kept_me_thinking	1
 CC_RB_WP
 and_just_what	1
-FW_RB_PRP
-<br />_Maybe_I	1
-<br />_Interestingly_I	1
+NNS_CC_RB
+times_and_still	1
 JJ_JJ_NNS
 great_alien_films	1
 alleged_true_recollections	1
@@ -1595,16 +1566,14 @@ JJ_NNP_''
 Fourth_Kind_''	1
 JJ_NNS_VBG
 few_pieces_missing	1
-NN_RB_RB
-<br />_so_anyway	1
 PRP_VBG_RB
 you_feeling_deeply	1
 NN_:_UH
 night_..._OK	1
 RB_CC_VBZ
 out_and_keeps	1
-RB_,_IN
-away_,_unless	1
+NNP_NNP_TO
+Christopher_Walken_to	1
 TO_VB_RB
 to_be_all	1
 to_say_yes	1
@@ -1630,6 +1599,8 @@ PRP_CC_VB
 it_and_see	1
 VBD_''_VB
 did_'_read	1
+CC_IN_JJ
+and_in_particular	1
 PRP_VBG_DT
 he_making_this	1
 TO_DT_``
@@ -1670,9 +1641,6 @@ NNS_VBP_RB
 Movies_are_almost	1
 IN_NNP_VBD
 that_Walken_was	1
-FW_FW_RB
-<br />_<br />_Maybe	1
-<br />_<br />_Interestingly	1
 IN_DT_PRP
 After_all_I	1
 PRP_RP_.
@@ -1810,8 +1778,6 @@ PRP_RB_VBZ
 It_truly_mystifies	1
 NN_TO_PRP$
 regard_to_his	1
-,_NN_.
-,_yuck_!	1
 CD_NN_IN
 110_min_in	1
 ''_VB_NNP
@@ -1824,8 +1790,8 @@ RB_,_PRP
 Well_,_you	1
 JJ_NNP_POS
 Special_Collector_'s	1
-FW_FW_PRP
-<br />_<br />_I	1
+VBP_VBN_IN
+am_disappointed_that	1
 NNP_NNP_NN
 New_York_cabin	1
 Christopher_Walken_fan	1
@@ -1839,8 +1805,6 @@ VBZ_DT_CD
 has_all_three	1
 VBG_,_PRP
 watching_,_you	1
--LRB-_NN_NNS
--LRB-_rubber_muppets	1
 ,_PRP_VBP
 ,_I_feel	1
 ,_you_ask	1
@@ -1854,10 +1818,8 @@ CC_PRP_VBP
 and_I_like	1
 But_I_'m	1
 and_we_get	1
-NN_NNS_FW
-blu_guys_<br />	1
--LRB-_JJ_NNP
--LRB-_Special_Collector	1
+NN_,_VBD
+book_,_became	1
 NNS_,_CC
 days_,_and	1
 effects_,_and	1
@@ -1893,6 +1855,8 @@ you_know_how	1
 ,_CC_DT
 ,_but_a	1
 ,_but_the	1
+NNP_VB_NNP
+Germany_Die_Besucher	1
 VBZ_JJ_,
 is_good_,	1
 NN_WRB_PRP
@@ -1911,16 +1875,16 @@ IN_DT_RBS
 in_the_most	1
 VBN_TO_VB
 repulsed_to_give	1
-VBG_NNS_RB
-acting_skills_ever	1
-FW_PRP_MD
-<br />_I_will	1
+VB_NNP_:
+Die_Besucher_-	1
 TO_VB_NN
 to_prove_anything	1
 ''_VBP_RB
 ''_are_just	1
 :_NN_.
 ..._period_.	1
+NN_CD_VBD
+Edition_1989_was	1
 DT_NN_WP
 a_character_who	1
 a_man_who	1
@@ -2020,6 +1984,7 @@ NNS_VBG_IN
 pieces_missing_that	1
 aliens_peeking_around	1
 IN_NNS_CC
+on_strings_and	1
 by_aliens_but	1
 IN_JJ_NNS
 of_great_novels	1
@@ -2046,22 +2011,20 @@ WP_VBZ_DT
 who_loves_a	1
 CC_NN_NN
 or_alien_movie	1
-NNS_-RRB-_CC
-strings_-RRB-_and	1
+IN_NN_.
+on_religion_.	1
 NNS_,_NNP
 movies_,_Communion	1
-WDT_VBD_DT
-that_scared_the	1
 NN_CC_VBG
 trick_or_treating	1
 PRP$_JJ_IN
 your_remote_with	1
 IN_NN_,
 In_total_,	1
-CD_POS_NN
-80_'s_B	1
 WDT_MD_VB
 that_would_mean	1
+VBN_RB_CC
+cut_differently_and	1
 NNS_TO_VB
 lights_to_be	1
 PRP_,_NNP
@@ -2086,10 +2049,10 @@ but_little_else	1
 and_cheap_film	1
 NN_''_NN
 probe_''_scene	1
+POS_NN_CD
+'s_Edition_1989	1
 CC_VB_NNS
 and_inspire_films	1
-RB_FW_FW
-alone_<br />_<br />	1
 IN_,_IN
 though_,_if	1
 RB_JJ_NNS
@@ -2106,14 +2069,14 @@ VBG_IN_PRP
 missing_that_I	1
 NNP_JJ_.
 Strieber_insane_.	1
-CD_-RRB-_VBD
-1989_-RRB-_was	1
 NNS_VBD_PRP
 saucers_dragged_us	1
 RB_VB_RB
 n't_be_so	1
 WP_DT_NN
 what_a_waste	1
+,_CC_VBD
+,_and_enjoyed	1
 CC_NNP_NNP
 and_Lindsay_Crouse	1
 VBZ_RB_DT
@@ -2133,8 +2096,6 @@ that_Im_glad	1
 -_is_cut	1
 IN_JJ_.
 in_general_.	1
-,_-LRB-_NN
-,_-LRB-_rubber	1
 NNP_IN_DT
 Fire_In_The	1
 VBP_RB_JJ
@@ -2166,5 +2127,5 @@ were_a_few	1
 was_a_great	2
 TO_VB_JJ
 to_be_real	1
-MD_VB_VBG
-'ll_be_leaving	1
+IN_JJ_CC
+for_absolute_and	1

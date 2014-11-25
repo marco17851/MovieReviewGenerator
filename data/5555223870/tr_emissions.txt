@@ -36,8 +36,6 @@ Architecture_of_Ancient	1
 Republic_of_Georgia	1
 JJ_JJ_NNS
 several_other_examples	1
-NNP_NNP_POS
-<p>_Parajanov_'s	1
 VBN_NNS_''
 forgotten_ancestors_''	1
 NNP_NNP_TO
@@ -159,8 +157,6 @@ VBD_VB_DT
 denied_be_the	1
 RB_DT_NN
 Here_the_action	1
-JJ_NN_NNS
-run-of-the-mill_realist_movies	1
 JJ_NNP_CC
 ancient_Georgia_and	1
 CC_NN_JJ
@@ -199,19 +195,8 @@ NNP_NNP_VBZ
 Svetlana_Scherbatyuk_is	1
 ''_CC_``
 ''_and_``	1
-IN_DT_NN
-into_the_wall	1
-by_the_way	1
-than_the_plot	1
-While_this_movie	1
-in_the_film	1
-with_the_understanding	1
-in_this_box	1
-for_any_follower	1
-about_a_fortress	1
-in_the_documentary	1
-around_the_fortress	1
-during_a_siege.According	1
+IN_NNP_.
+of_Georgia_.	1
 IN_WDT_NNP
 in_which_Christianity	1
 VBZ_DT_JJ
@@ -261,8 +246,6 @@ FW_''_.
 Fortress_''_.	1
 IN_JJ_IN
 in_common_with	1
-FW_FW_DT
-<br />_<br />_The	1
 RB_VB_DT
 n't_achieve_the	1
 CC_JJ_JJ
@@ -326,8 +309,8 @@ the_plot_,	1
 ,_''_which	1
 IN_DT_WP
 For_those_who	1
-IN_NNP_-RRB-
-of_Georgia_-RRB-	1
+NN_IN_PRP$
+son_of_her	1
 PRP_MD_RB
 I_'d_definitely	1
 NN_WP_DT
@@ -358,15 +341,14 @@ JJ_IN_DT
 alive_in_the	1
 DT_NN_NN
 this_box_set	1
-``_NNS_IN
-``_Colors_of	2
-``_Shadows_of	1
+VBZ_PRP$_JJ
+abandons_his_first	1
 ,_NNP_RB
 ,_Parajanov_finally	1
 CC_NNP_VBP
 and_Islam_are	1
-FW_PRP_MD
-<br />_I_'d	1
+JJ_NN_NNS
+run-of-the-mill_realist_movies	1
 WDT_NNP_CC
 which_Christianity_and	1
 DT_NN_WP
@@ -406,8 +388,8 @@ VBD_DT_NN
 was_a_work	1
 NNP_VBP_VBN
 Islam_are_shown	1
-VBZ_PRP$_JJ
-abandons_his_first	1
+NN_IN_WDT
+way_in_which	1
 CC_DT_JJ
 and_the_rich	1
 NNP_VBZ_RB
@@ -426,18 +408,27 @@ RB_JJ_.
 bit_frustrating_.	1
 DT_,_IN
 this_,_with	1
-NN_IN_PRP$
-son_of_her	1
 NNS_VBD_VBN
 movies_were_shot	1
+IN_DT_NN
+into_the_wall	1
+by_the_way	1
+than_the_plot	1
+While_this_movie	1
+in_the_film	1
+with_the_understanding	1
+in_this_box	1
+for_any_follower	1
+about_a_fortress	1
+in_the_documentary	1
+around_the_fortress	1
+during_a_siege.According	1
 JJ_,_CC
 interesting_,_and	1
 ,_WP_VBZ
 ,_who_becomes	1
 NN_NN_.
 box_set_.	1
-NNP_-RRB-_.
-Georgia_-RRB-_.	1
 WP_VBP_NN
 who_love_cinema	1
 NNS_RB_.
@@ -462,8 +453,6 @@ at_some_of	1
 for_some_of	1
 VBG_CC_DT
 collapsing_and_a	1
-FW_FW_PRP
-<br />_<br />_I	1
 DT_JJ_NNS
 the_wide-open_spaces	1
 PRP_VBZ_JJR
@@ -478,8 +467,6 @@ IN_NNS_CC
 in_prisons_and	1
 JJ_IN_JJ
 little_in_common	1
-FW_DT_NNS
-<br />_The_features	1
 IN_JJ_NNP
 of_ancient_Georgia	1
 in_medieval_Georgia	1
@@ -487,8 +474,6 @@ DT_NN_DT
 the_prophecy_the	1
 VBD_RB_VB
 did_n't_achieve	1
-NNP_,_''
-Georgia_,_''	1
 IN_NNP_POS
 of_Parajanov_'s	1
 with_Paradjanov_'s	1
@@ -503,10 +488,9 @@ first_two_movies	1
 NN_,_WP
 love_,_who	1
 IN_NNP_NNP
-of_Ancient_Georgia	1
+of_GruziaFilm_Republic	1
 of_Suram_Fortress	1
-IN_NNP_-LRB-
-of_GruziaFilm_-LRB-	1
+of_Ancient_Georgia	1
 VBN_NN_VBD
 spurned_woman_denied	1
 VBZ_RB_JJ
@@ -569,8 +553,9 @@ what_the_builders	1
 NN_CC_VBZ
 fortuneteller_and_predicts	1
 prophecy_and_advises	1
--LRB-_NNP_IN
--LRB-_Republic_of	1
+``_NNS_IN
+``_Colors_of	2
+``_Shadows_of	1
 DT_VBZ_RB
 this_is_n't	1
 DT_NNS_VBP
@@ -654,8 +639,8 @@ NN_VBZ_JJR
 translation_is_better	1
 VBZ_IN_``
 returns_with_``	1
-,_DT_NN
-,_this_one	1
+NNP_,_''
+Georgia_,_''	1
 TO_:_DT
 to_..._A	1
 IN_JJ_NNS
@@ -720,14 +705,12 @@ WP_RB_VBD
 who_also_was	1
 NN_,_IN
 wife_,_although	1
-NN_IN_WDT
-way_in_which	1
 NN_,_RB
 plot_,_though	1
 NN_CC_NN
 b_&_w	1
-NNP_-LRB-_NNP
-GruziaFilm_-LRB-_Republic	1
+,_DT_NN
+,_this_one	1
 NNS_''_IN
 pomegranates_''_in	1
 VBZ_DT_NN
@@ -739,6 +722,8 @@ advises_the_prince	1
 collapses_no_matter	1
 ,_WDT_VBZ
 ,_which_is	1
+NNP_NNP_IN
+GruziaFilm_Republic_of	1
 EX_VBZ_DT
 There_'s_a	1
 There_'s_another	1

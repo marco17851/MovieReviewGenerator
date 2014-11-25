@@ -14,8 +14,6 @@ Predator_for	1
 Commando_for	1
 NNS_RB
 favorites_rather	1
-NNS_-LRB-
-effects_-LRB-	1
 CC_JJ
 and_delightful	1
 and_normal	1
@@ -24,6 +22,8 @@ and_fast	1
 and_exciting	1
 MD_RB
 will_now	1
+NN_WP
+Action/Sci-fi_what	1
 VB_DT
 offer_any	1
 hear_the	1
@@ -32,8 +32,6 @@ own_any	1
 rent_these	1
 give_the	1
 review_each	1
--LRB-_VBG
--LRB-_including	1
 VBZ_``
 says_``	1
 RB_,
@@ -61,8 +59,6 @@ those_like	1
 all_of	1
 all_at	1
 some_of	1
--LRB-_NNP
--LRB-_Total	1
 PRP_IN
 them_on	1
 you_that	1
@@ -72,6 +68,9 @@ CC_RB
 and_now	1
 ,_RBR
 ,_more	1
+NNS_DT
+films_The	1
+sets_all	1
 JJ_CC
 violent_and	1
 photographic_and	1
@@ -79,12 +78,8 @@ new_and	1
 hard_and	1
 fast_and	1
 Sci-fi_and	1
-VB_-RRB-
-be_-RRB-	1
 WRB_PRP
 When_he	1
-CD_-RRB-
-two_-RRB-	1
 TO_VBG
 to_buying	1
 CD_NNS
@@ -114,6 +109,7 @@ than_buying	1
 ,_FW
 ,_et	1
 ,_NN
+,_Sub-zero	1
 ,_Raw	1
 ,_none	1
 ,_EG	1
@@ -187,17 +183,15 @@ suggestion_would	1
 PRP_VBZ
 he_drops	1
 It_does	1
--RRB-_,
--RRB-_,	1
-._-RRB-
-._-RRB-	1
 NNP_CC
+Digital_and	1
 Action_and	1
 Stone_and	1
 Predator_and	1
 WP_MD
 what_would	1
 RB_IN
+back_as	1
 rather_than	1
 VBG_IN
 chirping_at	1
@@ -217,8 +211,6 @@ RB_VB
 n't_own	1
 n't_offer	1
 now_review	1
-''_-LRB-
-'_-LRB-	1
 VBD_RB
 was_not	1
 IN_PRP$
@@ -231,8 +223,6 @@ fillers_'	1
 comedies_'	1
 JJS_``
 best_`	1
-NN_DT
-film_a	1
 IN_JJ
 of_violent	1
 unlike_other	1
@@ -254,8 +244,6 @@ Commando_.	1
 Towers_!	1
 CC_VBZ
 and_says	1
-,_-LRB-
-,_-LRB-	1
 FW_FW
 et_al.	1
 FW_NN
@@ -281,8 +269,8 @@ State-of-the-art_.	1
 realistic_.	1
 WP_VBP
 who_are	1
--RRB-_VBP
--RRB-_are	2
+NN_DT
+film_a	1
 ,_VBG
 ,_Running	1
 ,_watching	1
@@ -299,9 +287,7 @@ NNS_,
 movies_,	1
 DVDs_,	1
 Effects_,	1
--RRB-_DT
--RRB-_all	1
--RRB-_The	1
+collections_,	1
 VBD_TO
 promised_to	1
 CC_IN
@@ -314,8 +300,6 @@ VBP_JJ
 are_State-of-the-art	1
 ,_VBZ
 ,_thats	1
-DT_-LRB-
-all_-LRB-	1
 NNS_TO
 quotes_to	1
 VBP_``
@@ -357,8 +341,8 @@ VB_NNP
 love_Commando	1
 rival_Fawlty	1
 be_Commando	1
--RRB-_CD
--RRB-_5	1
+NN_NNS
+body_counts	1
 NNS_NNP
 lines_Arnie	1
 PRP_WP
@@ -372,13 +356,12 @@ as_with	1
 like_in	1
 DT_RB
 all_very	1
-JJ_-RRB-
-Hard_-RRB-	1
+CD_CC
+two_and	1
 CC_NN
 and_Buzz-saw	1
 and_violence	1
 VB_PRP$
-<p>_My	1
 match_your	1
 IN_RB
 at_once	1
@@ -396,8 +379,6 @@ can_hear	1
 would_be	2
 MD_PRP
 would_you	1
-PRP_-LRB-
-it_-LRB-	1
 NN_VBN
 deal_compared	1
 NNS_VBP
@@ -446,18 +427,10 @@ VBN_,
 faced_,	1
 VBP_DT
 are_all	3
-NNS_-RRB-
-movies_-RRB-	1
-films_-RRB-	1
-sets_-RRB-	1
-collections_-RRB-	1
 NN_NN
 picture_quality	1
-<p>_Everything	1
 adrenaline_rush	1
 Arnie_acting	1
--LRB-_DT
--LRB-_the	2
 DT_NNS
 all_blockbusters	1
 the_titles	1
@@ -482,9 +455,11 @@ THE_RUNNING	1
 the_Music	1
 Another_Perfect	1
 a_Daughter	1
+all_Total	1
 the_Terminator	1
 ''_IN
 '_of	1
+'_unlike	1
 ,_JJ
 ,_Sci-fi	1
 DT_JJ
@@ -509,6 +484,8 @@ near_perfect	1
 Other_great	1
 NNS_CC
 widescreen_and	1
+NNS_CD
+movies_5	1
 NN_,
 sci-fi_,	1
 cast_,	1
@@ -542,14 +519,17 @@ none_of	1
 inclusion_of	1
 Man_for	1
 start_of	1
+feel_like	1
 NNP_RB
 Arnie_really	1
--LRB-_NN
--LRB-_Sub-zero	1
+NNP_VBP
+Winston_are	1
+Cox_are	1
 CC_DT
 and_both	1
 and_the	3
 NNS_IN
+effects_by	1
 movies_in	1
 doses_of	1
 versions_of	1
@@ -560,10 +540,6 @@ Commando_is	2
 True_Lies	1
 Arnold_is	1
 Arnie_gives	1
-NN_-LRB-
-feel_-LRB-	1
-Action/Sci-fi_-LRB-	1
-cast_-LRB-	1
 VB_JJ
 Die_Hard	1
 TO_VB
@@ -575,6 +551,8 @@ to_have	2
 to_name	1
 to_rival	1
 to_give	1
+NN_VBG
+cast_including	1
 VBG_NNP
 watching_Commando	1
 including_Sharon	1
@@ -594,11 +572,6 @@ RBS_JJ
 most_violent	1
 JJS_CC
 best_and	1
--LRB-_IN
--LRB-_by	1
--LRB-_as	2
--LRB-_unlike	1
--LRB-_like	1
 DT_JJS
 the_highest	1
 the_best	1
@@ -606,23 +579,17 @@ the_toughest	1
 NN_RB
 film_individually	1
 collection_only	1
--RRB-_NN
--RRB-_<p>	1
 PRP_RB
 them_individually	1
 DT_,
 these_,	1
 DT_.
 some_.	1
--RRB-_CC
--RRB-_and	3
 NN_JJ
 bit_rough	1
 VBZ_DT
 is_a	2
 drops_a	1
-NN_NNS
-body_counts	1
 VBZ_NNP
 has_Dolby	1
 NNP_NNS
@@ -648,6 +615,7 @@ gives_,	1
 VB_PRP
 assure_you	1
 PRP_DT
+it_the	1
 them_all	1
 VBZ_VBN
 has_faced	1
@@ -659,15 +627,12 @@ not_dissappointed	1
 only_surpassed	1
 NNP_VBD
 Rambo_had	1
-RB_-LRB-
-back_-LRB-	1
--LRB-_WP
--LRB-_what	1
 VB_CD
 name_two	1
 have_one	1
 VB_CC
 mix_and	1
+be_and	1
 RB_PRP
 now_I	1
 JJS_NN
@@ -688,10 +653,6 @@ and_Laughs	1
 and_Predator	1
 and_Total	1
 and_Ronny	1
-NNP_-RRB-
-Cox_-RRB-	1
-Digital_-RRB-	1
-Winston_-RRB-	1
 :_VBZ
 ..._bliss	1
 VBG_PRP
@@ -722,6 +683,7 @@ certain_feel	1
 TOTAL_RECALL	1
 great_deal	1
 delightful_experience	1
+Hard_Everything	1
 chilling_view	1
 perfect_Action/Sci-fi	1
 huge_fan	1

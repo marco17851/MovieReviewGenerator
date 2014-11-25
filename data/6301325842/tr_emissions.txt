@@ -19,16 +19,14 @@ with_some_Marines	1
 in_the_Philippines	1
 NNP_NN_VBG
 VHS_tape_having	1
--RRB-_VBG_DT
--RRB-_leading_a	1
+RB_TO_PRP$
+here_to_his	1
 VBG_CD_IN
 being_one_of	1
 NNS_IN_VBG
 hopes_of_improving	1
 VBZ_RB_JJ
 is_not_available	1
--RRB-_,_DT
--RRB-_,_the	1
 ,_IN_RB
 ,_while_nonetheless	1
 ,_while_there	1
@@ -71,8 +69,6 @@ POS_JJS_NN
 DT_NN_VBN
 the_lattermost_performed	1
 a_squad_made	1
-PRP_VBP_-LRB-
-they_are_-LRB-	1
 JJS_NN_IN
 greatest_strength_as	1
 DT_NN_VBZ
@@ -132,8 +128,6 @@ this_assignment_will	1
 NNP_,_WP
 Rosello_,_who	1
 Haynes_,_who	1
-JJ_JJ_-RRB-
-religious_fanatic_-RRB-	1
 RB_JJ_IN
 yet_functional_as	1
 not_available_as	1
@@ -163,8 +157,6 @@ RB_VBN_NN
 cinematically_guaranteed_mishmash	1
 NN_VBP_IN
 company_are_at	1
-TO_VB_NN
-to_develop_impact	1
 VBP_TO_VB
 begin_to_work	1
 POS_RBS_RB
@@ -221,8 +213,8 @@ JJ_IN_PRP$
 third_of_his	1
 ,_IN_WRB
 ,_from_where	1
-RB_TO_PRP$
-here_to_his	1
+RP_IN_RB
+up_of_generally	1
 ,_JJ_JJ
 ,_well-constructed_build-up	1
 ,_religious_fanatic	1
@@ -231,8 +223,10 @@ U._S._casualties	1
 NNP_NNPS_NNP
 United_States_Army	1
 NNP_NNP_NNP
-Home_Entertainment_VHS	1
+Captain_Rosello_Anthony	1
 Media_Home_Entertainment	1
+Rosello_Anthony_Finetti	1
+Home_Entertainment_VHS	1
 Army_Captain_Rosello	1
 DT_NNP_IN
 the_V.C._during	1
@@ -270,10 +264,16 @@ DT_NNS_NN
 a_munitions_depot	1
 TO_DT_NN
 to_the_point	1
+JJ_,_DT
+fanatic_,_the	1
 PRP_MD_RB
 It_can_still	1
-JJ_IN_VBG
-interested_in_seeing	1
+NN_IN_NN
+deal_of_screentime	1
+basis_in_fact	1
+proficiency_in_leadership	1
+deal_of_battle	1
+barrel_of_imagination	1
 VB_VBN_IN
 be_found_upon	1
 be_noted_that	1
@@ -296,6 +296,8 @@ performed_by_Loren	1
 noted_that_Santiago	1
 NNS_JJ_IN
 gunfights_replete_with	1
+JJ_JJ_,
+religious_fanatic_,	1
 VBZ_VBN_IN
 is_shot_in	1
 is_recognized_as	1
@@ -345,14 +347,14 @@ VBZ_VBN_RB
 is_found_here	1
 DT_NN_CC
 a_DVD_and	1
+PRP_VBP_NNP
+they_are_Hispanic	1
 DT_NNPS_,
 some_Marines_,	1
 the_Philippines_,	1
 IN_PRP$_NN
 Beneath_his_guidance	1
 of_his_stock	1
-VBZ_,_IN
-is_,_in	1
 IN_RB_VBG
 while_nonetheless_offering	1
 JJ_NNP_NNS
@@ -363,12 +365,8 @@ since-freed_Viet_Cong	1
 DT_RB_JJ
 this_unexpectedly_effective	1
 a_strategically_significant	1
-JJ_-RRB-_,
-fanatic_-RRB-_,	1
 DT_NN_TO
 a_failure_to	1
-NNP_-RRB-_VBG
-Finetti_-RRB-_leading	1
 NN_,_VBG
 assignment_,_involving	1
 melodrama_,_having	1
@@ -403,6 +401,8 @@ NNP_NNP_POS
 Ciro_Santiago_'s	1
 IN_RB_DT
 as_virtually_all	1
+NNP_VBG_DT
+Finetti_leading_a	1
 PRP$_NNS_TO
 his_endeavours_to	1
 ,_WP_VBZ
@@ -480,14 +480,14 @@ JJ_NN_VBZ
 effective_affair_is	1
 VBG_IN_PRP$
 resulting_in_their	1
+NNP_NNP_VBG
+Anthony_Finetti_leading	1
 NNS_CC_NN
 stuntmen_and_demolition	1
 NNP_NNP_VBD
 Robert_Aldrich_directed	1
 MD_NN_NNP
 will_sanction_Rosello	1
-NNP_NNP_-LRB-
-Captain_Rosello_-LRB-	1
 ,_IN_NN
 ,_in_sum	1
 ,_in_spite	1
@@ -535,8 +535,6 @@ VBG_PRP$_JJ
 improving_their_general	1
 VBD_CD_JJ
 directed_1967_thick	1
--LRB-_NNP_,
--LRB-_Hispanic_,	1
 RB_,_IN
 Unfortunately_,_while	1
 DT_JJ_NNP
@@ -715,8 +713,8 @@ NN_IN_PRP$
 attention_throughout_its	1
 CC_RB_VBN
 and_not_intended	1
-RP_IN_RB
-up_of_generally	1
+VBZ_,_IN
+is_,_in	1
 NNP_NN_,
 Santiago_film_,	1
 Vietnam_setting_,	1
@@ -783,10 +781,8 @@ NN_POS_NN
 film_'s_closing	1
 VBN_TO_VB
 reassigned_to_lead	1
-NNP_NNP_-RRB-
-Anthony_Finetti_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Anthony_Finetti	1
+TO_VB_NN
+to_develop_impact	1
 ,_DT_JJ
 ,_THE_DIRTY	1
 VBN_PRP$_NNS
@@ -799,19 +795,13 @@ JJ_IN_PRP
 unlikely_that_it	1
 VBP_IN_NN
 are_at_hand	1
-VBP_-LRB-_NNP
-are_-LRB-_Hispanic	1
 VB_PRP_POS
 garner_one_'s	1
 spend_one_'s	1
 IN_PRP$_VBG
 in_their_winding	1
-NN_IN_NN
-deal_of_screentime	1
-basis_in_fact	1
-proficiency_in_leadership	1
-deal_of_battle	1
-barrel_of_imagination	1
+JJ_IN_VBG
+interested_in_seeing	1
 IN_VBP_DT
 as_are_the	1
 NN_VBZ_,
@@ -882,8 +872,6 @@ flagrantly_weak_efforts	1
 IN_DT_RB
 of_a_strategically	1
 of_the_cinematically	1
-NNP_-LRB-_NNP
-Rosello_-LRB-_Anthony	1
 IN_RB_,
 while_there_,	1
 IN_PRP$_CD
@@ -892,6 +880,8 @@ throughout_its_90	1
 ,_merely_lead	1
 NN_POS_JJ
 squad_'s_initial	1
+VBP_NNP_,
+are_Hispanic_,	1
 ,_DT_NN
 ,_a_failure	1
 ,_the_lattermost	1

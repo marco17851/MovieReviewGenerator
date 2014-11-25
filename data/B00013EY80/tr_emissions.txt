@@ -30,6 +30,8 @@ Cafe_Carlyle_to	1
 WRB_PRP_VBD
 when_I_was	1
 whenever_I_dropped	1
+NNS_VBP_NNS
+sidemen_sing_standards	1
 NN_NN_MD
 saloon_singer_must	1
 VBD_PRP_VB
@@ -42,9 +44,6 @@ evening_in_1979	1
 ,_for_his	2
 WRB_PRP_RB
 why_he_so	1
-FW_FW_NNP
-<br />_<br />_Short	1
-<br />_<br />_Bobby	2
 POS_NN_VBD
 's_performance_was	1
 's_audience_was	1
@@ -52,8 +51,6 @@ VBZ_JJ_RB
 comes_alive_now	1
 VBD_VBG_IN
 was_dying_of	1
--LRB-_CC_PRP$
--LRB-_and_his	1
 MD_VB_DT
 should_buy_this	1
 will_appreciate_this	1
@@ -136,8 +133,6 @@ favorite_performer_of	1
 big_deal_of	1
 key_discovery_for	1
 well-done_interview_with	1
-NNP_-LRB-_CC
-Short_-LRB-_and	1
 NNS_WDT_VBD
 songs_that_were	1
 RB_VBN_,
@@ -243,8 +238,6 @@ DVD_,_we	1
 singer_,_he	1
 professionalism_,_I	1
 music_,_you	1
-FW_NNP_NNS
-<br />_Bobby_fans	1
 VBD_PRP_MD
 thought_it_should	1
 ``_VBG_NNP
@@ -259,8 +252,8 @@ just_a_couple	1
 together_a_crew	1
 well_the_level	1
 now_the_DVD	1
-FW_DT_NN
-<br />_The_DVD	1
+VBD_IN_JJR
+performed_for_more	1
 CC_DT_JJ
 but_this_great	1
 and_a_good	1
@@ -351,8 +344,6 @@ VBN_IN_DT
 held_into_the	1
 packed_for_every	1
 shown_around_the	1
-FW_NNP_NNP
-<br />_Bobby_Short	1
 VBZ_NN_.
 's_fun_.	1
 NNP_,_VBG
@@ -437,8 +428,6 @@ He_'s_got	1
 he_'s_gone	1
 IN_RB_NNP
 of_probably_America	1
-FW_NNP_VBD
-<br />_Short_played	1
 ,_JJ_NNS
 ,_great_records	1
 VBN_RP_IN
@@ -852,8 +841,6 @@ VBZ_IN_.
 is_at_.	1
 NNP_,_CC
 Harlem_,_and	1
-NNS_-RRB-_VBP
-sidemen_-RRB-_sing	1
 CC_PRP$_NNS
 and_his_sidemen	1
 DT_NNS_PRP
@@ -943,6 +930,7 @@ every_morning_when	1
 IN_JJ_VBG
 of_individual_striving	1
 NNP_NNP_CC
+Bobby_Short_and	1
 Four_Walls_and	1
 Cafe_Carlyle_and	1
 Leah_Jay_and	1
@@ -1125,10 +1113,6 @@ night_club_and	1
 NN_CC_RB
 club_and_then	1
 leukemia_and_simply	1
-PRP$_NNS_-RRB-
-his_sidemen_-RRB-	1
-FW_``_CD
-<br />_``_One	1
 IN_PRP$_JJ
 of_his_personal	1
 in_his_inimitable	1
@@ -1136,8 +1120,6 @@ VBP_JJ_PRP
 're_interested_I	1
 RB_VBG_PRP
 still_packing_them	1
-NNP_NNP_-LRB-
-Bobby_Short_-LRB-	1
 ,_IN_NN
 ,_in_anything	1
 ,_in_addition	1
@@ -1284,8 +1266,6 @@ the_defunct_CBS	1
 ''_``_NNP
 ''_``_My	1
 ''_``_Bobby	1
--RRB-_VBP_NNS
--RRB-_sing_standards	1
 IN_NNP_POS
 of_Bobby_'s	1
 DT_VBD_DT
@@ -1403,6 +1383,8 @@ NN_WP_VBZ
 everyone_who_loves	1
 RB_VBD_DT
 first_saw_this	1
+PRP$_NNS_VBP
+his_sidemen_sing	1
 JJ_VBG_CC
 individual_striving_and	1
 NN_IN_VBN
@@ -1410,8 +1392,6 @@ distribution_as_opposed	1
 VBD_PRP_VBD
 knew_it_was	1
 knew_he_was	1
-VBD_IN_JJR
-performed_for_more	1
 NNS_,_``
 favorites_,_``	1
 JJ_JJ_NNS
@@ -1576,8 +1556,6 @@ CC_``_WRB
 and_``_Why	1
 VBD_VBN_NNS
 found_forgotten_songs	1
-FW_FW_``
-<br />_<br />_``	2
 CC_VBD_JJ
 and_owned_mobile	1
 VBZ_WRB_PRP$
@@ -1610,7 +1588,6 @@ year_in_the	1
 audience_at_the	1
 everyone_in_the	1
 Anything_above_that	1
-<br />_For_those	1
 program_on_a	1
 god_for_this	1
 end_of_the	1
@@ -1659,6 +1636,8 @@ DVD_,_in	1
 life_,_in	1
 TO_VB_NNP
 to_hear_Bobby	1
+NNP_CC_PRP$
+Short_and_his	1
 CC_RB_VBD
 and_simply_refused	1
 RB_NNP_.
@@ -1729,8 +1708,6 @@ PRP_VBD_TO
 it_played_to	1
 I_had_to	1
 I_moved_to	1
-FW_``_PRP
-<br />_``_I	1
 PRP_VBP_PDT
 we_are_all	1
 NNP_POS_JJS
@@ -1962,8 +1939,6 @@ coffee_,_which	1
 ''_songs_by	1
 ,_DT_VBZ
 ,_this_is	1
-FW_FW_DT
-<br />_<br />_The	1
 NN_CC_VBD
 producer_and_owned	1
 piano_and_was	1

@@ -100,8 +100,6 @@ dark_,_it	1
 MD_RB_VB
 can_not_be	1
 could_n't_be	1
--RRB-_,_DT
--RRB-_,_the	1
 NN_VBD_RB
 manufacturer_reproduced_very	1
 ,_CC_JJ
@@ -116,6 +114,8 @@ CC_IN_RB
 but_in_really	1
 RB_VBP_IN
 now_know_that	1
+NN_,_DT
+end_,_the	1
 PRP_CC_DT
 them_and_this	1
 FW_FW_IN
@@ -126,8 +126,6 @@ JJ_,_VBG
 appalling_,_being	1
 PRP_VBZ_RBS
 it_makes_most	1
--LRB-_DT_JJ
--LRB-_the_only	1
 JJ_NN_.
 poor_quality_.	2
 PRP_DT_IN
@@ -211,6 +209,8 @@ and_the_funeral	1
 ,_LEARNING_.	1
 FW_NN_.
 GOOD_QUALITY_.	1
+NNS_DT_JJ
+clips_the_only	1
 NNP_NN_:
 Yamaguchi_training_;	1
 VBD_RB_JJ
@@ -238,8 +238,10 @@ VBP_VBN_IN
 are_done_by	1
 NNP_NNP_NN
 Gogen_Yamaguchi_training	1
-VB_NN_IN
-see_anything_at	1
+NNP_NNP_NNP
+IT_SHOWS_BASICS	1
+NOT_LEARNED_BY	1
+LEARNED_BY_MANY	1
 VBN_RB_,
 performed_clearly_,	1
 DT_NN_VBZ
@@ -254,8 +256,9 @@ NNS_,_RB
 parts_,_simply	1
 NNP_NNP_.
 BY_MANY_.	1
-NNS_-LRB-_DT
-clips_-LRB-_the	1
+NN_''_NNP
+CAT_''_YAMAGUCHI	1
+ADVANCED_''_NOT	1
 JJ_''_.
 noisy_''_.	1
 ,_PRP_VBP
@@ -272,10 +275,12 @@ IN_DT_.
 at_all_.	1
 TO_DT_NN
 to_the_absence	1
-JJS_NN_''
-MOST_ADVANCED_''	1
+DT_NN_,
+the_end_,	1
 JJ_TO_VB
 difficult_to_see	2
+JJS_NN_''
+MOST_ADVANCED_''	1
 ,_PRP_VBD
 ,_I_had	1
 PRP_MD_RB
@@ -294,6 +299,8 @@ NNS_IN_NN
 examples_of_cinematography	1
 PRP_CC_JJ
 it_but_many	1
+``_JJ_''
+``_noisy_''	1
 VB_RBR_JJ
 be_more_excited	1
 JJ_IN_DT
@@ -313,9 +320,6 @@ IN_DT_FW
 of_the_Goju	1
 VBP_RB_VB
 Do_n't_waste	1
-NN_''_NNP
-CAT_''_YAMAGUCHI	1
-ADVANCED_''_NOT	1
 ,_VBG_RB
 ,_being_very	1
 NN_NNS_CC
@@ -341,8 +345,6 @@ RB_VB_VBN
 not_be_heard	1
 VBP_RB_VBN
 'm_really_disappointed	1
-NN_-RRB-_,
-end_-RRB-_,	1
 NN_CC_DT
 narrator_and_the	1
 RB_IN_DT
@@ -369,8 +371,6 @@ RB_DT_JJS
 EVEN_THE_MOST	1
 PRP_IN_IN
 it_so_that	1
-FW_FW_NN
-<br />_GOOD_QUALITY	1
 PRP$_NN_NN
 your_money_THIS	1
 PRP_VBP_VBN
@@ -410,10 +410,6 @@ NNS_CC_IN
 promises_but_in	1
 IN_NNP_NNP
 by_Gogen_Yamaguchi	1
-NNP_NNP_NNP
-IT_SHOWS_BASICS	1
-NOT_LEARNED_BY	1
-LEARNED_BY_MANY	1
 PRP_VBP_IN
 I_understand_that	1
 PRP_RB_VBP
@@ -427,7 +423,6 @@ MD_VB_RB
 would_be_so	1
 VB_DT_NN
 see_the_kata	1
-<p>_The_video	1
 NN_VBZ_RB
 end_is_so	1
 DVD_is_really	1
@@ -458,16 +453,16 @@ PRP_VBD_DT
 I_had_no	1
 NNP_PRP_VBP
 Althought_I_understand	1
-DT_NNS_-LRB-
-the_clips_-LRB-	1
+VB_NN_IN
+see_anything_at	1
 MD_VB_PRP
 will_make_me	1
 NNP_NNP_PRP
 Gogen_Yamaguchi_himself	1
 ,_JJ_CC
 ,_dark_and	1
-``_JJ_''
-``_noisy_''	1
+DT_NNS_DT
+the_clips_the	1
 ,_RB_RB
 ,_simply_not	1
 VBG_NNP_NNP
@@ -488,8 +483,6 @@ the_narrator_and	1
 NNS_VBP_IN
 videos_look_like	1
 events_grow_in	1
-VB_PRP_VBZ
-<p>_It_is	1
 IN_PRP_VBP
 of_them_are	1
 that_I_'ve	1
@@ -497,8 +490,6 @@ that_I_'ve	1
 -_``_EVEN	1
 NNP_NNP_``
 MASTER_GOGEN_``	1
-DT_NN_-RRB-
-the_end_-RRB-	1
 VBG_RB_JJ
 being_very_amateurish	1
 NN_,_IN
@@ -604,5 +595,3 @@ NN_NNS_VBP
 childhood_memories_tend	1
 TO_VB_RP
 to_take_up	1
-NN_VBP_RB
-<p>_Do_n't	1

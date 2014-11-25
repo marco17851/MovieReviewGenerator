@@ -8,18 +8,16 @@ of_place	1
 ,_before	1
 POS_NNS
 's_concerts	1
-FW_DT
-<br />_The	1
 NNP_IN
 Movement_of	1
-NNS_-LRB-
-albums_-LRB-	1
 CC_JJ
 both_energetic	1
 and_pop-influenced	1
 and_down-to-earth	1
 MD_RB
 should_n't	1
+NN_WDT
+limelight_that	1
 RB_NNS
 especially_fans	1
 VB_DT
@@ -43,8 +41,8 @@ NNP_VBZ
 Gary_is	1
 RBR_JJ
 more_trendy	1
-CC_RB
-and_not	1
+NNS_DT
+albums_no	1
 JJ_CC
 trendy_and	1
 energetic_and	1
@@ -111,6 +109,8 @@ every_song	1
 a_piece	1
 DT_VBZ
 this_is	1
+VBG_RB
+performing_together	1
 PRP_VBP
 I_love	1
 PRP$_JJR
@@ -123,8 +123,6 @@ It_'s	1
 ,_DT
 ,_this	1
 ,_the	1
--RRB-_.
--RRB-_.	1
 NNP_CC
 Amy_and	1
 RB_IN
@@ -161,10 +159,9 @@ Overall_,	1
 NNP_.
 Amy_.	1
 Chapman_.	1
--LRB-_WDT
--LRB-_that	1
-FW_FW
-<br />_<br />	2
+Vince_.	1
+IN_IN
+out_of	3
 IN_WDT
 of_which	1
 PRP$_NN
@@ -207,6 +204,8 @@ was_such	1
 VBD_RP
 struck_out	1
 ended_up	1
+NNS_TO
+'70s_to	1
 JJ_NNS
 sweaty-face_close-ups	1
 pop-influenced_songs	1
@@ -235,13 +234,9 @@ NN_NNS
 playing_keyboards	1
 NN_NNP
 then-husband_Gary	1
--RRB-_TO
--RRB-_to	1
 DT_RB
 an_otherwise	1
 a_very	1
-NNP_POS
-Amy_'s	3
 PRP$_NNS
 her_spouses	1
 PRP_MD
@@ -279,23 +274,21 @@ VBP_PRP$
 love_her	1
 NNS_VBD
 close-ups_did	1
+CC_RB
+and_not	1
 JJ_TO
 nice_to	1
 NNS_VBN
 songs_performed	1
 VBP_DT
 want_a	1
-FW_NNP
-<br />_Overall	1
-NNS_-RRB-
-'70s_-RRB-	1
 NN_NN
 center_stage	1
 concert_video	1
 light-up-the-room_charisma	1
 concert_tour	1
--LRB-_DT
--LRB-_no	1
+,_WDT
+,_which	1
 DT_NNS
 the_'70s	1
 IN_NNS
@@ -382,8 +375,6 @@ album_and	1
 singer_and	1
 break_and	1
 print_and	1
-NN_-LRB-
-limelight_-LRB-	1
 TO_VB
 to_see	1
 to_watch	1
@@ -410,10 +401,8 @@ VBD_IN
 came_of	1
 NN_VBP
 husband_want	1
-VBG_RB
-performing_together	1
-NNP_-RRB-
-Vince_-RRB-	1
+NNP_POS
+Amy_'s	3
 JJ_IN
 last_of	1
 VBZ_DT
@@ -435,8 +424,6 @@ absolutely_shines	1
 RB_JJ
 otherwise_flawless	1
 very_talented	1
-IN_IN
-out_of	3
 VBZ_PRP$
 leaves_her	1
 CC_PRP$
@@ -464,8 +451,6 @@ CC_NNP
 and_Michael	1
 PRP$_CD
 her_1982	1
-,_WDT
-,_which	1
 IN_DT
 in_an	1
 of_the	3

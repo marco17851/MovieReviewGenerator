@@ -1,5 +1,9 @@
 CC_IN_DT
 and_by_the	1
+VBD_NNP_RB
+liked_Stuart_maybe	1
+NNP_RB_PRP
+Stuart_maybe_it	1
 PDT_PRP$_NNS
 all_his_stories	1
 RB_VBD_NNP
@@ -16,8 +20,6 @@ PRP_VBD_PRP$
 it_was_his	1
 PRP_VBD_IN
 I_felt_like	1
-NNP_-LRB-_RB
-Stuart_-LRB-_maybe	1
 DT_NN_,
 a_movie_,	1
 NNP_NNS_.
@@ -42,14 +44,16 @@ WDT_VBP_IN
 that_look_like	1
 PRP_VBP_RB
 I_do_n't	1
-PRP_VBZ_RB
-it_'s_really	1
+PRP_VBD_VBG
+I_finished_hearing	1
 VBD_PRP$_JJ
 was_his_Australian	1
 NN_PRP_VBD
 time_I_finished	1
 NN_IN_DT
 couple_of_these	1
+JJ_NN_,
+Australian_accent_,	1
 CC_RB_VBD
 but_always_wanted	1
 ,_CC_PRP
@@ -72,14 +76,12 @@ JJ_NN_IN
 good_job_of	1
 POS_NNS_IN
 's_lots_of	1
-VBD_NNP_-LRB-
-liked_Stuart_-LRB-	1
 NNS_CC_NN
 names_and_lingo	1
 NN_IN_NNS
 everything_with_captions	1
--RRB-_,_CC
--RRB-_,_and	1
+NN_IN_NNP
+writer_in_Hollywood	1
 RB_VB_WP
 n't_know_what	1
 TO_VB_.
@@ -114,8 +116,6 @@ TO_VB_DT
 to_be_a	1
 NN_,_IN
 movie_,_so	1
-NN_-RRB-_,
-accent_-RRB-_,	1
 VBP_DT_JJ
 do_a_good	1
 NNS_WDT_VBP
@@ -128,14 +128,13 @@ VBG_NN_IN
 explaining_everything_with	1
 IN_DT_NN
 by_the_time	1
-JJ_NN_-RRB-
-Australian_accent_-RRB-	1
 IN_NNS_CC
 of_names_and	1
 VBD_VBG_PDT
 finished_hearing_all	1
 NN_,_CC
 lingo_,_but	1
+accent_,_and	1
 RB_VB_DT
 n't_know_a	1
 VB_DT_NN
@@ -143,8 +142,8 @@ be_a_writer	1
 know_a_lot	1
 VBG_PDT_PRP$
 hearing_all_his	1
-PRP_VBD_VBG
-I_finished_hearing	1
+PRP_VBZ_RB
+it_'s_really	1
 VB_WP_TO
 know_what_to	1
 NNS_IN_NNS
@@ -159,8 +158,6 @@ IN_NNS_WDT
 with_captions_that	1
 NN_NNS_.
 dictionary_entries_.	1
--LRB-_RB_PRP
--LRB-_maybe_it	1
 IN_PRP_VBD
 so_I_got	1
 like_I_learned	1
@@ -170,8 +167,6 @@ IN_VBG_NN
 of_explaining_everything	1
 PRP_VBP_DT
 they_do_a	1
-NN_IN_NNP
-writer_in_Hollywood	1
 RB_JJ_TO
 really_like_to	1
 IN_NNP_.

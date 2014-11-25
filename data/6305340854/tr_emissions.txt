@@ -2,20 +2,14 @@ PRP$_NNS_:
 his_basses_...	1
 NN_VBZ_DT
 action_is_an	1
-DT_NN_-LRB-
-The_Police_-LRB-	1
 NN_IN_CD
 interest_for_two	1
-NN_-LRB-_NN
-Police_-LRB-_Sting	1
 PRP_VBZ_JJ
 it_'s_amazing	1
 NNP_POS_NN
 Michael_'s_bass	1
 NNS_VBP_NNP
 musicians_play_John	1
-FW_FW_IN
-<br />_<br />_In	1
 CC_TO_VB
 and_to_see	1
 VBZ_RB_JJ
@@ -48,12 +42,12 @@ jazz_quartet_studio	1
 JJ_NN_.
 prior_rehearsal_.	1
 educational_experience_.	1
+JJ_FW_IN
+amazing_!!!_In	1
 NNP_,_DT
 Davis_,_The	1
 IN_NN_VBZ
 in_action_is	1
-JJ_FW_FW
-amazing_!!!_<br />	1
 IN_CD_IN
 at_one_of	1
 IN_DT_NN
@@ -64,12 +58,16 @@ VBZ_DT_JJ
 is_an_educational	1
 JJ_NNS_.
 other_tunes_.	1
+NN_CC_DT
+Sting_and_some	1
 PRP_RB_VBP
 I_just_love	1
 ,_NNP_VBZ
 ,_Michael_is	1
 NN_NN_VBG
 quartet_studio_setting	1
+NN_NN_CC
+Police_Sting_and	1
 TO_VB_:
 to_watch_...	1
 ``_NN_NN
@@ -97,16 +95,11 @@ JJ_TO_VB
 enjoyable_to_watch	1
 ''_NNS_,
 ''_performances_,	1
-NN_-RRB-_CC
-Sting_-RRB-_and	1
-FW_PRP_VBZ
-<br />_It_'s	1
 DT_NN_NN
+The_Police_Sting	1
 a_jazz_quartet	1
 RB_PRP$_NNS
 just_his_basses	1
--RRB-_CC_DT
--RRB-_and_some	1
 VB_PRP$_NN
 catch_your_interest	1
 keep_your_interest	1
@@ -114,8 +107,6 @@ RB_VBN_PRP
 never_seen_him	1
 VB_:_RB
 watch_..._especially	1
-FW_FW_FW
-!!!_<br />_<br />	1
 VBP_RB_VBN
 've_never_seen	1
 PRP_IN_CD
@@ -136,8 +127,6 @@ NNS_VBG_RB
 hours_playing_just	1
 CD_IN_PRP$
 one_of_his	1
-FW_FW_PRP
-<br />_<br />_It	1
 DT_JJ_NNS
 some_other_tunes	1
 NNP_VBZ_VBG
@@ -176,7 +165,7 @@ can_keep_your	1
 :_PRP_VBZ
 ..._it_'s	1
 FW_IN_DT
-<br />_In_this	1
+!!!_In_this	1
 DT_MD_VB
 this_should_catch	1
 ,_CC_TO
@@ -187,8 +176,6 @@ NNP_,_NNP
 Coltrane_,_Miles	1
 PRP_MD_VB
 He_can_keep	1
--LRB-_NN_-RRB-
--LRB-_Sting_-RRB-	1
 DT_JJ_NN
 an_educational_experience	1
 any_prior_rehearsal	1

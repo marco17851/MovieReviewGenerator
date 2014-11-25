@@ -1,19 +1,3 @@
-NN_-LRB-
-bill_-LRB-	1
-villian_-LRB-	1
-service_-LRB-	1
-series_-LRB-	2
-sound_-LRB-	1
-Gun_-LRB-	2
-film_-LRB-	1
-era_-LRB-	1
-girl_-LRB-	2
-box_-LRB-	2
-MoonRaker_-LRB-	1
-gun_-LRB-	1
-fan_-LRB-	1
-***_-LRB-	3
-Service_-LRB-	1
 IN_NN
 in_science	1
 in_stereo	1
@@ -114,12 +98,10 @@ have_more	1
 VBN_VBG
 been_interfering	1
 been_waiting	1
-FW_DT
-<br />_Some	1
-***_The	1
-<br />_Each	2
-<br />_These	1
-<br />_The	5
+VBG_VBD
+Shipping_was	1
+being_said	1
+plotting_were	1
 PRP_RBR
 it_more	2
 PRP$_IN
@@ -167,6 +149,7 @@ and_sardonic	1
 and_strange	1
 VBN_VBZ
 protected_is	1
+spelled_is	1
 VBG_VBP
 missing_are	1
 RB_TO
@@ -182,10 +165,11 @@ separately_to	1
 close_to	1
 down_to	2
 JJS_,
-best_,	3
+best_,	4
 darkest_,	1
 worst_,	1
 VBP_,
+do_,	1
 say_,	1
 IN_``
 below_``	1
@@ -241,10 +225,8 @@ WDT_MD
 which_could	1
 which_will	1
 that_will	1
-VBG_VBD
-Shipping_was	1
-being_said	1
-plotting_were	1
+FW_DT
+***_The	1
 VBN_CC
 performed_and	1
 done_and	1
@@ -265,8 +247,6 @@ covers_three	1
 contains_one	1
 sells_!!!	1
 contains_5	1
-IN_VBD
-for_were	1
 VBZ_CC
 graces_and	1
 inspires_either	1
@@ -293,8 +273,9 @@ who_loved	1
 what_happened	1
 PRP$_VBP
 your_are	1
--LRB-_VBN
--LRB-_named	1
+RP_.
+out_.	1
+off_.	1
 VBN_JJ
 found_other	1
 watched_many	1
@@ -309,13 +290,6 @@ who_is	1
 who_'s	2
 Who_cares	1
 who_has	3
--RRB-_MD
--RRB-_will	1
--RRB-_,
--RRB-_,	15
-._-RRB-
-!_-RRB-	5
-?_-RRB-	2
 NNP_CC
 Hamilton_and	1
 Enough_and	1
@@ -331,12 +305,13 @@ Live_And	1
 Blofed_but	1
 No_and	1
 OHMSS_and	1
-Octopussy_and	1
+Octopussy_and	2
 Liter_and	1
 Leiter_and	1
 SERVICE_and	1
 Soviets_and	1
 Bond_and	4
+Brosnan_and	1
 Live_and	1
 Goldfinger_and	1
 Moonraker_and	1
@@ -347,24 +322,27 @@ Connery_and	1
 Wint_&	1
 Lazenby_but	2
 Me_&	1
+Forever_and	1
 Bond_or	1
 Young_and	1
 Stromburg_and	1
 NNP_CD
 Bond_007	1
 Digital_5.1	1
+Service_1969	1
 Volume_1	1
 Into_007	2
 Jan_04	1
+Hendricks_9	1
+Collection_1999	1
 Connery_007	1
+No_1963	1
 Volume_one	1
 WP_MD
 who_can	1
 who_would	1
 PRP$_WP
 its_what	2
--LRB-_VBD
--LRB-_did	1
 JJR_NNS
 more_gadgets	1
 older_films	1
@@ -373,10 +351,8 @@ weaker_entries	1
 newer_fans	1
 better_lines	1
 more_jokes	1
-VB_-LRB-
-Kill_-LRB-	1
--RRB-_:
--RRB-_;	3
+:_JJS
+-_best	1
 RBS_JJ
 most_romantic	1
 most_unique	2
@@ -390,14 +366,10 @@ most_enjoyable	2
 Most_fantastic	1
 most_realistic	1
 most_modest	1
-''_-LRB-
-''_-LRB-	7
-:_NN
---_Volume	1
-:_<p>	2
-:_Dr.No	1
-:_dr.	1
-/_MoonRaker	1
+JJS_CD
+raunchiest_one	1
+best_one	1
+least_1	2
 IN_PRP$
 of_your	1
 than_his	1
@@ -559,14 +531,15 @@ had_even	1
 went_ahead	1
 NN_DT
 quality_a	1
-<p>_THE	2
 set_each	1
 dr._no	1
 M_a	1
 TV_these	1
 pack_a	1
+box_the	1
 hour_the	1
 tonic_every	1
+gun_a	1
 assassin_an	1
 dad_this	1
 *_This	1
@@ -589,9 +562,13 @@ movie_007	1
 Volume_3	1
 Volume_2	1
 Volume_1	2
-<p>_1	1
 ONLY_007	1
+***_1969	1
+MoonRaker_1979	1
+Gun_1974	1
 year_2001	1
+***_1974	1
+***_1962	1
 WP_TO
 what_to	1
 VBD_RP
@@ -621,10 +598,8 @@ mean_big	1
 are_worth	1
 are_full	1
 are_fantastic	1
-CD_-LRB-
-1/2_-LRB-	1
-DT_-LRB-
-no_-LRB-	1
+RP_PRP$
+out_his	1
 VB_NNS
 prefer_comments	1
 like_movies	1
@@ -721,6 +696,7 @@ financed_the	1
 done_a	1
 given_the	1
 seen_all	1
+revealed_the	1
 filled_the	2
 read_a	1
 complicated_this	1
@@ -849,6 +825,8 @@ good_to	2
 Contrary_to	1
 glad_to	1
 high_to	1
+CD_VBP
+3_are	1
 NNS_JJ
 galleries_boring	1
 sets_reminiscent	1
@@ -857,18 +835,25 @@ films_avilable	1
 ones_entertaining	1
 films_such	1
 FW_NNS
-<p>_DIAMONDS	1
+***_DIAMONDS	1
 FW_NNP
-<br />_Sean	1
 i.e._Scaramanga	1
--RRB-_WDT
--RRB-_that	1
--LRB-_DT
--LRB-_those	1
--LRB-_a	1
--LRB-_The	1
--LRB-_this	1
--LRB-_the	3
+NNP_''
+WOW_''	1
+Bonds_''	1
+Enough_''	2
+No_''	3
+Q_''	1
+TLD_''	1
+OHMSS_''	1
+Love_''	1
+FYEO_''	1
+Service_''	2
+Curtain_''	1
+Bond_''	1
+Thunderball_''	1
+TWINE_''	1
+Moonraker_''	5
 NNP_JJR
 Dalton_more	1
 VBG_:
@@ -1135,14 +1120,9 @@ The_Man	1
 a_Republic	1
 VBD_RBR
 had_more	1
-NN_SYM
-<p>_*	1
 VB_WRB
 believe_how	1
 remember_why	1
-PRP_-LRB-
-Me_-LRB-	1
-me_-LRB-	1
 PRP_NN
 you_something	1
 NNP_VB
@@ -1215,11 +1195,11 @@ spots_and	1
 girls_and	1
 ninjas_and	1
 films_or	1
-VBN_-RRB-
-spelled_-RRB-	1
 NNS_CD
+Bonds_4	1
 tracks_21	1
 encounters_two	1
+sets_1	1
 ,_VB
 ,_go	1
 ,_get	1
@@ -1247,6 +1227,7 @@ NN_CC
 bullet_and	1
 set_but	2
 class_or	1
+box_and	1
 cinematography_and	1
 bit_and	1
 time_and	1
@@ -1287,8 +1268,10 @@ cast_and	2
 USSR_and	1
 centerpiece_and	1
 order_and	1
+Renard_and	1
 series_and	3
 york_and	1
+evidence_and	1
 direction_and	1
 brother_and	1
 fiction_and	1
@@ -1320,10 +1303,10 @@ to_1962	1
 WDT_PRP
 which_he	1
 which_I	1
-MD_-LRB-
-can_-LRB-	1
 CC_LS
 and_i	1
+JJ_FW
+top_i.e.	1
 DT_JJS
 the_poorest	1
 the_newest	1
@@ -1389,13 +1372,15 @@ Whew_Clean	1
 Iron_Curtain	1
 Richard_Kiel	2
 Karl_Stromberg	1
-Mr._Kidd	1
+Anders_Maud	1
 Ursula_Andress	2
 Connery_Bonds	1
 Christopher_Wood	2
 Secret_Service	14
+Goodnight_Britt	1
 Russia_With	4
-<p>_The	3
+Taro_Zena	1
+Mr._Moore	1
 British_Secret	1
 Zena_Marshall	1
 Ernst_Stavro	2
@@ -1404,49 +1389,49 @@ Golden_Gun	3
 The_Golden	4
 Desmond_Llewellyn	1
 John_Cork	1
-<br />_***	1
 Diana_Rigg	4
-Mr._Moore	1
-Tomorrow_Never	1
 Timothy_Dalton	8
+Tomorrow_Never	1
+Jaws_Richard	2
 Michael_Apted	1
 Mr._Stromburg	1
 Crab_Key	1
 Bernard_Lee	2
-<p>_Into	3
 Hugo_Drax	4
 Tracy_Draco	1
 Nancy_Sinatra	1
 Never_Again	1
 A_View	1
 Stavro_Blofeld	2
+Trench_Eunice	1
 Willard_Whyte	1
 Pierce_Brosnan	10
+***_MOONRAKER	1
 Ken_Adams	2
 Bond_VHS	1
 Maud_Adams	2
-Lynn-Holly_Johnson	1
 Bill_Conti	1
 Donald_Pleasance	2
 HER_MAJESTY	7
 Ryder_Filix	1
 SECRET_SERVICE	7
 Christmas_Jones	1
+Scaramanga_Christopher	1
 NOT_ENOUGH	5
 Filix_Liter	1
 Lotus_Esprit	1
 Patrick_MacNee	1
 With_The	4
 Ursala_Andress	1
+King_Sophie	1
 Sean_Connery	15
 Michael_Lonsdale	1
 Michel_Lonsdale	1
-!!!_<br />	1
 Joseph_Wiseman	3
 Geoffrey_Hendricks	2
 Sylvia_Trench	1
+Ryder_Ursala	1
 Terence_Young	3
-***_<p>	1
 Ian_Fleming	7
 Lois_Maxwell	1
 Mr._Wint	1
@@ -1455,7 +1440,6 @@ Queen_Elizabeth	1
 Britt_Ekland	1
 Sheena_Easton	1
 Telly_Sevalas	1
-<br />_MOONRAKER	1
 Dr._Blofeld	2
 The_World	1
 Andrea_Anders	1
@@ -1465,20 +1449,21 @@ Cubby_Broccoli	1
 With_Love	4
 Peter_Hunt	2
 Alec_Mills	1
+Tracy_Diana	1
 Lewis_Gilbert	2
 National_Geo	1
 Bond_Collection	2
 George_Lazenby	10
 John_Barry	11
+Blofeld_Telly	1
 Tommorow_Never	1
-<p>_MOONRAKER	1
 Little_Nellie	1
 Dr._No	19
 GOLDEN_GUN	1
 ON_HER	7
 St._Georges	1
 Desmond_Llewelyn	2
-<br />_Overall	1
+Lynn-Holly_Johnson	1
 Mary_Goodnight	1
 LIVING_DAYLIGHTS	3
 Carole_Bouquet	1
@@ -1488,16 +1473,18 @@ Dr._Christmas	1
 Honey_Ryder	5
 Maurice_Binder	1
 Ernst_Stavlo	1
+Mr._Kidd	1
 Collection_Volume	1
 Miss_Moneypenny	2
 Bond_Theme	1
 N.B._Amazon	1
 Felix_Leiter	1
+!!!_***	1
+Stromberg_Curt	1
 Telly_Savalas	2
 Clean_T.V.	1
 Hong_Kong	3
-<p>_Dr.	2
-Aristotle_Kristatos	1
+Sophie_Marceau	2
 Charles_Gray	2
 Ken_Adam	3
 Eunice_Gayson	1
@@ -1508,16 +1495,18 @@ Connery_Bond	1
 Star_Wars	3
 Curt_Jergens	1
 Julian_Glover	1
+Drax_Michael	1
 Guy_Hamilton	1
 Elektra_King	3
 True_Dolby	1
 Fleming_Foundation	1
-Sophie_Marceau	2
+Aristotle_Kristatos	1
 Commander_Strangways	1
 Las_Vegas	1
 Melina_Havelock	1
 Roger_Moore	18
 Polly_Goodhead	1
+No_Joseph	1
 :_RB
 -_not	2
 -_well	1
@@ -1571,11 +1560,6 @@ sent_to	2
 considered_to	1
 DT_WRB
 no_where	1
--RRB-_NN
--RRB-_<p>	1
--RRB-_bond	1
--RRB-_****	1
--RRB-_time	1
 IN_DT
 In_this	2
 As_a	1
@@ -1720,32 +1704,8 @@ attributes_that	1
 documentaries_that	1
 locations_that	1
 Collections_that	1
--LRB-_CD
--LRB-_1979	2
--LRB-_1	1
--LRB-_4	1
--LRB-_1969	2
--LRB-_1999	1
--LRB-_007	6
--LRB-_1977	2
--LRB-_1974	2
--LRB-_9	1
--LRB-_1963	1
--LRB-_1962	1
 VB_WP
 discover_what	1
--LRB-_CC
--LRB-_but	1
--LRB-_and	3
-NNS_-LRB-
-commentaries_-LRB-	1
-sets_-LRB-	2
-things_-LRB-	1
-Bonds_-LRB-	1
-films_-LRB-	3
-ones_-LRB-	1
-players_-LRB-	1
-fans_-LRB-	1
 JJS_TO
 Hardest_to	1
 oldest_to	1
@@ -1792,7 +1752,7 @@ RB_.
 Twice_.	1
 not_.	2
 once_.	1
-however_.	1
+however_.	2
 much_.	1
 late_.	1
 about_.	1
@@ -1809,9 +1769,12 @@ there_!	1
 versa_.	1
 so_.	1
 literally_!	1
+MD_CC
+can_and	1
 JJS_RB
 best_only	1
 best_here	1
+best_never	1
 CD_CC
 1_and	1
 007_and	2
@@ -1828,30 +1791,6 @@ composed_one	1
 hit_70s	2
 contained_7	1
 was_one	3
-VBZ_-RRB-
-Dies_-RRB-	1
-has_-RRB-	1
-NNP_-RRB-
-Kiel_-RRB-	2
-Octopussy_-RRB-	1
-Rigg_-RRB-	1
-Marshall_-RRB-	1
-Gayson_-RRB-	1
-Savalas_-RRB-	1
-Ekland_-RRB-	1
-Lee_-RRB-	1
-Lonsdale_-RRB-	1
-Jergens_-RRB-	1
-Moonraker_-RRB-	1
-Marceau_-RRB-	1
-Wiseman_-RRB-	1
-Brosnan_-RRB-	1
-Andress_-RRB-	1
-Jones_-RRB-	1
-Connery_-RRB-	1
-Enough_-RRB-	1
-Blofeld_-RRB-	1
-Forever_-RRB-	1
 CC_RB
 and_still	1
 and_up	1
@@ -1903,18 +1842,9 @@ how_it	1
 when_I	1
 where_you	1
 when_you	1
-CD_-RRB-
-1977_-RRB-	2
-1962_-RRB-	1
-1999_-RRB-	1
-1963_-RRB-	1
-1979_-RRB-	2
-3_-RRB-	1
-04_-RRB-	1
-1969_-RRB-	2
-1974_-RRB-	2
 :_IN
 :_although	1
+:_From	1
 :_In	1
 ''_:
 ''_-	2
@@ -1947,8 +1877,6 @@ my_favorite	3
 my_favourite	1
 our_next	1
 my_personnal	1
-VBD_WRB
-was_when	1
 IN_PRP
 While_I	1
 like_we	1
@@ -2012,10 +1940,8 @@ as_she	1
 ''_!	1
 ''_,
 ''_,	9
-PRP_-RRB-
-me_-RRB-	1
-it_-RRB-	1
-them_-RRB-	1
+NNS_VB
+films_see	1
 RB_LS
 Still_i	1
 TO_WP
@@ -2023,9 +1949,9 @@ to_what	1
 RB_NNS
 still_galleries	1
 :_NNP
+..._Into	1
 ..._G.H.	1
 ..._N.B.	1
-..._<p>	1
 :_Dr.	1
 ..._Dr.	1
 -_Bond	1
@@ -2519,25 +2445,12 @@ at_.	1
 for_.	1
 beneath_.	1
 FW_FW
-<br />_****	1
-sitcoms_!!	1
+sean_conery	1
 Firstly_i	1
 FROM_RUSSIA	5
-<p>_***	1
-***_<p>	1
-in_DR.	2
 Moonraker_***	1
-<br />_<br />	21
-<br />_Enjoy	1
-****_<p>	1
-<p>_Moonraker	3
-<br />_***	2
-<br />_In	1
-<p>_FROM	1
-sean_conery	1
-RP_.
-out_.	1
-off_.	1
+in_DR.	2
+sitcoms_!!	1
 CD_PRP$
 007_your	1
 ``_DT
@@ -2549,17 +2462,19 @@ Me_.	1
 her_.	1
 him_.	3
 itself_.	4
-me_.	4
-them_.	5
+me_.	5
+them_.	6
 it_!	2
 you_.	1
 themselves_.	1
-it_.	8
+it_.	9
 PRP_,
 Me_,	1
 you_,	2
 it_,	3
 him_,	1
+JJS_VBZ
+least_is	1
 CC_VBP
 and_are	2
 and_have	2
@@ -2584,8 +2499,6 @@ but_thats	1
 and_poses	1
 NN_WRB
 point_where	1
-,_-LRB-
-,_-LRB-	1
 RP_TO
 on_to	1
 up_to	2
@@ -2595,6 +2508,7 @@ NNP_PRP
 G.H._you	1
 ONLY_they	1
 Plus_we	1
+Moore_he	1
 CC_VBD
 and_purchased	1
 and_put	1
@@ -2652,15 +2566,13 @@ big_,	1
 available_,	1
 verbose_,	1
 excellent_,	1
-good_,	2
+good_,	3
 first_,	1
 exciting_,	1
 magnificent_,	1
 non-believable_,	1
 over-the-top_,	1
 great_,	1
-VB_SYM
-<br />_**	3
 JJ_.
 invincible_.	1
 serious_.	1
@@ -2679,13 +2591,14 @@ general_.	1
 good_.	4
 difficult_.	1
 wonderful_.	1
-forgettable_.	2
+crazy_.	1
 happy_.	1
 unique_.	2
 realistic_.	1
 fanciful_.	2
 interesting_.	1
 cheesy_.	1
+forgettable_.	2
 complete_.	1
 bad_.	2
 realistic_?	1
@@ -2702,6 +2615,8 @@ own_.	1
 disappointing_.	1
 clean_.	1
 entertaining_.	1
+VBZ_SYM
+gets_**	1
 RBS_RB
 most_succinctly	1
 most_hard	1
@@ -2771,8 +2686,6 @@ RB_WP
 not_what	2
 VBP_WRB
 demonstrate_why	1
--LRB-_VB
--LRB-_see	1
 VBD_JJ
 were_located	1
 did_certain	1
@@ -2847,7 +2760,6 @@ fun_times	1
 action_scenes	2
 radio_spots	1
 film_thanks	1
-<p>_Diamonds	1
 movie_standards	1
 Bond_Fans	1
 film_choices	1
@@ -2855,32 +2767,39 @@ time_bonds	1
 NNPS_VBP
 Diamonds_are	1
 NN_NNP
-designer_Ken	1
 *_Pierce	1
 villain_Stromberg	1
+evil_Dr.	1
+madman_Hugo	1
+one-timer_George	1
+fan_OHMSS	1
+nemisis_Ernst	1
+agent_Polly	1
+time_Dr.	1
+purchase_Dr.	1
+girl_Melina	1
+designer_Ken	1
+girl_Tracy	1
+trash_T.V.	1
+character_Jaws	1
+girl_Dr.	1
 film_Bond	1
 guy_Columbo	1
-character_Jaws	1
-agent_Polly	1
-purchase_Dr.	1
-nemisis_Ernst	1
-girl_Tracy	1
-one-timer_George	1
 film_Pierce	1
 custom_Toyota	1
-madman_Hugo	1
-time_Dr.	1
-girl_Melina	1
-evil_Dr.	1
 movie_Dr.	1
 DVD_James	1
-trash_T.V.	1
 :_``
 ;_``	1
 -_``	1
 :_``	3
 CD_CD
+1969_3	1
 ***_1/2	3
+1974_4	1
+1962_2	1
+1/2_1977	1
+1977_5	1
 ,_WRB
 ,_where	1
 IN_JJR
@@ -2890,8 +2809,8 @@ like_most	1
 than_most	1
 at_least	3
 from_oldest	1
--RRB-_.
--RRB-_.	21
+VBD_WRB
+was_when	1
 :_DT
 --_the	1
 /_The	1
@@ -2921,8 +2840,8 @@ bigger_variety	1
 more_fun	2
 RB_``
 yet_``	1
-VBZ_SYM
-gets_**	1
+:_CD
+:_1	1
 RP_NNP
 out_Octopussy	1
 down_Blofeld	1
@@ -3016,6 +2935,8 @@ There_'s	1
 there_is	4
 NNS_NNP
 stories_Ian	1
+films_Dr.	1
+films_Goldfinger	1
 EX_VBP
 there_are	3
 There_are	1
@@ -3030,6 +2951,7 @@ NN_NN
 fiction_movie	1
 SPECTRE_trap	1
 bond_girl	2
+****_****	1
 smuggling_heroin	1
 bond_film	1
 science_fiction	5
@@ -3038,6 +2960,7 @@ trill_ride	1
 cia_agent	1
 movie_industry	1
 documentary_video	1
+sound_Mono	1
 set_Vol	1
 edition_DVD	1
 service_department	1
@@ -3057,6 +2980,7 @@ glass_museum	3
 bond_cliche	2
 gadget_wizard	1
 A.T.A.C._system	1
+race_bond	1
 DVD_Volume	1
 Customer_Service	1
 action_sequence	2
@@ -3075,6 +2999,7 @@ bond_character	2
 spy_ship	1
 gun_barrel	1
 assassination_attempt	1
+Service_OHMSS	1
 audio_commentary	1
 screen_credit	1
 *_Moonraker	1
@@ -3104,6 +3029,7 @@ secret_service	1
 Bond_song	1
 moore_set	1
 fan_appeal	2
+girl_Kara	1
 picture_quality	1
 decoding_machine	1
 family_time	1
@@ -3112,6 +3038,7 @@ oil_supply	1
 art/set_director	1
 space_shuttle	1
 DVD_collection	3
+era_look	1
 free-fall_sequence	2
 OO7_giftset	1
 online_brand	1
@@ -3119,7 +3046,7 @@ mud_bath	1
 movie_collection	1
 solo_flight	1
 title_song	1
-race_bond	1
+villian_Renard	1
 tin_case	1
 Bond_score	1
 vodka_martini	1
@@ -3376,7 +3303,7 @@ LOVE_as	1
 feature_on	1
 point_for	1
 contact_in	1
-<p>_If	1
+DVD_in	1
 fellow_from	1
 army_in	1
 biography_of	1
@@ -3392,7 +3319,6 @@ fun_though	1
 thing_like	1
 set_for	1
 earth_after	1
-<p>_For	2
 time_on	1
 love_for	2
 road_as	1
@@ -3405,7 +3331,7 @@ role_of	1
 travesty_with	1
 woman_for	1
 look_of	1
-<p>_Along	1
+jollity_in	1
 tandem_with	1
 taste_for	2
 film_of	3
@@ -3485,13 +3411,13 @@ car_on	1
 life_into	1
 dialogue_by	2
 stamp_on	1
-<p>_On	2
 case_so	1
 debut_in	1
 headache_than	1
 film_except	1
 aspect_about	2
 number_of	1
+woman_during	1
 expense_of	1
 information_about	1
 fun_with	1
@@ -3504,7 +3430,6 @@ interest_in	1
 None_of	1
 husband_for	1
 documentary_about	2
-<p>_FOR	1
 attack_on	1
 infront_of	1
 villain_of	1
@@ -3529,12 +3454,10 @@ documentary_on	2
 credit_on	1
 battle_between	1
 grate_behind	1
-jollity_in	1
 collection_whether	1
 collection_of	4
 change_for	1
 quality_on	1
-DVD_in	1
 persona_of	1
 list_of	1
 madman_from	1
@@ -3567,18 +3490,18 @@ series_as	1
 spirit_of	1
 honor_of	1
 set_so	1
-<p>_From	1
 upgrade_from	1
+help_from	2
 highlight_of	1
 scene_in	1
 film_on	1
-film_with	1
+film_with	2
 value_of	1
 production_of	1
 director_of	1
 work_in	1
 line_as	1
-woman_during	1
+bill_at	1
 sinking_of	1
 layer_of	1
 bottom_of	1
@@ -3591,7 +3514,7 @@ rating_of	1
 cable_off	1
 date_than	1
 letdown_after	1
-help_from	2
+TWINE_out	1
 bullet_with	1
 cinematography_in	1
 payroll_of	1
@@ -3628,7 +3551,6 @@ part_as	1
 sequence_on	1
 timing_of	1
 value_from	1
-<br />_If	1
 movie_of	1
 movie_in	6
 bit_of	1
@@ -3660,8 +3582,6 @@ complaint_about	1
 group_of	1
 PRP$_MD
 your_wo	1
-:_JJS
--_best	1
 CC_DT
 and_an	2
 but_that	1
@@ -3696,23 +3616,8 @@ NNS_PRP
 films_themselves	1
 titles_you	1
 copies_I	1
+fans_myself	1
 movies_I	1
-NNP_''
-WOW_''	1
-Bonds_''	1
-Enough_''	2
-No_''	3
-Q_''	1
-TLD_''	1
-OHMSS_''	1
-Love_''	1
-FYEO_''	1
-Service_''	2
-Curtain_''	1
-Bond_''	1
-Thunderball_''	1
-TWINE_''	1
-Moonraker_''	5
 NN_VBG
 Bond_kicking	1
 performance_adding	1
@@ -3850,6 +3755,7 @@ car_chases	1
 movie_bears	1
 anyone_is	1
 something_is	1
+OHMSS_sends	1
 exposition_is	2
 OHMSS_is	1
 Someone_is	1
@@ -3945,6 +3851,7 @@ PRP_RB
 I_just	2
 me_just	1
 you_never	1
+me_definetly	1
 I_actually	1
 YOU_ONLY	3
 you_really	1
@@ -3974,21 +3881,15 @@ It_definitley	1
 I_personally	1
 He_then	1
 I_also	2
-JJS_CD
-raunchiest_one	1
-best_one	1
-least_1	2
+:_NN
+--_Volume	1
+:_Dr.No	1
+:_dr.	1
+/_MoonRaker	1
 IN_EX
 While_there	1
 If_there	2
 though_there	1
-JJ_-LRB-
-first_-LRB-	1
-top_-LRB-	1
-last_-LRB-	1
-disappointing_-LRB-	1
-VBD_-RRB-
-included_-RRB-	1
 JJ_``
 favorite_``	1
 controversial_``	1
@@ -4043,12 +3944,10 @@ is_being	1
 's_attempting	1
 is_hijacking	1
 VB_PRP
-<p>_You	1
 get_them	2
 thank_you	1
 rate_them	1
 view_them	1
-<br />_YOU	1
 admit_I	1
 take_them	1
 get_him	1
@@ -4126,6 +4025,7 @@ this_the	1
 this_an	1
 this_a	1
 all_those	1
+no_the	1
 RB_VBN
 now_convinced	2
 emotionally_charged	1
@@ -4202,7 +4102,6 @@ finally_broke	1
 FW_IN
 RUSSIA_WITH	5
 In_FOR	1
-<br />_Because	1
 NNS_NN
 sets_online	1
 movies_briefly	1
@@ -4316,6 +4215,7 @@ can_not	2
 NN_WDT
 movie_that	1
 review_that	1
+Kara_that	1
 film_which	2
 ruthlessness_that	1
 gift_that	1
@@ -4325,6 +4225,7 @@ epic_that	1
 satellite_that	1
 hype_that	1
 garbage_that	1
+series_which	1
 ending_that	1
 trail_that	1
 series_that	1
@@ -4344,11 +4245,9 @@ get_a	2
 play_the	2
 have_the	2
 let_that	1
-<p>_An	1
 please_the	2
 see_The	1
 contain_any	1
-<p>_The	6
 forget_the	1
 stop_a	3
 give_the	1
@@ -4356,7 +4255,6 @@ purchase_the	2
 think_this	1
 fix_the	1
 include_an	1
-present_a	1
 buy_this	1
 release_all	1
 name_a	1
@@ -4375,11 +4273,10 @@ be_the	1
 deliver_the	1
 bite_the	1
 get_this	1
-<br />_This	1
+present_a	1
 begin_any	1
 believe_this	1
 do_the	1
-<br />_THE	2
 WRB_DT
 where_this	1
 where_the	1
@@ -4447,11 +4344,6 @@ is_fantastic	1
 is_difficult	1
 LS_VBP
 i_'m	1
-JJ_-RRB-
-fascinating_-RRB-	1
-last_-RRB-	1
-good_-RRB-	1
-crazy_-RRB-	1
 NN_TO
 plot_to	1
 blast_to	1
@@ -4546,8 +4438,6 @@ and_3	1
 and_two	1
 and_one	3
 or_three	1
-FW_-LRB-
-***_-LRB-	1
 VB_''
 Kill_''	1
 WP_RB
@@ -4741,10 +4631,8 @@ truly_fall	1
 n't_count	1
 n't_find	1
 ''_JJ
+''_classic	1
 ''_exotic	1
-JJS_-RRB-
-least_-RRB-	1
-best_-RRB-	1
 RB_MD
 there_should	1
 here_would	1
@@ -4786,9 +4674,6 @@ VBZ_WP
 knows_what	1
 VBG_PRP$
 Following_his	1
--RRB-_VBP
--RRB-_are	1
--RRB-_consider	1
 ,_VBG
 ,_being	1
 ,_watching	1
@@ -4797,11 +4682,6 @@ Following_his	1
 ,_involving	2
 ,_ending	1
 ,_possessing	1
--RRB-_VBZ
--RRB-_appears	1
--RRB-_plans	1
--RRB-_is	2
--RRB-_sends	1
 NNS_.
 helicopters_.	1
 greats_.	1
@@ -4839,6 +4719,7 @@ lovers_.	1
 films_.	7
 versions_.	1
 settings_.	1
+filmmakers_.	1
 booklets_.	1
 70s_.	1
 discs_.	1
@@ -4849,6 +4730,7 @@ extras_.	2
 sales_.	1
 scores_!	1
 commentaryes_?	1
+credits_.	1
 teeth_.	1
 boxsets_.	1
 sets_.	2
@@ -4866,6 +4748,7 @@ lines_,	1
 locales_,	2
 moments_,	1
 locations_,	1
+bonds_,	1
 favorites_,	1
 gadgets_,	4
 commentaries_,	1
@@ -4902,10 +4785,6 @@ classics_,	1
 sets_,	2
 ,_VBP
 ,_are	1
--RRB-_DT
--RRB-_the	1
--RRB-_VBD
--RRB-_was	1
 RBR_RB
 more_up	1
 more_oddly	1
@@ -4936,9 +4815,6 @@ Daylights_-	1
 ,_gives	1
 ,_thrills	1
 ,_is	2
--RRB-_NNP
--RRB-_Bond	2
--RRB-_Jaws	1
 WRB_RB
 where_close	1
 MD_RBS
@@ -4980,7 +4856,6 @@ many_aspects	1
 great_settings	1
 impressive_extras	1
 interesting_interviews	1
-<br />_DIAMONDS	1
 strange_disapearences	1
 audio_commentaries	1
 great_performances	1
@@ -5083,6 +4958,7 @@ one_by	1
 6_of	1
 three_of	1
 two_of	2
+1/2_FOR	1
 One_of	4
 four_of	2
 one_out	1
@@ -5092,6 +4968,8 @@ one_of	44
 007_in	1
 007_so	1
 2_for	1
+''_CD
+''_007	6
 VBG_RBR
 being_higher	1
 ''_CC
@@ -5104,13 +4982,6 @@ as_described	1
 that_impressed	1
 with_paid	1
 as_opposed	1
--RRB-_CC
--RRB-_and	6
--RRB-_CD
--RRB-_4	1
--RRB-_5	1
--RRB-_2	1
--RRB-_3	1
 FW_MD
 i_would	1
 i_'d	3
@@ -5184,7 +5055,6 @@ take_our	1
 have_our	1
 like_his	2
 refine_his	1
-<p>_My	1
 be_my	2
 use_his	1
 destroy_their	1
@@ -5193,8 +5063,9 @@ regret_my	1
 ensure_its	1
 VBP_WP
 are_what	1
-''_WDT
-''_which	1
+._.
+!_.	1
+._.	9
 ,_MD
 ,_should	1
 ,_would	1
@@ -5291,21 +5162,17 @@ be_seduced	1
 grow_compared	1
 have_re-mastered	1
 be_given	2
-VBN_-LRB-
-revealed_-LRB-	1
 VB_VBG
 be_writing	1
 be_lining	1
 remember_watching	1
-RP_PRP$
-out_his	1
 VB_VBD
 have_had	1
 RB_RBR
 even_more	1
 certainly_more	1
 ,_DT
-,_this	13
+,_this	14
 ,_some	1
 ,_these	1
 ,_both	1
@@ -5315,8 +5182,6 @@ certainly_more	1
 ,_an	2
 ,_all	1
 ,_the	21
-VBZ_-LRB-
-gets_-LRB-	1
 VB_VBZ
 Set_is	1
 VBZ_RBR
@@ -5325,6 +5190,8 @@ is_more	1
 NNS_DT
 films_all	1
 extras_these	1
+commentaries_those	1
+ones_The	1
 VBZ_NN
 is_nothing	1
 is_goin	1
@@ -5378,10 +5245,6 @@ are_a	4
 make_the	1
 am_a	1
 contain_some	2
-NNS_-RRB-
-credits_-RRB-	1
-bonds_-RRB-	1
-filmmakers_-RRB-	1
 VBD_TO
 wanted_to	3
 refused_to	1
@@ -5398,89 +5261,92 @@ performance_in	1
 ,_WDT
 ,_which	9
 NNS_IN
-characters_of	1
 volumes_for	1
 duties_in	1
 sets_through	1
 movies_that	1
-hands_down	1
-entries_in	2
-sequences_of	3
-millions_of	2
-claws_for	1
-Looks_like	1
-numbers_for	1
-elements_of	1
-volumes_in	1
-movies_with	2
-people_on	3
-stars_on	1
+films_with	2
+effects_of	1
 stunts_of	1
-formations_near	1
-tables_at	1
 questions_like	1
 scores_for	1
-films_for	2
 60s_as	1
-commentaries_for	1
 days_of	1
-efforts_of	1
 cliffs_of	1
-difficulties_of	1
-attitudes_with	1
-volumes_at	1
 movies_in	7
-girls_as	1
-waters_of	1
-diamonds_around	1
-plots_with	1
-lasers_at	1
 governments_for	1
-films_with	2
-designs_for	2
-films_by	1
 gems_of	1
-effects_of	1
 filmakers_for	2
 editions_of	1
 bowels_of	1
-periods_of	1
-amounts_of	1
-outings_with	1
 producers_of	1
-movies_by	1
 movies_from	1
-films_like	1
 movies_over	1
-lots_of	7
-movies_like	2
-movies_for	2
-films_in	5
-Thanks_for	1
 sets_for	1
-aspects_of	1
-classics_for	1
-women_in	1
-makings_of	1
-shows_like	1
-films_of	5
-movies_unless	1
-sets_because	1
-performances_as	1
-collections_for	1
-scenes_of	1
 diamonds_for	1
-comments_from	1
-things_that	1
 villains_of	1
 features_of	1
+millions_of	2
+elements_of	1
+movies_with	2
+players_of	1
+waters_of	1
+diamonds_around	1
+designs_for	2
+movies_like	2
+movies_for	2
+Thanks_for	1
+shows_like	1
+amounts_of	1
+movies_unless	1
+sets_because	1
+interviews_with	1
+scenes_in	1
+characters_of	1
+hands_down	1
+films_like	1
+tables_at	1
+commentaries_for	1
+claws_for	1
+difficulties_of	1
+lasers_at	1
 children_as	1
+films_by	1
+periods_of	1
+stars_on	1
+attitudes_with	1
+classics_for	1
+women_in	1
+scenes_of	1
+comments_from	1
+makings_of	1
+plots_with	1
+things_that	1
+films_in	5
+volumes_in	1
+entries_in	2
+sequences_of	3
+Looks_like	1
+numbers_for	1
+people_on	3
+sets_in	1
+formations_near	1
+films_for	2
+efforts_of	1
+volumes_at	1
+outings_with	1
+movies_by	1
+renegades_from	1
+lots_of	7
+girls_as	1
+things_for	1
+films_of	5
+aspects_of	1
+performances_as	1
+collections_for	1
 fights_of	1
 videos_in	1
-interviews_with	1
 tastes_of	2
-scenes_in	1
-renegades_from	1
 NNPS_NN
 Undertakers_Wind	1
 CC_WDT
@@ -5510,22 +5376,26 @@ most_fans	1
 NN_:
 Bond_...	1
 caution_:	1
+copy_:	1
 explanation_:	1
 villain_-	1
 cliche_--	2
 mouth_/	1
-girl_--	2
 person_...	1
+girl_--	2
+USA_;	1
 collection_:	1
 advice_--	1
 script_-	1
 goodnight_/	1
 giftset_...	1
 Gun_-	2
+trap_;	1
 mystery_-	1
 choice_...	1
-copy_:	1
+world_;	1
 CD_RB
+1979_Probably	1
 5_very	1
 two_not	1
 007_back	1
@@ -5589,6 +5459,7 @@ novel_,	1
 series_,	8
 case_,	1
 branch_,	1
+vision_,	1
 interest_,	1
 virility_,	1
 woman_,	1
@@ -5649,9 +5520,9 @@ perfection_.	1
 video_.	1
 program_.	2
 average_.	1
-series_.	20
+series_.	21
 sequence_.	2
-destination_.	1
+work_.	1
 date_.	1
 knockoff_.	1
 hiatus_.	1
@@ -5660,7 +5531,6 @@ etc._.	2
 life_.	1
 servant_.	1
 briefly_.	1
-day_.	1
 humor_.	1
 spy_.	1
 fan_.	3
@@ -5668,7 +5538,7 @@ masterpiece_.	1
 dialogue_.	1
 demand_!	1
 season_.	1
-danger_.	1
+supply_.	1
 actor_.	1
 classic_.	5
 truth_.	1
@@ -5679,12 +5549,14 @@ filler_.	1
 ****_.	1
 version_!	1
 absence_.	1
+danger_.	1
 Doh_!	1
 purchase_.	1
 solution_.	1
 favorite_.	1
 picture_.	1
 space_.	2
+car_.	1
 twist_.	1
 museum_.	1
 order_.	1
@@ -5716,6 +5588,7 @@ end_.	1
 score_.	1
 mono_.	3
 owning_.	1
+appeal_.	3
 device_.	1
 list_.	1
 case_.	3
@@ -5732,7 +5605,7 @@ second_.	1
 Mono_?	1
 chase_.	1
 film_.	13
-appeal_.	3
+destination_.	1
 ship_.	1
 pace_.	1
 prisoner_.	1
@@ -5744,6 +5617,7 @@ jot_.	1
 set_.	9
 audience_.	1
 role_.	2
+heroin_.	1
 world_.	1
 TV_.	1
 laser_?	1
@@ -5753,13 +5627,15 @@ style_.	1
 flick_.	1
 problem_.	1
 reviewer_.	1
-work_.	1
+idea_.	1
 elitist_!	1
 DVD_.	3
 day_!	1
+IMHO_.	1
 pushover_.	1
 Vol_.	2
 rip-off_!	1
+technology_.	1
 locale_.	1
 budget_.	1
 stereo_.	1
@@ -5768,7 +5644,7 @@ library_.	1
 quality_.	1
 plot_.	4
 science_.	1
-idea_.	1
+day_.	1
 year_.	1
 special_.	1
 time_.	7
@@ -5841,6 +5717,7 @@ that_started	1
 that_were	3
 that_went	1
 PRP_CD
+Me_1977	1
 Me_***	1
 RP_JJ
 off_several	2
@@ -5874,13 +5751,6 @@ lining_up	1
 Growing_up	1
 showing_off	1
 bringing_out	1
--LRB-_RB
--LRB-_probably	1
--LRB-_so	1
--LRB-_never	1
--LRB-_definetly	1
--LRB-_thankfully	1
--LRB-_yes	1
 DT_:
 all_-	1
 FW_VB
@@ -5970,12 +5840,10 @@ eerily_unsettling	1
 sometimes_interesting	1
 simply_perfect	1
 very_good	2
--LRB-_FW
--LRB-_i.e.	1
-RB_-RRB-
-however_-RRB-	1
 CD_DT
 3_a	1
+1/2_THE	2
+1963_the	1
 NNPS_.
 Soviets_.	1
 TO_NNP
@@ -6053,6 +5921,7 @@ own_ever	1
 keep_just	1
 settle_back	1
 Kill_instead	1
+Kill_yes	1
 spend_too	1
 have_much	1
 be_quite	1
@@ -6112,6 +5981,7 @@ Brosnan_in	1
 VHS_so	1
 Japan_during	1
 Glover_as	1
+Intelligence_in	1
 Connery_as	2
 Llewelyn_as	2
 Andress_as	1
@@ -6120,6 +5990,7 @@ Bond_behind	1
 MacNee_of	1
 Bond_in	3
 Esprit_as	1
+Enough_as	1
 Bonds_for	1
 Hendricks_for	1
 Moore_at	1
@@ -6168,25 +6039,10 @@ on_replaying	1
 on_collecting	1
 like_watching	2
 In_looking	1
+IN_VBD
+for_were	1
 ``_CD
 ``_007	2
-NN_-RRB-
-car_-RRB-	1
-OHMSS_-RRB-	1
-****_-RRB-	1
-Kara_-RRB-	1
-IMHO_-RRB-	1
-trap_-RRB-	1
-technology_-RRB-	1
-heroin_-RRB-	1
-world_-RRB-	1
-evidence_-RRB-	1
-vision_-RRB-	1
-TWINE_-RRB-	1
-series_-RRB-	1
-Renard_-RRB-	1
-supply_-RRB-	1
-USA_-RRB-	1
 ,_PRP
 ,_he	2
 ,_they	3
@@ -6209,23 +6065,6 @@ my_Bond	2
 Her_Majesty	14
 JJS_JJS
 most_raunchiest	1
--LRB-_NNP
--LRB-_Maud	1
--LRB-_Britt	1
--LRB-_Richard	2
--LRB-_Michael	1
--LRB-_Goldfinger	1
--LRB-_Christopher	1
--LRB-_Telly	1
--LRB-_Diana	1
--LRB-_OHMSS	1
--LRB-_Sophie	1
--LRB-_Dr.	2
--LRB-_Joseph	1
--LRB-_Eunice	1
--LRB-_Ursala	1
--LRB-_Zena	1
--LRB-_Curt	1
 VBG_.
 watching_.	1
 refreshing_!	1
@@ -6238,6 +6077,7 @@ defecting_,	1
 JJ_CC
 European_and	1
 informative_and	1
+last_but	1
 excellent_and	1
 silly_but	1
 witty_and	2
@@ -6247,7 +6087,7 @@ beautiful_and	1
 3rd_and	1
 used_and	1
 recognizable_and	1
-first_and	1
+first_and	2
 exquisite_and	2
 entertaining_and	2
 Soviet_and	1
@@ -6256,7 +6096,7 @@ exciting_and	1
 nic-nac_and	1
 excellent_but	1
 short_but	1
-2nd_and	1
+great_and	1
 splashy_and	1
 little_and	1
 intellectual_and	1
@@ -6265,6 +6105,7 @@ striking_and	1
 dark_and	1
 horrible_but	1
 opulent_and	1
+2nd_and	1
 gritty_and	1
 nice_and	1
 practical_and	1
@@ -6274,7 +6115,7 @@ rich_and	1
 Corny_but	2
 boring_or	1
 modern_and	1
-great_and	1
+fascinating_and	1
 big_and	1
 PDT_PRP$
 all_his	1
@@ -6308,6 +6149,7 @@ CD_.
 two_.	1
 one_!	3
 2_.	1
+1999_.	1
 one_.	3
 3_.	2
 WRB_VBN
@@ -6316,10 +6158,10 @@ WRB_VBZ
 how_does	1
 VBZ_PDT
 has_all	1
-VBP_-RRB-
-do_-RRB-	1
 CD_:
 2_--	1
+FW_CD
+***_1979	1
 VBG_PDT
 collecting_all	1
 wanting_all	1
@@ -6401,6 +6243,9 @@ two_wheels	2
 CD_NNP
 two_Connery	1
 9_Jan	1
+1969_Bond	1
+1974_Bond	1
+1979_Jaws	1
 007_Collection	1
 one_Connery	1
 007_Collector	2
@@ -6530,8 +6375,8 @@ to_me	1
 TO_VBG
 to_seeing	1
 to_becoming	1
-._.
-._.	9
+''_WDT
+''_which	1
 VBN_RP
 toned_down	1
 stayed_out	1
@@ -6667,8 +6512,6 @@ all_20	1
 These_two	1
 all_three	2
 the_two	2
-FW_``
-<br />_``	1
 RP_DT
 up_the	2
 up_this	1
@@ -6729,7 +6572,10 @@ SYM_.
 ''_movies	1
 NNP_,
 Bond_,	3
+Kiel_,	1
+Jergens_,	1
 Drax_,	1
+Savalas_,	1
 Goldeneye_,	1
 Dalton_,	1
 IMHO_,	1
@@ -6741,6 +6587,7 @@ BTW_,	1
 Moonraker_,	2
 Jamaica_,	1
 Theme_,	1
+Rigg_,	1
 Service_,	3
 Nellie_,	1
 Wars_,	1
@@ -6753,23 +6600,27 @@ GUN_,	1
 Thunderball_,	1
 Bonds_,	1
 Goldfinger_,	1
+Wiseman_,	1
 Gun_,	1
 Ferzetti_,	1
+Gayson_,	1
 Enough_,	1
+Marceau_,	1
 SW_,	1
 Scaramanga_,	1
 Maxwell_,	1
+Jones_,	1
 Andrea_,	1
 Quarrel_,	2
 Shakespeare_,	1
 Lazenby_,	1
 Q_,	3
-Lee_,	1
+Lee_,	2
 SPECTRE_,	1
 SERVICE_,	1
 Elizabeth_,	1
 Draco_,	1
-Connery_,	4
+Connery_,	5
 Collection_,	1
 Rediculuous_,	1
 Brosnan_,	1
@@ -6793,12 +6644,14 @@ Wars_.	1
 Lee_.	1
 Goldeneye_.	1
 Bond_!	3
+Marshall_.	1
 Again_.	1
 Moore_.	4
 Love_.	1
 OHMSS_.	2
 Drax_.	1
 Melina_.	1
+Ekland_.	1
 Key_.	1
 IMHO_.	1
 Moonraker_.	5
@@ -6809,6 +6662,7 @@ Netflix_.	1
 THUNDERBALL_.	1
 Bonds_.	2
 KGB_.	1
+Andress_.	1
 Christmas_.	1
 Johnson_.	1
 Miss._.	1
@@ -6820,7 +6674,7 @@ Enough_?	1
 Lazenby_.	1
 Goldfinger_.	2
 Conti_.	1
-Blofeld_.	4
+Blofeld_.	5
 Ebay_.	1
 ENOUGH_.	1
 SERVICE_.	2
@@ -6831,10 +6685,7 @@ Thunderball_.	1
 Brosnan_.	1
 JJ_VBP
 few_are	1
--LRB-_WDT
--LRB-_which	1
 FW_NN
-<br />_A	1
 DR._NO	2
 !!_I	1
 NNP_WRB
@@ -6871,6 +6722,7 @@ Lonsdale_-	1
 Bond_--	1
 JJ_VBD
 several_hit	2
+disappointing_did	1
 new_was	1
 TO_WRB
 to_how	1
@@ -6892,11 +6744,12 @@ flicks_:	1
 JJ_PRP$
 sure_its	1
 VBZ_.
-Dies_.	1
+Dies_.	2
 chooses_.	1
 works_!	2
-gets_.	1
+has_.	1
 cares_?	1
+gets_.	1
 sparks_.	1
 VBZ_,
 thrills_,	1
@@ -6926,8 +6779,6 @@ probes_to	1
 CC_PRP$
 and_his	3
 and_its	1
--LRB-_JJ
--LRB-_classic	1
 JJ_JJ
 own_moral	1
 thrilling_bobsled	1
@@ -7012,6 +6863,7 @@ say_something	1
 ,_one	2
 CD_VBD
 1_was	2
+04_was	1
 1_had	1
 007_saved	1
 one_was	1
@@ -7026,11 +6878,7 @@ SPY_WHO	6
 anyone_who	1
 Spy_who	3
 FW_PRP
-<p>_YOU	1
-<br />_I	1
-<br />_We	3
-JJS_-LRB-
-best_-LRB-	1
+****_YOU	1
 WRB_NNP
 where_Jaws	1
 why_Commander	1
@@ -7082,6 +6930,7 @@ NNP_MD
 Connery_will	1
 Bond_must	2
 Dalton_may	1
+Moonraker_will	1
 Lazenby_should	1
 Enough_will	1
 Goldfinger_will	1
@@ -7126,25 +6975,6 @@ IN_CC
 over_and	1
 as_both	1
 of_and	1
-NNP_-LRB-
-Stromberg_-LRB-	1
-No_-LRB-	2
-Service_-LRB-	1
-King_-LRB-	1
-Tracy_-LRB-	1
-Ryder_-LRB-	1
-Taro_-LRB-	1
-Blofeld_-LRB-	2
-Scaramanga_-LRB-	1
-Collection_-LRB-	1
-Anders_-LRB-	1
-Jaws_-LRB-	2
-Moore_-LRB-	1
-Hendricks_-LRB-	1
-Goodnight_-LRB-	1
-Drax_-LRB-	1
-Trench_-LRB-	1
-Intelligence_-LRB-	1
 PRP_:
 Me_-	2
 me_...	1
@@ -7173,9 +7003,6 @@ productions_showing	1
 ``_from	1
 ``_On	2
 ``_For	5
--LRB-_PRP
--LRB-_he	1
--LRB-_myself	1
 NNS_VBN
 movies_sparked	1
 features_contained	1
@@ -7197,9 +7024,6 @@ VBP_RP
 make_up	1
 ''_WRB
 ''_when	1
-FW_RB
-<br />_So	1
-<br />_Anyway	1
 ``_PRP
 ``_I	1
 ``_You	4
@@ -7236,9 +7060,6 @@ made_``	1
 ''_into	1
 ''_for	1
 ''_by	1
--RRB-_IN
--RRB-_as	1
--RRB-_out	1
 VBN_PRP$
 been_my	1
 VBD_VBN
@@ -7335,6 +7156,8 @@ on_certain	1
 with_equal	1
 IN_''
 that_''	1
+VBD_VBP
+included_consider	1
 VBN_NN
 shipped_price.One	1
 filmed_battle	1
@@ -7393,6 +7216,7 @@ Connery_does	1
 MOONRAKER_is	2
 Havelock_is	1
 Love_is	1
+Lonsdale_plans	1
 GoldenEye_is	1
 SERVICE_is	2
 DAYLIGHTS_has	1
@@ -7439,6 +7263,7 @@ Connery_continues	1
 No_dates	1
 Savalas_plays	1
 Connery_is	1
+Kiel_appears	1
 MOONRAKER_plays	2
 MOONRAKER_has	2
 Brosnan_has	1
@@ -7537,11 +7362,9 @@ NN_JJS
 film_closest	1
 NN_JJR
 nothing_less	1
-<p>_More	1
 hour_more	1
 NN_``
 wizard_``	1
-<br />_``	4
 DVD_``	1
 VBG_NNP
 starring_Roger	2
@@ -7599,15 +7422,9 @@ Yeah_!	1
 NNP_VBN
 Moneypenny_played	1
 Bond_created	1
+Blofeld_named	1
 WP_NNP
 what_Timothy	1
--LRB-_IN
--LRB-_out	1
--LRB-_of	1
--LRB-_for	1
--LRB-_at	1
--LRB-_with	1
--LRB-_in	2
 NNP_POS
 Majesty_'s	14
 Kristatos_'	1
@@ -7647,13 +7464,12 @@ theme_too	1
 Bond_finally	1
 bit_too	1
 choice_however	1
-<p>_Then	1
-<p>_Here	1
 T2_early	1
 tragedy_here	1
 movie_ever	1
 set_very	1
 film_blatently	2
+service_probably	1
 series_even	1
 climax_ever	1
 movie_just	1
@@ -7661,21 +7477,19 @@ fan_much	1
 library_regardless	1
 plot_also	1
 one_also	1
-series_here	1
+series_thankfully	1
 wit_back	1
 one_even	1
-<p>_Probably	1
 series_back	1
 collection_instead	1
 opinion_there	1
 vice_versa	1
-<p>_Finally	1
 movie_as	1
+Gun_so	1
+series_here	1
 set_later	1
 movie_alone	1
 presence_alone	1
-FW_WRB
-<br />_When	1
 JJ_IN
 sad_that	1
 Other_than	1
@@ -7816,7 +7630,6 @@ two_epic	1
 one_shot	1
 one_item	1
 one_movie	1
-1/2_<p>	3
 007_DVD	1
 3_giftset	1
 One_bit	1
@@ -7825,6 +7638,7 @@ one_film	1
 one_thing	4
 One_word	1
 007_flick	1
+1977_bond	1
 1995_documentary	1
 5_Bond	1
 007_library	1
@@ -7929,12 +7743,6 @@ seen_facts	1
 structured_films	1
 ,_WP$
 ,_whose	1
--LRB-_NN
--LRB-_OHMSS	1
--LRB-_Mono	1
--LRB-_look	1
--LRB-_Renard	1
--LRB-_Kara	1
 ,_NNP
 ,_Licence	1
 ,_Mr.	1
@@ -8047,6 +7855,7 @@ comes_with	2
 seems_that	2
 looks_like	1
 is_that	6
+gets_out	1
 makes_for	1
 keeps_on	1
 insists_on	1
@@ -8077,7 +7886,7 @@ great_idea	1
 only_place	1
 fellow_agent	1
 second_OO7	1
-last_time	3
+last_time	4
 true_Bond	1
 sexy_woman	1
 entire_DVD	1
@@ -8207,7 +8016,6 @@ popular_title	1
 forgettable_garbage	1
 Great_action	1
 great_time	1
-<p>_*	6
 great_family	1
 powerful_oponent	1
 30-degree_angle	1

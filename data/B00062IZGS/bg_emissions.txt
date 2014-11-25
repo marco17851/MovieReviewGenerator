@@ -25,20 +25,20 @@ being_amputated	1
 looking_severed	1
 VB_WP
 Guess_what	1
-FW_DT
-<br />_This	1
+VBP_TO
+have_to	1
 VBD_``
 was_``	1
 NNP_IN
 VHS_by	1
 NNS_RB
 fans_out	1
+CLASSICS_maybe	1
 years_later	1
--LRB-_VBN
--LRB-_told	1
-NNS_-LRB-
-CLASSICS_-LRB-	1
-versions_-LRB-	1
+TO_JJR
+to_worse	1
+TO_WRB
+to_when	1
 CC_JJ
 and_sound	1
 AND_UNCENSORED	2
@@ -91,8 +91,6 @@ is_typical	1
 falls_flat	1
 IN_EX
 though_there	1
--LRB-_NNP
--LRB-_DIAMOND	1
 PRP_IN
 him_in	1
 CC_RB
@@ -112,24 +110,18 @@ JJS_,
 bushiest_,	1
 WP_DT
 what_this	1
-VB_WRB
-see_why	1
 JJ_CD
 typical_70s	1
 typical_1970	1
 other_5	1
--RRB-_IN
--RRB-_as	1
+VB_WRB
+see_why	1
 PRP$_JJ
 their_one-armed	1
 your_typical	1
 my_favorite	1
 VB_VBN
 be_trapped	1
-NN_PRP
-time_they	1
-scene_I	1
-end_it	1
 IN_PRP
 of_them	1
 that_you	1
@@ -139,8 +131,8 @@ as_he	1
 against_it	2
 so_I	1
 as_it	1
--LRB-_CC
--LRB-_and	2
+''_.
+''_.	1
 VBZ_CD
 's_one	1
 NNS_WDT
@@ -154,10 +146,10 @@ its_down	1
 its_pretty	1
 its_quite	1
 Its_just	1
-NN_-RRB-
-sequence_-RRB-	1
-VIDEO_-RRB-	1
-episode_-RRB-	1
+POS_NN
+'s_blood	1
+'s_arm	1
+'_arm	1
 TO_NN
 to_night	1
 PRP_VBD
@@ -191,8 +183,6 @@ is_there	1
 comes_almost	1
 's_almost	1
 becomes_just	1
-VB_.
-babble_.	1
 NN_POS
 winner_'s	1
 DT_NN
@@ -254,6 +244,8 @@ DT_VBP
 all_know	1
 DT_VBZ
 that_'s	1
+JJR_CC
+worse_and	1
 DT_VBD
 this_was	1
 PRP_VBP
@@ -284,6 +276,8 @@ hardly_a	1
 DT_VBN
 a_severed	2
 the_severed	1
+VBZ_NNS
+has_tons	1
 WP_VBZ
 Who_is	1
 NN_MD
@@ -305,16 +299,12 @@ FW_PRP
 !!!_I	1
 DT_RBR
 no_further	1
-._-RRB-
-?_-RRB-	2
 NNP_CC
 UNCUT_and	1
 Picture_and	1
 BRENTWOOD_and	1
 DT_CD
 this_2	1
-NNP_-LRB-
-Carr_-LRB-	1
 ,_JJR
 ,_worse	1
 CC_RBR
@@ -324,6 +314,7 @@ after_,	1
 VBN_''
 done_''	1
 RBR_IN
+louder_as	1
 further_that	1
 RB_IN
 immediately_after	1
@@ -388,7 +379,6 @@ Netflix_.	1
 ,_leaving	1
 FW_FW
 VERSION_!!!	1
-<br />_<br />	2
 AROUND_!!!	1
 PRP$_NN
 my_interest	1
@@ -405,6 +395,8 @@ get_into	1
 accept_that	1
 VBG_NN
 seeking_vengeance	1
+RB_CD
+now_5	1
 JJ_VBG
 fake_looking	1
 cheap_looking	1
@@ -412,8 +404,6 @@ JJ_PRP
 bad_it	1
 NNP_VB
 Mark_find	1
-TO_WRB
-to_when	1
 JJ_,
 terrible_,	1
 healthy_,	1
@@ -421,8 +411,6 @@ good_,	1
 dull_,	1
 unwatchable_,	1
 simple_,	1
-TO_JJR
-to_worse	1
 PRP_DT
 they_all	1
 VBD_RB
@@ -446,8 +434,6 @@ saved_as	1
 offered_by	1
 trapped_in	2
 heard_of	1
--RRB-_VBZ
--RRB-_involves	1
 NNS_.
 80s_.	1
 victims_.	1
@@ -508,8 +494,8 @@ draw_strips	1
 ,_CC
 ,_and	4
 ,_but	1
--LRB-_RB
--LRB-_maybe	1
+NNP_MD
+Hollywood_should	1
 NN_NNS
 B-movie_actors	1
 DVD_versions	1
@@ -561,12 +547,12 @@ and_gore.Not	1
 and_hospital	1
 and_xylophone	1
 And_continuity	1
-VBP_TO
-have_to	1
 ,_PRP$
 ,_its	2
--RRB-_.
--RRB-_.	2
+NN_PRP
+time_they	1
+scene_I	1
+end_it	1
 VB_PRP$
 say_its	1
 lose_his	1
@@ -594,8 +580,8 @@ should_take	1
 might_remember	1
 VBD_WP
 knew_what	1
-RB_CD
-now_5	1
+NN_VBN
+film_told	1
 NNS_VBP
 friends_receive	1
 ``_DT
@@ -638,8 +624,8 @@ friends_cut	1
 guys_were	1
 NNS_VBG
 elements_working	1
-WDT_VBP
-that_get	1
+VB_.
+babble_.	1
 RP_RB
 up_not	1
 VBN_.
@@ -650,14 +636,10 @@ JJ_TO
 easy_to	1
 JJS_IN
 most_of	1
-FW_IN
-<br />_With	1
 EX_VBZ
 there_is	1
 there_'s	2
 There_'s	1
-NNS_NNP
-actors_Paul	1
 UH_.
 Wow_.	1
 TO_JJ
@@ -691,8 +673,6 @@ NNP_''
 Herman_''	1
 WRB_CD
 when_6	1
-RBR_-RRB-
-louder_-RRB-	1
 DT_NNS
 the_guys	1
 the_70s	2
@@ -767,7 +747,9 @@ film_,	1
 movie_,	1
 NN_.
 time_?	1
+episode_.	1
 vengeance_?	1
+VIDEO_.	1
 boy_!	1
 b-movie_.	1
 end_.	2
@@ -800,8 +782,6 @@ VBZ_VBG
 is_being	1
 is_running	2
 is_coming	1
-VBN_CC
-amputated_and	1
 NN_IN
 arm_of	1
 guarantee_of	1
@@ -840,15 +820,14 @@ recommend_that	1
 know_that	1
 NNP_VBD
 Version_offered	1
-JJR_-LRB-
-worse_-LRB-	1
+IN_TO
+as_to	1
 NNS_PRP
 beards_I	1
 JJR_TO
 closer_to	1
-NN_-LRB-
-film_-LRB-	1
-synthesizer_-LRB-	1
+WDT_VBP
+that_get	1
 VB_JJ
 be_good	1
 TO_VB
@@ -879,8 +858,9 @@ arm_is	1
 concept_is	1
 film_has	1
 help_comes	1
-story_starts	1
 psycho-killer_is	1
+story_starts	1
+sequence_involves	1
 film_progresses	1
 call_is	1
 film_is	2
@@ -910,6 +890,7 @@ RBS_JJ
 most_fake	1
 most_popular	1
 NN_CC
+synthesizer_and	1
 film_and	1
 paper_and	1
 cave_and	1
@@ -924,8 +905,6 @@ hilarious_.	1
 laughable_.	1
 good_.	1
 great_.	1
-IN_TO
-as_to	1
 JJ_FW
 UNCENSORED_VERSION	1
 DT_JJS
@@ -955,8 +934,6 @@ it_immediately	1
 DT_,
 this_,	1
 these_,	1
-NNP_MD
-Hollywood_should	1
 NNS_NN
 Classics_version	1
 NNP_POS
@@ -995,8 +972,9 @@ TV_Version	1
 Detective_Mark	1
 UNCENSORED_Version	1
 Mad_Herman	1
-VBZ_NNS
-has_tons	1
+NNS_NNP
+actors_Paul	1
+versions_DIAMOND	1
 RB_VBZ
 else_falls	1
 even_has	1
@@ -1070,18 +1048,16 @@ RP_IN
 around_on	1
 out_so	1
 out_with	1
-POS_NN
-'s_blood	1
-'s_arm	1
-'_arm	1
 VBZ_PRP
 calls_himself	1
 Is_it	1
-''_.
-''_.	1
+VBN_CC
+amputated_and	1
 VBN_TO
 supposed_to	1
 learned_to	1
+NNP_DT
+Carr_those	1
 PRP_VB
 you_think	1
 ,_NNP
@@ -1094,8 +1070,6 @@ looking_beards	1
 drawing_straws	1
 JJ_WP
 much_what	1
--LRB-_DT
--LRB-_those	1
 VB_RP
 make_up	1
 dig_out	1

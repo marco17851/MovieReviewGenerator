@@ -1,5 +1,3 @@
-NN_-LRB-
-BANG_-LRB-	1
 IN_NN
 from_school	1
 of_joy	2
@@ -29,9 +27,6 @@ VBN_VBN
 cut_called	1
 VBN_VBG
 been_living	1
-FW_DT
-<br />_That	1
-<br />_The	2
 CC_JJ
 and_good	1
 and_giddy	1
@@ -43,14 +38,13 @@ and_SPECIAL	1
 VBN_VBZ
 limbed_is	1
 :_WP
+--_What	1
 ..._Who	1
 RB_TO
 forward_to	1
 now_to	1
 sternly_to	1
 down_to	1
-JJS_,
-prettiest_,	1
 VBP_,
 have_,	1
 IN_``
@@ -84,8 +78,6 @@ treasures_that	1
 films_that	1
 effects_that	1
 nominations_that	1
--RRB-_FW
--RRB-_<br />	2
 DT_FW
 another_in	1
 RB_JJS
@@ -102,8 +94,6 @@ WP_VBP
 What_do	1
 RP_:
 up_...	1
--RRB-_.
--RRB-_.	2
 NNP_CC
 Rodgers_and	1
 Banks_and	2
@@ -133,8 +123,6 @@ Who_could	1
 RBS_JJ
 most_beguiling	1
 most_delightful	1
-:_NN
-:_<br />	2
 IN_PRP$
 for_your	1
 with_my	1
@@ -146,8 +134,6 @@ From_her	1
 at_my	1
 of_my	2
 with_her	1
-RB_``
-actually_``	1
 VBP_PDT
 are_all	1
 ``_NN
@@ -222,9 +208,10 @@ to_the	4
 to_no	1
 NN_CD
 joy_!!	1
-year_1910	1
-record_13	1
 circa_1964	1
+record_13	1
+BANG_1968	1
+year_1910	1
 time_!!	1
 WP_TO
 What_to	1
@@ -238,8 +225,6 @@ are_vivid	1
 RP_PRP$
 up_her	2
 off_his	1
-NN_-RRB-
-</a>_-RRB-	4
 ``_LS
 ``_v	1
 VB_NNP
@@ -317,11 +302,20 @@ sufficient_to	1
 NNS_JJ
 years_old	1
 songs_such	1
-FW_NNP
-<br />_Julie	1
-<br />_Random	1
--LRB-_DT
--LRB-_another	1
+NNP_''
+POPPINS_''	1
+Poppins_''	7
+Sugar_''	2
+King_''	1
+Lady_''	1
+Supercalifragilisticexpialidocious_''	1
+Chimpanzoo_''	1
+Birds_''	1
+Nanny_''	1
+Oz_''	1
+Victor/Victoria_''	1
+Time_''	1
+Holiday_''	1
 DT_PRP
 this_I	1
 DT_NNS
@@ -466,18 +460,21 @@ the_best	3
 DT_JJR
 a_larger	1
 NN_JJ
+</a>_<a href="http://www.amazon.com/gp/product/B000WC39ZE">	1
+year_old	2
 time_extraordinary	1
+</a>_Parenthetical	1
+</a>_<a href="http://www.amazon.com/gp/product/B000AP04OM">	1
+bonus_animated	1
 <a href="http://www.amazon.com/gp/product/B001JRB16U">_45th	1
 number_preceding	1
-bonus_animated	1
-year_old	2
 NNP_NNS
 Random_impressions	1
 Oscar_nominations	2
 Tomlinson_stars	1
 Banks_children	1
 NNP_NNP
-Arthur_Treacher	1
+Banks_Karen	1
 Van_Dyke	13
 Hermione_Baddley	1
 Chim_Chim	2
@@ -500,15 +497,19 @@ A_Spoonful	1
 Tony_Walton	1
 P.L._Travers	1
 Ed_Wynn	4
+Arthur_Treacher	1
 Reta_Shaw	1
 Hollywood_A	1
+Banks_Glynis	1
 Gala_World	1
+Marc_Breaux	1
+Again_Oscar	1
 Mary_Poppins	25
 MUSIC_SCORE	1
 Don_DaGradi	1
 Dick_Van	11
 DISNEY_VAULT	1
-Again_Oscar	1
+Poppins_Julie	1
 Glynis_Johns	3
 Michael_Banks	2
 Karen_Dotrice	3
@@ -516,14 +517,13 @@ Mr._Banks	3
 Fair_Lady	1
 MARY_POPPINS	3
 Bird_Woman	1
-Marc_Breaux	1
+Banks_David	1
 Dee_Dee	1
 Perfect_Nanny	1
 Mrs._Banks	3
 Mr._Walt	1
 Chim_Cheree	1
 Bill_Walsh	1
-<br />_Dick	1
 Chinese_Theater	1
 BEST_ACTRESS	1
 The_Sherman	1
@@ -532,6 +532,7 @@ Robert_Preston	1
 MUSIC_SONG	1
 Dee_Wood	1
 Mr._Dawes	1
+Bert_Dick	1
 Elsa_Lanchester	2
 FILM_EDITING	1
 Julie_Andrews	16
@@ -566,6 +567,7 @@ without_an	1
 in_the	10
 without_a	1
 OF_THE	1
+over_another	1
 in_all	1
 with_no	1
 without_any	1
@@ -604,10 +606,6 @@ VBZ_WRB
 is_how	1
 EX_MD
 there_would	1
--LRB-_CD
--LRB-_1968	1
--LRB-_CC
--LRB-_but	1
 RB_WRB
 away_when	1
 there_when	1
@@ -634,17 +632,15 @@ too_!	1
 too_.	1
 JJS_RB
 best_ever	1
-,_WRB
-,_how	1
+CD_CC
+one_and	1
+1965_and	1
+ten_and	1
+2_and	1
+two_and	1
 VBD_CD
 was_three	1
 was_5	1
-NNP_-RRB-
-Dyke_-RRB-	1
-Tomlinson_-RRB-	1
-Andrews_-RRB-	1
-Johns_-RRB-	1
-Garber_-RRB-	1
 NNPS_CC
 Brothers_and	1
 CC_RB
@@ -664,8 +660,6 @@ when_her	1
 when_he	1
 when_I	1
 When_I	1
-CD_-RRB-
-1968_-RRB-	1
 :_IN
 :_as	1
 ''_:
@@ -684,8 +678,8 @@ her_good	1
 her_tip-tilted	1
 My_5-year-old	1
 our_local	1
-VBD_WRB
-thought_when	1
+PRP_PRP
+it_I	1
 IN_PRP
 While_I	1
 since_they	1
@@ -718,6 +712,7 @@ within_it	1
 ,_FW
 ,_CHITTY	1
 :_NNP
+:_Dick	1
 :_BEST	1
 --_Mary	1
 PRP_VBD
@@ -894,14 +889,17 @@ she_loves	1
 he_recognizes	1
 it_invites	1
 it_'s	1
-FW_PRP
-<br />_It	2
 VBP_EX
 wish_there	1
 IN_,
 on_,	1
 IN_.
 throughout_.	1
+FW_FW
+CHITTY_CHITTY	1
+Chim_Cher-ee	1
+Chim_Chim	1
+in_awe	1
 ``_DT
 ``_A	1
 ``_The	3
@@ -918,8 +916,6 @@ yourself_,	1
 her_,	1
 them_,	1
 it_,	3
-FW_WP
-<br />_What	1
 CC_VBP
 or_do	1
 PRP_VB
@@ -936,11 +932,11 @@ prize_when	1
 daughter_when	1
 time_when	1
 son_when	1
-,_-LRB-
-,_-LRB-	1
 RP_TO
 out_to	1
 down_to	1
+NNP_PRP
+Dyke_they	1
 CC_VBD
 and_added	1
 and_was	1
@@ -970,8 +966,6 @@ classic_,	1
 human_,	1
 simple_,	1
 clear_,	1
-FW_EX
-<br />_There	1
 JJ_.
 limited_.	1
 clever_.	1
@@ -1035,23 +1029,29 @@ film_My	1
 tender_Bird	1
 Genius_Walt	1
 composer_Richard	1
-<br />_Dick	1
 Actress_Julie	1
+</a>_Julie	1
 Best_Picture	1
 friend_Bert	1
 Best_Actress	1
 classic_Disney	1
-CD_CC
-one_and	1
-1965_and	1
-ten_and	1
-2_and	1
-two_and	1
+,_JJ
+,_athletic	1
+,_crisp	1
+,_sufficient	1
+,_glowing	1
+,_many	1
+,_tuneful	1
+,_long	1
+,_loud	1
+,_candid	1
+,_WRB
+,_how	1
 IN_JJR
 on_longer	1
 with_more	1
-._-RRB-
-!_-RRB-	1
+VBD_WRB
+thought_when	1
 PRP_WRB
 me_when	1
 it_when	1
@@ -1061,10 +1061,13 @@ it_when	1
 JJR_NN
 more_soot	1
 larger_wall	1
-PRP_-LRB-
-it_-LRB-	1
-WRB_``
-when_``	1
+RB_``
+actually_``	1
+VBG_DT
+Watching_both	1
+including_the	1
+seeing_the	1
+being_a	1
 PRP_MD
 I_'d	1
 I_will	1
@@ -1145,16 +1148,8 @@ dances_around	1
 weeks_afterward	1
 EX_VBD
 there_was	1
-,_JJ
-,_athletic	1
-,_crisp	1
-,_sufficient	1
-,_glowing	1
-,_many	1
-,_tuneful	1
-,_long	1
-,_loud	1
-,_candid	1
+JJS_,
+prettiest_,	1
 DT_JJ
 a_charming	1
 the_delightful	1
@@ -1301,12 +1296,11 @@ outsings_her	1
 songs_she	1
 others_I	1
 NN_VBG
+movie_making	1
 generation_enjoying	1
+time_trying	1
 pavement_drawing	1
 adult_accompanying	1
-time_trying	1
-<br />_Seeing	1
-movie_making	1
 CC_WRB
 and_when	1
 NN_VBD
@@ -1390,7 +1384,6 @@ VB_PRP
 give_you	1
 outdo_herself	1
 think_you	1
-<br />_We	1
 love_it	1
 see_it	1
 nourish_them	1
@@ -1443,7 +1436,6 @@ finally_watched	1
 also_included	1
 FW_IN
 awe_as	1
-<br />_If	1
 CC_MD
 and_should	1
 VBD_NN
@@ -1487,7 +1479,6 @@ NN_WDT
 Cat_that	1
 song_that	1
 movie_that	1
-<br />_That	1
 masterpiece_that	2
 anything_that	1
 VB_DT
@@ -1507,7 +1498,6 @@ see_this	2
 Celebrate_the	2
 borrow_that	1
 forget_this	1
-<br />_The	1
 sing_a	1
 WRB_DT
 where_the	1
@@ -1528,8 +1518,6 @@ is_magnificent	1
 feels_good	1
 is_available	1
 is_vain	1
-JJ_-RRB-
-first_-RRB-	1
 NN_TO
 staircase_to	1
 shock_to	1
@@ -1640,12 +1628,13 @@ better_see	1
 never_forget	2
 ever_appear	1
 skillfully_choose	1
-FW_FW
-CHITTY_CHITTY	1
-Chim_Cher-ee	1
-<br />_<br />	21
-Chim_Chim	1
-in_awe	1
+IN_IN
+in_for	1
+in_from	1
+out_of	2
+if_for	1
+along_with	2
+below_if	1
 JJ_RB
 old_enough	1
 wonderful_together	1
@@ -1661,9 +1650,6 @@ badgering_my	1
 ,_fighting	1
 ,_starting	1
 ,_growing	1
--RRB-_VBZ
--RRB-_responds	1
--RRB-_is	2
 NNS_.
 X-mas_!	1
 riches_.	1
@@ -1673,6 +1659,7 @@ EFFECTS_.	1
 women_.	1
 rides_!	1
 grandkids_.	1
+times_.	1
 features_.	1
 achievements_.	1
 songs_.	1
@@ -1758,8 +1745,6 @@ one_for	3
 one_of	3
 ''_CC
 ''_and	4
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 loving_it	1
 letting_him	1
@@ -1812,8 +1797,11 @@ will_borrow	1
 RB_CD
 yet_two	1
 allegedly_one	1
--RRB-_PRP
--RRB-_they	1
+VB_VBN
+have_been	2
+have_played	1
+be_adored	1
+be_enjoyed	1
 VB_VBG
 stop_loving	1
 WRB_NNP
@@ -1844,8 +1832,6 @@ get_the	1
 live_a	1
 are_a	2
 recommend_this	1
-NNS_-RRB-
-times_-RRB-	1
 VBD_TO
 wanted_to	1
 occured_to	1
@@ -1984,11 +1970,6 @@ that_was	1
 that_Looked	1
 that_brought	1
 That_choreographed	1
-FW_JJ
-<br />_Last	1
-<br />_Related	1
-<br />_Parenthetical	1
-<br />_Other	1
 DT_,
 both_,	1
 this_,	3
@@ -2019,13 +2000,6 @@ as_much	1
 supercalifragilistically_good	1
 n't_sure	1
 Practically_perfect	2
-IN_IN
-in_for	1
-in_from	1
-out_of	2
-if_for	1
-along_with	2
-below_if	1
 NNPS_,
 Brothers_,	1
 CD_DT
@@ -2040,17 +2014,16 @@ to_Julie	2
 to_Jane	1
 TO_NNS
 to_movies	1
-VBG_DT
-Watching_both	1
-including_the	1
-seeing_the	1
-being_a	1
+WRB_``
+when_``	1
 RB_PRP
 Certainly_I	1
 then_you	1
 surely_it	1
 now_she	1
 so_he	1
+:_VBG
+:_Seeing	1
 VBZ_PRP
 thats_it	1
 gets_me	1
@@ -2082,20 +2055,21 @@ Bert_in	1
 Lane_in	1
 Dyke_without	1
 England_in	1
-Maria_in	1
+POPPINS_since	1
 Garber_as	1
 Tomlinson_as	1
 COMMENT_below	1
 Mary_that	1
 Travers_in	1
+Maria_in	1
 Oscar_for	1
 Spoonful_of	2
 Poppins_from	1
 Dyke_in	1
 Andrews_as	1
 Wizard_of	1
-POPPINS_since	1
 Wood_for	1
+Garber_for	1
 PRP$_NNS
 my_grandchildren	1
 my_eyes	1
@@ -2120,16 +2094,11 @@ seen_where	1
 ,_they	2
 FW_''
 Cher-ee_''	1
--LRB-_NNP
--LRB-_David	1
--LRB-_Dick	1
--LRB-_Glynis	1
--LRB-_Julie	1
--LRB-_Karen	1
 ,_RBS
 ,_most	1
 JJ_CC
 vivid_and	1
+first_and	1
 outstanding_and	1
 arch_and	1
 alive_and	1
@@ -2149,6 +2118,7 @@ CD_.
 1910_.	1
 1964_.	1
 40_.	1
+1968_.	1
 WRB_VBP
 when_watch	1
 POS_NN
@@ -2229,8 +2199,6 @@ to_watching	1
 NNP_``
 SONG_``	1
 Poppins_``	1
-FW_VBP
-<br />_Have	1
 TO_RB
 to_better	1
 RB_IN
@@ -2261,8 +2229,6 @@ The_1964	1
 the_four	1
 another_40	1
 a_1	1
-FW_``
-<br />_``	3
 RP_DT
 up_a	1
 away_an	1
@@ -2348,11 +2314,6 @@ Here_are	1
 merrily_chortle	1
 strongly_recommend	1
 initially_meet	1
-VB_VBN
-have_been	2
-have_played	1
-be_adored	1
-be_enjoyed	1
 VBZ_:
 highlights_:	1
 VBZ_,
@@ -2366,11 +2327,6 @@ NNS_TO
 smiles_to	1
 reasons_to	1
 thanks_to	1
--LRB-_JJ
--LRB-_<a href="http://www.amazon.com/gp/product/0792839129">	1
--LRB-_<a href="http://www.amazon.com/gp/product/6304117752">	1
--LRB-_<a href="http://www.amazon.com/gp/product/B000WC39ZE">	1
--LRB-_<a href="http://www.amazon.com/gp/product/B000AP04OM">	1
 JJ_JJ
 shaggy_white	1
 own_inspired	1
@@ -2388,12 +2344,10 @@ real_joyful	1
 VBN_PRP
 told_him	1
 seen_it	3
-:_FW
---_<br />	1
 ,_CC
 ,_and	22
 ,_or	1
-,_but	3
+,_but	4
 VB_NN
 marry_go	1
 watch_something	1
@@ -2435,10 +2389,6 @@ took_my	1
 IN_CC
 with_and	1
 on_and	1
-NNP_-LRB-
-Poppins_-LRB-	1
-Bert_-LRB-	1
-Banks_-LRB-	3
 NNS_VBD
 discs_brought	1
 grandchildren_loved	1
@@ -2448,8 +2398,6 @@ awards_including	1
 PRP_NNP
 me_Chim	1
 her_Broadway	1
--LRB-_PRP
--LRB-_I	1
 PRP_NNS
 He_dances	1
 NNS_VBN
@@ -2459,10 +2407,6 @@ are_others	1
 VBP_NNP
 love_Julie	1
 enjoy_Walt	1
-FW_RB
-<br />_So	1
-<br />_Clearly	1
-<br />_Finally	1
 VBG_WP
 ascertaining_what	1
 POS_JJ
@@ -2472,14 +2416,10 @@ POS_JJ
 's_classic	1
 '_splendid	1
 's_timeless	1
-IN_-LRB-
-over_-LRB-	1
 VBN_``
 called_``	1
 ''_IN
 ''_for	2
--RRB-_IN
--RRB-_for	1
 VBD_VBN
 were_developed	1
 had_told	1
@@ -2545,12 +2485,15 @@ lots_of	1
 costumes_that	1
 chapters_out	1
 NNP_VBZ
+Poppins_has	1
 Andrews_keeps	1
 Dyke_is	1
 Dyke_has	1
 Mary_uses	1
+Tomlinson_is	1
+Johns_is	1
 Poppins_is	1
-Poppins_has	1
+Andrews_responds	1
 VB_JJ
 bring_broad	1
 be_headstrong	1
@@ -2690,10 +2633,6 @@ RP_IN
 out_until	1
 VBN_NNS
 raved_reviews	1
--RRB-_-LRB-
--RRB-_-LRB-	2
-,_WDT
-,_which	2
 ,_NNP
 ,_Bert	1
 ,_Hermione	1
@@ -2749,20 +2688,8 @@ sails_in	1
 stars_in	1
 sings_along	2
 is_in	1
-NNP_''
-POPPINS_''	1
-Poppins_''	7
-Sugar_''	2
-King_''	1
-Lady_''	1
-Supercalifragilisticexpialidocious_''	1
-Chimpanzoo_''	1
-Birds_''	1
-Nanny_''	1
-Oz_''	1
-Victor/Victoria_''	1
-Time_''	1
-Holiday_''	1
+,_WDT
+,_which	2
 JJ_NN
 local_theatre	1
 Delightfuly_entertaining.I	1

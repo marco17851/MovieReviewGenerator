@@ -5,8 +5,6 @@ with_soundtrack	1
 ,_as	1
 VBG_VBN
 being_held	1
--LRB-_CC
--LRB-_or	1
 NNP_IN
 Director_of	1
 CC_JJ
@@ -35,27 +33,21 @@ CC_CD
 and_one	1
 CD_.
 2.35:1_.	1
+NN_JJ
+camera_negative	1
 PRP$_JJ
 his_special	1
-FW_DT
-<br />_A	1
 IN_PRP
 as_it	1
 after_it	1
 VBZ_CD
 is_2.35:1	1
-VBN_RB
-held_sometimes	1
-JJ_-LRB-
-negative_-LRB-	1
-NN_-RRB-
-soundtrack_-RRB-	1
-pass_-RRB-	1
-Panavision_-RRB-	1
-PRP_VBD
-It_was	3
 PRP_VBG
 it_being	1
+PRP_VBD
+It_was	3
+VBN_RB
+held_sometimes	1
 VBZ_RB
 looks_as	1
 DT_NN
@@ -71,10 +63,6 @@ you_are	2
 PRP_VBZ
 it_does	1
 it_looks	1
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	1
 VB_FW
 be_in	1
 NNP_CD
@@ -96,13 +84,15 @@ FW_.
 2.20:1_.	1
 NN_,
 reviewer_,	1
+Panavision_,	1
 NNP_,
 Photography_,	1
+CD_JJ
+70_65mm	1
 NNP_.
 Masterpiece_.	1
 FW_FW
 in_2.20:1	2
-<br />_<br />	3
 FW_NN
 2.20:1_aspect	1
 PRP$_NN
@@ -137,10 +127,14 @@ VBZ_.
 does_.	1
 VBP_JJ
 are_first	1
-CD_-LRB-
-70_-LRB-	1
--LRB-_JJ
--LRB-_65mm	1
+NN_IN
+refrigeration_for	1
+print_with	1
+pass_so	1
+generation_on	1
+print_in	1
+effort_of	1
+fact_that	1
 JJ_NNS
 negative_inserts	1
 straight_lenses	1
@@ -170,13 +164,12 @@ NN_NNS
 aspect_ratios	1
 RB_VBN
 not_shot	1
-IN_IN
-for_up	1
-so_that	1
 NN_PRP
 theater_you	1
 VB_PRP$
 Learn_your	1
+NNP_CC
+Cinemascope_or	1
 VBN_FW
 shot_in	1
 MD_VB
@@ -187,8 +180,6 @@ IN_CD
 that_2001	1
 PRP_MD
 I_can	1
-NNP_-LRB-
-Cinemascope_-LRB-	1
 CD_VBZ
 2001_is	1
 70_is	1
@@ -198,8 +189,6 @@ VBP_VBG
 are_watching	2
 NNS_JJ
 effects_composite	1
-FW_NNP
-<br />_A	1
 VBD_TO
 went_to	1
 ,_WDT
@@ -213,8 +202,6 @@ DT_NNP
 a_Director	1
 ,_JJ
 ,_70mm	1
--RRB-_IN
--RRB-_so	1
 DT_JJ
 the_original	2
 A_true	1
@@ -234,6 +221,7 @@ IN_JJ
 with_straight	1
 as_successive	1
 NN_.
+soundtrack_.	1
 format_.	1
 ratio_.	1
 WRB_PRP
@@ -246,19 +234,15 @@ shots_as	1
 lenses_in	1
 passes_on	1
 executions_of	1
-IN_TO
-up_to	1
 NN_CC
 year_or	1
 TO_VB
 to_be	1
 to_mention	1
-RB_RB
-never_as	1
+IN_TO
+up_to	1
 WDT_VBD
 which_was	1
--LRB-_IN
--LRB-_after	1
 DT_JJS
 the_best	1
 DT_JJR
@@ -266,10 +250,11 @@ the_cheaper	1
 NN_RB
 format_ever	1
 JJ_IN
+negative_after	1
 good_as	1
 wide_as	1
-NN_JJ
-camera_negative	1
+RB_RB
+never_as	1
 VBZ_DT
 is_a	1
 CD_NN
@@ -283,13 +268,9 @@ Visual_Masterpiece	1
 RB_JJ
 as_wide	1
 as_good	1
-NN_IN
-refrigeration_for	1
-print_with	1
-generation_on	1
-print_in	1
-effort_of	1
-fact_that	1
+IN_IN
+for_up	1
+so_that	1
 VBZ_VBN
 is_supposed	1
 NN_NN
@@ -301,8 +282,6 @@ NNP_VBD
 Kubrick_went	1
 VBG_DT
 watching_a	1
-FW_RB
-<br />_Not	1
 VBN_TO
 supposed_to	1
 VB_RB

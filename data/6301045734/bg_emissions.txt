@@ -26,8 +26,6 @@ NNS_WP
 actors_who	1
 VBN_VBD
 wounded_resigned	1
--LRB-_``
--LRB-_``	1
 VBN_VBN
 been_attracted	1
 been_born	1
@@ -39,8 +37,6 @@ Tom/Tennessee_on	1
 Woodward_as	1
 NNS_RB
 emotions_so	1
-NNS_-LRB-
-characters_-LRB-	1
 CC_JJ
 and_melancholic	1
 and_creative	1
@@ -61,20 +57,17 @@ can_not	1
 NN_WDT
 play_that	1
 hopelessness_that	1
+love_that	1
 VB_DT
 petition_a	1
 find_a	1
 do_both	1
 turn_this	1
 release_this	1
-FW_PRP
-<br />_I	2
--LRB-_CC
--LRB-_and	1
+WRB_DT
+why_this	1
 RB_TO
 not_to	1
-DT_VBG
-each_passing	1
 IN_VBG
 of_allowing	1
 than_attempting	1
@@ -104,13 +97,11 @@ access_to	1
 actress_to	1
 address_to	1
 oxygen_to	1
-WRB_DT
-why_this	1
 JJS_NNS
 best_transfers	1
-NNP_-RRB-
-Hephburn_-RRB-	1
-Waterston_-RRB-	1
+PRP_IN
+it_in	1
+us_out	1
 RBR_JJ
 more_active	1
 CC_RB
@@ -129,16 +120,13 @@ Casting_,	1
 JJ_CC
 poetic_but	1
 intense_and	1
+absurd_and	1
 sensitive_and	1
 well-meaning_but	1
 faithful_and	1
 morose_and	1
 sound_and	1
 subtle_and	1
-WDT_VBP
-which_are	1
-FW_CC
-<br />_And	2
 VBP_DT
 use_this	1
 love_these	1
@@ -158,12 +146,6 @@ VB_IN
 be_with	1
 live_inside	1
 settle_for	1
-IN_IN
-for_about	1
-as_in	1
-FW_DT
-<br />_All	1
-<br />_The	1
 IN_PRP
 of_it	1
 by_it	1
@@ -177,6 +159,8 @@ DT_PRP
 any_I	1
 VBZ_CD
 is_one	1
+NNP_WP
+Allen_who	1
 VBZ_CC
 trumps_both	1
 works_and	1
@@ -277,8 +261,6 @@ But_,	1
 DT_VBZ
 this_is	2
 This_is	4
-._-RRB-
-?_-RRB-	1
 ``_NNS
 ``_jonquils	1
 PRP$_``
@@ -316,8 +298,6 @@ the_most	1
 DT_RBR
 a_more	1
 the_more	1
--RRB-_.
--RRB-_.	2
 NNP_CC
 Wingfield_and	1
 Hepburn_and	1
@@ -333,10 +313,6 @@ actually_works	1
 perfectly_inhabits	1
 PRP_:
 it_--	1
-VBN_-RRB-
-overrated_-RRB-	1
--LRB-_DT
--LRB-_the	1
 RB_IN
 not_on	1
 rather_than	1
@@ -373,8 +349,6 @@ VBP_RB
 ``_The	2
 PRP_.
 it_.	2
-VB_VBZ
-know_is	1
 PRP_,
 I_,	1
 IN_PRP$
@@ -402,10 +376,12 @@ MENAGERIE_,	1
 CD_JJ
 two_human	1
 NNP_.
+Hephburn_.	1
 Caller_.	1
-Wingfield_.	1
 Williams_.	1
 Taylor_.	1
+Waterston_.	1
+Wingfield_.	1
 CC_VBZ
 and_lets	1
 and_avoids	1
@@ -416,10 +392,9 @@ I_also	1
 I_only	2
 them_again	1
 I_no	1
-,_-LRB-
-,_-LRB-	1
-FW_FW
-<br />_<br />	9
+IN_IN
+for_about	1
+as_in	1
 IN_WDT
 in_which	2
 PRP$_NN
@@ -439,9 +414,9 @@ but_received	1
 CC_VBG
 and_bursting	1
 ,_``
-,_``	1
-VBG_JJ
-smothering_narcissistic	1
+,_``	2
+VBG_NN
+passing_year	1
 JJ_VBG
 worth_watching	1
 JJ_PRP
@@ -480,19 +455,17 @@ perhaps_the	1
 PDT_DT
 all_the	2
 such_a	1
-''_-RRB-
-''_-RRB-	1
 VBN_IN
 manifested_in	1
 intended_in	1
 adapted_from	1
 seen_on	1
 missed_by	1
+involved_on	1
 moved_by	1
 torn_between	1
--RRB-_VBZ
--RRB-_does	1
--RRB-_achieves	1
+TO_RB
+to_really	1
 NNS_,
 players_,	1
 versions_,	1
@@ -529,13 +502,10 @@ RP_PRP$
 out_your	1
 RB_NN
 n't_someone	1
-NNP_-LRB-
-Allen_-LRB-	1
+NNS_TO
+transfers_to	1
 IN_WRB
 despite_how	1
-NN_-RRB-
-love_-RRB-	1
-camera_-RRB-	1
 VBN_NN
 Named_Desire	1
 lost_love	1
@@ -551,16 +521,18 @@ beatific_eyes	1
 special_accolades	1
 human_volcanos	1
 excellent_actors	1
-VBN_-LRB-
-involved_-LRB-	1
+,_PRP
+,_it	1
 JJ_JJ
 many_excellent	1
 downright_gloomy	1
 same_high	1
 true_cinematic	1
+inferior_sorry	1
 JJ_NNP
 great_Michael	1
 sorry_Jessica	1
+miscast_Gertrude	1
 CD_IN
 one_of	3
 JJR_IN
@@ -596,12 +568,13 @@ PRP_PDT
 it_such	1
 us_all	1
 DT_RB
+the_vastly	1
 an_especially	1
 the_infinitesimally	1
 a_much	1
-JJ_-RRB-
-absurd_-RRB-	1
-miscast_-RRB-	1
+the_wildly	1
+VBG_JJ
+smothering_narcissistic	1
 PRP$_NNS
 his_plays	1
 my_students	2
@@ -639,8 +612,8 @@ used_the	1
 ,_can	1
 :_DT
 --_a	1
-._.
-._?	1
+JJ_DT
+brilliant_the	1
 VBG_TO
 attempting_to	1
 RB_CC
@@ -673,8 +646,6 @@ have_intended	1
 NNP_MD
 Laura_can	1
 Williams_must	1
-FW_PRP$
-<br />_Her	1
 IN_CD
 of_one	1
 RB_VBG
@@ -690,9 +661,8 @@ and_acting	1
 and_desperation	1
 and_hopelessness	1
 and_wanderlust	1
-PRP_IN
-it_in	1
-us_out	1
+._.
+._?	1
 ,_DT
 ,_this	1
 ,_a	1
@@ -710,8 +680,8 @@ Woodward_is	1
 Amanda_is	2
 Tom_is	1
 Malkovich_seems	1
--RRB-_CC
--RRB-_and	1
+VB_VBZ
+know_is	1
 VBD_DT
 permeated_the	1
 received_no	1
@@ -724,8 +694,8 @@ and_live	1
 and_say	1
 VBN_.
 seen_!	1
-NNS_TO
-transfers_to	1
+POS_``
+'s_``	1
 JJ_TO
 faithful_to	1
 due_to	1
@@ -739,8 +709,8 @@ gives_oxygen	1
 ,_UH
 ,_yes	2
 ,_oh	1
-FW_IN
-<br />_Since	1
+JJS_NN
+best_film	1
 VBP_NNP
 think_Williams	1
 POS_RB
@@ -755,15 +725,12 @@ JJS_:
 best_--	1
 FW_NNP
 e.g._Katherine	1
-<br />_Though	1
 VB_.
 disappear_.	1
 dominate_.	1
 say_.	1
 VB_CC
 breathe_and	1
--RRB-_WDT
--RRB-_that	1
 NN_NN
 rate_job	1
 film_version	3
@@ -788,8 +755,6 @@ POS_JJ
 's_cultural	1
 's_intense	1
 's_frightened	1
-TO_RB
-to_really	1
 NN_VBD
 plot_was	1
 DT_NNS
@@ -825,8 +790,6 @@ the_Kazan	1
 the_VHS	1
 a_VCR	1
 the_Gentleman	1
-DT_-LRB-
-the_-LRB-	2
 ,_JJ
 ,_effective	1
 ,_sensitive	1
@@ -866,8 +829,6 @@ the_complete	1
 the_first	1
 the_semi-literate	1
 this_celebrated	1
-POS_``
-'s_``	1
 VBD_VBN
 was_preserved	1
 VBZ_IN
@@ -933,9 +894,6 @@ DVD_?	1
 storyline_.	1
 heartbreak_.	1
 reply_.	1
--RRB-_NNP
--RRB-_Katherine	1
--RRB-_Gertrude	1
 NN_IN
 vu_of	1
 atmosphere_of	1
@@ -977,8 +935,6 @@ NNP_RB
 Naughton_also	1
 Woodward_perfectly	1
 VCR_anymore	1
-VBG_NN
-passing_year	1
 WDT_VBZ
 which_gives	1
 that_is	1
@@ -1001,6 +957,7 @@ anger_and	1
 stage_and	1
 opening_and	1
 decade_and	1
+time_and	1
 poetry_and	1
 courage_and	1
 play_and	1
@@ -1010,8 +967,8 @@ nagging_and	1
 resentment_and	1
 humor_and	1
 love_and	1
-NN_-LRB-
-time_-LRB-	1
+WDT_VBP
+which_are	1
 VB_JJ
 become_available	1
 TO_VB
@@ -1042,12 +999,13 @@ WP_PRP
 what_I	2
 NN_VBZ
 remainder_is	1
+scenery_is	1
 movie_stays	1
 character_is	1
 role_is	1
 copy_is	1
 film_is	1
-scenery_is	1
+camera_does	1
 acting_is	1
 style_is	1
 revelation_is	1
@@ -1055,6 +1013,7 @@ VBD_.
 knew_?	1
 ''_VBZ
 ''_is	1
+''_achieves	1
 ''_NN
 ''_rant	1
 ''_speech	1
@@ -1081,8 +1040,6 @@ characters_--	1
 plays_-	1
 WDT_VBD
 that_permeated	1
--LRB-_IN
--LRB-_on	1
 DT_JJS
 the_best	4
 IN_WP
@@ -1112,13 +1069,10 @@ both_.	1
 NNS_NN
 gentlemen_caller	1
 students_tire	1
-,_PRP
-,_it	1
+NNS_FW
+characters_e.g.	1
 IN_EX
 out_there	1
--LRB-_RB
--LRB-_vastly	1
--LRB-_wildly	1
 NN_JJ
 anyone_interested	1
 VBZ_DT
@@ -1132,9 +1086,8 @@ is_an	1
 loves_these	1
 gives_every	1
 is_no	1
-JJ_-LRB-
-inferior_-LRB-	1
-brilliant_-LRB-	1
+DT_VBG
+each_passing	1
 ._''
 ._''	1
 VBZ_NNP
@@ -1210,8 +1163,6 @@ VBZ_,
 conveys_,	1
 VB_PRP
 alter_it	1
--LRB-_FW
--LRB-_e.g.	1
 RB_VBP
 only_wish	2
 also_capture	1
@@ -1242,20 +1193,16 @@ quite_moved	1
 ever_seen	1
 NNP_VBD
 Broadway_was	1
--LRB-_JJ
--LRB-_sorry	1
 TO_NNP
 to_Tennessee	1
 to_Joanne	1
 to_William	1
--LRB-_WP
--LRB-_who	1
 VBG_DT
 considering_the	1
 RB_PRP
 am_I	1
-JJS_NN
-best_film	1
+VBN_NNP
+overrated_Katherine	1
 MD_DT
 can_those	1
 VBZ_PRP

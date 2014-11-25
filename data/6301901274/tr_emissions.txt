@@ -60,8 +60,6 @@ WRB_DT_CD
 why_the_one	1
 JJ_NNS_PRP
 other_B-movies_it	1
-FW_FW_NNP
-<br />_<br />_Moon	1
 ,_CD_NN
 ,_2.35:1_aspect	1
 NNS_IN_VBG
@@ -111,12 +109,8 @@ JJ_IN_NNS
 rife_with_clich&eacute;s	1
 CD_VBZ_RB
 44_is_not	1
-NNP_-RRB-_CC
-Pare_-RRB-_and	1
 IN_DT_JJR
 of_the_better	1
-FW_IN_-LRB-
-THEATRES_IN_-LRB-	1
 CC_DT_NNP
 and_all_Earth	1
 ,_IN_RB
@@ -125,8 +119,6 @@ NNS_IN_PRP$
 moons_for_their	1
 NN_PRP_VBD
 DVD_I_was	1
-CD_-RRB-_,
-1989_-RRB-_,	1
 NN_VBG_NN
 minute_running_time	1
 PRP_CD_NN
@@ -138,6 +130,8 @@ RP_VBG_JJ
 up_being_non-memorable	1
 JJR_IN_JJ
 better_than_average	1
+TO_VB_JJ
+to_be_bad	1
 NN_VBZ_NNP
 CAST_IS_ALSO	1
 DT_CD_CC
@@ -307,10 +301,15 @@ JJ_NNP_,
 original_Panavision_,	1
 IN_VBG_PRP
 by_telling_us	1
+NNP_NNP_VBD
+Michael_Pare_doesn	1
 VBP_WP_IN
 are_what_save	1
-VBN_,_IN
-depleted_,_so	1
+VBP_DT_JJ
+are_the_typical	1
+give_the_good	1
+get_an_excellent	1
+get_an_interesting	1
 CC_DT_JJ
 and_the_robotic	1
 and_a_quirky	1
@@ -331,8 +330,6 @@ WDT_VBD_NNP
 WHICH_DID_SHOW	1
 IN_NNS_,
 WITH_MODELS_,	1
-``_NNP_''
-``_Evita_''	1
 NN_IN_FW
 LOT_OF_MAJOR	1
 VBD_VBN_TO
@@ -353,9 +350,8 @@ NN_VB_JJ
 t_get_many	1
 JJR_NNS_RB
 better_B-Movies_out	1
-NNP_-LRB-_NNP
-Stone_-LRB-_Michael	1
-Neal_-LRB-_Brian	1
+WDT_VBD_DT
+WHICH_WAS_A	1
 VBG_PRP_PRP
 telling_us_it	1
 DT_NN_MD
@@ -367,23 +363,16 @@ On_the_one	1
 as_a_one	1
 within_the_98	1
 on_this_one	1
-FW_FW_PRP
-<br />_<br />_I	1
+VB_JJ_.
+be_bad_.	1
 VB_IN_PRP
 wonder_whether_you	1
 NNP_VBD_CD
 Pare_doesn_&#8217;	1
-DT_NNS_VBZ
-the_shuttles_is	1
-these_moons_is	2
 NN_''_NN
 GODZILLA_''_MOVIE	1
 NNP_,_WP
 Emmerich_,_who	1
-VBG_RB_DT
-being_just_another	1
-FW_DT_NNS
-<br />_The_sets	1
 RB_VB_.
 n't_remember_.	1
 JJ_IN_RB
@@ -422,8 +411,6 @@ rather_excited_because	1
 as_interesting_as	1
 RP_TO_JJR
 on_to_bigger	1
-NNS_-LRB-_RB
-chops_-LRB-_especially	1
 CC_VBD_VBN
 but_were_misdirected	1
 MD_VB_DT
@@ -442,8 +429,6 @@ CC_NNS_IN
 and_lots_of	1
 NN_VBG_RB
 story_developing_here	1
-WDT_VBD_DT
-WHICH_WAS_A	1
 DT_NNS_VBD
 the_distributors_bypassed	1
 VBG_NNP_NNP
@@ -507,8 +492,6 @@ VBG_RP_,
 going_on_,	1
 NNP_''_VBD
 Pare_'_did	1
-''_-RRB-_,
-'_-RRB-_,	1
 RB_VBN_NN
 poorly_executed_plot	1
 RB_PRP_CD
@@ -519,9 +502,6 @@ VBZ_RBS_JJ
 is_most_evident	1
 NNS_VBP_TO
 operations_have_to	1
--LRB-_NNP_NNP
--LRB-_Michael_Pare	1
--LRB-_Brian_Thompson	1
 NNP_CD_RB
 Moon_44_no	1
 VBG_IN_VBZ
@@ -536,6 +516,8 @@ start_to_find	1
 have_to_be	1
 prefer_to_take	1
 need_to_keep	1
+NNS_DT_NNS
+performances_The_sets	1
 PRP_VBD_RB
 I_was_rather	1
 I_had_only	1
@@ -551,6 +533,8 @@ Soldier_,_Stargate	1
 Stargate_,_Independence	1
 ``_JJ_NN
 ``_GODAWFUL_GODZILLA	1
+CD_,_IN
+1989_,_AT	1
 WP_IN_DT
 what_save_this	1
 RB_VBN_PDT
@@ -568,8 +552,6 @@ NNS_,_RB
 extras_,_not	1
 NN_NN_NN
 VERY_NEET_ATTACK	1
-RB_RB_-RRB-
-necessarily_better_-RRB-	1
 VBZ_IN_NN
 turns_into_respect	1
 VBD_NNP_,
@@ -598,6 +580,8 @@ RB_RB_RB
 not_necessarily_better	1
 NN_NNS_VBZ
 gun_ships_is	1
+NNP_''_,
+Pare_'_,	1
 VBD_JJ_PRP
 was_available_I	1
 NN_RB_IN
@@ -624,8 +608,6 @@ movie_will_end	1
 move_could_mean	1
 NNP_IN_NNP
 Godzilla_with_Emmerich	1
-RB_NNS_.
-just_helicopters_.	1
 DT_MD_VB
 this_could_have	1
 VBN_JJ_IN
@@ -639,12 +621,12 @@ VBP_VBG_DT
 remember_liking_the	1
 PRP_VBD_IN
 it_seemed_like	1
+NNP_CC_CD
+Pare_and_one	1
 TO_PRP$_NN
 to_my_dismay	1
 CC_JJR_IN
 and_better_than	1
-CD_RB_JJR
-44_no_better	1
 VBG_PRP_NNS
 showing_us_scenes	1
 DT_RB_.
@@ -694,8 +676,6 @@ to_range_from	1
 to_keep_in	1
 RB_JJ_TO
 not_important_to	1
-NNP_-RRB-_RB
-Thompson_-RRB-_as	1
 DT_VBZ_DT
 this_is_a	1
 VB_JJ_NN
@@ -706,7 +686,6 @@ VB_NNS_RB
 move_events_forward	1
 FW_FW_IN
 MAJOR_THEATRES_IN	1
-<br />_<br />_So	1
 VBZ_VBG_TO
 's_going_to	1
 ,_WRB_VBP
@@ -715,8 +694,6 @@ IN_NNS_WP
 of_prisoners_who	1
 VB_NN_JJ
 bring_anything_different	1
-FW_IN_PRP
-<br />_So_we	1
 NNP_NNP_NNS
 Sci_Fi_movies	1
 NNP_NNP_NNP
@@ -729,10 +706,13 @@ AND_MICHAEL_PARE	1
 BETTER_THAN_ROLAND	1
 BLUIT_MINIATURE_LANDSCAPES	1
 MALCOLM_MCDOWELL_AND	1
+&#8217;_Neal_Brian	1
 HAND_BLUIT_MINIATURE	1
 Jake_O_&#8217;	1
 O_&#8217;_Neal	1
 ANY_SCI-FICTION_FAN	1
+Neal_Brian_Thompson	1
+Stone_Michael_Pare	1
 THEY_DID_IT	1
 OLD_FASHIONED_WAY	1
 TOO_THIS_MOVIE	1
@@ -757,6 +737,7 @@ NNP_,_PRP
 GOOD_,_YOU	1
 NNP_RB_RB
 McDowell_too_much	1
+Thompson_as_well	1
 IN_NNP_,
 by_Devlin_,	1
 as_Tyler_,	1
@@ -806,8 +787,6 @@ experience_as_pilots	1
 board_of_directors	1
 VBG_IN_PRP
 dealing_with_them	1
--LRB-_CC_RB
--LRB-_but_not	1
 VBG_JJ_,
 being_non-memorable_,	1
 RB_,_VBZ
@@ -840,8 +819,6 @@ RB_JJ_RB
 pretty_cool_even	1
 TO_VB_,
 to_hate_,	1
-NNS_NNS_-LRB-
-prisoner/pilots_chops_-LRB-	1
 IN_MD_VB
 than_could_be	1
 RB_RB_IN
@@ -856,8 +833,6 @@ DT_JJ_CD
 the_main_one	1
 DT_JJ_CC
 a_quirky_yet	1
-CD_NN_IN
-&#8217;_t_for	1
 NN_CC_VBP
 nothing_but_give	1
 NNS_WRB_PRP
@@ -886,6 +861,7 @@ difficult_,_each	1
 JJ_NNS_DT
 good_guys_a	1
 bad_guys_a	1
+standard_performances_The	1
 VB_IN_RB
 explain_that_away	1
 CC_PRP$_JJ
@@ -895,8 +871,8 @@ I_would_definitely	1
 I_'ll_just	1
 JJR_IN_MD
 more_than_could	1
-FW_NNP_CD
-<br />_Moon_44	1
+``_NNP_''
+``_Evita_''	1
 NNP_NNP_''
 Michael_Pare_'	2
 NN_IN_NN
@@ -919,14 +895,10 @@ MD_VB_.
 should_have_.	1
 RP_RB_.
 off_perfectly_.	1
-FW_PRP_VBP
-<br />_I_think	1
 ,_JJR_IN
 ,_more_than	1
-NN_VBZ_IN
-storytelling_makes_for	1
-movie_is_that	1
-movie_comes_out	1
+VBZ_VBN_JJ
+has_seen_numerous	1
 DT_NN_NN
 all_mining_bases/station	1
 the_movie_worth	1
@@ -950,6 +922,8 @@ when_it_would	1
 VBN_,_CC
 lost_,_but	1
 resolved_,_but	1
+NNP_DT_VB
+THEY_BOTH_GIVE	1
 CC_RB_DT
 but_just_a	1
 or_not_a	1
@@ -1003,8 +977,8 @@ very_strong_character	1
 truly_great_movie	1
 very_mixed_bag	1
 exceptionally_poor_release	1
-NN_WRB_PRP
-day_when_it	1
+''_,_CC
+'_,_and	1
 WRB_MD_PRP
 When_will_they	1
 RB_JJ_.
@@ -1034,8 +1008,6 @@ s_downright_excellent	1
 way_too_stereotypical	1
 IN_DT_IN
 For_those_of	1
--LRB-_VB_RP
--LRB-_Check_out	1
 ,_VBG_JJ
 ,_giving_specific	1
 VBD_RB_TO
@@ -1095,6 +1067,8 @@ PRP_VBD_VBG
 they_kept_showing	1
 NNP_WP_PRP
 Stone_what_he	1
+NN_WRB_PRP
+day_when_it	1
 ,_JJ_NN
 ,_BAD_MOVIE	1
 ,_great_acting	1
@@ -1126,11 +1100,10 @@ IN_NNS_WDT
 for_characters_that	1
 NNP_DT_NNP
 IT_THE_OLD	1
-NNP_DT_VB
-THEY_BOTH_GIVE	1
-FW_DT_NN
-<br />_The_movie	1
-<br />_The_acting	1
+IN_NNS_IN
+from_raiders_by	1
+JJR_CC_RB
+bigger_but_not	1
 NNS_VBZ_RB
 moons_is_very	1
 shuttles_is_really	1
@@ -1182,8 +1155,9 @@ VB_VBN_JJ
 have_been_interested	1
 DT_PRP_MD
 those_you_'ll	1
-NNP_NNP_VBD
-Michael_Pare_doesn	1
+NNP_NNP_RB
+Dean_Devlin_however	1
+Brian_Thompson_as	1
 IN_NN_EX
 For_instance_there	1
 NNP_,_CC
@@ -1204,8 +1178,6 @@ DT_RB_RB
 A_so_so	1
 JJ_NNP_NNP
 so-so_Sci_Fi	1
-TO_JJR_-LRB-
-to_bigger_-LRB-	1
 DT_RB_JJ
 a_pretty_bad	1
 a_truly_great	1
@@ -1231,8 +1203,8 @@ a_reason_to	2
 an_opportunity_to	1
 the_way_to	1
 an_investigator_to	1
--RRB-_NNS_,
--RRB-_things_,	1
+UH_RB_:
+Oh_well_...	1
 RB_VBD_CC
 also_produced_and	1
 VBP_:_CC
@@ -1341,6 +1313,7 @@ Devlin_however_gives	1
 NNP_NNP_CD
 Malcolm_McDowell_&#8217;	1
 NNP_NNP_CC
+Michael_Pare_and	1
 Leon_Rippy_and	1
 Malcolm_McDowell_and	1
 DT_JJR_NN
@@ -1492,8 +1465,6 @@ a_company_.	1
 the_road_.	1
 PRP_VBP_:
 I_guess_...	1
-NNP_NNP_.
-Stephen_Geoffreys_.	1
 RB_IN_PRP
 not_that_they	2
 Now_that_you	1
@@ -1518,8 +1489,6 @@ PRP_MD_CD
 I_can_&#8217;	1
 JJ_PRP_MD
 available_I_would	1
-JJR_-LRB-_CC
-bigger_-LRB-_but	1
 VBG_DT_NNS
 busting_the_prisoner/pilots	1
 WDT_RB_VBZ
@@ -1624,8 +1593,6 @@ with_his_tough-guy	1
 for_their_mineral	1
 NNS_RB_.
 events_forward_.	1
-NNP_NNP_-LRB-
-&#8217;_Neal_-LRB-	1
 VB_IN_.
 come_by_.	1
 VBG_JJ_NNS
@@ -1639,8 +1606,8 @@ one_of_the	2
 one_of_those	1
 DT_NN_PRP
 the_terrain_they	1
-FW_DT_JJ
-<br />_The_first	1
+NNP_NNP_.
+Stephen_Geoffreys_.	1
 RB_JJR_TO
 still_better_to	1
 VBG_TO_VB
@@ -1679,8 +1646,6 @@ VERY_,_VERY	1
 nil_,_none	1
 DT_VBG_RB
 some_running_around	1
-NNS_FW_FW
-performances_<br />_<br />	1
 NN_PRP_MD
 terrain_they_will	1
 mind_you_can	1
@@ -1782,6 +1747,8 @@ NNP_NNP_NNPS
 Dances_With_Wolves	1
 RB_PRP_MD
 So_I_'ll	1
+TO_JJR_CC
+to_bigger_but	1
 NNP_TO_VB
 THERE_TO_SEE	1
 VBD_RB_RB
@@ -1810,6 +1777,8 @@ VB_NN_.
 scan_format_.	2
 scan_transfer_.	1
 mean_death_.	1
+FW_IN_CD
+THEATRES_IN_1989	1
 VBN_IN_PRP
 dangled_before_us	1
 ,_CC_VBD
@@ -1871,8 +1840,6 @@ PRP_,_CC
 them_,_and	1
 RB_RB_NN
 so_so_movie	1
--RRB-_RB_RB
--RRB-_as_well	1
 WP_CD_NN
 what_&#8217;_s	1
 ,_RB_RB
@@ -1893,8 +1860,9 @@ it_'s_the	1
 NN_VBZ_NN
 movie_is_fun	1
 THIS_IS_MOVIE	1
-VBP_._-RRB-
-mean_._-RRB-	1
+DT_NNS_VBZ
+the_shuttles_is	1
+these_moons_is	2
 VBP_PRP_VBP
 think_I_fall	1
 IN_DT_JJ
@@ -2016,18 +1984,16 @@ average_special_effects	1
 few_standard_performances	1
 NNS_CC_PRP$
 pilot/convicts_and_their	1
-RB_-RRB-_NNS
-better_-RRB-_things	1
-,_WDT_VBZ
-,_which_means	1
 NNP_NNS_IN
 Fi_movies_over	1
 VBP_DT_NNS
 have_the_problems	1
 VBZ_RB_PRP$
 is_not_your	1
-VBZ_VBN_JJ
-has_seen_numerous	1
+NN_VBZ_IN
+storytelling_makes_for	1
+movie_is_that	1
+movie_comes_out	1
 WP_PRP_VBZ
 what_he_has	1
 CC_VB_JJ
@@ -2072,8 +2038,10 @@ RB_NNP_NNP
 especially_Felix_Stone	1
 CD_JJ_NN
 One_wrong_move	1
-IN_NNS_IN
-from_raiders_by	1
+IN_CD_,
+IN_1989_,	1
+NNS_NNS_RB
+prisoner/pilots_chops_especially	1
 IN_RB_JJ
 with_very_few	1
 by_very_strong	1
@@ -2149,8 +2117,6 @@ RB_VBG_RB
 basically_going_nowhere	1
 NN_WDT_RB
 back-story_that_far	1
--RRB-_,_IN
--RRB-_,_AT	1
 DT_NN_POS
 some_pilot_'s	1
 CD_CC_VB
@@ -2193,10 +2159,6 @@ of_time_dealing	1
 PRP_VBD_CD
 you_won_&#8217;	1
 it_wasn_&#8217;	1
-IN_NNP_-LRB-
-between_Stone_-LRB-	1
-JJ_NNS_FW
-standard_performances_<br />	1
 DT_CD_IN
 a_one_of	1
 NN_IN_DT
@@ -2283,8 +2245,8 @@ NNP_,_DT
 McDowell_,_another	1
 Tyler_,_the	1
 FAN_,_THE	1
--RRB-_CC_CD
--RRB-_and_one	1
+VBG_RB_DT
+being_just_another	1
 CC_WRB_VBP
 and_why_do	1
 VBZ_WRB_DT
@@ -2306,16 +2268,12 @@ spends_an_awful	1
 outshines_the_main	1
 is_the_main	1
 is_a_low	1
-VBP_DT_JJ
-are_the_typical	1
-give_the_good	1
-get_an_excellent	1
-get_an_interesting	1
+VBN_,_IN
+depleted_,_so	1
 VBG_RB_IN
 flying_around_in	1
-FW_FW_DT
-<br />_<br />_The	4
-<br />_<br />_All	1
+IN_IN_DT
+out_of_the	1
 NN_CC_DT
 drama_and_this	1
 moon_and_the	1
@@ -2325,8 +2283,8 @@ PRP_RB_VBZ
 it_still_sits	1
 ,_RB_VBN
 ,_well_executed	1
--RRB-_,_CC
--RRB-_,_and	1
+CD_NN_IN
+&#8217;_t_for	1
 NN_VBD_VBN
 line_were_dangled	1
 movie_got_bogged	1
@@ -2360,8 +2318,8 @@ your_average_B-movie	1
 their_last_moon	1
 JJ_CD_.
 main_one_.	1
-UH_RB_:
-Oh_well_...	1
+CD_RB_JJR
+44_no_better	1
 VBD_CD_NN
 isn_&#8217;_t	1
 doesn_&#8217;_t	1
@@ -2439,8 +2397,6 @@ VB_PDT_DT
 do_such_a	1
 VB_IN_JJ
 get_as_many	1
-FW_DT_IN
-<br />_All_in	1
 NNS_VBP_IN
 performances_come_from	1
 sets_look_like	1
@@ -2505,8 +2461,6 @@ VBP_IN_NN
 keep_in_mind	1
 CD_IN_PRP
 &#8230;_if_you	1
-NNP_''_-RRB-
-Pare_'_-RRB-	1
 NN_FW_FW
 performance_didn_&#8217;	1
 UH_NN_,
@@ -2518,8 +2472,6 @@ to_other_B-movies	1
 VBP_IN_NNP
 say_with_Moon	1
 come_from_Leon	1
--LRB-_RB_NNP
--LRB-_especially_Felix	1
 VBG_CD_IN
 watching_&#8230;_if	1
 NN_NN_IN
@@ -2571,6 +2523,7 @@ TO_NN_TO
 to_space_to	1
 RB_RB_NNS
 still_just_helicopters	1
+necessarily_better_things	1
 IN_DT_NNP
 AT_THE_VERY	1
 RB_VBP_NN
@@ -2633,6 +2586,7 @@ IN_NNP_NNP
 by_Michael_Pare	1
 by_Stephen_Geoffreys	1
 by_Malcolm_McDowell	1
+between_Stone_Michael	1
 by_Roland_Emmerich	1
 FOR_ANY_SCI-FICTION	1
 of_Sci_Fi	1
@@ -2658,16 +2612,14 @@ think_this_could	1
 CC_NN_NN
 and_character_development	1
 or_case_insert	1
-IN_IN_DT
-out_of_the	1
+,_WDT_VBZ
+,_which_means	1
 PRP_,_RB
 us_,_much	1
 RB_DT_FW
 just_another_clich&eacute;d	1
 NN_CC_VBD
 movie_and_looked	1
-IN_-LRB-_CD
-IN_-LRB-_1989	1
 PRP_RB_VBP
 I_always_enjoy	1
 RB_VB_TO
@@ -2676,8 +2628,6 @@ VB_NN_IN
 want_revenge_of	1
 VBZ_IN_DT
 seems_like_a	1
-VB_JJ_.
-be_bad_.	1
 NN_NNS_.
 chapter_stops_.	1
 ATTACK_HELICOPTERS_.	1
@@ -2771,8 +2721,6 @@ NN_CC_NN
 plot_and_script	1
 trailer_or_case	1
 story_and_character	1
--LRB-_CD_-RRB-
--LRB-_1989_-RRB-	1
 VBD_IN_DT
 heard_that_this	1
 JJ_TO_DT
@@ -2817,11 +2765,10 @@ VBZ_CD_IN
 is_one_of	1
 WDT_VBD_RB
 that_were_not	1
-NNP_NNP_-RRB-
-Brian_Thompson_-RRB-	1
-Michael_Pare_-RRB-	1
-NNP_NNP_RB
-Dean_Devlin_however	1
+RB_NNS_.
+just_helicopters_.	1
+RB_NNS_,
+better_things_,	1
 RB_PRP_VBZ
 Maybe_it_'s	1
 Apparently_it_'s	1
@@ -2847,8 +2794,8 @@ RB_PRP_VBP
 Still_I_prefer	1
 together_they_determine	1
 then_I_suppose	1
-TO_VB_JJ
-to_be_bad	1
+NNS_RB_NNP
+chops_especially_Felix	1
 RB_RB_DT
 not_even_a	1
 IN_JJ_CC

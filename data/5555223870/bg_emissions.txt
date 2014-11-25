@@ -3,8 +3,8 @@
 ,_with	1
 ,_although	1
 ,_as	1
-FW_DT
-<br />_The	1
+DT_RB
+a_bit	1
 DT_,
 this_,	1
 NNP_IN
@@ -55,10 +55,8 @@ way_to	2
 siege.According_to	1
 DT_IN
 some_of	2
--LRB-_NNP
--LRB-_Republic	1
-NNP_-RRB-
-Georgia_-RRB-	1
+PRP_IN
+it_during	1
 CC_RB
 and_even	1
 VBN_,
@@ -156,10 +154,6 @@ she_loves	1
 it_gives	1
 it_'s	2
 itself_is	1
-FW_PRP
-<br />_I	1
--RRB-_.
--RRB-_.	1
 NNP_CC
 Christianity_and	1
 Hollywood_and	1
@@ -201,13 +195,12 @@ Georgia_,	1
 Repentance_,	1
 Andzhaparidze_,	1
 NNP_.
-Georgia_.	1
+Georgia_.	2
 CC_VBZ
 and_has	1
 and_predicts	1
 and_advises	1
 FW_FW
-<br />_<br />	2
 Souram_Fortress	1
 IN_WDT
 in_which	1
@@ -219,8 +212,6 @@ VB_PRP
 protect_it	1
 JJ_PRP
 worth_it	1
-VBP_VBN
-are_shown	1
 JJ_,
 interesting_,	1
 JJ_.
@@ -332,16 +323,12 @@ VBP_VBZ
 assume_is	1
 IN_CD
 in_60	1
-DT_RB
-a_bit	1
 CC_NN
 &_w	1
-PRP_IN
-it_during	1
 ,_DT
 ,_this	1
-NNP_-LRB-
-GruziaFilm_-LRB-	1
+VBP_VBN
+are_shown	1
 NNP_VBZ
 Scherbatyuk_is	1
 NNS_VBD
@@ -516,11 +503,11 @@ it_off	1
 VBZ_NNP
 is_Paradjanov	1
 NNP_NNP
-<p>_Parajanov	1
 Svetlana_Scherbatyuk	1
 Suram_Fortress	1
 Veriko_Andzhaparidze	1
 Ancient_Georgia	1
+GruziaFilm_Republic	1
 RB_VBZ
 finally_returns	1
 constantly_collapses	1

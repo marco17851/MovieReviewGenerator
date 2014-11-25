@@ -22,9 +22,6 @@ instead_a_great	1
 not_a_serious	1
 always_an_American	1
 simply_the_romantic	1
--RRB-_IN_DT
--RRB-_from_an	1
--RRB-_as_the	1
 ,_DT_NNS
 ,_the_rebels	1
 ,_the_viewers	1
@@ -44,8 +41,6 @@ us_;_the	1
 RB_VBG_CC
 particularly_moving_and	1
 only_understanding_but	1
-NNP_VBD_FW
-Tom_realized_<br />	1
 NNS_CC_NNS
 Gods_&_Generals	1
 guns_and_cannons	1
@@ -67,28 +62,12 @@ UH_RB_,
 Oh_well_,	1
 NNS_JJ_NNS
 soldiers_American_tactics	1
--LRB-_CC_RB
--LRB-_and_always	1
 VBP_,_IN
 forget_,_if	1
 ,_IN_PRP$
 ,_in_my	1
-,_IN_FW
-,_from_<br />	1
 FW_FW_NNP
-<br />_<br />_Tony	1
-<br />_<br />_Algren	1
-<br />_<br />_Overall	1
-<br />_<br />_Ken	1
-<br />_<br />_Story	1
-<br />_<br />_Edward	1
 samurai_lord_Katsumoto	1
-<br />_<br />_Hiroyuki	1
-<br />_<br />_Though	1
-<br />_<br />_First	1
-<br />_<br />_Tom	2
-FW_FW_NNS
-<br />_<br />_people	1
 NNS_IN_VBG
 times_by_throwing	1
 troops_in_destroying	1
@@ -122,14 +101,13 @@ NN_PRP_VBP
 problem_I_have	1
 complaint_I_have	1
 celebration_they_are	1
+hand_I_know	1
 battle_they_are	1
-<p>_I_admit	1
 promo_we_get	1
-<p>_I_think	1
 audience_I_'ve	1
+Award_I_'m	1
 moment_they_wake	1
 player_I_'ve	1
-<p>_I_intend	1
 NN_RB_VBZ
 army_prematurely_attacks	1
 movie_really_fits	1
@@ -172,7 +150,6 @@ time_he_stepped	1
 lord_he_grew	1
 movie_I_saw	1
 system_you_got	1
-<p>_I_thought	3
 masterpiece_it_had	1
 way_he_saw	1
 NN_RB_VBN
@@ -185,12 +162,6 @@ VBP_PRP_.
 watch_it_.	1
 VBP_PRP_,
 know_it_,	1
--RRB-_NN_PRP
--RRB-_!!_I	1
-VBZ_FW_FW
-is_<br />_<br />	1
--LRB-_VBN_IN
--LRB-_portrayed_by	1
 NNS_MD_RB
 folks_wo_n't	1
 CC_NN_JJ
@@ -206,6 +177,8 @@ Death_to_full	1
 ,_whose_dimes	1
 NNS_VBG_NN
 film?s_leading_man	1
+''_VBZ_IN
+'_is_in	1
 VB_VBN_CC
 be_overrated_and	1
 VBD_DT_NN
@@ -265,6 +238,7 @@ substantial_amount_of	1
 intricate_demonstration_of	1
 different_culture_along	1
 native_homeland_of	1
+high_definition_whether	1
 little_bid_of	1
 blu-ray_version_of	1
 doesnt_die_at	1
@@ -361,14 +335,13 @@ POS_JJS_NN
 's_best_work	1
 's_best_performance	1
 DT_NNP_CC
+The_Samurai_or	1
 The_Archer_vs	1
 the_Samurai_and	7
 the_Producer_and	1
 the_Emperor_and	1
 VBN_IN_``
 been_in_``	1
-NN_''_FW
-Patriot_''_!!	1
 DT_NN_TO
 the_movie_to	1
 a_champion_to	1
@@ -422,10 +395,11 @@ this_movie_shined	1
 the_soundtrack_was	1
 this_movie_took	1
 this_movie_was	2
-RB_RB_NN
-very_well_<br />	1
+NNP_NNP_:
+The_Story_:	1
 NN_:_IN
 story_-_between	1
+downside_:_If	1
 RB_WRB_NNS
 there_where_peoples	1
 IN_VBG_``
@@ -480,7 +454,6 @@ this_site_is	1
 VBG_NN_.
 exacting_detail_.	1
 NN_NN_:
-<p>_Acting_-	1
 samurai_culture_-	1
 love_story_-	1
 NNS_NN_IN
@@ -497,13 +470,8 @@ this_movie_are	1
 the_samurai_are	1
 VBP_``_NNP
 are_``_Samurai	1
-NNS_VBP_-RRB-
-epics_go_-RRB-	1
 IN_PRP$_CD
 in_my_70	1
--RRB-_VBZ_DT
--RRB-_believes_this	1
--RRB-_plays_the	1
 VBD_VBN_IN
 was_created_by	1
 'd_committed_in	1
@@ -523,9 +491,9 @@ samurai_is_to	1
 film_appears_to	1
 prediction_proves_to	1
 film_seems_to	1
-FW_FW_WRB
-goooood_!!!_Why	1
-<br />_<br />_When	1
+RB_VBP_.
+even_imagine_.	1
+really_want_?	1
 IN_JJS_NN
 for_best_actor	1
 IN_WP_DT
@@ -563,14 +531,12 @@ DT_CC_VBN
 all_but_forgotten	1
 VB_DT_VB
 shed_a_tear	1
-FW_NNP_RB
-<br />_Algren_then	1
-<br />_Though_only	1
+VBD_,_CC
+symbolized_,_and	1
 IN_NN_NN
 on_Samurai?s_performance	1
 of_Academy_Award	1
 for_Best_Actor	1
-as_<br />_captain	1
 of_movie_mogul	1
 on_earth_anyone	1
 than_eye_candy	1
@@ -591,6 +557,8 @@ ways_alive_.	1
 NN_,_PRP
 R_,_it	1
 film_,_you	2
+role_,_I	1
+story_,_he	1
 analysis_,_we	1
 movie_,_he	1
 samurai_,_he	2
@@ -614,8 +582,6 @@ course_,_it	1
 DT_VBN_NN
 any_educated_man	1
 an_updated_version	1
-NNP_-LRB-_VB
-Goldwyn_-LRB-_think	1
 PRP_MD_.
 he_could_.	1
 CC_NN_VBG
@@ -644,19 +610,19 @@ definitely_be_raising	1
 JJR_IN_NN
 more_about_samurai	1
 more_than_eye	1
-NN_JJS_NNS
-<br />_best_movies	1
+PRP$_NN_''
+his_time_'	1
 VBP_JJ_JJ
 are_numerous_American	1
 see_numerous_black	1
-RB_JJ_-RRB-
-supprisingly_good_-RRB-	1
 IN_VBG_CD
 after_hitting_three	1
 PRP$_NN_NN
 his_country_stand	1
 his_withdrawl_scene	1
 my_HD_DVD	1
+JJ_:_DT
+interesting_..._Another	1
 PRP_VBZ_NNP
 he_meets_Katsumoto	1
 He_plays_Nathan	1
@@ -722,8 +688,6 @@ old_scholars_rather	1
 `_instead_of	1
 JJ_IN_JJS
 confident_that_most	1
-FW_FW_JJR
-<br />_<br />_Smaller	1
 RP_VBG_NNP
 up_speaking_English	1
 ``_VB_DT
@@ -736,6 +700,7 @@ DT_NNS_IN
 the_numbers_as	1
 those_thoughts_in	1
 the_times_by	1
+these_days_unless	1
 the_forests_of	1
 the_criticisms_for	1
 the_producers_for	1
@@ -760,6 +725,8 @@ the_ways_of	1
 the_details_as	1
 NNPS_NN_VBP
 Revolutions_couldn?t_compete	1
+''_VBN_VBG
+''_recieved_including	1
 VBN_IN_DT
 scarred_by_the	1
 lead_by_a	1
@@ -790,16 +757,19 @@ used_in_this	1
 associated_as_the	1
 amazed_by_the	1
 spent_in_the	1
+PRP$_PRP$_JJ
+his_his_cold	1
 VBD_``_DT
 thought_``_The	1
--RRB-_CC_PRP
--RRB-_but_I	1
+VBN_JJR_CC
+demanded_more_but	1
 RB_DT_NNP
 However_the_Emperor	1
 then_any_Hollywood	1
 easily_the_Samurai	1
 n't_The_Godfather	1
 NNP_NNP_JJ
+Tony_Goldwynn_ready	1
 Tom_Cruise_doesnt	1
 FW_NN_TO
 cant_wait_to	1
@@ -847,20 +817,15 @@ Later_on_,	1
 only_that_,	1
 RB_IN_.
 not_as_?	1
-:_NN_TO
-..._<p>_To	1
 VBD_PRP_.
 beheaded_him_.	1
 recomend_it_.	1
 VBD_PRP_,
 guessed_it_,	1
 FW_IN_DT
-<br />_After_the	1
 !!!_Despite_this	1
 me_of_the	1
 oneself_for_the	1
-<br />_By_the	1
-<br />_into_a	1
 DT_FW_FW
 the_samurai_lord	1
 VBP_TO_VB
@@ -881,6 +846,7 @@ POS_NN_TO
 NNP_VBD_PRP
 'd_expected_it	1
 Academy_awarded_it	1
+Tom_realized_he	1
 Cruise_said_it	1
 ,_CC_WP
 ,_but_who	1
@@ -893,8 +859,6 @@ VBG_IN_VBG
 raging_between_honoring	1
 JJR_CC_PRP
 kosher_but_it	1
--RRB-_,_VBZ
--RRB-_,_despies	1
 CC_NNS_TO
 and_arrows_to	1
 RB_VB_JJ
@@ -903,8 +867,6 @@ just_love_ole	1
 n't_think_much	1
 n't_come_full	1
 not_have_many	1
-NN_:_FW
-lowdown_:_<br />	1
 IN_RB_NNS
 if_not_thousands	1
 ,_IN_CD
@@ -916,8 +878,8 @@ who_will_have	1
 who_would_be	1
 CC_VBP_TO
 but_fail_to	1
-NNP_-RRB-_CC
-Nakamura_-RRB-_and	1
+POS_VBG_,
+'s_coming_,	1
 :_VB_VB
 :_go_see	1
 RB_RB_RB
@@ -958,27 +920,30 @@ VBZ_JJR_IN
 is_more_about	1
 pushes_more_for	1
 VB_RB_CC
-<br />_Slowly_but	1
 watch_again_and	1
 :_NN_IN
-:_<p>_If	1
 -_Evident_in	1
 CC_DT_NNP
 but_the_Samurai	1
 and_the_Director	1
-CC_JJ_,
-and_semi-conscious_,	1
-And_right_,	1
+DT_MD_VB
+this_may_be	1
+some_may_have	1
+this_will_teach	1
+this_would_look	1
+a_must_see	1
+some_may_note	1
+This_would_have	1
+those_can_be	1
+some_might_say	1
 VBN_JJ_IN
 held_captive_by	2
 taken_captive_by	1
 IN_JJ_NNPS
 of_native_Americans	1
-FW_DT_JJ
-<br />_The_Last	1
-<br />_the_corrupt	1
--LRB-_PRP$_NN
--LRB-_My_favorite	1
+NNP_TO_DT
+Jersey_to_the	1
+Kyoto_to_a	1
 NN_''_TO
 outsider_''_to	1
 CC_NNS_NNS
@@ -996,8 +961,6 @@ NN_NNS_RB
 samurai_ideals_rather	1
 battle_scenes_never	1
 fighting_sequences_also	1
-NNP_IN_-RRB-
-Robbins_though_-RRB-	1
 VB_``_NNP
 get_``_Lock	1
 JJ_JJ_,
@@ -1078,12 +1041,14 @@ a_DVD_on	1
 an_era_of	1
 no_difference_between	1
 the_failure_of	1
+the_country_into	1
 a_book_about	1
 a_misinterpretation_of	1
 a_period_in	1
 a_panel_of	1
 the_music_by	1
 a_army_of	1
+the_warrior_from	1
 that_category_for	1
 a_job_for	1
 a_victim_at	1
@@ -1211,7 +1176,6 @@ culture_was_virtually	1
 movie_was_beautifully	1
 ending_was_totally	1
 movie_did_n't	1
-<br />_performed_yet	1
 one_looked_quite	1
 film_was_also	1
 movie_shined_brightly	1
@@ -1231,8 +1195,8 @@ sure_that_everything	1
 sure_that_plenty	1
 true_in_order	1
 beautiful_in_HD	1
-NNP_-RRB-_NNP
-Space_-RRB-_Though	1
+``_DT_NNP
+``_THE_LAST	2
 CC_VBN_.
 and_captured_.	1
 and_intrigued_.	1
@@ -1256,17 +1220,12 @@ will_the_more	1
 NNP_CC_RB
 Samurai_and_not	1
 River_but_recently	1
-VBD_PRP_VBD
-thought_it_looked	1
-thought_it_was	1
 VBD_``_JJ
 had_``_Raging	1
 ,_PRP$_NN
 ,_his_army	1
 ,_his_performance	1
 ,_my_embarrassment	1
-,_NN_MD
-,_TLS_will	1
 NN_VBD_NN
 movie_took_place	1
 performance_fell_nothing	1
@@ -1277,6 +1236,7 @@ had_to_expect	1
 promised_to_be	1
 wanted_to_pull	1
 had_to_be	1
+ordered_to_kill	1
 bothered_to_go	1
 had_to_crank	1
 failed_to_follow	1
@@ -1313,8 +1273,8 @@ brings_humor_and	1
 is_action_and	1
 JJ_VB_RP
 slight_let_down	1
-FW_NNP_IN
-<br />_First_of	1
+PRP_:_PRP
+me_;_it	1
 PRP$_NN_WDT
 her_material_that	1
 their_life_that	1
@@ -1334,6 +1294,7 @@ blending_of_cultures	1
 number_of_arrows	1
 NN_IN_NNP
 Battle_of_Little	1
+essence_of_Mel	1
 thought_of_Tom	1
 top_for_Tom	1
 story_of_Captain	1
@@ -1376,8 +1337,6 @@ music_by_Hans	1
 tradition_as_Dances	1
 place_between_Algren	1
 Evident_in_Shogun	1
-NN_NN_-RRB-
-family_fare_-RRB-	1
 VBD_IN_IN
 walked_out_of	1
 VBP_RB_VBG
@@ -1432,9 +1391,8 @@ not_only_by	1
 as_far_as	1
 right_now_on	1
 However_instead_of	1
-IN_NN_-RRB-
-of_course_-RRB-	1
-in_essence_-RRB-	1
+NN_WRB_JJ
+class_when_many	1
 RB_,_VBD
 again_,_had	1
 however_,_failed	1
@@ -1456,7 +1414,6 @@ year_riding_the	1
 emperor_receiving_the	1
 soldier_confronting_each	1
 money_renting_a	1
-<br />_Being_a	1
 disc_containing_a	1
 time_maintaining_a	1
 time_watching_this	1
@@ -1491,6 +1448,7 @@ go_from_here	1
 PRP_VBD_NN
 It_did_kind	1
 he_did_something	1
+I_said_!!	1
 NNS_._''
 lessons_!_''	1
 PRP_MD_RB
@@ -1507,6 +1465,7 @@ we_'ll_just	1
 he_would_gladly	1
 He_might_not	1
 It_will_probably	1
+you_will_not	1
 I_could_n't	1
 VBN_JJR_.
 seen_more_.	1
@@ -1516,8 +1475,9 @@ VB_VBN_CD
 have_been_4	1
 VBP_,_PRP
 mean_,_he	1
-wake_,_they	1
+go_,_it	1
 expect_,_you	1
+wake_,_they	1
 VBZ_IN_JJ
 depicts_with_new	1
 is_at_minimal	1
@@ -1540,8 +1500,6 @@ taking_an_instant	1
 becoming_a_fine	1
 PRP$_IN_CC
 his_like_and	1
-LS_VBD_DT
-i_chose_this	1
 VBD_PRP_IN
 took_him_in	1
 found_myself_on	1
@@ -1565,8 +1523,6 @@ nobody_else_can	1
 MD_VB_WRB
 would_wonder_how	1
 can_see_why	1
-NN_NNS_NNS
-<br />_superpowers_dominations	1
 RB_IN_''
 instead_of_'	1
 NNS_``_NNP
@@ -1588,8 +1544,6 @@ Then_there_are	1
 RB_VBN_VBN
 already_been_presented	1
 recently_been_released	1
-PRP_VBD_-RRB-
-I_said_-RRB-	1
 NN_NN_WDT
 warrior_elite_that	1
 epic_film_which	1
@@ -1598,14 +1552,13 @@ ever_there_was	1
 NN_DT_JJ
 mark_the_original	1
 witness_this_film?s	1
-<p>_Another_good	1
 doubt_the_real	1
 NNS_VBP_NN
 characters_lack_uniqueness	1
 VBG_NNP_TO
 speaking_English_to	2
-DT_NNP_VB
-the_Samurai_go	1
+NN_NNS_JJ
+plot_devices_such	1
 DT_NNP_VBP
 The_Samurai_are	1
 VBP_EX_VBZ
@@ -1665,6 +1618,7 @@ last_man_standing	1
 new_demo_disc	1
 final_ending_scene	1
 civil_war_captain	1
+White_Warrior_UWW	1
 final_battle_sequence	1
 big_action_picture	1
 bloodthirsty_action/thriller_nature	1
@@ -1679,17 +1633,16 @@ PRP$_JJ_,
 his_own_,	1
 his_cold_,	1
 JJ_NNS_WDT
-senseless_movies_that	1
 actual_locations_that	1
 special_features_that	1
+senseless_movies_that	1
+very_people_that	1
 Japanese_peasants_that	1
 Indian_tribes_that	1
 PRP$_JJ_.
 its_own_.	1
 PRP_RP_TO
 you_in_to	1
--LRB-_VB_DT
--LRB-_save_the	1
 CC_TO_RB
 but_to_also	1
 CC_DT_RB
@@ -1720,11 +1673,6 @@ NN_VBZ_CC
 site_is_but	1
 character_has_and	1
 fight_ensues_and	1
-NN_-RRB-_IN
-warrior_-RRB-_from	1
-essence_-RRB-_of	1
--LRB-_WDT_PRP
--LRB-_which_it	1
 NNS_VBG_VBN
 children_being_shot	1
 IN_NNS_WDT
@@ -1733,8 +1681,6 @@ NNP_DT_NNP
 sure.Unfortuantely_the_Producer	1
 JJ_TO_CD
 Japanese_to_one	1
-''_-RRB-_VBZ
-'_-RRB-_is	1
 :_DT_NNS
 -_The_extras	1
 ,_NN_VBG
@@ -1805,8 +1751,8 @@ and_calculated_rather	1
 WP_VBZ_JJ
 who_knows_little	1
 who_finds_unexpected	1
-VBN_TO_NNP
-sent_to_Japan	2
+IN_WP_VBD
+for_what_was	1
 NNS_WDT_VBZ
 statements_that_expresses	1
 ,_IN_TO
@@ -1879,6 +1825,7 @@ Mystic_River_but	1
 Edward_Zwick_and	1
 Roger_Ebert_and	1
 Tom_Cruise_and	2
+Emperor_Nakamura_and	1
 Good_Men_or	1
 Ken_Watanabe_and	2
 Dolby_Digital_+	1
@@ -1933,19 +1880,22 @@ Samurai_is_this	1
 Algren_is_no	1
 Watanabe_steals_the	1
 Cruise_is_the	1
+Watanabe_believes_this	1
 Algren_joins_the	1
 Nakamura_plays_the	1
 Algren_demonstrates_the	1
 Cruise_plays_a	1
+MGM_plays_the	1
 Cruise_portrays_a	1
 Koyamada_is_a	1
 Cruise_delivers_a	1
 NN_NN_PRP
-product_cause_it	1
-DVD_player_I	1
+movie_promo_we	1
 beginning_battle_he	1
 SD_DVD_I	1
-movie_promo_we	1
+product_cause_it	1
+DVD_player_I	1
+Actor_Award_I	1
 VBZ_JJ_IN
 is_fraught_with	1
 's_bad_in	1
@@ -1996,6 +1946,7 @@ story_behind_it	1
 fact_that_it	2
 army_as_they	1
 film_that_they	1
+definition_whether_it	1
 basis_behind_it	1
 circle_for_me	1
 rotuine_for_him	1
@@ -2018,6 +1969,8 @@ life_,_to	1
 ``_Best_Foreign	1
 WDT_DT_NN
 which_the_samurai	1
+PRP_VBP_:
+I_mean_...	1
 RB_IN_PRP
 even_if_she	1
 well_although_it	1
@@ -2097,21 +2050,16 @@ whether_it_be	1
 CC_NNP_NNPS
 and_Looney_Tunes	1
 and_Mrs._Purists	1
-''_NN_-RRB-
-''_ending_-RRB-	1
 CD_PRP$_JJ
 !!!_Its_good	1
 NNS_WRB_JJ
 points_where_slow	1
 VB_DT_.
 do_that_.	1
-JJ_NN_-LRB-
-gruffly_someone_-LRB-	1
-high_definition_-LRB-	1
-White_Warrior_-LRB-	1
 RB_:_JJ
 rather_..._different	1
 NN_NN_CC
+man_standing_and	1
 star_pupil_and	1
 Art_Direction_and	1
 warrior_race_and	1
@@ -2120,8 +2068,8 @@ fighting_skill_and	1
 family_fare_and	1
 Samurai?s_performance_but	1
 instruction_book_and	1
-CD_DT_-LRB-
-one_another_-LRB-	1
+LS_VBD_DT
+i_chose_this	1
 VBG_IN_DT
 adapting_for_this	1
 preparing_for_this	1
@@ -2137,8 +2085,6 @@ VBG_DT_IN
 forcing_some_of	1
 IN_VBD_RB
 as_was_once	1
-PRP$_JJ_``
-its_few_``	1
 PRP_VBN_.
 me_baffled_.	1
 RB_NN_CC
@@ -2149,27 +2095,27 @@ wearing_Prussian-looking_uniforms	1
 seeing_other_movies	1
 using_such_values	1
 discussing_certain_actors	1
-NNP_NNP_,
-Civil_War_,	3
-Nathan_Algren_,	3
-The_Siege_,	1
-Edward_Zwick_,	1
-Mrs._Purist_,	1
-<p>_Overall_,	2
-Samurai_Spirit_,	1
-Japanese_Emperor_,	1
-Japanese_Army_,	1
-Ken_Watanabe_,	2
-Jude_Law_,	1
-Ken_Watanbe_,	1
-Tom_Cruise_,	2
-Sound_Mixing_,	1
+DT_NN_PRP
+this_movie_I	2
+the_lord_he	1
+a_masterpiece_it	1
+the_acting_he	1
+the_stand_he	1
+a_movie_you	1
+the_honor_he	1
+the_character_he	1
+the_way_he	1
+Every_time_he	1
+the_moment_they	1
+the_movie_itself	1
 NNP_NNP_.
 Hiroyuki_Sanada_.	1
 Civil_War_.	1
 Big_Horn_.	1
+Tony_Goldwyn_.	1
 Samurai_</a>_.	1
 nNathan_Algren_.	1
+Ken_Watanabe_.	1
 Tim_Robbins_.	1
 Blood_Diamond_.	1
 Jerry_Maguire_.	1
@@ -2196,10 +2142,14 @@ VBP_RBR_RB
 are_less_then	1
 IN_IN_CD
 upon_by_four	1
+NNP_NNS_WDT
+Samurai_films_which	1
 NN_NNP_NNP
 movie_Edward_Zwick	1
-screen_!!!_Trust	1
 director_Edward_Zwick	1
+screen_!!!_Trust	1
+newcomer_Koyuki_Taka	1
+leader_Katsumoto_Ken	1
 captain_nNathan_Algren	1
 veteran_Nathan_Algren	1
 mogul_Samuel_Goldwyn	1
@@ -2216,9 +2166,8 @@ does_manage_to	1
 ''_RB_VBN
 '_actually_meant	1
 ''_simply_stated	1
-RB_VBP_.
-even_imagine_.	1
-really_want_?	1
+DT_PRP_VBZ
+all_it_'s	1
 JJ_VBN_NNS
 other_industrialized_nations	1
 NNP_NN_TO
@@ -2236,8 +2185,6 @@ VBG_NN_NNS
 competing_value_systems	1
 taking_action_sequences	1
 raising_eye_brows	1
-VB_''_-RRB-
-serve_'_-RRB-	1
 VBZ_PRP_VBG
 finds_himself_wanting	1
 NNS_IN_NN
@@ -2266,8 +2213,8 @@ that_warriors_must	1
 NNP_IN_PDT
 Samurai_in_such	1
 All_in_all	1
--LRB-_WDT_VBP
--LRB-_Which_are	1
+PRP$_NNS_WRB
+its_points_where	1
 EX_JJ_NN
 there_own_master	1
 TO_NN_NNS
@@ -2286,17 +2233,11 @@ NNP_NNP_MD
 Tom_Cruise_could	1
 Movie_Hero_would	1
 Ken_Watanabe_should	1
-:_RB_RB
--_Now_then	1
 NN_,_``
 series_,_``	1
 carp_,_``	1
 ``_PRP_VBD
 `_It_was	1
-VBZ_NNP_POS
-decides_Japan_'s	1
-realizes_Algren_'s	1
-stifles_Cruise_'s	1
 NN_VBZ_WP
 sword-wielding_bullies_who	1
 VBG_IN_JJ
@@ -2337,7 +2278,6 @@ VB_VBN_VBN
 have_been_constructed	1
 have_been_awarded	1
 FW_FW_NN
-<p>_In_closing	1
 i_cant_wait	1
 i_couldnt_test	1
 RB_JJR_CC
@@ -2392,16 +2332,14 @@ did_not_bow	1
 did_n't_sell	1
 did_n't_like	1
 did_n't_fit	1
-VBD_,_CC
-symbolized_,_and	1
+NN_VBZ_RP
+character_comes_off	1
 RB_JJ_``
 so_many_``	1
 IN_RB_JJS
 if_not_most	1
 JJS_IN_NNP
 best_since_Mel	1
-IN_NNP_-LRB-
-by_Katsumot_-LRB-	1
 PRP_CC_NNP
 them_and_Japan	1
 RB_VBP_DT
@@ -2412,8 +2350,6 @@ also_add_some	1
 PRP_CC_NNS
 them_and_fights	1
 it_neither_changes	1
--RRB-_IN_PRP$
--RRB-_as_his	1
 NN_VBZ_RB
 sound_does_as	1
 force_is_not	1
@@ -2444,6 +2380,8 @@ actors_do_.	1
 faults_are_.	1
 WDT_VBZ_NN
 that_makes_sense	1
+NNS_VBP_,
+epics_go_,	1
 JJ_CC_DT
 American_and_the	1
 inaccurate_and_a	1
@@ -2455,8 +2393,6 @@ detailed_and_the	1
 PRP_CC_PRP
 him_or_her	1
 me_and_it	1
-VB_CC_DT
-care_and_that	1
 CC_VBG_TO
 or_trying_to	1
 VBD_DT_RBR
@@ -2476,6 +2412,7 @@ Americans_have_because	1
 JJ_NNS_NNP
 vivid_emotions_Cruise	1
 JJ_NNS_NNS
+global_superpowers_dominations	1
 last_eleven_years	1
 NNS_VBD_NN
 inches_widescreen_HDTV	1
@@ -2509,8 +2446,6 @@ the_extras_are	1
 these_people_are	1
 The_settings_are	1
 those_faults_are	1
-NN_-RRB-_VBD
-Samurai_-RRB-_had	1
 RB_IN_VBG
 instead_of_killing	1
 just_after_hitting	1
@@ -2562,11 +2497,8 @@ NN_NN_NNS
 Academy_Award_nominations	1
 Best_Actor_awards	1
 HD_DVD_titles	1
-VB_NNP_-RRB-
-think_MGM_-RRB-	1
 NN_NN_NNP
 widow_wife_Yaka	1
-<br />_captain_nNathan	1
 movie_mogul_Samuel	1
 VBP_IN_DT
 think_that_the	1
@@ -2591,8 +2523,10 @@ VBG_NNP_IN
 joining_Katsumoto_in	1
 VB_VBN_JJ
 have_been_able	1
-PRP_VBP_-RRB-
-I_mean_-RRB-	1
+VBD_PRP_VBD
+realized_he_did	1
+thought_it_looked	1
+thought_it_was	1
 JJ_CC_VB
 brutal_and_hold	1
 ready_and_get	1
@@ -2626,11 +2560,10 @@ Ghost_,_''	1
 PRP$_DT_JJ
 its_the_very	1
 its_an_excellent	1
-NNP_FW_FW
-Katsumoto_<br />_<br />	1
 NNP_VBZ_PRP$
-Cruise_delivers_his	1
 Algren_spends_his	1
+Cruise_delivers_his	1
+Omura_does_its	1
 NN_RB_RB
 tug_so_hard	1
 attention_not_only	1
@@ -2667,6 +2600,8 @@ and_again_!	1
 NNP_POS_``
 Gibson_'s_``	1
 Kurosawa_'s_``	1
+RB_RB_NNP
+certainly_not_Samurai	1
 NN_,_RB
 clan_,_thus	1
 battle_,_then	1
@@ -2699,8 +2634,6 @@ NN_JJ_VBP
 movie_unique_are	1
 NN_VB_,
 well-known_resume_,	1
-NN_-LRB-_NN
-Warrior_-LRB-_UWW	1
 TO_DT_``
 to_a_`	1
 CC_VBP_RB
@@ -2710,8 +2643,6 @@ and_do_n't	1
 ,_what_they	1
 WDT_PRP_RB
 which_it_commercially	1
-DT_CD_JJ
-this_one_many	1
 IN_PRP_IN
 for_him_since	1
 behind_it_with	1
@@ -2721,6 +2652,7 @@ NNP_IN_PRP$
 Oscar_for_his	1
 Coast_with_his	1
 YMCA_in_his	1
+Higen_as_his	1
 VBZ_JJ_VBG
 is_worth_checking	1
 CC_NNP_VBZ
@@ -2791,11 +2723,11 @@ gold_in_that	1
 ca-ca_as_the	1
 job_with_the	1
 character_throughout_the	1
+country_into_a	1
 insight_into_the	1
 modernization_of_the	2
 actor_with_a	1
 service_of_the	1
-<p>_For_those	1
 movie_in_the	1
 life_for_a	1
 strength_of_the	1
@@ -2803,10 +2735,10 @@ fan_of_both	1
 info_about_the	1
 development_of_the	1
 guy_for_an	1
-<p>_For_a	1
 lack_of_any	1
 sight_in_the	1
 design_in_this	1
+warrior_from_an	1
 bond_with_the	1
 thing_about_this	1
 state_with_the	1
@@ -2871,7 +2803,6 @@ scene_as_a	1
 bid_of_that	1
 reason_for_this	1
 journey_of_a	2
-<p>_As_a	1
 movie_as_an	1
 title_of_the	1
 portrayal_of_a	2
@@ -2940,8 +2871,6 @@ PRP_IN_.
 him_in_.	1
 PRP$_VBG_``
 His_screaming_``	1
-VBZ_NN_-RRB-
-is_war_-RRB-	1
 CD_NNS_.
 4/5_stars_.	1
 3_stars_.	1
@@ -2997,8 +2926,6 @@ WP_VBP_DT
 who_serve_the	1
 VB_VBN_PRP$
 have_made_his	1
-NN_-RRB-_RB
-war_-RRB-_so	1
 VBG_NNS_IN
 provoking_scripts_of	1
 IN_VBG_PRP
@@ -3022,9 +2949,7 @@ He_demonstrates_intelligence	1
 NNS_DT_NN
 dollars_a_month	1
 rings_the_Return	1
-,_JJ_NNP
-,_Last_Samurai	1
-,_alcoholic_Civil	1
+people_the_samurai	1
 IN_NN_:
 of_honor_...	1
 PRP_RB_VBD
@@ -3059,8 +2984,13 @@ VBN_CD_NNS
 been_4_stars	1
 NNP_''_NN
 Cruise_''_factor	1
-RBR_JJ_VBD
-more_hurtful_was	1
+IN_PDT_DT
+in_all_this	1
+in_such_a	1
+for_all_those	1
+despite_all_those	1
+in_all_a	1
+of_such_a	1
 IN_IN_DT
 along_with_the	1
 as_if_every	1
@@ -3080,6 +3010,8 @@ RB_RBS_VBN
 still_most_associated	1
 ,_RB_CD
 ,_especially_one	1
+:_NNP_DT
+:_Luckily_the	1
 PRP_RB_VBZ
 he_nearly_humiliates	1
 she_obvioulsy_speaks	1
@@ -3118,6 +3050,8 @@ VB_IN_VBG
 happen_by_forgoeing	1
 RB_NN_RB
 not_tug_so	1
+VBN_IN_WRB
+thrown_in_When	1
 DT_IN_DT
 All_of_this	1
 another_in_the	1
@@ -3136,10 +3070,11 @@ samurai_or_Bushido	1
 year_but_Samurai	1
 egotism_and_Hollywood	1
 NNP_NNP_NN
-Civil_War_hero	1
+Tony_Goldwyn_Col.Bagley	1
 Tom_Cruise_action	2
 Civil_War_veteran	2
-<br />_This_movie	1
+Widescreen_Edition_</a>	1
+Civil_War_hero	1
 VBD_JJ_NN
 was_mere_rotuine	1
 were_absolute_genius	1
@@ -3174,8 +3109,6 @@ many_people_complain	1
 ,_this_may	1
 ,_those_can	1
 ,_some_might	1
--LRB-_EX_VBP
--LRB-_there_are	1
 WP_IN_PRP$
 who_despite_his	1
 WDT_PRP_CC
@@ -3247,26 +3180,8 @@ mom_'s_basement	1
 money_'s_worth	1
 hero_'s_journey	1
 movie_'s_story	1
-NNP_NNP_-RRB-
-Office_Space_-RRB-	1
-Widescreen_Edition_-RRB-	1
-Ken_Watanbe_-RRB-	1
-<br />_Watanabe_-RRB-	1
-Tom_Cruise_-RRB-	1
-Schichinosuke_Nakamura_-RRB-	1
-Simon_Graham_-RRB-	1
-Tony_Goldwyn_-RRB-	1
-Ken_Watanabe_-RRB-	1
-Tony_Goldwynn_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Ken_Watanabe	1
--LRB-_Ken_<br />	1
--LRB-_Tony_Goldwyn	1
--LRB-_Widescreen_Edition	1
--LRB-_Simon_Graham	1
--LRB-_Tony_Goldwynn	1
--LRB-_Tom_Cruise	1
--LRB-_Schichinosuke_Nakamura	1
+,_NN_MD
+,_TLS_will	1
 ``_NNP_NNP
 ``_Tom_Cruise	1
 ``_Blood_Diamond	1
@@ -3286,10 +3201,11 @@ point_out_that	2
 keep_up_with	1
 blend_in_for	1
 RB_VBD_RB
+well_performed_yet	1
 simply_did_not	1
 really_did_n't	1
 VB_:_NNP
-watch_..._<br />	1
+watch_..._All	1
 DT_NN_EX
 the_theater_there	1
 VBD_PRP_RB
@@ -3338,14 +3254,13 @@ NN_VBZ_,
 problem_lies_,	1
 FW_FW_,
 Koyuki_san_,	1
--RRB-_JJ_TO
--RRB-_ready_to	1
-NNS_-LRB-_JJ
-devices_-LRB-_such	1
+VBP_DT_RBR
+go_any_further	1
 VBP_NNP_IN
 convert_Algren_into	1
 CD_JJS_NNS
 ten_best_films	1
+2003_best_movies	1
 IN_DT_NNP
 by_a_Westerner	1
 of_the_King	1
@@ -3429,25 +3344,20 @@ is_a_beautiful	1
 makes_an_acting	1
 NN_VBZ_:
 problem_remains_-	1
-FW_FW_:
-<p>_Extras_-	1
 RBR_JJ_CC
 more_bored_or	1
 more_dramatic_and	1
-RB_VBD_-LRB-
-also_reeked_-LRB-	1
+NNS_NNP_DT
+practices_Bushido_the	1
 VB_NNP_VBD
 tell_Tom_realized	1
+VB_NNP_VBZ
+think_MGM_plays	1
 NN_:_PRP
 gee_..._I	1
 movie_-_you	1
-IN_PDT_DT
-in_all_this	1
-in_such_a	1
-for_all_those	1
-despite_all_those	1
-in_all_a	1
-of_such_a	1
+RBR_JJ_VBD
+more_hurtful_was	1
 DT_,_VBZ
 another_,_is	1
 IN_DT_CC
@@ -3461,12 +3371,13 @@ CD_NNS_VBD
 IN_NN_.
 on_reg_.	1
 of_time_!	1
+of_extreme_.	1
 in_power_.	1
 against_realism_.	1
 of_battle_.	1
 in_battle_.	1
 of_DwW_.	1
-of_extreme_.	1
+of_course_.	1
 in_duration_.	1
 of_whisky_.	1
 that_perspective_.	1
@@ -3503,7 +3414,6 @@ In_time_,	1
 of_honor_,	2
 NN_PRP$_JJ
 movie_my_undevided	1
-<br />_his_cold	1
 POS_NN_NNS
 's_household_chores	1
 WDT_VBZ_VBN
@@ -3582,8 +3492,6 @@ VBZ_DT_VBZ
 hopes_this_is	1
 CC_DT_VBN
 but_any_educated	1
-FW_NNS_WDT
-<br />_people_that	1
 IN_``_VBN
 in_``_Born	1
 MD_TO_VB
@@ -3596,9 +3504,8 @@ writers_even_had	1
 NNS_RB_VBG
 sequences_particularly_moving	1
 CC_JJ_NN
-and_global_<br />	1
-and_simple_living	1
 and_thrilling_swordplay	1
+and_simple_living	1
 and_great_battle	1
 and_much_contempt	1
 and_historical_theme	1
@@ -3621,7 +3528,6 @@ POS_NN_CC
 's_egotism_and	1
 VB_DT_``
 train_the_``	1
-<p>_The_``	1
 CC_DT_VBZ
 and_that_'s	1
 and_this_is	2
@@ -3676,15 +3582,14 @@ WDT_VBD_PRP$
 that_did_their	1
 VBZ_VB_IN
 does_stand_on	1
-NN_._-RRB-
-god_!_-RRB-	1
-lot_!_-RRB-	1
 WP_DT_NN
 who_the_samurai	1
 IN_,_DT
 that_,_the	1
 TO_WRB_DT
 to_how_the	1
+NN_NN_VB
+samurai_film_save	1
 ,_``_DT
 ,_``_The	2
 ,_EX_VBP
@@ -3706,6 +3611,8 @@ VBZ_CD_IN
 contains_one_of	1
 is_one_of	3
 's_one_of	1
+DT_EX_VBP
+another_there_are	1
 WDT_VBZ_VBZ
 that_is_is	1
 VBD_JJ_RB
@@ -3717,10 +3624,6 @@ how_to_wield	1
 where_to_go	1
 VBG_JJ_VBZ
 being_outstanding_is	1
-VBD_-LRB-_IN
-reeked_-LRB-_in	1
-JJ_IN_.
-few_between_!	1
 RB_VBG_IN
 consistently_maintaining_that	1
 VBD_CD_IN
@@ -3754,8 +3657,6 @@ JJ_NN_VBP
 special_mention_are	1
 NNP_NN_VBG
 Hollywood_film_showing	1
-FW_-RRB-_CC
-!!!_-RRB-_but	1
 VBD_VBG_``
 enjoyed_watching_``	1
 PRP_JJ_NN
@@ -3847,8 +3748,6 @@ is_very_little	1
 is_so_2nd	1
 is_not_sympathetic	1
 is_either_blind	1
-FW_FW_EX
-<br />_<br />_There	1
 JJ_CD_CD
 great_one_!!!	1
 VBN_DT_NN
@@ -3902,10 +3801,6 @@ are_informative_if	1
 are_right_in	1
 VBZ_VBN_.
 is_needed_.	1
-VBN_-LRB-_VBG
-recieved_-LRB-_including	1
-,_NNP_FW
-,_Katsumoto_<br />	1
 JJ_NNP_CC
 old_Tom_&	1
 VBN_JJR_TO
@@ -3933,7 +3828,6 @@ Brother_executives_find	1
 VBG_PDT_DT
 playing_such_a	1
 JJ_FW_FW
-very_<br />_<br />	1
 other_Samurai_lovin	1
 ``_NNP_CC
 ``_Master_&	1
@@ -3950,12 +3844,15 @@ and_death_.	1
 and_Glory_.	1
 and_love_.	1
 and_tradition_.	1
-CC_NN_,
-and_compassion_,	1
-or_suicide_,	1
-and_originality_,	1
-and_ancestry_,	1
-and_directing_,	1
+NNS_WDT_VBP
+people_that_follow	1
+features_that_take	1
+principles_that_keep	1
+techniques_that_convert	1
+warriors_that_have	1
+tribes_that_have	1
+men_that_are	1
+movies_that_'ve	1
 CD_NNP_NNPS
 3_Golden_Globes	1
 IN_FW_RB
@@ -3973,8 +3870,6 @@ and_even_,	1
 but_again_,	1
 NNP_RB_CC
 Samurai_once_and	1
-FW_CD_NNS
-<br />_4/5_stars	1
 NNS_WDT_VBD
 warriors_that_did	1
 people_that_hired	1
@@ -3993,8 +3888,6 @@ all_a_fine	1
 such_a_short	1
 PRP_,_JJ
 it_,_good	1
-POS_VBG_,
-'s_coming_,	1
 VBZ_PRP$_NNS
 drowns_his_sorrows	1
 learns_their_ways	1
@@ -4026,6 +3919,8 @@ his_enemy_and	1
 his_work_and	1
 VBP_IN_IN
 feel_as_if	1
+NNS_FW_PRP
+stereotypes_etc._I	1
 PRP_DT_.
 it_all_.	1
 JJS_IN_NN
@@ -4041,8 +3936,6 @@ VBD_RP_DT
 sliced_off_the	1
 ''_VBG_RB
 ''_running_around	1
-JJR_TO_VB
-nicer_to_see	1
 RB_NN_VBN
 wonderfully_theme_oriented	1
 JJ_NNS_VBG
@@ -4051,8 +3944,9 @@ American_officers_training	1
 Japanese_peoples_speaking	1
 WP_VBP_NN
 who_like_action	1
-RB_NN_VBD
-well_<br />_performed	1
+VBN_IN_IN
+set_upon_by	1
+overdone_as_in	1
 CD_NN_.
 four_samurai_.	1
 18_century_.	1
@@ -4074,6 +3968,7 @@ PRP_IN_NN
 me_of_way	1
 it_on_reg	1
 VBD_IN_NN
+reeked_in_essence	1
 fell_in_love	1
 steeped_in_mystery	1
 found_that_fact	1
@@ -4115,14 +4010,8 @@ not_the_enemy	1
 not_a_fan	1
 n't_that_bad	1
 quite_a_bit	1
-FW_NNP_NNP
-<br />_Hiroyuki_Sanada	1
-<br />_Edward_Zwick	1
-<br />_Ken_Watanabe	1
-<br />_Tom_Cruise	2
-<br />_Tony_Goldwyn	1
-PRP$_NN_''
-his_time_'	1
+CD_NN_VBD
+7_Samurai_had	1
 NN_VBG_IN
 while_promising_that	1
 performance_comming_from	1
@@ -4149,22 +4038,13 @@ with_Wolves_,	1
 With_Wolves_,	1
 DT_VBN_JJ
 a_laid_back	1
+NNP_IN_.
+Robbins_though_.	1
 CC_NNP_POS
 and_Roeper_'s	1
 and_Hollywood_'s	1
-NNP_-RRB-_,
-Nobutada_-RRB-_,	1
-Nakamura_-RRB-_,	1
-Cruise_-RRB-_,	1
-Graham_-RRB-_,	1
-Watanbe_-RRB-_,	1
 NNS_RB_CC
 movies_first_and	1
-NNP_-RRB-_.
-Watanabe_-RRB-_.	1
-Goldwyn_-RRB-_.	1
-VBN_JJR_CC
-demanded_more_but	1
 NNS_CC_VB
 achievements_and_take	1
 customs_and_heal	1
@@ -4173,11 +4053,8 @@ POS_NNP_.
 's_Braveheart_.	1
 VBD_DT_PRP$
 believed_that_their	1
-FW_FW_PRP
-<br />_<br />_I	2
-etc._<p>_I	1
-<br />_<br />_It	1
-<br />_<br />_he	2
+''_IN_VBG
+''_before_watching	1
 NNP_WP_VBD
 Connolly_who_was	1
 Zwick_who_made	1
@@ -4191,8 +4068,6 @@ DT_``_NN
 another_``_samurai	1
 a_``_outsider	1
 The_``_heart	1
-NNP_-LRB-_DT
-Bushido_-LRB-_the	1
 JJ_CD_NNS
 adequeate_3_stars	1
 last_three_years	1
@@ -4239,7 +4114,6 @@ To_add_to	1
 to_sail_to	1
 to_stick_to	1
 MD_VB_NN
-will_<br />_<br />	1
 can_get_info	1
 will_provoke_interest	1
 VBN_VBN_TO
@@ -4266,17 +4140,16 @@ VB_JJ_WRB
 be_correct_when	1
 PRP_VB_WRB
 him_understand_how	1
-:_NN_DT
-..._<p>_Another	1
 NN_NNS_WDT
 samurai_warriors_that	1
 conditioning_techniques_that	1
 VBP_NNS_IN
 like_movies_like	1
 are_lots_of	1
-NN_WDT_VBP
-job_that_are	1
-elite_that_have	1
+PRP_VBD_NNP
+it_was_Tom	1
+I_thought_Katsumoto	1
+I_watched_Kurosawa	1
 RB_PRP_.
 n't_him_!	1
 NN_RBR_JJ
@@ -4324,8 +4197,6 @@ the_most_surprising	1
 the_most_important	1
 the_most_recognizable	1
 the_most_underrated	1
-FW_``_DT
-<br />_``_The	1
 NN_VBD_IN
 countryside_steeped_in	1
 embarrassment_grew_as	1
@@ -4346,10 +4217,6 @@ few_lingering_touches	1
 many_speaking_roles	1
 VBP_VBN_PRP
 have_dishonored_themselves	1
-RB_:_NN
-not_..._<p>	1
-NNP_._-RRB-
-Tom_!_-RRB-	1
 NN_NNS_VBD
 machine_guns_symbolized	1
 battle_sequences_were	1
@@ -4374,8 +4241,6 @@ movie_critic_,	1
 samurai_leader_,	1
 opening_battle_,	1
 costume_design_,	1
-NNS_-LRB-_IN
-days_-LRB-_unless	1
 MD_PRP_RB
 can_they_truly	1
 could_they_really	1
@@ -4409,8 +4274,6 @@ action_scenes_are	1
 PRP_NNP_NNP
 me_Hiroyuki_Sanada	1
 me_??!!!!_Death	1
-NN_NNS_-LRB-
-plot_devices_-LRB-	1
 NNS_VBG_DT
 thats_saying_a	1
 missteps_outshining_the	1
@@ -4452,11 +4315,10 @@ first_sets_out	1
 RB_JJ_JJ
 too_many_other	1
 slightly_inaccurate_historical	1
-NNP_TO_DT
-Jersey_to_the	1
-Kyoto_to_a	1
-CC_NN_-LRB-
-and_costume_-LRB-	1
+VBZ_NNP_POS
+decides_Japan_'s	1
+realizes_Algren_'s	1
+stifles_Cruise_'s	1
 JJ_''_JJ
 modern_''_Japanese	2
 PRP_VB_TO
@@ -4475,15 +4337,11 @@ has_been_'	1
 VBD_NNS_IN
 gave_people_that	1
 watched_Dances_With	1
-DT_PRP_VBZ
-all_it_'s	1
 NNS_:_DT
 Rings_:_The	1
 RB_CC_IN
 prematurely_and_amidst	1
 once_and_for	1
-VBG_NN_-RRB-
-starring_role_-RRB-	1
 CC_IN_RB
 and_that_just	1
 JJ_,_VBG
@@ -4502,8 +4360,6 @@ by_fate_to	1
 in_order_to	3
 ,_''_VBZ
 ,_''_makes	1
-VBN_IN_TO
-called_upon_to	1
 RB_JJ_TO
 easily_recognizable_to	1
 very_similar_to	1
@@ -4523,16 +4379,11 @@ RB_DT_RB
 certainly_a_much	1
 even_the_extravagantly	1
 certainly_a_surprisingly	1
--LRB-_NN_-RRB-
--LRB-_UWW_-RRB-	1
--LRB-_Col.Bagley_-RRB-	1
 VBN_VBZ_PRP
 portrayed_takes_you	1
 NNS_VBD_RB
 fights_were_still	1
 warriors_went_down	1
-FW_FW_VBG
-<br />_<br />_Catching	1
 NNPS_MD_RB
 Americans_ca_n't	1
 DT_VBD_,
@@ -4580,7 +4431,6 @@ DT_CD_NN
 a_twelve_year	1
 the_7_Samurai	1
 the_10_oscar	1
-the_2003_<br />	1
 ,_VBG_CC
 ,_kicking_and	1
 DT_CD_NNP
@@ -4634,8 +4484,8 @@ unfortunately_is_hounded	1
 DT_``_JJS
 the_``_best	1
 NN_,_FW
-story_,_<br />	1
 excelent_,_i	1
+interest_,_SPOILERS	1
 difference_,_cuz	1
 VBP_PRP$_JJ
 feed_his_obvious	1
@@ -4650,18 +4500,20 @@ IN_NNP_NN
 for_Oscar_gold	1
 for_Watanabe_san	1
 on_Samurai_history	1
+JJS_NNS_VBP
+most_people_wish	1
 ''_,_VBZ
 '_,_is	1
 VBZ_IN_PRP$
 leaves_behind_his	1
 warns_that_his	1
 's_for_your	1
+JJ_NNS_DT
+spiritual_people_the	1
 RB_IN_JJ
 especially_in_high	1
 VBP_DT_IN
 see_this_in	1
-NNPS_IN_DT
-Americans_at_the	1
 ,_``_NNP
 ,_``_Shogun	1
 CC_NN_VBZ
@@ -4692,11 +4544,6 @@ JJR_IN_DT
 more_than_a	1
 better_than_the	1
 more_for_this	1
-FW_PRP_VBZ
-<br />_It_does	1
-<br />_he_realizes	1
-FW_PRP_VBP
-<br />_I_give	1
 CD_IN_CD
 1_by_1	1
 NN_NN_PDT
@@ -4712,12 +4559,8 @@ been_complete_flops	1
 played_such_roles	1
 CD_JJ_,
 one_many_,	1
--LRB-_JJ_IN
--LRB-_such_as	1
 FW_PRP_VBD
-<br />_he_did	1
-<p>_I_was	1
-<br />_I_did	1
+etc._I_was	1
 NNS_''_.
 experts_''_.	1
 NN_NNS_CC
@@ -4769,7 +4612,8 @@ NNP_NNP_VBZ
 Tom_Cruise_portrays	1
 Nathan_Algren_leaves	1
 Tom_Cruise_is	5
-<p>_This_is	1
+Captain_Algren_finds	1
+Ken_Watanabe_believes	1
 Tom_Cruise_plays	2
 Hiroyuki_Sanada_plays	1
 Shichinosuke_Nakamura_plays	1
@@ -4779,13 +4623,13 @@ Masato_Harada_makes	1
 Tom_Cruise_delivers	2
 Captain_Algren_demonstrates	1
 Captain_Algren_is	1
+Harado_Omura_does	1
 Sosuke_Ikematsu_does	1
 !!!!_This_is	1
 Shin_Koyamada_is	1
 Tom_Cruise_gives	2
 Hans_Zimmer_is	1
 Woodrow_Algren_is	2
-Captain_Algren_finds	1
 Captain_Algren_takes	1
 Ken_Watanabe_steals	1
 Mr._Miyagi_realizes	1
@@ -4810,8 +4654,6 @@ IN_WDT_VBD
 in_which_was	1
 DT_JJ_VB
 a_slight_let	1
-:_NN_EX
-:_<br />_There	1
 FW_''_``
 lovin_'_``	1
 DT_IN_JJ
@@ -4825,8 +4667,8 @@ VB_PRP$_NNS
 have_its_points	1
 defend_their_people	1
 relive_their_days	1
-VBN_IN_-LRB-
-thrown_in_-LRB-	1
+NN_''_FW
+Patriot_''_!!	1
 VBP_DT_RB
 matter_all_that	1
 JJ_:_FW
@@ -4875,10 +4717,6 @@ that_these_men	1
 for_the_atrocities	1
 with_these_people	1
 at_the_hands	1
-NN_:_NN
-movie_:_<br />	1
-connection_..._<p>	1
-downside_:_<p>	1
 RB_VB_DT
 n't_fit_the	1
 highly_recomment_this	1
@@ -4914,8 +4752,6 @@ MD_VB_RBR
 could_be_more	1
 VB_DT_$
 break_the_$	1
-PRP_VBG_.
-you_thinking_.	1
 RB_VBZ_RB
 then_goes_back	1
 really_is_not	1
@@ -4929,8 +4765,6 @@ will_teach_him	1
 can_tell_you	1
 'd_pamper_yourself	1
 will_kill_them	1
-RB_JJ_-LRB-
-extremely_graphic_-LRB-	1
 NN_CC_PRP
 movie_and_you	1
 fare_and_I	1
@@ -4955,8 +4789,6 @@ $_170_million	1
 $_140_million	1
 ''_WRB_DT
 ''_where_a	1
-NNP_-RRB-_JJ
-Goldwynn_-RRB-_ready	1
 NN_DT_JJS
 doubt_the_best	1
 NNS_IN_CD
@@ -4981,6 +4813,7 @@ some_depth_and	1
 The_cinematography_and	1
 a_captive_and	1
 the_samurai_or	1
+no_masterpiece_but	1
 the_past_and	1
 this_story_and	1
 this_film_and	2
@@ -4996,8 +4829,8 @@ the_moment_and	1
 a_month_or	1
 the_performance_and	1
 an_actor_and	1
-FW_TO_VB
-<br />_to_kill	1
+JJ_IN_.
+few_between_!	1
 VBD_VBN_RB
 was_played_brilliantly	1
 was_expected_too	1
@@ -5046,7 +4879,6 @@ by_her_beauty	1
 in_his_hometown	1
 through_his_involvement	1
 on_my_scale	1
-by_his_<br />	1
 in_their_life	1
 of_their_way	1
 RB_PRP_RB
@@ -5054,8 +4886,6 @@ then_he_ever	1
 IN_NN_POS
 that_winter_'s	1
 in_today_'s	1
--RRB-_VBZ_IN
--RRB-_is_in	1
 NNP_,_CC
 War_,_but	2
 Samurai_,_and	2
@@ -5090,6 +4920,8 @@ rebellion_,_lead	1
 captain_,_scarred	1
 VBD_RB_CC
 shined_brightly_and	1
+VBP_:_CC
+mean_..._but	1
 NN_,_VBG
 century_,_forcing	1
 balance_,_using	1
@@ -5123,7 +4955,6 @@ I_can_avoid	1
 I_would_have	3
 it_should_be	1
 I_would_agree	1
-you_will_<br />	1
 you_could_tell	1
 you_will_say	1
 I_might_have	1
@@ -5225,6 +5056,7 @@ VB_DT_CD
 save_the_7	1
 watch_this_one	1
 ''_NN_.
+''_ending_.	1
 ''_thing_.	1
 VB_JJ_NNS
 view_great_perfomrances	1
@@ -5262,10 +5094,13 @@ NN_WRB_VBG
 past_when_discussing	1
 RB_RB_CD
 quite_possibly_one	1
+FW_FW_WRB
+goooood_!!!_Why	1
 NN_DT_NN
 home_the_gold	1
 movie_a_mission	1
 culture_this_movie	1
+someone_the_beard	1
 movie_a_sense	1
 time_the_doctor	1
 pin_the_label	1
@@ -5299,16 +5134,13 @@ and_there_traditional	1
 but_rather_hasty	1
 but_still_worth	1
 and_totally_original	1
--LRB-_VB_NN
--LRB-_Thank_god	1
+JJS_''_IN
+best_''_for	1
 JJ_DT_NNP
 much_the_Samurai	1
 DT_VBN_NNP
 the_widowed_Samurai	1
 the_masked_Ninja	1
-NN_NNP_-LRB-
-leader_Katsumoto_-LRB-	1
-newcomer_Koyuki_-LRB-	1
 JJ_NNS_WRB
 numerous_times_when	1
 DT_NNP_NNS
@@ -5337,7 +5169,8 @@ really_set_the	1
 POS_NN_PRP
 's_dilemma_he	1
 NN_:_NNP
-cast_:_<br />	1
+lowdown_:_Story	1
+cast_:_This	1
 theater_..._!!!!	1
 VBN_NNP_WP
 masked_Ninja_who	1
@@ -5368,9 +5201,11 @@ He_is_offered	1
 he_has_demonstrated	1
 He_has_seen	1
 NN_NN_.
+family_fare_.	1
 drinking_problem_.	1
 demo_disc_.	1
 war_captain_.	1
+Warrior_UWW_.	1
 complex_level_.	1
 feature?s_premise_.	1
 home_stretch_.	1
@@ -5429,6 +5264,8 @@ expresses_disagreement_over	1
 JJ_JJ_JJ
 present_dazzling_special	1
 certain_strict_moral	1
+NN_FW_:
+!!_Extras_-	1
 CD_NNP_NN
 5.1_Sony_decoder	1
 VBG_NNP_NN
@@ -5444,7 +5281,7 @@ about_a_sailor	1
 For_the_length	1
 as_the_level	1
 in_this_picture	1
-for_the_movie	2
+for_the_movie	3
 in_the_name	1
 in_all_honesty	1
 from_the_SD	1
@@ -5764,13 +5601,7 @@ This_is_Edward	1
 IN_''_DT
 of_'_a	2
 FW_FW_CC
-<br />_<br />_And	2
-<br />_<br />_but	1
-<br />_<br />_But	1
-FW_FW_CD
-<br />_<br />_4/5	1
-NNP_NN_-RRB-
-HD_DVD_-RRB-	1
+SPOILERS_!!!_but	1
 EX_VBP_DT
 there_are_the	1
 WP_VBZ_NN
@@ -5783,12 +5614,8 @@ and_lacks_support	1
 and_brings_humor	1
 PRP_PRP$_NN
 you_your_money	1
-:_NN_PRP
-..._<p>_I	1
 MD_CC_MD
 can_and_will	1
-NN_:_DT
-Acting_-_This	1
 NN_NNP_:
 DVD_Quality_-	1
 JJ_NNP_MD
@@ -5796,8 +5623,6 @@ Last_Samurai_will	1
 fallen_Samurai_would	1
 VBP_VBG_PRP
 are_attacking_him	1
--RRB-_RB_IN
--RRB-_so_if	1
 CC_VB_PRP
 and_make_you	1
 and_purchase_it	1
@@ -5828,8 +5653,6 @@ I_really_could	2
 you_anymore_would	1
 you_absolutely_can	1
 You_just_can	1
-FW_VBG_DT
-<br />_Catching_an	1
 WRB_VBN_JJ
 when_held_captive	1
 VBD_CC_VBD
@@ -5896,8 +5719,6 @@ become_one_of	1
 ,_can_they	1
 WP_VBZ_RP
 what_ends_up	1
-FW_WDT_VBZ
-<br />_that_deserves	1
 DT_JJ_IN
 a_little_on	1
 an_American_at	1
@@ -5913,8 +5734,6 @@ for_her_this	1
 as_they_all	1
 underneath_it_all	1
 in_itself_a	1
-PRP$_NN_-LRB-
-their_hand_-LRB-	1
 IN_CD_JJ
 in_two_different	1
 in_three_easy	1
@@ -5967,6 +5786,7 @@ the_American_soldiers	1
 the_ancient_samurais	1
 The_other_actors	1
 some_terrific_actors	1
+the_very_people	1
 the_rare_movies	1
 an_intriguing_people	1
 the_terrible_killings	1
@@ -6129,8 +5949,6 @@ Japanese_and_Americans	1
 ,_film_of	1
 ,_history_of	1
 ,_poignant.At_over	1
--LRB-_CC_``
--LRB-_or_`	1
 VBZ_PRP$_JJ
 speaks_her_native	1
 has_their_definitive	1
@@ -6149,6 +5967,7 @@ Hollywood_'s_cliches	1
 NNP_DT_NN
 Luckily_the_movie	1
 Though_this_movie	1
+Bushido_the_way	1
 IN_PRP_RB
 like_it_half	1
 as_I_normally	1
@@ -6168,8 +5987,6 @@ MD_VB_WP
 TO_NN_,
 to_detail_,	1
 to_everything_,	1
-POS_JJ_NNS
-'s_other_assets	1
 VBP_PRP_VBN
 are_we_allowed	1
 PRP_TO_DT
@@ -6190,12 +6007,12 @@ rebels_capture_him	1
 NNP_''_CC
 Braveheart_''_and	1
 Commander_''_but	1
-VBD_FW_FW
-realized_<br />_<br />	1
-ordered_<br />_<br />	1
+NNP_PRP$_NN
+Gaining_his_sense	1
 VBN_DT_NNP
 awarded_the_Oscar	1
 :_TO_VB
+..._To_support	1
 ;_to_make	1
 NN_''_VBZ
 guy_''_is	1
@@ -6203,6 +6020,8 @@ Samurai_''_is	1
 Samurai_''_has	1
 PRP$_NNS_VBD
 my_eyes_made	1
+:_NNP_IN
+..._All_in	1
 ,_JJ_TO
 ,_due_to	1
 NN_IN_VBG
@@ -6229,6 +6048,7 @@ NN_''_VBG
 guy_''_running	1
 NN_._.
 good_._.	1
+lot_!_.	1
 VB_CD_WDT
 be_one_that	1
 POS_''_IN
@@ -6317,9 +6137,6 @@ NN_''_IN
 Glory_''_along	1
 time_'_as	1
 heart_''_of	1
--LRB-_PRP_VBP
--LRB-_I_'m	1
--LRB-_I_know	1
 VBZ_TO_CC
 goes_to_both	1
 NNS_IN_RB
@@ -6332,13 +6149,6 @@ are_deleted_scenes	1
 are_enough_reviews	1
 :_NNP_NNP
 ..._!!!!_This	1
-:_<br />_This	1
-:_<br />_Luckily	1
-..._<br />_<br />	1
-NNP_NNP_:
-<p>_Action_-	1
-The_Story_:	1
-<p>_Conclusion_:	1
 CC_IN_DT
 and_for_all	1
 both_in_the	1
@@ -6363,8 +6173,6 @@ reasons_,_the	1
 movies_,_this	1
 viewers_,_this	1
 visuals_,_the	1
-:_VB_DT
-:_<br />_The	1
 VBZ_VBN_TO
 is_determined_to	1
 is_forced_to	1
@@ -6444,8 +6252,8 @@ CD_NNS_IN
 3_stars_from	1
 4_stars_if	1
 4-6_hours_of	1
-``_DT_NNP
-``_THE_LAST	2
+VB_IN_NN
+look_for_something	1
 CC_VB_PRP$
 and_take_its	1
 and_heal_his	1
@@ -6459,10 +6267,9 @@ the_Japanese_and	1
 ,_VBD_TO
 ,_had_to	1
 ,_failed_to	1
-NN_NN_-LRB-
-man_standing_-LRB-	1
-samurai_film_-LRB-	1
-Actor_Award_-LRB-	1
+IN_EX_VBZ
+Though_there_is	1
+that_there_is	1
 IN_EX_VBD
 that_there_was	1
 VBP_VBG_TO
@@ -6487,8 +6294,6 @@ VB_PRP_TO
 Add_it_to	1
 JJR_IN_PRP$
 more_of_their	1
-FW_FW_``
-<br />_<br />_``	3
 NNP_IN_PRP
 Samurai_as_they	1
 Go_for_it	1
@@ -6521,8 +6326,7 @@ climatic_battle_that	1
 definitive_film_that	1
 good_film_that	1
 fierce_battle_that	1
-FW_FW_-RRB-
-SPOILERS_!!!_-RRB-	1
+excellent_flick_that	1
 DT_,_DT
 another_,_the	1
 this_,_the	1
@@ -6538,8 +6342,10 @@ Braveheart_,_this	1
 Overall_,_The	2
 Algren_,_a	1
 Katsumoto_,_a	1
+Cruise_,_a	1
 IMDB_,_the	1
 TLS_,_a	1
+Nakamura_,_the	1
 Samurai_,_the	2
 VBG_RB_DT
 exceeding_even_the	1
@@ -6591,31 +6397,17 @@ movie_holds_good	1
 movie_is_fraught	1
 image_is_crisp	1
 design_is_flawless	1
-FW_FW_DT
-<br />_<br />_The	7
-<br />_<br />_the	3
-NN_CC_DT
-path_and_a	1
-movie_but_the	1
-popcorn_and_an	1
-language_and_the	1
-warrior_and_a	1
-history_and_all	1
-compassion_and_the	1
-performance_and_some	1
-renown_or_an	1
-samurai_and_the	1
-kiss_and_a	1
-assimilation_and_the	1
-form_or_another	1
-originality_and_the	1
-research_and_a	1
-cinematography_and_an	1
-bravery_and_a	1
-role_and_that	1
-hero_and_a	1
-date_and_this	1
-pupil_and_the	1
+,_NN_,
+,_etc._,	1
+,_bravery_,	1
+,_self-discipline_,	1
+,_intrigue_,	1
+,_loyalty_,	1
+,_duty_,	1
+,_modernization_,	1
+,_suspense_,	1
+,_arch_,	1
+,_necessity_,	1
 WP_VBZ_NNS
 who_has_nightmares	1
 WP_VBP_VBG
@@ -6631,8 +6423,6 @@ Genius_..._Thank	1
 ,_hopes_this	1
 FW_FW_''
 Samurai_lovin_'	1
-FW_FW_WDT
-<br />_<br />_that	2
 NN_RP_POS
 man_down_'	1
 VBG_RB_NNP
@@ -6658,6 +6448,8 @@ local_Bushido_dojo	1
 loyal_Samurai_leader	1
 magic_Samurai_conditioning	1
 old_SNL_skit	1
+NNP_JJ_TO
+Goldwynn_ready_to	1
 NN_RB_DT
 girl_together_a	1
 hdtv_then_this	1
@@ -6679,8 +6471,6 @@ their_inability_to	1
 my_hype_to	1
 your_collection_to	1
 his_turn_to	1
-JJ_:_NN
-interesting_..._<p>	1
 VBZ_NN_JJ
 is_provocation_enough	1
 is_nothing_short	1
@@ -6715,6 +6505,7 @@ but_I_know	1
 ,_it_'s	4
 ,_he_does	1
 ,_it_is	5
+,_he_realizes	1
 ,_he_is	1
 ,_he_meets	1
 ,_he_'s	1
@@ -6756,7 +6547,7 @@ but_I_watched	1
 ,_FW_FW
 ,_i_cant	1
 ,_cuz_i	1
-,_<br />_<br />	1
+,_SPOILERS_!!!	1
 JJ_CC_JJ
 ruthless_and_remorseless	1
 black_and_white	1
@@ -6796,8 +6587,6 @@ or_Terminator_sequels	1
 RB_PRP$_JJ
 only_my_second	1
 not_his_own	1
-POS_NNS_FW
-'s_men_<br />	1
 CC_JJ_IN
 and_few_between	1
 DT_VB_.
@@ -6816,6 +6605,7 @@ CD_WRB_NNP
 one_where_Tom	1
 NNP_VBN_IN
 Braveheart_thrown_in	1
+Katsumoto_portrayed_by	1
 IN_DT_RBR
 of_the_more	1
 that_a_more	1
@@ -6824,6 +6614,8 @@ IN_DT_RBS
 of_the_most	2
 NNP_WRB_JJ
 Oscar_when_other	1
+VBD_NN_PRP
+said_!!_I	1
 DT_RBS_VBN
 the_most_thought	1
 NNS_PRP_VBZ
@@ -6859,15 +6651,6 @@ CD_VBG_PRP$
 one_waiting_his	1
 NN_FW_FW
 film_genre_!!!	1
-film_<br />_<br />	1
-masterpiece_<br />_<br />	1
-!!_<p>_Extras	1
-country_<br />_<br />	1
-flick_<br />_<br />	1
-NN_-RRB-_,
-samurai_-RRB-_,	1
-Col.Bagley_-RRB-_,	1
-role_-RRB-_,	1
 NN_:_VBD
 wife_-_made	1
 MD_RB_NN
@@ -6959,8 +6742,6 @@ stands_for_.	1
 comes_in_.	1
 :_CC_DT
 -_but_any	1
-VBP_DT_RBR
-go_any_further	1
 NN_JJR_IN
 nothing_more_than	2
 Way_better_than	1
@@ -7107,8 +6888,6 @@ n't_deserve_.	1
 ever_give_.	1
 NNP_''_RB
 Honour_'_actually	1
-RB_FW_FW
-properly_!!!_<br />	1
 PDT_DT_WP
 all_those_who	2
 NN_PRP_.
@@ -7120,8 +6899,8 @@ feel_to_it	1
 newcomer_to_me	1
 WDT_VBP_PRP$
 that_keep_their	1
-CD_NN_-RRB-
-7_Samurai_-RRB-	1
+,_DT_WP
+,_those_who	1
 NNS_NNS_WDT
 intellectuals_statements_that	1
 RBR_JJ_NNS
@@ -7196,19 +6975,6 @@ already_seen_Braveheart	1
 always_felt_Tom	1
 newly_purchased_PS3	1
 never_seen_Hiroyuki	1
-NNP_-LRB-_NNP
-River_-LRB-_Widescreen	1
-Katsumot_-LRB-_Ken	1
-Spall_-LRB-_Simon	1
-Meiji_-LRB-_Schichinosuke	1
-Koyuki_-LRB-_Taka	1
-Bagley_-LRB-_Tony	2
-Ikematsu_-LRB-_Higen	1
-Emperor_-LRB-_Nakamura	1
-Algren_-LRB-_Tom	1
-Katsumoto_-LRB-_Ken	1
-Koyamada_-LRB-_Nobutada	1
-Harado_-LRB-_Omura	1
 IN_PRP_CC
 from_me_and	1
 with_them_and	1
@@ -7272,8 +7038,6 @@ audience_was_the	1
 good_was_the	1
 scene_was_a	1
 History_was_a	1
-DT_NN_-LRB-
-a_disappointment_-LRB-	1
 CC_DT_NN
 and_some_battle	1
 and_the_audio	1
@@ -7307,6 +7071,7 @@ RB_VBD_NN
 so_did_everything	1
 :_EX_VBZ
 ..._there_is	1
+:_There_is	1
 RB_NN_DT
 clearly_witness_a	1
 RBS_JJ_NN
@@ -7398,35 +7163,6 @@ NN_WP_PRP
 general_who_he	1
 WDT_VBD_VBG
 that_were_running	1
-PRP_VBZ_RB
-It_is_instead	1
-he_has_regularly	1
-It_is_n't	1
-It_'s_also	1
-He_has_also	1
-she_is_downright	1
-It_'s_not	4
-it_is_n't	2
-it_looks_right	1
-it_is_still	1
-he_does_n't	1
-he_is_fully	1
-he_works_hard	1
-He_'s_just	1
-it_'s_not	3
-It_is_all	1
-it_is_nonetheless	1
-it_'s_just	1
-it_'s_only	1
-it_is_so	1
-she_does_not	1
-it_is_simply	1
-it_is_too	1
-it_is_certainly	1
-NN_-LRB-_VB
-film_-LRB-_save	1
-NN_WRB_JJ
-class_when_many	1
 RB_,_NNP
 However_,_Mr.	1
 back_,_Algren	1
@@ -7457,14 +7193,10 @@ PRP_MD_TO
 he_can_to	1
 NN_JJ_PRP
 self_important_it	1
--LRB-_VB_NNP
--LRB-_think_MGM	1
 NNP_WDT_VBP
 Stories_that_involve	1
-FW_CC_JJ
-<br />_And_right	1
-NNS_-LRB-_DT
-people_-LRB-_the	1
+:_NNP_NN
+:_This_movie	1
 NN_VBZ_NNP
 contender_is_Clint	1
 ex-boyfriend_catches_Algren	1
@@ -7518,6 +7250,7 @@ of_love_by	1
 of_ca-ca_as	1
 of_life_despite	1
 around_town_with	1
+in_essence_of	1
 that_trend_with	1
 that_plenty_of	1
 in_battle_as	1
@@ -7574,8 +7307,6 @@ TO_JJ_JJ
 to_certain_strict	1
 VBD_CD_NNS
 was_28_years	1
-FW_NNP_:
-<br />_Story_-	1
 IN_JJR_IN
 in_less_than	1
 EX_RB_VB
@@ -7592,20 +7323,19 @@ samurai_warrior_willing	1
 VB_WRB_DT
 know_how_a	1
 FW_NNP_,
-<br />_Overall_,	1
 lord_Katsumoto_,	1
 ,_IN_EX
 ,_that_there	1
 NN_VBP_CD
 film_have_4-6	1
-FW_EX_VBZ
-<br />_There_is	1
 WP_JJR_MD
 what_more_could	1
 JJS_NN_NNP
 best_actor_Oscar	1
 :_JJ_:
 ..._different_...	1
+VBN_NNP_VBN
+named_Katsumoto_portrayed	1
 POS_NN_VBZ
 's_story_does	1
 's_character_is	1
@@ -7624,15 +7354,12 @@ figure_to_hardened	1
 self_to_new	1
 CC_NNPS_VBP
 and_Americans_deal	1
-VB_PRP_RP
-pass_it_up	1
-track_them_down	1
+POS_JJ_NNS
+'s_other_assets	1
 NNP_MD_RB
 Samurai_will_never	1
 Hero_would_n't	1
 Samurai_would_just	1
-PRP$_NN_PRP$
-his_<br />_his	1
 CC_IN_NNP
 and_that_Ken	1
 and_that_Tom	1
@@ -7680,6 +7407,7 @@ impulse_since_i	1
 LS_VBN_DT
 i_purchased_this	1
 NN_:_EX
+movie_:_There	1
 gore-fest_..._there	1
 IN_JJ_FW
 of_other_Samurai	1
@@ -7716,8 +7444,6 @@ clearly_,_only	1
 very_,_very	2
 POS_NN_VBD
 's_character_was	2
-FW_DT_NNS
-<br />_the_visuals	1
 NN_:_WP
 honor_..._What	1
 PDT_DT_RBR
@@ -7726,6 +7452,7 @@ NNP_IN_``
 Monty_in_``	1
 NN_,_WP
 past_,_who	1
+samurai_,_who	1
 ''_PRP_VBZ
 ''_she_shows	1
 NN_NNP_NN
@@ -7773,8 +7500,6 @@ Samurai_''_simply	1
 Samurai_''_again	1
 DT_VBD_TO
 this_promised_to	1
--LRB-_FW_FW
--LRB-_SPOILERS_!!!	1
 DT_NNS_DT
 the_rings_the	1
 CD_VBZ_DT
@@ -7785,14 +7510,12 @@ RB_VB_CD
 ever_be_one	1
 RB_VB_CC
 n't_care_and	1
-NN_-LRB-_DT
-someone_-LRB-_the	1
 NNP_NN_CC
 Samurai_leader_and	1
 Oscar_nomination_and	1
-IN_VBG_NN
-of_being_great.That	1
-of_competing_value	1
+VB_PRP_VBG
+have_you_thinking	1
+find_himself_leading	1
 DT_NN_VBN
 a_man_named	1
 a_samurai_named	1
@@ -7801,15 +7524,12 @@ some_blood_involved	1
 a_man_haunted	1
 VB_PRP_VBZ
 say_it_does	1
-<br />_It_is	1
 MD_VB_CC
 can_understand_or	1
 would_be_but	1
 will_try_and	1
 VBN_TO_JJ
 invited_to_big	1
--RRB-_IN_NNP
--RRB-_of_Mel	1
 JJ_,_RB
 entertaining_,_just	1
 fantastic_,_especially	1
@@ -7874,10 +7594,6 @@ Snicket_''_plays	1
 SAMURAI_''_looks	1
 IN_RB_WRB
 out_there_where	1
-VBG_NNPS_FW
-salivating_Americans_<br />	1
--RRB-_,_WP
--RRB-_,_who	1
 JJS_PRP_VBP
 best_I_'ve	1
 VBN_PRP_VBG
@@ -7900,9 +7616,11 @@ Shogun_,_TLS	1
 War_,_Captain	1
 Army_,_Captain	1
 Dreamcatcher_,_Alex	1
+Nobutada_,_Sosuke	1
 Yes_,_Tom	1
 May_,_The	1
 Lock_,_Stock	1
+Graham_,_Tony	1
 ``_JJ_NN
 ``_Raging_Bull	1
 ``_white_guy	2
@@ -7924,10 +7642,6 @@ VBP_CC_VBP
 make_or_break	1
 VBP_IN_MD
 claim_in_can	1
-NNS_-LRB-_WDT
-films_-LRB-_which	1
-NNP_PRP$_NN
-Gaining_his_sense	1
 :_CC_VBN
 ..._but_done	1
 VBN_RP_IN
@@ -7942,19 +7656,12 @@ are_pretty_much	1
 intend_not_only	1
 VBZ_JJ_NNS
 features_nice_perfomances	1
-JJ_-LRB-_NN
-graphic_-LRB-_hey	1
 RB_RB_JJR
 exactly_historically_kosher	1
 so_much_better	1
 VBD_NN_IN
 took_place_in	1
 did_kind_of	1
-CC_NNP_.
-vs_Rifleman_.	1
-or_Daimyo_.	1
-and_Japan_.	1
-vs_Howitzers_.	1
 POS_NNP_VBD
 's_Nathan_was	1
 JJ_VBG_JJ
@@ -8043,9 +7750,6 @@ Samurai_''_changed	1
 PRP_IN_NNP
 him_after_Nathan	1
 it_with_Samurai	1
-NN_-LRB-_PRP
-hand_-LRB-_I	1
-Award_-LRB-_I	1
 VBN_TO_PRP
 left_to_us	1
 given_to_him	1
@@ -8087,7 +7791,6 @@ DT_JJS_IN
 the_rarest_of	1
 the_best_since	1
 FW_IN_PRP
-<br />_If_you	3
 !!!_Before_I	1
 NNP_NNP_NNS
 Warner_Brother_executives	1
@@ -8095,28 +7798,37 @@ year?s_Academy_Awards	1
 FW_WRB_IN
 !!!_Why_on	1
 NNP_NNP_NNP
-<br />_<br />_Go	1
 Civil_War_Captain	1
-<p>_The_Story	1
+Mystic_River_Widescreen	1
+Colonel_Bagley_Tony	2
+Shin_Koyamada_Nobutada	1
 <a href="http://www.amazon.com/gp/product/B00065GX0K">_The_Twilight	1
 Director_Masato_Harada	1
-<br />_<br />_Watanabe	1
 Col._Benjamin_Bagley	1
 American_Movie_Hero	1
 <a href="http://www.amazon.com/gp/product/B0001ZX0OW">_Mystic_River	1
-<br />_<br />_All	1
+River_Widescreen_Edition	1
 Clint_Eastwood?s_Mystic	1
 Captain_Woodrow_Algren	2
 Twilight_Samurai_</a>	1
-<br />_Ken_Watanabe	1
+Meiji_Schichinosuke_Nakamura	1
 Though_Tom_Cruise	1
+Office_Space_Though	1
+Sosuke_Ikematsu_Higen	1
+Masato_Harado_Omura	1
 Little_Big_Horn	1
-Ken_<br />_<br />	1
-<br />_Tom_Cruise	1
+Bagley_Tony_Goldwynn	1
+Spall_Simon_Graham	1
+Nathan_Algren_Tom	1
 Captain_Nathan_Algren	1
+Algren_Tom_Cruise	1
+Timothy_Spall_Simon	1
+Katsumoto_Ken_Watanabe	1
 Eastwood?s_Mystic_River	1
+Bagley_Tony_Goldwyn	1
 Director_Edward_Zwick	1
 The_Twilight_Samurai	1
+Katsumot_Ken_Watanabe	1
 VB_RB_JJ
 be_too_popular	1
 be_extremely_graphic	1
@@ -8125,6 +7837,7 @@ look_somewhat_grim	1
 be_easily_recognizable	1
 become_as_famous	1
 NN_WDT_PRP
+disappointment_which_it	1
 living_which_it	1
 country_which_I	1
 atrocity_which_he	1
@@ -8185,12 +7898,14 @@ it_,_you	1
 -_are_all	1
 POS_NN_WDT
 's_depression_that	1
+WRB_NNP_VBZ
+where_Tom_learns	1
 VBN_DT_VBG
 won_the_Supporting	1
 RBR_RB_VBN
 less_then_warranted	1
-FW_FW_TO
-<br />_<br />_to	1
+RB_JJ_PRP
+supprisingly_good_it	1
 NNP_NNS_IN
 Samurai_ends_in	1
 Nathan_battles_against	1
@@ -8209,27 +7924,23 @@ reviews_of_it	1
 Things_that_he	1
 classes_that_he	1
 stars_from_me	1
+days_unless_they	1
 VB_PRP_RB
-<p>_He_also	1
-take_him_back	1
 tell_you_anymore	1
 turn_me_fully	1
 take_me_back	1
-<p>_I_also	1
+take_him_back	1
 VBZ_VBN_PRP
 has_found_itself	1
-NNP_-RRB-_IN
-Taka_-RRB-_as	1
-Higen_-RRB-_as	1
 :_''_.
 ..._'_.	1
 NNS_IN_FW
-criticisms_for_<br />	1
 means_of_one?s	1
 NNP_VB_DT
 Cruise_get_an	1
--LRB-_VBG_JJS
--LRB-_including_best	1
+VB_PRP_RP
+pass_it_up	1
+track_them_down	1
 POS_JJ_NNP
 's_good_!!!!	1
 's_technocratic_Japan	1
@@ -8252,8 +7963,6 @@ be_nominated_for	1
 be_stated_that	1
 MD_VB_,
 might_say_,	1
--LRB-_WDT_RB
--LRB-_which_usually	1
 RB_CD_IN
 certainly_one_of	1
 possibly_one_of	1
@@ -8365,8 +8074,10 @@ tip_my_hat	1
 waste_your_time	1
 NNS_JJ_IN
 roles_deserving_of	1
+devices_such_as	1
 PRP_IN_NNS
 it_in_theaters	1
+him_in_thats	1
 VBZ_RB_RBS
 is_still_most	1
 JJ_CC_VBZ
@@ -8374,9 +8085,8 @@ unrealistic_and_is	1
 dry_and_lacks	1
 FW_FW_FW
 !!_Shogun_lite	1
-Shogun_lite_??!!	1
-!!!_<br />_<br />	1
 Issssss_goooood_!!!	1
+Shogun_lite_??!!	1
 IN_MD_DT
 as_will_the	1
 JJ_CC_VBD
@@ -8386,8 +8096,8 @@ NN_VBD_.
 score_swelled_.	1
 NN_CD_IN
 honesty_one_of	1
-''_VBN_-LRB-
-''_recieved_-LRB-	1
+NNPS_IN_DT
+Americans_at_the	1
 RB_DT_RBS
 not_the_most	1
 IN_VB_IN
@@ -8399,6 +8109,7 @@ RB_JJ_NN
 almost_chaste_kiss	1
 very_good_job	1
 too_much_time	1
+extremely_graphic_hey	1
 very_good_film	1
 critically_acclaimed_role	1
 still_worth_saving	1
@@ -8411,18 +8122,14 @@ surprisingly_refreshing_escape	1
 vastly_different_culture	1
 very_little_CGI	1
 so_2nd_rate	1
-FW_IN_NNP
-<br />_like_Colonel	1
-PRP_IN_-LRB-
-him_in_-LRB-	1
-NNS_WDT_VBP
-people_that_follow	1
-features_that_take	1
-techniques_that_convert	1
-warriors_that_have	1
-tribes_that_have	1
-principles_that_keep	1
-movies_that_'ve	1
+NN_:_TO
+connection_..._To	1
+CC_NN_,
+and_compassion_,	1
+or_suicide_,	1
+and_originality_,	1
+and_ancestry_,	1
+and_directing_,	1
 RB_``_PRP
 well_`_It	1
 DT_NNS_CC
@@ -8468,19 +8175,14 @@ wasnt_so_low	1
 nothing_particularly_wrong	1
 bit_too_unoriginal	1
 way_too_many	1
-NN_-LRB-_WDT
-disappointment_-LRB-_which	1
-costume_-LRB-_Which	1
 RB_NNS_IN
 Even_films_of	1
 WDT_VBZ_VB
 that_does_exist	1
 NN_RB_,
-til_now_,	1
-<p>_Fortunately_,	1
-redemption_back_,	1
-<p>_Actually_,	1
 theater_very_,	1
+til_now_,	1
+redemption_back_,	1
 everything_else_,	1
 NN_JJ_JJ
 part_Native_American	1
@@ -8520,18 +8222,14 @@ VB_DT_NN
 see_a_discussion	1
 ruin_the_movie	2
 kill_a_group	1
-<p>_The_cast	1
 redeem_the_failure	1
 mention_the_fact	1
-<p>_The_downside	1
-find_the_honor	1
-take_a_position	1
+Play_the_piano	1
 complete_the_story	1
 like_the_fact	1
 be_a_disappointment	1
 see_that_nobility	1
 fit_the_role	1
-<p>_The_action	1
 beat_this_man	1
 view_this_movie	1
 aid_the_modernization	1
@@ -8539,12 +8237,10 @@ train_an_army	1
 see_the_relationship	1
 display_any_realism	1
 be_a_success	1
-Make_no_mistake	1
-watch_this_movie	2
-<p>_The_acting	1
-<p>_The_scene	1
+use_the_ole	1
+find_the_honor	1
 recomment_this_movie	1
-<br />_The_film	1
+Make_no_mistake	1
 follow_that_trend	1
 enjoy_this_movie	2
 be_a_samurai	1
@@ -8552,17 +8248,15 @@ commit_the_act	1
 defeat_the_adversary	1
 view_a_movie	1
 reach_the_level	1
-Play_the_piano	1
-<p>_The_story	1
 keep_this_movie	1
 see_this_movie	2
 give_this_film	1
 modernize_the_way	1
 make_the_stand	1
-<p>_The_movie	2
+take_a_position	1
 credit_this_film	1
 applaud_the_movie	1
-use_the_ole	1
+watch_this_movie	2
 see_any_edge	1
 review_the_quality	1
 turn_the_country	1
@@ -8600,12 +8294,14 @@ see_Tom_Cruise	1
 praise_Minority_Report	1
 cast_Tom_Cruise	1
 be_Tom_Cruise	1
-DT_JJ_FW
-the_very_<br />	1
+VBN_IN_TO
+called_upon_to	1
 ''_CC_PRP
 ''_but_it	1
 NNS_NN_NNS
 titles_offer.The_goods	1
+:_PRP_VBD
+..._I_thought	1
 ,_VB_NN
 ,_find_peace	1
 TO_VB_RB
@@ -8635,6 +8331,7 @@ It_has_some	1
 It_'s_the	1
 It_is_a	1
 it_'s_a	1
+it_has_an	1
 he_develops_a	1
 it_'s_an	2
 It_does_a	1
@@ -8645,7 +8342,7 @@ He_needs_a	1
 it_has_a	1
 it_drags_this	1
 She_brings_a	1
-it_has_an	1
+it_is_the	1
 it_boasts_some	1
 he_does_all	1
 he_does_a	1
@@ -8703,6 +8400,7 @@ RB_RB_VBG
 n't_naturally_going	1
 not_only_understanding	1
 RB_RB_VBD
+very_well_performed	1
 so_far_fetched	1
 never_really_showed	1
 not_otherwise_had	1
@@ -8739,8 +8437,10 @@ level_,_black	1
 directing_,_great	1
 VBN_NNP_POS
 widowed_Samurai_'s	1
-VBZ_DT_JJR
-is_a_better	1
+IN_NN_NNP
+for_Best_Sound	1
+as_captain_nNathan	1
+with_director_Edward	1
 RB_RB_VBZ
 only_successfully_presents	1
 not_only_shows	1
@@ -8759,7 +8459,6 @@ best_movie_i	1
 NN_VB_VBN
 film_be_categorized	1
 NNP_NNP_IN
-<br />_Go_for	1
 Tim_Robbins_though	1
 Colonel_Bagloney_against	1
 Mr._Cruise_for	1
@@ -8768,9 +8467,10 @@ National_Board_of	1
 Ken_Watanabe_as	1
 Uncle_Monty_in	1
 Tom_Cruise_as	2
-<br />_All_in	1
+Ikematsu_Higen_as	1
 Jon_Lovitz_in	1
 Japanese_Academy_with	1
+Koyuki_Taka_as	1
 Ken_Watanabe_for	1
 Tom_Cruise_on	1
 RB_VB_RP
@@ -8844,8 +8544,6 @@ VBN_,_RB
 stabbed_,_naturally	1
 ,_''_``
 ,_''_``	1
-JJ_-RRB-_PRP
-good_-RRB-_it	1
 JJ_WRB_NNP
 odd_how_Tom	1
 NNP_NNS_NN
@@ -8855,8 +8553,6 @@ MD_PRP_VB
 will_one_begin	1
 VBZ_NNS_:
 switches_sides_-	1
-NNS_''_IN
-Wolves_''_with	1
 VB_VBN_JJR
 have_demanded_more	1
 have_been_nicer	1
@@ -8907,8 +8603,6 @@ he_feels_he	1
 he_draws_you	1
 he_takes_him	1
 he_trains_them	1
-DT_-LRB-_EX
-another_-LRB-_there	1
 VB_PRP_CC
 protect_them_and	1
 IN_VBN_TO
@@ -8949,9 +8643,8 @@ getting_those_movies	1
 forgoeing_the_traditions	1
 honoring_the_traditions	1
 understanding_the_ways	1
--RRB-_,_PRP
--RRB-_,_it	1
--RRB-_,_I	1
+VB_:_CC
+endure_..._and	1
 VBZ_CC_NNP
 ensues_and_Algren	1
 ,_IN_VBN
@@ -8967,8 +8660,9 @@ samurai_to_anyone	1
 ..._What_a	1
 PRP_IN_PRP$
 him_into_his	1
-NN_VBD_FW
-soldier_ordered_<br />	1
+FW_FW_RB
+lite_??!!_Nevertheless	1
+cuz_i_only	1
 NN_NN_VBZ
 action_epic_features	1
 battle_scene_is	1
@@ -9021,6 +8715,7 @@ RB_NNP_NN
 anymore_Hollywood_star	1
 NNS_WDT_RB
 peasants_that_never	1
+films_which_usually	1
 locations_that_much	1
 NN_NN_VBP
 Origianl_Score_are	1
@@ -9038,11 +8733,13 @@ JJR_``_JJ
 more_``_phoney	1
 NNP_NNP_VB
 Tom_Cruise_get	1
+Samuel_Goldwyn_think	1
 !!!!_Nice_try	1
 ,_NNP_VBZ
 ,_Algren_meets	1
 ,_Algren_joins	1
 ,_Algren_spends	1
+,_Katsumoto_keeps	1
 ,_Algren_is	1
 ,_Tom_is	1
 ,_Algren_understands	1
@@ -9099,6 +8796,7 @@ live_by_,	1
 PRP_VBP_''
 you_!!!!!_''	1
 NNP_:_DT
+Story_:_The	1
 Action_-_The	1
 VBG_NN_TO
 following_month_to	1
@@ -9119,19 +8817,16 @@ NNP_,_''
 Samurai_,_''	1
 Siege_,_''	1
 NN_VBD_TO
+soldier_ordered_to	1
 director_went_to	1
-FW_``_NNS
-<br />_``_Legends	1
 NNP_NNS_NNP
 Algren_practices_Bushido	1
 JJR_NN_RB
 greater_honor_then	1
-MD_VB_TO
-would_be_to	1
-would_like_to	2
-'ll_want_to	1
-would_have_to	2
-may_want_to	1
+NNP_NNP_DT
+Space_Though_this	1
+Mr._Miyagi_an	1
+Nathan_Algren_a	1
 RB_IN_CD
 only_after_one	1
 RB_RB_,
@@ -9150,16 +8845,11 @@ more_intense_than	1
 ''_VBZ_RB
 ''_is_n't	1
 ''_has_fully	1
-NNP_:_VB
-Story_:_<br />	1
 NNS_VBP_RP
 ethnicities_end_up	1
 chores_turn_out	1
 WP$_NN_IN
 whose_portrayal_of	1
-NNS_FW_FW
-men_<br />_<br />	1
-stereotypes_etc._<p>	1
 VBZ_PRP_RP
 draws_you_in	1
 takes_him_on	1
@@ -9173,8 +8863,8 @@ it_both_times	1
 -_made_a	1
 WRB_PRP$_JJ
 When_his_old	1
-VB_IN_JJ
-be_that_great	1
+NN_WRB_DT
+cinema_where_the	1
 VB_WP_MD
 say_who_would	1
 PRP_VBZ_,
@@ -9205,7 +8895,6 @@ great_touching_movie	1
 true_acting_talent	1
 own_good_!!	1
 other_Caucasian_man	1
-<p>_Next_!!	1
 late_19th_century	1
 second_favorite_movie	1
 small_Japanese_town	1
@@ -9213,7 +8902,6 @@ typical_big_action	1
 stunning_detailed_ride	1
 cliched_faux_character	1
 new_modern_army	1
-<p>_Special_mention	1
 aggressive_western_barbarian	1
 RP_IN_NN
 out_in_battle	1
@@ -9228,9 +8916,6 @@ CC_NN_MD
 and_comer_would	1
 TO_NN_VBD
 to_drink_seemed	1
-IN_EX_VBZ
-Though_there_is	1
-that_there_is	1
 TO_NN_VBZ
 to_address_is	1
 JJ_NNP_WDT
@@ -9247,8 +8932,6 @@ VBN_NNS_IN
 watched_Dances_with	1
 seen_things_that	1
 conveyed_feelings_towards	1
-IN_-LRB-_WRB
-in_-LRB-_When	1
 PRP$_RB_JJ
 his_critically_acclaimed	1
 VBN_DT_JJR
@@ -9275,10 +8958,8 @@ JJR_NNS_IN
 better_performances_in	1
 MD_VB_VBG
 will_be_kissing	1
-IN_-LRB-_NNS
-in_-LRB-_thats	1
-JJ_NNS_-LRB-
-spiritual_people_-LRB-	1
+VBG_NN_DT
+playing_pin_the	1
 NNS_,_IN
 subtitles_,_of	1
 thousands_,_of	1
@@ -9338,10 +9019,11 @@ to_protect_them	1
 to_make_them	1
 to_watch_it	1
 to_lose_myself	1
-FW_FW_RB
-lite_??!!_Nevertheless	1
-cuz_i_only	1
-<br />_<br />_So	1
+CC_NNP_.
+vs_Rifleman_.	1
+or_Daimyo_.	1
+and_Japan_.	1
+vs_Howitzers_.	1
 VBD_VBN_DT
 had_starred_an	1
 was_considered_the	1
@@ -9361,12 +9043,10 @@ have_loved_to	2
 have_liked_to	1
 be_seen_to	1
 JJ_NN_FW
-good_!!_<p>	1
-fine_film_<br />	1
-excellent_flick_<br />	1
+good_!!_Extras	1
 only_think_i	1
-FW_FW_UH
-<br />_<br />_Please	1
+DT_CD_JJ
+this_one_many	1
 NNP_VBG_VBD
 Samurai_becoming_phased	1
 NNP_NNPS_.
@@ -9381,6 +9061,7 @@ WRB_JJ_DT
 how_such_a	1
 how_much_the	1
 VBZ_DT_NNS
+is_the_visuals	1
 sees_both_sides	1
 makes_the_battles	1
 's_the_principles	1
@@ -9506,6 +9187,7 @@ As_a_Japanese	1
 than_the_world-reknowned	1
 than_a_dead	1
 as_a_great	1
+from_the_corrupt	1
 from_a_few	1
 for_a_wonderful	1
 of_the_modern	1
@@ -9531,22 +9213,17 @@ Katsumoto_,_he	1
 -_between_an	1
 IN_VBG_,
 of_grunting_,	1
-VBN_IN_IN
-set_upon_by	1
-overdone_as_in	1
 ''_,_IN
 ''_,_about	1
-DT_NN_-RRB-
-the_samurai_-RRB-	1
-the_warrior_-RRB-	1
-the_cinema_-RRB-	1
-this_movie_-RRB-	1
+JJS_NN_.
+best_picture_.	1
 PRP$_JJ_JJ
 your_own_good	1
 his_old_American	1
 my_second_favorite	1
 NN_RB_IN
 step_up_from	1
+war_so_if	1
 trip_back_in	1
 anything_away_from	1
 audience_back_into	1
@@ -9583,19 +9260,11 @@ and_stunning_.	1
 and_educative_.	1
 VBN_``_NNP
 named_``_Fritz	1
-DT_MD_VB
-this_may_be	1
-some_may_have	1
-this_will_teach	1
-this_would_look	1
-a_must_see	1
-some_may_note	1
-This_would_have	1
-those_can_be	1
-some_might_say	1
+CC_JJ_,
+and_semi-conscious_,	1
+And_right_,	1
 FW_RB_,
 ??!!_Nevertheless_,	1
-<br />_So_,	1
 VBP_PRP_TO
 devote_themselves_to	1
 return_him_to	1
@@ -9609,17 +9278,10 @@ to_anyone_who	1
 RB_,_WRB
 then_,_where	1
 FW_FW_IN
-<br />_<br />_By	1
-<br />_<br />_If	3
-<br />_<br />_like	1
-<br />_<br />_In	1
 remind_me_of	1
 Sacrifice_oneself_for	1
-<br />_<br />_into	1
-<br />_<br />_After	1
-Chopin_!!!_Despite	1
 genre_!!!_Before	1
-<br />_<br />_For	1
+Chopin_!!!_Despite	1
 RP_TO_PRP$
 off_to_your	1
 in_to_his	1
@@ -9683,6 +9345,8 @@ except_maybe_its	1
 IN_CD_.
 of_2003_.	1
 in_1999_.	1
+DT_._.
+that_!_.	1
 JJS_IN_PRP
 Most_of_you	1
 CC_VBG_IN
@@ -9740,14 +9404,6 @@ NN_PRP$_NNS
 way_their_people	1
 ,_WP_NNS
 ,_who_nurses	1
-NN_-RRB-_.
-DVD_-RRB-_.	1
-UWW_-RRB-_.	1
-fare_-RRB-_.	1
-course_-RRB-_.	1
-picture_-RRB-_.	1
-movie_-RRB-_.	1
-ending_-RRB-_.	1
 IN_JJ_NN
 with_ample_shadow	1
 of_Japanese_history	1
@@ -9799,16 +9455,12 @@ CD_RB_,
 TO_PRP_CC
 to_him_and	1
 to_him_or	1
-DT_._-RRB-
-that_!_-RRB-	1
 DT_``_NNP
 the_`_Katana	1
 The_``_Seppuku	1
 the_``_Tom	1
 DT_RP_NN
 all_out_gore-fest	1
-NNP_-RRB-_NN
-Edition_-RRB-_</a>	1
 CD_NN_CC
 one_form_or	1
 IN_NN_VBG
@@ -9821,12 +9473,10 @@ locations_needed_to	1
 VBN_RB_FW
 done_properly_!!!	1
 IN_FW_FW
+of_one?s_star-power	1
 into_Chopin_!!!	1
-from_<br />_<br />	1
 for_Koyuki_san	1
 of_remind_me	1
-of_one?s_star-power	1
-for_<br />_<br />	1
 PRP$_NN_IN
 his_time_with	1
 Their_way_of	1
@@ -9961,9 +9611,10 @@ HDTV_using_my	1
 NN_VBD_VBN
 team_was_committed	1
 movie_had_starred	1
-emperor_was_reminded	1
+Samurai_had_been	1
 army_was_modelled	1
 movie_was_shot	1
+emperor_was_reminded	1
 character_was_needed	1
 movie_was_supposed	1
 CGI_was_used	1
@@ -10006,8 +9657,8 @@ RB_VBD_JJ
 certainly_did_good	1
 JJ_TO_NNS
 similar_to_Dances	1
-NNP_''_-LRB-
-RAN_''_-LRB-	1
+JJR_TO_VB
+nicer_to_see	1
 VB_VB_PRP
 go_see_it	1
 ,_NN_CC
@@ -10077,39 +9728,40 @@ acted_,_has	1
 ,_historical_comparisons	1
 ,_sympathetic_characters	1
 ,_many_times	1
-VB_NN_RB
-<br />_<br />_not	1
+,_JJ_NNP
+,_Last_Samurai	1
+,_alcoholic_Civil	1
 DT_NN_PDT
 this_year_all	1
 JJR_NN_PRP
 more_!!!_I	1
 RB_VBZ_PRP$
 obvioulsy_speaks_her	1
-FW_FW_VBD
-<br />_<br />_Did	1
 VB_PRP_POS
 blend_it_'s	1
 WDT_VBP_DT
 that_involve_a	1
 that_are_the	1
 that_follow_the	1
-IN_NN_NNP
-for_Best_Sound	1
-with_director_Edward	1
+VBZ_DT_JJR
+is_a_better	1
 ,_RB_.
 ,_actually_.	1
-FW_FW_VBZ
-<br />_In_comes	1
-<br />_<br />_keeps	1
 PRP_VBP_WP
 I_know_what	1
 VBZ_DT_JJS
 depicts_the_deepest	1
 is_the_best	1
-VBN_CC_MD
-chosen_and_will	1
-,_NNP_-LRB-
-,_Emperor_-LRB-	1
+NNP_NN_.
+Samurai_classic_!	1
+SNL_skit_.	1
+Sony_decoder_.	1
+Edition_</a>_.	1
+Oscar_nomination_.	1
+Samurai_warrior_.	1
+Oscar_potential_.	1
+HD_DVD_.	1
+Samurai_history_.	1
 NNP_POS_JJ
 Zwick_'s_crowning	1
 Algren_'s_rental	1
@@ -10129,6 +9781,7 @@ this_it_not	1
 ,_The_Matrix	1
 ,_Captain_Nathan	1
 ,_Tom_Cruise	5
+,_Emperor_Nakamura	1
 ,_Captain_Algren	4
 ,_NNP_NNS
 ,_Algren_practices	1
@@ -10172,6 +9825,7 @@ JJ_VBD_JJ
 general_was_beautiful	1
 CC_NN_WDT
 and_bravery_that	1
+and_costume_Which	1
 NNP_VBZ_VBN
 Sanada_has_been	1
 Algren_is_left	1
@@ -10213,6 +9867,7 @@ kids_of_the	1
 extras_on_the	1
 ways_of_another	1
 generals_in_the	1
+criticisms_for_the	1
 settings_in_the	1
 calls_on_the	1
 wars_with_the	1
@@ -10254,6 +9909,7 @@ as_Dances_With	1
 for_<a href="http://www.amazon.com/gp/product/B0001ZX0OW">_Mystic	1
 by_Tom_Cruise	1
 that_Ken_Watanabe	1
+by_Katsumot_Ken	1
 in_Steven_Spielberg?s	1
 of_Captain_Algren	2
 in_<a href="http://www.amazon.com/gp/product/B00065GX0K">_The	1
@@ -10282,12 +9938,11 @@ of_Nathan_Algren	1
 of_Colonel_Bagloney	1
 WRB_RB_DT
 how_easily_the	1
-NNP_NNS_-LRB-
-Samurai_films_-LRB-	1
 RB_DT_VBZ
 Overall_this_gets	1
 then_this_is	2
 RB_VBD_IN
+also_reeked_in	1
 patiently_waited_for	1
 just_found_that	1
 first_heard_of	1
@@ -10316,8 +9971,6 @@ different_..._when	1
 JJR_NN_VBZ
 more_one_knows	1
 more_training_is	1
-DT_NNS_-LRB-
-these_days_-LRB-	1
 NNP_NNP_WP
 Tony_Goldwyn_who	1
 Nathan_Algren_who	1
@@ -10328,8 +9981,8 @@ Edward_Zwick_who	1
 War_Captain_who	1
 VBZ_NNP_WRB
 needs_Oscar_when	1
-RB_RB_NNP
-certainly_not_Samurai	1
+NNPS_IN_NNP
+Americans_like_Colonel	1
 NNPS_IN_NNS
 Dances_with_Wolves	1
 VBN_NNP_.
@@ -10384,10 +10037,6 @@ due_to_the	1
 ,_RB_VBZ
 ,_unfortunately_is	1
 ,_here_'s	1
-PRP_VBG_RP
-itself_dying_out	1
-NN_EX_VBZ
-<br />_There_is	1
 ``_NN_,
 ``_Acting_,	1
 ``_Ghost_,	1
@@ -10396,8 +10045,8 @@ NN_EX_VBZ
 ``_Pulse_.	1
 FW_FW_VB
 i_dont_know	1
-NN_CC_UH
-<br />_And_oh	1
+NNS_''_IN
+Wolves_''_with	1
 CC_NNP_NNP
 and_Jude_Law	1
 and_Tom_Cruise	3
@@ -10425,8 +10074,6 @@ that_fact_interesting	1
 ,_RB_VBG
 ,_far_exceeding	1
 ,_especially_seeing	1
-FW_JJR_NNS
-<br />_Smaller_roles	1
 IN_JJ_.
 of_spectacular_.	1
 for_last_.	1
@@ -10472,8 +10119,11 @@ film_,_Tom	1
 drama_,_Minority	1
 character_,_Katsumoto	1
 man_,_Tom	1
+Col.Bagley_,_Emperor	1
 leader_,_Katsumoto	1
 time_,_Captain	1
+POS_NNS_WDT
+'s_men_that	1
 RB_VBN_IN
 not_overdone_as	1
 never_seen_in	1
@@ -10594,8 +10244,6 @@ break_a_film	1
 are_the_enemy	1
 add_some_depth	1
 understand_the_samurai	1
-PRP_VBZ_FW
-it_is_<br />	1
 ''_IN_NNP
 ''_with_Samurai	1
 '_as_Katsumoto	1
@@ -10609,8 +10257,8 @@ his_people_,	1
 my_tastes_,	1
 VBD_RP_CD
 lay_out_one	1
--LRB-_NN_,
--LRB-_hey_,	1
+PRP_VBG_RP
+itself_dying_out	1
 VBD_RB_PRP$
 was_not_his	1
 VBG_IN_.
@@ -10681,9 +10329,6 @@ Katsumoto_in_preserving	1
 Cruise_for_getting	1
 VBP_VBG_IN
 are_rebelling_against	1
--RRB-_,_DT
--RRB-_,_the	1
--RRB-_,_a	1
 ,_VBP_NNS
 ,_are_people	1
 IN_NNP_TO
@@ -10692,8 +10337,6 @@ for_Oscar_to	1
 around_Cruise_to	1
 :_WRB_PRP
 ..._when_I	1
-FW_WDT_VBP
-<br />_that_are	1
 IN_IN_JJS
 as_in_most	1
 as_with_most	1
@@ -10716,16 +10359,13 @@ POS_JJ_NN
 's_bloodthirsty_action/thriller	1
 's_acting_talent	1
 's_crowning_achievement	1
-NNP_-LRB-_CC
-Samurai_-LRB-_or	1
 VBN_CC_DT
 defeated_and_the	1
 warranted_but_these	1
 JJ_NN_``
 world-reknowned_movie_``	1
+fine_film_``	1
 Japanese_film_``	1
--RRB-_NNP_DT
--RRB-_Though_this	1
 NNP_NN_RB
 Oscar_gold_as	1
 WRB_MD_NNP
@@ -10778,13 +10418,11 @@ Men_or_Jerry	1
 Zwick_and_Tom	1
 Mr._and_Mrs.	1
 Cruise_and_Jude	1
+Nakamura_and_Masato	1
 Zwick_and_co.	1
 Mr._or_Mrs.	1
 Ebert_and_Roper	1
 Master_and_Commander	1
-VBD_IN_PRP
-said_that_it	1
-sacrificed_for_him	1
 IN_DT_.
 at_that_!	1
 beyond_that_.	1
@@ -10811,6 +10449,8 @@ with_the_salivating	1
 for_the_following	1
 NN_NNP_POS
 showcase_Cruise_'s	1
+RB_:_PRP
+not_..._I	1
 NNS_IN_,
 friends_with_,	1
 JJ_TO_``
@@ -10870,18 +10510,14 @@ VB_PRP_,
 believe_it_,	1
 VBN_RB_VBN
 been_nearly_suppressed	1
+DT_NNP_VB
+the_Samurai_go	1
 VBG_RP_PRP$
 picking_up_my	1
--RRB-_PRP_VBZ
--RRB-_it_drags	1
 JJ_,_NNP
 short_,_Tom	1
 grim_,_Tom	1
 semi-conscious_,_Algren	1
-NN_RB_VB
-<br />_not_waste	1
-VB_IN_NN
-look_for_something	1
 VBN_RBR_JJ
 placed_more_visual	1
 CD_NNS_CC
@@ -10902,21 +10538,15 @@ it_as_``	1
 MD_VB_RP
 would_point_out	1
 FW_DT_NN
-<br />_The_action	1
-<br />_The_movie	1
-<br />_The_story	3
-<br />_The_acting	1
-<br />_the_movie	1
+!!!_The_acting	1
 RB_VBD_PRP
 still_thought_it	1
 highly_recomend_it	1
 actually_liked_him	1
 nearly_beheaded_him	1
 really_showed_me	1
-NNP_-RRB-_VBZ
-Omura_-RRB-_does	1
-MGM_-RRB-_plays	1
-Watanabe_-RRB-_believes	1
+NNP_CC_``
+Samurai_or_`	1
 NN_JJ_:
 fact_interesting_...	1
 PRP_VBP_RBR
@@ -10933,10 +10563,6 @@ was_supposed_to	1
 was_needed_to	1
 JJS_,_IN
 best_,_if	1
-''_,_WP
-''_,_who	1
--RRB-_CC_NNP
--RRB-_and_Masato	1
 ''_IN_PRP$
 ''_throughout_his	1
 VBD_PRP_JJ
@@ -10954,6 +10580,8 @@ have_seen_a	1
 have_invested_some	1
 have_benefited_the	1
 have_had_a	1
+VB_''_VBZ
+serve_'_is	1
 WDT_IN_PRP$
 which_in_my	1
 NNS_VBG_CD
@@ -10986,8 +10614,6 @@ JJ_IN_RB
 intense_than_actually	1
 VBZ_NNP_WP
 plays_Nobutada_who	1
--RRB-_NN_.
--RRB-_</a>_.	1
 NN_NNS_NN
 DVD_titles_offer.The	1
 ,_DT_RBS
@@ -11050,8 +10676,8 @@ I_thought_the	1
 I_loved_the	1
 VB_WRB_RB
 see_how_easily	1
-DT_NNP_-LRB-
-The_Samurai_-LRB-	1
+PRP_VBG_.
+you_thinking_.	1
 VBZ_CC_IN
 is_but_in	1
 NN_VBG_RB
@@ -11081,8 +10707,8 @@ Japan_,_training	1
 Algren_,_battling	1
 NN_VBD_VBG
 movie_was_moving	1
-._-RRB-_.
-!_-RRB-_.	2
+:_RB_RB
+-_Now_then	1
 PRP_NN_RB
 it_doesn?t_really	1
 VB_VBN_RB
@@ -11109,6 +10735,7 @@ PRP_IN_RB
 you_in_not	1
 he_at_first	1
 NNP_,_VBZ
+Watanbe_,_despies	1
 Cruise_,_hopes	1
 America_,_depicts	1
 Katsumoto_,_does	1
@@ -11130,6 +10757,9 @@ has_chosen_and	1
 gets_captured_and	1
 is_defeated_and	1
 is_beaten_and	1
+:_DT_JJ
+..._Another_good	1
+:_The_Last	1
 VBN_NN_,
 rated_R_,	1
 VBG_RP_,
@@ -11190,8 +10820,8 @@ what_a_great	1
 What_a_wonderful	1
 IN_CC_IN
 like_and_for	1
-VBG_NN_DT
-playing_pin_the	1
+IN_WRB_PRP
+in_When_you	1
 PRP_VBP_TO
 I_want_to	1
 they_need_to	1
@@ -11223,8 +10853,6 @@ despies_that_idea	1
 continues_that_trend	1
 VBP_RB_CC
 are_tightly_and	1
-,_-LRB-_FW
-,_-LRB-_SPOILERS	1
 RB_NN_NN
 totally_HD_quality	1
 RB_,_DT
@@ -11240,9 +10868,10 @@ All_in_all	1
 ''_will_try	1
 JJ_NN_DT
 Japanese_culture_this	1
-FW_CC_RB
-<br />_But_now	1
-<br />_but_technically	1
+gruffly_someone_the	1
+VBD_IN_PRP
+said_that_it	1
+sacrificed_for_him	1
 VBD_VBN_JJ
 had_been_complete	1
 RB_VBD_TO
@@ -11268,6 +10897,8 @@ VBZ_PRP_:
 is_us_;	1
 WDT_RB_RBR
 that_much_more	1
+IN_PRP$_PRP$
+by_his_his	1
 NNP_CC_PRP
 Cruise_and_he	1
 NN_:_VBP
@@ -11281,8 +10912,8 @@ the_Samurai_once	1
 the_Japanese_instead	1
 PRP_POS_JJ
 it_'s_bloodthirsty	1
-NNP_-LRB-_VBN
-Katsumoto_-LRB-_portrayed	1
+:_NNP_:
+:_Story_-	1
 NN_NNS_``
 oscar_nominations_``	1
 EX_VBZ_NN
@@ -11299,14 +10930,12 @@ VBP_,_VBN
 think_,_based	1
 WP_VBP_TO
 who_want_to	1
-VBP_-RRB-_:
-mean_-RRB-_...	1
 DT_VBZ_JJ
 this_is_true	1
 VBP_,_VBP
 know_,_are	1
-''_-LRB-_IN
-''_-LRB-_before	1
+VB_CC_DT
+care_and_that	1
 VBG_JJS_NN
 including_best_picture	1
 IN_NNP_WP
@@ -11342,11 +10971,10 @@ for_500_dollars	1
 with_two_wins	1
 than_10_yrs	1
 JJ_PRP_VBZ
+good_it_drags	1
 important_it_is	1
 IN_RB_EX
 If_ever_there	1
-VBD_-RRB-_NN
-said_-RRB-_!!	1
 RB_,_VB
 yet_,_find	1
 WP_NNS_NNP
@@ -11355,8 +10983,6 @@ NNS_,_PRP$
 years_,_his	1
 VBP_RP_VBG
 end_up_speaking	1
-NN_CD_NN
-<p>_One_issue	1
 PRP_VBG_TO
 himself_wanting_to	1
 IN_WDT_DT
@@ -11441,6 +11067,7 @@ movie_but_could	1
 NN_VB_DT
 can?t_catch_a	1
 movie_touch_the	1
+film_save_the	1
 JJ_NNS_.
 ethnic_languages_.	1
 ancient_samurais_.	1
@@ -11523,12 +11150,8 @@ native_Americans_at	1
 Native_Americans_in	1
 JJ_NNP_WP
 philosophic_Samurai_who	1
--LRB-_IN_VBG
--LRB-_before_watching	1
 WRB_DT_NNS
 where_both_warriors	1
-VB_:_CC
-endure_..._and	1
 :_VB_PRP
 ..._Thank_you	1
 DT_JJ_CD
@@ -11571,6 +11194,7 @@ got_,_purchase	1
 VBG_NN_,
 stressing_honor_,	1
 leading_man_,	1
+starring_role_,	1
 PRP$_NNP_NN
 my_Home_theater	1
 JJ_,_DT
@@ -11585,8 +11209,6 @@ again_and_again	1
 tightly_and_neatly	1
 Slowly_but_surely	1
 on_and_so	1
-CD_NN_JJS
-2003_<br />_best	1
 PRP_VBP_VBD
 I_'ve_had	1
 JJR_MD_PRP
@@ -11602,12 +11224,11 @@ and_actual_locations	1
 and_vivid_emotions	1
 and_white_flashbacks	1
 or_alternate_endings	1
+and_global_superpowers	1
 and_Western_weapons	1
 and_other_details	1
 RB_VBN_RB
 ever_done_before	1
-PRP_:_PRP
-me_;_it	1
 RB_RB_VB
 n't_exactly_kosher	1
 n't_always_see	1
@@ -11638,8 +11259,6 @@ self-centered_interests_and	1
 NN_IN_PDT
 version_of_such	1
 life_despite_all	1
-NNP_-LRB-_NN
-Goldwyn_-LRB-_Col.Bagley	1
 VBN_,_CC
 released_,_and	1
 RB_VBN_RP
@@ -11734,8 +11353,6 @@ Being_a_$	1
 NN_CD_NNS
 time_100_years	1
 film_2_stars	1
--RRB-_WRB_DT
--RRB-_where_the	1
 PRP$_NN_,
 his_caretaker_,	1
 his_career_,	1
@@ -11794,6 +11411,7 @@ one_for_his	1
 NNP_''_IN
 Narc_''_into	1
 Sake_''_throughout	1
+RAN_''_before	1
 SAMURAI_''_in	1
 Arabia_''_in	1
 VBD_``_WP
@@ -11810,8 +11428,8 @@ CC_,_DT
 and_,_The	1
 POS_JJR_NNS
 's_better_performances	1
-IN_WP_VBD
-for_what_was	1
+VBN_TO_NNP
+sent_to_Japan	2
 ,_VBZ_VBN
 ,_is_considered	1
 IN_WP_VBZ
@@ -11836,7 +11454,9 @@ the_audience_when	1
 a_nobody_when	1
 some_reason_when	1
 the_past_when	1
+the_cinema_where	1
 NNP_VBZ_PRP
+Katsumoto_keeps_him	1
 Algren_finds_himself	1
 Cruise_follows_him	1
 JJS_IN_DT
@@ -11853,8 +11473,8 @@ NN_VB_RB
 role_go_far	1
 VB_NNP_NN
 locate_Samurai_classic	1
-FW_VBD_NN
-<br />_Did_anyone	1
+PRP$_JJ_``
+its_few_``	1
 JJS_NNS_IN
 finest_ways_that	1
 best_performances_of	1
@@ -11956,8 +11576,6 @@ why_Tom_Cruise	1
 how_Tom_Cruise	2
 WRB_NNP_NNS
 how_Algren_changes	1
--LRB-_WRB_PRP
--LRB-_When_you	1
 ,_NNP_.
 ,_Tom_!	1
 ,_Hollywood_!	1
@@ -11992,7 +11610,6 @@ VB_DT_NNS
 touch_the_emotions	1
 avoid_those_movies	1
 understand_the_criticisms	1
-<p>_The_settings	1
 battle_the_remains	1
 know_the_differences	1
 find_those_elements	1
@@ -12020,6 +11637,7 @@ be_looked_past	1
 WRB_IN_DT
 when_into_the	1
 NN_``_NNS
+film_``_Legends	1
 movie_``_experts	1
 NN_``_NNP
 movie_``_SHOGUN	1
@@ -12122,13 +11740,12 @@ in_almost_every	1
 From_here_an	1
 Though_not_the	1
 for_quite_a	1
-FW_FW_JJ
-<p>_In_short	1
 VBG_TO_DT
 coming_to_this	1
 PDT_DT_VBD
 all_this_was	1
 VBZ_NN_RB
+is_war_so	1
 is_nothing_particularly	1
 PRP_CC_VBZ
 them_and_learns	1
@@ -12177,10 +11794,10 @@ a_more_dramatic	1
 a_more_gruffly	1
 the_more_hurtful	1
 the_more_bored	1
-PRP_VBD_NNP
-it_was_Tom	1
-I_thought_Katsumoto	1
-I_watched_Kurosawa	1
+NN_WDT_VBP
+costume_Which_are	1
+job_that_are	1
+elite_that_have	1
 PRP_VBD_NNS
 I_watched_Dances	1
 NN_VBZ_VB
@@ -12189,10 +11806,8 @@ Samurai_does_manage	1
 movie_does_stand	1
 NNP_IN_NNPS
 Dances_with_Wolves	1
--RRB-_,_NNP
--RRB-_,_Emperor	1
--RRB-_,_Tony	1
--RRB-_,_Sosuke	1
+NN_:_DT
+Acting_-_This	1
 NN_WDT_VBZ
 panorama_that_examines	1
 material_that_does	1
@@ -12205,11 +11820,12 @@ film_which_fails	1
 culture_that_has	1
 material_that_is	1
 script_that_is	1
+flick_that_deserves	1
 film_that_catches	1
 film_that_falls	1
 part_that_brings	1
-FW_``_NN
-<br />_``_Acting	1
+DT_CD_JJS
+the_2003_best	1
 RBS_VBN_IN
 most_associated_as	1
 NN_JJ_NN
@@ -12229,23 +11845,29 @@ culture_that_was	1
 transformation_that_took	1
 love_that_grew	1
 man_that_was	1
-DT_NN_PRP
-this_movie_I	2
-the_lord_he	1
-a_masterpiece_it	1
-the_acting_he	1
-the_stand_he	1
-a_movie_you	1
-the_honor_he	1
-the_character_he	1
-the_way_he	1
-Every_time_he	1
-the_moment_they	1
-the_movie_itself	1
+NNP_NNP_,
+Civil_War_,	3
+Nathan_Algren_,	3
+The_Siege_,	1
+Simon_Graham_,	1
+Edward_Zwick_,	1
+Mrs._Purist_,	1
+Samurai_Spirit_,	1
+Japanese_Emperor_,	1
+Japanese_Army_,	1
+Ken_Watanabe_,	2
+Jude_Law_,	1
+Koyamada_Nobutada_,	1
+Ken_Watanbe_,	2
+Tom_Cruise_,	3
+Sound_Mixing_,	1
+Schichinosuke_Nakamura_,	1
 JJ_VBG_RP
 worth_checking_out	1
 RP_IN_PRP$
 on_as_his	1
+CD_DT_EX
+one_another_there	1
 DT_NN_,
 the_source_,	1
 this_movie_,	6
@@ -12270,7 +11892,7 @@ The_acting_,	1
 the_screen_,	1
 a_classic_,	1
 the_way_,	1
-the_samurai_,	3
+the_samurai_,	4
 the_past_,	1
 the_adversary_,	1
 the_story_,	1
@@ -12285,7 +11907,7 @@ the_end_,	3
 DT_NN_.
 a_good_.	1
 the_character_.	1
-this_movie_.	5
+this_movie_.	6
 a_film_.	1
 any_society_.	1
 the_movie_.	5
@@ -12332,15 +11954,12 @@ NN_IN_WRB
 remembrance_of_where	1
 VB_DT_JJ
 take_a_small	1
-want_the_full-screen	1
 understand_the_Japanese	1
 get_some_good	1
-<br />_The_Last	1
 beat_the_true	1
 name_a_few	1
 be_the_main	1
-<p>_The_only	1
-<br />_The_first	1
+want_the_full-screen	1
 convince_the_young	1
 stand_the_mere	1
 have_the_typical	1
@@ -12348,7 +11967,6 @@ survive_the_final	1
 modernize_the_Japanese	1
 change_the_inner	1
 be_the_first	1
-<p>_The_sudden	1
 catch_a_decent	1
 eradicate_a_rebellious	1
 use_a_little	1
@@ -12357,11 +11975,9 @@ symbolize_the_old	1
 find_the_true	1
 buy_the_next	1
 train_the_Japanese	1
-<p>_The_total	1
 get_a_wonderful	1
 receive_a_substantial	1
 fight_the_ancient	1
-<p>_The_other	1
 be_a_great	1
 RB_RB_JJ
 pretty_much_stereotyped	1
@@ -12389,10 +12005,8 @@ sequences_were_suberb	1
 NN_VBP_JJ
 movie_are_beautiful	1
 movie_are_breathtaking	1
-JJS_NNS_VBP
-most_people_wish	1
--RRB-_VBZ_PRP$
--RRB-_does_its	1
+IN_:_PRP
+about_:_it	1
 WDT_PRP_VBP
 whatever_they_pursue	1
 NN_NNP_WP
@@ -12497,33 +12111,24 @@ NN_CC_RB
 skill_and_there	1
 culture_but_not	1
 month_or_so	1
+masterpiece_but_technically	1
 action_and_then	1
 plant_or_maybe	1
 race_and_not	1
 action_and_so	1
-<p>_And_somehow	1
 masterpiece_but_then	1
 process_and_finally	1
 captive_and_not	1
 bit_and_then	1
+standing_and_always	1
+VBG_NNPS_IN
+salivating_Americans_like	1
 PRP$_,_DT
 his_,_some	1
 ,_WP$_NN
 ,_whose_portrayal	1
 NN_POS_VBG
 winter_'s_coming	1
-NNP_NNP_-LRB-
-Samuel_Goldwyn_-LRB-	1
-Tony_Goldwyn_-LRB-	1
-Mystic_River_-LRB-	1
-Nathan_Algren_-LRB-	1
-Colonel_Bagley_-LRB-	2
-Sosuke_Ikematsu_-LRB-	1
-Masato_Harado_-LRB-	1
-Shin_Koyamada_-LRB-	1
-Timothy_Spall_-LRB-	1
-NN_-RRB-_WRB
-cinema_-RRB-_where	1
 :_``_PRP
 :_``_They	1
 NN_RP_IN
@@ -12536,8 +12141,6 @@ and_they_certainly	1
 IN_DT_WP
 with_those_who	1
 For_those_who	2
-VBN_NNP_-LRB-
-named_Katsumoto_-LRB-	1
 RB_RBR_RB
 even_more_so	1
 NNP_''_NNS
@@ -12545,14 +12148,9 @@ Hollywood_''_moments	1
 NN_IN_WDT
 perfection_of_whatever	1
 manner_in_which	1
-FW_IN_NN
-<br />_For_anyone	1
-<br />_In_addition	1
 TO_RB_VB
 to_even_break	1
 to_also_take	1
-JJS_NN_-RRB-
-best_picture_-RRB-	1
 NNS_VBZ_NNP
 wolves_meets_Shogun	1
 NN_,_NN
@@ -12575,24 +12173,18 @@ quality_,_image	1
 end_,_poignant.At	1
 NN_RP_DT
 film_down_a	1
--LRB-_NNS_VBG
--LRB-_thats_saying	1
 CC_MD_VB
 and_will_choose	1
 and_will_shed	1
 but_can_shed	1
 and_should_have	1
 and_would_be	1
-FW_CC_NNP
-<br />_And_Tom	1
 WP_VBP_PRP
 who_learn_him	1
 WRB_JJ_NNS
 where_slow_downs	1
 when_many_people	1
 when_other_actors	1
-NNS_NNP_-LRB-
-practices_Bushido_-LRB-	1
 CC_DT_,
 or_another_,	1
 ,_VBG_IN
@@ -12610,10 +12202,12 @@ that_I_will	1
 ,_IN_NNS
 ,_of_years	1
 ,_after_years	1
-NNP_NNP_DT
-Mr._Miyagi_an	1
-<br />_Luckily_the	1
-Nathan_Algren_a	1
+MD_VB_TO
+would_be_to	1
+would_like_to	2
+'ll_want_to	1
+would_have_to	2
+may_want_to	1
 VBG_PRP$_NNS
 disgracing_their_families	1
 Adopting_their_ways	1
@@ -12642,6 +12236,7 @@ will_probably_receive	1
 could_n't_pass	1
 will_no_doubt	1
 could_n't_believe	2
+will_not_waste	1
 could_n't_say	1
 can_not_stand	1
 wo_n't_regret	1
@@ -12669,17 +12264,30 @@ and_failed_to	1
 NNP_VBP_VBN
 Samurai_are_known	1
 Japan_have_been	1
-,_NN_,
-,_etc._,	1
-,_bravery_,	1
-,_self-discipline_,	1
-,_intrigue_,	1
-,_loyalty_,	1
-,_duty_,	1
-,_modernization_,	1
-,_suspense_,	1
-,_arch_,	1
-,_necessity_,	1
+RB_FW_DT
+properly_!!!_The	1
+NN_CC_DT
+path_and_a	1
+movie_but_the	1
+popcorn_and_an	1
+language_and_the	1
+warrior_and_a	1
+history_and_all	1
+compassion_and_the	1
+performance_and_some	1
+renown_or_an	1
+samurai_and_the	1
+kiss_and_a	1
+assimilation_and_the	1
+form_or_another	1
+originality_and_the	1
+research_and_a	1
+cinematography_and_an	1
+bravery_and_a	1
+role_and_that	1
+hero_and_a	1
+date_and_this	1
+pupil_and_the	1
 ,_NN_.
 ,_wisdom_.	1
 VB_CC_PRP
@@ -12714,6 +12322,8 @@ Americans_get_salughtered	1
 IN_NNP_''
 of_Arabia_''	1
 of_July_''	1
+PRP$_NN_PRP
+their_hand_I	1
 RBR_IN_DT
 more_in_the	1
 VBG_NNP_VBZ
@@ -12753,15 +12363,36 @@ of_natural_&	1
 at_first_and	1
 VBZ_RP_IN
 comes_off_as	1
-VBP_-RRB-_,
-go_-RRB-_,	1
 ,_CC_VBP
 ,_and_have	1
 ,_and_do	1
 ''_TO_VB
 ''_to_convince	1
-FW_WRB_PRP
-<br />_When_he	1
+PRP_VBZ_RB
+It_is_instead	1
+he_has_regularly	1
+It_is_n't	1
+It_'s_also	1
+He_has_also	1
+she_is_downright	1
+It_'s_not	4
+it_is_n't	2
+it_looks_right	1
+it_is_still	1
+he_does_n't	1
+he_is_fully	1
+he_works_hard	1
+He_'s_just	1
+it_'s_not	3
+It_is_all	1
+it_is_nonetheless	1
+it_'s_just	1
+it_'s_only	1
+it_is_so	1
+she_does_not	1
+it_is_simply	1
+it_is_too	1
+it_is_certainly	1
 NNS_IN_NNP
 guns_from_America	1
 hands_of_Cruise	1
@@ -12798,11 +12429,6 @@ has_ever_done	1
 is_easily_defeated	1
 is_fully_healed	1
 is_beautifully_acted	1
--LRB-_DT_NN
--LRB-_the_beard	1
--LRB-_the_way	1
--LRB-_Another_thing	1
--LRB-_the_samurai	1
 VBN_DT_IN
 been_those_of	1
 PRP_,_CC
@@ -12841,16 +12467,13 @@ love_ole_`	1
 CC_VBZ_VBN
 and_is_captured	1
 and_is_haunted	1
--LRB-_IN_NN
--LRB-_in_essence	1
 VB_RP_JJ
 put_in_little	1
-PRP$_NNS_WRB
-its_points_where	1
 VBZ_VBZ_RB
 is_is_comletely	1
-FW_UH_.
-<br />_Please_.	1
+IN_VBG_NN
+of_being_great.That	1
+of_competing_value	1
 WP_``_NNP
 what_`_Honour	1
 JJ_NN_TO
@@ -12904,7 +12527,6 @@ force_to_defeat	1
 refusal_to_lay	1
 hype_to_be	1
 mission_to_watch	1
-<p>_To_support	1
 movie_to_be	1
 willingness_to_break	1
 crime_to_ignore	1
@@ -12920,6 +12542,8 @@ VBD_RB_.
 was_there_.	1
 went_down_.	1
 was_over_.	1
+VB_IN_JJ
+be_that_great	1
 CC_NN_IN
 but_lord_of	1
 and_insight_as	1
@@ -13200,15 +12824,10 @@ an_above_then	1
 RB_NNP_NNP
 simply_Tom_Cruise	1
 even_Tom_Cruise	1
-FW_VBZ_PRP
-<br />_keeps_him	1
 JJR_NN_VB
 lesser_well-known_resume	1
 RBR_IN_PRP$
 more_from_his	1
-VB_PRP_VBG
-have_you_thinking	1
-find_himself_leading	1
 VBZ_JJ_NN
 blends_historical_content	1
 feels_much_shame	1
@@ -13231,8 +12850,6 @@ POS_NNS_TO
 's_efforts_to	1
 ,_DT_WDT
 ,_all_that	1
-NN_,_-LRB-
-interest_,_-LRB-	1
 VBZ_DT_NN
 makes_this_year	1
 is_a_hero	1
@@ -13288,8 +12905,6 @@ brings_the_film	1
 does_a_lot	1
 FW_NN_DT
 couldnt_test_the	1
-NNPS_FW_FW
-Americans_<br />_<br />	1
 DT_NNS_NNS
 those_elements_somtimes	1
 NNP_CC_VBZ
@@ -13316,14 +12931,13 @@ which_usually_are	1
 VBZ_WP_VBD
 bullies_who_enforced	1
 JJ_NN_NNS
-global_<br />_superpowers	1
 bad_equipment_issues	1
 own_user_reviews	1
-Great_battle_scenes	1
+great_battle_scenes	1
 obligatory_plot_devices	1
 great_battle_sequences	1
 Japanese_army_marches	1
-great_battle_scenes	1
+Great_battle_scenes	1
 post-Civil_War_events	1
 new_machine_guns	1
 regular_DVD_movies	1
@@ -13339,10 +12953,7 @@ GOOD_film_Mr.	1
 mixed_reaction_Reloaded	1
 good_ol'_Tom	1
 full_screen_!!!	1
-<p>_DVD_Quality	1
 limited_appearance_Koyuki	1
-,_DT_WP
-,_those_who	1
 CC_PRP_.
 or_her_.	1
 IN_NNP_VBZ
@@ -13373,7 +12984,6 @@ people_'s_culture	1
 Wolves_'_theme	1
 NN_NN_RB
 HD_DVD_here	1
-<p>_Fighting_somewhere	1
 battle_scene_ever	1
 NNS_VBP_RB
 sequences_are_tightly	1
@@ -13451,6 +13061,7 @@ acting_talent_,	1
 comic_relief_,	1
 other_hand_,	1
 extraordinary_loyalty_,	1
+graphic_hey_,	1
 fictional_cinema_,	1
 great_story_,	1
 past_year_,	1
@@ -13571,13 +13182,12 @@ real_enemy_;	1
 NN_IN_PRP$
 detail_about_his	1
 substance_of_her	1
-world_beyond_their	1
 ensemble_with_his	1
 home_in_my	1
 job_in_their	1
 redemption_through_his	1
 reaction_of_their	1
-<p>_During_his	1
+world_beyond_their	1
 time_on_their	1
 supplement_for_my	1
 gun_in_their	1
@@ -13602,24 +13212,16 @@ per_say_is	1
 NN_POS_NNS
 daughter_'s_favorites	1
 government_'s_efforts	1
-NNP_NN_.
-Samurai_classic_!	1
-SNL_skit_.	1
-Sony_decoder_.	1
-Oscar_nomination_.	1
-Samurai_warrior_.	1
-Oscar_potential_.	1
-Samurai_history_.	1
-WRB_NNP_VBZ
-where_Tom_learns	1
+VBN_CC_MD
+chosen_and_will	1
+NNP_NN_,
+Goldwyn_Col.Bagley_,	1
 CC_NNP_MD
 and_co._would	1
 NNP_NN_:
 Home_theater_...	1
 IN_DT_VB
 like_the_plague	1
-IN_-RRB-_.
-though_-RRB-_.	1
 DT_WP_NN
 those_who_witness	1
 VBN_``_NN
@@ -13698,8 +13300,6 @@ things_,_but	1
 actors_,_but	1
 people_,_but	1
 tastes_,_and	1
-VBN_IN_EX
-warned_that_there	1
 NN_NN_PRP$
 screen_time_her	1
 TO_PRP_NNP
@@ -13711,6 +13311,7 @@ a_culture_that	1
 an_ending_that	1
 the_script_that	1
 a_community_that	1
+a_disappointment_which	1
 a_country_which	1
 the_family_that	1
 the_material_that	1
@@ -13718,12 +13319,12 @@ the_love_that	1
 the_job_that	1
 WRB_IN_NN
 Why_on_earth	1
--RRB-_:_CC
--RRB-_..._but	1
+''_,_WP
+''_,_who	1
 NNP_:_NNP
-Conclusion_:_<br />	1
--RRB-_VBD_VBN
--RRB-_had_been	1
+Conclusion_:_Luckily	1
+NNP_VB_NNP
+Goldwyn_think_MGM	1
 ,_VBZ_JJ
 ,_is_unrelenting	1
 ,_is_inevitable	1
@@ -13747,7 +13348,6 @@ NN_IN_RB
 theme_with_almost	1
 fact_that_so	1
 work_by_far	1
-<p>_If_ever	1
 limelight_for_quite	1
 fact_that_very	1
 treasure_that_not	1
@@ -13761,21 +13361,16 @@ escape_,_due	1
 JJ_CD_POS
 late_1800_'s	1
 :_FW_FW
-:_<br />_<br />	1
 -_Issssss_goooood	1
 ..._i_dont	1
 EX_VBZ_RB
 There_is_very	1
-NN_-LRB-_IN
-definition_-LRB-_whether	1
 IN_IN_VBG
 from_by_joining	1
 CD_IN_NN
 1_like_bowling	1
 TO_NNP_IN
 to_Japan_in	1
-JJS_''_IN
-best_''_for	1
 NNP_VB_RB
 CAN_be_too	1
 Samurai_go_far	1
@@ -13801,7 +13396,7 @@ friend_on_dirt	1
 fall_in_love	1
 originality_of_DwW	1
 samurai_as_nothing	1
-performance_as_<br />	1
+moment_of_fun	1
 fact_that_winter	1
 type_of_extreme	1
 field_of_battle	1
@@ -13815,7 +13410,6 @@ meaning_of_honor	1
 second_in_command	1
 battle_between_modernity	1
 army_in_defense	1
-<p>_Of_course	1
 bunch_of_sword-wielding	1
 name_of_compliance	1
 amount_of_Academy	1
@@ -13828,16 +13422,15 @@ grandson_of_movie	1
 act_of_honor	1
 movie_on_BD	1
 fact_that_studio	1
-<p>_In_order	1
+period_of_time	1
 act_of_cowardice	1
 movie_per_say	1
 respect_for_life	1
-moment_of_fun	1
 rest_of_time	1
 amount_of_screen	1
 lack_of_originality	1
+performance_as_captain	1
 movie_at_home	1
-period_of_time	1
 code_of_honor	1
 movie_with_production	1
 confederate_like_soldier	1
@@ -13852,6 +13445,8 @@ band_of_samurai	1
 DT_$_CD
 the_$_170	1
 a_$_140	1
+FW_CC_PRP
+!!!_but_I	1
 VBZ_RB_NN
 is_totally_HD	1
 VBN_TO_DT
@@ -13878,6 +13473,7 @@ to_them_.	1
 JJ_RB_,
 good_visually_,	1
 ,_IN_DT
+,_from_the	1
 ,_since_this	1
 ,_despite_the	1
 ,_with_no	1
@@ -13931,9 +13527,6 @@ against_technological_compromises	1
 of_corrupt_officials	1
 around_various_locations	1
 against_multiple_attackers	1
-DT_NN_FW
-no_masterpiece_<br />	1
-the_country_<br />	1
 VBZ_``_NNS
 is_``_Dances	1
 CC_PRP_MD
@@ -13953,16 +13546,12 @@ UH_,_IN
 Okay_,_so	1
 IN_DT_NNPS
 for_the_Indians	1
-IN_:_PRP
-about_:_it	1
+:_IN_RB
+:_If_ever	1
+VBN_VBG_JJS
+recieved_including_best	1
 ''_VB_IN
 ''_look_that	1
--LRB-_NNP_-RRB-
--LRB-_Taka_-RRB-	1
--LRB-_Nobutada_-RRB-	1
--LRB-_Higen_-RRB-	1
--LRB-_Nakamura_-RRB-	1
--LRB-_Omura_-RRB-	1
 NN_VBD_NNS
 way_gave_people	1
 RB_VBZ_DT
@@ -14110,19 +13699,14 @@ had_troubles_watching	1
 IN_NNS_VBZ
 at_times_seems	1
 with_wolves_meets	1
--LRB-_IN_PRP
--LRB-_whether_it	1
--LRB-_unless_they	1
 NN_POS_JJ
 film_'s_good	1
 today_'s_technocratic	1
 movie_'s_other	1
 IN_NNS_VBP
 as_epics_go	1
-NN_-LRB-_CC
-standing_-LRB-_and	1
-NN_VBZ_RP
-character_comes_off	1
+VBN_IN_EX
+warned_that_there	1
 IN_NNS_VBN
 by_atrocities_committed	1
 with_Wolves_set	1
@@ -14133,11 +13717,14 @@ TO_JJ_NNS
 to_great_lengths	1
 to_American_movie-goers	1
 to_solid_performances	1
+IN_NNS_VBG
+in_thats_saying	1
 NNP_IN_DT
 Samurai_in_this	1
 Lord_of_the	2
 Lovitz_in_that	1
 First_of_all	1
+Taka_as_the	1
 Katana_like_no	1
 Algren_into_the	1
 Japan_in_the	1

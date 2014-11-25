@@ -1,5 +1,3 @@
--RRB-_,
-FW_FW	1
 IN_NN
 NN_,	1
 ``_FW
@@ -13,8 +11,6 @@ NN_:	1
 :_FW
 FW_FW	2
 FW_''	1
--LRB-_``
-NN_''	1
 FW_DT
 NN_NN	1
 JJ_NN	1
@@ -26,18 +22,16 @@ PRP_FW	1
 ''_NNP
 NNP_NN	1
 ''_,
+FW_,	1
 ``_NN	1
-FW_-RRB-	1
 ``_DT	1
-NNS_-LRB-
-``_NN	1
 ''_NN
 FW_FW	1
 ``_NNP	1
 FW_``
 NNP_''	1
 FW_,
-FW_FW	1
+FW_FW	2
 DT_FW	1
 JJ_NN	1
 ``_DT
@@ -45,7 +39,7 @@ JJ_''	1
 :_NN
 FW_FW	1
 FW_JJ
-NNS_-LRB-	1
+NNS_``	1
 NNS_''
 NNP_NNP	1
 ''_FW
@@ -74,11 +68,10 @@ FW_``	1
 FW_,	2
 FW_JJ	1
 ,_DT	1
-FW_FW	39
+FW_FW	37
 FW_NN	7
 :_,	1
 NNP_NNP	1
-NNP_FW	1
 NN_DT	1
 FW_NNS	1
 FW_NNP	1
@@ -132,7 +125,6 @@ NN_``	1
 FW_NNS
 IN_``	1
 FW_NNP
-FW_FW	1
 NNP_NNP	1
 :_CC
 JJS_:	1
@@ -154,15 +146,13 @@ FW_FW	1
 ,_NN	1
 ,_FW
 FW_FW	5
--RRB-_,	1
 FW_DT	1
+,_FW	1
 ,_NN
 NNS_FW	1
 NN_''
 ,_FW	1
 ,_``	1
-FW_-RRB-
-,_FW	1
 DT_FW
 FW_FW	1
 FW_DT	2
@@ -175,7 +165,7 @@ NN_NNS	1
 NN_DT	1
 NNP_NNP	1
 JJ_NNS
--LRB-_``	1
+``_NN	1
 NNP_NN
 NNS_VBP	1
 :_FW	1
@@ -204,6 +194,8 @@ NNS_''	1
 NNP_''	2
 ''_,	1
 ''_FW	1
+NNS_``
+NN_''	1
 NN_NNS
 FW_FW	1
 VBP_DT	1

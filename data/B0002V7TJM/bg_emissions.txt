@@ -6,10 +6,10 @@ for_oscar	1
 of_pimp	1
 ,_IN
 ,_besides	1
-PRP_RB
-He_even	1
-it_first	1
-him_alone	1
+JJ_IN
+good_in	1
+wrong_for	1
+awesome_in	1
 ''_TO
 '_to	1
 VBP_TO
@@ -23,9 +23,8 @@ MD_RB
 will_not	1
 NN_WDT
 movie_that	1
-<br />_that	1
-cop_that	1
 pimp_that	1
+cop_that	1
 fact_that	1
 VB_DT
 recommend_this	1
@@ -51,12 +50,8 @@ of_``	1
 ,_she	1
 FW_''
 pimpin_'	1
-JJ_-RRB-
-blind_-RRB-	1
 NN_TO
 spot_to	1
-VBP_CC
-<br />_but	1
 CC_RB
 or_possibly	1
 and_yes	1
@@ -69,6 +64,8 @@ RBR_DT
 more_the	1
 :_IN
 -_from	1
+:_WDT
+..._that	1
 PRP$_JJ
 Its_low	1
 her_runaway	1
@@ -88,8 +85,6 @@ VBZ_CD
 is_one	1
 ,_FW
 ,_i	1
-JJ_-LRB-
-blind_-LRB-	1
 RB_LS
 yes_i	1
 DT_FW
@@ -145,7 +140,6 @@ I_buy	1
 I_think	2
 they_have	1
 I_am	1
-him_<br />	1
 PRP$_VBN
 Its_based	1
 RB_DT
@@ -167,8 +161,6 @@ He_has	1
 it_makes	1
 it_is	1
 she_is	2
--RRB-_,
--RRB-_,	1
 DT_RBR
 some_more	1
 all_more	1
@@ -197,8 +189,6 @@ n't_mean	1
 not_regret	1
 PRP_.
 it_.	1
-:_NN
-..._<br />	1
 IN_PRP$
 in_his	1
 For_my	1
@@ -222,12 +212,9 @@ LS_VB
 i_have	1
 FW_FW
 po_pimpin	1
-<br />_<br />	4
 &#1058;_rue	1
-<br />_&#1058;	1
 FW_NN
 rue_pimp	1
-<br />_sugar	1
 PRP$_NN
 his_head	1
 his_pimp	1
@@ -245,6 +232,8 @@ interesting_espcially	1
 VB_IN
 say_about	1
 seek_in	1
+JJ_,
+blind_,	1
 JJ_.
 okay_.	1
 great_!	1
@@ -345,6 +334,7 @@ VBD_JJ
 was_low	1
 was_awesome	1
 JJ_DT
+blind_no	1
 worth_the	1
 VBP_JJ
 am_big	1
@@ -397,8 +387,6 @@ EX_VBZ
 There_is	1
 VBP_DT
 have_the	1
-FW_NNP
-<br />_Sugar	3
 VBG_WP
 wondering_what	1
 NN_NN
@@ -417,8 +405,6 @@ sugar_valentine	4
 oscar_award	1
 NN_JJR
 bit_more	1
--LRB-_DT
--LRB-_no	1
 DT_NNS
 the_streets	1
 IN_NNS
@@ -500,7 +486,6 @@ beginning_of	1
 fanboy_of	1
 way_so	1
 love_with	1
-<br />_since	1
 u_like	1
 bit_of	1
 example_of	1
@@ -554,6 +539,7 @@ VBD_IN
 fell_in	1
 PRP_CC
 it_and	1
+him_but	1
 NN_VBP
 valentine_appear	1
 WDT_VBD
@@ -561,16 +547,15 @@ that_was	2
 that_needed	1
 that_took	1
 NN_RB
-stuff_here	1
-<br />_Strongly	1
-game_back	1
-game_away	1
 hospital_very	1
+stuff_here	1
+game_away	1
+game_back	1
 award_definitely	1
-JJ_IN
-good_in	1
-wrong_for	1
-awesome_in	1
+PRP_RB
+He_even	1
+it_first	1
+him_alone	1
 JJS_TO
 best_to	1
 NNS_NN
@@ -684,7 +669,6 @@ nice_car	1
 little_bit	2
 instant_oatmeal	1
 good_view	1
-<br />_*	1
 real_sugar	1
 nice_spot	1
 good_stuff	1

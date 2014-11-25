@@ -1,5 +1,6 @@
 POS_NNP
 's_Eye	1
+'s_George	1
 IN_NN
 on_disc	1
 for_instance	1
@@ -21,15 +22,13 @@ POS_NNS
 's_deficits	1
 TO_PRP$
 to_their	1
-FW_JJ
-<br />_Sure	1
+NNP_VB
+Hunter_run	1
 ``_JJ
 ``_shameless	1
 ``_Alien	1
--LRB-_``
--LRB-_``	1
-FW_DT
-<br />_The	1
+VBP_TO
+compare_to	1
 VBN_JJ
 seen_German-Italian	1
 RP_NN
@@ -39,9 +38,7 @@ couples_just	1
 fans_often	1
 Colors_fairly	1
 ''_,
-''_,	2
-NNS_-LRB-
-interiors_-LRB-	1
+''_,	3
 CC_JJ
 and_crucial	1
 and_sure	1
@@ -55,8 +52,6 @@ and_atmospheric	1
 and_bent	1
 VBG_CD
 being_one	1
-DT_``
-the_``	1
 MD_RB
 should_definitely	1
 wo_n't	1
@@ -132,11 +127,8 @@ fairly_leap	1
 DT_IN
 all_of	1
 all_over	1
--LRB-_NNP
--LRB-_George	1
--LRB-_Rossana	1
--LRB-_Rosana	1
--LRB-_Christopher	1
+RB_EX
+Then_there	2
 PRP_IN
 it_that	1
 her_that	1
@@ -182,8 +174,6 @@ RP_.
 out_.	1
 VB_VBN
 've_used	1
--LRB-_CC
--LRB-_and	1
 IN_PRP
 in_them	1
 if_it	1
@@ -214,8 +204,6 @@ movies_that	1
 ,_fun	1
 ,_someone	1
 ,_aka	1
-VBN_VBN
-been_handled	1
 POS_NN
 's_wife	1
 's_runtime	1
@@ -231,6 +219,7 @@ it_was	2
 NNP_IN
 Mary_on	1
 Castle_of	3
+Lee_as	1
 Virgin_of	6
 Hunter_from	1
 Deaths_in	1
@@ -384,6 +373,7 @@ who_acts	1
 who_is	1
 NNS_CC
 skulls_and	1
+interiors_and	1
 knives_and	1
 swords_and	1
 PRP_VBZ
@@ -396,13 +386,8 @@ it_is	2
 she_suspects	1
 He_claims	1
 it_'s	2
--RRB-_,
--RRB-_,	2
-NNP_NNS
-Lee_completists	1
-Podesta_witnesses	1
-._-RRB-
-!_-RRB-	1
+VBN_VBN
+been_handled	1
 NNP_CC
 English_and	1
 II_and	1
@@ -410,6 +395,7 @@ NNP_CD
 Indio_2	1
 NNP_``
 AKA_``	1
+Margheriti_``	1
 WP_MD
 Who_could	1
 who_may	1
@@ -419,8 +405,8 @@ nice_,	1
 interesting_,	1
 perfect_,	1
 ominous_,	1
--LRB-_DT
--LRB-_the	1
+DT_``
+the_``	1
 RB_IN
 suspiciously_around	1
 firmly_within	1
@@ -463,8 +449,6 @@ n't_be	1
 n't_have	1
 adequately_utilize	1
 possibly_engage	1
-FW_``
-<br />_``	1
 CC_PRP
 but_it	1
 and_it	1
@@ -493,8 +477,6 @@ NNS_''
 women_''	1
 JJR_NN
 more_ghoulishness	1
-POS_-LRB-
-'s_-LRB-	1
 IN_JJ
 that_odd	1
 for_such	1
@@ -519,6 +501,7 @@ Show_,	1
 Deep_,	1
 Virgin_,	1
 Faceless_,	1
+Erik_,	1
 War_,	1
 Europe_,	1
 Indio_,	1
@@ -548,8 +531,9 @@ shocker_when	1
 PRP_RB
 you_not	1
 it_desperately	1
-FW_FW
-<br />_<br />	4
+IN_IN
+because_if	1
+because_for	1
 IN_WDT
 in_which	1
 PRP$_NN
@@ -607,13 +591,11 @@ were_n't	1
 was_n't	1
 NN_DT
 film_a	1
+maiden_the	1
 counterbalance_the	1
 movie_a	1
-NNS_VBP
-Extras_include	1
-gals_fall	1
-''_-RRB-
-''_-RRB-	2
+VBG_NNS
+unfolding_crimes	1
 VBN_IN
 Dubbed_in	1
 Told_by	1
@@ -642,6 +624,8 @@ films_,	1
 classics_,	1
 proceedings_,	1
 deficits_,	1
+DT_CD
+these_two	1
 VBP_WRB
 know_how	1
 TO_DT
@@ -678,8 +662,6 @@ definitely_someone	1
 n't_anything	1
 RP_MD
 out_would	1
-NN_-RRB-
-rat_-RRB-	1
 JJ_NNS
 other_goodies	1
 atmospheric_interiors	1
@@ -745,6 +727,7 @@ this_be	1
 a_listen	1
 NN_NNP
 aka_Anthony	1
+bride_Rosana	1
 director_Antonio	1
 husband_Max	1
 JJS_JJ
@@ -769,8 +752,6 @@ his_activities	1
 CC_NN
 and_turn	1
 and_poster	1
-VBP_TO
-compare_to	1
 VBG_NNP
 seeing_Mary	1
 confronting_Mary	1
@@ -824,11 +805,9 @@ would_move	1
 NN_VBN
 atrocity_coupled	1
 castle_surrounded	1
-NNP_-LRB-
-Margheriti_-LRB-	1
-Erich_-LRB-	1
-Lee_-LRB-	1
-Hunter_-LRB-	1
+NNS_VBP
+Extras_include	1
+gals_fall	1
 VBP_VBZ
 torture_implements	1
 VBG_DT
@@ -844,10 +823,6 @@ It_wo	1
 I_'ll	1
 we_would	1
 you_'ll	1
-NNP_-RRB-
-Erik_-RRB-	1
-Riviere_-RRB-	1
-Podesta_-RRB-	2
 ,_DT
 ,_this	1
 ,_a	4
@@ -918,8 +893,6 @@ activities_out	1
 --_and	1
 CC_``
 and_``	4
-NNS_-RRB-
-exteriors_-RRB-	1
 NN_NN
 picture_transfer	1
 poster_gallery	1
@@ -993,10 +966,7 @@ the_Deep	1
 ''_IN
 ''_among	1
 ''_for	1
--RRB-_IN
--RRB-_in	1
--RRB-_over	1
--RRB-_of	1
+''_in	1
 DT_JJ
 some_antique	1
 an_infamous	1
@@ -1043,8 +1013,6 @@ a_fine	1
 some_good	1
 POS_``
 's_``	1
-NNP_VB
-Hunter_run	1
 VBD_DT
 directed_the	1
 had_some	1
@@ -1060,8 +1028,6 @@ brought_us	1
 thought_it	1
 NNP_JJ
 Germany_many	1
-PRP_DT
-him_a	1
 NN_,
 equipment_,	1
 color_,	1
@@ -1121,8 +1087,6 @@ is_putting	1
 keeps_confronting	1
 is_acting	1
 is_lurking	1
--RRB-_NNS
--RRB-_digs	1
 NN_IN
 place_in	1
 horror_that	1
@@ -1155,6 +1119,7 @@ suit_of	1
 example_of	2
 bit_of	1
 corpse_of	1
+rat_over	1
 woman_inside	1
 vie_for	1
 centerpiece_of	1
@@ -1165,11 +1130,9 @@ castle_on	1
 end_of	1
 majority_of	1
 unmasking_of	1
+cage_with	1
 genre_before	1
 realm_of	1
-VB_RB
-rent_first	1
-stay_firmly	1
 VBN_DT
 used_some	1
 seen_this	1
@@ -1180,6 +1143,7 @@ revel_in	1
 NNS_IN
 films_in	1
 classics_as	1
+exteriors_of	1
 talents_of	1
 crescendos_at	1
 trailers_for	1
@@ -1249,8 +1213,9 @@ guy_is	1
 ''_VBZ
 ''_is	4
 ''_differs	1
-VBG_NNS
-unfolding_crimes	1
+NNP_VBG
+Podesta_discovering	1
+Podesta_settling	1
 RB_RB
 way_back	1
 n't_adequately	1
@@ -1261,9 +1226,6 @@ VBD_IN
 strolled_into	1
 WDT_VBD
 that_was	1
--LRB-_IN
--LRB-_as	1
--LRB-_with	1
 NNP_POS
 Bava_'s	1
 Dawson_'s	1
@@ -1273,10 +1235,6 @@ Margheriti_'s	1
 Max_'s	2
 VB_NNS
 torture_instruments	1
-NN_-LRB-
-maiden_-LRB-	1
-bride_-LRB-	1
-cage_-LRB-	1
 NN_RB
 stuff_just	1
 display_here	1
@@ -1334,8 +1292,10 @@ VBZ_NNP
 is_Erich	1
 discovers_Christopher	1
 gives_Margheriti	1
-DT_CD
-these_two	1
+NNP_NNS
+Lee_completists	1
+Podesta_witnesses	1
+Riviere_digs	1
 NNP_NNP
 Black_Sunday	1
 Antonio_Margheriti	2
@@ -1356,6 +1316,8 @@ Rosana_Podesta	1
 War_II	1
 Media_Blasters	1
 M._Dawson	1
+Hunter_Rossana	1
+Erich_Christopher	1
 Max_Hunter	1
 Mary_Hunter	2
 Shriek_Show	1
@@ -1397,11 +1359,8 @@ or_are	1
 VB_PRP
 give_it	1
 like_it	1
-RB_EX
-Then_there	2
-IN_IN
-because_if	1
-because_for	1
+PRP_DT
+him_a	1
 VBZ_VBN
 has_been	1
 VBZ_PRP$
@@ -1435,8 +1394,6 @@ RB_VBG
 just_starting	1
 RB_PRP
 there_we	1
-FW_NNP
-<br />_Shriek	1
 RP_IN
 out_on	1
 VBP_NN
@@ -1452,9 +1409,9 @@ claims_he	1
 is_it	1
 ''_.
 ''_.	1
--RRB-_VBG
--RRB-_discovering	1
--RRB-_settling	1
+VB_RB
+rent_first	1
+stay_firmly	1
 VBD_NN
 haired_bloke	1
 CC_NNS

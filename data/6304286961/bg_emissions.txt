@@ -1,18 +1,3 @@
-NN_-LRB-
-personality_-LRB-	1
-passion_-LRB-	1
-success_-LRB-	1
-stand_-LRB-	1
-poetry_-LRB-	2
-hit_-LRB-	1
-Dig_-LRB-	1
-singer_-LRB-	1
-lout_-LRB-	1
-film_-LRB-	4
-ass_-LRB-	1
-edition_-LRB-	2
-Edition_-LRB-	1
-genius_-LRB-	1
 IN_NN
 of_course	6
 with_ferocity	1
@@ -150,13 +135,10 @@ Stone_that	1
 Jim_that	1
 VBN_VBD
 been_said	1
--LRB-_``
--LRB-_``	4
+VBN_VBG
+been_doing	1
 FW_DT
 vibe_THE	1
-<br />_This	4
-<br />_All	1
-<br />_The	13
 VBG_VBG
 missing_wondering	1
 VBG_NNPS
@@ -270,7 +252,6 @@ agree_.	2
 see_.	2
 FW_NN
 !!_Anyone	1
-<br />_Val	1
 MY_FIRE	1
 VBG_VBN
 being_committed	1
@@ -308,6 +289,7 @@ asked_.	1
 recommended_.	2
 :_EX
 -_there	1
+:_There	1
 VBN_,
 stoned_,	1
 put_,	1
@@ -330,26 +312,15 @@ be_happier	1
 NNP_WRB
 California_where	1
 Company_when	1
-VBN_VBG
-been_doing	1
 WDT_MD
 that_can	2
 which_would	2
 that_will	2
-VB_TO
-contribute_to	1
-react_to	1
-WANT_to	1
-want_to	1
-like_to	3
-get_to	3
-bring_to	1
-choose_to	1
-lead_to	1
-happen_to	1
-try_to	1
-listen_to	2
-have_to	2
+DT_PRP
+all_I	1
+both_himself	1
+all_we	1
+all_it	2
 VBZ_CD
 provides_one	1
 gives_one	1
@@ -362,6 +333,7 @@ says_and	1
 NNS_WDT
 situations_that	1
 forces_that	1
+tendencies_which	1
 women_that	1
 scenes_that	1
 hits_that	1
@@ -386,6 +358,7 @@ PRP$_POS
 its_'	1
 PRP_PRP
 him_it	1
+him_I	1
 it_you	1
 itself_it	1
 RP_.
@@ -430,17 +403,11 @@ who_plays	3
 who_says	1
 who_appears	1
 what_is	4
--RRB-_MD
--RRB-_should	1
--RRB-_,
--RRB-_,	8
-._-RRB-
-!_-RRB-	3
-?_-RRB-	1
 NNP_CC
 Morrison_and	13
 Graham_and	1
 Krieger_and	2
+Quinlan_and	1
 Warhol_and	1
 Robby_and	1
 Stone_and	3
@@ -458,11 +425,13 @@ JFK_and	2
 Kennealy_and	1
 Pam_and	2
 Madsen_and	1
+Dillon_but	1
 Hendrix_and	1
 Doors_and	2
 Priest_and	1
 Doors_or	1
 Paris_and	1
+Ryan_and	1
 Jim_and	3
 Maclachlan_and	1
 Midnight_and	1
@@ -488,23 +457,16 @@ more_questions	1
 :_JJS
 -_most	1
 --_most	1
--RRB-_:
--RRB-_-	3
--RRB-_...	2
--RRB-_--	1
 RBS_JJ
 most_talented	1
 most_impressive	1
 most_influential	1
 most_successful	1
 most_underrated	1
-''_-LRB-
-'_-LRB-	1
 :_NN
 :_<a href="http://www.amazon.com/gp/product/B00005NTQC">	1
 :_B	1
 :_Val	1
-..._<br />	3
 IN_PRP$
 of_your	2
 if_your	1
@@ -547,6 +509,8 @@ Blues_''	1
 ``_WDT
 ``_whatever	1
 NN_VB
+stand_see	1
+Dig_get	1
 anyone_know	1
 ``_VBD
 ``_Did	1
@@ -671,6 +635,7 @@ CD_WDT
 ''_TO
 ''_to	3
 JJ_PRP
+other_It	1
 bad_it	1
 naive_we	1
 ,_''
@@ -683,6 +648,7 @@ was_falsely	1
 made_quite	1
 was_n't	17
 got_ta	1
+was_arguably	1
 were_definetely	1
 were_n't	2
 was_horribly	1
@@ -719,25 +685,27 @@ was_really	1
 fired_only	1
 NN_DT
 destiny_a	1
-reason_this	1
 performance_the	1
-poet_the	1
-film_some	1
-Author_This	1
-story_a	1
-<a href="http://www.amazon.com/gp/product/B00005NTQC">_The	1
-end_both	1
-image_this	1
 rant_the	1
+Burning_the	1
+<a href="http://www.amazon.com/gp/product/B00005NTQC">_The	1
+film_the	1
+everyone_these	1
+year_this	1
+image_this	1
+documentary_The	1
+time_No	1
+witness_the	1
+reason_this	1
+poet_the	1
+Author_This	1
+film_some	1
+story_a	1
+life_these	1
+end_both	1
 group_The	1
 Whisky_a	1
-Burning_the	1
-documentary_The	1
-year_this	1
-life_these	1
 course_the	1
-witness_the	1
-everyone_these	1
 POS_TO
 '_to	1
 VBZ_:
@@ -816,7 +784,6 @@ understand_Oliver	1
 hate_Morrison	1
 love_Frank	1
 follow_Stone	1
-<br />_Jim	1
 play_Pam	1
 be_Dionysus	1
 know_Jim	1
@@ -831,10 +798,7 @@ catch_Jim	1
 trust_Mr.	1
 remember_The	1
 FW_VB
-<br />_Watch	1
 i_say	1
-<br />_Come	1
-<br />_Become	1
 NNS_NNS
 doors_songs	1
 technicals_opinions	1
@@ -869,8 +833,6 @@ but_for	2
 and_at	2
 and_though	1
 but_after	1
-NN_PRP$
-fruition_his	1
 VBP_TO
 want_to	3
 get_to	1
@@ -878,8 +840,6 @@ need_to	3
 hope_to	1
 listen_to	1
 have_to	6
-RB_``
-n't_``	1
 PRP$_NNS
 his_fans	2
 their_lives	1
@@ -1120,45 +1080,43 @@ two_are	1
 NNS_JJ
 critics_legendary	1
 times_inaccurate	1
+interviews_available	1
 dances_naked	1
 Doors_related	1
 minutes_worth	2
 people_involved-not	1
 relations_angry	1
 years_old	1
+selections_audio	1
+doors_Needless	1
 stars_last	1
 times_other	1
 FW_NNS
-<br />_thanks	1
 i.e._drugs	1
-<br />_Cons	1
-FW_NNP
-<br />_Michael	2
-<br />_Kyle	1
-<br />_Tom	1
-<br />_PERSONAL	1
-<br />_Jim	1
-<br />_Kathleen	1
-<br />_Director	1
-<br />_CONTENT	1
-<br />_Platoon-The	1
-<br />_Billy	1
-<br />_Stone	1
-<br />_Overall	1
-<br />_FINAL	1
-<br />_Gary	1
-<br />_Meg	1
-<br />_Oliver	2
-<br />_Morrison	1
-<br />_Quick	1
-<br />_Nicholas	1
--RRB-_WDT
--RRB-_which	1
--LRB-_DT
--LRB-_The	2
--LRB-_a	1
--LRB-_this	1
--LRB-_the	2
+RP_CC
+out_and	1
+up_and	1
+NNP_''
+Fire_''	3
+Risin_''	1
+Collectors_''	1
+Basquiat_''	1
+End_''	1
+Kat_''	1
+JFK_''	2
+Woman_''	1
+Doors_''	1
+Snake_''	1
+Platoon_''	1
+Manzarek_''	1
+Shaman_''	1
+Redux_''	1
+Salvador_''	1
+Street_''	1
+Morrison_''	1
+Coroner_''	1
+Sally_''	1
+L.A._''	1
 DT_NNS
 the_members	1
 the_word-breaks	1
@@ -1518,6 +1476,7 @@ got_the	3
 showed_the	2
 played_the	1
 witnessed_an	1
+happened_The	1
 did_a	4
 CC_WP
 and_what	2
@@ -1527,6 +1486,7 @@ and_who	2
 But_who	1
 NNS_CC
 missteps_and	1
+characteristics_both	1
 films_and	1
 mega-proportions_and	1
 sixties_and	2
@@ -1562,22 +1522,17 @@ rings_and	1
 features_and	1
 hits_and	1
 mannerisms_and	1
-VBN_-RRB-
-invented_-RRB-	1
+NNS_CD
+DOORS_1991	1
 ''_VBZ
 ''_is	4
 ''_switches	1
 '_is	1
-JJR_IN
-more_than	3
-better_than	2
-better_of	1
-more_about	1
-more_like	1
-more_of	4
-longer_by	1
-worse_over	1
-higher_in	1
+VBN_PRP
+believed_he	1
+combined_it	1
+noticed_they	1
+glossed_it	1
 MD_FW
 can_i	1
 ''_RBR
@@ -1622,7 +1577,7 @@ entourage_and	1
 poet_and	2
 time_and	3
 music_and	6
-movie_and	2
+movie_and	3
 life_and	7
 epic_and	1
 anyone_but	1
@@ -1644,7 +1599,6 @@ movie_&	1
 newness_and	1
 hour_and	1
 appearance_and	1
-<br />_And	1
 truth_and	2
 rock_and	6
 period_and	1
@@ -1688,11 +1642,12 @@ argument_and	1
 hope_and	1
 book_or	1
 nudity_and	1
+passion_but	1
 producer_and	1
 madness_and	1
 love_and	1
 kurtz_and	1
-film_and	3
+film_and	4
 book_and	1
 machine_and	1
 side_and	1
@@ -1706,8 +1661,6 @@ which_it	1
 '_are	1
 WDT_WP
 which_what	1
-JJ_FW
-=_<br />	2
 DT_JJS
 the_best	8
 those_closest	2
@@ -1724,19 +1677,18 @@ an_earlier	1
 any_more	1
 DT_WP
 those_who	1
--RRB-_WP
--RRB-_who	2
 NN_JJ
 side_capable	1
 rocker.The_extrordinary	1
 nothing_short	1
 excess-a_deep	1
 boring_due	1
-<br />_=	2
+lout_YOUR	1
 movie_true	1
 was/is_over-hyped	1
 track_big	1
 film_blended	1
+edition_purple	1
 culture_shocking	1
 def_blue	1
 couple_other	1
@@ -1761,6 +1713,7 @@ Doors_fans	1
 Doors_songs	5
 Roller_hellions	1
 Stone_films	1
+Scene_1960s	1
 LSD_trips	1
 Doors_lyrics	1
 NNP_NNP
@@ -1773,12 +1726,9 @@ Sullivan_Show	1
 Crispen_Glover	1
 Lee_Roth	1
 FINAL_ANALYSIS	1
-<br />_<br />	3
 Venice_Beach	2
-<br />_Next	1
 Jimi_Hendrix	1
 Morrison_Phenomena	1
-<br />_Inbetween	1
 Robbie_Krieger	2
 WALL_STREET	1
 Eric_Burdon	1
@@ -1786,10 +1736,9 @@ Oscar_Wilde	1
 Elektra_Records	1
 Director_Oliver	2
 Velvet_Underground	1
+Georges_Bizet	1
 LA_Woman	1
-Laurie_<br />	1
 Ed_Sullivan	4
-<br />_Love	1
 The_End	1
 Michael_Wincott	2
 Morrison_Kilmer	1
@@ -1812,7 +1761,6 @@ Robert_Plant	1
 My_Life	2
 Pamela_Des	1
 De_Niro	1
-<br />_See	1
 Sunset_Strip	1
 Ray_Manzerek	1
 Sally_Albright	1
@@ -1822,12 +1770,13 @@ Paul_Williams	1
 Janis_Joplin	1
 Nicholas_R.W.	1
 Blue_Velvet	1
+Fr&eacute;d&eacute;ric_Chopin	1
 R.W._Henning	1
 Moonlight_Drive	1
-Viet_Nam	1
+Darryl_Hannah	1
 Isadora_Duncan	1
 West_Coast	1
-Window_Sills	1
+Manzarek_Kyle	1
 Doors_Keyboardist	1
 Johan_Sebastion	1
 Gioacchino_Rossini	1
@@ -1840,13 +1789,14 @@ York_City	1
 Sebastion_Bach	1
 Mr_Mojo	2
 Alice_B.	1
-Darryl_Hannah	1
+MacLachlan_Blue	1
 Los_Angeles	1
 Michael_Madsen	4
 Circus_Magazine	1
 Kathleen_Quinlan	4
 Guillaume_Apollinaire	1
 &Eacute;dith_Piaf	1
+Jim_Whatcha	1
 Judas_Priest	1
 Patricia_Kenealy	1
 Bill_Graham	1
@@ -1856,10 +1806,10 @@ American_Dreamtime	1
 Pamela_Morrison	1
 Billy_Idol	6
 Paul_Rothchild	3
-<br />_This	1
 Kevin_Dillion	1
 James_Morrison	1
 Mr._Manzarek	1
+Viet_Nam	1
 Mr._Stone	2
 Kyle_McLaughlin	1
 Meg_Ryan	13
@@ -1869,8 +1819,10 @@ Christian_God	1
 Georges-Pierre_Seurat	1
 Patricia_Kennealy	3
 Tom_Baker	4
-Fr&eacute;d&eacute;ric_Chopin	1
+Pamela_Meg	1
+Courson_Jim	1
 Oliver_Stone	47
+Window_Sills	1
 Flower_Power	1
 Pamela_Courson	3
 Particia_Kennealy	1
@@ -1879,12 +1831,13 @@ Malcom_X	1
 Pam_Courson	3
 Robby_Krieger	2
 Platoon-The_Vietnam	1
+Courson_Meg	1
 Robby_Kreiger	1
 DOORS_MOVIE	1
 Southern_California	1
 Met_Sally	1
 Amedeo_Modigliani	1
-Georges_Bizet	1
+Keneally_Kathleen	1
 Whiskey_A	1
 Gertrude_Stein	1
 Patricia_Keneally	2
@@ -1900,7 +1853,6 @@ Morrison_WAS	1
 Bacon_Number	1
 Light_My	7
 APOCALYPSE_NOW	2
-<br />_UPDATE	1
 James_Woods	1
 Kyle_Maclachlan	2
 P&egrave;re_Lachaise	1
@@ -1927,13 +1879,20 @@ and_there	1
 ''_who	1
 JJR_.
 more_.	2
-VBN_WRB
-concerned_when	1
-DT_PRP
-all_I	1
-both_himself	1
-all_we	1
-all_it	2
+VB_TO
+contribute_to	1
+react_to	1
+WANT_to	1
+want_to	1
+like_to	3
+get_to	3
+bring_to	1
+choose_to	1
+lead_to	1
+happen_to	1
+try_to	1
+listen_to	2
+have_to	2
 VBN_TO
 supposed_to	6
 tempted_to	1
@@ -1953,9 +1912,9 @@ stoned_to	1
 come_to	2
 :_``
 :_``	3
--RRB-_NN
--RRB-_<br />	1
--RRB-_DVD	1
+..._``	1
+EX_WDT
+there_which	1
 IN_DT
 with_another	1
 So_THE	1
@@ -2031,7 +1990,6 @@ like_that	1
 for_that	1
 onto_the	1
 though_a	1
-<br />_The	1
 through_the	6
 as_any	1
 of_the	113
@@ -2106,27 +2064,13 @@ JJR_RB
 greater_then	1
 EX_MD
 there_should	1
--LRB-_CD
--LRB-_1991	1
 VB_WP
 Watch_what	1
 know_what	3
--LRB-_CC
--LRB-_both	1
--LRB-_but	1
--LRB-_and	4
-NNS_-LRB-
-classics_-LRB-	1
-individuals_-LRB-	1
-DOORS_-LRB-	1
-tendencies_-LRB-	1
-interviews_-LRB-	1
-characteristics_-LRB-	1
-inventions_-LRB-	1
-members_-LRB-	1
-events_-LRB-	1
-JJS_TO
-closest_to	2
+DT_.
+this_.	4
+that_.	2
+all_.	3
 RB_WRB
 So_when	1
 CD_POS
@@ -2173,23 +2117,26 @@ So_,	3
 ultimately_,	1
 RB_.
 not_.	1
-alike_.	2
-though_.	1
-too_.	2
-here_.	4
-there_!	1
-otherwise_.	1
-so_.	2
-together_?	1
+much_.	1
 ago_.	1
-wisely_.	1
-there_.	2
+ever_.	1
+there_.	3
 away_.	2
-back_.	1
-here_?	1
-anyway_.	1
-well_.	7
+there_!	1
 actually_.	1
+too_.	2
+already_.	1
+alike_.	2
+anyway_.	1
+together_?	1
+well_.	7
+though_.	1
+otherwise_.	1
+back_.	1
+so_.	2
+here_.	4
+here_?	1
+wisely_.	1
 entirely_.	1
 MD_CC
 can_or	1
@@ -2208,21 +2155,6 @@ took_20	1
 gave_one	1
 made_two	1
 was_one	2
-VBZ_-RRB-
-is_-RRB-	1
-NNP_-RRB-
-Morrison_-RRB-	1
-Ryan_-RRB-	2
-Jim_-RRB-	2
-Dillon_-RRB-	1
-Quinlan_-RRB-	1
-BAD_-RRB-	1
-Nixon_-RRB-	2
-MacLachlan_-RRB-	1
-King_-RRB-	1
-Jim_-RSB-	1
-Velvet_-RRB-	1
-Whaley_-RRB-	1
 NNPS_CC
 Doors_or	1
 Stooges_and	1
@@ -2301,8 +2233,6 @@ why_he	1
 When_I	2
 when_you	2
 how_he	1
-CD_-RRB-
-1991_-RRB-	2
 :_IN
 ..._so	1
 ..._if	1
@@ -2310,11 +2240,10 @@ CD_-RRB-
 -_worth	1
 ..._For	1
 ..._like	1
-..._<br />	1
+--_in	1
 ;_that	1
 -_About	1
 ..._Although	1
---_in	1
 ''_:
 ''_...	3
 PRP$_JJ
@@ -2455,9 +2384,10 @@ since_it	1
 while_he	1
 ''_.
 ''_?	2
-''_.	8
+''_.	10
+'_.	1
 ''_,
-''_,	3
+''_,	4
 NNS_VB
 films_take	1
 ,_FW
@@ -2465,12 +2395,9 @@ films_take	1
 ,_i.e.	1
 ,_etc	1
 ,_ie	1
--RRB-_PRP
--RRB-_It	1
--RRB-_it	1
--RRB-_you	1
 :_NNS
 :_Detaches	1
+:_Pros	1
 VBG_WRB
 wondering_where	1
 thinking_when	1
@@ -2984,9 +2911,6 @@ a_bit	4
 the_radio	1
 the_hope	1
 this_film	22
--RRB-_.
--RRB-_.	16
--RRB-_?	1
 DT_VBZ
 That_is	1
 all_is	2
@@ -3149,10 +3073,6 @@ it_seems	2
 He_opens	1
 she_was/is	1
 he_IS	2
-FW_PRP
-<br />_It	2
-<br />_I	7
-<br />_You	1
 IN_,
 besides_,	1
 at_,	1
@@ -3165,7 +3085,7 @@ up_,	1
 IN_.
 throughout_.	1
 as_.	1
-on_.	1
+on_.	2
 in_.	1
 though_.	1
 on_?	1
@@ -3189,12 +3109,10 @@ PRP_,
 me_,	2
 itself_,	1
 him_,	2
-them_,	2
+them_,	3
 I_,	1
 himself_,	3
 it_,	8
-FW_WP
-<br />_What	3
 CC_VBP
 and_are	1
 and_have	1
@@ -3238,8 +3156,6 @@ scene_where	1
 world_when	1
 childhood_when	1
 rooftop_where	1
-,_-LRB-
-,_-LRB-	1
 RP_TO
 over_to	1
 out_to	2
@@ -3358,8 +3274,6 @@ girl-next-door_,	1
 bald_,	1
 shocking_,	1
 great_,	2
-FW_EX
-<br />_There	3
 JJ_.
 extraordinary_.	1
 popular_.	1
@@ -3381,6 +3295,7 @@ biopic_.	1
 limitless_.	1
 self-indulgent_.	1
 Brilliant_.	1
+good_.	1
 major_.	1
 angry_.	2
 unique_.	1
@@ -3425,6 +3340,7 @@ RBS_RB
 most_likely	1
 :_VB
 ..._get	1
+..._Become	1
 ;_watch	1
 VBN_IN
 thought_that	1
@@ -3480,6 +3396,7 @@ made_for	1
 depicted_in	2
 played_by	2
 headed_for	1
+invented_that	1
 written_by	1
 slept_with	1
 committed_against	1
@@ -3515,9 +3432,6 @@ n't_what	1
 VBP_WRB
 realize_how	1
 like_how	2
--LRB-_VB
--LRB-_get	1
--LRB-_see	1
 VBD_JJ
 were_mediocre	1
 did_little	1
@@ -3582,9 +3496,6 @@ Doors_was	1
 Indians_had	1
 Doors_were	5
 Indians_leapt	1
-VBD_-LRB-
-was_-LRB-	1
-happened_-LRB-	1
 PRP$_VBG
 their_stomping	1
 their_dressing	1
@@ -3645,6 +3556,7 @@ guitarist_Robby	2
 collection_This	1
 mood_Stone	1
 producer_Paul	2
+success_Robby	1
 guru_Jim	1
 singer_Jim	1
 buddy_Tom	1
@@ -3661,6 +3573,7 @@ jim_Morrison	1
 way_Stone	1
 man_Jim	1
 song_Light	1
+personality_Morrison	1
 Val_Kilmar	1
 Val_Kilmner	1
 drummer_John	2
@@ -3688,8 +3601,6 @@ than_most	1
 by_most	1
 at_least	3
 about_most	1
-POS_-RRB-
-'s_-RRB-	1
 VBD_WRB
 knew_how	1
 learned_how	1
@@ -3707,6 +3618,7 @@ us_why	1
 :_A	2
 ;_the	2
 :_The	2
+..._The	2
 DT_MD
 a_must	3
 Some_may	1
@@ -3717,8 +3629,9 @@ more_detail	1
 earlier_reviewer	1
 less_credit	1
 more_heat	1
-PRP_-LRB-
-him_-LRB-	1
+RB_``
+ever_``	1
+n't_``	1
 VBP_VBN
 are_concerned	1
 have_spray-painted	1
@@ -3744,6 +3657,7 @@ POS_VBD
 '_were	1
 RP_NNP
 up_Morrison	1
+out_March	1
 RP_NNS
 out_lines	1
 off_buildings	1
@@ -3937,6 +3851,7 @@ widescreen_picture	1
 question_Val	1
 w/Greek_literature	1
 self_destruction	1
+Edition_2disc	1
 rock_movie	1
 movie_roll	1
 *_genius	1
@@ -3982,6 +3897,7 @@ music_person	1
 genius_*	1
 minute_feature	1
 ensemble_cast	1
+genius_hey	1
 budget_movie	1
 time_girlfriend	1
 punk_revival	1
@@ -3989,6 +3905,7 @@ bonnie_bit	1
 memory_lane	1
 drug_addiction	1
 recording_studio	1
+2disc_DVD	1
 Pulp_Fiction	1
 poet_type	1
 beach_person	1
@@ -4014,12 +3931,8 @@ market_hippie	1
 screen_time	1
 life_story	1
 stone_trademark	1
-RP_-LRB-
-out_-LRB-	1
 PRP_NNP
 he_WAS	1
-:_-LRB-
-:_-LSB-	1
 WRB_CD
 wherein_one	1
 NNS_RB
@@ -4028,6 +3941,7 @@ years_later	1
 jobs_ever	2
 extras_not	1
 doors_prior	1
+1960s_as	1
 abilities_as	1
 events_intermitently	1
 choices_out	1
@@ -4103,9 +4017,6 @@ least_.	2
 ,_immature	1
 ,_EX
 ,_there	3
--RRB-_RB
--RRB-_twice	1
--RRB-_as	1
 DT_JJ
 a_visual	1
 a_final	1
@@ -4380,8 +4291,6 @@ drunken_worst	1
 NNS_``
 ones_`	1
 words_``	1
--RRB-_NNP
--RSB-_Whatcha	1
 NN_IN
 meeting_of	1
 portrail_of	1
@@ -4389,7 +4298,6 @@ context_of	1
 depiction_of	1
 light_of	1
 beginning_until	1
-<br />_For	1
 charm_of	1
 light_on	1
 outline_of	1
@@ -4403,7 +4311,6 @@ movie_if	1
 pain_through	1
 music_of	3
 role_like	1
-<p>_If	1
 job_as	4
 favor_of	1
 frontman_of	1
@@ -4417,7 +4324,9 @@ use_at	1
 scent_of	1
 source_for	1
 uncertainty_of	1
+Fiction_as	1
 singer_like	1
+film_unlike	1
 side_of	5
 beauty_of	1
 something_of	2
@@ -4503,7 +4412,6 @@ impression_as	1
 drinking_that	1
 chiller_about	1
 film_of	2
-<p>_As	2
 portrayel_of	1
 roll_as	1
 film_for	1
@@ -4512,7 +4420,7 @@ kind_of	2
 credit_for	2
 source_of	1
 audience_for	1
-poet/shaman_that	1
+hit_like	1
 permission_from	1
 film_upon	1
 man_with	1
@@ -4638,6 +4546,7 @@ Comedy_per	1
 history_of	2
 feeling_that	1
 hack_of	1
+singer_though	1
 course_in	1
 embodiment_of	1
 point_that	2
@@ -4645,6 +4554,7 @@ name_of	2
 altar_of	1
 fall_of	2
 scratch_on	1
+version_For	1
 choice_in	1
 rebirth_of	1
 commentary_with	1
@@ -4726,6 +4636,7 @@ cast_with	1
 desert_in	1
 masterpiece_of	1
 credit_as	1
+poet/shaman_that	1
 character_on	1
 DVD_of	1
 affair_with	1
@@ -4743,12 +4654,13 @@ face_on	1
 second_of	1
 side_as	1
 focus_on	2
-film_like	1
+film_like	2
 info_for	1
 monologue_over	1
 rise_as	1
 license_with	1
 feel_as	1
+Blob_as	1
 %_of	1
 truth_as	1
 re-creation_of	1
@@ -4786,10 +4698,6 @@ upside_of	1
 making_of	3
 dive_for	1
 music_throughout	1
-VB_-LRB-
-have_-LRB-	1
-Set_-LRB-	1
-see_-LRB-	1
 SYM_NNP
 *_Light	1
 CC_DT
@@ -4827,6 +4735,7 @@ everyone_found	1
 dude_shown	1
 music_made	1
 movie_made	1
+poetry_performed	1
 history_known	1
 void_brought	1
 side_amplified	1
@@ -4835,31 +4744,11 @@ band_ended	1
 character_culled	1
 NNS_PRP
 Doors_he	1
-events_we	1
 doors_it	1
+retailers_you	1
 answers_them	1
 interviews_he	1
-NNP_''
-Fire_''	3
-Risin_''	1
-Collectors_''	1
-Basquiat_''	1
-End_''	1
-Kat_''	1
-JFK_''	2
-Woman_''	1
-Doors_''	1
-Snake_''	1
-Platoon_''	1
-Manzarek_''	1
-Shaman_''	1
-Redux_''	1
-Salvador_''	1
-Street_''	1
-Morrison_''	1
-Coroner_''	1
-Sally_''	1
-L.A._''	1
+events_we	1
 NN_VBG
 earth_shattering	1
 actress_playing	1
@@ -4902,7 +4791,7 @@ burial_were	1
 album_was	1
 drug_crazed	1
 angle_was	1
-film_reached	1
+nancy_got	1
 band_got	1
 film_made	1
 self_imposed	1
@@ -4912,7 +4801,7 @@ dialogue_clipped	1
 band_started	1
 reviewer_noted	1
 reviewer_said	1
-trade_marked	1
+film_reached	1
 Val_was	2
 dissatisfaction_prompted	1
 impression_was	1
@@ -4920,6 +4809,7 @@ Pam/Jim_engaged	1
 management_talked	1
 band_met	1
 movie_made	1
+trade_marked	1
 name_was	1
 sound_was	1
 life_was	2
@@ -4956,91 +4846,92 @@ what_they	2
 what_it	2
 what_he	3
 NN_VBZ
-disc_is	1
-performance_is	1
-bit_is	1
-dodo_makes	1
-Pam_is	1
-film_talks	1
-film_starts	1
+enterprise_comes	1
 cast_includes	1
 movie_starts	1
-cinematography_is	1
 Kilmer_deserves	1
 negative_is	1
-character_is	2
-success_stems	1
 everything_is	1
-densmore_tells	1
-Everyone_has	1
-body_lies	1
-glory_is	1
-accuracy_is	1
-enterprise_comes	1
 editing_is	1
-everyone_is	1
 outline_fits	1
-accuracy_has	1
 documentary_features	1
-star_is	1
-guy_is	3
-film_does	1
-end_is	1
-man_is	1
+performance_is	1
 dramatisation_plays	1
-era_is	1
-!!!_is	1
-Kilmer_does	1
-film_has	1
-film_takes	1
-film_is	7
 film_explores	1
-band_takes	1
-reverse_is	1
-camera_is	1
-part_is	1
-star_deserves	1
+!!!_is	1
 addition_is	1
-atmosphere_takes	1
+bit_is	1
+DVD_is	2
+body_lies	1
+sound_is	1
+movie_is	16
+anyone_sets	1
+Kilmer_is	1
+glory_is	1
+DVD_does	1
+accuracy_is	1
+fire_misses	1
+Pam_is	1
+film_starts	1
+excess_leads	1
+Everyone_has	1
+film_takes	1
+reverse_is	1
+success_stems	1
 image_is	1
 treatment_is	1
 art_distinguishes	1
-decadence_becomes	1
-problem_is	1
-DVD_is	2
-storyline_is	1
-cast_is	1
-sound_is	1
-movie_is	16
-note_is	1
-anyone_sets	1
-Kilmer_is	1
-setting_is	1
-acting_is	1
-character_looks	1
-music_is	6
-DVD_does	1
-life_is	3
-film_focuses	1
-documentary_helps	1
-movie_has	2
-movie_does	1
 Cat_has	1
-video_is	1
-result_is	1
-edition_has	1
-excess_leads	1
-review_refers	1
-fire_misses	1
-picture_is	2
-DVD_deserves	1
-reason_hides	1
-disk_includes	1
+character_looks	1
 film_remains	1
+acting_is	1
+music_is	6
+movie_has	2
 anyone_remembers	1
+video_is	1
+movie_acts	1
+disc_is	1
+film_has	1
+film_talks	1
+band_takes	1
+character_is	2
+star_is	1
+guy_is	3
+film_does	1
+Kilmer_does	1
+part_is	1
+atmosphere_takes	1
+storyline_is	1
+picture_is	2
+film_focuses	1
+movie_does	1
+review_refers	1
+densmore_tells	1
+disk_includes	1
 feel_is	1
 one_is	1
-movie_acts	1
+reason_hides	1
+camera_is	1
+dodo_makes	1
+decadence_becomes	1
+cinematography_is	1
+accuracy_has	1
+man_is	1
+era_is	1
+end_is	1
+film_is	7
+everyone_is	1
+star_deserves	1
+problem_is	1
+cast_is	1
+ass_seems	1
+note_is	1
+setting_is	1
+life_is	3
+documentary_helps	1
+result_is	1
+edition_has	1
+DVD_deserves	1
 RB_RB
 too_heavily	1
 also_quite	2
@@ -5056,7 +4947,7 @@ here_as	2
 too_long	1
 out_there	2
 not_only	4
-so_hazily	1
+even_satisfactorily	1
 never_really	1
 very_much	1
 not_so	1
@@ -5065,6 +4956,7 @@ well_enough	1
 as_perfectly	1
 way_too	1
 n't_even	2
+not_enough	1
 Not_technically	1
 Even_so	1
 very_nearly	1
@@ -5077,7 +4969,6 @@ ultimately_not	1
 long_ago	1
 quite_accurately	1
 not_historically	1
-even_satisfactorily	1
 n't_very	1
 so_completely	1
 only_there	1
@@ -5090,6 +4981,7 @@ rightly_so	1
 too_often	1
 perhaps_even	1
 up_there	1
+so_hazily	1
 about_as	1
 n't_really	1
 all_over	1
@@ -5448,6 +5340,7 @@ endlessly_trashing	1
 still_thinking	1
 probably_going	1
 not_going	1
+arguably_saying	1
 foolishly_sacrificing	1
 n't_buying	1
 actually_making	1
@@ -5512,21 +5405,8 @@ really_was	1
 ever_heard	1
 ultimately_landed	1
 FW_IN
-<br />_While	1
-<br />_So	1
-<br />_By	1
-<br />_As	3
-<br />_On	1
 ryan_as	1
-<br />_If	1
-<br />_Of	1
-<br />_Like	1
-<br />_Unlike	1
-<br />_In	4
-<br />_Although	1
 alot_in	1
--RRB-_DT
--RRB-_No	1
 CC_MD
 and_may	1
 but_shall	1
@@ -5544,6 +5424,8 @@ crazed_rock	1
 imposed_exile	1
 was_briefly	1
 made_myth	1
+JJ_WP
+=_What	1
 NNP_TO
 Jim_to	1
 France_to	1
@@ -5551,9 +5433,6 @@ Road_to	3
 Enough_to	1
 Stone_to	1
 Morrison_to	1
--LRB-_VBN
--LRB-_possessed	1
--LRB-_performed	1
 VBZ_TO
 refers_to	1
 goes_to	1
@@ -5605,8 +5484,6 @@ NNS_WP
 People_who	1
 people_who	2
 fans_who	1
--LRB-_VBZ
--LRB-_seems	1
 RP_NN
 out_laughing	1
 ,_CD
@@ -5680,7 +5557,6 @@ make_this	1
 love_this	1
 do_a	1
 be_an	1
-<p>_The	1
 play_some	1
 think_a	1
 scratch_the	1
@@ -5745,14 +5621,13 @@ think_the	1
 show_the	1
 play_this	2
 steal_the	1
-deny_the	1
 make_the	2
 purchase_The	1
 see_this	1
 incite_the	1
 fill_the	1
 be_the	2
-<br />_The	3
+deny_the	1
 WRB_DT
 when_all	1
 why_the	1
@@ -5812,11 +5687,6 @@ is_uncanny	2
 's_like	1
 appears_drunk	1
 's_nice	1
-JJ_-RRB-
-purple_-RRB-	1
-good_-RRB-	1
-other_-RRB-	1
-sure_-RRB-	1
 ''_DT
 '_the	1
 ''_a	1
@@ -5953,6 +5823,7 @@ who_ever	1
 ,_director	1
 ,_culture	1
 ,_atmosphere	1
+,_yaaay	1
 ,_paranoia	1
 ,_sex	1
 ,_anyone	1
@@ -6022,6 +5893,7 @@ their_`	2
 RB_DT
 seeminly_a	1
 practically_every	1
+well_this	1
 just_a	2
 Supposedly_the	1
 just_the	1
@@ -6067,6 +5939,7 @@ audience_would	1
 performance_must	1
 movie_should	1
 anyone_could	1
+director_should	1
 film_can	1
 reality_would	1
 footage_might	1
@@ -6186,7 +6059,6 @@ n't_get	4
 not_escape	1
 really_happen	1
 n't_display	1
-not_<br />	1
 not_catch	1
 n't_read	2
 ta_admit	1
@@ -6204,14 +6076,8 @@ also_have	1
 only_appear	1
 ''_JJ
 ''_electrifying	1
-JJS_-RRB-
-most_-RRB-	1
 :_UH
 ;_Hey	1
--RRB-_JJ
--RRB-_unbearable	1
--RRB-_audio	1
--RRB-_Even	1
 VBN_PDT
 spray-painted_all	1
 NNPS_IN
@@ -6223,22 +6089,14 @@ Doors_in	1
 FW_FW
 ??_heehee	1
 jim_alot	1
-<br />_-----------	1
-!!_:o-RRB-	1
+LIGHT_MY	1
 meg_ryan	1
------------_<br />	1
-objet_d'art	1
+!!_:o-RRB-	1
 late-60s_counter-culture	1
 counter-culture_vibe	1
-<br />_JFK	1
-------_<br />	1
-<br />_------	1
-<br />_<br />	103
 :o-RRB-_i	1
-----------------------------------------------------------------------_<br />	1
 Trippy_!!	1
-<br />_----------------------------------------------------------------------	1
-LIGHT_MY	1
+objet_d'art	1
 JJ_RB
 okay_back	1
 old_enough	1
@@ -6248,6 +6106,7 @@ re-created_brilliantly	1
 involved-not_here	1
 surreal_warmly	1
 funny_also	1
+bottom_not	1
 accurate_enough	1
 great_too	1
 ,_``
@@ -6263,9 +6122,6 @@ creating_his	1
 reading_his	1
 using_its	1
 crowding_my	1
--RRB-_VBP
--RRB-_do	1
--RRB-_have	1
 ,_VBG
 ,_using	1
 ,_including	1
@@ -6278,11 +6134,6 @@ crowding_my	1
 ,_becoming	1
 ,_twirling	1
 ,_giving	1
-''_-RRB-
-''_-RRB-	5
-'_-RRB-	1
--RRB-_VBZ
--RRB-_is	2
 NNS_.
 TVs_.	3
 inaccuracies_.	1
@@ -6350,6 +6201,7 @@ lyrics_.	1
 ,_deleted	2
 NNS_,
 albums_,	2
+tracks_,	1
 features_,	2
 1960s_,	1
 things_,	2
@@ -6411,10 +6263,6 @@ word-breaks_,	1
 ,_ring	1
 ,_stay	1
 ,_show	1
--RRB-_VBG
--RRB-_saying	1
--RRB-_VBD
--RRB-_got	1
 RBR_RB
 more_wisely	1
 more_so	2
@@ -6445,8 +6293,6 @@ read_Light	1
 discovered_Jim	1
 was_Jim	1
 made_Jim	2
--RRB-_VBN
--RRB-_handed	1
 NNS_:
 Cons_:	1
 demons_;	1
@@ -6486,6 +6332,7 @@ many_problems	1
 other_members	1
 addictive_tendencies	1
 different_women	1
+live_videos	1
 artistic_liberties	1
 such_conceits	1
 such_poets	1
@@ -6541,7 +6388,6 @@ smoky_clubs	1
 negative_critics	1
 few_Doors	1
 normal_views	1
-<br />_Pros	1
 abridged_opinions	1
 intellectual_elements	1
 numerous_episodes	1
@@ -6609,6 +6455,7 @@ young_Jim	1
 rancid_Oliver	1
 true_Morrison	1
 opposite_Nico	1
+unknown_Inbetween	1
 huge_Doors	1
 one-Val_Kilmer	1
 live_Ed	1
@@ -6620,7 +6467,6 @@ old_Indian	1
 brain-dead_Hollywood	1
 mischevious_Indian	1
 YOUR_Jim	1
-unknown_<br />	1
 supposed_IQ	1
 real_Keneally	1
 young_Morrison	1
@@ -6633,6 +6479,7 @@ late_Lizard	1
 arrogant_Morrison	1
 former_UCLA	1
 quintessential_California	1
+=_Billy	1
 perfect_The	1
 see/hear_John	1
 other_Circus	1
@@ -6657,9 +6504,6 @@ POS_''
 '_but	1
 IN_WP
 from_what	1
--RRB-_CC
--RRB-_and	3
--RRB-_but	1
 NNS_EX
 movies_there	1
 VBG_PRP
@@ -6715,7 +6559,6 @@ article_we	1
 character_they	1
 acting_he	1
 day_he	1
-panning_them	1
 time_I	1
 movie_I	1
 lighting_it	1
@@ -6731,7 +6574,7 @@ everything_he	1
 portrayal_it	1
 girl_you	1
 way_he	1
-<br />_I	2
+panning_them	1
 course_he	1
 movie_it	1
 movie/script_he	1
@@ -6759,6 +6602,7 @@ read_his	1
 escape_his	2
 hold_my	1
 ._.
+!_.	1
 ._.	3
 ,_MD
 ,_will	1
@@ -6886,18 +6730,12 @@ have_looked	1
 get_lost	1
 get_stoned	1
 be_swept	1
-EX_-RRB-
-there_-RRB-	1
 CC_PDT
 and_all	2
-VBN_-LRB-
-believed_-LRB-	1
 VB_VBG
 be_calling	1
 buy_buying	1
 be_portraying	1
-CD_-LRB-
-1997_-LRB-	1
 VB_VBD
 have_had	1
 WRB_NNP
@@ -6923,25 +6761,19 @@ where_Morrison	1
 ,_an	5
 ,_all	3
 ,_The	1
-FW_PRP$
-<br />_My	1
--LRB-_NNS
--LRB-_1960s	1
--LRB-_videos	1
 VB_VBZ
 say_is	1
 VBZ_RBR
 does_more	1
 NNS_DT
-ways_the	1
-channels_the	1
 stars_the	1
+classics_the	1
 months_this	1
+channels_the	1
+ways_the	1
 paints_a	1
 POS_``
 's_`	1
-IN_-RRB-
-on_-RRB-	1
 VBZ_NN
 Looks_brand	1
 is_NO	1
@@ -7019,11 +6851,6 @@ see_this	1
 think_the	2
 ,_RBS
 ,_most	1
-NNS_-RRB-
-selections_-RRB-	1
-1960s_-RRB-	1
-retailers_-RRB-	1
-tracks_-RRB-	1
 VBD_TO
 began_to	1
 wanted_to	5
@@ -7186,25 +7013,30 @@ tone_...	1
 !!!_-	1
 closet_...	1
 conviction_;	1
-moderation_;	1
+unknown_...	1
 poet_--	1
 line_:	1
 bed_...	1
+deal_-	1
 w_/	1
 part_--	1
 Edition_;	1
+orange_-	1
 Storm_:	1
 documentary_:	1
 movie_...	1
 ray_...	1
 listener_-	2
+footage_--	1
 movie_;	1
-unknown_...	1
+moderation_;	1
+set_-	1
 place_...	1
 movie_-	1
 CD_RB
 one_too	1
 one_unintentionally	1
+1991_twice	1
 ._''
 ?_''	1
 ._'	1
@@ -7359,6 +7191,7 @@ performance_,	2
 singer_,	2
 scene_,	2
 myth_,	3
+life_,	1
 expression_,	1
 police_,	1
 *_,	1
@@ -7367,7 +7200,7 @@ excess_,	1
 comeback_,	1
 fear_,	1
 crowd_,	1
-love_,	1
+love_,	2
 time_,	8
 vibe_,	1
 course_,	3
@@ -7475,7 +7308,7 @@ idolatry_.	1
 view_.	2
 truth_.	1
 filmmaker_.	2
-watch_.	1
+side_?	1
 cafe_.	1
 guy_.	1
 movie_.	19
@@ -7507,6 +7340,7 @@ span_.	1
 mess_.	3
 film_.	14
 stuff_.	1
+watch_.	1
 Pam_.	1
 future_.	1
 generation_.	1
@@ -7538,7 +7372,7 @@ jerk_.	1
 disc_.	1
 DVD_.	1
 king_?	1
-way_.	2
+way_.	3
 radio_.	1
 accomplishment_.	1
 singer_!	1
@@ -7549,6 +7383,7 @@ imagery_.	1
 exception_.	1
 business_.	1
 admission_.	1
+matter_.	1
 helm_.	1
 glimpse_.	1
 fate_.	1
@@ -7563,8 +7398,6 @@ character_.	1
 travel_.	1
 time_.	7
 myth_.	1
--LRB-_TO
--LSB-_to	1
 NNS_JJR
 60s_better	1
 stones_better	1
@@ -7652,8 +7485,6 @@ that_have	1
 ''_was	2
 ''_VBG
 '_leading	1
--LRB-_WP
--LRB-_who	1
 ,_VB
 ,_please	1
 ,_let	2
@@ -7662,12 +7493,14 @@ that_have	1
 ,_stay	1
 ,_articulate	1
 ''_NN
-'_drug	1
+'_reference	1
 ''_DVD	1
 '_side	1
 ''_documentary	2
-'_buddy	1
+'_drug	1
 ''_album	2
+'_buddy	1
+''_Val	1
 VBP_VB
 wont_be	1
 IN_TO
@@ -7728,7 +7561,7 @@ going_as	1
 coming_straight	1
 being_nationally	1
 FW_JJ
-<br />_Needless	1
+etc._Even	1
 DT_$
 the_$	1
 DT_WRB
@@ -7753,34 +7586,24 @@ that_,	3
 those_,	1
 this_,	3
 all_,	6
-DT_.
-this_.	4
-that_.	2
-all_.	3
-NNS_FW
-doors_<br />	1
+JJS_TO
+closest_to	2
 VBG_RP
 dangling_off	1
 finding_out	1
 crashing_down	1
--LRB-_RB
--LRB-_arguably	1
--LRB-_not	1
 JJ_VB
 Boxed_Set	1
 wide_berth	1
 DT_:
 all_:	1
-RB_-RRB-
-arguably_-RRB-	1
-there_-RRB-	1
-much_-RRB-	1
-already_-RRB-	1
-ever_-RRB-	1
 NNS_NNP
+60s_L.A.	1
 things_Jim	1
 inserts_Doors	1
-60s_L.A.	1
+events_JFK	1
+members_Kyle	1
+individuals_Meg	1
 :_SYM
 :_*	1
 PRP_WP
@@ -7936,9 +7759,6 @@ to_Herione	1
 to_Ray	1
 to_Stone	4
 to_France	2
-RB_-LRB-
-well_-LRB-	1
-ever_-LRB-	1
 TO_NNS
 to_things	1
 to_mega-proportions	1
@@ -8026,35 +7846,31 @@ Is_he	1
 PRP$_CC
 his_and	1
 VB_RB
+tell_not	1
 look_close	1
+lean_too	1
+be_around	1
+wait_endlessly	1
+be_so	1
 get_much	1
 walk_away	1
 be_somewhat	1
-push_aside	1
-tell_not	1
-be_right	1
-learn_so	1
-lean_too	1
-be_around	1
 get_enough	1
-<br />_As	1
-make_possibly	1
-wait_endlessly	1
-stay_away	1
-go_out	1
-do_so	1
-<br />_enough	1
 state_unequivocally	1
+go_out	1
+push_aside	1
 be_very	1
-be_so	1
+stay_away	1
+be_right	1
+do_so	1
 look_back	1
+make_possibly	1
+learn_so	1
 WRB_NN
 when_singer	1
 why_everything	1
 when_look	1
 why_Val	1
-PRP_-RRB-
-them_-RRB-	2
 RB_FW
 Very_Trippy	1
 JJ_WRB
@@ -8073,7 +7889,6 @@ just_inserts	1
 NN_EX
 medium_there	1
 material_there	1
-<br />_There	1
 ``_JJ
 ``_Special	1
 `_free-love	1
@@ -8092,6 +7907,7 @@ FW_:
 JFK_-	1
 NNP_IN
 McLaughlin_as	1
+Velvet_as	1
 Morrison_on	1
 See_if	1
 UPDATE_for	1
@@ -8099,6 +7915,7 @@ Morrison_of	2
 Manzarek_as	1
 Morrison_in	5
 Ryan_as	2
+Morrison_about	1
 Road_Of	1
 Dionysus_on	1
 Niro_in	1
@@ -8119,7 +7936,7 @@ Life_with	2
 Kilmer_as	5
 Morrison_as	3
 Idol_as	1
-Morrison_about	1
+Glover_as	1
 MacLachlan_as	1
 Baker_for	1
 PLENTY_of	1
@@ -8129,6 +7946,7 @@ L.A._with	1
 Next_on	1
 Jim_from	1
 SOME_of	1
+Oscars_if	1
 Baker_that	1
 Morrison_that	1
 Brando_in	1
@@ -8157,6 +7975,7 @@ heehee_!	1
 ie_.	1
 ''_PRP
 ''_I	1
+''_it	1
 VBZ_``
 explores_``	1
 's_``	1
@@ -8196,10 +8015,168 @@ for_turning	1
 about_playing	1
 of_capturing	1
 of_entering	1
-FW_UH
-<br />_Please	1
-<br />_Oh	1
-<br />_No	1
+VBN_WRB
+concerned_when	1
+``_CD
+``_Five	1
+,_PRP
+,_he	9
+,_they	5
+,_we	3
+,_you	14
+,_it	24
+,_I	25
+,_she	1
+IN_VBN
+that_turned	1
+as_opposed	1
+as_depicted	1
+As_mentioned	1
+though_based	1
+of_stayed	1
+than_deceased	1
+``_VBN
+``_enhanced	1
+PRP$_NNP
+his_MysteriousDrunkenPoet	1
+their_Rock	1
+his_Mother	1
+your_Morrison	1
+my_Fire	1
+JJS_MD
+most_will	1
+VBG_.
+dissapointing_.	1
+portraying_.	1
+upsetting_.	1
+writing_.	1
+Living_.	1
+stacking_.	1
+missing_.	1
+laughing_.	1
+IN_VBP
+throughout_are	1
+VBG_,
+missing_,	1
+twirling_,	1
+saying_,	1
+doing_,	1
+shattering_,	1
+JJ_CC
+hot_and	1
+physical_and	1
+obnoxious_but	1
+first_and	1
+amamorphic_or	1
+filmic_and	1
+bright_and	1
+excess_and	1
+bloated_and	2
+fast_and	1
+good_and	1
+drunk_or	1
+complex_and	1
+critical_or	1
+kinetic_and	1
+young_and	2
+loving_and	1
+bizzare_but	1
+prodigious_and	1
+flamboyant_and	1
+overambitious_and	1
+short_but	1
+deep_and	1
+real_and	1
+idiotic_and	1
+interesting_and	2
+thick_and	1
+funny_and	1
+cultural_and	1
+known_And	1
+vivid_and	1
+wild_&	1
+poetic_or	1
+big-time_and	1
+accurate_and	1
+little_or	1
+limited_and	1
+decadent_and	1
+drunk_and	2
+unwritten_and	1
+nice_and	1
+key_and	1
+anamorphic_or	1
+fictional_and	1
+affluent_and	1
+inner_and	1
+great_and	1
+unbearable_and	1
+top_and	1
+VBN_RBR
+been_better	1
+chosen_more	1
+IN_VBZ
+with_is	1
+as_leaves	1
+like_is	1
+JJ_CD
+great_60	1
+first_two	1
+last_two	1
+second_two	1
+late_60	1
+early_1969	1
+late_70	1
+final_five	1
+pure_60	1
+mid_1971	1
+heavily-decorated_'60s	1
+other_49	1
+early_1970s	1
+good_one	1
+annoying_20	1
+other_two	1
+first_six	2
+CD_,
+1965_,	1
+1960s_,	1
+1971_,	1
+1_,	1
+one_,	1
+13_,	1
+149_,	1
+1967_,	1
+three_,	1
+CD_.
+1966-1971_.	1
+1991_.	2
+1970s_.	1
+1_.	1
+68_.	1
+one_.	1
+29_.	1
+WRB_VBN
+how_involved	1
+when_given	1
+When_combined	1
+how_come	1
+TO_VBN
+to_chose	1
+NNPS_JJ
+Doors_first	1
+Morrisons_real	1
+Morrisons_wild	1
+NNP_WP
+Morrison_what	1
+Jim_who	1
+REALLY_what	1
+Morrison_who	2
+MacLachlan_who	1
+Quinlan_who	1
+CD_:
+1998_:	1
+VBG_PDT
+showing_all	1
 POS_NN
 's_tribute	1
 's_book	2
@@ -8251,197 +8228,6 @@ POS_NN
 's_self	1
 's_movie	1
 '_disk	1
-,_PRP
-,_he	9
-,_they	5
-,_we	3
-,_you	14
-,_it	24
-,_I	25
-,_she	1
-IN_VBN
-that_turned	1
-as_opposed	1
-as_depicted	1
-As_mentioned	1
-though_based	1
-of_stayed	1
-than_deceased	1
-``_VBN
-``_enhanced	1
-PRP$_NNP
-his_MysteriousDrunkenPoet	1
-their_Rock	1
-his_Mother	1
-your_Morrison	1
-my_Fire	1
--LRB-_NNP
--LRB-_Blue	1
--LRB-_Kyle	2
--LRB-_Kathleen	1
--LRB-_Morrison	1
--LRB-_Meg	3
--LRB-_Robby	1
--LRB-_JFK	1
--LRB-_Jim	1
--LRB-_March	1
-JJS_MD
-most_will	1
-VBG_.
-dissapointing_.	1
-portraying_.	1
-upsetting_.	1
-writing_.	1
-Living_.	1
-stacking_.	1
-missing_.	1
-laughing_.	1
-IN_VBP
-throughout_are	1
-VBG_,
-missing_,	1
-twirling_,	1
-saying_,	1
-doing_,	1
-shattering_,	1
-JJ_CC
-hot_and	1
-physical_and	1
-obnoxious_but	1
-first_and	1
-amamorphic_or	1
-filmic_and	1
-bright_and	1
-excess_and	1
-bloated_and	2
-fast_and	1
-good_and	1
-drunk_or	1
-complex_and	1
-critical_or	1
-kinetic_and	1
-young_and	2
-loving_and	1
-bizzare_but	1
-prodigious_and	1
-flamboyant_and	1
-overambitious_and	1
-short_but	1
-deep_and	1
-real_and	1
-idiotic_and	1
-interesting_and	2
-thick_and	1
-cultural_and	1
-vivid_and	1
-wild_&	1
-poetic_or	1
-big-time_and	1
-accurate_and	1
-little_or	1
-limited_and	1
-decadent_and	1
-drunk_and	2
-unwritten_and	1
-nice_and	1
-key_and	1
-anamorphic_or	1
-fictional_and	1
-affluent_and	1
-inner_and	1
-great_and	1
-unbearable_and	1
-top_and	1
-VBN_RBR
-been_better	1
-chosen_more	1
-FW_CC
-<br />_But	1
-<br />_And	2
-IN_VBZ
-with_is	1
-as_leaves	1
-like_is	1
-JJ_CD
-great_60	1
-first_two	1
-last_two	1
-second_two	1
-late_60	1
-early_1969	1
-late_70	1
-final_five	1
-pure_60	1
-mid_1971	1
-heavily-decorated_'60s	1
-other_49	1
-early_1970s	1
-good_one	1
-annoying_20	1
-other_two	1
-first_six	2
-CD_,
-1965_,	1
-1960s_,	1
-1971_,	1
-1_,	1
-one_,	1
-13_,	1
-149_,	1
-1967_,	1
-three_,	1
-CD_.
-1966-1971_.	1
-1991_.	1
-1970s_.	1
-1_.	1
-68_.	1
-one_.	1
-29_.	1
-WRB_VBN
-how_involved	1
-when_given	1
-When_combined	1
-how_come	1
-TO_VBN
-to_chose	1
-NNPS_JJ
-Doors_first	1
-Morrisons_real	1
-Morrisons_wild	1
-NNP_WP
-Morrison_what	1
-Morrison_who	2
-REALLY_what	1
-CD_:
-1998_:	1
-JJ_-LRB-
-bottom_-LRB-	1
-drunk_-LRB-	1
-funny_-LRB-	1
-live_-LRB-	1
-re-read_-LRB-	1
-mediocre_-LRB-	1
-VBG_PDT
-showing_all	1
-NN_-RRB-
-matter_-RRB-	1
-movie_-RRB-	1
-Fiction_-RRB-	1
-nancy_-RRB-	1
-2disc_-RRB-	1
-life_-RRB-	1
-footage_-RRB-	1
-Blob_-RRB-	1
-version_-RRB-	1
-director_-RRB-	1
-side_-RRB-	1
-way_-RRB-	1
-orange_-RRB-	1
-time_-RRB-	1
-deal_-RRB-	1
-love_-RRB-	1
-set_-RRB-	1
 TO_NN
 to_experience	1
 to_film	1
@@ -8528,11 +8314,13 @@ Morrison_courtesy	1
 King_persona	1
 Stone_set	1
 California_band	1
+Paris_alot	1
 Doors_fan	4
+Stone_director	1
 UCLA_classmate	1
 Technical_info	1
 Thanksgiving_scene	1
-Morrison_fan	1
+Whaley_Pulp	1
 Stone_talk	1
 Doors_music	3
 California_group	1
@@ -8544,6 +8332,7 @@ Doors_fame	1
 Vietnam_experience	1
 MysteriousDrunkenPoet_interpretation	1
 Hollywood_dodo	1
+Doors_rise	1
 Haven_show	1
 Coast_counterculture	1
 Doors_drummer	1
@@ -8562,7 +8351,7 @@ Angeles_dive	1
 Rock_music	1
 Peterson_Val	1
 Sullivan_thing	1
-Doors_rise	1
+Morrison_fan	1
 Mexico_desert	1
 UCLA_film	1
 TO_PRP$
@@ -8677,6 +8466,7 @@ takes_over	1
 sets_out	1
 finds_out	1
 PRP_VBN
+them_handed	1
 you_mesmerized	1
 DT_RBS
 the_most	4
@@ -8691,11 +8481,12 @@ to_crashing	1
 to_experiencing	1
 to_getting	1
 NNP_``
+Frankenstein_``	1
 Indian_`	1
 This_``	1
-</a>_``	1
+King_``	1
 Rock_`	1
-Frankenstein_``	1
+</a>_``	1
 ,_JJS
 ,_most	1
 ,_deepest	1
@@ -8811,11 +8602,7 @@ $_CD
 $_3	1
 PRP$_.
 his_.	1
-FW_VBG
-<br />_Aiding	1
-<br />_Looking	1
 FW_VBD
-<br />_Did	1
 i_was	1
 DT_CD
 a_2	1
@@ -8837,8 +8624,6 @@ these_2	1
 The_60	1
 DT_CC
 this_&	1
-FW_``
-<br />_``	1
 RP_DT
 down_a	1
 out_those	1
@@ -8875,6 +8660,7 @@ have_n't	3
 VBG_``
 watching_``	1
 JJ_VBZ
+purple_is	1
 right_is	1
 third_represents	1
 ''_NNP
@@ -8894,17 +8680,18 @@ Roth_,	1
 Delacroix_,	1
 Bernhardt_,	1
 Kreiger_,	1
-Densmore_,	6
 Greenspoon_,	1
+Densmore_,	6
+Wincott_,	1
 Records_,	1
 Beanery_,	1
 Plant_,	1
 Idol_,	3
-Wincott_,	1
+Nixon_,	1
 Dillion_,	1
 City_,	1
 Go-Go_,	1
-Whaley_,	1
+Venice_,	1
 Chopin_,	1
 Duncan_,	1
 Courson_,	2
@@ -8916,13 +8703,13 @@ Kilmer_,	3
 Jimmy_,	1
 Amazon_,	1
 Nico_,	1
-Venice_,	1
+Whaley_,	1
 Alive_,	2
 Peace_,	1
 Madsen_,	1
 Rossini_,	1
 WOODSTOCK_,	1
-Jim_,	6
+Jim_,	7
 Stone_,	4
 Manzarek_,	3
 Lachaise_,	1
@@ -8938,7 +8725,7 @@ Underground_,	1
 Kenealy_,	1
 Beach_,	1
 Doors_,	7
-King_,	1
+King_,	2
 Dillon_,	1
 Maclachlan_,	1
 Balzac_,	1
@@ -8978,7 +8765,7 @@ Oliver_.	2
 THEN_.	1
 Nam_.	1
 Dionysus_.	1
-Morrison_.	21
+Morrison_.	22
 Kilmer_.	2
 Metallica_.	1
 God_?	1
@@ -8995,18 +8782,18 @@ LSD_.	1
 Pam_.	2
 WOW_.	1
 JFK_.	1
+Ryan_.	1
 Dreamtime_.	1
 Stone_.	4
 Herione_.	1
 JJ_VBP
 why-we_'re	1
--LRB-_WDT
--LRB-_which	1
 POS_CC
 's_and	5
 JJ_VBN
 classical_thrown	1
 soft_spoken	1
+drunk_possessed	1
 VBG_NN
 evolving_music	1
 haunting_voice	1
@@ -9037,12 +8824,13 @@ NNP_:
 Paris_-	1
 Stone_:	1
 Baker_:	1
-Fire_:	1
+L.A._-	1
 Morrison_--	1
+Fire_:	1
 GRADE_:	1
 Henning_-	1
 ANALYSIS_:	1
-L.A._-	1
+BAD_...	1
 WARNING_:	1
 Morrison_:	1
 Morrison_;	1
@@ -9070,7 +8858,7 @@ realistic_her	1
 VBZ_.
 misses_.	1
 does_.	1
-is_.	2
+is_.	3
 VBZ_,
 is_,	2
 looks_,	1
@@ -9108,13 +8896,6 @@ VBP_``
 call_``	1
 watch_``	1
 read_`	1
--LRB-_JJ
--LRB-_full	1
--LRB-_Blu-ray	1
--LRB-_available	1
--LRB-_YOUR	1
--LRB-_purple	1
--LRB-_next	1
 JJ_JJ
 conscious_normal	1
 long_prolonged	1
@@ -9151,6 +8932,7 @@ unique_cinematic	1
 mundane_worldly	1
 hypnotic_sublime	1
 rebellious_young	1
+sure_unbearable	1
 many_talented	1
 happy_cheery	1
 such_horrible	1
@@ -9161,13 +8943,19 @@ brown_long	1
 amazing_directorial	1
 =_=	32
 great_TRUE	1
-VBN_PRP
-glossed_it	1
-combined_it	1
-noticed_they	1
+JJR_IN
+more_than	3
+better_than	2
+better_of	1
+more_about	1
+more_like	1
+more_of	4
+longer_by	1
+worse_over	1
+higher_in	1
 :_FW
-..._<br />	2
-:_<br />	4
+:_------	1
+:_-----------	1
 CD_VB
 1969_take	1
 WRB_JJ
@@ -9261,6 +9049,7 @@ forms_could	1
 ;_Stone	1
 ..._Jim	1
 ;_Robbie	1
+:_Kyle	1
 CC_FW
 but_i	1
 PRP_TO
@@ -9370,22 +9159,6 @@ through_and	1
 on_both	1
 before_and	1
 on_and	1
-NNP_-LRB-
-Glover_-LRB-	1
-Dillon_-LRB-	1
-Paris_-LRB-	1
-King_-LRB-	1
-Stone_-LRB-	1
-Courson_-LRB-	2
-Scene_-LRB-	1
-Whaley_-LRB-	1
-STREET_-LRB-	1
-Manzarek_-LRB-	1
-Oscars_-LRB-	1
-Quinlan_-LRB-	1
-Pamela_-LRB-	1
-Keneally_-LRB-	1
-MacLachlan_-LRB-	1
 PRP_:
 it_:	2
 it_--	1
@@ -9412,9 +9185,6 @@ epics_concerning	1
 RP_RB
 off_here	1
 off_well	1
--LRB-_PRP
--LRB-_he	1
--LRB-_I	1
 PRP_NNS
 it_paints	1
 you_people	1
@@ -9444,29 +9214,6 @@ spew_out	1
 point_out	1
 ''_WRB
 ''_wherein	1
-RP_IN
-in_on	1
-up_about	1
-about_by	1
-up_with	1
-off_by	1
-out_about	1
-out_with	1
-up_by	1
-up_in	5
-on_in	1
-off_like	2
-out_that	2
-on_at	1
-out_for	1
-off_as	1
-down_in	1
-out_in	1
-away_from	1
-out_as	1
-through_with	1
-out_if	1
-down_on	1
 ``_PRP
 ``_I	1
 ``_It	1
@@ -9515,10 +9262,8 @@ POS_JJ
 ''_of	1
 :_TO
 ..._to	1
+:_to	1
 --_to	1
--RRB-_IN
--RRB-_that	1
--RRB-_as	3
 VBN_PRP$
 fudged_his	1
 covered_their	1
@@ -9681,6 +9426,7 @@ overheated_directing	1
 NNP_RB
 Jim_really	1
 Kilmer_alike	1
+Stone_actually	1
 Stone_also	1
 Morrison_then	1
 Doors_also	1
@@ -9695,20 +9441,22 @@ Morrison_actually	1
 Morrison_long	1
 Buick_actually	1
 Wincott_also	1
-Stone_actually	1
+Laurie_also	1
 Kilmer_so	1
-<br />_also	1
 POS_:
 's_--	1
+'s_...	1
 NNP_VBP
 Whaley_are	1
+Nixon_do	1
+Whaley_have	1
+Inbetween_are	1
 Stone_have	1
 Barres_are	1
-Inbetween_are	1
 :_PRP
 -_I	1
 ;_they	1
-..._I	1
+..._I	3
 ;_he	1
 -_they	1
 ..._it	1
@@ -9718,9 +9466,8 @@ Inbetween_are	1
 ..._you	1
 :_It	1
 :_JJ
-:_<br />	1
--_Australian	1
 :_Great	1
+-_Australian	1
 :_Special	1
 VBN_CC
 released_and	1
@@ -9790,26 +9537,28 @@ Ryan_does	1
 Morrison_does	1
 Ryan_sounds	1
 VB_JJ
-Be_careful	1
-get_right	1
-get_rid	1
-be_funny	1
 cut_right	1
-play_opposite	1
-come_clean	1
-die_young	1
-achieve_everlasting	1
-get_career-defining	1
-be_drunk	1
-be_depressing	1
 be_honest	1
-become_famous	1
-look_great	1
 get_ready	1
-show_why-we	1
-articulate_young	1
 say_intense	1
+be_drunk	1
+articulate_young	1
+die_young	1
+get_career-defining	1
+come_clean	1
+play_opposite	1
+look_great	1
 be_distant	1
+get_right	1
+see_next	1
+achieve_everlasting	1
+become_famous	1
+Set_full	1
+Be_careful	1
+be_depressing	1
+be_funny	1
+show_why-we	1
+get_rid	1
 TO_VB
 to_base	1
 to_play	8
@@ -9905,9 +9654,10 @@ RB_MD
 just_could	1
 anywhere_could	1
 NN_``
-<br />_``	1
+poetry_``	1
 band_``	1
 reference_``	1
+edition_``	1
 disk_``	1
 movie_``	1
 film_``	2
@@ -9993,13 +9743,6 @@ POS_,
 WP_NNP
 what_Patricia	1
 what_Jim	2
--LRB-_IN
--LRB-_if	1
--LRB-_like	2
--LRB-_unlike	1
--LRB-_for	1
--LRB-_though	2
--LRB-_as	1
 NNP_POS
 Heaven_'s	1
 Fire_'	1
@@ -10020,8 +9763,6 @@ Risin_'	1
 Alive_'	1
 ValKilmer_'s	1
 Extra_'s	1
-''_FW
-''_<br />	1
 NN_RB
 something_only	1
 actor_best	1
@@ -10056,7 +9797,6 @@ course_then	1
 camera_here	1
 movie_just	1
 ego_quickly	1
-<br />_Also	1
 appearance_as	1
 role_only	1
 star_here	1
@@ -10065,7 +9805,6 @@ point_anyway	1
 opinion_here	1
 time_ago	1
 person_rather	1
-<br />_However	1
 flick_basically	1
 era_so	1
 performance_here	1
@@ -10078,8 +9817,6 @@ music_as	1
 review_yet	1
 film_accurately	1
 movie_really	1
-FW_WRB
-<br />_How	1
 :_:
 ..._...	1
 JJ_IN
@@ -10103,6 +9840,7 @@ insightful_for	1
 short_in	1
 expensive_as	1
 inherent_within	1
+mediocre_though	1
 worth_of	2
 same_as	1
 loose_with	1
@@ -10135,6 +9873,7 @@ famous_in	1
 uncanny_in	1
 shy_at	1
 present_at	1
+re-read_for	1
 close_as	1
 glad_that	1
 VBD_``
@@ -10154,6 +9893,7 @@ Doors_Universe	1
 reviews_panning	1
 facts_right	1
 stones_dramatisation	1
+inventions_cfr	1
 Doors_*	1
 lyrics_w/Greek	1
 olivers_jim	1
@@ -10235,24 +9975,25 @@ is_all	2
 gives_the	1
 recreates_the	1
 CD_NN
+1997_orange	1
 one_character	1
-six_studio	1
 5.1_Dolby	1
-!!!_Everyone	1
+one_man	1
+99.9_%	1
 16:9_tv	1
 two_band	1
-99.9_%	1
+six_studio	1
 20_something	1
 one_rock	1
 2_disc	1
 15_Year	1
 5.1_sound	1
 20_minute	1
-one_man	1
+!!!_Everyone	1
 1991_director	1
 one_scene	1
 JJS_VBZ
-most_is	1
+most_is	2
 VBZ_NNP
 makes_Jim	1
 shows_Jim	1
@@ -10274,9 +10015,10 @@ IS_Jim	3
 tells_Baker	1
 is_WOW	1
 asks_Morrison	1
-RP_CC
-out_and	1
-up_and	1
+FW_NNP
+----------------------------------------------------------------------_Quick	1
+------_Jim	1
+-----------_Tom	1
 :_.
 ..._.	1
 VBZ_NNS
@@ -10292,8 +10034,8 @@ enjoy_rock	1
 understand_film	1
 love_oliver	1
 think_Val	1
-``_CD
-``_Five	1
+NN_PRP$
+fruition_his	1
 JJ_''
 free-love_'	1
 atrocious_''	1
@@ -10303,20 +10045,21 @@ inaccurate_''	1
 crazy_'	1
 VBD_:
 recommended_:	1
-FW_-RRB-
-etc._-RRB-	1
 VB_CD
 represent_one	1
 sing_one	1
 care_???	1
 VB_CC
-capture_both	1
 meet_and	1
-participate_or	1
 feel_and	1
 find_and	1
+have_and	1
+participate_or	1
+capture_both	1
 NNP_DT
 WAS_the	1
+STREET_a	1
+Dillon_The	1
 JJS_NN
 biggest_screen	1
 best_part	1
@@ -10330,15 +10073,29 @@ best_thing	1
 greatest_rock	3
 best_rock	1
 most_part	1
-FW_RB
-<br />_Fabulously	1
-<br />_However	2
-<br />_Warmly	1
-<br />_Also	1
-<br />_Supposedly	1
-<br />_So	6
-<br />_Aside	1
-<br />_Perfectly	1
+RP_IN
+in_on	1
+up_about	1
+about_by	1
+up_with	1
+off_by	1
+out_about	1
+out_with	1
+up_by	1
+up_in	5
+on_in	1
+off_like	2
+out_that	2
+on_at	1
+out_for	1
+off_as	1
+down_in	1
+out_in	1
+away_from	1
+out_as	1
+through_with	1
+out_if	1
+down_on	1
 VBN_NNS
 deleted_scenes	2
 fascinated_generations	1
@@ -10346,16 +10103,6 @@ found_books	1
 baffled_bandmates	1
 confirmed_instances	1
 recieved_reviews	1
--LRB-_NN
--LRB-_Pulp	1
--LRB-_orange	1
--LRB-_reference	1
--LRB-_director	1
--LRB-_hey	1
--LRB-_alot	1
--LRB-_2disc	1
--LRB-_cfr	1
--LRB-_yaaay	1
 ,_NNP
 ,_Jim	8
 ,_Ray	1
@@ -10614,7 +10361,6 @@ bearded_beast	1
 wonderful_film	2
 clear_transfer	1
 first_album	1
-<p>_DVD	1
 poor_choice	1
 would-be_witch	1
 excellent_cast	1
@@ -10705,7 +10451,6 @@ magnificent_usage	1
 mere_card	1
 mercurial_lead	1
 goofy_charm	1
-known_<br />	1
 exciting_soundtrack	1
 enigmatic_figure	1
 mystical_tale	1

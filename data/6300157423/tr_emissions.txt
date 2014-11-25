@@ -1,17 +1,17 @@
+NN_CD_.
+</a>_1946_.	1
 NNP_VBZ_TO
 Aubrey_proposes_to	1
-NNP_NN_VBZ
-Sterling/Brooks_version_is	1
--RRB-_,_WDT
--RRB-_,_which	1
+RB_DT_JJ
+only_This_silent	1
+VB_PRP$_NN
+support_his_bride	1
 ,_WP_RB
 ,_who_here	1
 JJ_NN_CC
 lowly_position_and	1
 VBZ_TO_NNP
 proposes_to_Amy	1
-``_PRP_''
-``_It_''	1
 NNP_NNP_CD
 Louise_Brooks_5	1
 NNP_POS_NN
@@ -20,19 +20,17 @@ Sennett_'s_Keystone	1
 Clair_'s_adaptation	1
 NNP_IN_NNP
 Chief_of_Mack	1
-IN_IN_NN
-along_with_<a href="http://www.amazon.com/gp/product/B00005M1ZO">	1
+NNP_,_WDT
+Wilson_,_which	1
+CD_TO_CD
+1_to_10	1
 NNP_NNP_POS
 Mack_Sennett_'s	1
 St._Clair_'s	1
 NNP_CD_NNS
 Brooks_5_stars	1
-FW_FW_JJ
-<br />_<br />_Parenthetical	1
 DT_RB_VBZ
 this_just_is	1
-FW_DT_JJ
-<br />_This_silent	1
 ,_IN_IN
 ,_along_with	1
 VBZ_JJ_VBG
@@ -44,21 +42,23 @@ IN_NNP_VBZ
 of_Life_is	1
 NN_VBN_IN
 rating_found_at	1
+,_VBG_``
+,_featuring_``	1
 POS_NN_VBZ
 's_smile_is	1
 VB_JJ_DT
 be_worth_the	1
 ,_IN_NN
 ,_despite_cover	1
-FW_FW_IN
-<br />_<br />_After	1
-<br />_<br />_In	1
+DT_NN_,
+the_auto_,	1
+a_raffle_,	1
 ,_IN_PRP$
 ,_so_his	1
 IN_VBG_DT
 of_crashing_the	1
-FW_FW_NNP
-<br />_<br />_Sterling	1
+RP_,_WDT
+out_,_which	1
 NNS_IN_VBG
 accidents_by_driving	1
 VBZ_JJ_RB
@@ -72,6 +72,8 @@ a_car_in	1
 a_point_in	1
 the_process_of	1
 the_girlfriend_of	1
+NNP_NN_VBZ
+Sterling/Brooks_version_is	1
 DT_NNP_NNP
 a_Ford_Sterling	1
 the_George_Kelly	1
@@ -100,13 +102,10 @@ number_preceding_title	1
 comedy_double_feature	1
 NNP_VBD_IN
 Skelton_starred_in	1
-NN_NN_-LRB-
-OFF_</a>_-LRB-	1
-AGE_</a>_-LRB-	1
+JJ_IN_NNP
+available_from_IMAGE	1
 DT_NN_PRP
 this_story_he	1
-CD_TO_CD
-1_to_10	1
 CD_NNS_,
 5_stars_,	1
 RB_VB_NNP
@@ -133,8 +132,6 @@ secondary_character_.	1
 big_shot_.	1
 net_worth_.	1
 minor_role_.	1
--RRB-_FW_FW
--RRB-_<br />_<br />	2
 VB_DT_JJ
 be_a_wealthy	1
 RB_VB_WRB
@@ -148,21 +145,22 @@ of_<a href="http://www.amazon.com/gp/product/630294659X">_THE	1
 with_<a href="http://www.amazon.com/gp/product/B00005M1ZO">_THE	1
 PRP_RB_,
 it_first_,	1
-FW_IN_PRP
-<br />_After_he	1
+``_PRP_''
+``_It_''	1
 PRP_''_NNP
 It_''_Girl	1
--RRB-_VBZ_JJ
--RRB-_causes_several	1
+NNP_WP_VBZ
+Aubrey_who_does	1
 NNP_NNP_NNP
+Amy_Fisher_Wilson	1
 J._Aubrey_Piper	1
 Director_Malcolm_St.	1
 Girl_Clara_Bow	1
 Malcolm_St._Clair	1
 VBZ_RP_,
 helps_out_,	1
-,_VBG_``
-,_featuring_``	1
+NNP_RB_DT
+VHS_only_This	1
 NNP_,_DT
 Piper_,_a	1
 NN_IN_PRP$
@@ -174,8 +172,8 @@ stageplay_THE_SHOW-OFF	1
 told_the_truth	1
 NNP_VBZ_RB
 Sterling_is_best	1
-IN_CD_IN
-in_one_of	1
+NNP_NNP_VBZ
+Joe_Kelly_helps	1
 NNP_NN_,
 Sterling_vehicle_,	1
 IN_DT_NN
@@ -191,8 +189,6 @@ VBZ_DT_JJ
 has_a_supporting	1
 causes_a_whole	1
 's_the_bragadocious	1
-WRB_TO_VB
-how_to_operate	1
 MD_VB_JJ
 can_be_worth	1
 NN_VBZ_JJ
@@ -201,13 +197,13 @@ IN_NN_.
 in_example_.	1
 JJ_NN_VBZ
 preceding_title_is	1
--RRB-_VBZ_RP
--RRB-_helps_out	1
 RB_VBZ_DT
 here_portrays_the	1
 only_has_a	1
 NN_NN_VBN
 poll_rating_found	1
+NNP_VBZ_RP
+Kelly_helps_out	1
 ,_NNP_VBZ
 ,_Aubrey_pins	1
 PRP_RB_VBZ
@@ -223,13 +219,10 @@ set_of_problems	1
 NN_IN_NNP
 movie_with_Louise	1
 anything_with_Louise	1
--LRB-_CD_-RRB-
--LRB-_1946_-RRB-	1
--LRB-_1925_-RRB-	1
 NNS_WP_VBP
 parents_who_are	1
-,_NNP_-LRB-
-,_Aubrey_-LRB-	1
+CD_,_VBG
+1925_,_featuring	1
 VBZ_PRP$_NNS
 displeases_her_parents	1
 VBZ_JJ_TO
@@ -241,14 +234,10 @@ WDT_VBZ_PRP$
 which_displeases_her	1
 DT_,_PRP
 this_,_it	1
-NNP_NNP_-LRB-
-Amy_Fisher_-LRB-	1
 VBP_JJ_TO
 are_hard_to	1
 NNP_NNP_NN
 Ford_Sterling_vehicle	1
-NN_NNP_-LRB-
-brother_Joe_-LRB-	1
 DT_NN_VBZ
 THE_SHOW-OFF_is	1
 PRP$_JJ_NN
@@ -260,14 +249,11 @@ one_of_the	1
 NNP_NNP_,
 Aubrey_Piper_,	1
 Louise_Brooks_,	1
+Fisher_Wilson_,	1
 VBG_TO_VB
 claiming_to_be	1
-RB_-RRB-_FW
-only_-RRB-_<br />	2
 TO_VB_PRP$
 to_support_his	1
-NNP_RB_-RRB-
-VHS_only_-RRB-	1
 NNS_IN_NN
 remakes_of_<a href="http://www.amazon.com/gp/product/630294659X">	1
 JJ_TO_VB
@@ -278,19 +264,14 @@ VB_PRP_RB
 get_it_first	1
 ,_PRP_VBZ
 ,_it_'s	1
+NN_NNP_NNP
+brother_Joe_Kelly	1
 NNS_,_CC
 stars_,_but	1
-DT_NN_,
-the_auto_,	1
-a_raffle_,	1
-VB_PRP_-RRB-
-operate_it_-RRB-	1
 NNP_VB_DT
 Box_get_this	1
--LRB-_WP_VBZ
--LRB-_who_does	1
-VB_PRP$_NN
-support_his_bride	1
+NN_CD_,
+</a>_1925_,	1
 DT_JJ_JJ
 a_whole_new	1
 ,_CC_DT
@@ -334,6 +315,7 @@ resource_website_.	1
 IN_NNP_IN
 as_Chief_of	1
 PRP_VBZ_JJ
+it_causes_several	1
 he_'s_unable	1
 it_'s_worth	1
 It_'s_hard	1
@@ -346,10 +328,8 @@ IMAGE_ENTERTAINMENT_as	1
 Clara_Bow_in	1
 WP_VBZ_RB
 who_does_n't	1
-JJ_IN_NNP
-available_from_IMAGE	1
-NN_RB_-RRB-
-DVD_only_-RRB-	1
+IN_IN_NN
+along_with_<a href="http://www.amazon.com/gp/product/B00005M1ZO">	1
 TO_VB_DT
 to_pay_a	1
 to_give_a	1
@@ -368,8 +348,6 @@ JJ_RB_TO
 hard_not_to	1
 VBZ_RB_VB
 does_n't_know	1
--LRB-_NN_RB
--LRB-_DVD_only	1
 CD_VB_RB
 two_marry_anyway	1
 NN_NN_NN
@@ -383,6 +361,8 @@ IN_NNS_.
 of_problems_.	1
 NN_VBG_NNP
 art_depicting_Louise	1
+RB_JJ_NN
+only_Parenthetical_number	1
 RB_PRP$_JJS
 n't_her_best	1
 NN_IN_NN
@@ -391,12 +371,10 @@ DT_$_CD
 a_$_1,000	1
 ,_NNP_NNP
 ,_Red_Skelton	1
-PRP_-RRB-_VBZ
-it_-RRB-_causes	1
+VBG_``_PRP
+featuring_``_It	1
 NN_NNP_VBZ
 spendthrift_Aubrey_is	1
-NNP_-RRB-_,
-Wilson_-RRB-_,	1
 NNP_VBP_JJ
 Brooks_are_hard	1
 PRP_VBP_VBN
@@ -407,12 +385,12 @@ IN_DT_NNP
 of_the_George	1
 JJ_VBG_.
 worth_watching_.	1
+NN_RB_JJ
+DVD_only_Parenthetical	1
 DT_VBZ_NN
 this_is_masterpiece	1
 POS_NN_NNS
 's_Keystone_Kops	1
-RP_,_WDT
-out_,_which	1
 DT_JJ_NNS
 the_many_remakes	1
 DT_JJ_NNP
@@ -445,8 +423,6 @@ but_this_just	1
 NNP_IN_DT
 ENTERTAINMENT_as_a	1
 Bow_in_a	1
-FW_FW_DT
-<br />_<br />_This	1
 NNP_NNP_VBP
 Louise_Brooks_are	1
 VB_DT_NN
@@ -465,21 +441,21 @@ TO_VB_PRP
 to_operate_it	1
 VB_DT_$
 pay_a_$	1
-CD_-RRB-_.
-1946_-RRB-_.	1
+RB_JJ_IN
+also_available_from	1
 VBZ_RB_VBN
 is_best_known	1
-VBG_``_PRP
-featuring_``_It	1
+NN_NN_CD
+OFF_</a>_1946	1
+AGE_</a>_1925	1
 VB_DT_,
 get_this_,	1
 $_CD_NN
 $_1,000_fine	1
 RB_VBZ_RB
 just_is_n't	1
--LRB-_NNP_-RRB-
--LRB-_Kelly_-RRB-	1
--LRB-_Wilson_-RRB-	1
+IN_CD_IN
+in_one_of	1
 POS_NN_IN
 's_adaptation_of	1
 POS_NN_.
@@ -495,10 +471,12 @@ depicting_Louise_Brooks	1
 NNP_POS_NNP
 Pandor_'s_Box	1
 Pandoria_'s_Box	1
--RRB-_,_VBG
--RRB-_,_featuring	1
+VBN_IN_DT
+found_at_a	1
 ''_NNP_NNP
 ''_Girl_Clara	1
+VB_PRP_VBZ
+operate_it_causes	1
 JJ_NN_JJ
 Parenthetical_number_preceding	1
 wealthy_company_big	1
@@ -509,6 +487,8 @@ of_the_many	1
 in_a_minor	1
 POS_NNP_VB
 's_Box_get	2
+,_NNP_WP
+,_Aubrey_who	1
 IN_PRP_VBZ
 After_he_wins	1
 VBP_NNP_POS
@@ -534,8 +514,6 @@ IN_PRP$_NN
 so_his_brother	1
 JJS_NN_.
 best_vehicle_.	1
-RB_JJ_IN
-also_available_from	1
 CC_MD_VB
 but_can_be	1
 VBN_VBD_DT
@@ -552,23 +530,13 @@ IN_PRP_,
 with_him_,	1
 NN_IN_VBG
 process_of_crashing	1
-FW_JJ_NN
-<br />_Parenthetical_number	1
--LRB-_NNP_RB
--LRB-_VHS_only	1
 JJ_NNP_NNP
 Other_Louise_Brooks	1
 bragadocious_J._Aubrey	1
 VBG_IN_DT
 driving_on_the	1
-NNP_-LRB-_NNP
-Joe_-LRB-_Kelly	1
-Fisher_-LRB-_Wilson	1
 WP_VBP_JJ
 who_are_little-impressed	1
-NN_-LRB-_CD
-</a>_-LRB-_1925	1
-</a>_-LRB-_1946	1
 JJ_NN_IN
 wrong_side_of	1
 new_set_of	1
@@ -577,8 +545,6 @@ several_accidents_by	1
 many_remakes_of	1
 VBZ_RB_PRP$
 is_n't_her	1
-NNP_-RRB-_VBZ
-Kelly_-RRB-_helps	1
 DT_JJ_NN
 a_carnation-wearing_railroad	1
 a_wealthy_company	1
@@ -590,8 +556,8 @@ VBZ_JJ_NNS
 causes_several_accidents	1
 PRP$_NN_IN
 his_bride_on	1
-FW_IN_CD
-<br />_In_1946	1
+JJ_NN_,
+double_feature_,	1
 VB_RB_,
 marry_anyway_,	1
 TO_VB_CC
@@ -604,12 +570,8 @@ VB_NNP_POS
 own_Pandoria_'s	1
 TO_CD_NN
 to_10_viewer	1
-CD_-RRB-_,
-1925_-RRB-_,	1
 IN_PRP$_JJ
 about_their_future	1
-JJ_NN_,
-double_feature_,	1
 WP_RB_VBZ
 who_here_portrays	1
 RB_,_DT
@@ -623,8 +585,6 @@ not_to_give	1
 NN_,_NNP
 raffle_,_Aubrey	1
 auto_,_Aubrey	1
-FW_NNP_VBZ
-<br />_Sterling_is	1
 RB_VBN_IN
 best_known_as	1
 NN_POS_JJ
@@ -636,7 +596,5 @@ wins_a_car	1
 is_a_point	1
 VB_WRB_TO
 know_how_to	1
-NNP_-LRB-_WP
-Aubrey_-LRB-_who	1
-VBN_IN_DT
-found_at_a	1
+WRB_TO_VB
+how_to_operate	1

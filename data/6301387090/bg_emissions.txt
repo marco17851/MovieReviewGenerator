@@ -1,14 +1,3 @@
-NN_-LRB-
-study_-LRB-	1
-retinue_-LRB-	1
-march_-LRB-	1
-time_-LRB-	1
-problem_-LRB-	1
-woman_-LRB-	1
-deminish_-LRB-	1
-boyfriend_-LRB-	1
-culture_-LRB-	1
-lensing_-LRB-	1
 IN_NN
 from_somehwere	1
 on_television	1
@@ -57,19 +46,18 @@ of_history	2
 in_time	1
 of_marriage	1
 with_quality	1
+JJ_VBP
+unhappy_lead	1
 VBG_VBN
 Being_raised	1
 becoming_involved	1
 being_developed	1
 VBN_VBG
 thought_provoking	1
-FW_DT
-<br />_A	1
-<br />_This	2
-<br />_All	1
-<br />_The	3
 VBG_VBG
 regarding_maintaining	1
+VBG_VBZ
+Trying_sings	1
 CC_JJ
 and_much	1
 and_liturgical	1
@@ -116,6 +104,8 @@ developed_.	1
 VBN_,
 filmed_,	1
 based_,	2
+JJ_VBN
+particular_eliminated	1
 WDT_MD
 that_should	1
 VB_TO
@@ -132,11 +122,10 @@ holds_one	1
 NNS_WDT
 choices_that	1
 feelings_that	1
+finances_which	1
 themes_that	1
 WRB_TO
 How_to	1
--RRB-_FW
--RSB-_<br />	1
 RB_JJR
 little_longer	1
 forth_more	1
@@ -170,13 +159,8 @@ who_abandons	1
 who_learns	1
 who_seems	1
 what_is	1
--RRB-_,
--RRB-_,	4
--RRB-_.
--RRB-_.	4
 NNP_CC
 O`Connell_and	1
-<br />_and	1
 Meredith_and	2
 Saxon_and	1
 WWI_and	1
@@ -185,10 +169,6 @@ Hur_or	1
 Splaine_and	1
 NNP_CD
 Vatican_2	1
-VB_-LRB-
-portray_-LRB-	1
-''_-LRB-
-''_-LRB-	2
 JJS_CD
 least_one	1
 IN_PRP$
@@ -271,6 +251,7 @@ NN_DT
 book_some	1
 television_the	1
 movie_This	1
+lensing_no	1
 star_the	1
 Love_the	1
 film_the	1
@@ -286,6 +267,7 @@ to_no	1
 to_a	5
 NN_CD
 film_40	1
+study_one	1
 vatican_2	1
 VBD_RP
 brought_back	1
@@ -320,12 +302,10 @@ have_to	1
 ,_to	4
 RB_NNP
 primarily_Preminger	1
-again_<br />	1
-not_Ben	1
 especially_Moon	1
+not_Ben	1
 WDT_NN
 what_thread	1
-what_<br />	1
 ,_PRP$
 ,_his	1
 ,_its	2
@@ -411,13 +391,9 @@ UH_WRB
 oh_why	1
 NNS_JJ
 times_seemy	1
-FW_NNP
-<br />_Cardinal	1
-<br />_Preminger	1
-<br />_Otto	1
-<br />_Directed	1
--RRB-_WDT
--RRB-_which	1
+RP_CC
+up_and	1
+around_and	1
 NNP_''
 Glory_''	1
 Birds_''	1
@@ -524,7 +500,7 @@ confront_how	1
 VBD_DT
 included_the	1
 lived_a	1
-was_a	8
+was_a	9
 gave_the	2
 enjoyed_this	2
 turned_the	1
@@ -551,11 +527,10 @@ developments_and	1
 statements_and	1
 days_and	1
 Bishops_and	1
-VBN_-RRB-
-inserted_-RRB-	1
-JJR_IN
-better_than	1
-stiffer_than	1
+VBN_PRP
+handled_it	1
+harmed_them	1
+thought_it	1
 VBP_IN
 jackie_de	1
 NN_CC
@@ -565,6 +540,7 @@ time_and	1
 grandeur_and	1
 church_vs.	1
 entertainment_and	1
+music_and	1
 day_and	1
 travel_and	1
 movie_and	3
@@ -583,6 +559,7 @@ camera_and	1
 O`Connell_and	1
 priest_and	1
 honor_and	1
+retinue_and	1
 Church_and	1
 meal_but	1
 commitment_and	2
@@ -596,6 +573,7 @@ role_and	1
 freedom_and	1
 garb_and	1
 sister_and	1
+march_and	1
 faith_and	3
 WDT_PRP
 which_he	1
@@ -610,10 +588,9 @@ DT_JJR
 a_softer	1
 DT_WP
 those_who	3
-WP$_NNS
-whose_emotions	1
-VBG_-RRB-
-Trying_-RRB-	1
+VB_NN
+respect_commitment	2
+capture_light	1
 NN_JJ
 family_unhappy	1
 actor_much	1
@@ -627,11 +604,9 @@ Academy_Awards	1
 Landscape_murals	1
 NNP_NNP
 TOM_TRYON	1
-Carol_Lynley	3
+Cardinal_Glennon	1
 Catholic_Church	7
-<p>_Robinson	1
 M._O`Toole	1
-Ghislana_Falerni	1
 Golden_Globe	1
 Sorry_Otto	1
 Thorne_Birds	1
@@ -642,28 +617,25 @@ John_Houston	1
 John_Huston	4
 Christopher_Reeves	1
 Director_Otto	1
-<p>_Overall	1
 Religious_Freedom	1
 Father_Fermoyle	2
-<br />_Nonethess	1
-A._<br />	1
+A._Nonethess	1
+Carol_Lynley	3
 Corny_Deegan	1
 Milky_Lyons	1
 Boisblanc_This	1
 Robert_Morse	1
-Stephen_Fermoyle	1
 Cardinal_Fermoyle	1
 William_Henry	2
 !!!_Though	1
-<br />_<br />	1
-Western_Hemisphere	1
+Patrick_O'Brien	1
+Stephen_Fermoyle	1
 Roberto_Braggioti	1
 Murray_Hamilton	1
 Burgess_Meredith	3
 Father_Foymolle	1
 John_Saxon	2
 Tom_Tryon	11
-Cardinal_Glennon	1
 Cardinal_O`Connell	2
 ??_Sorry	1
 Catholic_worship.A	1
@@ -679,12 +651,12 @@ Second_Vatican	1
 Roman_Catholic	2
 Morton_Robinson	4
 Dorothy_Gish	1
-<p>_Stephen	1
+Ghislana_Falerni	1
 Western_Catholicism	1
 U._S.	1
 Henry_O`Connell	2
 Notre-Dame_Press	1
-Patrick_O'Brien	1
+Western_Hemisphere	1
 Otto_Preminger	7
 Cardinal_Abp	2
 James_Splaine	1
@@ -781,13 +753,6 @@ than_the	3
 of_a	9
 VBZ_WRB
 sees_how	1
--LRB-_CD
--LRB-_one	1
--LRB-_CC
--LRB-_and	2
-NNS_-LRB-
-finances_-LRB-	1
-themes_-LRB-	1
 RB_WRB
 back_when	1
 RB_,
@@ -846,11 +811,10 @@ when_he	1
 why_he	1
 when_I	2
 when_you	2
-CD_-RRB-
-1992_-RRB-	1
 :_IN
 --_after	1
 -_as	1
+..._In	1
 PRP$_JJ
 its_initial	1
 his_own	3
@@ -897,8 +861,8 @@ of_us	1
 ''_.	2
 ''_,
 ''_,	1
-PRP_-RRB-
-yourself_-RRB-	1
+NNS_VB
+themes_see	1
 ,_FW
 ,_etc	1
 TO_WP
@@ -971,6 +935,7 @@ an_epic	1
 The_cast	1
 The_film	1
 some_nepotism	1
+any_religion	1
 the_journey	1
 no_idea	1
 the_matter	1
@@ -1111,6 +1076,7 @@ I_couldnt	1
 I_'ve	1
 we_have	1
 You_'re	1
+yourself_see	1
 we_know	1
 I_remember	4
 I_read	1
@@ -1162,8 +1128,6 @@ it_takes	1
 It_is	5
 It_covers	1
 FW_PRP
-<br />_It	2
-<br />_I	1
 Visia_I	1
 IN_,
 over_,	1
@@ -1172,6 +1136,9 @@ IN_.
 on_.	1
 through_.	1
 about_.	2
+FW_FW
+swooped_in	1
+etc_etc	1
 ``_DT
 ``_the	1
 ``_The	3
@@ -1195,12 +1162,10 @@ and_is	2
 and_decides	1
 nor_engages	1
 NN_WRB
-<p>_When	1
 school_when	1
 sound_when	1
 shadow_when	1
-time_when	1
-<br />_When	1
+time_when	2
 day_where	1
 period_when	1
 director_when	1
@@ -1261,16 +1226,17 @@ stellar_.	1
 handsome_.	2
 dignified_.	1
 moral_.	1
-compelling_.	1
+remote_.	1
+explicit_.	1
 onscreen_.	1
 impressive_.	1
 strong_.	1
 good_.	1
 entertaining_.	1
-remote_.	1
 hungry_.	1
-moving_.	1
 great_.	1
+moving_.	1
+compelling_.	1
 little_.	1
 VBN_IN
 crushed_by	1
@@ -1291,8 +1257,6 @@ absorbed_in	1
 looked_at	1
 VBP_WRB
 see_how	1
--LRB-_VB
--LRB-_see	1
 VBD_JJ
 were_tough	1
 seemed_daring	1
@@ -1314,8 +1278,6 @@ NNPS_VBD
 Nazis_were	1
 PRP$_VBG
 his_making	1
-CD_''
-1859-1944_''	1
 IN_PDT
 of_all	2
 after_all	1
@@ -1396,9 +1358,6 @@ remember_reading	1
 are_backsliding	1
 PRP$_DT
 its_a	1
--LRB-_WRB
--LRB-_How	1
--LRB-_when	1
 NNS_VBD
 chages_were	1
 IN_NNPS
@@ -1433,6 +1392,7 @@ fine_study	1
 film_call	1
 movie_business	1
 world_stage	1
+deminish_sp	1
 abortion_debate	1
 hour_length	1
 love_affair	1
@@ -1465,8 +1425,8 @@ thumbs_down	1
 ways_far	1
 accomplishments_even	1
 isssues_still	1
--LRB-_WDT
--LRB-_which	1
+CD_''
+1859-1944_''	1
 EX_VBD
 There_was	2
 JJS_.
@@ -1560,7 +1520,6 @@ some_good	1
 The_fictional	1
 a_chilly	1
 the_crucial	1
-any_<br />	1
 the_rich	1
 a_budding	1
 the_obedient	1
@@ -1601,7 +1560,6 @@ scene_of	1
 focus_of	1
 experience_of	1
 film_along	1
-<br />_that	1
 movie_with	1
 century_by	1
 craniotomy_on	1
@@ -1611,6 +1569,7 @@ actor_with	1
 leave_of	1
 consideration_of	1
 role_in	1
+boyfriend_because	1
 brush_for	1
 orthodoxy_without	1
 interest_despite	1
@@ -1677,6 +1636,7 @@ story_of	1
 O`Connell_of	2
 belief_in	1
 Acting_in	1
+woman_as	1
 shame_that	1
 lot_about	1
 feeling_that	1
@@ -1688,7 +1648,6 @@ length_as	1
 character_in	1
 man_of	2
 house_at	1
-<p>_Since	1
 glimpse_into	1
 texture_like	1
 book_by	1
@@ -1737,6 +1696,7 @@ meddling_in	1
 number_of	1
 account_of	1
 review_of	1
+problem_in	1
 example_of	1
 bit_of	1
 winner_of	1
@@ -1793,6 +1753,7 @@ changed.Those_were	1
 DVD_arrived	1
 passion_was	1
 priesthood_was	1
+novel_were	1
 O`Connell_was	1
 movie_came	1
 film_seemed	1
@@ -1832,7 +1793,7 @@ quote_says	1
 flaw_is	1
 storyline_embraces	1
 pride_has	1
-<br />_is	1
+priesthood_is	1
 book_makes	1
 impact_is	1
 tryon_is	1
@@ -1848,7 +1809,6 @@ as_well	2
 just_as	1
 n't_enough	1
 simply_not	1
-really_<br />	1
 just_too	1
 so_effectively	1
 so_very	1
@@ -1887,10 +1847,6 @@ TO_FW
 to_se	1
 JJS_PRP
 finest_I	1
-JJ_-LRB-
-daring_-LRB-	1
-VBD_-RRB-
-betrayed_-RRB-	1
 RB_VBZ
 well_is	1
 also_follows	1
@@ -1913,21 +1869,21 @@ forgive_it	1
 subvert_it	1
 say_I	1
 assume_he	1
-<br />_They	1
 find_it	1
 see_him	1
 judge_it	1
 watch_it	2
 take_it	1
 see_it	1
-<br />_I	2
 inform_yourself	1
 Add_it	1
-RB_VBP
-highly_recommend	1
-so_have	1
-then_telegraph	1
-always_provide	1
+PRP_DT
+him_an	1
+it_all	2
+it_that	1
+it_a	1
+they_a	1
+it_any	1
 VBZ_VBN
 is_based	2
 has_dominated	1
@@ -1971,6 +1927,7 @@ impressively_staged	1
 first_released	1
 never_come	1
 equally_lost	1
+too_derived	1
 NN_''
 skinny_''	1
 Country_''	1
@@ -1993,19 +1950,7 @@ consequently_accomplished	1
 even_included	1
 also_was	2
 FW_IN
-<br />_For	1
-<br />_In	2
 in_from	1
-POS_NN
-'s_book	2
-'s_fiance	1
-'s_family	1
-'s_Cardinal-in-the-making	1
-'s_rise	1
-'s_liberalism	1
-'s_passion	1
-'s_life	1
-'s_fate	1
 CC_MD
 and_can	1
 VBD_NN
@@ -2080,7 +2025,6 @@ get_a	1
 enjoy_this	1
 like_this	1
 see_the	4
-<p>_The	1
 cover_a	1
 become_a	1
 read_the	1
@@ -2112,10 +2056,6 @@ is_excellent	2
 is_un-known	1
 is_enough	1
 is_honest	1
-JJ_-RRB-
-hagiographic_-RRB-	1
-unhappy_-RRB-	1
-explicit_-RRB-	1
 NN_TO
 sense_to	1
 rise_to	1
@@ -2267,7 +2207,7 @@ first_see	1
 not_have	1
 then_humanize	1
 no_spark	1
-<br />_think	1
+really_think	1
 n't_put	1
 then_turn	1
 longer_see	1
@@ -2279,11 +2219,15 @@ n't_forget	1
 n't_have	1
 even_find	1
 not_read	1
-FW_FW
-<br />_<br />	24
-<br />_Visia	1
-etc_etc	1
-swooped_in	1
+IN_IN
+that_in	1
+out_of	1
+along_with	2
+as_if	1
+so_that	2
+with_as	1
+along_on	1
+like_before	1
 JJ_RB
 bad_then	1
 little_too	1
@@ -2295,9 +2239,6 @@ reflects_what	1
 ,_made	1
 ,_were	1
 ,_was	1
--RRB-_VBP
--RRB-_see	1
--RRB-_lead	1
 ,_VBG
 ,_questioning	1
 ,_prevaricating	1
@@ -2310,9 +2251,6 @@ reflects_what	1
 ,_eliminating	1
 ,_meaning	1
 ,_making	1
--RRB-_VBZ
--RRB-_sings	1
--RRB-_is	1
 NNS_.
 politics_.	1
 others_.	1
@@ -2346,15 +2284,10 @@ terms_,	1
 ,_view	1
 ,_think	1
 ,_are	2
--RRB-_VBD
--RRB-_were	1
 VBD_NNP
-was_<br />	1
 enjoyed_Tom	1
 trivialised_Catholicism	1
 Did_Preminger	1
--RRB-_VBN
--RRB-_derived	1
 NNS_:
 Awards_-	1
 ,_VBZ
@@ -2428,8 +2361,6 @@ in_what	1
 of_whom	1
 about_whom	1
 of_what	3
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 giving_us	1
 saying_they	1
@@ -2461,7 +2392,6 @@ movie_you	1
 sophistication_we	1
 VB_PRP$
 leave_his	1
-<br />_Its	1
 see_my	1
 see_her	1
 forsake_his	1
@@ -2480,7 +2410,7 @@ over_and	1
 loosely_and	1
 ago_and	1
 outright_or	1
-again_and	1
+again_and	2
 MD_VB
 should_be	1
 will_like	1
@@ -2542,7 +2472,6 @@ POS_``
 VBZ_NN
 refuses_absolution	1
 provides_background	1
-shows_<br />	1
 brings_honor	1
 's_involvement	1
 POS_RB
@@ -2652,8 +2581,6 @@ days_after	1
 ideas_for	1
 memories_of	1
 expenses_of	1
-:_-RRB-
-..._-RSB-	1
 JJS_NNS
 best_movies	1
 most_people	1
@@ -2674,6 +2601,7 @@ NNP_JJ
 worship.A_wonderful	1
 NN_,
 facism_,	1
+release_,	1
 book_,	4
 role_,	1
 novel_,	1
@@ -2687,7 +2615,7 @@ story_,	1
 ceremony_,	1
 end_,	1
 stage_,	1
-fate_,	1
+form_,	1
 century_,	1
 screenplay_,	1
 absence_,	1
@@ -2705,6 +2633,7 @@ meddling_,	1
 seemier_,	1
 embezzlement_,	1
 splendour_,	1
+fate_,	1
 absolution_,	1
 adbortion_,	1
 life_,	2
@@ -2735,6 +2664,7 @@ giant_,	1
 NN_.
 discrimination_.	1
 color_.	1
+lot_.	1
 role_.	1
 viewing_.	1
 baby_.	1
@@ -2760,6 +2690,7 @@ script_.	1
 Pilot_.	1
 mind_.	1
 rate_.	1
+sp_.	1
 Ahh_!	1
 photography_.	1
 epic_.	1
@@ -2771,6 +2702,7 @@ screen_.	1
 film_.	4
 time_.	5
 individual_.	1
+use_.	1
 disappointment_!	1
 expediency_.	1
 everyone_.	1
@@ -2787,6 +2719,7 @@ flair_.	1
 business_.	1
 price_.	1
 WDT_VBZ
+that_rises	1
 that_reflects	1
 which_grapples	1
 which_gives	1
@@ -2794,9 +2727,26 @@ that_is	2
 which_confirms	1
 that_provides	1
 that_includes	1
-that_rises	1
-POS_,
-'s_,	2
+what_is	1
+NNP_VBD
+Preminger_fashioned	1
+Church_had	1
+Always_enjoyed	1
+Tryon_was	2
+Preminger_seemed	1
+Rome_took	1
+Huston_deserved	1
+Amazon_was	1
+Cardinal_made	1
+Cardinal_held	1
+Stephen_had	1
+Hemisphere_was	1
+Preminger_got	1
+O`Connell_lived	1
+Church_merited	1
+Preminger_intended	1
+Preminger_attempted	1
+Prohibition_came	1
 WDT_VBP
 that_are	1
 that_test	1
@@ -2830,12 +2780,8 @@ this_.	1
 that_.	1
 VBG_RP
 growing_up	1
--LRB-_RB
--LRB-_loosely	1
 DT_:
 this_--	1
-RB_-RRB-
-too_-RRB-	1
 RB_JJ
 very_normal	1
 then_new	1
@@ -2877,17 +2823,6 @@ as_good	1
 too_bad	1
 still_hagiographic	1
 totally_remote	1
--LRB-_FW
--LRB-_i.e.	1
-IN_IN
-that_in	1
-out_of	1
-along_with	2
-as_if	1
-so_that	2
-with_as	1
-along_on	1
-like_before	1
 VB_``
 have_``	1
 NNPS_,
@@ -2942,6 +2877,7 @@ lack_now	1
 bear_as	1
 be_very	1
 diminish_drastically	1
+portray_loosely	1
 see_over	1
 come_around	1
 WRB_NN
@@ -2994,17 +2930,22 @@ than_seeing	1
 of_pushing	1
 by_pulling	1
 of_remembering	1
-VBN_WRB
-insulted_when	1
-forgotten_how	1
+POS_NN
+'s_book	2
+'s_fiance	1
+'s_family	1
+'s_Cardinal-in-the-making	1
+'s_rise	1
+'s_liberalism	1
+'s_passion	1
+'s_life	1
+'s_fate	1
 ,_PRP
 ,_it	5
 ,_I	3
 ,_we	4
 ,_you	2
 ,_they	1
--LRB-_NNP
--LRB-_University	1
 ``_MD
 ``_Must	1
 VBG_,
@@ -3037,6 +2978,7 @@ VBN_RBR
 been_more	1
 CD_,
 one_,	1
+1992_,	1
 CD_.
 1963_.	1
 2_.	1
@@ -3044,15 +2986,9 @@ WRB_VBD
 why_were	1
 WRB_VBG
 When_looking	1
-NN_-RRB-
-novel_-RRB-	1
-sp_-RRB-	1
-release_-RRB-	1
-lot_-RRB-	1
-music_-RRB-	1
-form_-RRB-	1
-priesthood_-RRB-	1
-use_-RRB-	1
+VBN_WRB
+insulted_when	1
+forgotten_how	1
 TO_NN
 to_distance	1
 to_deminish	1
@@ -3109,6 +3045,24 @@ VBZ_RP
 stands_out	1
 looks_on	1
 holds_up	1
+VBZ_IN
+thinks_of	1
+rises_through	1
+decides_on	1
+comes_through	1
+grapples_with	1
+has_that	1
+engages_in	1
+gathers_that	1
+takes_on	1
+deserves_from	1
+deals_with	1
+confirms_that	1
+goes_on	1
+depicts_as	1
+rises_from	1
+shows_that	1
+is_as	1
 NNS_MD
 capabilities_would	1
 NNP_``
@@ -3140,8 +3094,6 @@ even_at	1
 presumably_through	1
 enough_of	1
 therefrom_for	1
-FW_VBZ
-<br />_Holds	1
 VBG_IN
 thinking_without	1
 happening_in	1
@@ -3173,6 +3125,8 @@ have_ever	1
 are_totally	1
 do_n't	1
 are_not	1
+''_NNP
+''_University	1
 NNP_,
 Lynley_,	2
 Preminger_,	1
@@ -3224,10 +3178,8 @@ Abp_.	2
 Amazon.com_.	1
 VBZ_VBG
 is_making	1
-FW_NN
-<br />_Acting	1
-JJ_VBN
-particular_eliminated	1
+NNP_WRB
+Morse_How	1
 VBG_NN
 confronting_bigotry	1
 supporting_actor	1
@@ -3241,13 +3193,14 @@ worth_watching	1
 majestic_looking	1
 NNP_:
 Cardinal_...	1
-PRP_DT
-him_an	1
-it_all	2
-it_that	1
-it_a	1
-they_a	1
-it_any	1
+RB_VBP
+highly_recommend	1
+so_have	1
+then_telegraph	1
+always_provide	1
+TO_RB
+to_no	1
+to_much	1
 VBZ_.
 sings_.	1
 VBZ_,
@@ -3275,19 +3228,17 @@ many_other	1
 good_moral	1
 vibrant_collective	1
 rich_musical	1
-VBN_PRP
-handled_it	1
-harmed_them	1
-thought_it	1
+JJR_IN
+better_than	1
+stiffer_than	1
 WRB_JJ
 how_great	1
 how_much	1
 ,_CC
 ,_and	13
 ,_but	12
-VB_NN
-respect_commitment	2
-capture_light	1
+WP$_NNS
+whose_emotions	1
 ,_CD
 ,_1992	1
 ,_one	2
@@ -3335,11 +3286,8 @@ for_six	1
 in_1963	1
 If_one	1
 in_3	1
-NNS_POS
-others_'	1
-TO_RB
-to_no	1
-to_much	1
+VBN_WDT
+inserted_which	1
 VBD_PRP$
 made_its	1
 deserved_his	1
@@ -3348,8 +3296,6 @@ IN_CC
 over_and	1
 Through_both	1
 like_and	1
-NNP_-LRB-
-Morse_-LRB-	1
 JJS_IN
 most_of	2
 NNS_VBG
@@ -3360,8 +3306,6 @@ issues_facing	1
 ``_If	1
 PRP_NNS
 it_wills	1
--LRB-_:
--LSB-_...	1
 NNS_VBN
 others_presented	1
 dynamics_involved	1
@@ -3370,20 +3314,17 @@ VBP_NNP
 love_Tom	1
 include_Burgess	1
 think_Grant	1
-RP_IN
-out_among	1
 ``_PRP
 ``_You	1
 NN_WP$
 face_whose	1
 priest_whose	1
+culture_whose	1
 sister_whose	1
 NN_PDT
 hierarchy_all	1
 POS_JJ
 's_majestic	1
--RRB-_IN
--RRB-_in	1
 VBN_PRP$
 dominated_his	1
 VBD_VBN
@@ -3537,6 +3478,7 @@ and_Milky	1
 But_Tom	1
 and_Henry	1
 VBD_,
+betrayed_,	1
 went_,	1
 had_,	1
 VBD_.
@@ -3546,40 +3488,20 @@ writing_novels	1
 overcoming_obstacles	1
 starring_roles	1
 using_flashbacks	1
-NNP_VBD
-Preminger_fashioned	1
-Church_had	1
-Always_enjoyed	1
-Tryon_was	2
-Preminger_seemed	1
-Rome_took	1
-Huston_deserved	1
-Amazon_was	1
-Cardinal_made	1
-Cardinal_held	1
-Stephen_had	1
-Hemisphere_was	1
-Preminger_got	1
-O`Connell_lived	1
-Church_merited	1
-Preminger_intended	1
-Preminger_attempted	1
-Prohibition_came	1
+POS_,
+'s_,	2
 WP_NNP
 what_God	1
 what_Otto	1
 who_Robinson	1
--LRB-_IN
--LRB-_because	1
--LRB-_as	1
--LRB-_in	1
--LRB-_though	1
 NNP_POS
 Robinson_'s	4
 Mona_'s	1
 Fermoyle_'s	2
 Preminger_'s	3
 Tom_'s	1
+''_FW
+''_i.e.	1
 NN_RB
 movie_just	1
 roll_well	1
@@ -3594,8 +3516,6 @@ classic_then	1
 time_ago	1
 classic_now	1
 cast_certainly	1
-FW_WRB
-se_how	1
 :_:
 -_-	1
 JJ_IN
@@ -3606,6 +3526,7 @@ good_at	1
 afraid_of	1
 awash_in	1
 orthodox_in	1
+hagiographic_in	1
 worth_at	1
 full_of	1
 excellent_as	1
@@ -3616,10 +3537,11 @@ other_than	1
 commanding_as	1
 present_in	1
 several_in	1
+sexy_in	1
 enough_for	1
 much_of	1
 symptomatic_of	1
-sexy_in	1
+daring_though	1
 shocking_if	1
 VBD_``
 did_`	1
@@ -3668,9 +3590,6 @@ is_Amazon.com	1
 has_John	1
 romanticises_Church	1
 leaves_Mona	1
-RP_CC
-up_and	1
-around_and	1
 :_.
 ..._.	1
 -_.	1
@@ -3683,19 +3602,10 @@ are_part	1
 love_movie	1
 know_it.Certain	1
 couldnt_wait	1
--LRB-_WP$
--LRB-_whose	1
 NNP_DT
-<br />_a	1
 View_this	1
-FW_RB
-<br />_Aside	1
-<br />_Highly	1
-<br />_Also	1
-<br />_Interestingly	1
-<br />_Now	1
--LRB-_NN
--LRB-_sp	1
+RP_IN
+out_among	1
 ,_NNP
 ,_James	2
 ,_Father/Monseigneur/Cardinal	1
@@ -3724,25 +3634,10 @@ and_frustrations	1
 and_politics	1
 and_constraints	1
 and_Bishops	1
-VBZ_IN
-thinks_of	1
-rises_through	1
-decides_on	1
-gathers_that	1
-grapples_with	1
-has_that	1
-engages_in	1
-takes_on	1
-deserves_from	1
-deals_with	1
-confirms_that	1
-goes_on	1
-depicts_as	1
-rises_from	1
-comes_through	1
-is_as	1
--LRB-_DT
--LRB-_no	1
+FW_WRB
+se_how	1
+NNS_POS
+others_'	1
 JJ_NN
 constant_reminder	1
 catholic_church	1
@@ -3783,7 +3678,6 @@ small_part	1
 cinematic_experience	1
 contrary_view	1
 energetic_story	1
-<br />_religion	1
 central_character	1
 shrewd_management	1
 large_degree	1

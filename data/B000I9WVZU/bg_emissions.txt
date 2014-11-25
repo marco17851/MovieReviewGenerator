@@ -52,8 +52,8 @@ out_concert	1
 NNS_RB
 advertisements_really	1
 years_ago	1
-NNS_-LRB-
-kids_-LRB-	1
+DT_VBD
+this_was	1
 CC_JJ
 and_bleached	1
 and_simple	1
@@ -164,8 +164,6 @@ gorgeous_and	1
 old_and	1
 clear_and	1
 Dazed_and	1
-WDT_VBP
-that_pop	1
 WP_DT
 what_some	1
 WRB_PRP
@@ -174,8 +172,6 @@ When_I	1
 when_she	1
 When_he	1
 when_it	1
-RB_-RRB-
-now_-RRB-	1
 IN_CC
 of_and	1
 on_and	1
@@ -185,8 +181,6 @@ JJ_VBP
 Little_do	1
 JJ_CD
 first_10	1
--LRB-_VBP
--LRB-_dare	1
 PRP$_JJ
 their_own	1
 my_all-time	1
@@ -230,8 +224,6 @@ RP_PRP
 out_I	1
 CD_NN
 one_song	1
-VBN_VBN
-been_cast	1
 ,_NN
 ,_TOO	1
 ,_ha	1
@@ -333,6 +325,7 @@ a_group	1
 a_bit	1
 the_stoner	1
 the_guy	1
+a_mean	1
 the_shower	1
 the_dvd	1
 the_point	1
@@ -392,8 +385,8 @@ it_seems	1
 It_'s	1
 PDT_DT
 all_the	1
-._-RRB-
-!_-RRB-	1
+VBN_VBN
+been_cast	1
 NNP_CC
 Josie_and	3
 Fiona_and	1
@@ -616,11 +609,12 @@ VBG_PRP$
 using_their	1
 RB_DT
 simply_an	1
+twice_a	1
 n't_all	1
 not_a	1
-twice_a	1
--RRB-_.
--RRB-_.	1
+now_these	1
+NN_DT
+sense_the	1
 IN_VBG
 without_hearing	1
 of_portraying	1
@@ -670,8 +664,6 @@ scenes_,	1
 messages_,	1
 WDT_RB
 that_just	1
--RRB-_DT
--RRB-_these	1
 TO_DT
 to_this	1
 to_the	3
@@ -705,9 +697,6 @@ shoes_to	1
 IN_WRB
 about_how	1
 since_when	1
-NN_-RRB-
-role_-RRB-	1
-mean_-RSB-	1
 NN_IN
 point_of	1
 town_of	1
@@ -861,11 +850,10 @@ something_I	1
 week_they	1
 hunk_I	1
 everything_I	1
+pussycat_I	1
 way_they	1
 everytime_it	1
 movie_I	1
--LRB-_NN
--LSB-_mean	1
 IN_RB
 though_extremely	1
 with_very	1
@@ -931,6 +919,7 @@ Puppies_grow	1
 companies_are	1
 messages_get	1
 managers_have	1
+kids_dare	1
 days_tend	1
 teens_are	1
 girls_do	1
@@ -984,8 +973,6 @@ watch_.	1
 VBP_VBG
 are_trying	1
 are_brainwashing	1
--LRB-_PRP
--LRB-_I	1
 PRP_NNS
 them_kids	1
 JJ_TO
@@ -1020,8 +1007,6 @@ form_a	1
 have_a	1
 love_this	2
 carry_this	1
-FW_NNP
-<br />_Josie	1
 VBN_DT
 missed_the	1
 seen_this	1
@@ -1029,6 +1014,7 @@ NN_NN
 cartoon_band	1
 pop_sensation	1
 placement_advertising	1
+mean_person	1
 boy_band	1
 garage_band	1
 record_business	1
@@ -1041,12 +1027,10 @@ century_audience	1
 movie_everytime	1
 stoner_girl	1
 potty_humor	1
-FW_FW
-<br />_<br />	1
 TO_.
 to_.	3
--LRB-_DT
--LRB-_the	1
+,_WDT
+,_which	2
 NN_VBD
 branding_was	1
 curiousity_got	1
@@ -1205,31 +1189,30 @@ parody_,	1
 movie_,	1
 PG-13_,	1
 NN_.
-flick_.	1
 cd_.	1
-horizon_.	1
-belief_.	1
-classic_.	1
-week_.	1
-advertising_.	1
-replacement_.	1
-audience_.	1
-mind_?	1
-DIE_!	1
-soundtrack_.	1
-business_!	1
-movie_!	3
+role_.	1
 cable_.	1
-ad_.	1
-time_.	1
+advertising_.	1
+soundtrack_.	1
+flick_.	1
 Val_.	1
-movie_.	1
-pink_!	1
+belief_.	1
+DIE_!	1
+mind_?	1
+ad_.	1
 singer_.	1
+horizon_.	1
+movie_!	3
+week_.	1
+time_.	1
+replacement_.	1
+business_!	1
+audience_.	1
+movie_.	1
+classic_.	1
+pink_!	1
 NNS_``
 things_``	1
-DT_VBD
-this_was	1
 VBZ_VBG
 is_hogging	1
 is_gon	1
@@ -1283,9 +1266,8 @@ Jsie_and	1
 song_and	1
 dvd_and	1
 sunshine_and	1
-NN_-LRB-
-sense_-LRB-	1
-pussycat_-LRB-	1
+WDT_VBP
+that_pop	1
 TO_VB
 to_sell	1
 to_be	2
@@ -1381,8 +1363,6 @@ innuendo_here	1
 bit_too	1
 message_here	1
 nothing_else	1
--RRB-_NN
--RSB-_person	1
 PRP_RB
 it_just	1
 it_right	1
@@ -1496,12 +1476,11 @@ at_their	1
 JJ_''
 Confused_''	1
 VB_PRP
-get_it	1
-give_you	1
 make_you	1
-buy_it	1
+get_it	1
 see_it	1
-<br />_I	1
+buy_it	1
+give_you	1
 RB_VBP
 just_seem	1
 also_like	1
@@ -1558,8 +1537,6 @@ RB_PRP
 soon_I	1
 here_they	1
 soon_they	1
-DT_-LRB-
-a_-LSB-	1
 RB_VBD
 really_stood	1
 really_added	1
@@ -1611,8 +1588,6 @@ JJR_CC
 better_and	1
 NNS_:
 kids_...	1
-,_WDT
-,_which	2
 NNP_TO
 Down_To	1
 VBN_PRP

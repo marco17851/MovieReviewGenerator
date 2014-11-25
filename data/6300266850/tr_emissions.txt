@@ -20,8 +20,8 @@ VB_VBN_PRP
 have_plastered_it	1
 RB_VBZ_WRB
 just_proves_how	1
-RB_,_PRP
-then_,_I	1
+NN_RB_DT
+Shift_not_the	1
 CC_VB_VBG
 and_start_killing	1
 PRP$_NNS_,
@@ -83,6 +83,10 @@ NNS_IN_PRP$
 elements_within_its	1
 NN_PRP_VBD
 store_I_was	1
+NN_RB_VBN
+Shift_now_released	1
+RB_,_PRP
+then_,_I	1
 CD_POS_.
 80_'s_.	1
 JJ_,_JJ
@@ -179,8 +183,6 @@ Needless_to_say	1
 helpless_to_resist	1
 VB_PRP$_NN
 show_her_scene	1
-FW_EX_VBZ
-<br />_There_is	1
 IN_DT_VBG
 on_the_teetering	1
 VBP_IN_PRP$
@@ -283,17 +285,10 @@ I_wonder_if	1
 RB_VBN_CC
 well_presented_and	2
 FW_FW_DT
-<br />_<br />_The	1
 dvd_im_a	1
-<br />_<br />_An	1
-NN_-LRB-_RB
-Shift_-LRB-_not	1
-Shift_-LRB-_now	1
 VBN_IN_NN
 supplied_with_blood	1
 released_on_DVD	1
-FW_FW_EX
-<br />_<br />_There	1
 TO_RB_.
 to_well_.	1
 PRP$_NNS_MD
@@ -357,21 +352,18 @@ They_in_turn	1
 VBD_DT_RB
 was_a_pretty	1
 was_a_very	1
-NN_:_NNP
-disco_/_Miami	1
+DT_NNS_RB
+the_performances_particularly	1
 NN_NN_WP
 taxi_driver_who	1
 JJ_,_RB
 spactacular_,_just	1
--LRB-_RB_PRP$
--LRB-_particularly_our	1
+NN_:_NNP
+disco_/_Miami	1
 IN_PRP$_NNS
 of_my_favorites	1
 DT_VBG_NN
 the_teetering_edge	1
-NN_NN_-RRB-
-lady_killer_-RRB-	1
-Graveyard_Shift_-RRB-	1
 NNS_,_WDT
 victims_,_which	1
 NN_RB_VBZ
@@ -395,6 +387,8 @@ VBZ_VBG_CC
 is_dying_or	1
 DT_CD_POS
 the_80_'s	1
+FW_NN_VBZ
+PARK_DRIFTER_is	1
 NNP_VBZ_DT
 Steven_is_a	1
 VBG_RBR_IN
@@ -442,14 +436,11 @@ embraces_her_,	1
 VB_RB_CC
 turn_around_and	1
 FW_DT_JJ
-<br />_An_enigmatic	1
 im_a_big	1
 PRP_VBD_IN
 they_got_as	1
 PRP_CD_IN
 it_one_of	1
-NNP_-LRB-_RB
-Drifter_-LRB-_formerly	1
 TO_NNS_WDT
 to_folks_that	1
 NNS_IN_IN
@@ -493,8 +484,6 @@ too_unfocused_to	1
 DT_VBZ_DT
 This_is_the	1
 This_raises_a	1
-VBN_-RRB-_.
-intended_-RRB-_.	1
 IN_CD_NNS
 in_13_years	1
 VBN_NN_NN
@@ -505,8 +494,8 @@ JJ_PRP$_NNS
 sure_his_victims	1
 VBZ_PRP_DT
 gives_them_a	1
-FW_FW_IN
-<br />_<br />_While	1
+NNS_RB_PRP$
+performances_particularly_our	1
 NN_CD_NN
 budget_80s_movie	1
 VBG_NN_NN
@@ -591,12 +580,14 @@ DT_JJ_CD
 a_bad_one	1
 TO_VBG_RBR
 to_being_more	1
-NNS_-LRB-_DT
-vampires_-LRB-_no	1
+NN_NN_CD
+Graveyard_Shift_II	1
 VBD_RB_DT
 was_perhaps_the	1
 NNS_WRB_PRP
 changes_when_he	1
+NNP_RB_NN
+Drifter_formerly_Graveyard	1
 VBN_PRP_RB
 seen_it_before	1
 DT_NN_JJR
@@ -723,6 +714,7 @@ at_a_Halloween	1
 with_the_Stephen	1
 NN_RB_JJ
 Nothing_too_spactacular	1
+killer_pretty_much	1
 NNP_''_IN
 Dracula_''_so	1
 DT_NNP_VBG
@@ -1040,7 +1032,7 @@ RP_PRP$_NNS
 up_his_dates	1
 NN_NN_VBZ
 cab_driver_prowls	1
-Graveyard_Shift_is	1
+Graveyard_Shift_is	2
 VBG_DT_VBN
 revisiting_this_lost	1
 VBZ_TO_VB
@@ -1094,20 +1086,16 @@ Graveyard_Shift_was	1
 NN_NN_CC
 movie_original_but	1
 movie_producer_and	1
+VBG_NNS_DT
+involving_vampires_no	1
 RB_VB_TO
 not_bother_to	1
 VBZ_RP_PRP$
 picks_up_his	1
-NNP_NNP_-LRB-
-Park_Drifter_-LRB-	1
 NNP_NNP_:
 Stephen_King_/	1
 DT_JJ_``
 the_original_``	1
-VB_NN_IN
-avoid_confusion_with	1
-NNS_-LRB-_RB
-performances_-LRB-_particularly	1
 CD_IN_DT
 one_of_the	2
 DT_NN_PRP
@@ -1121,8 +1109,8 @@ VBG_TO_VB
 trying_to_figure	1
 POS_NN_NN
 's_vampire_flick	1
-NNP_NN_-RRB-
-Bat_thing_-RRB-	1
+RB_PRP$_VBG
+particularly_our_leading	1
 NN_NNP_NNP
 core_Red_Shoe	1
 EX_VBP_DT
@@ -1147,14 +1135,16 @@ NN_,_NN
 cover_,_nudity	1
 nudity_,_sex	1
 music_,_tv	1
+NN_VBN_.
+pun_intended_.	1
 VBZ_PRP_VBN
 keeps_him_supplied	1
 VBG_PRP_DT
 giving_them_the	1
 TO_NN_NNS
 to_folklore_vampires	1
--LRB-_RB_DT
--LRB-_not_the	1
+WP_VBP_PRP
+What_do_you	1
 PRP_VBZ_.
 he_meets_.	1
 VBZ_PRP_VBZ
@@ -1236,6 +1226,8 @@ PRP_RB_MD
 it_also_will	1
 NN_VBZ_RB
 movie_is_fairly	2
+DRIFTER_is_just	1
+Shift_is_still	1
 JJ_NNS_IN
 artistic_elements_within	1
 PRP_VBZ_RB
@@ -1249,8 +1241,8 @@ TO_VB_PRP
 to_kill_themselves	1
 NNS_IN_NNS
 suicides_into_vampires	1
--LRB-_DT_NN
--LRB-_no_pun	1
+POS_NN_,
+'s_husband_,	1
 IN_NNP_CC
 of_LA_and	1
 PRP_VBZ_RP
@@ -1263,8 +1255,6 @@ NNP_NNP_PRP
 GRAVEYARD_SHIFT_I	1
 NNS_CD_IN
 victems_one_by	1
--LRB-_RB_VBN
--LRB-_now_released	1
 DT_NNS_VBP
 these_girls_are	1
 The_cops_are	1
@@ -1303,9 +1293,6 @@ VBP_PRP_VBD
 think_they_did	1
 NNP_VBG_NN
 Travolta_looking_lead	1
-NN_-RRB-_VBZ
-Shift_-RRB-_is	1
-DRIFTER_-RRB-_is	1
 JJ_NN_TO
 blue_lighting_to	1
 nice_link_to	1
@@ -1313,6 +1300,8 @@ PRP_TO_VBG
 it_to_being	1
 NNP_WP_,
 NYC_who_,	1
+NNP_NNP_RB
+Park_Drifter_formerly	1
 NN_TO_VB
 reason_to_live	1
 lighting_to_represent	1
@@ -1331,8 +1320,6 @@ are_on_the	1
 are_at_the	1
 ,_JJ_TO
 ,_sorry_to	1
-RB_PRP$_VBG
-particularly_our_leading	1
 NN_WP_VBZ
 woman_who_is	1
 driver_who_works	1
@@ -1340,14 +1327,10 @@ NNS_,_VB
 vampires_,_turn	1
 NN_IN_VBD
 member_of_was	1
--LRB-_RB_NN
--LRB-_formerly_Graveyard	1
 PRP$_NNS_VBP
 his_victims_do	1
 VBN_NNS_,
 become_vampires_,	1
-WP_VBP_PRP
-What_do_you	1
 VBN_VBG_DT
 been_wanting_this	1
 RB_MD_VB
@@ -1490,14 +1473,14 @@ VB_CC_VBZ
 work_and_is	1
 IN_VBG_VBN
 by_being_bitten	1
-NN_NN_-LRB-
-Graveyard_Shift_-LRB-	2
 WRB_DT_NN
 why_the_vampire	1
+NN_NN_RB
+lady_killer_pretty	1
+Graveyard_Shift_now	1
+Graveyard_Shift_not	1
 VBP_VBG_TO
 are_trying_to	1
-VBD_JJ_NN
-lacked_good_acting	1
 VBN_JJR_NN
 seen_better_vampire	1
 NNS_VBP_RB
@@ -1519,10 +1502,6 @@ leave_them_to	1
 elevate_it_to	1
 :_$_CD
 /_$_20	1
-FW_NN_-RRB-
-PARK_DRIFTER_-RRB-	1
-FW_IN_RB
-<br />_While_not	1
 RP_CC_VB
 around_and_start	1
 CC_VBD_JJ
@@ -1573,8 +1552,6 @@ JJ_NN_WDT
 artistic_merit_that	1
 RB_VB_VBN
 ever_be_released	1
-NN_-RRB-_RB
-killer_-RRB-_pretty	1
 RB_DT_NN
 just_a_vampire	1
 also_a_sequel	1
@@ -1609,6 +1586,8 @@ NNS_PRP_.
 vampires_themselves_.	1
 NNS_PRP_MD
 favorites_I_'d	1
+NNP_NN_.
+Bat_thing_.	1
 NN_VBD_PRP
 amazon_had_it	1
 VBZ_DT_JJ
@@ -1618,8 +1597,6 @@ has_some_artistic	1
 is_a_good	1
 meets_the_troubled	1
 has_a_good	1
-FW_DT_NN
-<br />_The_film	1
 RB_TO_RB
 not_to_well	1
 IN_NN_.
@@ -1632,8 +1609,6 @@ PRP_VB_PRP$
 him_find_his	1
 IN_NN_,
 on_DVD_,	1
-FW_NN_CC
-<br />_Sex_and	1
 NN_VBG_PRP$
 driver_taking_his	1
 NN_VBD_VBN
@@ -1656,8 +1631,8 @@ NNP_NNP_NN
 Giant_Bat_thing	1
 CENTRAL_PARK_DRIFTER	1
 Stephen_King_film	1
--RRB-_RB_JJ
--RRB-_pretty_much	1
+VBD_JJ_NN
+lacked_good_acting	1
 PRP$_JJ_NN
 your_average_vampire	1
 my_new_viewing	1
@@ -1686,6 +1661,7 @@ VBN_NNP_:
 titled_UNDERSTUDY_:	1
 NNS_DT_NN
 women_a_reason	1
+vampires_no_pun	1
 CD_CC_CD
 one_and_one	1
 CC_IN_PRP
@@ -1717,8 +1693,6 @@ PARK_DRIFTER_II	1
 CD_NN_NN
 80s_movie_making	1
 20_grab_bag	1
-NN_VBN_-RRB-
-pun_intended_-RRB-	1
 NN_,_VBZ
 field_,_is	1
 cab_,_has	1
@@ -1752,7 +1726,6 @@ RB_VBZ_PRP$
 then_takes_his	1
 FW_FW_NN
 CENTRAL_PARK_DRIFTER	1
-<br />_<br />_Sex	1
 EX_VBZ_RB
 There_is_also	1
 CD_NN_``
@@ -1763,14 +1736,10 @@ NN_FW_FW
 title_CENTRAL_PARK	1
 WP_NNP_RB
 who_Steven_never	1
-NN_-RRB-_.
-thing_-RRB-_.	1
 VBP_IN_NNP
 wonder_if_Understudy	1
 VBP_IN_NNS
 return_as_vampires	1
-VBG_NNS_-LRB-
-involving_vampires_-LRB-	1
 ''_IN_PRP
 ''_so_it	1
 NN_NN_IN
@@ -1861,14 +1830,12 @@ IN_IN_DT
 outside_of_some	1
 NN_CC_VBD
 business_and_began	1
-NN_NN_CD
-Graveyard_Shift_II	1
 CD_MD_RB
 II_will_ever	1
 WDT_MD_VB
 which_must_be	1
-DT_NNS_-LRB-
-the_performances_-LRB-	1
+VB_NN_IN
+avoid_confusion_with	1
 VBZ_IN_DT
 is_about_a	1
 is_with_the	1
@@ -1910,9 +1877,6 @@ if_you_have	1
 as_I_remember	1
 CC_DT_NN
 and_the_hunt	1
--RRB-_VBZ_RB
--RRB-_is_still	1
--RRB-_is_just	1
 EX_VBZ_DT
 There_is_a	1
 JJ_NNS_WP
@@ -1982,5 +1946,3 @@ IN_TO_WRB
 as_to_why	1
 TO_VB_JJ
 to_make_sure	1
-POS_NN_,
-'s_husband_,	1

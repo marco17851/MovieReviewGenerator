@@ -13,8 +13,8 @@ NNP_NN_VBZ
 Joe_Somebody_is	1
 ,_DT_NNS
 ,_the_characters	1
-VBP_DT_NN
-think_the_movie	1
+NN_IN_CC
+QUEST_before_and	1
 RB_VBD_NN
 literally_looked_brand	1
 CC_WP_VBZ
@@ -29,8 +29,6 @@ VBG_JJR_IN
 watching_more_than	1
 RB_VB_IN
 even_say_that	1
-FW_FW_NNP
-<p>_i_LOVE	1
 ,_CD_NN
 ,_90_percent	1
 VBN_IN_NN
@@ -40,11 +38,10 @@ given_the_promotion	1
 NN_PRP_VBP
 way_you_think	1
 way_they_get	1
-<p>_I_think	1
-NN_RB_VBZ
-<p>_also_includes	1
 FW_NN_VBZ
 JOE_SOMEBODY_is	1
+VBP_DT_NN
+think_the_movie	1
 NN_PRP_VBD
 promotion_he_wanted	1
 VBP_PRP_.
@@ -54,6 +51,8 @@ and_work_buddies	1
 and_karaoke_scenes	1
 JJ_,_JJ
 overall_,_solid	1
+NN_VBN_NNS
+drama_divorced_parents	1
 NNS_IN_PRP
 reviews_because_it	1
 films_that_I	1
@@ -71,6 +70,8 @@ RB_RB_CC
 just_recently_but	1
 IN_NN_IN
 in_front_of	1
+IN_CC_VBD
+before_and_enjoyed	1
 DT_NNP_CC
 the_Allen_and	1
 PDT_DT_JJ
@@ -133,8 +134,6 @@ RB_DT_NN
 exactly_the_way	1
 POS_NN_RB
 's_film_soon	1
-FW_DT_NN
-<br />_The_seller	1
 CC_DT_JJ
 and_a_half	1
 VBZ_IN_NNS
@@ -149,8 +148,6 @@ NNS_CC_VB
 reviews_and_skip	1
 DT_VBP_NNP
 all_enjoy_Allen	1
-FW_FW_PRP
-<br />_<br />_I	1
 VBD_PRP_DT
 enjoyed_it_a	1
 MD_VB_RP
@@ -174,8 +171,6 @@ CC_VBD_PRP
 and_enjoyed_it	1
 RB_JJ_IN
 so_crude_like	1
-MD_-RRB-_VB
-will_-RRB-_enjoy	1
 VBD_CD_CC
 spent_one_and	1
 VBZ_RB_VB
@@ -188,8 +183,8 @@ Belushi_I_'m	1
 ,_and_Mr.	1
 WP_VBZ_.
 who_cares_!	1
-VBG_VBD_RP
-getting_beaten_up	1
+WDT_VBZ_DT
+which_is_a	1
 DT_NNS_DT
 the_characters_a	1
 VBN_IN_DT
@@ -198,8 +193,6 @@ FW_NNP_NNP
 i_LOVE_Belushi	1
 RB_DT_NNP
 not_a_TIm	1
-NN_-LRB-_VBN
-drama_-LRB-_divorced	1
 IN_NN_MD
 that_everybody_should	1
 ,_CC_IN
@@ -207,8 +200,6 @@ that_everybody_should	1
 ,_and_after	1
 VB_PRP_VBZ
 read_it_'s	1
-._-RRB-_.
-!_-RRB-_.	1
 PRP$_NNS_CC
 his_peers_and	1
 IN_PRP$_NNS
@@ -264,6 +255,10 @@ this_film_in	1
 Every_role_in	1
 the_interaction_between	1
 the_class_as	1
+MD_RB_VB
+will_never_make	1
+ca_n't_beat	1
+'d_even_say	1
 JJR_IN_RB
 more_than_just	1
 TO_VB_IN
@@ -323,8 +318,6 @@ JJ_NNP_WP
 average_Joe_who	1
 VBD_NN_JJ
 looked_brand_new	1
--LRB-_VBN_NNS
--LRB-_divorced_parents	1
 VBZ_PRP_JJ
 makes_it_funny	1
 NN_MD_IN
@@ -343,8 +336,9 @@ MD_VB_,
 should_be_,	1
 MD_VB_.
 will_be_.	1
-FW_PRP_VBP
-<br />_I_am	1
+will_enjoy_.	1
+VBG_VBD_RP
+getting_beaten_up	1
 DT_NN_NN
 the_tool_man	1
 the_parking_lot	1
@@ -441,8 +435,6 @@ NN_CC_PRP
 fan_and_he	1
 NNP_DT_NNP
 Tim_the_Tool	1
--LRB-_CC_PRP
--LRB-_and_I	1
 NN_,_CC
 movie_,_and	1
 karate_,_and	1
@@ -486,6 +478,7 @@ NN_,_JJ
 mother_,_inescrupulous	1
 PRP_MD_VB
 it_should_be	2
+you_will_enjoy	1
 you_may_be	1
 it_will_be	1
 I_'d_put	1
@@ -515,8 +508,6 @@ Somebody_is_a	1
 movie_delivers_a	1
 NNP_NNP_CD
 AFI_Top_100	1
-NN_IN_-LRB-
-QUEST_before_-LRB-	1
 NNS_,_PRP
 co-workers_,_he	1
 NNP_NNP_POS
@@ -539,8 +530,6 @@ cute_and_not	1
 solid_and_very	1
 VBZ_NN_,
 teaches_karate_,	1
-NN_JJ_,
-<p>_overall_,	1
 RB_JJ_RB
 very_rare_indeed	1
 NN_JJ_.
@@ -572,8 +561,6 @@ class_as_It	1
 talent_so_she	1
 PRP_JJ_VBG
 it_worth_owning	1
-NNP_NNP_,
-<br />_But_,	1
 VBZ_NNP_POS
 plays_Allen_'s	1
 DT_NN_,
@@ -668,25 +655,20 @@ IN_PRP_PRP
 for_me_it	1
 PRP_VBZ_,
 he_says_,	1
-JJ_JJ_NN
-<p>_good_movie	1
-HILARIOUS_deleted_scene	1
-straight_forward_comedy	1
+PRP_RB_MD
+You_probably_can	1
 IN_PRP_MD
 as_it_should	1
 like_you_may	1
 VBG_PRP$_NNS
 playing_their_roles	1
-MD_RB_VB
-will_never_make	1
-ca_n't_beat	1
-'d_even_say	1
+TO_VB_DT
+to_take_a	1
+to_have_another	1
 TO_PRP_VBZ
 to_it_is	1
 DT_NNS_TO
 the_moments_to	1
-NN_CC_DT
-<p>_But_the	1
 VB_VBG_.
 be_thinking_.	1
 DT_NN_RB
@@ -737,12 +719,16 @@ it_is_not	1
 it_'s_not	1
 she_does_n't	1
 he_is_not	1
+PRP_CC_PRP
+I_and_I	1
 NNS_DT_JJ
 characters_a_likeable	1
 RP_DT_JJ
 out_the_whole	1
 VB_RB_WP
 get_back_what	1
+JJ_NN_VBN
+real_drama_divorced	1
 NN_VBZ_NN
 crudeness_ans_sickness	1
 JJ_NN_JJ
@@ -754,8 +740,6 @@ within_the_first	1
 with_a_HILARIOUS	1
 about_an_average	1
 from_the_slimy	1
-CC_JJ_NN
-and_real_drama	1
 JJS_NNS_.
 greatest_films_.	1
 RB_DT_NNS
@@ -829,12 +813,8 @@ CD_JJ_NN
 one_good_movie	1
 VBZ_DT_DT
 delivers_a_some	1
-PRP_-LRB-_CC
-I_-LRB-_and	1
 IN_NNS_IN
 for_fans_of	1
-WDT_VBZ_DT
-which_is_a	1
 RB_VBD_CD
 just_spent_one	1
 NN_NNS_IN
@@ -851,8 +831,9 @@ VBP_IN_JJ
 are_in_top	1
 TO_RB_NN
 to_really_laugh	1
-PRP_RB_MD
-You_probably_can	1
+JJ_JJ_NN
+straight_forward_comedy	1
+HILARIOUS_deleted_scene	1
 JJ_NN_CC
 huge_fan_and	1
 RB_VBD_NNP
@@ -862,8 +843,6 @@ in_top_form	1
 NNP_POS_NN
 Allen_'s_film	1
 Belushi_'s_character	2
-JJ_NN_-LRB-
-real_drama_-LRB-	1
 IN_VBG_VBD
 after_getting_beaten	1
 CD_NNS_IN
@@ -905,8 +884,6 @@ decent_price_.	1
 good_movie_.	2
 inescrupulous_boss_.	1
 nice_picture_.	1
--RRB-_VB_.
--RRB-_enjoy_.	1
 VBZ_RB_IN
 oscilates_dangerously_between	1
 ,_CC_RB
@@ -937,8 +914,6 @@ includes_some_special	1
 does_an_excellent	1
 IN_PDT_DT
 that_all_the	1
-FW_FW_DT
-<br />_<br />_The	1
 WP_VBZ_NNP
 who_trains_Joe	1
 PRP_RB_VBZ
@@ -985,9 +960,6 @@ and_as_he	1
 ,_I_enjoyed	1
 NN_,_VBG
 form_,_playing	1
-VB_PRP_MD
-<br />_It_will	1
-<br />_I_'d	1
 DT_JJ_JJ
 the_first_few	1
 a_half_enjoyable	1
@@ -1008,9 +980,6 @@ NN_POS_NN
 father_'s_day	1
 PRP_VBZ_CD
 It_'s_one	1
-TO_VB_DT
-to_take_a	1
-to_have_another	1
 TO_VB_NN
 to_be_somebody	1
 DT_NN_WP
@@ -1028,8 +997,6 @@ he_is_adorable	1
 it_'s_professional	1
 ,_CC_VB
 ,_and_get	1
-FW_FW_NN
-<p>_JOE_SOMEBODY	1
 VBZ_IN_PDT
 is_that_all	1
 JJS_VB_DT
@@ -1098,15 +1065,11 @@ VBZ_CD_IN
 's_one_of	1
 VBZ_VBG_WRB
 starts_wondering_why	1
-IN_-LRB-_CC
-before_-LRB-_and	1
 WP_VBZ_TO
 who_wants_to	1
 what_happens_to	1
 VBZ_IN_DT
 is_about_an	1
-IN_PRP_-LRB-
-that_I_-LRB-	1
 NNP_NNP_WP
 Tim_Allen_who	1
 WP_VBZ_CD
@@ -1120,8 +1083,8 @@ as_It_'s	1
 as_he_says	1
 VBD_JJ_.
 was_excellent_.	1
--LRB-_CC_VBD
--LRB-_and_enjoyed	1
+CC_JJ_NN
+and_real_drama	1
 VBG_WRB_PRP
 wondering_why_she	1
 WP_VBZ_PRP$
@@ -1135,8 +1098,10 @@ CC_NNP_NN
 and_Belushi_character	1
 VBD_IN_DT
 lost_in_the	1
-NN_._-RRB-
-lot_!_-RRB-	1
+IN_PRP_CC
+that_I_and	1
+NN_._.
+lot_!_.	1
 CC_NNP_NNP
 and_Mr._Destiny	1
 DT_DT_JJ
@@ -1150,8 +1115,6 @@ he_decides_to	1
 NNP_IN_DT
 Joe_in_the	1
 Joe_in_this	1
-PRP_MD_-RRB-
-you_will_-RRB-	1
 VBP_RB_JJ
 are_very_rare	1
 RB_DT_JJ

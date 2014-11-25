@@ -17,14 +17,12 @@ with_gusto	2
 of_mine	1
 In_fact	1
 than_character	2
-VBG_VBN
-being_propelled	2
-being_hurled	1
+NNP_VB
+Bunker_complete	2
+Them_Die	2
 VBN_VBG
 begun_killing	2
 shot_descending	2
-FW_DT
-<br />_The	8
 CC_JJ
 and_disrespectful	2
 and_budgetary	2
@@ -38,6 +36,9 @@ VBP_.
 cheer_!	2
 roll_.	2
 gasp_!	2
+VBG_VBN
+being_propelled	2
+being_hurled	1
 VBP_:
 wonder_...	2
 VBN_.
@@ -47,17 +48,13 @@ VBN_,
 suggested_,	2
 VB_JJR
 be_better	1
--LRB-_``
--LRB-_``	1
-VB_TO
-Come_to	2
-have_to	1
-afford_to	2
--RRB-_FW
--RRB-_<br />	2
+VBN_CC
+forgotten_and	2
 RB_JJR
 much_more	1
 no_more	2
+LS_WDT
+2_which	2
 WP_VBD
 who_owned	2
 RP_.
@@ -66,20 +63,16 @@ up_.	2
 WP_VBZ
 who_is	4
 who_comes	2
--RRB-_,
--RRB-_,	11
--RRB-_.
--RRB-_.	18
 NNP_CC
 Bach_and	4
 Triangle_and	2
 Below_and	2
 Cassinelli_and	2
 Leviathan_or	1
+NNP_CD
+Below_1989	2
 :_JJR
 --_more	2
--RRB-_:
--RRB-_...	2
 IN_PRP$
 from_its	2
 that_its	2
@@ -88,8 +81,11 @@ for_its	2
 about_her	2
 despite_its	4
 because_its	2
+WRB_DT
+When_the	2
 NN_VB
 alligator_prop	2
+ending_skip	2
 water_be	1
 PRP$_NN
 their_village	2
@@ -112,8 +108,6 @@ reason_the	2
 study_the	2
 TO_DT
 to_the	4
-NN_CD
-case_one	2
 VBD_RP
 petered_out	2
 VBP_JJ
@@ -125,15 +119,15 @@ VB_NNP
 appease_Kuma	2
 sound_Sri	2
 let_Archie	2
+NNS_NNP
+heroes_Barbara	2
 VBD_JJ
 was_blurry	1
 were_available	2
 VBP_TO
 want_to	2
-LS_-RRB-
-1_-RRB-	2
-2_-RRB-	2
-3_-RRB-	2
+,_TO
+,_to	2
 RB_NNP
 not_South	2
 not_Kuma	2
@@ -159,8 +153,6 @@ know_it	2
 think_it	2
 finish_them	2
 hold_it	1
-CC_-LRB-
-and_-LRB-	2
 CC_NN
 or_authenticity	2
 and_alcohol	2
@@ -183,13 +175,6 @@ inadequate_to	2
 available_to	2
 free_to	2
 hard_to	4
-FW_NNP
-<br />_HUH	2
-<br />_Evil	2
-<br />_Director	2
-<br />_Bach	2
--RRB-_WDT
--RRB-_which	2
 NNP_''
 Kuma_''	2
 DT_NNS
@@ -237,9 +222,6 @@ the_Wizard	1
 the_Amazon	2
 the_South	2
 the_BLANK	2
-NNP_VB
-Bunker_complete	2
-Them_Die	2
 VBD_DT
 knew_the	2
 had_the	1
@@ -256,8 +238,8 @@ gators_and	1
 props_and	2
 tourists_and	2
 inanities_and	2
-VBN_-RRB-
-obscured_-RRB-	2
+NNS_CD
+Tentacles_1977	2
 JJR_IN
 more_than	2
 More_on	2
@@ -271,8 +253,13 @@ witch_and	1
 consistency_or	2
 demonism_and	2
 cash_or	1
--LRB-_VB
--LRB-_skip	2
+NN_CD
+Piranha_1978	2
+case_one	2
+Barracuda_1978	2
+Alligator_1981	2
+Whale_1977	2
+Crocodile_1986	2
 DT_JJS
 the_best	1
 the_closest	1
@@ -282,7 +269,7 @@ flesh_pierced	2
 Alligator_several	2
 NNP_NNP
 Evil_Below	8
-<br />_<br />	2
+?!_A	2
 South_Pacific	2
 Director_Martino	2
 Richard_Johnson	2
@@ -295,9 +282,7 @@ Archie_Bunker	2
 Great_Alligator	4
 HUH_?!	2
 Sri_Lanka	4
-?!_<br />	2
 Barbara_Bach	2
-<br />_A	2
 Make_Them	2
 VBZ_JJR
 needs_more	1
@@ -308,8 +293,10 @@ are_more	2
 JJR_.
 better_.	1
 worse_.	2
-VBN_CC
-forgotten_and	2
+VB_TO
+Come_to	2
+have_to	1
+afford_to	2
 VBN_TO
 returned_to	2
 NNPS_''
@@ -353,17 +340,6 @@ into_a	2
 In_the	2
 than_the	1
 of_a	6
--LRB-_CD
--LRB-_One	2
--LRB-_1981	2
--LRB-_1986	2
--LRB-_1978	4
--LRB-_1977	4
--LRB-_1989	2
-NNS_-LRB-
-Tentacles_-LRB-	2
-heroes_-LRB-	2
-crocodiles_-LRB-	2
 RB_,
 naturally_,	2
 still_,	2
@@ -386,13 +362,10 @@ warmly_.	6
 seriously_.	2
 indeed_.	2
 later_.	2
+away_.	1
 before_.	2
 neither_.	1
 thereafter_.	2
-NNP_-RRB-
-Cassinelli_-RRB-	2
-Ferrer_-RRB-	2
-Below_-RRB-	2
 CC_RB
 And_just	2
 Or_even	1
@@ -415,12 +388,8 @@ when_I	1
 where_you	2
 How_it	2
 when_it	1
-CD_-RRB-
-1977_-RRB-	4
-1978_-RRB-	4
-1989_-RRB-	2
-1981_-RRB-	2
-1986_-RRB-	2
+''_:
+''_...	2
 WP_JJR
 What_more	2
 PRP$_JJ
@@ -433,8 +402,6 @@ its_relative	2
 her_firm	2
 my_500th	1
 your_black	2
-VBD_WRB
-snickered_when	1
 IN_PRP
 while_you	2
 of_them	2
@@ -450,10 +417,11 @@ if_you	3
 as_they	2
 because_he	2
 before_I	2
--RRB-_PRP
--RRB-_it	2
+''_.
+''_.	3
 :_NNP
 ..._Sri	2
+..._Director	2
 PRP_VBD
 they_snickered	1
 I_asked	1
@@ -575,15 +543,12 @@ It_looks	1
 it_attacks	1
 it_borders	1
 it_'s	15
-FW_PRP
-<br />_You	2
 IN_,
 that_,	2
 on_,	2
 IN_.
 like_.	2
 FW_FW
-<br />_<br />	46
 in_khaki	2
 MD_VBN
 'd_seen	2
@@ -593,14 +558,10 @@ PRP_.
 her_!	1
 PRP_,
 it_,	3
-FW_WP
-<br />_What	2
 PRP_VB
 you_ask	2
 NN_WRB
 reason_why	1
-,_-LRB-
-,_-LRB-	2
 NNPS_VB
 Winkies_praise	1
 CC_VBN
@@ -665,29 +626,29 @@ newcomer_heroes	2
 horror_fans	1
 NN_NNP
 offering_Bach	2
-JJR_MD
-more_can	2
+businessman_Mel	2
+NNPS_,
+Americans_,	2
 ''_RB
 ''_even	2
 WDT_NNS
 whatever_props	2
 CD_CC
+1986_and	2
 two_and	1
 IN_JJS
 in_most	2
-._-RRB-
-._-RRB-	2
+VBD_WRB
+snickered_when	1
 :_DT
 :_A	2
 --_all	2
-..._The	2
+..._The	4
 :_The	2
 JJR_NN
 more_slaughter	2
 more_fun	1
 more_gator	1
-PRP_-LRB-
-her_-LRB-	1
 VBP_VBZ
 gore_is	2
 RP_NNS
@@ -710,9 +671,6 @@ or_find	1
 VBP_VBG
 'm_guessing	2
 're_swimming	1
--LRB-_WRB
--LRB-_How	2
--LRB-_where	2
 POS_VBP
 's_gore	2
 EX_VBZ
@@ -743,6 +701,7 @@ hunt_thriller	2
 bathing_suit	2
 hotel_guide	2
 grabbag_mishmash	2
+science_offering	2
 PRP_NNP
 it_Jaws	1
 NNS_RB
@@ -798,10 +757,9 @@ a_good	1
 the_indigenous	2
 a_long	1
 The_second	1
--RRB-_NNP
--RRB-_Martino	2
 NN_IN
 respect_for	4
+alligator_at	2
 idea_of	1
 part_of	1
 favorite_of	1
@@ -829,10 +787,6 @@ regard_for	2
 jungle_out	2
 play_of	1
 cycle_of	2
--LRB-_LS
--LRB-_2	2
--LRB-_3	2
--LRB-_1	2
 ''_VB
 ''_look	2
 CC_DT
@@ -847,10 +801,12 @@ but_no	2
 and_The	4
 NN_VBN
 method_lifted	2
+alligator_killed	2
 NNS_PRP
 things_we	1
 NN_VBG
 toy_being	1
+device_chomping	2
 anthropologist_working	2
 monster_coming	1
 NN_VBD
@@ -878,6 +834,8 @@ ending_'s	1
 Witch_is	1
 title_is	2
 story_is	2
+IN_LS
+because_1	2
 RB_RB
 never_really	2
 n't_quite	1
@@ -920,10 +878,11 @@ JJ_``
 dark_``	2
 RB_VBZ
 physically_stops	2
-even_refers	2
-down_gives	1
+artificially_disavows	2
 rarely_looks	2
+down_gives	1
 constantly_pans	2
+even_refers	2
 ,_WP
 ,_what	2
 VBZ_VBG
@@ -934,10 +893,8 @@ be_it	1
 find_it	2
 praise_her	1
 make_them	2
-RB_VBP
-So_are	2
-rarely_see	2
-already_know	2
+PRP_DT
+it_a	1
 VBZ_VBN
 is_shot	2
 is_forgotten	2
@@ -967,10 +924,6 @@ nearly_killed	2
 even_had	1
 thinly_sketched	2
 so_wanted	1
-FW_IN
-<br />_For	2
-<br />_About	2
-<br />_As	2
 VBD_NN
 was_kind	1
 did_magage	1
@@ -999,8 +952,6 @@ POS_NNS
 '_sexcapades	2
 RP_NN
 out_everything	1
--LRB-_VBN
--LRB-_killed	2
 VBG_CD
 guessing_one	2
 MD_RB
@@ -1019,11 +970,13 @@ look_a	2
 shoot_a	2
 skip_the	2
 recommend_this	1
-WRB_DT
-When_the	2
+LS_NNP
+1_Martino	2
 PDT_DT
 half_the	2
 all_those	2
+PRP_``
+her_``	1
 VBZ_JJ
 's_hard	4
 is_generous	2
@@ -1054,6 +1007,8 @@ we_in	2
 RBR_JJ
 more_colorful	2
 more_acceptable	1
+LS_VBN
+3_edited	2
 LS_VBD
 i_was	1
 NNP_FW
@@ -1109,8 +1064,6 @@ quite_put	1
 even_sound	2
 n't_take	2
 n't_know	2
--RRB-_JJ
--RRB-_suspect	2
 VBN_PDT
 slaughtered_half	2
 IN_IN
@@ -1123,6 +1076,7 @@ before_in	2
 As_for	2
 JJ_RB
 generous_indeed	2
+phony_especially	1
 minimal_however	1
 VBZ_WP
 's_what	2
@@ -1134,18 +1088,13 @@ realizing_its	2
 ,_slaughtering	2
 ,_huddling	2
 ,_lecturing	2
-''_-RRB-
-''_-RRB-	5
 ``_NNPS
 ``_Africans	2
--RRB-_VBZ
--RRB-_disavows	2
--RRB-_opens	2
 NNS_.
 sexcapades_.	2
 aborigines_.	2
 resources_.	2
-stereotypes_.	2
+minutes_.	1
 monkeys_.	2
 ripoffs_.	2
 effects_.	1
@@ -1156,10 +1105,11 @@ people_.	4
 films_?	2
 natives_.	8
 boats_.	1
+blanks_.	2
 shortcomings_.	2
 ones_.	1
 attacks_.	2
-minutes_.	1
+stereotypes_.	2
 Brits_.	2
 caricatures_.	2
 shots_.	2
@@ -1185,13 +1135,9 @@ scenes_,	2
 closeups_,	2
 ,_VBP
 ,_are	2
--RRB-_VBG
--RRB-_chomping	2
 VBD_NNP
 was_Orca	2
 killed_Bach	2
--RRB-_VBN
--RRB-_edited	2
 NNS_:
 tourists_--	2
 props_--	2
@@ -1241,8 +1187,6 @@ average_Lake	1
 mad_Christian	2
 CD_IN
 One_of	4
--RRB-_CC
--RRB-_and	2
 VBD_WDT
 grabbed_whatever	2
 VBG_PRP
@@ -1257,6 +1201,7 @@ the_mostly	2
 DT_NNPS
 the_Winkies	1
 NN_PRP
+price_I	1
 while_it	2
 something_I	1
 coz_it	1
@@ -1310,17 +1255,13 @@ prod_the	2
 attack_the	2
 are_a	2
 guess_that	2
-NNS_-RRB-
-blanks_-RRB-	2
 VBD_TO
 got_to	1
 hired_to	2
-NN_JJR
-movie_more	1
+RB_MD
+there_will	2
 NNS_POS
 adults_'	2
-:_-RRB-
-..._-RRB-	2
 JJS_NNS
 closest_things	1
 NN_:
@@ -1329,6 +1270,7 @@ boat_--	2
 ._''	4
 NNP_JJ
 Christian_missionary	2
+Cassinelli_suspect	2
 A_final	2
 NN_,
 obscurity_,	2
@@ -1338,6 +1280,7 @@ content_,	2
 mishmash_,	2
 success_,	2
 coverup_,	2
+boat_,	1
 everyone_,	2
 Man_,	2
 environment_,	2
@@ -1365,9 +1308,13 @@ NN_.
 river_.	2
 water_.	2
 horror_.	2
+fun_.	1
+cutting_.	2
+reason_.	2
 tribe_.	2
 agent_.	2
 note_.	2
+boat_.	2
 mine_.	1
 cheap_.	2
 gator_.	1
@@ -1390,7 +1337,7 @@ skin_.	1
 film_.	3
 gusto_.	2
 review_!	1
-fun_.	1
+heart_.	2
 fan_.	1
 dialogue_.	2
 giveaway_.	2
@@ -1403,19 +1350,6 @@ WDT_VBZ
 which_is	2
 JJR_TO
 more_to	1
-NN_-LRB-
-price_-LRB-	1
-businessman_-LRB-	2
-body_-LRB-	2
-alligator_-LRB-	4
-Alligator_-LRB-	2
-environment_-LRB-	2
-science_-LRB-	2
-Whale_-LRB-	2
-Barracuda_-LRB-	2
-Crocodile_-LRB-	2
-ending_-LRB-	2
-Piranha_-LRB-	2
 VBP_VB
 do_see	2
 WDT_VBD
@@ -1427,10 +1361,8 @@ all_,	1
 VBG_RP
 chomping_down	3
 being_down	1
--LRB-_RB
--LRB-_drunkenly	2
--LRB-_especially	1
--LRB-_usually	2
+CC_LS
+and_3	2
 RB_JJ
 remarkably_un-PC	2
 as_unflattering	2
@@ -1456,17 +1388,10 @@ always_unattached	2
 damn_scary	1
 truly_awful	2
 so_boorish	2
-RB_-RRB-
-artificially_-RRB-	2
-away_-RRB-	1
-NNPS_,
-Americans_,	2
+JJR_MD
+more_can	2
 TO_NNP
 to_Dorothy	1
-RB_-LRB-
-explicitly_-LRB-	2
--LRB-_JJR
--LRB-_More	2
 TO_NNS
 to_dinosaurs	1
 to_crocodiles	2
@@ -1515,24 +1440,12 @@ for_associating	2
 of_screaming	2
 on_being	1
 on_screaming	2
-FW_UH
-<br />_Okay	2
-<br />_No	2
-NN_-RRB-
-heart_-RRB-	2
-device_-RRB-	2
-boat_-RRB-	3
-cutting_-RRB-	2
-reason_-RRB-	2
 ,_PRP
 ,_it	7
 ,_I	4
 ,_we	2
 ,_you	2
 ,_they	6
--LRB-_NNP
--LRB-_Barbara	2
--LRB-_Mel	2
 IN_VBP
 of_caricature	2
 JJ_CC
@@ -1542,18 +1455,17 @@ IN_VBZ
 as_is	1
 JJ_CD
 enjoyable_90	1
-JJ_-LRB-
-phony_-LRB-	1
-FW_CD
-<br />_One	2
+CD_,
+1978_,	4
+1981_,	2
+1977_,	4
+CD_.
+1989_.	2
 POS_NN
 's_camera	2
 's_location	2
 's_title	2
 's_character	2
-FW_CC
-<br />_But	2
-<br />_And	2
 CD_NNS
 90_minutes	1
 VBN_RB
@@ -1587,14 +1499,6 @@ to_their	2
 to_her	2
 VBZ_RP
 comes_off	2
-VBZ_IN
-borders_on	1
-is_that	8
-pans_across	2
-looks_like	5
-announces_that	2
-is_because	2
-expounds_upon	2
 NNS_MD
 widescreen_would	1
 VBP_RP
@@ -1636,6 +1540,7 @@ NNP_.
 Jaws_.	2
 Lankan_?	2
 Bach_.	2
+Below_.	2
 Dorothy_!	1
 Kuma_.	2
 Lanka_.	2
@@ -1645,6 +1550,7 @@ Pacific_?	2
 JJ_VBP
 floating_prop	2
 NNP_WRB
+Psycho_where	2
 Oz_when	1
 VBG_NN
 running_commentary	2
@@ -1655,10 +1561,10 @@ fishy_going	2
 Silly_looking	1
 NNP_:
 Orca_:	2
-PRP_DT
-it_a	1
-,_TO
-,_to	2
+RB_VBP
+So_are	2
+rarely_see	2
+already_know	2
 VBZ_.
 is_.	2
 RB_NN
@@ -1681,8 +1587,7 @@ awful_day-for-night	2
 greedy_white	2
 VBN_PRP
 seen_it	2
-:_FW
-..._<br />	2
+obscured_it	2
 ,_CC
 ,_and	17
 ,_but	12
@@ -1728,9 +1633,6 @@ NNP_MD
 Cassinelli_would	2
 IN_CD
 that_one	2
-NNP_-LRB-
-Below_-LRB-	2
-Psycho_-LRB-	2
 NNS_VBD
 extras_were	2
 tribesmen_were	2
@@ -1742,9 +1644,6 @@ alligators_chomping	1
 times_resembling	2
 RP_RB
 down_right	1
--LRB-_PRP
--LRB-_I	1
--LRB-_We	2
 VBP_NNS
 are_veggies	2
 VBP_NNP
@@ -1754,17 +1653,14 @@ only_if	1
 just_as	2
 rather_than	3
 straight_out	2
-always_like	1
+explicitly_if	2
 again_in	2
 largely_in	2
+always_like	1
 however_as	1
 usually_from	2
 especially_in	1
 Apart_from	2
-RP_IN
-up_with	2
-down_on	1
-out_with	2
 ``_PRP
 ``_She	1
 VBG_WP
@@ -1772,8 +1668,6 @@ deciding_who	2
 POS_JJ
 's_wet	2
 's_savage	2
-IN_-LRB-
-because_-LRB-	2
 ''_IN
 ''_as	2
 ''_in	2
@@ -1818,13 +1712,14 @@ strokes_of	2
 times_before	2
 things_about	2
 borrowings_from	2
+boatloads_of	2
 stereotypes_into	2
 munches_upon	2
 tourists_with	2
 creatures_in	1
 gifts_as	2
 monkeys_from	2
-boatloads_of	2
+crocodiles_as	2
 dances_for	2
 savages_from	2
 NNP_VBZ
@@ -1835,9 +1730,10 @@ Martino_makes	2
 Alligator_is	2
 Below_is	2
 Bach_offers	2
+Ferrer_expounds	2
 Gore_is	1
 Cassinelli_is	2
-Ferrer_expounds	2
+Ferrer_opens	2
 Dorothy_kills	1
 Lanka_looks	2
 Bach_grins	2
@@ -1861,8 +1757,8 @@ to_take	4
 to_enjoy	2
 to_check	1
 to_make	2
-RB_MD
-there_will	2
+NN_JJR
+movie_more	1
 ``_PRP$
 ``_your	2
 CC_NNP
@@ -1882,18 +1778,16 @@ NNP_VBD
 Jaws_spawned	2
 WP_NNP
 what_Sri	2
--LRB-_IN
--LRB-_as	2
--LRB-_at	2
--LRB-_if	2
 NNP_POS
 Bach_'s	4
 Satan_'s	2
 Martino_'s	2
 NN_RB
+environment_drunkenly	2
 film_explicitly	2
 alligator_only	2
 daylight_soon	2
+body_usually	2
 reviewer_down	1
 camera_constantly	2
 anything_else	2
@@ -1946,18 +1840,17 @@ suspects_Cassinelli	2
 VBZ_NNS
 attacks_boats	1
 is_friends	2
+,_LS
+,_2	2
 VBP_NN
 gore_film	2
 JJS_NN
 most_slasher	2
 best_play	1
-FW_RB
-<br />_Anyway	2
-<br />_Apart	2
-<br />_Perhaps	2
-<br />_Still	2
--LRB-_NN
--LRB-_offering	2
+RP_IN
+up_with	2
+down_on	1
+out_with	2
 ,_NNP
 ,_Jaws	2
 ,_Ferrer	2
@@ -1977,8 +1870,14 @@ and_extras	2
 ,_Tentacles	2
 WP_IN
 what_with	2
-FW_WRB
-<br />_When	2
+VBZ_IN
+borders_on	1
+is_that	8
+pans_across	2
+looks_like	5
+announces_that	2
+is_because	2
+expounds_upon	2
 JJ_NN
 500th_review	1
 bloody_water	2

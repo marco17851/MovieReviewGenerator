@@ -39,11 +39,8 @@ VBN_VBN
 been_mentioned	1
 NNP_VB
 Ryan_give	1
-FW_DT
-<br />_This	1
-<br />_A	1
-<br />_a	1
-<br />_The	3
+VBG_VBZ
+acting_is	1
 CC_JJ
 and_compassionate	1
 and_arrogant	1
@@ -71,8 +68,6 @@ and_irritable	1
 and_plain	1
 and_washed-out	1
 and_terrific	1
-VBG_FW
-acting_<br />	1
 RB_TO
 Not_to	1
 down_to	1
@@ -128,8 +123,6 @@ NNS_WDT
 romps_that	1
 dreams_that	1
 films_that	1
--RRB-_FW
--RRB-_<br />	1
 DT_FW
 The_widescreen	1
 RB_JJR
@@ -146,8 +139,6 @@ who_are	1
 who_deliver	1
 who_like	1
 who_surround	1
--LRB-_PRP$
--LRB-_his	1
 WP_VBZ
 who_is	2
 who_tries	1
@@ -160,15 +151,11 @@ who_says	1
 what_is	1
 :_CD
 :_Three	1
--RRB-_,
--RRB-_,	3
-._-RRB-
-!_-RRB-	1
-?_-RRB-	1
 NNP_CC
-Hall_and	1
-Bush_and	1
+Zipper_and	1
 Mary_and	1
+Bush_and	1
+Hall_and	1
 Southwest_and	1
 Kath_and	1
 Garrett_and	1
@@ -179,19 +166,31 @@ NNP_CD
 Jan._1978	1
 WP_MD
 What_can	1
-JJR_NNS
-older_movies	1
-VB_-LRB-
-recognize_-LRB-	1
+JJ_.
+marvelous_.	1
+funny_.	1
+convoluted_.	1
+good_.	1
+much_.	1
+former_.	1
+excellent_.	2
+fascinating_.	1
+fading_.	1
+weird_.	1
+fantastic_!	1
+unpunished_.	1
+Archeological_.	1
+lonely_.	1
+entertaining_.	1
+perfect_.	1
+Great_.	1
+powerful_.	1
 RBS_JJ
 most_memorable	1
 most_adventurous	1
-''_-LRB-
-''_-LRB-	2
 :_NN
 ..._desert	1
 ..._trumpeter	1
-..._<p>	1
 -_fame	1
 IN_PRP$
 of_your	1
@@ -252,6 +251,7 @@ say_about	1
 CD_WDT
 One_that	1
 JJ_PRP
+graphic_I	1
 surprising_you	1
 back-up_he	1
 VBD_RB
@@ -267,6 +267,7 @@ were_reportedly	1
 NN_DT
 reason_this	1
 cast_some	1
+!!_the	1
 Love_the	1
 shame_this	1
 WDT_RB
@@ -295,8 +296,6 @@ like_daring	1
 RP_PRP$
 off_your	1
 off_their	1
-DT_-LRB-
-a_-LRB-	1
 VB_NNS
 invoke_comparisons	1
 see_years	1
@@ -318,8 +317,6 @@ afforded_young	1
 cast_several	1
 was_unique	1
 was_worth	1
-NN_PRP$
-pace_his	1
 VBP_TO
 have_to	1
 PRP$_NNS
@@ -355,8 +352,6 @@ love_it	1
 make_it	1
 know_me	1
 Are_you	1
-VBN_FW
-mentioned_<br />	1
 LS_MD
 i_may	1
 VB_:
@@ -387,12 +382,12 @@ ride_their	1
 VB_,
 say_,	2
 know_,	1
-WDT_VBP
-that_make	1
-that_are	1
-that_keep	1
-which_are	1
-that_touch	1
+VB_.
+find_.	1
+abound_.	1
+forget_.	1
+enjoy_!	1
+enjoy_.	1
 JJ_TO
 next_to	1
 young_to	1
@@ -404,9 +399,6 @@ desperate_to	1
 many_to	1
 NNS_JJ
 People_mock	1
-FW_NNS
-<br />_Viewers	1
-<br />_Tragedies	1
 MD_IN
 must_for	1
 must_of	1
@@ -561,6 +553,7 @@ shows_and	1
 movies_and	1
 issues_and	1
 constraints_and	1
+locales_and	1
 awards_and	1
 nymphos_and	1
 spectacles_and	1
@@ -571,12 +564,11 @@ tickets_and	1
 policemen_and	1
 styles_and	1
 references_or	1
-,_VB
-,_shoot	1
-,_get	1
-,_give	1
--RRB-_-RRB-
--RRB-_-RRB-	2
+''_VBZ
+''_is	2
+''_falls	1
+''_plays	1
+''_comes	1
 VBN_PRP
 seen_it	1
 VBP_IN
@@ -591,7 +583,7 @@ ensue_as	1
 NN_CC
 landscape_and	1
 system_vs.	1
-<p>_And	1
+heat_and	1
 time_and	1
 detective_and	1
 movie_and	3
@@ -603,6 +595,7 @@ beer_and	1
 hate_and	1
 night_and	1
 tape_or	1
+accident_and	1
 kid_and	1
 resentment_and	1
 writing_and	1
@@ -615,6 +608,7 @@ warmth_and	1
 trailer_and	1
 chase_and	1
 budget_but	1
+performance/character_But	1
 work_and	2
 shack_and	1
 suicide_but	1
@@ -625,17 +619,10 @@ Introduction_or	1
 WDT_PRP
 which_it	1
 which_you	1
-JJ_FW
-moral_<br />	1
-heavy_<br />	1
-corrupt_<br />	1
-regular_<br />	1
 DT_JJS
 The_biggest	1
 the_most	1
 the_best	1
--RRB-_WP
--RRB-_who	1
 NN_JJ
 guitar_great	2
 something_different	1
@@ -652,7 +639,6 @@ Alfredo_Garcia	1
 Leonard_Maltin	1
 Glide_In	1
 Mitchell_Ryan	4
-<p>_But	1
 Frank_Zappa	1
 Sam_Peckinpah	1
 Alan_Ladd	2
@@ -677,7 +663,6 @@ Vanishing_Point	1
 Too_Violent	1
 Captain_Furillo	1
 Outer_Limits	1
-<br />_<br />	1
 Street_Blues	1
 Conrad_Hall	3
 New_Mexico	1
@@ -701,9 +686,9 @@ Lee_Loughnane	1
 William_Guercio	3
 Peter_Cetera	3
 Harley_Davidson	1
-Weathergreen_<br />	1
 James_Guercio	1
 John_Ford	1
+Ryan_Blake	1
 But_Bobby	1
 Viet_Nam	1
 Elecra_Glide	1
@@ -730,6 +715,7 @@ worse_.	1
 VBN_CC
 photografed_and	1
 hamhanded_and	1
+mentioned_and	1
 Determined_and	1
 developed_and	1
 VBN_TO
@@ -739,6 +725,7 @@ Exposed_to	1
 IN_DT
 through_the	1
 as_any	1
+onto_a	1
 against_a	1
 of_the	33
 As_a	2
@@ -806,9 +793,6 @@ is_why	1
 sees_how	1
 VB_WP
 know_what	1
--LRB-_CC
--LRB-_but	1
--LRB-_and	3
 RB_WRB
 later_when	1
 just_how	1
@@ -837,6 +821,7 @@ well_,	1
 RB_.
 not_.	1
 deliberately_.	1
+also_.	1
 here_.	1
 again_.	1
 though_.	1
@@ -844,13 +829,6 @@ either_.	2
 too_.	1
 CD_CC
 !!_And	1
-NNP_-RRB-
-Riley_-RRB-	2
-Harve_-RRB-	1
-Boyle_-RRB-	1
-Ryan_-RRB-	1
-Zipper_-RRB-	1
-Blake_-RRB-	1
 CC_RB
 and_just	2
 and_even	1
@@ -914,8 +892,6 @@ that_he	2
 ''_.	4
 ''_,
 ''_,	5
-PRP_-RRB-
-him_-RRB-	1
 IN_VBG
 of_writing	1
 into_investigating	1
@@ -925,7 +901,6 @@ as_being	1
 of_moving	1
 without_saying	1
 ,_FW
-,_<br />	2
 ,_etc.	1
 :_NNP
 ..._Robert	1
@@ -1126,6 +1101,7 @@ the_associated	1
 the_harassed	1
 PRP_JJ
 it_hard	1
+him_pure	1
 himself_worthy	1
 it_marvelous	1
 it_preachy	1
@@ -1147,9 +1123,6 @@ he_finds	1
 he_sees	2
 it_does	1
 It_'s	1
-FW_PRP
-<br />_he	1
-<br />_I	1
 PRP_:
 it_:	1
 it_...	1
@@ -1161,6 +1134,7 @@ who_dresses	1
 ``_DT
 ``_No	1
 PRP_.
+him_.	1
 it_.	5
 itself_.	1
 PRP_,
@@ -1184,8 +1158,6 @@ NN_WRB
 film_when	1
 beginning_when	1
 sequence_when	1
-,_-LRB-
-,_-LRB-	1
 RP_TO
 down_to	1
 NNP_PRP
@@ -1225,27 +1197,8 @@ drunk_,	1
 corrupt_,	1
 memorable_,	1
 sure_,	1
-FW_EX
-<br />_There	1
-JJ_.
-marvelous_.	1
-funny_.	1
-convoluted_.	1
-good_.	1
-much_.	1
-former_.	1
-excellent_.	2
-fascinating_.	1
-fading_.	1
-weird_.	1
-fantastic_!	1
-unpunished_.	1
-Archeological_.	1
-lonely_.	1
-entertaining_.	1
-perfect_.	1
-Great_.	1
-powerful_.	1
+JJR_NNS
+older_movies	1
 RBS_RB
 most_importantly	1
 VBN_IN
@@ -1322,10 +1275,12 @@ director_Guercio	2
 actor_Mitchell	1
 band_Chicago	1
 A._Pal	1
+barmaid_Jeannine	1
 betwen_Big	1
 murderer_Robert	1
 singer/bassist_Peter	1
 patrolman_John	1
+detective_Mitchell	1
 boss_Harvey	1
 bassist_Peter	1
 group_CHICAGO	1
@@ -1342,8 +1297,6 @@ for_better	1
 IN_JJS
 by_most	1
 at_least	1
--RRB-_.
--RRB-_.	9
 :_DT
 :_some	1
 ..._an	1
@@ -1354,9 +1307,6 @@ at_least	1
 ..._The	1
 DT_MD
 A_must	1
-PRP_-LRB-
-itself_-LRB-	1
-him_-LRB-	1
 VBZ_SYM
 owns_*	1
 PRP_MD
@@ -1378,6 +1328,7 @@ have_changed	1
 have_seen	1
 are_undermined	1
 :_CC
+..._And	1
 ..._and	4
 ;_and	1
 -_and	1
@@ -1388,8 +1339,6 @@ and_try	1
 VBP_VBG
 'm_trying	1
 'm_going	1
--LRB-_WRB
--LRB-_Why	1
 NNS_VBD
 seventies_heralded	1
 scenes_were	1
@@ -1458,6 +1407,7 @@ murder_mystery	4
 cult_status	1
 theatrical_release	1
 police_story	1
+detective_work	1
 film_maker	1
 enforcement_officer	1
 police_motorbike	1
@@ -1481,8 +1431,6 @@ superiors_quickly	1
 men_clearly	1
 Specials_though	1
 clothes_also	1
--LRB-_WDT
--LRB-_which	1
 VBP_NNS
 are_members	1
 are_people	1
@@ -1640,7 +1588,6 @@ pic_like	1
 cinematography_of	1
 affection_in	1
 case_in	1
-<p>_As	2
 half-wit_over	1
 granduer_of	1
 release_in	1
@@ -1670,7 +1617,6 @@ sex_with	1
 side_of	2
 beauty_of	1
 consciousness_of	1
-<p>_Of	1
 nature_of	1
 detective_until	1
 history_of	1
@@ -1697,6 +1643,7 @@ dead_inside	1
 question_of	1
 sense_of	1
 nothing_against	1
+fame_as	1
 intro_by	1
 film_with	1
 story_about	1
@@ -1726,7 +1673,7 @@ movie_on	1
 Part_of	1
 vermin_in	1
 cynicism_that	1
-acting_by	2
+acting_by	3
 making_of	1
 cinema_with	1
 CC_DT
@@ -1761,6 +1708,7 @@ person_being	1
 man_seething	1
 film_making	1
 cop_trying	1
+perp_excluding	1
 VBG_WDT
 lingering_which	1
 NN_VBD
@@ -1800,7 +1748,7 @@ plot_is	1
 style_is	1
 girl_approaches	1
 photography_is	1
-cast_is	2
+cast_is	3
 sound_is	1
 review_is	1
 movie_is	2
@@ -1865,11 +1813,6 @@ you_likely	1
 it_nevertheless	1
 ``_JJS
 ``_Most	1
-JJ_-LRB-
-first_-LRB-	1
-ironic_-LRB-	1
-graphic_-LRB-	1
-unintended_-LRB-	1
 JJ_``
 favourite_``	1
 anti-_``	1
@@ -1937,8 +1880,15 @@ dons_his	1
 CC_PRP$
 and_his	1
 and_its	1
-WRB_NN
-when_one	1
+VB_RP
+put_up	1
+clean_up	1
+make_out	1
+leave_out	1
+find_out	1
+Take_off	1
+shoot_off	1
+chase_down	1
 DT_DT
 this_a	1
 RB_VBN
@@ -1950,6 +1900,7 @@ perfectly_suited	1
 sorely_disheartened	1
 reasonably_priced	1
 mentally_challenged	1
+publicly_abused	1
 not_achieved	1
 fully_appreciated	1
 reportedly_cut	1
@@ -1980,11 +1931,6 @@ never_directed	1
 first_came	1
 first_saw	1
 also_produced	1
-FW_IN
-<br />_For	1
-<br />_In	1
-<br />_While	1
-<br />_As	1
 VBD_NN
 witted_desert	1
 produced_alot	1
@@ -2002,15 +1948,16 @@ angst-filled_honky-tonk	1
 good_noirish	1
 young_American	1
 eager_young	1
+many_crucial	1
 odd_little	1
 lost_small	1
-good_hearted	1
+real_stylistic	1
 particular_ironic	1
 oft-discussed_final	1
 unadulterated_sexual	1
 many_many	1
 good_u.s.	1
-many_crucial	1
+good_hearted	1
 VBZ_TO
 needs_to	1
 wants_to	1
@@ -2022,7 +1969,7 @@ tries_to	1
 ,_except	1
 ,_before	1
 ,_as	3
-,_while	2
+,_while	3
 ,_if	3
 ,_so	3
 ,_like	1
@@ -2055,11 +2002,12 @@ would_not	1
 NN_WDT
 one_that	1
 oldie_that	1
+Soundtrack_which	1
 gem_that	1
 script_that	1
 heart_that	1
 film_that	2
-Soundtrack_which	1
+mystery_which	1
 music_that	1
 VB_DT
 notice_any	1
@@ -2073,7 +2021,6 @@ get_the	1
 mount_a	1
 think_this	1
 join_the	1
-<br />_The	1
 create_an	1
 make_a	1
 recognize_any	1
@@ -2081,9 +2028,6 @@ smell_the	1
 do_the	1
 play_the	1
 address_this	1
--LRB-_VBG
--LRB-_excluding	1
--LRB-_starring	1
 VBP_POS
 keep_'s	1
 PDT_DT
@@ -2114,10 +2058,6 @@ is_fantastic	1
 is_excellent	4
 plays_by-the-book	1
 's_nice	1
-JJ_-RRB-
-real_-RRB-	1
-iconic_-RRB-	1
-cheesy_-RRB-	1
 ''_DT
 ''_a	1
 NN_TO
@@ -2146,11 +2086,12 @@ Both_of	1
 all_worth	1
 any_of	2
 PRP_IN
-it_under	1
-it_from	1
-him_in	2
-it_as	1
 you_like	1
+itself_unlike	1
+it_from	1
+it_as	1
+it_under	1
+him_in	2
 RBR_JJ
 less_dated	1
 more_sparse	1
@@ -2287,13 +2228,8 @@ ever_mount	1
 ''_due	1
 :_UH
 ..._Hey	1
--RRB-_JJ
--RRB-_new	1
--RRB-_stylistic	1
 FW_FW
-etc._<br />	1
 70s_relic	1
-<br />_<br />	37
 Electra_Glide	1
 widescreen_hi-def	1
 JJ_RB
@@ -2310,44 +2246,39 @@ is_what	1
 ,_did	1
 ,_rattled	1
 ,_waited	1
--RRB-_VBP
--RRB-_are	1
 ,_VBG
 ,_reflecting	1
 ,_preferring	1
 ,_including	3
+,_planting	1
 ,_examining	1
 ,_paying	1
 ,_having	1
 ,_standing	1
 ,_making	1
-''_-RRB-
-''_-RRB-	1
--RRB-_VBZ
--RRB-_plays	1
--RRB-_is	3
 NNS_.
-credits_.	1
-stars_.	1
 levels_.	2
-inadequacies_.	1
-movies_.	1
-frames_.	1
-times_.	1
-70ties_.	1
-efforts_.	1
-eyes_.	1
-performances_.	1
-choices_.	1
-favorites_.	1
 personalities_.	1
+words_.	1
+70ties_.	1
+favorites_.	1
+inadequacies_.	1
+performances_.	1
+stars_.	1
+scenes_.	3
+movies_.	1
+times_.	1
+eyes_.	1
+efforts_.	1
+choices_.	1
 kids_.	1
+defects_.	1
+homicides_.	1
+frames_.	1
+credits_.	1
 proportions_.	1
 videos_.	1
-scenes_.	2
-defects_.	1
 values_.	1
-homicides_.	1
 ,_VBN
 ,_shot	1
 NNS_,
@@ -2359,6 +2290,7 @@ highways_,	1
 subtitles_,	1
 photos_,	1
 minutes_,	2
+movies_,	1
 boots_,	1
 moments_,	1
 reasons_,	1
@@ -2371,8 +2303,6 @@ Motorcycles_,	1
 Hippies_,	1
 ,_VBP
 ,_try	1
--RRB-_VBD
--RRB-_was	1
 VBD_NNS
 featured_members	1
 VBD_NNP
@@ -2472,8 +2402,6 @@ or_worse	1
 IN_WP
 in_what	1
 like_what	1
--RRB-_CC
--RRB-_and	4
 DT_RB
 a_rather	1
 this_before	1
@@ -2482,6 +2410,7 @@ a_very	3
 a_beautifully	1
 an_equally	1
 the_very	1
+a_then	1
 a_still	1
 an_almost	1
 DT_NNPS
@@ -2492,6 +2421,7 @@ NN_PRP
 case_it	1
 retrospect_it	1
 book_it	1
+part_it	1
 DVD_it	1
 highway_we	1
 chance_he	1
@@ -2510,9 +2440,6 @@ idealisticdespite_the	1
 such_an	1
 foregoing_the	1
 worth_the	1
-:_JJ
-:_Beautiful	1
-:_low	1
 MD_VB
 can_become	1
 would_say	1
@@ -2530,8 +2457,9 @@ RB_CD
 easily_one	1
 very_60	1
 also_one	1
--RRB-_PRP
--RRB-_it	1
+VB_VBN
+have_seen	1
+get_mentioned	1
 RP_JJ
 up_terrific	1
 out_veteran	1
@@ -2570,6 +2498,8 @@ features_music	1
 plays_head	1
 DT_''
 All_''	1
+WRB_NN
+when_one	1
 TO_JJ
 to_other	1
 VBP_DT
@@ -2586,19 +2516,42 @@ make_a	1
 want_a	1
 are_the	1
 represent_a	1
-NNS_-RRB-
-movies_-RRB-	1
-words_-RRB-	1
-scenes_-RRB-	1
-locales_-RRB-	1
 VBD_TO
 had_to	2
 NN_JJR
 foot_taller	1
 ,_WDT
 ,_which	3
-:_-RRB-
-..._-RRB-	1
+NNS_IN
+70s_through	1
+spaces_of	1
+aspects_of	1
+opinions_of	1
+tons_of	1
+detectives_with	1
+films_like	1
+films_in	1
+albums_for	1
+movies_because	1
+shots_of	2
+trophies_on	1
+performances_from	1
+members_in	1
+dresses_down	1
+members_of	3
+movies_in	1
+Mothers_of	1
+films_by	1
+roles_in	1
+directors_in	1
+extras_in	1
+years_ago	1
+parts_of	2
+arms_of	1
+fans_of	2
+films_of	1
+clothes_as	1
+colors_of	1
 NN_:
 try_...	1
 Invention_...	1
@@ -2619,6 +2572,7 @@ POS_JJS
 NNP_JJ
 Chicagos_new	1
 Kodak_perfect	1
+ElectraGlides_complete	1
 NN_,
 cop_,	2
 release_,	2
@@ -2702,6 +2656,7 @@ hill_.	1
 size_.	1
 scene_.	4
 recommendation_.	1
+seat_.	1
 look_!	1
 effort_.	1
 head_.	1
@@ -2711,7 +2666,7 @@ intent_.	1
 start_.	1
 commentary_.	1
 personality_.	1
-today_.	1
+film_.	9
 urine_.	1
 cost_.	1
 DVD_.	3
@@ -2734,6 +2689,7 @@ waitress_?	1
 album_?	1
 master_?	1
 desert_.	1
+anything_.	1
 life_.	1
 movie_.	4
 waitress_.	1
@@ -2742,11 +2698,12 @@ murder_.	2
 try_.	1
 camp_.	1
 mystery_.	1
-film_.	7
+second_.	1
 time_.	1
 comedy_.	1
 study_.	1
 thing_.	1
+today_.	1
 music_.	1
 driver_.	1
 part_.	1
@@ -2780,22 +2737,21 @@ Jack_had	1
 Guercio_had	1
 America_was	1
 Blake_became	1
+Blake_was	1
 Guercio_was	1
 Southwest_was	1
-NN_-LRB-
-study_-LRB-	1
-!!_-LRB-	1
-mystery_-LRB-	1
-film_-LRB-	1
-perp_-LRB-	1
-<p>_-LRB-	2
-acting_-LRB-	1
-barmaid_-LRB-	1
-detective_-LRB-	1
-''_VBZ
-''_is	2
-''_falls	1
-''_comes	1
+''_VBN
+''_played	1
+WDT_VBP
+that_make	1
+that_are	1
+that_keep	1
+which_are	1
+that_touch	1
+,_VB
+,_shoot	1
+,_get	1
+,_give	1
 ''_NN
 ''_dead	1
 ''_film	1
@@ -2817,34 +2773,26 @@ VBG_RB
 trying_not	1
 making_so	1
 being_fully	1
-FW_JJ
-<br />_Intimidating	1
-<br />_Interesting	1
--RRB-_NN
--RRB-_movie	1
--RRB-_interest	1
+CC_NNS
+and_tons	1
+and_insecurities	1
+and_values	1
+and_detectives	1
+and_clothes	1
+and_people	1
+and_aspects	1
+and_movies	1
+and_trophies	1
 DT_,
 all_,	2
 any_,	1
 DT_.
 this_?	1
 this_.	1
--LRB-_RB
--LRB-_unfortunately	1
--LRB-_Just	1
--LRB-_then	1
--LRB-_Incidentally	1
--LRB-_hence	1
 CC_LS
 but_i	1
-RB_-RRB-
-also_-RRB-	1
-then_-RRB-	1
-here_-RRB-	1
-only_-RRB-	1
-FW_VB
-<br />_Add	1
 RB_JJ
+then_new	1
 so_interesting	1
 certainly_unintended	1
 n't_fancy	1
@@ -2920,17 +2868,8 @@ sees_him	1
 approaches_him	1
 VB_RB
 sleep_now	1
-VB_RP
-put_up	1
-clean_up	1
-make_out	1
-leave_out	1
-find_out	1
-Take_off	1
-shoot_off	1
-chase_down	1
-RB_FW
-publicly_<br />	1
+:_VBZ
+..._is	1
 ``_JJ
 ``_normal	1
 ``_added	1
@@ -2940,11 +2879,12 @@ publicly_<br />	1
 ``_big	1
 NNP_IN
 Zappa_in	1
-Ryan_as	1
+Ryan_as	2
 Nolte_as	1
-Bush_as	1
+Bush_as	2
 Head_of	1
 Wolinski_as	1
+Riley_of	1
 WAAAY_over	1
 Blake_with	1
 Glide_in	4
@@ -2952,9 +2892,11 @@ Dano_as	1
 Guercio_in	1
 Cetera_from	1
 CHICAGO_in	1
+Ryan_for	1
 All_in	1
 Wintergreen_as	1
 Blake_in	1
+Blake_from	1
 Blake_as	3
 Harley_in	1
 Zipper_with	1
@@ -2977,23 +2919,9 @@ detectives_division	1
 1970s_system	1
 IN_VBD
 of_was	1
-POS_NN
-'s_producer	1
-'s_acting	1
-'s_partner	1
-'s_addiction	1
-'s_character	2
-'s_commentary	1
-'s_performance	1
-'s_direction	1
-'s_office	1
-'s_cinema	1
-'s_role	1
-'s_jazz/rock	1
-'s_movie	1
 ,_PRP
 ,_it	6
-,_he	1
+,_he	2
 ,_I	4
 ,_you	2
 FW_''
@@ -3003,11 +2931,6 @@ of_made	1
 RB_NNP
 now_Arizona	1
 invariably_Mr.	1
--LRB-_NNP
--LRB-_Kath	1
--LRB-_Mitchell	1
--LRB-_Blake	1
--LRB-_Jeannine	1
 VBG_.
 watching_.	1
 VBG_,
@@ -3023,10 +2946,11 @@ good_and	3
 quirky_yet	1
 talented_and	1
 insecure_and	1
+first_and	1
 acceptable_and	1
 slow_and	1
 Bizarre_and	1
-ironic_and	1
+ironic_and	2
 fancy_but	1
 preachy_and	1
 heartless_and	1
@@ -3037,9 +2961,7 @@ abusive_and	1
 funny_but	1
 bombastic_and	1
 different_and	1
-FW_CC
-<br />_But	1
-<br />_and	1
+unintended_and	1
 IN_VBZ
 as_is	1
 as_has	1
@@ -3062,26 +2984,30 @@ POS_PRP$
 's_my	1
 WRB_VBD
 Why_was	1
+NNP_WP
+Riley_who	1
+Chicago_who	1
 RB_POS
 Here_'s	1
-NN_-RRB-
-part_-RRB-	1
-cast_-RRB-	1
-anything_-RRB-	1
-second_-RRB-	1
-seat_-RRB-	1
-film_-RRB-	2
-fame_-RRB-	1
-accident_-RRB-	1
-heat_-RRB-	1
-performance/character_-RRB-	1
+POS_NN
+'s_producer	1
+'s_acting	1
+'s_partner	1
+'s_addiction	1
+'s_character	2
+'s_commentary	1
+'s_performance	1
+'s_direction	1
+'s_office	1
+'s_cinema	1
+'s_role	1
+'s_jazz/rock	1
+'s_movie	1
 TO_NN
 to_pace	1
 to_gasoline	1
 to_bigotry	1
 to_DVD	1
-IN_FW
-onto_<br />	1
 CD_NNS
 17_frames	1
 1970s_cars	1
@@ -3184,6 +3110,7 @@ more_in	1
 RB_IN
 still_from	1
 later_in	1
+here_of	1
 back_in	1
 especially_on	1
 even_though	1
@@ -3200,8 +3127,6 @@ up_until	1
 tragically_in	1
 especially_in	1
 almost_like	1
-FW_VBZ
-<br />_is	1
 VBG_IN
 standing_at	1
 moving_out	1
@@ -3213,8 +3138,6 @@ saying_that	1
 working_with	1
 seething_with	1
 zipping_along	1
-FW_VBG
-<br />_planting	1
 DT_CD
 a_ten	1
 This_one	1
@@ -3242,13 +3165,15 @@ are_as	1
 are_too	1
 do_n't	3
 JJ_VBZ
-second_is	1
-former_is	1
 latter_is	1
+cheesy_is	1
 first_is	1
 occasional_sprinkles	1
+former_is	1
+second_is	1
 ''_NNP
 ''_Wolinski	1
+''_Kath	1
 ''_Bush	2
 ''_Wintergreen	1
 ''_Davis	1
@@ -3256,7 +3181,9 @@ occasional_sprinkles	1
 ''_movies	1
 ''_films	1
 NNP_,
+Boyle_,	1
 Dano_,	1
+Riley_,	1
 Plus_,	1
 Guercio_,	1
 Glide_,	1
@@ -3290,15 +3217,7 @@ Stars_.	1
 Arizona_.	2
 Bush_.	1
 FW_NN
-<br />_world	1
-<br />_crime	1
-<br />_cop	1
 hi-def_picture	1
-<br />_work	1
-<br />_Best	1
-<br />_A.	1
-<br />_price	1
-<br />_Part	1
 VBG_NN
 foreboding_soundtrack	1
 planting_evidence	1
@@ -3317,9 +3236,6 @@ PRP_DT
 it_all	2
 it_a	3
 Me_the	1
-VB_VBN
-have_seen	1
-get_mentioned	1
 VBZ_.
 engenders_.	1
 works_.	2
@@ -3328,15 +3244,13 @@ VBZ_,
 chases_,	1
 is_,	2
 RB_NN
+only_movie	1
 just_suicide	1
 NNS_TO
 comparisons_to	1
 ways_to	1
 VBP_``
 like_``	1
--LRB-_JJ
--LRB-_complete	1
--LRB-_pure	1
 VBZ_IN
 comes_across	1
 goes_without	1
@@ -3362,8 +3276,6 @@ greener_on	1
 better_than	1
 More_than	1
 more_like	1
-:_FW
-:_<br />	1
 WRB_JJ
 how_corrupt	1
 ,_CC
@@ -3383,16 +3295,6 @@ patrolman_who	2
 man_who	1
 ``_FW
 ``_Electra	1
-CC_NNS
-and_tons	1
-and_insecurities	1
-and_values	1
-and_detectives	1
-and_clothes	1
-and_people	1
-and_aspects	1
-and_movies	1
-and_trophies	1
 CC_FW
 or_70s	1
 VB_VBG
@@ -3428,18 +3330,6 @@ veterans_is	1
 IN_CC
 with_but	1
 on_either	1
-NNP_-LRB-
-Ryan_-LRB-	2
-ElectraGlides_-LRB-	1
-Mexico_-LRB-	1
-Blake_-LRB-	1
-Hall_-LRB-	1
-Ford_-LRB-	1
-Bush_-LRB-	1
-Chicago_-LRB-	1
-Wintergreen_-LRB-	1
-Riley_-LRB-	1
-JOE_-LRB-	1
 IN_,
 above_,	1
 on_,	1
@@ -3456,20 +3346,12 @@ cops_being	1
 frames_missing	1
 RP_RB
 out_well	1
--LRB-_PRP
--LRB-_I	1
 NNS_VBN
 times_overdone	1
 roles_played	1
 VBN_NNP
 harassed_VW	1
 named_John	1
-VB_.
-find_.	1
-abound_.	1
-forget_.	1
-enjoy_!	1
-enjoy_.	1
 NN_WP$
 cop_whose	1
 POS_JJ
@@ -3481,10 +3363,6 @@ SYM_VBZ
 *_owns	1
 ''_IN
 ''_for	1
--RRB-_IN
--RRB-_of	1
--RRB-_for	1
--RRB-_as	1
 VBD_VBN
 had_lived	1
 had_produced	1
@@ -3540,6 +3418,7 @@ associated_scene	1
 NNP_RB
 Wintergreen_desperately	1
 Ladd_ever	1
+Mexico_Just	1
 Guercio_never	1
 Blake_ever	1
 Arizona_instead	1
@@ -3547,43 +3426,20 @@ Weathergreen_eventually	1
 Riley_almost	1
 Weathergreen_actually	1
 Blake_simply	1
+Ford_hence	1
 NNP_VBP
+Harve_are	1
 Blake_make	1
 Ladd_are	1
 :_PRP
 :_it	1
-NNS_IN
-70s_through	1
-spaces_of	1
-aspects_of	1
-opinions_of	1
-tons_of	1
-detectives_with	1
-films_like	1
-films_in	1
-albums_for	1
-movies_because	1
-shots_of	2
-trophies_on	1
-performances_from	1
-members_in	1
-dresses_down	1
-members_of	3
-movies_in	1
-Mothers_of	1
-films_by	1
-roles_in	1
-directors_in	1
-extras_in	1
-years_ago	1
-parts_of	2
-arms_of	1
-fans_of	2
-films_of	1
-clothes_as	1
-colors_of	1
+:_JJ
+:_Intimidating	1
+:_Beautiful	1
+:_low	1
 NNP_VBZ
 Blue_is	1
+Weathergreen_knows	1
 Blake_does	1
 Kath_is	1
 Glide_sounds	1
@@ -3605,7 +3461,6 @@ Loughnane_is	1
 Weathergreen_carries	1
 John_sneaks	1
 Blake_gives	1
-<br />_knows	1
 Bush_plays	1
 Ryan_plays	1
 Wintergreen_comes	1
@@ -3668,24 +3523,16 @@ But_Robert	1
 but_John	1
 VBD_,
 was_,	1
-FW_VBN
-<br />_abused	1
 VBD_.
 did_.	2
 POS_.
 's_.	4
 NNP_VBG
 MGM_releasing	1
+JOE_starring	1
 Blake_getting	1
 POS_,
 's_,	1
--LRB-_IN
--LRB-_of	1
--LRB-_from	1
--LRB-_unlike	1
--LRB-_while	1
--LRB-_by	1
--LRB-_as	2
 NNP_POS
 America_'s	2
 Furillo_'s	1
@@ -3696,19 +3543,19 @@ Peckinpah_'s	2
 Chicago_'s	1
 Director_'s	1
 NN_RB
-<p>_Not	2
+film_really	1
 theme_here	1
 Everyone_else	1
 ex-Marine_now	1
 release_yet	1
-film_really	1
 performance_though	1
 film_either	1
+film_deliberately	1
 soundtrack_separately	1
 plot_somewhat	1
 landscape_not	1
 something_better	1
-film_deliberately	1
+study_unfortunately	1
 job_normally	1
 picture_really	1
 nothing_else	1
@@ -3741,8 +3588,6 @@ producing_such	1
 paying_special	1
 gleaming_black	1
 examining_American	1
--LRB-_-LRB-
--LRB-_-LRB-	2
 TO_``
 to_``	1
 NN_RP
@@ -3785,32 +3630,30 @@ provides_Wintergreen	1
 shows_Arizona	1
 plays_Weathergreen	1
 FW_NNP
-<br />_Weathergreen	1
-<br />_Blake	1
-<br />_Robert	3
-<br />_Wintergreen	1
+etc._Weathergreen	1
 :_.
 ..._.	1
 VBP_NN
 have_nothing	1
--LRB-_VBN
--LRB-_played	1
+NN_PRP$
+pace_his	1
+film_his	1
 JJ_''
 unknown_''	1
 normal_''	1
--LRB-_WP
--LRB-_who	1
 NN_FW
 maker_i	1
-detective_<br />	1
 VB_CC
+recognize_but	1
 persevere_and	1
 watch_and	1
 NNP_DT
-Billy_the	1
-NOT_a	1
-Blake_the	1
 Weathergreen_a	1
+NOT_a	1
+Billy_the	1
+Blake_the	1
+Wintergreen_a	1
+Hall_the	1
 JJS_NN
 best_thing	1
 best_line	1
@@ -3848,9 +3691,6 @@ examining_issues	1
 ,_Specials	1
 ,_pigs	1
 ,_nymphos	1
--LRB-_DT
--LRB-_the	2
--LRB-_a	1
 JJ_NN
 low_budget	1
 narcisstic_man	1
@@ -3871,6 +3711,7 @@ special_breed	1
 amazing_pay-off	1
 great_skill	1
 such_power	1
+moral_cop	1
 right_thing	1
 first_policeman	1
 languid_pace	1
@@ -3924,12 +3765,14 @@ recent_past	1
 final_shot	1
 campy_b-movie	1
 terrific_acting	1
-little_slice	1
+corrupt_world	1
 wonderful_character	1
+regular_crime	1
 tough_homicide	1
 Great_soundtrack	1
 special_saddle	1
 great_movie	1
+little_slice	1
 fascinating_lead	1
 small_size	1
 former_bassist	1
@@ -3937,6 +3780,7 @@ good_movie	1
 short_officer	1
 new_album	1
 Interesting_look	1
+hair-trigger_partner	1
 purchase/rent_decision	1
 dilapidated_shack	1
 beautiful_glory	1
@@ -3961,7 +3805,7 @@ late-night_TV	1
 self-indulgent_claptrap	1
 preposterous_resolution	1
 heartbroken_waitress	1
-hair-trigger_partner	1
+superb_job	1
 dead_seriousness	1
 stylistic_trilogy	1
 top_notch	1
@@ -3970,7 +3814,7 @@ late_guitar	1
 daring_cinema	1
 blu-ray_release	1
 great_acting	1
-superb_job	1
+iconic_interest	1
 full_deck	1
 American_film	1
 moral_ambiguity	1
@@ -3998,6 +3842,7 @@ cynical_view	1
 modern_western	1
 lonely_stretch	1
 honky-tonk_waitress	1
+heavy_price	1
 special_attention	1
 gorgeous_tracking	1
 wide-screen_DVD	1

@@ -26,8 +26,8 @@ Box_Set	1
 Tenchi_grow	1
 Tenchi_choose	1
 FW_DT
+;-RRB-_The	1
 LOVE_THE	1
-<br />_The	4
 CC_JJ
 and_shaky	1
 and_non-TENCHI	1
@@ -52,10 +52,8 @@ VBP_.
 ensue_.	1
 exist_.	1
 FW_NN
-<br />_All-in-all	1
+:-RRB-_Disk	1
 Tenchi_episode	1
-<br />_Couple	1
-<br />_Disk	2
 VBG_VBN
 being_scared	1
 being_released	1
@@ -121,23 +119,23 @@ what_'s	1
 who_wants	1
 who_seems	1
 what_is	1
--RRB-_,
--RRB-_,	2
--RRB-_.
--RRB-_.	3
 NNP_CC
 Piece_and	1
 Love_and	1
+Mihoshi_and	1
 Moon_and	1
 Universe_or	1
 Muyo_and	1
+Dad_but	1
 Sasami_and	1
+Tenchi_and	1
 Noike_and	1
+Anime_and	1
 Sammy_and	1
 Tokyo_or	1
 Time_and	1
 Death_and	1
-Tenchi_and	1
+Universe_and	1
 Yosho_or	1
 OVA_and	1
 NNP_CD
@@ -252,8 +250,8 @@ be_Pretty	2
 get_Ryoko	1
 love_Tenchi	1
 Remember_Ryoko	1
-FW_VB
-<br />_Remember	1
+NNS_NNP
+springs_Ryoko	1
 VBG_JJR
 looking_sexier	1
 VBD_JJ
@@ -269,8 +267,9 @@ seem_to	2
 want_to	2
 get_to	2
 fail_to	1
-RB_NNS
-even_novels	1
+PRP$_NNS
+their_hearts	1
+their_performances	1
 RB_NNP
 only_Ryoko	1
 Now_Tenchi	1
@@ -336,8 +335,8 @@ similar_to	1
 FW_NNS
 Muyo_OAVs	2
 manga_novels	1
-FW_NNP
-<br />_First	1
+MD_IN
+must_for	1
 NNP_''
 Girl_''	2
 Fingers_''	1
@@ -474,6 +473,7 @@ adventure_and	1
 development_and	1
 cave_but	2
 battle_but	1
+Z_and	1
 revenge_and	1
 price_and	1
 cave_and	1
@@ -490,6 +490,8 @@ Disk_2	1
 Disk_3	1
 DD_5.1	1
 disk_2	1
+SYM_NN
+*_Couple	1
 JJ_FW
 second_Tenchi	1
 DT_JJS
@@ -507,12 +509,11 @@ the_earlier	5
 the_older	1
 DT_WP
 those_who	2
--RRB-_WP
--RRB-_who	1
 NN_JJ
 episode_worth	1
-REAL_dramatic	1
 *_different	1
+REAL_dramatic	1
+direct-to-video_animated	1
 NNP_NNS
 Tenchi_returns	1
 Tenchi_fans	1
@@ -525,16 +526,18 @@ Cartoon_Network	1
 Ohki_OVA	1
 Girl_Anime	1
 No_Need	1
+Shoujo_Japanese	1
 The_Mihoshi	1
 SONG_!!	1
 Devil_Princess	1
 Tenchi_Universe	5
+Nobuyuki_Tenchi	1
 Biff_Standard	2
 Snow_Fairy	1
 Dragon_Ball	1
 THEME_SONG	1
 Pixy_Misa	1
-<p>_The	1
+System_Microsoft	1
 Lady_Tokimi	1
 Magic_Fingers	1
 Ultimate_Edition	1
@@ -548,6 +551,7 @@ Muyo_OVA	1
 Lesson_Learned	1
 Bill_Gates	2
 Petrea_Burchard	1
+Space_Tenchi	1
 Hitoshi_Okuda	1
 MISLEADING_INDEED	1
 Microsoft_Windows	1
@@ -557,7 +561,6 @@ Ryo-Ohki_OVA	1
 Universe_Series	1
 Muyo_Ryo-Ohki	1
 Goddess_Tokimi	1
-<p>_Recommmended	1
 Fairy_Sugar	1
 The_Sammy	1
 Tenchi_Forever	1
@@ -578,6 +581,7 @@ up_when	1
 VBN_CC
 seen_or	1
 distributed_and	1
+explained_but	1
 rejunvinated_and	1
 resolved_or	1
 VBN_TO
@@ -644,12 +648,6 @@ episodes_that	1
 productions_that	1
 CD_WRB
 2003_when	1
--LRB-_CC
--LRB-_but	1
--LRB-_and	2
-NNS_-LRB-
-characters_-LRB-	1
-episodes_-LRB-	1
 JJS_TO
 best_to	1
 RB_,
@@ -667,22 +665,25 @@ Apparently_,	1
 Sadly_,	1
 aside_,	2
 Well_,	2
-RBR_RB
-more_specifically	1
+RB_.
+not_.	2
+instead_.	1
+ago_.	1
+here_.	1
+properly_.	1
+again_.	1
+though_.	1
+too_!	1
+forth_.	1
+never_.	1
+over_.	1
+n't_.	1
+before_.	1
+well_.	1
 VBD_CC
 existed_or	1
 VBD_CD
 received_seven	1
-NNP_-RRB-
-Sugar_-RRB-	1
-Yosho_-RRB-	1
-Anime_-RRB-	1
-Sammy_-RRB-	1
-Dad_-RRB-	1
-Gates_-RRB-	1
-Windows_-RRB-	1
-Tokyo_-RRB-	1
-Forever_-RRB-	1
 CC_RB
 and_even	1
 But_first	1
@@ -702,9 +703,6 @@ WRB_PRP
 how_she	1
 where_they	1
 when_it	1
-CD_-RRB-
-10_-RRB-	1
-2_-RRB-	1
 :_IN
 -_at	1
 :_WDT
@@ -748,15 +746,11 @@ though_she	1
 of_us	1
 ''_.
 ''_.	1
-,_FW
-,_<br />	1
--RRB-_PRP
--RRB-_it	1
--RRB-_I	1
 TO_WP
 to_what	1
 :_NNP
 ..._Well	1
+..._First	1
 -_Box	1
 -_Ryoko	1
 PRP_VBD
@@ -840,9 +834,6 @@ She_falls	1
 it_'s	3
 WDT_EX
 which_there	1
-FW_PRP
-<br />_It	1
-<br />_I	4
 IN_,
 that_,	1
 of_,	1
@@ -890,6 +881,7 @@ but_is	1
 NN_WRB
 time_when	1
 NNP_PRP
+Tokyo_it	1
 Toonami_I	1
 CC_VBD
 and_said	1
@@ -931,6 +923,8 @@ special_.	1
 okay_.	1
 JJR_CD
 earlier_thirteen	1
+:_VB
+:_Remember	1
 VBN_IN
 addressed_in	1
 included_in	1
@@ -938,6 +932,7 @@ hinted_at	1
 lost_as	1
 left_with	1
 involved_with	1
+encountered_like	1
 used_so	1
 known_as	1
 reckoned_with	1
@@ -962,8 +957,6 @@ of_how	1
 of_where	1
 PRP$_VBG
 his_operating	1
--RRB-_VB
--RRB-_distract	1
 NN_NNS
 anime_productions	1
 inconsistancy_issues	1
@@ -997,8 +990,6 @@ for_younger	1
 IN_JJS
 for_most	1
 at_least	1
-._-RRB-
-._-RRB-	1
 PRP_WRB
 it_when	1
 :_DT
@@ -1076,16 +1067,17 @@ fairy_tale	1
 I_wont	1
 sentence_explanation	1
 dub_version	1
-software_titan	1
+recording_studio	1
 story_arc	1
 3D_computer	1
+Bill_umm	1
 *_sigh	1
 epic_danger	1
 umm_Biff	1
 series_special	1
 hanging_story	1
 OVA_boxset	1
-recording_studio	1
+software_titan	1
 video_animation	1
 sailor_moon	1
 art_form	1
@@ -1098,6 +1090,7 @@ anime_fan	1
 monopolist_software	1
 voice_acting	1
 character_development	1
+episode_Z	1
 story_line	2
 episode_continuation	1
 series_anyone	1
@@ -1120,9 +1113,6 @@ best_!	1
 ,_fascinating	1
 ,_EX
 ,_there	2
--RRB-_RB
--RRB-_instead	1
--RRB-_so	1
 DT_JJ
 a_thirteenth	1
 the_other	1
@@ -1306,10 +1296,12 @@ WP_PRP
 what_I	1
 what_it	1
 NN_VBZ
-series_progresses	1
+dialogue_is	1
 hand_is	1
+Biff_has	1
 plot_revolves	1
 show_'s	1
+series_progresses	1
 feature_is	1
 quality_is	1
 tape_is	1
@@ -1387,8 +1379,6 @@ if_there	1
 from_there	1
 PRP_RP
 it_out	1
-SYM_FW
-*_<br />	1
 JJ_``
 other_``	1
 infamous_``	1
@@ -1423,13 +1413,10 @@ take_it	1
 find_them	1
 Let_me	1
 get_me	1
-RB_VBP
-quickly_ensue	1
-still_remain	1
-probably_want	1
-just_want	1
-heavily_censor	1
-only_do	1
+PRP_DT
+him_the	1
+us_the	1
+me_a	1
 VBZ_VBN
 is_embarrassed	1
 's_reduced	1
@@ -1482,7 +1469,6 @@ not_spent	1
 just_expected	1
 first_came	1
 FW_IN
-<br />_If	1
 reveils_that	1
 NNS_NN
 returns_home	1
@@ -1513,10 +1499,6 @@ POS_NNS
 NNS_WP
 writers_who	1
 characters_who	1
--LRB-_VBZ
--LRB-_seems	1
--LRB-_VBN
--LRB-_known	1
 MD_RB
 ca_n't	3
 would_rather	1
@@ -1715,21 +1697,14 @@ not_be	1
 n't_get	2
 only_make	1
 n't_know	1
--RRB-_JJ
--RRB-_animated	1
 FW_FW
 Tenchi_Muyo	7
-:-RRB-_<br />	1
 Muyo_OAVs	1
 Tenchi_manga	1
 Tenchi_canon	1
 Yosho_reveils	1
-;-RRB-_<br />	1
-<br />_<br />	23
 ing_cabbit	1
 a_Tenchi	1
-<p>_In	1
-<p>_LOVE	1
 JJ_RB
 likely_not	1
 giddy_over	1
@@ -1742,10 +1717,6 @@ is_what	1
 ,_making	1
 ,_regarding	1
 ,_including	1
--RRB-_VBZ
--RRB-_has	1
--RRB-_is	1
--RRB-_forbids	1
 NNS_.
 hearts_.	1
 channels_.	1
@@ -1786,21 +1757,8 @@ fans_,	1
 translations_,	1
 ,_VBP
 ,_do	1
-RB_.
-not_.	2
-instead_.	1
-ago_.	1
-here_.	1
-properly_.	1
-again_.	1
-though_.	1
-too_!	1
-forth_.	1
-never_.	1
-over_.	1
-n't_.	1
-before_.	1
-well_.	1
+RBR_RB
+more_specifically	1
 VBD_NNS
 showed_cartoons	1
 generated_animations	1
@@ -1866,9 +1824,6 @@ one_of	5
 ''_and	1
 IN_WP
 of_what	1
--RRB-_CC
--RRB-_and	2
--RRB-_but	1
 VBG_PRP
 watching_it	2
 making_them	1
@@ -1888,6 +1843,7 @@ episode_I	1
 plant_they	1
 time_she	2
 something_you	1
+:D_I	1
 twist_he	1
 daughter_we	1
 VB_PRP$
@@ -1941,9 +1897,6 @@ have_seen	1
 have_skipped	1
 have_read	1
 have_satisfied	1
-VBN_-LRB-
-encountered_-LRB-	1
-explained_-LRB-	1
 VB_VBG
 Remember_thinking	2
 recommend_buying	1
@@ -1999,7 +1952,9 @@ POS_JJR
 !_''	1
 ._''	1
 NNP_JJ
+OVA_original	1
 Mihoshi_Special	1
+Standard_same	1
 NN_,
 episode_,	1
 action_,	1
@@ -2036,7 +1991,7 @@ bed_.	1
 industry_.	1
 heart_.	1
 episode_?	1
-story_.	1
+story_.	2
 wife_!	1
 video_!	1
 collection_.	1
@@ -2079,10 +2034,6 @@ which_is	3
 that_'s	1
 that_continues	1
 which_has	1
-NN_-LRB-
-Bill_-LRB-	1
-episode_-LRB-	1
-grandpa_-LRB-	1
 ''_VBD
 '_had	1
 CC_UH
@@ -2110,15 +2061,11 @@ VBG_RB
 telling_completely	1
 spanning_nearly	1
 looking_forward	1
-FW_JJ
-<br />_Misleading	1
 DT_.
 these_.	2
 all_.	1
 VBG_RP
 giving_away	1
-NNS_NNP
-springs_Ryoko	1
 RB_JJ
 even_present	1
 fairly_good	1
@@ -2217,28 +2164,25 @@ Seek_out	1
 ``_Magical	2
 PRP$_RBR
 my_more	1
-FW_:
-<br />_-	3
-<br />_...	1
 NNP_IN
 Princess_of	1
 Tenchi_that	1
+Stars_out	1
 Tenchi_in	2
 Journy_Through	1
 Ryoko_from	1
-Muyo_in	1
+Sugar_from	1
 Ryoko_in	1
 Need_for	1
 Kagato_from	1
 Screwed_over	1
 Tenchi_since	1
-Stars_out	1
+Muyo_in	1
 Recommmended_for	1
 Washu_as	1
 Ayeka_about	1
-PRP$_NNS
-their_hearts	1
-their_performances	1
+RB_NNS
+even_novels	1
 FW_.
 Muyo_!	4
 IN_VBG
@@ -2252,27 +2196,16 @@ of_waiting	1
 from_hurting	1
 from_beginning	1
 Without_giving	1
-POS_NN
-'_cast	1
-'s_mind	1
-'s_head	1
-'s_mother	1
-'s_voice	1
-'s_dream	1
-'s_hand	1
 ,_PRP
 ,_she	3
 ,_they	4
+,_It	1
 ,_you	1
 ,_it	4
 ,_I	7
 ,_he	1
 CC_JJR
 and_funnier	1
--LRB-_NNP
--LRB-_Japanese	1
--LRB-_Tenchi	2
--LRB-_Microsoft	1
 VBG_.
 buying_.	1
 getting_!	1
@@ -2295,7 +2228,7 @@ first_30	1
 entire_seven	1
 CD_,
 one_,	1
-2_,	1
+2_,	2
 CD_.
 5_!	1
 IN_MD
@@ -2304,6 +2237,7 @@ from_will	1
 VBN_NNP
 named_Kagato	1
 NNP_WP
+Gates_who	1
 Tenchi_who	1
 Ryoko_who	1
 Marshall_who	1
@@ -2311,16 +2245,14 @@ CD_:
 2002_/	1
 3_...	1
 one_--	1
-FW_CD
-<br />_5	1
-NN_-RRB-
-:D_-RRB-	1
-direct-to-video_-RRB-	1
-dialogue_-RRB-	1
-thing_-RRB-	1
-Biff_-RRB-	1
-story_-RRB-	1
-Z_-RRB-	1
+POS_NN
+'_cast	1
+'s_mind	1
+'s_head	1
+'s_mother	1
+'s_voice	1
+'s_dream	1
+'s_hand	1
 TO_NN
 to_writing	1
 IN_FW
@@ -2569,6 +2501,7 @@ Ayeka_,	2
 Amazon_,	1
 Gates_,	1
 Ball_,	1
+Forever_,	1
 Tokimi_,	1
 Ryo-Ohki_,	1
 Nobuyuki_,	1
@@ -2585,7 +2518,9 @@ Learned_.	1
 Kagato_!	1
 Tokimi_?	1
 Muyo_!	2
+Sammy_.	1
 Series_.	1
+Windows_.	1
 Universe_.	2
 Netflix_.	1
 Mihoshi_.	1
@@ -2604,10 +2539,13 @@ worth_mentioning	1
 odd_looking	1
 NNP_:
 Ryo-Ohki_-	1
-PRP_DT
-him_the	1
-us_the	1
-me_a	1
+RB_VBP
+quickly_ensue	1
+still_remain	1
+probably_want	1
+just_want	1
+heavily_censor	1
+only_do	1
 VBZ_.
 looses_.	1
 is_.	1
@@ -2624,9 +2562,6 @@ things_to	1
 fans_to	1
 keys_to	1
 installments_to	1
--LRB-_JJ
--LRB-_original	1
--LRB-_same	1
 JJ_JJ
 extra_funny	1
 climactic_sixth	1
@@ -2644,8 +2579,8 @@ VBN_PRP
 spaced_it	1
 :_FW
 -_ing	1
-..._<br />	1
-:_<br />	2
+CD_VB
+10_distract	1
 ,_CC
 ,_nor	1
 ,_and	14
@@ -2660,6 +2595,7 @@ earlier_stories	2
 earlier_productions	1
 earlier_episodes	2
 NN_WP
+grandpa_who	1
 prankster_who	1
 VBP_WP
 have_what	1
@@ -2696,16 +2632,6 @@ produced_her	1
 was_their	1
 IN_CC
 before_but	1
-NNP_-LRB-
-Sugar_-LRB-	1
-OVA_-LRB-	1
-Universe_-LRB-	1
-Space_-LRB-	1
-System_-LRB-	1
-Standard_-LRB-	2
-Mihoshi_-LRB-	1
-Nobuyuki_-LRB-	1
-Shoujo_-LRB-	1
 JJS_IN
 least_on	1
 most_of	2
@@ -2721,10 +2647,8 @@ RP_RB
 off_as	1
 out_too	1
 up_just	1
--LRB-_PRP
--LRB-_It	1
--LRB-_I	1
 NNS_VBN
+episodes_known	1
 shenanigans_associated	1
 episodes_included	1
 VBP_NNS
@@ -2736,8 +2660,6 @@ mean_Biff	1
 like_Tenchi	1
 VBP_RP
 turn_out	1
-FW_RB
-<br />_Also	1
 VBG_WP
 missing_what	1
 wondering_what	1
@@ -2791,8 +2713,9 @@ grown_love	1
 awaited_completion	1
 NNP_RB
 Tenchi_finally	1
-Mihoshi_really	1
 Ryoko_back	1
+Mihoshi_really	1
+Sugar_instead	1
 Star_then	1
 Network_actually	1
 Mihoshi_now	1
@@ -2801,6 +2724,7 @@ Below_are	1
 :_PRP
 --_she	1
 NNS_IN
+characters_of	1
 voices_of	1
 examples_of	1
 channels_than	1
@@ -2842,11 +2766,13 @@ Tenchi_is	1
 Marshall_has	1
 Yosho_shows	1
 Ryoko_is	2
+Standard_seems	1
 Sammy_is	1
 Misa_gets	1
 OVA_is	1
 Universe_is	1
 Kagato_shows	1
+Yosho_forbids	1
 VB_JJ
 be_honest	1
 go_giddy	1
@@ -2914,10 +2840,6 @@ NNP_VBN
 Ryoko_rejunvinated	1
 WP_NNP
 what_Tenchi	1
--LRB-_IN
--LRB-_from	1
--LRB-_of	1
--LRB-_like	1
 NNP_POS
 OAV_'s	1
 Sasami_'s	2
@@ -2931,6 +2853,7 @@ material_here	1
 episode_basically	1
 DVD_first	1
 episode_before	1
+thing_so	1
 character_so	1
 DVD_only	1
 episode_especially	1
@@ -2941,6 +2864,8 @@ while_ago	1
 route_instead	1
 sidekick_ever	1
 Pioneer/Geneon_recently	1
+:_:
+:_-	1
 JJ_IN
 recaps_from	1
 other_than	1
@@ -2994,12 +2919,8 @@ does_Tenchi	1
 is_VERY	1
 is_Yosho	1
 meets_Ryoko	1
-MD_IN
-must_for	1
 JJ_''
 Special_''	1
--LRB-_WP
--LRB-_who	1
 VB_CC
 go_and	1
 JJS_NN
@@ -3014,9 +2935,6 @@ out_about	1
 down_by	1
 VBN_NNS
 satisfied_fans	1
--LRB-_NN
--LRB-_Z	1
--LRB-_umm	1
 ,_NNP
 ,_Ryoko	1
 ,_Washu	1

@@ -12,8 +12,6 @@ NN_WRB
 film_when	1
 VB_WP
 rehash_what	1
--LRB-_CC
--LRB-_or	1
 NNP_IN
 King_of	1
 NNS_RB
@@ -52,8 +50,6 @@ RB_VBP
 above_have	1
 DT_IN
 some_of	2
--LRB-_NNP
--LRB-_BTW	1
 PRP_IN
 me_that	1
 him_with	1
@@ -146,9 +142,8 @@ he_is	1
 it_is	1
 it_continues	1
 HE_IS	1
--RRB-_.
--RRB-_.	1
 NNS_MD
+gypsies_will	1
 customs_might	1
 VBN_''
 outdated_''	1
@@ -218,8 +213,6 @@ Come_on	1
 go_with	1
 VBG_NN
 regarding_Gypsy	1
--LRB-_UH
--LRB-_Oh	1
 JJ_PRP
 revealing_it	1
 CC_VBN
@@ -244,8 +237,6 @@ done_that	1
 put_on	1
 VBZ_:
 has_-	1
-PRP_DT
-it_the	1
 VBD_JJ
 found_real	1
 were_many	1
@@ -273,8 +264,6 @@ UH_RB
 Oh_well	1
 NN_NNS
 ANYTHING_ABOUT	1
--RRB-_MD
--RRB-_will	1
 NNPS_VBP
 Gypsies_do	1
 NN_NNP
@@ -295,6 +284,8 @@ information_he	1
 everytime_I	1
 IN_RB
 along_nicely	1
+NNP_CC
+DuVall_or	1
 :_DT
 -_some	2
 :_the	2
@@ -321,14 +312,11 @@ or_producer	1
 and_delight	1
 WRB_NNP
 How_Duvell	1
-NNP_-LRB-
-DuVall_-LRB-	1
-Roma_-LRB-	1
+VBP_VBN
+are_forgotten	1
 NNP_VBZ
 Duvell_does	1
 IT_IS	1
--LRB-_NNS
--LRB-_gypsies	1
 JJS_IN
 most_of	1
 NNPS_TO
@@ -347,9 +335,6 @@ EX_VBZ
 there_is	1
 UH_.
 Nope_.	1
-._-RRB-
-!_-RRB-	1
-?_-RRB-	1
 VBP_DT
 think_the	1
 feel_this	1
@@ -357,8 +342,6 @@ NNS_RP
 things_out	1
 VBZ_RB
 is_so	1
-NNS_-RRB-
-gypsies_-RRB-	1
 NN_NN
 Gypsy_Life	1
 Gypsy_life	1
@@ -498,11 +481,10 @@ obvious_that	1
 much_about	1
 DT_.
 both_.	1
+this_.	1
 IN_EX
 because_there	1
 that_there	1
-VBP_VBN
-are_forgotten	1
 RB_RB
 as_well	1
 VBZ_DT
@@ -514,6 +496,8 @@ VBZ_NNP
 IS_NOT	1
 does_NOT	1
 IS_TODAY	1
+NNP_NNS
+Roma_gypsies	1
 NNP_NNP
 New_York	2
 Mr._DuVall	1
@@ -546,8 +530,8 @@ VB_PRP
 do_you	1
 tell_him	1
 get_it	1
-DT_-RRB-
-this_-RRB-	1
+PRP_DT
+it_the	1
 VBZ_VBN
 has_been	2
 PRP_NNP

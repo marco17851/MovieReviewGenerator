@@ -87,18 +87,12 @@ DT_NNP_NNP
 the_Far_West	1
 a_John_Wayne	1
 the_Sierra_Nevada	1
-JJ_-RRB-_NN
-musical_-RRB-_adventure	1
 WDT_VBD_VBN
 that_were_involved	1
-DT_JJ_-LRB-
-this_well-made_-LRB-	1
 NN_WDT_VBZ
 placement_which_makes	1
 VBZ_IN_VBN
 has_since_learned	1
-CC_JJ_-RRB-
-and_musical_-RRB-	1
 NN_NN_,
 train_ambush_,	1
 NNP_NNP_POS
@@ -200,8 +194,6 @@ NNS_RB_,
 Years_later_,	1
 RB_,_PRP
 later_,_he	1
--LRB-_CC_JJ
--LRB-_and_musical	1
 IN_CD_IN
 over_70_of	1
 NNP_NNP_NN
@@ -219,8 +211,10 @@ Robert_Bradbury_,	1
 Glenn_Strange_,	1
 NNP_NNP_.
 Sierra_Nevada_.	1
-JJ_-LRB-_CC
-well-made_-LRB-_and	1
+DT_JJ_CC
+this_well-made_and	1
+DT_VBN_IN
+the_dubbed_in	1
 NN_''_WP
 long-loss-brother_'_who	1
 FW_NNS_TO
@@ -247,6 +241,8 @@ CC_PRP_VBD
 &_it_allowed	1
 JJ_CC_,
 sparse_and_,	1
+JJ_CC_JJ
+well-made_and_musical	1
 VBN_NNS_JJ
 defined_personalities_such	1
 NN_IN_WDT
@@ -340,8 +336,6 @@ PRP$_RB_JJ
 his_typically_short	1
 IN_DT_NNS
 from_the_outlaws	1
-DT_VBN_IN
-the_dubbed_in	1
 CD_IN_PRP$
 70_of_his	1
 ,_IN_DT
@@ -406,6 +400,8 @@ NN_NNS_WDT
 outlaw_bands_that	1
 NN_NNS_,
 stunt_performers_,	1
+JJ_NN_VBN
+musical_adventure_filmed	1
 NNS_VBZ_RB
 Westerns_dates_back	1
 WP_VBZ_IN
@@ -433,6 +429,8 @@ he_is_the	1
 It_is_the	1
 NN_JJ_IN
 gang_responsible_for	1
+CC_JJ_NN
+and_musical_adventure	1
 VBZ_CC_VBZ
 directs_and_edits	1
 PRP_VBP_DT
@@ -456,8 +454,6 @@ NNP_,_CC
 Jr._,_and	1
 Strange_,_and	1
 Bradbury_,_and	1
--RRB-_NN_VBN
--RRB-_adventure_filmed	1
 NN_VBZ_RB
 voice_is_definitely	1
 RB_VBN_NN

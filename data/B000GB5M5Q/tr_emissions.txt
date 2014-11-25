@@ -11,9 +11,6 @@ VBP_DT_NN
 take_a_ski	1
 RB_,_PRP
 Overall_,_I	1
-FW_NNP_POS
-<br />_Foster_'s	1
-<br />_Dexter_'s	1
 IN_NNP_NNPS
 For_Imaginary_Friends	1
 POS_NN_VBZ
@@ -24,14 +21,8 @@ NN_IN_JJ
 pair_of_latex	1
 JJ_,_PDT
 wrong_,_all	1
-FW_FW_NNP
-<br />_<br />_Ed	1
-<br />_<br />_Dexter	1
-<br />_<br />_Camp	1
-<br />_<br />_My	1
-<br />_<br />_Billy	1
-<br />_<br />_Foster	1
-<br />_<br />_Johnny	1
+IN_IN_NNP
+In_Like_Ed	1
 VBZ_RB_JJ
 knows_too_much	1
 RP_IN_JJS
@@ -77,6 +68,8 @@ the_time_to	1
 DT_NN_VBD
 a_couple_were	1
 the_product_was	1
+RB_WRB_NNS
+blinking_where_commericals	1
 DT_NN_VBZ
 The_DVD_is	1
 This_misconception_leads	1
@@ -95,14 +88,10 @@ Snowman_decides_to	1
 misconception_leads_to	1
 VBD_VBG_:
 were_expecting_-	1
-FW_NNP_,
-<br />_Ed_,	1
 NN_NNP_:
 n_Eddy_:	1
 VBD_RB_WP
 was_not_what	1
--RRB-_WRB_NNS
--RRB-_where_commericals	1
 CC_RB_RB
 but_not_so	1
 JJS_NN_RB
@@ -114,8 +103,6 @@ to_the_Himalayas	1
 DT_``_NNP
 The_``_Ed	1
 The_``_Camp	1
-FW_NNPS_NNP
-<br />_Kids_Next	1
 VBP_DT_JJ
 are_the_only	1
 CC_DT_JJ
@@ -132,20 +119,10 @@ on_X-mas_.	1
 NN_NNP_''
 Mom_Cartoon_''	1
 n_Eddy_''	1
-NNP_NNP_''
-Camp_Lazlo_''	1
-Save_Christmas_''	1
-Store_Wars_''	1
-Operation_N.A.U.G.H.T.Y._''	1
-Next_Door_''	1
-Big_Butt_''	1
-Lost_Claus_''	1
 DT_NNP_:
 a_Monkey_:	1
 IN_NNS_:
 on_bithdays_...	1
-IN_IN_NNP
-In_Like_Ed	1
 DT_``_NN
 the_``_in-crowd	1
 JJ_CD_NNS
@@ -161,26 +138,25 @@ I_enjoyed_this	1
 I_enjoyed_all	1
 VBN_NNP_CC
 involved_Christmas_and	1
+:_NN_DT
+:_Courage_the	1
 NNS_:_IN
 bithdays_..._so	1
 fights_-_that	1
-DT_NNS_VBD
-the_episodes_were	1
+DT_NNS_IN
+the_presents_in	1
+the_shows_on	1
 VBN_IN_DT
 inserted_in_the	1
 frozen_in_a	1
 conducted_by_the	1
 turned_into_a	1
-FW_NNP_NNP
-<br />_Johnny_Bravo	1
-<br />_Camp_Lazlo	1
-<br />_My_Gym	1
+RB_VBN_RB
+rarely_shown_anymore	1
 VBZ_VBG_JJ
 is_suffering_global	1
 VBP_NNP_CC
 see_Lazlo_and	1
--LRB-_JJ_RB
--LRB-_heavy_blinking	1
 NN_JJ_IN
 birthday_present_for	1
 NN_POS_NN
@@ -211,8 +187,6 @@ CD_''_VBZ
 3_''_is	1
 JJS_CD_IN
 least_one_of	1
-JJ_NNS_-LRB-
-minor_distractions_-LRB-	1
 IN_JJS_CD
 at_least_one	1
 POS_NN_''
@@ -300,6 +274,8 @@ NN_DT_JJ
 Courage_the_Cowardly	1
 VBG_IN_PRP
 thinking_that_he	1
+JJ_NNS_JJ
+minor_distractions_heavy	1
 DT_NNS_.
 the_mountains_.	1
 RB_JJ_.
@@ -322,8 +298,14 @@ POS_JJ_NNS
 's_polar_classes	1
 PRP_MD_RB
 They_'ll_probably	1
-FW_NNP_CC
-<br />_Billy_and	1
+NNP_NNP_''
+Camp_Lazlo_''	1
+Save_Christmas_''	1
+Store_Wars_''	1
+Operation_N.A.U.G.H.T.Y._''	1
+Next_Door_''	1
+Big_Butt_''	1
+Lost_Claus_''	1
 ``_DT_NN
 ``_A_Mom	1
 VB_VBN_IN
@@ -333,9 +315,6 @@ be_inserted_in	1
 -_that_'s	1
 RB_CD_IN
 Only_three_of	1
-FW_PRP_VBP
-<br />_I_Am	1
-<br />_I_'m	1
 NNS_''_:
 Kids_''_-	1
 DT_NN_NN
@@ -345,11 +324,11 @@ JJ_NNS_CC
 young_heroes_and	1
 IN_VBG_PDT
 by_taking_all	1
-NN_:_FW
-following_:_<br />	1
 VBN_IN_NNS
 based_on_bithdays	1
 based_on_X-mas	1
+VBZ_:_NNP
+has_:_Camp	1
 NN_NNS_CC
 christmas_episodes_but	1
 VBN_IN_NNP
@@ -453,13 +432,12 @@ NN_,_VBP
 DVD_,_see	1
 CC_NNP_''
 &_Mandy_''	1
-NNP_NNP_IN
-Delightful_Children_from	1
-Grim_Reaper_as	1
 ``_DT_JJ
 ``_The_Grim	1
-TO_VB_RP
-to_throw_in	1
+:_NNP_NNP
+-_Jake_Spidermonkey	1
+:_Camp_Lazlo	1
+-_Paranormalists_Weasel	1
 :_``_NN
 :_``_Snowman	1
 VB_IN_DT
@@ -514,8 +492,6 @@ CD_JJ_NNS
 two_young_heroes	1
 VB_DT_JJ
 make_a_new	1
-RB_VBN_RB
-rarely_shown_anymore	1
 RB_VB_PRP
 n't_get_me	1
 RB_RB_JJ
@@ -550,6 +526,8 @@ of_the_following	1
 as_a_lot	1
 DT_NNS_MD
 the_cartoons_would	1
+NN_:_NN
+following_:_Courage	1
 :_``_JJ
 :_``_Cool	1
 ''_:_NNP
@@ -576,8 +554,8 @@ Partner_'s_a	1
 CD_IN_DT
 three_of_the	1
 one_of_the	1
-PRP_RP_VBG
-him_out_thinking	1
+:_DT_JJS
+-_The_greatest	1
 NN_NNP_NNP
 creature_Big_Butt	1
 CN_Halloween_Volume	1
@@ -601,10 +579,12 @@ Big_Butt_.	1
 Madame_Foster_.	1
 NNP_IN_NN
 Johnny_on_Ice	1
-MD_RB_VB
-'ll_probably_save	1
+TO_VB_DT
+to_make_a	1
 TO_NN_VBZ
 to_date_features	1
+JJ_RB_WRB
+heavy_blinking_where	1
 IN_``_NN
 Unlike_``_CN	1
 :_NNP_RB
@@ -616,12 +596,10 @@ probably_the_best	1
 NNP_NNPS_''
 Imaginary_Friends_''	1
 Snow_Beans_''	1
-FW_FW_NN
-<br />_<br />_Courage	1
 VBZ_NN_NN
 goes_holiday_shopping	1
-RB_PRP_MD
-Maybe_they_ought	1
+PRP_TO_VB
+you_to_believe	1
 IN_NNP_''
 Like_Ed_''	1
 DT_JJ_NNS
@@ -631,8 +609,6 @@ NNP_NN_NNP
 Edd_n_Eddy	2
 CC_NNS_:
 and_fights_-	1
-RB_-RRB-_WRB
-blinking_-RRB-_where	1
 VBD_RB_VB
 did_n't_fit	1
 VB_NN_NNS
@@ -673,9 +649,8 @@ On_the_good	1
 of_the_elusive	1
 for_the_perfect	1
 For_the_first	1
-DT_NNS_IN
-the_presents_in	1
-the_shows_on	1
+PRP_RP_VBG
+him_out_thinking	1
 NNS_VBP_VBN
 episodes_are_based	1
 :_IN_DT
@@ -736,11 +711,11 @@ NN_''_IN
 in-crowd_''_at	1
 VB_IN_NN
 do_with_anything	1
-FW_NN_DT
-<br />_Courage_the	1
-:_NNP_NNP
--_Jake_Spidermonkey	1
--_Paranormalists_Weasel	1
+NNP_NNP_IN
+Delightful_Children_from	1
+Grim_Reaper_as	1
+TO_VB_RP
+to_throw_in	1
 JJ_NN_CC
 excellent_condition_and	1
 ''_NNS_VBP
@@ -813,6 +788,8 @@ A_Mom_Cartoon	1
 ''_,_``	1
 TO_VB_NNP
 to_ruin_Christmas	1
+MD_RB_VB
+'ll_probably_save	1
 JJ_NN_:
 new_home_...	1
 Cowardly_Dog_:	1
@@ -851,6 +828,8 @@ IN_DT_``
 of_the_``	1
 DT_IN_DT
 all_of_the	1
+NNS_JJ_RB
+distractions_heavy_blinking	1
 NN_CC_NNS
 shopping_and_fights	1
 VBP_VBN_IN
@@ -881,10 +860,6 @@ NN_,_VBZ
 right_,_FIGHTS	1
 VBP_NNP_WP
 rescue_Santa_who	1
-FW_PRP_MD
-<br />_They_'ll	1
-TO_VB_DT
-to_make_a	1
 ``_NNP_NNP
 ``_Store_Wars	1
 ``_Operation_N.A.U.G.H.T.Y.	1
@@ -894,8 +869,6 @@ TO_DT_JJ
 to_a_covert	1
 RB_VBD_RB
 definitely_was_not	1
-:_FW_FW
-:_<br />_<br />	2
 NN_NN_IN
 ski_trip_in	1
 ,_NNP_NN
@@ -907,8 +880,6 @@ chunk_of_ice	1
 time_on_DVD	1
 CD_''_,
 3_''_,	1
-NNS_-LRB-_JJ
-distractions_-LRB-_heavy	1
 PRP_VBP_VBN
 I_'m_surprised	1
 VBN_IN_JJ
@@ -936,8 +907,8 @@ shows_on_this	2
 presents_in_the	1
 :_IN_``
 ..._so_``	1
-PRP_TO_VB
-you_to_believe	1
+RB_PRP_MD
+Maybe_they_ought	1
 IN_NNP_NNP
 for_Madame_Foster	1
 as_Cartoon_Network	1
@@ -952,9 +923,6 @@ IN_WP_NNS
 at_what_episodes	1
 :_NNP_POS
 -_Dexter_'s	1
-FW_FW_PRP
-<br />_<br />_I	2
-<br />_<br />_They	1
 CC_``_NNP
 and_``_Codename	1
 and_``_Foster	1
@@ -970,8 +938,6 @@ IN_PRP_VBZ
 that_he_'s	1
 DT_NNPS_IN
 the_Himalayas_in	1
-:_DT_JJS
--_The_greatest	1
 IN_PRP_VBP
 as_they_search	1
 as_they_take	1
@@ -981,14 +947,14 @@ ruin_Christmas_by	1
 NN_''_:
 Revenge_''_-	1
 Ice_''_-	1
+DT_NNS_VBD
+the_episodes_were	1
 NN_IN_NNS
 selection_of_programs	1
 POS_NNP_NN
 's_Christmas_special	1
 VBG_:_VBZ
 expecting_-_christmas	1
-VBZ_:_FW
-has_:_<br />	1
 VBP_NNP_:
 Am_Weasel_:	1
 CC_PRP$_JJ
@@ -999,14 +965,10 @@ and_his_fellow	1
 ,_``_A	1
 IN_NNS_VBD
 of_programs_did	1
-JJ_RB_-RRB-
-heavy_blinking_-RRB-	1
 VBZ_PRP_MD
 christmas_you_would	1
 NNS_VBD_TO
 commericals_were_to	1
-FW_FW_NNPS
-<br />_<br />_Kids	1
 NNP_CD_VBG
 Christmas_3_leading	1
 ,_DT_NN

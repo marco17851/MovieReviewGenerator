@@ -36,8 +36,6 @@ make_something_funny	1
 do_something_different	1
 ,_IN_PRP$
 ,_with_his	1
-FW_FW_NNP
-<br />_<br />_No	1
 NNS_IN_VBG
 5-year-olds_by_sending	1
 WP_VBD_DT
@@ -67,8 +65,6 @@ II_-_I	1
 CD_VBZ_RB
 three_is_n't	1
 one_is_n't	1
-NNP_-RRB-_CC
-Lucas_-RRB-_and	1
 NN_RB_VBD
 result_just_was	1
 murphy_reputedly_turned	1
@@ -84,14 +80,8 @@ man_he_met	1
 thing_I_liked	1
 NN_RB_VBN
 nobody_even_bothered	1
-DT_JJ_CC
-the_slick_and	1
-the_tenacious_but	1
-the_top_but	1
-the_irascible_and	1
-this_third_and	1
-a_4th_and	1
-The_2nd_&	1
+:_VBN_IN
+-_owned_by	1
 ,_IN_``
 ,_after_``	1
 RB_,_NN
@@ -231,6 +221,8 @@ VBP_``_NNP
 think_``_Beverly	1
 NNPS_,_VBG
 Brothers_,_Coming	1
+VBG_NN_,
+starring_debut_,	1
 VBD_VBG_.
 was_annoying_?	1
 VBD_VBN_IN
@@ -264,6 +256,8 @@ DT_CC_VBN
 all_but_gone	1
 VBP_NNP_VBD
 figure_Paramount_wanted	1
+''_JJ_JJ
+''_cute_little	1
 VBD_,_CC
 went_,_and	1
 IN_NN_NN
@@ -302,8 +296,6 @@ CC_EX_VBP
 but_there_are	1
 NN_NNP_''
 cop_III_''	1
-RB_JJ_-RRB-
-uncharacteristicly_angry_-RRB-	1
 PRP$_NN_NN
 his_mater_plan	1
 his_trademark_humour	1
@@ -329,6 +321,8 @@ of_the_3	1
 of_the_1	1
 WDT_VBD_PRP$
 that_annoyed_his	1
+''_RB_CD
+''_definitely_one	1
 PRP_VBD_PRP
 I_gave_it	1
 :_CC_NNP
@@ -339,8 +333,8 @@ RB_VBN_CC
 now_retired_and	1
 WDT_VBZ_NNP
 that_makes_Hector	1
-RB_VBN_CD
-really_disliked_one	1
+CC_JJ_CC
+both_far-fetched_and	1
 EX_VBZ_CD
 There_is_one	1
 VBN_NNP_NNP
@@ -371,8 +365,12 @@ VBD_TO_NNS
 came_to_theatres	1
 NNS_VBP_DT
 credits_include_THE	1
-VBD_NNS_IN
-got_roles_from	1
+,_CC_IN
+,_and_that	1
+,_but_with	1
+,_but_If	1
+,_but_that	1
+,_and_for	1
 NNPS_NN_VBD
 HILLS_COP_did	1
 NN_CC_FW
@@ -396,15 +394,12 @@ DT_VBG_NN
 the_malfunctioning_park	1
 PRP_NN_,
 you_laugh_,	1
-NNP_IN_CC
-Murphy_before_and	1
+PRP_NN_.
+you_laugh_.	1
 IN_VBG_PDT
 about_interfacing_all	1
-DT_NN_-RRB-
-a_waste_-RRB-	1
-the_beginning_-RRB-	1
-PRP_NN_-RRB-
-you_laugh_-RRB-	1
+PRP$_NN_WP
+his_replacement_who	1
 VBD_PRP_,
 shot_him_,	1
 loved_it_,	1
@@ -434,16 +429,12 @@ love_here_.	1
 do_not_!	1
 VBP_RB_,
 hope_not_,	1
--RRB-_NNS_NN
--RRB-_beggars_belief	1
 RP_DT_.
 off_that_!	1
 WP_MD_VB
 what_would_be	1
-IN_NNP_IN
-with_Murphy_before	1
-from_Detroit_in	1
-of_Operations_for	1
+PRP_PRP_VBD
+it_he_used	1
 RB_RB_RB
 just_not_as	1
 ,_CD_IN
@@ -452,8 +443,6 @@ TO_VB_WP
 to_do_what	1
 VBN_IN_NNS
 played_for_laughs	1
-JJ_,_-LRB-
-funny_,_-LRB-	1
 PRP_VBP_JJ
 you_'re_glad	1
 I_'m_sure	2
@@ -463,13 +452,10 @@ but_with_nowhere	1
 &_over_again	1
 NN_RP_.
 hair_out_.	1
--RRB-_VBD_DT
--RRB-_was_a	1
+CD_,_IN
+two_,_because	1
 VB_RB_CC
 be_there_and	1
-FW_DT_JJ
-<br />_The_first	1
-<br />_The_only	1
 PRP_NN_DT
 you_mess_this	1
 CC_VB_PRP
@@ -477,8 +463,6 @@ and_rent_them	1
 VB_TO_NNP
 lead_to_Southern	1
 move_to_Arizona	1
-NN_DT_JJ
-park_a_different	1
 VBN_NNP_WRB
 called_Wonderworld_where	1
 WRB_JJ_VBZ
@@ -592,9 +576,8 @@ movie_did_n't	1
 JJ_IN_NN
 full_of_something	1
 forgettable_from_start	1
-NNP_-RRB-_NNS
-Murphy_-RRB-_traces	1
-Murphy_-RRB-_witnesses	1
+VBZ_VB_VBZ
+does_know_is	1
 ``_DT_NNP
 ``_The_Blues	1
 POS_NNS_.
@@ -616,12 +599,8 @@ that_made_me	1
 NNP_CC_RB
 Disneyworld_or_even	1
 Little_or_even	1
-NN_''_-LRB-
-man_''_-LRB-	1
 ,_PRP$_NN
 ,_its_sequel	1
-:_VBN_IN
--_owned_by	1
 VBD_TO_VB
 wanted_to_be	1
 decided_to_go	1
@@ -701,17 +680,12 @@ RB_JJ_,
 as_good_,	1
 very_lazy_,	1
 rather_high_,	1
+uncharacteristicly_angry_,	1
 just_Wonderworld_,	1
-RB_JJ_.
-entirely_different_.	1
-too_babyish_.	1
-n't_funny_.	1
-woefully_half-baked_.	1
-pretty_good_.	1
-quite_mediocre_.	1
-remotely_suspenseful_.	1
-pretty_unnecessary_.	1
-still_great_.	1
+DT_NNS_,
+some_allies_,	1
+the_theatres_,	1
+some_levels_,	1
 PRP_,_PRP
 them_,_I	1
 it_,_it	1
@@ -721,9 +695,8 @@ WP_VBD_IN
 Who_forgot_that	1
 who_worked_with	1
 who_worked_for	1
-IN_NN_-RRB-
-that_talk_-RRB-	1
-of_dialogue_-RRB-	1
+NN_WRB_JJ
+trilogy_where_nonstop	1
 DT_NNS_:
 the_baddies_-	1
 RB_,_VBG
@@ -775,8 +748,8 @@ meaning_no_silly	1
 -_Axel_getting	1
 VBN_NN_CD
 got_herpesemplex_10	1
-CC_NNP_CC
-or_Disneyworld_or	1
+VBZ_:_NNP
+stinks_:_No	1
 RB_VBN_PRP
 never_seen_them	1
 just_sunk_it	1
@@ -797,26 +770,22 @@ JJ_PRP$_NN
 sure_their_reason	1
 IN_WDT_NNP
 in_which_Detroit	1
-NNP_NN_-LRB-
-Rosewood_character_-LRB-	1
 NN_NN_WDT
 dont_care_what	1
 amusment_park_which	1
 COP_installment_that	1
 park_music_that	1
--RRB-_CC_NNP
--RRB-_and_Rosewood	1
-NN_RB_RB
-action_as_seamlessly	1
-film_as_well	1
-cop_always_ahead	1
-area_as_well	1
-Everyone_pretty_much	1
+RB_VBN_VBZ
+so_hated_is	1
+VBP_NN_CD
+compare_part_three	1
 NNS_VBP_NN
 actors_are_wastedbecause	1
 VBG_NNP_TO
 sending_Axel_to	1
 leaving_Axel_to	1
+''_,_CC
+''_,_and	1
 WRB_MD_PRP
 how_could_you	1
 VBP_NNS_CC
@@ -828,35 +797,37 @@ WRB_JJ_NN
 where_nonstop_laughter	1
 NN_WP_PRP$
 grasp_what_his	1
+''_IN_JJ
+''_with_only	1
 CD_NN_NNS
 2_line_parts	1
 VBG_CD_NNS
 including_48_HRS	1
 JJ_NN_NN
-same_motherloving_jackwagon	1
-favorite_Cop_movie	1
-huge_collection_od	1
-first_bhc_film	1
-promosing_action_comedy	1
-famous_theme_park	1
 excellent_action_sequence	1
-same_wondeful_director	1
-regrettable_turning_point	1
-various_law_enforcement	1
-GREAT_AMERICA_amusement	1
+wild_spirit_ala	1
 annoying_theme_song	1
-amusing_plot_device	1
-last_two.I_didnt	1
-stupid_theme_song	1
 local_rental_store	1
 good_action_director	1
+first_bhc_film	1
+favorite_Cop_movie	1
 major_car_theft	1
-real_amusement_park	1
+promosing_action_comedy	1
 old_cop_buddy	1
+same_wondeful_director	1
+regrettable_turning_point	1
+GREAT_AMERICA_amusement	1
+amusing_plot_device	1
+stupid_theme_song	1
+real_amusement_park	1
+huge_collection_od	1
+operational_command_JSIOC	1
+same_motherloving_jackwagon	1
+famous_theme_park	1
+various_law_enforcement	1
+last_two.I_didnt	1
 JJ_NNS_WDT
 beloved_movies_that	1
-CD_-RRB-_CD
-1994_-RRB-_Ten	1
 CC_CD_.
 &_2_.	1
 and_II_.	1
@@ -866,9 +837,8 @@ and_II_,	1
 ,_''_``	1
 CC_IN_NN
 and_of_course	2
-''_-LRB-_JJ
-''_-LRB-_cute	1
-''_-LRB-_interesting	1
+NNP_''_IN
+Brooklyn_''_with	1
 PRP$_JJ_NNS
 my_favorite_actors	1
 his_undisputed_talents	1
@@ -883,14 +853,8 @@ NN_JJ_CC
 something_different_and	1
 NNP_DT_NNP
 NOT_the_Axel	1
-JJ_NNS_-RRB-
-excellent_scenes_-RRB-	1
--RRB-_,_PRP$
--RRB-_,_its	1
 ``_DT_CD
 ``_Another_48	1
-RP_._-RRB-
-up_?_-RRB-	1
 ,_NN_VBD
 ,_R_rated	1
 IN_NNP_MD
@@ -910,20 +874,16 @@ WP_VBD_PRP$
 who_killed_his	1
 ''_CC_RB
 ''_and_surprisingly	1
--LRB-_IN_NNP
--LRB-_like_George	1
 ''_IN_DT
 ''_in_a	1
 CC_DT_,
 And_no_,	1
-CD_CD_NNS
-thirty_five_dollars	1
+MD_VBZ_JJ
+may_seems_familiar	1
 NN_:_CC
 trail_..._and	1
 NNS_CC_EX
 moments_but_there	1
--LRB-_JJ_JJ
--LRB-_cute_little	1
 NN_,_RB
 sequel_,_just	1
 wait_,_no	1
@@ -943,19 +903,14 @@ the_..._family-style	1
 PRP_IN_JJ
 me_for_free	1
 it_in_long	1
-NNP_-RRB-_VBD
-Pinochet_-RRB-_was	1
 IN_WP_VBD
 in_what_was	1
 TO_CD_NNS
 to_three_cameras	1
 PRP_VBZ_CC
 It_is_neither	1
-NNP_-RRB-_VBZ
-Murphy_-RRB-_is	1
-Hill_-RRB-_is	1
-Pinchot_-RRB-_is	1
-Murphy_-RRB-_comes	1
+RB_IN_``
+together_in_``	1
 :_NN_,
 --_wait_,	1
 CD_IN_PRP
@@ -1004,12 +959,20 @@ H._Little_or	1
 Timothy_Carhart_and	1
 Northern_California_and	1
 John_Landis_or	1
+Inspector_Todd_but	1
 Steven_Berkoff_and	1
 Don_Simpson_and	1
+George_Lucas_and	1
 Martin_Brest_and	1
 Jon_Tenney_and	1
 DT_JJ_MD
 a_definite_must	1
+RP_DT_NN
+up_the_fact	1
+off_every_second	1
+up_a_bust	1
+down_the_role	1
+up_a_meeting	1
 RBS_JJ_IN
 most_developed_of	1
 CD_POS_NN
@@ -1046,6 +1009,7 @@ is_great_as	1
 is_full_of	1
 NN_NNS_NN
 Dvd_extras_content	1
+review_beggars_belief	1
 NN_JJ_,
 something_funny_,	1
 VBZ_NN_.
@@ -1058,8 +1022,6 @@ recommend_BEVERLY_HILLS	1
 RB_VBZ_IN
 just_whines_about	1
 barely_escapes_except	1
-NNS_-LRB-_NNP
-cameos_-LRB-_George	1
 JJ_RB_JJ
 few_extremely_funny	1
 PRP$_JJS_NNS
@@ -1094,8 +1056,6 @@ yells_at_them	1
 gets_as_he	1
 is_that_he	1
 says_that_he	1
--RRB-_CC_NN
--RRB-_and_concentrate	1
 CC_VB_DT
 and_expose_the	1
 and_leave_the	1
@@ -1119,11 +1079,13 @@ NNP_VBZ_RB
 Robert_cameos_too	1
 Axel_goes_back	1
 Foley_is_no	1
+Pinchot_is_back	1
 Taggart_is_now	1
 Axel_does_n't	1
 Paramount_has_n't	1
 Murphy_is_back	1
 Hollywood_has_ever	1
+Murphy_comes_back	1
 Billy_is_now	1
 VBG_DT_VBD
 getting_all_choked	1
@@ -1144,10 +1106,6 @@ rental_store_and	1
 action_genre_and	1
 trademark_humour_and	1
 movie_corporation_and	1
-VBZ_IN_RB
-fills_in_neatly	1
-comes_through_again	1
-is_at_once	1
 VBG_IN_DT
 going_over_the	1
 yelling_at_the	1
@@ -1170,23 +1128,29 @@ NNS_NN_NNP
 operations_rep_Janice	1
 NNP_NNP_,
 Axel_Foley_,	2
+Stephen_McHattie_,	1
 Police_Department_,	1
 Billy_Rosewood_,	1
 Rufus_Rabbit_,	1
 BERRY_FARM_,	1
 Renny_Harlin_,	1
-Hills_Cop_,	1
-<br />_Well_,	1
+Judge_Reinhold_,	1
+George_Lucas_,	1
 Jacques_COULARDEAU_,	1
-BHC_II_,	1
+Teresa_Randle_,	1
 Inspector_Todd_,	1
+III_Paramount_,	1
 John_Ashton_,	2
 Douglas_Todd_,	1
+Bronson_Pinchot_,	1
+Sgt._Taggart_,	1
 Southern_California_,	1
 Pantheon_Sorbonne_,	1
 Hector_Elizondo_,	2
 HARLEM_NIGHTS_,	1
 John_Taggart_,	1
+Capt._Bogomil_,	1
+BHC_II_,	1
 ANIMAL_HOUSE_,	1
 Lt._Bogamill_,	1
 York_City_,	1
@@ -1195,21 +1159,24 @@ Steven_deSouza_,	1
 Ronny_Cox_,	1
 BLUES_BROTHERS_,	1
 Ellis_DeWald_,	1
-Alex_Foley_,	1
+Hills_Cop_,	1
 John_Landis_,	2
-Joey_Travolta_,	1
+Joey_Travolta_,	2
 Beverly_Hills_,	2
 Animal_House_,	2
 Wonder_World_,	2
+Alex_Foley_,	1
 San_Jose_,	1
 NNP_NNP_.
 No_Jeffrey_.	1
 Beverly_Hills_?	1
 San_Francisco_.	1
 Harold_Faltermeyer_.	1
+Alan_Young_?	1
 Beverly_Hills_.	2
 Billy_Rosewood_.	1
 No_Taggart_.	1
+Judge_Reinhold_.	1
 Sgt._Bogomil_.	1
 Fangoria_Convention_.	1
 Eddie_Murphy_.	4
@@ -1220,6 +1187,7 @@ No_Bogomil_.	1
 Three_Amigos_!	1
 Hills_California_.	1
 Cop_III_.	4
+John_Saxon_.	1
 VBG_TO_VB
 going_to_write	1
 going_to_disappoint	1
@@ -1232,22 +1200,26 @@ Axel_be_able	1
 IN_IN_CD
 after_about_fifteen	1
 NN_NNP_NNP
+character_Judge_Reinhold	1
 moment_Beverly_Hills	1
+director_John_Landis	1
 friend_Billy_Rosewood	1
+partner_John_Taggart	1
 time_Axel_Foley	1
-officer_Billy_Rosewood	1
+agent_Fulbright_Stephen	1
 brother_Joey_Travolta	1
 detective_Axel_Foley	2
-park_Wonder_World	1
+buzzard_Timothy_Carhart	1
 helmer_John_Landis	1
 Dr_Jacques_COULARDEAU	1
 security_Ellis_DeWald	1
+rep_Janice_Teresa	1
+park_Wonder_World	1
 buddy_Jon_Flint	1
+buddy_Serge_Bronson	1
 boss_Inspector_Todd	1
-partner_John_Taggart	1
+officer_Billy_Rosewood	1
 cop_Axel_Foley	1
-FW_FW_WRB
-<br />_<br />_Where	1
 RB_DT_JJS
 n't_the_worst	1
 ,_DT_RB
@@ -1257,9 +1229,8 @@ fumbles_through_scene	1
 lines_of_dialogue	1
 operators_with_machine	1
 animals_that_talk	1
-VBZ_RB_TO
-comes_back_to	2
-goes_back_to	1
+NNP_TO_DT
+Carhart_to_a	1
 CD_VBN_IN
 3_bombed_at	1
 VBN_CC_VBG
@@ -1270,16 +1241,18 @@ POS_NN_WRB
 VBD_JJ_IN
 shot_dead_by	1
 thought_possible_for	1
+was_due_besides	1
 RB_VBP_RP
 sure_wear_out	1
 RB_IN_JJ
 nearly_as_funny	1
 n't_that_funny	1
-FW_RB_NN
-<br />_Then_someone	1
 NN_VBP_NN
 theft_chop_shop	1
 lord_have_mercy	1
+NN_,_``
+talk_,_``	1
+place_,_``	1
 TO_VB_WDT
 to_do_whatever	1
 ,_VB_VBG
@@ -1302,13 +1275,10 @@ RB_._''
 not_!_''	1
 again_?_''	1
 FW_FW_NN
-i_cant_wait	1
-<br />_<br />_Something	1
 THe_Wonderworld_setting	1
-<br />_<br />_Dr	1
-eddie_murphy_stuff	1
 BEVERLY_HILLS_COP	7
-<br />_THe_movie	1
+i_cant_wait	1
+eddie_murphy_stuff	1
 VBN_PRP_,
 seen_them_,	1
 VBG_PRP$_JJ
@@ -1334,6 +1304,7 @@ NNP_NN_NNP
 Murphy_helmer_John	1
 Treasury_agent_Fulbright	1
 Detroit_detective_Axel	1
+Rosewood_character_Judge	1
 Hills_cop_III	1
 Hills_officer_Billy	1
 Detroit_cop_Axel	1
@@ -1379,8 +1350,8 @@ film_seems_pretty	1
 monstrosity_is_instantly	1
 JJ_CC_DT
 classic_and_this	1
-CC_NNP_VBD
-&_Ebert_gave	1
+IN_IN_RB
+alongside_with_fairly	1
 CC_VBG_TO
 or_wanting_to	1
 NNS_WRB_DT
@@ -1436,8 +1407,6 @@ the_movies_like	1
 the_boys_for	1
 DT_IN_VBG
 this_without_watching	1
-IN_PRP_IN
-from_them_during	1
 DT_NNS_VBN
 all_clues_found	1
 VBD_RP_IN
@@ -1451,6 +1420,7 @@ JJ_,_IN
 Wonderworld_,_with	1
 good_,_with	1
 static_,_with	1
+funny_,_in	1
 second_,_although	1
 VBD_PRP_VBP
 made_me_want	1
@@ -1463,16 +1433,19 @@ kid_playing_cops	1
 slapping_film_directors	1
 shop_fatty_guys	1
 NN_NN_NNP
-theme_park_Wonder	1
-friend_inpector_Todd	1
 park_security_Ellis	1
+wondeful_director_John	1
+friend_inpector_Todd	1
 cop_buddy_Jon	1
+theme_park_Wonder	1
 amusement_park_Ferris	1
 VBP_IN_DT
 act_like_this	1
 guess_in_a	1
 are_from_the	1
 know_of_that	1
+JJ_RB_IN
+serious_enough_that	1
 CC_VBN_.
 but_gone_.	1
 IN_PRP$_NN
@@ -1497,8 +1470,8 @@ VBD_PRP_VBG
 were_they_trying	1
 IN_PRP_RBR
 so_he_better	1
-RB_:_CC
-there_-_and	1
+NNP_WP_RB
+Carhart_who_then	1
 RB_TO_NNP
 again_to_Beverly	1
 back_to_Beverly	2
@@ -1508,8 +1481,12 @@ NNP_VBZ_PRP$
 Landis_continues_his	1
 Reinhold_reprises_his	1
 Foley_sees_his	1
-VBP_NN_CD
-compare_part_three	1
+NN_RB_RB
+action_as_seamlessly	1
+film_as_well	1
+cop_always_ahead	1
+area_as_well	1
+Everyone_pretty_much	1
 CD_JJ_NN
 one_redeeming_moment	1
 NNP_''_PRP
@@ -1536,13 +1513,8 @@ NNP_,_VBZ
 Landis_,_is	1
 VBP_IN_JJ
 hear_that_annoying	1
--RRB-_,_IN
--RRB-_,_with	1
 VBD_NNP_RB
 shot_Todd_back	1
-NN_-LRB-_NN
-command_-LRB-_JSIOC	1
-spirit_-LRB-_ala	1
 CC_VBP_RB
 And_do_n't	1
 and_love_here	1
@@ -1551,14 +1523,8 @@ RB_VBD_NNS
 only_got_thumbs	1
 CC_VBP_,
 and_expect_,	1
--RRB-_WP_VBZ
--RRB-_who_fills	1
--RRB-_who_returns	1
-JJ_NN_-LRB-
-wild_spirit_-LRB-	1
-operational_command_-LRB-	1
-eyed_buzzard_-LRB-	1
-family-style_veneer_-LRB-	1
+IN_PRP_IN
+from_them_during	1
 NNP_IN_PRP$
 Arizona_with_his	1
 Jersey_like_his	1
@@ -1592,13 +1558,11 @@ shot_at_the	1
 foot_in_the	1
 character_in_the	1
 essense_of_the	1
-<br />_In_the	1
 cast_down_the	1
 evidence_from_this	1
 humor_for_the	1
 installment_of_the	2
 movie_in_the	1
-<p>_In_the	1
 case_by_the	1
 freshness_of_the	1
 cast_from_the	1
@@ -1657,8 +1621,8 @@ descent_with_some	1
 ``_action_''	1
 NN_,_WDT
 character_,_which	1
-IN_IN_RB
-alongside_with_fairly	1
+CC_NNP_VBD
+&_Ebert_gave	1
 VBP_NNS_.
 see_things_.	1
 PRP_RP_,
@@ -1703,8 +1667,6 @@ IN_RB_RB
 although_not_as	1
 VB_RP_PRP$
 help_out_his	1
-NN_-RRB-_RB
-waste_-RRB-_back	1
 IN_,_WRB
 besides_,_how	1
 VBG_NNS_IN
@@ -1716,8 +1678,6 @@ VBZ_RB_IN
 is_not_like	1
 is_back_as	1
 is_n't_at	1
-IN_PRP_-RRB-
-for_me_-RRB-	1
 PRP_VBZ_NN
 it_takes_place	1
 it_'s_time	1
@@ -1763,32 +1723,33 @@ is_a_horrid	1
 has_a_new	1
 NNP_''_NN
 White_''_video	1
-NN_NNS_MD
-<p>_Action-comedies_can	1
-IN_IN_DT
-because_of_the	2
-out_of_an	1
-out_of_this	1
-As_for_this	1
-along_with_the	1
-for_in_some	1
-along_as_an	1
-out_of_a	1
-out_of_the	1
-PRP_RB_VBP
-they_usually_suck	1
-they_plain_forget	1
-they_sure_wear	1
-I_highly_recommend	2
-you_MUST_SEE	1
--LRB-_IN_JJ
--LRB-_with_only	1
+IN_NN_.
+of_dialogue_.	1
+of_continuity_.	1
+in_lead_.	1
+of_fun_.	1
+of_action_.	1
+of_movie_.	1
+in_fact_.	1
+for_golf_.	1
+from_grandma_.	1
+by_action_.	1
+IN_NN_,
+in_fact_,	1
+of_time_,	1
+that_talk_,	1
+by_storm_,	1
+of_gunfire_,	1
+that_ramone_,	1
 PRP_RB_VBZ
 It_actually_makes	1
 he_first_meets	1
 he_just_whines	1
 It_mostly_has	1
 he_barely_escapes	1
+NNP_NNS_DT
+Murphy_witnesses_the	1
+Murphy_traces_the	1
 DT_JJS_NN
 the_best_character	1
 the_best_action	1
@@ -1813,19 +1774,18 @@ DT_,_PRP
 no_,_I	1
 NN_CC_NNP
 brother_and_Murphy	1
+beginning_and_Rosewood	1
 pop-culture_and_Beverly	1
 NN_CC_NNS
 humour_and_hits	1
 pacing_and_stunts	1
 wife_and_kids	1
 dialogue_and_scenes	1
--LRB-_UH_,
--LRB-_Oh_,	1
 NNP_NNP_NN
 Billy_Rosewood_character	1
 Axel_Foley_character	1
 Beverly_Hills_cop	5
-<p>_This_time	1
+Axel_Foley_kind	1
 San_Jose_area	1
 Beverly_Hills_officer	1
 Michael_Jackson_room	1
@@ -1878,6 +1838,7 @@ players_like_John	1
 hands_around_DeWald	1
 footsteps_of_Steven	1
 composers_of_Disney	1
+directors_like_George	1
 CC_FW_FW
 and_i_cant	1
 DT_NNS_JJR
@@ -1911,43 +1872,6 @@ killer_'s_vehicle	1
 director_'s_chair	1
 RB_JJS_NNS
 very_best_works	1
-NNP_NNP_-RRB-
-Alan_Young_-RRB-	1
-Eddie_Murphy_-RRB-	4
-Gil_Hill_-RRB-	1
-Sgt._Taggart_-RRB-	1
-John_Landis_-RRB-	1
-Teresa_Randle_-RRB-	1
-Hector_Elizondo_-RRB-	1
-George_Lucas_-RRB-	2
-Stephen_McHattie_-RRB-	1
-Timothy_Carhart_-RRB-	2
-John_Saxon_-RRB-	1
-R_Hill_-RRB-	1
-Capt._Bogomil_-RRB-	1
-Timothy_Carhartt_-RRB-	1
-Judge_Reinhold_-RRB-	3
-Bronson_Pinchot_-RRB-	2
-Joey_Travolta_-RRB-	1
-Bronson_Pinochet_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Gilbert_R	1
--LRB-_Sgt._Taggart	1
--LRB-_Stephen_McHattie	1
--LRB-_George_Lucas	1
--LRB-_Alan_Young	1
--LRB-_Timothy_Carhart	2
--LRB-_Capt._Bogomil	1
--LRB-_Timothy_Carhartt	1
--LRB-_Eddie_Murphy	4
--LRB-_Judge_Reinhold	3
--LRB-_Gil_Hill	1
--LRB-_Bronson_Pinchot	2
--LRB-_John_Saxon	1
--LRB-_Teresa_Randle	1
--LRB-_Hector_Elizondo	1
--LRB-_John_Landis	1
--LRB-_Bronson_Pinochet	1
 ``_NNP_NNP
 ``_Doctor_Dolittle	1
 ``_Beverly_Hills	7
@@ -1968,6 +1892,7 @@ screwed_it_over	1
 NNP_CC_PRP$
 DeWald_and_his	1
 Murphy_and_his	1
+Lucas_and_his	1
 VBD_PRP_RB
 was_it_just	1
 Was_it_all	1
@@ -2039,8 +1964,6 @@ out_or_even	1
 JJ_NNP_NNPS
 original_BEVERLY_HILLS	1
 first_BEVERLY_HILLS	1
-CD_NNS_-LRB-
-48hrs_films_-LRB-	1
 NNPS_JJ_NN
 Paramounts_GREAT_AMERICA	1
 VB_NNP_VBZ
@@ -2049,30 +1972,28 @@ CD_NNS_VBD
 two_films_were	1
 two_films_had	1
 two_movies_got	1
-IN_NN_.
-of_continuity_.	1
-in_lead_.	1
-of_fun_.	1
-of_action_.	1
-of_movie_.	1
-in_fact_.	1
-for_golf_.	1
-from_grandma_.	1
-by_action_.	1
+IN_IN_DT
+because_of_the	2
+out_of_an	1
+out_of_this	1
+As_for_this	1
+along_with_the	1
+for_in_some	1
+along_as_an	1
+out_of_a	1
+out_of_the	1
 CD_NNS_VBG
 two_films_reaming	1
 VB_WRB_JJ
 look_how_many	1
 NN_NNS_:
 overhead_shots_-	1
-FW_VB_DT
-<br />_Watch_the	1
-IN_NN_,
-of_gunfire_,	1
-in_fact_,	1
-by_storm_,	1
-that_ramone_,	1
-of_time_,	1
+PRP_RB_VBP
+they_usually_suck	1
+they_plain_forget	1
+they_sure_wear	1
+I_highly_recommend	2
+you_MUST_SEE	1
 VB_NN_IN
 take_place_in	2
 tell_victor_that	1
@@ -2110,9 +2031,6 @@ CC_DT_VBN
 and_a_qualified	1
 VBN_CC_IN
 forced_and_if	1
-RB_,_RB
-adaquately_,_then	1
-anyway_,_just	1
 CC_JJ_NN
 but_silly_cop	1
 VBZ_CC_VBZ
@@ -2148,6 +2066,8 @@ PRP$_NNS_RP
 their_noses_up	1
 NN_''_,
 gentleman_''_,	1
+JJ_IN_,
+due_besides_,	1
 IN_RB_.
 through_again_!	1
 over_again_.	1
@@ -2155,8 +2075,6 @@ RP_,_VBZ
 out_,_is	1
 VBZ_VB_IN
 does_succeed_on	1
-NN_._-RRB-
-park_?_-RRB-	1
 WP_DT_NN
 what_the_tone	1
 what_the_series	1
@@ -2179,6 +2097,7 @@ is_hilarious.Hector_Elizondo	1
 ,_EX_VBZ
 ,_there_'s	1
 VBG_RB_.
+doing_so_.	1
 missing_here_.	1
 VBG_RB_,
 looking_around_,	1
@@ -2235,16 +2154,8 @@ kind_of_soured	1
 style_with_great	1
 park_for_free	1
 scene_of_ridiculous	1
-,_CC_IN
-,_and_that	1
-,_but_with	1
-,_but_If	1
-,_but_that	1
-,_and_for	1
-CC_JJ_CC
-both_far-fetched_and	1
--LRB-_NNS_CD
--LRB-_ages_77	1
+RB_VBN_CD
+really_disliked_one	1
 VBZ_RB_JJ
 is_not_funny	1
 's_too_old	1
@@ -2275,6 +2186,7 @@ BHC_movies_and	1
 ,_although_not	1
 JJ_,_JJ
 lazy_,_disinterested	1
+angry_,_major	1
 desperate_,_painful	1
 predictable_,_boring	1
 single_,_flippant	1
@@ -2355,10 +2267,8 @@ NNP_CC_CD
 California_and_one	1
 VBD_RP_DT
 turned_down_the	1
-NNP_''_-LRB-
-Dolittle_''_-LRB-	1
-Metro_''_-LRB-	1
-Brooklyn_''_-LRB-	1
+JJR_TO_VB
+more_to_have	1
 RB_NN_VBD
 Then_someone_decided	1
 RB_NN_VBZ
@@ -2380,8 +2290,12 @@ was_in_reference	1
 was_about_time	1
 TO_FW_FW
 to_BEVERLY_HILLS	1
--RRB-_,_``
--RRB-_,_``	3
+NN_NNS_RB
+movie_theatres_back	1
+movie_2-thumbs_down	1
+fun_moments_here	1
+character_actors_around	1
+crime_scenes_always	1
 RB_DT_NN
 just_a_coincidence	1
 now_the_deputy	1
@@ -2397,8 +2311,6 @@ quite_a_while	1
 just_the_theme	1
 still_no_excuse	1
 not_this_film	1
-RB_VB_CD
-only_get_one	1
 NN_VBG_IN
 movie_looking_like	1
 ring_operating_out	1
@@ -2406,24 +2318,14 @@ VBN_VBZ_DT
 Gone_is_the	1
 IN_NNS_.
 in_movies_.	1
+VBZ_RB_TO
+comes_back_to	2
+goes_back_to	1
 IN_NNS_,
 for_laughs_,	1
 at_times_,	1
-NNP_-RRB-_,
-Pinchot_-RRB-_,	1
-Lucas_-RRB-_,	1
-Taggart_-RRB-_,	1
-McHattie_-RRB-_,	1
-Bogomil_-RRB-_,	1
-Randle_-RRB-_,	1
-Reinhold_-RRB-_,	1
-Travolta_-RRB-_,	1
 NNS_RB_CC
 moments_here_and	1
-NNP_-RRB-_.
-Reinhold_-RRB-_.	1
-Young_-RRB-_?	1
-Saxon_-RRB-_.	1
 DT_JJ_JJ
 a_good_enough	1
 a_typical_cliched	1
@@ -2437,12 +2339,8 @@ that_lovable_old	1
 RB_DT_VBZ
 Now_this_is	1
 then_this_is	1
-CD_-RRB-_RB
-44_-RRB-_really	1
 VB_IN_WP
 improve_on_what	1
-FW_FW_PRP
-<br />_<br />_It	1
 NN_WRB_NNP
 sequence_where_Axel	1
 reason_why_Siskel	1
@@ -2452,8 +2350,6 @@ VBZ_RBR_IN
 looks_better_on	1
 DT_``_NN
 the_``_action	1
-NNP_-LRB-_DT
-Todd_-LRB-_a	1
 JJ_CD_NNS
 first_two_movies	1
 only_two_near-giggles	1
@@ -2469,7 +2365,10 @@ I_guess_in	1
 I_recommend_that	1
 I_wonder_if	1
 NNP_WP_VBZ
+Elizondo_who_fills	1
+Reinhold_who_returns	1
 Glover_who_says	1
+Ashton_who_'s	1
 NN_VBN_NNP
 partner_named_Jon	1
 park_called_Wonderworld.There	1
@@ -2486,6 +2385,8 @@ does_n't_know	1
 does_n't_ruin	1
 does_n't_meld	1
 does_n't_make	1
+DT_NNP_NNS
+the_BHC_movies	1
 RB_VBP_TO
 plain_forget_to	1
 always_seem_to	1
@@ -2494,22 +2395,16 @@ always_point_to	1
 ,_and_Axel	1
 ,_and_Paul	1
 ,_or_San	1
--RRB-_CD_NNS
--RRB-_Ten_years	1
 CC_RB_NN
 but_still_fun	1
 But_nearly_everybody	1
 and_almost_nobody	1
 NNP_CC_,
 Reiser_either_,	1
-NN_-LRB-_VBD
-veneer_-LRB-_were	1
-NN_-LRB-_VBG
-team_-LRB-_including	1
 VBN_,_VBN
 retired_,_covered	1
-._-RRB-_.
-?_-RRB-_.	1
+:_RB_RB
+;_quite_well	1
 VBD_DT_RB
 was_an_extremely	1
 NN_NN_WP
@@ -2521,14 +2416,10 @@ are_supposed_to	1
 DT_RB_RB
 the_so_far	1
 the_only_completely	1
-''_-RRB-_,
-''_-RRB-_,	1
 JJ_VBZ_DT
 lame_is_that	1
 bad_has_some	1
 sure_is_another	1
-''_-LRB-_IN
-''_-LRB-_with	1
 MD_VB_NNP
 could_give_Michael	1
 would_be_John	1
@@ -2563,9 +2454,8 @@ JJ_VBG_NNS
 only_returning_characters	1
 NNP_:_CD
 Elizondo_--_one	1
--LRB-_PRP$_NNS
--LRB-_my_friends	1
 NNP_NNP_DT
+Inspector_Todd_a	1
 Jerry_Bruckhiemer_a	1
 NN_NNS_VBD
 machine_guns_showed	1
@@ -2580,8 +2470,6 @@ park_story_,	1
 park_location_,	1
 laugh_riot_,	1
 security_force_,	1
-NNS_-LRB-_IN
-directors_-LRB-_like	1
 VBN_JJ_RB
 played_serious_enough	1
 NN_NNS_VBP
@@ -2590,11 +2478,12 @@ action_scenes_show	1
 action_scenes_are	2
 comedy_scenes_are	1
 fatty_guys_dance	1
-RB_TO_VBG
-around_to_making	1
+JJR_NN_NNS
+earlier_review_beggars	1
 NNS_VBG_DT
 villians_considering_the	1
 CC_CD_RB
+and_44_really	1
 But_1994_just	1
 VBD_JJ_VBN
 had_so-called_taken	1
@@ -2618,17 +2507,15 @@ VBZ_CD_NNS
 saves_two_kids	1
 PRP$_NN_RP
 my_hair_out	1
+VBD_NNS_IN
+got_roles_from	1
 NNS_:_DT
 baddies_-_a	1
 RB_CC_IN
 anymore_or_at	1
-VBG_NN_-RRB-
-starring_debut_-RRB-	1
 JJ_,_VBG
 busy_,_leaving	1
 acceptable_,_showing	1
--RRB-_,_JJ
--RRB-_,_major	1
 PRP$_NN_RB
 their_game_back	1
 IN_NN_TO
@@ -2647,8 +2534,6 @@ POS_NN_DT
 's_chair_the	1
 RB_DT_RB
 definetly_the_very	1
--LRB-_NN_-RRB-
--LRB-_JSIOC_-RRB-	1
 NNS_VBD_RB
 movies_had_pretty	1
 films_were_n't	1
@@ -2722,8 +2607,6 @@ CC_PRP_DT
 and_us_the	1
 JJ_NNS_JJ
 joint_systems_interdepartmental	1
-VBG_RB_-RRB-
-doing_so_-RRB-	1
 VBD_NNS_MD
 rated_movies_should	1
 VBG_EX_VBZ
@@ -2769,8 +2652,8 @@ but_lord_have	1
 JJR_IN_DT
 better_than_this	1
 more_of_the	1
-FW_PRP_VBZ
-<br />_It_'s	1
+IN_,_UH
+because_,_yes	1
 RBR_IN_JJ
 longer_that_funny	1
 NN_IN_IN
@@ -2791,13 +2674,15 @@ ticket_prices_and	1
 od_DVDs_and	1
 city_limits_and	1
 playing_cops_and	1
+NN_NNS_CD
+family_ages_77	1
 CC_RBR_JJ
 but_more_confusing	1
 VBZ_RBR_JJ
 seems_more_mature	1
 is_more_violent	1
-JJ_RB_IN
-serious_enough_that	1
+PRP$_NN_VBG
+his_team_including	1
 VBZ_PRP_DT
 reminds_me_a	1
 PRP$_NNS_IN
@@ -2818,37 +2703,30 @@ fairly_descent_with	1
 DT_NN_''
 the_brother_''	1
 NNP_NNP_VBZ
-<br />_Axel_shows	1
-Eddie_Murphy_comes	1
+Eddie_Murphy_comes	2
 Inspector_Todd_tells	1
-hilarious.Hector_Elizondo_takes	1
 Judge_Reinhold_reprises	1
 Inspector_Todd_is	1
 Axel_Foley_sees	1
-Cop_III_is	3
+BHC_III_sucks	1
 Eddie_Murphy_gives	1
 Pee_Wee_is	1
-Eddie_Murphy_is	2
+Eddie_Murphy_is	3
+Bronson_Pinchot_is	1
 John_Taggart_is	1
 Eddy_Murphy_is	1
 John_Landis_is	1
 De_Wald_is	2
-<br />_Axel_heads	1
-<br />_This_is	1
-BHC_III_sucks	1
-<br />_Billy_introduces	1
+hilarious.Hector_Elizondo_takes	1
+Cop_III_is	3
+R_Hill_is	1
 NN_POS_JJS
 eddie_'s_best	1
 VBP_RP_IN
 start_out_in	1
--RRB-_WP_RB
--RRB-_who_then	1
 TO_NNP_,
 TO_AMERICA_,	1
 to_America_,	1
-JJ_NNP_,
-funny_Murphy_,	1
-usual_Rosewood_,	1
 DT_JJ_VB
 no_real_spark	1
 CC_TO_RB
@@ -2920,8 +2798,6 @@ $_CD_CD
 $_70_million	1
 NNS_IN_CC
 movies_over_&	1
--LRB-_CC_PRP
--LRB-_but_he	1
 NNS_IN_CD
 stars_of_5	1
 comedies_of_1984	1
@@ -2934,6 +2810,7 @@ DT_NN_CD
 the_role_three	1
 DT_NN_CC
 a_travesty_and	1
+the_beginning_and	1
 this_movie_and	1
 the_mainstream_and	1
 this_film_and	2
@@ -2955,11 +2832,12 @@ Rosewood_,_and	1
 Jose_,_but	1
 Cox_,_and	1
 Elizondo_,_but	1
+Department_,_and	1
 WONDERWOLD_,_but	1
 DeWald_,_but	1
 Boomerang_,_and	1
 Hollywood_,_or	1
-Department_,_and	1
+Bogomil_,_and	1
 FARM_,_or	1
 TO_PRP_POS
 to_it_'s	1
@@ -2976,8 +2854,6 @@ buffet_meal_when	1
 ride_sequence_where	1
 VBD_IN_IN
 did_that_for	1
-JJ_-RRB-_,
-angry_-RRB-_,	1
 NN_,_VBN
 week_,_found	1
 NN_,_VBD
@@ -3049,13 +2925,12 @@ NN_IN_JJS
 moment_as_most	1
 JJ_NNP_VBZ
 first_BHC_is	1
-NNP_-LRB-_WP
-Ashton_-LRB-_who	1
 WP$_JJ_NNS
 whose_previous_credits	1
 :_JJ_NN
 ..._family-style_veneer	1
 CD_RB_VBD
+44_really_enjoyed	1
 1994_just_was	1
 NNP_RB_VBD
 Scott_already_had	1
@@ -3103,12 +2978,8 @@ PRP$_NNS_TO
 their_kids_to	1
 NNP_IN_.
 Ashton_though_.	1
-NN_NNP_-LRB-
-buddy_Serge_-LRB-	1
-rep_Janice_-LRB-	1
-agent_Fulbright_-LRB-	1
-DT_NNP_NNS
-the_BHC_movies	1
+NNP_''_WDT
+Metro_''_that	1
 DT_NNP_NNP
 the_Bay_Area	1
 no_Paul_Reiser	1
@@ -3151,6 +3022,8 @@ I_am_always	1
 you_have_never	1
 ,_WDT_NN
 ,_which_kind	1
+NN_,_PRP$
+debut_,_its	1
 PRP_VBZ_VBN
 He_is_replaced	1
 he_'s_got	1
@@ -3171,6 +3044,7 @@ park_setting_.	1
 Cop_movie_.	1
 action_comedy_.	1
 box_office_.	1
+command_JSIOC_.	1
 camp_voice_.	1
 theme_park_?	1
 amusement_park_!	1
@@ -3182,8 +3056,8 @@ RB_VB_NNP
 even_namecheck_Lt.	1
 Still_miss_John	1
 not_let_Eddie	1
-NNS_-RRB-_,
-scenes_-RRB-_,	1
+VBG_IN_IN
+operating_out_of	1
 CD_JJ_NNS
 two_beloved_movies	1
 two_good_things	1
@@ -3201,8 +3075,6 @@ n't_think_I	1
 n't_find_it	1
 n't_get_me	1
 n't_think_it	2
-NN_-LRB-_WP
-replacement_-LRB-_who	1
 VBZ_NN_IN
 takes_place_in	2
 makes_sense_that	1
@@ -3338,8 +3210,6 @@ NNS_WP_VBP
 kiddies_who_love	1
 VBG_NNS_DT
 making_waves_every	1
-''_-LRB-_RB
-''_-LRB-_definitely	1
 RB_VB_WP
 n't_know_what	1
 EX_VBP_RB
@@ -3348,6 +3218,7 @@ TO_NNP_CC
 To_America_and	1
 ,_IN_NN
 ,_about_half	1
+,_in_fact	1
 ,_because_humor	1
 NNS_WP_VBD
 Guys_who_killed	1
@@ -3373,8 +3244,6 @@ CD_CD_NN
 70_million_budget	1
 ,_JJ_NNS
 ,_major_players	1
-FW_FW_CC
-<br />_<br />_But	1
 EX_VBP_DT
 There_are_a	1
 WP_VBZ_NN
@@ -3383,13 +3252,12 @@ VBZ_NNP_CC
 thinks_Eddie_and	1
 :_NN_PRP
 --_something_I	1
-NN_-RRB-_CC
-film_-RRB-_and	1
-beginning_-RRB-_and	1
+VBP_TO_NNP
+point_to_Beverly	1
 PRP_POS_NNS
 it_'s_advantages	1
--RRB-_RB_IN
--RRB-_back_in	1
+NNP_DT_NN
+Todd_a_waste	1
 WRB_PRP_RB
 where_he_first	1
 RB_VBP_NNP
@@ -3422,11 +3290,10 @@ let_Eddie_do	1
 VBN_RB_TO
 sent_again_to	1
 gotten_around_to	1
-NNP_-RRB-_WP
-Carhart_-RRB-_who	1
-Carhartt_-RRB-_who	1
-Elizondo_-RRB-_who	1
-Reinhold_-RRB-_who	1
+IN_JJ_JJ
+in_many_other	1
+for_plain_dumb	1
+of_good_violent	1
 NNP_IN_NN
 Landis_by_someone	1
 TO_VB_DT
@@ -3485,8 +3352,6 @@ some_smooth_operators	1
 the_few_times	1
 the_Bad_Guys	1
 some_serious_problems	1
--RRB-_TO_DT
--RRB-_to_a	1
 DT_JJ_NNP
 the_first_BEVERLY	1
 the_first_Beverly	1
@@ -3522,8 +3387,8 @@ furry_animals_that	1
 smooth_operators_with	1
 VBG_PRP_CD
 giving_it_4	1
-JJ_-RRB-_CC
-amusing_-RRB-_and	1
+IN_NNP_CD
+around_March_1994	1
 IN_NNP_CC
 in_Detroit_and	2
 of_Disneyland_or	1
@@ -3555,10 +3420,12 @@ is_my_favorite	1
 NNP_POS_NNS
 Axel_'s_cases	1
 NNP_,_RB
-deSouza_,_though	1
+Reinhold_,_now	1
+Pinchot_,_now	1
 Axel_,_really	1
-Murphy_,_then	1
 Foley_,_yet	1
+deSouza_,_though	1
+Murphy_,_then	1
 VBD_PRP_CD
 gave_it_two	1
 ''_:_CD
@@ -3592,8 +3459,6 @@ NNP_''_CC
 Disney_''_or	1
 Life_''_and	1
 Boomerang_''_and	1
--RRB-_CC_PRP$
--RRB-_and_his	1
 :_TO_VB
 -_to_write	1
 PRP$_NNS_VBD
@@ -3612,8 +3477,11 @@ VBZ_CC_DT
 is_neither_a	1
 CC_RB_PRP$
 and_even_our	1
+NNS_,_``
+scenes_,_``	1
 NNP_NN_IN
 Hills_excess_by	1
+Foley_kind_of	1
 Landis_style_with	1
 NNP_VBD_RB
 III_was_n't	1
@@ -3625,8 +3493,6 @@ what_he_wanted	1
 PRP_IN_VBG
 me_from_doing	1
 me_for_using	1
--LRB-_WDT_RB
--LRB-_that_apparently	1
 WP_PRP_VBZ
 what_he_does	1
 VBZ_RP_TO
@@ -3640,12 +3506,8 @@ what_you_mean	1
 IN_VBG_IN
 without_going_over	1
 in_keeping_with	1
--LRB-_PRP_VBD
--LRB-_he_was	1
 ``_WRB_NNP
 ``_When_Eddie	1
--LRB-_PRP$_VBG
--LRB-_his_starring	1
 IN_NNS_IN
 that_moments_before	1
 of_lines_of	1
@@ -3658,12 +3520,14 @@ to_be_there	1
 NN_''_IN
 brother_''_in	1
 NNP_NNP_IN
+Gil_Hill_along	1
 Axel_Foley_in	1
 Eddie_Murphy_into	1
 Deputy_Director_of	1
 Bay_Area_near	1
 Los_Angeles_with	1
 Pee_Wee_of	1
+John_Landis_behind	1
 Saint_Quentin_en	1
 John_Ashton_though	1
 John_Landis_by	1
@@ -3678,9 +3542,6 @@ to_head_out	1
 to_help_out	1
 VBZ_NN_JJR
 's_something_more	1
-CC_IN_JJ
-and_that_cool	1
-but_that_heroic	1
 CC_IN_DT
 and_for_the	1
 but_with_that	1
@@ -3702,14 +3563,13 @@ atrocious_script_and	1
 open_mind_and	1
 nonstop_laughter_and	1
 tense_action_and	1
+second_film_and	1
 ok_action_and	1
 first_collaboration_and	1
 violent_action_and	1
 nice_touch_and	1
 favourite_film_and	1
 great_action_and	1
-VBZ_VB_VBZ
-does_know_is	1
 ''_NNS_VBP
 ''_scenes_are	1
 NNP_POS_NN
@@ -3744,34 +3604,21 @@ VBZ_CD_JJ
 is_one_redeeming	1
 VBG_RP_IN
 falling_off_on	1
-NN_NN_-LRB-
-wondeful_director_-LRB-	1
+IN_EX_VBZ
+so_there_is	1
 IN_EX_VBD
 since_there_was	1
 CC_VBG_PRP
 and_letting_him	1
 VBG_PRP$_NN
 forcing_his_character	1
-FW_FW_RB
-<br />_<br />_Then	1
-<br />_<br />_Lately	1
 DT_IN_PRP$
 all_of_his	1
-IN_JJ_JJ
-in_many_other	1
-for_plain_dumb	1
-of_good_violent	1
 VBZ_IN_VBG
 IS_in_keeping	1
-FW_DT_CD
-<br />_All_three	1
--RRB-_VBZ_VBN
--RRB-_is_killed	1
 VBD_JJ_CC
 was_weak_and	1
 were_classic_and	1
--RRB-_VBZ_VBG
--RRB-_is_gearing	1
 VBD_JJ_CD
 reigned_supreme_1984	1
 JJ_NN_WDT
@@ -3787,11 +3634,13 @@ CD_VBP_NNS
 VB_DT_RB
 see_this_badly	1
 NNP_,_DT
-II_,_some	1
 World_,_a	1
-Foley_,_the	1
-Fox_,_a	1
+II_,_some	1
 Wonderland_,_the	1
+Foley_,_the	1
+Lucas_,_a	1
+Fox_,_a	1
+Taggart_,_no	1
 TO_DT_,
 to_this_,	1
 VBD_,_IN
@@ -3805,8 +3654,8 @@ had_n't_made	1
 ``_tell_victor	1
 DT_VBZ_CD
 this_is_one	1
-VBZ_:_FW
-stinks_:_<br />	1
+NN_,_VB
+stuff_,_go	1
 CD_TO_PRP
 one_to_me	1
 NN_VBZ_JJ
@@ -3843,8 +3692,8 @@ NN_RB_DT
 hand_here_no	1
 NNS_IN_WDT
 situations_in_which	1
-VBP_JJ_TO
-'re_glad_to	1
+VBG_CC_VBG
+needing_or_wanting	1
 VBP_VBG_PRP$
 regret_paying_my	1
 WDT_VBZ_TO
@@ -3879,6 +3728,7 @@ guys_shot_Inspector	1
 ,_it_'s	4
 ,_he_does	1
 IN_DT_.
+than_this_.	1
 of_either_.	1
 PRP_VB_DT
 us_remember_the	1
@@ -3943,18 +3793,13 @@ VBP_IN_NN
 go_across_city	1
 ,_CD_CD
 ,_thirty_five	1
-NN_-RRB-_,
-debut_-RRB-_,	1
-talk_-RRB-_,	1
-place_-RRB-_,	1
+,_1994_Ten	1
 RP_CC_VBZ
 up_and_enlists	1
 VBP_VBG_PRP
 remember_figuring_he	1
 VBP_IN_NNP
 wonder_if_Eddie	1
-RB_IN_``
-together_in_``	1
 IN_WDT_PRP
 in_which_he	1
 PRP_VBP_VBG
@@ -4001,9 +3846,6 @@ NN_:_DT
 movie_:_the	1
 NNS_,_NNP
 films_,_Eddie	1
--RRB-_NNS_DT
--RRB-_witnesses_the	1
--RRB-_traces_the	1
 NN_CC_VBD
 power_and_decided	1
 coincidence_or_was	1
@@ -4051,6 +3893,7 @@ IN_PRP_VBZ
 out_he_'s	1
 as_he_works	1
 that_he_gets	1
+for_me_is	1
 that_he_has	1
 that_it_takes	1
 than_it_does	1
@@ -4060,8 +3903,6 @@ VBD_JJ_.
 was_annoying_.	1
 had_theirs_.	1
 were_great_.	1
--RRB-_CC_``
--RRB-_and_``	1
 VBD_JJ_,
 were_busy_,	1
 VBG_TO_NN
@@ -4089,18 +3930,20 @@ NN_TO_PRP
 offer_to_him	1
 reference_to_them	1
 dissapointment_to_me	1
+NN_''_JJ
+man_''_interesting	1
+''_WDT_RB
+''_that_apparently	1
 NNS_VBD_PRP
 friends_prevented_me	1
 WP_CC_VBZ
 what_and_is	1
-VBZ_VBG_RP
-is_gearing_up	1
+NN_,_NNS
+room_,_audiences	1
 CC_PRP$_JJ
 and_his_whole	1
 ''_NN_VBZ
 ''_series_is	1
-NNP_-RRB-_TO
-Carhart_-RRB-_to	1
 VB_PRP_IN
 Forgive_me_for	1
 PRP_VBZ_TO
@@ -4114,27 +3957,11 @@ part1_and_part	1
 action_and_suspense	1
 laughter_and_action	1
 pulse_or_soul	1
+film_and_concentrate	1
 cast_and_crew	1
 jeopardy_and_conflict	1
 OSCAR_and_TRADING	1
 humor_and_danger	1
-NNP_-LRB-_NNP
-Sanderson_-LRB-_John	1
-Todd_-LRB-_Gil	1
-III_-LRB-_Paramount	1
-Dave_-LRB-_Alan	1
-Rosewood_-LRB-_Judge	2
-Fulbright_-LRB-_Stephen	1
-Dewald_-LRB-_Timothy	1
-Wald_-LRB-_Timothy	1
-Foley_-LRB-_Eddie	3
-Serge_-LRB-_Bronson	3
-Janice_-LRB-_Teresa	1
-Todd_-LRB-_Gilbert	1
-Flint_-LRB-_Hector	1
-Cox_-LRB-_Capt.	1
-Ashton_-LRB-_Sgt.	1
-Axel_-LRB-_Eddie	1
 DT_NNS_.
 the_80s_.	1
 the_others_.	1
@@ -4144,18 +3971,22 @@ the_differences_.	1
 DT_IN_PRP
 those_of_you	1
 Neither_of_them	1
-WRB_NN_MD
-how_anyone_could	1
 JJ_NN_RB
 whole_movie_basically	1
 upper_hand_here	1
 appalling_film_as	1
 third_one_only	1
 wise_cop_always	1
-DT_NNS_,
-some_allies_,	1
-the_theatres_,	1
-some_levels_,	1
+RB_JJ_.
+entirely_different_.	1
+too_babyish_.	1
+n't_funny_.	1
+woefully_half-baked_.	1
+pretty_good_.	1
+quite_mediocre_.	1
+remotely_suspenseful_.	1
+pretty_unnecessary_.	1
+still_great_.	1
 NN_VBD_DT
 movie_called_The	1
 earth_did_the	1
@@ -4189,10 +4020,8 @@ for_the_most	1
 RB_VBD_NN
 actually_took_place	1
 just_had_fun	1
-VBZ_VBN_NNP
-has_seen_Inspector	1
-VBP_TO_NNP
-point_to_Beverly	1
+,_IN_IN
+,_along_with	1
 RBS_JJ_NN
 most_original_story	1
 most_three-dimensional_character	1
@@ -4206,6 +4035,7 @@ or_5_stars	1
 NNP_NNP_TO
 Beverly_Hills_to	3
 Wonder_World_to	1
+Timothy_Carhart_to	1
 CC_VB_VBN
 and_be_entertained	1
 PRP$_CD_NNS
@@ -4226,8 +4056,6 @@ MD_VB_DT
 will_do_that	1
 should_give_some	1
 can_watch_all	1
-NNS_NNS_-LRB-
-directors_cameos_-LRB-	1
 VBG_PRP_IN
 phoning_it_in	1
 CC_RB_IN
@@ -4235,14 +4063,8 @@ and_completely_out	1
 and_so_on	1
 WDT_VBD_VBN
 that_was_stolen	1
--RRB-_RB_VBD
--RRB-_really_enjoyed	1
 WDT_VBD_VBG
 that_was_annoying	1
-NN_-LRB-_VB
-bowfinger_-LRB-_see	1
-NN_WRB_JJ
-trilogy_where_nonstop	1
 NNPS_JJ_JJ
 Systems_Interdepartmental_Operational	1
 CC_DT_NNP
@@ -4261,8 +4083,8 @@ and_county_lines	1
 and_TRADING_PLACES	1
 WP_NNP_VBZ
 what_Axel_does	1
-CC_NNS_-LRB-
-and_kids_-LRB-	1
+NN_NN_DT
+spirit_ala_the	1
 ,_NN_NNP
 ,_detective_Axel	1
 LS_VB_PRP
@@ -4276,10 +4098,11 @@ just_awesome_...	1
 NN_CD_TO
 roll_two_to	1
 part_three_to	1
-IN_NNP_CD
-around_March_1994	1
+WRB_NN_MD
+how_anyone_could	1
 NNS_NNP_NNP
 operations_Orrin_Sanderson	1
+cameos_George_Lucas	1
 RP_WRB_DT
 out_why_all	1
 IN_NN_IN
@@ -4315,8 +4138,10 @@ WRB_VBP_PRP
 Where_do_I	1
 NNS_JJ_JJ
 systems_interdepartmental_operational	1
-RP_NNP_-LRB-
-back_Serge_-LRB-	1
+VBZ_IN_RB
+fills_in_neatly	1
+comes_through_again	1
+is_at_once	1
 DT_CD_VBD
 this_one_was	1
 WP_DT_JJ
@@ -4333,8 +4158,6 @@ WRB_NNP_RB
 when_DeWald_finally	1
 VBP_CD_JJ
 are_two_good	1
-FW_EX_VBZ
-<br />_There_is	1
 JJS_NN_NNS
 best_character_actors	1
 best_action_comedies	1
@@ -4342,8 +4165,8 @@ VB_IN_RB
 exist_because_even	1
 POS_NN_VBZ
 's_presence_is	1
-IN_,_UH
-because_,_yes	1
+RB_:_CC
+there_-_and	1
 VBG_VBN_IN
 getting_killed_by	1
 VB_WDT_PRP
@@ -4387,6 +4210,8 @@ like_this_one	1
 love_all_three	1
 CD_IN_FW
 IV_since_BEVERLY	1
+:_FW_NN
+..._THe_movie	1
 WDT_VBD_DT
 that_had_some	1
 that_had_the	1
@@ -4395,12 +4220,9 @@ either_L.A._,	1
 IN_IN_PRP
 that_for_me	1
 in_for_him	1
-JJ_NN_-RRB-
-Big_Adventure_-RRB-	1
-first_place_-RRB-	1
-second_film_-RRB-	1
-FW_DT_NNS
-<br />_Both_men	1
+RB_,_RB
+adaquately_,_then	1
+anyway_,_just	1
 IN_,_DT
 with_,_this	1
 NN_,_WP
@@ -4414,8 +4236,6 @@ MD_VB_,
 can_imagine_,	1
 VBP_VBG_NNP
 're_expecting_LOL	1
-FW_FW_EX
-<br />_<br />_There	1
 JJ_CD_CC
 first_2_and	1
 ''_PRP$_JJ
@@ -4435,8 +4255,6 @@ too_impressed_with	1
 as_good_as	4
 CC_NNS_CC
 and_improvs_and	1
-NNS_-LRB-_RB
-films_-LRB-_not	1
 RBS_JJ_CC
 most_talented_and	1
 POS_NN_IN
@@ -4448,8 +4266,8 @@ POS_NN_IN
 CD_VBZ_DT
 3_is_the	1
 One_is_an	1
-FW_NNP_NNP
-<br />_No_Taggart	1
+RB_VB_CD
+only_get_one	1
 RB_VB_CC
 n't_help_but	1
 VB_PRP_VBD
@@ -4463,10 +4281,11 @@ CD_NN_WDT
 one_movie_that	1
 VB_PRP_VBZ
 think_it_is	1
+VBD_DT_NNP
+got_the_Sherman	1
+was_no_John	1
 ''_VBD_PRP
 ''_started_it	1
--RRB-_IN_NNP
--RRB-_behind_Animal	1
 JJ_,_RB
 good_,_still	1
 familiar_,_almost	1
@@ -4476,8 +4295,6 @@ CD_WDT_VBZ
 3_that_'s	1
 IN_PRP$_NNS
 around_their_ears	1
--LRB-_IN_,
--LRB-_besides_,	1
 WDT_NNP_VBZ
 What_Axel_does	1
 VBZ_DT_RBS
@@ -4493,10 +4310,12 @@ Hills_,_Axel	1
 Engelwood_,_New	1
 City_,_Hollywood	1
 Sorbonne_,_University	1
+Randle_,_Treasury	1
 DISNEYLAND_,_KNOTTS	1
 House_,_Blues	1
 NIGHTS_,_BOOMERANG	1
 Harlin_,_Dwight	1
+McHattie_,_Uncle	1
 L.A._,_New	1
 Ashton_,_Ronny	1
 Rabbit_,_Axel	1
@@ -4508,8 +4327,6 @@ BROTHERS_,_ANIMAL	1
 ``_JJ_NN
 ``_American_Werewolf	1
 ``_Holy_man	1
-CD_,_IN
-two_,_because	1
 JJR_IN_NNP
 more_than_BHC	1
 DT_CD_POS
@@ -4558,6 +4375,8 @@ took_place_in	1
 had_fun_with	1
 showed_laziness_on	1
 took_place_at	1
+CC_NNP_CC
+or_Disneyworld_or	1
 CC_RB_JJ
 or_as_good	1
 and_totally_believable	1
@@ -4583,6 +4402,7 @@ well_off_each	1
 RB_RB_VBZ
 pretty_much_agrees	1
 NNP_IN_NNP
+Landis_behind_Animal	1
 Vampire_in_Brooklyn	1
 Operations_for_Joint	1
 Area_near_San	1
@@ -4608,10 +4428,6 @@ VBD_CC_CD
 did_and_10	1
 CC_JJR_IN
 but_better_than	1
-PRP$_NN_-LRB-
-his_replacement_-LRB-	1
-My_family_-LRB-	1
-his_team_-LRB-	1
 NNS_,_VBG
 allies_,_including	1
 RB_VBD_VBD
@@ -4632,14 +4448,8 @@ PRP_VBD_.
 you_did_.	1
 PRP_VBD_,
 it_happened_,	1
-NN_-LRB-_NNP
-buzzard_-LRB-_Timothy	1
-director_-LRB-_John	1
-character_-LRB-_Judge	1
 ,_WRB_MD
 ,_how_could	1
-NN_-LRB-_NNS
-family_-LRB-_ages	1
 CD_CC_VBP
 2_and_act	1
 IN_NNS_WP
@@ -4648,42 +4458,65 @@ of_friends_who	1
 DT_JJS_IN
 the_worst_in	1
 NNP_NNP_NNS
+Eddie_Murphy_witnesses	1
 Wonder_World_operations	1
 CEGID_Murphy_returns	1
 Beverly_Hills_movies	1
-NN_-RRB-_NNS
-review_-RRB-_beggars	1
+Eddie_Murphy_traces	1
 NNP_NNP_NNP
+Janice_Teresa_Randle	1
+Ashton_Sgt._Taggart	1
+Serge_Bronson_Pinchot	2
 Ellis_De_Wald	3
 KNOTTS_BERRY_FARM	1
 New_York_City	1
-<br />_No_Harold	1
+III_!!!_Beverly	1
+Cox_Capt._Bogomil	1
+Hills_Cop_III	7
 University_Versailles_Saint	1
 Mr._Eddie_Murphy	1
 HILLS_COP_III	2
-Detroit_Supercop_Axel	1
+Flint_Hector_Elizondo	1
 Supercop_Axel_Foley	1
+Orrin_Sanderson_John	1
 Top_Pee_Wee	1
+Axel_Foley_Eddie	3
 Beverly_Hills_California	1
+Detroit_Supercop_Axel	1
 Hills_Police_Department	1
-<br />_No_Jeffrey	1
-BEVERLY_HILLS_COP	2
-Nutty_Professor_II	1
-<br />_Paramount_Studios	1
-Dwight_H._Little	1
-III_!!!_Beverly	1
-Big_Top_Pee	1
-<br />_No_Bogomil	1
-Beverly_Hills_Police	1
+Axel_Eddie_Murphy	1
+Fulbright_Stephen_McHattie	1
+Todd_Gil_Hill	1
 Beverly_Hills_Cop	11
+Nutty_Professor_II	1
+Ronny_Cox_Capt.	1
+De_Wald_Timothy	1
+Jon_Flint_Hector	1
+Dwight_H._Little	1
+Billy_Rosewood_Judge	1
+Inspector_Douglas_Todd	1
+Ellis_Dewald_Timothy	1
+Dave_Alan_Young	1
+Dewald_Timothy_Carhartt	1
+Sanderson_John_Saxon	1
+Big_Top_Pee	1
+Rosewood_Judge_Reinhold	2
+Beverly_Hills_Police	1
+Inspector_Todd_Gil	1
+Inspector_Todd_Gilbert	1
+!!!_Beverly_Hills	1
+Foley_Eddie_Murphy	3
+BEVERLY_HILLS_COP	2
 Versailles_Saint_Quentin	1
+Uncle_Dave_Alan	1
 Beverly_Hills_P.D.	1
 COP_III_!!!	1
-!!!_Beverly_Hills	1
-Hills_Cop_III	7
-Inspector_Douglas_Todd	1
+John_Ashton_Sgt.	1
+Serge_Bronson_Pinochet	1
+Todd_Gilbert_R	1
+Wald_Timothy_Carhart	1
 Hills_Cop_II	1
-<p>_Eddie_Murphy	1
+Cop_III_Paramount	1
 No_Harold_Faltermeyer	1
 Gilbert_R_Hill	1
 NN_WDT_PRP
@@ -4713,12 +4546,10 @@ anybody_needing_or	1
 NNS_,_JJ
 scenes_,_terrible	1
 scripts_,_huge	1
-RB_VBN_VBZ
-so_hated_is	1
+NN_DT_JJ
+park_a_different	1
 VBP_CD_IN
 'm_one_of	1
-RB_-RRB-_.
-so_-RRB-_.	1
 VBP_VBG_RP
 start_falling_off	1
 VBP_,_CC
@@ -4740,9 +4571,6 @@ movies_that_I	1
 VB_PRP_RB
 watch_it_again	1
 urge_you_not	1
-NNP_-RRB-_IN
-Hill_-RRB-_along	1
-Landis_-RRB-_behind	1
 VBN_PRP$_VBG
 lost_his_pulling	1
 VB_PRP$_RB
@@ -4770,8 +4598,6 @@ definitely_one_of	1
 Somehow_one_of	1
 VBG_IN_NNP
 living_in_Arizona	1
--LRB-_NN_DT
--LRB-_ala_the	1
 DT_NN_NN
 the_box_office	2
 the_editing_room	1
@@ -4842,8 +4668,6 @@ RB_:_VB
 around_--_look	1
 SYM_NN_NN
 *_%_song	1
-FW_FW_FW
-<br />_<br />_THe	1
 VBD_JJR_RB
 was_shorter_then	1
 JJ_CC_VBD
@@ -4875,8 +4699,8 @@ NN_MD_RB
 movie_would_n't	1
 NN_IN_WP
 line_with_what	1
-CC_VBN_JJ
-and_been_successful	1
+NNPS_''_RB
+Klumps_''_definitely	1
 JJ_JJ_IN
 few_other_of	1
 NN_RB_,
@@ -4902,27 +4726,21 @@ so-called_taken_place	1
 VB_JJ_PRP
 be_glad_you	1
 VB_DT_NN
-<br />_The_story	1
 expose_the_plot	1
 find_the_killer	1
-<br />_The_production	1
 ruin_the_movie	1
-<p>_The_direction	1
-<br />_No_opening	1
 leave_the_movie	1
 buy_this_film	1
 find_this_film	1
 Skip_this_one	1
-<br />_No_Bruckheimer/Simpson	1
+have_the_level	1
 investigate_the_murder	1
 watch_this_movie	1
 have_a_turn	1
 conduct_an_investigation	1
 support_the_story	1
-meld_the_comedy	1
-have_the_level	1
 get_the_man	1
-<br />_No_wisecracking	1
+meld_the_comedy	1
 PRP_VBD_VBD
 I_liked_was	1
 PRP_VBD_VBG
@@ -4936,6 +4754,10 @@ I_was_going	1
 ,_disinterested_performance	1
 ,_boring_plot	1
 ,_tense_action	1
+NNP_IN_CC
+Murphy_before_and	1
+NNP_WP_FW
+Carhartt_who_i	1
 PRP_VBD_VBN
 it_had_tried	1
 it_was_released	1
@@ -4960,6 +4782,8 @@ usher_Eddie_Murphy	1
 Imagine_Our_Hero	1
 ''_NNP_NNP
 ''_Eddie_Murphy	1
+CC_VBN_JJ
+and_been_successful	1
 NNS_CC_JJ
 dinosaurs_and_other	1
 :_PRP_VBP
@@ -4975,6 +4799,8 @@ TO_NN_CC
 to_america_or	1
 IN_CC_VBD
 before_and_made	1
+JJ_CC_``
+amusing_and_``	1
 ,_WP$_JJ
 ,_whose_previous	1
 VBG_RB_JJ
@@ -5057,14 +4883,13 @@ who_then_hightails	1
 RB_VB_RB
 n't_help_just	1
 n't_come_out	1
-CC_CD_-RRB-
-and_44_-RRB-	1
 RBR_IN_NN
 better_on_dvd	1
 :_NNP_NNP
 -_Mr._Eddie	1
--_Great_America	1
 -_Timothy_Carhart	1
+-_Great_America	1
+:_No_Taggart	1
 VB_IN_DT
 Watch_with_an	1
 get_into_the	1
@@ -5075,10 +4900,6 @@ watch_after_a	1
 succeed_on_some	1
 make_for_some	1
 play_with_each	1
-VBD_JJ_-LRB-
-was_due_-LRB-	1
-NNPS_''_-RRB-
-Brothers_''_-RRB-	1
 NNP_VBZ_NNP
 Billy_introduces_Axel	1
 Todd_tells_Axel	1
@@ -5098,12 +4919,12 @@ go_off_every	1
 Pick_up_all	1
 set_up_a	1
 cover_up_the	1
-PRP_-RRB-_VBZ
-me_-RRB-_is	1
 IN_VBG_DT
 for_betraying_the	1
 without_watching_the	1
 by_dropping_a	1
+PRP$_NN_NNS
+My_family_ages	1
 PRP$_NN_NNP
 his_boss_Inspector	1
 his_friend_Billy	1
@@ -5153,8 +4974,9 @@ seems_to_agree	1
 VB_NN_CD
 add_part_three	1
 add_part_3	1
-NN_NNP_.
-inpector_Todd_.	1
+IN_DT_VBZ
+that_this_is	1
+like_this_does	1
 IN_VBG_RB
 from_doing_so	1
 NN_NN_VBN
@@ -5177,8 +4999,6 @@ VBG_NNS_VBP
 returning_characters_are	1
 CD_TO_PRP$
 three_to_its	1
-FW_VBP_RB
-<br />_Do_n't	1
 IN_PRP$_JJ
 with_its_own	1
 of_his_undisputed	1
@@ -5192,10 +5012,8 @@ DT_JJ_``
 the_popular_``	1
 this_third_``	1
 a_lame_`	1
-NNP_:_DT
-Robert_-_the	1
-II_:_The	1
-Landis_-_the	1
+''_JJ_CC
+''_interesting_but	1
 PRP_RP_.
 it_over_!	1
 it_out_!	1
@@ -5281,11 +5099,10 @@ NNP_,_IN
 Bogamill_,_although	1
 Detroit_,_during	1
 California_,_about	1
+Travolta_,_with	1
 Paramount_,_so	1
 TO_NN_VBG
 to_anybody_needing	1
-IN_EX_VBZ
-so_there_is	1
 WDT_VBZ_IN
 that_works_at	1
 RB_NNP_VBZ
@@ -5296,15 +5113,12 @@ NN_DT_RP
 mess_this_up	1
 NN_NN_RB
 plot_device_anyway	1
-<br />_Everyone_pretty	1
 eddie_murphy_reputedly	1
 end_result_just	1
 CC_VBD_,
 and_went_,	1
 PRP_JJR_.
 it_deeper_.	1
--LRB-_NNP_,
--LRB-_Paramount_,	1
 RB_RBR_IN
 no_longer_that	1
 PRP_VBP_VB
@@ -5427,8 +5241,6 @@ or_heroic_,	1
 and_static_,	1
 VBZ_``_VB
 says_``_tell	1
-FW_RB_PRP
-<br />_Lately_I	1
 ,_VBZ_CC
 ,_is_both	1
 DT_NNP_NN
@@ -5446,6 +5258,7 @@ VBP_DT_NNS
 have_some_gags	1
 say_the_words	1
 CD_NNS_RB
+48hrs_films_not	1
 two_hours_back	1
 7_years_later	1
 NN_VBZ_IN
@@ -5478,23 +5291,14 @@ VB_TO_VB
 begin_to_see	1
 want_to_give	1
 seem_to_do	1
-RP_DT_NN
-up_the_fact	1
-off_every_second	1
-up_a_bust	1
-down_the_role	1
-up_a_meeting	1
+NN_PRP$_NNS
+theater_my_friends	1
 NNS_IN_``
 movies_like_``	1
 sequences_of_``	1
 flicks_like_``	1
 comedies_like_``	1
 things_about_``	1
-NN_-RRB-_.
-JSIOC_-RRB-_.	1
-dialogue_-RRB-_.	1
-Adventure_-RRB-_.	1
-laugh_-RRB-_.	1
 IN_JJ_NN
 of_funny_dialogue	1
 in_long_distance	1
@@ -5512,7 +5316,7 @@ Wee_of_Big	1
 ``_NNP_IN
 ``_Vampire_in	1
 CC_:_FW
-But_..._<br />	1
+But_..._THe	1
 NNP_NNS_,
 Hills_movies_,	1
 VBD_RB_VB
@@ -5529,8 +5333,6 @@ JJ_:_CD
 awesome_..._One	1
 VBP_NN_VB
 SEE_!!!_Pick	1
--LRB-_VBD_PRP
--LRB-_were_they	1
 VBZ_,_``
 is_,_``	1
 DT_CD_IN
@@ -5548,12 +5350,9 @@ my_review_for	1
 his_penchant_for	1
 their_reason_for	1
 my_rating_for	1
-NN_NNS_RB
-movie_theatres_back	1
-movie_2-thumbs_down	1
-fun_moments_here	1
-character_actors_around	1
-crime_scenes_always	1
+JJ_NNP_,
+funny_Murphy_,	1
+usual_Rosewood_,	1
 ``_NNP_.
 ``_Walt_.	1
 PRP_RB_,
@@ -5582,6 +5381,8 @@ meal_when_he	1
 guess_where_it	1
 reason_why_I	1
 idea_why_they	1
+NN_VBD_PRP
+veneer_were_they	1
 TO_VB_VBN
 to_be_taken	1
 VBD_RB_DT
@@ -5639,8 +5440,6 @@ I_and_II	2
 4_or_5	1
 ,_NN_CC
 ,_OSCAR_and	1
-JJR_TO_VB
-more_to_have	1
 ,_CC_DT
 ,_and_no	1
 ,_but_the	2
@@ -5654,8 +5453,6 @@ CC_VB_NN
 and_give_everyone	1
 RB_IN_PRP$
 back_in_his	1
-NNS_-LRB-_PRP
-kids_-LRB-_he	1
 IN_NNP_RB
 in_Michigan_always	1
 because_Eddie_just	1
@@ -5686,18 +5483,14 @@ why_not_let	1
 ,_the_irascible	1
 VB_NN_RB
 do_anything_right	1
-NN_NNS_-LRB-
-film_directors_-LRB-	1
-IN_JJ_-RRB-
-than_amusing_-RRB-	1
+RB_TO_VBG
+around_to_making	1
 NNP_TO_PRP$
 Axel_to_his	1
 NNS_WDT_MD
 movies_that_will	1
 NN_PRP$_CD
 everyone_their_two	1
-FW_FW_VBP
-<br />_<br />_Do	1
 NNP_POS_JJ
 Landis_'_usual	1
 Reinhold_'s_gung-ho	1
@@ -5736,8 +5529,6 @@ This_time_,	1
 Foley_mode_,	1
 TO_``_VB
 to_``_Come	1
-,_CD_-RRB-
-,_1994_-RRB-	1
 ''_NN_.
 ''_saga_.	1
 VBP_TO_PRP$
@@ -5762,11 +5553,12 @@ well_,_and	1
 CC_NN_WDT
 and_conflict_that	1
 NNP_VBZ_VBN
-Axel_is_reunited	1
 Todd_is_killed	1
+Axel_is_sent	1
+Hill_is_killed	1
+Axel_is_reunited	1
 Taggart_has_retired	1
 Taggart_is_gone	1
-Axel_is_sent	1
 DT_NNP_PRP
 the_Axel_you	1
 IN_NNS_CC
@@ -5775,6 +5567,7 @@ DT_NNS_WRB
 those_movies_where	1
 NNP_VBZ_VBG
 Axel_is_doing	1
+Murphy_is_gearing	1
 NNS_IN_DT
 movies_in_this	1
 cameos_by_a	1
@@ -5839,18 +5632,17 @@ bring_down_DeWald	1
 bring_down_Ellis	1
 WP_PRP$_NN
 what_his_character	1
-FW_FW_DT
-<br />_<br />_A	1
-<br />_<br />_Both	1
-<br />_<br />_All	1
-<br />_<br />_This	1
-<br />_<br />_The	4
 VBZ_RB_PDT
 is_n't_all	1
 NNP_NNP_WP
 Danny_Glover_who	1
-John_Landos_who	1
+Hector_Elizondo_who	1
 Karthyn_Bigelow_who	1
+Timothy_Carhart_who	1
+Judge_Reinhold_who	1
+Timothy_Carhartt_who	1
+John_Landos_who	1
+John_Ashton_who	1
 NN_VBP_PRP
 didnt_take_it	1
 NNP_WP_VBD
@@ -5887,10 +5679,6 @@ NNS_RB_WRB
 2-thumbs_down_when	1
 RB_JJ_NNP
 usually_reliable_Steven	1
--RRB-_VBZ_RB
--RRB-_comes_back	1
--RRB-_is_back	1
--RRB-_is_so	1
 CC_VBZ_CC
 and_chases_and	1
 RB_JJ_LS
@@ -5914,8 +5702,6 @@ due_to_the	2
 ,_still_gets	1
 VBZ_PRP_VBD
 finds_himself_dragged	1
-FW_FW_VB
-<br />_<br />_Watch	1
 ,_RB_VBP
 ,_just_watch	1
 CC_NNP_NNP
@@ -5924,7 +5710,7 @@ but_Ellis_De	1
 and_Joey_Travolta	1
 and_Jonathan_Banks	1
 and_Inspector_Todd	1
-and_Paul_Reiser	1
+and_Rosewood_Judge	1
 or_San_Francisco	1
 and_Jerry_Bruckhiemer	1
 and_Brigitte_Nielsen	1
@@ -5933,6 +5719,7 @@ and_Beverly_Hills	1
 or_Eddie_Murphy	1
 but_Beverly_Hills	1
 and_Axel_Foley	1
+and_Paul_Reiser	1
 and_John_Saxon	1
 ,_RB_VBN
 ,_now_promoted	1
@@ -5982,8 +5769,8 @@ frequently_played_for	1
 unfortunately_replaced_by	1
 now_promoted_from	1
 really_hit_by	1
-NN_,_NNS
-room_,_audiences	1
+VBZ_VBG_RP
+is_gearing_up	1
 RB_PRP_VBP
 So_I_do	1
 instead_we_have	1
@@ -6011,10 +5798,8 @@ why_it_is	1
 when_he_says	1
 when_it_pans	1
 where_it_leads	1
-DT_NN_-LRB-
-the_theater_-LRB-	1
--LRB-_JJ_CC
--LRB-_interesting_but	1
+VBZ_VBN_NNP
+has_seen_Inspector	1
 VBZ_NN_VBZ
 's_absence_is	1
 NN_IN_CD
@@ -6063,15 +5848,14 @@ why_they_teamed	1
 when_it_was	1
 VBP_JJ_NN
 recommend_GREAT_AMERICA	1
-VBG_CC_VBG
-needing_or_wanting	1
+VBP_JJ_TO
+'re_glad_to	1
 NNS_VBP_NNP
 near-giggles_are_Bronson	1
 characters_are_Inspector	1
 RP_NNP_NNP
+back_Serge_Bronson	1
 down_Ellis_Dewald	1
--RRB-_,_RB
--RRB-_,_now	2
 NNP_CC_JJ
 America_and_few	1
 WRB_JJ_PRP
@@ -6089,9 +5873,8 @@ PRP_VBG_PRP
 you_giving_it	1
 VBP_NN_IN
 have_mercy_on	1
-VBD_DT_NNP
-got_the_Sherman	1
-was_no_John	1
+RP_._.
+up_?_.	1
 VB_IN_NNP
 mind_that_Murphy	1
 feel_like_Axel	1
@@ -6102,9 +5885,6 @@ wait_for_Foley	1
 JJ_,_PRP
 first_,_you	1
 wrong_,_I	1
--RRB-_,_DT
--RRB-_,_no	1
--RRB-_,_a	1
 CD_VBD_JJ
 2_were_great	1
 2_were_classic	1
@@ -6133,8 +5913,6 @@ POS_JJ_NN
 's_whole_premise	1
 NN_VBD_JJR
 list_was_shorter	1
-NNP_-LRB-_CC
-Todd_-LRB-_but	1
 RBR_,_NNS
 more_,_others	1
 NNP_NN_RB
@@ -6145,12 +5923,12 @@ first_meets_DeWald	1
 so_is_Sgt.	1
 VBD_DT_IN
 were_all_at	1
--RRB-_IN_IN
--RRB-_along_as	1
 VBZ_DT_RB
 's_the_only	1
 gives_a_very	1
 is_a_little	1
+IN_NN_VB
+in_bowfinger_see	1
 VB_PRP_CC
 see_them_and	1
 NNP_:_TO
@@ -6160,10 +5938,8 @@ why_this_did	1
 VB_RB_IN
 come_out_till	1
 bounce_well_off	1
--RRB-_WP_FW
--RRB-_who_i	1
-JJ_-LRB-_IN
-due_-LRB-_besides	1
+NN_NNP_.
+inpector_Todd_.	1
 :_CD_JJ
 -_two_beloved	1
 NNP_CC_NNS
@@ -6198,6 +5974,8 @@ with_The_Distinguished	1
 IN_DT_VBD
 of_that_took	1
 that_this_was	3
+NNP_IN_IN
+Hill_along_as	1
 RB_VB_NN
 even_set_foot	1
 n't_take_place	1
@@ -6249,13 +6027,6 @@ the_``_Black	1
 PRP$_VBG_NN
 his_pulling_power	1
 his_starring_debut	1
--LRB-_RB_CD
--LRB-_definitely_one	1
-FW_DT_NN
-<br />_This_film	1
-<br />_A_bust	1
-<br />_The_DVD	1
-<br />_The_movie	1
 CC_DT_JJ
 and_the_Bad	1
 and_the_last	1
@@ -6263,8 +6034,6 @@ Plus_the_whole	1
 and_the_only	1
 and_the_second	1
 and_a_few	1
-NNS_._-RRB-
-lines_._-RRB-	1
 NNP_,_VBD
 Ashton_,_had	1
 Funny_,_loved	1
@@ -6317,8 +6086,8 @@ Foley_was_on	1
 Cop_went_through	1
 Murphy_was_in	1
 Foley_had_in	1
-FW_WRB_VBP
-<br />_Where_do	1
+NNS_PRP_VBD
+kids_he_was	1
 IN_VBG_PRP$
 of_forcing_his	1
 on_getting_his	1
@@ -6333,10 +6102,6 @@ NNP_PRP_VBP
 Axel_you_know	1
 NNS_NN_PRP
 extras_content_I	1
-JJR_NN_-RRB-
-earlier_review_-RRB-	1
--LRB-_VB_JJR
--LRB-_see_earlier	1
 VBG_NNP_NNP
 including_Eddie_Murphy	1
 including_Wonder_World	1
@@ -6345,8 +6110,9 @@ RB_,_''
 not_,_''	1
 NNP_,_VBG
 Todd_,_getting	1
-:_RB_RB
-;_quite_well	1
+CC_IN_JJ
+and_that_cool	1
+but_that_heroic	1
 VBD_DT_$
 did_the_$	1
 VB_VBN_RB
@@ -6366,6 +6132,8 @@ be_funny_in	1
 VBZ_VBN_CC
 is_forced_and	1
 is_gone_and	1
+NNS_NNS_NNP
+directors_cameos_George	1
 :_DT_JJ
 -_a_steely	1
 VBG_RP_,
@@ -6425,8 +6193,6 @@ reaches_that_point	1
 whines_about_ticket	1
 JJ_NNS_TO
 crazy_schemes_to	1
-IN_NN_-LRB-
-in_bowfinger_-LRB-	1
 RB_,_DT
 though_,_the	1
 Also_,_any	1
@@ -6450,10 +6216,12 @@ park_back_in	1
 one_even_if	1
 gate_twice_during	1
 game_back_in	1
+waste_back_in	1
 VBD_RP_RB
 listed_up_there	1
 teamed_up_together	1
 NNP_CC_PRP
+Todd_but_he	1
 Carhart_but_he	1
 VBP_FW_FW
 want_eddie_murphy	1
@@ -6474,6 +6242,8 @@ NN_,_MD
 help_,_will	1
 NNS_JJ_TO
 times_due_to	1
+DT_NN_PRP$
+the_theater_my	1
 JJ_NN_JJ
 clever_street_wise	1
 DT_VBZ_DT
@@ -6487,8 +6257,6 @@ That_'s_a	1
 This_is_the	1
 DT_RP_.
 this_up_?	1
-CC_NNP_-LRB-
-and_Rosewood_-LRB-	1
 JJ_PRP_VBD
 glad_you_did	1
 many_I_listed	1
@@ -6503,11 +6271,8 @@ notorious_It_'s	1
 see-through_it_is	1
 RB_,_VB
 Anyway_,_avoid	1
-''_-LRB-_WDT
-''_-LRB-_that	1
 FW_FW_IN
 john_ashton_as	1
-<br />_<br />_In	2
 VBN_VBG_PRP$
 started_believing_their	1
 PRP_VBG_TO
@@ -6519,14 +6284,14 @@ VBN_JJ_,
 been_successful_,	1
 NNP_VBD_NNS
 Murphy_got_roles	1
-NNPS_''_-LRB-
-Klumps_''_-LRB-	1
 CC_WP_PRP
 and_what_we	1
 NNP_VBD_NNP
 Paramount_wanted_Landis	1
 Disneyland_called_Wonderworld	1
 Area_called_WONDERWOLD	1
+CC_NNS_PRP
+and_kids_he	1
 CC_VBZ_DT
 and_enlists_the	1
 and_finds_the	1
@@ -6560,6 +6325,7 @@ boring_scenes_.	1
 JJ_NNS_,
 hammy_villains_,	1
 horrible_scripts_,	1
+excellent_scenes_,	1
 funny_films_,	1
 unfunny_scenes_,	1
 favorite_actors_,	1
@@ -6589,8 +6355,14 @@ the_first_two	7
 The_first_2	1
 the_only_two	1
 the_first_2	8
-NN_EX_VBP
-<p>_There_are	2
+DT_JJ_CC
+the_slick_and	1
+the_tenacious_but	1
+the_top_but	1
+the_irascible_and	1
+this_third_and	1
+a_4th_and	1
+The_2nd_&	1
 RB_JJ_CC
 horribly_wrong_and	1
 not_funny_and	1
@@ -6610,8 +6382,6 @@ love_that_it	1
 recommend_that_you	1
 RB_CC_RB
 here_and_there	1
--LRB-_WP_VBZ
--LRB-_who_'s	2
 JJ_VBZ_PRP$
 first_is_my	1
 CC_JJ_NNP
@@ -6645,8 +6415,10 @@ VBG_RP_DT
 gearing_up_a	1
 ``_CD_NNS
 ``_48_Hrs	1
-PRP_PRP_VBD
-it_he_used	1
+IN_NNP_IN
+with_Murphy_before	1
+from_Detroit_in	1
+of_Operations_for	1
 ,_JJ_,
 ,_predictable_,	1
 VBN_IN_NNP
@@ -6715,27 +6487,22 @@ NNP_VBD_JJ
 Todd_shot_dead	1
 :_VB_JJ
 --_look_bad	1
--LRB-_VBG_NNP
--LRB-_including_Jon	1
 :_NNP_CC
 -_Richard_and	1
-NNP_-LRB-_NN
-Foley_-LRB-_kind	1
 PRP_VBD_RP
 I_listed_up	1
 they_teamed_up	1
 VBD_VBN_PRP$
 had_lost_his	1
-RB_NNP_-LRB-
-Even_Serge_-LRB-	1
 NN_MD_VBZ
 film_may_seems	1
 VBG_RP_NNP
 bringing_back_Serge	1
 CC_,_DT
 But_,_this	1
-MD_VBZ_JJ
-may_seems_familiar	1
+CD_CD_NNS
+1994_Ten_years	1
+thirty_five_dollars	1
 DT_CD_CC
 the_1_and	1
 VBN_TO_NNP
@@ -6809,6 +6576,7 @@ Murphy_took_the	1
 Cop_needed_no	1
 Paramount_butchered_Another	1
 Eddie_had_a	1
+Pinochet_was_a	1
 Ebert_gave_this	1
 Eddie_took_a	1
 NNS_,_NN
@@ -6821,8 +6589,10 @@ be_too_soon	1
 NN_NN_VBG
 F_theme_playing	1
 couterfiet_ring_operating	1
-''_``_JJ
-''_``_American	1
+IN_JJ_NNP
+as_usual_Rosewood	1
+by_veteran_Murphy	1
+into_full_Foley	1
 IN_RB_VBG
 in_neatly_yelling	1
 DT_NNS_PRP
@@ -6971,16 +6741,15 @@ PRP_VBD_NNP
 It_complimented_Tony	1
 NN_VBZ_VB
 series_does_succeed	1
--RRB-_,_NNP
--RRB-_,_Uncle	1
--RRB-_,_Treasury	1
+NNP_:_DT
+Robert_-_the	1
+II_:_The	1
+Landis_-_the	1
 DT_NN_:
 a_trail_...	1
 this_sh_--	1
 this_movie_:	1
 the_line_-	1
-NN_,_VB
-stuff_,_go	1
 CD_CC_PRP
 2_and_I	1
 NN_JJ_NN
@@ -7053,7 +6822,6 @@ VB_DT_JJ
 write_a_similar	1
 Watch_the_first	1
 Whenever_a_3rd	1
-<br />_The_whole	1
 remember_the_first	1
 use_a_real	1
 get_the_upper	1
@@ -7069,8 +6837,6 @@ not_as_good	2
 only_completely_clear	1
 n't_enough_funny	1
 even_remotely_suspenseful	1
-VBG_IN_IN
-operating_out_of	1
 WDT_PRP_VBD
 whatever_he_wanted	1
 NNS_VBD_JJ
@@ -7087,8 +6853,6 @@ which_I_'m	1
 which_we_do	1
 NNPS_''_CC
 Brothers_''_and	1
-,_-LRB-_IN
-,_-LRB-_in	1
 PRP_RB_RB
 it_even_remotely	1
 it_all_just	1
@@ -7110,6 +6874,7 @@ soul_--_something	1
 premise_-_Axel	1
 JJ_NN_VBD
 above_list_was	1
+family-style_veneer_were	1
 recent_installment_was	1
 VBG_PRP_.
 watching_it_.	1
@@ -7121,7 +6886,6 @@ GREAT_AMERICA_is	1
 whole_thing_feels	1
 NNP_NNP_VBG
 Hector_Elizondo_howling	1
-<br />_Now_knowing	1
 NNS_CC_NN
 things_but_lord	1
 limits_and_county	1
@@ -7131,6 +6895,7 @@ L.A._Area_called	1
 Axel_Foley_had	1
 Axel_Foley_doesnt	1
 Hills_Cop_went	1
+Bronson_Pinochet_was	1
 Eddie_Murphy_took	1
 Eddie_Murphy_got	1
 COP_III_was	1
@@ -7153,18 +6918,6 @@ film_and_then	1
 action_and_even	1
 ``_NNS_''
 ``_jerks_''	1
-NNP_NNP_-LRB-
-De_Wald_-LRB-	1
-Ronny_Cox_-LRB-	1
-John_Ashton_-LRB-	2
-Axel_Foley_-LRB-	4
-Ellis_Dewald_-LRB-	1
-Uncle_Dave_-LRB-	1
-Cop_III_-LRB-	1
-Jon_Flint_-LRB-	1
-Inspector_Todd_-LRB-	4
-Orrin_Sanderson_-LRB-	1
-Billy_Rosewood_-LRB-	1
 VBZ_VBN_NN
 's_got_herpesemplex	1
 WP_PRP_RB
@@ -7177,8 +6930,6 @@ WP_VBD_VBN
 who_had_spent	1
 IN_DT_WP
 of_those_who	1
-IN_DT_-RRB-
-than_this_-RRB-	1
 VBP_RP_PRP$
 wear_out_their	1
 NNP_''_NNP
@@ -7186,9 +6937,6 @@ III_''_Eddie	1
 NN_IN_WDT
 series_in_which	1
 scene_in_which	1
-FW_IN_NN
-<br />_In_conclusion	1
-<br />_In_addition	1
 TO_RB_VB
 to_even_namecheck	1
 to_maybe_find	1
@@ -7209,8 +6957,6 @@ first_2_are	1
 ''_and_of	1
 DT_JJR_NNP
 an_older_Axel	1
-DT_-RRB-_.
-this_-RRB-_.	1
 IN_PRP_MD
 as_you_can	1
 that_he_will	1
@@ -7261,7 +7007,8 @@ film_and_the	1
 heck_and_the	1
 FW_NN_RB
 Wonderworld_setting_alone	1
-<br />_Something_else	1
+NN_VBG_NNP
+team_including_Jon	1
 VB_DT_IN
 watch_all_of	1
 NNS_VBD_VBN
@@ -7315,6 +7062,7 @@ and_others_.	1
 and_hits_.	1
 and_stunts_.	1
 IN_JJ_CC
+than_amusing_and	1
 as_funny_or	1
 VBZ_RP_IN
 pans_down_across	1
@@ -7336,6 +7084,7 @@ It_is_never	1
 it_is_indeed	1
 it_'s_just	1
 It_is_just	1
+me_is_so	1
 it_'s_not	1
 RB_,_NNP
 well_,_Flint	1
@@ -7354,13 +7103,9 @@ has_ever_seen	1
 is_so_laid	1
 is_now_retired	1
 is_so_hated	1
--LRB-_DT_NN
--LRB-_a_waste	1
 PRP_,_CC
 him_,_and	1
 himself_,_and	1
-NN_-LRB-_PRP$
-theater_-LRB-_my	1
 NNS_MD_VB
 Action-comedies_can_be	1
 gentlemen_can_be	1
@@ -7374,14 +7119,10 @@ recommend_BEVERLY_HILLS	1
 like_Beverly_Hills	1
 are_Bronson_Pinchot	1
 are_Inspector_Todd	1
-FW_NN_NNP
-<br />_Dr_Jacques	1
 FW_NN_NNS
 HILLS_COP_installments	1
 CC_VBZ_VBN
 but_is_called	1
--LRB-_IN_NN
--LRB-_in_fact	1
 CC_VBD_RP
 and_paid_off	1
 PRP_VBP_DT
@@ -7440,6 +7181,7 @@ RB_VBZ_PRP
 soon_finds_himself	1
 then_hightails_it	1
 NN_WP_VBZ
+replacement_who_'s	1
 relative_who_comes	1
 cop_who_helps	1
 guy_who_is	1
@@ -7570,6 +7312,7 @@ RB_NNP_NNS
 Instead_Foley_fumbles	1
 RB_NNP_NNP
 indeed_Beverly_Hills	1
+Even_Serge_Bronson	1
 even_Karthyn_Bigelow	1
 maybe_Hector_Elizondo	1
 VBZ_JJ_NN
@@ -7584,6 +7327,7 @@ NN_NNS_IN
 line_parts_as	1
 action_comedies_of	1
 duo_footsteps_of	1
+film_directors_like	1
 cartoon_characters_in	1
 film_directors_into	1
 hit_comedies_like	1
@@ -7598,6 +7342,8 @@ VB_IN_NN
 keep_in_mind	1
 PRP_CC_VB
 them_and_catch	1
+NNP_''_JJ
+Dolittle_''_cute	1
 NNP_,_MD
 Todd_,_would	1
 PRP_NN_TO
@@ -7614,9 +7360,8 @@ villainous_duo_footsteps	1
 huge_plot_holes	1
 famous_film_directors	1
 JJ_NN_NNP
+eyed_buzzard_Timothy	1
 old_buddy_Serge	1
-,_IN_IN
-,_along_with	1
 IN_NNP_VBZ
 that_Murphy_is	1
 in_Detriot_bites	1
@@ -7647,17 +7392,12 @@ POS_NN_.
 '_story_.	1
 WP_VBD_PRP
 who_shot_him	1
--LRB-_NN_IN
--LRB-_kind_of	1
 NN_CD_NN
 ANOTHER_48_HRS.	1
 DT_,_CC
 this_,_and	1
 RP_CC_VB
 up_and_leave	1
-IN_DT_VBZ
-that_this_is	1
-like_this_does	1
 ,_RB_IN
 ,_especially_for	1
 ,_now_out	1
@@ -7683,6 +7423,7 @@ last_week_,	1
 GOLDEN_CHILD_,	1
 American_Werewolf_,	1
 bad_guy_,	1
+first_place_,	1
 first_movie_,	1
 enough_sequel_,	1
 much_help_,	1
@@ -7706,6 +7447,7 @@ popular_series_.	1
 own_coolness_.	1
 first_movie_.	1
 perfect_movie_.	1
+Big_Adventure_.	1
 awesome_trilogy_.	1
 promising_series_.	1
 boring_plot_.	1
@@ -7763,8 +7505,6 @@ where_Axel_saves	1
 ,_Coming_To	1
 ,_listening_to	1
 ,_COMING_TO	1
--RRB-_,_CC
--RRB-_,_and	2
 IN_RB_IN
 because_even_though	1
 with_nowhere_near	1
@@ -7776,6 +7516,8 @@ However_,_they	1
 seriously_,_they	1
 So_,_I	1
 ever_,_it	1
+NNPS_''_,
+Brothers_''_,	1
 NNS_TO_DT
 kids_to_a	1
 PRP$_JJ_NN
@@ -7795,6 +7537,8 @@ VBZ_RB_PRP
 thrills_instead_we	1
 CD_VBP_NN
 two_chop_shop	1
+NNS_RB_NNS
+films_not_classics	1
 NNS_,_CC
 junkies_,_and	1
 holes_,_and	1
@@ -7819,6 +7563,7 @@ The_story_never	1
 this_one_even	1
 the_gate_twice	1
 the_park_back	1
+a_waste_back	1
 This_character_just	1
 no_suspense_here	1
 NN_CD_VBN
@@ -7839,9 +7584,6 @@ bunch_of_painfully	1
 movie_in_quite	1
 NN_VBZ_PRP
 film_shows_they	1
-:_FW_FW
-..._<br />_<br />	1
-:_<br />_<br />	1
 IN_IN_VBG
 out_of_skewering	1
 CD_IN_NN
@@ -7850,8 +7592,6 @@ TO_NNP_IN
 to_Arizona_with	1
 VB_NN_PRP$
 give_everyone_their	1
--LRB-_RB_NNS
--LRB-_not_classics	1
 VBD_PRP$_NN
 killed_his_friend	1
 annoyed_his_target	1
@@ -7926,10 +7666,8 @@ II_''_-	1
 PRP$_RB_JJ
 its_just_awesome	1
 its_absolutely_hilarious	1
-IN_JJ_NNP
-as_usual_Rosewood	1
-by_veteran_Murphy	1
-into_full_Foley	1
+''_``_JJ
+''_``_American	1
 IN_JJ_NNS
 with_amazing_stunts	1
 of_ridiculous_situations	1
@@ -7955,6 +7693,8 @@ who_says_that	1
 ,_including_Eddie	1
 ,_showing_Landis	1
 ,_leaving_Axel	1
+NN_VB_JJR
+bowfinger_see_earlier	1
 CC_VBP_IN
 and_act_like	1
 NN_VBD_NNS
@@ -7974,8 +7714,6 @@ VB_PRP_NN
 make_you_laugh	1
 VBG_PRP_VB
 letting_him_run	1
-FW_CC_,
-<br />_But_,	1
 VBG_NNP_POS
 showing_Landis_'	1
 RB_NNS_,

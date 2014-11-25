@@ -1,18 +1,3 @@
-NN_-LRB-
-literature_-LRB-	1
-Caution_-LRB-	2
-watching_-LRB-	1
-transfer_-LRB-	1
-monotheism_-LRB-	1
-metaphor_-LRB-	1
-Odyssey_-LRB-	1
-poetry_-LRB-	1
-*_-LRB-	1
-genre_-LRB-	1
-literalist_-LRB-	1
-treatment_-LRB-	1
-hero_-LRB-	1
-dictionary_-LRB-	1
 IN_NN
 of_course	2
 for_Caution	1
@@ -134,10 +119,6 @@ VBN_VBG
 been_playing	1
 been_trying	1
 required_viewing	1
-FW_DT
-<br />_A	1
-<br />_This	3
-<br />_The	5
 TO_WRB
 to_why	1
 CC_JJ
@@ -203,8 +184,8 @@ in_``	1
 by_``	2
 POS_CC
 's_and	1
-WDT_IN
-which_at	1
+VBD_RBS
+believed_most	1
 VBN_.
 brainwashed_.	1
 made_.	1
@@ -221,6 +202,7 @@ remastered_,	1
 struck_,	1
 told_,	1
 understood_,	1
+letterboxed_,	1
 prohibited_,	1
 known_,	1
 released_,	1
@@ -262,8 +244,6 @@ films_that	2
 species_that	1
 beings_that	1
 notes_that	1
--RRB-_FW
--RSB-_<br />	2
 DT_FW
 a_Sci-Fi	1
 RB_JJR
@@ -280,6 +260,7 @@ RP_,
 up_,	1
 VBN_JJ
 called_widescreen	1
+constructed_such	1
 WP_VBP
 who_shoot	1
 who_like	1
@@ -300,34 +281,24 @@ who_falls	1
 who_loves	1
 what_is	1
 what_has	1
--RRB-_MD
--RRB-_could	1
--RRB-_,
--RRB-_,	7
--RRB-_.
--RRB-_.	12
--RRB-_!	1
 VB_FW
 be_in	1
 NNP_CD
 Germany_90	1
 Alpha_60	8
+Woman_1961	1
+Metropolis_1927	1
 WP_MD
 who_can	1
 who_might	1
 what_will	1
 RP_VBG
 up_stopping	1
-VB_-LRB-
-capture_-LRB-	1
--RRB-_:
--RRB-_;	1
+:_JJS
+-_fest	1
 RBS_JJ
 most_stark	1
 most_intellectual	1
-''_-LRB-
-''_-LRB-	2
-'_-LRB-	1
 :_NN
 ;_etc.	1
 ..._world	1
@@ -441,11 +412,69 @@ be_in	2
 go_with	1
 CD_WDT
 one_that	1
-VBG_''
-pretending_''	1
-defining_'	1
-saying_''	1
-coming_''	1
+VBN_IN
+enjoyed_by	1
+missed_on	1
+composed_of	2
+confused_by	1
+Made_in	1
+puzzled_as	1
+played_in	1
+embodied_by	1
+controlled_by	1
+dissuaded_by	1
+taken_in	1
+ordained_by	1
+filled_with	1
+planted_in	1
+subsumed_by	1
+Interspersed_with	1
+found_in	1
+mentioned_above	1
+based_on	3
+attacked_out	1
+obeyed_without	1
+landed_in	1
+utilized_in	1
+imposed_on	1
+obsessed_with	1
+placed_in	2
+focused_on	1
+stamped_onto	1
+learned_that	1
+Filled_with	1
+picked_at	1
+Filmed_on	1
+inhabited_by	1
+worked_in	1
+accepted_as	1
+ruled_by	1
+orchestrated_like	1
+edited_by	1
+intrigued_by	1
+used_in	1
+run_by	4
+combined_with	1
+known_as	1
+played_by	1
+listed_in	1
+bored_until	1
+executed_for	1
+killed_via	1
+seen_in	1
+bewildered_by	1
+presented_in	1
+listed_as	1
+regarded_as	1
+directed_by	2
+peppered_in	1
+widescreen_for	1
+praised_by	1
+employed_by	1
+set_in	2
+dyed_in	1
+executed_by	1
+drained_of	1
 VBD_RB
 did_n't	3
 seemed_so	1
@@ -463,6 +492,7 @@ were_not	1
 was_not	1
 was_pleasantly	1
 NN_DT
+Odyssey_an	1
 mind_this	1
 galaxy_all	1
 society_an	1
@@ -476,7 +506,10 @@ while_a	1
 level_the	1
 film_a	1
 movie_a	1
+quote_The	1
+postmodernism_a	1
 way_the	1
+genre_any	1
 PDT_DT
 All_this	1
 all_the	5
@@ -489,7 +522,7 @@ that_only	1
 TO_DT
 to_this	3
 to_every	1
-to_the	17
+to_the	18
 to_another	2
 to_an	2
 to_both	1
@@ -500,6 +533,7 @@ to_that	2
 NN_CD
 number_two	1
 standard_50	1
+transfer_1998	1
 Alpha_60	1
 format_1.66:1	1
 VBD_RP
@@ -527,16 +561,13 @@ them_easier	1
 VB_NNS
 get_outdoors	1
 incite_revolts	1
--LRB-_RB
--LRB-_then	1
--LRB-_even	1
--LRB-_always	1
--LRB-_So	1
--LRB-_Not	1
--LRB-_perhaps	1
-FW_VB
-<br />_Listen	1
-<br />_Ask	1
+VB_NNP
+watch_Alphaville	1
+paraphrase_Galeano	1
+NNS_NNP
+genres_S.F.	1
+actors_Karina	1
+1960s_Foucault	1
 WRB_,
 when_,	1
 where_,	1
@@ -563,10 +594,6 @@ are_to	1
 seem_to	2
 have_to	1
 need_to	2
-RB_``
-supposedly_``	1
-even_``	1
-especially_``	1
 PRP$_NNS
 his_lips	1
 their_lives	1
@@ -694,7 +721,9 @@ elevate_her	1
 CD_VBZ
 60_is	1
 one_equals	1
+1961_is	1
 60_relegates	1
+1965_is	1
 VB_,
 Sci-Fi_,	1
 be_,	2
@@ -738,14 +767,9 @@ things_artistic	1
 People_unable	1
 sixties_french	1
 FW_NNS
-<br />_References	1
-<br />_Observations	1
 Lemmy_drives	1
 FW_NNP
-<br />_Well	2
 de_Lemmy	2
-<br />_Fordoraed	1
-<br />_Stephen	1
 la_Dissuasion	1
 NNP_''
 Troopers_''	1
@@ -909,8 +933,8 @@ any_Wired	1
 a_VHS	1
 a_Woman	1
 the_Texas	1
-VBD_RBS
-believed_most	1
+WDT_IN
+which_at	1
 :_EX
 -_there	1
 VB_WRB
@@ -978,14 +1002,10 @@ scholars_and	1
 stills_and	1
 enthusiasts_or	1
 weapons_or	1
-VBN_-RRB-
-letterboxed_-RRB-	1
 NNS_CD
 things_one	1
 ,_VB
 ,_get	2
--RRB-_-RRB-
--RRB-_-RRB-	1
 JJR_IN
 Deeper_than	1
 more_than	2
@@ -1121,8 +1141,7 @@ English_subtitles	1
 NNP_NNP
 Jean-Luc_Cinema	1
 Brave_New	1
-Paul_Misraki	2
-<p>_This	2
+Natacha_Anna	1
 James_Bond	1
 Bet_Noam	1
 C._Bird	1
@@ -1134,26 +1153,27 @@ Luis_Borges	1
 Golden_Movie	1
 Professor_Von	1
 David_Lynch	1
-New_Wave	1
-Leonard_Maltin	1
+II_Criterion	1
+Paul_Misraki	2
 New_York	2
 Starship_Troopers	1
 Grand_Omega	1
 A_Woman	1
+Leonard_Maltin	1
 Dolby_Digital	1
 la_maitre	1
 Richard_Roud	1
 Andrew_Sarris	1
 Peter_Cheney	1
-Doc_Faustus	1
+New_Wave	1
 Kodak_Instamatic	1
 Blade_Runner	3
 Raoul_Coutard	1
+Doc_Faustus	1
 Sam_Spade	2
 Steve_Rose	1
 Omega_Minus	1
 New_Refutation	1
-<p>_All	1
 Mister_Lemmy	1
 Jean-Luc_Godard	4
 Leonard_Nosferatu	1
@@ -1168,7 +1188,6 @@ Nine_Zero	1
 Anna_Karina	4
 My_Car	1
 Cinema_Godard	1
-<p>_Well	1
 Stephen_C.	1
 Von_Braun	1
 Paul_Eluard	2
@@ -1337,22 +1356,10 @@ VBN_CD
 handed_one	1
 EX_MD
 there_should	1
--LRB-_CD
--LRB-_1965	1
--LRB-_1961	1
--LRB-_1998	1
--LRB-_1927	1
 VB_WP
 understand_what	1
 get_what	1
 break_what	1
--LRB-_CC
--LRB-_and	2
-NNS_-LRB-
-choices_-LRB-	1
-reviews_-LRB-	1
-1960s_-LRB-	1
-actors_-LRB-	1
 RB_WRB
 especially_when	1
 even_when	1
@@ -1401,13 +1408,8 @@ one_plus	1
 1965_and	1
 VBD_CD
 was_one	1
-NNP_-RRB-
-Derrida_-RRB-	1
-Coutard_-RRB-	1
-Karina_-RRB-	1
-Constantine_-RRB-	3
-NNPS_CC
-Vehicles_and	1
+''_LS
+''_i	1
 CC_RB
 but_especially	1
 and_then	1
@@ -1447,11 +1449,6 @@ where_I	1
 When_I	2
 where_you	1
 when_they	1
-CD_-RRB-
-1965_-RRB-	1
-1998_-RRB-	1
-1927_-RRB-	1
-1961_-RRB-	1
 :_IN
 --_by	2
 ..._than	1
@@ -1551,7 +1548,10 @@ Since_we	1
 ''_.	2
 '_.	1
 ''_,
-''_,	5
+'_,	1
+''_,	6
+NNS_VB
+reviews_see	1
 ,_FW
 ,_etc.	1
 ,_une	2
@@ -1995,9 +1995,10 @@ all_faded	1
 PRP_JJ
 them_dead	1
 you_afraid	1
-me_normal	1
-them_human	1
 them_mere	1
+them_human	1
+me_normal	1
+it_sorry	1
 PRP_VBZ
 he_meets	1
 He_is	3
@@ -2024,8 +2025,6 @@ it_looks	2
 It_happens	1
 it_lacks	1
 FW_PRP
-<br />_It	1
-<br />_I	2
 a._I	1
 IN_,
 around_,	1
@@ -2036,7 +2035,7 @@ through_,	1
 above_,	1
 like_,	1
 IN_.
-that_!	1
+that_!	2
 below_.	2
 on_.	1
 about_.	1
@@ -2096,6 +2095,8 @@ town_where	1
 RP_TO
 in_to	1
 out_to	2
+NNP_PRP
+Derrida_you	1
 CC_VBD
 and_did	1
 and_meant	1
@@ -2163,6 +2164,7 @@ crisp_.	1
 other_.	1
 dead_.	2
 numerous_.	1
+Breathless_.	1
 abnormal_.	1
 such_.	1
 normal_.	1
@@ -2191,75 +2193,13 @@ RBS_RB
 most_likely	1
 :_VB
 :_get	1
-VBN_IN
-enjoyed_by	1
-missed_on	1
-composed_of	2
-confused_by	1
-Made_in	1
-puzzled_as	1
-played_in	1
-embodied_by	1
-controlled_by	1
-dissuaded_by	1
-taken_in	1
-ordained_by	1
-filled_with	1
-planted_in	1
-subsumed_by	1
-Interspersed_with	1
-found_in	1
-mentioned_above	1
-based_on	3
-attacked_out	1
-obeyed_without	1
-landed_in	1
-utilized_in	1
-imposed_on	1
-obsessed_with	1
-placed_in	2
-focused_on	1
-stamped_onto	1
-learned_that	1
-Filled_with	1
-picked_at	1
-Filmed_on	1
-inhabited_by	1
-worked_in	1
-accepted_as	1
-ruled_by	1
-orchestrated_like	1
-edited_by	1
-intrigued_by	1
-used_in	1
-run_by	4
-combined_with	1
-known_as	1
-played_by	1
-listed_in	1
-bored_until	1
-executed_for	1
-killed_via	1
-seen_in	1
-bewildered_by	1
-presented_in	1
-listed_as	1
-regarded_as	1
-directed_by	2
-peppered_in	1
-widescreen_for	1
-praised_by	1
-employed_by	1
-set_in	2
-dyed_in	1
-executed_by	1
-drained_of	1
+VBG_''
+pretending_''	1
+defining_'	1
+saying_''	1
+coming_''	1
 VBP_WRB
 see_how	1
--LRB-_VB
--LSB-_begin	1
--LRB-_Read	1
--LRB-_see	1
 VBD_JJ
 was_true	1
 was_popular	1
@@ -2282,8 +2222,17 @@ like_how	1
 ''_who	1
 IN_PDT
 Beneath_all	1
-JJ_WDT
-raspy_that	1
+IN_CD
+from_one	2
+over_50	1
+in_one	1
+from_2001	1
+over_30	1
+that_one	1
+because_one	1
+as_one	1
+in_1965	2
+from_1965	1
 NN_NNS
 movie_moves	1
 viewer_reviews	1
@@ -2315,15 +2264,18 @@ ID_numbers	1
 space_cadets	1
 NN_NNP
 composer_Paul	1
-director_F.W.	1
+literature_Orwell	1
 world_Godard	1
-computer_Alpha	2
+poetry_Eluard	1
+director_F.W.	1
 *_Blade	1
 specialist_Richard	1
+computer_Alpha	2
 character_Lemmy	2
 director_Jean-Luc	1
 actor_Eddie	1
 think_Alphavile	1
+Caution_Eddie	2
 interest_Natacha	1
 ''_RB
 '_so	1
@@ -2354,6 +2306,7 @@ Bogart_and	1
 Paris_and	1
 Godard_and	1
 Lemmy_and	1
+French_and	1
 VHS_and	2
 S.F._and	1
 :_DT
@@ -2370,8 +2323,10 @@ greater_power	1
 more_undercurrent	1
 more_command	1
 more_image	1
-PRP_-LRB-
-it_-LRB-	1
+RB_``
+supposedly_``	1
+even_``	1
+especially_``	1
 RP_NNS
 down_corridors	1
 POS_VBG
@@ -2459,9 +2414,6 @@ EX_VBZ
 there_is	3
 there_'s	2
 There_is	5
-._-RRB-
-!_-RRB-	2
-._-RRB-	4
 EX_VBP
 there_are	4
 NNS_RP
@@ -2480,13 +2432,14 @@ fiction_movie	1
 life_force	1
 camera_shot	1
 pulp_crime	1
-hero_Lemmy	1
+hero_Lemmy	2
 movie_theater	1
 Space_Odyssey	1
 science_fiction	11
 Criterion_release	2
 planet_earth	1
 A_truth	1
+dictionary_ie	1
 frame_format	2
 execution_scene	1
 genre_epic	1
@@ -2521,6 +2474,7 @@ expressionist_cinema	1
 diving_board	1
 need_look	1
 demand_order	1
+watching_try	1
 anyone_think	1
 fiction_genre	1
 source_material	1
@@ -2550,7 +2504,6 @@ Caution_Adventure	1
 comprehension_gap	1
 genre_fan	1
 aspect_ratio	2
-<br />_A	1
 widescreen_version	1
 computer_age	1
 magazine_subscriber	1
@@ -2600,8 +2553,6 @@ their_every	1
 ,_ultra-modern	1
 ,_EX
 ,_there	2
--RRB-_RB
--RRB-_then	1
 DT_JJ
 A_good	1
 the_futuristic	1
@@ -2626,6 +2577,7 @@ a_great	4
 the_light	1
 a_light	1
 the_young	1
+the_useless	1
 a_ruthless	1
 an_American	1
 the_cold	1
@@ -2781,8 +2733,8 @@ a_fictional	1
 the_excellent	1
 WRB_POS
 Where_'s	1
-''_IN
-''_because	1
+``_VB
+``_Lem	2
 NNS_``
 actors_``	1
 concepts_`	1
@@ -2794,6 +2746,7 @@ introduction_by	1
 scene_on	1
 absence_of	1
 deal_of	1
+literalist_if	1
 grain_of	1
 help_of	1
 edition_of	1
@@ -2829,19 +2782,19 @@ interview_in	1
 sentence_of	2
 consistency_with	1
 note_that	1
-lack_of	2
+film_for	3
 film_of	1
 movie_with	1
 exclusion_of	1
 morality_after	1
 DVD_as	1
+*_except	1
 free-will_for	1
 recovery_of	1
 kind_of	3
 opening_of	1
 reading_at	1
 annals_of	1
-<br />_Beneath	1
 balance_of	1
 evolution_in	1
 sense_of	1
@@ -2898,9 +2851,8 @@ commentary_on	1
 presence_in	1
 film_about	1
 vibe_of	1
-<p>_Of	1
 thaumaturgy_of	1
-Fascism_as	1
+monotheism_as	1
 sense_in	1
 book_of	2
 option_of	1
@@ -2917,6 +2869,7 @@ composition_in	1
 feel_of	1
 way_that	1
 fan_like	1
+thing_like	1
 idea_of	1
 fear_of	1
 jukebox_in	1
@@ -2932,6 +2885,7 @@ life_with	1
 staple_of	1
 reviewer_above	1
 quality_of	1
+Fascism_as	1
 character_above	1
 list_of	1
 name_of	1
@@ -3007,7 +2961,7 @@ way_around	1
 planet_as	1
 frame_during	1
 feature_in	1
-film_for	3
+lack_of	2
 right_on	1
 pretense_of	1
 compassion_for	1
@@ -3032,9 +2986,10 @@ taste_of	1
 sequal_as	1
 something_like	2
 work_of	1
-role_of	3
+quote_As	1
 genius_of	1
 state_of	1
+role_of	3
 vision_of	1
 light.Good_for	1
 making_of	1
@@ -3042,10 +2997,6 @@ review_by	1
 undercurrent_than	1
 logic_against	1
 screenplay_like	1
--LRB-_LS
--LRB-_i	1
-:_JJS
--_fest	1
 CC_DT
 and_that	2
 but_that	2
@@ -3062,16 +3013,15 @@ and_each	1
 and_this	1
 NN_VBN
 computer_known	1
-<p>_Filled	1
-society_controlled	1
+computer_obeyed	1
 true-blue_dyed	1
 film_steeped	1
 logic_imposed	1
 form_taken	1
 man_moved	1
-<p>_Interspersed	1
+society_controlled	1
 eye-journalist_employed	1
-computer_obeyed	1
+treatment_entitled	1
 theme_placed	1
 harm_done	1
 regime_run	1
@@ -3288,9 +3238,9 @@ him_as	1
 I_also	1
 IN_EX
 If_there	1
-JJ_-LRB-
-spot-on_-LRB-	1
-American_-LRB-	1
+PRP_RP
+it_out	1
+it_off	1
 JJ_``
 beautiful_``	1
 standard_``	1
@@ -3341,7 +3291,6 @@ bet_you	1
 lem_me	1
 get_it	1
 put_themselves	1
-<br />_We	1
 watch_it	1
 shut_it	1
 Ask_yourself	1
@@ -3457,6 +3406,7 @@ not_speaking	1
 apparently_going	1
 not_working	1
 specifically_intending	1
+also_anticipating	1
 only_using	1
 not_moving	1
 am_writing	1
@@ -3481,7 +3431,6 @@ never_went	1
 probably_saw	1
 just_said	1
 FW_IN
-<br />_As	1
 d._On	1
 NNS_NN
 films_unwillingness	1
@@ -3594,8 +3543,6 @@ people_who	1
 runners_who	1
 RBR_CC
 grimmer_and	1
--LRB-_VBN
--LRB-_entitled	1
 JJR_JJ
 greater_good	1
 VBG_CD
@@ -3648,7 +3595,7 @@ list_this	1
 enhance_the	1
 like_this	1
 keep_the	1
-<br />_Those	1
+attract_a	1
 get_the	2
 Read_all	1
 have_any	1
@@ -3664,7 +3611,6 @@ question_the	1
 release_this	1
 watch_a	1
 watch_the	1
-<p>_The	3
 be_no	1
 enjoy_this	1
 represent_the	1
@@ -3683,18 +3629,15 @@ exclude_the	1
 see_a	1
 make_this	1
 ignore_this	1
-attract_a	1
 be_a	4
 Buy_this	1
 capture_the	1
 deny_some	1
-deny_the	1
+present_the	1
 make_the	1
 get_this	1
 do_the	1
-present_the	1
--LRB-_VBG
--LRB-_anticipating	1
+deny_the	1
 WRB_DT
 why_the	1
 when_the	1
@@ -3748,13 +3691,9 @@ is_evil	1
 is_French	1
 feels_heavy	1
 attracts_young	1
-JJ_-RRB-
-handy_-RRB-	1
-sci-fi_-RRB-	1
-useless_-RRB-	1
-Breathless_-RRB-	1
 ''_DT
 '_A	1
+'_a	1
 ''_This	1
 NN_TO
 existentialism_to	1
@@ -3840,9 +3779,6 @@ WP_DT
 what_a	1
 NNPS_RB
 Europeans_probably	1
-FW_-LRB-
-<br />_-LSB-	1
-Godard_-LRB-	1
 CC_CC
 and_and	1
 WP_RB
@@ -3870,14 +3806,13 @@ who_fearlessly	1
 ,_someplace	1
 PRP$_RB
 their_supposedly	1
-``_VB
-``_Lem	2
 ``_RB
 ``_up	1
 CC_,
 but_,	2
 JJ_PRP
 sure_I	1
+handy_I	1
 ``_NNS
 ``_gotchas	1
 ``_NNP
@@ -3921,6 +3856,7 @@ indeed_a	1
 PRP$_JJS
 their_best	1
 NN_MD
+director_can	1
 score_will	1
 film_would	1
 percent_would	2
@@ -3929,7 +3865,7 @@ movie_could	1
 everyone_should	1
 face_can	1
 track_may	1
-director_can	1
+one_could	1
 WRB_PRP$
 when_his	1
 CC_RBR
@@ -4028,30 +3964,24 @@ FW_FW
 capitale_de	1
 Etrange_Aventure	2
 de_la	2
-Sci-Fi_clich&eacute;	1
-<br />_d.	1
 une_Etrange	2
 Minist&egrave;re_de	1
-<br />_b.	1
 in_1.33:1	1
 La_capitale	1
 Aventure_de	2
 private-eye_Lemmy	1
-<br />_<br />	42
-<br />_a.	1
 Jean-Luc_Godard	1
-<p>_Lemmy	1
 Mucho_profoundo	1
 pseudo_Sci-Fi	1
-<br />_c.	1
-<br />_ps	1
+Sci-Fi_clich&eacute;	1
 la_douleur	1
 JJ_RB
 parable_somewhere	1
-Breathless_instead	1
 other_seemingly	1
-original_now	1
 little_aside	1
+sci-fi_then	1
+Breathless_instead	1
+original_now	1
 ,_``
 ,_`	1
 ,_``	5
@@ -4080,12 +4010,6 @@ least_.	1
 ,_coming	1
 ,_making	1
 ,_underlying	1
-''_-RRB-
-''_-RRB-	2
-'_-RRB-	2
--RRB-_VBZ
--RRB-_is	3
--RRB-_goes	1
 NNS_.
 levels_.	1
 interiors_.	1
@@ -4110,9 +4034,10 @@ ideals_.	1
 ideas_.	1
 fans_.	1
 referances_.	1
-films_.	2
+films_.	3
 emotions_.	1
 viewings_.	1
+freudianisms_.	1
 conversations_.	1
 executioners_.	1
 dice_.	1
@@ -4159,11 +4084,6 @@ sets_,	2
 ,_VBP
 ,_do	1
 ,_are	1
--RRB-_DT
--RRB-_the	1
--RRB-_a	1
--RRB-_VBD
--RRB-_did	1
 RBR_RB
 more_then	1
 VBD_NNS
@@ -4298,6 +4218,8 @@ one_of	7
 two_because	1
 One_of	1
 Six_of	1
+''_CD
+''_1965	1
 ''_CC
 '_and	2
 ''_and	2
@@ -4336,6 +4258,7 @@ the_far	1
 This_also	1
 A_really	1
 the_very	1
+the_then	1
 that_here	1
 DT_NNPS
 the_Mexicans	1
@@ -4343,12 +4266,12 @@ MD_.
 can_!	1
 NN_PRP
 film_itself	2
+lol_I	1
 format_themselves	1
 way_it	1
 atmosphere_it	1
 Sci-Fi_I	1
 ocean_itself	1
-<p>_I	1
 time_I	1
 time_they	1
 cover_it	1
@@ -4364,12 +4287,12 @@ music_you	1
 stimulation_I	1
 vision_it	1
 mean_it	1
-<br />_I	1
 information_I	1
 reason_he	1
 future_you	1
 turf_I	1
 movie_itself	1
+conversation_I	1
 VB_PRP$
 take_our	1
 challenge_our	1
@@ -4396,6 +4319,7 @@ everywhere_and	1
 enough_and	1
 awake_and	1
 nowhere_and	1
+often_and	1
 together_and	1
 again_and	1
 MD_VB
@@ -4449,18 +4373,28 @@ must_be	1
 ..._vive	1
 --_sure	1
 ;_ominous-sounding	1
--LRB-_NNP
--LRB-_Criterion	1
--LRB-_Anna	1
--LRB-_Karina	1
--LRB-_Orwell	1
--LRB-_Foucault	1
--LRB-_Eluard	1
--LRB-_Eddie	2
+VB_VBN
+be_told	1
+be_compared	1
+get_attacked	1
+have_liked	1
+get_killed	1
+be_regarded	1
+have_helped	1
+be_enjoyed	1
+be_run	1
+have_worked	1
+be_left	1
+be_widescreen	1
+have_guessed	1
+be_combined	1
+be_remastered	1
+be_watched	1
+be_handed	1
+be_seen	2
+have_experienced	1
 CC_PDT
 and_all	1
-VBN_-LRB-
-constructed_-LRB-	1
 VB_VBG
 keep_watching	2
 keep_looking	1
@@ -4492,6 +4426,8 @@ where_movies	1
 ,_an	1
 ,_all	1
 ,_The	1
+NNPS_CC
+Vehicles_and	1
 VB_VBZ
 consider_is	1
 VBZ_RBR
@@ -4501,11 +4437,10 @@ crops_the	1
 fights_a	1
 ways_the	1
 ways_a	1
+choices_the	1
 POS_``
 's_``	1
 's_`	1
-IN_-RRB-
-that_-RRB-	1
 VBZ_NN
 changes_history	1
 loves_hegel	1
@@ -4559,9 +4494,6 @@ are_a	3
 am_a	1
 believe_this	1
 involve_the	1
-NNS_-RRB-
-films_-RRB-	1
-freudianisms_-RRB-	1
 VBD_TO
 went_to	1
 decided_to	1
@@ -4576,8 +4508,6 @@ UH_:
 uh_...	1
 ,_WDT
 ,_which	2
-:_-RRB-
-..._-RRB-	1
 NN_:
 production_;	1
 computer_...	1
@@ -4643,6 +4573,7 @@ disgust_,	1
 glass_,	1
 machine_,	1
 story_,	2
+influence_,	1
 hole_,	1
 fellow_,	1
 everyone_,	1
@@ -4725,7 +4656,7 @@ product_,	1
 NN_.
 tape_.	1
 voice_.	1
-model_.	1
+reason_.	1
 complex_.	1
 career_.	1
 everyone_.	1
@@ -4747,6 +4678,7 @@ sense_.	1
 folk_!	1
 screen_.	3
 insert_.	1
+model_.	1
 era_.	1
 bad_?	1
 relationship_.	1
@@ -4756,6 +4688,7 @@ girl_.	2
 distortion_.	1
 postmodernism_.	1
 classic_.	2
+business_.	1
 death_?	1
 color_.	2
 vampire_.	1
@@ -4781,14 +4714,14 @@ race_.	1
 order_.	1
 salt_.	1
 masterwork_.	1
-script_.	1
+script_.	2
 caution_.	1
 effect_.	1
 voiceover_.	1
 night_.	1
 side_.	1
 shot_.	1
-mistique_.	1
+good_.	1
 movie_.	3
 fact_.	1
 filmmaking_.	1
@@ -4797,6 +4730,7 @@ journey_.	1
 fiction_.	1
 novel_.	1
 beware_!	1
+spoiler_.	1
 practice_.	1
 free-will_.	1
 copy_.	1
@@ -4812,13 +4746,14 @@ Ok_.	1
 imagination_.	1
 anything_!	1
 farm_.	1
-film_.	13
+film_.	14
 pistol_.	1
 setup_.	1
 existentialism_.	1
 director_.	4
 future_.	1
 logic_.	1
+metaphor_.	1
 introduction_.	1
 expressway_.	1
 world_.	1
@@ -4839,6 +4774,7 @@ technology_.	1
 someplace_.	1
 herb_.	1
 egghead_.	1
+mistique_.	1
 admission_.	1
 earth_.	1
 maker_.	1
@@ -4886,7 +4822,7 @@ that_look	2
 ''_defying	1
 ''_VBZ
 ''_is	3
-'_is	2
+'_is	3
 ''_represents	1
 ''_does	1
 '_tells	1
@@ -4921,13 +4857,37 @@ using_brightly	1
 coming_away	1
 using_only	1
 trying_so	1
+FW_JJ
+Godard_Breathless	1
 RBR_TO
 closer_to	1
--RRB-_NN
--RRB-_<br />	1
--RRB-_television	1
--RRB-_wax	1
--RRB-_past	1
+CC_NNS
+and_thrillers	1
+and_researchers	1
+and_cameras	1
+or_humans	1
+and_women	1
+and_dozens	1
+either_robots	1
+and_weapons	1
+and_conundrums	1
+and_close-ups	1
+and_fights	1
+and_words	1
+and_blips	1
+and_thugs	1
+and_lovers	1
+and_photos	1
+and_interviews	1
+or_settings	1
+and_robots	1
+and_events	1
+and_emotions	1
+and_architects	1
+and_libertarians	1
+and_letters	1
+and_metaphors	1
+and_necks	1
 DT_,
 no_,	1
 this_,	2
@@ -4943,16 +4903,11 @@ going_on	1
 churning_out	1
 going_over	1
 messing_up	1
-VB_NNP
-watch_Alphaville	1
-paraphrase_Galeano	1
 JJ_VB
 perfect_blend	1
 stiff-lipped_abandon	1
 clever_blend	1
 interesting_blend	1
-NNS_NNP
-genres_S.F.	1
 :_VBZ
 :_nods	1
 -_is	1
@@ -5026,8 +4981,6 @@ closely_connected	1
 Visually_noteworthy	1
 as_much	1
 so_profound	1
-RB_-RRB-
-then_-RRB-	1
 NNS_RBR
 ways_grimmer	1
 VB_``
@@ -5042,12 +4995,6 @@ to_Godard	1
 to_Orwell	1
 to_Cocteau	2
 to_Alphaville	3
-RB_-LRB-
-previously_-LRB-	1
-often_-LRB-	1
-also_-LRB-	1
--LRB-_JJR
--LRB-_<	1
 TO_NNS
 to_walls	1
 to_scholars	1
@@ -5117,17 +5064,16 @@ rely_pretty	1
 see_clearly	1
 be_too	1
 remember_forever	1
-<br />_Not	1
+'ve_certainly	1
 find_anywhere	1
 notice_visually	1
-<br />_Instead	1
 stay_awake	1
 mean_just	1
-'ve_certainly	1
+be_as	2
 help_either	1
 come_out	1
 be_bitterly	1
-be_as	2
+capture_perhaps	1
 :_VBP
 :_Do	1
 --_are	1
@@ -5138,8 +5084,6 @@ where_love	1
 when_everything	1
 NN_RBR
 film_more	1
-FW_WDT
-<br />_What	1
 NNS_WRB
 theaters_when	1
 walls_when	1
@@ -5157,6 +5101,7 @@ fiction_there	1
 ``_definitive	1
 ``_kick-ahss	1
 FW_:
+etc._;	1
 ps_:	1
 1.33:1_-	1
 NNP_IN
@@ -5212,27 +5157,6 @@ by_redeeming	1
 by_introducing	1
 IN_VBD
 As_was	1
-POS_NN
-'s_HAL9000	1
-'s_status	1
-'_time	1
-'s_knife	1
-'s_book	1
-'s_triumph	1
-'s_recovery	1
-'s_mission	1
-'s_career	1
-'s_portrayal	1
-'s_explanation	1
-'s_dialog	1
-'s_crime	1
-'s_masterwork	1
-'S_CUT	1
-'s_allegory	1
-'s_daughter	1
-'s_example	1
-'s_face	1
-'s_society	1
 ,_PRP
 ,_it	6
 ,_he	1
@@ -5252,9 +5176,6 @@ Somehow_Lemmy	1
 not_Criterion	2
 also_Godard	1
 Only_Misraki	1
--RRB-_PRP
--RRB-_I	2
--RRB-_you	1
 VBG_.
 provoking_.	2
 snickering_.	1
@@ -5299,9 +5220,7 @@ random_and	1
 VBN_RBR
 observed_earlier	1
 FW_CC
-<br />_But	1
 Sci-Fi_and	1
-<br />_And	1
 IN_VBZ
 of_walks	1
 as_is	3
@@ -5311,9 +5230,11 @@ good_one	1
 top_100	1
 first_twenty	1
 CD_,
+1927_,	1
 1965_,	1
 60_,	1
 1984_,	1
+1998_,	1
 CD_.
 60_.	4
 one_.	1
@@ -5325,26 +5246,29 @@ Lemmy_who	1
 CD_:
 2001_:	1
 60_:	1
-PRP_RP
-it_out	1
-it_off	1
 WRB_VBP
 Where_are	1
-NN_-RRB-
-spoiler_-RRB-	1
-one_-RRB-	1
-lol_-RRB-	1
-quote_-RSB-	2
-conversation_-RRB-	1
-business_-RRB-	1
-reason_-RRB-	1
-thing_-RRB-	1
-film_-RRB-	1
-good_-RRB-	1
-script_-RRB-	1
-postmodernism_-RRB-	1
-influence_-RRB-	1
-metaphor_-RRB-	1
+POS_NN
+'s_HAL9000	1
+'s_status	1
+'_time	1
+'s_knife	1
+'s_book	1
+'s_triumph	1
+'s_recovery	1
+'s_mission	1
+'s_career	1
+'s_portrayal	1
+'s_explanation	1
+'s_dialog	1
+'s_crime	1
+'s_masterwork	1
+'S_CUT	1
+'s_allegory	1
+'s_daughter	1
+'s_example	1
+'s_face	1
+'s_society	1
 ``_CC
 ``_and	1
 TO_NN
@@ -5392,6 +5316,7 @@ Criterion_print	1
 Wired_magazine	1
 Lemmy_Caution	8
 Wave_movement	1
+Karina_wax	1
 Buyer_beware	1
 Wednesday_night	1
 English_version	3
@@ -5553,8 +5478,6 @@ else_about	1
 daily_in	1
 instead_if	1
 anywhere_for	1
-FW_VBZ
-<br />_Does	1
 VBG_IN
 appearing_at	1
 pointing_at	1
@@ -5587,8 +5510,6 @@ the_1960	1
 every_five	1
 DT_CC
 this_and	1
-FW_``
-<br />_`	3
 RP_DT
 out_that	1
 up_the	1
@@ -5628,6 +5549,7 @@ Braun_,	1
 Bergman_,	1
 Cheney_,	1
 France_,	1
+Constantine_,	1
 Dude_,	1
 Bird_,	1
 Zero_,	1
@@ -5639,9 +5561,10 @@ Borges_,	1
 Criterion_,	2
 Well_,	1
 NNP_.
+Coutard_.	1
 Hitchcock_.	1
 Instamatic_.	1
-Godard_.	1
+France_.	1
 Constantine_.	2
 Death_.	1
 Berlin_.	1
@@ -5653,17 +5576,14 @@ Alphaville_.	8
 Runner_.	1
 Car_?	1
 Earth_?	1
-France_.	1
+Godard_.	1
 Sarris_.	1
 JJ_VBP
 subversive_have	1
 noteworthy_are	1
 noir_are	1
 FW_NN
-<br />_Music	1
-<br />_Criterion	1
 Lemmy_Caution	1
-<br />_Continuity	1
 c._Fascism	1
 DT_VBD
 This_was	1
@@ -5711,26 +5631,6 @@ likely_agree	1
 really_pop	1
 really_suggest	1
 only_LOOK	1
-VB_VBN
-be_told	1
-be_compared	1
-get_attacked	1
-have_liked	1
-get_killed	1
-be_regarded	1
-have_helped	1
-be_enjoyed	1
-be_run	1
-have_worked	1
-be_left	1
-be_widescreen	1
-have_guessed	1
-be_combined	1
-be_remastered	1
-be_watched	1
-be_handed	1
-be_seen	2
-have_experienced	1
 VBZ_.
 lacks_.	1
 VBZ_,
@@ -5740,9 +5640,11 @@ knows_,	1
 says_,	2
 RB_NN
 simply_fun	1
+just_kind	1
+then_past	1
 mostly_incomprehensible	1
 even_story	1
-just_kind	1
+previously_1.66:1	1
 Instead_composer	1
 blinking_neon	1
 NNS_TO
@@ -5755,11 +5657,6 @@ extras_to	1
 civilizations_to	1
 VBP_``
 think_``	1
--LRB-_JJ
--LRB-_sorry	1
--LRB-_Breathless	1
--LRB-_such	1
--LRB-_useless	1
 VBZ_IN
 comes_from	2
 is_among	1
@@ -5786,7 +5683,7 @@ run_them	1
 seen_it	2
 guessed_it	1
 :_FW
-:_<br />	1
+:_a.	1
 WRB_JJ
 when_hatted	1
 where_modern	1
@@ -5809,48 +5706,18 @@ inspire_suspense	1
 be_space	1
 VBZ_JJR
 is_more	3
-TO_-RRB-
-to_-RRB-	1
 CD_VBD
 1.66:1_was	1
 NN_WP
 intellectual_who	1
-scientist_who	1
-god_who	1
 woman_who	1
-<br />_What	1
+god_who	1
+scientist_who	1
 director_who	1
 anyone_who	1
 ``_FW
 ``_Minist&egrave;re	1
 `_La	1
-CC_NNS
-and_thrillers	1
-and_researchers	1
-and_cameras	1
-or_humans	1
-and_women	1
-and_dozens	1
-either_robots	1
-and_weapons	1
-and_conundrums	1
-and_close-ups	1
-and_fights	1
-and_words	1
-and_blips	1
-and_thugs	1
-and_lovers	1
-and_photos	1
-and_interviews	1
-or_settings	1
-and_robots	1
-and_events	1
-and_emotions	1
-and_architects	1
-and_libertarians	1
-and_letters	1
-and_metaphors	1
-and_necks	1
 RB_RBR
 far_more	2
 even_better	1
@@ -5903,17 +5770,8 @@ Lemmy_would	1
 Chomsky_would	1
 Criterion_would	1
 Alphavile_would	1
-IN_CD
-from_one	2
-over_50	1
-in_one	1
-from_2001	1
-over_30	1
-that_one	1
-because_one	1
-as_one	1
-in_1965	2
-from_1965	1
+JJ_WDT
+raspy_that	1
 NNS_VBZ
 lights_defamiliarizes	1
 moves_does	1
@@ -5927,14 +5785,6 @@ IN_CC
 that_but	1
 before_and	1
 on_and	1
-NNP_-LRB-
-Natacha_-LRB-	1
-French_-LRB-	1
-Woman_-LRB-	1
-York_-LRB-	1
-Metropolis_-LRB-	1
-II_-LRB-	1
-Nosferatu_-LRB-	1
 PRP_:
 themselves_--	2
 me_--	1
@@ -5986,11 +5836,6 @@ pick_up	1
 pop_out	1
 ''_WRB
 ''_where	2
-FW_RB
-<br />_So	1
-<br />_Usually	1
-<br />_Interestingly	1
-<br />_Now	1
 ``_PRP
 ``_I	1
 NN_PDT
@@ -6008,11 +5853,9 @@ POS_JJ
 's_brilliant	1
 's_great	1
 's_original	1
-DT_-LRB-
-the_-LRB-	2
--RRB-_IN
--RRB-_like	1
--RRB-_by	1
+''_IN
+''_because	1
+''_by	1
 VBD_VBN
 was_improvised	1
 was_puzzled	1
@@ -6110,11 +5953,12 @@ outlawed_thought	1
 translated_track	1
 educated_reviewer	1
 NNP_RB
+York_always	1
+Goddard_so	1
+Stay_away	1
+Criterion_actually	1
 Lemmy_soon	1
 Alphaville_instead	1
-Goddard_so	1
-Criterion_actually	1
-Stay_away	1
 NNP_VBP
 Alphaville_have	1
 :_PRP
@@ -6197,6 +6041,7 @@ settings_in	1
 close-ups_of	1
 dozens_of	1
 NNP_VBZ
+Constantine_goes	1
 Lemmy_does	1
 Lemmy_attracts	1
 Lemmy_ends	1
@@ -6300,12 +6145,11 @@ deal_more	1
 something_MORE	1
 case_less	1
 NN_``
-ie_``	1
-book_``	1
 word_``	2
-<p>_``	1
 night_``	1
+book_``	1
 film_``	1
+ie_``	1
 VBG_NNP
 speaking_French	1
 VBD_,
@@ -6329,6 +6173,7 @@ Godard_was	1
 Godard_shot	1
 Alphaville_was	1
 Godard_created	1
+Constantine_did	1
 Godard_meant	1
 Constantine_had	1
 Misraki_opted	1
@@ -6336,12 +6181,6 @@ Bogart_inspired	1
 Godard_did	1
 WP_NNP
 what_A	1
--LRB-_IN
--LRB-_except	1
--LRB-_as	2
--LRB-_albeit	1
--LRB-_if	1
--LRB-_In	1
 NNP_POS
 Criterion_'s	3
 Hound_'s	1
@@ -6363,15 +6202,15 @@ Kubrick_'s	1
 JJS_VBD
 least_tried	1
 NN_RB
-<p>_Even	1
 Continuity_also	1
 edition_previously	1
 something_completely	1
 film_instead	1
 emotion_also	1
-quality_instead	1
-version_sporadically	1
 future_apparently	1
+metaphor_even	1
+version_sporadically	1
+quality_instead	1
 future_just	1
 film_also	2
 society_very	1
@@ -6390,6 +6229,7 @@ widescreen_because	1
 good_if	1
 cool_until	1
 good_because	1
+rubbish_out	1
 Much_of	1
 remarkable_as	1
 intentional_as	2
@@ -6413,7 +6253,7 @@ dependant_on	1
 populous_in	1
 popular_in	1
 clear_by	1
-rubbish_out	1
+spot-on_as	1
 poetic_on	1
 complete_than	1
 typical_with	1
@@ -6425,6 +6265,7 @@ vibrant_with	1
 clear_with	1
 interesting_on	1
 primitive_by	1
+American_albeit	1
 amoral_because	1
 typical_of	1
 consistent_with	1
@@ -6515,6 +6356,8 @@ is_Alpha	1
 's_Godard	1
 is_Jean-Luc	1
 destroys_Alpha	1
+:_.
+..._.	1
 VBZ_NNS
 has_elements	1
 kills_dissenters	1
@@ -6535,8 +6378,6 @@ abnormal_'	1
 believable_''	1
 kick-ahss_''	1
 definitive_''	1
-FW_-RRB-
-etc._-RRB-	1
 VB_CD
 be_one	1
 VB_CC
@@ -6544,6 +6385,7 @@ say_or	1
 NNP_DT
 All_the	1
 Publishing_a	1
+Nosferatu_a	1
 VBN_NNP
 named_Lemmy	1
 widescreen_VHS	1
@@ -6564,12 +6406,6 @@ Published_screenplays	1
 dubbed_movies	1
 synchronised_swimmers	1
 polarized_images	1
--LRB-_NN
--LRB-_1.66:1	1
--LSB-_end	1
--LRB-_ie	1
--LRB-_Lemmy	1
--LRB-_try	1
 ,_NNP
 ,_Huxley	1
 ,_Leonard	1
@@ -6608,13 +6444,7 @@ circling_movements	1
 WP_IN
 what_if	1
 FW_WRB
-<br />_When	1
 b._How	1
--LRB-_DT
--LRB-_the	1
--LRB-_any	1
--LRB-_an	1
--LRB-_a	2
 DT_TO
 this_to	1
 JJ_NN
@@ -6770,7 +6600,7 @@ black_hole	1
 sci-fi_foundation	1
 whole_career	1
 stunning_actress	1
-cerebral_journey	1
+useless_television	1
 critical_review	1
 open_mind	1
 iconic_figure	1
@@ -6823,6 +6653,7 @@ stunning_film	1
 own_dubbing	1
 well-documented_turf	1
 favorite_kind	1
+cerebral_journey	1
 visual_style	1
 influential_foundation	1
 cramped_composition	1

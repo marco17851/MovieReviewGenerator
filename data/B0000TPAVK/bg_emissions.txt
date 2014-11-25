@@ -15,14 +15,8 @@ EX_MD
 there_would	1
 VBN_VBG
 learned_selling	1
-FW_DT
-<br />_All	1
-FW_NN
-<br />_*	1
 VBG_CC
 Shipping_&	1
-NNS_-LRB-
-collections_-LRB-	1
 MD_RB
 will_not	1
 NN_WDT
@@ -32,8 +26,8 @@ buy_a	1
 buy_the	1
 PDT_DT
 half_the	1
-FW_SYM
-<br />_*	6
+RB_.
+here_.	1
 ,_PRP
 ,_it	1
 VBZ_JJ
@@ -48,11 +42,11 @@ NNS_DT
 episodes_each	1
 JJ_CD
 first_two	2
+CD_,
+two_,	1
 CC_CD
 and_'91	1
 and_30	1
-CD_-RRB-
-two_-RRB-	1
 :_IN
 -_for	1
 PRP$_JJ
@@ -60,8 +54,6 @@ your_Real	1
 your_recent	1
 POS_PRP$
 's_our	1
--LRB-_CC
--LRB-_and	1
 IN_PRP
 though_I	1
 if_you	1
@@ -69,8 +61,6 @@ VBN_CD
 been_5	1
 RB_POS
 here_'s	1
-NN_-RRB-
-information_-RRB-	1
 SYM_VB
 *_Redeem	1
 *_See	1
@@ -116,10 +106,6 @@ NN_MD
 season_would	1
 PRP_VBZ
 it_'s	2
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	1
 NNS_MD
 episodes_might	1
 reviews_will	1
@@ -130,8 +116,8 @@ MD_VBZ
 would_consists	1
 PRP_:
 you_-	1
-FW_FW
-<br />_<br />	13
+RB_IN
+forth_in	1
 JJR_NNS
 more_episodes	1
 CC_PRP
@@ -151,14 +137,13 @@ with_your	1
 NNP_,
 Hunter_,	1
 NNP_.
+Policy_.	1
 Stuff_?	1
 Hunter_.	1
 Account_.	1
 Use_.	1
 IN_IN
 for_between	1
-RB_.
-here_.	1
 PRP$_NN
 our_review	1
 your_nickname	1
@@ -200,12 +185,8 @@ VBZ_IN
 consists_of	1
 JJR_IN
 better_than	1
-:_FW
-:_<br />	1
 ,_CC
 ,_but	1
--LRB-_RB
--LRB-_here	1
 NN_NNS
 license_terms	1
 drug_dealers	1
@@ -221,8 +202,6 @@ CC_NNPS
 &_Returns	1
 CD_CD
 two_hundred	1
-FW_PRP
-<br />_We	1
 PRP$_NNS
 our_Conditions	1
 your_orders	1
@@ -239,6 +218,8 @@ display_your	1
 change_your	1
 VBN_DT
 done_the	1
+:_DT
+:_All	1
 VBP_PRP
 mean_I	1
 VBP_IN
@@ -268,17 +249,10 @@ of_two	1
 between_20	1
 PRP_MD
 We_will	1
-NNP_-RRB-
-Policy_-RRB-	1
 :_CD
 -_52	1
-FW_PRP$
-<br />_Your	1
 NNS_VBG
 people_selling	1
-NN_-LRB-
-Name_-LRB-	1
-item_-LRB-	1
 CC_VB
 or_buy	1
 or_change	1
@@ -293,8 +267,6 @@ NNS_VBN
 terms_set	1
 VBP_NNP
 love_City	1
-RB_IN
-forth_in	1
 VBP_DT
 love_that	1
 NN_NN
@@ -339,11 +311,10 @@ Help_?	1
 potential_.	1
 review_.	2
 department_.	1
-NNPS_FW
-Returns_<br />	1
 NN_IN
 top_of	1
 amount_of	1
+information_with	1
 VBN_PRP
 provided_us	1
 WDT_VBZ
@@ -358,8 +329,10 @@ orders_in	1
 techniques_from	1
 stars_on	1
 dollars_for	1
+collections_like	1
 NN_CC
 nickname_and	1
+Name_and	1
 WDT_VBP
 that_do	1
 which_are	1
@@ -375,24 +348,22 @@ RB_RB
 not_even	1
 SYM_NN
 *_Return	1
--LRB-_IN
--LRB-_like	1
+NNPS_SYM
+Returns_*	1
+NN_RB
+item_here	1
 CC_NNS
 &_policies	1
 DT_,
 each_,	1
 VBP_VBN
 have_provided	1
-FW_NNS
-<br />_Submissions	1
 CD_NN
 seven_business	1
 NNP_NNP
 Returns_Policy	1
 City_Hunter	3
 My_Stuff	1
--RRB-_IN
--RRB-_with	1
 NN_PRP$
 Visit_our	1
 VB_PRP
@@ -406,8 +377,6 @@ VB_CC
 Redeem_or	1
 RB_PRP
 Now_they	1
-FW_RB
-<br />_Still	1
 VBN_NNS
 submitted_reviews	1
 VB_RB
@@ -416,8 +385,6 @@ VBG_NNP
 selling_City	1
 VBG_NNS
 selling_techniques	1
-FW_WRB
-<br />_Where	1
 CD_TO
 five_to	1
 IN_DT
