@@ -1,5 +1,5 @@
-DT_NN_IN
-a_breath_of	1
+DT_JJ_NNS
+the_same_faces	1
 RP_DT_NN
 out_this_show	1
 NN_VBP_PRP$
@@ -14,10 +14,10 @@ NN_IN_JJ
 breath_of_fresh	1
 NN_VBZ_JJ
 video_is_awesome	1
-IN_NN_,
-on_TV_,	1
-IN_JJ_NN
-of_fresh_air	1
+NNP_NNP_NNP
+Remy_Juelz_Santana	1
+NNP_NNP_CC
+Juelz_Santana_and	1
 NNP_IN_NNP
 Ballroom_in_NYC	1
 IN_PRP_VBP
@@ -32,14 +32,12 @@ NN_NN_IN
 music_industry_on	1
 NNS_WP_VBP
 artists_who_are	1
-,_NNP_NNP
-,_Juelz_Santana	1
+IN_VBG_DT
+of_seeing_the	1
 JJ_IN_VBG
 tired_of_seeing	1
 VB_RP_DT
 check_out_this	1
-NNP_,_CC
-Santana_,_and	1
 EX_VBP_RB
 There_are_also	1
 JJ_NNS_WP
@@ -50,16 +48,14 @@ IN_DT_NNP
 at_The_Roseland	1
 DT_NN_VBZ
 This_video_is	1
-NNP_NNP_,
-Juelz_Santana_,	1
 PRP_VBZ_IN
 It_'s_like	1
+NNP_CC_NN
+Santana_and_Ne-Yo	1
 DT_NNP_NNP
 The_Roseland_Ballroom	1
 PRP$_NN_CC
 their_hip-hop_and	1
-,_PRP_VBP
-,_you_need	1
 JJ_JJ_NNS
 new_talented_artists	1
 NNP_CC_NNS
@@ -68,8 +64,10 @@ VBP_TO_VB
 need_to_check	1
 VBN_CC_NN
 interviewed_and_music	1
-NNP_,_NNP
-Remy_,_Juelz	1
+NN_PRP_VBP
+TV_you_need	1
+IN_NN_PRP
+on_TV_you	1
 VBP_VBN_CC
 are_interviewed_and	1
 NNS_IN_DT
@@ -98,10 +96,8 @@ same_faces_in	1
 CC_NN_NNS
 and_music_videos	1
 and_R&B_hits	1
-,_CC_NN
-,_and_Ne-Yo	1
-IN_VBG_DT
-of_seeing_the	1
+DT_NN_IN
+a_breath_of	1
 VBP_RB_JJ
 are_also_many	1
 VBG_DT_JJ
@@ -115,8 +111,8 @@ fresh_air_.	1
 DT_NN_NN
 The_Spot_Review	1
 the_music_industry	1
-DT_JJ_NNS
-the_same_faces	1
+IN_JJ_NN
+of_fresh_air	1
 NN_NNS_IN
 R&B_hits_at	1
 CC_NNS_IN
@@ -131,7 +127,5 @@ NNP_NNP_IN
 Roseland_Ballroom_in	1
 NN_NNS_.
 music_videos_.	1
-NN_,_PRP
-TV_,_you	1
 TO_VB_RP
 to_check_out	1

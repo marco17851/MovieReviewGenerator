@@ -1,10 +1,6 @@
-NN_DT
-entertainment_a	1
 IN_NN
 of_edge-of-the-seat	1
 of_blood	1
-,_IN
-,_while	1
 WDT_VBZ
 which_produces	1
 CC_DT
@@ -59,16 +55,13 @@ NN_RB
 time_still	1
 IN_NNPS
 of_Vampires	1
-NNP_,
-Pulsepounders_,	1
+RB_JJ
+n't_great	1
+still_safe	1
 PRP_MD
 it_will	2
 NN_TO
 family_to	1
-,_DT
-,_this	1
-,_a	1
-,_the	1
 IN_IN
 while_at	1
 PRP$_NN
@@ -84,20 +77,20 @@ VBZ_DT
 's_a	1
 VBG_PRP
 worrying_it	1
+RB_CC
+either_but	1
 VBZ_NN
 produces_family	1
 JJR_NNP
 more_Goosebumps	1
-JJ_,
-safe_,	1
-great_,	1
-PRP$_NNS
-his_wits	1
+JJ_DT
+great_the	1
+NN_DT
+range_this	1
+entertainment_a	1
 NNS_VBP
 effects_are	1
 costumes_are	1
-,_CC
-,_but	1
 VBN_IN
 released_by	1
 NNS_.
@@ -118,8 +111,6 @@ IN_VBG
 without_worrying	1
 NNPS_.
 Vampires_.	1
-,_NN
-,_entertainment	1
 DT_NNS
 the_costumes	1
 IN_NNS
@@ -130,6 +121,8 @@ by_Pulsepounders	1
 than_Scream	1
 MD_RB
 can_safely	1
+NNP_DT
+Pulsepounders_a	1
 PRP_VBD
 It_was	1
 DT_JJ
@@ -140,11 +133,10 @@ some_real	1
 The_special	1
 VBD_VBN
 was_released	1
-RB_JJ
-n't_great	1
-still_safe	1
 NN_VBZ
 boy_uses	1
+PRP$_NNS
+his_wits	1
 DT_NN
 a_lot	1
 the_PG	1
@@ -153,8 +145,6 @@ the_horror	1
 this_movie	1
 a_parent	1
 a_coven	1
-PRP_VBZ
-it_serves	1
 DT_VBZ
 that_'s	1
 this_is	1
@@ -162,14 +152,11 @@ CC_NNS
 and_guts	1
 NN_MD
 parent_can	1
-NN_,
-edge-of-the-seat_,	1
-range_,	1
 NN_.
 genre_.	1
 horror_.	1
-RB_,
-either_,	1
+PRP_VBZ
+it_serves	1
 VBZ_JJR
 is_more	1
 NNS_CC
@@ -179,6 +166,7 @@ town_from	1
 coven_of	1
 thriller_with	1
 lot_of	1
+edge-of-the-seat_while	1
 purpose_of	1
 watch_without	1
 support_of	1
@@ -191,9 +179,10 @@ into_the	1
 in_the	1
 JJ_NN
 good_thing	1
-teenage_boy	1
 real_thriller	1
+safe_entertainment	1
 Canadian_film	1
 same_time	1
+teenage_boy	1
 RB_RB
 n't_either	1

@@ -12,12 +12,6 @@ that_somebody	1
 in_question	1
 into_jail	1
 in_person	1
-,_IN
-,_at	1
-,_after	1
-,_if	1
-,_although	1
-,_with	1
 PRP_RB
 She_repeatedly	1
 she_momentarily	1
@@ -38,6 +32,17 @@ VBP_TO
 add_to	1
 RB_WRB
 berserk_whenever	1
+NNP_IN
+Vanishing_while	1
+DT_NNS
+Both_women	1
+the_films	1
+the_Widows	1
+The_events	1
+some_differences	1
+the_laws	1
+The_performances	1
+the_kidnappers	1
 CC_JJ
 and_driven	1
 and_sick	1
@@ -63,23 +68,17 @@ RB_TO
 only_to	1
 not_to	1
 up_to	1
-VBZ_``
-is_``	1
-RB_,
-truly_,	1
-nicely_,	1
-however_,	1
-honestly_,	1
+IN_VBG
+before_beginning	1
+with_leaving	1
+after_tracking	1
+although_calculating	1
+in_catching	1
+as_being	1
 RB_.
 further_.	1
 afterwards_.	1
 so_.	1
-VBP_,
-are_,	1
-IN_``
-In_``	2
-,_PRP
-,_she	1
 VBZ_JJ
 is_clever	1
 falls_short	1
@@ -88,8 +87,6 @@ is_full	1
 marries_wealthy	1
 makes_sustained	1
 is_effective	2
-``_VBN
-``_cracked	1
 NN_TO
 widow_to	1
 victim_to	1
@@ -100,8 +97,10 @@ herself_into	1
 her_across	1
 them_in	1
 herself_for	1
+her_after	1
 CC_RB
 and_kind	1
+But_not	1
 and_later	1
 and_then	1
 VBG_.
@@ -110,6 +109,7 @@ RB_:
 well_;	1
 JJ_CC
 intelligent_and	1
+shy_and	1
 full_and	1
 zealous_and	1
 WRB_MD
@@ -130,8 +130,6 @@ her_previous	1
 his_previous	1
 her_next	1
 her_own	1
-VB_VBN
-have_been	1
 WRB_VBG
 when_sleeping	1
 IN_PRP
@@ -148,8 +146,6 @@ is_one	1
 NNS_WDT
 films_which	1
 ways_that	1
-,_NN
-,_death	1
 POS_NN
 's_guilt	1
 :_NNP
@@ -220,11 +216,8 @@ Both_are	1
 both_are	1
 DT_VBZ
 This_is	2
-``_NNP
-``_Breakdown	1
-``_The	1
-``_Black	1
-``_American	1
+VBG_RB
+being_very	1
 PRP_VBP
 you_enjoy	1
 I_recommend	1
@@ -251,13 +244,10 @@ she_finds	1
 she_gets	1
 He_dies	1
 It_'s	1
-,_DT
-,_an	1
-,_a	2
-,_the	3
-CC_,
-But_,	1
-And_,	1
+NNP_CC
+Winger_and	1
+Russell_but	1
+Sutherland_and	1
 WP_MD
 who_could	1
 TO_RB
@@ -271,17 +261,10 @@ so_as	1
 relentlessly_for	1
 NNPS_:
 Synopsis_:	1
-,_RB
-,_particularly	1
-,_as	1
-,_however	1
-,_not	1
-,_curiously	1
-,_only	1
-,_honestly	1
 DT_CD
 these_two	1
 VBP_RB
+are_however	1
 leave_up	1
 RB_VB
 n't_prove	1
@@ -291,8 +274,6 @@ only_review	1
 not_keep	1
 PRP_.
 him_.	1
-PRP_,
-her_,	1
 VBN_.
 killed_.	1
 cracked_.	1
@@ -308,24 +289,16 @@ must_try	1
 will_catch	1
 could_have	1
 will_meet	1
-''_NNP
-''_Theresa	1
-IN_JJ
-as_much	1
-in_clever	1
-like_normal	1
-of_similar	1
-NNP_,
-Bullock_,	1
-Winger_,	1
-Curse_,	1
-Seattle_,	1
+PRP_VB
+she_prove	1
 CD_JJ
 Two_great	1
 NNP_.
 Travis_.	1
+Breakdown_.	1
 Widow_.	1
 Hawaii_.	1
+Gigolo_.	1
 CC_VBZ
 and_searches	1
 and_gets	1
@@ -347,9 +320,12 @@ his_death	1
 NNP_PRP
 Luster_I	1
 Hawaii_she	1
+NNP_WRB
+Seattle_where	1
 JJ_RB
 wealthy_newly	1
 happy_enough	1
+captivating_as	1
 VB_IN
 be_in	1
 get_as	1
@@ -360,13 +336,6 @@ doing_paperwork	1
 CC_VBN
 and_thrown	1
 and_taken	1
-JJ_,
-painless_,	1
-shy_,	1
-clever_,	1
-good_,	1
-nonviolent_,	1
-captivating_,	1
 JJ_.
 implausible_.	1
 suspenseful_.	1
@@ -375,14 +344,12 @@ driven_.	1
 VBG_PRP$
 leaving_her	1
 NN_DT
+victim_a	1
+girlfriend_the	1
+comparison_the	1
 girlfriend_a	1
-IN_VBG
-before_beginning	1
-with_leaving	1
-after_tracking	1
-although_calculating	1
-in_catching	1
-as_being	1
+VB_VBN
+have_been	1
 :_VB
 -_wish	1
 VBN_IN
@@ -397,13 +364,11 @@ deaths_.	1
 characters_.	1
 declarations_.	1
 leads_.	1
-NNS_,
-visuals_,	1
-movies_,	1
-thrillers_,	1
 TO_DT
 to_the	3
 to_a	1
+CC_IN
+And_although	1
 VBZ_.
 disappears_.	1
 VBP_JJ
@@ -459,26 +424,29 @@ try_something	1
 prove_anything	1
 VB_NNP
 prove_Russell	1
+catch_American	1
+catch_Breakdown	1
 NN_NNS
 copy_DOES	1
 kidnapper_contacts	1
 DT_VB
 this_be	2
 NN_NNP
-fianc&eacute;_Sandra	1
+package_Black	1
 veteran_Bob	1
+sum_Black	1
 investigator_Debra	1
+fianc&eacute;_Sandra	1
 NNPS_VBZ
 Bridges_is	1
 VBG_PRP
+calculating_she	1
 tracking_her	1
 DT_RB
 the_relatively	1
 PRP$_NNS
 his_fianc&eacute;s	1
 her_declarations	1
-,_WRB
-,_where	1
 MD_.
 should_.	1
 NN_PRP
@@ -488,26 +456,24 @@ station_she	1
 VB_PRP$
 meet_his	1
 prove_her	1
-VB_TO
-close_to	1
 IN_RB
 at_first	1
 along_nicely	1
-NNP_CC
-Winger_and	1
-Russell_but	1
-Sutherland_and	1
+VBN_DT
+taken_the	1
+been_a	1
+JJ_DT
+clever_the	1
 VBG_TO
 trying_to	1
 RB_CC
+nicely_and	1
 thereafter_and	1
 VBP_IN
 are_at	1
 look_like	1
 JJR_NN
 better_drama	1
-,_VBZ
-,_becomes	1
 NN_VBN
 killer_played	1
 lady_played	1
@@ -534,21 +500,19 @@ in_both	1
 NNP_NNPS
 Beau_Bridges	1
 NN_CC
-innocence_and	1
 job_and	1
+innocence_and	1
 setting_and	1
 disappearance_and	1
+champion_but	1
+death_and	1
 law_and	1
 VB_.
 be_.	1
-,_VBD
-,_loved	1
 VBP_VBG
 are_working	1
 JJ_TO
 sure_to	2
-,_VBG
-,_doing	1
 VBP_NNS
 enjoy_thrillers	1
 NNS_JJ
@@ -556,14 +520,8 @@ fianc&eacute;s_same	1
 VBP_DT
 have_the	1
 recommend_this	1
-VBG_,
-calculating_,	1
-VBN_DT
-taken_the	1
-been_a	1
-NN_''
-boss_'	1
 NN_NN
+boss_death	1
 chess_champion	1
 gas_station	1
 DVD_set	1
@@ -571,20 +529,8 @@ master_mistress	1
 blood_test	1
 family_life	1
 desk_job	2
-NNP_''
-Breakdown_''	1
-Widow_''	1
-Vanishing_''	1
-Gigolo_''	1
-DT_NNS
-Both_women	1
-the_films	1
-the_Widows	1
-The_events	1
-some_differences	1
-the_laws	1
-The_performances	1
-the_kidnappers	1
+NNS_RB
+visuals_particularly	1
 IN_NNS
 of_deaths	1
 IN_NNP
@@ -592,17 +538,14 @@ by_Debra	1
 After_Sutherland	1
 by_Nancy	1
 of_Winger	1
+In_Black	1
 while_Keifer	1
 with_Ondine	1
+In_The	1
 DT_NNP
 the_Vanishing	1
 a_Mafia	1
 the_Pacific	1
-''_IN
-''_while	1
-,_JJ
-,_nonviolent	1
-,_shy	1
 DT_JJ
 some_beautiful	1
 the_now-wealthy	1
@@ -638,22 +581,11 @@ NNS_CC
 men_and	1
 husbands_and	1
 options_and	1
-._''
-._''	1
-VBG_RB
-being_very	1
-NN_,
-sum_,	1
-death_,	1
-killer_,	1
-job_,	1
-champion_,	1
-agent_,	1
-victim_,	1
-package_,	1
-film_,	1
-comparison_,	1
-girlfriend_,	1
+IN_JJ
+as_much	1
+in_clever	1
+like_normal	1
+of_similar	1
 NN_.
 trail_.	1
 screen_.	1
@@ -693,6 +625,7 @@ trouble_with	1
 murderer_in	1
 remake_of	1
 guilt_of	1
+film_with	1
 hilt_by	1
 piece_of	1
 death_of	1
@@ -718,6 +651,8 @@ years_before	1
 laws_of	1
 performances_of	1
 films_in	1
+thrillers_at	1
+movies_if	1
 differences_in	1
 IN_TO
 about_to	1
@@ -748,25 +683,24 @@ to_catch	2
 to_be	2
 to_fall	1
 NN_VBG
+agent_doing	1
 jail_trying	1
-CC_NNP
-and_Russell	1
-and_Winger	1
 NN_VBZ
 issue_is	1
 side_is	1
 somebody_is	1
 life_hangs	1
 girlfriend_has	1
+job_becomes	1
 action_moves	1
 plot_is	1
-''_NN
-'_death	1
 RB_RB
-enough_so	1
 not_so	1
+enough_so	1
 soon_thereafter	1
 as_well	1
+truly_honestly	1
+however_curiously	1
 PRP_CC
 him_and	1
 NNS_:
@@ -781,11 +715,9 @@ the_better	1
 NN_RB
 movie_further	1
 widow_suddenly	1
-dialogue_also	1
+killer_only	1
 order_not	1
-,_CC
-,_and	3
-,_but	1
+dialogue_also	1
 JJ_IN
 Distraught_after	1
 effective_as	2
@@ -818,11 +750,13 @@ Black_Widow	4
 American_Gigolo	1
 Bob_Rafelson	1
 Nancy_Travis	1
+Widow_Theresa	1
 Debra_Winger	2
 Kiefer_Sutherland	1
 Pacific_Northwest	1
 Theresa_Russell	2
 The_Vanishing	2
+Bullock_Kiefer	1
 RB_VBZ
 then_stumbles	1
 finally_trails	1
@@ -855,13 +789,12 @@ also_add	1
 VBZ_VBN
 is_kidnapped	1
 becomes_intrigued	1
+is_cracked	1
 is_killed	1
 has_followed	1
 CC_PRP$
 and_his	1
 and_her	1
-VB_``
-catch_``	2
 RB_VBN
 first_obsessed	1
 newly_married	1
@@ -875,6 +808,11 @@ beginning_another	1
 conducting_a	1
 catching_the	1
 suspecting_the	1
+NNP_DT
+Curse_a	1
+Winger_an	1
+RB_VBD
+honestly_loved	1
 RP_IN
 up_on	1
 VBZ_PRP
@@ -883,19 +821,19 @@ gets_herself	1
 meets_him	1
 believes_she	1
 trails_her	1
-''_.
-''_.	2
+VB_TO
+close_to	1
 VBN_TO
 Claimed_to	1
 played_to	1
 CC_MD
 but_ca	1
-,_NNP
-,_Kiefer	1
-,_Black	2
-PRP_VB
-she_prove	1
+CC_NNP
+and_Russell	1
+and_Winger	1
 JJ_JJ
+good_shy	1
+painless_nonviolent	1
 ambitious_federal	1
 excellent_double	1
 NNP_TO
@@ -952,6 +890,7 @@ flawless_piece	1
 unusual_blood	1
 great_price	1
 good_value	1
+nonviolent_death	1
 new_girlfriend	1
 VBZ_WRB
 is_how	1

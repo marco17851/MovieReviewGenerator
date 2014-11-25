@@ -1,12 +1,17 @@
 IN_NN
+of_Portrait	1
+while_Portrait	1
+in_Portrait	1
 of_Courage	7
-,_IN
-,_because	1
+over_Portrait	1
 PRP_RB
 I_personally	1
+CD_WRB
+93_when	1
 NNP_IN
-Act_of	1
 God_on	1
+Act_of	1
+Back_by	1
 Story_of	1
 CC_JJ
 and_Special	1
@@ -14,14 +19,6 @@ IN_VBG
 about_receiving	1
 RB_.
 not_.	1
-IN_``
-upon_``	1
-while_``	1
-of_``	1
-over_``	1
-in_``	2
-,_PRP
-,_I	1
 VBZ_JJ
 includes_Spanish	1
 VBP_CD
@@ -30,22 +27,20 @@ RBR_JJ
 less_expensive	1
 CC_RB
 but_not	1
+JJ_CC
+other_but	1
 WRB_PRP
 when_you	1
-CD_,
-2005_,	1
-93_,	1
-2006_,	1
 :_WDT
 ;_which	1
-VB_IN
-purchase_on	1
 WRB_VBD
 Where_was	1
 IN_PRP
 because_I	1
 that_you	1
 If_you	1
+NNS_WDT
+subtitles_which	1
 CD_FW
 93_</a>	1
 PRP_VBD
@@ -63,8 +58,6 @@ no_mention	1
 the_book	1
 this_reason	1
 the_question	1
-``_NNP
-``_Beauty	1
 PRP_VBP
 I_recommend	1
 I_like	1
@@ -76,14 +69,13 @@ WP_VBZ
 who_is	1
 PRP_VBZ
 it_is	1
+NNP_CC
+Flynn_and	1
+Rose_and	1
 NNP_CD
 Flight_93	8
-JJ_,
-other_,	1
 RBR_IN
 better_in	1
-CD_''
-93_''	6
 DT_CD
 the_two	2
 CC_PRP
@@ -91,33 +83,26 @@ plus_it	1
 VBP_RB
 do_not	1
 are_virtually	1
-``_DT
-``_The	7
-VBG_``
-receiving_``	1
+RB_VB
+not_worry	1
 :_NN
 ;_Curriculum	1
-NNP_,
-Flynn_,	1
-Rose_,	1
 NNP_.
 McGuiness_.	1
 God_.	1
 Burnett_.	1
 Adams_.	1
 NNPS_IN
+Ashes_by	1
 Heroes_of	3
-,_``
-,_``	1
+VB_IN
+purchase_on	1
+worry_because	1
 NNP_:
 Love_;	1
-,_''
-,_''	3
 JJ_.
 identical_!	1
 11th_?	1
-,_VBD
-,_was	2
 VBN_IN
 hosted_by	2
 concerned_about	1
@@ -127,27 +112,17 @@ included_in	1
 released_in	2
 NNS_.
 documentaries_.	1
-NNS_,
-subtitles_,	1
-differences_,	1
 VBD_NNP
 was_God	1
 NNS_:
 Features_;	1
-``_WRB
-``_Where	1
-VBP_``
-prefer_``	1
 JJ_NNS
 Special_Features	4
 Spanish_subtitles	1
 VBZ_IN
 includes_in	1
-''_CC
-''_plus	1
-,_CC
-,_and	2
-,_but	1
+CD_IN
+93_over	1
 NN_NNP
 Fighting_Back	1
 NN_WP
@@ -156,38 +131,46 @@ DT_NNPS
 the_Ashes	1
 The_Heroes	3
 CD_CC
+93_plus	1
 one_or	1
+NN_PRP
+reason_I	1
 :_DT
 :_The	2
-VBP_IN
-recommend_that	1
+CC_DT
+or_the	1
+and_the	2
 NNS_VBP
 documentaries_are	1
 IN_CD
 in_2005	1
 in_2006	1
-WDT_``
-which_``	1
-,_DT
-,_the	1
-VB_,
-worry_,	1
-VBZ_RBR
-is_less	1
-JJ_TO
-expensive_to	1
+CD_VBD
+93_was	1
+2005_was	1
+2006_was	1
+CD_VBZ
+93_includes	1
+93_does	1
+93_poses	1
 NNS_VBD
 documentaries_were	1
+VBZ_RBR
+is_less	1
+NNS_DT
+differences_the	1
+JJ_TO
+expensive_to	1
 EX_VBZ
 there_is	1
-''_WRB
-''_when	1
+NN_WRB
+question_Where	1
 VBP_DT
+prefer_The	1
 like_the	1
 NN_NN
 <a href="http://www.amazon.com/gp/product/B000E991KM">_Portrait	1
-NNP_''
-Back_''	1
+book_Fighting	1
 DT_NNS
 Both_documentaries	1
 The_Heroes	4
@@ -198,6 +181,7 @@ of_Love	1
 by_Grizzly	1
 of_God	1
 by_Deena	1
+upon_Beauty	1
 of_Flight	8
 by_Jerry	1
 on_September	1
@@ -206,10 +190,6 @@ by_Cheryl	1
 DT_NNP
 The_Untold	1
 The_Ultimate	1
-''_IN
-''_because	1
-''_over	1
-''_by	2
 DT_JJ
 the_other	1
 The_Special	1
@@ -224,30 +204,20 @@ Courage_:	1
 Curriculum_:	1
 NNS_CC
 interviews_and	1
-._''
-?_''	1
-._''	1
 NNP_JJ
 September_11th	1
-NN_,
-Courage_,	2
-reason_,	1
-question_,	1
-``_NN
-``_Portrait	6
-``_Fighting	1
 NN_.
 site_.	1
 Courage_.	1
 NN_IN
 mention_of	1
+Courage_because	1
 Portrait_of	7
 difference_between	1
 WDT_VBZ
 which_is	1
-CC_DT
-or_the	1
-and_the	2
+VBP_IN
+recommend_that	1
 NNS_IN
 Features_of	1
 Features_between	1
@@ -255,25 +225,18 @@ Heroes_of	4
 Features_in	1
 TO_VB
 to_purchase	1
-''_VBD
-''_was	2
-NN_``
-book_``	1
+WDT_DT
+which_The	1
 NN_VBD
+Courage_was	1
 narration_was	2
-''_VBZ
-''_poses	1
-''_makes	1
-''_does	1
-''_includes	2
-''_VBP
-''_do	1
-RB_VB
-not_worry	1
+NN_VBZ
+Courage_includes	1
+Courage_makes	1
+NN_VBP
+Courage_do	1
 JJ_IN
 Other_than	1
-VBD_``
-ordered_``	1
 DT_.
 both_.	1
 IN_EX
@@ -301,24 +264,23 @@ VBZ_VBN
 is_concerned	1
 RB_VBN
 not_included	1
-NN_''
-Courage_''	3
+VBG_DT
+receiving_The	1
 NNP_DT
 Beyond_the	1
 FW_IN
 </a>_If	1
-NNPS_''
-Ashes_''	1
+VBD_NN
+ordered_Portrait	1
 NN_RBR
 narration_better	1
-,_WDT
-,_which	1
 IN_DT
 between_the	2
 than_these	1
 upon_the	1
 on_this	1
 For_this	1
+in_The	1
 in_the	2
 JJ_NN
 little_difference	1

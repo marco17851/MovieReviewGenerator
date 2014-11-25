@@ -35,12 +35,6 @@ produced	1
 seen	1
 called	1
 compared	1
-POS
-'S	1
-'s	4
-'	1
-''
-''	7
 VBP
 do	2
 remember	1
@@ -198,8 +192,10 @@ BETTER	1
 !!!!	1
 MUCH	1
 i	2
-,
-,	26
+POS
+'S	1
+'s	4
+'	1
 .
 !	1
 ?	1
@@ -317,9 +313,27 @@ Sea	1
 Morricone	1
 Irene	1
 Cecil	1
-``
-`	1
-``	7
+VB
+do	1
+play	2
+buy	1
+look	1
+be	1
+get	3
+savor	1
+pay	1
+make	1
+give	1
+watch	1
+see	1
+say	1
+produce	1
+Let	1
+have	4
+demand	1
+mnbrown49	1
+order	1
+consider	1
 WRB
 how	1
 where	1
@@ -386,24 +400,3 @@ JJS
 best	1
 JJR
 less	1
-VB
-do	1
-play	2
-buy	1
-look	1
-be	1
-get	3
-savor	1
-pay	1
-make	1
-give	1
-watch	1
-see	1
-say	1
-produce	1
-Let	1
-have	4
-demand	1
-mnbrown49	1
-order	1
-consider	1

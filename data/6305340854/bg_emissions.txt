@@ -9,11 +9,9 @@ this_video	1
 The_Police	1
 a_jazz	1
 the_price	1
-NNP_VBZ
-Michael_is	1
-NNP_,
-Davis_,	1
-Coltrane_,	1
+NN_CC
+Sting_and	1
+playing_and	1
 TO_VB
 to_see	1
 to_watch	1
@@ -25,8 +23,6 @@ setting_without	1
 VB_PRP$
 catch_your	1
 keep_your	1
-,_RB
-,_then	1
 NN_VBZ
 action_is	1
 DT_MD
@@ -38,8 +34,8 @@ VBP_RB
 MD_VB
 can_keep	1
 should_catch	1
-RB_PRP$
-just_his	1
+NNS_VBP
+musicians_play	1
 JJ_FW
 amazing_!!!	1
 NNP_POS
@@ -48,13 +44,10 @@ IN_PRP$
 of_his	1
 VB_:
 watch_...	1
-NNS_VBP
-musicians_play	1
-''_NNS
-''_performances	1
-NN_,
-playing_,	1
-video_,	1
+NN_RB
+price_too	1
+VBZ_JJ
+'s_amazing	1
 IN_CD
 for_two	1
 at_one	1
@@ -62,14 +55,13 @@ PRP_RB
 I_just	1
 PRP_MD
 He_can	1
-``_NN
-``_solo	1
-,_DT
-,_The	1
+PRP$_NN
+his_solo	1
+your_interest	2
 NNS_NN
 hours_worth	1
-NN_CC
-Sting_and	1
+NNP_VBZ
+Michael_is	1
 PRP_IN
 him_at	1
 him_in	1
@@ -78,8 +70,8 @@ hours_playing	1
 VBZ_DT
 's_an	1
 is_an	1
-VBZ_RB
-is_truly	1
+NN_NNS
+bass_performances	1
 :_PRP
 ..._it	1
 RB_CD
@@ -88,6 +80,7 @@ JJ_TO
 enjoyable_to	1
 NNP_NNP
 John_Coltrane	1
+Coltrane_Miles	1
 Miles_Davis	1
 VBG_RB
 playing_just	1
@@ -120,8 +113,8 @@ IN_PRP
 If_you	1
 RB_VBN
 never_seen	1
-NN_''
-bass_''	1
+NNS_RB
+performances_then	1
 NNS_:
 basses_...	1
 DT_NNS
@@ -131,6 +124,8 @@ POS_NN
 's_bass	1
 CC_DT
 and_some	1
+NNP_DT
+Davis_The	1
 FW_IN
 !!!_In	1
 CD_NNS
@@ -141,25 +136,14 @@ some_other	1
 an_educational	1
 JJ_NNS
 other_tunes	1
-NN_RB
-price_too	1
-PRP$_NN
-your_interest	2
+VBZ_RB
+is_truly	1
 CD_IN
 one_of	1
 VBN_PRP
 seen_him	1
-VBZ_JJ
-'s_amazing	1
-,_NNP
-,_Miles	1
-,_Michael	1
-NNS_,
-performances_,	1
-,_CC
-,_and	1
-PRP$_``
-his_``	1
+RB_PRP$
+just_his	1
 NN_.
 rehearsal_.	1
 interest_.	1
@@ -171,6 +155,8 @@ it_'s	1
 It_'s	1
 RB_DT
 then_this	1
+NN_NNP
+video_Michael	1
 NN_IN
 interest_for	1
 IN_DT

@@ -2,6 +2,7 @@ IN_NN
 that_night	1
 on_time	1
 if_u	1
+after_vocalist	1
 for_rock	1
 of_home.Sum	1
 of_Home	1
@@ -9,12 +10,6 @@ like_pearl	1
 from_soup	1
 into_music	1
 like_mouth	1
-,_IN
-,_at	1
-,_like	1
-,_if	1
-,_because	1
-,_whit	1
 POS_NNS
 's_Letters	1
 NNS_WP
@@ -23,16 +18,14 @@ NNS_WRB
 shots_when	1
 VBG_VBN
 being_passed	1
-WRB_TO
-how_to	1
+VB_WP
+see_what	1
+know_what	2
 NNP_IN
 Alice_in	1
 Melon_in	1
 NNS_RB
 burns_there	1
-DT_VBD
-This_gave	1
-this_was	2
 CC_JJ
 and_tough	1
 or_similar	1
@@ -59,25 +52,21 @@ WRB_DT
 where_some	1
 VBN_:
 labeled_...	1
-RB_,
-then_,	1
-n't_,	1
-Anyway_,	1
-Well_,	1
+IN_VBG
+before_buying	1
+of_buying	1
+of_capturing	1
+while_shreeking	1
 RB_.
 instead_.	1
 horribly_.	1
 there_.	1
-VBP_,
-mean_,	1
 IN_VB
 of_miss	1
-,_PRP
-,_It	1
-,_he	1
-,_I	6
-,_you	2
-,_they	2
+VBP_.
+do_.	1
+come_.	1
+pansy_!	1
 VBZ_JJ
 's_ironic	1
 is_awful	1
@@ -87,8 +76,6 @@ is_amazing	1
 's_sure	1
 IN_VBN
 of_sounded	1
-VBD_NN
-searched_youtube	1
 NN_TO
 loss_to	1
 chance_to	2
@@ -116,15 +103,12 @@ what_the	1
 WRB_PRP
 when_I	1
 when_you	1
-CD_,
-27_,	1
 IN_FW
 as_i	1
 CD_.
 1995_.	1
-VB_WP
-see_what	1
-know_what	2
+VBN_VBG
+been_watching	1
 :_IN
 :_If	1
 CC_VBG
@@ -143,22 +127,15 @@ that_I	1
 If_you	2
 for_us	1
 as_they	1
-''_.
-''_.	2
 VBZ_CD
 includes_3	1
-''_,
-''_,	4
-IN_VBG
-before_buying	1
-of_buying	1
-of_capturing	1
-while_shreeking	1
+VBN_RB
+been_there	1
+recorded_horribly	1
 VBN_CD
 immortalized_one	1
-,_NN
-,_vocalist	1
-,_stone	1
+WRB_TO
+how_to	1
 WRB_VBP
 why_are	1
 PRP$_RB
@@ -188,6 +165,8 @@ they_were	3
 CD_NNS
 3_tracks	1
 3_weeks	1
+PRP_PRP
+it_they	1
 PRP_VBG
 you_wasting	1
 NNP_NN
@@ -275,8 +254,6 @@ about_and	1
 DT_VBZ
 This_is	3
 this_is	3
-``_NNS
-``_Letters	1
 VBN_JJ
 found_dead	1
 PRP_VBP
@@ -302,13 +279,11 @@ I_read	1
 you_see	1
 I_'m	2
 you_like	1
-JJ_``
-unforgetable_``	1
+CC_NNP
+but_I	1
+and_Lou	1
 WP_VBP
 what_live	1
-DT_JJS
-the_worst	1
-the_best	1
 DT_VBN
 a_renewed	1
 NN_MD
@@ -318,11 +293,8 @@ it_is	1
 It_is	1
 It_'s	1
 he_is	1
-IN_JJ
-in_Much	1
-of_great	1
-as_free	1
 NNP_CC
+Scratcher_and	1
 Hoon_and	1
 Shannon_and	1
 NNP_CD
@@ -331,26 +303,18 @@ FW_VBP
 i_do	1
 TO_RB
 to_fully	1
-IN_,
-on_,	1
-after_,	1
-DT_``
-the_``	1
 RB_IN
 live_although	1
 shortly_after	1
 there_after	1
+Well_if	1
 VBG_IN
 talking_about	1
 looking_at	1
-RB_:
-accordingly_...	1
-,_RB
-,_well	1
-,_effectively	1
-,_instead	1
 DT_CD
 the_90	2
+FW_FW
+et_al.	1
 CC_PRP
 and_it	1
 RP_DT
@@ -376,22 +340,16 @@ us_.	1
 it_.	2
 FW_.
 al._.	1
-PRP_,
-it_,	2
 IN_PRP$
 of_their	2
 although_his	1
 if_your	1
 If_your	1
 for_their	1
-NNS_''
-Hours_''	1
 NNP_WDT
 Unplugged_which	1
 PRP_VB
 them_live	2
-NNP_,
-Luckily_,	1
 NNP_.
 Melon_.	1
 muchMusic_.	1
@@ -400,6 +358,7 @@ CC_VBZ
 but_is	1
 NN_WRB
 idea_how	1
+DVD_where	1
 PRP_RB
 I_just	1
 I_thoroughly	1
@@ -415,8 +374,8 @@ CC_RB
 and_really	1
 or_just	1
 and_never	1
-FW_FW
-et_al.	1
+IN_IN
+on_like	1
 PRP$_NN
 his_hair	1
 their_audience	1
@@ -424,11 +383,11 @@ His_voice	1
 your_money	1
 his_voice	1
 their_lead	1
-``_NNP
-``_Lemonade	1
-``_Paper	1
-``_Soak	1
+DT_VBD
+This_gave	1
+this_was	2
 NNP_PRP
+Luckily_I	1
 Maneudo_you	1
 CC_VBD
 and_saved	1
@@ -452,10 +411,8 @@ JJ_VBG
 amazing_performing	1
 JJ_PRP
 talented_they	1
-JJ_,
-nice_,	1
-ironic_,	1
-great_,	1
+CD_POS
+90_'s	2
 JJ_.
 excellent_.	2
 great_.	1
@@ -472,8 +429,11 @@ did_n't	1
 was_very	1
 felt_so	1
 NN_DT
+pessimist_this	1
 fan_this	1
+song_No	1
 performance_the	1
+band_a	1
 NNS_VBP
 songs_are	1
 reviewers_have	1
@@ -487,11 +447,9 @@ left_for	1
 taped_on	1
 passed_over	1
 NNS_.
+Hours_.	1
 shows_.	1
 guys_.	1
-NNS_,
-songs_,	1
-chains_,	1
 VBP_WRB
 know_how	1
 mean_when	1
@@ -499,20 +457,15 @@ PRP_DT
 me_the	1
 VBD_TO
 got_to	1
-VBD_JJ
-recorded_live	1
+CC_IN
+and_if	2
 VBD_NNP
 liked_Blind	1
 bought_Alice	1
-VBN_RB
-been_there	1
-recorded_horribly	1
 VBZ_.
 does_.	1
 VBP_JJ
 like_blind	1
-,_``
-,_``	3
 RB_NN
 n't_vow	1
 NNS_TO
@@ -534,6 +487,7 @@ buy_if	1
 appreciation_for	1
 job_of	1
 sort_of	1
+Recital_whit	1
 quality_on	1
 gamble_of	1
 alice_in	1
@@ -561,10 +515,6 @@ rough_thats	1
 several_patrons	1
 similar_bands	1
 last_performances	1
-VBP_.
-do_.	1
-come_.	1
-pansy_!	1
 JJ_JJ
 extra_much	1
 free_spirited	1
@@ -582,18 +532,10 @@ VBN_PRP
 stoned_he	1
 LS_NN
 i_think	1
-''_CC
-''_and	1
-CC_WRB
-and_how	1
-and_why	1
 WRB_JJ
 how_talented	1
 how_great	1
 when_several	1
-,_CC
-,_and	3
-,_but	1
 VB_NN
 go_search	1
 assure_u	1
@@ -607,18 +549,21 @@ angle_shots	1
 temple_pilots	1
 FW_VB
 i_assure	1
-,_CD
-,_1995	1
 NN_NNP
-vocalist_Shannon	1
-singer_Shannon	1
+Home_Soak	1
 hardcore_Blind	1
+vocalist_Shannon	1
 n_Roll	1
+singer_Shannon	1
+Rain_Paper	1
 RB_DT
 just_a	1
+Anyway_this	1
 not_a	2
-CC_IN
-and_if	2
+VBD_JJ
+recorded_live	1
+CD_CD
+27_1995	1
 VBP_TO
 have_to	1
 Have_to	1
@@ -631,21 +576,19 @@ their_songs	1
 his_hands	1
 NNPS_.
 Holidays_.	1
-,_WRB
-,_where	1
-PRP_MD
-I_would	1
-you_might	1
-I_will	1
-I_could	1
-he_can	1
-You_might	1
-You_'ll	1
-you_would	1
+CC_NN
+or_alice	1
+and_video	1
 NN_PRP
 thing_you	1
+eariler_I	1
+concert_they	1
+fan_It	1
 face_it	1
+fan_you	1
 love_it	1
+guy_I	1
+end_he	1
 music_you	1
 hope_ya	1
 band_they	1
@@ -656,6 +599,10 @@ WDT_VBZ
 which_is	1
 that_'s	1
 that_is	1
+JJ_DT
+nice_the	1
+great_the	1
+unforgetable_No	1
 VBG_TO
 shreeking_to	1
 VBP_PRP
@@ -691,21 +638,29 @@ VBG_DT
 capturing_the	1
 reading_this	1
 buying_the	1
-CC_NN
-or_alice	1
-and_video	1
+POS_IN
+'s_After	1
+PRP_MD
+I_would	1
+you_might	1
+I_will	1
+I_could	1
+he_can	1
+You_might	1
+You_'ll	1
+you_would	1
 VBP_IN
 mark_in	1
-,_DT
-,_this	2
-,_a	1
-,_the	3
+mean_at	1
+NNP_DT
+Lemonade_the	1
 VBP_VBN
 've_seen	1
 have_been	1
 have_left	1
 NNP_VBZ
 Shannon_looks	1
+Metro_is	1
 Inxs_does	1
 NNS_VBD
 tracks_recorded	1
@@ -723,20 +678,14 @@ VBP_VBG
 are_being	1
 PRP$_DT
 your_a	1
-POS_``
-'s_``	1
 JJ_TO
 painful_to	1
 sure_to	1
-VB_,
-admit_,	1
 JJS_NN
 worst_thing	1
 best_dvd	1
 VBP_NNP
 wish_Shannon	1
-VBN_VBG
-been_watching	1
 VBP_DT
 have_a	1
 'm_no	1
@@ -747,41 +696,42 @@ see_this	1
 recommend_this	1
 miss_the	1
 remember_the	1
-``_IN
-``_After	1
+RB_:
+accordingly_...	1
 NN_NN
-song_DVD	1
-porcupine_DVD	1
-tour_bus	1
-sound_quality	1
-receiver_love	1
-end_hope	1
-Bottom_line	1
-christmas_gift	1
-lead_singer	1
-venue_show	1
 year_eariler	1
 drug_overdose	1
-music_fan	1
 dvd_u	1
 metro_concert	1
 melon_fan	2
+porcupine_DVD	1
+sound_quality	1
 stone_temple	1
-video_overall	1
+venue_show	1
+song_DVD	1
+porcupine_dvd	1
+receiver_love	1
+end_hope	1
+music_fan	1
+lead_singer	1
+christmas_gift	1
 music_world	1
+tour_bus	1
+Bottom_line	1
+jam_stone	1
+video_overall	1
 pearl_jam	1
 NN_FW
 fan_i	1
-NNP_''
-Scratcher_''	1
-Metro_'	1
-Lemonade_''	1
-Sun_''	1
+POS_JJ
+'s_last	1
+'s_trajic	1
 JJS_PRP
 least_they	1
 DT_NNS
 some_excerpts	1
 these_guys	1
+the_Letters	1
 The_songs	1
 IN_NNS
 of_songs	1
@@ -848,8 +798,6 @@ ended_the	1
 purchased_the	1
 were_a	1
 saw_the	1
-``_VB
-`_Live	1
 NN_:
 review_-	1
 line_:	1
@@ -865,24 +813,14 @@ NNP_JJ
 Hoon_lead	1
 VBD_VBD
 enjoyed_were	1
-NN_,
-overdose_,	1
-jam_,	1
-Recital_,	1
-eariler_,	1
-fan_,	3
-band_,	2
-pessimist_,	1
-concert_,	2
-guy_,	1
-end_,	1
-dvd_,	1
-DVD_,	1
-``_NN
-``_Tone	1
+IN_JJ
+in_Much	1
+of_great	1
+as_free	1
 NN_.
 world_.	1
-history_.	1
+Rain_.	1
+mistake_.	1
 video_.	1
 Addiction_.	1
 money_.	1
@@ -893,7 +831,7 @@ Music_.	1
 dummy_.	1
 purchase_.	1
 should-have_.	1
-mistake_.	1
+history_.	1
 dvd_.	1
 career_.	1
 footage_.	1
@@ -904,8 +842,6 @@ show_.	1
 crowd_.	1
 night_.	1
 audience_.	1
-''_NN
-''_dvd	1
 VBN_NN
 renewed_appreciation	1
 NNP_RB
@@ -928,21 +864,26 @@ bands_like	1
 Tracks_of	1
 Letters_from	2
 songs_from	1
+NNS_PRP
+chains_I	1
+songs_I	1
 NN_CC
+fan_but	1
 thing_but	1
 melon_and	1
-band_and	1
+band_and	2
 genius_and	1
 music_but	1
 time_and	1
 soup_and	1
 quality_and	1
 makeup_and	1
+Dvd_and	1
 rain_and	1
 feel_and	1
 fan_or	1
 show_and	1
-Dvd_and	1
+concert_and	1
 gift_and	1
 melon_or	1
 VB_JJ
@@ -960,8 +901,9 @@ to_get	1
 NN_VBG
 man_wearing	1
 time_reading	1
-NN_``
-song_``	1
+CC_WRB
+and_how	1
+and_why	1
 NN_VBD
 hoon_was	1
 singer_did	1
@@ -990,8 +932,6 @@ concert_is	2
 VBD_.
 were_.	1
 was_.	2
-''_VBZ
-'_is	1
 POS_.
 's_.	1
 RB_RB
@@ -999,16 +939,20 @@ Soon_there	1
 Sadly_only	1
 really_quite	1
 well_then	1
-CD_POS
-90_'s	2
+n't_well	1
+DT_JJS
+the_worst	1
+the_best	1
 VBD_IN
 were_as	1
 came_on	1
 was_in	1
+PRP_CC
+it_and	1
 NN_VBP
 u_are	1
-``_DT
-``_No	2
+WDT_VBD
+that_was	1
 NNP_POS
 Jane_'s	1
 Shannon_'s	1
@@ -1021,9 +965,12 @@ or_the	1
 and_the	4
 and_this	2
 NN_RB
+overdose_effectively	1
 music_as	1
+dvd_instead	1
 JJ_IN
 live_on	1
+ironic_because	1
 sorry_with	1
 dead_on	1
 full_of	1
@@ -1031,8 +978,6 @@ spirited_as	1
 sorry_for	1
 much_as	2
 great_of	1
-VBD_``
-were_``	1
 NN_VB
 crowd_buy	1
 DT_.
@@ -1071,6 +1016,7 @@ Chains_Unplugged	1
 R.I.P_Shannon	1
 Paper_Scratcher	1
 Soak_The	1
+Sun_Lemonade	1
 VBG_RB
 performing_live	1
 NN_PRP$
@@ -1086,6 +1032,7 @@ so_painful	1
 as_much	2
 quite_good	1
 VB_PRP
+admit_I	1
 see_them	2
 RB_VBP
 now_have	1
@@ -1107,14 +1054,11 @@ always_been	1
 NNP_VBD
 'd_downloaded	1
 Hoon_was	1
-NN_''
-porcupine_''	1
-Rain_''	2
-Home_''	1
 VB_CC
 have_and	1
 RB_PRP
 not_you	1
+then_you	1
 RB_VBD
 never_got	1
 thoroughly_enjoyed	1
@@ -1126,20 +1070,15 @@ VBN_NNP
 seen_Blind	1
 VBP_NN
 live_music	1
-CC_NNP
-but_I	1
-and_Lou	1
+VBD_NN
+searched_youtube	1
+were_Tone	1
 CC_NNS
 and_tones	1
 and_thanks	1
 VBZ_IN
 gets_into	1
 is_as	1
-WDT_VBD
-that_was	1
-POS_JJ
-'s_last	1
-'s_trajic	1
 VB_RP
 Check_out	1
 DT_TO

@@ -12,20 +12,17 @@ Terri_Hawkes	1
 VBZ_JJ
 is_ok	1
 CD_CC
+2_and	1
 4_&	1
 CC_RB
 but_not	1
 and_lastly	1
-VBN_,
-kidnapped_,	1
 JJ_CC
 ok_but	1
 crazy_and	1
 CC_VBD
 and_kept	1
 and_was	1
-CD_,
-2_,	1
 CC_CD
 &_5	1
 CD_.
@@ -34,8 +31,8 @@ WRB_VBN
 How_come	1
 PRP$_JJ
 Its_such	1
-,_NN
-,_Kaorinite	1
+VBN_CC
+kidnapped_and	1
 FW_CC
 Hawkes_and	1
 IN_FW
@@ -76,9 +73,6 @@ DT_CD
 all_5	1
 JJ_VBZ
 chibi-usa_is	1
-NNP_,
-Uranus_,	1
-Neptune_,	1
 NNP_.
 Moon_.	1
 CC_VBZ
@@ -105,19 +99,17 @@ revealed_in	1
 voiced_by	1
 NNS_.
 seasons_.	1
-NNS_,
-scouts_,	1
-returns_,	1
 VBD_JJ
 was_sad	1
 VBN_NN
 come_nobody	1
 dubbed_person	1
-,_CC
-,_and	2
 NN_NNS
 Kaorinite_returns	1
 sailor_scouts	1
+NNS_NNP
+scouts_Uranus	1
+returns_Rini	1
 NN_WP
 person_who	1
 RB_NNP
@@ -144,6 +136,7 @@ revealed_.	1
 VBZ_NN
 didnt_return	1
 NN_NN
+arc_Kaorinite	1
 snatcher_arc	1
 SuperS_series	1
 heart_snatcher	1
@@ -166,8 +159,6 @@ preferred_the	1
 reviewed_this	1
 NNP_JJ
 Rini_chibi-usa	1
-NN_,
-arc_,	1
 NN_.
 series_.	1
 volume_.	1
@@ -223,8 +214,10 @@ is_the	1
 VBZ_NNP
 does_Sailor	1
 NNP_NNP
-Sailor_Saturn	1
+Uranus_Neptune	1
 Sailors_Saturn	1
+Sailor_Saturn	1
+Neptune_Pluto	1
 Sailor_Moon	1
 RB_VBZ
 just_sounds	1
@@ -238,11 +231,6 @@ VBZ_PRP$
 makes_her	1
 RB_VBN
 Already_revealed	1
-,_NNP
-,_Pluto	1
-,_Uranus	1
-,_Neptune	1
-,_Rini	1
 CC_NNP
 and_Pluto	1
 VBZ_MD

@@ -1,11 +1,15 @@
 VB_IN_DT
 be_on_the	1
+IN_VBG_NNS
+at_wresting_athletics	1
 RP_DT_NN
 away_the_end	1
 CC_RB_JJ
 and_even_many	1
 RB_IN_DT
 away_from_the	1
+JJ_NN_CC
+final_match_and	1
 DT_VBZ_RB
 this_is_not	1
 IN_DT_NNPS
@@ -18,47 +22,45 @@ NN_DT_NN
 acting_a_bit	1
 PRP_:_MD
 it_--_will	1
-PRP_NN_,
-it_chance_,	1
+NN_CC_IN
+match_and_if	1
 NN_IN_JJ
 life_in_general	1
 VBZ_NN_:
 loves_wrestling_--	1
+NN_JJR_IN
+wrestler_deeper_into	1
+VBZ_VB_DT
+does_lower_the	1
+DT_NN_IN
+the_edge_of	1
+a_chance_at	1
+the_movie_with	1
+MD_VB_DT
+will_love_this	1
+NN_PRP_VBZ
+story_it_portrays	1
+DT_NN_:
+the_start_:	1
+IN_CD_NNS
+of_two_men	1
+VBP_PRP_NN
+give_it_chance	1
 NN_IN_DT
 seat_during_the	1
 touch_of_this	1
 movie_with_a	1
 shot_at_a	1
 chance_at_the	1
-NN_JJR_IN
-wrestler_deeper_into	1
-VBZ_VB_DT
-does_lower_the	1
-NN_,_DT
-fact_,_a	1
-MD_VB_DT
-will_love_this	1
-DT_NN_:
-the_start_:	1
-IN_CD_NNS
-of_two_men	1
-,_CC_NN
-,_and_life	1
-VBP_PRP_NN
-give_it_chance	1
-DT_NN_,
-a_bit_,	1
-the_end_,	1
 DT_NN_.
 the_movie_.	1
 this_movie_.	1
-JJ_NN_,
-final_match_,	1
-true_story_,	1
 VB_DT_JJ
 draw_any_real	1
 RB_VB_PRP
 necessarily_love_it	1
+IN_NN_DT
+In_fact_a	1
 RB_NN_WP
 almost_anyone_who	1
 POS_JJ_DT
@@ -73,9 +75,6 @@ JJ_JJ_JJ
 hyper-modern_new_musical	1
 VBD_RB_VBN
 was_n't_meant	1
-,_PRP_MD
-,_I_can	1
-,_you_'ll	1
 NNP_NN_.
 Hollywood_blockbuster_.	1
 IN_DT_NN
@@ -93,14 +92,14 @@ JJ_NN_IN
 nice_touch_of	1
 new_look_at	1
 last_shot_at	1
-IN_NN_,
-In_fact_,	1
 RB_VBN_.
 Highly_recommended_!	1
 IN_NN_IN
 In_spite_of	1
 PRP_RB_VBZ
 it_also_tends	1
+NNS_CC_NN
+athletics_and_life	1
 IN_VBG_RP
 Without_giving_away	1
 RB_RB_VB
@@ -113,14 +112,13 @@ DT_NN_VBZ
 this_movie_is	1
 TO_VB_.
 to_be_.	1
+DT_NN_PRP
+the_end_I	1
+a_bit_it	1
 VB_RB_IN
 walk_away_from	1
 IN_DT_VBZ
 While_this_does	1
-,_PRP_VBZ
-,_it_portrays	1
-NNS_,_CC
-athletics_,_and	1
 EX_VBP_DT
 There_are_no	1
 WP_VBZ_NN
@@ -142,23 +140,12 @@ VBG_DT_JJ
 making_a_last	1
 VBN_TO_VB
 meant_to_be	1
-CC_NNS_IN
-and_struggles_of	1
+NN_PRP_RB
+bit_it_also	1
 NN_IN_PDT
 spite_of_all	1
 VBG_RP_DT
 giving_away_the	1
-,_DT_JJ
-,_a_nice	1
-NN_,_PRP
-bit_,_it	1
-story_,_it	1
-end_,_I	1
-chance_,_you	1
-DT_NN_IN
-the_edge_of	1
-a_chance_at	1
-the_movie_with	1
 IN_PRP_MD
 that_you_'ll	1
 JJ_NN_JJR
@@ -169,6 +156,8 @@ VBP_DT_JJ
 are_no_flashy	1
 VBZ_TO_VB
 tends_to_draw	1
+NN_DT_JJ
+fact_a_nice	1
 NNP_POS_JJ
 Let_'s_clear	1
 PRP_VBP_PRP
@@ -181,48 +170,47 @@ IN_IN_PRP
 because_of_it	1
 DT_JJ_NNS
 No_big-name_actors	1
-,_NNS_,
-,_athletics_,	1
 DT_NN_DT
 the_acting_a	1
 :_DT_VBZ
 :_this_is	1
-JJ_NNS_.
-special_effects_.	1
-big-name_actors_.	1
-musical_scores_.	1
+JJ_NN_PRP
+true_story_it	1
 MD_VB_IN
 'll_be_on	1
 can_say_that	1
 :_MD_VB
 --_will_love	1
-,_PRP_RB
-,_it_also	1
 MD_VB_RB
 'll_walk_away	1
 VB_DT_NN
 love_this_movie	1
 lower_the_acting	1
+JJ_NNS_.
+special_effects_.	1
+big-name_actors_.	1
+musical_scores_.	1
 NN_:_DT
 start_:_this	1
+VBG_NNS_CC
+wresting_athletics_and	1
 CD_NNS_VBG
 two_men_making	1
+NN_PRP_MD
+chance_you_'ll	1
+end_I_can	1
 VB_IN_PRP
 say_that_you	1
 VBN_IN_DT
 Based_on_a	1
 NNS_VBP_DT
 heroes_play_the	1
-NN_,_CC
-match_,_and	1
 NNS_IN_CD
 struggles_of_two	1
 IN_DT_JJ
 on_a_true	1
 with_a_new	1
 during_the_final	1
-,_CC_IN
-,_and_if	1
 DT_NN_CC
 the_determination_and	1
 PRP_VBZ_DT
@@ -231,8 +219,6 @@ RB_DT_NNP
 not_a_Hollywood	1
 IN_PRP_VBP
 if_you_give	1
-IN_VBG_,
-at_wresting_,	1
 DT_NNPS_.
 the_Olympics_.	1
 IN_PRP$_NN
@@ -241,6 +227,8 @@ NN_:_CC
 wrestling_--_and	1
 CC_NN_IN
 and_life_in	1
+CC_NNS_IN
+and_struggles_of	1
 NN_WP_VBZ
 anyone_who_loves	1
 NN_IN_VBG
@@ -252,8 +240,6 @@ flashy_special_effects	1
 new_musical_scores	1
 DT_NNP_NN
 a_Hollywood_blockbuster	1
-VBG_,_NNS
-wresting_,_athletics	1
 VBP_DT_NNS
 play_the_parts	1
 PRP_VBD_RB
@@ -283,6 +269,8 @@ RB_JJ_WP
 even_many_who	1
 DT_NNS_.
 the_parts_.	1
+PRP_NN_PRP
+it_chance_you	1
 IN_PRP_.
 of_it_?	1
 NN_NNS_VBP

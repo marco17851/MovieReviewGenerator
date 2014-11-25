@@ -2,6 +2,8 @@ VBP_IN_JJ
 run_through_various	1
 VB_IN_DT
 use_as_a	1
+NN_VBZ_DT
+music_is_a	1
 CC_DT_NN
 and_the_saber	1
 VBP_DT_NN
@@ -12,15 +14,6 @@ care_should_be	1
 tape_would_be	1
 NNP_NNP_CC
 Dr._Yang_and	1
-NNS_''_IN
-headings_''_in	1
-''_NN_NN
-''_saber/broadsword_form	1
-VBN_IN_``
-taken_in_``	1
-RB_VB_DT
-NOT_be_a	1
-lo_learn_a	1
 WRB_PRP_VBD
 when_I_started	1
 :_EX_VBP
@@ -37,12 +30,13 @@ EX_VBP_NNS
 there_are_lots	1
 JJ_IN_JJ
 available_in_early	1
+NNP_VBZ_IN
+YMAA_promises_that	1
 IN_VBG_DT
 by_watching_this	1
+in_picking_a	1
 NNP_NNS_.
 Chi_forms_.	1
-VBN_``_JJ
-called_``_instructional	1
 NNS_VBP_RB
 differences_do_not	1
 VBD_JJR_NN
@@ -51,6 +45,8 @@ DT_NN_IN
 the_form_that	1
 VBN_DT_NN
 learned_the_YMAA	1
+JJ_NN_JJ
+only_audio_other	1
 TO_VB_IN
 to_use_as	1
 NN_NN_:
@@ -59,10 +55,6 @@ VBP_NNS_IN
 are_lots_of	1
 NNP_:_IN
 Line_:_if	1
-NN_NN_,
-NO_audio_,	1
-NO_slo-mo_,	1
-background_music_,	1
 NN_NN_.
 saber_form_.	1
 saber_class_.	1
@@ -73,18 +65,12 @@ choice_if_you	1
 form_that_I	1
 JJ_IN_NN
 other_than_background	1
-DT_``_JJ
-the_``_open	1
 CC_DT_NNS
 and_the_differences	1
-,_JJ_IN
-,_other_than	1
 DT_NN_.
 a_teacher_.	1
-''_DT_NN
-''_a_tape/DVD	1
-JJ_NN_,
-only_audio_,	1
+NN_VBG_NN
+voice_reading_chapter	1
 NNS_CC_DT
 exercises_and_the	1
 JJ_NN_.
@@ -98,16 +84,16 @@ NN_DT_VBZ
 form_this_is	1
 TO_VB_NNP
 to_WATCH_Dr.	1
-NN_''_NNP
-hand_''_T'ai	1
+JJ_:_NN
+instructional_--_NO	1
 NNP_NNP_NNS
 T'ai_Chi_forms	1
 VBG_DT_NNP
 attending_a_Yang	1
-VB_VBN_``
-be_called_``	1
-MD_RB_VB
-would_NOT_be	1
+VBN_JJ_:
+called_instructional_--	1
+IN_JJ_NN
+of_different_family	1
 NN_WRB_PRP
 tape_when_I	1
 JJR_NN_.
@@ -136,8 +122,8 @@ same_video_so	1
 saber_form_without	1
 good_choice_if	1
 only_game_in	1
-IN_IN_DT
-as_with_the	1
+NN_VBD_JJR
+production_included_more	1
 CC_DT_JJ
 and_a_few	1
 PRP_RB_VBP
@@ -145,8 +131,6 @@ I_really_wish	1
 You_only_get	1
 DT_MD_RB
 This_would_NOT	1
-,_VBZ_DT
-,_is_a	1
 DT_NNP_CC
 both_English_and	1
 JJ_NNS_VBP
@@ -157,8 +141,8 @@ DT_NN_VBN
 the_form_shown	1
 WDT_MD_VB
 that_could_be	1
-JJ_NN_''
-open_hand_''	1
+DT_NN_VBG
+a_voice_reading	1
 DT_NN_VBD
 The_instructor_had	1
 this_production_included	1
@@ -172,8 +156,8 @@ VBG_RB_VB
 wanting_lo_learn	1
 JJ_CD_.
 early_2008_.	1
-VBP_VBG_DT
-'re_studying_the	1
+JJ_NN_NNP
+open_hand_T'ai	1
 VBG_TO_VB
 going_to_be	1
 VBP_VBG_RB
@@ -184,17 +168,14 @@ VBD_VBN_IN
 was_assured_that	1
 NNP_CC_NNP
 English_and_Chinese	1
-''_:_NN
-''_--_NO	1
-JJ_''_:
-instructional_''_--	1
+NN_NNP_NNP
+hand_T'ai_Chi	1
 DT_JJ_JJ
 a_few_senior	1
-DT_DT_``
-the_the_``	1
-NN_,_NN
-audio_,_NO	1
-slo-mo_,_NO	1
+VB_VBN_IN
+be_taken_in	1
+IN_NN_NN
+than_background_music	1
 VBG_DT_JJ
 watching_this_same	1
 DT_NN_NN
@@ -204,18 +185,20 @@ a_DVD_version	1
 the_saber_form	1
 VBN_IN_IN
 documented_as_with	1
-IN_VBG_IN
-without_working_with	1
 JJ_NNS_CC
 various_exercises_and	1
+VBP_VBG_DT
+'re_studying_the	1
 VBP_RB_VB
 do_not_seem	1
 CC_NNP_POS
 and_Chinese_'	1
-JJ_``_NN
-different_``_family	1
-VBG_''_DT
-picking_''_a	1
+NNS_IN_DT
+headings_in_both	1
+NN_NN_VBZ
+background_music_is	1
+MD_RB_VB
+would_NOT_be	1
 :_NN_MD
 :_care_should	1
 RB_DT_NN
@@ -239,49 +222,47 @@ DT_NNP_VBZ
 The_YMAA_promises	1
 NN_:_EX
 aid_--_there	1
-IN_NN_NN
-than_background_music	1
 IN_DT_NNP
 in_both_English	1
+VBG_NN_NNS
+reading_chapter_headings	1
 DT_NN_MD
 the_tape_would	1
-NN_''_NN
-family_''_saber/broadsword	1
+JJ_NN_NN
+different_family_saber/broadsword	1
 IN_JJ_NNS
 through_various_exercises	1
-VB_VBN_IN
-be_taken_in	1
+IN_VBG_IN
+without_working_with	1
 POS_JJ_NN
 's_only_audio	1
 IN_JJ_CD
 in_early_2008	1
-IN_JJ_``
-of_different_``	1
 DT_NN_WRB
 this_tape_when	1
 RB_VBP_DT
 really_wish_this	1
-NN_NNS_''
-chapter_headings_''	1
+RB_VB_DT
+NOT_be_a	1
+lo_learn_a	1
 MD_VB_VBN
 could_be_called	1
 should_be_taken	1
 MD_VB_RB
 would_be_exactly	1
-NN_VBD_JJR
-production_included_more	1
+IN_IN_DT
+as_with_the	1
 PRP_VBD_VBG
 I_was_going	1
 I_started_attending	1
 NNP_POS_EX
 Chinese_'_There	1
+VBN_IN_VBG
+taken_in_picking	1
 PRP_VBD_VBN
 I_was_assured	1
 VBD_VBN_DT
 had_learned_the	1
-,_NN_NN
-,_NO_step-by-step	1
-,_NO_slo-mo	1
 PRP_VBD_DT
 I_purchased_this	1
 RB_VB_TO
@@ -290,10 +271,6 @@ RB_VBP_TO
 only_get_to	1
 VB_NNP_NNP
 WATCH_Dr._Yang	1
-``_JJ_''
-``_instructional_''	1
-NN_VBG_``
-voice_reading_``	1
 DT_NNS_VBP
 the_differences_do	1
 VBN_IN_DT
@@ -301,24 +278,20 @@ shown_on_the	1
 assured_that_the	1
 NNP_NN_NN
 Yang_saber_class	1
-''_NNP_NNP
-''_T'ai_Chi	1
-IN_``_VBG
-in_``_picking	1
 IN_PRP_VBD
 so_I_was	1
 that_I_was	1
 NNS_VBP_IN
 students_run_through	1
-NNP_VBZ_IN
-YMAA_promises_that	1
+NN_JJ_IN
+audio_other_than	1
 IN_PRP_VBP
 if_you_are	1
 if_you_'re	1
 VB_JJ_IN
 be_available_in	1
-''_IN_DT
-''_in_both	1
+VB_VBN_JJ
+be_called_instructional	1
 VBD_VBG_TO
 was_going_to	1
 NN_TO_VB
@@ -329,10 +302,6 @@ EX_VBZ_DT
 There_is_no	1
 :_IN_PRP
 :_if_you	1
-VBG_``_NN
-reading_``_chapter	1
-``_NN_''
-``_family_''	1
 NN_IN_VBG
 form_without_working	1
 style_by_watching	1
@@ -356,39 +325,38 @@ NN_POS_JJ
 tape_'s_only	1
 RB_RB_VBN
 as_well_documented	1
-``_JJ_NN
-``_open_hand	1
-``_NN_NNS
-``_chapter_headings	1
-NN_,_VBZ
-music_,_is	1
-NN_,_JJ
-audio_,_other	1
+DT_DT_JJ
+the_the_open	1
 DT_JJ_NN
-a_good_choice	1
+this_same_video	1
 a_saber_form	1
 the_only_game	1
-this_same_video	1
+the_open_hand	1
+a_good_choice	1
 no_matching_book	1
 NN_NN_NN
 YMAA_saber_style	1
+slo-mo_NO_step-by-step	1
+audio_NO_slo-mo	1
+family_saber/broadsword_form	1
 YMAA_saber_form	1
+NO_audio_NO	1
+NO_slo-mo_NO	1
 NNS_IN_JJ
 lots_of_different	1
 :_NN_NN
 --_NO_audio	1
 DT_VBZ_DT
 this_is_the	1
-``_VBG_''
-``_picking_''	1
 VBD_VBG_DT
 started_attending_a	1
 TO_VB_RB
 to_be_as	1
 VBG_DT_NN
 studying_the_YMAA	1
-DT_NN_VBG
-a_voice_reading	1
+picking_a_tape/DVD	1
+NN_NNS_IN
+chapter_headings_in	1
 RB_VBN_IN
 well_documented_as	1
 VB_TO_VB

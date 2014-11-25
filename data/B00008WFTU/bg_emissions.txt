@@ -60,6 +60,7 @@ VBP_JJR
 are_better	1
 hope_more	1
 VBN_VBG
+introduced_setting	1
 been_happing	1
 FW_DT
 <a href="http://www.amazon.com/gp/product/B001DHXT2A">_The	1
@@ -97,11 +98,6 @@ Anyway_to	1
 up_to	1
 enough_to	2
 not_to	1
-VBP_,
-know_,	1
-IN_``
-as_``	2
-of_``	4
 VBP_.
 rip_.	1
 VBP_CD
@@ -111,12 +107,8 @@ failed_.	1
 missed_.	1
 attached_.	1
 liked_.	1
-VBN_,
-charged_,	1
-produced_,	1
-introduced_,	1
-Written_,	1
-shot_,	2
+NNP_WRB
+FRANKENSTEIN_where	1
 WDT_MD
 that_would	1
 that_will	1
@@ -133,8 +125,9 @@ escapes_but	1
 NNS_WDT
 sets_that	1
 Shadows_that	1
-reruns_that	1
 strips_which	1
+reruns_that	1
+weaknesses_which	1
 RB_JJR
 much_better	1
 alot_more	1
@@ -158,11 +151,15 @@ who_tries	1
 what_has	1
 NNP_CC
 Jekyll_&	1
+Married_or	1
+World_and	1
+Promethius_and	1
 MAN_and	1
 Bill_and	1
 Produced_and	1
-Bixby_and	2
+Bixby_and	3
 Producer_&	1
+Miserables_&	1
 David_and	1
 Light_and	1
 Johnson_and	2
@@ -203,10 +200,8 @@ from_his	1
 in_their	1
 since_his	1
 into_his	2
-NNS_''
-hulkouts_''	1
-TO_CD
-to_seven	1
+NN_VB
+fluff_take	1
 IN_WDT
 on_which	1
 PRP$_NN
@@ -258,8 +253,7 @@ work_with	1
 JJ_PRP
 worth_it	1
 glad_they	1
-,_''
-,_''	1
+angry_he	1
 VBD_RB
 was_not	1
 did_n't	2
@@ -279,14 +273,25 @@ left_well	1
 was_really	1
 had_n't	1
 NN_DT
-discovery_the	1
+night_the	1
+murder_the	1
 place_the	1
+DVD_the	1
 DVD_a	2
-tv-movie_The	2
+feature_the	1
 DVD_every	1
-release_the	1
-fact_the	1
+story_the	1
 theater_this	1
+movie_the	1
+release_the	1
+direction_the	1
+tv-movie_The	2
+effort_the	1
+movie_The	1
+Banner_a	2
+discovery_the	1
+fact_the	1
+opera_Another	1
 PDT_DT
 all_these	1
 WDT_RB
@@ -318,6 +323,7 @@ love_Joseph	1
 rescue_Elaina	1
 NNS_NNP
 alias_David	1
+two-parters_Promethius	1
 VBG_JJR
 hearing_more	1
 VBD_JJ
@@ -333,14 +339,8 @@ have_to	1
 want_to	1
 RB_NNS
 accidentally_blows	1
-RB_NNP
-soon_November	1
-basically_Kenneth	1
-just_Lou	1
-Then_Stan	1
-really_Robert	1
-,_PRP$
-,_his	2
+PRP$_NNP
+his_Dr.	1
 IN_RB
 without_ever	1
 for_nearly	1
@@ -394,10 +394,6 @@ and_directing	1
 &_clarity	1
 CD_VBZ
 1934-1993_is	1
-VB_,
-be_,	1
-say_,	1
-remedy_,	1
 VB_.
 live_.	1
 watch_.	1
@@ -414,18 +410,8 @@ long_to	1
 happy_to	1
 wonderful_to	1
 similar_to	1
-MD_IN
-must_for	1
-NNP_''
-Promethius_''	1
-Miserables_''	1
-Fugitive_''	2
-Married_''	4
-First_''	1
-Bix_''	1
-World_''	1
-Crest_''	1
-Marride_''	1
+RP_CC
+down_or	1
 DT_NNS
 the_episodes	1
 the_stories	1
@@ -481,6 +467,7 @@ of_Wonder	1
 that_Bill	1
 in_James	1
 that_Richard	1
+as_Bix	1
 for_David	1
 with_Johnson	1
 of_Johnson	1
@@ -546,8 +533,13 @@ found_a	1
 copped_a	1
 liked_this	1
 NNS_CC
+subtitles_and	1
+fans_but	1
+flames_but	1
 places_or	1
 times_and	1
+days_and	1
+abilities_but	1
 NNS_CD
 Returns_1988	1
 VBN_PRP
@@ -562,40 +554,63 @@ sit_through	1
 CC_CD
 and_three	1
 NN_CC
+cheesiness_but	1
 disc_and	2
+friend_and	1
+CGI_and	1
+memory_and	1
 humanity_and	1
-Hulk_and	3
+Hulk_and	4
+speech_and	1
 profile_and	1
+show_and	1
 wife_and	1
 episode_and	1
 gland_and	1
-script_and	1
+violence_and	1
+character_and	1
+monster_and	1
 affection_and	1
 pilot_and	1
-violence_and	1
+makeup_and	1
+trouble_but	1
+body_but	1
+series_and	1
+pilot_but	1
 DVD_or	1
+face_and	1
+script_and	1
 DVD_and	1
 tire_and	1
+episode_but	1
 ride_or	1
 classic_and	1
 picture_&	1
+Guilt_and	1
+standpoint_and	1
 sharpness_&	1
 commentary_and	2
 Man_vs	1
 dvd_but	1
 transformation_and	1
-CGI_and	1
-show_and	1
+piano_but	1
+movie_but	1
 dvd_and	1
 monentum_and	1
+fluff_but	1
 notch_and	1
+hair/clothes-wise_but	1
 thunderstorm_and	1
+kid_and	1
+chamber_and	1
 acting_and	1
-Guilt_and	1
+director_and	2
 actor_and	1
+rain_and	1
 comic_but	1
 homage_and	1
-movie_but	1
+humility_and	1
+mind_and	1
 premiere_and	2
 NN_CD
 </a>_2003	1
@@ -605,7 +620,7 @@ series_2	1
 pilot_!!!	1
 series_1	1
 Season_1	1
-Hulk_2003	1
+Hulk_2003	2
 reg_two	1
 Hulk_1989	1
 Hulk_1990	1
@@ -618,16 +633,24 @@ the_better	1
 JJR_DT
 better_the	1
 NN_JJ
+nemesis_tabloid	1
 Hulk_Widescreen	1
-razor_sharp	1
-Hulk_Three-Disc	1
-tech_special	1
-ultra_high	1
 ANY_positive	1
+razor_sharp	1
+tech_special	1
+score_heavy	1
+shot_warm	1
+Hulk_Three-Disc	1
+ultra_high	1
+series_investigative	1
 year_old	1
+RB_EX
+now_there	1
+enough_there	1
 NNP_NNS
 White_Eyes	1
 Elaina_witnesses	1
+Farigno_trailers	1
 Bixby_experiments	1
 NNP_NNP
 Ang_Lee	2
@@ -660,6 +683,7 @@ The_First	1
 Magee_Jack	1
 Bill_Bixby/Lou	1
 Ted_Cassidy	1
+Writer_Producer	1
 Bodybuilder_Lou	1
 Lou_Freggino	1
 Wonder_Woman	1
@@ -669,14 +693,17 @@ DOLLAR_MAN	1
 Bixby/Lou_Ferrigno	1
 MILLION_DOLLAR	1
 Lou_Ferrigno	9
+Bix_Johnson	1
 Harding_Susan	1
 James_Whale	1
 Joe_Yarnell	1
 Bill_Bixby	15
+TVM_DEATH	1
 Caroline_Fields	1
 David_Benton	1
 Ken_Johnson	1
 Audio_Commentary	1
+Crest_Castle	1
 Dollar_Man	2
 Dr._Jekyll	1
 L'es_Miserables	1
@@ -691,14 +718,14 @@ Jack_McGee	2
 Joseph_Harnell	1
 Fields_Mariette	1
 Sullivan_Falcon	1
-VBZ_JJR
-grows_greater	1
+:_RB
+-_only	1
+;_again	1
+..._not	1
 NN_JJR
 viewer_more	1
 JJR_.
 stronger_.	1
-JJR_,
-greater_,	1
 DT_PRP
 All_we	1
 VBN_TO
@@ -765,7 +792,7 @@ than_a	1
 after_an	1
 on_the	6
 Unlike_the	1
-of_The	1
+of_The	4
 During_a	1
 Within_each	1
 Because_the	1
@@ -773,7 +800,7 @@ that_a	1
 than_the	2
 as_a	5
 about_any	1
-as_the	5
+as_the	6
 By_the	1
 for_the	10
 during_a	1
@@ -794,22 +821,13 @@ studies_how	1
 EX_MD
 There_should	1
 there_will	1
+CD_WRB
+1976-78_when	1
 RB_WRB
 So_when	1
 CD_POS
 60_'s	1
 70_'s	4
-RB_,
-down_,	1
-back_,	1
-However_,	3
-now_,	1
-enough_,	1
-Sure_,	1
-Personally_,	1
-Eventually_,	1
-nicely_,	1
-Well_,	1
 RB_.
 rapidly_.	1
 here_.	1
@@ -822,9 +840,14 @@ VBN_PRP$
 lost_his	1
 NNS_DT
 blows_a	1
-times_the	1
-features_The	1
+actors_the	1
 blows_the	1
+times_the	1
+shortcomings_the	1
+features_The	1
+TVs_The	1
+origins_a	1
+movies_the	2
 creations_The	1
 RB_:
 well_--	1
@@ -842,9 +865,6 @@ when_I	2
 :_IN
 ;_in	1
 --_before	1
-''_:
-''_...	1
-''_;	1
 PRP$_JJ
 his_long	1
 his_violent	1
@@ -871,6 +891,7 @@ for_them	1
 before_she	1
 of_them	1
 Since_they	1
+in_it	1
 Although_I	1
 because_they	1
 if_they	1
@@ -889,16 +910,9 @@ because_I	1
 of_us	1
 so_he	1
 while_he	1
-''_.
-''_.	4
-''_,
-'_,	1
-''_,	7
 NNS_VB
 screams_alert	1
 feet_expand	1
-,_FW
-,_BUY	1
 CD_FW
 2003_<a href="http://www.amazon.com/gp/product/B001DHXT2A">	1
 VBG_WRB
@@ -937,6 +951,7 @@ he_went	1
 it_was	4
 I_heard	1
 PRP_VBG
+him_talking	1
 himself_changing	1
 DT_NN
 The_thought	1
@@ -1012,6 +1027,7 @@ a_scientist	1
 a_giggle	1
 the_name	1
 the_character	3
+the_monster	1
 the_doctor	1
 the_banter	1
 the_theatre	1
@@ -1222,8 +1238,6 @@ He_becomes	2
 he_ERUPTS	1
 He_hurts	1
 he_transforms	1
-IN_,
-in_,	1
 IN_.
 on_.	1
 in_.	1
@@ -1231,28 +1245,21 @@ with_.	1
 over_.	1
 about_!	1
 up_.	1
-``_DT
-``_the	1
-``_The	6
-``_Another	1
+JJR_PRP$
+greater_his	1
+VBN_WP
+shot_what	1
 PRP_.
 it_.	2
 it_!	1
 him_.	1
 me_!	1
 you_.	1
-PRP_,
-us_,	1
-itself_,	1
-himself_,	1
-him_,	1
-it_,	2
-:_RB
--_only	1
-;_again	1
-..._not	1
 CC_VBP
 and_are	1
+NNP_WDT
+Marride_which	1
+Married_which	1
 PRP_VB
 him_understand	1
 you_think	1
@@ -1289,18 +1296,6 @@ CC_VBG
 and_raging	1
 CC_VBN
 and_delivered	1
-JJ_,
-neat_,	1
-destructive_,	1
-muddy_,	1
-effective_,	1
-believable_,	1
-awful_,	1
-good_,	1
-great_,	1
-frustrated_,	1
-Later_,	1
-angry_,	1
 JJ_.
 extra_.	1
 fascinating_.	1
@@ -1370,7 +1365,7 @@ NN_NNS
 season_sets	3
 car_blows	1
 bonus_features	1
-shirt_rips	1
+reunion_films	1
 Hulk_movies	2
 TV_movies	1
 book_origins	1
@@ -1381,6 +1376,7 @@ Hulk_sceans	1
 fun_episodes	1
 Hulk_episodes	1
 pilot_films	1
+shirt_rips	1
 acting_skills	1
 motion_techniques	1
 DNA_changes	1
@@ -1391,29 +1387,36 @@ film_effects	1
 Hulk_Returns	1
 camera_shots	1
 NN_NNP
+Hulk_Lou	1
 Banner_Bill	2
 maestro_Stan	1
+competition_Lou	1
 psychiatrist_Dr.	1
-wife_Laura	1
-star_Marriette	1
+episode_Married	3
+producer_Kenneth	1
 actor_Bill	1
+wife_Laura	1
+pilot_Married	1
+theatre_Bixby	1
+film_Stan	1
 reporter_Jack	4
 Pilot_June	1
+star_Marriette	1
 builder_Lou	1
 episode_Married.Married	1
-Hulk_Lou	1
+film_Married	1
 wig_Lou	1
+colleague_Dr.	1
 scientist_David	1
-''_RB
-''_arguably	1
-''_perhaps	1
-''_also	1
 CD_CD
+13_2008	1
+21_1993	1
 two_90	1
-,_WRB
-,_when	1
-,_where	1
-,_how	1
+4_1977	1
+CD_CC
+1974-78_and	1
+1977_and	1
+1_or	1
 IN_JJS
 than_most	1
 that_most	1
@@ -1425,8 +1428,6 @@ looked_when	1
 ;_this	1
 ;_the	1
 :_the	1
-''_PRP$
-''_his	1
 DT_MD
 a_must	2
 This_may	1
@@ -1434,8 +1435,6 @@ JJR_NN
 More_anger	1
 more_humanity	1
 more_testimony	1
-RB_``
-merely_`	1
 :_CD
 -_1990	1
 -_1982	1
@@ -1495,95 +1494,109 @@ There_are	2
 there_are	1
 JJS_:
 least_...	1
-CC_``
-and_``	1
 NN_NN
 television_series	1
+newspaper_photo	1
+wine_country	1
+soap_opera	1
+science_fiction	1
+guinea_pig	1
+parter_episode	1
+DVD_set	1
+anger_affection	1
+winning_performance	1
+name_change	1
+commentary_track	1
+swinging_pad	1
+guest_star	1
+crisis_Banner	1
+theme_ride	1
+TV_series	6
+pilot_movie	1
+time_colleague	1
+DVD_release	1
+hulk_theme	1
+adrenaline_gland	1
+bomb_blast	1
+Hulk_movie	2
+Hulk_character	1
+Hulk_effect	1
 series_Hulk	1
 Banner_self	1
 building_monentum	1
 bonus_episode	3
-newspaper_photo	1
+downpour_Banner	1
+car_acident	1
+fiction_aspect	1
 Hulk_fan	2
-tv_series	1
+Hulk_tv	1
+hulk_series	1
+course_Banner	1
+book/movie_Hulk	1
+tv_show	1
+television_premiere	1
+movie_buff	1
+alone.Hopefully_season	1
+projection_screen	1
+fellow_scientist	1
+Monster_story	1
+thought_process	1
+insurance_money	1
+interest_story	1
+TV_movie	1
+season_DVD	1
+quality_production	1
+radiation_overdose	1
+golf_tee	1
+DVD_TODAY	1
+series_television	1
+car_accident	4
 amusement_park	1
 Tv_Pilot	1
 Veteran_actor	1
-series_television	1
-science_fiction	1
-hulk_theme	1
 CGI_Hulk	1
-guinea_pig	1
-tv_show	1
-soap_opera	1
-adrenaline_gland	1
-parter_episode	1
-car_accident	4
-bomb_blast	1
-DVD_set	1
-insurance_money	1
-radiation_overdose	1
-water_line	1
-hulk_series	1
-HULK_movie	1
-HULK_Banner	1
-Hulk_TV	1
-commentary_track	1
-Image_quality	1
-name_change	1
-loner_self	1
-person_car	1
-viewing_pleasure	1
-book/movie_Hulk	1
-TV_show	1
-television_premiere	1
-movie_buff	1
-golf_tee	1
-Edition_</a>	2
-alone.Hopefully_season	1
-projection_screen	1
-radiation_levels.Banner	1
-Hulk_character	1
-quality_standpoint	1
-wine_country	1
-DVD_version	1
-car_acident	1
-theme_ride	1
-TV_series	6
-pilot_movie	1
-gamma_energy	2
-time_competition	1
-Monster_story	1
-thought_process	1
-fiction_aspect	1
-fellow_scientist	1
-time_colleague	1
-I_highley	1
-pound_behemoth	1
-guest_star	1
-TV_movie	1
-Hulk_movie	2
-interest_story	1
-DVD_release	1
-gamma_radiation	6
-book_character	2
-season_DVD	1
-winning_performance	1
-screen_TV	1
-quality_production	1
-Hulk_tv	1
+enlightenment_anger	1
+vulnerability_humility	1
 series_premiere	1
+water_line	1
+loner_self	1
+TV_show	1
+Image_quality	1
+radiation_levels.Banner	1
+quality_standpoint	1
+laboratory_Banner	1
+gamma_radiation	6
+Hulk_TV	1
 burning_car	1
 Hulk_collection	1
+person_car	1
+strength_Banner	1
+testimony_Banner	1
+DVD_Introduction	1
+HULK_movie	1
+Edition_</a>	2
+park_commentary	1
+loss_angst	1
+lab_Banner	1
+writer_director	1
+viewing_pleasure	1
+time_competition	1
 pilot_episode	3
+DVD_version	1
+tv_series	1
+gamma_energy	2
+I_highley	1
+pound_behemoth	1
+HULK_Banner	1
+book_character	2
+screen_TV	1
 body_builder	1
-Hulk_effect	1
-DVD_TODAY	1
 PRP_NNP
 they_Universal	1
 him_Bob	1
 NNS_RB
 shoes_apart	1
+people_only	1
 films_initially	1
 hands_down	1
 effects_as	1
@@ -1595,25 +1608,14 @@ blows_out	1
 others_too	1
 pupils_famously	1
 anecdotes_really	1
-CD_''
-61_''	1
 EX_VBD
 there_were	1
-,_JJ
-,_warm	1
-,_pan-and-scan	1
-,_muddy	1
-,_fresh	1
-,_heavy	1
-,_investigative	1
-,_tabloid	1
-,_EX
-,_there	4
 DT_JJ
 this_25th	1
 a_5-star	1
 the_near	1
 a_normal	1
+the_extra	1
 a_weasly	1
 a_fanciful	1
 a_dramatic	1
@@ -1670,6 +1672,7 @@ a_classic	1
 a_human	1
 a_green	1
 the_emotional	1
+a_dark	1
 a_330-plus	1
 this_past	1
 a_serious	1
@@ -1707,11 +1710,8 @@ the_back	1
 VBD_JJR
 felt_stronger	1
 explored_more	1
-NNS_``
-two-parters_``	1
-miniseries_``	1
-TVs_``	1
 NN_IN
+identity_of	1
 car_over	1
 price_of	1
 emmy_for	1
@@ -1726,11 +1726,13 @@ story_in	1
 Everything_about	1
 couple_of	1
 version_for	1
+tale_of	1
+kid_of	1
 pilot_from	1
 transformation_of	1
 episode_on	4
 radiation_with	1
-lack_of	1
+radiation_so	1
 episode_of	3
 memory_of	1
 appearance_of	1
@@ -1738,9 +1740,10 @@ beast_while	1
 majority_of	1
 collection_that	1
 death_in	1
+life_during	1
 year_for	1
 feature_from	1
-life_of	1
+episode_that	1
 character_from	1
 man_with	1
 source_of	1
@@ -1765,10 +1768,12 @@ fan_of	1
 everything_from	1
 aspect_of	1
 look_at	1
+life_of	1
 detail_by	1
 film_except	1
 dose_of	1
 DNA_with	1
+account_of	1
 banter_with	1
 purchase_for	1
 love_with	1
@@ -1779,8 +1784,9 @@ presentation_from	1
 mid-sequence_with	1
 year_since	1
 run_from	1
+place_like	1
 character_in	1
-kid_of	1
+today_although	1
 commentary_by	1
 preview_of	2
 tape_of	1
@@ -1798,22 +1804,23 @@ energy_into	1
 clarity_of	1
 remainder_of	1
 surge_of	1
+evening_while	1
 condition_while	1
 research_on	1
 movie_from	1
-identity_of	1
+series_in	1
 connection_with	1
 Courtship_of	1
 accident_after	1
 series_as	1
 son_in	1
 teenager_from	1
-strength_in	1
+strength_in	2
 scene_in	1
 intro_by	1
 hounding_from	1
 creature_after	1
-tale_of	1
+time_with	1
 son_from	1
 Return_Of	1
 respect_for	1
@@ -1827,6 +1834,7 @@ mind_of	1
 director_of	1
 success_with	1
 argument_about	1
+way_if	1
 individual_in	1
 Banner_that	1
 rest_of	1
@@ -1839,13 +1847,14 @@ girl_from	1
 photo_of	2
 popularity_of	1
 car_by	1
+lack_of	1
 type_of	1
 thing_with	1
 release_of	1
 series_on	1
 top_of	1
 eve_of	1
-account_of	1
+mythology_as	1
 premiere_on	1
 review_of	1
 Death_Of	1
@@ -1860,7 +1869,6 @@ end_of	1
 making_of	2
 reflection_in	1
 killer_after	1
-time_with	1
 CC_DT
 and_some	1
 and_a	3
@@ -1872,6 +1880,8 @@ and_the	12
 NN_VBN
 character_created	1
 someone_created	1
+Banner_frustrated	1
+giant_played	1
 HULK_played	1
 track_recorded	1
 drama_created	1
@@ -1879,22 +1889,32 @@ voice_provided	1
 episode_called	1
 experiment_gone	1
 man_named	1
+creature_known	1
 NNS_PRP
-effects_it	1
-Eyes_himself	1
+repercussions_it	1
+years_it	1
 comments_he	1
+characters_it	1
+effects_it	1
+names_he	1
+Eyes_himself	1
+movies_they	1
 NN_VBG
 sequene_paying	1
 actor_playing	1
+Banner_using	1
 Hulk_Coming	1
 Banner_trying	1
 hand_using	1
+role_bringing	1
 scientist_trying	1
 Banner_saving	1
 man_losing	1
+frustration_stemming	1
 woman_recounting	1
 Hulk_coming	1
 time_exposing	1
+angst_wanting	1
 scientist_searching	1
 CC_WRB
 or_when	1
@@ -1907,22 +1927,24 @@ story_was	1
 green_skinned	2
 creature_called	1
 disc_were	1
+child_affected	1
 disc_won	1
 something_went	1
+movie_displayed	1
 show_was	1
 name_was	1
 Hulk_wanted	1
 </a>_was	1
 wife_died	2
+behemoth_was	1
 drama_carved	1
 tee_tacked	1
 effect_was	1
 movie_had	1
 show_ran	1
 series_was	4
-focus_managed	1
 Hulk_began	1
-movie_displayed	1
+focus_managed	1
 NN_VBZ
 Nothing_happens	1
 episode_has	1
@@ -1951,10 +1973,11 @@ Banner_watches	1
 Banner_escapes	1
 country_is	1
 thing_has	1
-Banner_exposes	1
+Banner_exposes	2
 Banner_finds	1
 progress_is	1
 Banner_seems	1
+series_is	1
 DVD_is	5
 Banner_tries	1
 anger_gets	1
@@ -1981,6 +2004,7 @@ pilot_has	1
 car_explodes	1
 skin_becomes	1
 creature_is	1
+V_is	1
 Banner_works	1
 DVD_contains	1
 lightning_intensifies	1
@@ -2043,9 +2067,6 @@ Hulk_are	1
 movie_fool	1
 fan_do	1
 show_are	1
-CD_CC
-1977_and	1
-1_or	1
 PRP_RB
 I_just	1
 it_almost	1
@@ -2057,20 +2078,16 @@ it_still	1
 He_even	1
 him_then	1
 I_really	1
+He_just	1
 he_often	1
 them_now	1
 it_first	1
 I_only	1
 you_still	1
-He_just	1
+it_inevitably	1
+himself_just	1
 they_just	1
 I_also	1
-JJ_``
-bad_`	1
-subsequent_``	1
-classic_``	1
-friendly_``	1
-first_``	1
 RB_VBZ
 almost_seems	1
 then_causes	1
@@ -2089,9 +2106,6 @@ still_holds	1
 still_manages	1
 VBZ_VBD
 is_were	1
-,_WP
-,_who	6
-,_what	1
 VBZ_VBG
 is_sniffing	1
 is_trying	2
@@ -2103,18 +2117,22 @@ is_driving	1
 is_conducting	1
 VB_PRP
 draw_you	1
-hope_they	1
+remedy_it	1
 reintroduce_yourself	1
 make_you	1
 find_it	1
-remedy_it	1
+remedy_he	1
+be_it	1
 help_him	1
 find_I	1
 believe_he	1
+say_it	1
+hope_they	1
 think_he	1
 PRP_DT
 they_both	1
 her_a	1
+itself_these	1
 VBZ_VBN
 is_haunted	1
 is_discussed	1
@@ -2149,18 +2167,6 @@ before_seen	1
 emotionally_charged	1
 already_had	1
 also_employed	1
-NN_''
-fury_''	1
-night_''	1
-giant_''	1
-Hulk-out_''	1
-V_''	1
-monster_''	1
-Hulk_''	4
-reunion_''	1
-swinging_''	1
-strength_''	1
-fluff_'	1
 RB_VBG
 actually_expanding	1
 around_trying	1
@@ -2181,8 +2187,11 @@ also_produced	1
 first_aired	1
 only_rated	1
 apparantly_felt	1
+FW_IN
+!!_that	1
 NNS_NN
 rips_bicep	1
+miniseries_V	1
 witnesses_Banner	1
 thoughts_anger	1
 performances_today	1
@@ -2214,21 +2223,11 @@ POS_NNP
 's_Bruce	1
 's_VHS	1
 's_Father	1
+'s_Falcon	1
+'s_L'es	1
 's_FRANKENSTEIN	1
 's_Johnson	1
 's_Dr.	1
-,_IN
-,_with	3
-,_in	3
-,_as	2
-,_while	1
-,_if	2
-,_although	1
-,_so	1
-,_that	1
-,_like	1
-,_during	1
-,_from	2
 POS_NNS
 's_commentaries	1
 RBR_CC
@@ -2252,16 +2251,21 @@ would_n't	1
 might_not	2
 would_later	2
 NN_WDT
+strength_that	1
 energy_that	1
+film_which	1
 formula_that	1
 aspect_that	1
-strength_that	1
-change_which	1
 accident_that	1
+change_which	1
+radiation_which	1
+performance_that	1
+Hulk_that	1
 episode_which	1
 struggle_that	1
 giant_that	1
 pilot_that	1
+side_which	1
 series_that	1
 VB_DT
 enjoy_the	1
@@ -2311,12 +2315,17 @@ where_the	2
 When_the	2
 when_the	1
 how_the	1
-FW_FW
-SMASH_!!	1
-BUY_THIS	1
+IN_IN
+in_for	1
+except_for	1
+out_of	2
+through_over	1
+As_if	1
+while_under	1
+As_for	1
 VBZ_JJ
 features_wonderful	1
-gets_angry	1
+gets_angry	2
 is_excellent	1
 is_superb	1
 becomes_green	1
@@ -2359,6 +2368,7 @@ family_to	1
 homage_to	1
 car_to	1
 contrast_to	1
+dignity_to	1
 DT_IN
 this_in	1
 this_from	1
@@ -2389,38 +2399,12 @@ which_to	1
 WP_RB
 who_tragically	1
 who_also	1
-,_NN
-,_anger	1
-,_enlightenment	1
-,_humility	1
-,_Banner	8
-,_affection	1
-,_commentary	1
-,_director	1
-,_Introduction	1
-,_chest	1
-,_nothing	1
-,_angst	1
 WP_PRP$
 what_his	1
 RP_WP
 out_what	1
 FW_TO
 Kudos_to	1
-``_RB
-``_jolly	1
-``_NNS
-``_hulkouts	1
-PRP$_``
-his_``	1
-``_NNP
-``_Bix	1
-``_Promethius	1
-``_Married	5
-``_Marride	1
-``_Falcon	1
-``_The	1
-``_L'es	1
 RB_DT
 Even_the	1
 then_the	1
@@ -2436,6 +2420,7 @@ seriously_this	1
 certainly_a	1
 arguably_the	1
 just_the	1
+down_the	1
 also_a	2
 almost_a	2
 about_a	1
@@ -2456,19 +2441,6 @@ mention_must	1
 performance_would	1
 WRB_PRP$
 why_his	1
-DT_``
-a_``	1
-the_``	2
-,_RB
-,_almost	1
-,_though	1
-,_not	1
-,_especially	1
-,_back	1
-,_just	2
-,_mainly	1
-,_only	1
-,_inevitably	1
 CC_PRP
 But_he	1
 but_you	1
@@ -2477,10 +2449,6 @@ and_I	1
 but_it	1
 and_it	1
 and_he	2
-VBG_PRP$
-saying_his	1
-losing_his	1
-Taking_its	1
 RB_VB
 far_outshine	1
 perhaps_become	1
@@ -2507,28 +2475,18 @@ even_say	1
 n't_be	2
 MARKEDLY_increase	1
 n't_remeber	1
-IN_IN
-in_for	1
-except_for	1
-out_of	2
-through_over	1
-As_if	1
-while_under	1
-As_for	1
+FW_FW
+SMASH_!!	1
+BUY_THIS	1
 JJ_RB
 intelligent_emotionally	1
 strong_enough	1
-,_VBD
-,_affected	1
-,_was	1
-,_VBG
-,_setting	1
-,_conveying	1
-,_talking	1
-,_stemming	1
-,_wanting	1
-,_using	1
-,_bringing	1
+effective_though	1
+friendly_jolly	1
+VBG_PRP$
+saying_his	1
+losing_his	1
+Taking_its	1
 NNS_.
 results_.	1
 lines_.	1
@@ -2537,6 +2495,7 @@ seasons_.	1
 transformations_.	1
 haircuts_.	1
 changes_.	1
+hulkouts_.	1
 versions_.	1
 demons_.	1
 stars_!	1
@@ -2547,35 +2506,6 @@ hills_.	1
 sceans_.	1
 effects_.	1
 times_.	1
-,_VBN
-,_produced	1
-,_played	1
-,_topped	1
-,_frustrated	1
-,_known	1
-NNS_,
-characters_,	1
-abilities_,	1
-names_,	1
-days_,	1
-laughs_,	1
-years_,	1
-subtitles_,	1
-movies_,	3
-fans_,	1
-people_,	1
-origins_,	1
-moments_,	1
-weaknesses_,	1
-episodes_,	1
-flames_,	1
-seasons_,	1
-skills_,	1
-repercussions_,	1
-shortcomings_,	1
-actors_,	1
-,_VBP
-,_are	1
 RBR_RB
 more_sharply	1
 VBD_NNS
@@ -2586,9 +2516,6 @@ affected_Ferrigno	1
 produced_SIX	1
 NNS_:
 oftimes_;	1
-,_VBZ
-,_exposes	1
-,_is	2
 WRB_RB
 how_much	1
 when_normally	1
@@ -2637,18 +2564,10 @@ pan-and-scan_VHS	1
 late_Bixby	1
 late_Bill	1
 CD_IN
+1982_with	1
 1977_on	1
 2_on	1
 1977_through	1
-''_CD
-''_2003	1
-FW_''
-!!_''	1
-''_CC
-''_but	1
-''_&	1
-''_and	3
-''_or	1
 IN_WP
 of_what	1
 VBG_PRP
@@ -2663,19 +2582,31 @@ a_totally	1
 DT_NNPS
 The_Avengers	1
 NN_PRP
-sound_you	1
 show_itself	1
-episode_I	1
-hope_they	1
-clarity_I	1
-commentary_it	1
-shame_he	1
-anger_him	1
-commentary_you	1
-time_you	1
+adult_I	1
 behind.If_you	1
 thing_they	1
+buff_you	1
+clarity_I	1
+movie_they	1
+hope_they	1
+Hulk_it	1
+shame_he	1
+commentary_you	1
+wife_he	1
 accident_they	1
+sound_you	1
+part_it	1
+pilot_we	1
+commentary_it	1
+2fer_you	1
+anger_him	1
+series_I	1
+kindness_he	1
+episode_I	1
+kid_I	1
+pilot_it	1
+time_you	1
 VB_PRP$
 use_his	1
 increase_your	1
@@ -2687,17 +2618,16 @@ change_his	2
 save_her	2
 control_his	1
 discover_his	1
-''_WDT
-''_that	1
-''_which	1
 JJ_DT
 old_the	1
+classic_The	1
 re-watching_the	1
 worth_the	1
 Such_a	1
 RB_CC
 again_or	1
 out_and	1
+nicely_and	1
 first_and	1
 sharply_both	1
 MD_VB
@@ -2740,12 +2670,6 @@ WRB_NNS
 how_humans	1
 how_people	1
 when_scenes	1
-,_DT
-,_a	5
-,_these	1
-,_A	1
-,_the	17
-,_The	1
 NNP_NNPS
 Marvel_Comics	1
 VBZ_RBR
@@ -2766,8 +2690,6 @@ but_so	1
 but_somehow	1
 but_certainly	1
 but_still	1
-POS_``
-'s_``	4
 VBZ_NN
 's_wife	1
 gets_angry.This	1
@@ -2793,8 +2715,6 @@ save_the	1
 appreciate_the	1
 are_the	1
 give_this	1
-,_RBS
-,_most	1
 VBD_TO
 traveled_to	1
 had_to	1
@@ -2803,9 +2723,7 @@ managed_to	2
 NN_FW
 Hulk_SMASH	1
 tv-movie_<a href="http://www.amazon.com/gp/product/B00005JKC3">	1
-,_WDT
-,_which	5
-,_that	1
+classic_BUY	1
 JJS_NNS
 highest_marks	1
 NN_:
@@ -2813,6 +2731,7 @@ Banner_;	1
 affection_-	1
 row_-	1
 effect_...	1
+Hulk-out_...	1
 note_:	1
 word_-	1
 green_;	1
@@ -2820,105 +2739,16 @@ baby_;	1
 rain_;	1
 CD_RB
 two_entirely	1
-._''
-._''	1
 NNP_JJ
+Sullivan_fresh	1
 Parker_Dark	1
-NN_,
-memory_,	1
-friend_,	1
-nemesis_,	1
-color_,	1
-feature_,	1
-role_,	1
-creature_,	2
-Hulk_,	1
-world_,	1
-piano_,	1
-child_,	1
-competition_,	1
-standpoint_,	1
-kindness_,	1
-story_,	1
-wife_,	1
-effort_,	1
-pilot_,	3
-buff_,	1
-rain_,	1
-shot_,	1
-humility_,	1
-today_,	1
-dignity_,	1
-angst_,	1
-vulnerability_,	1
-theatre_,	1
-way_,	1
-DVD_,	3
-episode_,	2
-rash_,	1
-direction_,	1
-face_,	1
-kid_,	2
-series_,	5
-anger_,	1
-Banner_,	6
-producer_,	1
-performance_,	1
-emotion_,	1
-trouble_,	1
-mind_,	1
-lab_,	1
-hair/clothes-wise_,	1
-character_,	1
-makeup_,	1
-life_,	1
-crisis_,	1
-place_,	1
-chamber_,	1
-body_,	1
-murder_,	1
-fluff_,	1
-score_,	1
-downpour_,	1
-frustration_,	1
-evening_,	1
-loss_,	1
-2fer_,	1
-director_,	2
-part_,	1
-adult_,	1
-cheesiness_,	1
-strength_,	2
-colleague_,	1
-writer_,	1
-laboratory_,	1
-reporter_,	1
-behemoth_,	1
-bicep_,	1
-testimony_,	1
-side_,	1
-radiation_,	2
-classic_,	1
-enlightenment_,	1
-movie_,	3
-speech_,	1
-mythology_,	1
-course_,	1
-film_,	2
-park_,	1
-``_NN
-`_fluff	1
-``_monster	1
-``_reunion	1
-``_Hulk	1
-``_V	1
-``_Hulk-out	1
-``_swinging	1
+TO_CD
+to_seven	1
 NN_.
 level_.	1
 episode_.	1
 wife_.	1
-Hulk_.	6
+Hulk_.	7
 son_.	1
 acident_.	1
 lightning_.	1
@@ -2941,6 +2771,7 @@ audio_.	1
 pad_!	1
 TODAY_!	1
 story_.	1
+fury_.	1
 pilot_.	1
 transformation_!	1
 version_.	1
@@ -3016,17 +2847,10 @@ that_seems	1
 that_is	3
 WDT_VBP
 that_are	1
-,_VB
-,_take	1
-''_NN
-''_stuff	1
-''_pad	1
-''_DVD	1
-''_projection	1
 VBP_VB
 do_hope	1
 PRP_CC
-it_but	1
+it_but	2
 her_and	1
 himself_and	1
 him_and	1
@@ -3092,10 +2916,13 @@ too_bad	1
 completely_believable	1
 not_sappy	1
 as_strong	1
+NNS_RBS
+laughs_most	1
 CD_DT
 :--RRB-_The	1
 one_another	1
 1978-82_The	1
+2003_a	1
 TO_NNP
 to_David	2
 to_Universal	1
@@ -3128,15 +2955,17 @@ watching_a	1
 RB_PRP
 only_they	1
 Now_he	1
-just_him	1
+Not_me	1
 Overall_it	1
 Coincidentally_they	1
 now_I	1
-Not_me	1
+so_he	1
+Sure_it	1
 then_it	1
 now_he	1
 normally_they	1
-so_he	1
+Personally_I	1
+just_him	1
 VBZ_PRP
 shows_her	1
 causes_him	1
@@ -3164,12 +2993,9 @@ strong_when	1
 NN_RBR
 step_further	1
 show_better	1
-``_JJ
-``_dark	1
-``_angry	1
-``_extra	1
-``_Groovy	1
-`_ole	1
+NN_EX
+movie_there	1
+creature_there	1
 NNP_IN
 Elaina_from	1
 Bixby_in	1
@@ -3177,6 +3003,8 @@ DEATH_OF	1
 Kimble_in	1
 Lou_in	1
 Bride_of	1
+Fugitive_as	1
+Hartley_in	1
 Woman_that	1
 Johnson_in	1
 CBS_on	1
@@ -3189,10 +3017,22 @@ Banner/Hulk_as	1
 Laura_in	1
 Laura_before	1
 Johnson_on	1
-,_TO
-,_to	1
-VBZ_``
-gets_``	1
+PRP$_NNS
+his_shoes	1
+his_remarks	1
+his_muscles	1
+his_thoughts	2
+his_transformations	1
+his_insides	1
+his_pupils	1
+my_wits	1
+his_creations	1
+their_vaults	1
+his_hulkouts	1
+his_feet	1
+her_screams	1
+Your_kids	1
+His_clothes	1
 IN_VBG
 by_having	1
 of_acquiring	1
@@ -3211,52 +3051,67 @@ without_recutting	1
 for_rounding	1
 while_driving	1
 Without_getting	1
-``_CD
-``_70	1
-,_PRP
-,_he	5
-,_they	2
-,_we	1
-,_you	2
-,_it	10
-,_I	4
+POS_NN
+'s_hope	1
+'s_commentary	4
+'s_speech	1
+'s_affection	1
+'s_transformation	1
+'s_life	2
+'s_Hulk	1
+'s_wife	2
+'s_performance	1
+'s_anger	1
+'s_effort	1
+'s_surge	1
+'s_hand	1
+'s_drama	1
+'s_loner	1
+'s_cheesiness	1
+'s_baby	1
+'s_maestro	1
+'s_character	1
+'s_fellow	1
+'s_name	1
+'s_car	1
+'s_swinging	1
 VBG_RBR
 getting_better	1
-PRP$_NNP
-his_Dr.	1
-VBG_,
-wanting_,	1
+RB_NNP
+However_Universal	1
+really_Robert	1
+just_Lou	1
+Eventually_Dr.	1
+basically_Kenneth	1
+soon_November	1
+Then_Stan	1
 JJ_CC
 tired_and	1
 serious_and	1
 dark_and	1
 first_and	1
 ridiculous_or	1
+Fast_and	1
 insightful_and	1
 mighty_and	1
 decent_and	1
-Fast_and	1
+good_and	1
+destructive_but	1
+great_and	1
 tragic_and	1
 subtle_yet	1
 ill_and	1
 sad_and	1
 powerful_and	1
+believable_and	1
 fantastic_either	1
 crisp_and	1
-good_and	1
+good_but	1
 IN_VBZ
 than_becomes	1
 JJ_CD
 Fugitive_1963-67	1
 last_10	1
-CD_,
-4_,	1
-1976-78_,	1
-2003_,	1
-13_,	1
-21_,	1
-1982_,	1
-1974-78_,	1
 CD_.
 2008_.	1
 2003_.	2
@@ -3272,33 +3127,15 @@ WRB_VBG
 when_buying	1
 NNP_WP
 Hartley_who	1
-McGee_who	1
+Johnson_who	2
+Elaina_who	1
 Bixby_who	1
+McGee_who	2
 CD_:
 1988_-	1
 1978_-	1
-POS_NN
-'s_hope	1
-'s_loner	1
-'s_fellow	1
-'s_name	1
-'s_wife	2
-'s_baby	1
-'s_commentary	4
-'s_performance	1
-'s_maestro	1
-'s_anger	1
-'s_effort	1
-'s_car	1
-'s_affection	1
-'s_drama	1
-'s_character	1
-'s_transformation	1
-'s_life	2
-'s_surge	1
-'s_cheesiness	1
-'s_hand	1
-'s_speech	1
+VBN_WRB
+shot_how	1
 TO_NN
 to_Banner	1
 to_television	1
@@ -3414,6 +3251,7 @@ Better_than	1
 better_with	1
 RB_IN
 back_into	1
+However_with	1
 back_in	2
 Also_of	1
 back_through	1
@@ -3424,6 +3262,7 @@ specifically_with	1
 apart_with	1
 especially_after	1
 ahead_of	1
+However_as	1
 well_as	2
 much_through	1
 Well_worth	1
@@ -3485,25 +3324,6 @@ do_n't	3
 are_not	2
 JJ_VBZ
 same_is	1
-''_NNS
-''_films	1
-NNP_,
-Sullivan_,	1
-McGee_,	2
-Man_,	1
-Writer_,	1
-FRANKENSTEIN_,	1
-Martian_,	1
-Lee_,	1
-Hartley_,	1
-Johnson_,	2
-Farigno_,	1
-Elaina_,	1
-Bixby_,	1
-Ferrigno_,	2
-Crest_,	1
-TVM_,	1
-Magic_,	1
 CD_JJ
 three_subsequent	1
 90_minute	1
@@ -3515,6 +3335,7 @@ Beantown_.	1
 WOMAN_.	1
 Farigno_.	1
 Johnson_.	1
+Crest_.	1
 Bixby_.	2
 Ferrigno_.	3
 Freggino_.	1
@@ -3533,16 +3354,18 @@ drowning_scene	1
 conducting_research	1
 raining_outside	1
 raging_fury	1
-driving_home	1
+wanting_enlightenment	1
+paying_homage	1
 thinking_man	1
 putting_Season	1
-paying_homage	1
+driving_home	1
 seeing_psychiatrist	1
 JJ_VBG
 clean_considering	1
 Strange_considering	1
 NNP_:
 Benton_;	1
+Married_;	1
 RB_VBP
 now_are	1
 just_are	1
@@ -3555,6 +3378,9 @@ just_bounce	1
 famously_turn	1
 VBZ_:
 wears_-	1
+JJ_PRP$
+frustrated_his	1
+angry_his	1
 VBZ_.
 contains_.	1
 intensifies_.	1
@@ -3563,11 +3389,12 @@ explodes_.	1
 follows_.	1
 happens_.	2
 is_.	1
-VBZ_,
-growls_,	1
 RB_NN
+back_chest	1
+Well_nothing	1
 not_fluff	1
 perhaps_adrenaline	1
+merely_fluff	1
 NNS_TO
 things_to	1
 arcs_to	1
@@ -3579,11 +3406,13 @@ props_to	1
 JJ_JJ
 hidden_inner	1
 skinned_muscular	1
+muddy_pan-and-scan	1
 new_entire	1
 such_high	1
 unable_free	1
 whole_incredible	1
 only_major	1
+awful_muddy	1
 Widescreen_2-Disc	1
 same_slow	1
 nice_extra	1
@@ -3592,6 +3421,7 @@ green_skinned	1
 Three-Disc_Special	1
 big_green	1
 little_dated	1
+bad_ole	1
 JJR_IN
 more_than	2
 better_than	1
@@ -3599,9 +3429,6 @@ more_of	1
 better_of	1
 WRB_JJ
 how_old	1
-,_CC
-,_and	24
-,_but	14
 VB_NN
 sneak_preview	1
 simulate_rain	1
@@ -3609,14 +3436,14 @@ reveal_Banner	1
 collect_insurance	1
 avoid_trouble	1
 simulate_lightning	1
-,_CD
-,_1993	1
-,_1977	1
-,_2008	1
+VBZ_JJR
+grows_greater	1
 NN_WP
-father_who	1
+Banner_who	1
+reporter_who	1
 lady_who	1
 one_who	1
+father_who	1
 PRP_TO
 him_to	2
 them_to	1
@@ -3648,6 +3475,7 @@ IN_CD
 with_two	1
 through_1982	1
 for_five	1
+of_70	1
 in_1977	2
 in_1962	1
 from_2003	1
@@ -3677,19 +3505,25 @@ commentaries_were	1
 thoughts_were	1
 NNS_VBG
 characters_interacting	1
-``_IN
-``_Within	1
+skills_conveying	1
 RP_RB
 off_incredibly	1
+PRP_NNS
+us_oftimes	1
 NNS_VBN
+moments_topped	1
 insides_torn	1
 bonuses_attached	1
 techniques_utilized	1
 VBN_NNP
-released_June	1
-owned_MCA	1
 named_David	1
+Written_Produced	1
+released_June	1
 called_Bruce	1
+owned_MCA	1
+called_Marride	1
+VBP_NNP
+know_Bill	1
 VBP_RP
 bounce_off	1
 CD_JJS
@@ -3701,11 +3535,6 @@ POS_JJ
 's_inner	1
 's_hidden	1
 's_chilling	1
-VBN_``
-called_``	1
-''_IN
-''_as	1
-''_that	1
 VBD_VBN
 was_released	2
 was_surprised	1
@@ -3713,6 +3542,7 @@ was_astonished	1
 was_called	1
 were_shot	2
 was_approached	1
+wrote_produced	1
 VBZ_VB
 does_have	1
 helps_find	1
@@ -3744,6 +3574,10 @@ RBR_.
 better_.	1
 NNP_RB
 Bixby_again	1
+First_arguably	1
+Married_also	1
+NNP_VBP
+Man_are	1
 :_PRP
 --_he	1
 ;_he	1
@@ -3784,11 +3618,15 @@ frames_of	1
 experiments_on	1
 films_from	1
 fans_of	1
+seasons_from	1
 effects_at	1
-episodes_from	1
+episodes_from	2
 capabilities_for	1
 memories_of	1
 releases_of	1
+VBN_CC
+produced_and	1
+charged_but	1
 NNP_VBZ
 Castle_is	1
 Universal_has	1
@@ -3876,12 +3714,6 @@ RB_MD
 only_will	1
 though_would	1
 just_wo	1
-NN_``
-opera_``	1
-pilot_``	1
-movie_``	1
-episode_``	3
-film_``	1
 CC_NNP
 and_Universal	1
 and_David	1
@@ -3890,14 +3722,13 @@ and_Kenneth	1
 and_Susan	1
 and_Magic	1
 or_Bride	1
-and_Lou	2
+&_Mr.	1
+and_Elaina	1
 and_BIONIC	1
 and_Directed	1
 &_Director	1
-and_Elaina	1
-&_Mr.	1
-VBD_,
-wrote_,	1
+and_The	1
+and_Lou	2
 VBD_.
 aired_!	1
 POS_.
@@ -3937,18 +3768,24 @@ NN_RB
 power_finally	1
 none_too	1
 hulk.Not_only	1
+bicep_back	1
 show_back	1
 version_away	1
 pilot_also	1
+emotion_especially	1
 inspiration_not	1
+rash_just	1
 DVD_alone	2
 screenplay_specifically	1
 tale_quite	1
+strength_perhaps	1
 Hulk_first	1
 writer_apparantly	1
 series_much	1
 pilot_again	1
 lab_accidentally	1
+color_almost	1
+world_not	1
 giggle_too	1
 DVD_now	1
 name_again	1
@@ -3958,6 +3795,7 @@ feeling_then	1
 story_only	1
 Banner_tragically	1
 Hulk_mostly	1
+DVD_mainly	1
 sequel_back	1
 transformation_first	1
 JJ_IN
@@ -3984,6 +3822,7 @@ little_from	1
 big_with	1
 heavy_with	1
 great_as	1
+neat_if	1
 good_for	1
 VBG_JJ
 bringing_great	1
@@ -4022,6 +3861,7 @@ brings_this	1
 gives_a	1
 gets_the	1
 CD_NN
+61_projection	1
 one_step	1
 25_year	1
 One_word	1
@@ -4045,8 +3885,8 @@ learns_Caroline	1
 is_David	1
 plays_David	1
 is_Susan	1
-RP_CC
-down_or	1
+MD_IN
+must_for	1
 VBZ_NNS
 hitchhikes_places	1
 has_lots	1
@@ -4055,25 +3895,6 @@ has_subtitles	1
 VBP_NN
 have_nothing	1
 release_season	1
-PRP$_NNS
-his_shoes	1
-his_remarks	1
-his_muscles	1
-his_thoughts	2
-his_transformations	1
-his_insides	1
-his_pupils	1
-my_wits	1
-his_creations	1
-their_vaults	1
-his_feet	1
-her_screams	1
-Your_kids	1
-His_clothes	1
-JJ_''
-angry_''	1
-Furious_''	1
-Groovy_''	1
 :_RBR
 ..._More	1
 VB_CD
@@ -4082,7 +3903,14 @@ VB_CC
 expand_and	1
 try_and	1
 NNP_DT
+Fugitive_the	1
+McGee_the	1
+Lee_the	1
+Magic_A	1
+Martian_The	1
+Ferrigno_a	1
 CGI_the	1
+Ferrigno_the	1
 JJS_NN
 best_Hulk	1
 best_friend	1
@@ -4098,19 +3926,6 @@ out_that	2
 up_with	1
 up_as	1
 on_for	1
-,_NNP
-,_DEATH	1
-,_Castle	1
-,_Dr.	2
-,_Produced	1
-,_Stan	1
-,_Bixby	1
-,_Kenneth	1
-,_Lou	1
-,_Universal	1
-,_Producer	1
-,_Johnson	1
-,_Bill	1
 VBG_NNP
 playing_David	1
 coming_May	1
@@ -4118,9 +3933,6 @@ CC_NNS
 or_shows	1
 and_props	1
 &_TVs	1
-,_NNS
-,_trailers	1
-,_oftimes	1
 WP_IN
 who_like	1
 VBZ_IN
@@ -4139,6 +3951,7 @@ looks_like	1
 confides_in	1
 discovers_that	1
 happens_while	1
+growls_with	1
 seems_like	1
 JJ_NN
 back_row	1
@@ -4177,6 +3990,7 @@ extra_strength	1
 superhuman_aspect	1
 double_feature	1
 comic_book/movie	1
+Groovy_stuff	1
 well-written_script	1
 emotional_side	1
 INCREDIBLE_HULK	1
@@ -4216,15 +4030,18 @@ Great_start	1
 detailed_account	1
 pesky_reporter	1
 high_dosage	1
+Furious_DVD	1
 own_experience	1
 key_character	1
 weasly_bachelor	1
+Later_Banner	1
 good_movie	1
 far_behind.If	1
 long_time	1
 near_future	1
 hidden_treasure	1
 same_type	1
+subsequent_reunion	1
 same_day	1
 last_release	1
 re-invented_Hulk	1
@@ -4277,6 +4094,7 @@ green_makeup	1
 great_success	1
 original_TV	1
 new_Hulk	1
+first_Hulk-out	1
 superhuman_strength	1
 new_movie	1
 flat_tyre	1

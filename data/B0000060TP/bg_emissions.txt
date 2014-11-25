@@ -57,12 +57,12 @@ PRP_MD
 I_would	1
 PRP_RB
 I_basically	1
+NN_RBR
+something_less	1
 RB_TO
 not_to	1
 IN_IN
 that_though	1
-IN_,
-Although_,	1
 PRP$_NN
 my_son	2
 my_childhood	1
@@ -77,12 +77,10 @@ NNP_NNS
 Hanna-Barbera_studios	1
 VBP_DT
 think_this	1
-JJ_,
-fine_,	1
 JJ_.
 intense_.	1
-,_WP
-,_who	1
+PRP$_NNS
+his_friends	1
 IN_PRP$
 of_my	1
 VB_PRP
@@ -124,20 +122,18 @@ RB_VBG
 often_being	1
 NNS_TO
 wants/needs_to	1
-VB_VBN
-have_preferred	1
+IN_PRP
+Although_I	1
 JJ_NNS
 little_dinosaurs	1
 simple_lessons	1
 practical_jokes	1
-,_PRP
-,_I	2
+VB_VBN
+have_preferred	1
 VBZ_IN
 roars_like	1
 NN_:
 lion_-	1
-PRP$_NNS
-his_friends	1
 DT_NN
 The_video	1
 this_video	1
@@ -149,10 +145,11 @@ DT_VBZ
 That_'s	1
 CC_NNS
 and_friends	1
-NN_RBR
-something_less	1
-NN_,
-T-Rex_,	1
+JJ_PRP
+fine_I	1
+IN_JJ
+as_little	1
+of_practical	1
 RB_PRP$
 yet_my	1
 NN_.
@@ -168,6 +165,5 @@ by_the	1
 like_a	1
 PRP_VBZ
 It_is	1
-IN_JJ
-as_little	1
-of_practical	1
+NN_WP
+T-Rex_who	1

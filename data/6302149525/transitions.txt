@@ -15,11 +15,6 @@ RB	2
 DT	1
 VBN
 IN	4
-POS
-NNS	1
-NN	1
-''
-VBD	1
 VBP
 DT	1
 RB	1
@@ -27,8 +22,7 @@ WDT
 VBZ	2
 JJ
 NN	10
-CC	2
-,	1
+CC	3
 .	1
 TO	1
 IN	1
@@ -52,30 +46,24 @@ NNP	1
 RP
 VBG	1
 NN
+PRP$	1
 VBG	1
-NN	4
-VBD	2
+NN	5
+VBD	3
 CC	5
-,	4
-WDT	1
+VBN	3
 .	11
-''	2
 TO	5
 VBP	1
-VBN	2
+WDT	2
+PRP	1
 IN	13
 VBZ	3
 NNS	1
 NNP	1
-,
-PRP$	1
-CC	4
-WDT	1
-PRP	1
-RB	3
-IN	1
-DT	2
-NNP	1
+POS
+NNS	1
+NN	1
 TO
 DT	1
 VB	4
@@ -86,30 +74,32 @@ MD	2
 VB	1
 NN	1
 VBD	4
-,	1
 TO	1
 VBP	1
+RB	1
 VBZ	4
 RB
 WRB	1
 VB	2
 VBG	1
-,	2
+CC	1
 CD	2
 PRP	1
 JJ	2
 IN	3
 VBZ	1
 NNS	1
+NNP	1
 NNS
 VBD	1
+CC	2
 VBN	1
-,	5
+.	1
 TO	1
 VBP	1
-IN	2
-DT	1
-.	1
+RB	1
+IN	3
+DT	2
 NNP
 VBG	1
 NN	3
@@ -119,12 +109,17 @@ POS	3
 RB	2
 IN	1
 VBZ	1
+DT	2
+NNS	1
+NNP	5
+VB
+PRP$	1
+WRB	1
+RB	1
+IN	1
 DT	1
 NNS	1
-,	1
-NNP	5
-``
-NN	1
+NNP	1
 WRB
 PRP	1
 CC
@@ -139,7 +134,7 @@ NNP	1
 RBR
 CD
 NNS	2
-,	1
+RB	1
 IN
 PRP$	5
 NN	4
@@ -155,11 +150,3 @@ NNP	4
 MD
 RB	1
 JJR
-VB
-PRP$	1
-WRB	1
-RB	1
-IN	1
-DT	1
-NNS	1
-NNP	1

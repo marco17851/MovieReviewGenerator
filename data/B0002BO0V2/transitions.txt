@@ -14,14 +14,6 @@ NNP	2
 VBN
 CD	1
 IN	2
-,
-NN	2
-VBD	1
-CC	1
-CD	4
-PRP	2
-IN	1
-NNP	21
 VBP
 NNS	1
 JJ
@@ -48,17 +40,18 @@ RP
 NNP	1
 NN
 MD	1
-NN	3
+NN	5
 VBD	2
 CC	3
 POS	1
-,	6
 .	3
 TO	3
+PRP	1
 RB	1
 IN	14
 VBZ	1
-NNP	1
+DT	1
+NNP	3
 POS
 NN	1
 JJ	1
@@ -69,8 +62,8 @@ PRP
 MD	1
 RP	1
 VBD	3
-,	1
 VBP	1
+PRP	1
 RB	1
 IN	1
 VBZ	1
@@ -89,8 +82,8 @@ IN	3
 NNP
 MD	1
 NNPS	2
-VBD	3
-CC	2
+VBD	4
+CC	3
 WP	1
 POS	2
 CD	15
@@ -99,8 +92,7 @@ JJ	1
 IN	7
 VBZ	2
 .	7
-,	11
-NNP	60
+NNP	69
 VB
 DT	1
 NNS	1
@@ -116,11 +108,11 @@ IN	2
 NNP	1
 PDT
 CD
-NNP	1
-NNS	5
-,	15
-IN	2
+NNP	11
 .	3
+NNS	5
+IN	3
+CD	4
 IN
 PRP$	2
 VBG	1

@@ -3,20 +3,20 @@ The_acting_was	1
 the_movie_was	2
 CC_DT_NN
 but_this_movie	1
-NN_RB_VBD
-movie_just_gave	1
+VBN_IN_.
+come_on_.	1
 RB_IN_DT
 around_in_a	1
 around_for_a	1
 NN_MD_VB
 story_could_have	1
 u_must_see	1
+NN_DT_NN
+check_another_character	1
 PRP_DT_JJ
 them_a_little	1
-NN_IN_DT
-deal_about_a	1
-movie_at_all	1
-shelf_in_an	1
+NN_VBN_IN
+office_come_on	1
 VBN_IN_NN
 kept_on_walking	1
 DT_NN_IN
@@ -29,12 +29,12 @@ RP_JJ_NNS
 out_dead_moments	1
 NN_VBD_RB
 movie_was_n't	1
-VBN_IN_.
-come_on_.	1
-NN_,_DT
-check_,_another	1
-DT_NN_,
-an_office_,	1
+NN_RB_VBD
+movie_just_gave	1
+NN_IN_DT
+deal_about_a	1
+movie_at_all	1
+shelf_in_an	1
 DT_NN_.
 the_money_.	1
 some_nonsense_.	1
@@ -44,6 +44,8 @@ actors_but_this	1
 JJ_NN_.
 narcoleptic_janitor_.	1
 little_paycheck_.	1
+NN_NN_DT
+pay_check_another	1
 VBG_RB_IN
 waiting_around_for	1
 sitting_around_in	1
@@ -69,6 +71,8 @@ NN_NN_VBG
 toilet_paper_sitting	1
 NN_VBD_VBN
 movie_was_filled	1
+DT_NN_VBN
+an_office_come	1
 CC_VBG_DT
 and_making_a	1
 VBG_IN_DT
@@ -89,8 +93,6 @@ VBD_VBN_IN
 was_filled_with	1
 IN_DT_.
 at_all_.	1
-JJ_,_DT
-bad_,_the	1
 PRP_MD_RB
 I_could_n't	1
 IN_VBN_RP
@@ -111,8 +113,6 @@ see_it_.	1
 rent_it_.	1
 VBN_JJ_NNS
 recorded_Tupac_lyrics	1
-PRP_MD_VB
-I_should_have	1
 VBP_RB_VB
 Do_n't_waste	1
 VB_PRP$_NN
@@ -143,8 +143,8 @@ IN_DT_NNS
 of_the_characters	1
 DT_NN_MD
 the_story_could	1
-RB_,_RB
-Really_,_never	1
+VBD_JJ_DT
+was_bad_the	1
 VBD_PRP_DT
 gave_them_a	1
 IN_JJ_NNS
@@ -170,8 +170,6 @@ NN_VBG_RB
 character_sitting_around	1
 VBN_IN_DT
 worked_if_the	1
-DT_NNS_VBG
-the_characters_waiting	1
 NNS_IN_CD
 fillers_like_one	1
 IN_DT_JJ
@@ -182,37 +180,31 @@ NN_VBD_JJ
 acting_was_bad	1
 DT_NN_CC
 a_closet_and	1
-VBD_JJ_,
-was_bad_,	1
-,_VBN_IN
-,_come_on	1
+DT_NNS_VBG
+the_characters_waiting	1
 VBD_WRB_.
 said_why_?	1
 VBD_RB_PRP
 tried_then_I	1
-NN_,_VBN
-office_,_come	1
 PRP_VBD_RB
 I_tried_then	1
+RB_RB_VBN
+Really_never_recorded	1
 JJ_NNS_IN
 Tupac_lyrics_on	1
 stupid_fillers_like	1
-,_RB_VBN
-,_never_recorded	1
+PRP_MD_VB
+I_should_have	1
 DT_JJ_NN
 a_little_paycheck	1
 a_big_deal	1
 a_narcoleptic_janitor	1
-NN_NN_,
-pay_check_,	1
 RB_PRP_VBD
 then_I_said	1
 JJ_DT_NN
+bad_the_story	1
 worth_the_money	1
 NN_CC_NN
 time_or_money	1
-,_DT_NN
-,_another_character	1
-,_the_story	1
 RB_VBN_IN
 n't_filled_with	1

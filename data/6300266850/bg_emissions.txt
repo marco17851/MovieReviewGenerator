@@ -11,18 +11,19 @@ in_bulk	1
 over_pay	1
 of_vampire	1
 of_business	1
-,_IN
-,_like	1
-,_in	1
+VBN_VBN
+been_released	1
 JJ_IN
 good_as	1
 careful_in	1
 sad_because	1
 NNS_WP
-women_who	1
+women_who	2
+vampires_who	1
 NNS_WRB
-changes_when	1
+victims_when	1
 senses_when	1
+changes_when	1
 VBG_VBN
 being_bitten	1
 VBN_VBG
@@ -31,6 +32,7 @@ DT_RB
 a_pretty	1
 a_very	1
 NNP_IN
+Dracula_so	1
 York_at	1
 NNS_RB
 performances_particularly	1
@@ -51,9 +53,11 @@ NN_WDT
 network_which	1
 vampire_that	2
 merit_that	1
+copy_which	1
 RB_NNS
 almost_suicides	1
 VB_DT
+say_these	1
 know_any	1
 become_a	1
 be_a	3
@@ -64,8 +68,9 @@ RB_TO
 back_to	1
 maybe_to	1
 not_to	1
-PRP$_NNP
-their_VHS	1
+CD_POS
+80_'s	2
+1987_'s	1
 IN_VBG
 of_hooking	1
 by_driving	1
@@ -79,10 +84,6 @@ of_was	1
 RB_.
 before_.	1
 well_.	1
-VBP_,
-remember_,	1
-,_PRP
-,_I	3
 VBZ_JJ
 uses_red	1
 's_good	1
@@ -112,6 +113,7 @@ They_in	1
 RB_NNP
 just_UNDERSTUDY	1
 NNS_DT
+leads_the	1
 women_a	1
 vampires_no	1
 VBG_.
@@ -121,13 +123,15 @@ caring_.	1
 JJ_CC
 hot_and	1
 red_and	1
+potential_but	1
+jealous_but	1
 dark_or	1
 WRB_PRP
 how_he	1
 when_they	1
 when_he	1
-CD_,
-1998_,	1
+VBG_TO
+trying_to	1
 CC_CD
 and_one	1
 or_two	1
@@ -140,6 +144,8 @@ im_glad	1
 case_sexy	1
 DVD_many	1
 year_old	1
+JJ_CD
+bad_one	1
 PRP$_JJ
 my_new	1
 your_average	1
@@ -168,17 +174,14 @@ bother_to	1
 feel_to	1
 PRP_NN
 it_Graveyard	1
-NNP_WP
-NYC_who	1
+NNS_VB
+vampires_turn	1
+VB_EX
+say_there	1
 NNS_WDT
+victims_which	1
 folks_that	1
 vampires_which	1
-,_NN
-,_nudity	1
-,_vampire	1
-,_sex	1
-,_tv	1
-,_lighting	1
 NNP_.
 Night_.	1
 UNDERSTUDY_.	1
@@ -219,8 +222,6 @@ is_fairly	2
 does_not	1
 is_just	1
 is_still	1
-JJR_NNS
-worse_ones	1
 DT_NN
 a_question	1
 the_hunt	1
@@ -280,8 +281,8 @@ II_or	1
 RB_PRP$
 just_your	1
 particularly_our	1
-``_NNP
-``_Dracula	1
+DT_VBD
+This_was	1
 PRP_VBP
 I_do	1
 you_die	1
@@ -296,8 +297,9 @@ They_do	1
 you_do	1
 They_become	1
 I_think	2
-JJ_``
-original_``	1
+VBZ_RP
+ends_up	1
+picks_up	2
 WP_VBP
 who_are	2
 What_do	1
@@ -336,12 +338,8 @@ it_does	1
 It_'s	1
 PRP_PDT
 it_all	1
-VBN_VBN
-been_released	1
 NNS_MD
 victims_would	1
-TO_NNP
-to_CENTRAL	1
 VBP_NN
 think_Graveyard	1
 become_part	1
@@ -359,13 +357,11 @@ coming_from	1
 $_CD
 $_10	1
 $_20	1
-,_RB
-,_especially	2
-,_just	1
-VBZ_NN
-has_sex	1
-directs_vampire	1
-'s_charm	1
+NNS_CD
+victems_one	1
+VBP_PRP
+do_you	1
+think_they	1
 DT_CD
 the_1987	1
 the_80	1
@@ -392,16 +388,11 @@ ever_be	1
 even_show	1
 n't_know	1
 never_call	1
-WP_NNP
-who_Steven	1
 PRP_.
 it_.	1
 themselves_.	2
 WRB_JJ
 how_much	1
-PRP_,
-her_,	1
-them_,	1
 VBN_.
 intended_.	1
 IN_PRP$
@@ -417,43 +408,21 @@ VBD_RB
 was_perhaps	1
 JJR_NN
 better_vampire	1
-,_WP
-,_who	4
+NNP_WDT
+Cayer_which	1
 PRP_VB
 him_find	1
 you_think	1
-NNP_,
-DRIFTER_,	1
-Michelle_,	1
-II_,	1
-Cayer_,	1
 CD_JJ
 one_blue-lit	1
-NN_VB
-help_elevate	1
+CD_DT
+1998_a	1
 CC_VBZ
 and_has	2
 and_is	1
 and_falls	1
 and_gives	2
 or_wants	1
-PRP$_``
-their_``	1
-RB_,
-Also_,	1
-then_,	1
-NN_,
-title_,	1
-field_,	1
-lighting_,	1
-DVD_,	1
-cover_,	1
-copy_,	1
-music_,	1
-nudity_,	2
-sex_,	1
-husband_,	1
-cab_,	1
 IN_IN
 that_if	1
 outside_of	1
@@ -462,6 +431,7 @@ before_on	1
 IN_WDT
 at_which	1
 PRP$_NN
+their_death	1
 her_scene	1
 his_fill	1
 their_blood	1
@@ -471,15 +441,15 @@ his_lover	1
 her_house	1
 my_taste	1
 his_prey	1
-DT_VBD
-This_was	1
 NNP_PRP
+DRIFTER_I	1
 SHIFT_I	1
 CC_VBD
 and_began	1
 but_lacked	1
 JJ_RB
 clear_back	1
+spactacular_just	1
 VB_IN
 return_as	1
 VBG_NN
@@ -499,17 +469,8 @@ NNP_:
 King_/	1
 UNDERSTUDY_:	1
 Understudy_:	1
-VBZ_RP
-ends_up	1
-picks_up	2
-JJ_,
-jealous_,	1
-cold_,	1
-interesting_,	1
-effective_,	1
-wonderful_,	1
-spactacular_,	1
-potential_,	1
+WP_NNP
+who_Steven	1
 JJ_.
 terminal_.	1
 annoying_.	1
@@ -550,17 +511,6 @@ packages_.	1
 dates_.	1
 viewers_.	1
 fans_.	1
-NNS_,
-favorites_,	1
-leads_,	1
-victims_,	2
-SFXs_,	1
-vampires_,	2
-People_,	1
-films_,	1
-costumes_,	1
-women_,	1
-videos_,	1
 WDT_RB
 that_apparently	1
 JJ_PRP$
@@ -585,9 +535,6 @@ meets_.	1
 calls_.	1
 NNS_:
 movies_/	1
-,_VBZ
-,_has	1
-,_is	1
 RP_PRP$
 up_his	1
 RB_NN
@@ -612,6 +559,8 @@ looks_like	1
 turns_into	1
 falls_in	3
 is_in	1
+JJ_NNP
+original_Dracula	1
 CD_IN
 one_of	4
 one_by	1
@@ -644,6 +593,7 @@ vampire_movies	1
 folklore_vampires	1
 bulk_packages	1
 vampire_films	2
+lighting_costumes	1
 NNS_NNS
 women_vampires	1
 NN_NNP
@@ -654,6 +604,7 @@ II_will	1
 NN_WP
 driver_who	1
 woman_who	1
+husband_who	1
 IN_$
 over_$	1
 VBP_TO
@@ -666,8 +617,8 @@ his_victims	5
 their_victims	1
 FW_NN
 PARK_DRIFTER	1
-,_WRB
-,_when	1
+PRP$_NNP
+their_VHS	1
 WDT_NN
 which_time	1
 CC_NN
@@ -677,11 +628,12 @@ and_nudity	1
 or_manybe	1
 and_violence	1
 NN_PRP
-problem_I	1
-movie_it	1
 store_I	1
-vampire_you	1
 time_he	1
+DVD_I	1
+movie_it	1
+problem_I	1
+vampire_you	1
 VB_PRP$
 show_her	1
 find_his	1
@@ -751,10 +703,8 @@ it_should	1
 they_should	1
 WRB_NNS
 when_women	1
-,_DT
-,_these	1
-,_a	1
-,_the	1
+JJR_NNS
+worse_ones	1
 VBP_VBN
 have_seen	1
 've_seen	2
@@ -788,10 +738,12 @@ Needless_to	1
 unfocused_to	1
 same_to	1
 helpless_to	1
-VB_,
-say_,	2
-EX_VBZ
-There_is	2
+VBZ_NN
+has_sex	1
+directs_vampire	1
+'s_charm	1
+VBP_NNP
+remember_Central	1
 EX_VBP
 there_are	1
 VBP_DT
@@ -800,9 +752,11 @@ enjoy_these	1
 RP_CC
 around_and	1
 NN_NN
+movie_Graveyard	1
 DVD_release	1
 time_capsul	1
 Graveyard_Shift	9
+music_tv	1
 vampire_flick	2
 flick_Graveyard	1
 movie_making	1
@@ -812,11 +766,13 @@ lady_killer	1
 taxi_driver	1
 movie_original	1
 night_shift	1
-movie_rental	1
+grab_bag	1
 movie_producer	1
 life_style	1
 week_style	1
+cover_nudity	1
 death_cycle	1
+title_Graveyard	1
 vampire_cab	1
 video_store	1
 bag_deal	1
@@ -824,16 +780,17 @@ cab_driver	3
 combination_disco	1
 vampire_network	1
 tv_movie	1
+nudity_sex	1
 vampire_movie	1
-grab_bag	1
+movie_rental	1
 vampire_film	1
 FW_FW
 CENTRAL_PARK	1
 dvd_im	1
+PRP_NNP
+her_Movie	1
 DT_VBG
 the_teetering	1
-,_WDT
-,_which	3
 VBP_VBG
 are_trying	1
 are_coming	1
@@ -870,16 +827,6 @@ DT_NNP
 the_Stephen	2
 a_Halloween	1
 The_Travolta	1
-''_IN
-''_so	1
-''_at	1
-,_JJ
-,_other	1
-,_sorry	1
-,_interesting	1
-,_hot	1
-,_EX
-,_there	1
 DT_JJ
 That_little	1
 some_erotic	1
@@ -906,6 +853,7 @@ a_certain	1
 the_back	1
 these_low	1
 NNP_CC
+II_but	1
 Helsing_and	1
 LA_and	1
 NNP_VB
@@ -921,6 +869,10 @@ disco_/	1
 CD_RB
 two_just	1
 NNS_CC
+favorites_but	1
+costumes_and	1
+films_and	1
+videos_but	1
 vampires_and	1
 VBD_PRP
 earned_it	1
@@ -938,9 +890,6 @@ of_illogical	1
 of_bad	1
 than_soft	1
 In_other	1
-``_NN
-``_Graveyard	2
-``_death	1
 NN_.
 making_.	1
 vampire_.	2
@@ -959,8 +908,8 @@ front_.	1
 shift_.	1
 flick_.	1
 life_.	1
-undead_.	1
-Shift_.	1
+movie_.	2
+Shift_.	2
 film_.	2
 appeal_.	1
 thing_.	1
@@ -969,7 +918,7 @@ deal_.	1
 driver_.	1
 night_.	1
 love_.	1
-movie_.	2
+undead_.	1
 suicide_.	1
 PRP_POS
 it_'s	1
@@ -978,6 +927,7 @@ rental_under	1
 world_of	1
 backseat_of	1
 idea_of	1
+cycle_at	1
 gamble_if	1
 part_of	1
 lease_on	1
@@ -1041,13 +991,12 @@ screws_up	1
 women_by	1
 extras_outside	1
 ventures_into	1
+People_in	1
 suicides_into	1
 streets_of	1
 morals_in	1
 elements_within	1
 victims_from	1
-VBN_CC
-presented_and	2
 NNS_PRP
 times_it	1
 words_he	1
@@ -1058,6 +1007,7 @@ passengers_he	1
 NN_CC
 original_but	1
 love_and	2
+sex_and	1
 heat_and	1
 setup_and	1
 lover_and	1
@@ -1092,11 +1042,8 @@ NN_VBG
 movie_involving	1
 subplot_involving	1
 driver_taking	1
-NN_JJR
-lot_worse	1
-NN_``
-title_``	1
-movie_``	1
+EX_VBZ
+There_is	2
 NN_VBD
 amazon_had	1
 cab_made	1
@@ -1104,7 +1051,7 @@ Shift_was	1
 NN_VBZ
 movie_is	2
 movie_embraces	1
-movie_has	1
+cab_has	1
 vampire_is	1
 film_uses	1
 hunt_is	1
@@ -1116,24 +1063,21 @@ vampire_appears	1
 Shift_is	2
 hair_is	1
 track_gives	1
+movie_has	1
+field_is	1
 problem_is	1
 RB_MD
 also_will	1
-,_VB
-,_turn	1
 POS_.
 's_.	1
 CC_NNS
 and_screws	1
 IN_TO
 as_to	1
-CD_POS
-80_'s	2
-1987_'s	1
 VBD_IN
 got_as	1
-JJ_CD
-bad_one	1
+PRP_CC
+them_and	1
 WDT_VBD
 which_was	1
 that_earned	1
@@ -1151,6 +1095,7 @@ POS_NNS
 DT_WP
 those_who	1
 NN_RB
+Shift_back	1
 Shift_now	1
 lead_as	1
 Shift_not	1
@@ -1160,20 +1105,19 @@ movie_also	1
 title_maybe	1
 manybe_just	1
 killer_pretty	1
-,_CC
-,_and	4
-,_but	5
+nudity_especially	1
+title_especially	1
 PRP_RB
 it_also	1
 He_nonetheless	1
 it_before	1
 you_automatically	1
+NN_VB
+help_elevate	1
 :_NN
 :_Graveyard	1
-VBG_TO
-trying_to	1
-WP_,
-who_,	1
+NNS_NN
+SFXs_lighting	1
 VBG_RP
 hooking_up	1
 LS_RB
@@ -1248,16 +1192,19 @@ pretty_nice	1
 Not_much	1
 pretty_much	1
 too_dark	1
+too_spactacular	1
 so_careful	1
 very_popular	1
-also_terminal	1
+Also_sorry	1
 too_unfocused	1
 as_good	1
 however_clear	1
-too_spactacular	1
+also_terminal	1
 VBZ_VBG
 's_caring	1
 is_dying	1
+NN_JJR
+lot_worse	1
 VB_PRP
 kill_themselves	1
 recommend_it	2
@@ -1282,9 +1229,6 @@ CC_PRP$
 and_his	1
 DT_DT
 This_all	1
-VBP_PRP
-do_you	1
-think_they	1
 RB_VBN
 well_presented	2
 turn_become	1
@@ -1294,11 +1238,8 @@ really_liked	1
 NNP_VBD
 Diaries_gone	1
 Drifter_had	1
-NNS_CD
-victems_one	1
-NN_''
-cycle_''	1
-Shift_''	2
+TO_NNP
+to_CENTRAL	1
 TO_NNS
 to_folks	1
 VBG_DT
@@ -1310,6 +1251,7 @@ RB_PRP
 otherwise_it	1
 Maybe_it	1
 Sometimes_it	1
+then_I	1
 RB_VBD
 apparently_had	1
 also_had	1
@@ -1333,36 +1275,35 @@ keeps_him	1
 helps_him	1
 is_he	1
 makes_them	1
-''_.
-''_.	1
+VBN_CC
+presented_and	2
 VBN_TO
 retitled_to	1
-''_RB
-''_back	1
 VB_RB
 turn_around	1
 be_so	1
 expect_too	1
-,_NNP
-,_Central	1
-,_Movie	1
 CC_NNP
 but_Michelle	1
 VBG_NNS
 killing_innocents	1
 involving_vampires	1
-,_NNS
-,_costumes	1
+WP_IN
+who_like	1
 JJ_JJ
+cold_hot	1
+effective_other	1
+wonderful_interesting	1
 bad_low	1
 ultimate_new	1
-NNP_''
-Dracula_''	1
 VB_RP
 turn_around	1
 put_off	1
 pick_up	1
 figure_out	1
+NNP_WP
+Michelle_who	1
+NYC_who	1
 VBD_VBN
 was_released	1
 VBG_PRP
@@ -1432,6 +1373,7 @@ same_name	1
 good_film	1
 bad_copy	1
 artistic_merit	1
+interesting_vampire	1
 average_vampire	1
 new_lease	1
 new_viewing	1

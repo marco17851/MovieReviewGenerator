@@ -63,10 +63,6 @@ seen	4
 marred	1
 come	1
 Told	1
-POS
-'s	14
-''
-''	32
 VBP
 compare	1
 include	1
@@ -393,8 +389,8 @@ chiller	1
 time	2
 atrocity	1
 corpse	1
-,
-,	75
+POS
+'s	14
 .
 !	3
 ?	5
@@ -593,8 +589,32 @@ Dawson	2
 Ark	1
 George	1
 English	1
-``
-``	32
+VB
+have	2
+give	2
+move	1
+we	1
+see	1
+rent	1
+want	1
+find	1
+utilize	1
+add	1
+take	1
+listen	1
+be	4
+notice	1
+run	1
+torture	4
+stay	1
+drag	1
+come	1
+like	1
+play	1
+engage	1
+look	1
+say	1
+'ve	1
 WRB
 How	1
 when	2
@@ -661,31 +681,5 @@ JJR
 less	1
 earlier	1
 more	2
-VB
-have	2
-give	2
-move	1
-we	1
-see	1
-rent	1
-want	1
-find	1
-utilize	1
-add	1
-take	1
-listen	1
-be	4
-notice	1
-run	1
-torture	4
-stay	1
-drag	1
-come	1
-like	1
-play	1
-engage	1
-look	1
-say	1
-'ve	1
 UH
 Yeah	1

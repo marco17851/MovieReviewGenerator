@@ -3,8 +3,6 @@ with_recording	1
 on_DVD	1
 VBN_VBN
 been_released	3
-``_JJ
-`_official	1
 NNP_IN
 Stick_with	1
 SONG_OF	1
@@ -13,12 +11,11 @@ NNS_RB
 comedies_ever	1
 POS_MD
 's_should	1
+NN_WDT
+domain_which	1
 VB_DT
 avoid_these	1
 Sing_A	1
-RB_,
-Frequently_,	1
-twice_,	1
 RB_.
 yet_.	1
 ever_.	1
@@ -28,6 +25,8 @@ POS_RBS
 CC_RB
 and_now	1
 or_twice	1
+JJ_CC
+great_but	1
 VB_JJR
 be_better	1
 PRP$_JJ
@@ -36,6 +35,11 @@ VBZ_CD
 is_one	1
 VBN_CD
 released_55	1
+POS_NN
+'_Malice	1
+:_NNP
+--_Brideless	1
+--_Disorder	1
 CD_NNS
 Six_Pants	1
 four_movies	1
@@ -50,28 +54,27 @@ has_n't	1
 has_just	1
 NN_POS
 DVD_'s	1
+PRP_VBN
+they_been	1
+PRP_VBP
+themselves_are	1
+I_like	1
+RB_DT
+hopefully_the	1
+Frequently_the	1
+PRP_JJ
+me_wrong	1
 DT_NN
 A_Song	1
 the_movie	1
 this_set	1
 THE_PALACE	2
 a_copy	1
-``_NNP
-`_Disorder	1
-`_Brideless	2
-PRP_VBP
-themselves_are	1
-I_like	1
-RB_DT
-hopefully_the	1
-PRP_JJ
-me_wrong	1
-NN_MD
-movie_can	1
+NNP_CC
+SONG_and	1
+Columbia_and	1
 RB_VBZ
 still_has	1
-DT_``
-an_`	1
 RB_IN
 now_on	1
 not_on	1
@@ -91,29 +94,12 @@ but_have	1
 and_need	1
 JJR_NN
 better_quality	1
-''_NNS
-'_Stooges	1
-NN_,
-PALACE_,	1
-domain_,	1
-NNP_,
-SONG_,	1
-COURT_,	1
-GROOM_,	1
-Columbia_,	1
 CD_JJ
 fifty_different	1
 POS_CC
 '_and	1
-,_``
-,_`	2
-JJ_,
-wrong_,	1
-great_,	1
 JJ_.
 many_.	1
-PRP_VBN
-they_been	1
 VBN_IN
 included_in	1
 released_in	1
@@ -122,10 +108,6 @@ NNS_.
 knock-offs_.	1
 films_.	1
 shorts_.	1
-NNS_,
-PANTS_,	1
-videos_,	1
-shorts_,	1
 JJ_:
 good_--	1
 VBP_JJ
@@ -142,6 +124,7 @@ MALICE_IN	1
 copy_of	1
 Malice_In	1
 JJ_NNS
+official_Stooges	1
 different_videos	1
 different_shorts	1
 cheap_knock-offs	1
@@ -154,13 +137,12 @@ six_of	1
 55_of	1
 JJR_IN
 better_that	1
-,_CC
-,_and	4
-,_but	3
+NN_MD
+movie_can	1
 NN_NNS
 Stooge_comedies	1
-:_``
---_`	2
+NN_NNP
+PALACE_SING	1
 IN_JJR
 in_better	1
 VB_PRP$
@@ -169,7 +151,10 @@ IN_RB
 on_about	1
 VBN_DT
 released_an	1
+JJ_DT
+wrong_all	1
 RB_CC
+twice_but	1
 once_or	1
 CC_DT
 and_a	1
@@ -189,9 +174,6 @@ on_one	1
 CC_NN
 but_DVD	1
 and_DISORDER	1
-,_DT
-,_the	1
-,_all	1
 VBP_VBN
 have_been	2
 NNP_VBZ
@@ -204,8 +186,6 @@ VBZ_NN
 means_anyone	1
 VBP_DT
 like_these	1
-CC_``
-and_`	1
 NN_NN
 video/audio_quality	1
 recording_equipment	1
@@ -222,26 +202,26 @@ IN_NNP
 by_Columbia	1
 with_Columbia	1
 DT_NNP
+all_Columbia	1
 THE_COURT	1
 any_Columbia	1
 The_Palace	1
 the_Stooges	1
 DT_JJ
+an_official	1
 these_cheap	1
 the_public	1
 the_first	1
-``_VB
-`_Sing	1
 NN_:
 set_--	1
 disc_--	1
 NNS_CC
-videos_and	1
+videos_and	2
+shorts_but	1
+PANTS_and	1
 IN_JJ
 of_many	1
 of_poor	1
-``_NN
-`_Malice	1
 NN_.
 DVD_.	1
 video_.	1
@@ -267,8 +247,6 @@ NN_CC
 equipment_and	1
 NN_VBZ
 PALACE_is	1
-POS_,
-'_,	2
 NN_VBP
 DISORDER_have	1
 NNP_POS
@@ -280,8 +258,6 @@ NN_RB
 collection_yet	1
 JJ_IN
 first_of	1
-DT_,
-all_,	1
 NNS_NN
 Stooges_DVD	1
 CD_NN
@@ -295,16 +271,18 @@ Disorder_In	1
 Columbia_Tristar	1
 In_The	1
 The_Court	1
+COURT_MALICE	1
+GROOM_SING	1
 Brideless_Groom	2
 SING_A	2
+POS_VB
+'_Sing	1
 DT_JJS
 the_funniest	1
 :_RB
 --_hopefully	1
 RB_JJ
 quite_good	1
-JJ_''
-official_'	1
 VB_PRP
 get_me	1
 RB_VBN
@@ -314,17 +292,12 @@ RB_PRP
 n't_they	1
 JJS_NN
 funniest_Stooge	1
-,_NNP
-,_SING	2
-,_Columbia	1
-,_MALICE	1
 CC_NNP
 but_Shemp	1
 and_BRIDELESS	1
+and_Brideless	1
 :_VBP
 --_are	1
-,_WDT
-,_which	1
 IN_DT
 although_the	1
 of_these	1

@@ -19,10 +19,10 @@ JJ	1
 WDT
 VBD	1
 JJ
+JJ	11
 NN	8
-,	2
 .	1
-JJ	10
+RB	1
 IN	3
 NNS	8
 NNP	1
@@ -45,21 +45,16 @@ NN
 RB	1
 NN	4
 CC	1
-,	2
 .	3
+WDT	1
 PRP	1
 JJ	1
-IN	7
+IN	8
 NNS	1
 VBD
 TO	1
 VBN	1
 RB	2
-,
-RB	1
-WDT	2
-PRP	1
-JJ	1
 TO
 VB	2
 DT	2
@@ -84,9 +79,9 @@ JJ	1
 NNP
 VBD	1
 CC	1
-,	1
 CD	2
 .	1
+PRP	1
 :	1
 NNP	5
 VB
@@ -103,8 +98,8 @@ RBR
 JJ	1
 CD
 NN	1
-,	1
 .	1
+WDT	1
 JJ	1
 IN	1
 VBZ	2

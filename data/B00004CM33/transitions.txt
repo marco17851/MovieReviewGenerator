@@ -10,16 +10,13 @@ TO	1
 IN	3
 VBN	2
 CD	1
-POS
-NNP	1
 VBP
 JJ
 NN	7
 CC	2
-,	1
 .	2
 TO	2
-RB	1
+RB	2
 NNS	2
 VBZ
 VBG	1
@@ -37,20 +34,16 @@ NNP	2
 RP
 NN
 VBD	1
-,	1
 .	3
 JJ	1
-IN	2
+IN	3
 VBZ	4
 DT	1
 CD	2
 NNS	1
 NNP	1
-,
-CC	1
-DT	1
-RB	1
-IN	1
+POS
+NNP	1
 TO
 VB	6
 NNS	1
@@ -68,12 +61,12 @@ JJ	2
 NNS
 VBD	1
 CC	1
-,	1
+VBN	1
 .	2
 TO	2
-VBN	1
 IN	4
 VBZ	1
+DT	1
 NNP	1
 NNP
 MD	1

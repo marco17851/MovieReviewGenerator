@@ -3,21 +3,21 @@ of_cinematography	1
 for_something	1
 in_stature	1
 of_audio	1
-,_IN
-,_after	1
-PRP_RB
-I_once	1
-it_again	1
-I_ever	1
-I_now	1
+JJ_IN
+bad_that	1
+good_as	1
+GOOD_FOR	1
+many_of	1
+excited_about	1
+much_for	1
 VBG_VBN
 being_performed	1
-``_JJ
-``_noisy	1
 VBN_VBG
 been_searching	1
 RP_NN
 up_karate	1
+NNS_RB
+parts_simply	1
 CC_JJ
 but_many	1
 and_due	1
@@ -26,12 +26,8 @@ could_n't	1
 can_not	1
 VB_DT
 see_the	1
-RB_,
-again_,	1
-clearly_,	1
-,_PRP
-,_it	1
-,_I	2
+IN_IN
+so_that	1
 VBZ_JJ
 is_difficult	2
 is_old	1
@@ -50,17 +46,14 @@ more_excited	1
 CC_RB
 and_visually	1
 and_virtually	1
-VBN_,
-remastered_,	1
 JJ_CC
 amateurish_and	1
+appalling_and	1
 dark_and	1
 WRB_PRP
 when_he	1
 :_IN
 ;_as	1
-VB_VBN
-be_heard	1
 IN_PRP
 as_I	1
 of_them	1
@@ -68,12 +61,8 @@ that_I	2
 as_we	1
 on_it	2
 that_it	3
-''_.
-''_.	1
 IN_VBG
 after_watching	1
-,_NN
-,_childhood	1
 DT_FW
 the_Goju	1
 PRP_VBD
@@ -111,8 +100,6 @@ a_dvd	1
 the_editorial	1
 The_DVD	2
 no_idea	1
-``_RB
-``_EVEN	1
 PRP_WRB
 him_when	1
 PRP_VBP
@@ -130,15 +117,10 @@ PRP_VBZ
 it_is	2
 it_makes	1
 It_is	2
-NNP_``
-GOGEN_``	1
-FW_FW
-Goju_Ryu	1
-Ryu_kata	1
+RB_IN
+once_as	1
 VBG_IN
 searching_for	1
-,_RB
-,_simply	1
 RBS_JJ
 most_amateur	1
 VBP_RB
@@ -154,26 +136,15 @@ himself_.	1
 -_SANDAN	1
 VBN_.
 heard_.	1
-''_NNP
-''_NOT	1
-''_YAMAGUCHI	1
 PRP_VB
 me_watch	1
-NNP_,
-KIHON_,	1
-BASICS_,	1
-REVIEW_,	1
-COLLECTION_,	1
 NNP_.
 MANY_.	1
 LEARNING_.	1
 YAMAGUCHI_.	1
-NN_,
-stature_,	1
-age_,	1
-end_,	1
-IN_IN
-so_that	1
+FW_FW
+Goju_Ryu	1
+Ryu_kata	1
 FW_NN
 GOOD_QUALITY	1
 PRP$_NN
@@ -181,28 +152,29 @@ your_money	1
 NNP_PRP
 Yamaguchi_himself	1
 Althought_I	1
+JJ_VBG
+appalling_being	1
+JJ_PRP
+old_I	1
+dark_it	1
 NNP_:
 PUELLO_-	1
 KATAS_-	1
-JJ_,
-appalling_,	2
-blurry_,	1
-dark_,	1
-old_,	1
 JJ_.
 unwatchable_.	1
+noisy_.	1
 watchable_.	1
 amazing_.	1
 VBD_RB
 was_as	1
 reproduced_very	1
-,_VBG
-,_being	1
+NN_DT
+end_the	1
+VB_VBN
+be_heard	1
 VBN_IN
 done_by	1
 disappointed_that	1
-NNS_,
-parts_,	1
 TO_DT
 to_the	1
 CC_IN
@@ -213,18 +185,18 @@ JJ_NNS
 award-winning_examples	1
 amateur_videos	1
 JJ_JJ
+blurry_dark	1
 such_poor	1
 VB_NNS
 make_people	1
-,_CC
-,_and	2
 VB_NN
 see_anything	1
 NN_NNS
 review_promises	1
 childhood_memories	1
-:_``
--_``	1
+NN_NNP
+CAT_YAMAGUCHI	1
+ADVANCED_NOT	1
 RB_VBN
 digitally_remastered	1
 really_disappointed	1
@@ -241,6 +213,7 @@ DT_JJS
 THE_MOST	1
 RB_CC
 cheaply_and	1
+clearly_and	1
 VBP_IN
 look_like	1
 understand_that	1
@@ -250,8 +223,6 @@ MD_VB
 will_make	1
 could_learn	1
 would_be	1
-RB_``
-visually_``	1
 PRP_TO
 me_to	1
 NNS_VBP
@@ -263,8 +234,8 @@ watching_this	1
 PRP_MD
 it_would	1
 I_could	2
-,_DT
-,_the	2
+NNP_DT
+GOGEN_THE	1
 VBP_VBN
 are_done	1
 have_been	1
@@ -283,12 +254,11 @@ VBZ_NN
 contains_everything	1
 JJS_NN
 MOST_ADVANCED	1
-RB_IN
-once_as	1
 NN_NN
 editorial_review	1
 money_THIS	1
 DVD_disc	1
+age_childhood	1
 DT_NNS
 the_clips	1
 some_parts	1
@@ -298,8 +268,6 @@ that_Gogen	1
 FOR_REVIEW	1
 DT_NNP
 THE_MASTER	1
-,_JJ
-,_dark	1
 DT_JJ
 The_funeral	1
 the_only	1
@@ -333,6 +301,7 @@ something_of	1
 dvd_with	1
 quality_of	2
 anything_at	1
+stature_after	1
 absence_of	1
 DVD-R_that	1
 HISTORICAL_ABOUT	1
@@ -340,6 +309,8 @@ audio_in	1
 everything_that	1
 scene_at	2
 idea_that	1
+VBN_DT
+remastered_the	1
 CC_DT
 and_the	1
 and_this	1
@@ -376,19 +347,15 @@ simply_not	1
 PRP_CC
 them_and	1
 it_but	1
-``_DT
-``_THE	1
 VBG_RB
 being_very	1
 NN_RB
 dvd_not	1
-JJ_IN
-bad_that	1
-good_as	1
-GOOD_FOR	1
-many_of	1
-excited_about	1
-much_for	1
+PRP_RB
+I_once	1
+it_again	1
+I_ever	1
+I_now	1
 DT_.
 all_.	1
 VBZ_DT
@@ -397,27 +364,32 @@ IS_A	1
 is_the	1
 NNP_NNP
 NOT_LEARNED	1
+KIHON_KATAS	1
 Gogen_Yamaguchi	2
 SHOWS_BASICS	1
+COLLECTION_LEARNING	1
+BASICS_KIHON	1
 IT_SHOWS	1
 BY_MANY	1
-FRANKLIN_PUELLO	1
+REVIEW_COLLECTION	1
 MASTER_GOGEN	1
 LEARNED_BY	1
+FRANKLIN_PUELLO	1
 RB_VBZ
 only_has	1
+:_RB
+-_EVEN	1
 RB_JJ
 virtually_unwatchable	1
 not_watchable	1
 very_amateurish	1
+visually_noisy	1
 really_poor	1
 quite_appalling	1
 as_good	1
 so_bad	1
 so_much	1
 so_dark	1
-JJ_''
-noisy_''	1
 VB_PRP
 practice_them	1
 watch_it	1
@@ -428,13 +400,12 @@ VBD_TO
 had_to	1
 NNP_VBD
 Gogen_was	1
-NN_''
-CAT_''	1
-ADVANCED_''	1
 VB_RBR
 be_more	1
 VB_CC
 learn_and	1
+RB_PRP
+again_I	1
 RB_VBD
 ever_remembered	1
 FW_IN
@@ -444,11 +415,6 @@ has_them	1
 VB_RB
 pay_so	1
 be_so	1
-,_NNP
-,_KIHON	1
-,_KATAS	1
-,_COLLECTION	1
-,_LEARNING	1
 VBG_NNP
 showing_Gogen	1
 CC_NNS

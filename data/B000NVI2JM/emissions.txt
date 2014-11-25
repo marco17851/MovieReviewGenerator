@@ -33,41 +33,17 @@ made	1
 missed	1
 was	3
 told	1
-VB
-force	1
-secure	1
-deal	1
-give	1
-overstate	1
-need	1
-see	3
-have	2
-vote	1
-happen	1
-worry	1
-bankrupt	1
-want	1
-sit	1
-pay	1
-show	1
-write	1
-figure	1
-Hold	1
-listen	1
-do	1
-afford	3
-watch	1
-effect	1
-bear	1
-know	1
-be	1
-last	1
-minimize	1
-cover	1
-leave	1
-think	1
-''
-''	9
+VBN
+brought	1
+made	1
+caused	1
+ruined	1
+observed	1
+needed	1
+done	1
+promised	1
+resigned	1
+voted	2
 VBP
 Do	1
 want	1
@@ -82,17 +58,8 @@ have	3
 need	1
 keep	2
 agree	1
-VBN
-brought	1
-made	1
-caused	1
-ruined	1
-observed	1
-needed	1
-done	1
-promised	1
-resigned	1
-voted	2
+WDT
+that	1
 JJ
 right	1
 old	1
@@ -208,8 +175,6 @@ accountant	1
 walker	3
 position	1
 problem	1
-,
-,	19
 .
 !	1
 ?	1
@@ -301,8 +266,39 @@ BIGGEST	1
 President	1
 America	1
 Comptroller	1
-``
-``	9
+VB
+force	1
+secure	1
+deal	1
+give	1
+overstate	1
+need	1
+see	3
+have	2
+vote	1
+happen	1
+worry	1
+bankrupt	1
+want	1
+sit	1
+pay	1
+show	1
+write	1
+figure	1
+Hold	1
+listen	1
+do	1
+afford	3
+watch	1
+effect	1
+bear	1
+know	1
+be	1
+last	1
+minimize	1
+cover	1
+leave	1
+think	1
 WRB
 when	2
 When	1
@@ -356,5 +352,3 @@ worse	1
 more	1
 UH
 Yeah	1
-WDT
-that	1

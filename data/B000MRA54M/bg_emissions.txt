@@ -10,9 +10,8 @@ lyrics_on	1
 NN_CC
 closet_and	1
 time_or	1
-PRP_MD
-I_could	1
-I_should	1
+CC_NN
+or_money	1
 IN_.
 on_.	1
 RB_IN
@@ -28,9 +27,8 @@ waste_your	1
 NN_VBD
 acting_was	1
 movie_was	2
-,_VBN
-,_come	1
 JJ_DT
+bad_the	1
 worth_the	1
 MD_RB
 could_n't	1
@@ -55,22 +53,20 @@ waiting_around	1
 VB_VBN
 have_kept	1
 have_worked	1
-CC_VBG
-and_making	1
+RB_JJ
+Not_worth	1
 NN_RB
 movie_just	1
-NN_,
-office_,	1
-check_,	1
+IN_VBN
+with_stretched	1
 IN_CD
 like_one	1
 JJ_IN
 Much_of	1
-CC_NN
-or_money	1
-,_DT
-,_another	1
-,_the	1
+RB_RB
+Really_never	1
+CC_VBG
+and_making	1
 PRP$_NN
 your_time	1
 VBN_JJ
@@ -79,17 +75,18 @@ NNS_VBG
 characters_waiting	1
 VBN_RP
 stretched_out	1
+NN_VBN
+office_come	1
 WRB_.
 why_?	1
-JJ_,
-bad_,	1
 VBD_RB
 tried_then	1
 was_n't	1
-RB_JJ
-Not_worth	1
-RB_,
-Really_,	1
+NN_DT
+check_another	1
+PRP_MD
+I_could	1
+I_should	1
 VB_PRP
 rent_it	1
 see_it	1
@@ -109,15 +106,11 @@ VBD_WRB
 said_why	1
 VBD_JJ
 was_bad	1
-IN_VBN
-with_stretched	1
 DT_NNS
 the_actors	1
 the_characters	1
 VBD_VBN
 was_filled	1
-,_RB
-,_never	1
 VBG_DT
 making_a	1
 RB_PRP

@@ -1,6 +1,7 @@
 JJ_NN_RB
 good_laugh_much	1
 great_movie_especially	1
+great_pair_very	1
 RB_JJ_.
 very_cute_!	1
 very_funny_.	1
@@ -19,8 +20,12 @@ RB_IN_DT
 away_from_the	1
 NNP_RB_PRP
 BET_recently_it	1
-''_IN_NNP
-''_from_MTV	1
+JJ_NN_CC
+funny_movie_but	1
+NNP_NNP_CC
+Dr._Dre_and	1
+NNP_IN_NNP
+Duff_from_MTV	1
 CD_RB_VBZ
 1990-91_also_makes	1
 RB_JJ_JJ
@@ -30,12 +35,12 @@ VBG_TO_DT
 relating_to_the	1
 CC_TO_NN
 or_to_someone	1
-NN_,_JJR
-movie_,_more	1
 NNP_VBZ_DT
 This_is_a	1
 IN_VBG_DT
 After_seeing_the	1
+NN_JJR_IN
+movie_more_like	1
 DT_NN_IN
 The_parade_of	1
 the_movie_on	1
@@ -44,30 +49,28 @@ MD_VB_DT
 would_recommend_this	1
 WP_VBD_PRP
 who_done_it	1
-JJR_IN_RB
-more_like_really	1
-JJ_NN_,
-great_pair_,	1
-funny_movie_,	1
-much_cursing_,	1
-serious_movie_,	1
-,_VBG_NN
-,_featuring_alot	1
+NN_PRP_VBZ
+cursing_it_takes	1
+CD_POS_.
+90_'s_.	1
 DT_NN_:
 a_cameo_...	1
 the_movie_...	1
-PRP_VBZ_RB
-it_takes_away	1
-It_'s_not	1
+PRP_VBD_VBG
+I_went_searching	1
 TO_VB_DT
 to_know_all	1
 to_buy_a	1
 NN_WDT_VBD
 anyone_that_was	1
+NNP_NN_PRP
+Oscar_contender_it	1
 PRP_VBP_EX
 I_think_there	1
 CC_DT_NNS
 and_the_musicians	1
+NN_PRP_VBD
+contender_it_was	1
 NN_IN_DT
 alot_of_the	1
 adult_during_the	1
@@ -91,18 +94,16 @@ RB_RB_JJ
 way_too_much	1
 VBZ_RB_IN
 takes_away_from	1
+NNP_NNP_NNP
+Plus_Dennis_Leary	1
 VBZ_RB_RB
 is_way_too	1
-PRP_._''
-you_?_''	1
-``_NNP_CD
-``_Car_54	1
+PRP_VBG_NN
+it_featuring_alot	1
 NNP_NNP_VBZ
 MJ_This_is	1
 Rosi_O_is	1
 Dennis_Leary_is	2
-NNP_NN_,
-Oscar_contender_,	1
 IN_DT_NN
 in_the_movie	1
 from_the_movie	1
@@ -111,8 +112,8 @@ wants_a_good	1
 is_a_great	1
 is_a_good	1
 is_a_funny	1
-JJ_NNS_.
-quotable_quotes_!	1
+JJ_NN_PRP
+much_cursing_it	1
 WDT_VBP_VBN
 that_are_contained	1
 JJ_NN_IN
@@ -121,6 +122,8 @@ young_adult_during	1
 RB_VBZ_DT
 also_makes_a	1
 actually_enhances_the	1
+JJ_CC_NNP
+great_and_Duff	1
 NN_IN_NNP
 movie_on_BET	1
 NNP_CC_NNP
@@ -129,8 +132,6 @@ DT_IN_DT
 all_of_the	2
 VB_DT_IN
 know_all_of	1
-PRP_,_VBG
-it_,_featuring	1
 VBZ_JJ_CC
 is_great_and	1
 VBP_VBN_IN
@@ -141,26 +142,20 @@ WRB_VBP_PRP
 where_are_you	1
 DT_JJ_CD
 the_early_90	1
-PRP_VBD_RB
-it_was_never	1
 VBG_TO_VB
 searching_to_buy	1
 CC_PRP_VBP
 but_I_think	1
-,_PRP_VBZ
-,_it_takes	1
+PRP_VBD_RB
+it_was_never	1
 CC_PRP_VBZ
 but_it_is	1
 CC_PRP_VBD
 and_I_went	1
-,_PRP_VBD
-,_it_was	1
 PRP_MD_RB
 I_wo_n't	1
 CD_CC_TO
 1993_or_to	1
-``_NNP_''
-``_Duff_''	1
 VBD_RP_DT
 brought_back_all	1
 IN_NN_FW
@@ -169,21 +164,16 @@ JJ_NNS_VBG
 good_memories_relating	1
 TO_NN_WP
 to_someone_who	1
-,_CC_PRP
-,_but_I	1
 VBD_JJ_IN
 was_funny_as	1
 DT_NN_WP
 a_comedy_who	1
-NN_,_PRP
-cursing_,_it	1
-contender_,_it	1
-RB_IN_``
-much_as_``	1
 JJ_JJ_NN
 long_funny_skit	1
 IN_CD_RB
 around_1990-91_also	1
+JJ_NN_JJR
+serious_movie_more	1
 JJ_CD_POS
 early_90_'s	1
 EX_VBZ_RB
@@ -194,17 +184,13 @@ NN_NNS_RB
 rap_stars_actually	1
 VBP_DT_JJ
 are_a_great	1
-,_RB_JJ
-,_very_funny	1
-,_NNP_NNP
-,_Dennis_Leary	1
+NN_:_PRP
+movie_..._It	1
 RB_JJ_NN
 too_much_cursing	1
 NN_IN_NN
 movie_for_anyone	1
 parade_of_rap	1
-,_JJR_IN
-,_more_like	1
 PRP_VBD_JJ
 it_was_funny	1
 IN_CD_CC
@@ -224,55 +210,56 @@ DT_NNS_WDT
 the_rappers_that	1
 WDT_VBD_DT
 that_was_a	1
-NNP_''_IN
-Duff_''_from	1
 NNP_VBP_DT
 Lover_are_a	1
 DT_JJ_NNS
 the_good_memories	1
-NNP_NNP_CC
-Dr._Dre_and	1
 JJ_NN_NN
 old_school_hip-hop	1
-IN_PRP_VBD
-Though_it_was	1
-if_you_were	1
+JJ_NNS_.
+quotable_quotes_!	1
 IN_NNP_NNP
 with_Rosi_O	1
 from_MTV_VJ	1
-NN_:_PRP
-movie_..._It	1
+NNP_VBZ_JJ
+Leary_is_great	1
+Leary_is_hysterical	1
 WP_VBZ_DT
 who_wants_a	1
 NNP_NNP_VBP
 Ed_Lover_are	1
-IN_``_NNP
-as_``_Car	1
+NN_RB_JJ
+pair_very_funny	1
 VB_DT_NN
 recommend_this_movie	1
 buy_a_copy	1
-PRP_VBD_VBG
-I_went_searching	1
+PRP_VBZ_RB
+it_takes_away	1
+It_'s_not	1
+IN_NNP_CD
+as_Car_54	1
+RB_IN_NNP
+much_as_Car	1
 PRP_VBD_DT
 you_were_a	1
 RB_VB_TO
 n't_claim_to	1
 NN_CC_PRP
 movie_but_it	1
+movie_but_I	1
 VBD_RB_DT
 was_never_an	1
 NN_NNS_.
 hip-hop_artists_.	1
 NN_:_RB
 cameo_..._very	1
-CC_``_NNP
-and_``_Duff	1
 VBN_IN_DT
 contained_in_the	1
 NNS_RB_VBZ
 stars_actually_enhances	1
-NN_,_CC
-movie_,_but	1
+IN_PRP_VBD
+Though_it_was	1
+if_you_were	1
 IN_DT_JJ
 of_the_good	1
 during_the_early	1
@@ -291,6 +278,8 @@ never_an_Oscar	1
 ..._It_'s	1
 VBD_VBG_TO
 went_searching_to	1
+JJR_IN_RB
+more_like_really	1
 NN_WP_VBD
 comedy_who_done	1
 NN_NN_NNS
@@ -299,13 +288,8 @@ NNP_IN_CD
 VJ_around_1990-91	1
 NN_WP_VBZ
 someone_who_wants	1
-NNP_VBZ_JJ
-Leary_is_great	1
-Leary_is_hysterical	1
-VBD_PRP_,
-done_it_,	1
-JJ_CC_``
-great_and_``	1
+VBD_PRP_VBG
+done_it_featuring	1
 JJ_JJ_NNS
 many_quotable_quotes	1
 DT_NNP_NN
@@ -314,8 +298,6 @@ IN_NN_WDT
 for_anyone_that	1
 CC_NNP_NNP
 and_Ed_Lover	1
-NNP_,_NNP
-Plus_,_Dennis	1
 VBZ_RB_DT
 's_not_a	1
 IN_NNP_RB
@@ -347,21 +329,19 @@ it_brought_back	1
 VBD_DT_JJ
 was_a_young	1
 were_a_young	1
-CD_POS_.
-90_'s_.	1
 IN_RB_JJ
 like_really_long	1
 RB_PRP_VBD
 recently_it_brought	1
 VBG_DT_NN
 seeing_the_movie	1
-NN_,_RB
-pair_,_very	1
 VB_TO_VB
 claim_to_know	1
 VBP_EX_VBZ
 think_there_is	1
 NNP_NNP_IN
 MTV_VJ_around	1
+CC_NNP_IN
+and_Duff_from	1
 JJ_IN_NN
 funny_as_h	1

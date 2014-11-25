@@ -25,7 +25,7 @@ import sys
 import os
 
 # Tags to be filtered out from the POS tagging
-dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
+dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>", "''", "\"\"", ",", "``"]
 
 """
 # Function: get_Ems_Trans_Uni()

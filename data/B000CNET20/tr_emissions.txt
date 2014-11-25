@@ -1,17 +1,16 @@
-NNP_VBZ_TO
-HOLLYWOOD_GOES_TO	2
-War_Goes_to	1
+VBN_CC_VB
+priced_and_offer	1
 NN_NN_NNS
 quality_video/audio_transfers	1
 CD_IN_NNP
 1_of_ST.	1
-NNS_IN_``
-entries_in_``	1
-volumes_of_``	1
 JJ_NN_CC
 back_cover_and	1
-NNP_NNP_CD
-War_DISC_THREE	1
+NNS_NN_.
+Generals_series_.	1
+NNP_VBZ_TO
+HOLLYWOOD_GOES_TO	2
+War_Goes_to	1
 NNP_NNP_CC
 Frank_Capra_and	1
 NNP_IN_NNP
@@ -21,6 +20,7 @@ NNP_NNP_POS
 MILL_CREEK_'s	1
 ST._CLAIR_'s	1
 JJ_NN_NNS
+sturdy_liner_notes	1
 plastic_storage_cases	1
 NNPS_:_VBG
 Pilots_:_Pushing	1
@@ -32,8 +32,6 @@ Discs_are_single-side	1
 VBZ_CD_NNS
 has_six_entries	1
 contains_seven_volumes	1
-CC_JJS_NNS
-and_most_DVDs	1
 VBZ_CD_JJ
 contains_20_vintage	1
 NNS_VBP_RB
@@ -62,10 +60,8 @@ NNP_NNPS_TO
 Young_Lions_To	1
 IN_NNP_PRP
 of_Tripoli_They	1
-``_DT_NNP
-``_The_Air	1
-NNP_PRP_VBD
-Tripoli_They_Were	1
+NNP_NNP_CD
+War_DISC_THREE	1
 CD_JJ_NNS
 20_vintage_documentaries	1
 NN_NN_DT
@@ -98,23 +94,22 @@ GENERALS_SERIES_The	1
 Joseph_Stilwell_Douglas	1
 DT_NNP_IN
 the_Shores_of	1
-,_NN_NNS
-,_liner_notes	1
 JJS_NNS_VBP
 most_DVDs_include	1
+NNS_IN_DT
+volumes_of_The	1
+entries_in_The	1
+JJ_JJ_JJ
+single-side_recorded_plastic	1
 NN_NN_VBZ
 WAR_</a>_contains	1
 box_set_contains	1
+NNP_NN_.
+Objective_Burma_!	1
 NNP_NNP_VBZ
 <a href="http://www.amazon.com/gp/product/B000NY1EA8">_HOLLYWOOD_GOES	1
-JJ_NNS_''
-Great_Generals_''	1
 POS_JJ_NN
 's_back_cover	1
-RB_VBN_,
-reasonably_priced_,	1
-,_NN_.
-,_Burma_!	1
 NNP_NNP_NNS
 Combat_America_Voices	1
 VBP_NN_NNS
@@ -123,20 +118,14 @@ NN_DT_NNS
 Escape_The_Guns	1
 NN_NN_CD
 Envelope_DISC_TWO	1
-RB_JJ_,
-fairly_sturdy_,	1
 NNP_NNP_:
 Marshall_BONUS_:	1
 NNP_NNP_NN
+Heroes_Objective_Burma	1
 COMBAT_AMERICA_box	1
 River_Kwai_Command	1
 VBD_JJ_NN
 Were_Expendable_Operation	1
-IN_``_DT
-in_``_The	1
-of_``_The	1
-NNP_NNP_,
-Heroes_Objective_,	1
 NNP_NNP_.
 Force_Story_.	1
 Boats_Attack_!	1
@@ -154,8 +143,6 @@ and_Hell_The	1
 :_Pushing_the	1
 NNS_IN_FW
 Guns_of_Navarone	1
-NNP_,_NN
-Objective_,_Burma	1
 NN_NNP_:
 WAR_BONUS_:	1
 NNPS_TO_DT
@@ -170,20 +157,15 @@ NNS_VBP_IN
 notes_appear_on	1
 TO_NN_NNP
 TO_WAR_BONUS	1
-VBN_,_CC
-priced_,_and	1
 JJ_JJ_NN
+recorded_plastic_storage	1
 unrestored_public_domain	1
 NNS_NNS_IN
 features_documentaries_by	1
 NN_NNS_CD
 STORY_Volumes_1	1
-,_CC_VB
-,_and_offer	1
 VBP_IN_NN
 appear_on_box	1
-JJ_JJ_,
-single-side_recorded_,	1
 IN_JJ_JJ
 of_unrestored_public	1
 NN_NNS_RB
@@ -198,15 +180,16 @@ NNS_VBP_NN
 DVDs_include_bonus	1
 DT_NNP_VB
 THE_AIR_FORCE	1
+RB_JJ_NN
+fairly_sturdy_liner	1
 VBP_JJ_JJ
 are_single-side_recorded	1
 PRP_VBD_JJ
 They_Were_Expendable	1
 FW_FW_NN
 ST._CLAIR_DVD	1
-''_NN_.
-''_series_.	1
 IN_DT_NNP
+of_The_Air	1
 on_the_River	1
 of_a_Sergeant	1
 NNP_NNP_NNPS
@@ -230,13 +213,15 @@ VBZ_TO_NN
 GOES_TO_WAR	2
 CC_NNS_.
 and_others_.	1
-NNP_._''
-Story_._''	1
+RB_VBN_CC
+reasonably_priced_and	1
+CC_JJS_NNS
+and_most_DVDs	1
 NNS_IN_NNP
 Voices_of_War	1
 documentaries_by_Frank	1
-,_JJ_NN
-,_plastic_storage	1
+NNP_PRP_VBD
+Tripoli_They_Were	1
 NN_VBZ_CD
 set_contains_seven	1
 </a>_contains_20	1
@@ -244,8 +229,6 @@ IN_NNP_CC
 Between_Heaven_and	1
 TO_NN_NN
 TO_WAR_</a>	1
-JJ_,_NN
-sturdy_,_liner	1
 NN_CD_:
 DISC_ONE_-	1
 DISC_TWO_-	1
@@ -263,6 +246,8 @@ Kwai_Command_Decision	1
 AMERICA_box_set	1
 FW_NN_NNS
 CLAIR_DVD_multi-packs	1
+IN_DT_JJ
+in_The_Great	1
 NNP_NNPS_:
 Test_Pilots_:	1
 The_Generals_:	1
@@ -272,10 +257,10 @@ NN_CC_JJS
 cover_and_most	1
 IN_FW_NNP
 of_Navarone_Hell	1
-:_DT_JJ
--_THE_GREAT	1
-NNS_CD_:
-Volumes_1_-	1
+NN_NNS_IN
+video/audio_transfers_of	1
+JJ_NNS_NN
+Great_Generals_series	1
 CD_:_CD
 1_-_7	1
 #_CD_IN
@@ -290,8 +275,6 @@ NNP_VB_NN
 AIR_FORCE_STORY	1
 JJ_NNP_NNP
 GREAT_GENERALS_SERIES	1
-NNS_''_NN
-Generals_''_series	1
 NNP_NNS_IN
 America_Voices_of	1
 NNS_RB_JJ
@@ -312,24 +295,22 @@ transfers_of_unrestored	1
 -_7_BONUS	1
 VB_NN_NNS
 FORCE_STORY_Volumes	1
-JJ_,_JJ
-recorded_,_plastic	1
 NNP_IN_DT
 Bridge_on_the	1
 Diary_of_a	1
-``_DT_JJ
-``_The_Great	1
 :_DT_NNP
 -_THE_AIR	1
 NNS_NNS_RB
 Movies_trailers_Away	1
+:_DT_JJ
+-_THE_GREAT	1
 CD_:_DT
 ONE_-_THE	1
 TWO_-_THE	1
 VBG_DT_NN
 Pushing_the_Envelope	1
-NN_NNS_IN
-video/audio_transfers_of	1
+NNS_CD_:
+Volumes_1_-	1
 IN_NNP_NNP
 for_Heroes_Objective	1
 of_ST._CLAIR	1

@@ -1,6 +1,3 @@
-:_CD
--_1	4
--_10	1
 IN_NN
 of_<a href="http://www.amazon.com/gp/product/B002DHACSS">	1
 as_part	1
@@ -21,12 +18,9 @@ of_Darkness	1
 in_B-grade	1
 of_time	1
 from_director	1
-,_IN
-,_at	1
-,_if	1
-,_since	1
-,_from	1
-,_as	2
+VBN_VBN
+been_done	1
+been_called	1
 PRP_RB
 I_just	1
 I_still	1
@@ -38,22 +32,26 @@ I_especially	1
 EX_TO
 there_to	1
 NNS_WP
+cops_who	1
 actors_who	1
-NNP_VB
-Christensen_look	1
-Cage_look	1
-VB_CC
-ve_and	1
-``_JJ
-``_prime	1
-`_Prime	3
-VBN_VBN
-been_done	1
-been_called	1
+NNP_WDT
+Beckwith_that	1
+RP_DT
+off_a	1
+up_a	1
+VB_WP
+stand_what	1
+DT_RB
+a_pretty	1
 NNP_IN
 Prince_of	1
 Satan_by	2
+Beckwith_as	1
 Gielgud_in	1
+NNS_RB
+followers_sadly	1
+VBG_CC
+investigating_and	1
 CC_JJ
 and_bad	1
 and_utter	1
@@ -64,8 +62,6 @@ or_exciting	1
 VBG_CD
 wasting_80	1
 being_one	1
-DT_``
-this_``	2
 MD_RB
 ca_n't	1
 wo_n't	1
@@ -73,6 +69,7 @@ can_actually	1
 can_not	1
 NN_WDT
 group_that	1
+film_which	1
 VB_DT
 enjoy_the	1
 have_the	1
@@ -103,14 +100,6 @@ RB_.
 almost_.	1
 barely_.	1
 n't_.	1
-IN_``
-from_``	1
-as_``	2
-of_`	2
-,_PRP
-,_it	1
-,_I	4
-,_you	3
 PDT_DT
 all_this	1
 all_the	3
@@ -132,8 +121,6 @@ all_of	1
 this_up	1
 those_in	1
 Some_of	1
-JJ_RB
-exciting_here	1
 PRP_IN
 me_out	1
 it_in	1
@@ -144,31 +131,23 @@ and_apparently	1
 and_necessarily	1
 VBG_.
 thinking_.	2
-VBN_,
-given_,	1
-twisted_,	1
 IN_JJS
 at_least	2
 JJ_CC
 scary_or	1
+tense_and	1
 complete_and	1
-TO_NN
-to_hell	1
 WRB_PRP
 how_she	1
 when_she	1
 when_you	2
-CD_,
-one_,	1
-10_,	1
-VB_WRB
-have_when	1
 CD_.
 1980s_.	1
 JJS_DT
 least_some	1
-''_:
-''_-	1
+JJ_RB
+exciting_here	1
+cheesy_absolutely	1
 PRP$_JJ
 your_typical	1
 my_Pentecostal	1
@@ -180,6 +159,10 @@ that_can	1
 that_may	1
 CD_:
 1_-	1
+PRP_PRP
+me_you	1
+RB_CC
+else_and	1
 IN_PRP
 as_I	1
 of_me	1
@@ -194,26 +177,23 @@ about_it	2
 like_I	1
 as_it	1
 since_it	1
-WP_RB
-who_actually	1
-''_,
-'_,	1
+VBN_CC
+given_but	1
+twisted_and	1
+PRP_VBG
+himself_looking	1
 VBZ_PDT
 makes_all	1
 NNS_WDT
 extras_that	1
-,_NN
-,_fart	1
-,_Skin	1
-,_Cult	1
-IN_.
-up_.	1
+VBN_DT
+called_the	1
 DT_FW
 The_Gorehouse	1
 WP_VBP
 who_are	1
-CC_VBP
-and_have	1
+TO_NN
+to_hell	1
 PRP_VBD
 I_spent	1
 It_appeared	1
@@ -241,9 +221,6 @@ VBN_RB
 run_afoul	1
 edited_not	1
 piced_together	1
-RP_DT
-off_a	1
-up_a	1
 NNP_NN
 York_parish	1
 Barney_video	1
@@ -257,8 +234,6 @@ is_still	2
 is_only	1
 's_almost	1
 is_actually	1
-MD_PRP
-Will_she	1
 DT_NN
 this_topic	1
 the_expense	1
@@ -291,6 +266,7 @@ a_look	1
 the_plot	1
 The_acting	1
 this_movie	1
+this_fright	1
 a_sheet	1
 the_like.Also	1
 the_cast	2
@@ -330,11 +306,8 @@ that_'s	2
 This_is	1
 RB_PRP$
 really_my	1
-``_NNP
-``_Father	1
-``_Cut	1
-``_RHINO	1
-`_Prime	1
+VBG_RB
+looking_absolutely	1
 PRP_VBP
 I_do	1
 you_'ve	1
@@ -352,18 +325,15 @@ they_do	1
 I_like	1
 I_mention	1
 I_'ve	2
-RB_,
-Still_,	1
-Sometimes_,	1
-else_,	1
-ironically_,	1
-n't_,	1
-well_,	1
+CD_NNP
+one_William	1
 RB_DT
+quite_a	1
+Also_a	1
 still_a	2
 sadly_this	1
-Also_a	1
-quite_a	1
+else_the	1
+Still_a	1
 apparently_no	1
 DT_VBN
 those_born	1
@@ -382,58 +352,48 @@ It_'s	1
 it_is	1
 it_does	1
 it_'s	3
-NNP_''
-Father_''	1
-RHINO_''	1
+:_CD
+-_1	4
+-_10	1
 PRP_PDT
 it_all	1
 NNP_CC
-Seton_and	1
+NYC_but	1
 Burton_and	1
-Reeves_and	1
+Parkman_but	1
 Gibson_and	1
+Reeves_and	1
+RHINO_and	1
+Seton_and	1
 DT_PRP
 all_I	1
 TO_RB
 to_somehow	1
-IN_,
-up_,	1
-through_,	1
+PRP_:
+her_-	1
 RBR_IN
 faster_than	1
 RB_IN
 especially_like	1
 just_for	1
 far_as	1
+n't_at	1
 here_except	1
 especially_since	1
 afoul_of	1
-VB_NN
-want_anyone	1
-have_nudity	1
-have_charisma	1
-mean_nothing	1
-stand_scawy	1
 VBG_IN
 resulting_in	1
 interfering_with	1
-,_RB
-,_absolutely	1
-,_sadly	1
-,_almost	1
-,_ironically	1
-,_then	2
-,_best	1
-RB_CC
-else_and	1
-PRP_VBG
-himself_looking	1
+VBP_PRP
+suppose_it	1
 DT_CD
 the_1980s	1
 this_one	1
 the_83	1
 the_two	1
 every_thirteen	1
+DT_CC
+this_but	1
 CC_PRP
 but_they	1
 and_you	1
@@ -468,10 +428,6 @@ PRP_.
 him_.	1
 it_.	2
 me_.	1
-PRP_,
-me_,	1
-myself_,	1
-it_,	1
 IN_PRP$
 of_your	2
 into_their	1
@@ -483,26 +439,13 @@ of_his	1
 by_her	1
 in_my	1
 in_their	1
-,_WP
-,_who	1
-,_what	1
-IN_JJ
-with_little	1
-like_bad	1
-of_naive	1
-into_serious	1
-than_leaden	1
-of_bad	3
-In_low-budget	1
-as_such	1
-NNP_,
-Church_,	1
-Seton_,	1
-Parkman_,	1
-Findlay_,	2
-NYC_,	1
-Beckwith_,	2
-Alexa_,	1
+PRP_VB
+she_be	1
+NN_NNP
+husband_Michael	1
+mood_Prime	1
+director_Roberta	1
+role_William	1
 CD_JJ
 3_differant	1
 One_last	1
@@ -563,20 +506,15 @@ playing_computer	1
 RB_CD
 actually_one	1
 only_one	1
+JJ_PRP
+ridiculous_I	1
+realistic_I	1
+such_I	1
 NNP_:
 Disclaimer_:	1
-VBZ_RP
-takes_off	1
-JJ_,
-realistic_,	1
-superb_,	1
-cheesy_,	1
-frightening_,	1
-such_,	1
-good_,	1
-leaden_,	1
-tense_,	1
-ridiculous_,	1
+NNP_VB
+Christensen_look	1
+Cage_look	1
 RB_VBP
 actually_make	1
 just_want	1
@@ -621,16 +559,8 @@ twists_.	1
 plans_.	1
 effects_.	1
 actors_.	1
-NNS_,
-scripts_,	1
-members_,	1
-movies_,	1
-cops_,	1
-followers_,	1
-,_VBP
-,_have	1
-''_CC
-''_and	1
+WDT_RB
+which_ironically	1
 TO_DT
 to_the	3
 CC_IN
@@ -643,14 +573,10 @@ positive_:	3
 VBP_JJ
 are_unable	1
 'm_unable	1
-,_VBZ
-,_plays	1
-,_revolves	1
-,_is	2
+MD_PRP
+Will_she	1
 RP_PRP$
 off_her	1
-DT_RB
-a_pretty	1
 RB_NN
 just_anybody	1
 NNS_TO
@@ -700,11 +626,11 @@ of_all	1
 For_all	1
 NNP_RB
 Beckwith_actually	1
+Findlay_best	1
 VB_NNS
 become_positives	1
-,_CC
-,_and	12
-,_but	9
+VB_VBG
+try_being	1
 DT_JJS
 the_lamest	1
 VB_NNP
@@ -719,17 +645,13 @@ B-grade_flicks	1
 cult_members	1
 dozen_people	1
 Cult_cults	1
+storyline_lots	1
 occult_movies	1
 fight_scenes	1
 JJR_NNS
 better_films	1
-NN_NNP
-husband_Michael	1
-director_Roberta	1
-''_RB
-'_positively	1
-:_``
-:_`	1
+NNS_EX
+members_there	1
 WP_MD
 who_ca	1
 NN_WP
@@ -756,23 +678,25 @@ I_might	1
 she_could	1
 I_'ll	1
 I_can	3
-MD_,
-would_,	1
+VBG_NNP
+thinking_Prime	1
 NN_PRP
 movie.Thinking_it	1
+Evil_I	1
+daemon_it	1
 crack_I	1
 equipment_she	1
 like.Also_it	1
 time_I	2
 cast_she	1
+filmmaking_you	1
 VB_PRP$
 become_my	1
 like_their	1
 WRB_NNP
 where_Ms.	1
-TO_NNP
-to_Father	1
-to_Satan	1
+IN_RB
+that_not	1
 VBD_JJ
 were_able	2
 had_potential	1
@@ -787,10 +711,12 @@ things_can	1
 JJ_DT
 relative_every	1
 worth_a	1
+superb_the	1
 VBG_TO
 going_to	1
-VBP_PRP
-suppose_it	1
+:_JJ
+-_entertaining	1
+:_Prime	1
 CC_DT
 and_that	1
 but_that	1
@@ -808,11 +734,6 @@ might_add	1
 'll_round	1
 VBD_WP
 did_what	1
-VBZ_,
-goes_,	1
-is_,	1
-PRP_:
-her_-	1
 NNS_IN
 films_from	1
 scipts_of	1
@@ -842,10 +763,6 @@ of_1	1
 VBG_DT
 sacrificing_a	1
 watching_this	2
-VBN_``
-called_``	1
-NNS_VBG
-minutes_watching	1
 CC_NN
 and_husband	1
 but_occult	1
@@ -858,24 +775,23 @@ squirm_in	1
 think_that	1
 gore_at	1
 are_into	1
-,_DT
-,_a	2
-,_the	4
+IN_CC
+through_but	1
 VBP_VBN
 've_got	1
 have_been	1
 've_made	1
 NNP_VBZ
 Alex_is	1
+Seton_plays	1
 Evil_stands	1
 Thomas_takes	1
 Moore_is	1
 CD_VBZ
 one_is	1
-VB_,
-act_,	1
-say_,	1
-stand_,	1
+NNS_VBD
+villains_were	1
+neighbors_noticed	1
 POS_VBZ
 '_has	1
 VB_.
@@ -884,8 +800,8 @@ CD_PRP
 1_I	1
 VBN_.
 seen_.	1
-RB_VBD
-just_finished	1
+IN_.
+up_.	1
 JJS_PRP$
 least_my	1
 JJ_TO
@@ -901,11 +817,12 @@ VBN_NNP
 got_Prime	1
 EX_VBZ
 there_is	1
-VBG_RB
-looking_absolutely	1
+NNS_VBG
+minutes_watching	1
 TO_JJ
 to_naked	1
 NNS_JJ
+scripts_bad	1
 movies_such	1
 VBP_DT
 are_the	1
@@ -915,12 +832,14 @@ have_some	1
 expect_a	1
 have_a	1
 MD_IN
+would_as	1
 could_with	1
 :_CC
 -_but	1
 -_and	1
-CC_``
-but_`	1
+VB_CC
+ve_and	1
+act_but	1
 VBG_WP
 considering_what	1
 NN_NN
@@ -929,6 +848,7 @@ computer_solitaire	1
 cotton_candy	1
 DUM_MUD	1
 Collection_</a>	1
+crap_fart	1
 fart_breath	1
 horror_film	2
 movie_lover	1
@@ -936,6 +856,7 @@ shot_nothing	1
 directing_start	1
 candy_mohawk	1
 MUD_DUM	1
+ad-infinity_Cult	1
 lover_gene	1
 scawy_stuff	1
 flame_talk	1
@@ -946,20 +867,14 @@ solitaire_look	1
 film_quality	1
 Darkness_footage	1
 DVD_cover	1
+fright_flick	1
 entertainment_value	1
 CC_VB
 and_pick	1
-,_WDT
-,_which	1
-,_that	1
-:_JJ
--_entertaining	1
-NN_VBD
-acting_was	1
-copy_did	1
-movie_was	1
-movie.I_drank	1
-plot_was	1
+POS_JJ
+'s_800-year-old	1
+CC_VBP
+and_have	1
 VBP_VBG
 're_thinking	1
 waste_playing	1
@@ -976,7 +891,9 @@ like_Richard	1
 by_Satan	1
 of_Mel	1
 of_Satan	1
-as_Father	1
+as_Cut	1
+as_Father	2
+from_RHINO	1
 on_Earth	1
 of_NYC	1
 from_Satan	1
@@ -984,16 +901,8 @@ DT_NNP
 the_Catholic	1
 the_Prince	1
 a_Barney	1
-''_IN
-''_before	1
-,_JJ
-,_such	1
-,_bad	1
-,_cheap	1
-,_tense	1
-,_wooden	1
-,_EX
-,_there	1
+VB_WRB
+have_when	1
 DT_JJ
 some_positive	1
 a_bad	1
@@ -1017,6 +926,7 @@ this_individual	1
 another_positive	1
 an_undercover	1
 some_clever	1
+this_prime	1
 The_only	1
 the_former	1
 a_little	1
@@ -1050,9 +960,10 @@ scared_the	1
 JJS_NNS
 lowest_expectations	1
 NN_:
-footage_-	1
-Credibility_-	1
 Acting_-	1
+Credibility_-	1
+footage_-	1
+breath_-	1
 Horror_-	1
 time_-	1
 grandfather_-	1
@@ -1060,6 +971,7 @@ CC_WP
 but_what	1
 NNS_CC
 sets_and	1
+movies_but	1
 beers_and	1
 VBZ_VB
 does_have	1
@@ -1069,32 +981,16 @@ VBD_VBG
 finished_wasting	1
 was_going	1
 spent_watching	1
-NN_,
-role_,	1
-seat_,	1
-ceremony_,	1
-end_,	1
-storyline_,	1
-acting_,	1
-charisma_,	1
-daemon_,	1
-budget_,	1
-granddaughter_,	1
-filmmaking_,	1
-horror_,	1
-crap_,	1
-film_,	2
-stuff_,	1
-mood_,	1
-director_,	1
-dialogue_,	1
-lady_,	1
-ad-infinity_,	1
-plot_,	1
-upbringing_,	1
-</a>_,	1
-``_NN
-``_fright	1
+IN_JJ
+with_little	1
+like_bad	1
+of_naive	1
+into_serious	1
+of_Prime	2
+than_leaden	1
+of_bad	3
+In_low-budget	1
+as_such	1
 NN_.
 thing_.	1
 start_.	1
@@ -1117,9 +1013,6 @@ package_.	1
 film_.	1
 time_.	2
 none_.	1
-NNS_VBD
-villains_were	1
-neighbors_noticed	1
 NN_IN
 leader_of	1
 world_of	1
@@ -1139,6 +1032,7 @@ bejezus_out	1
 way_out	1
 parish_of	1
 rest_of	2
+COVER_of	1
 cast_of	1
 room_with	1
 victim_for	1
@@ -1149,8 +1043,9 @@ minister_on	1
 movie_about	1
 film_as	1
 preponderance_of	1
-COVER_of	1
+sexploitation_before	1
 skill_at	1
+granddaughter_from	1
 form_of	1
 movie_with	2
 cameo_by	1
@@ -1177,10 +1072,6 @@ woman_out	1
 -_if	1
 NNP_VBP
 Findlay_have	1
-''_VB
-'_make	1
-,_VBD
-,_did	1
 WDT_VBZ
 that_purchases	1
 :_PRP
@@ -1197,15 +1088,24 @@ NNS_PRP
 effects_I	1
 thrusts_me	1
 NN_CC
-satanism_and	1
+charisma_and	1
+dialogue_and	1
+film_and	1
 nun_and	1
+satanism_and	1
+lady_and	1
 mohawk_and	1
+acting_and	1
 cloth_and	1
+</a>_and	1
 blood_and	1
 screen_and	1
 quality_or	1
 power_and	1
+upbringing_but	1
+end_and	1
 material_and	1
+ceremony_and	1
 VBP_CC
 suck_and	1
 VB_JJ
@@ -1238,30 +1138,33 @@ make_Hayden	1
 CC_WRB
 and_how	1
 and_when	1
-VBG_NNP
-thinking_Prime	1
+NN_VBD
+copy_did	1
+movie_was	1
+movie.I_drank	1
+plot_was	1
+acting_was	1
+director_did	1
 WP_PRP
 what_I	1
 what_she	1
 NN_VBZ
-story_goes	1
 nun_takes	1
+story_goes	1
+thing_is	1
 movie_has	2
 dvd_is	1
 bad-guy_carries	1
+seat_is	1
 art_is	1
 topic_has	1
 review_is	1
 movie_makes	1
 film_is	1
-thing_is	1
+evil_does	1
 movie_is	1
 RB_:
 else_-	1
-''_VBZ
-''_does	1
-''_NN
-''_flick	1
 VBP_VB
 go_get	1
 do_mean	1
@@ -1269,6 +1172,7 @@ do_have	1
 RB_RB
 not_so	1
 quite_possibly	1
+well_almost	1
 just_barely	1
 Now_maybe	1
 not_really	1
@@ -1277,6 +1181,8 @@ So_unfortanately	1
 not_just	1
 PRP_CC
 it_but	1
+myself_but	1
+it_and	1
 she_and	1
 VBD_IN
 felt_like	1
@@ -1285,11 +1191,8 @@ other_82 1/2	1
 poor_one	1
 RB_PRP
 maybe_you	1
+Sometimes_you	1
 unfortanately_I	1
-,_NNS
-,_lots	1
-``_DT
-``_the	1
 NNP_POS
 Evil_'	1
 Satan_'s	1
@@ -1297,23 +1200,33 @@ DT_JJR
 the_better	1
 the_worse	1
 NN_RB
+look_just	1
 Everyone_else	1
+Evil_positively	1
+horror_then	1
+stuff_then	1
 actor_well	1
 nothing_else	2
-look_just	1
-WDT_,
-which_,	1
 JJ_IN
-talented_as	1
-OK_as	1
-worthwhile_in	1
-rid_of	1
 concerned_with	1
-sexy_in	1
+talented_as	1
+good_if	1
 potential_since	1
+rid_of	1
+OK_as	1
+sexy_in	1
+worthwhile_in	1
 such_as	2
-DT_,
-this_,	1
+VBZ_RP
+takes_off	1
+VB_NN
+want_anyone	1
+have_nudity	1
+have_charisma	1
+mean_nothing	1
+stand_scawy	1
+NN_VB
+Evil_make	1
 DT_.
 this_.	1
 VBG_JJ
@@ -1324,6 +1237,8 @@ for_there	1
 NN_JJ
 hardcore_pornographic	1
 look_worthwhile	1
+plot_such	1
+budget_cheap	1
 nothing_sexy	1
 blood_relative	1
 bit_phallic	1
@@ -1338,16 +1253,19 @@ has_some	1
 plays_the	1
 's_an	1
 CD_NN
-1_Horror	1
 1_Acting	1
+10_Skin	1
 1_Credibility	1
+1_Horror	1
 one_scene	1
 one_member	1
+VBZ_NNP
+goes_Alex	1
 NNP_NNP
 Alexandra_Parkman	1
 Michael_Findlay	1
 Catholic_Church	1
-Father_Thomas	1
+Father_Thomas	2
 Nicolas_Cage	1
 William_Beckwith	3
 Father_Seton	2
@@ -1364,10 +1282,11 @@ Roberta_Findlay	2
 New_York	1
 Mel_Gibson	1
 RB_VBZ
-Here_'s	2
-actually_turns	1
 positively_proves	1
+ironically_is	1
 slowly_falls	1
+actually_turns	1
+Here_'s	2
 even_throws	1
 :_RB
 -_especially	1
@@ -1392,10 +1311,9 @@ VB_PRP
 say_I	1
 watch_it	1
 IN_IN
+up_since	1
 out_of	4
 along_with	1
-IN_RB
-that_not	1
 VBZ_VBN
 has_been	1
 is_edited	1
@@ -1403,6 +1321,7 @@ is_fated	1
 VBZ_PRP$
 's_my	1
 VB_VBP
+say_have	1
 direct_are	1
 JJR_.
 worse_.	1
@@ -1412,12 +1331,11 @@ tried_to	1
 had_to	1
 NNP_VBD
 Findlay_got	1
-NN_''
-fright_''	1
-evil_''	1
-Evil_'	3
-sexploitation_''	1
-breath_''	1
+TO_NNP
+to_Father	1
+to_Satan	1
+VBZ_VBZ
+is_revolves	1
 TO_NNS
 to_lovers	1
 RB_VBG
@@ -1425,9 +1343,12 @@ still_thinking	1
 together_resulting	1
 Still_thinking	1
 NNP_DT
+Findlay_the	1
 Cut_the	1
-''_NNP
-''_Thomas	1
+Alexa_the	1
+Church_a	1
+RB_VBD
+just_finished	1
 JJS_NN
 lamest_fight	1
 RP_IN
@@ -1435,38 +1356,31 @@ up_on	1
 VBZ_PRP
 throws_it	1
 makes_me	1
-VB_VBG
-try_being	1
+WP_RB
+who_actually	1
 VBN_TO
 given_to	1
 fated_to	1
 relegated_to	1
-VBG_,
-investigating_,	1
-PRP_VB
-she_be	1
-,_NNP
-,_Prime	1
-,_Alex	1
-,_William	2
 CC_NNP
 and_John	1
 and_Nicolas	1
+but_Prime	1
 and_Tom	1
 CC_NNS
 or_extras	1
 NN_RBR
 film_faster	1
 JJ_JJ
+frightening_tense	1
 average_adult	1
 next_sacrificial	1
 800-year-old_prime	1
 such_sparkling	1
 only_erotic	1
+leaden_wooden	1
 last_positive	1
 naked_female	1
-POS_JJ
-'s_800-year-old	1
 VBD_NN
 had_none	1
 VB_RP

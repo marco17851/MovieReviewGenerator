@@ -8,17 +8,11 @@ lower_the	1
 IN_VBG
 at_wresting	1
 Without_giving	1
-,_PRP
-,_it	2
-,_I	1
-,_you	1
 DT_IN
 this_from	1
 that_because	1
 CC_RB
 and_even	1
-VBG_,
-wresting_,	1
 IN_PRP
 of_it	1
 if_you	1
@@ -66,13 +60,6 @@ PRP_.
 it_?	1
 IN_PRP$
 of_your	1
-NN_,
-match_,	1
-chance_,	1
-bit_,	1
-end_,	1
-fact_,	1
-story_,	1
 IN_IN
 because_of	1
 PRP$_NN
@@ -86,6 +73,7 @@ VBD_RB
 was_n't	1
 NN_DT
 acting_a	1
+fact_a	1
 PDT_DT
 all_that	1
 VBN_IN
@@ -95,8 +83,6 @@ scores_.	1
 effects_.	1
 actors_.	1
 parts_.	1
-NNS_,
-athletics_,	1
 CC_IN
 and_if	1
 RB_NN
@@ -105,14 +91,14 @@ JJ_NNS
 big-name_actors	1
 special_effects	1
 musical_scores	1
-VBZ_IN
-is_that	1
+JJ_JJ
+new_musical	1
+flashy_special	1
+hyper-modern_new	1
 JJR_IN
 deeper_into	1
 IN_PDT
 of_all	1
-,_CC
-,_and	2
 NN_NNS
 wrestling_heroes	1
 RB_DT
@@ -123,6 +109,11 @@ DT_NNPS
 the_Olympics	1
 CC_NN
 and_life	1
+NN_PRP
+story_it	1
+end_I	1
+chance_you	1
+bit_it	1
 :_DT
 :_this	1
 JJ_DT
@@ -141,8 +132,6 @@ of_two	1
 PRP_MD
 you_'ll	2
 I_can	1
-,_DT
-,_a	1
 NNS_VBG
 men_making	1
 VB_.
@@ -178,13 +167,13 @@ No_hyper-modern	1
 no_flashy	1
 PRP_NN
 it_chance	1
-JJ_JJ
-new_musical	1
-flashy_special	1
-hyper-modern_new	1
+VBZ_IN
+is_that	1
 NN_:
 start_:	1
 wrestling_--	1
+NNS_CC
+athletics_and	1
 VBZ_VB
 does_lower	1
 IN_JJ
@@ -206,6 +195,7 @@ seat_during	1
 NNS_IN
 struggles_of	1
 NN_CC
+match_and	1
 determination_and	1
 TO_VB
 to_be	1
@@ -214,10 +204,10 @@ NN_JJR
 wrestler_deeper	1
 NN_VBZ
 movie_is	1
+VBG_NNS
+wresting_athletics	1
 RB_RB
 n't_necessarily	1
-,_NNS
-,_athletics	1
 NNP_POS
 Let_'s	1
 PRP_RB

@@ -5,8 +5,10 @@ IN	1
 VBD
 PRP	1
 JJR	1
-``
-''
+VBN
+VBZ	1
+RB	1
+IN	1
 VBP
 VBG	1
 RB	1
@@ -63,9 +65,9 @@ IN	2
 VBG	1
 .	1
 NNP
-''	1
-DT	1
 :	1
+DT	1
+.	1
 NNP	3
 VB
 PRP$	1
@@ -80,10 +82,8 @@ TO	1
 CC
 DT	1
 RBR
-VBN
-VBZ	1
-RB	1
-IN	1
+CD
+NN	1
 IN
 WRB	2
 CD	1
@@ -92,8 +92,6 @@ WP	1
 DT	10
 NNS	1
 NNP	1
-CD
-NN	1
 MD
 VB	1
 RB	2

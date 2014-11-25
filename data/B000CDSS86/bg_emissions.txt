@@ -5,9 +5,10 @@ Of_course	1
 that_kind	1
 of_stuff	1
 on_TV	1
+with_barbie	1
 for_anyone	1
 in_school	3
-with_barbie	1
+over_playing	1
 of_hair	1
 as_enertaining	1
 for_purchase	2
@@ -43,9 +44,6 @@ enough_to	1
 just_to	1
 UH_JJ
 Oh_yeah	1
-IN_``
-with_``	1
-of_``	1
 VBP_.
 go_.	1
 VBP_CD
@@ -54,11 +52,6 @@ have_three	1
 VBN_.
 bought_.	1
 lost_.	1
-VBN_,
-confiscated_,	1
-written_,	1
-realized_,	1
-come_,	1
 VB_JJR
 be_better	1
 relate_more	1
@@ -91,13 +84,12 @@ who_is	1
 who_tries	1
 what_'s	1
 NNP_CC
-Gate_or	1
 Raquelle_and	1
 Kevin_&	1
+Gate_or	1
+Phantom_and	1
 Barbie_and	1
 Pink_and	1
-DT_PRP
-no_one	1
 RP_VBZ
 up_is	1
 RP_VBG
@@ -127,20 +119,11 @@ in_my	3
 with_her	2
 over_her	1
 on_her	1
-``_VBG
-``_believing	1
 NN_VB
 mom_want	1
 everyone_hate	1
 dont_take	1
 barbie_want	1
-``_VBD
-``_did	1
-``_NN
-``_charm	1
-`_number	1
-``_playing	1
-``_girl	2
 PRP$_NN
 her_guitar	1
 your_coat	1
@@ -172,13 +155,14 @@ say_that	1
 want_in	1
 order_from	1
 think_that	1
+see_that	1
 wait_for	1
 be_in	1
 happen_in	1
 JJ_PRP
 much_he	1
-,_''
-,_''	1
+funny_it	1
+funny_I	1
 VBD_RB
 did_really	1
 did_n't	3
@@ -198,13 +182,12 @@ were_only	1
 NN_DT
 course_some	1
 music_a	1
+line_the	1
 notebook_all	1
 something_a	1
 time_an	1
 style_all	1
 ALL_the	1
-PDT_DT
-all_the	3
 VBN_JJR
 made_better	1
 WDT_RB
@@ -245,18 +228,14 @@ i_know	1
 dont_give	1
 NNS_NNS
 girls_ages	1
-CC_IN
-But_if	1
-and_down	1
-and_in	1
-but_in	1
-but_that	1
-&_for	1
-and_over	1
-but_for	2
-and_though	1
-RP_''
-up_''	1
+RB_FW
+So_i	1
+VBP_TO
+relate_to	1
+appear_to	1
+have_to	1
+get_to	1
+need_to	1
 PRP$_NNS
 their_kids	1
 my_teenagers	1
@@ -278,11 +257,11 @@ for_once	1
 for_now	1
 until_now	1
 out_there	1
-VBN_DT
-watched_this	1
-been_a	1
-thought_this	1
-stated_The	1
+WDT_VBZ
+that_likes	1
+that_teaches	1
+that_highlights	1
+that_is	2
 VBG_TO
 Having_to	1
 starting_to	1
@@ -299,9 +278,12 @@ caue_it	1
 think_it	2
 suppose_it	1
 Do_we	1
+VBN_FW
+realized_etc.	1
 VB_:
 recommend_...	1
 CD_VBD
+9_bought	1
 7.5_was	1
 CC_NN
 or_mermaid	1
@@ -316,10 +298,6 @@ VBP_PRP$
 let_my	1
 CD_VBZ
 one_is	1
-VB_,
-act_,	1
-see_,	1
-like_,	1
 VB_.
 watch_.	1
 remember_.	1
@@ -328,9 +306,6 @@ buy_.	1
 own_.	1
 enjoy_.	1
 play_.	1
-NNS_TO
-boys_to	2
-ways_to	1
 JJ_TO
 next_to	1
 due_to	1
@@ -341,14 +316,12 @@ impossible_to	1
 lazy_to	1
 happy_to	1
 true_to	1
-WP_,
-what_,	1
+NNS_JJ
+years_old	1
 RP_CC
 out_and	1
 RP_CD
 away_one	1
-NNP_''
-Life_''	1
 VBP_NNPS
 collect_Barbies	1
 DT_NNS
@@ -439,24 +412,28 @@ was_the	2
 CC_WP
 or_what	1
 NNS_CC
-videos_and	1
-friends_and	2
-extras_but	1
 mistakes_and	1
+extras_but	1
+tweens_and	1
 examples_and	1
-wishes_and	1
-boys_and	1
+ups_or	1
+lessons_and	1
+movies_or	1
+comments_and	1
+friends_and	2
+ones_and	2
 movies_but	1
+nuts_and	1
+teenagers_and	1
+kids_but	1
+videos_and	1
+wishes_and	1
+boys_and	2
+movies_and	1
 husbands_and	1
 ups_and	1
 girls_or	1
-ups_or	1
-lessons_and	1
-tweens_and	1
-nuts_and	1
-teenagers_and	1
-comments_and	1
-ones_and	2
+kids_and	1
 NNS_CD
 girls_2	1
 ages_5	1
@@ -474,35 +451,44 @@ love_that	2
 're_in	1
 believe_in	1
 NN_CC
+audience_and	1
 condition_and	1
 teenager_and	1
 kiss_or	1
 guitar_and	1
 price_and	1
-enertaining_or	1
+boyfriend_and	1
+music_and	2
 playlist_and	1
-actress_or	1
+life_and	1
 4-year-old_and	1
 movie_and	4
-life_and	1
+play_and	2
 shape_or	1
 cheezy_and	1
-week_and	1
+gift_and	1
+teen_and	1
 soundtrack_and	1
 sophmore_or	1
-play_and	2
-teen_and	1
-girl_and	1
-storyline_and	1
-fairy_or	1
-music_and	1
-dork_or	1
-gift_and	1
-band_and	1
-beginning_and	1
+student_but	1
 fun_and	1
+school_but	1
+week_and	1
+boy_or	1
+girl_and	1
+storyline_and	3
+fairy_or	1
+daughter_and	1
+enertaining_or	1
+dork_or	1
+actress_or	1
+year_and	1
+band_and	1
+work_and	1
+beginning_and	1
 anything_and	1
-movie_but	1
+lawn_and	1
+movie_but	2
 bracelet_and	1
 school_and	1
 NN_CD
@@ -512,6 +498,8 @@ daughter_7.5	1
 type_80s	1
 movie_20	1
 movie_three	1
+JJ_FW
+cute_etc.	1
 DT_JJS
 the_best	3
 the_most	1
@@ -545,25 +533,31 @@ Barbie_videos	2
 Barbie_Movies	1
 Barbie_movies	11
 NNP_NNP
-Widescreen_Edition	1
-</a>_The	1
-Skye_Sweetnam	2
+Pegasus_Rapunzel	1
+Courtney_Kevin	1
 Paper_Clip	1
-Clip_Movie	1
-LOVE_LOVE	2
-<a href="http://www.amazon.com/gp/product/B003U0AAJ8">_The	1
-Danny_Phantom	1
-Skye_Sweetman	1
-My_Life	1
-Kevins_Paper	1
-Barbie_Mariposa	1
 Edition_</a>	1
 Fairy_Secret	1
-The_Barbie	1
-Fashion_Fairy	1
+Tia_Courtney	1
+Skye_Sweetnam	2
+<a href="http://www.amazon.com/gp/product/B003U0AAJ8">_The	1
+LOVE_LOVE	2
+Rapunzel_Mermaidia	1
+My_Life	1
+Clip_Movie	1
+Skye_Sweetman	1
 High_School	1
-Movie_Featurette	1
+Bratz_Danny	1
+Barbie_Mariposa	1
+</a>_The	1
+Fashion_Fairy	1
 Barbie_Princess	1
+Mermaidia_Fairytopia	1
+Danny_Phantom	1
+Widescreen_Edition	1
+Kevins_Paper	1
+The_Barbie	1
+Movie_Featurette	1
 :_RB
 :_not	1
 -_definitely	1
@@ -577,25 +571,15 @@ VBZ_JJR
 's_better	1
 RP_WRB
 out_when	1
-VB_TO
-relate_to	2
-want_to	1
-like_to	1
-give_to	1
-cater_to	1
-suppose_to	1
-wait_to	2
-love_to	1
-need_to	1
-try_to	1
-have_to	2
+DT_PRP
+all_I	1
+no_one	1
+all_it	1
 VBN_TO
 appealed_to	1
 meant_to	1
 VBP_FW
 LOVE_THIS	1
-PRP_VBG
-me_watching	1
 IN_DT
 that_an	1
 that_all	1
@@ -646,6 +630,7 @@ at_the	2
 that_the	3
 of_the	19
 like_that	1
+with_The	1
 than_the	1
 of_a	4
 CD_TO
@@ -656,14 +641,6 @@ JJR_RP
 better_off	1
 RB_WRB
 also_why	1
-RB_,
-However_,	1
-Honestly_,	1
-importantly_,	1
-enough_,	1
-though_,	1
-again_,	1
-well_,	1
 RB_.
 back_.	2
 early_.	1
@@ -681,9 +658,8 @@ hard_.	1
 JJS_RB
 best_yet	1
 best_deep	1
-CD_CC
-21_and	1
-15_and	1
+VBD_CC
+included_but	1
 VBD_CD
 turned_9	1
 arrived_two	1
@@ -696,6 +672,7 @@ and_eventually	1
 but_deffinitely	1
 and_then	1
 and_really	1
+But_once	1
 TO_.
 to_.	2
 WRB_PRP
@@ -722,6 +699,7 @@ her_favourite	1
 your_normal	1
 PRP_PRP
 it_I	1
+it_they	1
 yourself_I	1
 IN_PRP
 before_it	1
@@ -762,13 +740,8 @@ If_she	1
 because_I	2
 for_yourself	1
 that_we	1
-''_.
-''_.	4
-'_.	1
 NNS_VB
 parents_greet	1
-,_FW
-,_etc.	2
 VBG_WRB
 wondering_why	1
 PRP_VBD
@@ -810,8 +783,9 @@ It_reminded	1
 I_got	3
 I_liked	4
 they_watched	1
-WRB_LS
-When_i	2
+PRP_VBG
+yourself_being	1
+me_watching	1
 VB_LS
 know_i	1
 DT_VBP
@@ -833,6 +807,7 @@ a_head	1
 a_teen	1
 the_pocket	1
 the_boy	1
+the_girl	1
 the_barbie	1
 a_week	1
 A_teen	1
@@ -921,7 +896,7 @@ a_dork	1
 the_fantasy	1
 any_way	1
 this_world	1
-a_girl	2
+a_girl	3
 a_bit	2
 an_enemy	1
 any_influence	1
@@ -932,6 +907,8 @@ all_is	1
 that_'s	1
 This_is	4
 that_is	1
+WP_CC
+what_but	1
 DT_VBD
 this_were	1
 This_was	1
@@ -1006,8 +983,8 @@ she_loves	1
 FW_PRP
 :-RRB-_I	1
 !!!_They	1
-IN_,
-over_,	1
+PRP_:
+it_-	1
 IN_.
 down_.	1
 JJR_PRP$
@@ -1023,11 +1000,6 @@ yourself_.	1
 her_.	1
 it_.	7
 myself_.	1
-PRP_,
-yourself_,	1
-me_,	2
-them_,	1
-it_,	2
 CC_VBP
 but_think	1
 and_are	1
@@ -1057,26 +1029,13 @@ and_inspired	1
 and_made	1
 and_was	1
 and_bought	1
+and_did	1
 CC_VBG
 and_pretending	1
 and_seeing	1
 and_walking	1
 and_following	1
 and_ending	1
-JJ_,
-yeah_,	1
-original_,	1
-previous_,	1
-miserable_,	1
-funny_,	2
-shallow_,	1
-studious_,	1
-okay_,	1
-stereotypical_,	1
-cute_,	1
-sweet_,	1
-self-centered_,	1
-amazing_,	1
 JJ_.
 agreeable_.	1
 awesome_.	3
@@ -1087,6 +1046,7 @@ perfect_.	1
 other_.	1
 nice_.	1
 amazing_.	2
+normal_.	1
 okay_.	1
 wonderful_.	1
 good_.	2
@@ -1164,13 +1124,16 @@ princess_ones	1
 crush_movies	1
 life_lessons	1
 farie_ones	1
-JJR_``
-more_``	1
+NN_NNP
+jerky_Barbie	1
 NNPS_VBZ
 Diaries_has	1
-,_WRB
-,_why	1
-,_how	1
+CD_CD
+2_14	1
+CD_CC
+21_and	1
+14_and	1
+15_and	1
 IN_JJR
 for_older	2
 toward_older	1
@@ -1190,6 +1153,8 @@ better_storyline	1
 younger_crowd	1
 older_audience	3
 better_soundtrack	1
+RP_NNS
+up_ones	1
 PRP_MD
 I_would	3
 she_would	1
@@ -1231,8 +1196,6 @@ from_Barbies	1
 EX_VBZ
 There_is	3
 there_is	1
-CC_``
-and_``	1
 NN_NN
 age_range	1
 school_movie	1
@@ -1245,12 +1208,14 @@ part_nothing	1
 Scene_ROCK	1
 guy_friend	1
 kid_movie	1
-barbie_movie	1
+hug_comment	1
 dvd_movie	1
 pack_type	1
 movie_animation	1
 girl_hug	2
 school_work	1
+way_shape	1
+progression_afterall	1
 purchase_price	1
 target_audience	1
 girl_pop-rock	1
@@ -1259,11 +1224,15 @@ fantasy_play	1
 honor_student	1
 brat_pack	1
 pop-rock_music	1
+barbie_movie	1
 Mean_character	1
 charm_school	1
 buy_:-RRB-	1
+school_etc	1
+school_Fall	1
 hair_move	1
 story_line	5
+princess_actress	1
 charm_bracelet	1
 NNS_RB
 movies_especially	1
@@ -1275,12 +1244,6 @@ EX_VBD
 there_was	1
 JJS_.
 prettiest_.	1
-,_JJ
-,_great	1
-,_good	1
-,_fantasy-like	1
-,_shallow	1
-,_popular	1
 DT_JJ
 a_GREAT	1
 the_other	5
@@ -1292,8 +1255,9 @@ an_appropriate	1
 an_animated	1
 No_dark	1
 any_negative	1
-the_teenage	1
+all_great	1
 the_first	1
+the_teenage	1
 the_next	1
 a_nice	1
 the_main	1
@@ -1342,90 +1306,92 @@ the_high-school	1
 VBD_JJR
 was_more	1
 NN_IN
-end_for	1
-word_for	2
-crush_on	2
-line_with	1
-idea_in	1
+movie_so	1
+fantasy_of	1
 feature_of	1
 hate_that	1
-teen_like	1
-movie_with	1
-mother_of	2
 attention_with	1
-nuisance_of	1
-outlook_over	1
-Shame_on	1
-strand_as	1
-fantasy_of	1
-buy_for	1
-play_with	1
-strand_by	1
 benefit_of	1
-student_in	1
-presence_of	1
 comedy_for	1
 crowd_of	1
 smile_on	1
 doll_on	1
-drama_in	1
-guy_on	1
-fun_as	1
-advice_of	1
-mark_on	1
-remark_in	1
-video_over	1
-fun_for	1
 idea_of	1
+mark_on	1
+affection_in	1
 movie_over	1
-girl_in	1
 influence_on	1
+message_for	1
+pain_of	1
+movie_in	1
+movie_with	1
+end_of	1
+teen_like	1
+kind_of	2
+drama_in	1
+crush_on	2
+fun_for	1
+year_of	1
+line_from	1
+end_for	1
+movie_as	1
+line_with	1
+idea_in	1
+TV_before	1
+nuisance_of	1
+outlook_over	1
+excitement_at	1
+play_with	1
+playing_along	1
+guy_on	1
+advice_of	1
+remark_in	1
+movie_if	1
+strand_by	1
+conversation_with	1
+daughter_about	1
+bit_by	1
+fun_with	1
+realworld_with	1
+mother_of	2
+strand_of	1
+Shame_on	1
+student_in	1
+guy_in	2
 music_for	1
 audience_than	2
-part_of	1
-realworld_with	1
-model_for	1
-message_for	1
+video_for	1
+presence_of	1
 pocket_of	1
-comment_because	1
-affection_in	1
 lesson_on	1
-movie_in	1
-TV_before	1
-sort_of	1
-line_from	1
-end_of	1
+view_of	1
+nothing_like	1
 music_throughout	1
-fact_that	1
 message_that	2
-school_so	1
-kind_of	2
-star_for	1
-strand_of	1
 daughter_because	1
 Queen_of	1
-bit_by	1
-video_for	1
-soundtrack_than	1
-view_of	1
 movie_for	1
-conversation_with	1
-rest_of	2
-fun_with	1
-movie_as	1
-pain_of	1
-excitement_at	1
-guy_in	2
-movie_if	1
-sound_of	1
-shame_on	1
-year_of	1
-year_in	1
-result_of	1
-lesson_at	1
+buy_for	1
 complaint_with	1
-daughter_about	1
-nothing_like	1
+strand_as	1
+girl_in	1
+sort_of	1
+rest_of	2
+fun_as	1
+model_for	1
+video_over	1
+word_for	2
+part_of	1
+comment_because	1
+sound_of	1
+school_so	1
+fact_that	1
+star_for	1
+soundtrack_than	1
+result_of	1
+shame_on	1
+year_in	1
+lesson_at	1
 CC_DT
 and_that	1
 or_a	1
@@ -1446,12 +1412,15 @@ movie_aimed	1
 fantasy_based	1
 reviewer_stated	1
 NNS_PRP
-things_she	1
-girls_it	1
 emotions_I	1
+movies_it	1
 movies_I	1
+movies_she	1
+girls_it	1
+things_she	1
 NN_VBG
 friend_expressing	1
+row_having	1
 CC_WRB
 And_why	1
 and_how	1
@@ -1464,10 +1433,11 @@ movie_took	1
 daughter_did	1
 movie_came	1
 rebound_was	1
+opinion_missed	1
 music_was	1
 opinion_was	1
 lesson_learned	1
-daughter_loved	1
+daughter_loved	2
 DVD_was	1
 animation_was	1
 one_included	1
@@ -1542,9 +1512,7 @@ NN_VBP
 year_watch	1
 movie_are	1
 occasion_watch	1
-PRP_''
-Me_''	1
-yourself_''	1
+afterall_do	1
 VBZ_NNPS
 hates_Barbies	1
 PRP_RB
@@ -1557,6 +1525,7 @@ she_still	1
 I_definitely	1
 She_already	1
 we_really	1
+them_also	1
 I_actually	1
 I_absolutely	1
 she_didnt	1
@@ -1575,9 +1544,6 @@ IN_EX
 if_there	1
 JJS_PRP
 best_I	1
-JJ_``
-favourite_``	1
-open_`	1
 RB_VBZ
 already_is	1
 really_has	1
@@ -1587,37 +1553,30 @@ only_tries	1
 never_makes	1
 NNPS_NNP
 Lions_Gate	1
-,_WP
-,_who	1
 VBZ_VBG
 's_showing	1
 's_starting	1
 handles_liking	1
 is_dating	1
 VB_PRP
-Call_me	1
-like_you	1
+call_me	1
+like_you	2
 keep_me	1
 find_it	1
 make_us	1
 think_I	1
 hate_you	1
-call_me	1
+Call_me	1
 love_it	1
 watch_it	1
 collect_them	1
 know_it	1
 add_it	1
 get_her	1
-RB_VBP
-absolutely_love	1
-also_like	1
-also_find	1
-definitely_think	1
-certainly_do	1
-also_collect	1
-really_need	1
-didnt_find	1
+act_I	1
+PRP_DT
+she_the	1
+we_all	1
 VBZ_VBN
 is_settled	1
 's_portrayed	1
@@ -1649,12 +1608,6 @@ n't_seen	1
 completely_lost	1
 already_watched	1
 totally_overshadowed	1
-NN_''
-lawn_''	1
-playing_''	1
-school_''	1
-number_'	1
-hug_''	2
 RB_VBG
 just_wishing	1
 not_going	1
@@ -1679,20 +1632,26 @@ todays_humor	1
 songs_rock	1
 girls_streak	1
 times_:D	1
+:_VBZ
+:_sucks	1
 CC_MD
 and_would	1
 VBD_NN
 had_anything	1
 was_fun	1
 JJ_JJ
-typical_high	1
+yeah_good	1
+standard_pre-teen	1
 kinda_glad	1
 super_funny	2
-standard_pre-teen	1
+shallow_popular	1
+typical_high	1
 many_other	1
 other_teeny	1
 old_moral	1
+previous_fantasy-like	1
 such_innocent	1
+self-centered_shallow	1
 second_favorite	1
 good_moral	1
 NNP_TO
@@ -1701,11 +1660,6 @@ VBZ_TO
 tries_to	2
 has_to	1
 applies_to	1
-,_IN
-,_in	1
-,_because	1
-,_so	1
-,_that	1
 NNS_WP
 grown-ups_who	1
 VBG_CD
@@ -1752,18 +1706,8 @@ WRB_DT
 why_the	1
 When_this	1
 how_the	1
-IN_IN
-about_with	1
-throughout_by	1
-that_in	1
-out_of	2
-along_with	1
-because_of	2
-that_for	1
-because_although	1
-as_though	1
-Up_until	1
-like_in	1
+PDT_DT
+all_the	3
 VBZ_JJ
 's_impossible	1
 is_super	1
@@ -1774,8 +1718,10 @@ looks_odd	1
 is_catchy	1
 is_great	1
 is_inappropriate	1
+highlights_sophmore	1
 has_great	1
 is_amazing	1
+'s_normal	1
 's_nice	1
 is_awesome	2
 's_cute	1
@@ -1802,6 +1748,7 @@ them_in	1
 me_if	1
 it_from	1
 it_for	2
+Me_by	1
 you_like	1
 me_of	1
 it_with	2
@@ -1833,32 +1780,24 @@ PRP_PRP$
 her_My	1
 WP_RB
 who_just	1
-,_NN
-,_shame	1
-,_Fall	1
-,_actress	1
-,_shape	1
-,_afterall	1
-,_etc.	1
-,_etc	1
-CC_,
-But_,	1
-``_NNP
-`_Kevins	1
+UH_PRP
+Wow_I	1
 RB_DT
 Even_the	1
+really_no	1
 then_the	1
-probably_the	1
 far_the	1
 away_all	1
 definitely_a	1
 Overall_the	1
+enough_that	1
 n't_the	2
 only_the	1
-really_no	1
+importantly_the	1
 n't_an	1
 just_the	1
 not_the	1
+probably_the	1
 just_this	1
 n't_all	1
 always_a	1
@@ -1882,17 +1821,6 @@ CC_RBS
 and_most	1
 CC_RBR
 and_more	1
-DT_``
-a_``	1
-the_``	1
-,_RB
-,_though	1
-,_as	1
-,_not	1
-,_poorly	1
-,_just	1
-,_also	1
-,_once	1
 CC_PRP
 But_I	1
 or_you	1
@@ -1903,10 +1831,6 @@ and_she	5
 and_it	6
 but_I	2
 and_we	1
-,_VBD
-,_missed	1
-,_bought	1
-,_loved	1
 RB_VB
 n't_stop	1
 definately_be	1
@@ -1935,32 +1859,31 @@ VBN_PDT
 loved_all	1
 LS_VB
 i_love	1
-FW_FW
-ta_ta	1
-MOVE_!!!	1
-Hi_:-RRB-	1
-i_dont	2
-THIS_MOVE	1
-in_doesnt	1
+IN_IN
+about_with	1
+throughout_by	1
+that_in	1
+out_of	2
+along_with	1
+because_of	2
+that_for	1
+because_although	1
+as_though	1
+Up_until	1
+like_in	1
 JJ_RB
-interesting_enough	1
 disappointed_Very	1
+interesting_enough	1
+okay_though	1
 own_very	1
 great_even	1
 little_too	1
-,_``
-,_``	1
 VBZ_WP
 's_what	1
 VBG_PRP$
 dating_her	1
 following_your	1
 wishing_their	1
-,_VBG
-,_having	1
-,_crushing	1
-,_being	1
-,_including	1
 NNS_.
 others_.	1
 comments_.	1
@@ -1983,13 +1906,6 @@ Princesses_.	1
 teens_.	2
 examples_.	1
 values_.	1
-NNS_,
-Formals_,	1
-movies_,	5
-kids_,	2
-boys_,	1
-,_VBP
-,_do	1
 RBR_RB
 more_then	1
 VBD_NNP
@@ -2000,6 +1916,10 @@ WRB_RB
 how_far	1
 NNPS_PRP
 Barbies_I	1
+JJR_VBN
+more_grown	1
+POS_DT
+'s_this	1
 JJ_NNS
 mature_themes	1
 teenage_ideals	1
@@ -2032,6 +1952,7 @@ evil_characters	1
 DT_PRP$
 all_its	1
 JJ_NNP
+studious_Barbie	1
 favorite_Barbie	1
 glad_Barbie	1
 previous_Barbie	1
@@ -2042,8 +1963,6 @@ CD_IN
 one_of	2
 two_like	1
 8_for	1
-''_CC
-''_and	3
 IN_WP
 So_what	1
 for_whom	1
@@ -2053,6 +1972,7 @@ i_can	1
 VBG_PRP
 buying_it	1
 watching_it	1
+saying_I	1
 DT_RB
 a_little	1
 MD_.
@@ -2070,6 +1990,7 @@ soundtrack_I	1
 aand_she	1
 movie_you	1
 DVD_myself	1
+movie_I	2
 VB_PRP$
 take_my	2
 find_her	1
@@ -2080,8 +2001,10 @@ have_its	1
 ._.	15
 !_!	6
 JJ_DT
+amazing_this	1
 worth_every	1
 such_a	1
+stereotypical_this	1
 sure_the	1
 RB_CC
 there_and	1
@@ -2129,22 +2052,18 @@ WRB_NNP
 how_NOT	1
 when_Kevin	1
 how_Barbie	1
-,_DT
-,_this	3
-,_the	3
-,_that	1
 NNP_NNPS
 Barbie_Diaries	4
 VBZ_RBS
 is_most	1
+CD_PRP
+one_we	1
 NNS_DT
 girls_this	1
 VBZ_NN
 does_barbie	1
 is_fun	3
 is_jerky	1
-UH_,
-Wow_,	1
 TO_JJ
 to_real	1
 VBP_DT
@@ -2171,6 +2090,8 @@ POS_RP
 NNPS_NN
 Diaries_video	1
 Barbies_guy	1
+VBN_VB
+confiscated_keep	1
 VB_VB
 help_ease	1
 be_get	1
@@ -2187,28 +2108,6 @@ one_back	1
 one_as	1
 NNP_JJ
 Barbie_miserable	1
-NN_,
-student_,	1
-boy_,	1
-line_,	1
-princess_,	1
-row_,	1
-progression_,	1
-opinion_,	1
-jerky_,	1
-music_,	1
-boyfriend_,	1
-work_,	1
-audience_,	1
-way_,	1
-daughter_,	4
-year_,	1
-film_,	1
-movie_,	4
-storyline_,	2
-afterall_,	1
-school_,	3
-story_,	1
 TO_CD
 to_12	1
 NN_.
@@ -2234,12 +2133,13 @@ crush_.	1
 lot_.	1
 journal_.	1
 star_.	1
+hug_.	1
 age_.	1
 head_.	1
 mermaid_.	1
 daughter_.	2
 move_.	1
-school_.	4
+school_.	5
 animation_.	1
 :D_!	1
 range_.	1
@@ -2249,6 +2149,7 @@ review_.	1
 etc._.	1
 life_.	1
 fare_.	1
+number_.	1
 manner_.	1
 dvd_?	1
 collection_.	1
@@ -2268,36 +2169,28 @@ movie_.	7
 time_.	1
 exception_.	1
 movie_!	2
-WDT_VBZ
-that_likes	1
-that_teaches	1
-that_highlights	1
-that_is	2
-NNP_VBD
-Barbie_wrote	1
-Kevin_commented	1
-Barbie_did	1
-Barbie_learned	1
+VBN_DT
+watched_this	1
+been_a	1
+called_This	1
+thought_this	1
+stated_The	1
 JJR_TO
 more_to	1
 WDT_VBP
 that_are	1
-,_VB
-,_keep	1
-,_try	1
-''_NN
-''_comment	1
 PRP_CC
+yourself_and	1
 Me_and	1
-it_and	1
+it_and	2
 her_and	1
+me_and	1
 WDT_VBD
 that_was	1
 WDT_.
 whatever_.	1
-DT_,
-that_,	1
-all_,	3
+DT_WRB
+that_why	1
 DT_.
 this_.	2
 all_.	1
@@ -2311,14 +2204,19 @@ walking_in	1
 LS_RB
 i_just	1
 i_first	1
+JJ_VB
+original_try	1
 CC_LS
 and_i	1
 NNS_NNP
 friends_Tia	1
 NNPS_:
 Diaries_:	1
-:_VBZ
-:_sucks	1
+JJS_NN
+cutest_guy	1
+best_part	1
+biggest_complaint	1
+most_part	1
 RB_JJ
 very_different	1
 very_inappropriate	1
@@ -2375,8 +2273,11 @@ expecting_every	1
 keeping_a	1
 including_some	1
 RB_PRP
-once_it	1
+Honestly_I	1
 far_we	1
+well_I	1
+again_it	1
+once_it	1
 Actually_I	1
 MD_DT
 could_a	1
@@ -2398,24 +2299,17 @@ My_8	1
 my_7	1
 my_5	1
 my_4	2
+WRB_VBZ
+why_does	1
 VB_RP
 fit_in	1
 take_away	1
 come_out	1
-RB_FW
-So_i	1
+NN_RBS
+film_most	1
 NN_RBR
 something_more	1
 lot_better	1
-``_JJ
-``_sophmore	1
-``_normal	1
-VBP_TO
-relate_to	1
-appear_to	1
-have_to	1
-get_to	1
-need_to	1
 NNP_IN
 Barbie_in	1
 Pretty_in	1
@@ -2425,12 +2319,11 @@ Magic_of	1
 RB_NNS
 n't_parents	1
 now_days	1
+However_hormones	1
 FW_.
 etc._.	2
-VBZ_``
-'s_``	1
-highlights_``	1
 IN_VBG
+of_believing	1
 about_liking	1
 on_making	1
 at_walking	1
@@ -2439,32 +2332,31 @@ That_being	2
 on_being	1
 that_growing	1
 of_watching	1
-,_PRP
-,_she	2
-,_they	1
-,_we	1
-,_you	1
-,_it	4
-,_I	9
-VB_MD
-enjoy_can	1
-``_VBN
-``_grown	1
+POS_NN
+'s_attention	1
+'s_world	1
+FW_FW
+ta_ta	1
+MOVE_!!!	1
+Hi_:-RRB-	1
+i_dont	2
+THIS_MOVE	1
+in_doesnt	1
 VBG_.
 watching_.	1
 dating_.	1
 repeating_.	1
-,_RBS
-,_most	1
 JJ_CC
 original_but	2
+funny_but	1
 interested_and	1
 clean_and	1
 hard_but	1
 odd_and	1
 dark_and	1
-funny_but	1
+miserable_but	1
 catchy_and	1
+sweet_and	1
 funny_or	1
 natural_and	1
 cute_and	1
@@ -2478,25 +2370,19 @@ JJ_CD
 good_one	1
 second_one	1
 next_one	1
-CD_,
-one_,	1
-9_,	1
-2_,	1
-14_,	1
 CD_.
 16_.	1
 one_.	3
 3_.	1
 15_.	1
 12_?	1
-WRB_VBZ
-why_does	1
+WRB_LS
+When_i	2
 WRB_VBP
 why_do	1
 why_are	1
-POS_NN
-'s_attention	1
-'s_world	1
+VBN_WRB
+come_how	1
 TO_NN
 to_anything	1
 to_mankind	1
@@ -2512,6 +2398,7 @@ three_times	1
 five_husbands	1
 three_girls	1
 VBN_RB
+written_poorly	1
 released_so	1
 taken_back	1
 taken_aback	1
@@ -2519,11 +2406,13 @@ NNP_NN
 Barbie_dvd	1
 Barbie_girl	1
 Sweetnam_video	1
+Barbie_shame	1
 The_movie	1
 Barbie_DVD	1
 Barbie_crowd	1
-Barbie_movie	7
 Barbie_princess	1
+Barbie_movie	7
+Fairytopia_etc.	1
 VBZ_RB
 's_all	1
 is_really	2
@@ -2595,6 +2484,7 @@ not_for	1
 n't_in	1
 now_as	1
 First_of	1
+though_because	1
 Just_because	1
 VBG_IN
 crushing_on	1
@@ -2621,24 +2511,8 @@ are_probably	1
 are_too	1
 do_n't	5
 think_mostly	1
-VBG_``
-saying_``	1
 JJ_VBZ
 old_has	1
-''_NNS
-''_comments	1
-''_ones	1
-NNP_,
-Courtney_,	1
-Tia_,	1
-Fairytopia_,	1
-Pegasus_,	1
-Barbie_,	1
-Again_,	1
-Bratz_,	1
-Mermaidia_,	1
-Phantom_,	1
-Rapunzel_,	1
 CD_JJ
 one_outstanding	1
 NNP_.
@@ -2650,6 +2524,7 @@ Secret_.	1
 Barbie_.	2
 Sweetman_.	1
 Todd_.	1
+Life_.	1
 School_.	1
 JJ_VBP
 old_do	1
@@ -2662,26 +2537,30 @@ ending_music	1
 expressing_excitement	1
 NNP_:
 Bottomline_-	1
-PRP_DT
-she_the	1
-we_all	1
-,_TO
-,_to	1
+RB_VBP
+absolutely_love	1
+also_like	1
+also_find	1
+definitely_think	1
+certainly_do	1
+also_collect	1
+really_need	1
+didnt_find	1
 VBZ_.
 is_!	1
 sucks_.	1
-VBZ_,
-has_,	1
 RB_NN
 Only_thing	1
 Only_difference	1
-VBP_''
-?!_''	1
+NNS_TO
+boys_to	2
+ways_to	1
 VBZ_IN
 lives_in	1
 is_about	1
 acts_like	1
 proves_that	2
+has_in	1
 's_because	2
 is_that	1
 says_in	1
@@ -2695,10 +2574,6 @@ i_hope	1
 i_hate	1
 WRB_JJ
 how_much	1
-,_CC
-,_and	15
-,_or	2
-,_but	7
 VB_NN
 get_barbie	1
 try_something	1
@@ -2710,22 +2585,35 @@ do_school	1
 say_dont	1
 UH_RB
 Oh_well	1
-,_CD
-,_14	1
+JJR_NNS
+older_girls	2
+younger_kids	1
+older_kids	2
 NN_WP
 enemy_who	1
 girl_who	1
 boy_who	1
+daughter_who	1
 parent_who	1
 DT_RBS
 the_most	1
 RB_RBR
 even_more	1
+CC_IN
+But_if	1
+and_down	1
+and_in	1
+but_in	1
+but_that	1
+&_for	1
+and_over	1
+but_for	2
+and_though	1
 :_NNP
 :_Widescreen	1
 PRP_TO
 it_to	2
-me_to	1
+me_to	2
 NNS_VBP
 characters_look	1
 characters_have	1
@@ -2755,8 +2643,6 @@ inspired_my	1
 kept_my	1
 IN_CC
 over_and	1
-PRP_:
-it_-	1
 NNS_VBD
 girls_were	1
 movies_were	1
@@ -2767,12 +2653,15 @@ graphics_were	1
 questions_came	1
 NNS_VBG
 girls_hugging	1
+movies_including	1
+Formals_crushing	1
 PRP_NNS
 me_nuts	1
 NNS_VBN
 themes_represented	1
 movies_released	1
 VBP_NNS
+?!_comments	1
 discuss_things	1
 have_cooties	1
 VBP_NNP
@@ -2782,18 +2671,16 @@ love_Barbie	1
 VBP_RP
 come_out	1
 work_out	1
-FW_RB
-doesnt_always	1
-``_PRP
-``_I	1
+RP_IN
+up_on	1
+off_with	1
+in_on	1
+down_with	1
+up_as	1
+in_with	1
+out_with	2
 NN_PDT
 laugh_all	1
-VBN_``
-called_`	1
-called_``	1
-''_IN
-''_along	1
-''_by	1
 VBD_VBN
 was_taken	1
 was_called	1
@@ -2804,14 +2691,16 @@ VBZ_VB
 does_have	2
 does_cater	1
 VBD_PRP
+said_she	1
 bought_it	1
 recommended_it	1
+made_them	1
 watched_it	3
 thought_it	2
 loved_it	1
 had_it	1
 enjoyed_it	1
-made_them	1
+said_I	1
 reminded_me	1
 asked_me	1
 did_he	1
@@ -2848,10 +2737,6 @@ RBR_.
 better_.	1
 NNP_RB
 Kevin_only	1
-JJR_NNS
-older_girls	2
-younger_kids	1
-older_kids	2
 :_PRP
 -_It	1
 ..._I	1
@@ -2882,6 +2767,18 @@ characters_like	1
 times_in	1
 fans_that	1
 ones_like	1
+VB_TO
+relate_to	2
+want_to	1
+like_to	1
+give_to	1
+cater_to	1
+suppose_to	1
+wait_to	2
+love_to	1
+need_to	1
+try_to	1
+have_to	2
 NNP_VBZ
 Barbie_starts	1
 Barbie_has	3
@@ -2929,9 +2826,6 @@ to_say	1
 NN_JJR
 movie_more	1
 bit_more	1
-VBD_,
-included_,	1
-said_,	2
 VBD_.
 expected_.	1
 POS_.
@@ -2939,18 +2833,20 @@ POS_.
 VBG_NNS
 liking_boys	2
 Getting_boys	2
-POS_,
-'s_,	1
-``_DT
-``_The	1
-``_This	1
+NNP_VBD
+Barbie_wrote	1
+Kevin_commented	1
+Barbie_did	1
+Barbie_learned	1
 NNP_POS
 Featurette_'	1
 Barbie_'s	1
 NN_RB
+story_not	1
 humor_only	1
 anything_even	1
 school_however	1
+daughter_as	1
 influence-and_not	1
 daughter_right	1
 everything_now	1
@@ -2989,8 +2885,8 @@ being_studious	1
 being_true	1
 getting_rid	1
 Getting_good	1
-NNS_JJ
-years_old	1
+VB_MD
+enjoy_can	1
 VBZ_DT
 has_a	8
 is_the	2
@@ -3035,33 +2931,15 @@ NN_PRP$
 world_her	1
 head_her	1
 girl_her	1
-JJ_''
-normal_''	1
 NNP_DT
+Again_the	1
 LOVE_this	1
-JJS_NN
-cutest_guy	1
-best_part	1
-biggest_complaint	1
-most_part	1
-RP_IN
-up_on	1
-off_with	1
-in_on	1
-down_with	1
-up_as	1
-in_with	1
-out_with	2
+VBN_NNP
+called_Kevins	1
+FW_RB
+doesnt_always	1
 VBN_NNS
 based_ones	1
-,_NNP
-,_Fairytopia	1
-,_Courtney	1
-,_Danny	1
-,_Barbie	2
-,_Kevin	1
-,_Rapunzel	1
-,_Mermaidia	1
 CC_NNP
 &_Todd	1
 or_Mattel	1
@@ -3070,14 +2948,13 @@ and_comments	1
 and_teens	1
 or_teens	2
 and_situations	1
-,_NNS
-,_hormones	1
 WP_IN
 what_if	1
 DT_TO
 this_to	2
 JJ_NN
 real_life	3
+favourite_charm	1
 real_shame	1
 popular_girl	1
 young_daughter	1
@@ -3125,6 +3002,7 @@ great_message	1
 Barbie-obsessed_4-year-old	1
 nice_buy	1
 GREAT_soundtrack	1
+open_number	1
 previous_reviewer	1
 old_daughter	4
 second_year	1

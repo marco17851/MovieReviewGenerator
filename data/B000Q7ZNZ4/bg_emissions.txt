@@ -39,13 +39,16 @@ in_life	3
 of_coach	1
 like_brand	1
 after_landing	1
+like_Pride	1
 of_film	1
 in_mathematics	1
 in_description	1
 of_town	1
+of_Pride	1
 through_discipline	1
 of_drug	1
 at_school	1
+of_s	1
 in_part	3
 on_top	2
 into_question	1
@@ -56,9 +59,6 @@ VBN_VBN
 been_arrested	1
 been_told	1
 been_done	1
-JJ_VBP
-successful_swim	1
-important_swim	1
 VBG_VBN
 having_viewed	1
 having_been	2
@@ -70,6 +70,8 @@ VBN_VBG
 been_training	1
 VBG_VBD
 being_turned	1
+VBG_VBZ
+being_tells	1
 CC_JJ
 and_female	1
 and_troubled	1
@@ -83,8 +85,9 @@ taking_swim	1
 RB_TO
 back_to	2
 only_to	1
-together_to	2
 there_to	1
+primarily_to	1
+together_to	2
 down_to	2
 DT_NNP
 A_BOY	1
@@ -100,14 +103,6 @@ the_Denzel	1
 the_Philadelphia	4
 the_United	1
 The_Brothers	1
-VBP_,
-love_,	1
-IN_``
-like_``	1
-of_``	2
-that_`	1
-in_``	1
-of_`	1
 VBP_.
 lose_.	1
 are_.	1
@@ -127,9 +122,6 @@ inspired_.	1
 seen_.	1
 excited_.	1
 made_.	1
-VBN_,
-accepted_,	1
-depicted_,	1
 VB_JJR
 make_thier	1
 WDT_MD
@@ -168,18 +160,14 @@ RB_JJR
 even_newer	1
 much_less	1
 much_worse	1
-WP_VBD
-what_was	1
-who_rejected	1
-who_believed	1
-who_liked	1
-who_had	1
+PRP_PRP
+it_I	3
+it_it	1
+me_it	1
 PRP$_VBP
 his_swim	1
 RP_.
 down_.	2
-RP_,
-up_,	2
 VBN_JJ
 depicted_traditional	1
 told_countless	1
@@ -199,11 +187,15 @@ who_starts	1
 who_resents	1
 What_does	1
 NNP_CC
+American_and	1
 Mac_and	1
-Philadelphia_and	1
+Phillips_and	1
 Mack_and	1
 Elise_and	1
+Gonera_and	1
+Philadelphia_and	1
 Hustle_&	1
+Goodloe_and	1
 Arnold_and	1
 Center_and	1
 Howard_and	3
@@ -220,13 +212,31 @@ older_teens	1
 :_PDR	1
 --_action	1
 ;_music	1
-``_VBN
-``_been	1
-``_VBG
-`_closing	1
-`_being	1
+IN_PRP$
+on_our	1
+in_his	1
+with_their	1
+of_his	2
+by_his	1
+Despite_his	1
+through_their	1
+on_their	2
+for_our	1
+off_their	1
+on_his	2
+With_his	1
+of_its	1
+at_our	1
+of_my	1
+of_their	1
+throughout_my	1
+in_their	2
+on_its	1
+into_his	1
 NN_VB
 fact_excel	1
+community_take	1
+mathematics_Coach	1
 championship_meet	1
 VBD_PDT
 proved_all	1
@@ -260,8 +270,6 @@ his_love	2
 their_rim	1
 His_drive	1
 their_slum	1
-``_VBZ
-`_s	1
 VB_IN
 call_into	1
 contend_with	1
@@ -286,11 +294,10 @@ work_with	1
 CD_WDT
 one_that	1
 JJ_PRP
+new_I	1
 honest_they	1
 important_it	1
 few_I	1
-,_''
-,_'	1
 VBD_RB
 did_n't	5
 sat_down	1
@@ -298,6 +305,7 @@ were_n't	1
 TOOK_DOWN	1
 was_sorely	1
 was_once	1
+said_yes	1
 were_not	1
 was_n't	1
 was_also	1
@@ -310,15 +318,22 @@ got_together	1
 had_never	1
 was_just	2
 NN_DT
-way_no	1
-question_the	1
+basketball_all	1
+determination_the	1
 movie.LOVED_the	1
 home_the	1
-basketball_all	1
+dialogue_the	1
+water_the	1
+way_no	1
+while_the	1
 light_a	1
 coaching_a	1
+perseverance_all	1
+math_the	1
+question_the	1
 place_This	1
 way_the	2
+edge_the	1
 VBN_JJR
 been_longer	1
 WDT_RB
@@ -357,6 +372,7 @@ Coach_Carter	1
 Coach_Ellis	1
 NNS_NNP
 actors_Terrence	1
+hoops_Jim	1
 races_African	1
 NNS_NNS
 sports_stories	1
@@ -368,6 +384,7 @@ using_lesser	1
 JJS_JJ
 happiest_black	1
 VBD_JJ
+figured_same	1
 had_great	1
 was_willing	1
 showed_great	1
@@ -403,12 +420,16 @@ his_gifts	1
 their_lives	1
 RB_NNP
 surprisely_Terrence	1
+Slowly_Jim	1
+Previously_Ellis	1
+later_Jim	1
 IN_RB
-in_even	1
+that_even	1
 about_as	1
 of_properly	1
 for_not	1
 as_always	1
+in_even	1
 out_there	1
 that_here	1
 WDT_VBZ
@@ -466,11 +487,6 @@ approach_their	1
 CD_VBZ
 1974_is	1
 one_is	1
-VB_,
-meet_,	1
-swim_,	1
-succeed_,	1
-watch_,	2
 VB_.
 meet_.	2
 watch_.	1
@@ -499,11 +515,11 @@ unable_to	2
 new_to	1
 Similar_to	1
 NNS_JJ
+teens_young	1
 stories_such	2
 RP_CC
 off_but	1
-NNP_''
-Road_''	1
+up_and	1
 DT_NNS
 the_individuals	1
 the_odds	1
@@ -635,22 +651,22 @@ and_who	1
 NNS_CC
 challenges_and	1
 bumps_and	1
+champions_but	1
+epithets_and	1
 teens_and	1
 parents_and	1
 boys_and	2
 swimmers_and	1
 teams_and	1
+clothes_and	1
+youngsters_and	1
 actions_and	1
 men_and	1
-clothes_and	1
+swimmers_but	1
+roles_and	1
 surroundings_and	1
 emotions_and	1
 sports_and	2
-''_VBZ
-''_is	5
-''_lays	1
-''_works	1
-'_tells	1
 VBN_PRP
 seen_it	1
 viewed_it	1
@@ -670,10 +686,13 @@ love_that	1
 NNPS_RB
 Americans_particularly	1
 NN_CC
+comedy_and	1
 quality_and	1
 soundtrack_and	1
-potential_and	1
-team_and	2
+watch_and	1
+segregation_and	1
+team_and	3
+camaraderie_or	1
 mentor_and	1
 wife_and	1
 day_and	1
@@ -687,41 +706,54 @@ sport_or	1
 someone_and	1
 character_and	1
 PDR_and	1
-swimming_and	2
+swimming_and	3
 star_and	1
+etc_and	1
 pool_and	2
 day_but	1
-anyone_and	1
+laughter_and	1
 council_and	1
+drive_but	1
 discrimination_and	1
 cockiness_and	1
-predictability_and	1
-race_and	1
+story_but	1
+while_and	1
+money_and	1
 material_and	1
+potential_and	1
 girl_and	1
 trust_and	1
+predictability_and	1
+family_and	1
+youth_and	1
+pace_and	1
 Flow_but	1
 record_but	1
 move_and	1
 community_and	1
-watch_and	1
-while_and	1
+hand_and	1
+emotion_and	1
+interest_and	1
 solace_and	1
 look_and	1
-family_and	1
+fan_but	1
 love_and	1
 film_and	2
-interest_and	1
+actor_but	1
 laugh_and	1
 man_and	2
+work_and	1
+start_and	1
 role_and	1
 team_but	1
 language_and	1
-movie_but	1
+movie_but	2
 school_and	1
-actor_but	1
+anyone_and	1
 earnestness_and	1
+race_and	1
 NN_CD
+movie_one	1
 Pride_4	1
 movie_3	1
 Jump_10	1
@@ -750,81 +782,100 @@ movie_worth	1
 character_imaginable	1
 something_productive	1
 brand_new	2
+discipline_hard	1
 hoodlum_bent	1
 NNP_NNS
 Jim_coaches	1
 NNP_NNP
-Jim_Crow	1
-P.D.R._Philadelphia	1
-WAS_BOOED	1
-RUNDOWN_RECREATION	1
-Alphonso_McAuley	1
-Clint_Eastwood	1
-IT_EVERY	1
-Mills_Goodloe	1
-Norman_Vance	1
-A_RUNDOWN	1
-FILLED_IT	1
-Terence_Howard	1
+Fobbs_Alphonso	1
+Nehy_Nate	1
 Brothers_Johnson	1
-Glory_Road	1
-THEY_WERE	4
-Aretha_Franklin	1
-Tom_Arnold	3
-J._Mills	1
-Denzel_Washington	1
-PLAYING_BASKETBALL	1
-THING_THEY	1
-AT_A	1
-African_American	6
-BOY_NAMED	1
-Ellis_Terrence	4
-EVERY_DAY	1
-Evan_Ross	3
-Nate_Parker	1
+Philadelphia_Jim	1
+ONLY_THING	1
+TEAM_WAS	1
 Brandon_Fobbs	1
-JIM_ELLIS	1
-Philadelphia_Recreation	1
-Michael_Gozzard	1
 Recreation_Center	1
-Bernie_Mac	11
+Bernie_Mack	3
 Philadelphia_Department	5
 WERE_GOING	1
-Thankfully_Bernie	1
-Regine_Nehy	1
-Rec_Center	1
-Diana_Ross	1
-FEW_AVAILABLE	1
+Alphonso_McAuley	1
+IT_FILLED	1
 Vance_Jr.	1
-Kevin_Phillips	1
 James_Brown	1
 WAS_ON	1
-AND_BEGAN	1
-Jim_Ellis	10
-Mr._Ellis	1
-Scott_Reeves	1
-NAMED_JIM	1
+IT_EVERY	1
+IT_AND	1
 Kevin_Michael	1
+RUNDOWN_RECREATION	1
+HIGH_SCHOOH	1
+American_Men	2
+WERE_DOING	1
+Mills_Goodloe	1
+Norman_Vance	1
+Aretha_Franklin	1
+J._Mills	1
+Denzel_Washington	1
+AND_BEGAN	1
+EVERY_DAY	1
+Philadelphia_Recreation	1
+North_Carolina	1
+Thankfully_Bernie	1
+McAuley_Regine	1
+Regine_Nehy	1
+FEW_AVAILABLE	1
+Mr._Ellis	1
+Gozzard_J.	1
+Johnson_James	1
+THEY_WERE	4
+Elston_Bernie	4
+Kimberly_Elise	4
+Jim_Crow	1
+WAS_BOOED	1
+Clint_Eastwood	1
+Luckily_Howard	1
+Mac_Tom	1
+Terence_Howard	1
+FILLED_IT	1
+Tom_Arnold	3
+American_Hispanic	1
+Brown_Aretha	1
 BASKETBALL_HOOP	1
-SWIM_TEAM	1
+Smith_Michael	1
+Evan_Ross	3
+Michael_Gozzard	1
 VERY_FEW	1
-Rated_PG	1
-Grady_Harp	1
-SCHOOH_WAS	1
+Rec_Center	1
+Diana_Ross	1
+BOY_NAMED	1
 Sunu_Gonera	1
 WERE_VERY	1
-WERE_DOING	1
-HOWEVER_THERE	1
-North_Carolina	1
-ONLY_THING	1
-HIGH_SCHOOH	1
+Kevin_Phillips	1
 Terrence_Howard	13
-Michael_Smith	1
-Bernie_Mack	3
-Elston_Bernie	4
 Terrance_Howard	2
-Kimberly_Elise	4
-American_Men	2
+Hispanic_Caucasian	1
+AT_A	1
+Grady_Harp	1
+SWIM_TEAM	1
+A_RUNDOWN	1
+Glory_Road	1
+Harp_June	1
+Parker_Kevin	1
+African_American	6
+Ellis_Terrence	4
+Nate_Parker	1
+JIM_ELLIS	1
+THING_THEY	1
+Bernie_Mac	11
+P.D.R._Philadelphia	1
+PLAYING_BASKETBALL	1
+Michael_Smith	1
+Howard_Bernie	1
+SCHOOH_WAS	1
+NAMED_JIM	1
+Rated_PG	1
+HOWEVER_THERE	1
+Jim_Ellis	10
+Scott_Reeves	1
 :_RB
 -_well	1
 VBD_VB
@@ -835,14 +886,14 @@ better_.	1
 DT_PRP
 all_I	1
 no_one	1
+no_they	1
+all_We	1
 VBN_TO
 scheduled_to	1
 arrested_to	1
 sent_to	1
 compared_to	1
 attached_to	1
-NNPS_''
-Titans_''	1
 IN_DT
 through_the	2
 of_the	34
@@ -916,34 +967,15 @@ VBZ_WRB
 's_why	1
 JJR_RB
 worse_then	1
-VBG_''
-being_'	1
 RB_WRB
 only_how	1
 also_how	1
 there_when	1
 even_when	1
+However_when	1
 CD_POS
 60_'s	1
 70_'s	2
-RB_,
-primarily_,	1
-well_,	1
-not_,	1
-However_,	3
-Yet_,	1
-Also_,	1
-Previously_,	1
-Now_,	1
-Then_,	1
-later_,	1
-Unfortunately_,	1
-off_,	1
-there_,	2
-Yep_,	1
-Slowly_,	1
-then_,	1
-so_,	1
 RB_.
 down_.	2
 together_.	2
@@ -963,15 +995,19 @@ too_.	2
 well_.	3
 again_!	1
 IN_VB
+that_feel	1
 as_Coach	1
+in_Remember	1
 with_grow	1
-,_WRB
-,_when	2
+VBD_CC
+was_but	1
+told_and	1
+had_and	1
 VBD_CD
 suffered_10	1
 WAS_ONE	1
 NNPS_CC
-Titans_and	1
+Titans_and	2
 CC_RB
 and_gradually	1
 and_even	6
@@ -1009,8 +1045,6 @@ WHEN_HE	1
 :_IN
 --_so	1
 -_as	1
-''_:
-''_-	1
 PRP$_JJ
 their_simple	1
 its_slavish	1
@@ -1019,10 +1053,12 @@ its_own	1
 my_favorite	1
 my_high	1
 their_respective	1
-PRP_PRP
-it_I	1
-it_it	1
-me_it	1
+WP_VBD
+what_was	1
+who_rejected	1
+who_believed	1
+who_liked	1
+who_had	1
 IN_PRP
 before_it	1
 against_him	1
@@ -1059,12 +1095,6 @@ that_it	3
 with_it	2
 because_I	2
 of_us	1
-''_.
-''_.	1
-''_,
-''_,	2
-RB_NNS
-mostly_unknowns	1
 :_NNS
 /_actors	1
 :_NNP
@@ -1240,6 +1270,7 @@ a_love	1
 a_life	1
 the_inclusion	1
 the_water	3
+this_PRIDE	2
 The_dialogue	2
 The_music	1
 the_family	1
@@ -1316,6 +1347,7 @@ That_changes	1
 that_'s	3
 This_is	6
 DT_VBG
+a_closing	1
 a_failing	1
 the_drowning	1
 the_recurring	1
@@ -1366,6 +1398,7 @@ you_live	1
 you_watch	1
 I_work	1
 DT_VBN
+a_been	1
 the_based	1
 a_condemned	1
 the_needed	1
@@ -1413,6 +1446,7 @@ you_...	1
 IN_.
 in_.	2
 for_.	1
+over_.	1
 FW_FW
 ha_ha	1
 AUDENCE_BECAUSE	1
@@ -1422,9 +1456,8 @@ DT_MD
 that_will	1
 MD_VBD
 'd_earned	1
-``_DT
-``_The	1
-``_no	1
+WP_NNP
+what_Jim	1
 PRP_.
 us_.	1
 him_.	1
@@ -1432,9 +1465,8 @@ themselves_.	1
 you_.	2
 them_.	2
 it_.	8
-PRP_,
-me_,	1
-it_,	3
+IN_:
+though_...	1
 CC_VBP
 and_rise	1
 and_need	1
@@ -1452,6 +1484,7 @@ and_ends	1
 and_begins	1
 and_tells	1
 and_is	2
+But_is	1
 and_stacks	1
 and_rises	1
 NN_WRB
@@ -1482,21 +1515,6 @@ CC_VBN
 and_written	1
 and_directed	1
 and_gone	1
-JJ_,
-late_,	1
-mine_,	1
-original_,	1
-college-educated_,	1
-female_,	1
-interesting_,	1
-right_,	1
-thick_,	1
-awesome_,	1
-urban_,	1
-underprivileged_,	1
-off_,	1
-new_,	2
-young_,	2
 JJ_.
 limited_.	1
 encouraging_.	1
@@ -1554,6 +1572,7 @@ been_in	1
 CC_IN
 And_if	1
 But_despite	1
+and_if	1
 and_in	2
 and_through	1
 and_over	1
@@ -1572,16 +1591,18 @@ PRP$_JJR
 their_older	1
 My_bigger	1
 NN_NNS
-cameo_roles	1
+couple_complaints	1
 basketball_hoops	1
 film_biopics	1
 city_boys	1
-couple_complaints	1
+cameo_roles	1
 chill_bumps	1
+s_words	1
 race_relations	1
 sport_movies	1
 bonus_points	1
 breast_strokes	1
+movie_thanks	1
 today_childrens	1
 ghetto_boys	1
 school_students	1
@@ -1599,14 +1620,15 @@ Americans_are	1
 NN_NNP
 son_Scott	1
 college_Jim	1
+team_Jim	1
 janitor_Elston	1
+commitment_Ellis	1
 course_Kimberly	1
 hunt_Jim	1
+JOB_THEY	1
 day_Jim	1
 man_Elston	1
 time_Ellis	1
-:_``
-:_``	1
 CD_CD
 ***_1/2	1
 CD_CC
@@ -1619,6 +1641,8 @@ into_more	1
 IN_JJS
 that_most	4
 for_most	1
+POS_PRP
+'s_he	1
 RP_POS
 down_'	1
 VBD_WRB
@@ -1635,6 +1659,7 @@ you_when	1
 --_a	1
 ;_all	1
 ..._a	1
+:_The	1
 ..._The	1
 CD_PRP$
 07_My	1
@@ -1643,12 +1668,8 @@ thier_community	1
 more_detail	1
 less_thought	1
 bigger_complaint	1
-RB_``
-once_`	1
 VBP_VBZ
 swim_meets	1
-WRB_``
-when_``	1
 RP_NNS
 up_items	1
 PRP_MD
@@ -1719,11 +1740,13 @@ there_are	3
 there_have	1
 NNS_RP
 kids_on	1
-CC_``
-and_``	1
 NN_NN
+material_language	1
+action_drama	1
+swimmer_role!Will	1
 rec_center	1
 story_film	1
+Determination_Resilience	1
 city_council	2
 !!!!!!!!!!!!!_Pride	1
 rundown_recreation	1
@@ -1731,25 +1754,30 @@ work_world	1
 record_breaker	1
 love_swimming	1
 rating_material	1
+drama_healing	1
 teaching_job	1
 self_worth	1
 movie.AWESOME_!!!!!!!!!!!!!	1
+love_love	1
 college_team	1
 brand_spanking	1
 SWIMMING_POOL	1
 background_story	1
 movie_set	1
+music_race	1
 math_teacher	1
 street_hoodlum	1
 maintenance_man	1
-casting_dilemma	1
+sleeper_boy	1
 recreation_center	2
+guidance_race	1
 WAS_A	1
 film_b/c	1
 PDR_Pride	1
 council_woman	1
 job_hunt	1
 mathematics_position	1
+formula_Pride	1
 role!Will_watch	1
 time_period	2
 state_championship	1
@@ -1759,40 +1787,38 @@ basketball_outside	1
 PG_rating	2
 casting_period	1
 swimming_pool	2
-acting_fiasco	1
-swimmer_role!Will	1
+directing_movie	1
+Pride_Determination	1
 story_line	2
+casting_dilemma	1
 mathematics_degree	1
+acting_fiasco	1
 cleanup_worker	1
 PRP$_VB
 our_swim	1
 NNS_RB
+parts_especially	1
 jokes_as	1
 years_ago	2
 years_later	1
+movies_so	1
+teens_especially	1
 actors_really	1
 teams_still	1
+performances_as	1
+thanks_primarily	1
 years_earlier	1
 years_forward	1
+kids_just	1
 ones_as	1
 movies_out	1
-kids_just	1
+years_even	1
+JJ_EX
+right_there	1
 EX_VBD
 there_was	1
 JJS_.
 best_.	2
-,_JJ
-,_different	1
-,_college-educated	1
-,_hard	1
-,_great	1
-,_inspritional	1
-,_urban	1
-,_troubled	1
-,_young	1
-,_African-American	1
-,_EX
-,_there	1
 DT_JJ
 the_feel-good	1
 the_final	1
@@ -1843,6 +1869,7 @@ The_civil	1
 the_lowly	1
 a_competitive	1
 the_first	1
+a_new	1
 a_superior	1
 The_main	1
 The_sheer	1
@@ -1902,9 +1929,9 @@ a_total	1
 a_true	6
 the_movie-spun	1
 the_black	1
-``_VB
-``_Remember	1
 NN_IN
+movie_because	1
+movie_except	1
 interaction_between	1
 job_in	1
 viewing_for	1
@@ -1928,7 +1955,7 @@ look_if	1
 lack_of	1
 landing_in	1
 appreciation_of	1
-movie_in	1
+watching_because	1
 end_of	1
 passion_with	1
 idea_behind	1
@@ -1959,11 +1986,13 @@ faith_in	1
 message_in	1
 side_of	1
 racism_during	1
+cast_while	1
 love_for	1
 scab_on	1
 victim_of	1
 genre_of	1
 look_at	1
+story_in	1
 story_on	1
 overexposure_of	1
 leason_from	1
@@ -1979,6 +2008,7 @@ college_as	1
 kid_on	1
 coach_that	1
 film_like	1
+history_for	1
 Opening_in	1
 person_inside	1
 direction_of	1
@@ -2003,6 +2033,7 @@ couple_of	1
 good_in	1
 building_down	1
 job_with	1
+story_since	1
 march_toward	1
 setting_of	1
 period_without	1
@@ -2012,6 +2043,7 @@ top_of	2
 strength_that	1
 success_of	1
 work_as	1
+cable_as	1
 barrier_that	1
 slowing_down	1
 mind_because	1
@@ -2021,6 +2053,7 @@ similarity_of	1
 inspiritual_for	1
 thought_that	1
 point_of	1
+story_with	1
 film_because	1
 course_of	1
 discipline_of	1
@@ -2049,6 +2082,7 @@ status_of	1
 portrayal_of	1
 level_of	2
 swimmer_on	1
+movie_in	1
 example_of	1
 center_from	1
 fact_that	1
@@ -2062,8 +2096,6 @@ moment_in	1
 love_of	1
 thing_about	1
 group_of	5
-''_VB
-''_feel	1
 CC_DT
 And_that	1
 but_that	1
@@ -2084,10 +2116,16 @@ condition_specified	1
 uplift_set	1
 NNS_PRP
 phones_it	1
+outcomes_they	1
+children_I	1
+children_it	1
 characters_it	1
 1960s_we	1
-actors_it	1
+60s_he	1
 jobs_he	1
+actors_it	1
+kids_it	1
+hands_it	1
 times_you	1
 NN_VBG
 time_watching	1
@@ -2116,6 +2154,7 @@ well_rounded	1
 period_was	1
 everyone_was	1
 mother_was	1
+cast_became	1
 swimming_was	1
 DVD_had	1
 hope_brought	1
@@ -2143,6 +2182,7 @@ what_it	1
 whom_he	1
 whom_they	1
 NN_VBZ
+element_is	1
 feeling_is	1
 society_is	1
 music_helps	1
@@ -2150,17 +2190,18 @@ dialogue_is	1
 PRIDE_is	1
 support_makes	1
 concept_has	1
-coach_supports	1
+course_is	1
 one_floats	1
 story_has	1
-Pride_is	1
+film_starts	1
 story_unfolds	1
-element_is	1
+acting_is	2
+Pride_works	1
 center_is	1
 film_does	1
 building_is	1
 coach_teaches	1
-film_starts	1
+Pride_is	6
 film_is	4
 story_is	4
 line_is	1
@@ -2171,8 +2212,8 @@ movie_captures	1
 Mac_is	1
 movie_is	1
 rim_is	1
-acting_is	2
-course_is	1
+Pride_lays	1
+coach_supports	1
 coach_takes	1
 production_is	1
 water_drips	1
@@ -2190,6 +2231,7 @@ realtively_fast	1
 as_well	6
 n't_just	1
 not_really	1
+there_right	1
 out_there	1
 very_subtly	1
 not_only	3
@@ -2229,6 +2271,7 @@ team_are	1
 folk_do	1
 paint_dry	1
 race_are	1
+team_make	1
 swimming_are	1
 college_swim	1
 PRP_RB
@@ -2260,8 +2303,6 @@ that_there	2
 PRP_RP
 them_in	2
 it_up	1
-JJ_``
-simple_`	1
 POS_VB
 's_get	1
 RB_VBZ
@@ -2279,33 +2320,21 @@ truly_does	1
 also_mentions	1
 alone_works	1
 clearly_knows	1
-,_WP
-,_who	1
-IN_PRP$
-on_our	1
-in_his	1
-with_their	1
-of_his	2
-by_his	1
-Despite_his	1
-through_their	1
-on_their	2
-for_our	1
-off_their	1
-on_his	2
-With_his	1
-of_its	1
-at_our	1
-of_my	1
-of_their	1
-throughout_my	1
-in_their	2
-on_its	1
-into_his	1
+VBZ_VBG
+is_being	1
+is_closing	1
+is_growing	1
+is_cleaning	1
+is_baffling	1
+'s_working	1
+is_going	1
+is_playing	1
 VB_PRP
 amaze_me	1
+succeed_you	1
 CLOSE_IT	1
 have_it	1
+watch_you	1
 keep_them	1
 show_it	1
 watch_it	1
@@ -2338,7 +2367,13 @@ VBZ_PRP$
 gains_their	1
 CC_PRP$
 and_his	1
+VB_RP
+give_up	1
+cool_off	1
+hold_out	1
+seek_out	1
 DT_DT
+that_the	1
 this_a	1
 RB_VBN
 always_needed	1
@@ -2354,12 +2389,9 @@ even_been	1
 well_developed	1
 surprisingly_impressed	1
 wisely_depicted	1
-NN_''
-story_''	1
-history_''	1
-s_''	1
-cast_'	1
-Pride_''	7
+VBP_WP
+see_what	1
+know_what	1
 RB_VBG
 just_doing	1
 really_cleaning	1
@@ -2381,14 +2413,20 @@ only_did	1
 FW_IN
 ha_of	1
 NNS_NN
-rights_movement	1
+movies_comedy	1
+events_support	1
+Actors_directing	1
 ladies_man	1
 sports_movie	3
-events_support	1
+bumps_laughter	1
+issues_segregation	1
+rights_movement	1
 VBD_NN
 transcended_swimming	1
 WAS_BLACK	1
+became_brand	1
 recognized_purpose	1
+was_history	1
 overcame_adversity	1
 WAS_OLDER	1
 rounded_movie.LOVED	1
@@ -2402,19 +2440,26 @@ WAS_LOOKING	1
 showed_Pride	1
 JJ_JJ
 only_black	2
+young_college-educated	1
 Great_motivational	1
+college-educated_African-American	1
+awesome_inspritional	1
 popular_black	1
 few_racial	1
 few_comic	1
 good_positive	1
 fine_young	1
+late_great	1
 African_American	1
 same_racial	1
+underprivileged_urban	1
 other_non	1
+young_troubled	1
 other_all-white	1
 only_bad	1
 former_competitive	1
 long_frustrating	1
+female_different	1
 NNP_TO
 BEGAN_TO	1
 GOING_TO	1
@@ -2431,20 +2476,9 @@ takes_to	1
 seeks_to	1
 floats_to	1
 begins_to	1
-,_IN
-,_with	1
-,_in	3
-,_because	2
-,_as	3
-,_while	1
-,_if	1
-,_so	1
-,_that	1
-,_like	1
-,_for	1
-,_of	1
-,_except	1
-,_since	1
+NNPS_DT
+Brothers_The	1
+O'Jays_The	1
 POS_NNS
 '_parts	1
 NNS_WP
@@ -2473,6 +2507,7 @@ NN_WDT
 movie_that	2
 part_that	1
 something_that	2
+team_which	2
 thing_that	1
 cliche_that	1
 center_that	1
@@ -2531,8 +2566,6 @@ Where_the	1
 PDT_DT
 all_the	1
 all_those	1
-PRP_``
-them_``	1
 VBZ_JJ
 is_crazy	1
 is_outstanding	1
@@ -2579,6 +2612,7 @@ themselves_through	1
 it_upon	1
 it_for	1
 them_into	2
+me_of	1
 them_from	1
 it_before	1
 himself_in	1
@@ -2600,37 +2634,14 @@ and_one	2
 But_one	1
 PRP_PRP$
 it_their	1
+RB_WDT
+so_that	1
 WP_RB
 who_just	1
-,_NN
-,_segregation	1
-,_youth	1
-,_laughter	1
-,_Determination	1
-,_PRIDE	2
-,_language	1
-,_healing	1
-,_race	2
-,_directing	1
-,_boy	1
-,_movie	1
-,_love	2
-,_drama	1
-,_Resilience	1
-,_etc	1
-,_comedy	1
-``_RB
-``_yes	1
-CC_,
-But_,	1
-and_,	1
-but_,	1
 JJR_CC
 longer_and	1
-``_NNP
-``_Glory	1
 RB_DT
-even_the	1
+off_the	1
 especially_the	1
 Maybe_that	1
 DOWN_THE	1
@@ -2639,11 +2650,14 @@ still_a	1
 so_this	1
 realistically_the	1
 usually_a	1
+even_the	1
 wonderfully_the	1
 also_the	1
 then_this	1
 n't_a	1
+Also_the	1
 never_a	1
+well_that	1
 actually_a	1
 NN_MD
 sport_may	1
@@ -2658,22 +2672,6 @@ all_take	1
 a_meet	1
 WRB_PRP$
 how_my	1
-DT_``
-a_``	2
-a_`	1
-,_RB
-,_Also	1
-,_completely	1
-,_right	1
-,_not	1
-,_never	1
-,_primarily	1
-,_as	1
-,_so	1
-,_only	1
-,_eventually	1
-,_even	3
-,_especially	2
 CC_PRP
 but_they	1
 but_he	2
@@ -2683,7 +2681,7 @@ And_you	1
 But_they	1
 And_I	1
 and_he	3
-but_it	5
+but_it	6
 and_it	3
 and_I	3
 or_they	1
@@ -2729,17 +2727,15 @@ than_in	1
 JJ_RB
 rare_even	1
 predictable_too	1
+interesting_never	1
 new_even	1
-,_``
-,_``	1
+mine_not	1
 VBZ_WP
 's_what	1
 VBG_PRP$
 showing_their	1
 showing_his	1
 losing_their	1
-,_VBG
-,_hoping	1
 NNS_.
 characters_.	1
 swimmers_.	1
@@ -2773,35 +2769,6 @@ strokes_.	1
 faces_.	1
 unknowns_.	1
 values_.	1
-NNS_,
-characters_,	1
-roles_,	1
-tracks_,	1
-champions_,	1
-hands_,	1
-hoops_,	1
-parts_,	1
-epithets_,	1
-issues_,	1
-years_,	2
-performances_,	1
-outcomes_,	1
-turns_,	1
-students_,	1
-speeches_,	1
-children_,	2
-movies_,	2
-teens_,	2
-kids_,	1
-thanks_,	1
-60s_,	1
-Actors_,	1
-merits_,	1
-bumps_,	1
-swimmers_,	2
-youngsters_,	1
-,_VBP
-,_make	1
 VBD_NNS
 had_problems	1
 created_problems	1
@@ -2814,9 +2781,6 @@ adults_--	1
 surprises_;	1
 people_--	1
 plaudits_:	1
-,_VBZ
-,_turns	1
-,_is	3
 WRB_RB
 where_still	1
 how_wonderfully	1
@@ -2884,6 +2848,7 @@ young_men	2
 potential_employers	1
 known_actors	1
 excellent_performances	1
+new_actors	1
 few_actors	1
 white_competitors	1
 same_problems	1
@@ -2899,9 +2864,6 @@ right_buttons	1
 productive_parts	1
 real_swimmers	1
 groovy_clothes	1
-CC_JJS
-and_quickest	1
-But_most	1
 DT_PRP$
 all_its	1
 JJ_NNP
@@ -2917,10 +2879,6 @@ one_that	1
 one_of	7
 1974_in	1
 five_of	1
-''_CD
-'_70	2
-''_CC
-''_and	1
 IN_WP
 that_what	1
 of_what	1
@@ -2957,16 +2915,23 @@ the_Titans	2
 NN_PRP
 feeling_I	1
 period_it	1
+while_we	1
 feeling_it	1
 job_he	3
+course_it	1
 b/c_I	1
 thing_I	1
 script_itself	1
+truth_it	1
+end_he	1
+POOL_HE	1
 film_he	1
 youth_he	1
 work_he	1
 OLDER_HE	1
 sport_you	1
+team_I	1
+rating_I	1
 VB_PRP$
 influence_my	1
 use_his	1
@@ -3024,19 +2989,13 @@ be_demolished	1
 have_acted	1
 be_accepted	1
 VB_VBG
+meet_hoping	1
 be_competing	1
 be_watching	1
 VB_VBD
 Coach_was	1
 RB_RBR
 even_more	1
-,_DT
-,_both	1
-,_that	1
-,_a	3
-,_The	2
-,_all	2
-,_the	11
 NNP_NNPS
 Isley_Brothers	1
 United_States	1
@@ -3045,6 +3004,7 @@ Great_Debaters	1
 VB_VBZ
 say_is	1
 top_is	1
+watch_is	1
 get_is	1
 VBZ_RBR
 seems_more	1
@@ -3052,8 +3012,11 @@ CD_PRP
 one_they	1
 NNS_DT
 coaches_the	1
-stories_these	1
 outweighs_the	1
+tracks_the	1
+characters_both	1
+students_a	1
+stories_these	1
 VBZ_NN
 is_nothing	1
 starts_coaching	1
@@ -3062,11 +3025,6 @@ needs_money	1
 is_pride	1
 is_maintenance	1
 meets_janitor	1
-DT_''
-the_'	2
-no_''	1
-UH_,
-Okay_,	1
 TO_JJ
 to_other	1
 to_inspirational	1
@@ -3099,9 +3057,8 @@ came_to	1
 was_to	1
 NN_FW
 pool_ha	1
-,_WDT
-,_which	2
-,_that	1
+NNS_POS
+swimmers_'	1
 VB_VB
 come_clean	1
 JJS_NNS
@@ -3118,67 +3075,6 @@ story_...	2
 acting_;	1
 set_--	1
 skill_;	1
-._''
-._'	1
-._''	1
-NN_,
-discipline_,	1
-sleeper_,	1
-cable_,	1
-perseverance_,	1
-action_,	1
-JOB_,	1
-music_,	1
-story_,	3
-directing_,	1
-POOL_,	1
-money_,	1
-camaraderie_,	1
-youth_,	1
-determination_,	1
-start_,	1
-material_,	1
-comedy_,	1
-course_,	1
-segregation_,	1
-math_,	1
-rating_,	1
-emotion_,	1
-formula_,	1
-commitment_,	1
-Determination_,	1
-water_,	1
-edge_,	1
-while_,	2
-swimming_,	1
-credibility_,	1
-guidance_,	1
-Resilience_,	1
-hand_,	1
-community_,	1
-swimmer_,	1
-work_,	1
-mathematics_,	1
-drive_,	1
-end_,	1
-Pride_,	1
-dialogue_,	1
-fan_,	1
-pace_,	1
-drama_,	1
-laughter_,	1
-watching_,	1
-etc_,	1
-love_,	1
-team_,	6
-truth_,	1
-movie_,	5
-cast_,	1
-``_NN
-``_s	1
-``_history	1
-`_brand	1
-``_Pride	8
 NN_.
 moment_!	1
 lot_.	1
@@ -3266,27 +3162,9 @@ determination_.	1
 VBN_DT
 given_a	1
 followed_the	1
+accepted_the	1
 been_a	1
 seen_a	1
-NNP_VBD
-Carolina_were	1
-Howard_was	2
-Jim_encountered	1
-Ellis_did	1
-Mac_gave	1
-Howard_got	1
-Ellis_took	1
-Jim_loved	1
-Bernie_did	1
-BASKETBALL_WAS	1
-Ross_showed	1
-Ellis_had	1
-Elise_was	1
-THERE_WAS	1
-WERE_TAUGHT	1
-Mac_was	1
-THEY_STARTED	1
-Mack_was	1
 JJR_TO
 newer_to	1
 WDT_VBP
@@ -3294,12 +3172,6 @@ that_bring	1
 that_are	3
 THAT_THERE	1
 that_Coach	1
-''_VBD
-'_became	1
-,_VB
-,_Coach	1
-,_take	1
-,_let	1
 VBP_VB
 do_mean	1
 do_have	1
@@ -3320,16 +3192,10 @@ that_had	1
 that_littered	1
 that_did	1
 that_caused	1
-RP_JJ
-up_other	1
 VBG_RB
 looking_back	1
 coming_together	2
 being_very	1
-DT_,
-that_,	1
-this_,	2
-all_,	1
 DT_.
 that_.	2
 all_.	1
@@ -3396,14 +3262,10 @@ very_interesting	1
 beyond_laughable	1
 very_proud	1
 completely_believable	1
+once_same	1
 highly_original	1
 very_long	1
 Simply_outstanding	1
-CD_``
-1/2_``	1
-NNPS_,
-O'Jays_,	1
-Brothers_,	1
 NNPS_.
 States_.	1
 Olympics_.	1
@@ -3431,8 +3293,14 @@ including_some	1
 making_the	1
 RB_PRP
 DOWN_HE	1
-So_I	1
+Now_he	1
 Maybe_he	1
+Unfortunately_they	1
+there_he	1
+Then_he	1
+Yep_they	1
+However_he	1
+So_I	1
 MD_DT
 should_all	1
 VBZ_PRP
@@ -3464,13 +3332,14 @@ watch_together	1
 swim_anyway	1
 get_ahead	1
 be_as	1
-VB_RP
-give_up	1
-cool_off	1
-hold_out	1
-seek_out	1
+UH_VB
+Okay_let	1
+WRB_NN
+when_Pride	1
 VBZ_PDT
 knows_all	1
+JJ_WRB
+thick_when	1
 NN_RBR
 community_better	1
 NNS_WRB
@@ -3480,25 +3349,22 @@ relations_where	1
 families_where	1
 kids_how	1
 lessons_where	1
-``_JJ
-``_new	1
-`_new	1
-`_same	2
 NNP_IN
 Recreation_so	1
 Recreation_as	1
 FRONT_OF	1
 Howard_as	2
-ELLIS_IN	1
+PG_for	1
 HOOP_IN	1
+ELLIS_IN	1
 BOOED_BY	1
 Howard_in	1
-PG_for	1
+Ellis_in	1
 Department_of	5
 SWIM_IN	1
 Mac_at	1
-,_TO
-,_to	1
+RB_NNS
+mostly_unknowns	1
 IN_VBG
 of_tearing	1
 from_making	1
@@ -3527,19 +3393,11 @@ on_drawing	1
 after_finishing	1
 IN_VBD
 as_said	1
-,_PRP
-,_he	7
-,_they	4
-,_we	1
-,_you	2
-,_it	6
-,_I	6
-,_HE	1
-,_We	1
+CC_JJS
+and_quickest	1
+But_most	1
 CC_JJR
 and_older	1
-RB_''
-yes_''	1
 VBG_.
 seeing_?	1
 motivating_.	1
@@ -3547,16 +3405,19 @@ IN_VBP
 at_swim	1
 on_swim	1
 JJ_CC
+original_but	1
 important_and	1
 loud_and	1
 new_and	2
 gripping_and	1
+off_but	1
 outstanding_and	1
 forceful_but	1
 stubborn_and	1
-great_and	1
-good_and	1
 major_and	1
+good_and	1
+new_but	1
+great_and	1
 brilliant_and	1
 inspritional_and	1
 male_and	1
@@ -3565,12 +3426,11 @@ acted_better	1
 IN_VBZ
 As_is	1
 for_is	1
+that_s	1
 JJ_CD
 minor_one	1
 CD_.
 one_.	2
-TO_VBG
-to_Rmembering	1
 WRB_VBG
 where_telling	1
 NNP_WP
@@ -3609,6 +3469,7 @@ slowed_way	1
 closed_down	1
 been_there	2
 torn_down	1
+depicted_Also	1
 been_so	1
 used_very	1
 NNP_NN
@@ -3618,6 +3479,7 @@ Arnold_sort	1
 Washington_strength	1
 Mac_fan	1
 Recreation_center	1
+Caucasian_etc	1
 TO_PRP$
 to_his	1
 to_my	1
@@ -3665,37 +3527,39 @@ VBZ_RP
 stands_out	2
 ends_up	2
 meets_up	1
-NNS_MD
-people_will	1
-writers_should	1
-characters_could	1
-families_can	1
+TO_VBG
+to_Rmembering	1
 TO_RB
 to_again	1
 RBR_IN
 better_for	1
 RB_IN
-again_from	1
 back_into	1
-much_that	1
 even_after	1
-even_for	1
-well_as	2
 forward_in	1
-well_with	2
-just_out	1
 Instead_of	1
-because_of	1
+not_that	1
+Yet_for	1
+then_like	1
+even_though	2
 well_in	1
+However_as	1
+much_that	1
+well_as	2
+well_with	2
+right_below	1
+even_for	1
+earlier_at	1
+well_for	1
+So_despite	1
+again_from	1
+yes_through	1
+down_in	1
+because_of	1
 even_if	1
 Not_as	1
-earlier_at	1
-down_in	1
-well_for	1
-even_though	2
+just_out	1
 solidly_on	1
-right_below	1
-So_despite	1
 VBG_IN
 dying_into	1
 Being_that	1
@@ -3719,6 +3583,7 @@ the_60	1
 this_one	2
 The_two	2
 the_7	1
+the_70	2
 RP_DT
 down_the	1
 up_the	1
@@ -3740,32 +3605,6 @@ seem_so	1
 are_not	3
 JJ_VBZ
 last_is	1
-''_NNS
-'_actors	1
-''_words	1
-NNP_,
-Mac_,	1
-American_,	2
-Hispanic_,	1
-Nehy_,	1
-Luckily_,	1
-Smith_,	1
-Goodloe_,	1
-Johnson_,	1
-Fobbs_,	1
-Parker_,	1
-TEAM_,	1
-McAuley_,	1
-Caucasian_,	1
-Gonera_,	1
-Phillips_,	1
-Harp_,	1
-Howard_,	1
-Brown_,	1
-Gozzard_,	1
-Philadelphia_,	2
-IT_,	2
-Ellis_,	3
 CD_JJ
 one_untold	1
 NNP_.
@@ -3781,15 +3620,9 @@ Recreation_.	2
 DAY_.	1
 Ellis_.	1
 Jim_.	1
-VBZ_VBG
-is_being	1
-is_closing	1
-is_growing	1
-is_cleaning	1
-is_baffling	1
-'s_working	1
-is_going	1
-is_playing	1
+JJ_VBP
+successful_swim	1
+important_swim	1
 JJ_VBN
 good_compared	1
 VBG_NN
@@ -3803,17 +3636,21 @@ recurring_similarity	1
 affecting_change	1
 finding_solace	1
 JJ_VBG
+simple_being	1
 worth_seeing	1
 non_working	1
 NNP_:
+Road_-	1
 Franklin_;	1
 JJ_VBD
 surprising_were	1
 PRP_DT
 it_every	1
+it_all	1
+them_no	1
+them_the	1
 me_the	1
 us_all	1
-them_the	1
 you_an	1
 VBZ_.
 meets_.	1
@@ -3853,10 +3690,8 @@ JJR_IN
 more_than	2
 WRB_JJ
 how_important	1
-,_CC
-,_and	22
-,_or	1
-,_but	11
+RP_JJ
+up_other	1
 VB_NN
 build_suspense	1
 gain_faith	1
@@ -3870,17 +3705,18 @@ bring_home	1
 find_something	1
 know_anything	1
 teach_math	1
-,_CD
-,_one	1
 POS_IN
 's_on	1
 NN_WP
 coach_who	1
 man_who	2
+swimmer_who	1
 girl_who	1
-VBP_WP
-see_what	1
-know_what	1
+NNS_MD
+people_will	1
+writers_should	1
+characters_could	1
+families_can	1
 VBD_WP
 took_what	1
 understood_what	1
@@ -3911,13 +3747,13 @@ in_1973	1
 in_1974	1
 in_four	1
 as_one	2
-NNS_POS
-swimmers_'	1
 NNS_VBZ
+speeches_turns	1
+kids_comes	1
 kids_does	1
 years_thinks	1
+turns_is	1
 opponents_is	1
-kids_comes	1
 VBD_PRP$
 shared_his	1
 used_his	1
@@ -3928,9 +3764,7 @@ IN_CC
 over_and	1
 with_and	1
 for_and	1
-IN_,
-that_,	1
-of_,	1
+of_but	1
 JJS_IN
 most_of	3
 NNS_VBG
@@ -3939,6 +3773,7 @@ teenagers_facing	1
 aspects_relating	1
 men_trying	1
 RP_RB
+up_even	1
 up_really	1
 PRP_NNS
 HE_FOUND	1
@@ -3962,10 +3797,6 @@ POS_JJ
 :_black	1
 --_wonderful	1
 ..._different	2
-''_IN
-''_through	1
-''_for	1
-'_while	1
 VBD_VBN
 got_nominated	1
 was_based	1
@@ -4009,6 +3840,7 @@ as_surprising	1
 about_racial	1
 of_downtrodden	1
 with_male	1
+of_new	1
 of_recalcitrant	1
 from_hopeless	1
 for_several	1
@@ -4039,9 +3871,6 @@ that_traditional	1
 of_young	3
 RBR_.
 better_.	1
-IN_''
-over_''	1
-that_''	1
 VBN_NN
 written_screenplay	1
 finished_college	1
@@ -4049,6 +3878,7 @@ directed_story	1
 needed_level	1
 made_movie	1
 NNP_RB
+Philadelphia_only	1
 Howard_once	1
 Pretty_soon	1
 NNP_VBP
@@ -4065,6 +3895,7 @@ Howard_have	1
 --_it	1
 NNS_IN
 roles_with	1
+swimmers_while	1
 times_because	1
 children_on	1
 items_at	1
@@ -4082,21 +3913,23 @@ movies_of	1
 members_of	1
 lives_of	1
 decks_in	1
-teams_against	1
-characters_in	1
+years_so	1
+actors_on	1
+stories_in	1
 competitors_in	1
 times_with	1
 tears_among	1
 heartstrings_than	1
 looks_of	1
-types_of	1
+teams_against	1
 awards_for	1
+merits_in	1
 problems_with	1
 doors_in	1
 movies_out	1
 teams_at	1
 biopics_of	1
-actors_on	1
+characters_in	1
 parts_of	1
 kids_from	1
 gifts_because	1
@@ -4113,7 +3946,7 @@ areas_of	1
 faces_with	1
 tensions_of	1
 treasures_of	1
-stories_in	1
+types_of	1
 VBN_CC
 written_and	1
 filmed_and	1
@@ -4209,37 +4042,48 @@ to_salvage	1
 to_mind	1
 NN_JJR
 lot_more	1
-VBD_,
-was_,	1
 VBD_.
 played_.	1
 VBG_NNS
 featuring_kids	1
 drowning_rates	1
-POS_,
-'s_,	1
+NNP_VBD
+Carolina_were	1
+Howard_was	2
+Jim_encountered	1
+Ellis_did	1
+Mac_gave	1
+Howard_got	1
+Ellis_took	1
+Jim_loved	1
+Bernie_did	1
+BASKETBALL_WAS	1
+Ross_showed	1
+Ellis_had	1
+Elise_was	1
+THERE_WAS	1
+WERE_TAUGHT	1
+Mac_was	1
+THEY_STARTED	1
+Mack_was	1
 NNP_VBN
 Jr._based	1
 Center_tended	1
-WP_NNP
-what_Jim	1
 NNP_POS
 Ross_'	1
 Ellis_'	2
 Eastwood_'s	1
-VBD_CC
-told_and	1
-had_and	1
 NN_RB
 story_alone	1
 movie_so	1
 racism_again	1
-watch_again	1
+credibility_completely	1
 city_still	1
 son_too	1
 pool_much	1
 team_not	1
 pool_back	1
+Resilience_eventually	1
 life_even	1
 PRIDE_realistically	1
 way_first	1
@@ -4248,6 +4092,7 @@ woman_really	1
 anyone_else	1
 job_as	1
 coach_so	1
+watch_again	1
 everything_else	1
 character_definitely	1
 :_:
@@ -4287,19 +4132,10 @@ believable_in	1
 wrong_by	1
 obvious_out	1
 interested_in	2
-VBD_``
-figured_`	1
-became_`	1
-was_``	1
-said_``	1
 VBG_JJ
 facing_difficult	1
-WP_,
-who_,	1
 NN_RP
 hook_up	1
-IN_:
-though_...	1
 VBZ_DT
 wants_the	1
 is_the	5
@@ -4335,11 +4171,12 @@ captures_the	1
 accepts_a	2
 finds_the	1
 CD_NN
-one_movie	1
-one_woman	1
-5_breast	1
 one_day	1
 one_person	1
+one_woman	1
+1/2_Pride	1
+one_movie	1
+5_breast	1
 VBZ_NNP
 portrays_Jim	1
 plays_Jim	1
@@ -4350,19 +4187,19 @@ resents_Ellis	1
 :_.
 ..._.	1
 VBP_NN
-swim_team	9
-THERE_WAS	1
 enjoy_Pride	1
+THERE_WAS	1
+love_love	1
 give_Pride	1
 play_basketball	1
-JJ_''
-new_'	1
+swim_team	9
 VB_CD
 do_five	1
 VB_CC
 see_and	1
-swim_and	3
+swim_and	4
 NNP_DT
+Ellis_a	2
 Mac_the	1
 ON_THE	1
 VBN_NNP
@@ -4375,33 +4212,13 @@ up_in	1
 down_in	1
 out_for	1
 down_for	2
-,_NNP
-,_Jim	5
-,_James	1
-,_Nate	1
-,_June	1
-,_AND	1
-,_Regine	1
-,_Tom	1
-,_Howard	1
-,_FILLED	1
-,_Hispanic	1
-,_Kevin	1
-,_WAS	1
-,_THEY	1
-,_Michael	1
-,_Aretha	1
-,_Alphonso	1
-,_Ellis	2
-,_Bernie	1
-,_J.	1
-,_Caucasian	1
 CC_NNP
 And_Terrence	1
 and_Bernie	2
 and_Tom	1
 and_Ellis	1
 and_Kimberly	1
+and_Glory	1
 and_Howard	1
 and_Diana	1
 and_Norman	1
@@ -4414,9 +4231,8 @@ and_themes	1
 and_Afros	1
 and_tears	2
 and_judges	1
-,_NNS
-,_thanks	1
 WP_IN
+who_as	1
 who_in	1
 TO_WDT
 to_which	1
@@ -4506,6 +4322,7 @@ well-developed_homage	2
 Good_move	1
 first_viewing	1
 next_year	1
+urban_youth	1
 main_stream	1
 strong_support	1
 great_movie.AWESOME	1

@@ -4,6 +4,7 @@ with_regard	1
 in_comparison	1
 for_video	2
 of_music	1
+on_hey	1
 On_top	1
 as_rock	1
 on_stage	1
@@ -15,6 +16,7 @@ In_rock	1
 above_anything	1
 of_everything	1
 In_fact	1
+on_foxy	1
 as_anything	1
 like_supernova	1
 with_equipment	1
@@ -47,13 +49,6 @@ only_to	1
 normally_to	1
 UH_JJ
 Hey_Baby/New	1
-VBP_,
-hear_,	1
-IN_``
-on_``	3
-like_``	2
-than_``	1
-of_``	2
 VBP_CC
 see_and	1
 VBN_.
@@ -62,10 +57,6 @@ gone_.	2
 involved_.	1
 equaled_.	1
 made_.	1
-VBN_,
-handed_,	1
-cut_,	2
-imagined_,	1
 VB_JJR
 play_better	1
 be_more	1
@@ -76,6 +67,8 @@ all_we	1
 VBZ_CD
 is_one	1
 has_two	1
+VBZ_CC
+ends_and	1
 NNS_WDT
 visuals_that	1
 shots_that	1
@@ -90,8 +83,6 @@ who_were	1
 what_did	1
 IN_RBR
 of_more	1
-RP_,
-out_,	1
 VBN_JJ
 been_available	1
 been_aware	1
@@ -103,11 +94,19 @@ WP_VBZ
 who_thinks	1
 NNP_CC
 Redding_and	1
-Digipack_and	1
+Monterey_and	1
+First_and	1
 Rock_and	2
 Lake_&	1
 Jimi_and	2
+Hendrix_but	1
+Digipack_and	1
+James_and	1
+Third_and	1
+Hendrix_or	1
+God_and	1
 Hendrix_and	1
+Gun_and	1
 NNP_CD
 May_7	1
 Festival_1996	1
@@ -118,6 +117,8 @@ WP_MD
 who_can	1
 What_can	1
 who_would	1
+JJ_RBR
+recent_more	1
 :_NN
 :_Message	1
 IN_PRP$
@@ -177,6 +178,7 @@ glad_I	2
 VBD_RB
 did_n't	5
 played_left	1
+said_however	1
 were_also	1
 died_just	1
 died_so	1
@@ -192,8 +194,12 @@ were_up	1
 had_n't	1
 NN_DT
 video_a	2
+music_the	1
+fan_this	1
+fan_the	1
 sound_a	1
 neccessity_the	1
+audio_this	2
 WDT_RB
 that_just	1
 that_so	1
@@ -215,17 +221,19 @@ VB_NNS
 save_things	1
 salvage_things	1
 VB_NNP
-forget_Jimi	1
 get_Wild	1
+see_Jimi	1
 thank_God	1
 get_Jimi	1
-see_Jimi	1
+forget_Jimi	1
+complete_Voodoo	1
 FW_VB
 wi_tell	1
+NNS_NNS
+performances_bits	1
+beginnings_middles	1
 VBG_JJR
 playing_less	1
-POS_JJS
-'s_greatest	1
 CC_IN
 and_that	1
 but_that	1
@@ -243,8 +251,8 @@ his_teeth	2
 my_purposes	1
 PRP$_NNP
 his_Woodstock	1
-,_PRP$
-,_my	1
+PRP_EX
+him_there	1
 IN_RB
 in_roughly	1
 between_nearly	1
@@ -283,13 +291,10 @@ and_dvd	1
 or_anyone	1
 or_anything	1
 and_Experience	1
-NNPS_MD
-Gypsies_would	1
 VBP_PRP$
 make_their	1
-VB_,
-say_,	1
-know_,	1
+CD_VBZ
+five_gives	1
 VB_.
 suggest_.	1
 do_.	1
@@ -300,14 +305,8 @@ unable_to	1
 NNS_JJ
 things_such	1
 songs_complete	1
-WP_.
-what_?	1
-NNP_''
-Chile_''	1
-Gun_''	3
-Joe_''	1
-Lady_''	1
-Rider_''	1
+RP_CC
+out_and	1
 NNP_JJR
 MUCH_better	1
 DT_NNS
@@ -335,6 +334,7 @@ with_folks	1
 IN_NNP
 at_Monterey	1
 like_Earl	1
+like_Ezy	1
 by_Lerner	1
 of_Wight	6
 that_Hendrix	2
@@ -345,6 +345,7 @@ of_Wild	1
 of_Blue	1
 as_Young	1
 in_Rock	1
+of_Machine	2
 of_Hendrix	2
 like_Hendrix	1
 by_Hendrix	1
@@ -355,6 +356,7 @@ than_Hendrix	1
 of_Murray	1
 for_Jimi	2
 Of_Wight	1
+on_Machine	1
 if_Jimi	1
 from_Jimi	1
 with_Redding	1
@@ -392,23 +394,23 @@ reinvented_the	1
 CC_WP
 But_who	1
 NNS_CC
-misshaps_and	1
 solos_but	1
 bits_and	1
-lots_and	1
+middles_and	1
+misshaps_and	1
 releases_both	1
-,_VB
-,_buy	1
-,_join	1
-,_thank	1
-,_get	1
-,_give	2
-VBN_PRP
-satisfied_me	1
-pleased_you	1
+lots_and	1
+problems_and	1
+JJR_IN
+less_than	2
+better_than	2
+more_than	1
+more_of	1
+less_of	1
 VBP_IN
 know_for	1
 complain_about	2
+hear_as	1
 think_that	1
 wonder_if	1
 are_as	1
@@ -417,31 +419,38 @@ agree_with	1
 NN_CC
 entertainment_but	2
 time_and	1
+fan_or	1
 OUTSTANDING_and	1
 head_and	1
+morning_and	1
+favor_and	1
 blowing_and	1
 spontanaity_or	1
 Gun_and	1
 performance_or	1
 night_and	1
 video_and	4
-DVD_and	1
+quality_or	2
+song_and	1
+DVD_and	2
 history_and	1
+copy_but	1
 hand_and	1
-fan_or	1
+death_and	1
+sound_and	1
 anything_but	1
+today_and	1
 audio_and	1
 film_and	2
 break_and	2
 performance_and	1
+version_and	1
 mouth_and	1
-favor_and	1
+over-indulgence_or	1
 show_and	1
 format_and	1
 NN_CD
 hour_40	1
-PRP_CC
-yourself_and	1
 DT_JJS
 the_greatest	1
 the_best	1
@@ -458,9 +467,13 @@ The_Who	1
 VB_NN
 see_today	1
 be_razor	1
+WDT_VBD
+Which_was	1
+that_were	1
 NN_JJ
 razor_thin	1
 death_due	1
+hand_Red	1
 NNP_NNS
 Lerner_films	1
 Jimi_fans	1
@@ -468,13 +481,18 @@ Hendrix_performances	1
 NNP_NNP
 Buddy_Guy	1
 WILD_BLUE	1
+SBS_Australia	1
 Jimi_The	1
+Berkeley_Monterey	1
 Blue_Angel	2
 Red_House	1
 Palmer_Isle	1
 A_Different	1
+Guy_Elmore	1
 Muddy_Waters	1
 BLUE_WILD	1
+Emerson_Lake	1
+Second_Young	1
 Machine_Gun	4
 Elmore_James	1
 Murray_Lerner	1
@@ -490,23 +508,26 @@ Wild_Angel	1
 Blue_Wild	1
 The_Master	1
 BLUE_ANGEL	1
+Hooker_Buddy	1
 Different_Kind	1
 C._Young	1
+Woodstock_Berkeley	1
 Wight_Festival	3
 Miles_Electric	1
-VBZ_JJR
-is_better	1
+VBD_VB
+was_thank	1
 TO_PRP$
 to_his	2
-JJR_,
-shorter_,	1
 VBN_CC
 seen_or	1
+imagined_but	1
 VBN_TO
 committed_to	1
 got_to	1
 amazed_to	1
 compared_to	1
+IN_UH
+like_Hey	1
 IN_DT
 with_another	1
 that_Any	1
@@ -560,6 +581,7 @@ into_a	1
 than_the	1
 of_a	3
 VBZ_WRB
+thinks_When	2
 's_why	1
 WDT_JJ
 whatever_narrative/interview	1
@@ -572,26 +594,8 @@ see_what	1
 hear_what	1
 JJS_TO
 best_to	1
-RB_,
-else_,	1
-controversially_,	1
-carefully_,	1
-However_,	2
-however_,	2
-frankly_,	1
-So_,	3
-long_,	1
-instead_,	2
-ago_,	2
-otherwise_,	1
-Hopefully_,	1
-again_,	2
-not_,	1
-yes_,	1
-often_,	1
-above_,	1
-n't_,	1
-Well_,	1
+RB_WRB
+however_when	1
 RB_.
 not_.	1
 so_.	1
@@ -605,6 +609,8 @@ otherwise_.	1
 before_.	1
 up_.	1
 well_.	2
+IN_VB
+than_have	1
 VBD_CC
 was_either	1
 CC_RB
@@ -658,10 +664,8 @@ if_he	2
 that_it	3
 than_I	1
 of_us	2
-''_.
-''_.	1
-''_,
-''_,	1
+NNS_VB
+pyrotechnics_get	1
 :_NNP
 :_Woodstock	1
 :_A	1
@@ -790,6 +794,7 @@ a_performance	2
 this_time	1
 a_marriage	1
 the_documentary	1
+that_period	1
 a_revelation	1
 the_back	1
 the_stage	1
@@ -849,11 +854,8 @@ it_shows	1
 He_sings	1
 he_says	1
 It_'s	3
-IN_,
-that_,	2
-in_,	1
-because_,	1
-about_,	1
+PRP_:
+You_:	1
 IN_.
 on_.	2
 among_.	1
@@ -874,9 +876,6 @@ you_.	1
 us_.	2
 it_.	2
 myself_.	1
-PRP_,
-itself_,	1
-him_,	1
 CC_VBP
 and_do	3
 and_show	1
@@ -894,30 +893,17 @@ and_ends	1
 NN_WRB
 shape_when	1
 NNP_PRP
+Trio_I	1
 Festival_itself	1
 Hendrix_himself	1
 CC_VBD
 or_was	1
 and_was	1
+CC_VBG
+and_having	1
 CC_VBN
+and_done	1
 or_heard	1
-JJ_,
-lackluster_,	1
-self-critical_,	1
-heretical_,	1
-sloppy_,	1
-excellent_,	1
-lazy_,	1
-complete_,	1
-recent_,	1
-unrehearsed_,	1
-exciting_,	1
-inane_,	1
-foremost_,	1
-disappointing_,	1
-other_,	1
-young_,	1
-powerful_,	1
 JJ_.
 historical_.	2
 thin_.	1
@@ -940,6 +926,7 @@ preserved_on	1
 thought_of	1
 required_by	1
 focused_on	1
+handed_so	1
 left_in	1
 described_in	1
 erformed_with	1
@@ -956,6 +943,8 @@ captivated_by	1
 made_in	1
 based_on	1
 reminded_that	1
+RB_WP
+However_what	1
 VBD_JJ
 was_interested	1
 was_fine	1
@@ -978,11 +967,11 @@ record_Jimi	2
 novice_Hendrix	1
 hardcore_Jimi	1
 hey_Joe	1
+lady_Jimi	1
 everything_Hendrix	2
 NO_Hendrix	1
-''_RB
-''_also	1
 CD_CD
+7_2000	1
 1970_2006	1
 CD_CC
 two_or	1
@@ -1046,17 +1035,17 @@ IN_NNPS
 of_Gypsies	1
 EX_VBZ
 there_'s	2
-CC_``
-and_``	1
 NN_NN
 star_improvement	1
 drug_overdose	1
 performance_relete	1
 foxy_lady	1
 audio_quality	2
-master_film-maker	1
+track_proof	1
+illness_over-indulgence	1
 performance_order	1
 History_DVD	1
+mind_blowing	1
 rock_history	1
 weakening_factor	1
 documentary_film	1
@@ -1075,28 +1064,22 @@ documentary_format	1
 guitar_player	2
 island_haven	1
 autopsy_report	2
-mind_blowing	1
+master_film-maker	1
 blues_player.Machine	1
 player.Machine_Gun	1
 signature_stratocaster	1
 NNS_RB
 concerts_as	1
-years_ago	2
+songs_not	1
 teeth_as	1
+years_ago	2
 :_MD
 :_will	1
 EX_VBD
 there_were	1
-,_JJ
-,_high	1
-,_self-serving	1
-,_lo-fi	1
-,_lazy	1
-,_rare	1
-,_EX
-,_there	1
 DT_JJ
 a_visual	1
+no_casual	1
 the_other	1
 all_excellent	1
 a_few	1
@@ -1112,8 +1095,9 @@ the_whole	1
 a_master	1
 the_simple	1
 a_marked	1
-a_great	2
+the_serious	1
 a_whole	1
+a_great	2
 the_correct	1
 some_interesting	1
 an_old	1
@@ -1122,12 +1106,12 @@ the_later	1
 no_other	1
 a_little	1
 the_dreamy	1
-the_recent	1
+a_biographical	1
 The_serious	1
 a_no-doubt	1
 a_reasonable	1
-a_biographical	1
 a_mellow	1
+the_recent	1
 a_real	1
 the_crazy	1
 the_true	2
@@ -1135,12 +1119,11 @@ the_complete	3
 any_other	1
 a_new	1
 an_entire	1
-``_VB
-``_have	1
 VBD_JJR
 wanted_more	1
 NN_IN
 perspective_than	1
+version_with	1
 editing_of	1
 V_so	1
 fabric_of	1
@@ -1150,14 +1133,17 @@ gum_in	1
 middle_of	1
 part_of	1
 impression_that	1
+example_of	1
 History_of	1
 fan_of	1
-switching_from	1
+disc_if	1
+talking_while	1
 time_of	1
 none_of	1
 2AM_in	1
 idea_that	1
 glare_of	1
+book_though	1
 sort_of	1
 rest_of	2
 difference_between	1
@@ -1167,7 +1153,7 @@ commitment_than	1
 sample_of	1
 rendition_of	1
 hour_of	2
-piece_of	1
+Sun_that	1
 neccessity_of	1
 consideration_that	1
 footage_for	2
@@ -1178,7 +1164,7 @@ point_on	1
 reason_for	1
 VHS/DVD_of	1
 vocabulary_for	1
-way_that	1
+viewpoint_after	1
 talent_that	1
 choice_of	1
 guitar_like	1
@@ -1189,8 +1175,9 @@ playing_on	1
 account_of	1
 end_of	1
 review_of	1
+film-maker_at	1
 plus_at	1
-example_of	1
+place_in	1
 relete_with	1
 document_of	2
 brevity_of	1
@@ -1207,22 +1194,31 @@ improvement_over	1
 shame_that	1
 breath_for	1
 verse_of	1
+piece_of	1
 stage_of	1
 top_of	1
 editing_by	1
 player_than	1
+way_that	1
+switching_from	1
 CC_DT
 and_a	2
+and_the	3
 and_those	1
 or_both	1
 or_the	1
-and_the	3
+and_The	1
 and_this	1
 NN_VBN
 p_erformed	1
+release_based	1
 documentary_focused	1
-background_involved	1
 music_woven	1
+background_involved	1
+NNS_PRP
+problems_you	1
+NN_VBG
+overdose_starting	1
 CC_WRB
 and_where	1
 NN_VBD
@@ -1251,6 +1247,7 @@ playing_is	1
 man_is	1
 quality_is	1
 performance_is	2
+house_is	1
 concert_is	1
 band_sounds	2
 release_has	1
@@ -1260,11 +1257,14 @@ style_is	1
 dvd_is	1
 RB_RB
 as_well	3
+Well_almost	1
 not_really	2
+long_long	1
 clearly_not	1
 accidently_only	2
-now_again	1
 not_only	1
+now_again	1
+n't_however	1
 then_again	1
 not_nearly	1
 Not_so	1
@@ -1274,6 +1274,7 @@ up_long	1
 very_quickly	1
 especially_now	1
 not_previously	1
+again_not	1
 Quite_frankly	1
 so_much	1
 probably_much	1
@@ -1283,6 +1284,7 @@ probably_never	1
 as_much	1
 not_often	1
 VBD_IN
+was_as	1
 picked_with	1
 said_if	2
 went_on	1
@@ -1290,20 +1292,22 @@ had_of	1
 were_that	1
 performed_at	1
 lived_with	1
-TO_IN
-to_that	1
+NNPS_MD
+Gypsies_would	1
 NN_VBP
+playing_do	1
 DVD_are	1
 recording_are	1
 PRP_RB
 I_just	2
-you_never	1
+itself_rather	1
 I_totally	1
 he_briefly	1
 myself_only	1
 I_even	1
 you_really	1
 he_often	1
+you_never	1
 he_also	1
 you_just	1
 IN_EX
@@ -1316,26 +1320,21 @@ now_is	1
 often_forgets	1
 briefly_forgets	1
 just_is	1
-,_WP
-,_who	1
-,_what	1
 VB_PRP
 lose_it	1
 help_you	2
+say_I	1
 make_you	1
+know_I	1
 tell_me	1
 view_it	2
 recommend_you	1
 fascinate_you	1
 have_it	1
-RB_VBP
-just_have	1
-also_make	1
-just_say	1
-really_have	1
-never_see	1
-even_want	1
-never_listen	1
+PRP_DT
+me_the	1
+yourself_a	1
+me_a	1
 VBZ_VBN
 is_treated	1
 's_committed	1
@@ -1358,11 +1357,6 @@ fully_worked	1
 so_spoiled	1
 n't_interrupted	1
 never_been	1
-NN_''
-house_'	1
-film_''	1
-Sun_''	1
-lady_''	1
 RB_VBD
 also_crashed	1
 just_saw	1
@@ -1373,29 +1367,13 @@ got_access	1
 VBZ_TO
 is_to	2
 seems_to	1
-,_IN
-,_at	2
-,_with	1
-,_in	2
-,_because	1
-,_as	4
-,_while	2
-,_if	4
-,_although	1
-,_though	1
-,_that	1
-,_so	3
-,_like	1
-,_for	2
-,_of	1
-,_after	1
 POS_NNS
 's_complaints	1
 's_pyrotechnics	1
 RP_NN
 out_track	1
-``_UH
-``_Hey	1
+JJR_JJ
+shorter_lo-fi	1
 MD_RB
 will_ever	1
 could_actually	1
@@ -1445,6 +1423,7 @@ NN_TO
 Message_to	1
 stratocaster_to	1
 treasure_to	2
+price_to	1
 comparison_to	1
 studio_to	1
 opportunity_to	2
@@ -1473,35 +1452,28 @@ what_a	1
 CC_CD
 or_three	1
 but_one	1
-,_NN
-,_proof	1
-,_version	1
-,_period	1
-,_over-indulgence	1
-,_mind	1
+RB_WDT
+instead_which	1
 RP_WP
 out_what	1
-CC_,
-and_,	3
 JJR_CC
 more_or	1
-``_NNP
-``_Machine	3
-``_Foxy	1
-``_Voodoo	1
-``_Ezy	1
 RB_DT
 probably_the	1
-also_a	1
-not_an	1
+Hopefully_the	1
 nearly_every	1
+not_an	1
+also_a	1
 Maybe_this	2
 not_a	1
+However_this	1
 n't_a	1
 maybe_the	1
+again_this	1
 PRP$_JJS
 his_best	3
 NN_MD
+haven_may	1
 bust_can	1
 review_may	2
 fan_will	1
@@ -1510,19 +1482,6 @@ estate_will	1
 DVD_will	1
 DT_VB
 no_quarrel	1
-DT_``
-the_``	1
-no_``	1
-,_RB
-,_almost	1
-,_not	2
-,_however	2
-,_just	1
-,_maybe	1
-,_long	1
-,_above	1
-,_rather	2
-,_clearly	1
 CC_PRP
 but_he	1
 But_I	1
@@ -1535,17 +1494,20 @@ n't_view	2
 also_pale	1
 ever_see	1
 n't_agree	1
+however_join	1
 n't_know	1
 n't_wait	1
 n't_go	1
 n't_say	1
 n't_have	1
+So_give	2
 n't_care	1
 n't_die	2
 well_have	1
 n't_take	1
 n't_hold	1
 probably_be	1
+otherwise_buy	1
 totally_alter	1
 actually_play	1
 n't_listen	1
@@ -1555,34 +1517,29 @@ n't_save	1
 n't_purchase	1
 VBG_VB
 playing_show	1
+VBD_MD
+was_ca	1
 IN_IN
 with_between	1
 that_like	1
 from_among	1
 because_of	1
-as_if	1
+because_for	1
 out_of	1
 of_in	1
-from_in	1
+that_because	1
+that_while	1
 in_between	1
+as_if	1
 that_at	1
 As_for	2
+from_in	1
 JJ_RB
 available_not	1
 wrong_here	1
 available_before	1
-,_``
-,_`	1
-,_``	2
 VBZ_WP
 is_what	1
-,_VBD
-,_was	1
-,_VBG
-,_having	1
-,_playing	1
-,_starting	1
-,_reacting	1
 NNS_.
 things_.	1
 influences_.	1
@@ -1595,24 +1552,6 @@ reviewers_.	1
 songs_.	3
 words_.	1
 circumstances_.	1
-,_VBN
-,_done	1
-,_based	1
-NNS_,
-points_,	1
-middles_,	1
-pyrotechnics_,	1
-tracks_,	1
-people_,	2
-beginnings_,	1
-performances_,	1
-purposes_,	1
-songs_,	1
-problems_,	2
-,_VBP
-,_do	1
-,_please	2
-,_are	1
 RBR_RB
 longer_almost	1
 more_controversially	1
@@ -1622,11 +1561,6 @@ used_concerts	1
 VBD_NNP
 was_Hendrix	1
 were_Hendrix	1
-,_VBZ
-,_sounds	1
-,_gives	1
-``_WRB
-``_When	2
 MD_RBR
 will_more	1
 JJ_NNS
@@ -1649,6 +1583,7 @@ only_complaints	1
 similar_circumstances	1
 negative_reviewers	1
 dreamy_tones	1
+sloppy_vocals	1
 representative_performances	1
 unknown_reasons	2
 good_points	1
@@ -1658,45 +1593,58 @@ Please_release	2
 JJ_NNP
 complete_BLUE	1
 mellow_Hendrix	1
-original_Jimi	1
 true_Hendrix	2
 typical_Hendrix	1
+casual_Hendrix	1
+original_Jimi	1
 CD_IN
 one_of	2
 13_of	1
-''_CC
-''_and	1
 IN_WP
 so_what	1
 of_what	1
 VBG_PRP
 editting_itself	1
+filming_he	1
 DT_RB
 a_little	2
 the_newly	1
+this_rather	1
 MD_.
 could_.	1
 NN_PRP
-wonder_it	1
+performance_we	1
+fan_I	1
+version_you	1
+concert_he	2
 thing_I	1
-anything_you	1
-everything_they	1
+penny_you	1
+wonder_it	1
+film_you	1
+DVD_I	1
+dvd_I	1
+fact_he	1
 left_we	2
+course_I	1
 mind_yourself	1
+everything_they	1
 way_he	1
+anything_you	1
+stage_I	1
+money_we	2
 VB_PRP$
 join_his	1
 see_his	2
 release_your	2
 try_his	1
 hold_my	1
-,_MD
-,_ca	1
-,_may	1
 JJ_DT
+unrehearsed_the	1
 worth_every	1
 RB_CC
 here_and	1
+often_but	1
+ago_and	2
 MD_VB
 will_fascinate	1
 would_agree	1
@@ -1737,19 +1685,14 @@ RB_RBR
 much_more	1
 WRB_NNS
 where_solos	1
-,_DT
-,_this	6
-,_a	1
-,_the	9
-,_The	1
 NNS_DT
 songs_all	1
+points_the	1
 YEARS_this	1
+purposes_this	1
 VBZ_NN
 is_nothing	1
 is_head	1
-UH_,
-Yes_,	1
 TO_JJ
 to_negative	1
 VBP_DT
@@ -1762,8 +1705,6 @@ have_some	1
 have_no	1
 read_the	2
 boutht_this	1
-,_WDT
-,_which	1
 JJS_NNS
 best_songs	1
 best_performances	1
@@ -1776,55 +1717,12 @@ following_:	1
 CD_RB
 one_up	1
 one_now	1
-._''
-._''	3
+POS_JJS
+'s_greatest	1
 NNP_JJ
 Amazon_listed	1
 Murray_Lerner-produced	1
 Australia_last	1
-,_WRB
-,_when	1
-NN_,
-release_,	1
-audio_,	2
-version_,	3
-music_,	1
-haven_,	1
-stage_,	1
-book_,	1
-money_,	2
-illness_,	1
-today_,	1
-disc_,	1
-song_,	1
-DVD_,	2
-copy_,	1
-talking_,	1
-penny_,	1
-performance_,	1
-sound_,	1
-track_,	1
-dvd_,	1
-over-indulgence_,	1
-quality_,	2
-hand_,	1
-place_,	1
-morning_,	1
-overdose_,	1
-film-maker_,	1
-fan_,	3
-death_,	1
-concert_,	2
-price_,	2
-viewpoint_,	1
-playing_,	2
-fact_,	1
-A.M_,	1
-course_,	1
-``_NN
-``_foxy	1
-``_hey	1
-``_film	1
 NN_.
 factor_.	1
 house_?	1
@@ -1864,34 +1762,27 @@ set_.	1
 concert_?	1
 game_.	1
 VBN_DT
+cut_the	2
 seen_a	1
 got_the	1
 seen_this	1
 JJR_TO
 longer_to	1
-''_VBZ
-''_is	1
-'_is	1
-''_NN
-''_fan	1
 VBP_VB
 do_know	1
 please_consider	2
 IN_TO
 that_to	1
-''_VBP
-''_are	1
-WDT_VBD
-Which_was	1
-that_were	1
+PRP_CC
+yourself_and	1
+TO_IN
+to_that	1
 PRP_CD
 it_four	1
 VBG_RB
 Having_just	1
+playing_clearly	1
 reacting_normally	1
-DT_,
-that_,	1
-this_,	2
 DT_.
 both_.	1
 this_.	2
@@ -1918,6 +1809,7 @@ as_brilliant	1
 somehow_heretical	1
 Definitely_worth	1
 not_happy	2
+yes_rare	1
 also_replete	1
 so_many	1
 almost_complete	2
@@ -1928,8 +1820,6 @@ extremely_pleased	1
 so_young	1
 so_glad	1
 roughly_similar	1
-VB_``
-complete_``	1
 TO_NNP
 to_Love	1
 TO_NNS
@@ -1942,17 +1832,25 @@ buying_this	1
 concerning_the	1
 observing_the	1
 RB_PRP
-Certainly_I	1
+not_I	1
+controversially_I	1
 Here_I	1
+instead_it	1
+carefully_you	1
+else_he	1
 not_me	1
+Certainly_I	1
+frankly_I	1
+So_I	1
 :_VBG
 ;_Listening	1
 VBZ_PRP
-gives_me	1
-is_it	1
 makes_it	1
+is_it	1
 slams_it	1
 says_it	1
+clicks_it	1
+gives_me	1
 VB_RB
 die_accidently	2
 have_otherwise	1
@@ -1972,22 +1870,22 @@ NN_RBR
 dvd_more	1
 NN_EX
 fan_there	1
-``_JJ
-`_Red	1
-``_serious	1
-``_casual	1
 NNP_IN
+First_although	1
 AM_from	1
 All_of	1
+Jimi_at	1
+Festival_at	1
+Plus_if	1
+Chile_because	1
 Isle_Of	1
+Hendrix_in	1
+Gun_so	1
 Isle_of	6
 Kind_of	1
-Jimi_at	1
+Hendrix_if	2
+Second_of	1
 FACT_that	1
-,_TO
-,_to	1
-JJS_VBN
-best_filmed	1
 IN_VBG
 for_buying	1
 of_filming	1
@@ -1999,12 +1897,6 @@ in_finding	1
 while_playing	1
 IN_VBD
 than_was	1
-,_PRP
-,_it	3
-,_he	5
-,_I	12
-,_we	3
-,_you	4
 CC_JJR
 or_less	1
 IN_VBN
@@ -2013,27 +1905,24 @@ of_extended	1
 VBG_.
 missing_.	1
 dying_.	2
-,_RBR
-,_more	1
-VBG_,
-filming_,	1
-playing_,	1
 JJ_CC
+excellent_and	1
+intense_and	1
 clean_and	1
+lazy_or	1
+atrocious_and	1
 complete_but	1
 shameful_or	1
-atrocious_and	1
-intense_and	1
 IN_VBZ
+about_sounds	1
 that_is	1
 JJ_CD
 marked_5	1
-CD_,
-7_,	1
-five_,	1
 CD_.
 2006_.	1
 2000_.	1
+NNP_WP
+Waters_who	1
 CD_:
 2004_;	1
 1995_-	1
@@ -2063,6 +1952,7 @@ NNP_NN
 ANGEL_documentary	1
 Angel_DVD	1
 Jimi_talking	1
+Hendrix_film	1
 Woodstock_performance	1
 Hendrix_fan	5
 Hendrix_performance	1
@@ -2100,12 +1990,10 @@ the_longer	1
 any_less	1
 NNS_MD
 viewers_would	1
-NNP_``
-Hendrix_``	1
 RBR_IN
 more_than	1
 RB_IN
-so_with	1
+above_for	1
 soon_because	2
 just_like	1
 Yet_on	1
@@ -2120,6 +2008,7 @@ not_at	1
 n't_in	1
 much_as	1
 Also_on	1
+so_with	1
 VBG_IN
 playing_at	1
 shining_through	1
@@ -2132,6 +2021,8 @@ all_five	1
 the_five	1
 this_1	1
 this_one	3
+DT_CC
+this_or	1
 RP_DT
 out_a	1
 VBP_RB
@@ -2148,35 +2039,13 @@ are_n't	1
 do_n't	6
 JJ_VBZ
 great_is	1
-''_NNP
-''_Hendrix	1
-NNP_,
-James_,	1
-Berkeley_,	1
-SBS_,	1
-Emerson_,	1
-Plus_,	1
-Third_,	1
-God_,	1
-Second_,	2
-Trio_,	1
-Waters_,	1
-Monterey_,	1
-Guy_,	1
-Gun_,	1
-First_,	2
-Woodstock_,	1
-Hooker_,	1
-Festival_,	1
-Hendrix_,	8
-Lerner_,	1
-Watchtower_,	1
 NNP_.
 Wight_.	2
 Dvd_.	1
 Angel_.	1
 Mitchell_.	1
 Roll_.	1
+Joe_.	1
 Hendrix_.	1
 POS_CC
 's_or	1
@@ -2190,19 +2059,21 @@ Electric_:	1
 Love_:	1
 Festival_:	1
 Hendrix_-	1
-PRP_DT
-me_the	1
-yourself_a	1
-me_a	1
+RB_VBP
+just_have	1
+also_make	1
+just_say	1
+really_have	1
+never_see	1
+even_want	1
+never_listen	1
 VBZ_:
 is_:	1
+JJ_PRP$
+foremost_my	1
 VBZ_.
 shows_.	1
 is_.	1
-VBZ_,
-thinks_,	2
-ends_,	1
-clicks_,	1
 RB_NN
 apart_everything	1
 NNS_TO
@@ -2210,31 +2081,27 @@ performances_to	1
 lyrics_to	1
 JJ_JJ
 other_performer	1
+lackluster_lazy	1
 no-doubt_exhausting	1
-old_8-track	1
+Baby/New_Rising	1
 performer_alive	1
+old_8-track	1
 unfortunate_visual	1
 other_unfortunate	1
 last_documented	1
-Baby/New_Rising	1
+inane_self-serving	1
 many_other	1
+Great_great	1
 only_bad	1
 real_creative	1
-Great_great	1
-JJR_IN
-less_than	2
-better_than	2
-more_than	1
-more_of	1
-less_of	1
-,_CC
-,_and	20
-,_or	6
-,_but	4
+powerful_high	1
+VBN_PRP
+satisfied_me	1
+pleased_you	1
 WP$_NNS
 whose_fifteen	1
-,_CD
-,_2000	1
+VBZ_JJR
+is_better	1
 NN_WP
 Anyone_who	1
 PRP_TO
@@ -2242,6 +2109,7 @@ you_to	2
 I_to	1
 NNS_VBP
 songs_are	1
+people_please	2
 people_love	1
 cuts_are	1
 PERFORMANCES_ARE	1
@@ -2261,8 +2129,8 @@ over_30	2
 at_2	1
 VBD_PRP$
 said_his	2
-PRP_:
-You_:	1
+IN_CC
+in_and	1
 NNS_VBD
 cuts_were	1
 complaints_were	1
@@ -2290,10 +2158,6 @@ POS_JJ
 's_poor	2
 :_JJ
 -_exciting	1
-''_IN
-''_that	1
-''_so	1
-''_because	1
 VBD_VBN
 heard_satisfied	1
 was_described	1
@@ -2310,11 +2174,12 @@ was_plagued	1
 VBZ_VB
 does_try	1
 VBD_PRP
-enjoyed_it	1
 Was_I	1
-Were_I	1
 thought_I	1
+enjoyed_it	1
+said_it	1
 did_him	1
+Were_I	1
 VBD_VBG
 was_dying	2
 liked_observing	1
@@ -2343,9 +2208,12 @@ been_illness	1
 given_song	1
 NNP_RB
 Monterey_instead	1
+Rider_also	1
 V._Quite	1
 NNP_VBP
+Gun_are	1
 Chile_have	1
+Lady_are	1
 NNS_IN
 pieces_of	1
 shots_of	1
@@ -2354,7 +2222,7 @@ shots_in	1
 tones_of	1
 stars_because	1
 solos_in	1
-tracks_like	1
+tracks_like	2
 days_before	1
 weeks_before	2
 Millions_of	1
@@ -2389,6 +2257,7 @@ Young_makes	1
 Hendrix_is	1
 House_is	1
 CD_has	1
+Gun_is	1
 ANGEL_is	1
 This_is	1
 Young_seems	1
@@ -2422,19 +2291,19 @@ never_will	1
 else_could	1
 CC_NNP
 and_Mitchell	1
+and_Foxy	1
 and_Dvd	1
 and_Muddy	1
 and_Voodoo	1
 and_Roll	2
 &_Palmer	1
-VBD_,
-said_,	2
-was_,	3
 VBD_.
 did_.	1
 advanced_.	1
 NNP_VBG
+Hendrix_reacting	1
 Jimi_playing	1
+Hendrix_playing	1
 Master_shining	1
 NNP_VBD
 Jimi_picked	1
@@ -2443,6 +2312,7 @@ Hooker_was	1
 Jimi_reinvented	1
 Hendrix_died	1
 Jimi_did	1
+Lerner_was	1
 Jimi_played	1
 NNP_POS
 Hendrix_'s	2
@@ -2451,42 +2321,52 @@ Young_'s	4
 NN_RB
 soloing_as	1
 truth_Also	1
+price_above	1
+playing_maybe	1
 art_as	1
 DVD_instead	1
 release_especially	1
 video_now	1
 anything_currently	1
 version_now	1
+A.M_just	1
 anyone_else	1
 everything_else	1
 JJ_IN
-replete_with	1
-brilliant_as	1
-third_that	1
-apparent_that	1
+sure_if	1
 confident_in	1
+young_as	1
+different_from	1
+illustrative_of	1
+masterful_as	1
+third_that	1
+other_so	1
+Many_of	1
+unaware_of	1
+bad_as	1
+disappointing_so	1
+obvious_that	1
+brilliant_as	1
+apparent_that	1
 concerned_about	1
 tired_by	1
-aware_that	1
-illustrative_of	1
-unaware_of	1
 happy_with	2
-Many_of	1
-obvious_that	1
-masterful_as	1
-obtainable_at	1
-sure_if	1
-bad_as	1
-different_from	1
-interested_in	1
 such_as	1
-''_PRP
-''_you	1
+replete_with	1
+heretical_as	1
+aware_that	1
+self-critical_that	1
+obtainable_at	1
+interested_in	1
+JJS_VBN
+best_filmed	1
 NNS_NN
 flaws_everyone	1
 NN_RP
 stand_out	1
 guitar_off	1
+UH_DT
+Yes_the	1
 VBZ_DT
 is_the	2
 's_any	2
@@ -2508,6 +2388,8 @@ One_report	2
 VBZ_NNP
 's_Jimi	1
 has_MUCH	1
+WP_.
+what_?	1
 VBZ_NNS
 forgets_lyrics	1
 VBP_NN
@@ -2516,12 +2398,12 @@ ARE_OUTSTANDING	1
 buy_food	2
 know_none	1
 buy_everything	2
-JJ_''
-casual_''	1
-serious_''	1
 VB_CC
 know_but	1
 look_and	1
+NNP_DT
+Hendrix_a	1
+Watchtower_the	1
 VBN_NNP
 heard_Hendrix	1
 released_Blue	1
@@ -2531,25 +2413,12 @@ down_on	1
 off_at	1
 VBN_NNS
 extended_solos	1
-,_NNP
-,_Jimi	1
-,_Elmore	1
-,_Monterey	1
-,_Buddy	1
-,_Berkeley	1
-,_Lake	1
-,_Young	1
-,_Australia	1
 VBG_NNP
 flying_V.	1
 CC_NNS
 and_shoulders	1
 and_lots	1
 and_pieces	1
-,_NNS
-,_bits	1
-,_middles	1
-,_vocals	1
 WP_IN
 Who_At	1
 VBZ_IN
@@ -2562,9 +2431,10 @@ sings_with	1
 thinks_that	1
 is_out	1
 JJ_NN
+exciting_mind	1
 only_complaint	2
 simple_fact	1
-serious_fan	1
+serious_fan	2
 stunning_soloing	1
 reasonable_price	1
 so-called_document	1
@@ -2600,6 +2470,7 @@ Rising_Sun	1
 incredible_talent	1
 historical_footage	2
 visual_document	1
+complete_version	1
 complete_performance	1
 technical/mechanical/sound-related_problem	1
 other_hand	1

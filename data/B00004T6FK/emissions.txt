@@ -54,12 +54,36 @@ moved	1
 thought	2
 were	3
 found	1
-``
-``	12
-POS
-'s	3
-''
-''	12
+VBN
+spurred	1
+mislabeled	1
+produced	1
+held	1
+used	3
+done	3
+seen	1
+compared	1
+assumed	1
+been	2
+noticed	2
+taken	1
+excited	1
+lived	1
+tried	1
+thrilled	1
+relaxed	2
+overdone	1
+measured	1
+presumed	1
+presented	2
+considered	1
+required	1
+annoyed	1
+fulfilled	1
+found	1
+noted	1
+experienced	1
+referred	1
 VBP
 !!	1
 love	4
@@ -101,36 +125,10 @@ try	1
 're	1
 stand	1
 think	4
-VBN
-spurred	1
-mislabeled	1
-produced	1
-held	1
-used	3
-done	3
-seen	1
-compared	1
-assumed	1
-been	2
-noticed	2
-taken	1
-excited	1
-lived	1
-tried	1
-thrilled	1
-relaxed	2
-overdone	1
-measured	1
-presumed	1
-presented	2
-considered	1
-required	1
-annoyed	1
-fulfilled	1
-found	1
-noted	1
-experienced	1
-referred	1
+WDT
+What	1
+which	5
+that	3
 JJ
 beautiful	2
 GREAT	1
@@ -392,8 +390,8 @@ fact	1
 FW
 THIS	1
 LOVE	1
-,
-,	60
+POS
+'s	3
 .
 !	4
 .	107
@@ -710,7 +708,3 @@ harder	2
 better	5
 easier	2
 more	3
-WDT
-What	1
-which	5
-that	3

@@ -6,12 +6,14 @@ NN_VBZ_DT
 company_superimposes_a	1
 RP_DT_NN
 up_the_instrument	1
+NNP_RB_VBN
+Bailey_better_known	1
 NN_RB_IN
 tutelage_here_from	1
 CC_DT_NN
 and_a_baby	1
-POS_NN_.
-'s_brother_.	1
+NN_NNS_CC
+in-law_problems_and	1
 VBP_DT_NN
 lighten_a_melodrama	1
 NNP_RB_VBZ
@@ -19,16 +21,19 @@ Stewart_also_fakes	1
 IN_JJ_NN
 from_pristine_studio	1
 in_bad_weather	1
-NNP_POS_NN
-Larry_'s_brother	1
-Heidt_'s_band	3
+NNP_IN_JJ
+Horn_while_co-star	1
 VBZ_VBG_DT
 fakes_playing_the	1
-NNP_NNP_NN
-David_Selznick_production	1
+IN_VBG_NNS
+of_struggling_musicians	2
+PRP$_NNP_IN
+His_Horn_while	1
 NNP_NNP_POS
 Adler_Larry_'s	1
 Horace_Heidt_'s	3
+NNP_TO_NNP
+City_to_New	1
 JJ_NN_NNS
 pristine_studio_prints	1
 public_domain_movies	1
@@ -36,17 +41,21 @@ NNP_NNP_TO
 Lake_City_to	1
 PRP_VBD_IN
 it_made_on	2
+NN_DT_NN
+product_this_company	1
 NNP_VBG_DT
 Stewart_playing_a	2
 NN_VBN_IN
 none_dubbed_from	1
-NNP_._''
-Caballero_._''	1
 NN_IN_JJ
 master_of_many	1
-DT_NN_,
-the_harmonica_,	1
-the_fly_,	2
+NN_IN_DT
+furlough_for_the	2
+melodrama_about_a	1
+result_of_some	1
+instrument_as_a	1
+mind_on_the	2
+love_on_the	2
 IN_:_DT
 in_:_the	1
 NN_NNS_VBZ
@@ -76,32 +85,30 @@ VB_IN_NNP
 Watch_for_Raymond	1
 CC_NN_NNS
 and_play_dates	2
+CD_VBD_RB
+one_were_very	2
 MD_RB_VB
 will_surely_die	1
 ca_n't_be	1
-DT_NNP_NN
-the_Utah_chemist	1
-NN_NN_,
-radio_program_,	1
 NN_JJ_NN
 kinda_dingy_part	2
 NN_NN_.
 chemist_serum-creator_.	1
 JJ_IN_NN
 sick_with_pneumonia	1
-NNP_VBZ_PRP$
-Goddard_plays_her	2
 NNP_PRP$_NNP
 Toots_His_Horn	1
 NN_RB_VBN
 picture_loosely_adapted	1
-NN_,_DT
-product_,_this	1
-production_,_some	1
+DT_NN_.
+a_harmonica_?	2
+the_musical_.	1
 NNS_CC_DT
 problems_and_a	1
 NNP_NNP_.
 Broadway_Caballero_.	1
+RB_VBN_RB
+loosely_put_together	2
 IN_NN_VBN
 with_none_dubbed	1
 CD_:_NNP
@@ -111,36 +118,54 @@ CC_RB_TO
 and_there_to	2
 TO_VB_NNP
 to_see_Horace	2
+NNP_NN_DT
+Selznick_production_some	1
 CC_RB_VBD
 but_actually_took	1
-,_CC_RB
-,_but_actually	1
-NNP_,_PRP$
-York_,_their	1
-,_PRP$_NN
-,_their_boy	1
+NNP_NNP_NNP
+Paulette_Goddard_Horace	1
+Charles_Winninger_Mary	1
+BEVERLY_HILLBILLIES_</a>	1
+Art_Carney_Bud	1
+Jerry_Adler_Larry	1
+Mary_Gordon_Frank	1
+Lombard_Jimmy_Stewart	1
+Bud_Jamison_Nestor	1
+Lucile_Watson_Eddie	1
+Bond_Raymond_Bailey	1
+Salt_Lake_City	1
+Coburn_Lucile_Watson	1
+Carney_Bud_Jamison	1
+Ward_Bond_Raymond	1
+James_Stewart_Paulette	1
+Jamison_Nestor_Paiva	1
+Carole_Lombard_Jimmy	1
+Winninger_Mary_Gordon	1
+Jimmy_Stewart_Charles	1
+Charles_Coburn_Lucile	1
+Horace_Heidt_Charles	1
+Goddard_Horace_Heidt	1
+Stewart_Paulette_Goddard	1
+Gordon_Frank_Melton	1
+Watson_Eddie_Quillan	1
+Stewart_Charles_Coburn	1
+Heidt_Charles_Winninger	1
+VB_NNP_NNP
+see_Horace_Heidt	2
 JJ_NN_:
 Minor_downside_:	1
-NN_NN_''
-POY_O_'	1
 NN_IN_PRP$
 restoration_on_their	1
 NNS_VBG_NN
 genres_including_comedy	1
 TO_NNP_NNP
 to_New_York	1
-PRP$_NNP_''
-His_Horn_''	1
 VBD_TO_VB
 were_to_play	2
-,_VBZ_IN
-,_struggles_with	1
 NNP_NNP_VBZ
 Paulette_Goddard_is	1
 Art_Carney_is	2
 Paulette_Goddard_plays	2
-''_CC_``
-''_and_``	1
 IN_DT_NN
 on_the_fly	2
 If_a_serum	1
@@ -152,12 +177,15 @@ JJ_CD_PRP
 only_one_he	1
 VBZ_DT_JJ
 superimposes_a_faint	1
-JJ_NNS_,
-old_films_,	1
+JJ_NN_IN
+not-so-unusual_plot_of	2
+bad_weather_from	1
 IN_NN_.
 with_pneumonia_.	1
 at_home_.	2
 about_average_.	1
+PRP$_NN_DT
+their_product_this	1
 JJ_NN_.
 dingy_part_.	2
 IN_NN_IN
@@ -169,95 +197,73 @@ NNP_NNP_VBG
 Jimmy_Stewart_playing	2
 NNS_CC_NN
 auditions_and_play	2
-NNP_NNP_VBD
-l941_America_had	2
-,_RB_VBN
-,_better_known	1
+DT_NNP_CC
+the_Piper_and	1
 NN_IN_NNP
 weather_from_Salt	1
-JJ_NNS_VBP
-comedic_touches_lighten	1
-CD_,_VBD
-one_,_were	2
+band_on_Pete	1
+DT_NNP_NN
+the_Utah_chemist	1
 VBP_NN_NNS
 have_in-law_problems	1
-NN_DT_NNS
-hunger_these_actors	2
-NN_NN_``
-BRIDGE_aka_``	1
+NN_CC_RB
+harmonica_but_actually	1
+VBG_RB_CC
+rushing_here_and	2
+VBZ_JJ_TO
+is_interesting_to	2
 NN_NN_CD
 EACH_OTHER_1939	1
+O_GOLD_1941	1
+DT_NN_VBG
+the_fly_rushing	2
 DT_NNP_NNP
 THE_BEVERLY_HILLBILLIES	1
 this_David_Selznick	1
 NN_CC_NNS
 war_and_movies	2
-VBZ_``_WRB
-performs_``_When	1
-,_IN_NN
-,_with_none	1
-NNP_NNP_NNP
-Salt_Lake_City	1
-Jerry_Adler_Larry	1
-BEVERLY_HILLBILLIES_</a>	1
-RB_CC_RB
-here_and_there	2
+NNP_NNP_NN
+David_Selznick_production	1
+James_Stewart_master	1
 DT_NN_VBZ
 this_company_superimposes	1
 VBN_RB_.
 put_together_.	2
-VBG_NNS_,
-struggling_musicians_,	2
-NNP_NNP_,
-Ward_Bond_,	1
-Bud_Jamison_,	1
-Horace_Heidt_,	1
-Charles_Winninger_,	1
-Mary_Gordon_,	1
-Carole_Lombard_,	1
-James_Stewart_,	2
-HILLBILLIES_</a>_,	1
-Raymond_Bailey_,	1
-New_York_,	1
-Paulette_Goddard_,	1
-Lucile_Watson_,	1
-Art_Carney_,	1
-Charles_Coburn_,	1
-Jimmy_Stewart_,	1
-DT_JJ_CD
-the_only_one	1
-DT_CD_,
-this_one_,	2
-IN_PRP$_CD
-on_their_60	1
-NN_IN_``
-band_on_``	1
-NN_:_IN
-downside_:_on	1
-NN_NNP_NNP
-banker_Milburn_Drysdale	1
-VBG_NN_,
-including_comedy_,	1
 PRP_VBZ_JJ
 It_is_interesting	2
-RB_RB_VBN
-very_loosely_put	2
+DT_JJ_CD
+the_only_one	1
+NNS_NN_IN
+musicians_love_on	2
+IN_PRP$_CD
+on_their_60	1
+JJ_NNS_VBP
+comedic_touches_lighten	1
+NNP_CC_NNP
+Piper_and_Broadway	1
+NN_:_IN
+downside_:_on	1
+CC_NNP_NNP
+and_Broadway_Caballero	1
+NN_NNP_NNP
+program_James_Stewart	1
+banker_Milburn_Drysdale	1
+DT_CD_VBD
+this_one_were	2
+VBP_WRB_NN
+wonder_how_hunger	2
+NNP_JJ_NN
+Disc_public_domain	1
 JJ_NNS_VBG
 cinematic_genres_including	1
 JJ_TO_VB
 interesting_to_see	2
 CD_CC_CD
 60_and_70	1
-PRP$_NN_IN
-its_mind_on	2
-NN_,_VBG
-fly_,_rushing	2
 VBD_RP_DT
 took_up_the	1
 DT_JJ_JJ
 a_faint_intermittent	1
-PRP$_NN_,
-their_product_,	1
 VB_VBN_IN
 be_flown_in	1
 IN_NN_NN
@@ -265,42 +271,37 @@ of_ECHO_BRIDGE	1
 FOR_EACH_OTHER	1
 NNP_VBD_PRP$
 America_had_its	2
-RB_VBN_RB
-loosely_put_together	2
+VBG_NN_VBZ
+including_comedy_struggles	1
 WP_VBP_NN
 who_have_in-law	1
 NN_POS_NN
 TV_'s_<a href="http://www.amazon.com/gp/product/B002JMRR9E">	1
+CC_NNS_IN
+and_movies_like	2
 TO_VB_DT
 to_make_the	2
 JJ_:_NNP
 uncredited_:_Art	1
 uncredited_:_Ward	1
-NNP_,_NN
-Stewart_,_master	1
-,_DT_JJ
-,_some_comedic	1
+RB_CC_RB
+here_and_there	2
 NNP_NNP_PRP$
+New_York_their	1
 Johnny_Toots_His	1
-,_VBG_RB
-,_rushing_here	2
 JJ_JJ_NN
 faint_intermittent_logo	1
 VBN_IN_NNP
 backed_by_Horace	1
 VBD_IN_NN
 made_on_furlough	2
-NNP_,_IN
-</a>_,_as	1
-DT_NN_.
-a_harmonica_?	2
-the_musical_.	1
 IN_JJ_JJ
 of_many_cinematic	1
 NNS_VBZ_IN
 movies_is_about	1
-JJ_IN_:
-comfortable_in_:	1
+VBN_IN_DT
+spotted_in_this	2
+adapted_from_a	1
 RB_VB_VBN
 n't_be_flown	1
 RB_VBD_RP
@@ -309,44 +310,26 @@ POS_NN_RB
 's_band_again	2
 VBZ_PRP$_JJ
 plays_her_usual	2
-NN_``_NN
-aka_``_Platinum	1
+NN_DT_JJ
+production_some_comedic	1
 VBD_RB_JJ
 was_never_comfortable	1
 VBD_PRP$_NN
 had_its_mind	2
-,_NNP_NNP
-,_Charles_Coburn	1
-,_Eddie_Quillan	1
-,_Bud_Jamison	1
-,_Raymond_Bailey	1
-,_Paulette_Goddard	1
-,_Mary_Gordon	1
-,_Nestor_Paiva	1
-,_James_Stewart	1
-,_Charles_Winninger	1
-,_Lucile_Watson	1
-,_Horace_Heidt	1
-,_Frank_Melton	1
-,_Jimmy_Stewart	1
-NN_MD_RB
-serum_ca_n't	1
-boy_will_surely	1
+VBG_NNS_NN
+struggling_musicians_love	2
 CC_CD_NN
 and_70_year	1
-VBZ_JJ_TO
-is_interesting_to	2
 NN_IN_NN
 MADE_FOR_EACH	1
 sign_of_restoration	1
 DT_NN_RB
 a_picture_loosely	1
-NN_NNP_''
-Platinum_Disc_''	1
 DT_NNS_CC
 the_auditions_and	2
-''_IN_JJ
-''_while_co-star	1
+NN_MD_RB
+serum_ca_n't	1
+boy_will_surely	1
 VBN_IN_JJ
 dubbed_from_pristine	1
 flown_in_bad	1
@@ -355,15 +338,12 @@ as_the_Utah	1
 In_this_David	1
 PRP_VBP_WRB
 You_wonder_how	2
+VBZ_WRB_NNP
+performs_When_Johnny	1
 IN_DT_NNS
 for_the_folks	2
-,_IN_DT
-,_as_the	1
-,_like_this	2
 VBD_RB_RB
 were_very_loosely	2
-NNP_''_IN
-Horn_''_while	1
 DT_NN_MD
 a_serum_ca	1
 IN_DT_CD
@@ -375,8 +355,6 @@ on_some_of	1
 NNP_VBZ_VBN
 Carney_is_spotted	2
 Goddard_is_backed	1
-NN_''_NN
-O_'_GOLD	1
 IN_NN_POS
 on_TV_'s	1
 IN_JJ_NNP
@@ -387,21 +365,14 @@ NN_RB_.
 band_again_.	2
 VB_DT_NNS
 make_the_auditions	2
-NN_,_CC
-harmonica_,_but	1
-``_NNP_DT
-``_Pete_the	1
+POS_NN_.
+'s_brother_.	1
 NNS_IN_NN
-Transfers_of_ECHO	1
 folks_at_home	2
-NNS_,_IN
-films_,_with	1
-movies_,_like	2
-JJ_NN_IN
-not-so-unusual_plot_of	2
-bad_weather_from	1
-IN_``_NNP
-on_``_Pete	1
+Transfers_of_ECHO	1
+films_with_none	1
+JJ_NNS_IN
+old_films_with	1
 DT_NN_IN
 No_sign_of	1
 a_melodrama_about	1
@@ -426,9 +397,10 @@ CD_PRP_VBD
 one_he_was	1
 VBZ_IN_DT
 struggles_with_the	1
-,_NN_IN
-,_master_of	1
-,_love_on	2
+PRP$_NN_IN
+its_mind_on	2
+NNP_VBZ_WRB
+Jimmy_performs_When	1
 NNP_DT_NNP
 Pete_the_Piper	1
 NN_NNS_.
@@ -436,67 +408,51 @@ studio_prints_.	1
 play_dates_.	2
 DT_NNS_IN
 the_folks_at	2
-CC_``_NNP
-and_``_Broadway	1
-VBN_IN_DT
-spotted_in_this	2
-adapted_from_a	1
+JJ_IN_:
+comfortable_in_:	1
 NNP_NN_NN
 Utah_chemist_serum-creator	1
-NNP_,_RB
-Bailey_,_better	1
-NNP_VBZ_``
-Jimmy_performs_``	1
+NNP_VBZ_PRP$
+Goddard_plays_her	2
 NN_JJ_IN
 baby_sick_with	1
 NNP_NNP_JJ
 Eddie_Quillan_uncredited	1
 Frank_Melton_uncredited	1
-VBP_WRB_NN
-wonder_how_hunger	2
 IN_DT_JJ
 from_a_popular	1
 in_this_not-so-unusual	2
 about_a_young	1
 with_the_only	1
 of_some_off-screen	1
-,_VBD_RB
-,_were_very	2
 DT_JJ_NNP
 A_young_Art	2
 DT_NN_CC
-this_movie_or	2
 the_war_and	2
+this_movie_or	2
+the_harmonica_but	1
 DT_NNS_VBD
 these_actors_were	2
 NNS_VBP_DT
 touches_lighten_a	1
 :_IN_DT
 :_on_some	1
-NN_NNS_CC
-in-law_problems_and	1
-DT_NN_JJ
-a_baby_sick	1
-NN_IN_DT
-furlough_for_the	2
-melodrama_about_a	1
-result_of_some	1
-instrument_as_a	1
-mind_on_the	2
-love_on_the	2
 IN_PRP$_NN
 of_their_product	1
-NNS_,_NN
-musicians_,_love	2
-NNP_''_CC
-Piper_''_and	1
+NNP_NNP_RB
+Raymond_Bailey_better	1
+NNP_NNP_VBD
+l941_America_had	2
+NNP_PRP$_NN
+York_their_boy	1
 NNP_JJ_:
 Melton_uncredited_:	1
 Quillan_uncredited_:	1
-NNP_NN_,
-Selznick_production_,	1
-NNP_TO_NNP
-City_to_New	1
+NN_NN_NNP
+aka_Platinum_Disc	1
+radio_program_James	1
+IN_NNP_DT
+on_Pete_the	1
 RB_TO_VB
 there_to_make	2
 NN_IN_VBG
@@ -506,8 +462,6 @@ POS_NN_DT
 JJ_NNP_NNP
 young_Art_Carney	2
 co-star_Paulette_Goddard	1
-VB_NNP_NNP
-see_Horace_Heidt	2
 VBD_PRP_VBD
 was_it_made	2
 NN_WP_VBP
@@ -518,37 +472,23 @@ RB_VBZ_VBG
 also_fakes_playing	1
 JJ_JJ_NNS
 many_cinematic_genres	1
-``_NNP_NNP
-``_Broadway_Caballero	1
-VBG_RB_CC
-rushing_here_and	2
-IN_VBG_NNS
-of_struggling_musicians	2
-DT_NNP_''
-the_Piper_''	1
+DT_NN_JJ
+a_baby_sick	1
+NNP_NN_IN
+Stewart_master_of	1
+NN_NNP_JJ
+Platinum_Disc_public	1
 PRP_VBD_RB
 he_was_never	1
-NNP_,_NNP
-Lombard_,_Jimmy	1
-Jamison_,_Nestor	1
-Gordon_,_Frank	1
-Goddard_,_Horace	1
-Watson_,_Eddie	1
-Heidt_,_Charles	1
-Stewart_,_Paulette	1
-Stewart_,_Charles	1
-Bond_,_Raymond	1
-Coburn_,_Lucile	1
-Winninger_,_Mary	1
-Carney_,_Bud	1
+RB_RB_VBN
+very_loosely_put	2
+NNP_POS_NN
+Larry_'s_brother	1
+Heidt_'s_band	3
 JJ_NN_WP
 young_couple_who	1
-''_JJ_NN
-''_public_domain	1
-NN_,_VBZ
-comedy_,_struggles	1
-``_NN_NNP
-``_Platinum_Disc	1
+NN_VBZ_IN
+comedy_struggles_with	1
 NN_JJ_NNS
 year_old_films	1
 DT_JJ_NN
@@ -558,23 +498,26 @@ a_young_couple	1
 some_off-screen_tutelage	1
 IN_NN_NNP
 as_banker_Milburn	1
-''_NN_CD
-'_GOLD_1941	1
+NN_DT_NNS
+hunger_these_actors	2
 NN_NN_NN
+BRIDGE_aka_Platinum	1
 ECHO_BRIDGE_aka	1
+POY_O_GOLD	1
+NNS_IN_DT
+movies_like_this	2
 WRB_NN_DT
 how_hunger_these	2
 VBZ_IN_NN
 is_about_average	1
+NN_VBG_RB
+fly_rushing_here	2
 CD_NN_JJ
 70_year_old	1
 NNP_IN_DT
 Bailey_In_this	1
+</a>_as_the	1
 Paiva_In_a	1
-``_WRB_NNP
-``_When_Johnny	1
-CC_NNS_,
-and_movies_,	2
 NNS_VBD_TO
 actors_were_to	2
 NN_DT_NNP
@@ -590,19 +533,14 @@ for_Raymond_Bailey	1
 in_l941_America	2
 from_Salt_Lake	1
 by_Horace_Heidt	1
-NN_,_NNP
-program_,_James	1
-,_DT_NN
-,_this_company	1
 RB_VBN_IN
 better_known_as	1
 loosely_adapted_from	1
 NNP_NNP_IN
+HILLBILLIES_</a>_as	1
 Milburn_Drysdale_on	1
 Raymond_Bailey_In	1
 Nestor_Paiva_In	1
-NNP_''_JJ
-Disc_''_public	1
 :_NNP_NNP
 -_Carole_Lombard	1
 -_James_Stewart	1

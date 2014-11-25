@@ -11,13 +11,10 @@ NNS_IN
 adventures_with	1
 RB_NNP
 Not_T.V.	1
-,_PRP$
-,_his	1
-TO_VB
-to_deal	1
-NN_''
-Fright_''	1
-Scream_''	1
+NN_CC
+show_and	1
+RB_IN
+forwards_in	1
 CC_JJ
 and_outer	1
 RB_CC
@@ -26,13 +23,11 @@ VBP_RB
 travel_backwards	1
 VB_DT
 meet_the	1
-``_DT
-``_The	1
+:_NN
+:_Love	1
 NNS_VBP
 ghosts_travel	1
-IN_JJ
-at_First	1
-with_prehistoric	1
+manners_make	1
 VBP_CD
 are_five	1
 NNP_.
@@ -40,8 +35,6 @@ Fatula_.	1
 Maxi_.	1
 NN_TO
 time_to	1
-NN_,
-show_,	1
 PRP$_NN
 his_friend	1
 CC_RB
@@ -62,32 +55,21 @@ Tommy_Starson	1
 Prehistoric_Hi-Jinx	1
 Count_Fatula	2
 Zsa_Zsa	1
+Fatula_T.V.	1
 Starson_T.V.	1
 Hairy_Scary	1
 VBP_NN
 teach_Mean	1
-RB_IN
-forwards_in	1
+TO_VB
+to_deal	1
 RB_JJ
 frightfully_funny	1
-,_CC
-,_and	1
 VBP_DT
 make_an	1
 RB_VBP
 Here_are	1
 NNS_.
 criminals_.	1
-NNS_,
-manners_,	1
-,_VBP
-,_make	1
-NNP_''
-T.V._''	1
-Fatula_''	1
-Hi-Jinx_''	1
-:_``
-:_``	1
 DT_NNS
 some_manners	1
 NNS_:
@@ -98,6 +80,7 @@ DT_NNP
 the_Tommy	1
 NNP_DT
 McSnort_some	1
+Hi-Jinx_The	1
 DT_JJ
 the_thirsty	1
 the_crime-fighting	1
@@ -123,22 +106,19 @@ CC_NNP
 and_Maxi	1
 IN_DT
 on_the	1
-NNP_,
-Casper_,	1
-``_NN
-``_Love	1
-``_NNP
-``_T.V.	1
-``_Prehistoric	1
-``_Count	1
+IN_JJ
+at_First	1
+with_prehistoric	1
 NN_NNS
 space_criminals	1
+NNP_PRP$
+Casper_his	1
 NN_NNP
 Mean_Muscle	1
 duo_Mini	1
+Scream_Count	1
 friend_Hairy	1
-''_``
-''_``	4
+Fright_Prehistoric	1
 NN_IN
 appearance_on	1
 Love_at	1

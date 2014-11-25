@@ -5,12 +5,13 @@ of_wit	1
 of_pacing	1
 of_scriptor	1
 of_compassion	1
-,_IN
-,_with	1
 POS_NNS
 's_plans	1
 NNP_IN
+Tattoo_of	1
 Hays_as	1
+NNS_RB
+plans_particularly	1
 CC_JJ
 but_meagre	1
 but_exotic	1
@@ -20,9 +21,6 @@ will_not	1
 NN_WDT
 weapon_that	1
 CD-ROM_which	1
-PRP$_NNS
-his_drinks	1
-his_characters	1
 VB_DT
 hide_the	1
 translocate_the	1
@@ -42,6 +40,7 @@ VBD_CD
 was_one	1
 NN_TO
 compassion_to	1
+yacht_to	1
 PRP_IN
 her_in	1
 him_into	2
@@ -72,12 +71,10 @@ in_it	1
 on_himself	1
 of_her	1
 that_I	2
+NNP_WP
+Hays_who	1
 VBZ_CC
 is_but	1
-,_FW
-,_ipso	1
-,_NN
-,_navigator	1
 NNS_NN
 powers_billiarder	1
 POS_NN
@@ -95,6 +92,7 @@ NNP_NN
 Cyber_Bandit	1
 Ant_lover	1
 Cockney_shipmate	1
+Kemp_navigator	1
 VBZ_RB
 is_not	1
 is_just	1
@@ -144,11 +142,13 @@ who_has	1
 PRP_VBN
 you_involved	1
 PRP_VBZ
+her_steals	1
 It_has	1
 it_ends	1
 NNP_CC
 Wells_and	1
 Hong_and	1
+Jones_but	1
 Kemp_and	1
 Jack_and	1
 IN_.
@@ -156,10 +156,8 @@ of_.	1
 RB_IN
 literally_after	1
 so_since	1
-,_RB
-,_thereby	1
-,_constantly	1
-,_particularly	1
+DT_VBZ
+This_is	1
 PRP$_VBG
 his_acting	1
 CC_PRP
@@ -175,8 +173,6 @@ not_be	1
 n't_get	1
 PRP_.
 himself_.	1
-PRP_,
-her_,	1
 IN_PRP$
 of_your	1
 upon_his	1
@@ -187,28 +183,8 @@ on_their	1
 of_its	1
 for_his	1
 at_their	1
-RB_JJ
-yet_adept	1
-wryly_devilish	1
-easily_visible	1
-NN_,
-mogul_,	1
-wit_,	1
-yacht_,	1
-mistress_,	1
-pacing_,	1
-island_,	1
-plot_,	1
-implementation_,	1
-temptress_,	1
-design_,	1
-NNP_,
-Paul_,	1
-Wells_,	1
-Kemp_,	1
-Hays_,	1
-Jones_,	1
-Airplane_,	1
+PRP_VB
+it_get	1
 NNP_.
 Tattoo_.	1
 Hayes_.	1
@@ -228,17 +204,12 @@ her_objective	1
 your_seat	1
 her_flight	1
 their_part	1
-``_NNP
-``_Pacifica	1
 VBD_VB
 helped_bring	1
 RB_CD
 just_one	1
 NNP_:
 Pacifica_:	1
-JJ_,
-sexy_,	1
-energetic_,	1
 JJ_.
 wonderful_.	1
 VBG_PRP$
@@ -249,8 +220,6 @@ did_n't	1
 was_unjustly	1
 NN_DT
 round_a	1
-RB_,
-alone_,	1
 VBN_IN
 ruled_by	1
 typecast_as	1
@@ -263,19 +232,12 @@ seen_in	1
 NNS_.
 abilites_.	1
 crimes_.	1
-,_VBN
-,_played	1
-NNS_,
-characters_,	1
-plans_,	1
 CC_IN
 and_from	1
 VBD_NNP
 was_Sailor	1
 VBP_JJ
 are_lovely	1
-,_VBZ
-,_steals	1
 RP_PRP$
 out_his	1
 VB_POS
@@ -289,9 +251,10 @@ film_as	1
 fan_of	1
 price_for	1
 involvement_with	1
-craft_of	1
+implementation_with	1
 affair_as	1
 condition_of	1
+craft_of	1
 deal_of	1
 globe_after	1
 back_within	1
@@ -314,8 +277,10 @@ good_reviews	1
 many_films	1
 JJ_JJ
 directed_human	1
-outer_directed	1
 realistic_sci-fi	1
+sexy_realistic	1
+outer_directed	1
+energetic_sexy	1
 exotic_Asian	1
 JJ_NNP
 devilish_Wells	1
@@ -325,24 +290,24 @@ one_of	2
 PRP$_JJS
 their_best	1
 his_best	1
-,_CC
-,_and	3
-,_but	2
 NN_NNS
 footage_fixes	1
 NN_NNP
+scriptor_James	1
+title_Pacifica	1
+mogul_Morgan	1
 shipmate_Manny	1
 director_Erik	1
-scriptor_James	1
+mistress_Rebecca	1
 JJS_JJ
 best_deadpan	1
-RB_VBN
-quite_suprised	1
-unjustly_typecast	1
+NN_WP
+temptress_who	1
 DT_RB
 a_wryly	1
-,_TO
-,_to	1
+PRP$_NNS
+his_drinks	1
+his_characters	1
 PRP$_NNP
 his_Cockney	1
 CC_NN
@@ -375,6 +340,11 @@ NN_VBN
 leave_interrupted	1
 NNS_VBP
 accents_are	1
+RB_VBN
+quite_suprised	1
+unjustly_typecast	1
+VBP_PRP$
+have_their	1
 VBG_DT
 having_the	1
 being_an	1
@@ -384,8 +354,10 @@ I_ca	1
 she_will	1
 VBP_VBN
 have_seen	1
-VBP_PRP$
-have_their	1
+NNP_VBZ
+Robinson_is	1
+Fleming_is	1
+Morris_permits	1
 JJS_IN
 best_in	1
 POS_VBZ
@@ -417,8 +389,8 @@ opposition_troupe	1
 travelogue_footage	1
 budget_film	1
 book_background	1
-NNP_''
-Tattoo_''	1
+NN_FW
+island_ipso	1
 DT_NNS
 The_accents	1
 the_minds	1
@@ -438,13 +410,6 @@ Both_Martin	1
 an_Adam	1
 EX_VBD
 there_were	1
-''_IN
-''_of	1
-,_JJ
-,_sexy	1
-,_realistic	1
-,_weary	1
-,_fantastic	1
 VB_WRB
 see_how	1
 DT_JJ
@@ -477,9 +442,12 @@ hits_that	1
 JJS_NNS
 Most_people	1
 NNS_CC
+characters_and	1
 reviews_or	1
 VBD_PRP
 received_it	1
+NNP_JJ
+Paul_weary	1
 IN_JJ
 of_virtual	1
 of_scenic	1
@@ -493,6 +461,8 @@ time_.	1
 film_.	2
 VBN_NN
 financed_development	1
+NNP_RB
+Airplane_constantly	1
 NNP_VBP
 Ant_are	1
 Ant_have	1
@@ -515,10 +485,13 @@ scintillas_of	1
 NNS_PRP
 films_he	1
 NN_CC
-freedom_but	1
 acting_and	1
-escape_and	1
 lover_and	1
+pacing_but	1
+escape_and	1
+design_and	1
+freedom_but	1
+wit_and	1
 VB_JJ
 get_good	1
 be_able	1
@@ -529,27 +502,20 @@ to_see	1
 to_own	1
 to_achieve	1
 to_aid	1
-NNP_VBZ
-Robinson_is	1
-Fleming_is	1
-Morris_permits	1
-NN_``
-title_``	1
+NN_VBG
+billiarder_paying	1
+seat_waiting	1
 NN_VBD
 role_helped	1
 title_was	1
-DT_VBZ
-This_is	1
 NN_VBZ
 acting_turns	1
 movie_is	1
 sleeper_hits	1
 part_is	1
-NN_VBG
-billiarder_paying	1
-seat_waiting	1
 RB_RB
 particularly_so	1
+alone_thereby	1
 not_yet	1
 VBD_IN
 played_in	1
@@ -557,6 +523,8 @@ did_that	1
 knew_of	1
 NN_VBP
 troupe_are	1
+NNP_VBN
+Wells_played	1
 NNP_POS
 Sailor_'s	2
 Wells_'	1
@@ -576,6 +544,8 @@ EX_VBP
 there_are	1
 IN_EX
 as_there	2
+NN_JJ
+plot_fantastic	1
 VBZ_DT
 has_a	1
 is_the	1
@@ -601,8 +571,10 @@ DT_JJS
 the_best	1
 NN_PRP$
 spilling_his	1
-,_WP
-,_who	2
+RB_JJ
+yet_adept	1
+wryly_devilish	1
+easily_visible	1
 VB_PRP
 say_I	1
 aid_her	1
@@ -634,11 +606,6 @@ understands_she	1
 keeps_you	1
 VBN_TO
 engineered_to	1
-PRP_VB
-it_get	1
-,_NNP
-,_Rebecca	1
-,_Morgan	1
 CC_NNP
 and_Adam	1
 VBG_NNS

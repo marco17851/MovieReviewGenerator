@@ -4,12 +4,7 @@ NN	2
 VBG
 IN	2
 FW
-``
-,
-DT	1
-RB	1
-NNP	2
-''
+VBN
 VBP
 RB	1
 NNP	1
@@ -32,14 +27,14 @@ NN	4
 NN
 VBG	1
 NN	4
-CC	1
-,	2
+CC	2
 .	3
-''	1
 WDT	1
 RB	1
 IN	1
 VBZ	1
+NNS	1
+NNP	1
 POS
 TO
 VB	1
@@ -65,20 +60,19 @@ NN	1
 .	1
 NNP
 VBZ	1
-,	2
-NNP	2
+DT	1
+NNP	3
 VB
 PRP$	2
 :	1
 CC
 DT	1
-VBN
+CD
+NNS	1
 IN
 PRP$	1
 PRP	1
 DT	4
 CD	2
-CD
-NNS	1
 MD
 VB	1

@@ -38,6 +38,8 @@ NNP_VB
 Zamm_try	1
 Gadget_try	1
 Gadget_bumble	1
+NNS_PRP$
+resources_their	1
 TO_WRB
 to_when	1
 to_how	1
@@ -57,18 +59,6 @@ Prior_to	1
 enough_to	2
 not_to	2
 just_to	1
-VBP_,
-believe_,	1
-know_,	1
-IN_``
-that_``	1
-as_``	1
-on_``	1
-besides_``	1
-of_``	1
-between_``	1
-After_``	1
-Unlike_``	1
 VBP_.
 share_.	1
 VBP_CD
@@ -82,14 +72,12 @@ based_.	1
 disappointed_.	1
 bored_.	1
 done_.	1
-VBN_,
-used_,	1
-filmed_,	1
-hidden_,	1
 VB_JJR
 be_happier	1
 be_better	1
 be_more	1
+JJ_VBN
+sad_given	1
 WDT_MD
 that_could	1
 that_would	1
@@ -106,11 +94,13 @@ is_one	4
 's_7	1
 VBZ_CC
 does_and	1
+progresses_but	1
 NNS_WDT
 parts_that	2
 films_that	1
-stories_that	1
+children_which	1
 features_that	1
+stories_that	1
 RB_JJR
 considerably_more	1
 even_worse	1
@@ -119,14 +109,13 @@ much_more	1
 much_quicker	1
 little_more	1
 no_better	1
-PRP_PRP
-them_myself	1
-''_MD
-'_will	1
+WP_VBD
+who_picked	1
+Who_replaced	1
+who_played	1
+whom_was	1
 RP_.
 out_.	1
-RP_,
-off_,	1
 VBN_JJ
 loved_wise-talking	1
 found_cheap	1
@@ -139,10 +128,13 @@ What_is	1
 who_is	1
 NNP_CC
 Beauty_And	1
-Quimby_and	1
+Dame_and	1
+Adams_and	1
 Mitchell_and	1
 Claw_and	1
+Quimby_and	1
 Broderick_or	2
+Robocop_and	1
 Gadgetmobile_and	1
 NNP_CD
 August_29	1
@@ -151,12 +143,21 @@ Gadget_2	9
 This_one	1
 Channel_17	1
 September_5	1
-WP_MD
-what_could	1
+DT_PRP
+all_I	2
 RP_VBD
 out_were	1
-JJR_NNS
-better_films	1
+JJ_.
+late_.	1
+same_.	1
+generous_.	1
+expensive_.	1
+disappointed_.	1
+confusing_.	1
+terrible_.	3
+entertaining_.	1
+simple_.	1
+first_.	1
 :_JJR
 -_more	1
 RBS_JJ
@@ -175,10 +176,8 @@ of_their	1
 in_my	4
 that_his	1
 at_my	1
-NNS_''
-glitches_'	1
-``_VBG
-``_reviewing	1
+NN_VB
+time_do	1
 VBD_PDT
 eliminated_all	1
 IN_WDT
@@ -208,6 +207,7 @@ her_dog	1
 my_niece	1
 their_maverick	1
 VB_IN
+change_in	1
 be_like	1
 start_with	1
 end_with	2
@@ -230,6 +230,7 @@ CD_WDT
 one_that	1
 JJ_PRP
 clumsy_you	1
+first_she	1
 glad_we	1
 sure_it	1
 VBD_RB
@@ -254,14 +255,26 @@ determined_not	1
 was_just	1
 was_really	1
 NN_DT
+way_the	1
+G2_the	1
+feature_no	1
+constable_the	1
 dawn_the	1
 anything_this	1
-face_this	1
+face_this	2
+movie_this	1
 franchise_a	1
-reason_the	1
 actor_this	1
+reason_the	1
+movie_the	1
+film_a	2
+timing_this	1
 giggle_a	1
-film_a	1
+plenty_this	1
+cartoon_the	1
+G2_a	1
+action_this	1
+base_the	1
 WDT_RB
 that_completely	1
 TO_DT
@@ -271,6 +284,7 @@ to_that	2
 to_a	1
 NN_CD
 Jungle_2	1
+cartoon_one	1
 childhood_one	1
 show_one	1
 WP_TO
@@ -290,6 +304,8 @@ VB_NNS
 spark_misfires	1
 get_audiences	1
 get_laughs	1
+CD_WP
+17_who	1
 VB_NNP
 get_Cheri	1
 watch_French	1
@@ -299,8 +315,8 @@ play_Claw	1
 monitor_Gadget	1
 WRB_.
 why_?	1
-PRP_WP
-it_what	1
+NNS_NNS
+effects_lots	1
 VBG_JJR
 reviewing_better	1
 JJS_JJ
@@ -332,17 +348,17 @@ RB_NNP
 not_Gadget	1
 instead_This	1
 then_Matthew	1
+right_Disney	1
 too_Gadget	1
 WDT_NN
 what_country	1
 whatever_situation	1
-,_PRP$
-,_their	1
 IN_RB
+of_satirically	1
 that_even	1
 with_nowhere	1
 except_not	1
-of_satirically	1
+that_well	1
 by_then	1
 if_not	1
 by_far	1
@@ -359,11 +375,13 @@ VBG_TO
 hoping_to	2
 going_to	1
 VBP_PRP
+beg_you	1
+believe_it	1
+know_she	1
+suppose_it	1
 think_it	1
 play_it	1
 bring_it	1
-beg_you	1
-suppose_it	1
 RBR_VB
 further_spark	1
 CD_VBD
@@ -382,15 +400,10 @@ and_cheesier	1
 and_originality	1
 and_original	1
 CD_VBZ
-2_is	2
+2_is	4
 one_is	1
+2_has	1
 One_is	1
-VB_,
-relax_,	1
-change_,	1
-do_,	1
-enjoy_,	1
-love_,	1
 VB_.
 recommend_!	1
 dry_.	1
@@ -418,14 +431,6 @@ CD_VBP
 two_are	1
 NNS_JJ
 years_old	1
-NNP_''
-Dredd_''	1
-Gadget_''	4
-Robocop_''	1
-Christmas_''	1
-Sun_''	1
-VBG_:
-squinting_...	1
 DT_NNS
 the_gadgets	1
 a_critics	1
@@ -466,10 +471,13 @@ for_Matthew	1
 of_Notre	1
 with_Hercules	1
 of_Riverton	2
+besides_Third	1
+between_Robocop	1
 into_Gadget	1
 as_Tenessee	1
 Like_Kramer	1
 about_Stewart	1
+on_Third	1
 though_Eliane	1
 by_French	2
 Like_French	1
@@ -488,6 +496,7 @@ on_August	1
 of_D.L.	1
 from_Home	1
 as_Gadget	1
+that_Inspector	1
 of_Philadelphia	1
 that_Penny	1
 of_Gadget	1
@@ -503,14 +512,15 @@ the_Gadgetmobile	3
 the_Little	1
 a_Google	1
 The_Lion	1
-a_Dr.	1
+both_Inspector	1
 the_Broderick	1
-an_Aussie	1
+a_Dr.	1
 the_Inspector	3
 a_Disney	1
 The_Longest	1
 the_Mum	1
 the_Gadetmobile	1
+an_Aussie	1
 The_Inspector	1
 the_Smurfs	1
 VBD_RBR
@@ -541,25 +551,23 @@ thought_the	1
 was_an	2
 did_a	1
 NNS_CC
+families_or	1
+actors_but	1
 gadgets_and	3
 surprises_and	1
 grandchildren_and	1
+cartoons_but	1
 hours_and	1
 colors_and	1
 actors_and	1
 scenes_and	1
 corners_and	1
+reviews_nor	1
 antics_and	1
 misfires_and	1
-bloopers_and	1
-,_VB
-,_bring	1
-,_do	1
-JJR_IN
-raspier_than	1
-more_than	1
-more_like	3
-more_of	3
+bloopers_and	2
+VBN_PRP
+seen_it	1
 VBP_IN
 mean_that	1
 're_like	1
@@ -567,22 +575,41 @@ consider_that	1
 think_that	1
 NN_CC
 comedy_and	1
-book_and	1
-laugh_and	1
-time_and	1
-laughter_and	1
 cornier_and	1
+time_and	1
 lame-brain_and	1
-remake_and	1
-fun_and	1
-Penny_and	1
-Eisner_and	1
-spunk_and	1
+crime_and	1
 movie_and	1
+plot_and	1
+line_but	1
+cartoon_but	2
+fun_and	1
+Brain_and	2
+spunk_and	1
 age_and	1
 hour_or	1
 masterpiece_but	1
+laughter_and	1
+Pride_and	1
+weekend_and	1
+storyline_but	1
+Eisner_and	1
+remake_and	1
+hole_but	1
+investigation_but	1
+choice_and	1
+friend_but	1
 name_and	1
+film_and	3
+book_and	1
+page_and	1
+laugh_and	1
+grace_and	1
+Penny_and	1
+laugh_but	1
+writing_or	1
+anyone_and	1
+company_but	1
 WDT_PRP
 which_it	1
 DT_JJS
@@ -602,13 +629,15 @@ a_higher	1
 VBZ_LS
 stinks_i	1
 NN_JJ
-cyborg_super	1
+series_such	1
 kid_friendly	1
 film_much	1
 concept_equal	1
 cast_good	1
+cyborg_super	1
 RB_EX
-Unfortunately_there	1
+Unfortunately_there	2
+then_there	1
 thus_there	1
 NNP_NNS
 Gadget_cartoons	1
@@ -617,12 +646,14 @@ Sun_steps	1
 Gadget_movies	2
 M.A.D._agents	1
 NNP_NNP
+Everett_Michelle	1
 Lion_King	1
 Rated_G.	1
 Notre_Dame	1
 Rock_Lite	1
 Sigrid_Thornton	1
 G._Inspector	1
+Broderick_Rupert	1
 Rupert_Everett	4
 Third_Rock	2
 Chief_Quimby	1
@@ -654,10 +685,13 @@ I_HATE	1
 D.L._Hughley	3
 ALERT_!!!	1
 D._L.	1
+Gadget_Mathew	1
 Eliane_Hendrix	1
 L._Hughley	1
 Little_Mermaid	1
 Chris_Rock	1
+Trachtenberg_Joely	1
+TIME_GADGET	1
 AND_D.L.	1
 Inspector_Gadget	21
 Dabney_Coleman	1
@@ -680,13 +714,10 @@ please_have	1
 JJR_.
 better_.	1
 funnier_.	1
-JJR_,
-older_,	1
-better_,	1
-quicker_,	1
-happier_,	1
-DT_PRP
-all_I	1
+VBN_CC
+spanked_and	1
+seen_both	1
+filmed_or	1
 VBN_TO
 supposed_to	1
 known_to	1
@@ -696,8 +727,8 @@ introduced_to	2
 used_to	1
 bothered_to	1
 sent_to	1
-DT_WRB
-all_when	1
+RBR_TO
+closer_to	1
 IN_DT
 through_the	1
 with_another	1
@@ -761,6 +792,7 @@ than_the	3
 at_the	1
 that_the	4
 of_the	33
+Unlike_The	1
 into_a	1
 as_some	1
 In_the	2
@@ -770,36 +802,14 @@ CD_TO
 one_to	2
 JJR_RB
 worse_then	1
-VBG_''
-reviewing_''	1
 VB_WP
 know_who	1
 save_what	1
 RB_WRB
 So_whenever	1
+So_when	1
 CD_POS
 1980_'s	1
-RB_,
-together_,	1
-Incidentally_,	1
-However_,	2
-back_,	2
-truly_,	1
-Also_,	1
-though_,	1
-right_,	1
-respectively_,	1
-else_,	1
-Really_,	1
-again_,	1
-alone_,	1
-there_,	1
-Unfortunately_,	1
-actually_,	1
-then_,	1
-So_,	2
-instead_,	1
-well_,	2
 RB_.
 now_!	1
 ago_.	1
@@ -814,11 +824,14 @@ here_?	1
 well_.	3
 religiously_.	1
 again_!	1
-VBN_PRP$
-rebooted_my	1
+VBD_CC
+was_and	1
+tried_but	1
 VBD_CD
+commented_one	1
 were_3	1
 NNS_DT
+storylines_this	1
 gizmos_a	1
 hours_every	1
 things_the	1
@@ -835,8 +848,6 @@ when_it	3
 :_IN
 --_for	1
 -_with	1
-''_:
-''_--	1
 PRP$_JJ
 your_entire	1
 his_new	1
@@ -854,11 +865,10 @@ his_behind-the-scenes	1
 your_very	1
 our_male	1
 my_inner	1
-WP_VBD
-who_picked	1
-Who_replaced	1
-who_played	1
-whom_was	1
+PRP_PRP
+myself_I	1
+me_I	1
+them_myself	1
 IN_PRP
 once_I	1
 as_we	1
@@ -875,13 +885,14 @@ If_you	1
 as_they	2
 like_myself	1
 that_they	2
+So_it	1
 While_it	1
 though_it	1
-So_it	1
+with_it	1
 that_I	3
 from_me	1
 that_she	1
-for_you	1
+for_you	2
 if_she	1
 that_he	3
 so_I	1
@@ -896,10 +907,8 @@ about_it	1
 so_you	1
 that_we	3
 while_he	1
-''_.
-''_.	2
-''_,
-''_,	3
+NNS_VB
+means_bring	1
 TO_WP
 to_what	2
 :_NNS
@@ -949,6 +958,7 @@ we_watched	1
 I_got	1
 they_made	1
 It_did	1
+me_was	1
 We_were	2
 I_eliminated	1
 I_thought	2
@@ -1172,8 +1182,9 @@ for_.	1
 like_.	1
 EX_RB
 there_just	2
-``_DT
-``_The	2
+WP_NNP
+what_Rupert	1
+what_Claw	1
 PRP_.
 him_.	3
 it_?	1
@@ -1181,14 +1192,13 @@ them_.	1
 it_!	1
 it_.	5
 myself_.	1
-PRP_,
-me_,	2
-myself_,	1
-them_,	1
+IN_:
+that_-	1
 CC_VBP
 and_have	2
 NNP_WDT
 Claw_that	1
+Christmas_which	1
 Gadgetmobile_which	1
 PRP_VB
 it_get	1
@@ -1202,12 +1212,16 @@ either_is	1
 and_says	1
 NN_WRB
 live-action_where	1
+end_when	1
 favorite_when	2
 matter_how	1
 RP_TO
 out_to	1
 NNP_PRP
 Stewart_he	1
+Overall_I	1
+Gadget_she	1
+Aussie_it	1
 CC_VBD
 but_had	1
 and_started	1
@@ -1222,41 +1236,8 @@ and_found	1
 and_based	1
 JJR_NNP
 better_Inspector	1
-JJ_,
-cliched_,	1
-sad_,	1
-other_,	1
-arrogant_,	1
-wonderful_,	1
-old_,	1
-new_,	1
-fond_,	1
-snobbish_,	1
-okay_,	1
-bad_,	1
-foreign_,	1
-effective_,	1
-entertaining_,	1
-notable_,	1
-original_,	2
-classic_,	1
-ugly_,	1
-funny_,	1
-good_,	1
-first_,	1
-little_,	1
-great_,	1
-JJ_.
-late_.	1
-same_.	1
-generous_.	1
-expensive_.	1
-disappointed_.	1
-confusing_.	1
-terrible_.	3
-entertaining_.	1
-simple_.	1
-first_.	1
+JJR_NNS
+better_films	1
 :_VB
 -_Claw	1
 VBN_IN
@@ -1279,6 +1260,7 @@ packed_with	1
 entertained_for	1
 connected_by	1
 tormented_by	1
+hidden_as	1
 based_on	2
 VBD_JJ
 were_disappointed	1
@@ -1299,48 +1281,52 @@ was_such	1
 was_near	1
 were_glad	1
 JJ_:
+funny_--	1
 original_-	1
 MD_PRP
 Will_he	1
 will_it	1
 Can_we	1
 can_you	1
+IN_WRB
+that_when	1
 #_CD
 #_2	1
-NN_MD
-original_will	1
-cast_should	1
-stick_would	1
-mind_can	1
 NN_NNS
+cult_toons	1
 movie_moves	1
 movie_stinks	1
+school_years	1
 cartoon_colors	1
 opening_credits	1
 time_favorites	1
 action_movies	1
-school_years	1
+gadget_glitches	1
 hardcore_fans	1
 call_letters	1
 NNPS_VBP
 Jokes_are	1
 NN_NNP
 G2_Elaine	1
-director_Alex	1
+pilot_Inspector	1
+sight_Gadget	1
 round_Inspector	1
-''_RB
-''_as	1
-:_``
-:_``	1
+director_Alex	1
+sequel_Inspector	1
+CD_CD
+5_1983	1
 CD_CC
 7_and	2
 2_and	1
+one_but	1
 IN_JJR
 with_more	1
 IN_JJS
 that_most	1
 for_most	1
 at_least	1
+POS_PRP
+'s_he	1
 MD_NN
 Will_anyone	1
 :_DT
@@ -1361,13 +1347,14 @@ more_screen	1
 higher_level	1
 more_crime	1
 more_importance	1
-RB_``
-quite_``	1
 :_CD
 :_1	1
+WP_MD
+what_could	1
 RP_NNP
 back_Elaine	1
 back_Matthew	1
+off_Dabney	1
 PRP_MD
 I_would	4
 you_could	1
@@ -1419,39 +1406,44 @@ there_seems	1
 There_is	2
 EX_VBP
 There_are	1
-CC_``
-and_``	2
 NN_NN
 action_movie	1
 movie_credit	1
 fun_concept	1
 buy_something	1
+humor_form	1
 record_shop	1
 dog_Brain	1
-fun_time	1
+call_tag	1
 boy_movie	1
 movie_toddler	1
 time_round	1
 FACE_!!!!!	1
 cartoon_series	2
+cliche_Villain	1
 brain_work	1
 movie_buy	1
 robot_upgrade	1
 police_department	1
 cartoon_character	1
 fan_base	1
+character_G2	1
 DVD_rack	1
 transmitter_lease	1
 direct-to-DVD_sequel	1
 direct-to-DVD_call	1
+revenge_story	1
 target_audience	1
 maverick_decision	1
+life_protagonist	1
+form_grace	1
 love_interest	1
 film_lifestyle	1
 sex_appeal	1
 work_overtime	1
 feature_film	1
-call_tag	1
+fun_time	1
+G_rating	1
 G2_woman	1
 lady_love	1
 screen_time	2
@@ -1459,6 +1451,7 @@ movie_masterpiece	1
 star_review	1
 mainstream_cinema	1
 toddler_age	1
+Yard_remake	1
 cartoon_show	1
 NNS_RB
 times_now	1
@@ -1467,26 +1460,13 @@ moves_along	1
 fans_quite	1
 girls_too	1
 problems_anatomically	1
-CD_''
-2_''	5
+favorites_actually	1
+characters_not	1
 EX_VBD
 There_was	2
 there_was	1
 VBP_NNS
 are_positives	1
-,_JJ
-,_such	2
-,_terrible	1
-,_snobbish	1
-,_urbanized	1
-,_royal	1
-,_foreign	1
-,_fitting	1
-,_treasured	1
-,_adult	1
-,_imaginative	1
-,_EX
-,_there	6
 DT_JJ
 the_so-called	1
 every_cineophile	1
@@ -1514,6 +1494,7 @@ this_strange	1
 a_single	1
 the_whole	1
 the_only	1
+an_evil	1
 a_haphazard	1
 a_natural	2
 the_robotic	1
@@ -1634,6 +1615,7 @@ smitten_with	1
 movie_than	1
 blunderment_of	1
 credit_for	1
+history_as	1
 doofus_than	1
 fan_of	3
 everything_from	1
@@ -1642,8 +1624,10 @@ anything_for	1
 broadcast_of	2
 need_for	1
 audience_of	1
+par_with	1
 bit_with	1
 claw_for	1
+mustache_so	1
 Rock_from	1
 character_that	1
 cinema_out	1
@@ -1718,9 +1702,12 @@ actor_known	1
 character_played	1
 cartoon_voiced	1
 cause_followed	1
+movie_deleted	1
 NNS_PRP
 titles_they	1
+friends_I	1
 years_they	1
+liberties_I	1
 times_we	1
 NN_VBG
 spring_loading	1
@@ -1744,9 +1731,11 @@ computer_generated	1
 station_signed	1
 child_had	1
 Penny_was	1
+school_determined	1
 face_was	1
 circuitry_was	1
 reviewer_commented	1
+list_opened	1
 movie_held	1
 half-hour_was	1
 cartoon_was	1
@@ -1780,26 +1769,32 @@ movie_stinks	2
 plan_is	1
 trouble_occurs	1
 RB_RB
-not_nearly	1
-right_now	1
+well_even	1
 only_barely	1
-just_plain	1
 over_again	1
-along_much	1
-n't_enough	2
-not_totally	1
+back_then	1
 as_well	5
-really_as	1
-once_again	1
 not_really	1
-n't_even	2
-nearly_as	1
 else_instead	1
+alone_not	1
+along_much	1
+right_now	1
+just_plain	1
+n't_even	2
+not_nearly	1
+nearly_as	1
+together_not	1
+n't_enough	2
+once_again	1
+quite_up	1
+n't_quite	1
+not_totally	1
+really_as	1
+Really_truly	1
 not_too	1
 better_as	1
 together_again	1
 n't_too	1
-n't_quite	1
 VBD_IN
 was_in	1
 did_in	1
@@ -1850,9 +1845,6 @@ still_does	1
 slowly_comes	1
 also_tries	1
 just_loves	1
-,_WP
-,_who	2
-,_what	1
 VBZ_VBG
 is_rolling	1
 is_doing	1
@@ -1932,13 +1924,8 @@ just_stopped	1
 only_seen	1
 RBR_VBZ
 more_is	1
-NN_''
-revenge_''	1
-G2_''	1
-Yard_''	1
-Pride_''	1
-par_''	1
-G_'	1
+VBP_WP
+know_what	1
 VB_RBR
 be_more	1
 VBZ_VBZ
@@ -1960,19 +1947,22 @@ ever_sat	1
 gladly_forked	1
 never_showed	1
 just_left	1
+NNS_NN
+critics_work	1
 CC_MD
 but_should	1
 nor_will	1
 but_could	1
 VBD_NN
 were_jell-o	1
+was_nothing	1
 JJ_WP
 sure_what	2
 NNP_TO
 SUPPOSED_TO	1
 Inspector_to	1
 Hendrix_to	1
-Gadget_to	1
+Gadget_to	2
 VBZ_TO
 tries_to	1
 comes_to	4
@@ -1980,25 +1970,13 @@ likens_to	1
 seems_to	3
 POS_NNP
 's_Gadget	4
-,_IN
-,_with	3
-,_in	3
-,_by	1
-,_though	1
-,_as	3
-,_while	1
-,_if	1
-,_so	2
-,_that	1
-,_except	1
 POS_NNS
 's_doings	1
 's_airdates	1
 RP_NN
 up_feeling	1
-,_CD
-,_1983	1
-,_one	2
+VBG_CC
+helping_but	1
 MD_RB
 could_n't	2
 will_just	1
@@ -2038,6 +2016,7 @@ push_a	1
 infect_some	1
 improve_a	1
 impress_those	1
+love_no	1
 give_the	2
 resurrect_this	1
 create_a	1
@@ -2066,9 +2045,10 @@ VBZ_JJ
 is_generous	1
 's_terrible	1
 's_own	1
-stinks_french	1
 is_simple	1
+stinks_french	1
 is_remembered	1
+works_adult	1
 is_bad	1
 is_embarrassing	1
 's_expensive	1
@@ -2105,6 +2085,7 @@ those_with	1
 all_about	1
 some_of	2
 that_in	1
+all_as	1
 All_in	1
 PRP_IN
 it_on	1
@@ -2124,32 +2105,19 @@ PRP_PRP$
 me_my	1
 WP_RB
 who_slowly	1
-,_NN
-,_cause	1
-,_protagonist	1
-,_form	1
-,_grace	1
-,_giggle	1
-,_nothing	1
 RP_WP
 out_what	1
-``_RB
-``_up	1
-``_NNS
-`_toons	1
-`_glitches	1
 JJR_CC
+happier_and	1
+better_or	1
+older_and	1
 brighter_and	1
-``_NNP
-``_Robocop	1
-``_Third	2
-``_Judge	1
-``_Beauty	1
-``_Inspector	9
 RB_DT
 even_the	2
+Not_a	1
 then_the	1
 quite_a	1
+Incidentally_a	1
 nearly_every	1
 not_an	1
 yet_another	1
@@ -2158,37 +2126,20 @@ back_the	1
 not_a	1
 definitely_a	1
 not_the	3
-Not_a	1
+However_this	1
 n't_a	1
 eventually_a	1
 obviously_the	1
 even_a	1
-CD_``
-one_``	1
+NN_MD
+original_will	1
+cast_should	1
+stick_would	1
+mind_can	1
 DT_VB
 a_spark	1
 WRB_PRP$
 where_my	1
-DT_``
-an_`	1
-both_``	1
-,_RB
-,_either	1
-,_truly	1
-,_though	1
-,_not	4
-,_well	1
-,_accurately	1
-,_respectively	1
-,_easily	1
-,_instead	1
-,_just	1
-,_up	1
-,_actually	1
-,_then	2
-,_even	1
-,_religiously	1
-,_once	1
 CC_PRP
 and_they	2
 but_I	2
@@ -2198,8 +2149,6 @@ and_it	1
 and_I	3
 and_we	1
 and_he	1
-VBG_PRP$
-turning_our	1
 RB_VB
 n't_compile	1
 just_LOVE	1
@@ -2246,23 +2195,35 @@ until_about	1
 through_in	1
 than_in	1
 if_in	1
+as_Like	1
 JJ_RB
-proud_enough	1
 bad_enough	1
-little_there	1
+proud_enough	1
+great_either	1
 pointless_now	1
+little_there	1
 good_enough	1
-,_``
-,_``	1
 VBZ_WP
 's_what	1
-,_VBD
-,_determined	1
-,_liquidated	1
-,_opened	1
-,_was	1
-,_VBG
-,_relying	1
+VBG_PRP$
+turning_our	1
+IN_VBG
+of_committing	1
+as_hiding	1
+for_making	1
+of_playing	1
+on_making	1
+in_turning	1
+before_going	1
+for_hiding	1
+by_putting	1
+After_reviewing	1
+from_watching	1
+from_taking	1
+like_creating	1
+because_cutting	1
+at_fighting	1
+by_bringing	1
 NNS_.
 laughs_.	1
 moments_.	1
@@ -2274,27 +2235,6 @@ glitches_.	1
 comics_.	1
 songs_.	1
 scenes_.	1
-,_VBN
-,_given	1
-,_deleted	1
-NNS_,
-means_,	1
-characters_,	1
-reviews_,	1
-children_,	1
-favorites_,	1
-resources_,	1
-clich&eacute;s_,	1
-doings_,	1
-friends_,	1
-bloopers_,	1
-cartoons_,	1
-families_,	1
-storylines_,	1
-actors_,	1
-liberties_,	1
-effects_,	1
-agents_,	1
 VBD_NNS
 generated_images	1
 VBD_NNP
@@ -2311,13 +2251,6 @@ played_Gadget	1
 NNS_:
 kids_-	1
 reasons_:	1
-,_VBZ
-,_is	1
-,_seems	1
-VBG_JJ
-making_poor	1
-bumbling_cybernetic	1
-making_Oscar-worthy	1
 JJ_NNS
 special_effects	4
 original_means	1
@@ -2375,14 +2308,17 @@ one_of	4
 one_from	1
 VBG_RBR
 watching_more	1
-''_CC
-''_and	2
 IN_WP
 than_whom	1
 than_what	1
 for_what	1
+JJR_VBZ
+quicker_is	1
+NNS_EX
+clich&eacute;s_there	1
 VBG_PRP
 surrounding_him	1
+reviewing_them	1
 seeing_him	1
 giving_it	1
 DT_RB
@@ -2394,15 +2330,30 @@ a_little	1
 the_much	1
 a_really	1
 the_very	1
-VBD_CC
-was_and	1
+VBN_PRP$
+rebooted_my	1
 NN_PRP
-situation_he	1
-one_he	1
+appeal_her	1
 mistake_they	1
+origin_I	1
+franchise_I	1
+mix_we	1
+avalanche_I	1
 time_he	1
+mind_it	1
+way_I	1
 passion_I	1
+side_they	1
+animation_I	1
+community_we	1
 *****_I	1
+shop_I	1
+situation_he	1
+closing_I	1
+record_I	1
+cause_you	1
+one_he	1
+sequel_it	1
 VB_PRP$
 outshine_his	1
 keep_his	1
@@ -2413,18 +2364,19 @@ waste_your	1
 let_our	1
 revisit_my	1
 SEE_HIS	1
-''_WDT
-''_which	1
-,_MD
-,_would	1
 JJ_DT
 afraid_that	1
-poor_this	1
 such_a	1
+new_all	1
+poor_this	1
+good_the	1
 RB_CC
-over_and	1
-easily_and	1
 so_and	1
+else_and	1
+easily_and	1
+respectively_but	1
+over_and	1
+there_and	1
 back_and	2
 MD_VB
 can_quote	1
@@ -2464,14 +2416,10 @@ love_watching	1
 RB_RBR
 even_more	1
 actually_closer	1
-,_DT
-,_this	9
-,_a	3
-,_all	1
-,_no	2
-,_the	8
 VBZ_RBR
 is_more	1
+CD_PRP
+2_I	1
 CC_RB
 or_even	1
 and_absolutely	1
@@ -2498,8 +2446,6 @@ is_nothing	1
 wants_revenge	1
 POS_RB
 's_deliciously	1
-UH_,
-alas_,	1
 VBP_DT
 are_all	1
 are_some	1
@@ -2523,8 +2469,8 @@ seemed_to	1
 continued_to	1
 NN_JJR
 lot_more	1
-,_WDT
-,_which	1
+UH_NNS
+alas_friends	1
 JJS_NNP
 best_Disney	1
 JJS_NNS
@@ -2539,81 +2485,13 @@ indulgence_--	1
 film_-	1
 rating_-	1
 Beast_:	1
-._''
-!_''	1
-._''	1
+CD_RB
+one_then	1
+48_once	1
 NNP_JJ
 CGI_special	1
 Disney_live-action	1
 Stewart_3rd	1
-,_WRB
-,_when	3
-,_where	1
-NN_,
-friend_,	1
-origin_,	1
-voice_,	1
-cartoon_,	4
-feature_,	1
-crime_,	2
-action_,	1
-weekend_,	1
-writing_,	1
-anyone_,	1
-style_,	1
-G2_,	1
-sight_,	1
-individualism_,	1
-closing_,	1
-company_,	1
-storyline_,	1
-form_,	1
-line_,	1
-humanity_,	1
-way_,	2
-timing_,	1
-mix_,	1
-face_,	1
-series_,	1
-animation_,	1
-cause_,	1
-community_,	1
-humor_,	2
-school_,	1
-mind_,	1
-history_,	1
-side_,	1
-laugh_,	1
-sequel_,	2
-record_,	1
-constable_,	1
-investigation_,	1
-life_,	2
-avalanche_,	1
-mustache_,	1
-shop_,	1
-couple_,	1
-year_,	1
-film_,	4
-appeal_,	1
-plot_,	1
-list_,	1
-end_,	1
-Brain_,	2
-franchise_,	1
-base_,	1
-choice_,	1
-plenty_,	1
-grace_,	1
-hole_,	1
-touch_,	1
-page_,	1
-time_,	1
-movie_,	3
-``_NN
-`_G	1
-``_Villain	1
-``_G2	1
 NN_.
 action_.	1
 day_!	1
@@ -2691,35 +2569,12 @@ that_cares	1
 that_prides	1
 that_is	2
 which_does	1
-NNP_VBD
-Gadget_was	1
-Gadgetmobile_was	1
-Claw_used	1
-Stewart_played	1
-Everett_was	1
-Broderick_put	1
-Everett_did	2
-Claw_kidnapped	1
-Inspector_was	1
-Zamm_attempted	1
-Disney_was	1
 JJR_TO
 more_to	1
 closer_to	1
 WDT_VBP
 that_make	1
 that_are	1
-''_VBD
-''_was	1
-''_VBZ
-''_is	2
-''_has	1
-''_NN
-''_film	1
-''_remake	1
-''_story	1
-'_rating	1
-'_version	1
 VBP_VB
 do_know	1
 'LL_GET	1
@@ -2728,6 +2583,7 @@ as_to	1
 PRP_CC
 us_and	1
 you_and	1
+them_but	1
 it_and	1
 WDT_VBD
 that_were	2
@@ -2738,11 +2594,8 @@ VBG_RB
 standing_right	1
 relying_mostly	1
 looking_forward	1
-RBR_TO
-closer_to	1
-DT_,
-that_,	1
-all_,	2
+DT_WRB
+all_when	1
 DT_.
 this_.	1
 another_.	1
@@ -2763,6 +2616,8 @@ NNS_NNP
 letters_WKBS	1
 :_SYM
 :_*	1
+PRP_WP
+it_what	1
 RB_JJ
 too_late	1
 just_full	1
@@ -2776,6 +2631,7 @@ visually_entertaining	1
 satirically_cliched	1
 as_bad	1
 chokingly_bad	1
+truly_terrible	1
 boldly_cartoonish	1
 inexplicably_low-budget	1
 n't_necessary	1
@@ -2803,6 +2659,8 @@ completely_different	1
 very_wonderful	1
 right_next	1
 deliciously_wicked	1
+TO_NNP
+to_Inspector	1
 TO_NNS
 to_stories	1
 VBG_DT
@@ -2813,6 +2671,7 @@ playing_a	1
 Using_the	1
 Considering_the	1
 reaching_a	1
+watching_The	1
 doing_the	1
 needing_a	1
 taking_the	1
@@ -2823,8 +2682,12 @@ then_you	1
 Perhaps_it	1
 instead_we	1
 even_they	1
+well_she	1
+again_we	1
 ultimately_it	1
+instead_I	1
 Often_I	1
+though_I	1
 then_it	1
 certainly_it	1
 Maybe_I	1
@@ -2845,57 +2708,46 @@ have_just	1
 come_back	1
 CD_MD
 48_may	1
+3_would	1
 WRB_NN
 when_G2	1
 NNP_WP
+Hughley_who	1
 Stewart_Who	1
 JJ_WRB
 fine_when	1
 NNS_WRB
 films_where	1
-``_JJ
-`_evil	1
-``_freezing-time	1
+NN_EX
+crime_there	1
+couple_there	1
 NNP_IN
 Wilson_from	1
 ALERT_OVER	1
 Fisher_if	1
-Brodrick_in	1
-Gadget_on	1
-Rock_from	2
-Gadget_in	2
+Disney_by	1
+Gadget_with	1
+Fun_for	1
+Kramer_from	1
+Broderick_as	1
+Hughley_as	1
+Gadget_than	1
 George_of	1
+Gadget_in	2
+Gadget_on	1
+Brodrick_in	1
+Gadget_for	1
+Rock_from	2
 Hendrix_as	1
 French_in	1
-Fun_for	1
-Hughley_as	1
+Sun_while	1
 Riverton_under	1
-Gadget_than	1
+Seinfeld_except	1
 Claw_in	1
-Broderick_as	1
-Kramer_from	1
 DT_NNPS
 The_Jokes	1
-,_TO
-,_to	1
-JJS_VBN
-least_brought	1
-IN_VBG
-of_committing	1
-as_hiding	1
-for_making	1
-of_playing	1
-on_making	1
-in_turning	1
-before_going	1
-for_hiding	1
-by_putting	1
-like_creating	1
-from_watching	1
-from_taking	1
-because_cutting	1
-at_fighting	1
-by_bringing	1
+VBG_:
+squinting_...	1
 IN_VBD
 as_was	1
 with_was	1
@@ -2910,15 +2762,6 @@ POS_NN
 's_face	2
 's_birthday	1
 's_mesh	1
-,_PRP
-,_her	1
-,_he	1
-,_they	1
-,_we	3
-,_you	2
-,_it	5
-,_I	18
-,_she	4
 CC_JJR
 and_funnier	1
 and_older	1
@@ -2926,33 +2769,34 @@ PRP$_NNP
 his_M.A.D.	1
 VBG_.
 doing_.	1
-VBG_,
-helping_,	1
 JJ_CC
+bad_and	1
 cool_and	1
 cartoonish_and	1
+other_but	1
+okay_but	1
 first_and	1
-strange_and	1
+ugly_AND	1
 willing_and	1
+original_and	1
 deep_and	1
+strange_and	1
+foreign_and	1
+entertaining_but	1
+little_and	1
 old_and	1
+funny_and	1
 JJ_CD
 classic_1980	1
 first_one	7
 good_one	1
 right_one	1
 preorderd_one	1
-CD_,
-one_,	4
-48_,	1
-17_,	1
-3_,	1
-5_,	1
 CD_.
 10_.	1
 1_.	1
 two_.	1
-2_.	4
+2_.	5
 one_.	3
 1983_.	1
 3_.	1
@@ -2979,25 +2823,30 @@ CD_NNS
 two_hours	1
 two_films	1
 twelve_bucks	1
+CD_NNP
+one_Inspector	1
+one_Rupert	1
 VBN_RB
 been_so	2
 stopped_there	1
+used_instead	1
 given_considerably	1
 entertained_as	1
 NNP_NN
 Next_time	1
-Disney_direct-to-DVD	1
+Gadget_movie	1
 Lite_stupidity	1
 Smurfs_live-action	1
-Longest_Yard	1
+Broderick_vehicle	1
 Broderick_fan	1
 Gadget_cartoon	1
 Gadget_line	1
-Disney_level	1
+Disney_direct-to-DVD	1
 Pink_Panther	1
+Disney_level	1
 Google_search	1
-Broderick_vehicle	1
-Gadget_movie	1
+Longest_Yard	1
+Gadget_film	1
 VBZ_RB
 does_n't	3
 is_there	1
@@ -3045,6 +2894,7 @@ DT_RBR
 a_more	1
 no_further	1
 NNS_MD
+glitches_will	1
 Adults_will	1
 TO_RB
 to_always	1
@@ -3055,22 +2905,26 @@ positively_about	1
 not_for	1
 not_before	1
 especially_for	1
-Just_for	1
+So_with	1
 there_by	1
 mostly_on	1
 Aside_from	1
 n't_that	1
+However_if	1
 even_though	1
+actually_so	1
 well_as	2
 enough_that	1
 now_that	2
 again_for	1
+Also_in	1
 up_until	1
 just_that	1
 instead_of	2
+purely_as	1
 even_if	1
 even_up	1
-purely_as	1
+Just_for	1
 anatomically_with	1
 just_because	1
 VBG_IN
@@ -3086,6 +2940,8 @@ the_one	1
 this_one	4
 the_1999	1
 the_two	4
+DT_CC
+that_and	1
 RP_DT
 out_that	1
 up_the	2
@@ -3103,26 +2959,8 @@ are_n't	2
 'm_not	3
 Do_n't	1
 have_only	1
-VBG_``
-watching_``	2
-NNP_,
-Dame_,	1
-Disney_,	1
-Seinfeld_,	1
-Trachtenberg_,	1
-Aussie_,	1
-Hercules_,	1
-Thornton_,	1
-Gadetmobile_,	1
-WKBS_,	1
-Broderick_,	1
-Lord_,	1
-Gadget_,	5
-Adams_,	1
-Everett_,	1
-TIME_,	1
-Hughley_,	1
-Overall_,	1
+JJ_VBZ
+snobbish_seems	1
 CD_JJ
 two_Aussie	1
 1983_due	1
@@ -3147,8 +2985,11 @@ GADGET_!	1
 Improvement_.	1
 Mermaid_.	1
 Hughley_.	1
+Dredd_.	1
 POS_CC
 's_and	1
+NNP_WRB
+Gadget_where	2
 VBG_NN
 bumbling_cyborg	1
 crushing_blow	1
@@ -3161,6 +3002,7 @@ watching_anything	1
 JJ_VBG
 other_redeeming	1
 second_helping	1
+original_relying	1
 NNP_:
 Philadelphia_:	1
 Atlantis_:	1
@@ -3170,6 +3012,8 @@ Stewart_-	2
 FCC_--	1
 Claw_-	1
 Grade_:	1
+JJ_VBD
+freezing-time_was	1
 PRP_DT
 you_all	1
 it_a	1
@@ -3180,11 +3024,9 @@ VBZ_:
 is_-	1
 VBZ_.
 says_.	1
-VBZ_,
-progresses_,	1
-works_,	1
 RB_NN
 even_interaction	1
+back_cause	1
 NNS_TO
 films_to	1
 audiences_to	1
@@ -3195,49 +3037,53 @@ dollars_to	1
 sequels_to	1
 bucks_to	1
 JJ_JJ
-great_special	1
-lousy_lazy	1
 little_known	1
-low-budget_direct-to-video	1
 behind-the-scenes_niece	1
-contemporary_independent	1
+own_small	1
+cliched_urbanized	1
+wonderful_imaginative	1
+low-budget_direct-to-video	1
+such_wonderous	1
 several_laugh-out-loud	1
 first_live	1
 same_comic	1
-own_small	1
 single_redeeming	1
-such_wonderous	1
-such_notable	1
-own_unoriginal	1
+arrogant_snobbish	1
 only_full-length	1
-VBN_PRP
-seen_it	1
+lousy_lazy	1
+old_treasured	1
+such_notable	1
+great_special	1
+fond_fitting	1
+contemporary_independent	1
+classic_foreign	1
+own_unoriginal	1
+notable_royal	1
+JJR_IN
+raspier_than	1
+more_than	1
+more_like	3
+more_of	3
 WRB_JJ
 how_many	1
 how_poor	1
-,_CC
-,_nor	1
-,_AND	1
-,_and	25
-,_or	4
-,_but	21
 VB_NN
-draw_sympathy	1
-feel_anything	1
-bid_farewell	1
+relax_giggle	1
 unleash_G2	1
+draw_sympathy	1
+bid_farewell	1
 rush_home	1
+feel_anything	1
 VBZ_JJR
 is_closer	1
 is_brighter	1
 NN_WP
 android_who	1
 cop_who	1
+voice_what	1
 WRB_NNP
 where_Stewart	1
 when_Claw	1
-VBP_WP
-know_what	1
 PRP_TO
 him_to	1
 it_to	1
@@ -3269,10 +3115,6 @@ showed_his	1
 was_my	1
 IN_CC
 through_and	1
-IN_,
-that_,	2
-for_,	1
-with_,	1
 NNS_VBD
 actors_handled	1
 credits_ended	1
@@ -3285,8 +3127,6 @@ NNS_VBG
 actors_hamming	1
 images_popping	1
 gadgets_doing	1
-``_IN
-``_Like	1
 PRP_NNP
 YOU_NEXT	1
 NNS_VBN
@@ -3301,19 +3141,10 @@ blame_Disney	1
 catch_Dr.	1
 broadcast_Pink	1
 are_NOT	1
-''_WRB
-''_where	1
-``_PRP
-``_I	1
 POS_JJ
 's_niece	1
 's_animated	1
 's_final	1
-VBN_``
-welcomed_`	1
-''_IN
-''_for	1
-''_with	1
 VBD_VBN
 was_made	1
 were_meant	1
@@ -3322,10 +3153,11 @@ was_caught	1
 was_filmed	1
 was_used	1
 VBD_PRP
+picked_it	1
 had_it	1
 handled_them	1
 played_him	1
-picked_it	1
+said_I	1
 led_us	1
 left_me	1
 gave_it	1
@@ -3347,6 +3179,7 @@ at_first	1
 of_neat	1
 that_french	1
 from_eye-popping	1
+of_freezing-time	1
 with_previous	1
 of_literary	1
 for_many	1
@@ -3356,11 +3189,14 @@ that_safe	1
 as_such	1
 for_good	1
 VBN_NN
+welcomed_G	1
 named_G2	1
 used_DVD	1
 NNP_RB
 Gadget_much	1
 Zamm_also	1
+Thornton_respectively	1
+Gadget_as	1
 Gadget_purely	1
 Hendrix_as	1
 This_inexplicably	1
@@ -3372,6 +3208,7 @@ Oteri_back	1
 -_they	1
 --_I	1
 -_it	2
+:_I	1
 NNS_IN
 toddlers_in	1
 steps_in	1
@@ -3383,6 +3220,7 @@ films_in	1
 adventures_of	1
 assets_in	1
 extras_on	1
+agents_though	1
 actors_except	1
 glitches_in	1
 senses_for	1
@@ -3395,6 +3233,7 @@ lots_of	1
 skills_of	1
 types_of	1
 agents_from	1
+doings_in	1
 fans_of	1
 conventions_of	1
 antics_of	1
@@ -3405,9 +3244,6 @@ hours_as	1
 films_by	1
 results_once	1
 replacements_for	1
-VBN_CC
-spanked_and	1
-seen_both	1
 NNP_VBZ
 Stewart_gives	1
 Stewart_brings	1
@@ -3422,9 +3258,10 @@ Tupac_is	1
 Inspector_does	1
 Stewart_is	1
 VB_JJ
+be_able	1
 be_funny	1
 find_engrossing	1
-be_able	1
+enjoy_such	1
 TO_VB
 to_unleash	1
 to_play	1
@@ -3483,24 +3320,15 @@ to_say	1
 to_find	1
 RB_MD
 just_ca	1
-NN_``
-gadget_`	1
-cliche_``	1
-cult_`	1
-character_``	1
-pilot_``	1
 CC_NNP
+and_Judge	1
+and_Beauty	1
 and_I	1
 and_Sigrid	1
 or_French	1
 and_Atlantis	1
 and_Gadget	1
 and_Dad	1
-VBD_,
-said_,	1
-commented_,	1
-tried_,	1
-was_,	1
 VBD_.
 ended_.	1
 failed_.	1
@@ -3511,13 +3339,23 @@ and_hours	1
 and_bloopers	1
 and_gadgets	1
 and_trailers	1
-POS_,
-'s_,	1
+NNP_VBD
+Gadget_was	1
+Gadgetmobile_was	1
+Claw_used	1
+Stewart_played	1
+Everett_was	1
+Broderick_put	1
+Everett_did	2
+Claw_kidnapped	1
+Inspector_was	1
+Zamm_attempted	1
+Disney_was	1
+WKBS_liquidated	1
+CD_EX
+one_there	1
 NNP_VBN
 Gadget_named	1
-WP_NNP
-what_Rupert	1
-what_Claw	1
 NNP_POS
 Hendrix_'s	2
 Claw_'s	1
@@ -3531,26 +3369,33 @@ Gadget_'s	3
 Dad_'s	1
 Stewart_'s	3
 NN_RB
-one_just	1
-orange_instead	1
-grave_right	1
-sequel_just	1
-something_else	1
-week_ago	1
-one_ever	1
-Brain_still	1
-consistency_here	1
-actor_then	1
+life_up	1
+share_very	1
 Penny_still	1
-control_back	1
 film_not	1
-movie_even	1
 anyone_ever	1
 anything_else	1
+week_ago	1
+orange_instead	1
+movie_even	1
 time_even	1
-share_very	1
-concept_back	1
 nothing_then	1
+sequel_just	1
+individualism_just	1
+one_ever	1
+consistency_here	1
+something_else	1
+grave_right	1
+humanity_accurately	1
+touch_though	1
+style_not	1
+one_just	1
+Brain_still	1
+actor_then	1
+humor_easily	1
+year_religiously	1
+control_back	1
+concept_back	1
 JJ_IN
 riddled_with	1
 perfect_for	1
@@ -3559,6 +3404,7 @@ last_of	1
 alive_as	1
 full_of	1
 bad_as	2
+effective_that	1
 bad_at	1
 remembered_for	1
 interesting_about	1
@@ -3576,16 +3422,14 @@ bitter_like	1
 pointless_that	1
 funny_at	1
 effective_at	1
-''_PRP
-''_them	1
-NNS_NN
-critics_work	1
+JJS_VBN
+least_brought	1
+VBG_JJ
+making_poor	1
+bumbling_cybernetic	1
+making_Oscar-worthy	1
 JJS_VBP
 most_think	1
-TO_``
-to_``	1
-IN_:
-that_-	1
 VBZ_DT
 has_a	1
 is_the	3
@@ -3619,18 +3463,18 @@ have_fun	1
 NN_PRP$
 movie_my	1
 pad_their	1
-JJ_''
-evil_'	1
-funny_''	1
-freezing-time_''	1
 VB_CD
 nominate_one	1
 see_two	1
 VB_CC
 help_but	1
+do_but	1
 push_and	1
 NNP_DT
+Gadetmobile_this	1
 Disney_a	1
+Lord_this	1
+Hercules_the	1
 JJS_NN
 biggest_mistake	1
 highest_mountain	1
@@ -3646,20 +3490,12 @@ out_for	1
 out_with	1
 VBN_NNS
 deleted_scenes	2
-,_NNP
-,_Michelle	1
-,_Mathew	1
-,_Rupert	2
-,_Disney	1
-,_Joely	1
-,_Gadget	1
-,_Dabney	1
-,_GADGET	1
 VBG_NNP
 watching_Gadget	1
 hiding_Dr.	1
 putting_Gadget	1
 playing_Claw	1
+watching_Inspector	1
 VBG_NNS
 cutting_corners	1
 increasing_problems	1
@@ -3668,9 +3504,6 @@ loading_gadgets	1
 continuing_adventures	1
 redeeming_features	1
 Using_nothings	1
-,_NNS
-,_lots	1
-,_friends	1
 VBZ_IN
 provides_that	1
 proves_that	1
@@ -3716,6 +3549,7 @@ little_one	1
 abiding_love	1
 same_name	1
 cultural_landscape	1
+evil_version	1
 eye-popping_spring	1
 cinematic_community	1
 unfunny_car	1

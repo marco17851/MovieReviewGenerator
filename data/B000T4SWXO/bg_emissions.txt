@@ -32,9 +32,12 @@ VBN_VBN
 been_edited	1
 NNP_WDT
 College_which	1
+Reynolds_which	1
 VBP_JJR
 say_more	1
 seem_darker	1
+VBN_VBG
+relaxed_exchanging	1
 FW_DT
 perfer_this	1
 POS_NNS
@@ -61,15 +64,12 @@ included_are	1
 RB_TO
 back_to	1
 only_to	1
+else_to	1
 not_to	1
 still_to	1
 VBN_:
 owned_...	1
 seen_/	1
-IN_``
-From_``	1
-from_``	1
-than_``	1
 VBP_.
 perform_.	1
 own_.	1
@@ -81,8 +81,9 @@ delivery/great_price	1
 ***********************_#Documentary	1
 Blu-ray_Version	1
 2:49:02_Movie	1
-''_TO
-''_to	2
+VBG_VBN
+having_seen	1
+being_cued	1
 VBP_CC
 have_and	1
 VBP_:
@@ -98,11 +99,6 @@ recommended_!	1
 sold_!	1
 JJS_IN
 best_with	1
-VBN_,
-said_,	1
-relaxed_,	1
-portrayed_,	1
-biased_,	1
 WDT_MD
 which_might	1
 that_may	1
@@ -116,11 +112,12 @@ VBZ_CD
 's_one	1
 is_one	5
 VBZ_CC
+is_but	1
 amazes_and	1
-VBN_CD
-become_one	1
-received_5	1
-payed_40	1
+NNS_WDT
+shows_which	1
+songs_that	2
+issues_that	1
 RB_JJR
 far_more	1
 much_better	1
@@ -130,9 +127,6 @@ who_served	1
 what_drew	1
 RP_.
 up_.	2
-RP_,
-out_,	1
-up_,	1
 VBN_JJ
 become_classic	1
 been_great	1
@@ -154,13 +148,16 @@ Stuff_and	1
 Stay_or	1
 Matthews_and	6
 BluRay_and	1
-Iraq_and	1
+Speak_or	1
+Iraq_and	2
 DMB_and	1
 Matthews_&	2
-Tim_and	1
+Crush_and	1
 Dave_&	2
 Young_and	1
+Tim_and	1
 Dave_or	1
+Crash_and	1
 NNP_CD
 X_10	1
 LC42D64U_42	1
@@ -180,6 +177,7 @@ VB_WDT
 forget_whatever	1
 :_NN
 ..._period	1
+..._Down	1
 :_U.S.A	1
 IN_PRP$
 for_your	1
@@ -239,6 +237,7 @@ think_that	1
 own_for	2
 know_about	1
 assume_that	1
+leave_out	1
 have_if	1
 shine_on	1
 wallow_in	1
@@ -250,8 +249,10 @@ think_of	1
 live_at	1
 realize_that	1
 JJ_PRP
+happy_it	1
 sure_you	1
 glad_I	1
+first_I	1
 important_it	1
 VBD_RB
 Did_not	1
@@ -271,15 +272,29 @@ was_just	1
 did_not	1
 NN_DT
 amount_a	1
+list_some	1
+cd_this	1
 way_these	1
+past_this	1
 Dm_this	1
-Love_the	1
+fan_a	1
+Step_the	1
 course_the	1
+concert_the	1
+place_these	1
+Love_the	1
+system_this	1
+sound_this	1
+mistake_this	1
+screen_a	1
+end_this	1
+day_no	1
 mood_each	1
+blu-ray_this	1
 WDT_RB
 that_really	1
 TO_DT
-to_this	3
+to_this	5
 to_each	1
 to_The	1
 to_the	6
@@ -317,7 +332,9 @@ enjoy_Dave	1
 live_Concert	1
 let_Tim	1
 NNS_NNP
+amps_Klipsch	1
 Thanks_Dave	1
+goodies_Crash	1
 Lyrics_Disc	1
 PRP_WP
 you_who	1
@@ -363,9 +380,6 @@ my_Concert	1
 our_<a href="http://www.amazon.com/gp/product/B000UN3VT4">	1
 WDT_NN
 What_talent	1
-,_PRP$
-,_his	1
-,_my	1
 IN_RB
 for_awhile	2
 on_here	2
@@ -398,8 +412,6 @@ make_it	1
 need_I	1
 want_him	1
 think_it	1
-LS_MD
-i_will	1
 CD_VBN
 two_put	1
 CC_NN
@@ -423,8 +435,6 @@ VBP_PRP$
 are_my	3
 CD_VBZ
 one_is	1
-VB_,
-leave_,	1
 VB_.
 play_!	1
 want_?	1
@@ -448,29 +458,22 @@ excited_to	1
 great_to	1
 complementary_to	1
 NNS_JJ
+classics_new	1
 songs_much	1
 tracks_such	1
 moneys_worth	1
+choices_great	1
 RP_CC
 off_but	1
+up_but	1
 up_and	1
-NNP_''
-Cornbread_''	1
-Bartender_''	1
-Graves_''	1
-Devil_''	1
-College_''	2
-Speak_''	1
-Crash_''	1
-River_''	1
-Crush_''	2
 DT_NNS
 both_guys	1
 some_incites	1
 the_classics	1
 the_lyrics	1
 the_shots	1
-the_songs	8
+the_songs	9
 the_greats	1
 these_songs	3
 the_recordings	1
@@ -503,9 +506,10 @@ at_points	1
 IN_NNP
 of_DMB	2
 at_Luther	4
+for_Blu-Ray	1
 that_DMB	1
 after_I	1
-by_Dave	4
+From_Bartender	1
 in_Iraq	1
 without_Dave	1
 that_Dave	1
@@ -521,22 +525,22 @@ out_Into	1
 So_Damn	1
 of_Busted	1
 of_Neil	3
-At_Radio	1
+on_Luther	1
 from_Dave	1
 about_Iraq	1
 at_West	1
-on_Luther	1
+At_Radio	1
 in_Our	2
 like_DMB	2
 that_Tim	1
-for_Blu-Ray	1
+by_Dave	4
 by_Eddie	1
 at_Radio	7
 while_Tim	2
 by_Tim	2
 of_Dave	6
 Since_Luther	1
-than_Live	1
+than_Live	2
 for_Blu	1
 DT_NNP
 the_DMB	1
@@ -572,6 +576,7 @@ connect_when	1
 see_why	1
 overstate_how	1
 PRP_NN
+it_kinda	1
 you_collection	1
 it_fun	1
 NNP_VB
@@ -598,22 +603,28 @@ heard_this	1
 CC_WP
 but_what	1
 NNS_CC
+parts_and	1
 ballads_and	1
+showers_&	1
+reasons_but	1
 guitars_and	1
 points_and	1
-guys_and	1
-showers_&	1
+reynolds_and	1
+others_but	1
 recordings_and	1
 cds_but	1
+favorites_but	1
+releases_and	1
 times_and	2
-parts_and	1
-eyes_and	1
 licks_and	1
+eyes_and	1
+basics_and	1
+rants_but	1
 downloads_and	1
-reynolds_and	1
+guys_and	1
 years_and	1
-''_VBZ
-''_is	4
+NNS_CD
+graves_two	1
 VBN_PRP
 seen_him	1
 VBP_IN
@@ -629,38 +640,48 @@ burn_at	1
 know_about	1
 are_near	1
 NN_CC
+musicianship_both	1
 quality_and	1
 performance_and	1
 cinematography_and	1
 dave_and	2
 stay_or	1
-music_and	2
+music_and	3
 time_but	1
 sound_and	3
 production_and	1
+fiddle_but	1
 video_&	1
 player_and	1
 hardware_and	1
 war_and	1
 step_and	1
 energy_and	1
+soul_and	1
 DVD_and	1
 war_but	1
+gig_and	1
 fan_and	3
 talking_and	3
 disk_or	1
+commentary_but	1
 fan_or	1
 band_or	1
 generation_and	1
 artist_and	1
 concert_and	1
+fan_but	1
+solo_or	1
 stuff_and	1
-water_and	1
+sanity_and	1
 band_and	1
 favor_and	1
+college_but	1
+water_and	1
 work_or	1
 bass_and	1
 NN_CD
+projector_three	1
 sound_two	1
 Im_26	1
 TrueHD_5.1	1
@@ -677,13 +698,19 @@ WP_RBR
 what_more	1
 NN_JJ
 something_complementary	1
+bar_sure	1
 neil_young	1
+talent_great	1
+moving_wonderful	1
 bit_bored	1
+nothing_short	1
+question_incredible	1
+music_excellent	1
 friggin_incredible	1
 time_favorite	1
 guitar_virtuoso	1
 something_beautiful	1
-nothing_short	1
+cd_beautiful	1
 meaning_clean	1
 RB_EX
 also_there	1
@@ -708,7 +735,7 @@ Klipsch_KLF-30	1
 Damn_Lucky	1
 Central_Park	1
 Free_Aspect	1
-Lutheran_College	1
+Bartender_Grace	1
 Radio_Music	1
 Mbps_Dolby	1
 !!_Dave	1
@@ -729,7 +756,9 @@ Sharp_Aquos	1
 College_Dave	1
 DMP-BD30K_1080p	1
 System_</a>	1
+Bartender_Save	1
 City_Format	1
+Lutheran_College	1
 College_CD	2
 Aquos_LC42D64U	1
 Dave_Speak	1
@@ -737,9 +766,11 @@ Dave_Speak	1
 Player_</a>	1
 Dave_Mathews	1
 Concert_Room	1
+Me_Gravedigger	1
 Busted_Stuff	1
 City_Music	5
 MULTIPLE_Dave	1
+Cornbread_Down	1
 Region_Free	1
 Music_Hall	5
 Save_Me	1
@@ -749,6 +780,7 @@ Disc_Matching	1
 Theater_System	1
 Eddie_Vedder	1
 Our_Graves	3
+Water_Cornbread	1
 GB_Average	1
 Hall_cd	1
 I_'d	1
@@ -777,22 +809,18 @@ VBP_RBR
 are_more	1
 VBD_VB
 was_suppose	1
+JJR_PRP
+more_you	1
 CC_EX
 and_there	2
 JJR_.
 better_.	1
 darker_.	1
 more_.	1
-JJR_,
-more_,	1
-VB_TO
-compare_to	1
-stick_to	1
-suppose_to	1
-seem_to	1
-relax_to	1
-try_to	1
-listen_to	8
+VBN_CC
+Gone_and	1
+biased_but	1
+portrayed_and	1
 VBN_TO
 excited_to	1
 listened_to	1
@@ -821,6 +849,7 @@ of_this	2
 from_a	1
 with_the	4
 of_the	23
+from_Some	1
 for_those	1
 without_some	1
 with_no	1
@@ -875,25 +904,14 @@ CD_TO
 one_to	2
 VBZ_WRB
 is_how	1
-NNS_WDT
-shows_which	1
-songs_that	2
-issues_that	1
+VBN_CD
+become_one	1
+received_5	1
+payed_40	1
 CD_WRB
 !!_when	1
 VB_WP
 see_what	1
-RB_,
-once_,	2
-though_,	1
-Fortunately_,	1
-Finally_,	1
-However_,	1
-Also_,	1
-else_,	1
-always_,	1
-however_,	1
-awhile_,	1
 RB_.
 twice_.	1
 together_.	3
@@ -931,8 +949,6 @@ over_;	1
 TO_.
 to_.	2
 to_!	1
-TO_,
-to_,	2
 WRB_PRP
 how_he	1
 when_it	1
@@ -996,17 +1012,9 @@ that_it	4
 If_I	1
 like_he	2
 about_it	1
-''_.
-''_.	2
-'_.	1
-''_!	1
-''_,
-''_,	2
 CD_FW
 2.0_2304Kbps	1
 5.1_640Kbps	1
-RB_NNS
-probably_showers	1
 :_NNS
 ;_talks	1
 :_NNP
@@ -1130,6 +1138,7 @@ any_lover	1
 this_stuff	1
 A_lot	1
 the_feel	1
+the_Lie	1
 This_concert	1
 The_music	1
 this_DVD	5
@@ -1180,13 +1189,6 @@ this_is	12
 that_'s	1
 This_is	11
 the_frets	1
-CD_CC
-4_or	1
-2003_and	1
-one_and	1
-5_or	1
-40_+	1
-two_and	1
 PRP_VBP
 you_do	2
 they_have	1
@@ -1262,6 +1264,12 @@ Prompt_delivery/great	1
 #Photo_Montage	1
 </a>_Prompt	1
 ???_WTF	1
+DT_MD
+this_would	1
+a_must	6
+some_may	1
+this_may	1
+A_must	1
 MD_VBD
 would_recommended	1
 WP_NNP
@@ -1274,17 +1282,17 @@ it_!	3
 you_.	2
 us_.	1
 it_.	9
-PRP_,
-me_,	1
-it_,	4
+IN_:
+that_...	1
 CC_VBP
 and_have	1
 PRP_VB
+they_play	1
+him_live	1
+you_want	1
 you_say	2
 me_begin	1
-they_play	1
-you_want	1
-him_live	1
+it_love	2
 CC_VBZ
 and_astounds	1
 NN_WRB
@@ -1296,6 +1304,10 @@ out_to	1
 down_to	1
 NNP_PRP
 Dave_I	1
+CD_it	1
+River_You	1
+College_you	1
+Reynolds_I	1
 CC_VBD
 and_put	1
 and_got	1
@@ -1308,29 +1320,6 @@ and_hearing	1
 and_drawing	1
 JJR_NNP
 more_Music	1
-JJ_,
-unfailing_,	1
-meaningless_,	1
-worth_,	1
-live_,	1
-excellent_,	1
-OK_,	1
-rich_,	1
-terrible_,	1
-happy_,	1
-immature_,	1
-favorite_,	1
-acoustic_,	2
-passionate_,	1
-Wonderful_,	1
-great_,	3
-impressive_,	1
-incredible_,	1
-available_,	1
-good_,	1
-first_,	1
-clean_,	1
-undistorted_,	1
 JJ_.
 terrific_.	1
 much_.	1
@@ -1365,6 +1354,7 @@ good_.	2
 disappointing_.	1
 classic_.	1
 VBN_NNP
+said_Tim	1
 seen_DMB	1
 seen_Dave	1
 VBN_IN
@@ -1385,6 +1375,7 @@ cued_for	1
 recommended_for	1
 screwed_by	1
 RB_WP
+once_what	1
 there_who	1
 CC_IN
 But_if	1
@@ -1418,6 +1409,7 @@ about_all	1
 NN_NNS
 solo_songs	1
 songwriting_skills	1
+bathroom_lines	1
 solo_bits	1
 half_hours	1
 deeper/moodier_songs	1
@@ -1426,7 +1418,7 @@ song_choices	1
 core_fans	1
 BD-25_Extras	1
 time_favorites	1
-bathroom_lines	1
+way_talks	1
 tim_reynolds	2
 work_wanders	1
 MP3_downloads	1
@@ -1435,21 +1427,32 @@ NNPS_VBP
 Conservatives_beware	1
 NN_NNP
 show_Dave	1
-opinion_Dave	1
+thing_Dave	1
 BD-50_Main	1
+receiver_Dayton	1
 <a href="http://www.amazon.com/gp/product/B000OG6I24">_Sony	1
+center_Klipsch	1
 treat_!!	1
+player_Pioneer	1
+24P_Radio	1
+opinion_Dave	1
+guitarist_Tim	1
 <a href="http://www.amazon.com/gp/product/B000SQL4ZQ">_Dave	1
 <a href="http://www.amazon.com/gp/product/B000Y634SU">_Panasonic	1
-guitarist_Tim	1
-:_``
-..._``	1
+generation_Dave	1
 WDT_NNS
 whatever_preconceptions	1
+CD_CD
+42_1080p	1
 UH_NN
 eh_hee	1
-,_WRB
-,_how	2
+CD_CC
+4_or	1
+2003_and	1
+one_and	1
+5_or	1
+40_+	1
+two_and	1
 IN_JJR
 into_higher	1
 POS_PRP
@@ -1463,22 +1466,22 @@ came_when	1
 ..._This	1
 -_both	1
 ..._the	1
-DT_MD
-this_would	1
-a_must	6
-some_may	1
-this_may	1
-A_must	1
+CD_PRP$
+one_his	1
 JJR_NN
 more_talking	1
 less_credit	1
 more_story	1
-:_CD
-:_19.93	1
-:_42,27	1
-:_43,46	1
--_46	1
--_4	1
+VBP_VBN
+have_appeared	1
+'ve_seen	2
+have_grown	2
+have_been	1
+have_said	1
+have_seen	2
+have_gotten	1
+have_done	1
+are_interrupted	1
 POS_VBN
 's_performed	1
 VBP_VBZ
@@ -1502,16 +1505,12 @@ you_will	5
 You_'ll	1
 it_will	1
 We_ca	1
-VBP_VBN
-have_appeared	1
-'ve_seen	2
-have_grown	2
-have_been	1
-have_said	1
-have_seen	2
-have_gotten	1
-have_done	1
-are_interrupted	1
+:_CD
+:_19.93	1
+:_42,27	1
+:_43,46	1
+-_46	1
+-_4	1
 :_CC
 ;_and	1
 CC_VB
@@ -1547,21 +1546,24 @@ There_are	1
 there_are	2
 JJS_:
 best_...	1
-CC_``
-and_``	1
 NN_NN
 disk_concert	1
 set_list	1
 CD_player	1
-backup_band	1
-inch_screen	1
+Sanity_Lie	1
+band_solo	1
 studio_album	1
+energy_soul	1
 bit_rate	1
+Killer_version	1
 music_recording	1
+sax_bass	1
+backup_band	1
 sound_quality	1
-CD_check	1
-reference_disc	1
-video_bit	1
+song_Gravedigger	1
+percussion_sax	1
+crush_lie	1
+inch_screen	1
 college_gig	1
 dvd_blu-ray	1
 ref-guide_material	1
@@ -1574,6 +1576,7 @@ Movie_size	1
 DMB_record	1
 cd_flow	1
 DD_AC3	1
+video_bit	1
 concert_way	1
 star_release	1
 crowd_noise	2
@@ -1583,42 +1586,29 @@ haunting_song	1
 quality_DVD	1
 HD_concert	1
 quality_music	1
-VC-1_BD-50	1
-Killer_version	1
-era_stuff	1
 firt_time	1
+VC-1_BD-50	1
+reference_disc	1
+era_stuff	1
+Tru-HD_24P	1
+CD_check	1
 concert_weekly	1
 DVD_quality	1
+resolution_Tru-HD	1
 dave_talking	1
 sub_par	1
 video_quality	1
 DVD_player	1
 guitar_work	2
+leave_crush	1
 NNS_RB
+hands_down	1
 fans_out	2
 songs_as	1
 minutes_sometimes	1
 talks_way	1
 songs_only	1
 albums_now	1
-CD_''
-42_''	1
-,_JJ
-,_sure	1
-,_undistorted	1
-,_incredible	1
-,_acoustic	1
-,_great	4
-,_natural	1
-,_double	1
-,_top-notch	1
-,_revealing	1
-,_wonderful	1
-,_beautiful	1
-,_excellent	1
-,_new	1
-,_terrific	1
-,_immature	1
 DT_JJ
 all_beautiful	1
 this_remarkable	1
@@ -1665,11 +1655,13 @@ an_acoustic	1
 a_classic	1
 a_burned	1
 the_absolute	1
-an_incredible	1
+that_top-notch	1
 this_intimate	1
 a_little	1
 the_surreal	1
+the_straight	1
 the_hard	1
+an_incredible	1
 the_overall	1
 an_extraordinary	1
 the_whole	1
@@ -1696,11 +1688,10 @@ All_acoustic	1
 a_true	1
 an_awesome	1
 each_other	1
+the_unplugged	1
 This_double	1
 :_VBD
 /_heard	1
-NNS_``
-goodies_``	1
 NN_IN
 show_that	1
 feel_for	1
@@ -1715,6 +1706,7 @@ copy_of	1
 chatter_that	1
 DVD_with	1
 material_out	1
+following_as	1
 couple_of	1
 distraction_for	1
 song_that	1
@@ -1743,8 +1735,9 @@ experience_for	1
 fullness_of	1
 Lie_in	3
 product_Since	1
-masterpiece_of	1
+experience_as	1
 credit_than	1
+enjoyment_of	1
 peak_of	1
 review_by	1
 rendition_of	2
@@ -1752,6 +1745,7 @@ performance_of	1
 rambling_that	1
 side_of	1
 way_above	1
+set_as	1
 fan_of	5
 life_into	1
 fan_until	1
@@ -1766,6 +1760,7 @@ average_in	1
 rant_about	1
 cork_in	1
 criticism_with	1
+sound_like	1
 talking_in	1
 quality_of	2
 cover_of	1
@@ -1779,16 +1774,18 @@ music_like	1
 example_in	1
 retoric_in	1
 chemistry_at	1
+fan_whether	1
 show_with	1
 material_in	1
 album_by	1
 song_in	1
 lie_in	1
 trading_for	1
+masterpiece_of	1
 babel_between	1
-integration_on	1
-recording_during	1
 time_in	1
+recording_during	1
+integration_on	1
 button_on	1
 concert_that	1
 turn_on	1
@@ -1800,7 +1797,7 @@ admirer_of	1
 Down_by	1
 DMB_so	1
 example_of	1
-enjoyment_of	1
+collection_if	1
 check_out	1
 Part_of	1
 work_of	1
@@ -1828,10 +1825,11 @@ Ive_seen	1
 NNS_PRP
 blows_us	1
 abilities_it	1
-minutes_I	1
+favorites_they	1
+incites_he	1
 preconceptions_you	1
 performances_I	1
-incites_he	1
+minutes_I	1
 NN_VBG
 performance_filling	1
 clarity_coming	1
@@ -1841,6 +1839,8 @@ noise_being	1
 undercurrent_running	1
 story_telling	1
 feature_Running	1
+CC_WRB
+but_how	1
 NN_VBD
 husband_enjoyed	1
 concert_was	1
@@ -1864,6 +1864,7 @@ album_contains	1
 quality_is	1
 stage_is	1
 discount_is	1
+River_is	1
 DVD_is	4
 sound_is	3
 cd_has	2
@@ -1937,12 +1938,12 @@ because_there	1
 PRP_RP
 them_down	1
 it_up	1
-JJ_``
-great_``	1
 RB_VBZ
 long_pauses	1
+however_is	1
 almost_sounds	1
 here_is	1
+though_is	1
 really_needs	1
 well_exceeds	1
 even_takes	1
@@ -1950,9 +1951,6 @@ never_lets	1
 still_amazes	1
 twice_is	1
 certainly_shines	1
-,_WP
-,_who	1
-,_what	1
 VB_PRP
 disappoiont_me	1
 see_them	1
@@ -2010,11 +2008,8 @@ ever_heard	3
 never_heard	1
 Also_included	1
 Beautifully_treated	1
-NN_''
-Step_''	2
-man_''	1
-River_''	1
-river_'	1
+VBP_WP
+know_what	1
 RB_VBG
 Maybe_having	1
 occasionally_making	1
@@ -2024,25 +2019,21 @@ really_enjoyed	1
 definitely_did	1
 always_cringed	1
 NNS_NN
+songs_Lie	1
 LCD_HDTV	1
 CC_MD
 and_could	1
+NNP_TO
+Bartender_to	1
 VBZ_TO
 appears_to	1
 needs_to	2
 manages_to	1
 tends_to	1
 seems_to	1
-,_IN
-,_with	1
-,_though	1
-,_as	6
-,_if	1
-,_in	2
-,_like	1
-,_of	1
-,_whether	1
-,_out	1
+POS_NNP
+'s_Klipsch	1
+'s_Down	1
 PRP$_IN
 your_in	1
 VBG_CC
@@ -2065,6 +2056,7 @@ NN_WDT
 thing_that	1
 puzzle_that	1
 disc_that	1
+sister_which	1
 DVD_that	1
 VB_DT
 be_an	1
@@ -2108,6 +2100,7 @@ is_wonderful	1
 goes_crazy	1
 brings_back	1
 has_great	1
+shines_great	1
 sounds_great	1
 is_impressive	2
 is_such	1
@@ -2124,11 +2117,11 @@ is_special	1
 is_excellent	1
 is_sensational	1
 is_sub	1
-''_DT
-''_the	1
 NN_TO
-track_to	1
+appeal_to	1
+fun_to	1
 experience_to	1
+track_to	1
 par_to	1
 album_to	1
 treat_to	1
@@ -2138,7 +2131,7 @@ compliment_to	1
 testament_to	1
 band_to	1
 Blu-ray_to	1
-fun_to	1
+man_to	1
 color_to	1
 something_to	1
 way_to	1
@@ -2158,9 +2151,11 @@ some_of	3
 both_of	1
 all_by	1
 PRP_IN
-you_into	1
 you_through	1
 you_like	3
+me_of	1
+you_into	1
+it_as	1
 it_if	1
 RBR_JJ
 more_unheard	1
@@ -2175,47 +2170,17 @@ What_an	1
 CC_CD
 &_Two	1
 and_one	1
+and_Two	1
 or_7	1
 or_5	1
 PRP_PRP$
 it_his	1
 NNP_FW
 Hall_</a>	1
-,_NN
-,_soul	1
-,_24P	1
-,_bass	1
-,_crush	1
-,_sax	1
-,_Lie	2
-,_solo	1
-,_man	1
-,_Tru-HD	1
-,_guarantee	1
-,_lie	1
-,_kinda	1
-,_Gravedigger	1
 PRP$_RB
 its_not	1
-``_RB
-`_down	1
-CC_,
-but_,	2
-But_,	1
-``_NNS
-`_songs	1
 JJR_CC
 higher_and	1
-``_NNP
-``_Bartender	1
-``_Crash	1
-``_Cornbread	1
-``_Live	1
-``_Stay	1
-``_Down	1
-``_Dave	1
-``_Crush	2
-``_Luther	1
 RB_DT
 Simply_the	1
 otherwise_an	1
@@ -2229,6 +2194,7 @@ just_a	1
 usually_a	1
 togehter_an	1
 yet_another	1
+Fortunately_the	1
 absolutely_the	1
 not_a	1
 never_a	1
@@ -2247,25 +2213,14 @@ WRB_PRP$
 why_his	1
 UH_CD
 Wow_!!	1
-DT_``
-the_`	1
-the_``	3
-,_RB
-,_not	1
-,_so	1
-,_well	1
-,_maybe	1
-,_still	1
-,_even	1
-,_down	1
-,_Still	1
 CC_PRP
 but_I	2
 or_you	1
 But_you	1
+But_it	1
 and_you	2
 and_I	2
-but_it	4
+but_it	5
 and_it	1
 and_he	1
 RB_VB
@@ -2318,21 +2273,16 @@ like_on	1
 whether_with	1
 in_between	2
 JJ_RB
-next_seemlessly	1
 flawless_together	1
+unfailing_even	1
+good_well	1
+next_seemlessly	1
 good_even	1
 awesome_together	1
 lucky_enough	1
 amazing_once	1
-,_``
-,_``	1
 VBG_PRP$
 allowing_his	1
-,_VBG
-,_exchanging	1
-,_coming	1
-,_showing	1
-,_including	1
 NNS_.
 others_.	1
 favorites_.	3
@@ -2353,28 +2303,6 @@ musics_.	1
 souls_.	1
 shows_.	1
 discs_.	2
-NNS_,
-others_,	1
-favorites_,	2
-concerts_,	1
-guitars_,	1
-times_,	1
-graves_,	1
-hands_,	1
-amps_,	1
-reasons_,	1
-classics_,	1
-releases_,	1
-songs_,	4
-basics_,	1
-rants_,	1
-choices_,	1
-,_VBP
-,_go	1
-,_need	1
-,_Do	1
-,_guess	1
-,_please	1
 RBR_RB
 more_smoothly	1
 VBD_NNP
@@ -2385,8 +2313,6 @@ enjoyed_Dave	1
 NNS_:
 fans_...	1
 masters_-	1
-,_VBZ
-,_is	2
 JJ_NNS
 English_Lyrics	1
 other_discs	1
@@ -2428,11 +2354,15 @@ new_tracks	1
 rare_tracks	1
 many_ways	1
 JJ_NNP
-real_Dave	1
-huge_DMB	2
-big_Dave	1
+great_Tim	1
 live_Dave	1
 huge_Dave	2
+real_Dave	1
+big_Dave	1
+favorite_Crush	1
+acoustic_Dave	1
+huge_DMB	2
+great_Dave	1
 CD_IN
 5_for	1
 7_of	1
@@ -2442,11 +2372,6 @@ two_of	1
 one_of	11
 one_from	1
 One_of	1
-''_CD
-''_1080p	1
-''_CC
-''_and	1
-''_or	1
 IN_WP
 with_what	1
 for_what	2
@@ -2457,30 +2382,45 @@ saying_I	1
 DT_RB
 a_little	2
 an_oddly	1
+this_so	1
 a_so	1
 NN_PRP
-stuff_they	1
-CD_I	1
-music_I	1
+course_it	1
 concert_I	1
-connection_he	1
-record_I	1
-course_they	1
-money_you	1
 Love_it	1
-collection_I	1
+money_you	1
 time_I	1
 recording_I	1
+stuff_they	1
+CD_I	1
+tour_it	1
+man_it	1
+record_I	1
+collection_I	1
+shape_I	1
+player_you	1
+venue_you	1
+DVD_it	1
+DVD_I	1
+college_you	1
+course_they	1
+connection_he	1
+music_I	1
+fan_you	1
+river_you	1
 VB_PRP$
 Close_your	1
 get_your	1
 experience_his	1
 impress_your	1
+Leave_my	1
 EX_WRB
 there_when	1
 JJ_DT
 good_this	1
+incredible_these	1
 worth_the	2
+great_the	1
 such_a	2
 RB_CC
 once_and	1
@@ -2528,9 +2468,8 @@ have_payed	1
 have_been	2
 be_sold	1
 be_disappointed	1
-VB_VBG
-be_buying	1
-hurt_having	1
+LS_MD
+i_will	1
 VBG_NNS
 exchanging_licks	1
 performing_abilities	1
@@ -2541,20 +2480,13 @@ even_better	1
 much_better	2
 WRB_NNS
 When_people	1
-,_DT
-,_this	11
-,_Some	1
-,_some	1
-,_these	2
-,_a	2
-,_the	3
-,_no	1
 NNP_NNPS
 Red_Rocks	1
 CD_PRP
 41_they	1
-POS_``
-'s_``	1
+22_you	1
+NNS_DT
+concerts_this	1
 VBZ_NN
 is_nothing	1
 is_friggin	1
@@ -2563,8 +2495,6 @@ is_sub	1
 brings_something	1
 is_something	1
 has_alot	1
-UH_,
-Hey_,	1
 TO_JJ
 to_many	1
 VBP_DT
@@ -2590,8 +2520,6 @@ had_to	1
 was_to	1
 NN_FW
 24-bit/96kHz_LPCM	1
-,_WDT
-,_which	2
 NNPS_NN
 Rocks_era	1
 JJS_NNP
@@ -2623,72 +2551,13 @@ one_up	1
 !!_Especially	1
 POS_JJS
 's_best	1
-NN_,
-cd_,	2
-receiver_,	1
-generation_,	1
-river_,	1
-center_,	1
-man_,	1
-band_,	1
-college_,	2
-talent_,	1
-past_,	1
-Tru-HD_,	1
-end_,	1
-gig_,	1
-24P_,	1
-moving_,	1
-sax_,	1
-shape_,	1
-day_,	1
-song_,	1
-way_,	1
-course_,	1
-crush_,	1
-wife_,	1
-commentary_,	1
-musicianship_,	1
-experience_,	1
-player_,	2
-sister_,	2
-mistake_,	1
-following_,	1
-soul_,	1
-venue_,	1
-blu-ray_,	1
-percussion_,	1
-place_,	1
-sanity_,	1
-screen_,	1
-bar_,	1
-collection_,	1
-solo_,	1
-music_,	2
-appeal_,	1
-tour_,	1
-resolution_,	1
-list_,	1
-thing_,	1
-sound_,	2
-fan_,	5
-energy_,	1
-leave_,	1
-concert_,	1
-Sanity_,	1
-set_,	1
-projector_,	1
-fiddle_,	1
-DVD_,	2
-system_,	1
-question_,	1
-``_NN
-``_Down	1
-``_Lie	1
+TO_CD
+to_Two	1
 NN_.
 content_.	1
 cd_.	2
 sub_.	1
+river_.	1
 band_.	4
 concert_.	4
 </a>_.	1
@@ -2704,7 +2573,7 @@ stage_.	1
 uplipting_.	1
 year_.	1
 draw_.	1
-problem_.	1
+Step_.	2
 hee_.	1
 guitarest_.	1
 collection_.	1
@@ -2725,7 +2594,7 @@ disc_?	1
 performance_.	3
 sound_.	3
 art_!	1
-Step_.	1
+problem_.	1
 talking_!	1
 track_.	2
 CD_.	2
@@ -2767,24 +2636,12 @@ WDT_VBZ
 that_sounds	1
 which_is	2
 that_goes	1
-NNP_VBD
-Reynold_made	1
-CD_set	1
-Tim_put	1
-</a>_was	1
-Tim_seemed	1
-'d_owned	1
 WDT_VBP
 that_burn	1
 that_fit	1
 that_have	1
 CC_UH
 and_eh	1
-,_VB
-,_love	2
-''_NN
-''_style	1
-''_album	1
 VBP_VB
 didnt_sit	1
 Do_realize	1
@@ -2804,9 +2661,6 @@ being_perhaps	1
 being_much	1
 FW_JJ
 640Kbps_English	1
-DT_,
-that_,	1
-this_,	1
 NNS_FW
 Extras_***********************	1
 minutes_#Photo	1
@@ -2841,6 +2695,7 @@ very_disappointed	1
 little_flat	1
 always_incredible	1
 always_unfailing	1
+once_great	1
 soo_good	1
 so_much	1
 very_unenthusiastic	1
@@ -2860,7 +2715,7 @@ more_can	1
 TO_NNP
 to_MULTIPLE	1
 to_Tim	1
-to_Luther	1
+to_Luther	2
 to_Dave	3
 VBG_DT
 drawing_some	1
@@ -2869,12 +2724,14 @@ including_some	1
 giving_this	2
 filling_the	1
 RB_PRP
+awhile_I	1
 just_me	1
 Sometimes_you	1
 not_it	1
 :_VBG
 ..._talking	1
 VBZ_PRP
+listens_I	1
 keeps_you	1
 Thats_it	1
 puts_me	1
@@ -2911,21 +2768,19 @@ NN_RBR
 flow_more	1
 NNS_WRB
 skills_when	1
-``_JJ
-``_unplugged	1
-``_straight	1
-VB_''
-Leave_''	1
+guitars_how	1
 FW_:
 Montage_-	1
 NNP_IN
+College_for	1
 Dave_on	2
-City_in	1
+Matthews_in	1
 Down_By	1
 Tim_about	1
 Disc_into	1
 Soundtrack_by	1
 Live_At	1
+City_in	1
 Dave_for	1
 Matthews_at	1
 Live_at	7
@@ -2934,8 +2789,8 @@ CD_of	1
 CD_for	1
 Tim_in	1
 Down_by	1
-,_TO
-,_to	2
+RB_NNS
+probably_showers	1
 IN_VBG
 by_saying	1
 while_bringing	1
@@ -2946,6 +2801,53 @@ That_being	1
 before_being	1
 from_beginning	1
 in_painting	1
+CC_JJR
+and_higher	1
+IN_VBN
+that_impressed	1
+as_witnessed	1
+if_edited	1
+than_deserved	1
+RB_NNP
+Still_Water	1
+always_Dave	1
+However_Dave	1
+far_Dave	1
+just_Dave	1
+Also_Dave	1
+JJ_CC
+in-studio_and	1
+immature_and	1
+Intimate_and	1
+disappointed_and	1
+surreal_and	1
+terrible_but	1
+good_and	1
+undistorted_and	1
+blatent_and	1
+natural_and	1
+OK_but	1
+bored_or	1
+great_but	1
+IN_VBZ
+of_listens	1
+JJ_CD
+great_one	1
+impressive_one	1
+top_3	1
+amazing_2	1
+top_5	1
+next_one	1
+CD_.
+one_.	2
+2006_.	1
+26_.	1
+WRB_VBZ
+how_is	1
+FW_CD
+LPCM_2.0	1
+RB_POS
+only_'	1
 POS_NN
 's_talking	1
 's_song	2
@@ -2961,56 +2863,6 @@ POS_NN
 '_accompanyment	1
 '_menu	1
 's_improvision	1
-,_PRP
-,_it	8
-,_I	6
-,_you	8
-,_You	1
-,_they	1
-CC_JJR
-and_higher	1
-IN_VBN
-that_impressed	1
-as_witnessed	1
-if_edited	1
-than_deserved	1
-RB_NNP
-far_Dave	1
-Still_Water	1
-just_Dave	1
-JJ_CC
-in-studio_and	1
-Intimate_and	1
-disappointed_and	1
-surreal_and	1
-good_and	1
-blatent_and	1
-natural_and	1
-bored_or	1
-IN_VBZ
-of_listens	1
-JJ_CD
-top_3	1
-amazing_2	1
-top_5	1
-next_one	1
-great_one	1
-CD_,
-one_,	1
-22_,	1
-41_,	1
-CD_.
-one_.	2
-2006_.	1
-26_.	1
-WRB_VBZ
-how_is	1
-FW_CD
-LPCM_2.0	1
-RB_POS
-only_'	1
-``_CD
-``_Two	2
 TO_NN
 to_anybody	1
 to_date	2
@@ -3027,10 +2879,11 @@ two_guys	1
 two_disks	1
 eight_years	1
 CD_NNP
-42,27_GB	1
 4000_U	1
-19.93_Mbps	1
+41_Bartender	1
 three_Adcom	1
+42,27_GB	1
+19.93_Mbps	1
 43,46_GB	1
 VBN_RB
 done_together	1
@@ -3049,11 +2902,13 @@ Aspect_ratio	1
 Young_classic	1
 Boone_performance	1
 Klipsch_center	1
+Hall_man	1
 Dolby_TrueHD	1
 College_cd	1
 Blu-Ray_player	1
 DMB_fan	6
 Iraq_war	2
+Devil_album	1
 Average_video	1
 Matthews_fan	4
 Band_fan	1
@@ -3065,17 +2920,6 @@ Blu-Ray_collection	1
 Main_feature	1
 Luther_college	2
 Elite_receiver	1
-TO_PRP$
-to_his	2
-to_their	2
-NN_POS
-mid-90_'s	1
-DVD_'s	1
-dave_'s	1
-TO_PRP
-to_it	3
-to_me	1
-To_me	1
 VBZ_RB
 's_definitely	1
 ranks_right	1
@@ -3099,6 +2943,17 @@ is_still	1
 is_always	2
 's_just	1
 is_easily	1
+NN_POS
+mid-90_'s	1
+DVD_'s	1
+dave_'s	1
+TO_PRP
+to_it	3
+to_me	1
+To_me	1
+TO_PRP$
+to_his	2
+to_their	2
 VBN_RP
 twacked_out	1
 edited_out	2
@@ -3136,6 +2991,7 @@ down_by	2
 especially_for	1
 just_that	1
 n't_that	1
+Finally_as	1
 enough_as	1
 well_as	1
 even_on	1
@@ -3203,22 +3059,6 @@ have_just	1
 are_not	1
 JJ_VBZ
 amazing_is	1
-NNP_,
-CD_,	1
-Graves_,	1
-Matthews_,	3
-Me_,	1
-River_,	1
-Water_,	2
-Iraq_,	1
-Cornbread_,	1
-Reynolds_,	2
-Gravedigger_,	1
-Tim_,	1
-Hall_,	1
-College_,	1
-Bartender_,	2
-Dave_,	1
 CD_JJ
 2_acoustic	1
 VBD_EX
@@ -3230,6 +3070,7 @@ looking_video	1
 Running_time	1
 adding_color	1
 JJ_VBG
+available_showing	1
 worth_picking	1
 good_looking	1
 NNP_:
@@ -3252,12 +3093,6 @@ VBZ_.
 frets_.	1
 astounds_.	1
 is_.	2
-VBZ_,
-listens_,	1
-receives_,	1
-rears_,	1
-is_,	1
-shines_,	1
 RB_NN
 so_product	1
 still_water	1
@@ -3266,27 +3101,34 @@ listeners_to	1
 years_to	1
 bits_to	1
 JJ_JJ
-great_new	1
 same_dual-acoustic	1
-incredible_friggin	1
-excellent_double	1
-many_live	1
-own_clever	1
-must-have_live	1
-other_great	1
-favorite_live	1
+excellent_live	1
+passionate_revealing	1
+few_new	1
+dual-acoustic_live	1
 great_live	2
 much_good	1
-dual-acoustic_live	1
-other_acoustic	1
-other_favorite	1
+must-have_live	1
+clean_undistorted	1
+plastic_crappy	1
+meaningless_immature	1
+great_new	1
+rich_natural	1
+many_live	1
 fast_forward	1
-many_good	1
-excellent_live	1
+Wonderful_terrific	1
 few_rare	1
 little_plastic	1
-plastic_crappy	1
-few_new	1
+incredible_friggin	1
+excellent_double	1
+other_great	1
+acoustic_double	1
+live_acoustic	1
+other_acoustic	1
+other_favorite	1
+many_good	1
+favorite_live	1
+own_clever	1
 JJR_IN
 less_than	1
 better_than	1
@@ -3298,24 +3140,19 @@ WRB_JJ
 how_much	1
 how_important	1
 how_good	2
-,_CC
-,_both	1
-,_and	11
-,_or	1
-,_but	14
+VB_VBG
+be_buying	1
+hurt_having	1
 VB_NN
 surround_sound	1
-,_CD
-,_two	1
-,_one	1
-,_three	1
+UH_RB
+Hey_maybe	1
 NN_WP
 fan_who	1
+wife_who	1
 soldier_who	1
 WRB_NNP
 where_Dave	1
-VBP_WP
-know_what	1
 PRP_TO
 him_to	1
 you_to	1
@@ -3331,6 +3168,7 @@ shots_are	1
 cows_come	1
 songs_resonate	1
 tracks_are	1
+times_guess	1
 guys_seem	1
 people_come	1
 songs_flow	1
@@ -3363,8 +3201,10 @@ NNS_VBD
 performances_were	1
 fans_were	1
 NNS_VBG
+songs_including	1
 songs_ranging	1
 morons_giving	1
+songs_coming	1
 RP_RB
 out_back	1
 PRP_NNS
@@ -3387,8 +3227,6 @@ POS_JJ
 's_amazing	1
 's_political	1
 's_inane	1
-''_IN
-''_for	1
 VBD_VBN
 got_screwed	1
 had_been	1
@@ -3448,11 +3286,16 @@ Tim_twice	1
 City_back	1
 Dave_almost	1
 Tim_probably	1
+Gravedigger_Still	1
 NNP_VBP
+Water_Do	1
 Tim_have	2
+Tim_need	1
 Tim_look	1
+Matthews_please	1
 Tim_are	3
 Reynolds_are	1
+Dave_go	1
 Tim_live	1
 Dave_are	1
 :_PRP
@@ -3469,7 +3312,7 @@ pieces_of	1
 states_of	1
 rhythms_out	1
 favorites_of	1
-songs_with	1
+songs_with	2
 DVDs_of	1
 comments_on	1
 classics_like	1
@@ -3502,8 +3345,14 @@ times_in	1
 suprises_on	1
 memories_of	1
 portraits_in	1
-VBN_CC
-Gone_and	1
+VB_TO
+compare_to	1
+stick_to	1
+suppose_to	1
+seem_to	1
+relax_to	1
+try_to	1
+listen_to	8
 NNP_VBZ
 Dave_puts	1
 Tim_shines	2
@@ -3513,12 +3362,14 @@ Dave_treats	1
 Reynolds_is	5
 Dave_gets	1
 Grace_is	1
+Crush_is	1
 Tim_does	1
 Dave_spews	1
 This_is	3
 CD_is	3
 Tim_is	1
 Tim_goes	1
+River_is	1
 Dave_plays	1
 Park_needs	1
 Dave_sings	1
@@ -3526,6 +3377,7 @@ Dave_seems	1
 Matthews_is	1
 Sound_is	1
 Klipsch_rears	1
+Cornbread_is	1
 Dave_acts	1
 VB_JJ
 be_many	1
@@ -3568,8 +3420,6 @@ to_connect	1
 to_check	1
 NN_JJR
 lot_more	1
-NN_``
-classic_`	1
 CC_NNP
 and_Dave	4
 or_Dave	2
@@ -3584,10 +3434,13 @@ POS_.
 NNP_VBG
 Graves_being	1
 Reynolds_adding	1
-POS_,
-'s_,	1
-``_DT
-``_Some	1
+NNP_VBD
+Reynold_made	1
+CD_set	1
+Tim_put	1
+</a>_was	1
+Tim_seemed	1
+'d_owned	1
 NNP_POS
 Tim_'s	2
 cd_'s	1
@@ -3601,18 +3454,21 @@ Reynolds_'	1
 CD_'s	1
 KLF-30_'s	1
 NN_RB
-cd_not	1
+one_as	1
 sound_so	1
 :]_Simply	1
-one_as	1
+fan_not	1
+cd_not	1
 show_well	1
 case_here	1
 guy_really	1
-stage_together	1
+sister_still	1
+intesity_never	1
 job_together	1
 performance_however	1
 plenty_still	1
 set_mostly	1
+classic_down	1
 nothing_really	1
 piano_once	2
 music_together	1
@@ -3620,12 +3476,12 @@ nothing_else	1
 coustomarily_long	1
 admission_alone	1
 guitarist_as	1
-intesity_never	1
+gripe_though	1
 show_out	1
 viewing_still	1
 DVD_definitely	1
-gripe_though	1
 fan_especially	1
+stage_together	1
 JJ_IN
 sure_if	1
 acoustical_with	1
@@ -3638,6 +3494,7 @@ pushy_about	1
 other_than	1
 full_of	1
 astounded_by	1
+excellent_though	1
 mellow_at	1
 magical_on	1
 great_with	1
@@ -3658,10 +3515,6 @@ different_than	1
 crazy_up	1
 VBG_JJ
 painting_vivid	1
-TO_``
-to_``	2
-IN_:
-that_...	1
 VBZ_DT
 gets_a	1
 is_the	6
@@ -3697,17 +3550,13 @@ Two_BD-25	1
 VBZ_NNP
 makes_Dave	1
 exceeds_Luther	1
+rears_Blu-Ray	1
 MD_IN
 must_for	1
 VBP_NN
 come_home	1
 NN_PRP$
 fact_its	1
-JJ_''
-unplugged_''	1
-VBG_VBN
-having_seen	1
-being_cued	1
 VB_CD
 see_!!	1
 get_!!	1
@@ -3715,11 +3564,13 @@ VB_CC
 stay_or	1
 go_and	1
 NNP_DT
-CD_all	1
+Graves_Some	1
+Worth_every	1
 Cortez_the	1
+CD_all	1
 Point_the	1
 Into_the	1
-Worth_every	1
+Matthews_this	1
 JJS_NN
 best_concert	1
 finest_example	1
@@ -3731,27 +3582,14 @@ best_dvd	1
 highest_quality	1
 best_ref-guide	1
 RP_IN
-on_at	1
-out_in	1
 out_on	1
 down_as	1
+out_in	1
 in_at	1
+out_as	1
+on_at	1
 VBN_NNS
 treated_tunes	1
-,_NNP
-,_Pioneer	1
-,_Bartender	1
-,_Dave	6
-,_Save	1
-,_Klipsch	3
-,_Cornbread	1
-,_Dayton	1
-,_Down	1
-,_Blu-Ray	1
-,_Grace	1
-,_Tim	2
-,_Gravedigger	1
-,_Radio	1
 VBG_NNP
 having_Tim	1
 CC_NNS
@@ -3759,19 +3597,18 @@ and_covers	1
 +_times	1
 and_talks	1
 &_naps	1
-,_NNS
-,_talks	1
 VBZ_IN
 has_with	1
 is_with	2
 sounds_like	1
 does_on	1
-shines_like	1
 shines_on	1
+shines_like	1
 's_with	1
 is_that	4
 sings_with	1
 acts_like	1
+receives_in	1
 is_BY	1
 is_by	1
 shines_as	1
@@ -3783,7 +3620,7 @@ this_to	1
 NNP_.
 Matthews_.	4
 Tim_.	1
-CD_.	1
+Graves_!	1
 ON_!	1
 Hill_.	1
 Reynolds_.	3
@@ -3792,7 +3629,8 @@ Dave_!	1
 Blu_.	1
 Vedder_!	1
 Hall_.	2
-College_.	2
+College_.	3
+CD_.	1
 Graves_.	1
 Room_.	1
 Dave_.	1
@@ -3817,7 +3655,7 @@ good_choice	1
 only_DMB	1
 perfect_compliment	1
 straight_man	1
-entire_band	1
+worth_guarantee	1
 favorite_song	1
 acoustic_performance	1
 incredible_set	1
@@ -3895,9 +3733,11 @@ whole_CD	1
 great_job	1
 grave_digger	1
 same_year	1
+unplugged_style	1
 great_CD	1
 talented_artist	1
 top_tier	1
+entire_band	1
 double_disk	1
 actual_band	2
 two-disc_CD	1

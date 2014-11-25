@@ -1,21 +1,16 @@
 IN_NN
-for_language	1
-of_learning	1
 by_rote	1
-for_life	1
+for_music	1
+of_learning	1
+for_language	1
 that_laypeople	1
+for_life	1
 VBN_VBN
 been_motivated	1
 PRP_RB
 it_highly	1
 NNS_WP
 people_who	1
-''_TO
-''_to	1
-``_JJ
-``_natural	1
-WRB_TO
-how_to	1
 DT_RB
 that_too	1
 NNP_IN
@@ -34,23 +29,20 @@ know_the	1
 do_that	1
 WRB_DT
 how_the	1
-VBZ_``
-becomes_``	1
-PDT_DT
-such_the	1
+IN_VBG
+for_learning	1
+through_experiencing	1
+about_learning	1
+with_playing	1
+by_using	1
+While_walking	1
+like_learning	1
 RB_.
 highly_.	1
 too_!	1
-VBP_,
-emulate_,	1
-IN_``
-for_``	1
-,_PRP
-,_I	1
-,_you	2
-,_they	1
 VBZ_JJ
 holds_true	1
+becomes_natural	1
 's_sequal	1
 RB_VBG
 still_learning	1
@@ -59,6 +51,7 @@ now_learning	1
 NN_TO
 feel_to	1
 way_to	1
+practice_to	1
 music_to	1
 VBP_CC
 mimic_and	1
@@ -67,9 +60,8 @@ PRP_IN
 us_that	1
 VBN_.
 done_.	1
-VBP_DT
-am_a	1
-know_the	1
+JJ_CD
+casual_one	1
 WDT_TO
 which_to	1
 PRP$_JJ
@@ -92,18 +84,8 @@ so_he	1
 before_you	2
 WP_RB
 who_first	1
-IN_VBG
-for_learning	1
-through_experiencing	1
-about_learning	1
-with_playing	1
-by_using	1
-While_walking	1
-like_learning	1
-,_NN
-,_practice	1
-NNP_.
-Amazon.com_.	1
+WRB_TO
+how_to	1
 VBG_WRB
 experiencing_how	1
 PRP_VBD
@@ -120,6 +102,9 @@ they_wanted	1
 They_did	1
 It_was	1
 he_ended	1
+it_played	1
+PRP_PRP
+you_you	1
 NNP_NN
 EVERY_day	1
 TO_PRP$
@@ -147,10 +132,8 @@ is_now	1
 DT_VBZ
 That_'s	1
 this_is	1
-``_NNS
-``_lessons	1
-``_NNP
-``_Piano	1
+DT_VBG
+that_learning	1
 PRP_VBP
 I_want	1
 you_mimic	1
@@ -172,8 +155,6 @@ It_provides	1
 It_'s	2
 it_becomes	1
 it_'s	1
-VB_,
-play_,	2
 IN_.
 out_.	1
 RB_IN
@@ -199,27 +180,17 @@ it_!	1
 it_.	2
 :_NN
 :_Piano	1
-PRP_,
-you_,	1
-it_,	1
 CC_VBP
 and_emulate	1
 and_listen	1
-NNS_''
-lessons_''	1
-NN_,
-library_,	1
-creativity_,	1
-lesson_,	1
-piano_,	1
-NNP_,
-Life_,	1
+NNP_.
+Amazon.com_.	1
 CD_DT
 one_another	1
 CC_VBZ
 and_has	1
-``_NN
-``_music	1
+NNS_PRP$
+days_my	1
 IN_IN
 inside_out	1
 along_with	1
@@ -232,6 +203,8 @@ his_passion	1
 their_music	1
 my_eye	1
 my_son	1
+NNP_PRP
+Life_I	1
 CC_VBD
 and_tried	1
 CC_VBG
@@ -247,37 +220,26 @@ making_music	1
 using_Piano	1
 producing_sheet	1
 JJ_PRP
+first_they	1
 Glad_it	1
-JJ_,
-first_,	1
-casual_,	1
 JJ_.
 first_!	1
 right_.	1
-,_VBD
-,_played	1
-,_got	1
 VBD_RB
 was_only	1
 did_not	1
 did_n't	1
 had_n't	1
-,_VBG
-,_learning	1
-,_reminding	1
+NN_DT
+library_the	1
+PDT_DT
+such_the	1
 VBN_IN
 offered_on	1
 motivated_by	1
 experimented_with	1
 NNS_.
 tears_.	1
-,_VBN
-,_experimented	1
-NNS_,
-combinations_,	1
-lessons_,	1
-methods_,	1
-days_,	1
 CC_IN
 but_by	1
 and_from	1
@@ -292,6 +254,8 @@ RP_PRP$
 down_their	1
 IN_WRB
 on_how	1
+NNPS_VBD
+Quitters_caught	1
 JJ_NNS
 great_composers	1
 complex_arrangements	1
@@ -308,20 +272,16 @@ IN_PDT
 as_such	1
 VB_NNS
 learn_scales	1
-,_CC
-,_and	1
-,_or	1
-,_but	2
 VB_NN
 read_make	1
 learn_piano	1
 NN_NNS
-piano_lessons	1
+piano_lessons	2
 piano_methods	1
 rote_lessons	1
 chord_progressions	1
-,_CD
-,_one	1
+NN_NNP
+title_Piano	1
 RB_VBN
 even_written	1
 VBP_TO
@@ -334,8 +294,10 @@ my_children	1
 PRP_MD
 you_should	1
 he_could	1
-,_PRP$
-,_my	1
+JJ_:
+sequal_:	1
+NN_PRP
+action_I	1
 VB_PRP$
 destroy_his	1
 steal_his	1
@@ -379,15 +341,15 @@ and_husband	1
 and_creativity	1
 VBD_PRP$
 caught_my	1
-,_DT
-,_the	1
 VBP_VBN
 've_used	1
 've_been	1
 NNS_VBD
-composers_did	1
 jobs_were	1
+lessons_started	1
+combinations_got	1
 companies_started	1
+composers_did	1
 people_liked	1
 NNS_VBG
 composers_doing	1
@@ -411,8 +373,9 @@ IN_NNPS
 for_Quitters	1
 TO_JJ
 to_complex	1
-``_PRP
-``_I	1
+VBP_DT
+am_a	1
+know_the	1
 NN_NN
 make_sense	1
 work_chart	1
@@ -422,8 +385,6 @@ piano_book	1
 reading_music	1
 sheet_music	1
 piano_quitter	1
-JJ_:
-sequal_:	1
 PRP_NNP
 it_EVERY	1
 DT_NNS
@@ -440,10 +401,6 @@ in_tears	1
 IN_NNP
 on_Amazon.com	1
 for_Life	1
-''_IN
-''_because	1
-VBD_,
-played_,	1
 DT_JJ
 a_traditional	1
 this_first	1
@@ -460,6 +417,7 @@ PRP_NN
 it_fun	1
 VBD_VBN
 was_offered	1
+played_experimented	1
 were_done	1
 VBD_DT
 learned_a	1
@@ -473,11 +431,10 @@ NNS_CC
 Quitters_and	1
 progressions_and	1
 children_and	1
-lessons_and	1
+methods_but	1
+lessons_and	2
 rhythms_and	1
 chords_and	1
-._''
-!_''	1
 VBD_VBG
 started_writing	1
 was_searching	1
@@ -507,6 +464,7 @@ beginning_of	1
 piano_in	1
 premise_of	1
 music_along	1
+piano_so	1
 understanding_on	1
 lot_before	1
 fun_for	1
@@ -532,6 +490,7 @@ arrangements_that	1
 sounds_on	1
 NN_CC
 invention_and	1
+creativity_or	1
 passion_and	1
 video_and	1
 music_and	1
@@ -556,13 +515,7 @@ to_communicate	1
 to_survive	1
 NN_VBG
 drudgery_starting	1
-''_VBD
-''_caught	1
-''_started	1
-NN_``
-title_``	1
-piano_``	1
-action_``	1
+lesson_reminding	1
 NN_VBD
 son_wanted	1
 piano_was	1
@@ -586,8 +539,7 @@ Experiment_first	1
 JJ_IN
 true_with	1
 many_of	1
-DT_,
-that_,	1
+natural_because	1
 DT_.
 another_.	1
 any_.	1
@@ -609,24 +561,24 @@ seven_year	1
 one_feel	1
 PRP_WDT
 him_which	1
+VBP_NN
+emulate_practice	1
 JJ_VBZ
 same_holds	1
-JJ_''
-natural_''	1
 VB_PRP
 get_it	1
+play_you	1
 recommend_it	1
 teach_him	1
 VBD_TO
 wanted_to	1
 got_to	1
 managed_to	1
-NN_''
-practice_''	1
 TO_NNS
 to_others	1
 VB_CC
 spell_and	1
+play_but	1
 talk_and	1
 RB_PRP
 THEN_they	1
@@ -638,16 +590,12 @@ RP_IN
 around_on	1
 up_in	1
 in_on	1
-,_IN
-,_so	1
 VBZ_PRP
 makes_it	1
 VB_TO
 learn_to	2
 VBN_TO
 added_to	1
-NNPS_''
-Quitters_''	1
 CC_NNS
 and_combinations	1
 and_rhythms	1

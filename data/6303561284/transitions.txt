@@ -3,11 +3,9 @@ DT	1
 RP	1
 PRP	1
 VBN	2
-``
 VBN
 DT	1
 IN	3
-''
 VBP
 DT	1
 RB	2
@@ -27,8 +25,7 @@ RB	1
 JJ	2
 DT
 MD	1
-``	1
-NN	8
+NN	9
 RBS	1
 JJR	1
 JJ	2
@@ -37,19 +34,17 @@ NNP	3
 RP
 DT	1
 NN
-NN	4
+NN	5
 VBD	1
 CC	1
-,	1
 .	5
-''	1
 VBP	1
 RB	1
 IN	4
 VBZ	3
+DT	1
 NNS	1
 FW
-,
 TO
 VB	1
 PRP

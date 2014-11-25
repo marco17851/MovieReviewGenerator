@@ -9,15 +9,13 @@ TO	1
 JJ	2
 IN	1
 DT	2
-``
 VBN
 .	1
-''
 VBP
+DT	1
 RB	2
 NN	1
 JJ	1
-,	1
 JJ
 NN	7
 .	3
@@ -46,16 +44,12 @@ RP
 NN
 NN	2
 CC	3
-.	5
-''	1
+.	6
 TO	1
 IN	6
 VBZ	2
 :	2
 NNS	2
-,
-DT	1
-PRP	1
 TO
 VB	4
 PRP
@@ -70,13 +64,13 @@ TO	1
 JJ	1
 DT	1
 :
-``	1
+JJ	1
 NNS
 CC	1
 VBP	1
 IN	2
 NNP
-,	1
+PRP	1
 RB	1
 VBD	1
 VB
@@ -88,11 +82,10 @@ PRP	1
 IN	1
 CD
 IN
+DT	7
 PRP$	1
 VBG	1
-,	1
 PRP	2
 IN	1
-DT	6
 JJR
 UH

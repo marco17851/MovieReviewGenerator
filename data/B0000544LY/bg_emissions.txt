@@ -4,7 +4,7 @@ about_architecture	1
 in_depth	1
 with_illness	1
 Of_course	1
-of_print	1
+of_homesickness	1
 for_interpretation	1
 with_awe	1
 with_luck	1
@@ -16,6 +16,7 @@ about_genius	1
 of_loneliness	1
 without_reservation	1
 with_medication	1
+of_print	1
 about_music	1
 on_DVD	2
 in_education	1
@@ -25,6 +26,8 @@ NNP_WDT
 Bach_which	1
 VBP_JJR
 get_less	1
+VBN_VBG
+done_employing	1
 CC_JJ
 and_reclusive	1
 and_messy	1
@@ -45,11 +48,13 @@ even_to	1
 VBN_:
 disclosed_;	1
 acted_;	1
-VBP_,
-love_,	1
-IN_``
-that_``	1
-of_``	2
+DT_NNP
+the_ONLY	1
+the_Goldberg	2
+the_GOULD	1
+The_Hamburg	1
+the_VHS	1
+The_French	1
 VBP_CD
 see_32	1
 are_two	1
@@ -60,10 +65,6 @@ fail_and	1
 VBN_.
 missed_.	1
 riveted_.	1
-VBN_,
-born_,	1
-done_,	1
-riveted_,	1
 VB_JJR
 know_more	1
 VB_TO
@@ -89,10 +90,8 @@ Who_knows	1
 who_is	1
 who_loves	1
 NNP_CC
-Gould_and	2
+Gould_and	3
 Gould_but	1
-DT_PRP
-this_it	1
 RP_VBG
 up_learning	1
 up_wanting	1
@@ -112,13 +111,11 @@ throughout_his	1
 In_my	1
 in_their	1
 by_our	1
-NNS_''
-films_''	2
-``_VBG
-``_talking	1
 NN_VB
 anybody_know	1
+work_love	1
 DVD_reprint	1
+struggle_die	1
 PRP$_NN
 his_recording	1
 My_wife	1
@@ -154,8 +151,14 @@ was_never	2
 was_not	2
 was_truly	1
 NN_DT
+case_the	1
 Syndrome_a	1
+opinion_no	1
+stress_both	1
+autism_some	1
 cover_every	1
+pastiche_a	1
+film_The	1
 WDT_RB
 that_steadily	1
 TO_DT
@@ -182,10 +185,9 @@ CC_IN
 and_with	2
 and_among	1
 But_for	1
+or_in	1
 VBP_TO
 listen_to	1
-RB_``
-never_``	1
 PRP$_NNS
 his_relationships	1
 his_mannerisms	1
@@ -194,8 +196,8 @@ my_students	3
 PRP$_NNP
 our_VHS	1
 his_French	1
-,_PRP$
-,_his	2
+IN_RB
+that_here	1
 WDT_VBZ
 which_reminds	1
 that_purports	1
@@ -218,8 +220,6 @@ and_engagement	1
 and_charisma	1
 and_Mr	1
 and_character	1
-VB_,
-evolve_,	1
 VB_.
 be_.	1
 have_.	1
@@ -237,12 +237,10 @@ two_are	1
 NNS_JJ
 mosts_famous	1
 Variations_unique	1
+ways_infuriating	1
 RP_CC
 out_and	1
 up_and	1
-NNP_''
-Vincent_''	1
-Suites_''	1
 DT_NNS
 all_boundaries	1
 these_people	1
@@ -253,8 +251,9 @@ The_words	1
 some_adults	1
 the_students	1
 the_reviewers	1
-some_ways	1
 the_people	1
+some_ways	1
+that_students	1
 IN_NNS
 on_people	1
 about_people	1
@@ -290,18 +289,16 @@ that_Mr.	1
 with_Gould	1
 of_Gould	6
 about_Glenn	3
-DT_NNP
-the_ONLY	1
-the_Goldberg	2
-the_GOULD	1
-The_Hamburg	1
-the_VHS	1
-The_French	1
+NN_CD
+film_Thirty	1
 :_EX
 ;_there	1
 VB_WRB
 recognize_when	1
 know_when	1
+PRP_NN
+him_problem	1
+me_link	1
 VBD_DT
 was_a	1
 enjoyed_this	1
@@ -316,54 +313,57 @@ And_what	1
 and_who	1
 But_what	1
 NNS_CC
-DUNGEONS_AND	1
+friends_and	1
+ideas_and	1
+interpretations_but	1
 students_and	1
 relationships_and	1
 details_and	1
 boundaries_plus	1
 DRAGONS_or	1
 interludes_and	1
-ideas_and	1
+DUNGEONS_AND	1
 colleagues_and	1
+biographies_and	1
 years_but	1
 NNS_CD
 students_five	1
-,_VB
-,_love	1
-,_die	1
-,_find	1
-,_please	1
 VBN_PRP
 introduced_me	1
 said_they	1
 VBP_IN
 sit_through	1
 consist_of	1
+love_in	1
 feel_that	1
 NN_CC
-love_or	1
 loneliness_and	1
-pianist_and	1
+pianist_and	2
 man_but	1
 awe_and	1
-man_and	3
-passion_and	1
-attention_and	1
-work_and	1
+education_and	1
 music_and	1
-nature_and	1
-taste_and	1
-light_and	1
+attention_and	1
 life_and	1
 wife_and	1
-DVD_and	1
 wit_and	1
-move_or	1
 mood_and	1
+DVD_and	1
+passion_and	1
+light_and	1
+illness_and	1
+move_or	1
+love_or	1
+theme_and	1
+world_and	1
+sleep_but	1
+man_and	3
+work_and	1
+taste_and	1
+nature_and	1
+architecture_and	1
 WDT_PRP
 Which_I	1
-''_VBP
-''_are	1
 DT_JJR
 a_larger	1
 JJR_DT
@@ -371,7 +371,10 @@ less_a	1
 WP_JJ
 what_biographical	1
 NN_JJ
+purist_authentic	1
+movie_disjointed	1
 piano_such	1
+man_such	1
 NNP_NNS
 GOULD_variations	1
 Goldberg_Variations	2
@@ -400,9 +403,8 @@ CC_EX
 and_there	1
 DT_WP
 those_who	1
-VBN_CC
-understated_and	1
-mentioned_but	1
+DT_PRP
+this_it	1
 VBN_TO
 meant_to	2
 IN_DT
@@ -425,6 +427,7 @@ of_any	1
 despite_the	1
 in_an	1
 through_this	1
+of_The	1
 like_the	1
 in_some	1
 with_this	3
@@ -458,11 +461,8 @@ VBZ_WRB
 is_why	1
 VB_WP
 think_what	1
-RB_,
-Otherwise_,	1
-here_,	1
-inevitably_,	1
-rather_,	1
+UH_DT
+Well_that	1
 RB_.
 not_.	1
 directly_.	1
@@ -471,6 +471,7 @@ VBD_CC
 created_and	1
 NNPS_CC
 Canadians_and	1
+Variations_or	1
 CC_RB
 or_simply	1
 and_even	1
@@ -482,6 +483,7 @@ WRB_PRP
 why_it	1
 :_IN
 :_from	1
+..._Of	1
 :_WDT
 -_that	1
 PRP$_JJ
@@ -497,6 +499,8 @@ his_marvelous	1
 his_sheer	1
 PRP_PRP
 he_himself	1
+itself_it	1
+him_you	1
 IN_PRP
 of_it	1
 than_we	1
@@ -518,9 +522,8 @@ of_us	1
 that_he	1
 unless_you	1
 before_you	1
-,_FW
-,_ie	1
-,_etc.	1
+NNS_VB
+films_evolve	1
 PRP_VBD
 It_earned	1
 I_doubted	1
@@ -539,6 +542,9 @@ they_thought	1
 I_got	1
 I_showed	1
 I_felt	1
+PRP_VBG
+it_musing	1
+themselves_including	1
 DT_VBP
 some_consist	1
 DT_NN
@@ -581,7 +587,7 @@ a_series	1
 a_diner	1
 a_couple	1
 the_piano	2
-a_film	1
+a_film	2
 the_review	1
 the_man	5
 the_suggestion	1
@@ -591,7 +597,7 @@ another_planet	1
 any_documentary	1
 this_man	1
 the_advent	1
-the_actor	1
+the_actor	2
 a_pastiche	1
 This_world	1
 this_case	1
@@ -609,6 +615,7 @@ the_holiday	1
 the_DVD	1
 a_theme	2
 a_reviewer	1
+the_essence	1
 the_music	3
 a_man	1
 the_universality	1
@@ -674,26 +681,20 @@ him_--	1
 IN_.
 with_!	1
 by_.	1
-``_DT
-``_The	1
-``_This	1
+WP_NNP
+whom_Gould	1
 PRP_.
 him_.	1
 us_.	1
 it_.	4
 you_.	1
-PRP_,
-me_,	1
-itself_,	1
-him_,	2
-themselves_,	1
-himself_,	1
-it_,	1
 CC_VBP
 or_are	1
 PRP_VB
 them_watch	1
 me_give	1
+him_find	1
+me_please	1
 it_have	1
 CC_VBZ
 Nor_does	1
@@ -715,21 +716,6 @@ and_revealing	1
 VB_PDT
 live_such	1
 explore_such	1
-JJ_,
-paced_,	1
-reclusive_,	1
-valuable_,	1
-brilliant_,	1
-disjointed_,	1
-restless_,	1
-standard_,	1
-loveable_,	1
-infuriating_,	1
-first_,	1
-Eccentric_,	1
-paranoid_,	1
-interesting_,	1
-direct_,	1
 JJ_.
 robust_.	1
 many_.	1
@@ -760,6 +746,9 @@ reissued_on	1
 heard_of	1
 modelled_on	1
 known_by	1
+VBN_CC
+understated_and	1
+mentioned_but	1
 VBD_JJ
 was_wrong	1
 were_interested	1
@@ -770,25 +759,27 @@ JJ_:
 superficial_;	1
 IN_PDT
 for_all	1
-CD_``
-32_``	1
 NN_NNS
 documentary_pieces	1
 vantage_points	1
 couple_biographies	1
+slump_moments	1
 grade_students	1
 zillion_bucks	1
+narrative_performances	1
 Mr_Menhuins	1
 brand_names	1
+technician_friends	1
 root_canals	1
 DVD_players	1
 NN_NNP
-violinist_Sir	1
-genius_Gould	1
-man_Glenn	1
 actor_Colm	1
-:_``
-:_``	1
+song_Vincent	1
+genius_Gould	1
+recording_Bach	1
+violinist_Sir	1
+person_Colm	1
+man_Glenn	1
 CD_CD
 Thirty_Two	2
 Thirty_two	1
@@ -810,8 +801,12 @@ larger_set	1
 more_detail	1
 EX_IN
 there_for	1
-:_CD
-;_one	1
+VBP_VBN
+'ve_loved	1
+are_left	1
+'ve_read	1
+are_acted	1
+have_said	1
 PRP_MD
 I_must	1
 they_'ll	1
@@ -822,12 +817,8 @@ you_ca	1
 himself_would	1
 I_could	1
 You_can	1
-VBP_VBN
-'ve_loved	1
-are_left	1
-'ve_read	1
-are_acted	1
-have_said	1
+:_CD
+;_one	1
 :_CC
 -_but	1
 ..._and	1
@@ -845,10 +836,14 @@ there_is	2
 EX_VBP
 There_are	2
 NN_NN
+performance_buff	1
 action_movie	1
 chamber_maid	1
+pianist_writer	1
+n_roll	1
 art_film	1
 roll_fan	1
+writer_broadcaster	1
 concert_slump	1
 folk_lyric	1
 hotel_chamber	1
@@ -860,26 +855,12 @@ film_cover	1
 feature_film	1
 DVD_player	1
 rock_n	1
+NNP_WP$
+Feore_whose	1
 NNS_RB
 segments_together	1
 reviewers_directly	1
 years_ago	1
-,_JJ
-,_such	1
-,_different	1
-,_short	1
-,_loveable	1
-,_immediate	1
-,_varied	1
-,_puzzling	1
-,_infuriating	1
-,_endless	1
-,_reclusive	1
-,_brilliant	1
-,_disjointed	1
-,_similar	1
-,_paranoid	1
-,_fragmented	1
 DT_JJ
 the_other	1
 an_extraordinary	1
@@ -900,6 +881,7 @@ the_real	2
 a_momentary	1
 a_fascinating	1
 a_neurological	1
+these_short	1
 a_beautiful	1
 the_only	1
 a_human	1
@@ -933,8 +915,6 @@ a_French	1
 a_masterful	1
 WP$_NN
 whose_performance	1
-``_VB
-``_see	1
 VBD_JJR
 earned_more	1
 PRP_POS
@@ -945,14 +925,16 @@ venture_in	1
 idea_of	1
 quote_by	1
 biography_of	2
+character_of	1
 vampire_of	1
 travesty_of	1
 criticism_of	1
-character_of	1
+biography_in	1
 copy_of	1
 length_of	1
 character_in	1
 passion_for	1
+genius_about	1
 story_in	1
 story_from	1
 dictum_that	1
@@ -960,12 +942,15 @@ language_in	1
 movie_without	1
 collection_of	1
 pang_of	1
+history_of	1
 man_in	1
 statement_of	1
 recording_of	1
 film_like	1
 video_over	1
+actor_despite	1
 interview_at	1
+essence_of	1
 fact_before	1
 disorder_with	1
 life_in	1
@@ -980,7 +965,9 @@ link_above	1
 view_of	1
 review_in	1
 number_of	1
+movie_than	1
 journey_with	1
+music_whether	1
 documentary_of	1
 variety_of	1
 engagement_with	1
@@ -989,11 +976,12 @@ fact_that	1
 lyric_in	1
 print_on	1
 theory_in	1
+film_about	1
 dislike_of	1
 impossibility_of	1
 room_for	1
 use_of	1
-history_of	1
+normality_about	1
 Silence_Before	1
 universality_of	1
 tandem_with	1
@@ -1003,8 +991,6 @@ footage_of	1
 warmth_as	1
 structure_of	1
 musicality_of	1
-''_VB
-''_evolve	1
 CC_DT
 and_an	1
 but_that	1
@@ -1017,14 +1003,18 @@ and_the	3
 NN_VBN
 emotion_portrayed	1
 NNS_PRP
+places_it	1
 characters_he	1
 effects_he	1
+films_it	1
 NN_VBG
-story_telling	1
 man_playing	1
-collage_using	1
+way_being	1
+man_trying	1
 insane/disappeared/still_struggling/making	1
 music_increasing	1
+story_telling	1
+collage_using	1
 NN_VBD
 world_was	1
 being_were	1
@@ -1057,21 +1047,20 @@ music_is	2
 art_has	1
 film_weaves	1
 RB_RB
-Definitely_not	1
 so_eloquently	1
 not_actually	1
-n't_even	1
 not_truly	1
+inevitably_rather	1
+Definitely_not	1
+n't_even	1
 VBD_IN
 suffered_from	1
 doubted_that	1
 had_on	1
 performed_as	1
 NN_VBP
+detail_please	1
 charisma_cross	1
-PRP_''
-him_''	1
-me_''	1
 PRP_RB
 I_already	1
 you_never	1
@@ -1085,9 +1074,8 @@ RB_VBZ
 here_'s	1
 ever_does	1
 eloquently_evokes	1
-,_WP
-,_who	1
 VBZ_VBG
+develops_connecting	1
 is_playing	1
 VB_PRP
 Let_them	1
@@ -1095,6 +1083,7 @@ wish_I	1
 let_me	1
 love_him	1
 find_it	1
+see_him	1
 hate_him	1
 give_it	1
 drop_me	1
@@ -1136,14 +1125,6 @@ tastefully_done	1
 often_described	1
 truly_portrayed	1
 never_been	1
-NN_''
-essence_''	1
-slump_''	1
-film_'	1
-homesickness_''	1
-architecture_''	1
-n_'	1
-performance_''	1
 VB_RBR
 be_more	1
 RB_VBG
@@ -1157,6 +1138,8 @@ thoroughly_enjoyed	1
 actually_knew	1
 already_had	1
 selflessly_gave	1
+FW_IN
+ie_with	1
 VBD_NN
 gave_rise	1
 VBZ_TO
@@ -1166,15 +1149,6 @@ NNPS_DT
 Variations_each	1
 POS_NNP
 's_Goldberg	1
-,_IN
-,_with	1
-,_in	5
-,_although	1
-,_about	3
-,_despite	1
-,_that	1
-,_than	1
-,_whether	1
 POS_NNS
 's_colleagues	1
 's_charms	1
@@ -1200,20 +1174,21 @@ give_an	1
 have_the	1
 resemble_the	1
 answer_the	1
-show_a	1
+discuss_this	1
 pay_a	1
+be_a	1
 see_the	1
 do_a	1
 exaggerate_some	1
 be_this	1
 tell_a	1
 do_this	1
-be_a	1
+evolve_a	1
 link_the	1
 enjoy_this	1
 have_a	2
 provide_a	1
-discuss_this	1
+show_a	1
 WRB_DT
 when_this	1
 PDT_DT
@@ -1243,14 +1218,18 @@ way_to	1
 ability_to	1
 time_to	1
 commitment_to	1
+year_to	1
 response_to	1
 experience_to	1
 DT_IN
+this_although	1
+those_after	1
+some_of	2
 all_of	1
+the_about	1
+each_of	1
 Some_of	1
 both_of	1
-each_of	1
-some_of	2
 PRP_IN
 it_unless	1
 me_of	1
@@ -1260,27 +1239,18 @@ more_robust	1
 WP_DT
 what_a	1
 What_an	1
-:_''
-..._''	1
 CC_CD
 or_two	1
+NNP_FW
+Gould_ie	1
 WP_RB
 who_actually	1
-,_NN
-,_struggle	1
-,_broadcaster	1
-,_writer	1
-,_narrative	1
 PRP$_RB
 his_relatively	1
 his_newly	1
-CC_,
-or_,	1
-``_NNP
-``_Vincent	1
-``_Gould	1
 RB_DT
 Just_a	1
+Otherwise_this	1
 truly_a	2
 not_an	2
 now_that	1
@@ -1294,20 +1264,6 @@ enactment_would	1
 film_will	1
 guy_can	1
 version_will	1
-DT_``
-these_``	1
-the_``	3
-those_``	1
-a_`	1
-,_RB
-,_not	1
-,_inevitably	1
-,_here	1
-,_then	1
-,_rather	1
-,_beautifully	1
-,_even	1
-,_especially	1
 CC_PRP
 and_you	1
 And_I	1
@@ -1316,18 +1272,17 @@ And_it	1
 and_it	1
 and_I	2
 and_we	1
-,_VBD
-,_grew	1
 RB_VB
 rather_have	1
 actually_resemble	1
 not_attempt	1
 surely_be	1
 hopefully_be	1
-probably_enjoy	1
+never_see	1
 n't_look	1
 simply_have	1
 not_want	1
+probably_enjoy	1
 n't_have	1
 n't_find	1
 IN_IN
@@ -1335,19 +1290,8 @@ out_of	1
 upon_by	1
 JJ_RB
 unique_too	1
-,_``
-,_``	1
 VBG_PRP$
 telling_its	1
-,_VBG
-,_musing	1
-,_connecting	1
-,_including	1
-,_being	1
-,_seeing	1
-,_using	1
-,_employing	1
-,_trying	1
 NNS_.
 chapters_.	1
 days_.	1
@@ -1362,29 +1306,11 @@ mannerisms_.	1
 names_.	1
 Thanks_!	1
 classmates_.	1
-NNS_,
-others_,	1
-biographies_,	1
-points_,	1
-adults_,	1
-pieces_,	1
-friends_,	1
-people_,	1
-films_,	1
-interpretations_,	1
-places_,	1
-ways_,	1
-interviews_,	1
-,_VBP
-,_please	1
 NNS_:
 friends_;	1
 charms_:	1
 Films_...	1
 documentaries_:	1
-,_VBZ
-,_does	1
-,_is	1
 JJ_NNS
 other_people	1
 short_films	3
@@ -1419,8 +1345,6 @@ CD_IN
 one_of	4
 One_of	1
 one_by	1
-''_CC
-''_and	1
 VBG_PRP
 watching_it	1
 avoiding_him	1
@@ -1431,7 +1355,11 @@ this_obviously	1
 a_very	3
 NN_PRP
 film_itself	1
+accuracy_it	1
+effect_you	1
 film_you	1
+course_I	1
+homesickness_I	1
 man_he	1
 way_he	1
 moment_she	1
@@ -1441,10 +1369,9 @@ want_his	1
 hold_my	1
 ._.
 ._.	1
-,_MD
-,_could	1
 JJ_DT
 such_an	2
+first_the	1
 odd_an	1
 MD_VB
 will_let	1
@@ -1476,27 +1403,17 @@ RB_RBR
 sonically_more	1
 WRB_NNS
 when_words	1
-,_DT
-,_some	1
-,_this	1
-,_both	1
-,_that	1
-,_a	3
-,_the	4
-,_no	1
-,_The	1
 NNP_NNPS
 Goldberg_Variations	2
 NNS_DT
 sections_the	1
+others_the	1
 VBZ_NN
 Does_anybody	1
 demands_attention	1
 builds_mood	1
 weaves_documentary	1
 provides_room	1
-UH_,
-Well_,	1
 TO_JJ
 to_great	1
 to_unique	1
@@ -1509,19 +1426,6 @@ cross_all	1
 own_a	1
 love_this	1
 play_the	1
-VBZ_RB
-is_probably	1
-'s_definitely	1
-is_not	4
-does_n't	1
-'s_also	1
-has_ever	1
-is_simply	1
-does_not	2
-is_obviously	1
-is_tastefully	1
-has_never	1
-is_sonically	1
 VBD_TO
 dared_to	1
 led_to	1
@@ -1542,54 +1446,10 @@ appreciation_...	1
 life_:	1
 player_:	1
 structure_:	1
-._''
-._''	2
+NNP_JJ
+Gould_short	1
 LS_DT
 1_The	1
-NN_,
-theme_,	1
-accuracy_,	1
-world_,	1
-music_,	1
-son_,	1
-normality_,	1
-technician_,	1
-illness_,	1
-pastiche_,	1
-pianist_,	3
-biography_,	1
-course_,	1
-sleep_,	1
-man_,	2
-case_,	1
-effect_,	1
-art_,	1
-genius_,	1
-struggle_,	1
-person_,	1
-twist_,	1
-intensity_,	1
-autism_,	1
-year_,	1
-film_,	2
-narrative_,	1
-education_,	1
-opinion_,	1
-disability_,	1
-work_,	1
-writer_,	1
-stress_,	1
-cinema_,	1
-actor_,	1
-way_,	1
-movie_,	2
-recording_,	1
-detail_,	1
-``_NN
-``_actor	1
-``_essence	1
-``_homesickness	1
-`_film	1
 NN_.
 treat_.	1
 theme_.	1
@@ -1631,17 +1491,11 @@ century_.	1
 TO_CC
 to_and	1
 VBN_DT
+riveted_the	1
 captured_the	1
 enriched_the	1
 loved_this	1
 read_a	1
-''_VBZ
-''_proclaims	1
-''_NN
-''_link	1
-''_problem	1
-''_buff	1
-'_roll	1
 VBP_VB
 do_need	1
 please_click	1
@@ -1650,9 +1504,10 @@ IN_TO
 like_to	1
 As_to	1
 PRP_CC
-it_and	1
+himself_but	1
 him_or	1
 you_either	1
+it_and	1
 WDT_VBD
 which_was	1
 that_led	1
@@ -1660,12 +1515,11 @@ which_gave	1
 VBG_RB
 increasing_exponentially	1
 being_totally	1
-DT_,
-that_,	1
-this_,	1
 DT_.
 this_.	1
 No_.	1
+NNS_FW
+interviews_etc.	1
 VBG_RP
 growing_up	1
 CC_LS
@@ -1689,8 +1543,6 @@ beautifully_paced	1
 definitely_slow	1
 relatively_short	1
 so_exciting	1
-NNPS_,
-Variations_,	1
 TO_NNP
 to_Glenn	1
 VBG_DT
@@ -1708,6 +1560,7 @@ luckily_I	1
 not_you	1
 Maybe_they	1
 perhaps_he	1
+rather_it	1
 VBZ_PRP
 reminds_me	1
 invites_you	1
@@ -1721,34 +1574,24 @@ have_never	1
 ..._invites	1
 NNS_WRB
 reasons_why	1
-``_JJ
-``_authentic	1
-``_short	2
-VB_''
-see_''	1
 NNP_IN
 Gould_after	1
+Suites_with	1
 VCR_so	1
 Bach_on	1
-Gould_in	1
+Gould_about	1
 Germany_that	1
-FW_,
-ie_,	1
-,_TO
-,_to	1
+Gould_in	1
 FW_.
 etc._.	1
 IN_VBG
 from_struggling	1
+that_talking	1
 like_dancing	1
-of_being	1
 in_learning	1
+of_being	1
 IN_VBD
 as_were	1
-,_PRP
-,_it	5
-,_I	1
-,_you	2
 VBG_RBR
 learning_more	1
 RB_NNP
@@ -1757,9 +1600,8 @@ VBG_.
 playing_.	1
 IN_VBP
 than_sit	1
-VBG_,
-telling_,	1
 JJ_CC
+reclusive_and	1
 artistic_and	1
 exasperating_or	1
 eccentric_and	1
@@ -1772,6 +1614,9 @@ JJ_CD
 mere_five	1
 CD_.
 Two_.	1
+TO_VBG
+to_telling	1
+to_watching	1
 POS_NN
 's_work	2
 's_piano	1
@@ -1807,9 +1652,20 @@ buff_'s	1
 night_'s	1
 TO_PRP
 to_him	1
-TO_VBG
-to_telling	1
-to_watching	1
+VBZ_RB
+is_probably	1
+'s_definitely	1
+is_not	4
+is_inevitably	1
+'s_also	1
+has_ever	1
+is_simply	1
+does_not	2
+is_obviously	1
+is_tastefully	1
+does_n't	1
+has_never	1
+is_sonically	1
 RB_PRP$
 Yet_his	1
 especially_their	1
@@ -1822,17 +1678,19 @@ teenagers_would	1
 RBR_IN
 more_about	2
 RB_IN
-ago_in	1
-too_in	1
-exponentially_throughout	1
 Far_from	1
+ago_in	1
+exponentially_throughout	1
+too_in	1
 Even_with	1
+here_in	1
 VBG_IN
 doing_that	1
+struggling_with	2
+telling_in	1
+dancing_about	1
 talking_about	1
 meditating_about	1
-struggling_with	2
-dancing_about	1
 DT_CD
 the_32	2
 a_million	1
@@ -1847,18 +1705,13 @@ have_mostly	1
 are_truly	1
 'm_not	1
 are_not	1
-''_NNS
-''_moments	1
-NNP_,
-Gould_,	7
-Now_,	1
-Feore_,	1
 CD_JJ
-two_Short	1
 Two_Short	1
 One_extra	1
-32_separate	1
+32_short	1
 32_different	1
+two_Short	1
+32_separate	1
 NNP_.
 Gould_.	1
 COUNTY_.	1
@@ -1869,6 +1722,8 @@ JJ_VBN
 Many_wasted	1
 VBG_NN
 recording_vampire	1
+JJ_VBG
+valuable_seeing	1
 NNP_:
 Gould_:	1
 PRP_DT
@@ -1876,11 +1731,6 @@ me_an	1
 VBZ_.
 makes_.	1
 does_?	1
-VBZ_,
-proclaims_,	1
-develops_,	1
-knows_,	1
-is_,	1
 RB_NN
 even_somebody	1
 NNS_TO
@@ -1891,28 +1741,34 @@ similarities_to	1
 forces_to	1
 JJ_JJ
 amazing_technical	1
+paced_varied	1
 thirty-two_short	1
 real_cinematographic	1
+brilliant_paranoid	1
+loveable_puzzling	1
+standard_endless	1
+paranoid_reclusive	1
 wonderful_musical	1
+interesting_different	1
 extraordinary_classical	1
+restless_similar	1
 questionable_historic	1
+infuriating_loveable	1
+direct_immediate	1
+disjointed_fragmented	1
 fascinating_eccentric	1
 wonderful_artistic	1
+Eccentric_brilliant	1
 JJR_IN
 more_than	1
 more_of	1
 WRB_JJ
 where_many	1
-,_CC
-,_and	9
-,_or	1
-,_but	3
 VB_NN
 have_root	1
-,_CD
-,_Thirty	1
 NN_WP
 maid_whom	1
+son_who	1
 WRB_NNP
 why_Yehudi	1
 PRP_TO
@@ -1922,8 +1778,10 @@ NNS_VBP
 words_fail	1
 people_have	2
 words_have	1
+films_are	1
 NNP_MD
 Amazon_will	1
+Gould_could	1
 IN_CD
 of_one	2
 in_one	1
@@ -1937,27 +1795,18 @@ above_and	1
 whether_or	1
 of_both	1
 of_and	1
-IN_,
-that_,	1
 NNS_VBD
+people_grew	1
 students_were	3
 students_became	1
-``_IN
-``_about	1
-``_after	1
+NNS_VBG
+points_using	1
 PRP_NNP
 it_Colm	1
 NNS_VBN
 people_interviewed	1
-``_PRP
-``_He	1
 POS_JJ
 's_own	1
-''_IN
-'_about	1
-''_Of	1
-''_with	1
-''_of	1
 VBD_VBN
 were_expounded	1
 was_made	1
@@ -1995,15 +1844,19 @@ among_disparate	1
 in_such	1
 from_multiple	1
 VBN_NN
+born_struggle	1
 arrived_recording	1
 NNP_RB
 Bach_ever	1
 Gould_prior	1
+Gould_not	1
 :_PRP
+:_He	1
 :_it	1
 ;_he	1
 NNS_IN
 interpretations_of	1
+adults_that	1
 Films_about	1
 canals_than	1
 films_with	1
@@ -2035,9 +1888,11 @@ VBD_:
 was_;	1
 NNP_VBZ
 Menhuin_speaks	1
-Gould_is	3
+Gould_is	4
 Feore_is	3
+Vincent_proclaims	1
 English_is	1
+Now_does	1
 VB_JJ
 be_aware	1
 TO_VB
@@ -2058,9 +1913,6 @@ to_provide	1
 to_show	1
 to_discuss	1
 to_explore	1
-NN_``
-song_``	1
-purist_``	1
 CC_NNP
 but_Feore	2
 or_ORANGE	1
@@ -2075,16 +1927,18 @@ Menhuin_was	1
 Gould_acted	1
 Glenn_was	1
 Gould_suffered	1
-WP_NNP
-whom_Gould	1
 NNP_POS
 Bach_'s	1
 Gould_'s	11
 Aspberger_'s	1
 NN_RB
+pianist_even	1
+cinema_beautifully	1
+twist_then	1
 film_ever	1
 someone_as	1
 scene_so	1
+disability_especially	1
 JJ_IN
 tired_of	1
 talented_as	1
@@ -2103,11 +1957,9 @@ such_as	1
 disorganized_like	1
 eccentric_in	1
 cold_by	1
-''_PRP
-''_him	1
-''_I	1
 NNS_NN
 Menhuins_relationship	1
+pieces_narrative	1
 NN_RP
 review_over	1
 VBZ_DT
@@ -2119,9 +1971,11 @@ acknowledges_the	1
 loves_this	1
 reveals_a	1
 is_a	11
+proclaims_This	1
 is_an	2
 's_an	1
 makes_a	1
+knows_a	1
 does_the	1
 CD_NN
 one_criticism	1
@@ -2133,6 +1987,9 @@ is_Gould	1
 evokes_Germany	1
 VBP_NN
 love_music	1
+NN_PRP$
+intensity_his	1
+art_his	1
 VB_CD
 be_32	1
 grab_one	1
@@ -2145,11 +2002,6 @@ VBN_NNS
 afflicted_classmates	1
 wasted_years	1
 regarded_musicians	1
-,_WP$
-,_whose	1
-,_NNP
-,_Colm	1
-,_Bach	1
 VBG_NNP
 playing_Gould	1
 including_Gould	1
@@ -2159,10 +2011,6 @@ CC_NNS
 AND_DRAGONS	1
 and_friends	1
 and_concepts	1
-,_NNS
-,_friends	1
-,_performances	1
-,_students	1
 VBZ_IN
 is_from	1
 opts_for	1

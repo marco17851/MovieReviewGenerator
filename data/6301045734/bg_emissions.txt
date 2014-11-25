@@ -12,29 +12,32 @@ on_DVD	3
 on_display	1
 of_feeling	1
 in_favor	1
-,_IN
-,_with	4
-,_though	2
-,_as	1
-,_alonside	1
-,_despite	1
-,_in	3
-,_since	1
-POS_NNS
-'s_ambitions	1
-NNS_WP
-actors_who	1
-VBN_VBD
-wounded_resigned	1
 VBN_VBN
 been_attracted	1
 been_born	1
+POS_NNS
+'s_ambitions	1
+'s_jonquils	1
+NNS_WP
+actors_who	1
+NNP_WDT
+MENAGERIE_which	1
+VBN_VBD
+wounded_resigned	1
+WP_RB
+who_compassionately	1
+VBP_TO
+tend_to	1
+want_to	3
 RP_RB
 out_quickly	1
 NNP_IN
 Malkovich_as	1
-Tom/Tennessee_on	1
+Woodward_though	1
 Woodward_as	1
+Amanda_since	1
+Malkovitch_in	1
+Tom/Tennessee_on	1
 NNS_RB
 emotions_so	1
 CC_JJ
@@ -71,13 +74,9 @@ not_to	1
 IN_VBG
 of_allowing	1
 than_attempting	1
-RB_.
-quickly_.	1
-soon_!	1
-anymore_?	1
-so_.	1
-IN_``
-of_``	1
+UH_JJ
+yes_depressing	1
+yes_effective	1
 VBP_.
 are_.	1
 VBZ_JJ
@@ -90,15 +89,15 @@ is_subtle	1
 is_great	1
 IN_VBN
 for_lost	1
-VBP_WP
-capture_what	1
 NN_TO
 access_to	1
 actress_to	1
 address_to	1
 oxygen_to	1
-JJS_NNS
-best_transfers	1
+DT_IN
+those_of	1
+this_on	1
+this_in	1
 PRP_IN
 it_in	1
 us_out	1
@@ -111,22 +110,22 @@ but_also	1
 and_then	1
 VBG_.
 lacking_.	1
-VBN_,
-seen_,	1
-preserved_,	1
-VBG_,
-confiding_,	1
-Casting_,	1
 JJ_CC
+narrow_and	1
 poetic_but	1
 intense_and	1
+intimate_and	1
 absurd_and	1
 sensitive_and	1
+convincing_but	1
+good_and	1
 well-meaning_but	1
 faithful_and	1
 morose_and	1
 sound_and	1
 subtle_and	1
+WRB_MD
+why_ca	1
 VBP_DT
 use_this	1
 love_these	1
@@ -137,15 +136,13 @@ CC_CD
 and_one	1
 :_IN
 --_as	1
+JJ_RB
+clueless_then	1
 RBR_RB
 more_powerfully	1
 PRP$_JJ
 his_final	1
 her_unique	1
-VB_IN
-be_with	1
-live_inside	1
-settle_for	1
 IN_PRP
 of_it	1
 by_it	1
@@ -160,14 +157,15 @@ any_I	1
 VBZ_CD
 is_one	1
 NNP_WP
+Woodward_who	1
+Amanda_who	1
 Allen_who	1
 VBZ_CC
 trumps_both	1
 works_and	1
 NNS_WDT
+versions_which	1
 efforts_that	1
-,_NN
-,_direction	1
 POS_NN
 's_delineation	1
 's_poetry	1
@@ -192,6 +190,8 @@ PRP_VBD
 it_was	1
 WP_VBD
 who_knew	1
+VBN_RB
+preserved_rather	1
 NNP_NN
 Though_everyone	1
 Williams_play	1
@@ -256,15 +256,13 @@ the_scenery	1
 the_text	1
 a_film	1
 this_film	2
-CC_,
-But_,	1
 DT_VBZ
 this_is	2
 This_is	4
-``_NNS
-``_jonquils	1
-PRP$_``
-his_``	1
+JJS_:
+best_--	1
+DT_VBG
+each_passing	1
 DT_VBD
 All_told	1
 PRP_VBP
@@ -276,10 +274,6 @@ I_have	1
 I_love	2
 I_think	2
 they_are	1
-RB_,
-again_,	1
-powerfully_,	1
-kindly_,	1
 WP_VBP
 who_'ve	1
 who_love	1
@@ -287,6 +281,7 @@ WP_VBZ
 who_is	1
 who_has	1
 NN_MD
+death_can	1
 adaptation_will	1
 PRP_VBZ
 he_is	1
@@ -299,21 +294,18 @@ DT_RBR
 a_more	1
 the_more	1
 NNP_CC
+Allen_and	1
+Lawrence_and	1
+Laura_and	1
+Tandy_and	1
 Wingfield_and	1
 Hepburn_and	1
-Tandy_and	1
-Lawrence_and	1
-Allen_and	1
-RB_VBZ
-easily_trumps	1
-successfully_captures	1
-compassionately_loves	1
-also_manages	1
-actually_works	1
-perfectly_inhabits	1
+TO_RB
+to_really	1
 PRP_:
 it_--	1
 RB_IN
+again_despite	1
 not_on	1
 rather_than	1
 together_through	1
@@ -321,21 +313,14 @@ there_with	1
 VBG_IN
 bursting_with	1
 watching_for	1
-,_RB
-,_then	1
-,_rather	1
-JJS_RBS
-best_most	1
+VBG_RP
+wearing_out	1
+VBP_PRP
+view_it	1
+wish_they	1
 DT_CD
 the_two	1
 these_two	1
-RB_VB
-longer_have	1
-still_visualize	1
-not_achieve	1
-really_understand	1
-ever_want	1
-not_settle	1
 CC_PRP
 neither_I	1
 And_I	1
@@ -345,34 +330,26 @@ most_convincing	1
 most_intelligent	1
 VBP_RB
 've_ever	1
-``_DT
-``_The	2
+RB_VB
+longer_have	1
+still_visualize	1
+not_achieve	1
+really_understand	1
+ever_want	1
+not_settle	1
 PRP_.
 it_.	2
-PRP_,
-I_,	1
+VBN_.
+seen_!	1
 IN_PRP$
 through_her	1
 of_his	1
 in_his	1
 for_his	1
-NNS_''
-jonquils_''	1
-,_WP
-,_who	2
-IN_JJ
-in_American	1
-that_powerful	1
-between_familial	1
-though_deluded	1
-with_hushed	1
-NNP_,
-Tom_,	2
-Laura_,	1
-Malkovitch_,	1
-Woodward_,	2
-Amanda_,	2
-MENAGERIE_,	1
+VBD_DT
+permeated_the	1
+received_no	1
+told_a	1
 CD_JJ
 two_human	1
 NNP_.
@@ -399,23 +376,25 @@ IN_WDT
 in_which	2
 PRP$_NN
 Our_college	1
+his_opium	1
 her_mother	1
 its_poetry	1
 His_performance	1
 her_brother	1
 her_sentiment	1
 her_family	1
-``_NNP
-``_A	1
 CC_VBD
 but_stifled	1
 and_made	1
 but_received	1
 CC_VBG
 and_bursting	1
-,_``
-,_``	2
+VB_IN
+be_with	1
+live_inside	1
+settle_for	1
 VBG_NN
+Casting_direction	1
 passing_year	1
 JJ_VBG
 worth_watching	1
@@ -426,21 +405,6 @@ GM_--	1
 Amanda_--	1
 CC_VBN
 and_lost	1
-JJ_,
-depressing_,	1
-intimate_,	1
-stupid_,	1
-convincing_,	1
-superb_,	1
-clueless_,	1
-underrated_,	1
-gut-wrenching_,	1
-deluded_,	1
-good_,	1
-frightened_,	1
-Eccentric_,	1
-narrow_,	1
-insightful_,	1
 JJ_.
 perfect_.	1
 brilliant_!	1
@@ -452,6 +416,9 @@ dumping_their	1
 RB_DT
 then_the	1
 perhaps_the	1
+NN_DT
+screen_this	1
+play_The	1
 PDT_DT
 all_the	2
 such_a	1
@@ -464,19 +431,13 @@ missed_by	1
 involved_on	1
 moved_by	1
 torn_between	1
-TO_RB
-to_really	1
-NNS_,
-players_,	1
-versions_,	1
-occasions_,	1
-monologues_,	1
-eyes_,	1
 WDT_RB
 that_actually	1
-TO_DT
-to_the	2
-to_a	1
+RB_.
+quickly_.	1
+soon_!	1
+anymore_?	1
+so_.	1
 NNS_MD
 schools_will	1
 VBD_JJ
@@ -496,8 +457,6 @@ are_due	1
 am_thankful	1
 generate_real	1
 are_inferior	1
-,_VBZ
-,_holds	1
 RP_PRP$
 out_your	1
 RB_NN
@@ -506,6 +465,9 @@ NNS_TO
 transfers_to	1
 IN_WRB
 despite_how	1
+VBG_JJ
+smothering_narcissistic	1
+confiding_intimate	1
 VBN_NN
 Named_Desire	1
 lost_love	1
@@ -521,13 +483,15 @@ beatific_eyes	1
 special_accolades	1
 human_volcanos	1
 excellent_actors	1
-,_PRP
-,_it	1
 JJ_JJ
-many_excellent	1
 downright_gloomy	1
-same_high	1
+underrated_gut-wrenching	1
+deluded_narrow	1
+many_excellent	1
+frightened_sensitive	1
 true_cinematic	1
+gut-wrenching_true	1
+same_high	1
 inferior_sorry	1
 JJ_NNP
 great_Michael	1
@@ -541,9 +505,8 @@ IN_PDT
 with_all	1
 WRB_JJ
 how_heart-breaking	1
-,_CC
-,_and	14
-,_but	3
+VB_VBG
+be_dumping	1
 VB_NN
 have_access	1
 say_everything	1
@@ -555,13 +518,13 @@ closing_monologues	1
 scene_layers	1
 year_people	1
 NNS_NNP
+monologues_Karen	1
 candles_Laura	1
 characters_Laura	1
 NN_NNP
 lump_Christian	1
 mother_Amanda	1
-''_RB
-''_successfully	1
+speech_Malkovich	1
 WDT_PRP
 which_she	1
 PRP_PDT
@@ -573,8 +536,18 @@ an_especially	1
 the_infinitesimally	1
 a_much	1
 the_wildly	1
-VBG_JJ
-smothering_narcissistic	1
+NNP_POS
+Woodward_'s	2
+William_'s	1
+Tennessee_'s	1
+Amanda_'s	1
+Williams_'s	2
+Allen_'s	1
+Newman_'s	1
+Proust_'s	1
+Williams_'	1
+Malkovich_'s	3
+Naughton_'s	1
 PRP$_NNS
 his_plays	1
 my_students	2
@@ -589,37 +562,31 @@ I_would	1
 they_would	1
 I_will	1
 I_can	1
-VBP_TO
-tend_to	1
-want_to	3
 NN_PRP
 MENAGERIE_I	1
 time_I	1
+film_it	1
 everything_I	1
 VB_PRP$
 achieve_her	1
 imprint_her	1
-NN_''
-den_''	1
+VBP_WP
+capture_what	1
 CC_IN
+But_with	1
 but_at	1
 VBN_DT
 written_the	1
 used_the	1
-,_MD
-,_ca	1
-,_will	1
-,_can	1
 :_DT
 --_a	1
 JJ_DT
 brilliant_the	1
+insightful_the	1
 VBG_TO
 attempting_to	1
 RB_CC
 again_and	1
-WRB_,
-why_,	2
 MD_VB
 would_release	1
 will_be	1
@@ -633,6 +600,7 @@ NNS_IN
 interpretations_of	1
 versions_of	1
 admirers_of	1
+occasions_as	1
 reviews_of	1
 sides_of	1
 viewers_of	1
@@ -663,39 +631,50 @@ and_hopelessness	1
 and_wanderlust	1
 ._.
 ._?	1
-,_DT
-,_this	1
-,_a	1
-,_the	2
-,_every	1
+UH_WRB
+oh_why	1
 VBP_VBN
 've_seen	2
 've_used	1
 've_been	1
 have_written	1
-NNP_VBZ
-Newman_is	1
-Ballhaus_gives	1
-Woodward_is	1
-Amanda_is	2
-Tom_is	1
-Malkovich_seems	1
+NN_CC
+player_and	1
+time_and	1
+caller_and	1
+portrayal_and	1
+play_and	3
+nagging_and	1
+humor_and	1
+opening_and	1
+anger_and	1
+stage_and	1
+decade_and	1
+text_and	1
+futility_and	1
+resentment_and	1
+curiousity_but	1
+courage_and	1
+direction_and	1
+voice_and	1
+love_and	1
+meaning_and	1
+college_and	1
+poetry_and	1
+company_but	1
 VB_VBZ
 know_is	1
-VBD_DT
-permeated_the	1
-received_no	1
-told_a	1
+NNS_VBG
+times_smothering	1
 NN_VB
 someone_turn	1
 poetry_dominate	1
+camera_blow	1
 CC_VB
 and_live	1
 and_say	1
-VBN_.
-seen_!	1
-POS_``
-'s_``	1
+NNS_DT
+eyes_a	1
 JJ_TO
 faithful_to	1
 due_to	1
@@ -706,23 +685,19 @@ two_generate	1
 VBZ_NN
 inhabits_mother	1
 gives_oxygen	1
-,_UH
-,_yes	2
-,_oh	1
 JJS_NN
 best_film	1
 VBP_NNP
 think_Williams	1
 POS_RB
 's_kindly	1
-NNS_VBG
-times_smothering	1
-UH_,
-yes_,	2
-WP_,
-who_,	1
-JJS_:
-best_--	1
+TO_DT
+to_the	2
+to_a	1
+JJS_RBS
+best_most	1
+WDT_DT
+which_the	1
 FW_NNP
 e.g._Katherine	1
 VB_.
@@ -743,11 +718,12 @@ deja_vu	1
 college_copy	1
 movie_figure	1
 glass_unicorn	1
+den_rant	1
+RB_MD
+powerfully_will	1
 :_CC
 --_and	1
 ;_and	1
-WDT_DT
-which_the	1
 POS_JJ
 's_powerful	1
 's_well-meaning	1
@@ -782,6 +758,7 @@ of_Tennessee	1
 by_John	1
 Since_Paul	1
 by_Paul	1
+of_A	1
 in_Miss	1
 DT_NNP
 the_Tennessee	1
@@ -790,16 +767,6 @@ the_Kazan	1
 the_VHS	1
 a_VCR	1
 the_Gentleman	1
-,_JJ
-,_effective	1
-,_sensitive	1
-,_true	1
-,_intimate	1
-,_clueless	1
-,_narrow	1
-,_gut-wrenching	1
-,_depressing	1
-,_special	1
 VB_WRB
 ask_why	1
 DT_JJ
@@ -832,9 +799,10 @@ this_celebrated	1
 VBD_VBN
 was_preserved	1
 VBZ_IN
+conveys_with	1
 is_in	1
-``_VB
-``_blow	1
+JJS_NNS
+best_transfers	1
 NN_:
 nostalgia_;	1
 originator_--	1
@@ -846,35 +814,21 @@ but_who	1
 NNS_CC
 duties_and	1
 layers_and	1
+players_and	1
 people_and	1
 ambitions_or	1
 WP$_VBN
 whose_wounded	1
 VBD_PRP
 made_it	1
-VB_VBG
-be_dumping	1
-NN_,
-camera_,	1
-meaning_,	1
-soliloquy_,	1
-player_,	1
-version_,	1
-portrayal_,	1
-caller_,	1
-play_,	4
-order_,	1
-job_,	1
-death_,	1
-screen_,	1
-college_,	1
-film_,	1
-curiousity_,	1
-direction_,	1
-company_,	1
-speech_,	1
-``_NN
-``_opium	1
+PRP_DT
+I_every	1
+IN_JJ
+in_American	1
+that_powerful	1
+between_familial	1
+though_deluded	1
+with_hushed	1
 NN_.
 excuse_.	1
 Desire_.	1
@@ -894,6 +848,11 @@ DVD_?	1
 storyline_.	1
 heartbreak_.	1
 reply_.	1
+VBZ_VBG
+is_wearing	1
+JJ_UH
+depressing_yes	1
+Eccentric_yes	1
 NN_IN
 vu_of	1
 atmosphere_of	1
@@ -901,18 +860,20 @@ recollection_for	1
 audience_with	1
 masterpiece_of	1
 figure_out	1
+soliloquy_in	1
 classroom_at	1
-rant_at	1
+sentiment_onto	1
 scene_with	1
 depth_of	1
 mixture_of	1
-sentiment_onto	1
+rant_at	1
 pitfall_of	1
 film_of	3
 performance_in	1
 adaptation_into	1
 match_for	1
 direction_by	1
+play_in	1
 version_in	1
 choice_of	1
 tenderness_in	1
@@ -921,7 +882,9 @@ portrayal_of	1
 favor_of	1
 acting_on	1
 delineation_of	1
+order_with	1
 performance_by	1
+version_alonside	1
 version_of	5
 spirit_of	1
 cinematography_by	1
@@ -931,10 +894,13 @@ tire_of	1
 pathos_in	1
 chemistry_in	1
 release_of	1
+WRB_UH
+why_oh	1
 NNP_RB
 Naughton_also	1
 Woodward_perfectly	1
 VCR_anymore	1
+Menagerie_successfully	1
 WDT_VBZ
 which_gives	1
 that_is	1
@@ -951,22 +917,15 @@ everyone_involved	1
 VB_TO
 contact_to	1
 want_to	1
-NN_CC
-voice_and	1
-anger_and	1
-stage_and	1
-opening_and	1
-decade_and	1
-time_and	1
-poetry_and	1
-courage_and	1
-play_and	1
-text_and	1
-futility_and	1
-nagging_and	1
-resentment_and	1
-humor_and	1
-love_and	1
+NNP_VBZ
+Newman_is	1
+Menagerie_is	1
+Ballhaus_gives	1
+Woodward_is	1
+Amanda_is	2
+Tom_is	1
+Laura_achieves	1
+Malkovich_seems	1
 WDT_VBP
 which_are	1
 VB_JJ
@@ -1011,12 +970,6 @@ style_is	1
 revelation_is	1
 VBD_.
 knew_?	1
-''_VBZ
-''_is	1
-''_achieves	1
-''_NN
-''_rant	1
-''_speech	1
 NNP_VBG
 Slater_playing	1
 RB_RB
@@ -1032,6 +985,8 @@ VBD_IN
 was_that	1
 PRP_CC
 I_nor	1
+RB_PRP
+am_I	1
 NN_VBP
 acting_are	1
 adaptation_are	1
@@ -1062,6 +1017,7 @@ interested_in	1
 thankful_that	1
 available_on	1
 convincing_of	1
+superb_with	1
 heartbroken_as	1
 unbearable_on	1
 DT_.
@@ -1069,12 +1025,14 @@ both_.	1
 NNS_NN
 gentlemen_caller	1
 students_tire	1
+jonquils_speech	1
 NNS_FW
 characters_e.g.	1
 IN_EX
 out_there	1
 NN_JJ
 anyone_interested	1
+job_special	1
 VBZ_DT
 has_a	1
 is_the	4
@@ -1086,23 +1044,19 @@ is_an	1
 loves_these	1
 gives_every	1
 is_no	1
-DT_VBG
-each_passing	1
-._''
-._''	1
 VBZ_NNP
 is_Karen	1
 NNP_NNS
 Hepburn_versions	1
 VHS_players	1
 NNP_NNP
-Glass_Menagerie	2
+GLASS_MENAGERIE	1
 Gertrude_Lawrence	1
 Sam_Waterston	1
 Paul_Newman	2
 St._Tennessee	1
 John_Malkovich	3
-GLASS_MENAGERIE	1
+Glass_Menagerie	2
 Jessica_Tandy	1
 Katherine_Hephburn	1
 Katherine_Hepburn	2
@@ -1114,6 +1068,7 @@ Laurette_Taylor	1
 James_Naughton	2
 Mr._Malkovitch	1
 Mr._Williams	1
+Tom_Laura	1
 Joanne_Woodward	5
 Miss_Woodward	1
 Gentleman_Caller	1
@@ -1124,18 +1079,13 @@ Tennessee_Williams	3
 VBZ_NNS
 leaves_viewers	1
 achieves_effects	1
-NNP_POS
-Woodward_'s	2
-William_'s	1
-Tennessee_'s	1
-Amanda_'s	1
-Williams_'s	2
-Allen_'s	1
-Newman_'s	1
-Proust_'s	1
-Williams_'	1
-Malkovich_'s	3
-Naughton_'s	1
+RB_VBZ
+easily_trumps	1
+successfully_captures	1
+compassionately_loves	1
+also_manages	1
+actually_works	1
+perfectly_inhabits	1
 :_RB
 -_right	1
 -_quite	1
@@ -1156,11 +1106,10 @@ especially_priceless	1
 incredibly_rare	1
 quite_good	1
 too_morose	1
+kindly_clueless	1
 very_close	1
-VBZ_VBG
-is_wearing	1
-VBZ_,
-conveys_,	1
+JJ_VBZ
+stupid_holds	1
 VB_PRP
 alter_it	1
 RB_VBP
@@ -1178,15 +1127,6 @@ nor_my	1
 or_her	1
 and_my	1
 and_its	1
-DT_IN
-those_of	1
-this_on	1
-this_in	1
-VBP_PRP
-view_it	1
-wish_they	1
-,_WDT
-,_which	2
 RB_VBN
 vastly_overrated	1
 quite_moved	1
@@ -1199,31 +1139,25 @@ to_Joanne	1
 to_William	1
 VBG_DT
 considering_the	1
-RB_PRP
-am_I	1
+NNP_DT
+Tom_the	1
 VBN_NNP
 overrated_Katherine	1
 MD_DT
 can_those	1
 VBZ_PRP
 lets_it	1
-WP_RB
-who_compassionately	1
+VBN_CC
+seen_and	1
 VBN_TO
 attracted_to	1
 born_to	1
-UH_WRB
-oh_why	1
 VB_RB
 visualize_so	1
 be_quite	1
 become_too	1
 PRP_VB
 it_breathe	1
-,_NNP
-,_Malkovich	1
-,_Karen	1
-,_Laura	1
 CC_NNP
 And_Mr.	1
 and_Sam	1
@@ -1235,15 +1169,12 @@ and_schools	1
 and_layers	1
 :_WP
 --_who	1
-NNP_''
-Laura_''	1
-Menagerie_''	2
+WP_IN
+who_though	1
 NNP_TO
 Tom_to	1
 VB_RP
 blow_out	1
-VBG_RP
-wearing_out	1
 VBZ_TO
 manages_to	2
 seems_to	1

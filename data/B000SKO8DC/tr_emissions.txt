@@ -4,8 +4,6 @@ NN_RB_IN
 DVD_twice_by	1
 CC_DT_NN
 and_the_music	1
-NNS_,_DT
-bands_,_the	1
 RB_IN_DT
 not_on_this	1
 VB_PRP$_JJ
@@ -16,15 +14,14 @@ VBD_NN_TO
 had_nothing_to	1
 NN_IN_JJ
 industry_in_general	1
+band_under_several	1
 Internet_for_free	1
-DT_NN_,
-a_fan_,	1
-the_band_,	1
 RB_VBD_VBN
 also_got_ripped	1
 IN_VBG_DT
 by_buying_the	1
 DT_NN_IN
+the_band_under	1
 This_sort_of	1
 the_Internet_for	1
 no_clue_that	1
@@ -37,12 +34,10 @@ RP_IN_VBG
 off_by_buying	1
 TO_VB_IN
 to_do_with	3
-PRP_VBP_RB
-I_do_n't	1
+NN_PRP_VBP
+fan_I_feel	1
 NN_RB_VBZ
 crap_only_serves	1
-,_IN_JJ
-,_under_several	1
 NNS_CC_DT
 stores_and_the	1
 VBN_RP_CC
@@ -51,8 +46,6 @@ NN_NN_.
 music_store_.	1
 RB_VB_PRP$
 n't_waste_my	1
-,_WDT_NNP
-,_which_BTW	1
 NN_IN_DT
 clue_that_the	1
 review_of_a	1
@@ -60,16 +53,18 @@ stuff_from_the	1
 DT_NN_.
 the_band_.	1
 this_DVD_.	1
-JJ_NN_,
-same_DVD_,	1
 IN_NN_PRP
 In_future_I	1
 JJ_NN_.
 hard-earned_money_.	1
+JJ_NN_WDT
+same_DVD_which	1
 DT_NN_NNS
 the_music_stores	1
 IN_NNS_WP
 by_producers_who	1
+NNS_DT_NN
+bands_the_music	1
 WP_VBD_NN
 who_had_nothing	1
 VBZ_TO_VB
@@ -90,6 +85,8 @@ JJ_NN_IN
 same_DVD_as	1
 IN_NN_IN
 as_Death_By	1
+RB_RB_VBG
+instead_so_ensuring	1
 NNP_NN_RB
 Muse_DVD_twice	1
 VBG_IN_PRP
@@ -102,8 +99,6 @@ VBG_IN_DT
 buying_from_a	1
 DT_NNS_.
 those_reviews_.	1
-DT_NNS_,
-the_bands_,	1
 IN_DT_NNPS
 that_the_Deftones	1
 VB_IN_.
@@ -114,15 +109,17 @@ DT_NN_VBZ
 The_cover_gives	1
 PRP$_JJ_NN
 my_hard-earned_money	1
+DT_NN_PRP
+a_fan_I	1
 NN_NN_IN
 music_DVD_before	1
 music_industry_in	1
-,_PRP_VBP
-,_I_feel	1
+NN_WDT_NNP
+DVD_which_BTW	1
 JJ_TO_VB
 little_to_do	1
-VBP_NN_TO
-have_nothing_to	1
+RB_VBZ_TO
+only_serves_to	1
 VBD_RP_DT
 put_out_the	1
 NNS_IN_NN
@@ -141,8 +138,6 @@ VBP_RB_VB
 do_n't_waste	1
 VBN_VBN_RP
 been_ripped_off	1
-NN_,_PRP
-fan_,_I	1
 NN_VBZ_PRP
 cover_gives_you	1
 IN_JJ_JJ
@@ -152,10 +147,8 @@ to_hurt_the	1
 to_rip-off_the	1
 VBZ_PRP_DT
 gives_you_no	1
-RB_VBZ_TO
-only_serves_to	1
-NN_,_IN
-band_,_under	1
+VBP_NN_TO
+have_nothing_to	1
 NNS_VBP_NN
 producers_have_nothing	1
 IN_JJ_RB
@@ -167,8 +160,8 @@ PRP_VBP_VBN
 I_'ve_been	1
 PRP_DT_NN
 you_no_clue	1
-JJ_RB_,
-free_instead_,	1
+JJ_RB_RB
+free_instead_so	1
 DT_JJ_NNP
 the_same_Muse	1
 DT_NN_DT
@@ -181,8 +174,6 @@ NNP_VBZ_JJ
 BTW_has_little	1
 MD_VB_VBG
 will_be_reading	1
-NN_,_WDT
-DVD_,_which	1
 RP_CC_MD
 off_and_will	1
 JJ_NNS_IN
@@ -202,6 +193,8 @@ RP_DT_JJ
 out_the_same	1
 DT_NNPS_VBP
 the_Deftones_are	1
+DT_NNS_DT
+the_bands_the	1
 NNPS_VBP_RB
 Deftones_are_not	1
 DT_NNS_IN
@@ -214,8 +207,6 @@ RB_VBG_IN
 so_ensuring_that	1
 VBD_VBN_RP
 got_ripped_off	1
-RB_,_RB
-instead_,_so	1
 DT_NNS_VBD
 The_producers_put	1
 PRP_VBZ_DT
@@ -228,6 +219,8 @@ music_stores_and	1
 NN_TO_VB
 nothing_to_do	2
 order_to_rip-off	1
+PRP_VBP_RB
+I_do_n't	1
 NN_IN_VBG
 DVD_before_buying	1
 WDT_NNP_VBZ
@@ -250,8 +243,6 @@ NNS_IN_JJ
 titles_with_different	1
 NN_IN_NNPS
 Death_By_Decibels	1
-,_RB_VBG
-,_so_ensuring	1
 IN_JJ_.
 in_general_.	1
 IN_VBG_IN
@@ -260,8 +251,6 @@ VBG_DT_NN
 reading_the_review	1
 VBN_RP_IN
 ripped_off_by	1
-,_DT_NN
-,_the_music	1
 JJ_NNP_NN
 same_Muse_DVD	1
 IN_NNPS_.

@@ -41,63 +41,6 @@ was	2
 enjoyed	2
 returned	1
 told	1
-VB
-have	1
-show	1
-bring	1
-exist	1
-want	1
-find	1
-sell	2
-capture	1
-violate	1
-perform	1
-glean	1
-start	1
-live	1
-compromise	1
-take	4
-test	1
-progress	1
-tell	1
-function	1
-do	3
-begin	1
-get	1
-reach	1
-stay	2
-embark	1
-know	1
-accuse	1
-be	6
-come	1
-work	1
-turn	1
-venture	1
-learn	2
-become	1
-make	3
-,
-,	85
-''
-''	10
-VBP
-do	1
-guess	1
-have	1
-endear	1
-win	1
-make	2
-get	1
-see	1
-think	1
-befall	1
-are	14
-allow	1
-progress	1
-believe	1
-travel	1
-take	1
 VBN
 ignored	1
 sarrived	1
@@ -135,6 +78,27 @@ allied	1
 sent	4
 rung	1
 doled	1
+VBP
+do	1
+guess	1
+have	1
+endear	1
+win	1
+make	2
+get	1
+see	1
+think	1
+befall	1
+are	14
+allow	1
+progress	1
+believe	1
+travel	1
+take	1
+WDT
+what	1
+Whatever	1
+that	8
 JJ
 materialistic	1
 precarious	1
@@ -689,9 +653,42 @@ Siyabonga	1
 Jerusalem	5
 Banai	1
 Melongisi	1
-``
-`	1
-``	10
+VB
+have	1
+show	1
+bring	1
+exist	1
+want	1
+find	1
+sell	2
+capture	1
+violate	1
+perform	1
+glean	1
+start	1
+live	1
+compromise	1
+take	4
+test	1
+progress	1
+tell	1
+function	1
+do	3
+begin	1
+get	1
+reach	1
+stay	2
+embark	1
+know	1
+accuse	1
+be	6
+come	1
+work	1
+turn	1
+venture	1
+learn	2
+become	1
+make	3
 WRB
 when	2
 where	5
@@ -777,7 +774,3 @@ older	1
 more	3
 SYM
 *	1
-WDT
-what	1
-Whatever	1
-that	8

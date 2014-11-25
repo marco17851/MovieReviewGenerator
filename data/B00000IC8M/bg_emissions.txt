@@ -8,23 +8,23 @@ of_laural	1
 on_video	1
 of_sync	1
 by_shudder	1
-,_IN
-,_along	1
-,_that	1
-,_as	1
 PRP_RB
 She_just	1
 it_overall	1
+it_however	1
 it_far	1
 it_again	1
 it_before	1
 it_definitely	1
 he_later	1
+NNP_WDT
+Deuces_that	1
 DT_RB
 a_pretty	1
 a_very	2
 NNP_IN
 All_in	1
+Deuces_with	1
 NNS_RB
 seconds_behind	1
 studios_really	1
@@ -43,8 +43,6 @@ VB_DT
 have_these	1
 finish_the	1
 find_a	1
-``_WDT
-``_what	1
 VBN_:
 executed_;	1
 IN_VBG
@@ -52,15 +50,6 @@ In_closing	1
 RB_.
 ever_.	1
 behind_.	1
-VBP_,
-are_,	1
-IN_``
-of_``	1
-in_``	1
-of_`	1
-,_PRP
-,_it	1
-,_you	1
 VBZ_JJ
 is_available	1
 is_worth	1
@@ -79,12 +68,13 @@ he_at	1
 it_in	1
 NNS_DT
 versions_the	1
-VBG_,
-making_,	1
+IN_JJS
+at_least	1
 JJ_CC
 obvious_and	1
 unhealthy_and	1
 old_and	1
+bad_but	1
 thin_and	1
 WRB_MD
 How_would	1
@@ -96,6 +86,8 @@ where_they	1
 ..._although	1
 NN_JJ
 wafer_thin	1
+:_WDT
+;_what	1
 JJS_PRP
 biggest_he	1
 IN_PRP
@@ -104,12 +96,8 @@ that_he	1
 Unless_you	1
 Although_I	1
 by_itself	1
-''_.
-''_.	1
-''_,
-''_,	2
-,_NN
-,_filmography	1
+DT_PRP
+all_you	1
 PRP$_RB
 its_not	1
 POS_NN
@@ -134,6 +122,8 @@ CD_NNS
 2_seconds	1
 two_films	2
 1940-1945_films	1
+CD_NNP
+one_Utopia	1
 NNP_NN
 Hardy_film	2
 Hardy_fan	1
@@ -199,15 +189,13 @@ CD_DT
 one_the	1
 DT_RBS
 The_most	1
-,_DT
-,_this	1
 NNP_CC
 Laurel_&	3
 Laural_and	1
 MGM_and	1
 Laurel_and	2
-NNP_``
-AKA_``	1
+DT_JJR
+a_better	1
 RB_IN
 away_from	1
 even_though	1
@@ -216,11 +204,6 @@ ever_in	1
 VBG_IN
 looking_like	1
 closing_until	1
-,_RB
-,_very	1
-,_however	1
-PRP$_DT
-your_a	1
 RP_VBG
 up_getting	1
 DT_CD
@@ -234,8 +217,8 @@ and_he	1
 and_I	1
 RBS_JJ
 most_obvious	1
-``_DT
-``_the	1
+NNS_:
+films_...	1
 PRP_.
 it_.	1
 itself_.	1
@@ -248,18 +231,17 @@ for_my	1
 if_your	1
 in_his	1
 from_their	1
-NNS_''
-boys_''	1
 JJR_NN
 better_transfer	1
-IN_JJ
-from_perfect	1
+PRP_VB
+I_know	1
 NNP_.
 WHITE_!	1
-Madacy_.	1
-Deuces_.	1
-Oy_.	1
 Hardy_.	1
+Oy_.	1
+Deuces_.	1
+K_.	1
+Madacy_.	1
 VBZ_VBG
 is_going	1
 DT_PRP$
@@ -271,11 +253,6 @@ PRP$_NN
 my_mom	1
 your_money	1
 his_appearance	1
-``_NNP
-`_Flying	1
-``_Flying	3
-``_Utopia	2
-``_Atoll	1
 TO_NN
 to_anyone	1
 NNP_WRB
@@ -287,10 +264,6 @@ VB_IN
 be_that	1
 CC_VBN
 but_compared	1
-JJ_,
-glad_,	1
-bad_,	1
-tiny_,	1
 JJR_NNS
 better_versions	1
 VBD_RB
@@ -299,9 +272,7 @@ had_ever	1
 was_very	1
 NN_DT
 NOTICE_A	1
-RB_,
-before_,	1
-very_,	1
+movie_this	1
 VBN_IN
 synched_up	1
 produced_by	1
@@ -311,8 +282,6 @@ NNS_.
 movies_.	1
 films_.	1
 biographies_.	1
-NNS_,
-films_,	1
 TO_DT
 to_the	1
 VBD_JJ
@@ -339,12 +308,11 @@ many_people	1
 cheap_movies	1
 hardy_films	1
 american_versions	1
-JJ_JJ
-wholesome_funny	1
-sure_many	1
-complete_american	1
-good_wholesome	1
-nice_double	1
+VBZ_IN
+shows_in	1
+is_out	1
+'s_about	1
+is_that	1
 JJ_NNP
 20th_Century	1
 big_Laurel	1
@@ -352,13 +320,8 @@ good_Laurel	1
 JJR_IN
 longer_than	1
 better_than	1
-IN_JJS
-at_least	1
-CD_``
-one_``	1
-,_CC
-,_and	2
-,_but	4
+IN_CD
+about_2	1
 NN_NNS
 production_companies	1
 WRB_.
@@ -366,11 +329,10 @@ why_.	1
 VBZ_JJR
 is_longer	1
 looks_better	1
-:_``
-;_``	1
-CC_IN
-but_until	1
-but_if	1
+NN_NNP
+film_Flying	1
+VBG_PRP
+making_it	1
 VBP_TO
 need_to	1
 PRP$_NNS
@@ -397,8 +359,9 @@ Save_your	1
 IN_RB
 by_possibly	1
 though_far	1
-''_WDT
-''_that	1
+CC_IN
+but_until	1
+but_if	1
 DT_JJS
 the_biggest	1
 the_worst	1
@@ -411,6 +374,8 @@ worth_the	1
 available_this	2
 VBG_TO
 going_to	1
+RB_CC
+before_and	1
 DT_MD
 this_will	1
 MD_VB
@@ -445,13 +410,18 @@ overall_it	1
 NN_CC
 production_and	1
 version_but	1
+price_but	1
+idea_but	1
 laural_and	1
-film_but	1
+filmography_and	1
+film_but	2
 style_and	1
 say_or	1
 appearance_and	1
 JJS_IN
 best_of	1
+NNS_VBG
+boys_looking	1
 VB_.
 sufice_.	1
 differ_.	1
@@ -462,33 +432,23 @@ VBP_VBD
 JJ_TO
 able_to	1
 glad_to	1
-DT_JJR
-a_better	1
 EX_VBZ
 There_'s	1
-VBP_``
-enjoy_``	1
 VBP_DT
+enjoy_the	1
 am_a	1
 have_a	1
 RB_:
 again_:	1
-CC_``
-but_``	1
 VBG_WP
 getting_what	1
 NN_NN
 picture_quality	2
+game_filmography	1
 shudder_Madacy	1
 video_tape	1
 :_CC
 ..._but	1
-NNP_''
-K_''	1
-Utopia_''	2
-Deuces_''	3
-NN_``
-film_``	1
 DT_NNS
 some_biographies	1
 The_extras	1
@@ -500,9 +460,11 @@ Both_versions	1
 the_studios	1
 The_trivia	1
 IN_NNP
-of_Madacy	1
 at_MGM	1
+of_Madacy	1
+of_Flying	2
 in_BLACK	1
+in_Utopia	1
 of_Utopia	2
 DT_NNP
 The_Flying	1
@@ -510,10 +472,8 @@ a_VHS	1
 This_Laurel	1
 EX_VBD
 there_were	1
-''_IN
-''_with	1
-,_JJ
-,_amateur	1
+PRP$_DT
+your_a	1
 DT_JJ
 a_nice	2
 a_big	1
@@ -535,9 +495,6 @@ HOWEVER_...	1
 stinker_...	1
 NNS_CC
 films_but	1
-._''
-?_''	1
-._'	1
 VBD_PRP
 loved_it	2
 thought_I	1
@@ -547,15 +504,8 @@ VBD_VBG
 was_getting	1
 were_making	1
 regretted_completing	1
-IN_CD
-about_2	1
-NN_,
-filmography_,	1
-idea_,	1
-game_,	1
-film_,	1
-movie_,	1
-price_,	1
+IN_JJ
+from_perfect	1
 NN_.
 sync_.	1
 tape_.	1
@@ -585,11 +535,13 @@ WDT_VBZ
 that_looks	1
 VBP_IN
 feel_that	1
+are_that	1
 are_in	1
 NNS_IN
 movies_on	1
 films_on	1
 gags_from	1
+films_along	1
 films_at	1
 IN_TO
 up_to	1
@@ -597,15 +549,13 @@ NNS_PRP
 films_they	1
 NNP_VBZ
 Utopia_is	2
-Deuces_is	2
+Deuces_is	3
 TO_VB
 to_find	1
 to_stop	1
 to_drive	1
 to_have	1
 to_finish	1
-''_VBG
-''_looking	1
 NN_VBD
 game_was	1
 WP_PRP
@@ -620,8 +570,6 @@ Madacy_offers	1
 color_is	1
 version_is	1
 compression_is	1
-''_VBZ
-''_is	1
 VBP_VB
 wont_be	1
 do_differ	1
@@ -633,8 +581,6 @@ VBD_IN
 paid_for	1
 JJ_CD
 poor_one	1
-NNS_:
-films_...	1
 WDT_VBD
 that_was	1
 NNP_POS
@@ -648,23 +594,21 @@ film_ever	2
 dvd_even	1
 JJ_IN
 superior_than	1
+glad_as	1
 honest_about	1
 ill_during	1
 available_on	1
 typical_of	1
 evident_on	1
-DT_,
-all_,	1
 DT_.
 this_.	1
 VBG_JJ
 letting_tiny	1
 IN_EX
 although_there	1
-PRP_,
-it_,	1
 RB_RB
 also_really	1
+very_very	1
 VBZ_DT
 is_a	1
 offers_a	1
@@ -687,9 +631,12 @@ Hal_Roach	1
 Century_Fox	1
 Flying_Deuces	6
 BLACK_AND	1
+Utopia_Stan	1
+Utopia_AKA	1
 Stan_Laurel	3
-AND_WHITE	1
 Atoll_K	1
+AND_WHITE	1
+AKA_Atoll	1
 RB_VBZ
 definitely_shows	1
 NN_PRP$
@@ -736,23 +683,21 @@ compared_to	1
 VB_RB
 stay_away	1
 be_totally	1
-PRP_VB
-I_know	1
-,_NNP
-,_Stan	1
-,_AKA	1
 CC_NNP
 and_Hardy	4
 &_Hardy	2
+but_Flying	1
 CC_NNS
 and_gags	1
 PRP$_CD
 their_1940-1945	1
-VBZ_IN
-shows_in	1
-is_out	1
-'s_about	1
-is_that	1
+JJ_JJ
+sure_many	1
+complete_american	1
+tiny_amateur	1
+wholesome_funny	1
+nice_double	1
+good_wholesome	1
 DT_TO
 this_to	1
 NN_WP

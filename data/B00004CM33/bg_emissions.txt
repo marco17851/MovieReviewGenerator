@@ -2,8 +2,6 @@ POS_NNP
 's_Circus	1
 IN_NN
 by_veteran	1
-,_IN
-,_so	1
 VBN_VBN
 been_edited	1
 been_removed	1
@@ -27,6 +25,8 @@ is_hard	1
 is_weak	1
 PRP_IN
 her_that	1
+NNS_DT
+kiddies_all	1
 JJ_CC
 poor_&	1
 sick_&	1
@@ -69,6 +69,8 @@ he_is	2
 It_is	1
 :_CD
 :_1	1
+UH_CC
+Oh_and	1
 NNP_CC
 FRELENG_&	1
 Daffy_&	1
@@ -80,12 +82,8 @@ Sylvester_5	1
 Sylvester_6	1
 RB_IN
 only_about	1
-,_RB
-,_only	1
 IN_:
 from_:	1
-IN_JJ
-For_Scent-Imental	1
 NNP_.
 McKIMSON_.	1
 Eggs_.	1
@@ -95,20 +93,17 @@ NNP_WRB
 Studio_where	1
 JJ_RB
 weak_well	1
+complete_only	1
 VB_IN
 sit_through	1
 realize_that	1
 CC_VBN
 &_directed	1
-JJ_,
-complete_,	1
 JJ_.
 Special_.	1
 complete_.	1
 NN_DT
 reason_the	1
-,_VBG
-,_using	1
 VBN_IN
 used_from	1
 edited_out	1
@@ -116,16 +111,13 @@ directed_by	1
 NNS_.
 Bugs_.	1
 cartoons_.	1
-NNS_,
-kiddies_,	1
-cartoons_,	1
 TO_DT
 to_the	2
 NN_CD
 Hare_3	1
 cartoon_9	1
-VBD_JJ
-were_complete	1
+CC_IN
+and_since	1
 NNS_TO
 segments_to	2
 JJ_NNS
@@ -133,8 +125,6 @@ Scent-Imental_Reasons	1
 various_filmings	1
 CD_IN
 6_For	1
-,_CC
-,_and	1
 VB_NNP
 distribute_Easter	1
 NN_NNS
@@ -145,8 +135,8 @@ VBZ_JJR
 is_older	1
 NN_NNP
 veteran_Looney	1
-CC_IN
-and_since	1
+VBD_JJ
+were_complete	1
 PRP$_NNS
 his_cartoons	1
 VB_PRP$
@@ -169,19 +159,17 @@ It_would	1
 she_must	1
 WRB_NNS
 where_Bugs	1
-,_DT
-,_all	1
 NNP_NNPS
 Warner_Brothers	1
 NNS_VBD
 cartoons_were	1
+NNS_VBG
+cartoons_using	1
 JJ_TO
 unable_to	1
 hard_to	1
 NNS_VBN
 clips_used	1
-UH_,
-Oh_,	1
 SYM_RB
 *_almost	1
 NN_NN
@@ -213,14 +201,15 @@ VBD_VBN
 was_produced	1
 NNS_CC
 filmings_&	1
-NN_,
-substitute_,	1
+IN_JJ
+For_Scent-Imental	1
 NN_.
 DVD_.	1
 cartoon_.	1
 animation_.	1
 NN_IN
 Rabbit_Of	1
+substitute_so	1
 NOT_by	1
 NNP_VBP
 Fudd_have	1

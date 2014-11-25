@@ -50,10 +50,11 @@ companies_without_paying	1
 DT_VBP_JJ
 all_look_good	1
 DT_NN_IN
+this_information_as	1
 this_set_of	1
+the_set_as	1
 a_list_of	1
 the_vein_of	1
-the_set_as	1
 A_collection_of	1
 RB_DT_JJ
 quite_a_few	1
@@ -70,12 +71,12 @@ IN_DT_PRP$
 with_all_their	1
 IN_JJ_TO
 of_good_to	1
+NN_IN_PRP
+information_as_it	1
 CD_NNS_.
 20_movies_.	1
 IN_DT_JJS
 of_the_best	1
-DT_NN_,
-this_information_,	1
 JJ_NN_WDT
 low-quality_stuff_that	1
 DT_NN_NNS
@@ -94,9 +95,10 @@ JJ_CC_DT
 good_and_the	1
 NNP_NNP_NNP
 Grand_Duel/This_Man	1
+Minnesota_Clay/Johnny_Yuma/Any	1
 Horse/The_Hellbenders/White_Comanche	1
 Clay/Johnny_Yuma/Any_Gun	1
-Minnesota_Clay/Johnny_Yuma/Any	1
+Done_Amigo_Disc	1
 NNS_DT_NN
 westerns_the_set	1
 VBG_RB_IN
@@ -115,9 +117,8 @@ through_with_this	1
 JJ_NNS_.
 bad_movies_.	1
 few_extras_.	1
-NN_VBZ_JJ
-quality_is_good	1
-set_is_great	1
+VBD_RB_DT
+enjoyed_quite_a	1
 IN_NN_.
 of_action_.	1
 JJS_WRB_PRP
@@ -149,10 +150,10 @@ DT_NN_VBZ
 the_set_is	1
 TO_VB_.
 to_watch_.	1
+IN_NNS_RB
+for_years_also	1
 CD_IN_DT
 one_of_the	1
-NNS_,_RB
-years_,_also	1
 DT_JJ_CC
 some_good_and	1
 VBP_DT_JJ
@@ -169,8 +170,6 @@ LS_VBP_RB
 i_do_n't	1
 TO_DT_NN
 to_these_movie	1
-CC_VBZ_NNS
-and_theres_lots	1
 JJ_TO_VB
 good_to_ok	1
 cool_to_watch	1
@@ -187,8 +186,6 @@ Amazon_:_Disc	1
 NNS_IN_NN
 lots_of_ripping-off	1
 lots_of_action	1
-VB_NNP_,
-Be_Done_,	1
 :_NN_VBZ
 --_Death_Rides	1
 VBZ_VBN_VBG
@@ -202,8 +199,6 @@ many_in_the	1
 few_of_these	1
 DT_NN_NN
 the_picture_quality	1
-,_RB_NNS
-,_also_lots	1
 NN_IN_IN
 set_as_with	1
 JJ_:_NNS
@@ -226,20 +221,14 @@ JJ_CC_VBZ
 good_and_theres	1
 MD_RB_VB
 Ca_n't_Die/It	1
-NN_,_IN
-information_,_as	1
+IN_VBG_PRP
+without_paying_them	1
 FW_FW_VBZ
 st._clair_is	1
 VB_MD_VB
 Die/It_Can_Be	1
-,_NNP_NNP
-,_Amigo_Disc	1
-IN_NNS_,
-for_years_,	1
 DT_JJ_IN
 a_few_of	1
-IN_VBG_PRP
-without_paying_them	1
 RB_LS_VBP
 sorry_i_do	1
 RB_VB_MD
@@ -273,8 +262,9 @@ CD_:_NN
 3_--_Death	1
 RB_VB_DT
 n't_have_a	1
-VBD_RB_DT
-enjoyed_quite_a	1
+NN_VBZ_JJ
+quality_is_good	1
+set_is_great	1
 VB_DT_NN
 have_a_list	1
 post_this_information	1
@@ -297,6 +287,8 @@ MD_VB_DT
 'd_post_this	1
 WDT_VBZ_VBN
 that_has_been	1
+VB_NNP_NNP
+Be_Done_Amigo	1
 DT_NNS_DT
 the_movies_all	1
 CC_NNS_RB
@@ -354,8 +346,8 @@ VBP_DT_NNS
 value_these_movies	1
 VBP_JJR_NN
 have_lower_quality	1
-NNP_,_NNP
-Done_,_Amigo	1
+CC_VBZ_NNS
+and_theres_lots	1
 RB_PRP_VBP
 again_they_have	1
 VBZ_JJ_.
@@ -382,8 +374,6 @@ IN_NNS_IN
 of_Westerns_with	1
 CD_:_DT
 1_--_The	1
-,_IN_PRP
-,_as_it	1
 VBN_RP_IN
 come_through_with	1
 RB_VBN_IN
@@ -394,5 +384,7 @@ NNP_DT_VBP
 Comanche_these_are	1
 JJR_NN_NNS
 lower_quality_pictures	1
+NNS_RB_NNS
+years_also_lots	1
 :_NNP_NNP
 --_Minnesota_Clay/Johnny	1

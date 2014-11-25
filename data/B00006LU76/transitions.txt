@@ -20,10 +20,11 @@ WDT
 JJ
 NN	6
 CC	1
-,	2
+RB	1
 IN	3
 DT	1
 NNS	1
+NNP	1
 VBZ
 DT	4
 RB	2
@@ -45,24 +46,20 @@ MD	1
 NN	5
 VBD	2
 CC	3
-,	3
-.	9
-PRP	1
 JJR	2
+.	9
+PRP	2
+RB	1
 IN	7
 VBZ	3
 NNS	2
-,
-DT	1
-PRP	3
-RB	2
-NNP	2
+NNP	1
 PRP
 MD	2
 VBD	1
-,	1
 .	1
 VBP	6
+RB	1
 VBZ	3
 DT	1
 RB
@@ -101,7 +98,7 @@ RB	2
 IN	1
 PDT
 CD
-,	1
+PRP	1
 .	1
 IN
 VBG	1

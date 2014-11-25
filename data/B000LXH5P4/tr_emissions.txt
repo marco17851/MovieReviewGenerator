@@ -1,8 +1,6 @@
 VB_IN_DT
 hope_that_an	1
 learn_from_a	1
-NNP_''_.
-Coast_''_.	1
 CC_DT_NN
 and_the_equipment	1
 VB_PRP$_NN
@@ -107,6 +105,8 @@ NNP_NNP_:
 Carolina_Coast_--	1
 DT_VBZ_VBN
 this_is_filmed	1
+NNP_NNP_.
+Atlantic_Coast_.	1
 DT_NN_VBP
 the_DVD_are	1
 IN_DT_VBZ
@@ -121,16 +121,14 @@ NNP_NNP_DT
 Surf_Fishing_the	1
 PRP_MD_RB
 You_ca_n't	1
-NNP_NNP_''
-Atlantic_Coast_''	1
+POS_NNP_NNP
+'s_Surf_Fishing	1
 JJR_IN_DT
 more_of_a	1
 DT_NN_NN
 a_video_format	1
 VBD_JJR_IN
 was_more_of	1
-``_NNP_NNP
-``_Surf_Fishing	1
 VBP_RB_VB
 do_n't_bother	1
 NN_NNS_CC
@@ -139,6 +137,8 @@ VBN_IN_NNP
 presented_in_Burnley	1
 NNS_JJ_IN
 topics_such_as	1
+NNP_POS_NNP
+Burnley_'s_Surf	1
 VBZ_RBR_JJ
 is_more_difficult	1
 VB_VBZ_RB
@@ -217,8 +217,6 @@ JJ_NN_MD
 instructional_DVD_would	1
 RB_VB_.
 n't_bother_.	1
-POS_``_NNP
-'s_``_Surf	1
 NN_TO_VB
 equipment_to_use	1
 CD_MD_VB
@@ -249,8 +247,6 @@ VBG_IN_DT
 blowing_into_the	1
 WRB_TO_VB
 how_to_identify	1
-NNP_POS_``
-Burnley_'s_``	1
 :_VBP_RB
 -_do_n't	1
 RB_VBN_IN

@@ -18,8 +18,8 @@ PRP_VBD_IN
 they_copied_that	1
 NN_CC_IN
 scene_but_in	1
-PRP_VBD_VBN
-I_was_excited	1
+:_JJ_NN
+-_Old_Boy	1
 VBZ_JJ_IN
 Is_notorious_for	1
 PRP_VBP_JJ
@@ -37,8 +37,6 @@ VBG_RP_JJ
 ripping_off_other	1
 JJ_PRP_VBD
 bad_they_copied	1
-NNS_VBP_,
-Viewers_beware_,	1
 RP_JJ_NNS
 off_other_movies	1
 NN_NN_.
@@ -52,6 +50,8 @@ DT_NN_.
 the_back_.	1
 this_movie_.	1
 the_60s-704_?	1
+JJ_NN_.
+Old_Boy_.	1
 VB_DT_JJ
 watch_the_real	1
 copy_every_single	1
@@ -97,8 +97,6 @@ NN_NN_CC
 hallway_scene_but	1
 VBP_NN_NNS
 love_bollywood_movies	1
-JJ_NN_''
-Old_Boy_''	1
 JJ_NN_VBD
 other_reviewer_was	1
 DT_NN_VBZ
@@ -111,8 +109,6 @@ CC_PRP_VBP
 but_I_am	1
 IN_DT_.
 at_that_.	1
-,_PRP_VBD
-,_I_heard	1
 DT_JJ_JJ
 the_original_Korean	1
 PRP$_NN_.
@@ -143,6 +139,8 @@ PRP_VBP_NN
 I_love_bollywood	1
 RB_DT_NN
 just_an_imitation	1
+VBP_DT_VBZ
+beware_this_is	1
 RB_JJ_NN
 very_bad_imitation	1
 JJ_IN_VBG
@@ -155,6 +153,7 @@ IN_DT_NN
 in_a_fight	1
 off_this_movie	1
 in_the_back	1
+that_the_action	1
 VBZ_CD_NN
 's_one_thing	1
 NN_CC_TO
@@ -167,8 +166,6 @@ DT_JJ_NNP
 the_real_OldBoy	1
 JJ_NN_NN
 narrow_hallway_scene	1
-IN_,_DT
-that_,_the	1
 NNS_IN_DT
 noises_in_a	1
 NN_:_PRP
@@ -184,14 +181,12 @@ VB_DT_NN
 receive_this_movie	1
 remake_a_movie	1
 watch_this_movie	1
-,_DT_VBZ
-,_this_is	1
 PRP_VBZ_RB
 It_'s_just	1
-:_``_JJ
--_``_Old	1
-VBD_IN_,
-copied_that_,	1
+NNP_PRP_VBD
+Plus_I_heard	1
+PRP_VBD_VBN
+I_was_excited	1
 PRP_VBD_DT
 they_copied_the	1
 I_heard_the	1
@@ -212,28 +207,22 @@ VBD_JJ_.
 was_right_.	1
 :_PRP_VBP
 ;_I_mean	1
-NNP_,_PRP
-Plus_,_I	1
+NNS_VBP_DT
+Viewers_beware_this	1
 IN_PRP_VBP
 that_they_'re	1
 IN_PRP$_NN
 of_my_mouth	1
-NN_:_``
-blockbuster_-_``	1
 NN_TO_VB
 thing_to_remake	1
-NN_''_.
-Boy_''_.	1
 VBG_IN_PRP
 claiming_that_they	1
+VBD_IN_DT
+copied_that_the	1
 DT_RB_JJ
 A_very_bad	1
 VBP_JJ_.
 're_original_.	1
-VBP_,_DT
-beware_,_this	1
-``_JJ_NN
-``_Old_Boy	1
 VBZ_JJ_.
 is_ridiculous_.	1
 PRP_VBZ_CD
@@ -258,8 +247,8 @@ JJ_DT_NN
 bad_the_knife	1
 RB_TO_VB
 just_to_get	1
-,_DT_NN
-,_the_action	1
+NN_:_JJ
+blockbuster_-_Old	1
 VBZ_DT_NN
 is_the_60s-704	1
 VBD_DT_JJ

@@ -1,8 +1,6 @@
 IN_NN
 of_action	1
 of_ripping-off	1
-,_IN
-,_as	1
 CD_:
 1_--	1
 2_--	1
@@ -13,6 +11,7 @@ are_older	2
 VBN_VBG
 been_circling	1
 NNS_RB
+years_also	1
 soundtracks_as	1
 CC_JJ
 and_bad	1
@@ -39,8 +38,6 @@ DT_IN
 this_if	1
 CC_RB
 and_once	1
-VBN_RP
-come_through	1
 JJ_CC
 good_and	3
 LS_VBD
@@ -79,8 +76,8 @@ DT_VBP
 some_have	1
 all_look	1
 these_are	1
-JJR_CC
-older_and	1
+VBN_RP
+come_through	1
 PRP_VBP
 you_value	1
 they_have	1
@@ -89,16 +86,10 @@ quite_a	1
 PRP_VBZ
 it_'s	1
 it_comes	1
-IN_JJ
-of_other	1
-of_low-quality	1
-of_good	1
 RB_IN
 around_for	1
 FW_VBZ
 clair_is	1
-,_RB
-,_also	1
 DT_CD
 these_20	1
 VBP_RB
@@ -118,8 +109,6 @@ JJR_NN
 lower_quality	1
 NNP_#
 Disc_#	3
-NNP_,
-Done_,	1
 CC_VBZ
 and_theres	1
 LS_VB
@@ -142,8 +131,6 @@ NNS_.
 movies_.	3
 westerns_.	2
 extras_.	1
-NNS_,
-years_,	1
 TO_DT
 to_these	1
 CC_IN
@@ -195,8 +182,8 @@ NNS_VBZ
 sets_has	1
 PRP_MD
 I_'d	1
-RB_PRP
-again_they	1
+NNP_DT
+Comanche_these	1
 VBP_VBN
 have_come	1
 JJS_IN
@@ -235,13 +222,17 @@ DT_JJ
 some_good	1
 a_few	2
 a_mixed	1
+JJR_CC
+older_and	1
 NNS_CC
 westerns_but	1
 pictures_and	1
 movies_but	1
 sets_and	1
-NN_,
-information_,	1
+IN_JJ
+of_other	1
+of_low-quality	1
+of_good	1
 NN_.
 action_.	1
 NN_IN
@@ -251,6 +242,7 @@ collection_of	1
 list_of	1
 vein_of	1
 set_of	1
+information_as	1
 bag_of	1
 WDT_VBZ
 that_has	1
@@ -291,10 +283,11 @@ NNP_NNP
 Horse/The_Hellbenders/White	1
 Duel/This_Man	1
 Amigo_Disc	1
-Clay/Johnny_Yuma/Any	1
+Minnesota_Clay/Johnny	1
 Grand_Duel/This	1
 Yuma/Any_Gun	1
-Minnesota_Clay/Johnny	1
+Clay/Johnny_Yuma/Any	1
+Done_Amigo	1
 Hellbenders/White_Comanche	1
 Clint_Eastwoods	1
 VBZ_NNS
@@ -310,12 +303,10 @@ has_been	1
 RB_VBN
 Just_thought	1
 not_provided	1
-NNP_DT
-Comanche_these	1
+RB_PRP
+again_they	1
 RP_IN
 through_with	1
-,_NNP
-,_Amigo	1
 CC_NNS
 and_soundtracks	1
 VBZ_TO

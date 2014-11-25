@@ -1,4 +1,5 @@
 IN_NN
+of_decadence	1
 in_effect	1
 of_brevity	1
 of_art	1
@@ -13,13 +14,6 @@ of_view	2
 in_context	1
 from_anyone	1
 on_dance	1
-,_IN
-,_in	2
-,_as	2
-,_without	1
-,_on	1
-,_of	1
-,_whether	2
 PRP_RB
 It_also	1
 I_first	1
@@ -35,13 +29,17 @@ finished_viewing	1
 VBP_TO
 want_to	1
 NNP_IN
+Wilhelm_as	1
 Rosenkavalier_than	1
 Joseph_in	1
 NNS_RB
-routines_perhaps	1
-Musicologists_long	1
+dancers_as	1
+times_rarely	1
+satisfies_too	1
 comments_here	1
 principals_very	1
+routines_perhaps	1
+Musicologists_long	1
 JJR_JJ
 more_discerning	1
 CC_JJ
@@ -56,8 +54,6 @@ used_is	1
 MD_RB
 may_even	1
 can_only	1
-,_TO
-,_to	1
 VB_DT
 impede_the	1
 watch_this	1
@@ -82,12 +78,6 @@ RBR_RB
 more_so	1
 RBR_CC
 more_or	1
-IN_``
-of_`	1
-,_PRP
-,_it	1
-,_HE	1
-,_I	2
 VBZ_JJ
 is_secondary	1
 is_uncertain	1
@@ -97,6 +87,8 @@ is_aesthetic	1
 has_many	1
 VBP_CD
 have_40	1
+RB_NNP
+well_Strauss	1
 NN_TO
 site_to	1
 justice_to	1
@@ -105,9 +97,12 @@ effect_to	1
 relevance_to	1
 guide_to	1
 way_to	1
+viewing_to	1
 compliment_to	1
 :_NNS
 :_lots	1
+PRP_EX
+it_there	1
 PRP_IN
 you_as	1
 it_at	2
@@ -118,13 +113,16 @@ seen_.	1
 hoped_.	1
 VBG_.
 arousing_.	1
-VBN_,
-filmed_,	1
+WP$_NN
+whose_music	1
 JJ_CC
+astounded_but	1
 excellent_and	1
 lavish_and	1
+ballet_plus	1
 erotic_or	1
 adept_and	1
+complicated_but	1
 beautiful_and	1
 up-close_or	1
 gorgeous_and	1
@@ -143,9 +141,9 @@ NN_VBD
 disc_was	1
 JJS_DT
 least_a	1
-NN_JJ
-video_ballet	1
-playing_luxurious	1
+RB_WDT
+again_which	1
+well_which	1
 NNS_VBZ
 details_is	1
 PRP$_JJ
@@ -157,6 +155,7 @@ my_main	1
 VB_VBN
 be_judged	1
 have_heard	1
+do_given	1
 be_played	1
 be_taken	1
 RBS_TO
@@ -173,6 +172,10 @@ VB_TO
 amount_to	1
 VBZ_CC
 wants_and	1
+looks_and	1
+is_and	1
+VBN_CD
+filmed_one	1
 NNP_.
 Strauss_.	2
 Joseph_.	1
@@ -196,11 +199,17 @@ VBN_RB
 written_perceptively	1
 been_notably	1
 NNP_NN
-Strauss_score	1
+Strauss_music	2
 WWW_site	1
+Neumeyer_s	1
+Legende_music	1
+Amazon_s	1
+Haigen_s	1
+Strauss_score	1
 Strauss_plot	1
 VBZ_RB
 's_always	1
+is_well	1
 is_highly	1
 is_not	2
 is_truly	1
@@ -278,8 +287,6 @@ the_video	1
 the_conductor	1
 The_DVD	1
 The_video	1
-CC_,
-and_,	2
 WP$_JJ
 whose_later	1
 DT_VBZ
@@ -287,8 +294,9 @@ the_is	1
 This_is	1
 VBN_RP
 seen_up	1
-``_NNP
-``_Josephs	1
+VBN_JJ
+filmed_ballet	1
+photographed_ballet	1
 PRP_VBP
 we_need	1
 I_adore	1
@@ -299,18 +307,16 @@ I_have	4
 I_want	1
 I_do	1
 they_have	1
-RB_,
-variously_,	1
-pretty_,	1
-again_,	1
-too_,	1
-well_,	3
+VBZ_RP
+comes_over	1
+puts_on	1
 RB_DT
-just_this	1
+too_the	1
+still_the	1
 However_the	1
 not_the	1
 Admittedly_the	1
-still_the	1
+just_this	1
 DT_VBN
 this_filmed	1
 PRP_JJ
@@ -328,42 +334,18 @@ he_tells	1
 it_'s	2
 it_gives	1
 he_is	2
-IN_JJ
-in_good	1
-with_wonderful	1
-of_male	1
-on_lavish	1
-of_interesting	1
-of_classical	1
-in_long	1
-on_first	1
-de_ballet	1
-through_much	1
-As_dance-narrative	1
-without_further	1
-Among_such	1
-of_exemplary	1
-of_sexual	1
 DT_RBR
 the_more	1
 NNP_CC
 Potiphar_and	1
 Disc_and	1
+Elektra_and	1
 NNP_CD
 Grammophon_00440-073-4315	1
-NNP_``
-Amazon_`	1
-Haigen_`	1
-Strauss_`	2
-Neumeyer_`	1
-,_JJR
-,_more	1
 TO_RB
 to_much	1
-IN_,
-whether_,	1
-:_IN
--_so	1
+PRP_:
+her_;	1
 RBR_IN
 better_since	1
 RB_IN
@@ -385,15 +367,10 @@ VBG_IN
 looking_for	1
 VBN_WP
 got_what	1
-,_RB
-,_though	1
-,_simply	1
-,_rarely	1
-,_as	1
-,_variously	1
-,_too	1
-,_well	1
-,_potently	1
+VBD_VBG
+was_looking	1
+VBP_PRP
+need_it	1
 JJ_.
 apt_.	1
 fine_.	1
@@ -418,13 +395,10 @@ do_n't	1
 are_not	1
 WP_NNP
 whom_Franz	1
-VBG_``
-viewing_``	1
-PRP_,
-it_,	1
-herself_,	1
-:_RB
--_pretty	1
+PRP_.
+me_.	1
+us_.	1
+it_.	1
 IN_PRP$
 in_her	1
 from_its	1
@@ -441,14 +415,6 @@ should_check	1
 must_be	2
 PRP_VB
 me_tell	1
-NNP_,
-Potiphar_,	1
-Joseph_,	1
-Elektra_,	1
-Wilhelm_,	1
-Strauss_,	1
-FABULOUS_,	1
-Hollreiser_,	1
 CD_JJ
 40_ballet	1
 3_live	1
@@ -487,10 +453,12 @@ NNP_PRP
 Neumeier_himself	1
 Potiphar_herself	1
 JJ_RB
-superb_too	1
+inventive_potently	1
 artistic_rather	1
+bad_though	1
 superfluous_just	1
 remarkable_enough	1
+superb_too	1
 high_indeed	1
 VB_IN
 suppose_that	1
@@ -504,39 +472,29 @@ the_VPO	1
 The_Strauss	1
 JJR_IN
 more_than	1
+JJ_VBG
+recessed_delivering	1
 JJ_PRP
 ballet_I	2
+musical_it	1
 dance-narrative_it	1
 NNP_:
 Haigen_-	1
 Joseph_-	1
 Strauss_:	1
-VBZ_RP
-comes_over	1
-puts_on	1
-JJ_,
-inventive_,	1
-astounded_,	1
-aesthetic_,	1
-complicated_,	1
-bad_,	1
-recessed_,	1
-musical_,	1
-interested_,	1
-ballet_,	3
+CC_NNP
+but_Neumeier	1
 RB_VBP
 here_are	1
 long_have	1
 VBG_PRP$
 revealing_his	1
 NN_DT
+playing_the	1
+manner_a	1
 work_the	1
-,_VBG
-,_altering	1
-,_being	1
-,_signifying	1
-,_delivering	1
-,_revealing	1
+PDT_DT
+all_the	1
 VBN_IN
 attired_in	1
 taken_with	1
@@ -555,19 +513,10 @@ This_should	1
 This_may	1
 NNS_.
 times_.	1
-,_VBN
-,_given	1
-,_captured	1
-NNS_,
-robes_,	1
-times_,	1
-soloists_,	1
-visuals_,	1
-dancers_,	1
-satisfies_,	1
-foxsteps_,	1
 WDT_RB
 that_expertly	1
+JJ_PRP$
+interested_my	1
 TO_DT
 to_the	4
 to_that	1
@@ -575,7 +524,7 @@ to_a	1
 CC_IN
 and_that	1
 or_at	2
-and_in	1
+and_in	2
 but_as	1
 and_while	1
 and_over	1
@@ -587,8 +536,6 @@ are_excellent	1
 are_brief	1
 adore_available	1
 are_remarkable	1
-,_VBZ
-,_is	2
 VBN_NN
 performed_work	1
 JJ_NNS
@@ -612,15 +559,9 @@ great_Strauss	1
 great_John	1
 VBN_PRP
 considered_myself	1
-''_CC
-'_or	1
 IN_WP
 in_what	1
 of_whom	1
-,_CC
-,_and	12
-,_but	6
-,_plus	1
 VB_NN
 do_justice	1
 VB_NNP
@@ -630,13 +571,13 @@ dance_soloists	1
 dozen_times	1
 aspect_satisfies	1
 supporting_ladies	1
-,_CD
-,_one	1
+NNS_NNS
+foxsteps_quicktrots	1
+women_dancers	1
 NN_NNP
 sister_U.K.	1
 DVD_Deutsche	1
-NN_''
-decadence_'	1
+conductor_Heinrich	1
 VBG_PRP
 altering_it	1
 DT_RB
@@ -649,9 +590,9 @@ the_really	1
 a_little	1
 A_rarely	1
 an_headily	1
-VBN_JJ
-filmed_ballet	1
-photographed_ballet	1
+NNP_POS
+Potiphar_'s	2
+VPO_'s	1
 PRP$_NNS
 my_comments	1
 my_B-speakers	1
@@ -663,17 +604,17 @@ like_simpler	1
 that_more	1
 IN_JJS
 at_least	3
-,_PRP$
-,_my	1
-,_its	1
 NN_PRP
 Supposing_we	1
+dance_I	1
 music_I	1
-way_he	1
 production_he	1
+world_HE	1
+way_he	1
 time_I	1
 IN_RB
 of_achingly	1
+whether_variously	1
 over_again	1
 VBD_JJ
 was_musical	1
@@ -681,26 +622,24 @@ VBN_DT
 judged_an	1
 JJ_DT
 vivid_the	1
-VBP_PRP
-need_it	1
-CC_DT
-plus_the	1
-and_any	1
-and_the	4
-but_the	1
-IN_CC
-over_and	1
-VBZ_,
-is_,	2
-looks_,	1
+RB_CC
+pretty_and	1
+well_and	1
+:_PRP
+;_it	2
 NNS_IN
 times_over	1
 whiffs_of	1
+soloists_of	1
 expressions_of	1
 B-speakers_if	1
 roles_of	1
 ideas_for	1
 lots_of	1
+NN_VBN
+action_provided	1
+music_captured	1
+assessment_used	1
 NNS_VBP
 ladies_are	1
 images_are	1
@@ -710,8 +649,8 @@ close-ups_are	1
 critics_have	1
 WP_RB
 who_first	1
-WP$_NN
-whose_music	1
+VB_VBG
+be_setting	1
 VBG_DT
 buying_this	1
 acquiring_an	1
@@ -727,36 +666,29 @@ and_simplicity	1
 and_confirmatory	1
 RB_RBR
 even_better	1
-,_DT
-,_a	2
-,_the	4
+IN_CC
+over_and	1
 VBP_VBN
 have_seen	1
 have_tended	1
 have_got	1
-NN_CC
-piece_and	1
-dream_and	1
-brevity_and	1
-role_and	1
-sound_and	1
-A_+	1
+NNP_VBZ
+Jamison_puts	1
+Jamison_is	1
+Haigen_appears	1
+Neumeier_is	1
+Potiphar_is	1
 CD_VBZ
 00440-073-4315_is	1
-VB_,
-do_,	1
-see_,	1
 :_CC
 ;_and	1
 CC_VB
 and_see	1
 and_watch	1
+and_let	1
 NNS_DT
 productions_a	1
-POS_JJ
-'s_first	1
-'s_sulky	1
-'s_poor	1
+robes_the	1
 IN_.
 over_!	1
 for_.	1
@@ -791,18 +723,24 @@ NN_NN
 art_deco	1
 concert_suite	1
 camera_work	1
+s_immense	1
+orchestra_s	1
 s_playing	1
 s_sister	1
 title_role	1
-s_immense	1
+user_s	1
 immense_talent	1
 s_review	1
 stage_view	1
 bit_hifalutin	1
 s_choreography	1
 theatre_piece	1
-NNP_''
-Legende_''	1
+NN_PDT
+loveliness_all	1
+POS_JJ
+'s_first	1
+'s_sulky	1
+'s_poor	1
 NNP_WP$
 Strauss_whose	1
 VBP_VBG
@@ -837,11 +775,6 @@ as_Potiphar	1
 that_Judith	1
 WDT_PRP
 which_I	1
-,_JJ
-,_up-close	1
-,_erotic	1
-,_EX
-,_there	1
 WP_PRP
 what_I	1
 who_he	1
@@ -907,36 +840,22 @@ moods_and	1
 VBG_RB
 signifying_very	1
 being_very	1
-VB_VBG
-be_setting	1
-NN_,
-dance_,	1
-viewing_,	1
-loincloth_,	1
-world_,	1
-music_,	2
-being_,	1
-story_,	1
-completeness_,	1
-fury_,	1
-score_,	2
-DVD_,	1
-delay_,	1
-loveliness_,	1
-voluptuousness_,	1
-context_,	1
-manner_,	1
-dancing_,	1
-work_,	1
-liner_,	1
-view_,	3
-conductor_,	1
-playing_,	1
-hifalutin_,	1
-``_NN
-`_music	2
-`_decadence	1
-`_s	5
+IN_JJ
+in_good	1
+with_wonderful	1
+of_male	1
+on_lavish	1
+of_interesting	1
+of_classical	1
+in_long	1
+on_first	1
+de_ballet	1
+through_much	1
+As_dance-narrative	1
+without_further	1
+Among_such	1
+of_exemplary	1
+of_sexual	1
 NN_.
 dancing_.	1
 dance_.	1
@@ -978,6 +897,7 @@ standard_of	1
 show_until	1
 music_in	1
 physique_on	1
+view_whether	2
 detail_in	1
 music_of	1
 expert_on	1
@@ -988,6 +908,7 @@ DVD_over	1
 forlorn_at	1
 review_for	1
 arousal_that	1
+delay_on	1
 lover_of	1
 music_as	1
 model_of	1
@@ -1000,20 +921,41 @@ JJR_NNS
 simpler_routines	1
 WDT_VBZ
 which_is	2
-,_PDT
-,_all	1
-PDT_DT
-all_the	1
+CC_DT
+plus_the	1
+and_any	1
+and_the	4
+but_the	1
+RB_RB
+very_often	1
+as_well	3
+not_very	1
+else_entirely	1
+exceedingly_well	1
+very_well	1
 IN_TO
 than_to	1
 NNS_PRP
 criticisms_I	1
+visuals_I	1
 suits_me	1
-NNP_VBZ
-Jamison_puts	1
-Jamison_is	1
-Haigen_appears	1
-Neumeier_is	1
+NN_CC
+piece_and	1
+score_but	1
+dream_and	1
+hifalutin_but	1
+liner_and	1
+score_and	1
+brevity_and	1
+being_and	1
+voluptuousness_and	1
+role_and	1
+completeness_but	1
+decadence_or	1
+story_and	1
+sound_and	1
+DVD_and	1
+A_+	1
 VB_JJ
 collect_recorded	1
 view_many	1
@@ -1031,16 +973,16 @@ to_obtain	1
 to_seduce	1
 to_make	1
 NN_VBG
+loincloth_revealing	1
+work_altering	1
+fury_signifying	1
 effect_being	1
 RB_MD
 surely_must	1
-NN_``
-user_`	1
-orchestra_`	1
 NN_CD
 career_1977	1
-VBD_,
-wanted_,	1
+:_IN
+-_so	1
 NN_VBZ
 participant_is	1
 choreography_is	1
@@ -1053,20 +995,22 @@ wife_spurns	1
 narrative_is	1
 viewer_wants	1
 effect_comes	1
+story_is	1
 music_has	1
 standard_has	1
 dance_has	1
 story-line_does	1
 video_is	1
-story_is	1
+context_is	1
 wife_is	1
-,_VB
-,_let	1
-''_NN
-''_music	1
+NNP_VBG
+Hollreiser_being	1
 NNP_VBD
 Neumeyer_choreographed	1
+VBD_IN
+wanted_without	1
 PRP_CC
+herself_but	1
 it_or	1
 him_but	1
 RB_PRP
@@ -1084,6 +1028,7 @@ review_just	1
 talent_as	1
 dancer_already	1
 dance-acting_surely	1
+music_simply	1
 sound_probably	1
 work_as	1
 something_else	1
@@ -1091,10 +1036,6 @@ choreography_almost	1
 bar_very	1
 MD_TO
 ought_to	1
-PRP_.
-me_.	1
-us_.	1
-it_.	1
 JJ_IN
 experienced_as	1
 much_of	1
@@ -1103,24 +1044,17 @@ inept_at	1
 erotic_in	1
 available_on	1
 such_like	1
+ballet_as	1
+ballet_in	1
 confusing_at	1
 naked_through	1
-VBD_VBG
-was_looking	1
 JJS_VBN
 best_photographed	2
 VBG_JJ
 being_artistic	1
-NNP_POS
-Potiphar_'s	2
-VPO_'s	1
-RB_RB
-very_often	1
-as_well	3
-not_very	1
-else_entirely	1
-exceedingly_well	1
-very_well	1
+NN_JJ
+video_ballet	1
+playing_luxurious	1
 VBZ_DT
 catches_the	1
 provides_a	1
@@ -1130,13 +1064,8 @@ captures_the	1
 's_a	1
 is_all	1
 makes_any	1
-NN_VBN
-action_provided	1
-assessment_used	1
 CD_NN
 1914_conception	1
-:_PRP
-;_it	2
 VBZ_NNP
 IS_FABULOUS	1
 NNP_NNP
@@ -1148,6 +1077,7 @@ Josephs_Legende	1
 I._Taylor	1
 Deutsche_Grammophon	1
 Heinrich_Hollreiser	1
+Joseph_Potiphar	1
 John_Neumeyer	2
 Richard_Strauss	1
 Kevin_Haigen	2
@@ -1163,8 +1093,10 @@ already_has	1
 surely_has	1
 almost_makes	1
 expertly_captures	1
-NNS_NNS
-women_dancers	1
+NN_PRP$
+dancing_its	1
+:_RB
+-_pretty	1
 RB_JJ
 nearly_naked	1
 highly_adept	1
@@ -1190,11 +1122,14 @@ n't_deathless	1
 very_high	1
 simply_huge	1
 drammatically_apt	1
+variously_up-close	1
 very_complicated	1
 rarely_inspired	1
 not_hard	1
 JJ_VBZ
 ballet_is	1
+NN_JJR
+view_more	1
 VB_PRP
 collect_it	1
 let_me	1
@@ -1238,9 +1173,12 @@ VB_CD
 be_one	1
 see_2	1
 VB_CC
+see_and	1
 cherish_and	1
 NNP_DT
+FABULOUS_a	1
 Otain_this	1
+Strauss_the	1
 RB_VBD
 later_made	1
 first_had	1
@@ -1260,23 +1198,16 @@ and_to	1
 VBN_TO
 stripped_to	1
 tended_to	1
-,_WDT
-,_which	2
-,_NNP
-,_Strauss	1
-,_Potiphar	1
-,_Heinrich	1
-CC_NNP
-but_Neumeier	1
+VBG_NNP
+viewing_Josephs	1
 CC_NNS
 and_expressions	1
-,_NNS
-,_quicktrots	1
 JJ_JJ
-classical_ballet	1
-youthful_male	1
 bare_biblical	1
+youthful_male	1
 poor_unsatisfied	1
+aesthetic_erotic	1
+classical_ballet	1
 long_white	1
 TO_WDT
 to_which	1
@@ -1284,8 +1215,6 @@ CD_TO
 one_to	1
 VB_RP
 make_up	1
-PRP_:
-her_;	1
 NN_WP
 angel_who	1
 VBZ_TO

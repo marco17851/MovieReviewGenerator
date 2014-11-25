@@ -1,14 +1,12 @@
 IN_NN
 of_nudity	1
 in_someone	1
-,_IN
-,_except	1
-PRP_RB
-he_barely	1
 VBN_VBN
 been_done	1
-,_PRP
-,_he	1
+PRP_RB
+he_barely	1
+NN_WDT
+latina_which	1
 VBZ_JJ
 is_different	1
 's_interesting	1
@@ -16,6 +14,8 @@ PRP_IN
 it_at	1
 RBR_JJ
 more_dialogue-related	1
+NNS_DT
+people_those	1
 VBG_.
 considering_.	1
 WRB_PRP
@@ -27,8 +27,6 @@ that_it	2
 beyond_me	1
 until_it	1
 that_he	1
-''_.
-''_.	1
 POS_NN
 's_murder	1
 TO_NN
@@ -59,8 +57,6 @@ this_film	1
 the_truth	1
 DT_VBZ
 that_is	1
-``_NNS
-``_geniuses	1
 PRP_VBP
 they_think	1
 they_'re	1
@@ -78,8 +74,6 @@ it_does	1
 it_'s	2
 NNP_CC
 Tweed_or	1
-DT_``
-the_``	1
 RB_IN
 hardly_in	1
 Even_though	1
@@ -93,16 +87,9 @@ PRP_.
 it_.	1
 :_NN
 ..._Nothing	1
-PRP_,
-me_,	1
 IN_PRP$
 that_his	1
 though_his	1
-NNS_''
-geniuses_''	1
-IN_JJ
-of_decent	1
-than_actual	1
 IN_IN
 except_that	1
 in_that	1
@@ -121,11 +108,8 @@ VBN_IN
 done_in	1
 NNS_.
 films_.	1
+geniuses_.	1
 visuals_.	1
-NNS_,
-times_,	1
-people_,	1
-scenes_,	1
 RP_PRP$
 up_their	1
 JJ_NNS
@@ -136,14 +120,14 @@ results_in	1
 is_that	1
 is_beyond	1
 is_in	1
-,_CC
-,_but	4
 NN_NNS
+marketing_geniuses	1
 sex_scenes	1
 DT_RB
 a_comparatively	1
 NN_PRP
 price_it	1
+cover_he	1
 VBN_DT
 got_a	1
 VBP_IN
@@ -156,8 +140,8 @@ really_pushing	1
 PRP_MD
 I_'d	1
 I_will	1
-,_DT
-,_those	1
+NN_CC
+film_but	1
 JJS_IN
 most_of	1
 VBZ_RBR
@@ -169,8 +153,6 @@ NN_NN
 sex_life	1
 skin_collector	1
 cash_cow	1
-,_WDT
-,_which	1
 IN_NNS
 at_times	1
 IN_NNP
@@ -178,8 +160,6 @@ that_Mario	1
 of_Shannon	1
 DT_NNP
 those_Hollywood	1
-''_IN
-''_in	1
 DT_JJ
 a_hot	1
 a_supporting	1
@@ -188,13 +168,14 @@ a_good	1
 the_female	1
 NN_:
 murder_...	1
+NNS_CC
+scenes_but	1
+times_but	1
 VBZ_VB
 does_get	1
-NN_,
-film_,	1
-story_,	1
-latina_,	1
-cover_,	1
+IN_JJ
+of_decent	1
+than_actual	1
 NN_.
 movie_.	1
 genre_.	1
@@ -204,9 +185,11 @@ role_in	1
 buy_for	1
 number_of	1
 life_until	1
+amount_of	1
+star_in	1
 handful_of	1
 truth_of	1
-amount_of	1
+story_except	1
 fact_that	1
 WDT_VBZ
 which_is	1
@@ -221,8 +204,6 @@ to_say	1
 to_note	1
 NN_VBG
 nudity_considering	1
-NN_``
-marketing_``	1
 NN_VBZ
 name_is	1
 couple_wants	1
@@ -234,6 +215,10 @@ RB_RB
 really_too	1
 probably_already	1
 barely_even	1
+PRP_CC
+me_but	1
+DT_JJS
+the_biggest	1
 NN_RB
 Nothing_really	1
 JJ_IN
@@ -250,8 +235,6 @@ spice_up	1
 VBZ_DT
 is_a	2
 has_a	1
-``_JJS
-``_biggest	1
 NNP_NNS
 Whirry_films	1
 NNP_NNP
@@ -269,8 +252,6 @@ VBZ_VBN
 's_got	1
 RB_VBN
 already_been	1
-NN_''
-star_''	1
 VBG_DT
 pushing_the	1
 JJS_NN

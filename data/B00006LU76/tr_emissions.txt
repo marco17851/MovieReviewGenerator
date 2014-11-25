@@ -18,8 +18,6 @@ JJ_NN_CC
 good_online_but	1
 NN_MD_VB
 incompatibility_might_occur	1
-,_RB_NN
-,_so_incompatibility	1
 IN_VBG_VBD
 That_being_said	1
 PRP_VBD_IN
@@ -32,12 +30,12 @@ VBN_VBG_IN
 been_searching_for	1
 VBP_VBN_VBG
 have_been_searching	1
-DT_NN_,
-the_money_,	1
 JJ_CC_RB
 OK_but_not	1
 RB_NN_MD
 so_incompatibility_might	1
+CC_RB_PRP
+and_now_I	1
 DT_NN_IN
 the_value_of	1
 No_structure_on	1
@@ -47,14 +45,12 @@ MD_VB_DT
 would_be_a	1
 DT_VBZ_DT
 This_is_some	1
-VBP_VBN_PRP
-have_found_it	1
-PRP_,_RB
-it_,_simply	1
-JJ_,_PRP
-ok_,_it	1
-,_RB_IN
-,_so_for	1
+NN_PRP_VBP
+quality_I_give	1
+VBG_VBD_DT
+being_said_this	1
+JJ_PRP_VBZ
+ok_it_'s	1
 NN_NN_.
 wing_chun_.	1
 NN_IN_PRP
@@ -71,8 +67,6 @@ DT_NN_.
 the_money_.	1
 this_DVD_.	1
 this_style_.	1
-JJ_NN_,
-overall_quality_,	1
 JJ_NN_.
 poor_show_.	1
 perfect_world_.	1
@@ -87,19 +81,25 @@ RB_RB_JJ
 simply_not_worth	1
 now_really_poor	1
 Not_very_good	1
+DT_NN_NNP
+the_money_Quality	1
 NNP_NNP_NNS
 Wing_Chun_basics	1
 VBG_DT_NNS
 demonstrating_some_aspects	1
 IN_JJ_NN
 for_overall_quality	1
+VBN_NN_RB
+pressed_DVD_so	1
+NNP_NNP_VBZ
+Master_Goldberg_has	1
 NN_VBD_NN
 inkjet_printed_cover	1
 NNP_NN_.
 VHS_master_.	1
 Poor_audio_.	1
-NNP_NNP_VBZ
-Master_Goldberg_has	1
+PRP_RB_RB
+it_simply_not	1
 IN_DT_NN
 than_a_inkjet	1
 for_the_money	1
@@ -121,8 +121,8 @@ NN_VBZ_JJ
 footage_is_historic	1
 MD_VB_JJR
 Could_be_better	1
-,_NNP_VBZ
-,_Quality_is	1
+JJ_RB_IN
+historic_so_for	1
 VBZ_DT_RB
 has_a_very	1
 DT_JJS_NN
@@ -133,8 +133,6 @@ NN_IN_NNP
 Dvd_on_Wing	1
 NN_NN_VBD
 DVD_cover_looked	1
-VBG_VBD_,
-being_said_,	1
 VBG_IN_DT
 searching_for_an	1
 DT_NNS_.
@@ -147,8 +145,6 @@ NN_RB_DT
 DVD-R_not_a	1
 VBZ_JJ_CC
 is_OK_but	1
-VBD_,_DT
-said_,_this	1
 VBN_PRP_.
 found_it_.	1
 VBD_JJ_NN
@@ -159,17 +155,15 @@ DT_NN_PRP
 the_price_I	1
 NNP_NNP_.
 Wing_Chun_.	1
-DT_CD_,
-this_one_,	1
 DT_CD_.
 a_4_.	1
 VBZ_DT_IN
 is_all_about	1
 is_some_of	1
-,_PRP_VBP
-,_I_give	1
-,_PRP_VBZ
-,_it_'s	1
+NN_RB_NN
+DVD_so_incompatibility	1
+DT_CD_PRP
+this_one_It	1
 CC_PRP_VBZ
 but_it_is	1
 CC_NN_VBZ
@@ -180,16 +174,14 @@ NN_IN_WDT
 understanding_on_what	1
 RB_RB_.
 First_off_.	1
-IN_PRP_,
-for_it_,	1
+VBZ_JJ_PRP
+'s_ok_it	1
 JJR_IN_DT
 more_than_a	2
 IN_NN_NN
 of_wing_chun	1
 VBZ_RB_CD
 's_only_30	1
-RB_JJ_,
-not_great_,	1
 PDT_DT_JJ
 all_the_martial	1
 JJ_IN_DT
@@ -198,8 +190,6 @@ informative_as_this	1
 DT_NN_NN
 a_home_video	1
 The_DVD_cover	1
-,_RB_RB
-,_simply_not	1
 NNS_PRP_VBP
 DVDs_I_buy	1
 PRP_MD_VB
@@ -207,18 +197,16 @@ I_would_say	1
 It_would_be	1
 RB_IN_JJ
 so_for_overall	1
-NN_,_PRP
-quality_,_I	1
 DT_VBN_NN
 a_pressed_DVD	1
 PRP_VBZ_JJ
 It_'s_ok	1
-JJ_,_NNP
-great_,_Master	1
-,_PRP_MD
-,_It_would	1
+NN_NN_VBZ
+wing_chun_is	1
 DT_IN_DT
 some_of_the	1
+VBD_DT_VBZ
+said_this_is	1
 VBN_IN_DT
 seen_of_this	1
 VBD_RB_JJ
@@ -226,8 +214,6 @@ were_as_informative	1
 NN_NN_IN
 home_video_with	1
 DVD_rip_of	1
-,_NNP_NNP
-,_Master_Goldberg	1
 RB_JJ_NN
 very_good_understanding	1
 really_poor_show	1
@@ -240,6 +226,8 @@ a_DVD-R_not	1
 PRP_VBP_PRP
 I_give_it	1
 I_believe_it	1
+NN_NNP_VBZ
+money_Quality_is	1
 RB_DT_VBN
 not_a_pressed	1
 PRP_VBP_VBN
@@ -260,21 +248,21 @@ IN_DT_CD
 as_this_one	1
 DT_JJ_NNS
 the_martial_arts	1
+JJ_NN_PRP
+overall_quality_I	1
 NNS_IN_NN
 aspects_of_wing	1
 MD_VB_IN
 might_occur_on	1
 would_say_that	1
-CC_RB_PRP
-and_now_I	1
+VBZ_JJ_RB
+is_historic_so	1
 JJ_NN_IN
 informative_Dvd_on	1
 good_understanding_on	1
 NN_JJR_IN
 nothing_more_than	1
 Nothing_more_than	1
-,_DT_VBZ
-,_this_is	1
 PRP_VBZ_RB
 it_'s_basically	1
 it_'s_only	1
@@ -298,6 +286,8 @@ DT_VBZ_IN
 This_comes_as	1
 NNS_VBN_.
 topics_covered_.	1
+IN_PRP_RB
+for_it_simply	1
 VBP_PRP_VBZ
 believe_it_'s	1
 RB_JJ_DT
@@ -313,10 +303,12 @@ DT_NNS_IN
 some_aspects_of	1
 IN_PRP_VBP
 that_I_have	1
-VBN_NN_,
-pressed_DVD_,	1
-CD_,_PRP
-one_,_It	1
+VBP_VBN_PRP
+have_found_it	1
+RB_JJ_NNP
+not_great_Master	1
+CD_PRP_MD
+one_It_would	1
 JJ_DT_NN
 worth_the_money	1
 PRP$_NNS_VBG
@@ -325,12 +317,10 @@ RB_CD_NNS
 only_30_minutes	1
 CC_PRP$_NNS
 and_his_students	1
-NN_,_RB
-DVD_,_so	1
 NNP_VBZ_JJ
 Quality_is_OK	1
-NN_,_NNP
-money_,_Quality	1
+JJ_NNP_NNP
+great_Master_Goldberg	1
 IN_RB_RB
 for_now_really	1
 DT_RB_JJ
@@ -339,21 +329,14 @@ NNS_CC_RB
 basics_and_now	1
 DT_NNP_NN
 a_VHS_master	1
-NN_NN_VBZ
-wing_chun_is	1
 VBD_IN_PRP
 paid_for_it	1
 CD_NNS_RB
 30_minutes_long	1
-VBZ_JJ_,
-is_historic_,	1
-'s_ok_,	1
 JJS_NN_IN
 best_footage_that	1
 IN_NNS_VBN
 on_topics_covered	1
-JJ_,_RB
-historic_,_so	1
 NN_CC_PRP$
 Master_and_his	1
 DT_JJ_NN

@@ -4,8 +4,6 @@ as_NOIR	1
 in_color	1
 of_money	1
 that_amazon	1
-,_IN
-,_if	1
 NNP_WDT
 Niro_which	1
 NNP_IN
@@ -29,6 +27,8 @@ CC_RB
 and_not	1
 JJ_CC
 predictable_&	1
+JJ_RB
+clever_not	1
 IN_PRP
 that_it	1
 if_you	2
@@ -75,10 +75,6 @@ Aika_or	1
 RB_IN
 really_in	1
 especially_if	1
-,_RB
-,_then	1
-,_especially	1
-,_not	2
 VBP_RB
 Do_n't	1
 RB_VB
@@ -90,11 +86,6 @@ we_show	1
 NNP_.
 Fun_.	1
 XXX_.	1
-NN_,
-series_,	1
-stuff_,	1
-money_,	1
-HOwever_,	1
 IN_IN
 in_that	1
 FW_NN
@@ -105,8 +96,6 @@ CC_VBG
 &_beginning	1
 VBG_NN
 opening_credit	1
-JJ_,
-clever_,	1
 JJ_.
 funny_.	1
 bluish_.	1
@@ -134,8 +123,9 @@ for_how	1
 NN_IN
 review_that	1
 note_that	1
-ghost_in	1
+HOwever_if	1
 waste_of	1
+ghost_in	1
 ie_if	1
 commentary_in	1
 america_about	1
@@ -165,8 +155,8 @@ MD_VB
 would_love	1
 VB_VBN
 be_rated	2
-VB_CC
-show_and	1
+VBG_DT
+including_this	1
 PRP_MD
 it_might	1
 NNS_VBD
@@ -223,7 +213,10 @@ not_just	1
 as_well	1
 Not_as	1
 NN_RB
+money_especially	1
 service_really	1
+series_not	1
+stuff_then	1
 JJ_IN
 Cheap_in	1
 juvenile_that	1
@@ -245,8 +238,8 @@ very_cheap	1
 quite_mediocre	1
 very_clever	1
 pretty_good	1
-VBG_DT
-including_this	1
+VB_CC
+show_and	1
 RB_PRP
 then_it	1
 VBN_NNP

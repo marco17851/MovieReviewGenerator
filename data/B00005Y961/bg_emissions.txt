@@ -1,8 +1,6 @@
 POS_NNP
 's_Reel	1
 's_Farewell	1
-,_IN
-,_At	1
 :_JJ
 :_90-minute	1
 NN_CC
@@ -22,6 +20,8 @@ NN_PRP
 video_itself	1
 MD_NN
 can_dust	1
+NNP_IN
+Goodin_At	1
 VBG_CC
 fingering_and	1
 PRP_WRB
@@ -41,6 +41,8 @@ Elseck_'s	1
 America_'s	1
 Anne_'s	1
 Devil_'s	1
+POS_NN
+'s_Dream	1
 NN_RB
 video_Now	1
 IN_VBN
@@ -52,13 +54,6 @@ fiddlers_shows	1
 PRP_MD
 You_'ll	1
 you_can	1
-NNP_,
-Down_,	1
-Goodin_,	1
-Reel_,	1
-Blossom_,	1
-Traveller_,	1
-Annie_,	1
 VBG_JJ
 playing_easy	1
 PRP_:
@@ -67,32 +62,38 @@ PRP$_NN
 your_fiddle	1
 CC_RB
 and_finally	1
-CC_VBG
-or_continuing	1
+NN_JJ
+instrument_proper	1
+bow_correct	1
 VB_.
 play_!	1
 JJ_CC
 double-stops_and	1
 easy_and	1
-NNS_TO
-solos_to	1
 JJ_VBG
 correct_fingering	1
 IN_.
 At_.	1
 NNP_NNP
+Reel_Orange	1
 Blackberry_Blossom	1
 Cabbaeg_Down	1
 B'ile_Them	1
+Annie_Devil	1
 Sally_Goodin	1
 Them_Cabbaeg	1
 Orange_Blossom	1
+Down_Arkansas	1
+Traveller_Blackberry	1
+Blossom_Ragtime	1
 Arkansas_Traveller	1
 Ragtime_Annie	1
-JJ_,
-Special_,	1
 VBG_PRP$
 continuing_your	1
+CC_VBG
+or_continuing	1
+NNS_JJ
+riffs_double-stops	1
 VBN_IN
 stated_on	1
 WDT_MD
@@ -100,8 +101,6 @@ that_will	1
 NN_NN
 video_lesson	1
 bluegrass_fiddle	1
-NNS_,
-riffs_,	1
 VB_TO
 start_to	1
 learn_to	1
@@ -115,16 +114,14 @@ NNS_:
 tunes_:	1
 IN_NNP
 of_America	1
-POS_NN
-'s_Dream	1
+NN_CD
+lesson_one	1
 RB_PRP
 Now_you	1
 :_NNP
 :_Sally	1
-,_JJ
-,_proper	1
-,_double-stops	1
-,_correct	1
+NNS_TO
+solos_to	1
 DT_JJ
 these_hot	1
 this_90-minute	1
@@ -136,6 +133,8 @@ VBZ_PRP
 shows_you	1
 JJS_NNS
 hottest_fiddlers	1
+JJ_NNP
+Special_B'ile	1
 CD_IN
 one_of	1
 DT_NN
@@ -146,19 +145,8 @@ the_instrument	1
 that_fiddle	1
 POS_JJS
 's_hottest	1
-,_NNP
-,_Arkansas	1
-,_Devil	1
-,_B'ile	1
-,_Orange	1
-,_Blackberry	1
-,_Ragtime	1
 NNP_JJ
 Blossom_Special	1
-NN_,
-bow_,	1
-instrument_,	1
-lesson_,	1
 VB_NN
 make_starting	1
 NN_.
@@ -167,8 +155,6 @@ NN_NNS
 fiddle_tunes	1
 CC_NNP
 and_Elseck	1
-,_CD
-,_one	1
 NN_IN
 use_of	1
 dust_off	1

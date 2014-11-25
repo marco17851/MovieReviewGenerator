@@ -19,14 +19,15 @@ TO_IN_JJS
 to_at_least	1
 VB_RB_CC
 bog_down_and	1
+PRP_CC_EX
+it_and_there	1
 JJ_NN_NNS
 western_action_scenes	1
 NNP_NN_VBN
 Wayne_movie_titled	1
 NN_DT_NN
 point_the_film	1
-DT_NN_,
-this_movie_,	1
+trunk_the_movie	1
 NN_NN_RB
 story_doe_not	1
 VBD_RB_VB
@@ -41,6 +42,8 @@ MD_VB_DT
 might_like_another	1
 DT_JJ_JJ
 some_good_western	1
+JJ_NN_JJ
+okay_plot_excellent	1
 VBD_DT_NNS
 found_these_movies	1
 NN_WDT_VBZ
@@ -53,24 +56,23 @@ NN_VBD_RB
 plot_was_n't	1
 NN_JJ_NN
 gimmick-a_hollow_tree	1
-NN_NN_.
-camp_value_.	1
-Desert_Trail_.	1
+CD_NN_DT
+one_point_the	1
 IN_CD_NN
 At_one_point	1
 JJ_IN_NN
 excellent_for_camp	1
-NN_VBN_``
-movie_titled_``	1
+IN_PRP_CC
+in_it_and	1
 NN_IN_DT
 trunk_in_the	1
 factor_of_all	1
 middle_of_a	1
 road_in_a	1
-NN_,_DT
-trunk_,_the	1
-JJ_NN_,
-okay_plot_,	1
+RB_NNS_VBP
+However_times_have	1
+POS_TO_VB
+'s_to_be	1
 JJ_NN_.
 western_town_.	1
 decent_movie_.	1
@@ -80,9 +82,8 @@ bad_speaker_that	1
 VBZ_IN_PRP
 sounds_like_they	1
 is_that_it	1
-VB_DT_JJ
-have_some_good	1
-like_another_early	1
+NN_NN_DT
+tree_trunk_the	1
 NNP_NNP_NNP
 The_Star_Packer	1
 PRP_VBP_.
@@ -111,10 +112,6 @@ even_scrolls_.	1
 JJ_NN_IN
 disappointing_factor_of	1
 Disappointing_use_of	1
-,_CC_EX
-,_and_there	1
-NNS_,_JJ
-media_,_okay	1
 IN_CC_VBD
 though_and_seemed	1
 NN_IN_NNS
@@ -123,12 +120,8 @@ VBG_IN_PRP
 riding_in_it	1
 PDT_DT_JJ
 all_that_bad	1
-,_JJ_IN
-,_excellent_for	1
-PRP_,_CC
-it_,_and	1
-``_NN_NN
-``_Desert_Trail	1
+IN_NNS_JJ
+of_media_okay	1
 JJ_NNP_NN
 early_Wayne_movie	1
 RB_JJ_.
@@ -137,6 +130,8 @@ DT_NN_VBZ
 the_sound_is	1
 A_westrern_has	1
 the_movie_is	1
+DT_NN_PRP
+this_movie_you	1
 PRP_VBZ_IN
 it_'s_on	1
 It_sounds_like	1
@@ -160,16 +155,19 @@ NN_RB_VB
 doe_not_bog	1
 PRP_MD_RB
 You_ca_n't	1
+VB_DT_JJ
+have_some_good	1
+like_another_early	1
 RB_VB_NN
 n't_have_TV	1
 n't_understand_half	1
-IN_PRP_,
-in_it_,	1
+NN_IN_NN
+couple_of_horse	1
 IN_NN_NN
 for_camp_value	1
 of_horse_chase	1
-VBN_``_NN
-titled_``_Desert	1
+NN_PRP_MD
+movie_you_might	1
 WDT_VBZ_DT
 which_includes_a	1
 CD_NN_NN
@@ -181,18 +179,16 @@ NN_NNS_WDT
 action_scenes_which	1
 NN_JJ_NNS
 film_even_scrolls	1
-NN_,_PRP
-movie_,_you	1
 JJ_JJ_NN
 good_western_action	1
-,_PRP_MD
-,_you_might	1
 MD_RB_VB
 ca_n't_understand	1
 VBD_TO_IN
 seemed_to_at	1
 CC_VBD_TO
 and_seemed_to	1
+VBN_NN_NN
+titled_Desert_Trail	1
 DT_NNS_TO
 these_movies_to	1
 NN_CC_DT
@@ -201,8 +197,6 @@ NN_VBG_IN
 horse_riding_in	1
 NN_NN_IN
 tree_trunk_in	1
-IN_NNS_,
-of_media_,	1
 DT_JJ_IN
 that_bad_though	1
 IN_NN_CC
@@ -234,22 +228,16 @@ VB_VB_IN
 Please_realize_that	1
 JJ_NN_NN
 hollow_tree_trunk	1
-,_NNS_VBP
-,_times_have	1
 VBZ_RB_DT
 is_actually_a	1
+NN_VBN_NN
+movie_titled_Desert	1
 NN_VBZ_JJ
 sound_is_terrible	1
 NN_RB_JJ
 movie_still_worth	1
 NN_VBZ_RB
 movie_is_actually	1
-,_JJ_NN
-,_okay_plot	1
-RB_,_NNS
-However_,_times	1
-NN_IN_NN
-couple_of_horse	1
 PRP_VBD_DT
 I_found_these	1
 NNP_VBZ_CD
@@ -283,6 +271,8 @@ DT_NNS_VBD
 these_b-westerns_were	1
 NNS_VBP_VBN
 times_have_changed	1
+NN_JJ_IN
+plot_excellent_for	1
 IN_PRP_VBP
 If_you_like	1
 PRP_VBP_DT
@@ -296,10 +286,10 @@ NN_NN_NNS
 horse_chase_scenes	1
 POS_CC_DT
 's_and_the	1
+NNS_JJ_NN
+media_okay_plot	1
 PRP_MD_VB
 you_might_like	1
-NN_._''
-Trail_._''	1
 DT_RBS_JJ
 The_most_disappointing	1
 VB_NN_POS
@@ -312,8 +302,6 @@ NNS_WDT_VBZ
 scenes_which_includes	1
 VBZ_JJ_.
 is_terrible_.	1
-NN_,_JJ
-plot_,_excellent	1
 DT_CD_POS
 the_1930_'s	1
 RB_PDT_DT
@@ -329,18 +317,13 @@ PRP_VBD_RP
 they_recorded_off	1
 WDT_VBZ_VBG
 that_keeps_popping	1
-POS_TO_VB
-'s_to_be	1
-NN_NN_,
-tree_trunk_,	1
 RB_CC_VBZ
 down_and_keeps	1
 TO_VB_RB
 to_be_extremely	1
-CD_NN_DT
-one_point_the	1
-,_DT_NN
-,_the_movie	1
+NN_NN_.
+camp_value_.	1
+Desert_Trail_.	1
 DT_NN_JJ
 the_film_even	1
 RB_PRP_VBP

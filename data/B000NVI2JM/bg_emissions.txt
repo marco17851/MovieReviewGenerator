@@ -8,13 +8,9 @@ of_baby	1
 into_slavery	1
 into_retirement	1
 for_someone	1
-,_IN
-,_because	1
 PRP_RB
 He_also	1
 it_now	1
-``_JJ
-``_actuarial	1
 NNP_IN
 General_of	1
 RBR_CC
@@ -23,10 +19,10 @@ VBG_CC
 rising_and	1
 CC_JJ
 and_grand	1
-``_UH
-``_Yeah	1
 MD_RB
 ca_n't	1
+RB_NNS
+Sadly_democracies	1
 VB_DT
 minimize_the	1
 watch_this	1
@@ -39,33 +35,24 @@ leave_the	1
 afford_the	1
 effect_the	1
 see_this	1
+worry_the	1
 force_all	1
 have_a	1
 give_a	1
-DT_.
-all_.	1
 WRB_DT
 when_the	1
 RB_TO
 else_to	1
 not_to	1
-RB_,
-much_,	1
-there_,	1
-Unfortunately_,	1
-Sadly_,	1
+PDT_DT
+All_the	1
 RB_.
 now_.	1
-,_PRP
-,_he	2
-,_I	1
-,_you	1
 VBZ_JJ
+is_no-one	1
 becomes_eligible	1
 is_free	1
 is_unsustainable	1
-''_DT
-''_the	1
 NN_TO
 care_to	1
 medicare_to	1
@@ -89,10 +76,8 @@ last_50	1
 PRP$_JJ
 our_over-burdened	1
 our_national	1
-,_``
-,_``	2
-NNP_DT
-U.S._the	1
+WDT_MD
+that_can	1
 IN_PRP
 that_they	1
 than_we	1
@@ -114,12 +99,8 @@ listen_to	1
 afford_to	1
 VBZ_CD
 has_one	1
-IN_VBG
-after_viewing	1
-,_NN
-,_bub	1
-``_CC
-``_but	1
+CD_NN
+one_generation	1
 RB_JJR
 much_worse	1
 PRP_VBD
@@ -135,6 +116,8 @@ CD_NNS
 50_years	1
 60_minutes	1
 535_members	1
+PRP_PRP
+him_he	1
 NNP_NN
 BIGGEST_generation	1
 U.S._economy	1
@@ -166,6 +149,8 @@ the_doctor	3
 DT_VBZ
 this_is	1
 This_is	1
+UH_PRP
+Yeah_you	1
 NNS_RB
 generations_particularly	1
 problems_much	1
@@ -203,10 +188,6 @@ WRB_PRP$
 When_my	1
 WP_MD
 what_will	1
-,_''
-,_''	3
-DT_``
-an_``	1
 RB_IN
 heavily_on	1
 long_as	1
@@ -215,8 +196,6 @@ VBG_IN
 coming_into	1
 paying_for	1
 tottering_with	1
-,_RB
-,_much	1
 DT_CD
 all_535	1
 CC_PRP
@@ -238,8 +217,6 @@ PRP_.
 him_.	1
 it_.	3
 them_.	1
-PRP_,
-him_,	1
 IN_PRP$
 on_our	2
 for_their	1
@@ -247,12 +224,6 @@ with_your	1
 of_my	1
 In_our	1
 by_our	1
-IN_JJ
-for_unprecedented	1
-of_old	1
-for_many	1
-NNP_,
-Walker_,	1
 NNP_.
 Walker_.	1
 Munny_.	1
@@ -279,10 +250,8 @@ deal_with	1
 Hold_on	1
 pay_for	1
 bear_on	1
-``_VBP
-``_Do	1
-JJ_,
-right_,	1
+JJ_PRP
+right_he	1
 JJ_.
 free_.	2
 unsustainable_.	1
@@ -292,9 +261,10 @@ VBD_RB
 was_just	1
 chose_not	1
 NN_DT
+care_the	1
 retirement_an	1
-PDT_DT
-All_the	1
+IN_VBG
+after_viewing	1
 VBN_IN
 caused_by	1
 observed_for	1
@@ -306,8 +276,8 @@ children_.	1
 years_.	1
 clients_.	1
 grandchildren_.	1
-RB_WP
-just_what	1
+JJ_VBZ
+no-one_is	1
 TO_DT
 to_some	1
 VBD_NNS
@@ -316,9 +286,10 @@ VBZ_.
 exists_.	1
 VBP_JJ
 're_right	1
-VBZ_,
-is_,	1
-says_,	1
+RB_WP
+just_what	1
+RB_NN
+there_bub	1
 NNS_TO
 reforms_to	1
 people_to	1
@@ -349,8 +320,6 @@ VBG_RBR
 living_longer	1
 VB_NNS
 vote_benefits	1
-CD_NN
-one_generation	1
 VB_NN
 cover_prescription	1
 have_reform	1
@@ -361,9 +330,8 @@ care_costs	1
 prescription_drugs	1
 baby_boomers	1
 NN_NNP
+interview_Walker	1
 message_Mr.	1
-:_``
-:_``	1
 RB_VBN
 already_made	1
 well_done	1
@@ -376,15 +344,25 @@ your_Senators	1
 my_clients	1
 their_children	2
 our_children	1
-CC_NN
-and_health	1
-or_remorse	1
+RB_NNP
+Unfortunately_David	1
+PRP_MD
+it_could	1
+You_'ll	1
+they_can	2
+we_can	2
+I_could	1
+You_can	1
+We_ca	1
 VBG_NNP
 contradicting_David	1
 thinking_American	1
 NN_PRP
 TV_you	1
 something_I	1
+bub_I	1
+walker_I	1
+accountant_he	1
 VB_PRP$
 secure_your	1
 VBD_PRP$
@@ -401,8 +379,10 @@ according_to	1
 going_to	2
 VBP_PRP
 wish_I	1
-JJ_VBZ
-no-one_is	1
+CC_DT
+but_this	1
+and_the	2
+but_the	1
 MD_VB
 could_force	1
 should_see	1
@@ -431,18 +411,13 @@ VBG_DT
 viewing_this	1
 NNS_VBZ
 points_is	1
-PRP_MD
-it_could	1
-You_'ll	1
-they_can	2
-we_can	2
-I_could	1
-You_can	1
-We_ca	1
+CC_NN
+and_health	1
+or_remorse	1
 VBP_IN
 agree_with	1
-,_DT
-,_the	1
+NNP_DT
+U.S._the	1
 VBP_VBN
 've_observed	1
 have_voted	2
@@ -453,8 +428,6 @@ Walker_calls	1
 Walker_is	2
 Walker_says	1
 Walker_has	1
-VB_,
-worry_,	1
 NNS_VBG
 boomers_coming	1
 people_leaning	1
@@ -471,13 +444,8 @@ keep_rising	1
 VBZ_NN
 hits_retirement	1
 states_something	1
-UH_,
-Yeah_,	1
 TO_JJ
 to_senior	1
-``_PRP
-``_It	1
-``_We	2
 VBD_TO
 needed_to	1
 offered_to	1
@@ -500,27 +468,23 @@ DT_NNP
 the_BIGGEST	1
 the_U.S.	2
 the_Comptroller	1
-,_JJ
-,_no-one	1
-,_previous	1
 VB_WRB
 happen_when	1
 DT_JJ
 the_real	1
-a_wry	1
 a_true	1
 the_political	1
 a_sobering	1
 the_smart	1
-the_first	1
+a_wry	1
 a_mandatory	1
 the_current	1
+an_actuarial	1
+the_first	1
 the_last	1
 the_massive	1
 VBD_DT
 told_the	1
-``_VB
-``_Hold	1
 NN_:
 youtube_...	1
 CC_WP
@@ -531,21 +495,14 @@ Senators_and	1
 citizens_and	1
 installments_and	1
 children_and	2
-._''
-._''	6
 VBD_PRP
 missed_it	1
 VBD_VBG
 was_receiving	1
-NN_,
-care_,	1
-interview_,	1
-accountant_,	1
-walker_,	1
-case_,	1
-doctor_,	1
-bub_,	1
-grin_,	1
+IN_JJ
+for_unprecedented	1
+of_old	1
+for_many	1
 NN_.
 interview_.	1
 slavery_.	1
@@ -561,20 +518,19 @@ prescription_for	1
 watch_if	1
 part_of	1
 fan_of	1
-REPORT_on	1
 bill_for	1
+future_at	1
+REPORT_on	1
 story_of	1
 conversation_with	1
-future_at	1
+doctor_because	1
 generation_of	1
 video_on	1
 equivalent_of	1
 system_in	1
 impact_on	1
-CC_DT
-but_this	1
-and_the	2
-but_the	1
+:_PRP
+:_We	1
 NNS_IN
 benefits_for	1
 children_into	1
@@ -590,6 +546,7 @@ NN_CC
 film_and	1
 video_but	1
 budget_but	1
+grin_but	1
 remorse_but	1
 retirement_and	1
 accountability_or	1
@@ -633,9 +590,11 @@ taxpayer_needs	1
 pressure_is	1
 VBD_.
 replied_.	1
-NNP_VBD
-Clinton_made	1
-Congress_chose	1
+RB_RB
+much_much	1
+only_as	1
+very_well	1
+as_long	1
 VBD_IN
 replied_with	1
 was_in	1
@@ -645,8 +604,6 @@ NN_VBP
 generation_have	1
 NNS_:
 years_:	1
-``_DT
-``_The	1
 VBG_RB
 leaning_heavily	1
 presenting_so	1
@@ -656,16 +613,13 @@ problem_still	1
 JJ_IN
 aware_of	1
 eligible_for	1
-''_PRP
-''_he	1
-''_I	1
+DT_.
+all_.	1
 VBG_JJ
 offering_unlimited	1
 receiving_medical	1
-RB_RB
-only_as	1
-very_well	1
-as_long	1
+NN_JJ
+case_previous	1
 VBZ_DT
 is_a	2
 calls_the	1
@@ -679,6 +633,7 @@ President_Clinton	1
 Mr._Walker	1
 Comptroller_General	1
 Dr._E.	1
+Walker_President	1
 Z._Munny	1
 David_Walker	3
 VBZ_NNS
@@ -688,8 +643,6 @@ still_exists	1
 also_states	1
 NN_PRP$
 reform_our	1
-WDT_MD
-that_can	1
 DT_WDT
 those_that	1
 RB_JJ
@@ -713,6 +666,9 @@ health_care	3
 baby_boomer	1
 care_system	1
 BOOK_REPORT	1
+NNP_VBD
+Clinton_made	1
+Congress_chose	1
 TO_NNP
 to_Dr.	1
 to_Walker	1
@@ -724,6 +680,8 @@ RP_IN
 out_that	1
 NNS_NN
 nations_chief	1
+VBZ_PRP
+says_We	1
 VBN_CC
 done_and	1
 resigned_but	1
@@ -732,17 +690,11 @@ brought_to	1
 voted_to	1
 VB_RB
 last_only	1
-,_NNP
-,_Walker	1
-,_President	1
-,_David	1
 VBD_NN
 expanded_medicare	1
 CC_NNS
 and_grandchildren	1
 and_Congressmen	1
-,_NNS
-,_democracies	1
 NNP_TO
 Congress_to	1
 VB_RP

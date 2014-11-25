@@ -36,20 +36,15 @@ CC	1
 IN	1
 NN
 NN	3
-,	3
 .	4
 TO	3
-PRP	1
+WDT	1
+PRP	2
 RB	2
-IN	8
+IN	9
 VBZ	1
 DT	1
 NNS	1
-,
-DT	1
-PRP	1
-RB	1
-IN	1
 .
 TO
 VB	4
@@ -62,16 +57,16 @@ RB
 VB	1
 VBG	1
 VBD	1
-,	1
+RB	1
 IN	1
 VBZ	1
 NNS
 VBD	1
 CC	1
 WP	1
-,	1
 VBP	1
 IN	3
+DT	1
 NNP
 NN	1
 .	1

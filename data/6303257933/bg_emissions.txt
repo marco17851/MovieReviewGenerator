@@ -28,6 +28,7 @@ in_appearance	1
 like_anime	1
 in_love	2
 In_Bloodlust	1
+as_Candy	1
 with_yokel	1
 with_cel	1
 on_vampire	1
@@ -73,6 +74,7 @@ because_D	1
 for_money	1
 for_screen	1
 like_rain	1
+of_Ghost	1
 of_voice	1
 of_everyone	1
 with_ease	1
@@ -124,6 +126,7 @@ and_able	1
 and_impressive	1
 or_alternate	1
 and_fine	1
+and_everyday	1
 and_Victorian	1
 and_great	1
 and_other	1
@@ -154,15 +157,6 @@ close_to	1
 VBN_:
 recommended_--	1
 perused_;	1
-VBP_,
-Hand_,	2
-see_,	1
-come_,	1
-IN_``
-that_``	1
-as_``	1
-of_``	3
-in_``	1
 VBP_.
 Hand_.	1
 disagree_.	1
@@ -188,15 +182,6 @@ developed_.	1
 faulted_.	1
 created_.	1
 turned_.	1
-VBN_,
-conflicted_,	1
-turned_,	1
-expected_,	2
-kidnapped_,	1
-looked_,	1
-made_,	1
-developed_,	1
-subdued_,	1
 VB_JJR
 have_more	1
 see_more	1
@@ -205,12 +190,9 @@ which_may	1
 CC_TO
 and_to	2
 or_to	1
-VB_TO
-compare_to	1
-belong_to	1
-want_to	1
-get_to	1
-have_to	1
+DT_PRP
+all_it	1
+this_she	1
 VBZ_CD
 remains_one	1
 is_one	3
@@ -220,6 +202,7 @@ employs_both	1
 NNS_WDT
 ones_that	1
 hunters_that	2
+scenes_which	1
 backgrounds_that	1
 shots_that	1
 collections_which	1
@@ -243,8 +226,6 @@ RP_.
 up_.	1
 off_.	3
 over_.	1
-RP_,
-off_,	1
 VBN_JJ
 found_little	1
 rendered_inaudible	1
@@ -276,20 +257,32 @@ who_looks	1
 who_hunts	1
 who_lives	1
 NNP_CC
-Noble_and	1
-Kikuchi_and	1
-Leila_and	1
-Onkyo_or	1
-Dunpeal_and	1
+Century_and	1
+Shell_or	1
+Animatrix_and	1
 Romeo_and	1
+Denon_or	1
+Charlotte_and	1
+Onkyo_or	1
+Dracula_and	1
+Meier_and	1
+Scroll_but	1
+City_and	1
+Noble_and	1
+Scroll_and	1
+Leila_and	2
+Bloodlust_but	1
+Dunpeal_and	1
 MOnonoke_or	1
 McConnohie_and	1
-Meier_and	1
 Kawajiri_and	1
-Denon_or	1
-DiMaggio_and	1
-City_and	1
+Leila_plus	1
+D_but	1
+Kikuchi_and	1
 Philpot_and	1
+English_and	1
+Carmilla_and	1
+DiMaggio_and	1
 NNP_CD
 Dolby_5.1	1
 Golgo_13	1
@@ -316,8 +309,10 @@ most_beautiful	1
 JJS_CC
 least_and	1
 best_and	1
+best_but	1
 :_NN
 --_hunting	1
+-_Ghost	1
 --_D	1
 :_Bloodlust	9
 ..._Way	1
@@ -349,9 +344,11 @@ with_his	2
 of_its	1
 that_my	1
 for_his	2
-NNS_''
-Illusions_''	1
-serials_''	1
+NN_VB
+posturing_gore	1
+allegiance_save	1
+WP_.
+what_?	1
 VBD_PDT
 isnt_all	1
 IN_WDT
@@ -408,40 +405,40 @@ imagine_that	1
 move_around	1
 know_until	1
 do_with	1
+comment_on	1
 learn_that	1
 wait_for	1
 speed_on	1
-keep_in	1
+think_at	1
 recommend_that	1
 go_through	1
 deny_that	1
 seem_like	1
 blend_of	2
+get_so	1
 turn_into	1
 note_that	1
 Set_about	1
 look_at	1
 work_on	1
 be_that	1
-struggle_against	1
+keep_in	1
 Search_For	1
 be_if	1
 compare_with	1
-comment_on	1
+struggle_against	1
 be_in	1
 flee_in	1
 think_of	1
 look_like	1
 save_for	1
 participate_in	1
-''_TO
-''_to	1
-MD_IN
-could_of	1
 JJ_PRP
+satisfied_it	1
+interesting_they	1
+violent_it	1
+unique_it	1
 general_you	1
-,_''
-,_''	3
 VBD_RB
 was_as	1
 did_n't	4
@@ -465,16 +462,35 @@ was_just	2
 came_away	1
 had_also	1
 NN_DT
-notch_The	1
-japan_the	1
-abducted_a	1
-doubt_a	1
+competition_the	1
+castle_the	1
+sotry_the	1
+movie_this	1
+plot_some	1
 point_the	1
 film_a	1
 character_some	1
-love_the	1
 film_the	1
+D_a	1
+print_a	1
+dhampir_a	1
+notch_The	1
+girl_a	1
+predecessor_the	1
+abducted_a	1
+series_this	1
+future_the	1
+world_a	1
+treatment_the	1
+doubt_a	1
+guy_the	1
+love_the	1
 wit_this	1
+art_the	1
+reward_a	1
+japan_the	1
+form_the	1
+town_a	1
 VBN_JJR
 shown_more	1
 WDT_RB
@@ -517,24 +533,40 @@ exteme_lengths	1
 dispell_curses	1
 protect_humans	1
 VB_NNP
-catch_Link	1
+reinforce_D	1
+expect_Bloodlust	1
 rescue_Charlotte	1
 thank_God	1
+catch_Link	1
 intercept_Meier	1
-reinforce_D	1
-FW_VB
-i_watch	1
+think_Ultra	1
+NNS_NNP
+nightmares_D	1
+companies_Urban	1
+moments_Yoshiaki	1
+faults_Vampire	1
 NNS_NNS
+animes_Japanese	1
+eyes_lots	1
 spaghetti_westerns	1
+tanks_knives	1
+midgets_werewolves	1
 VBG_JJR
 wanting_more	1
 inducing_more	1
 JJS_JJ
 least_story-wise	1
 greatest_final	1
-RB_FW
-away_!!!!	1
-well_i	1
+VBD_JJ
+was_watchable	1
+was_good	1
+was_interesting	1
+was_great	1
+was_breathtaking	1
+was_perfect	1
+proved_essential	1
+was_accurate	1
+was_nice	1
 VBP_TO
 seem_to	2
 go_to	1
@@ -555,15 +587,12 @@ its_powers	1
 my_friends	2
 her_limbs	1
 his_efforts	1
-CC_:
-but_--	1
 RB_NNP
+However_Andy	1
 only_Leila	1
-actually_Dracula	1
+even_Sailor	1
 almost_Romeo	1
-,_PRP$
-,_his	1
-,_her	1
+actually_Dracula	1
 JJS_DT
 least_this	1
 IN_RB
@@ -590,6 +619,7 @@ seen_the	1
 got_some	1
 given_the	1
 hired_the	1
+developed_the	1
 considered_the	1
 revealed_the	1
 seen_a	1
@@ -606,6 +636,8 @@ do_it	1
 give_us	1
 !!!_I	1
 watch_it	1
+DT_EX
+all_there	1
 CC_NN
 and_exposition	1
 and_D	3
@@ -630,6 +662,7 @@ and_action	2
 and_supperb	1
 and_loneliness	1
 and_production	1
+or_dhampir	1
 &_plot	1
 and_direction	1
 and_style	1
@@ -640,14 +673,6 @@ CD_VBZ
 5.1_mixes	1
 one_is	2
 two_is	1
-VB_,
-admit_,	2
-watch_,	1
-succeed_,	1
-think_,	2
-get_,	1
-begin_,	1
-translate_,	1
 VB_.
 follow_.	1
 change_.	1
@@ -674,25 +699,22 @@ close_to	1
 appropriate_to	1
 true_to	1
 NNS_JJ
+flaws_common	1
+capes_blood-soaked	1
+cracks_cheesy	1
+vines_astral	1
+halls_sweeping	1
+features_lush	1
+difficulties_common	1
+palaces_dark	1
 friends_interested	1
 powers_reminiscent	1
-flaws_common	1
-difficulties_common	1
-cracks_cheesy	1
-FW_NNP
-!!!!_Total	1
+serials_such	1
+crosses_enormous	1
+MD_IN
+could_of	1
 RP_CD
 off_two	1
-NNP_''
-Bloodust_''	1
-D._''	1
-Deathchase_''	1
-Barbaroy_''	1
-Shell_''	2
-Bloodlust_''	2
-D_''	3
-VBG_:
-dudding_...	1
 DT_NNS
 the_coattails	1
 the_shadows	1
@@ -783,6 +805,7 @@ by_Wendee	1
 than_Princess	1
 on_Streamline	1
 on_Halloween	1
+that_Vampire	1
 on_Hideyuki	1
 as_Bloodlust	1
 of_Kikuchi	1
@@ -790,7 +813,7 @@ of_Kawajiri	1
 by_John	1
 than_Toyoo	1
 by_Yoshitaka	2
-of_Vampire	1
+of_Vampire	2
 by_Andrew	1
 by_Kawajiri	1
 in_English	2
@@ -814,6 +837,7 @@ than_Anime	1
 by_Hideyuki	2
 between_Meier	1
 by_Urban	1
+in_Vampire	1
 as_Solomon	1
 by_Hangul	1
 like_Castlevania	1
@@ -835,6 +859,8 @@ the_Baron	1
 the_Barbarois	1
 a_Dunpeal	2
 the_Sci-Fi	1
+The_Barbaroy	1
+no_Pioneer	1
 the_Ninja	1
 an_English	1
 the_Vampire	1
@@ -848,6 +874,7 @@ another_Vampire	1
 a_Noble	1
 the_Marcus	4
 the_Shell	3
+a_Top	1
 the_Count	1
 the_Dunpeal	2
 a_Castlevania	1
@@ -890,38 +917,50 @@ ingrained_the	1
 CC_WP
 but_what	1
 NNS_CC
+liners_but	1
 Menus_and	1
+juggernauts_and	1
+languages_but	1
+twists_but	1
 flaws_and	1
 fans_and	1
 knives_and	1
 mantas_and	1
-twists_and	1
+scenes_and	1
+misfits_and	1
 replacements_and	1
+motivations_and	1
 days_and	1
-limbs_and	1
+twists_and	1
 devils_but	1
-curses_and	1
+sides_but	1
+limbs_and	1
 environments_and	1
 sequences_and	1
+features_and	1
+machines_and	1
+visuals_and	1
 designs_and	2
+times_and	1
 situations_and	1
 characters_and	1
 dreams_and	1
 players_and	1
 trailers_and	1
+curses_and	1
+issues_and	1
 backgrounds_and	1
 vampires_and	2
 ways_but	1
 graphics_and	1
 crosses_and	1
-misfits_and	1
-''_VBZ
-''_is	5
-''_unfolds	1
-''_does	1
-VBN_PRP
-watched_it	1
-gotten_me	1
+JJR_IN
+more_like	1
+better_than	3
+tougher_than	1
+more_than	1
+more_of	2
+better_if	1
 VBP_IN
 combine_for	1
 have_about	1
@@ -934,59 +973,80 @@ have_that	1
 consist_of	1
 reject_from	1
 NN_CC
+line_and	1
 protection_and	1
+culture_but	1
+yard_or	1
 computer_and	1
 isolation_and	1
-consciousness_and	1
+thing_or	1
+time_and	1
 relief_and	1
 blood_'n'	1
 music_and	1
 protagonist_and	1
-vampire_and	1
-D_and	3
-movie_and	3
+vampire_and	2
+D_and	4
+hearing_or	1
+movie_and	4
 player_or	1
 plot_and	2
-violence_and	1
+violence_and	2
+style_but	1
+Candy_or	1
 incident_and	1
 enforcer_and	1
 king_and	1
-night_but	1
+DVD_but	1
 score_and	1
+twist_and	1
+night_and	1
 justice_and	1
-thing_or	1
+trip_but	1
 opening_&	1
 detail_and	1
 story_and	3
 anime_but	1
 style_and	2
 dunpeal_or	1
+blood_and	1
 alienation_and	1
-animation_and	5
+animation_and	7
+animation_but	1
+imaging_but	1
+antagonist_and	1
 projection_and	1
 action_and	3
+technology_and	1
 artwork_and	1
-blood_and	1
+tearjerker_and	1
 emotion_and	1
 mysticism_and	1
 dvd_and	1
+mind_and	1
 magic_and	1
+world_and	1
 voice_and	1
 love_and	1
 adventure_and	1
 history_or	1
+consciousness_and	1
 hand_and	1
-anime_or	1
-world_and	1
+atmosphere_and	1
+night_but	1
 acting_and	1
 hunt_and	2
+film_but	1
 dialogue_and	1
 time_&	1
 knowledge_and	1
 evil_and	1
-atmosphere_and	1
+movie_but	1
+dialogue_but	1
+anime_or	2
 dialogue_or	1
 JJ_FW
+good_i	1
 amazing_!!!	1
 DT_JJS
 the_finest	1
@@ -999,18 +1059,26 @@ DT_WP
 those_who	4
 NN_JJ
 story_wise	1
+anime_complete	1
 Art_wise	1
+animation_gothic	1
+s_main	1
 movie_ill	1
+force_such	1
 badass_anti-vampire	1
 parasite_funny	1
 bit_loose-tongued	1
+loneliness_tragic	1
+town_complete	1
 post_apocalyptic	2
 pace_typical	1
-town_complete	1
+sheriff_airborne	1
+hair_sharp	1
 bit_confusing	1
 RB_EX
 However_there	1
 NNP_NNS
+D_movies	1
 D_collections	1
 Kawajiri_features	1
 Hangul_subtitles	1
@@ -1024,6 +1092,7 @@ Demon_Deathchase	2
 Michael_McShane	2
 Kaneto_Shiozawa	1
 Dwight_Schultz	1
+Carmilla_D	1
 Meier_Link	7
 John_Rafter	2
 Total_Perfection	1
@@ -1032,8 +1101,11 @@ AND_NEITHER	1
 !!!_Now	1
 Marcus_Bros.	2
 Rices_Interview	1
+Amano_Vampire	1
 Princess_Mononoke	1
+Plus_Carmilla	1
 The_Vampire	1
+Hollow_Anne	1
 John_DiMaggio	1
 Urban_Vision	5
 The_Animatrix	1
@@ -1048,6 +1120,7 @@ Princess_MOnonoke	1
 Anne_Rices	1
 With_The	1
 Pamela_Adlon	1
+Vengeance_The	1
 Ninja_Scroll	7
 M._Night	1
 Andy_Philpot	1
@@ -1098,6 +1171,8 @@ better_;	1
 ;_however	1
 -_well	1
 ..._Absolutely	1
+NN_JJR
+Way_better	1
 VBD_VB
 did_notice	1
 CC_EX
@@ -1107,9 +1182,12 @@ but_there	1
 JJR_.
 better_.	1
 more_.	2
-VBN_CC
-rushed_and	1
-produced_and	1
+VB_TO
+compare_to	1
+belong_to	1
+want_to	1
+get_to	1
+have_to	1
 VBN_TO
 supposed_to	1
 payed_to	1
@@ -1219,35 +1297,11 @@ VBN_CD
 made_fifteen	1
 VB_WP
 see_who	1
-JJS_TO
-best_to	1
+UH_DT
+Okay_the	1
 RB_WRB
 especially_when	1
 So_when	1
-RB_,
-Still_,	3
-dramatically_,	1
-long_,	1
-frankly_,	1
-apart_,	1
-too_,	1
-smoothly_,	1
-However_,	8
-alike_,	1
-though_,	1
-over_,	1
-altogether_,	1
-Herein_,	1
-slowly_,	1
-forward_,	1
-Also_,	1
-then_,	1
-well_,	2
-stylistically_,	1
-however_,	1
-here_,	2
-again_,	2
-Overall_,	1
 RB_.
 there_.	1
 However_!	1
@@ -1262,20 +1316,22 @@ over_.	1
 rather_.	1
 before_.	2
 well_.	3
-CD_CC
-one_and	1
-13_and	1
 NNPS_CC
 Brothers_and	1
 NNS_DT
 friends_all	1
 compliments_the	1
+brothers_a	1
 suits_a	1
 characters_all	1
+moves_the	1
 scenes_the	1
 grafics_a	1
-cranks_the	1
 things_all	1
+cranks_the	1
+novels_the	1
+efforts_this	1
+faces_a	1
 RB_:
 simply_:	1
 back_--	1
@@ -1333,6 +1389,7 @@ as_we	1
 as_he	2
 after_I	1
 around_him	1
+ago_I	1
 if_you	4
 for_it	1
 although_you	1
@@ -1355,24 +1412,21 @@ although_I	1
 that_I	2
 before_he	1
 though_I	1
+about_it	1
 if_she	3
 that_he	1
 so_I	2
 that_you	1
 of_it	2
+Though_it	1
 So_ya	1
 through_it	1
 if_he	1
 that_it	4
 with_it	1
-about_it	1
-''_.
-''_.	1
-''_,
-''_,	2
-,_FW
-,_i	3
-,_isnt	1
+because_I	1
+NNS_VB
+sounds_deserve	1
 :_NNS
 --_limbs	1
 VBG_WRB
@@ -1420,6 +1474,7 @@ a_reject	1
 all_have	2
 The_remember	1
 DT_NN
+the_X	1
 The_set	1
 the_antagonist	1
 The_world	1
@@ -1602,6 +1657,7 @@ the_principle	1
 an_anime	1
 an_opportunity	1
 the_problem	1
+The_camera	1
 a_lot	7
 the_rest	1
 the_situation	1
@@ -1744,14 +1800,9 @@ FW_PRP
 !!!!_It	1
 VBP_EX
 wish_there	2
-IN_,
-ago_,	1
-out_,	1
-from_,	1
-Though_,	1
-in_,	1
-that_,	1
-because_,	1
+PRP_:
+it_--	1
+him_...	1
 IN_.
 of_.	1
 on_.	1
@@ -1765,8 +1816,6 @@ i_cant	1
 Ninja_Scrolls	1
 MD_VBD
 would_looked	1
-``_DT
-``_The	1
 PRP_.
 me_.	1
 them_.	1
@@ -1774,10 +1823,6 @@ him_?	1
 you_.	1
 her_.	1
 it_.	7
-PRP_,
-her_,	2
-ya_,	1
-it_,	4
 NNP_WDT
 Deathchase_which	1
 CC_VBZ
@@ -1806,6 +1851,10 @@ up_to	4
 out_to	1
 NNP_PRP
 !!!!!_you	1
+God_he	1
+Bloodlust_I	1
+Castlevania_it	1
+Link_he	1
 CC_VBD
 and_felt	1
 and_was	1
@@ -1817,44 +1866,6 @@ and_illustrated	1
 and_threatened	1
 and_Left	1
 and_hated	1
-JJ_,
-extraordinary_,	1
-dark_,	2
-third_,	1
-over-used_,	1
-right_,	1
-straight-forward_,	1
-tall_,	1
-alright_,	1
-rare_,	1
-satisfied_,	1
-hard-bitten_,	1
-bloody_,	1
-clumsy_,	1
-short_,	1
-praiseworthy_,	1
-particular_,	1
-righteous_,	1
-breathtaking_,	1
-violent_,	1
-interesting_,	2
-Novel_,	1
-compelling_,	1
-stomach-turning_,	1
-great_,	2
-Strong_,	2
-half-human_,	1
-original_,	4
-handsome_,	1
-unique_,	1
-rapid_,	1
-rough_,	1
-sober_,	1
-good_,	5
-story-wise_,	1
-kinetic_,	1
-unlikely_,	1
-tough_,	1
 JJ_.
 awesome_!	1
 cool_.	1
@@ -1898,11 +1909,12 @@ weak_.	2
 entertaining_.	1
 different_.	1
 VBN_NNP
-encountered_Vampire	1
 named_Carmilla	1
-produced_Hollywood	1
-named_Charlotte	1
+encountered_Vampire	1
 named_Meier	1
+named_Charlotte	1
+kidnapped_Charlotte	1
+produced_Hollywood	1
 RBS_RB
 most_well	1
 :_VB
@@ -1912,7 +1924,8 @@ annoyed_that	1
 faced_with	1
 overshadowed_with	1
 drawn_into	1
-made_in	1
+expected_although	1
+made_in	2
 done_with	1
 stated_in	1
 made_of	1
@@ -1960,6 +1973,7 @@ hidden_in	1
 mentioned_in	1
 made_from	1
 colored_by	1
+subdued_with	1
 taken_against	1
 delved_into	1
 illustrated_by	1
@@ -1969,16 +1983,17 @@ emerged_as	1
 drawned_by	1
 combined_with	1
 shot_on	1
-VBD_JJ
-was_watchable	1
-was_good	1
-was_interesting	1
-was_great	1
-was_breathtaking	1
-was_perfect	1
-proved_essential	1
-was_accurate	1
-was_nice	1
+CC_IN
+But_if	1
+and_out	1
+but_at	1
+But_in	3
+or_if	1
+but_if	1
+And_despite	1
+and_for	2
+But_along	1
+but_after	1
 JJ_:
 watchable_;	1
 perfect_-	1
@@ -1998,10 +2013,11 @@ with_all	2
 of_all	1
 for_all	1
 in_all	1
-CD_``
-two_``	1
+CC_:
+but_--	1
 JJ_WDT
 superb_that	1
+clumsy_which	1
 NN_NNS
 hunting_vampires	1
 zombie_attacks	1
@@ -2010,11 +2026,13 @@ storyline_developments	1
 romance_serials	1
 background_scenes	1
 action_shots	1
+vampire-slaying_antiheroes	1
+camera_moves	1
 plot_twists	1
 DVD_players	2
 exercise_years	1
 cast_members	1
-vampire-slaying_antiheroes	1
+end_things	1
 CG_grafics	1
 anime_films	3
 vampire_hunters	5
@@ -2023,6 +2041,7 @@ cape_billows	1
 buff_guys	1
 game_moves	1
 set_designs	1
+future_vampires	1
 voice_actors	3
 character_designs	2
 castelvania_games	1
@@ -2052,26 +2071,32 @@ bounty_hunters	1
 NNPS_VBP
 Extras_contain	1
 NN_NNP
+way_Yoshiaki	1
+group_Bargoff	1
+adaptation_Vampire	1
+novel_Demon	1
+buying_Vampire	1
 vampire_Meier	1
-sister_Leila	1
 addition_Solomon	1
-empress_Carmilla	1
-director_Kawajiri	1
-lord_Meier	1
-designer_Yutaka	1
+fact_John	1
+distributor_Urban	1
 lady_Charlotte	1
 vampire_Baron	1
+sequel_Bloodlust	1
+speech_English	1
+woman_Charlotte	1
+empress_Carmilla	1
+director_Kawajiri	1
+daughter_Charlotte	1
+designer_Yutaka	1
+look_Vampire	1
 brother_Alan	1
-NNPS_POS
-Brothers_'	1
-JJR_``
-better_``	1
-''_RB
-''_once	1
-:_``
--_``	1
-,_WRB
-,_when	1
+sister_Leila	2
+lord_Meier	1
+CD_CC
+one_and	1
+13_and	1
+one_but	1
 IN_JJR
 of_lesser	1
 on_older	1
@@ -2094,6 +2119,7 @@ JJR_NN
 more_character	1
 earlier_anime	1
 lesser_quality	1
+better_adaptation	1
 greater_accuracy	1
 more_time	1
 more_quality	1
@@ -2103,12 +2129,10 @@ more_emotion	1
 bleaker_storyline	1
 older_DVD	1
 more_romance	1
-RB_``
-not_``	1
-even_``	1
 POS_VBN
 's_produced	1
 RP_NNS
+off_heads	1
 up_ghosts	1
 PRP_MD
 I_would	1
@@ -2171,10 +2195,10 @@ Its_an	1
 RBR_NN
 louder_score	1
 Less_sword	1
-NNS_VBD
-fans_were	1
-sequences_left	1
-movies_were	1
+NNS_JJS
+talks_most	1
+NNS_JJR
+fights_more	1
 IN_NNPS
 from_Americans	1
 EX_VBZ
@@ -2187,119 +2211,123 @@ There_are	2
 there_are	4
 JJS_:
 best_--	1
-CC_``
-and_``	1
-or_``	2
 NN_NN
-grave_yard	1
-ta_love	1
-anime_adaptation	1
-scene_construction	1
 theatrical_trailer	1
-art_work	1
 style_film	1
-vampire_empress	1
-anime_protagonist	1
-hunter_D	1
 voice_track	1
 Character_design	1
 science_fiction	1
 yokel_sheriff	1
-video_game	1
-character_animation	1
-vampire_king	1
-drug_trip	1
-voice_actor	1
-world_director	1
-gun_mix	1
-face_thing	1
-vampire_thing	1
+language_track	2
 theater_!!!!	1
-exposition_D	1
-quality_work	1
-lover_subplot	1
 cowboy_look	1
-principle_villainess	1
-stranger_D	1
-talking_hand	1
-antagonist_complex	1
-quality_video	1
-rewatch_value	1
-anime_distributor	1
-fight_scene	1
-vampire_lover	1
-version_trailer	1
-passing_resemblance	1
-VHD_anime	1
-ground_information	1
 halloween_tradition	1
-ultra_cool	1
-animation_piece	1
-vampire_tale	1
+anime_distributor	1
+vampire_undead	1
+version_trailer	1
+VHD_anime	1
+loneliness_discrimination	1
 art_form	1
+bit_silly	1
+quality_DVD	1
+cult_classic	2
+character_development	2
+video_game	1
+anime_style	1
+cell_animation	1
 action/adventure_thrillride	1
 advertisement_content	1
-bit_silly	1
-source_material	1
-competition_D	1
-language_track	2
-quality_DVD	1
-Character_designer	1
+grave_yard	1
+scene_construction	1
+art_work	1
+ground_information	1
+drug_trip	1
+voice_actor	1
+gun_mix	1
+exposition_D	1
+lover_subplot	1
+stranger_D	1
+rewatch_value	1
+ultra_cool	1
+breed_anime	1
 living_parasite	1
-vampire_magic	1
-vampire_undead	1
 vampire_action/adventure	1
-anime_film	2
-anime_movie	3
 anime_fan	1
-cult_classic	2
-voice_acting	2
-character_development	2
+art_everything	1
+vampire_lord	1
+story_line	2
+character_animation	1
+protagonist_complex	1
+equivalent_something	1
+talking_hand	1
+Character_designer	1
+hunter_D	1
+work_GEORGEOUS	1
+vampire_king	1
+world_director	1
+face_thing	1
+quality_work	1
+principle_villainess	1
+quality_video	1
+fight_scene	1
+passing_resemblance	1
+source_material	1
+vampire_lover	1
+anime_movie	3
+vampire_tale	1
 action_anime	1
 eye_candy	1
-anime_style	1
+antagonist_complex	1
+supperb_voice-acting	1
+A-Team_van	1
+parasite_hand	1
+anime_adaptation	1
+vampire_empress	1
+anime_protagonist	1
+time_D	1
+X_feature	1
+character_D	1
+anime_film	2
+vampire_thing	1
+animation_piece	1
+ta_love	1
+vampire_magic	1
+Bloodlust_s	1
+voice_acting	2
 cel_animation	1
 screen_time	1
-vampire_lord	1
-cell_animation	1
-story_line	2
-supperb_voice-acting	1
-breed_anime	1
-A-Team_van	1
+competition_D	1
 DVD_player	1
-protagonist_complex	1
 barbell_hair	1
 RP_RB
 up_slowly	1
 out_here	1
 out_nicely	1
 NNS_RB
+characters_even	1
 characters_also	1
-characters_almost	1
+characters_almost	2
 tones_however	1
 films_ever	1
+antiheroes_out	1
 moments_as	1
 ages_very	1
 elements_also	1
+scenes_beautifully	1
 movies_really	1
 clashes_visually	1
 villians_though	1
-antiheroes_out	1
+movies_however	1
+games_sometimes	1
 decades_later	1
 billows_dramatically	1
 years_apart	1
 minutes_away	1
 newcomers_alike	1
-CD_''
-Ten_''	1
 EX_VBD
 there_were	1
 there_was	2
 There_was	1
-JJS_,
-best_,	1
-,_EX
-,_there	3
 DT_JJ
 a_Japanese	3
 a_fantastic	2
@@ -2323,6 +2351,7 @@ the_essential	1
 the_sophisticated	1
 a_great	5
 no_Japanese	1
+The_Confusing	1
 the_young	2
 an_olden	1
 the_notorious	1
@@ -2401,7 +2430,7 @@ an_amazing	1
 the_very	1
 the_slow	1
 the_much-needed	1
-the_mutant	1
+a_young	2
 The_chatty	1
 the_only	1
 a_mid-range	1
@@ -2450,7 +2479,7 @@ a_little	2
 a_wooden	1
 a_rich	1
 the_big	2
-a_young	2
+the_mutant	1
 The_moral	1
 a_nulear	1
 the_righteous	2
@@ -2475,6 +2504,7 @@ was_better	1
 was_more	1
 saw_more	1
 NN_IN
+review_so	1
 something_that	1
 watch_for	1
 vampire_that	1
@@ -2485,7 +2515,7 @@ addition_in	1
 kind_of	1
 sunlight_for	1
 accuracy_than	1
-parasite_of	1
+book_like	1
 elaborateness_of	1
 story_as	1
 execution_as	1
@@ -2505,8 +2535,9 @@ track_In	1
 movie_if	1
 palm_of	1
 lack_of	1
-neck_as	1
+adaptation_as	1
 movie_in	1
+instance_as	1
 everyone_of	1
 kind_for	1
 novel_of	1
@@ -2522,6 +2553,7 @@ bit_about	1
 product_of	1
 cemetery_with	1
 art_of	1
+!!!_although	1
 romance_between	1
 result_of	1
 badass_in	1
@@ -2535,6 +2567,7 @@ emotion_than	1
 weaponry_with	1
 fan_of	2
 character_of	1
+competition_as	1
 hunting_down	1
 amount_of	1
 quality_at	1
@@ -2547,6 +2580,7 @@ material_with	1
 matter_of	1
 voice_of	1
 continuation_of	1
+parasite_of	1
 town_with	1
 trio_of	1
 something_of	1
@@ -2599,6 +2633,8 @@ death_by	1
 day_at	1
 dvd_by	1
 grandeur_up	1
+soundtrack_of	1
+videophile_so	1
 type_of	1
 presence_of	1
 box_of	1
@@ -2618,7 +2654,7 @@ mood_of	1
 content_in	1
 group_of	2
 competition_with	1
-soundtrack_of	1
+artwork_while	1
 story_with	1
 hint_of	1
 voicing_of	1
@@ -2647,6 +2683,7 @@ fondness_for	1
 walk_around	1
 POV_of	1
 part_of	1
+neck_as	1
 screen_for	1
 quality_than	1
 take_on	1
@@ -2700,30 +2737,45 @@ girl_named	1
 parasite_attached	1
 narration_accompanied	1
 vampire_named	2
+BLOOD_pumped	1
 work_colored	1
 father_used	1
 individual_rejected	1
 hand_voiced	1
+horror_done	1
 audience_involved	1
 ive_seen	1
 production_done	1
 fortress_ruled	1
 myth_combined	1
 NNS_PRP
+mercenaries_they	1
+rights_it	1
+scenes_we	1
+Illusions_he	1
 vampires_he	1
 NN_VBG
 half-vampire_doing	1
+stomach_building	1
+money_being	1
 everyone_complaining	1
 worth_watching	1
 development_lacking	1
+season_joining	1
 thing_keeping	1
 time_thinking	1
+balance_looking	1
+time_providing	1
+scene_weaving	1
 VBP_NNP
 retain_Yoshitaka	1
+Hand_Pamela	1
+see_D	1
 watch_Bloodlust	1
 CC_WRB
 But_when	1
 and_how	1
+And_when	1
 and_when	1
 NN_VBD
 daddy_was	1
@@ -2742,6 +2794,7 @@ sequel_proved	1
 dvd_lacked	1
 anime_was	1
 dhampir_saved	1
+Bloodlust_kept	1
 story_came	1
 fault_was	1
 subplot_was	1
@@ -2766,7 +2819,7 @@ CGI_is	1
 population_has	1
 evidence_emerges	1
 D_takes	1
-plot_is	2
+plot_is	3
 film_requires	1
 situation_becomes	1
 mix_is	1
@@ -2796,6 +2849,7 @@ D_catches	1
 action_is	2
 everyone_seems	1
 architecture_is	1
+villainess_does	1
 animation_looks	1
 movie_has	2
 movie_ends	1
@@ -2812,6 +2866,7 @@ taste_runs	1
 dialogue_is	2
 plot_develops	1
 film_has	1
+Bloodlust_unfolds	1
 dubbing_seems	1
 original_is	2
 mission_is	1
@@ -2832,7 +2887,7 @@ feature_is	1
 power_begins	1
 audio_is	1
 D_is	12
-Bloodlust_is	5
+Bloodlust_is	7
 end_is	1
 mix_makes	1
 track_is	1
@@ -2869,6 +2924,7 @@ not_quite	1
 sometimes_almost	1
 also_as	1
 so_well	1
+apart_so	1
 quite_as	1
 n't_even	1
 off_altogether	1
@@ -2888,6 +2944,7 @@ so_much	2
 rather_slowly	1
 straight_forward	1
 also_well	1
+However_stylistically	1
 still_very	1
 about_as	1
 however_instead	1
@@ -2903,6 +2960,7 @@ assumed_that	1
 came_in	1
 heard_that	1
 impressed_with	1
+puzzled_because	1
 felt_like	2
 hoped_for	1
 knew_that	2
@@ -2945,66 +3003,72 @@ it_only	1
 I_rather	1
 You_just	1
 they_never	1
+VBG_.
+delivering_.	1
+lacking_.	1
+refreshing_.	1
+dwindling_.	1
+kidding_!	1
+whining_.	1
 IN_EX
 If_there	1
 PRP_RP
 him_out	1
 me_off	1
-JJ_``
-hard-bitten_``	1
-parasitic_``	1
-new_``	1
 POS_VB
 's_ride	1
 RB_VBZ
 then_has	1
 only_helps	1
+forward_theres	1
 really_does	1
-often_frustrates	1
+here_is	1
 almost_equals	1
 actually_features	1
 again_takes	1
 also_has	1
 only_comes	1
 unwittingly_earns	1
+often_frustrates	1
 just_feels	1
 wrongly_puts	1
 actually_provides	1
 oddly_features	1
 rarely_changes	1
+frankly_offers	1
 RBR_VBN
 more_delved	1
 more_shown	1
 more_fleshed	1
-,_WP
-,_who	10
 VBZ_VBG
 is_refreshing	1
 's_competing	1
 emerges_suggesting	1
 is_heading	1
 VB_PRP
-bring_you	1
-interest_you	1
-bring_her	2
 exagerate_it	1
-watch_them	1
-deserve_it	1
+bring_her	2
+admit_I	1
+bring_you	1
+hear_her	1
+admit_it	1
 Ok_I	1
-rescue_her	1
 buy_it	1
-tell_you	1
 find_her	1
+enjoy_it	1
+regret_it	1
+interest_you	1
+watch_them	1
 destroy_him	1
 watch_it	2
-see_it	3
 resurrect_herself	1
-enjoy_it	1
-kill_her	3
-regret_it	1
-top_it	1
 find_yourself	1
-hear_her	1
+kill_her	3
+top_it	1
+see_it	3
+rescue_her	1
+deserve_it	1
+tell_you	1
 PRP_DT
 it_all	2
 they_all	1
@@ -3077,6 +3141,7 @@ almost_rendered	1
 highly_recommended	2
 also_hired	1
 also_included	1
+too_allowed	1
 not_taken	1
 always_been	1
 n't_supposed	1
@@ -3085,6 +3150,7 @@ as_measured	1
 somewhat_overshadowed	1
 loosely_based	1
 VBP_WP
+Hand_who	1
 know_what	1
 VBZ_VBZ
 's_differs	1
@@ -3096,6 +3162,7 @@ then_cheering	1
 n't_sleeping	1
 definitely_lacking	1
 not_kidding	1
+smoothly_giving	1
 almost_competing	1
 just_whining	1
 probably_going	1
@@ -3129,10 +3196,13 @@ was_kind	1
 JJ_WP
 half-vampire_who	1
 JJ_JJ
+Strong_powerful	1
 brilliant_female	1
 adopted_sexy	1
 tiny_little	1
+bizarre_sci-fi	1
 original_Novel	1
+kinetic_blood-soaked	1
 lush_detailed	1
 olden_western	1
 lethal_mutant	1
@@ -3143,42 +3213,53 @@ badass_anti-hero	1
 future_dystrophic	1
 second_animated	1
 great_dhampir	1
+many_other	1
 sporadic_comic	1
 many_relatable	1
 long_flowing	1
 other_directorial	1
 strong_experienced	1
 own_special	1
+Strong_artistic	1
 creepy_gothic	1
 vivid_pastoral	1
+dark_apocalyptic	1
 small_human	1
 corresponding_finished	1
+good_sword-wielding	1
 original_Japanese	1
 other_American-funded	1
+stomach-turning_much	1
 definitive_good	1
 ancient_gothic	1
 lush_elaborate	1
 many_perfunctory	1
 late_20th	1
+rapid_severe	1
 rich_elaborate	1
 dark_pillared	1
 dark_gothic	2
 enormous_gilded	1
 futuristic_Western	1
+half-human_half-vampire	1
 fluid_computer-generated	1
+handsome_seductive	1
 favorite_animated	1
-many_other	1
+tough_rough	1
 good_main	1
+tall_dark	1
 Dystopian_far	1
+rough_hard-bitten	1
 few_minor	1
 sharp_facial	1
 wealthy_young	1
 real_good	1
-bizarre_sci-fi	1
+extraordinary_sprawling	1
 NNP_TO
 Noble_to	1
 Charlotte_to	1
 Barbarois_to	1
+Bloodlust_to	1
 VBZ_TO
 chooses_to	1
 uses_to	1
@@ -3191,29 +3272,15 @@ tries_to	1
 has_to	1
 happens_to	1
 begins_to	1
+NNPS_DT
+Brothers_a	2
 PRP_WDT
 it_that	1
 him_that	1
 POS_NNP
 's_Sleepy	1
+'s_Vampire	1
 '_VHS	1
-,_IN
-,_at	1
-,_after	1
-,_in	3
-,_because	2
-,_though	1
-,_although	3
-,_while	1
-,_as	3
-,_despite	1
-,_so	4
-,_like	3
-,_within	1
-,_for	1
-,_with	2
-,_behind	1
-,_among	1
 PRP$_IN
 your_at	1
 your_in	1
@@ -3221,8 +3288,11 @@ NNS_WP
 siblings_who	1
 ghouls_who	1
 hunters_who	1
+bodyguards_who	1
 RP_NN
 out_D	1
+VBG_CC
+sitting_but	1
 VBG_CD
 being_one	1
 MD_RB
@@ -3244,14 +3314,17 @@ movie_that	3
 fallout_that	1
 something_that	1
 thing_that	1
+trailer_which	1
 hammer_that	1
 man_that	1
-girl_that	1
 menace_that	1
+girl_that	1
+anime_which	1
 D_that	1
 story_that	1
-stepmother_that	1
+Bloodlust_which	1
 story_which	1
+stepmother_that	1
 VB_DT
 be_an	1
 eliminate_a	1
@@ -3403,6 +3476,7 @@ you_that	1
 me_about	1
 it_at	1
 you_of	1
+it_like	1
 him_because	1
 me_of	2
 RBR_JJ
@@ -3419,30 +3493,6 @@ more_deserving	1
 more_cool	1
 more_complicated	1
 more_efficient	1
-,_JJ
-,_seductive	1
-,_rough	1
-,_astral	1
-,_enormous	1
-,_such	1
-,_airborne	1
-,_dark	2
-,_severe	1
-,_apocalyptic	1
-,_much	2
-,_artistic	1
-,_blood-soaked	2
-,_sprawling	1
-,_sharp	1
-,_sword-wielding	1
-,_tragic	1
-,_half-vampire	1
-,_complete	1
-,_gothic	1
-,_hard-bitten	1
-,_lush	1
-,_sweeping	1
-,_powerful	1
 LS_VBD
 i_wanted	1
 i_saw	1
@@ -3451,46 +3501,30 @@ and_one	2
 or_two	1
 WP_RB
 who_also	1
-,_NN
-,_D	4
-,_everything	1
-,_someone	1
-,_killer	1
-,_ultra	1
-,_something	2
-,_discrimination	1
-,_GEORGEOUS	1
-,_VHD	1
-,_becouse	1
-,_blood	1
 PRP$_RB
 its_just	1
-CC_,
-And_,	1
-and_,	1
-``_NNP
-``_Sailor	1
-``_Demon	1
-``_Top	1
-``_Vampire	11
-``_Princess	1
-``_Barbaroy	1
-``_Ultra	1
-``_Bloodlust	2
+UH_PRP
+yes_it	1
 RB_DT
-well_this	1
+well_this	2
+Herein_the	1
 technically_a	1
-well_the	1
+n't_the	1
+usually_the	1
+Also_the	1
+again_this	1
 merely_an	1
 even_the	1
 probably_the	1
-always_the	1
+ever_an	1
 argruably_the	1
 apparently_the	1
-still_a	1
-n't_the	1
-usually_the	1
+However_the	3
+well_the	1
 not_the	1
+though_the	1
+n't_all	1
+much_the	1
 even_a	1
 then_this	1
 Even_the	2
@@ -3498,11 +3532,12 @@ So_this	1
 not_all	1
 not_a	1
 Definitely_a	1
-n't_all	1
-much_the	1
-ever_an	1
+alike_this	1
+always_the	1
 also_a	1
 probubly_the	1
+still_a	1
+Still_this	1
 PRP$_JJS
 my_most	1
 their_best	1
@@ -3526,29 +3561,6 @@ POS_NNS
 's_activities	1
 WRB_PRP$
 how_his	1
-DT_``
-a_``	1
-The_``	3
-the_``	1
-,_RB
-,_almost	1
-,_further	1
-,_well	1
-,_sometimes	1
-,_rather	1
-,_not	1
-,_back	1
-,_so	1
-,_terminally	1
-,_then	2
-,_spectacularly	1
-,_stylistically	1
-,_very	1
-,_beautifully	1
-,_even	3
-,_thankfully	1
-,_especially	1
-,_however	1
 CC_PRP
 and_they	1
 but_they	1
@@ -3561,8 +3573,6 @@ and_I	5
 and_you	1
 and_it	4
 And_he	1
-,_VBD
-,_kept	1
 RB_VB
 just_enjoy	1
 n't_stop	1
@@ -3596,9 +3606,6 @@ not_acknowledge	1
 n't_imagine	1
 either_rescue	1
 n't_count	1
-''_JJ
-''_main	1
-''_such	1
 LS_VB
 i_wish	1
 IN_IN
@@ -3610,6 +3617,7 @@ until_after	1
 out_of	2
 along_with	1
 although_of	1
+that_in	1
 along_into	1
 because_if	1
 Out_of	1
@@ -3620,22 +3628,10 @@ entertaining_enough	1
 cool_as	1
 intense_enough	1
 little_too	1
-,_``
-,_``	6
 VBG_PRP$
 wielding_his	1
-,_VBG
-,_being	1
-,_providing	1
-,_looking	1
-,_merging	1
-,_joining	1
-,_giving	1
-,_building	1
-,_intertwining	1
-,_weaving	1
-,_wielding	1
-,_taking	1
+VBG_:
+dudding_...	1
 NNS_.
 characters_.	1
 faults_.	1
@@ -3678,63 +3674,10 @@ cels_.	1
 ruins_.	1
 ones_?	1
 mercenaries_.	1
-,_VBN
-,_voiced	1
-,_allowed	1
-,_done	1
-NNS_,
-twists_,	1
-characters_,	2
-faults_,	1
-fights_,	1
-features_,	2
-rights_,	1
-nightmares_,	1
-midgets_,	1
-villains_,	1
-tanks_,	1
-moments_,	1
-effects_,	1
-graphics_,	1
-issues_,	1
-vines_,	1
-efforts_,	1
-novels_,	1
-machines_,	1
-visuals_,	1
-companies_,	1
-motivations_,	1
-crosses_,	1
-scenes_,	4
-actors_,	1
-sounds_,	1
-animes_,	1
-times_,	1
-movies_,	1
-eyes_,	1
-brothers_,	1
-games_,	1
-halls_,	1
-decorations_,	1
-shadows_,	1
-liners_,	1
-others_,	1
-languages_,	1
-moves_,	1
-subtitles_,	1
-sides_,	1
-faces_,	1
-capes_,	2
-talks_,	1
-lovers_,	1
-palaces_,	1
-mercenaries_,	1
-bodyguards_,	1
-stairways_,	1
-juggernauts_,	1
 VBD_NNP
 confronted_Carmila	1
 was_NEVER	1
+hit_Vampire	1
 was_English	1
 NNS_:
 flicks_--	1
@@ -3744,12 +3687,6 @@ candles_...	1
 attacks_--	1
 words_--	1
 facts_--	1
-,_VBZ
-,_has	1
-,_does	1
-,_theres	1
-,_offers	1
-,_is	4
 WRB_RB
 why_so	1
 VBG_JJ
@@ -3837,20 +3774,22 @@ longtime_viewers	1
 main_characters	1
 melting_candles	1
 huge_eyes	1
-VBG_RBS
-keeping_most	1
 VB_VB
+translate_paraphrase	1
 Go_see	1
 JJ_NNP
-20th_Century	1
+particular_Borgoff	1
+wealthy_Elbourne	1
+other_Kawajiri	2
 ready_Marcus	1
 plain_English	1
 third_Vampire	1
-wealthy_Elbourne	1
+rare_Vampire	1
+Novel_Vampire	1
 die-hard_Vampire	1
 first_Vampire	1
 originial_Vampire	1
-other_Kawajiri	2
+20th_Century	1
 half-vampire_Dunpeal	1
 entry-level_Onkyo	1
 other_Urban	1
@@ -3862,9 +3801,6 @@ two_of	1
 two_from	1
 one_of	8
 One_of	1
-''_CC
-''_and	1
-''_or	2
 IN_WP
 with_whom	1
 on_what	1
@@ -3896,24 +3832,29 @@ any_lavishly	1
 a_pretty	2
 DT_NNPS
 The_Extras	1
-MD_,
-can_,	1
 NN_PRP
 becouse_he	1
+version_you	1
+world_they	1
+friend_we	1
+A-Team_I	1
 Bloodlust_we	1
 world_it	1
-moment_I	1
+tank_I	1
+complaint_I	1
+work_I	1
 friend_he	1
 D_himself	1
 DVD_I	1
-way_she	1
-world_they	1
 hand_he	1
+relief_You	1
 movie_you	1
-complaint_I	1
-work_I	1
 way_they	1
-A-Team_I	1
+fact_it	1
+moment_I	1
+way_she	1
+end_I	1
+movie_it	2
 VB_PRP$
 utilize_his	1
 keep_my	1
@@ -3931,30 +3872,37 @@ defy_his	1
 !_.	2
 JJ_DT
 such_an	1
-fine_a	1
-worth_the	1
 Japanese_the	1
+fine_a	1
+good_the	1
+original_the	1
+worth_the	1
+right_the	1
 RB_CC
-over_and	1
+over_and	2
 alone_and	1
 now_and	1
 slowly_or	1
 out_and	1
+altogether_but	1
 slowly_and	1
 pretty_and	1
+dramatically_but	1
 back_and	1
 well_and	1
+long_but	1
 MD_VB
 will_note	1
-must_intercept	1
+should_be	1
 will_enjoy	1
 'll_find	1
 will_wonder	1
+can_see	1
 will_stop	1
 can_reach	1
 can_be	1
 will_be	2
-should_be	1
+must_intercept	1
 'll_watch	1
 may_be	1
 may_have	1
@@ -4010,12 +3958,6 @@ when_Carmilla	1
 where_Solomon	1
 WRB_NNS
 where_vampires	1
-,_DT
-,_this	12
-,_an	1
-,_a	12
-,_the	23
-,_some	1
 NNP_NNPS
 Marcus_Brothers	4
 VB_VBZ
@@ -4025,29 +3967,28 @@ becomes_more	1
 is_better	1
 is_more	1
 CC_RB
-and_just	1
-or_even	1
+or_not	1
+and_later	1
+and_then	2
+But_even	1
+but_still	2
 and_even	2
-and_quite	1
-but_not	1
 but_also	1
+and_only	1
+and_surely	1
+and_just	1
+but_not	1
 and_almost	1
 but_now	1
-and_as	1
+and_well	1
+and_nicely	1
 and_unfortunatly	1
+and_over	1
+and_as	1
+or_even	1
 and_not	1
 or_just	1
-and_only	1
-and_later	1
-and_nicely	1
-and_then	2
-and_over	1
-But_even	1
-and_surely	1
-or_not	1
-but_still	2
-POS_``
-'s_``	1
+and_quite	1
 VBZ_NN
 blends_mysticism	1
 has_abducted	1
@@ -4063,11 +4004,6 @@ hires_D	1
 is_sort	1
 VBP_SYM
 gasp_*	1
-,_RBR
-,_more	2
-UH_,
-yes_,	1
-Okay_,	2
 TO_JJ
 to_great	1
 to_melting	1
@@ -4080,6 +4016,7 @@ contain_the	1
 seem_a	1
 rule_the	2
 contain_no	1
+come_this	1
 remember_the	1
 are_an	1
 complement_the	1
@@ -4097,12 +4034,10 @@ went_to	1
 wanted_to	1
 used_to	1
 had_to	1
-NN_JJR
-Way_better	1
-,_WDT
-,_which	4
-``_PRP$
-``_My	1
+NN_FW
+D_isnt	1
+VBN_VB
+turned_kill	1
 NNS_PDT
 graphics_such	1
 JJS_NNS
@@ -4133,114 +4068,8 @@ vote_;	1
 living_--	1
 storyline_--	1
 character_...	1
-._''
-!_''	1
-._''	4
-NN_,
-reward_,	1
-loneliness_,	2
-imaging_,	1
-stomach_,	1
-series_,	1
-animation_,	4
-equivalent_,	1
-allegiance_,	1
-mind_,	1
-sotry_,	1
-technology_,	1
-sequel_,	1
-romance_,	1
-parasite_,	1
-dialogue_,	1
-posturing_,	1
-balance_,	1
-girl_,	1
-adaptation_,	1
-season_,	1
-scene_,	1
-speech_,	1
-discrimination_,	1
-book_,	1
-vampire_,	1
-tank_,	1
-yard_,	1
-magic_,	1
-form_,	1
-line_,	1
-treatment_,	1
-rest_,	1
-version_,	1
-culture_,	1
-thrillride_,	1
-instance_,	1
-clarity_,	1
-twist_,	1
-hand_,	1
-trip_,	1
-buying_,	1
-abdomen_,	1
-night_,	1
-review_,	1
-trailer_,	1
-movie_,	6
-violence_,	1
-end_,	2
-villainess_,	1
-money_,	1
-novel_,	1
-town_,	1
-world_,	1
-tearjerker_,	1
-hair_,	1
-anime_,	3
-interest_,	1
-woman_,	1
-print_,	1
-D_,	5
-film_,	1
-predecessor_,	1
-work_,	1
-future_,	2
-daughter_,	1
-intrigue_,	1
-audience_,	1
-friend_,	1
-dark_,	1
-antagonist_,	1
-opinion_,	1
-competition_,	2
-style_,	1
-look_,	1
-way_,	1
-DVD_,	1
-hearing_,	1
-art_,	3
-Bloodlust_,	2
-guy_,	1
-sheriff_,	1
-distributor_,	1
-horror_,	1
-fact_,	2
-plot_,	2
-group_,	1
-!!!_,	1
-castle_,	1
-artwork_,	1
-videophile_,	1
-character_,	2
-time_,	3
-course_,	1
-force_,	1
-``_NN
-``_X	1
-``_adaptation	1
-``_camera	1
-`_s	1
-``_Ghost	3
-``_dhampir	1
-``_Candy	1
-``_BLOOD	1
-``_sister	1
+NNP_JJ
+CGI_much	1
 NN_.
 objective_.	1
 cool_.	2
@@ -4363,8 +4192,6 @@ that_is	3
 that_'s	1
 that_manages	1
 that_slides	1
-''_VBN
-''_pumped	1
 JJR_TO
 more_to	1
 WDT_VBP
@@ -4374,21 +4201,6 @@ that_are	2
 that_remind	1
 CC_UH
 And_yes	1
-,_VB
-,_kill	1
-,_deserve	1
-,_see	1
-,_save	1
-,_paraphrase	1
-,_thank	1
-,_gore	1
-,_find	1
-''_NN
-''_hand	1
-''_DVD	1
-''_compilation	1
-''_animation	1
-''_feature	1
 VB_UH
 be_oh	1
 IN_TO
@@ -4396,10 +4208,14 @@ than_to	1
 like_to	1
 up_to	1
 PRP_CC
-me_and	2
-it_or	1
+it_and	2
+it_but	1
 He_and	1
 him_and	2
+me_and	2
+her_and	1
+her_or	1
+it_or	1
 WDT_VBD
 that_impressed	1
 that_happened	1
@@ -4417,21 +4233,23 @@ DT_#
 the_#	1
 DT_WRB
 no_where	1
-DT_,
-no_,	1
-this_,	1
-all_,	5
 DT_.
 all_!	1
 this_.	2
 that_.	1
 all_.	1
+NNS_FW
+actors_i	1
 VBG_RP
 tracking_down	1
 shooting_up	1
 building_up	1
 JJ_VB
+straight-forward_find	1
 odd_blend	1
+FW_VB
+i_watch	1
+annoying_thank	1
 DT_WDT
 all_that	1
 RB_JJ
@@ -4529,16 +4347,13 @@ extremely_enjoyable	1
 NOT_childish	1
 also_half-vampire	1
 n't_violent	1
-''_WDT
-''_which	1
 WRB_IN
 where_near	1
 NNS_RBR
+graphics_more	1
 principles_less	1
-VB_``
-expect_``	1
-NNPS_,
-Brothers_,	2
+NNPS_POS
+Brothers_'	1
 CD_DT
 one_This	1
 NNPS_.
@@ -4566,15 +4381,20 @@ seeing_this	1
 taking_the	1
 looking_the	1
 RB_PRP
+stylistically_it	1
+however_I	1
 well_it	1
 now_I	1
 surely_it	1
 Soon_you	1
 unfortunatly_they	1
+again_I	1
+Still_he	1
 sometimes_it	1
 :_VBG
 --_acting	1
 VBZ_PRP
+dies_he	1
 takes_us	1
 Is_It	1
 reminds_you	1
@@ -4588,11 +4408,12 @@ is_it	1
 PRP$_CC
 My_and	1
 VB_RB
-get_anime	1
-go_out	1
 Put_simply	1
-be_further	1
+go_out	1
+begin_rather	1
 be_too	1
+be_further	1
+get_anime	1
 :_VBN
 :_subdued	1
 WRB_NN
@@ -4600,21 +4421,23 @@ when_evidence	1
 when_D	1
 when_action	1
 When_D	1
+RB_FW
+away_!!!!	1
+well_i	1
 JJ_WRB
 complicated_when	1
 NN_RBR
-anyone_more	1
+magic_more	1
 isolation_more	1
+anyone_more	1
 NNS_WRB
 points_where	1
 times_when	2
 NN_EX
 movie_there	1
+rest_there	1
+course_there	1
 b/c_there	1
-``_JJ
-``_everyday	1
-``_girly	1
-``_Confusing	1
 PRP$_RBS
 its_most	1
 PRP$_RBR
@@ -4623,11 +4446,15 @@ NNP_IN
 Bloodlust_on	1
 Link_with	1
 Gemma_of	1
+Vampire_among	1
 Meier_before	1
 Genre_with	1
+D._In	1
 Barbaroy_in	1
 Stars_With	1
 Lee_from	1
+Scroll_so	1
+Shell_with	1
 McShane_of	1
 Directed_by	1
 Hunter_in	1
@@ -4637,13 +4464,9 @@ King_Of	1
 Bobby_on	1
 D_before	1
 All_in	1
-FW_,
-annoying_,	1
 RB_NNS
 even_ones	1
 rarely_talks	1
-VBZ_``
-says_``	1
 IN_VBG
 of_being	2
 in_watching	1
@@ -4653,6 +4476,7 @@ by_inducing	1
 from_being	1
 around_acting	1
 before_watching	1
+out_taking	1
 of_delivering	1
 despite_being	1
 after_seeing	1
@@ -4663,14 +4487,8 @@ with_finding	1
 in_representing	1
 IN_VBD
 on_went	1
-,_PRP
-,_he	4
-,_they	2
-,_we	2
-,_you	1
-,_it	14
-,_I	8
-,_she	1
+VBG_RBS
+keeping_most	1
 CC_JJR
 or_better	1
 but_more	1
@@ -4686,54 +4504,67 @@ JJS_MD
 Most_will	1
 RP_VB
 down_let	1
-VBG_.
-delivering_.	1
-lacking_.	1
-refreshing_.	1
-dwindling_.	1
-kidding_!	1
-whining_.	1
+:_NNP
+:_Gotham	1
+--_D	1
+:_Bloodust	1
+:_Demon	1
+--_Kawajiri	1
+..._AND	1
+:_The	1
 IN_VBP
 of_are	1
-VBG_,
-sitting_,	1
 JJ_CC
 multi-layed_and	1
+original_but	2
 verbose_and	1
 excellent_and	2
 urgent_and	1
 basic_and	1
 solid_and	1
-good_and	1
+good_and	2
 fantastic_&	1
 gorgeous_and	1
 attractive_and	1
 powerful_and	1
+wise_&	1
+sober_and	1
+over-used_but	1
 surreal_and	1
 sickly_but	1
 Gothic_and	1
-wise_&	1
+parasitic_but	1
 brilliant_and	1
+alright_and	1
+impressive_or	1
 interesting_and	1
+hard-bitten_but	1
+bad_and	1
 cool_and	3
 alive_or	1
 artistic_and	1
+breathtaking_and	1
 rough_'n'	1
+story-wise_but	1
 confusing_and	1
-original_and	2
+dark_and	1
+original_and	3
 simple_and	1
 old_and	1
+great_but	1
 terrible_and	1
 ominous_and	1
 seductive_and	1
+unlikely_and	1
 sick_and	1
 complex_and	1
 sappy_and	1
 stylized_and	1
 well-rendered_and	1
-impressive_or	1
+great_and	1
 inspired_and	1
-bloody_and	1
+short_and	1
+bloody_and	2
 PDT_PRP$
 all_his	1
 IN_VBZ
@@ -4747,9 +4578,6 @@ origanal_1985	1
 first_five	1
 cheesy_one	1
 first_sixty	1
-CD_,
-one_,	1
-2000_,	1
 CD_.
 one_.	3
 1983_.	1
@@ -4760,7 +4588,11 @@ IN_MD
 as_can	1
 as_could	1
 NNP_WP
+Carmilla_who	1
+Kawajiri_who	1
 Charlotte_who	1
+Lee_who	1
+Leila_who	1
 FW_CD
 Scrolls_eight	1
 POS_NN
@@ -4787,8 +4619,6 @@ POS_NN
 's_stepmother	1
 's_story	2
 's_animation	1
-``_CC
-``_but	1
 TO_NN
 to_everyone	1
 to_helm	1
@@ -4801,27 +4631,30 @@ IN_FW
 of_Ninja	1
 CD_NNS
 eight_devils	1
-two_faces	1
-10,000_years	1
-sixty_minutes	1
 100_stories	1
+10,000_years	1
 one_liners	1
+sixty_minutes	1
+2000_fans	1
+two_faces	1
 five_minutes	2
 four_brothers	1
 fifteen_years	1
 two_languages	1
 CD_NNP
 4_Stars	1
+two_Vampire	1
 ;-RRB-_P.S.	1
 VBN_RB
+done_well	1
+conflicted_then	1
 implemented_seamlessly	1
 kinda_straight	1
 played_real	1
 taken_away	1
-done_well	1
 NNP_NN
 Elbourne_family	1
-Hollywood_blockbuster	1
+Segall_none	1
 Markus_band	1
 Castlevania_anime	1
 Juliet_style	1
@@ -4832,12 +4665,14 @@ English_phrase	1
 Hunter_D	10
 D_book	1
 Lee_incident	1
+Hollywood_blockbuster	1
 Camilla_character	1
 English_dialogue	1
 English_dubbing	1
+Shell_animation	1
 Urban_vision	1
 Halloween_hitlst	1
-Segall_none	1
+Dunpeal_someone	1
 VBZ_RB
 is_also	5
 is_well	1
@@ -4928,6 +4763,7 @@ headed_up	1
 fleshed_out	2
 RB_PRP$
 forth_its	1
+However_her	1
 VBZ_RP
 turns_out	2
 takes_up	1
@@ -4950,8 +4786,8 @@ things_could	1
 others_will	1
 releases_will	1
 releases_can	1
-,_JJR
-,_more	1
+FW_VBP
+couldnt_watch	1
 TO_RB
 to_really	1
 to_either	2
@@ -4981,9 +4817,13 @@ n't_as	1
 longer_by	1
 nowhere_near	1
 even_though	1
+slowly_with	1
 well_in	1
+here_despite	1
+again_in	1
 exactly_as	1
 Anyway_as	1
+then_behind	1
 visually_with	1
 not_at	1
 not_as	1
@@ -4996,7 +4836,7 @@ away_in	1
 instead_of	2
 only_in	1
 surely_as	1
-again_in	1
+However_within	1
 perhaps_that	1
 VBG_IN
 rooting_for	1
@@ -5033,6 +4873,7 @@ This_one	1
 The_1985	1
 The_two	1
 DT_CC
+all_and	2
 half_and	1
 this_or	1
 RP_DT
@@ -5066,39 +4907,6 @@ JJ_VBZ
 visual_is	1
 superior_is	1
 breathtaking_tends	1
-''_NNP
-''_Leila	1
-''_NNS
-''_moves	1
-''_movies	1
-NNP_,
-Link_,	1
-Carmilla_,	3
-Scroll_,	3
-Century_,	1
-Dracula_,	1
-Vampire_,	1
-Technically_,	1
-God_,	1
-Vengeance_,	1
-Kawajiri_,	2
-Kikuchi_,	1
-Bloodlust_,	2
-Amano_,	1
-Hollow_,	1
-CGI_,	1
-Castlevania_,	1
-Charlotte_,	3
-D_,	2
-Animatrix_,	1
-Chaythe_,	1
-Leila_,	4
-Plus_,	1
-English_,	1
-Dunpeal_,	3
-Shell_,	1
-Lee_,	1
-Bargoff_,	1
 CD_JJ
 One_little	1
 NNP_.
@@ -5116,13 +4924,14 @@ Japanese_.	1
 Kawajiri_.	1
 Halloween_!	1
 Starscream_!	1
-Charlotte_.	1
-D_.	1
 Series_.	1
+D_.	1
+Charlotte_.	1
 Vision_.	1
 Anime_.	1
 English_.	1
 Knight_.	1
+Deathchase_.	1
 Mononoke_.	1
 JJ_VBP
 many_come	1
@@ -5141,6 +4950,9 @@ pleasing_environment	1
 bloodsucking_nature	1
 watching_anime	1
 bringing_D	1
+JJ_VBG
+righteous_wielding	1
+compelling_intertwining	1
 NNP_:
 D_:	2
 Batman_:	1
@@ -5166,8 +4978,6 @@ so_do	1
 never_seem	1
 also_have	1
 just_have	1
-,_TO
-,_to	2
 JJ_PRP$
 good_their	1
 wise_my	1
@@ -5178,15 +4988,19 @@ changes_.	1
 gets_.	1
 requires_.	1
 thrills_.	1
-VBZ_,
-dies_,	1
 RB_NN
-not_allegiance	1
+not_Ghost	1
 Now_D	1
+Overall_VHD	1
+Still_D	1
+well_ultra	1
+However_D	1
 just_animation	1
+not_allegiance	1
 NNS_TO
 storyboards_to	1
 lengths_to	1
+stairways_to	1
 millions_to	1
 players_to	1
 devices_to	1
@@ -5226,20 +5040,12 @@ is_that	2
 realizes_that	1
 feels_like	1
 fits_with	1
-JJR_IN
-more_like	1
-better_than	3
-tougher_than	1
-more_than	1
-more_of	2
-better_if	1
+VBN_PRP
+expected_it	1
+watched_it	1
+gotten_me	1
 WRB_JJ
 how_good	1
-,_CC
-,_and	50
-,_or	4
-,_but	30
-,_plus	1
 VB_NN
 befriend_D	1
 collect_money	1
@@ -5248,6 +5054,7 @@ resist_sunlight	1
 hate_everybody	1
 UH_RB
 oh_so	1
+Okay_back	1
 VBZ_JJR
 bears_more	1
 showcases_better	1
@@ -5260,8 +5067,11 @@ NN_WP
 someone_who	1
 blacksmith_who	1
 girl_who	1
+hand_who	1
+D_who	2
 woman_who	2
 lycan_who	1
+character_who	1
 vampire_who	1
 hunter_who	2
 parasite_who	1
@@ -5271,35 +5081,6 @@ RB_RBR
 even_better	1
 also_better	1
 even_more	1
-NN_''
-X_''	1
-Bloodlust_''	4
-adaptation_''	1
-dhampir_''	1
-BLOOD_''	1
-sister_''	1
-Candy_''	1
-camera_''	1
-s_''	1
-CC_IN
-But_if	1
-and_out	1
-but_at	1
-But_in	3
-or_if	1
-but_if	1
-And_despite	1
-and_for	2
-But_along	1
-but_after	1
-:_NNP
-:_Gotham	1
---_D	1
-:_Bloodust	1
-:_Demon	1
---_Kawajiri	1
-..._AND	1
-:_The	1
 CC_FW
 and_i	3
 PRP_TO
@@ -5336,8 +5117,6 @@ villains_are	1
 voices_are	2
 movies_are	1
 characters_are	3
-FW_VBP
-couldnt_watch	1
 NNP_MD
 NEITHER_WILL	1
 D_wo	1
@@ -5361,11 +5140,9 @@ VBD_PRP$
 saved_her	1
 IN_CC
 as_both	1
+from_and	1
 with_or	1
-in_and	1
-PRP_:
-it_--	1
-him_...	1
+in_and	2
 JJS_IN
 Most_of	1
 most_in	1
@@ -5376,9 +5153,10 @@ people_competing	1
 scenes_resulting	1
 arrows_falling	1
 weapons_riding	1
-motives_being	1
+villains_merging	1
 hopes_going	1
 patients_shooting	1
+motives_being	1
 PRP_NNP
 it_!!!	1
 us_Ninja	1
@@ -5400,10 +5178,11 @@ are_hunters	1
 PRP_FW
 it_!!!!	1
 it_!!!	1
+ya_i	1
 VBP_RP
 kill_off	1
-``_PRP
-``_You	1
+NN_WP$
+audience_whose	1
 VBG_WP
 doing_what	1
 NN_PDT
@@ -5424,10 +5203,6 @@ POS_JJ
 --_tough	1
 --_handsome	1
 --_dark	1
-''_IN
-''_as	1
-''_In	1
-''_with	1
 VBD_VBN
 was_made	2
 was_drawned	1
@@ -5443,6 +5218,8 @@ was_impressed	1
 were_made	2
 had_created	1
 were_thrilled	1
+JJS_TO
+best_to	1
 VBZ_VB
 does_succeed	1
 does_seem	1
@@ -5474,7 +5251,7 @@ of_few	1
 in_plain	1
 as_stylized	1
 in_many	1
-of_cool	1
+of_girly	1
 with_excellent	1
 of_postapocalyptic	1
 In_particular	1
@@ -5509,6 +5286,7 @@ of_Japanese	1
 of_similar	1
 with_giant	1
 through_tremendous	1
+of_cool	1
 of_creepy	1
 in_Japanese	1
 for_other	1
@@ -5535,21 +5313,27 @@ with_big	1
 for_good	1
 RBR_.
 better_.	1
+NNS_VBD
+fans_were	1
+sequences_left	1
+movies_were	1
 VBN_NN
 ruined_palace	1
 named_D	1
 kidnapped_girl	1
 updated_CG	1
 possessed_talking	1
+looked_becouse	1
 done_animation	1
 drawn_animation	1
 modified_tank	1
 NNP_RB
-D_as	1
 Vision_actually	1
 Solomon_wrongly	1
 Bros._instead	1
+D_further	1
 I_never	1
+D_as	1
 NNP_VBP
 Thornton_do	1
 Leila_have	1
@@ -5567,7 +5351,7 @@ fantasies_that	1
 twists_at	1
 humans_from	1
 clutches_of	1
-interiors_in	1
+decorations_in	1
 beliefs_with	1
 dreams_about	1
 adventures_of	1
@@ -5607,16 +5391,19 @@ humans_for	1
 problems_with	1
 merits_of	1
 returns_with	1
-viewers_of	1
+others_as	1
 years_in	1
 scenes_with	1
+lovers_like	1
 lots_of	2
 traditons_on	1
+subtitles_for	1
 accomplishments_of	1
+years_ago	1
 fights_as	1
 lovers_of	1
 interactions_with	1
-years_ago	1
+interiors_in	1
 settings_of	1
 hunters_that	1
 scenes_for	1
@@ -5634,34 +5421,44 @@ guys_with	1
 Lots_of	1
 extras_like	1
 scenes_in	3
+viewers_of	1
+VBN_CC
+rushed_and	1
+produced_and	1
 NNP_VBZ
 Meier_hires	1
+Bargoff_is	1
 Charlotte_gives	1
 McShane_provides	1
 English_is	1
 Solomon_misses	1
+Charlotte_has	1
 Kawajiri_does	2
 Philpot_is	1
 Kawajiri_peppers	1
 Meier_looks	1
 Pioneer_does	1
+Charlotte_is	1
 Bloodlust_is	1
 Link_has	2
 Alan_distrusts	1
 D_has	1
+Bloodust_is	1
 Meier_is	1
-D_is	1
+D_is	2
 Mckenzie_uses	1
 Fletcher_is	1
 Leila_is	1
 Link_is	1
-Lee_voices	1
+Barbaroy_is	1
 Carmilla_attempts	1
 D_goes	1
 Kawajiri_sprinkles	1
 Baron_is	1
+Lee_voices	1
 Marcus_bears	1
 Carmilla_is	1
+Bloodlust_does	1
 VB_JJ
 do_other	1
 be_different	1
@@ -5727,19 +5524,14 @@ to_say	1
 to_find	1
 to_translate	1
 to_flee	2
+NN_JJS
+opinion_most	1
 RB_MD
 just_would	1
-NN_``
-Bloodlust_`	1
-humor_``	1
-relief_``	1
 VBG_NNP
 remaining_Marcus	1
 joining_Tim	1
 suggesting_Charlotte	1
-VBD_,
-puzzled_,	1
-hit_,	1
 FW_VBN
 i_enjoyed	1
 i_found	1
@@ -5766,6 +5558,7 @@ D_was	2
 Link_swept	1
 Bloodlust_was	1
 NNP_VBN
+Leila_voiced	1
 NEVER_meant	1
 Link_voiced	1
 NNP_POS
@@ -5786,21 +5579,29 @@ Carmilla_'s	1
 Elbourne_'s	1
 Amano_'s	1
 NN_RB
+art_especially	1
 movie_totally	1
 !!!!_Just	1
 expression_rarely	1
 strangly_enough	1
 revisal_yet	1
 D_off	1
-tale_so	1
+abdomen_terminally	1
+romance_spectacularly	1
+thrillride_then	1
+intrigue_not	1
+clarity_thankfully	1
+phrase_properly	1
 movie_ever	1
 movie_longer	1
 D_back	1
+movie_even	1
 D_just	1
+interest_even	1
 introduction_alike	1
 animation_rather	1
 leap_forward	1
-phrase_properly	1
+tale_so	1
 way_though	1
 film_always	1
 something_pretty	1
@@ -5808,7 +5609,9 @@ time_ago	1
 beginning_really	1
 setting_well	1
 hand_actually	1
+dark_very	1
 movie_extremely	1
+Bloodlust_once	1
 JJ_IN
 loose-tongued_in	1
 tired_of	1
@@ -5816,6 +5619,7 @@ enigmatic_than	1
 reminiscent_of	2
 good_as	3
 violent_like	1
+third_after	1
 different_from	2
 obvious_in	1
 bloody_at	1
@@ -5834,7 +5638,9 @@ excellent_as	1
 dark_on	1
 few_of	1
 bad_at	1
+praiseworthy_though	1
 beautiful_among	1
+interesting_because	1
 exciting_as	1
 intriguing_as	1
 incredible_as	1
@@ -5842,13 +5648,14 @@ Several_of	1
 downcast_as	1
 hard_of	1
 abundant_with	1
-other_than	1
+much_of	2
 similar_in	1
+good_although	1
 sleek_as	1
 original_in	1
 such_as	1
 unique_among	1
-much_of	2
+other_than	1
 childish_as	1
 great_as	1
 aware_of	1
@@ -5865,12 +5672,13 @@ efficient_of	1
 interested_in	1
 impressive_in	1
 stoic_as	1
-''_PRP
-''_he	1
 NNS_NN
-characters_everybody	1
 bats_lol	1
 surprises_midway	1
+effects_something	1
+shadows_blood	1
+characters_everybody	1
+capes_killer	1
 NN_RP
 junk_out	1
 sound_off	2
@@ -5884,10 +5692,10 @@ has_an	1
 distrusts_the	1
 misses_the	1
 has_the	1
-adds_the	1
+hires_the	1
 takes_the	1
 is_an	4
-hires_the	1
+adds_the	1
 sets_a	1
 has_a	5
 provides_the	1
@@ -5906,6 +5714,7 @@ does_the	1
 delivers_the	1
 earns_the	1
 protects_the	1
+says_The	1
 is_a	17
 peppers_the	1
 's_an	1
@@ -5923,31 +5732,39 @@ one_anime	1
 1985_adaptation	1
 1985_anime	2
 1985_VHD	1
+Ten_compilation	1
 VBZ_NNP
 voices_Meier	1
 is_Bloodlust	1
-WP_.
-what_?	1
+FW_NNP
+!!!!_Total	1
 VBZ_NNS
 hunts_vampires	1
 VBP_NN
 are_vampire	1
-JJ_''
-bad_''	1
-everyday_''	1
-,_JJS
-,_most	2
+NN_PRP$
+discrimination_his	1
+humor_My	1
 VB_CD
 please_one	1
 VB_CC
 change_and	1
 paraphrase_and	1
+succeed_but	1
+watch_and	1
 gore_and	1
 NNP_DT
-Rent_this	1
-Now_the	1
+Dunpeal_this	1
+Chaythe_an	1
+Dunpeal_a	1
 English_the	1
+D_the	1
+Kawajiri_this	1
+Now_the	1
+Kikuchi_this	1
 Dracula_a	1
+Rent_this	1
+Technically_this	1
 JJS_NN
 greatest_animation	1
 most_DVD	1
@@ -5965,42 +5782,25 @@ out_for	1
 VBN_NNS
 thrilled_readers	1
 paid_millions	1
-,_WP$
-,_whose	1
-,_NNP
-,_Bargoff	1
-,_Pioneer	1
-,_D	3
-,_Borgoff	1
-,_Pamela	1
-,_English	1
-,_Urban	2
-,_Yoshiaki	2
-,_The	1
-,_Charlotte	3
-,_Carmilla	1
-,_Vampire	5
-,_Anne	1
-,_John	1
-,_Andy	1
 CC_NNP
 &_Vampire	1
 and_D	1
 and_Leila	1
-or_Akira	1
+or_Princess	1
 and_Juliet	1
 and_Dwight	1
 and_Charlotte	1
-and_Batman	1
-or_Denon	1
+and_Kirk	1
+or_Akira	1
 And_Leila	1
 plus_John	1
 and_Link	1
 and_Mike	1
 but_Vampire	1
-and_Kirk	1
+and_Batman	1
 and_Minowa	1
 and_Ninja	1
+or_Denon	1
 CC_NNS
 and_crossbows	1
 but_others	1
@@ -6020,18 +5820,10 @@ and_villains	1
 and_turns	1
 and_bats	1
 either_ages	1
-,_NNS
-,_things	1
-,_lots	1
-,_vampires	1
-,_Japanese	1
-,_fans	1
-,_werewolves	1
-,_heads	1
-,_knives	1
 WP_IN
 what_of	1
 DT_TO
+all_to	1
 this_to	1
 JJ_NN
 long_list	1
@@ -6072,7 +5864,7 @@ last_appearance	1
 giant_wolf-face	1
 Japanese_b/c	1
 chatty_parasite	1
-horrible_villain	1
+new_BLOOD	1
 third_novel	3
 new_breed	1
 dystrophic_world	1
@@ -6128,6 +5920,7 @@ incredible_animation	1
 human_psyche	1
 first_novel	1
 only_thing	2
+hard-bitten_sister	1
 computer-generated_imagery	1
 healthy_appreciation	1
 gothic_atmosphere	1
@@ -6142,13 +5935,15 @@ apocalyptic_future	2
 international_production	1
 elegant_animation	1
 various_cast	1
+medieval_cowboy	1
 good_gift	1
 enormous_fortress	1
 iconic_figure	1
 same_purpose	1
 romantic_vampire	1
+horrible_villain	1
 desperate_family	1
-medieval_cowboy	1
+everyday_DVD	1
 only_fault	1
 main_strength	1
 Cantonese-language_version	1

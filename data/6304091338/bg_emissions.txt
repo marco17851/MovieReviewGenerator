@@ -73,6 +73,16 @@ VBG_VBN
 being_relegated	1
 Having_lost	1
 being_served	1
+NN_WRB
+wall_when	1
+incident_where	1
+end_when	1
+film_where	1
+romance_wherein	1
+meal_where	1
+wife_where	1
+place_where	1
+greenhouse_where	1
 VBN_VBG
 been_studying	1
 built_following	1
@@ -120,19 +130,6 @@ enough_to	1
 VBN_:
 minded_;	1
 read_-	1
-VBP_,
-arise_,	1
-emerge_,	1
-do_,	1
-IN_``
-that_``	1
-Like_``	1
-in_``	1
-with_``	1
-as_`	1
-for_``	1
-like_``	1
-In_``	1
 VBP_.
 fall_.	1
 do_.	1
@@ -144,6 +141,7 @@ one_whom	1
 VBP_CC
 talk_or	1
 hope_and	1
+emerge_and	1
 VBN_.
 said_.	1
 happened_.	1
@@ -153,24 +151,20 @@ repulsed_.	1
 married_.	1
 depicted_.	1
 recommended_.	1
-VBN_,
-guessed_,	1
-disappointed_,	1
-seen_,	1
-married_,	1
-repressed_,	1
-released_,	1
-named_,	1
 VB_JJR
 get_worse	1
 attract_more	1
+NNP_WRB
+Insects_where	1
 WDT_MD
 that_should	1
 CC_TO
 and_to	1
 VBN_CC
-marked_and	1
+seen_but	1
 despised_and	2
+marked_and	1
+married_but	1
 relaxed_but	1
 educated_and	1
 VBZ_CD
@@ -189,9 +183,11 @@ images_which	1
 dances_that	1
 elements_that	1
 ants_that	1
+stereotypes_which	1
 things_that	1
 RB_JJS
 hte_best	1
+well_most	1
 RB_JJR
 once_more	1
 far_more	1
@@ -203,20 +199,16 @@ WP_VBD
 what_was	1
 who_was	1
 who_committed	1
-''_MD
-''_could	1
-''_would	1
 IN_RBR
 with_more	1
 TO_JJR
 to_better	1
-RP_,
-out_,	1
 VBN_JJ
 made_aware	1
 been_aware	1
 overlooked_minor	1
 painted_many	1
+forced_underground	1
 educated_wealthy	1
 revealed_several	1
 repressed_Victorian	1
@@ -240,6 +232,7 @@ who_lives	1
 who_lets	1
 what_is	1
 who_amuses	1
+what_makes	2
 who_shares	1
 who_loses	1
 what_looks	1
@@ -249,21 +242,25 @@ who_falls	2
 What_is	1
 what_appears	1
 NNP_CC
-Eugenia_and	1
+Rylance_but	1
+Harald_but	1
 William_and	4
+Amy_and	1
+Ivory_and	1
 Angels_and	1
 Kensit_and	1
 North_or	1
 Amazon_and	1
-Rylance_and	3
+Rylance_and	4
 Harald_and	1
-Ivory_and	1
-Alabaster_and	1
+Eugenia_and	1
+North-Country_or	1
+James_but	1
+Scotsman_but	1
+Alabaster_and	3
 GWTW_and	1
 WP_MD
 what_would	1
-``_WP
-`_what	1
 RP_VBG
 off_making	1
 JJR_NNS
@@ -321,120 +318,13 @@ as_his	1
 with_his	4
 of_its	2
 for_his	2
-NNS_''
-hoops_''	1
-beauties_''	1
-others_''	1
-NN_,
-pennyless_,	1
-piece_,	2
-caressing_,	1
-father_,	1
-heart_,	1
-NC-17_,	1
-nonsense_,	1
-son_,	2
-voice_,	1
-governess_,	3
-fashion_,	1
-gentleness_,	1
-Ah_,	1
-life_,	2
-quality_,	1
-servant_,	1
-screen_,	1
-cinematography_,	2
-lineage_,	1
-tale_,	3
-girl_,	1
-nanny_,	1
-marriage_,	1
-butterfly_,	1
-academia_,	1
-actor_,	1
-drumbeat_,	1
-estate_,	1
-intrepid_,	1
-meantime_,	1
-lusciousness_,	1
-romance_,	1
-research_,	1
-story_,	4
-night_,	1
-pregnancy_,	1
-line_,	1
-naturalist_,	2
-pale_,	1
-companion_,	1
-status_,	1
-complexion_,	1
-sympathizer_,	1
-drama_,	2
-cinema_,	1
-movie_,	3
-way_,	1
-lens_,	1
-moment_,	3
-end_,	1
-birth_,	1
-money_,	1
-specialist_,	1
-tutor_,	2
-appearance_,	2
-ending_,	1
-novel_,	1
-nudity_,	1
-queen_,	3
-stage_,	1
-accident_,	1
-fat_,	1
-woman_,	2
-film_,	6
-work_,	2
-sponsor_,	1
-thing_,	2
-matron_,	1
-cast_,	1
-pedigree_,	1
-woodshed_,	1
-brother-in-law_,	1
-role_,	1
-music_,	1
-aristocracy_,	1
-sex_,	3
-doubt_,	1
-one-night-stand_,	1
-bed_,	1
-back_,	1
-colony_,	2
-power_,	1
-course_,	2
-avail_,	1
-return_,	1
-nature_,	2
-rapture_,	1
-benefactor_,	1
-daughter_,	2
-department_,	1
-whiteness_,	1
-thiller_,	1
-age_,	1
-brother_,	2
-hive_,	1
-science_,	1
-individual_,	1
-plot_,	1
-novella_,	1
-error_,	1
-character_,	1
-time_,	1
-family_,	4
 NN_VB
 hive_make	1
 time_match	1
+way_tho	1
 fianc&eacute;_kill	1
-TO_CD
-to_one	1
+JJ_MD
+deep_could	1
 IN_WDT
 in_which	3
 PRP$_NN
@@ -505,8 +395,6 @@ Their_attraction	1
 his_life	2
 Her_character	1
 our_view	1
-``_VBZ
-`_makes	1
 VB_IN
 depict_in	1
 Set_in	1
@@ -535,8 +423,6 @@ JJ_PRP
 correct_I	1
 blond_it	1
 few_I	1
-,_''
-,_''	2
 VBD_RB
 moved_about	1
 had_ever	1
@@ -555,11 +441,21 @@ was_already	1
 pulled_back	1
 NN_DT
 end_the	2
+secret_a	1
 film.Yet_the	1
+rapture_the	1
+naturalist_a	1
+queen_the	1
+matron_a	1
+son_the	1
+tale_a	1
+sponsor_a	1
 governess_a	1
+music_the	1
+film_the	2
 point_this	1
 matriarch_the	1
-course_the	1
+course_the	2
 way_the	4
 VBN_JJR
 paid_more	1
@@ -578,26 +474,27 @@ and_Insects	9
 &_Insects	1
 VBP_JJ
 are_superb	1
-are_complex	1
-Be_aware	1
 are_great	1
 are_sure	1
 'm_sure	1
-ring_true	1
 see_bright	1
-are_breathtaking	1
-are_irrelevant	1
-depict_certain	1
 know_Victorian	1
-are_normal	1
 are_beautiful	1
-run_deep	1
-do_similar	1
-are_many	1
-'re_reminiscent	1
-do_social	1
-are_interested	1
 champion_human	1
+arise_stunning	1
+run_deep	1
+are_breathtaking	1
+are_many	1
+are_normal	1
+are_interested	1
+Be_aware	1
+do_social	1
+depict_certain	1
+ring_true	1
+are_irrelevant	1
+are_complex	1
+do_similar	1
+'re_reminiscent	1
 :_PRP$
 -_her	1
 -_his	1
@@ -609,14 +506,15 @@ give_Adamson	1
 intimidate_Adamson	1
 distance_Adamson	1
 NNS_NNP
+scenes_Mary	1
+costumes_A&I	1
 characters_Mark	1
+appearances_Adamson	1
 marries_Eugenia	1
 NNS_NNS
 things_eyebrows	1
 studies_insects	1
 rights_causes	1
-WRB_,
-how_,	1
 JJS_JJ
 most_astute	1
 CC_IN
@@ -651,18 +549,16 @@ Eventually_problems	1
 CC_:
 and_--	1
 RB_NNP
-very_English	1
-Even_Eugenia	1
-also_Maddie	1
 perhaps_North	1
+However_Thomas	1
+very_English	1
+There_William	1
+Even_Eugenia	1
+Meanwhile_Adamson	1
 Eventually_William	1
+also_Maddie	1
 WDT_NN
 which_character	1
-,_PRP$
-,_his	1
-,_my	1
-,_her	1
-,_their	1
 IN_RB
 of_outwardly	1
 for_just	1
@@ -679,11 +575,12 @@ than_just	2
 VBN_DT
 had_no	1
 been_some	1
+repressed_the	1
 outlined_the	1
 married_a	1
 VBP_PRP
 seem_I	1
-Do_you	1
+do_you	1
 find_it	1
 love_it	1
 guess_I	1
@@ -691,6 +588,7 @@ make_it	1
 imagine_it	1
 expect_they	1
 scan_them	1
+Do_you	1
 mean_you	1
 VB_:
 say_:	1
@@ -727,9 +625,6 @@ VBP_PRP$
 organize_our	1
 turn_their	1
 deliver_their	1
-VB_,
-Enter_,	1
-articulate_,	1
 VB_.
 become_.	1
 be_.	3
@@ -753,19 +648,16 @@ first_to	1
 sure_to	1
 necessary_to	1
 easy_to	1
-WP_,
-whom_,	1
+NNS_JJ
+naturalists_abstract	1
+decisions_such	1
+means_useless	1
+mounds_full	1
+issues_such	1
 RP_CC
 out_and	1
-NNP_''
-Poppins_''	1
-Farm_''	1
-Square_''	1
-Angels_''	3
-ANGELS_''	1
-Eugenia_''	2
-Dance_''	1
-Insects_''	1
+DT_PRP
+any_he	1
 DT_NNS
 the_jungles	1
 the_members	1
@@ -803,6 +695,8 @@ The_directors	1
 the_scenes	1
 the_sets	1
 the_ones	1
+the_others	1
+the_beauties	1
 all_odds	1
 the_humans	1
 the_ways	2
@@ -821,6 +715,7 @@ with_tableaus	1
 for_accuracies	1
 of_sorts	1
 with_humans	1
+In_Insects	1
 that_things	1
 of_charades	1
 of_servants	2
@@ -873,6 +768,7 @@ with_William	1
 as_Eugenia	1
 by_Kemp	1
 with_Maddie	1
+Like_Forbidden	1
 on_AS	1
 of_Charles	1
 on_A.S.	1
@@ -891,7 +787,9 @@ of_A.S.	1
 of_Innocense	1
 of_Matty	1
 on_Matty	1
+like_Washinton	1
 on_Eugenia	1
+in_Angels	1
 by_Sir	1
 by_Kristen	1
 by_Mark	1
@@ -907,11 +805,12 @@ a_Scotsman	1
 the_Age	1
 the_Patsy	1
 the_Amazon	8
-VBZ_''
-makes_'	1
+WDT_IN
+which_of	1
 VB_WRB
 see_why	1
 PRP_NN
+her_Command	1
 us_something	1
 it_work	1
 VBD_DT
@@ -937,40 +836,43 @@ CC_WP
 and_what	1
 and_who	1
 NNS_CC
+hoops_and	1
+strings_and	1
 sets_and	1
 colors_and	1
 pieces_and	1
 ways_and	1
-hives_or	1
+children_and	1
 obsessions_but	1
-studies_and	1
+fans_but	1
 teeth_and	1
 values_and	1
-children_and	1
+hives_or	1
 scenes_and	1
+theaters_and	1
 moths_and	1
-angels_and	1
 palettes_and	1
+angels_and	1
+studies_and	1
 creatures_and	1
 demons_and	1
-theaters_and	1
+in-laws_and	1
 ribbons_and	1
 bows_and	1
 Angels_and	2
 species_and	1
 exercises_and	1
+actors_and	1
 stairs_or	1
+beasts_and	1
+girls_and	1
 tableaus_and	1
 designs_and	1
 ANGELS_&	2
 costumes_and	2
-''_VBZ
-'_makes	1
-''_is	1
-''_presents	1
-''_opens	1
-''_tackles	1
 VBN_PRP
+released_it	1
+disappointed_I	1
 described_it	1
 found_it	1
 seen_her	1
@@ -989,50 +891,80 @@ like_that	1
 doubt_that	1
 come_from	1
 merge_into	1
+CC_CD
+but_one	1
 NN_CC
 sexuality_and	2
 time_or	1
+ending_but	1
+sex_yet	1
 friend_and	2
 time_and	1
+romance_but	1
 furniture_and	1
 illusion_and	1
+drumbeat_and	1
+lens_yet	1
+enlightment_and	1
 labor_and	1
 scenery_and	1
 treatise_and	1
 life_and	1
+bed_and	1
 story_but	1
 beauty_and	2
+novella_and	1
 intelligence_and	1
-enlightment_and	1
+stage_and	1
+NC-17_and	1
+birth_and	1
+caressing_and	1
+support_or	1
+lusciousness_but	1
+thing_and	2
 fitness_and	1
+story_and	3
+character_and	1
 hierarchy_and	1
 feeding_and	1
+family_and	3
 repression_and	1
+thiller_but	1
+pennyless_but	1
 drama_and	1
 cast_and	2
-support_or	1
+pedigree_or	1
+cinematography_but	1
+nudity_and	1
 squire_and	1
 colleague_and	1
+tale_and	1
 name_but	1
 quasi-protector_and	1
 question_and	1
 name_and	1
-family_and	1
+estate_and	1
 self-doubt_and	1
 husband_and	1
 staff_and	1
 hand_and	1
 symbolism_and	1
 acting_and	2
-work_and	1
+work_and	2
 beginning_and	1
+tutor_and	1
 dissonance_and	1
-photography_and	1
+science_and	1
+role_but	1
 creation_and	1
+photography_and	1
+movie_but	2
 macho_nor	1
-WDT_PRP
-which_he	1
-which_I	1
+nature_and	1
+appearance_and	1
+plot_but	1
+NN_CD
+doubt_one	1
 DT_JJS
 the_finest	1
 the_highest	1
@@ -1046,6 +978,7 @@ the_younger	1
 a_better	2
 the_more	1
 DT_WP
+that_what	1
 those_who	5
 MD_TO
 can_to	1
@@ -1054,20 +987,32 @@ what_several	1
 NN_JJ
 bloodline_pure	1
 crust_Victorian	1
+pregnancy_new	1
 line_pure	1
 century_English	1
+piece_awash	1
 something_clever	1
+film_such	1
+money_British	1
+voice_gentle	1
 film_exceptional	1
+cinematography_flawless	1
 issue_insect-like	1
+pale_flaxen-haired	1
 RB_EX
+Meanwhile_there	1
+Yes_there	1
 Yet_there	1
 NNP_NNS
 Adamson_studies	1
+Alabaster_women	1
+Rylance_returns	1
 Hollywood_stereotypes	1
 William_studies	1
-Alabaster_women	1
+ANGELS_scrolls	1
 Adamson_dances	1
 William_marries	1
+Edgar_in-laws	1
 NNP_NNP
 Philip_Haas	2
 William_Adamson	3
@@ -1114,6 +1059,7 @@ AS_Byatt	1
 Phillip_Haas	1
 Reed_This	1
 Comfort_Farm	1
+Eugenia_Angels	1
 Sir_Harald	8
 WIDE_SHUT	1
 Edgar_Douglas	1
@@ -1123,6 +1069,7 @@ James_Tissot	1
 South_America	1
 Director_Philip	1
 Eugenia_Patsy	3
+Kensit_Mark	1
 Alabaster_Jeremy	1
 Matty_Kristin	1
 James_Ivory	1
@@ -1131,14 +1078,24 @@ Patsy_Kensit	8
 Jeremy_Kemp	1
 Mark_Rylance	10
 Douglas_Henshall	1
-VBZ_JJR
-is_more	1
+:_RB
+;_instead	1
+-_surely	1
+-_well	1
+-_perhaps	1
+..._Usually	1
+--_far	1
+..._perhaps	1
+--_especially	1
+:_also	1
 CC_EX
 and_there	1
-JJR_,
-more_,	1
-DT_PRP
-any_he	1
+VB_TO
+bother_to	1
+wait_to	1
+turn_to	1
+lead_to	1
+begin_to	1
 VBN_TO
 supposed_to	1
 scheduled_to	1
@@ -1150,12 +1107,6 @@ made_to	1
 prepared_to	1
 locked_to	1
 displayed_to	1
-''_RB
-''_completely	1
-NNPS_''
-Europeans_''	1
-Buccaneers_''	1
-Insects_''	6
 IN_DT
 against_all	1
 As_a	1
@@ -1176,7 +1127,7 @@ In_the	4
 among_the	1
 throughout_the	2
 near_the	2
-on_the	9
+on_the	10
 that_a	2
 for_the	7
 during_a	1
@@ -1264,6 +1215,9 @@ VBZ_WRB
 runs_when	1
 VBN_CD
 seen_one	1
+WDT_PRP
+which_he	1
+which_I	1
 RB_WRB
 also_how	1
 just_how	1
@@ -1273,25 +1227,6 @@ CD_POS
 2000_'s	1
 1700_'s	1
 90_'s	1
-RB_,
-Obviously_,	1
-not_,	1
-Well_,	1
-yet_,	1
-however_,	1
-Now_,	1
-now_,	1
-before_,	1
-again_,	1
-There_,	1
-Yes_,	1
-fast_,	1
-Meanwhile_,	3
-so_,	1
-well_,	2
-However_,	1
-up_,	1
-surely_,	1
 RB_.
 indeed_.	1
 ever_!	1
@@ -1367,8 +1302,6 @@ where_you	2
 ;_while	1
 :_In	1
 ;_besides	1
-''_:
-''_--	1
 PRP$_JJ
 my_nightly	1
 his_low	1
@@ -1407,8 +1340,11 @@ Their_unnerving	1
 its_own	1
 their_hierarchically-run	1
 his_scientific	1
+VB_NNPS
+Let_Angels	1
 PRP_PRP
 them_I	1
+her_he	1
 IN_PRP
 before_it	2
 besides_she	1
@@ -1438,16 +1374,13 @@ that_he	2
 as_it	1
 that_you	1
 of_it	1
-for_him	2
+that_She	1
 that_it	3
 like_them	1
+for_him	2
 of_himself	1
 of_us	1
 that_we	2
-''_.
-''_.	2
-''_,
-''_,	6
 NNS_VB
 moths_overpower	1
 servants_stop	1
@@ -1490,6 +1423,8 @@ she_were	1
 they_were	1
 I_liked	1
 he_survived	1
+PRP_VBG
+herself_leaving	1
 DT_VBP
 the_alter	1
 Some_find	1
@@ -1566,6 +1501,7 @@ a_multitude	1
 a_place	1
 a_living	1
 the_scene	2
+the_house	1
 the_veil	1
 the_son	1
 the_tale	1
@@ -1711,6 +1647,7 @@ The_fact	1
 the_time	2
 the_pennyless	1
 this_movie	5
+the_excessiveness	1
 The_movie	3
 a_name	1
 an_excuse	1
@@ -1803,8 +1740,6 @@ it_slow	1
 it_captivating	1
 it_worth	1
 it_clear	1
-,_.
-,_.	1
 PRP_VBZ
 she_shows	1
 she_has	1
@@ -1813,7 +1748,7 @@ He_is	3
 it_tends	1
 he_'s	2
 she_represents	1
-it_becomes	1
+it_becomes	2
 It_seems	1
 he_resides	1
 he_finds	4
@@ -1850,7 +1785,7 @@ It_reveals	1
 He_attempts	1
 He_turns	1
 PRP_:
-me_--	1
+me_--	2
 her_...	1
 IN_.
 of_.	1
@@ -1859,8 +1794,6 @@ FW_FW
 cuz_i	1
 RP_.
 down_.	1
-``_DT
-``_The	2
 PRP_.
 me_.	2
 him_.	2
@@ -1869,22 +1802,10 @@ it_?	1
 themselves_.	1
 her_.	2
 it_.	3
-PRP_,
-her_,	3
-himself_,	1
-it_,	1
-she_,	1
-herself_,	1
-:_RB
-;_instead	1
--_surely	1
--_well	1
--_perhaps	1
-..._Usually	1
---_far	1
-..._perhaps	1
---_especially	1
-:_also	1
+IN_:
+as_--	1
+at_...	1
+on_-	1
 CC_VBP
 or_argue	1
 and_have	1
@@ -1893,6 +1814,9 @@ but_want	1
 and_continue	1
 and_expect	1
 and_do	1
+NNP_WDT
+Alabasters_which	1
+Eugenia_which	1
 PRP_VB
 it_look	1
 him_become	1
@@ -1908,20 +1832,16 @@ But_does	1
 and_tells	1
 and_falls	1
 and_brightens	1
-NN_WRB
-wall_when	1
-incident_where	1
-end_when	1
-film_where	1
-romance_wherein	1
-meal_where	1
-wife_where	1
-place_where	1
-greenhouse_where	1
+NNS_PRP$
+ladies_their	1
 RP_TO
 on_to	1
 up_to	1
 out_to	1
+NNP_PRP
+Farm_you	1
+Kemp_he	1
+England_it	1
 CC_VBD
 and_bought	1
 and_thought	1
@@ -1932,50 +1852,13 @@ CC_VBG
 and_watching	1
 and_describing	1
 and_impregnating	1
+NNPS_VB
+Insects_entrap	1
 CC_VBN
 both_marked	1
 and_mistreated	2
 and_scarred	1
 but_negated	1
-JJ_,
-dark_,	2
-meaningless_,	1
-superb_,	3
-shocked_,	1
-intelligent_,	2
-slow_,	1
-damp_,	1
-drab_,	1
-ill-advised_,	1
-like_,	1
-apparent_,	1
-masterful_,	1
-deep_,	1
-beautiful_,	3
-radiant_,	1
-uncertain_,	1
-hyper-colorful_,	1
-fascinating_,	1
-good_,	2
-breathtaking_,	1
-useless_,	1
-soft-spoken_,	1
-sensitive_,	1
-spectacular_,	1
-first-rate_,	1
-boring_,	2
-poor_,	1
-great_,	1
-impractical_,	1
-lovely_,	1
-wealthy_,	1
-lush_,	2
-naked_,	1
-true_,	1
-sure_,	1
-tasteful_,	1
-unbearable_,	1
-tidy_,	1
 JJ_.
 terrific_.	1
 melodramatic_.	1
@@ -2016,6 +1899,8 @@ own_.	1
 usual_.	1
 breathtaking_.	1
 captivating_.	1
+JJR_CD
+more_one	1
 VBN_IN
 lifted_from	1
 haunted_by	2
@@ -2040,6 +1925,7 @@ Adapted_from	1
 enacted_for	1
 ruined_by	1
 acted_by	1
+named_for	1
 lost_in	2
 obsessed_with	1
 trapped_in	1
@@ -2086,6 +1972,7 @@ was_controversial	1
 was_first	1
 were_spectacular	1
 was_certain	1
+were_good	1
 was_impecible	1
 was_worth	1
 was_full	1
@@ -2104,6 +1991,8 @@ of_why	1
 in_how	1
 about_how	1
 of_how	2
+NNPS_VBD
+Insects_was	1
 PRP$_VBG
 his_surviving	1
 IN_PDT
@@ -2111,6 +2000,8 @@ in_such	1
 with_all	1
 PRP$_JJR
 her_older	1
+JJ_WDT
+poor_which	1
 NN_NNS
 class_women	1
 butterfly_wings	1
@@ -2118,6 +2009,7 @@ house_rules	1
 image_blurrs	1
 sense_returns	1
 film_tears	1
+period_movies	1
 worker_bees	1
 living_things	1
 caliber_performances	1
@@ -2140,32 +2032,48 @@ movie_theaters	1
 entomology_references	1
 NNP_PRP$
 Kensit_Her	1
+Eugenia_his	1
 NN_NNP
+end_William	1
 colleague_Alfred	1
+read_INSECTS	1
 director_Philip	1
 ball_Adamson	1
 biologist_Adamson	1
-brother_Edgar	1
+girl_Eugenia	1
 century_England	1
 novelist_A.S.	1
-hero_Mark	1
-novella_Morpho	1
-woman_Kristin	1
-scientist_Adamson	1
-brother_Edmund	1
-bit_V.C.	1
-beginning_William	1
-daughter_Eugenia	1
-naturalist_Mark	1
+brother-in-law_Edgar	1
+son_Edgar	1
+nanny_Maddy	1
 witness_William	1
-naturalist_William	1
+novella_Morpho	4
+woman_Kristin	1
+tutor_Matty	1
+brother_Edmund	1
+word_ANGELS	1
+meantime_William	1
+scientist_Adamson	1
+governess_Mattie	1
+beginning_William	1
+hero_Mark	1
+governess_Kristin	1
+daughter_Eugenia	3
+naturalist_Mark	1
+servant_Matty	1
+naturalist_William	2
 director_Phillip	1
 story_Eugenia	1
+actor_Mark	1
 in-law_Edgar	1
+father_Sir	1
+benefactor_Reverend	1
 film_Eugenia	1
 cousin_Eugenia	1
-actor_Mark	1
+bit_V.C.	1
+brother_Edgar	2
 NNPS_VBZ
+Insects_presents	1
 Insects_is	2
 Insects_unveils	1
 IN_JJS
@@ -2198,8 +2106,6 @@ better_position	1
 more_attention	1
 more_meaning	1
 better_effect	1
-RB_``
-politely_``	1
 PRP_MD
 they_will	1
 I_will	2
@@ -2263,6 +2169,8 @@ have_said	1
 JJS_IN
 least_from	1
 most_of	1
+IN_NNPS
+for_Angels	1
 EX_VBZ
 there_is	6
 There_'s	2
@@ -2275,9 +2183,11 @@ NN_NN
 period_piece	4
 screen_read	1
 blood_line	1
+status_money	1
 field_work	1
 movie_jacket	1
 forest_floor	1
+power_pedigree	1
 film_today	1
 insect_life	1
 butterfly_scene	1
@@ -2285,6 +2195,7 @@ love_story	2
 fox_hunt	1
 country_estate	1
 center_stage	1
+family_science	1
 queen_bee	1
 image_quality	1
 time_period	1
@@ -2303,6 +2214,8 @@ family_estate	1
 morality_vs.	1
 period_detail	1
 notch_art	1
+one-night-stand_pregnancy	1
+sex_nudity	1
 family_pass	1
 movie_enviroment	1
 brother_in-law	1
@@ -2311,6 +2224,7 @@ bedroom_door	1
 nature_collection	1
 art_design	1
 mother_country	1
+money_power	1
 kind_individual	1
 country_home	1
 insect_specialist	1
@@ -2319,6 +2233,7 @@ costume_drama	2
 family_home	1
 forest_idyll	1
 century_Darwinist	1
+back_nothing	1
 period_movie	1
 family_secret	1
 termite_queen	1
@@ -2338,6 +2253,7 @@ class_entymologist	1
 penultimate_scene	1
 award_caliber	1
 film_depiction	1
+time_family	1
 script_department	1
 house_life	1
 bee_hive	1
@@ -2352,41 +2268,22 @@ movies_pretty	1
 accents_straight	1
 thumbs_up	1
 actions_always	1
+clues_early	1
+situations_so	1
 years_abroad	1
 blurrs_again	1
+specimens_only	1
 roles_ever	1
-clues_early	1
+accuracies_maybe	1
 EX_VBD
 there_was	2
 There_was	2
 VBP_NNS
 compare_insects	1
 forget_movies	1
-,_JJ
-,_gentle	1
-,_incredible	1
-,_cohesive	1
-,_sensual	1
-,_curious	1
-,_such	2
-,_decent	1
-,_upper	1
-,_flawless	1
-,_dark	3
-,_dangerous	1
-,_new	1
-,_cornsilk-haired	1
-,_awash	1
-,_flaxen-haired	1
-,_elegant	1
-,_intelligent	1
-,_tedious	1
-,_scholarly	1
-,_painted	1
-,_full	1
-,_stunning	1
-,_EX
-,_there	3
+like_hoops	1
+:_VBG
+--_saying	1
 DT_JJ
 the_bustling	1
 the_early	1
@@ -2433,6 +2330,7 @@ a_slow	1
 an_impoverished	2
 the_top	1
 an_apt	1
+an_old	1
 the_beautiful	2
 the_open-minded	1
 A_young	2
@@ -2595,13 +2493,25 @@ a_native	1
 the_excellent	1
 WP$_NN
 whose_research	1
-:_VBD
---_was	1
-``_VB
-``_warn	1
-``_keep	1
-NNS_``
-scenes_``	1
+VBZ_PRP
+brings_it	1
+finds_himself	3
+employs_him	1
+makes_it	1
+interrupts_him	1
+amuses_himself	1
+passes_them	1
+secludes_herself	1
+marries_her	2
+lets_you	1
+draws_him	1
+turns_it	1
+seems_he	1
+surrounds_him	1
+tells_it	1
+shows_us	1
+sets_her	1
+warns_him	1
 NN_IN
 spirit_than	1
 home_from	1
@@ -2618,6 +2528,7 @@ depiction_of	1
 dignity_in	1
 while_as	1
 kind_of	1
+actor_with	1
 poor_though	1
 marriage_in	1
 naturalist_of	1
@@ -2628,8 +2539,10 @@ attention_because	1
 ending_so	1
 bit_at	1
 woman_for	1
+examination_of	1
 sign_of	1
 THINK_before	1
+avail_because	1
 virtue_of	1
 adulation_of	1
 Music_by	1
@@ -2649,6 +2562,7 @@ blossom_by	1
 assistance_of	1
 version_of	1
 reality_of	1
+gentleness_although	1
 study_of	2
 myth_that	1
 secret_behind	1
@@ -2672,6 +2586,7 @@ place_in	1
 anthill_in	1
 brood_of	1
 novella_by	1
+department_although	1
 home_at	1
 scene_in	2
 cousin_of	2
@@ -2680,7 +2595,7 @@ position_than	1
 havoc_around	1
 claim_that	1
 help_in	1
-gift_for	1
+None_of	1
 certainty_that	1
 scene_with	1
 colony_of	3
@@ -2688,14 +2603,14 @@ separation_from	1
 behavior_of	1
 piece_of	1
 ballroom_with	1
-examination_of	1
+edge_of	1
 television_in	1
 value_of	1
 treatment_of	1
 division_of	1
 breakthrough_for	1
 secret_near	1
-edge_of	1
+colony_with	1
 background_while	1
 innocence_in	1
 bed_with	1
@@ -2723,6 +2638,7 @@ naturalist_in	1
 surface_of	1
 advantage_of	2
 world_than	1
+film_like	1
 man_of	1
 actress_in	1
 pleasure_of	1
@@ -2744,18 +2660,23 @@ household_of	1
 story_of	1
 name_of	1
 viewer_that	1
-statuary_in	1
+butterfly_while	1
 program_of	1
+statuary_in	1
 retelling_of	1
 world_in	1
 meaning_in	1
 presence_of	1
+nonsense_as	1
 view_of	1
 question_of	1
 shock_near	1
 dancing_with	1
 appearance_for	1
+course_after	1
+screen_because	1
 movie_for	1
+gift_for	1
 staff_of	1
 film_with	1
 ego_of	1
@@ -2768,6 +2689,7 @@ cycle_of	1
 fascination_with	1
 patriarch_on	1
 catalyst_for	1
+excessiveness_that	1
 patriarch_of	1
 plenty_of	1
 friendship_with	1
@@ -2776,7 +2698,7 @@ happiness_in	1
 story_without	1
 scholar_of	2
 job_of	2
-None_of	1
+complexion_with	1
 sort_of	1
 rest_of	1
 explorer_in	1
@@ -2811,6 +2733,7 @@ fact_that	3
 metaphor_for	2
 oomph_of	1
 protagonist_in	1
+life_as	1
 nothing_in	1
 work_of	2
 reason_in	1
@@ -2826,52 +2749,65 @@ study_in	1
 conceit_as	1
 thing_about	1
 clothing_of	1
-''_VB
-''_entrap	1
 CC_DT
 both_the	1
 but_that	1
 nor_the	1
 and_a	6
 but_some	1
-And_the	1
+Yet_the	1
 but_this	3
 but_all	1
 and_every	1
+And_the	1
 But_the	1
 both_a	1
 and_the	14
 and_this	1
 NN_VBN
 butterfly_lost	1
-morality_used	1
-naturalist_called	1
-supporter_named	1
-story_hidden	1
-man_seen	1
 detail_taken	1
+naturalist_called	1
+sex_followed	1
+supporter_named	1
+morality_used	1
+story_based	1
+piece_set	1
+man_seen	1
+family_headed	1
 veil_lifted	1
+story_hidden	1
 drama_set	1
 scene_set	1
 story_set	1
 servant_named	1
+drama_based	1
 Naturalist_named	1
 NNS_PRP
-libraries_we	1
-characters_I	1
 times_it	1
+characters_I	1
+libraries_we	1
+creatures_we	1
 kisses_her	1
 films_I	1
-:_VBG
---_saying	1
+humans_they	1
+pregnancies_she	1
 NN_VBG
+fat_producing	1
 job_cataloging	1
 vicar_struggling	1
+queen_swarming	1
 secret_haunting	1
-era_evoking	1
 film_depicting	1
+queen_killing	1
+era_evoking	1
+aristocracy_using	1
 perversion_seething	1
+house_making	1
+fashion_causing	1
+error_describing	1
 intelligence_making	1
+accident_turning	1
 CC_WRB
 and_how	1
 and_when	1
@@ -2899,90 +2835,95 @@ whom_he	2
 what_they	2
 what_we	2
 NN_VBZ
-plot_gives	1
-household_passes	1
-escape_is	1
-film_does	1
-marriage_fails	1
+hero_has	1
+specialist_discovers	1
+anyone_views	1
+family_hides	1
+workhorse_has	1
+plot_is	1
+intellect_sets	1
+film_progresses	2
+action_moves	1
+story_is	4
+husband_finds	1
+DVD_is	1
+denouement_is	1
+review_is	1
+movie_is	4
+character_has	2
+insectia_becomes	1
+family_is	1
+movie_makes	1
+pattern_is	1
 direction_is	1
-everyone_is	1
 spotlight_dims	1
 film_starts	1
 movie_takes	1
 claim_is	1
 beat_picks	1
-cinematography_is	1
-scene_emerges	1
-story_runs	1
 attraction_is	1
 film_reveals	1
-family_hides	1
-family_is	1
-workhorse_has	1
-plot_is	1
-flick_is	1
-intellect_sets	1
-biology_dictates	1
-investigator_is	1
-conversation_turns	1
-door_is	1
 message_is	1
-film_has	2
-father_interrupts	1
-man_is	1
 quality_is	1
-hero_has	1
-film_progresses	2
-action_moves	1
-film_is	5
-explorer_is	1
 research_is	1
-story_is	4
-story_evolves	1
-husband_finds	1
-partner_is	1
 body_is	1
-Darwinist_comes	1
-love_goes	1
-DVD_is	1
 film_begins	1
-villain_is	1
 character_matches	1
-pace_is	1
-metaphor_is	1
 woman_is	1
-review_is	1
-movie_is	4
-science_has	1
-wife_is	2
 one_features	1
+colony_has	1
 acting_is	1
-black_is	1
-life_is	1
-insectia_becomes	1
+screenplay_epitomizes	1
 relation_is	1
-denouement_is	1
-movie_looks	2
 nakedness_is	1
-character_has	2
+movie_has	1
+Quartet_has	1
+reality_is	1
+story_runs	1
+plot_turns	1
+escape_is	1
+naturalist_has	1
+plot_gives	1
+household_passes	1
+film_does	1
+marriage_fails	1
+scene_emerges	1
+conversation_turns	1
+film_has	2
+partner_is	1
+love_goes	1
+individual_falls	1
+tension_is	1
 turn_acts	1
 something_is	1
 tragedy_has	1
-tension_is	1
-society_has	1
-reality_is	1
-theme_is	1
+story_evolves	1
 title_is	1
-Quartet_has	1
-movie_makes	1
-naturalist_has	1
-plot_turns	1
+cinematography_is	1
+villain_is	1
+biology_dictates	1
+door_is	1
+father_interrupts	1
+man_is	1
+flick_is	1
+film_is	5
+explorer_is	1
+everyone_is	1
+pace_is	1
+metaphor_is	1
+science_has	1
+wife_is	2
+black_is	1
+life_is	1
+movie_looks	2
+investigator_is	1
+character_begins	1
+society_has	1
+theme_is	1
+drama_does	1
 dance_is	1
 protagonist_is	1
-character_begins	1
-pattern_is	1
-anyone_views	1
-screenplay_epitomizes	1
+Darwinist_comes	1
 storyline_revolves	1
 RB_RB
 Not_completely	1
@@ -3006,6 +2947,7 @@ pretty_fast	1
 not_always	1
 enough_well	1
 not_usually	1
+not_just	1
 So_much	1
 not_even	1
 as_carefully	1
@@ -3024,13 +2966,12 @@ talked_about	1
 NNPS_MD
 Americans_will	1
 NN_VBP
-race_mean	1
+nature_are	1
+work_are	1
+intellect_carry	1
 wife_live	1
 middle_are	1
-intellect_carry	1
-nature_are	1
-PRP_''
-me_''	1
+race_mean	1
 PRP_RB
 us_away	1
 it_over	1
@@ -3052,20 +2993,15 @@ us_once	1
 it_as	1
 she_never	1
 himself_unexpectedly	1
-,_NNPS
-,_Americans	1
-,_Angels	1
 IN_EX
 that_there	2
 So_there	1
 since_there	1
-WP_''
-what_'	1
+JJS_PRP
+plainest_you	1
 PRP_RP
 you_down	1
 him_off	1
-JJ_``
-prissy_``	1
 RB_VBZ
 almost_begs	1
 really_happens	1
@@ -3089,10 +3025,10 @@ much_is	1
 eventually_marries	1
 barely_conceals	1
 now_is	1
-,_WP
-,_whom	2
-,_who	5
-,_what	1
+NNPS_NNP
+Midlands_Englishman	1
+VBZ_VBD
+learns_was	1
 VBZ_VBG
 is_telling	1
 is_brimming	1
@@ -3101,6 +3037,7 @@ is_dancing	1
 is_recovering	1
 is_teeming	1
 VB_PRP
+warn_us	1
 teach_us	1
 tho_it	1
 lead_him	1
@@ -3172,6 +3109,7 @@ When_Rylance	1
 how_science	1
 wherein_love	1
 DT_DT
+that_this	1
 all_those	1
 all_that	1
 RB_VBN
@@ -3182,6 +3120,7 @@ well_done	1
 Highly_recommended	1
 originally_released	1
 perhaps_dealt	1
+however_despised	1
 beautifully_done	1
 beautifully_realized	1
 already_known	1
@@ -3213,13 +3152,8 @@ never_made	1
 merely_trapped	1
 totally_lost	1
 somewhat_flawed	1
-NN_''
-excessiveness_''	1
-secret_''	1
-house_''	1
-money_'	1
-period_''	1
-drama_''	1
+VBP_WP
+are_what	1
 RB_VBG
 also_foreshadowing	1
 often_moving	1
@@ -3239,65 +3173,21 @@ beautifully_rendered	1
 first_hit	1
 ever_had	1
 NNS_NN
-viewers_insight	1
-anothers_beauty	1
 patriarchs_daughter	1
 weds_Kensit	1
+anothers_beauty	1
+costumes_jungle	1
+viewers_insight	1
+horses_furniture	1
 VBD_NN
 gained_notoriety	1
 committed_suicide	1
 was_hell	1
 JJ_WP
 particular_who	1
-JJ_JJ
-bright_colored	1
-Wonderful_onscreen	1
-other_entertaining	1
-several_other	1
-sadistic_eldest	1
-deep_dark	1
-complex_female	1
-good_old	1
-many_neat	1
-impoverished_Victorian	1
-stark_black-and-white	1
-only_redeeming	1
-cohesive_masterful	1
-bad_digital	1
-incredible_impractical	1
-unusual_sexual	1
-exquisite_little	1
-fleeting_male	1
-beautiful_eldest	1
-mid_19th	1
-distinct_erotic	1
-ugly_dronish	1
-bustling_ant	1
-local_ant	1
-wonderful_unusual	1
-late_19th	1
-gorgeous_English	1
-penniless_19th	1
-entire_scientific	1
-characteristic_near-albino	1
-wealthy_aristocratic	1
-gray_due	1
-own_secret	1
-same_ancestral	1
-pretentious_pseudo-Victorian	1
-complex_scientific	1
-later_Victorian	1
-precious_little	1
-lovely_former	1
-pathological_sexual	1
-male_nudity-but	1
-strange_sexual	1
-ordinary_prissy	1
-wealthy_Victorian	1
-general_treated	1
-Sexy_Shakespearean	1
 NNP_TO
 Amazon_to	1
+Adamson_to	1
 VBZ_TO
 turns_to	1
 acts_to	1
@@ -3310,30 +3200,13 @@ has_to	4
 agrees_to	1
 comes_to	3
 begins_to	1
+NNPS_DT
+Europeans_The	1
+Alabasters_the	1
 POS_NNP
 's_William	1
 's_Matty	1
 's_Wild	1
-,_IN
-,_after	1
-,_with	5
-,_though	1
-,_so	1
-,_because	2
-,_while	1
-,_as	7
-,_about	1
-,_if	1
-,_although	2
-,_without	1
-,_against	1
-,_that	1
-,_past	1
-,_like	2
-,_for	1
-,_of	1
-,_at	1
-,_despite	2
 POS_NNS
 's_children	1
 's_daughters	1
@@ -3341,7 +3214,10 @@ NNS_WP
 ones_who	1
 insects_who	1
 people_who	2
+RP_NN
+out_none	1
 VBG_CC
+possessing_yet	1
 swarming_and	1
 watching_but	1
 doing_and	1
@@ -3366,14 +3242,17 @@ will_never	1
 can_not	2
 NN_WDT
 piece_that	1
-movie_that	2
 secret_that	1
+movie_that	2
+novel_which	1
 film_which	1
 crew_that	1
+tale_that	1
 life_that	1
 character_which	1
 picture_that	1
 undercurrent_which	1
+nature_which	1
 scene_that	1
 Something_that	1
 family_that	2
@@ -3409,6 +3288,7 @@ enjoy_a	1
 make_a	3
 match_the	1
 discover_a	1
+Enter_a	1
 provide_the	1
 write_a	1
 be_a	3
@@ -3427,8 +3307,6 @@ PDT_DT
 all_the	2
 All_the	1
 such_a	1
-PRP_``
-her_``	1
 VBZ_JJ
 is_beautiful	1
 becomes_obvious	1
@@ -3468,11 +3346,6 @@ is_excellent	1
 looks_good	1
 is_terrific	1
 is_boring	1
-''_DT
-''_the	1
-'_a	1
-''_a	1
-''_this	2
 NN_TO
 power_to	1
 attraction_to	2
@@ -3510,9 +3383,10 @@ all_of	2
 each_of	2
 all_with	1
 NNPS_WRB
-Insects_when	1
+Insects_when	2
 PRP_IN
 it_on	1
+her_despite	1
 her_as	1
 himself_from	1
 it_for	1
@@ -3532,62 +3406,26 @@ them_for	1
 RBR_JJ
 more_uncivilized	1
 more_important	1
-JJS_,
-strongest_,	1
 LS_VBD
 i_was	1
 WP_DT
 whom_the	2
 what_the	1
-CC_CD
-but_one	1
+NNPS_RB
+Victorians_as	1
+Insects_completely	1
 JJ_NNPS
 prim_Victorians	1
 WP_RB
 What_really	1
 what_really	1
-,_NN
-,_jungle	1
-,_pedigree	1
-,_pregnancy	1
-,_image	1
-,_power	1
-,_science	1
-,_none	1
-,_ect	1
-,_family	1
-,_furniture	1
-,_money	1
-,_nudity	1
-,_nothing	1
-,_guest	1
 PRP$_RB
 his_hideously	1
 their_beautifully	1
-WP_``
-what_`	1
 WP_PRP$
 what_our	1
-``_RB
-``_still	1
-CC_,
-Yet_,	1
-``_NNS
-``_Insects	1
-``_hoops	1
-``_beauties	1
-``_others	1
 JJR_CC
 deeper_and	1
-``_NNP
-``_Forbidden	1
-``_Washinton	1
-``_INSECTS	1
-``_ANGELS	1
-``_Angels	4
-``_Cold	1
-``_Morpho	3
-``_Mary	1
 RB_DT
 especially_the	1
 clearly_a	1
@@ -3628,35 +3466,6 @@ one_must	1
 WRB_PRP$
 where_his	1
 when_their	1
-DT_``
-the_``	4
-an_`	1
-,_RB
-,_gradually	1
-,_actually	1
-,_sexually	1
-,_so	1
-,_fully	1
-,_incredibly	1
-,_somewhat	1
-,_almost	1
-,_about	1
-,_ostensibly	1
-,_even	1
-,_indeed	1
-,_particularly	1
-,_however	2
-,_much	2
-,_just	2
-,_only	2
-,_yet	2
-,_as	1
-,_exquisitely	1
-,_merely	1
-,_deceptively	1
-,_maybe	1
-,_barely	1
-,_very	3
 CC_PRP
 and_they	1
 but_he	2
@@ -3670,15 +3479,12 @@ but_it	4
 yet_he	1
 and_we	2
 plus_it	1
-,_VBD
-,_played	2
-,_made	1
-,_was	1
 RB_VB
 ever_have	1
 not_say	1
 somehow_distance	1
 not_make	2
+Well_look	1
 n't_bother	1
 really_like	1
 also_enlighten	1
@@ -3701,8 +3507,6 @@ n't_take	1
 not_disclose	1
 not_have	2
 so_be	1
-''_JJ
-'_British	1
 IN_IN
 in_that	1
 as_in	2
@@ -3717,12 +3521,16 @@ at_in	1
 that_as	1
 except_in	1
 JJ_RB
+dark_sexually	1
 stony_yet	1
-apparent_early	1
+ill-advised_somewhat	1
+lush_very	1
+impractical_incredibly	1
 obvious_early	1
+hyper-colorful_almost	1
 good_enough	1
-,_``
-,_``	3
+radiant_yet	1
+apparent_early	1
 VBZ_WP
 is_what	1
 has_what	1
@@ -3733,20 +3541,6 @@ impregnating_his	1
 losing_his	1
 having_her	1
 making_her	1
-,_VBG
-,_killing	1
-,_causing	1
-,_including	1
-,_cataloging	1
-,_describing	1
-,_naming	1
-,_leaving	1
-,_using	1
-,_producing	1
-,_swarming	1
-,_turning	1
-``_NNPS
-``_Angels	6
 NNS_.
 characters_.	1
 servants_.	1
@@ -3779,64 +3573,20 @@ wings_.	1
 stories_.	1
 interests_.	1
 ways_.	1
-,_VBN
-,_followed	1
-,_headed	1
-,_set	1
-,_played	1
-,_despised	1
-,_based	2
-NNS_,
-girls_,	1
-daughters_,	1
-INSECTS_,	1
-women_,	1
-fans_,	1
-jackets_,	1
-specimens_,	1
-ladies_,	1
-creatures_,	1
-insects_,	1
-appearances_,	1
-servants_,	1
-in-laws_,	1
-celebrities_,	1
-situations_,	1
-horses_,	1
-actors_,	1
-children_,	1
-causes_,	1
-reviews_,	1
-Insects_,	1
-beasts_,	1
-costumes_,	2
-issues_,	1
-accuracies_,	1
-humans_,	1
-stereotypes_,	1
-pregnancies_,	1
-strings_,	1
-mounds_,	1
-,_VBP
-,_do	1
-,_are	2
 RBR_RB
 more_clearly	1
+VBD_NNP
+enjoyed_Cold	1
 NNS_:
 butterflies_--	1
 characters_-	1
 twists_;	1
 moths_:	1
 things_:	1
-,_VBZ
-,_discovers	1
-,_attracts	1
-,_has	2
-,_does	1
-,_becomes	2
-,_falls	1
-,_brings	1
-,_is	5
+WRB_RB
+how_much	1
+POS_DT
+'s_this	1
 JJ_NNS
 similar_things	1
 other_reviewers	1
@@ -3956,18 +3706,20 @@ hollow_Eugenia	1
 bookish_Matty	1
 open-minded_Alabaster	1
 VBD_NNPS
+saw_Angels	1
 watched_Angels	1
-''_CC
-''_and	2
 IN_WP
 in_what	1
 about_whom	1
+as_what	1
 with_what	1
 into_what	1
 beyond_what	1
 of_what	2
 with_whom	1
 on_what	1
+NNS_EX
+reviews_there	1
 VBG_PRP
 telling_us	2
 finding_myself	1
@@ -4004,24 +3756,33 @@ The_Europeans	1
 MD_.
 will_.	1
 NN_PRP
-evolution_it	1
-shipwreck_he	1
-reason_he	1
-course_we	1
+whiteness_he	1
+return_he	1
 drama_I	1
-film_you	1
-chance_he	1
+life_he	3
+sympathizer_he	1
+cinema_I	1
+fornication_you	1
+reason_he	1
+lineage_he	1
+recomendation_I	1
 Kensit_he	1
 Command_me	1
 shipwreck_I	1
-work_he	1
-biology_it	1
 week_I	1
-fornication_you	1
 divorce_himself	1
-life_he	2
 film_I	2
-recomendation_I	1
+age_you	1
+course_we	1
+work_he	1
+marriage_he	1
+moment_she	2
+evolution_it	1
+shipwreck_he	1
+film_you	1
+chance_he	1
+biology_it	1
+companion_she	1
 VB_PRP$
 be_his	2
 organize_his	1
@@ -4035,9 +3796,11 @@ get_her	1
 overpower_our	1
 ._.
 ._.	1
-,_MD
-,_will	1
 JJ_DT
+beautiful_the	1
+superb_the	1
+boring_this	1
+like_the	1
 pure_a	1
 such_a	1
 RB_CC
@@ -4045,6 +3808,7 @@ deftly_and	1
 gradually_but	1
 intellectually_and	1
 over_and	1
+before_but	1
 exquisitely_and	1
 again_and	2
 MD_VB
@@ -4132,16 +3896,15 @@ WRB_NNS
 when_desires	1
 how_housemaids	1
 when_emotions	1
-,_DT
-,_this	4
-,_a	10
-,_the	23
-,_all	1
 NNP_NNPS
 West_Midlands	1
 NNS_DT
+women_this	1
+Insects_the	1
+jackets_the	1
 times_the	1
-insects_the	1
+insects_the	2
+daughters_the	1
 VBZ_NN
 lets_passion	1
 takes_place	1
@@ -4154,8 +3917,6 @@ becomes_part	1
 reveals_everything	1
 finds_happiness	1
 has_nothing	1
-UH_,
-Oh_,	1
 TO_JJ
 to_scientific	1
 VBP_DT
@@ -4200,8 +3961,9 @@ is_never	1
 is_almost	2
 is_so	2
 is_absolutely	1
-is_rather	1
 starts_very	1
+is_rather	1
+is_however	1
 is_not	3
 is_hte	1
 is_exactly	1
@@ -4218,9 +3980,8 @@ made_to	1
 was_to	1
 RB_MD
 there_would	1
-,_WDT
-,_which	6
-,_that	1
+NNPS_NN
+Buccaneers_ect	1
 JJS_NNS
 youngest_daughters	1
 most_people	1
@@ -4260,21 +4021,15 @@ CD_IN
 one_in	1
 one_of	12
 1861_through	1
-``_NN
-``_THINK	1
-``_costume	1
-``_family	1
-``_Command	1
-``_excessiveness	1
-``_house	1
-``_period	1
+TO_CD
+to_one	1
 NN_.
 center_.	1
 wife_.	1
 reason_.	1
 hall_.	1
 living_.	1
-son_.	1
+research_.	1
 enviroment_.	1
 everyone_.	1
 perfection_.	1
@@ -4310,6 +4065,7 @@ black_.	1
 story_.	1
 package_.	1
 period_.	2
+son_.	1
 pregnancy_.	2
 naturalist_.	2
 sister_?	1
@@ -4327,7 +4083,7 @@ ant_.	1
 collection_.	2
 effect_.	1
 household_.	4
-drama_.	2
+drama_.	3
 crew_.	1
 movie_.	6
 husband_.	1
@@ -4408,11 +4164,6 @@ which_acts	1
 that_'s	1
 that_serves	1
 that_achieves	1
-NNP_VBD
-Darwin_talked	1
-England_was	1
-Ebert_did	1
-Darwin_postulated	1
 WDT_VBP
 that_make	1
 that_are	1
@@ -4421,14 +4172,6 @@ which_are	1
 that_invade	1
 that_carry	1
 that_depict	1
-''_VBD
-''_was	1
-''_VBG
-''_making	1
-,_VB
-,_look	1
-,_tho	1
-,_articulate	1
 VBP_VB
 do_give	1
 IN_TO
@@ -4437,6 +4180,9 @@ before_to	1
 PRP_CC
 her_but	1
 him_and	1
+her_and	1
+himself_and	1
+she_and	1
 WDT_VBD
 which_was	2
 that_was	1
@@ -4448,16 +4194,15 @@ being_consistently	1
 giving_too	1
 watching_again	1
 doing_so	1
-WDT_,
-which_,	1
-DT_,
-that_,	2
+saying_still	1
 DT_.
 that_.	2
 another_.	1
 VBG_RP
 leading_up	1
 killing_off	1
+JJ_VB
+intelligent_articulate	1
 FW_VB
 i_think	1
 i_remember	1
@@ -4466,6 +4211,7 @@ i_remember	1
 -_is	1
 RB_JJ
 ostensibly_beautiful	1
+very_entertaining	1
 even_sexy	1
 very_little	1
 extravagantly_beautiful	1
@@ -4480,7 +4226,7 @@ somewhat_primeval	1
 not_external	1
 just_pretty	1
 gradually_eccentric	1
-very_entertaining	1
+politely_invisible	1
 truly_interesting	1
 pretty_good	1
 bit_unconventional	1
@@ -4539,14 +4285,8 @@ WRB_IN
 when_that	1
 NNS_RBR
 scenes_earlier	1
-VB_``
-call_``	1
-say_``	1
-Let_``	1
-NNPS_,
-Midlands_,	1
-Victorians_,	1
-Alabasters_,	1
+NNPS_.
+Insects_.	1
 TO_NNP
 to_Eugenia	2
 to_England	3
@@ -4584,34 +4324,22 @@ enjoying_a	1
 featuring_an	1
 RB_PRP
 n't_it	1
+Now_it	1
 Usually_I	1
 Yet_we	1
+up_it	1
+so_she	1
 perhaps_you	1
 perhaps_it	1
+now_it	1
 then_it	1
 Nevertheless_he	1
+well_I	1
 instead_they	1
 JJS_VBG
 best_looking	2
-VBZ_PRP
-brings_it	1
-finds_himself	3
-employs_him	1
-makes_it	1
-interrupts_him	1
-amuses_himself	1
-passes_them	1
-secludes_herself	1
-marries_her	2
-lets_you	1
-draws_him	1
-turns_it	1
-seems_he	1
-surrounds_him	1
-tells_it	1
-shows_us	1
-sets_her	1
-warns_him	1
+:_VBD
+--_was	1
 VB_RB
 see_much	1
 be_totally	1
@@ -4629,30 +4357,30 @@ turn_out	1
 give_away	1
 keep_up	1
 light_up	1
+JJ_WRB
+invisible_when	1
 NNS_WRB
 walls_when	1
 productions_where	1
 beings_when	1
-``_JJ
-``_underground	1
-``_good	1
-``_invisible	1
-``_pure	1
-`_old	1
-VB_''
-warn_''	1
 NNP_IN
 England_between	1
+Greenaway_with	1
+Adamson_about	1
 Maddie_for	1
 England_with	1
 Amazon_in	1
+Kensit_despite	1
 Age_of	1
+Darwin_though	1
 England_for	1
-William_as	1
-Adamson_from	1
+Eugenia_against	1
+William_as	2
+England_from	1
 Thomas_in	2
 Andrews_by	1
-England_from	1
+Eugenia_by	1
+Adamson_from	1
 England_after	1
 PRP$_NNS
 their_interests	1
@@ -4666,8 +4394,6 @@ his_eyes	1
 their_betters	1
 her_pregnancies	1
 his_actions	1
-JJS_VBN
-best_known	1
 IN_VBG
 that_seeing	1
 after_losing	1
@@ -4689,14 +4415,6 @@ without_giving	1
 while_being	1
 from_being	1
 While_visiting	1
-,_PRP
-,_he	9
-,_they	1
-,_we	1
-,_you	3
-,_it	5
-,_I	3
-,_she	5
 CC_JJR
 and_bolder	1
 IN_VBN
@@ -4705,43 +4423,53 @@ in_repressed	1
 PRP$_NNP
 his_William	1
 her_Matty	1
-VBG_,
-possessing_,	1
 JJ_CC
+distinct_and	1
 Wierd_and	1
 gentle_and	1
 insightful_and	1
 black_and	1
 unconventional_but	1
-enigmatic_and	1
+beautiful_and	2
 colorful_and	1
 talented_and	1
 beautiful_but	1
+boring_and	1
+slow_but	1
 insect-like_and	1
+unbearable_but	1
 campy_and	1
 plain_&	1
+first-rate_and	1
+perfect_and	1
 interesting_and	1
+embarrassing_and	1
 cold_and	1
 dramatic_and	1
 slow_or	1
+breathtaking_and	1
 large_and	1
 elegant_and	1
-embarrassing_and	1
+shocked_but	1
 obese_but	1
 eating_or	1
+apparent_and	1
 weak_or	1
 unique_and	1
-intelligent_and	1
+intelligent_and	2
 wealthy_and	1
 subversive_and	1
-beautiful_and	2
-distinct_and	1
+enigmatic_and	1
+good_plus	1
+great_and	1
+superb_and	1
 sympathetic_and	1
 odd_but	1
 clever_and	1
 thick-minded_or	1
 penniless_but	1
 atmospheric_and	1
+sure_but	1
 IN_VBZ
 as_does	1
 JJ_CD
@@ -4754,11 +4482,14 @@ CD_.
 one_.	2
 2_.	1
 1863_.	1
-JJS_PRP
-plainest_you	1
 NNP_WP
-Adamson_who	1
+Adamson_who	2
+Eugenia_who	1
+England_who	1
+Edgar_who	1
+Matty_whom	1
 Rylance_who	1
+Kensit_who	1
 POS_NN
 's_work	2
 's_brother	1
@@ -4776,6 +4507,8 @@ POS_NN
 's_bedroom	1
 's_fianc&eacute;	1
 's_quasi-protector	1
+JJS_RBS
+strongest_most	1
 TO_NN
 to_everyone	1
 to_detail	1
@@ -4802,11 +4535,13 @@ made_before	1
 pulled_half-reluctantly	1
 given_away	1
 done_so	1
+guessed_merely	1
 drawn_together	1
 engaged_once	1
 put_together	2
 invited_back	1
 NNP_NN
+Williamsesque_family	1
 English_novelist	1
 Balanescu_Quartet	1
 English_family	1
@@ -4847,10 +4582,12 @@ caught_up	1
 RB_PRP$
 eventually_their	1
 yet_her	1
+again_my	1
 there_our	1
 Then_his	1
 not_his	1
 not_her	1
+Meanwhile_her	1
 VBZ_RP
 turns_out	1
 strikes_up	1
@@ -4867,12 +4604,11 @@ things_could	1
 women_would	1
 others_should	1
 anglophiles_may	1
+others_would	1
 emotions_will	1
 insects_will	1
 viewers_will	1
 secrets_can	1
-NNP_``
-Williamsesque_``	1
 TO_RB
 to_somehow	1
 RBR_IN
@@ -4881,6 +4617,7 @@ RB_IN
 also_into	1
 just_as	2
 Even_if	1
+yet_if	1
 not_for	3
 away_for	1
 far_beyond	1
@@ -4890,6 +4627,7 @@ back_toward	1
 much_like	2
 completely_by	1
 clearly_in	1
+far_from	1
 together_in	1
 promisingly_with	1
 long_after	1
@@ -4906,18 +4644,19 @@ well_as	2
 well_with	1
 early_on	3
 together_by	1
-closely_at	1
+just_like	1
+then_after	1
 again_except	1
 Even_though	1
 much_because	1
 here_by	1
 shortly_before	2
-just_like	1
+closely_at	1
 then_of	1
 sensually_in	1
 even_if	1
-far_from	1
-then_after	1
+fast_so	1
+surely_as	1
 even_in	2
 once_before	1
 VBG_IN
@@ -4971,47 +4710,12 @@ are_essentially	1
 have_ever	1
 do_n't	2
 are_not	1
-VBG_``
-saying_``	1
 JJ_VBZ
-beautiful_is	1
+beautiful_is	2
+little_has	1
 great_takes	1
 Warm_regards	1
-little_has	1
-''_NNS
-''_movies	1
-''_scrolls	1
-NNP_,
-England_,	3
-William_,	1
-Rylance_,	4
-SHUT_,	1
-Century_,	1
-Alabasters_,	2
-Kemp_,	1
-North-Country_,	1
-Crompton_,	1
-Haas_,	1
-Scott-Thomas_,	1
-Amazon_,	1
-Matty_,	1
-Amy_,	1
-Thomas_,	3
-Byatt_,	1
-Alabaster_,	2
-Adamson_,	4
-Edgar_,	3
-Anderson_,	1
-Innocense_,	1
-James_,	1
-Harald_,	2
-Greenaway_,	1
-Scotsman_,	1
-Eugenia_,	9
-Maddy_,	2
-Kensit_,	4
-Darwin_,	1
-Harold_,	1
+true_becomes	1
 CD_JJ
 one_social	1
 one_small	1
@@ -5078,8 +4782,6 @@ always_ring	1
 strongly_recommend	1
 truly_regret	1
 especially_love	1
-,_TO
-,_to	1
 VBZ_:
 is_...	1
 VBZ_.
@@ -5089,16 +4791,13 @@ regards_.	1
 wins_!	1
 resides_.	1
 is_.	1
-VBZ_,
-evolves_,	1
-learns_,	1
-is_,	2
 RB_NN
 together_work	1
 nonetheless_fun	1
 increasingly_discontent	1
 even_education	1
 kindly_matron	1
+Obviously_image	1
 just_gender	1
 NNS_TO
 things_to	2
@@ -5109,49 +4808,70 @@ thanks_to	1
 returns_to	1
 procedes_to	1
 minutes_to	1
-VBP_``
-like_``	1
 WDT_CD
 which_two	1
-VBZ_IN
-appears_at	1
-revolves_about	1
-emerges_as	1
-Sounds_like	1
-fails_for	1
-opens_in	1
-learns_of	1
-falls_in	6
-dims_on	1
-is_in	1
-happens_in	1
-returns_from	1
-is_at	1
-finds_that	1
-comes_under	1
-acts_as	1
-plays_like	1
-begs_for	1
-falls_for	1
-collaborates_on	1
-lectures_from	1
-does_that	1
-serves_as	1
-leaves_with	1
-lives_with	1
-lives_among	1
-writes_of	1
-lives_beneath	1
-believes_in	1
-'s_at	1
-tends_toward	1
-presents_that	1
-deals_with	1
-looks_like	2
-is_that	2
-sees_that	1
-learns_that	1
-begins_with	1
+JJ_JJ
+bright_colored	1
+tidy_cohesive	1
+Wonderful_onscreen	1
+other_entertaining	1
+cohesive_masterful	1
+beautiful_eldest	1
+deep_dark	2
+tasteful_elegant	1
+lovely_cornsilk-haired	1
+naked_painted	1
+many_neat	1
+impoverished_Victorian	1
+stark_black-and-white	1
+only_redeeming	1
+wealthy_upper	1
+masterful_dark	1
+bad_digital	1
+soft-spoken_scholarly	1
+incredible_impractical	1
+unusual_sexual	1
+several_other	1
+exquisite_little	1
+fleeting_male	1
+sadistic_eldest	1
+mid_19th	1
+wonderful_unusual	1
+distinct_erotic	1
+ugly_dronish	1
+bustling_ant	1
+local_ant	1
+complex_female	1
+late_19th	1
+gorgeous_English	1
+sensitive_intelligent	1
+damp_dark	1
+good_old	1
+entire_scientific	1
+penniless_19th	1
+characteristic_near-albino	1
+meaningless_tedious	1
+wealthy_aristocratic	1
+gray_due	1
+own_secret	1
+same_ancestral	1
+beautiful_incredible	1
+wealthy_Victorian	1
+pretentious_pseudo-Victorian	1
+complex_scientific	1
+later_Victorian	1
+precious_little	1
+good_decent	1
+lush_sensual	1
+lovely_former	1
+general_treated	1
+male_nudity-but	1
+strange_sexual	1
+fascinating_curious	1
+ordinary_prissy	1
+uncertain_dangerous	1
+pathological_sexual	1
+Sexy_Shakespearean	1
 JJR_IN
 worse_for	1
 more_than	6
@@ -5159,32 +4879,27 @@ bolder_in	1
 WRB_JJ
 how_pathological	1
 how_distinct	1
-,_CC
-,_and	45
-,_or	2
-,_but	22
-,_yet	3
-,_plus	1
 VB_NN
-mean_something	1
 be_coursework	1
+say_THINK	1
 take_advantage	1
+call_period	1
+mean_something	1
 take_place	1
-,_CD
-,_one	2
+VBZ_JJR
+is_more	1
 NN_WP
-naturalist_who	2
 entomologist_who	1
-relation_who	1
+woman_whom	1
 man_who	3
 suitor_who	1
+relation_who	1
+naturalist_who	2
 DT_RBS
 the_most	5
 The_most	1
 RB_RBR
 even_more	1
-VBP_WP
-are_what	1
 VBD_WP
 knew_what	1
 CC_FW
@@ -5195,6 +4910,7 @@ them_to	2
 itself_to	1
 NNS_VBP
 elements_are	1
+causes_do	1
 characters_talk	1
 images_are	1
 Years_pass	1
@@ -5229,9 +4945,10 @@ movies_are	1
 naturalists_are	1
 scholars_are	1
 NNP_MD
-Thomas_will	1
 Tissot_could	1
+Thomas_will	1
 Adamson_will	1
+SHUT_will	1
 Matty_will	1
 Byatt_could	1
 IN_CD
@@ -5246,20 +4963,19 @@ with_one	2
 from_1861	1
 about_30	1
 NNS_VBZ
+children_brings	1
 themes_is	1
 INSECTS_is	1
 costumes_is	1
-odds_marries	1
 Insects_is	1
+odds_marries	1
 VBD_PRP$
 took_their	1
 took_his	1
 spent_their	1
 hid_their	1
-,_RBS
-,_most	1
-IN_,
-on_,	1
+VBN_NNPS
+called_Angels	1
 NNS_VBD
 directors_did	1
 days_were	1
@@ -5272,6 +4988,7 @@ possessions_were	1
 NNS_VBG
 servants_including	1
 women_wearing	1
+celebrities_including	1
 women_carrying	1
 sequences_leading	1
 scenes_dwarfing	1
@@ -5288,11 +5005,9 @@ highest_quality	1
 worst_transfer	1
 oldest_girl	1
 best_way	1
-''_WRB
-''_when	2
-''_where	1
-``_PRP
-``_She	1
+NN_NNPS
+Ah_Americans	1
+film_Angels	1
 NN_WP$
 entymologist_whose	1
 POS_JJ
@@ -5308,13 +5023,6 @@ POS_JJ
 ;_top	1
 ;_fascinating	1
 --_perfect	1
-VBN_``
-forced_``	1
-called_``	1
-''_IN
-''_that	1
-''_around	1
-''_by	1
 VBD_VBN
 was_hinted	1
 was_manifested	1
@@ -5335,6 +5043,7 @@ struck_me	1
 thought_it	2
 rented_it	1
 liked_it	1
+survived_he	1
 reminded_us	1
 VBD_VBG
 were_doing	1
@@ -5360,12 +5069,13 @@ that_human	1
 at_first	2
 of_sexual	2
 through_sumptuous	1
-in_hereditary	1
+with_pure	1
 as_colorful	1
 of_red	2
 of_inner	1
 in_Victorian	4
 of_carnal	1
+in_hereditary	1
 in_stark	1
 on_Darwinian	1
 of_great	1
@@ -5405,9 +5115,14 @@ drenched_film	1
 done_film	1
 realized_film	1
 NNP_RB
-William_also	1
 William_back	1
 England_just	1
+Century_particularly	1
+Eugenia_about	1
+William_also	1
+Thomas_barely	1
+UH_IN
+Oh_that	1
 POS_:
 's_--	2
 NNP_VBP
@@ -5418,6 +5133,7 @@ Eugenia_hold	1
 Maddie_are	1
 William_are	1
 Harald_have	1
+Scott-Thomas_are	1
 Edmund_do	1
 :_PRP
 ;_I	1
@@ -5430,8 +5146,11 @@ NNS_IN
 minutes_into	1
 returns_from	1
 people_in	1
+servants_as	1
 goings_on	1
+beauties_around	1
 actors_in	2
+INSECTS_like	1
 practices_of	1
 servants_in	2
 notions_of	1
@@ -5515,26 +5234,24 @@ years_into	1
 aspects_of	1
 children_with	1
 relations_within	1
-VB_TO
-bother_to	1
-wait_to	1
-turn_to	1
-lead_to	1
-begin_to	1
 NNP_VBZ
 Edgar_is	3
 Eugenia_reveals	1
-Eugenia_is	3
+Eugenia_is	4
+Kensit_attracts	1
 Adamson_expresses	1
 William_falls	1
 Adamson_is	2
 Adamson_shows	1
 Eugenia_agrees	1
 Ryanlance_is	1
+Angels_opens	1
+Maddy_is	1
 Adamson_comes	1
 Adamson_makes	1
+Angels_tackles	1
 A&I_wins	1
-Rylance_is	2
+Angels_is	1
 Haas_provides	1
 This_is	2
 Wallace_gets	1
@@ -5543,11 +5260,14 @@ Matty_is	2
 Henshall_warns	1
 William_comes	1
 Scott-Thomas_is	2
+Rylance_is	2
 Adamson_dismisses	1
 Thomas_attempts	1
 Eugenia_produces	1
 William_meets	1
+Ryanlance_falls	1
 William_romances	1
+Harold_is	1
 William_is	3
 Scott-Thomas_exudes	1
 William_leaves	1
@@ -5555,7 +5275,7 @@ Adamson_assists	1
 Adamson_lives	1
 Adamson_learns	1
 Maddie_is	1
-Ryanlance_falls	1
+Byatt_is	1
 William_maintains	1
 VB_JJ
 go_hungry	1
@@ -5577,7 +5297,7 @@ to_take	3
 to_summarize	1
 to_organize	1
 to_expect	1
-to_keep	1
+to_keep	2
 to_enjoy	2
 to_get	1
 to_agree	1
@@ -5599,6 +5319,7 @@ to_intimidate	1
 to_survive	1
 to_look	1
 to_make	4
+to_warn	1
 to_savour	1
 to_rewatch	1
 to_acquire	1
@@ -5615,16 +5336,9 @@ which_the	1
 NN_JJR
 nothing_more	1
 lot_more	1
-NN_``
-word_``	1
-read_``	1
-novella_``	3
 VBG_NNP
 describing_William	1
 leaving_William	1
-VBD_,
-survived_,	1
-rendered_,	1
 VBD_.
 hooked_.	1
 was_.	1
@@ -5633,10 +5347,19 @@ POS_.
 NNP_VBG
 Amazon_collecting	1
 Byatt_telling	1
-POS_,
-'s_,	1
+Harald_naming	1
+Amazon_cataloging	1
+NNP_VBD
+Darwin_talked	1
+England_was	1
+Ebert_did	1
+Eugenia_played	1
+Darwin_postulated	1
+Thomas_made	1
+Maddy_played	1
 NNP_VBN
 Eugenia_played	2
+Crompton_played	1
 NNP_POS
 Scott-Thomas_'s	1
 Eugenia_'s	2
@@ -5653,12 +5376,19 @@ Rylance_'s	1
 Adamson_'s	1
 Thomas_'s	2
 Greenaway_'s	1
+VBD_CC
+rendered_and	1
 LS_.
 3_.	1
 NN_RB
 everything_especially	1
 piece_supposedly	1
+night_fully	1
+cast_very	1
+heart_however	1
 content_too	1
+appearance_actually	1
+hive_gradually	1
 time_now	1
 anything_else	1
 story_faithfully	1
@@ -5666,6 +5396,8 @@ jacket_obviously	1
 hero_intellectually	1
 story_well	1
 hair_so	1
+brother_ostensibly	1
+quality_yet	1
 something_very	1
 wall_so	1
 suicide_shortly	1
@@ -5673,13 +5405,21 @@ society_much	1
 something_quite	1
 family_aptly	1
 world_as	1
+woodshed_indeed	1
 film_also	1
+film_very	1
+intrepid_deceptively	1
 Beauty_alone	1
 nothing_really	1
+academia_even	1
+line_only	1
+life_beautifully	1
 coupla_really	1
+governess_exquisitely	1
+woman_just	1
 way_back	1
 strength_alone	1
-life_beautifully	1
+moment_much	1
 :_:
 ..._-	1
 JJ_IN
@@ -5690,9 +5430,12 @@ common_with	1
 afraid_of	1
 many_of	2
 awash_with	1
+dark_past	1
 faint_of	1
+spectacular_at	1
 full_of	3
 same_as	1
+drab_with	1
 certain_that	1
 snow-white_in	1
 enough_about	1
@@ -5702,18 +5445,15 @@ excellent_in	1
 hungry_from	1
 much_as	1
 well-to-do_in	1
+superb_as	1
 such_as	3
 beautiful_beyond	1
 aware_of	3
 nasty_in	1
 aware_that	1
 interested_in	2
-VBD_``
-were_``	1
-enjoyed_``	1
-saw_``	1
-''_PRP
-''_us	1
+JJS_VBN
+best_known	1
 VBG_JJ
 collecting_rare	1
 pursuing_on-site	1
@@ -5721,16 +5461,6 @@ making_stupid	1
 knowing_deep	1
 carrying_bright	1
 being_boring	1
-NNS_JJ
-naturalists_abstract	1
-decisions_such	1
-means_useless	1
-TO_``
-to_``	2
-IN_:
-as_--	1
-at_...	1
-on_-	1
 VBZ_DT
 gets_a	1
 is_the	7
@@ -5750,7 +5480,7 @@ supports_the	1
 attracts_the	1
 is_an	4
 presents_the	1
-makes_a	3
+makes_a	4
 meets_the	1
 takes_every	1
 represents_the	1
@@ -5778,13 +5508,12 @@ CD_NN
 One_moment	1
 one_butterfly	2
 one_film	1
-._''
-._''	6
 VBZ_NNP
 does_Sir	1
 is_William	2
-romances_Eugenia	1
+evolves_Thomas	1
 is_A.S.	1
+romances_Eugenia	1
 brings_William	1
 VBZ_NNS
 has_conflicts	1
@@ -5802,20 +5531,29 @@ love_period	1
 NN_PRP$
 catalog_his	1
 kindness_her	1
-JJ_''
-invisible_''	1
-deep_''	1
-perfect_''	1
-,_JJS
-,_most	1
 NN_FW
 whim_cuz	1
 VB_CC
+articulate_and	1
 disclose_but	1
 stop_and	1
 be_and	1
 NNP_DT
+Rylance_a	1
+Thomas_the	1
+Square_The	1
+Poppins_this	1
+Adamson_a	1
 Kinset_the	1
+Innocense_the	1
+Anderson_the	1
+Eugenia_this	1
+Dance_the	1
+Haas_the	1
+Edgar_a	1
+England_a	1
+Alabasters_a	1
+Eugenia_all	1
 VBN_NNP
 named_Amy	1
 traumatized_Eugenia	1
@@ -5833,21 +5571,6 @@ revealed_thanks	1
 prized_specimens	1
 colored_dresses	1
 blurred_images	1
-,_NNP
-,_Maddy	1
-,_Thomas	2
-,_Kristin	1
-,_Matty	2
-,_Reverend	1
-,_Mark	1
-,_A&I	1
-,_Adamson	2
-,_Edgar	3
-,_Eugenia	3
-,_Englishman	1
-,_Sir	1
-,_Mattie	1
-,_William	4
 CC_NNP
 or_West	1
 and_A.	1
@@ -5872,9 +5595,48 @@ and_bows	1
 and_costumes	2
 and_scenes	1
 and_means	1
-,_NNS
-,_in-laws	1
-,_returns	1
+WP_IN
+whom_as	1
+VBZ_IN
+appears_at	1
+revolves_about	1
+emerges_as	1
+Sounds_like	1
+fails_for	1
+opens_in	1
+learns_of	1
+falls_in	6
+dims_on	1
+is_in	1
+happens_in	1
+returns_from	1
+is_at	1
+finds_that	1
+comes_under	1
+acts_as	1
+plays_like	1
+begs_for	1
+falls_for	1
+collaborates_on	1
+lectures_from	1
+does_that	1
+serves_as	1
+is_without	1
+leaves_with	1
+lives_with	1
+lives_among	1
+writes_of	1
+lives_beneath	1
+believes_in	1
+'s_at	1
+tends_toward	1
+presents_that	1
+deals_with	1
+looks_like	2
+is_that	2
+sees_that	1
+learns_that	1
+begins_with	1
 TO_WDT
 to_which	1
 JJ_NN
@@ -5893,6 +5655,7 @@ beautiful_moth	1
 beguiling_servant	1
 such_perfection	1
 giant_termite	1
+unnerving_attraction	1
 young_man	1
 Victorian_society	1
 excellent_movie	1
@@ -5907,7 +5670,7 @@ over-protective_brother	1
 scholarly_treatise	1
 visual_feast	1
 Victorian_era	2
-Darwinian/Victorian_sense	1
+prissy_costume	1
 shoddy_picture	1
 social_strata	1
 impoverished_naturalist	2
@@ -6044,6 +5807,7 @@ only_quibble	1
 poor_naturalist	1
 secret_passion	1
 realistic_way	1
+Darwinian/Victorian_sense	1
 stylish_conceit	1
 crisp_lens	1
 excellent_actor	1
@@ -6065,7 +5829,7 @@ virtuoso_acting	1
 new_way	1
 perfect_marriage	1
 small_example	1
-unnerving_attraction	1
+useless_guest	1
 challenging_role	1
 callous_brother-in-law	1
 fine_motion	1

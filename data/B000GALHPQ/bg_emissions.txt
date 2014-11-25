@@ -1,7 +1,5 @@
 IN_NN
 like_dictionary	1
-,_IN
-,_so	1
 POS_NNS
 's_lots	1
 NNP_CD
@@ -10,6 +8,9 @@ NNS_IN
 lots_of	1
 NNS_WDT
 captions_that	1
+NN_CC
+lingo_but	1
+accent_and	1
 WDT_VBP
 that_look	1
 TO_VB
@@ -43,9 +44,8 @@ RB_JJ
 really_like	1
 VBG_PDT
 hearing_all	1
-,_CC
-,_and	2
-,_but	1
+NNP_.
+Hollywood_.	1
 VB_VBG
 try_writing	1
 CD_JJ
@@ -58,16 +58,16 @@ CC_NN
 and_lingo	1
 VBD_PRP$
 was_his	1
-,_PRP
-,_I	1
+NNS_PRP
+stories_I	1
 PRP$_JJ
 his_Australian	1
 CC_RB
 but_always	1
 VB_.
 expect_.	1
-VBG_NN
-explaining_everything	1
+JJ_CC
+first_and	1
 NN_NNS
 dictionary_entries	1
 NNP_NNS
@@ -76,8 +76,6 @@ NNP_NNP
 Stuart_Beattie	1
 VBD_NNP
 liked_Stuart	1
-JJ_,
-first_,	1
 VB_WP
 know_what	1
 VBD_RB
@@ -93,11 +91,11 @@ DVDs_.	1
 entries_.	1
 VBD_TO
 wanted_to	1
-NNS_,
-stories_,	1
 IN_PRP
 so_I	1
 like_I	1
+VBG_NN
+explaining_everything	1
 CC_IN
 and_by	1
 WP_TO
@@ -133,8 +131,6 @@ VBD_DT
 learned_a	1
 watched_the	1
 got_a	1
-NNP_.
-Hollywood_.	1
 VBZ_RB
 's_really	1
 DT_NN
@@ -149,10 +145,6 @@ NNP_RB
 Stuart_maybe	1
 IN_WP
 about_what	1
-NN_,
-lingo_,	1
-movie_,	1
-accent_,	1
 PRP_VBP
 I_do	1
 they_do	1
@@ -161,11 +153,12 @@ it_'s	1
 NNS_CC
 names_and	1
 NN_IN
-job_of	1
+movie_so	1
 writer_in	1
-couple_of	1
-lot_about	2
+job_of	1
 everything_with	1
+lot_about	2
+couple_of	1
 IN_DT
 by_the	1
 of_these	1

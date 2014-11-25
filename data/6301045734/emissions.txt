@@ -31,13 +31,25 @@ permeated	1
 resigned	1
 was	3
 told	1
-``
-``	6
-POS
-'s	17
-'	1
-''
-''	6
+VBN
+Named	1
+used	1
+intended	1
+lost	2
+attracted	1
+involved	1
+torn	1
+moved	1
+been	2
+born	1
+written	1
+preserved	1
+wounded	1
+seen	3
+missed	1
+adapted	1
+manifested	1
+overrated	1
 VBP
 capture	1
 use	1
@@ -312,8 +324,9 @@ chemistry	1
 order	1
 FW
 e.g.	1
-,
-,	64
+POS
+'s	17
+'	1
 .
 !	3
 ?	5
@@ -510,25 +523,9 @@ RBS
 most	2
 RBR
 more	2
-VBN
-Named	1
-used	1
-intended	1
-lost	2
-attracted	1
-involved	1
-torn	1
-moved	1
-been	2
-born	1
-written	1
-preserved	1
-wounded	1
-seen	3
-missed	1
-adapted	1
-manifested	1
-overrated	1
+CD
+two	2
+one	3
 EX
 there	1
 There	2
@@ -559,9 +556,6 @@ inside	1
 onto	1
 WP$
 whose	1
-CD
-two	2
-one	3
 MD
 will	4
 ca	1

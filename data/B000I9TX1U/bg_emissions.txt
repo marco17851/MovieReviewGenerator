@@ -6,8 +6,6 @@ by_color	1
 of_season	1
 POS_NNS
 's_Clues	1
-WRB_TO
-how_to	1
 DT_NNS
 the_directions	1
 MD_RB
@@ -26,16 +24,12 @@ RB_.
 again_.	1
 VBZ_JJ
 is_true	1
-VBD_CC
-paid_and	1
+CD_CC
+4_and	1
 NN_TO
 fire_to	1
-CD_,
-4_,	1
 PRP$_JJ
 his_evil	1
-RP_.
-over_.	1
 IN_PRP
 as_I	1
 that_they	1
@@ -47,8 +41,8 @@ If_you	1
 though_he	1
 VB_TO
 go_to	1
-,_NN
-,_google	1
+WRB_TO
+how_to	1
 VBG_WRB
 learning_how	1
 TO_NN
@@ -96,9 +90,8 @@ far_as	1
 solely_because	1
 $_CD
 $_14.99	1
-,_RB
-,_only	1
-,_not	1
+RP_.
+over_.	1
 CC_PRP
 and_I	1
 VBP_RB
@@ -114,8 +107,6 @@ IN_PRP$
 for_my	1
 VBD_DT
 downloaded_the	1
-NNP_,
-Steve_,	1
 NNP_.
 Steve_.	1
 Joe_.	2
@@ -132,27 +123,21 @@ VB_IN
 find_that	1
 VBG_NN
 tipping_point	1
-JJ_,
-concerned_,	1
 VBD_RB
 got_ta	1
 VBN_IN
 put_in	1
 NNS_.
 folks_.	1
-NNS_,
-kids_,	1
 TO_DT
 to_a	1
 NNS_:
 seasons_-	1
 clues_...	1
-VBZ_,
-works_,	1
-JJ_JJ
-evil_demented	1
-,_CC
-,_and	2
+VBZ_IN
+appears_in	1
+JJ_NNP
+concerned_Amazon	1
 WP$_NNS
 whose_clues	1
 NN_NNS
@@ -164,12 +149,15 @@ NNS_NNS
 blues_clues	2
 clues_blues	1
 NN_NNP
+brother_Joe	1
 grandson_LOVES	1
 cousin_Joe	1
 NN_WP
 dog_who	1
 DT_RB
 these_solely	1
+VBD_CC
+paid_and	1
 RB_NNP
 just_Steve	1
 IN_JJS
@@ -200,6 +188,8 @@ I_would	1
 You_will	1
 they_could	1
 it_could	1
+NN_CC
+color_and	1
 CD_VBZ
 1_is	1
 14.99_is	1
@@ -236,16 +226,14 @@ a_major	1
 the_first	2
 some_great	1
 a_sweet	1
-VBZ_IN
-appears_in	1
+JJ_JJ
+evil_demented	1
 NN_:
 print_...	1
 NNS_CC
 Clues_and	1
-NN_,
-season_,	1
-color_,	1
-brother_,	1
+VBZ_VB
+works_read	1
 NN_.
 Show_.	1
 deal_.	1
@@ -262,6 +250,8 @@ DVD_for	1
 fan_of	1
 name_by	1
 analysis_by	1
+NNP_RB
+Steve_not	1
 :_PRP
 ..._you	1
 NN_VBN
@@ -286,18 +276,19 @@ number_1	1
 Season_1	1
 NN_VBZ
 son_is	1
-,_VB
-,_read	1
 NNP_VBD
 Joe_had	1
 NNP_POS
 Blue_'s	3
 NN_RB
 fan_again	1
+season_only	1
 JJ_IN
 Great_for	1
 VB_NN
 believe_someone	1
+NNS_NN
+kids_google	1
 NN_JJ
 year_old	1
 VBZ_DT
@@ -327,9 +318,6 @@ VBG_DT
 playing_the	1
 VBN_TO
 transferred_to	1
-,_NNP
-,_Joe	1
-,_Amazon	1
 CC_NNP
 and_Steve	1
 PRP$_CD

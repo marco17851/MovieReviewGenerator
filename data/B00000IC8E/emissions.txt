@@ -24,10 +24,6 @@ supposed	1
 watched	1
 degraded	1
 called	1
-POS
-'s	1
-''
-''	12
 VBP
 have	1
 're	1
@@ -130,8 +126,8 @@ feeling	1
 Arm	1
 Best	1
 history	1
-,
-,	9
+POS
+'s	1
 .
 .	23
 TO
@@ -195,8 +191,17 @@ River	1
 Roll	5
 Jerome	1
 Man	1
-``
-``	12
+VB
+Enjoy	1
+be	2
+buy	2
+question	1
+watch	1
+'ve	1
+try	1
+see	2
+take	1
+locate	1
 WRB
 When	1
 why	1
@@ -238,14 +243,3 @@ should	1
 JJS
 lowest	1
 least	1
-VB
-Enjoy	1
-be	2
-buy	2
-question	1
-watch	1
-'ve	1
-try	1
-see	2
-take	1
-locate	1

@@ -8,22 +8,16 @@ IN_NN
 by_author	1
 on_television	1
 in_color	1
-of_popularity	1
-on_DVD	2
-by_film	1
 from_prison	1
+of_popularity	1
+of_Trail	1
+by_film	1
+on_DVD	2
 with_excitement	1
 as_dick	1
 as_part	1
 for_character	1
 with_action	1
-,_IN
-,_after	1
-,_with	1
-,_IN	1
-,_as	1
-,_in	1
-,_like	1
 POS_NNS
 's_features	1
 NNS_WDT
@@ -31,29 +25,32 @@ songs_that	1
 locations_that	1
 NNS_WRB
 days_when	1
-NNP_VB
-Crowe_Set	2
-Hollywood_Walk	1
-``_JJ
-``_First	1
+NNP_WDT
+Theater_which	1
+NN_WRB
+title_why	1
 WP_RB
 who_eventually	1
 FW_:
 etc._...	1
 NNP_IN
 Network_in	1
+Burnette_as	1
 Information_on	1
 Horse_as	1
 Center_in	1
 OUT_OF	1
 Date_of	2
+Magers_like	1
 Tucson_as	1
 Autry_on	1
 Levine_in	2
 Slim_as	1
 Kid_as	1
 Chamber_of	1
-Burnette_as	1
+Fe_as	1
+Steele_as	1
+Saddle_while	1
 Buttram_at	1
 NNS_RB
 cacti_anywhere	1
@@ -74,8 +71,6 @@ and_white	1
 and_various	1
 MD_RB
 will_either	1
-,_TO
-,_to	1
 VB_DT
 make_a	1
 do_this	1
@@ -88,28 +83,19 @@ how_the	1
 RB_TO
 along_to	1
 forward_to	1
-VBZ_``
-sings_``	1
 VBN_:
 used_...	1
 involved_...	1
 made_--	1
 Released_:	1
-RB_,
-forward_,	1
-thereafter_,	1
-ever_,	1
+VBG_:
+filming_...	1
 RB_.
 too_.	1
-IN_``
-of_``	2
-,_PRP
-,_it	1
-,_he	1
-,_I	1
 PDT_DT
 all_this	1
 VBD_NN
+included_songwriter	1
 gained_fame	1
 NN_TO
 celebrity_to	1
@@ -125,18 +111,14 @@ RBR_JJ
 more_high	1
 NNS_DT
 boulders_all	1
-VBN_,
-hidden_,	1
 JJ_CC
 educational_and	1
 simple_and	1
 black_and	1
 JJ_CD
 further_44	1
-CD_,
-1934_,	1
-1940_,	1
-1937_,	1
+NNPS_RB
+Boys_BACK	1
 CD_.
 7_.	1
 4_.	1
@@ -148,8 +130,6 @@ CD_.
 3_.	1
 NNP_FW
 Carlos_de	1
-''_:
-''_--	1
 PRP$_JJ
 his_half-hour	1
 his_own	1
@@ -167,12 +147,13 @@ IN_PRP
 as_they	1
 if_you	1
 as_he	1
-''_.
-''_.	1
+NNPS_JJ
+Boys_HOWDY	1
 TO_RBR
 to_more	1
-''_,
-''_,	3
+NNP_WP
+Jones_who	2
+Davis_who	1
 VBZ_CC
 sings_and	1
 CD_:
@@ -180,10 +161,6 @@ CD_:
 1940_--	1
 1987_--	1
 1998_-	1
-,_NN
-,_songwriter	1
-,_Mascot	1
-,_etc	1
 FW_CD
 Stills_4	1
 Facts_7	1
@@ -320,156 +297,17 @@ Amazon_where	1
 Entertainment_where	1
 RB_PRP$
 now_their	1
-``_NNP
-``_Melody	3
-``_Back	1
-`_Doc	1
-``_Autry	1
-``_In	1
-``_A	1
 PRP_VBP
 I_'m	1
 they_are	1
 I_'VE	1
 they_have	1
 we_know	1
-NNP_NNP
-OLD_CHISHOLM	1
-Old_Santa	1
-Charles_Clague	1
-The_Cass	1
-Townsman_Pierce	1
-J._Copeland	1
-National_Center	1
-BEEN_INVITED	1
-Autry_Champion	1
-Boyd_Magers	2
-In_The	1
-Apache_Kid	2
-Mangrum_Frankie	1
-Weldon_Dickie	1
-Old_Tucson	1
-L._Cason	1
-J._Yates	1
-Sweeney_Editor	1
-Henchman_Gandy	1
-Schaefer_Producer	1
-Deputy_Syd	1
-Hollywood_Chamber	1
-Original_Press	1
-Weldon_Henry	1
-Frankie_Marvin	1
-Marshal_Sam	1
-Ranch_Radio	1
-Chuck_Anderson	1
-William_Bradford	1
-Studio_City	1
-Total_Time	1
-JUBILEE_Cass	1
-Ranch_Rodeo	1
-Gerald_Geraghty	1
-Connie_Weldon	1
-Bradford_Cinematographer	1
-Lemons_Empire	1
-George_Cooper	1
-Armand_Schaefer	1
-J._Lewis	1
-Taplin_Harry	1
-AGAIN_Gene	1
-Clague_Art	1
-In_Old	1
-Les_Adams	1
-Harry_Harvey	2
-Annie_Oakley	1
-Republic_Pictures	1
-Geraghty_Screenwriter	1
-Pat_Buttram	5
-Gandy_Herman	1
-Autry_Date	1
-Doc_Weldon	1
-Sam_Taplin	1
-Archainbaud_Director	1
-Dave_Weldon	1
-Mike_McClure	2
-Jones_Gordon	1
-Real_Bob	1
-Syd_Saylor	1
-Melody_Ranch	3
-Pictures_Corp.	2
-Wonder_Horse	1
-Autry_National	1
-Art_Director	1
-Rhonda_Lemons	1
-Los_Angeles	2
-A._Crowe	1
-aka_The	1
-SADDLE_AGAIN	1
-James_A.	1
-John_L.	1
-Herbert_J.	1
-Gene_Autry	16
-A_JUBILEE	1
-Back_In	1
-Dick_Jones	3
-McClure_George	1
-Pierce_Lyden	1
-Henchman_Mangrum	1
-Flying_A	1
-Mascot_Pictures	1
-Doublemint_Gum	1
-Columbia_Pictures	1
-Nat_Levine	1
-Gregg_Barton	1
-Cass_County	6
-Entertainment_~	1
-Anderson_Webmaster	1
-Bob_Woodward	1
-Bob_Nareau	1
-Dr._Kunody	1
-Dickie_Jones	1
-Kunody_Bob	1
-Henchman_Slim	1
-Digitally_Remastered	1
-Autry_Flying	1
-The_Apache	2
-Restored/Dolby_Digitally	1
-James_Crowe	1
-Sandy_Sanders	1
-Horse_Pat	1
-Ranch_Theater	2
-AND_OUT	1
-Unshaven_Henchman	1
-George_J.	1
-Bob_Steele	1
-Range_Rider	1
-Nashville_Network	1
-Publishing_Inc	1
-Empire_Publishing	2
-Phantom_Empire	1
-Townsman_Sandy	1
-Santa_Fe	1
-Gordon_Jones	1
-Weldon_Harry	1
-The_Saddle	1
-Carlo_Tricoli	1
-Orvon_Gene	1
-Live_Theater	1
-Deputy_Pat	1
-Henry_Rowland	2
-Bobby_J.	1
-Cason_The	1
-Herman_Hack	1
-Radio_Show	1
-James_Sweeney	1
-Champion_World	1
-Texas_Date	1
-John_Cason	1
-Mischa_Bakaleinikoff	1
-George_Archainbaud	1
+VBZ_RP
+seeks_out	1
+Hats_off	1
 WP_VBP
 who_know	1
-``_VBP
-``_Do	1
 NN_MD
 background_would	1
 DVD_will	1
@@ -487,21 +325,19 @@ Autry_and	3
 Television_and	1
 Gene_and	2
 NNP_CD
+~_4/19/2005	1
+Fame_one	1
+September_1907	1
+Theater_2	1
+Show_3	1
 September_1952	1
 October_1998	1
-~_4/19/2005	1
-September_1907	1
-NNP_``
-Daniel_`	1
-Flying_``	1
-Original_``	1
-Corp._``	1
 RP_NN
 out_Image	1
 VBP_NN
 are_plenty	1
-DT_``
-the_``	3
+RBR_IN
+better_than	1
 RB_IN
 BACK_IN	1
 well_as	2
@@ -509,14 +345,13 @@ again_for	2
 aplenty_in	1
 else_in	1
 n't_that	1
+forward_after	1
 now_from	1
 VBG_IN
 working_for	1
 Reminiscing_with	1
-,_RB
-,_too	1
-,_BACK	1
-,_as	2
+VBD_VBG
+paid_working	1
 VBZ_NN
 is_none	1
 DT_CD
@@ -536,72 +371,25 @@ either_be	1
 n't_Touch	1
 n't_miss	1
 not_check	1
-PRP_.
-it_.	1
-it_?	1
+CD_VBG
+1937_reaching	1
 :_NN
---_stay	1
+-_GENE	1
 ..._stunt	1
 ..._analysis	1
 ..._theater	1
-IN_VBG
-while_working	1
-in_watching	1
-after_being	1
-in_releasing	1
+--_stay	1
 TO_PRP
 to_it	1
 JJ_VBZ
 dusty_trails	1
-NNS_''
-WESTERNS_''	1
-''_NNP
-'_Weldon	1
-''_Hardcover	1
-''_Gene	1
-''_Ranch	1
-IN_JJ
-that_much	1
-by_other	1
-in_many	1
-with_rolling	1
-for_top	1
-with_musical	1
-NNP_,
-Director_,	2
-Recordings_,	1
-Screenwriter_,	1
-Buttram_,	1
-City_,	1
-Oakley_,	1
-Yates_,	1
-Com_,	1
-Davis_,	1
-Cinematographer_,	1
-Mascot_,	1
-Gum_,	1
-Weldon_,	1
-Autry_,	1
-Radio_,	1
-Editor_,	1
-Producer_,	1
-Magers_,	1
-Jones_,	2
-Angeles_,	1
-Smiley_,	1
-Champion_,	2
-Tioga_,	1
-Films_,	1
-Fame_,	1
 NNP_.
+Angeles_.	1
 Theater_.	1
 CC_VBZ
 and_performs	1
 NNS_PRP$
 fans_their	1
-TO_CD
-to_1942	1
-to_1940	1
 WDT_PRP
 which_he	1
 DT_PRP$
@@ -658,13 +446,14 @@ Webmaster_:	1
 Jones_...	2
 Rowland_...	1
 Commerce_--	1
+Empire_--	1
 Saylor_...	1
 Cason_...	1
 Remastered_--	1
 Champion_...	1
-VBZ_RP
-seeks_out	1
-Hats_off	1
+NNP_VB
+Crowe_Set	2
+Hollywood_Walk	1
 JJ_.
 repent_.	1
 great_.	1
@@ -673,23 +462,27 @@ giving_his	1
 reaching_his	1
 getting_her	1
 VBD_RB
-tuned_once	1
 did_n't	1
-was_then	1
-became_pretty	1
 went_along	1
+tuned_once	1
+was_then	1
+included_as	1
+became_pretty	1
 NN_DT
+color_the	1
 excitement_every	1
-,_VBG
-,_giving	1
-,_leading	1
-,_reaching	1
-,_working	1
+serial_The	1
+IN_VBG
+while_working	1
+in_watching	1
+after_being	1
+in_releasing	1
 :_VB
 ..._order	1
 VBN_IN
 maintained_by	1
 Hosted_by	1
+filmed_near	1
 Discovered_by	1
 mixed_with	1
 written_from	1
@@ -697,7 +490,7 @@ loaded_with	1
 trailed_by	1
 released_from	1
 played_by	1
-filmed_near	1
+hidden_as	1
 absorbed_by	1
 DT_MD
 both_can	1
@@ -705,17 +498,8 @@ NNS_.
 Corral/B-Westerns_.	1
 cowboys_!	1
 buckaroos_.	1
-NNS_,
-'20s_,	1
-titles_,	1
-facts_,	1
-directors_,	1
-heavies_,	1
-tunes_,	1
-hills_,	1
-shots_,	1
-Clippings_,	1
-ladies_,	1
+WRB_EX
+where_there	1
 WDT_RB
 which_originally	1
 VBP_WRB
@@ -742,10 +526,8 @@ FEATURES_:	1
 Adventures_--	1
 Episodes_--	1
 Serials_--	1
-,_VBZ
-,_is	1
-WRB_EX
-where_there	1
+RB_NN
+thereafter_Mascot	1
 NNS_TO
 thanks_to	1
 opportunities_to	1
@@ -779,24 +561,20 @@ highlights_of	1
 trails_with	1
 is_on	1
 JJ_NNP
+renowned_Autry	1
 bad_Gene	1
 CD_IN
 one_in	2
 One_of	1
 1935_in	1
-''_CD
-''_3	1
-''_2	1
 JJR_IN
 more_of	1
 PRP$_NNP
 His_Gene	1
-,_CC
-,_and	2
-,_yet	1
 VB_NN
 Set_Designer	2
 NN_NNS
+info_salaries	1
 TV_Episodes	1
 location_shots	1
 production_credits	1
@@ -812,28 +590,41 @@ school_years	1
 theater_exhibitors	1
 cast_members	1
 NNS_NNP
-performers_Gregg	1
+Clippings_Bobby	1
 NEIGHBORS_Gene	1
 players_Smiley	1
-,_CD
-,_'30s	1
-,_one	1
+facts_Gene	1
+WESTERNS_Hardcover	1
+performers_Gregg	1
+NNS_NNS
+exhibitors_comments	1
+ladies_songwriters	1
 NN_NNP
-deputy_Carlo	1
+Cowboy_Gene	1
+Designer_James	1
+footnote_Orvon	1
 Gail_Davis	3
-robbery_The	1
+plot_Gene	1
+deputy_Carlo	1
 Image_Entertainment	2
+Direction/Supervision_James	1
 JAILHOUSE_Gene	1
-producer_Nat	1
+Talk_Rhonda	1
+Designer_George	1
+identification_Chuck	1
 TRAIL_Cass	1
 daughter_Connie	1
-horse_Champion	1
-sidekick_Pat	1
+producer_Nat	1
+product_Wrigley	1
 author_Boyd	1
+sidekick_Pat	1
+robbery_The	1
+horse_Champion	1
 RP_CC
 off_and	1
-:_``
--_``	1
+RB_DT
+much_a	1
+Well_both	1
 NN_WP
 performer_who	1
 CD_CD
@@ -850,6 +641,7 @@ RB_NNP
 Fully_Restored/Dolby	1
 NN_PRP
 payroll_he	1
+film_it	1
 trail_we	1
 VB_PRP$
 order_your	1
@@ -870,6 +662,9 @@ and_on	1
 VBP_JJ
 are_present	1
 add_much	1
+:_JJ
+..._major	1
+..._complete	1
 :_PRP
 ;_he	1
 MD_VB
@@ -877,11 +672,28 @@ would_look	1
 will_further	1
 will_leave	1
 can_happen	1
-:_JJ
-..._major	1
-..._complete	1
+NNS_IN
+excerpts_from	1
+robbers_of	1
+bios_on	1
+matinees_in	1
+collector/guideslines_for	1
+releases_from	1
+comments_at	1
+westerns_in	1
+shots_with	1
+stars_on	1
+comments_from	1
+tunes_IN	1
+happenings_in	1
+members_on	1
+anecdotes_about	1
+experts_in	1
+dates_of	1
+films_up	1
 CD_DT
 4/19/2005_This	1
+1940_all	1
 NNS_VBP
 viewers_have	1
 Cacti_are	1
@@ -901,7 +713,10 @@ in_1934	1
 in_1935	1
 RB_VBG
 eventually_getting	1
+ever_giving	1
 hard_riding	1
+NNPS_NNP
+Boys_Herbert	1
 CC_NN
 and_synopsis	1
 and_cast	1
@@ -918,9 +733,8 @@ rode_his	1
 made_their	1
 spent_my	1
 preferred_his	1
-,_DT
-,_all	1
-,_the	1
+UH_WRB
+Oh_how	1
 :_CD
 :_1	2
 :_2	1
@@ -928,10 +742,11 @@ preferred_his	1
 :_29	1
 :_62	1
 NNP_VBZ
-Gene_sings	2
-Gene_is	2
-Autry_is	3
+Oakley_is	1
 Kid_is	1
+Gene_sings	2
+Autry_is	3
+Gene_is	2
 Great_is	1
 NNS_VBD
 salaries_paid	1
@@ -944,13 +759,12 @@ VBZ_RBR
 performs_better	1
 NN_VB
 Material_Check	1
+CD_PRP
+1934_he	1
 CC_RB
 and_straight	1
-RBR_IN
-better_than	1
-TO_NNP
-to_Les	1
-TO_A	1
+JJ_TO
+much_to	1
 NNS_VBN
 features_loaded	1
 people_involved	1
@@ -963,10 +777,9 @@ FW_.
 Fi_.	1
 NNS_VBG
 comments_including	1
-hats_wanting	1
+directors_leading	1
 years_watching	1
-UH_,
-Oh_,	1
+hats_wanting	1
 :_PRP$
 -_our	1
 NNS_JJ
@@ -1001,12 +814,12 @@ singing_cowboy	1
 NN_FW
 Publicity_Stills	1
 Movie_Facts	1
+EX_VBP
+there_are	1
 POS_JJ
 's_classic	1
 's_B-Western	1
 's_personal	1
-VBG_:
-filming_...	1
 VBP_VBG
 'm_assuming	1
 DT_NNS
@@ -1063,22 +876,16 @@ the_Nashville	1
 the_Original	1
 the_Kid	1
 the_Arizona	1
+The_Range	1
 some_Autry	1
 THE_SADDLE	1
-The_Range	1
+the_Melody	2
 The_Phantom	1
 the_Hollywood	2
 the_Gene	1
 an_Army	1
 CC_DT
 yet_the	1
-''_IN
-''_as	2
-''_while	1
-,_JJ
-,_HOWDY	1
-NNS_NNS
-exhibitors_comments	1
 DT_JJ
 The_Old	1
 the_standard	1
@@ -1087,6 +894,7 @@ the_only	1
 a_further	1
 the_top	1
 no_other	1
+the_First	1
 some_wonderful	1
 the_educational	1
 a_new	1
@@ -1130,6 +938,7 @@ CC_WP
 and_who	1
 NNS_CC
 FRIENDS_AND	1
+hills_and	1
 songs_and	1
 movies_and	1
 1930s_and	1
@@ -1149,32 +958,16 @@ California_Special	1
 Bakaleinikoff_Musical	1
 Pictures_present	1
 Magers_Western	1
-JJ_TO
-much_to	1
-,_WRB
-,_why	1
-,_how	1
-NN_,
-title_,	1
-venture_,	1
-color_,	1
-Direction/Supervision_,	1
-show_,	1
-radio_,	1
-identification_,	1
-info_,	1
-product_,	1
-enterprise_,	1
-film_,	1
-plot_,	1
-footnote_,	1
-Designer_,	2
-movie_,	1
-name_,	1
-``_NN
-``_Trail	1
-``_WAGON	1
-``_GENE	1
+IN_JJ
+that_much	1
+by_other	1
+in_many	1
+with_rolling	1
+for_top	1
+with_musical	1
+TO_CD
+to_1942	1
+to_1940	1
 NN_.
 west_.	1
 smoking_.	1
@@ -1210,6 +1003,7 @@ role_by	1
 Cowboy_on	1
 debut_for	1
 show_as	1
+radio_in	1
 fame_as	1
 member_of	1
 book_on	1
@@ -1226,69 +1020,29 @@ given_the	1
 VBP_IN
 are_from	1
 know_that	1
-NNS_IN
-excerpts_from	1
-robbers_of	1
-bios_on	1
-matinees_in	1
-collector/guideslines_for	1
-releases_from	1
-comments_at	1
-westerns_in	1
-stars_on	1
-comments_from	1
-experts_in	1
-happenings_in	1
-members_on	1
-anecdotes_about	1
-dates_of	1
-films_up	1
+NN_VBN
+Kid_played	1
+TEAM_Released	1
+action_mixed	1
 IN_TO
 up_to	1
-''_VBN
-''_Released	1
 NN_CC
 line_and	1
 Production_and	1
 action_and	1
 film_and	1
 mins/B_&	1
+enterprise_yet	1
 analysis_and	1
 cast_and	1
 Poster_and	1
 scenery_and	1
 life_and	1
+show_and	1
 songwriter_and	1
 Trivia_and	1
 sidekick_and	1
 heart_and	1
-,_NNP
-,_OLD	1
-,_Mischa	1
-,_Rhonda	1
-,_Films	1
-,_Boyd	1
-,_George	1
-,_Pat	1
-,_Los	1
-,_Chuck	1
-,_California	1
-,_Gene	4
-,_Herbert	1
-,_Wrigley	1
-,_James	3
-,_Armand	1
-,_aka	1
-,_Cass	1
-,_Television	1
-,_William	1
-,_Charles	1
-,_Orvon	1
-,_Recordings	1
-,_Texas	1
-,_Bobby	1
-,_Gerald	1
-,_Republic	1
 VB_JJ
 look_great	1
 TO_VB
@@ -1300,18 +1054,14 @@ to_make	1
 NN_VBG
 shooting_hitting	1
 cast_including	1
-NN_``
-serial_``	1
 NN_VBD
 character_played	1
 show_debuted	1
+name_rode	1
 Mascot_was	1
 program_showcased	1
 stay_tuned	1
 tribute_was	1
-VBD_,
-paid_,	1
-included_,	2
 NN_VBZ
 movie_is	1
 movie_has	1
@@ -1336,6 +1086,7 @@ NNP_VBD
 Gene_did	1
 Autry_went	1
 Autry_was	1
+Champion_had	1
 Autry_became	1
 Autry_took	1
 Burnette_made	1
@@ -1351,8 +1102,8 @@ aired_on	1
 --_if	1
 RB_PRP
 n't_it	1
-``_DT
-``_The	2
+WDT_VBD
+that_were	1
 NNP_POS
 Kid_'s	1
 World_'s	1
@@ -1368,10 +1119,11 @@ NN_RB
 W_Fully	1
 copy_now	1
 interest_once	1
-RB_JJ
-very_entertaining	1
-fairly_simple	1
-too_bad	1
+venture_too	1
+movie_as	1
+PRP_.
+it_.	1
+it_?	1
 :_:
 -_-	10
 JJ_IN
@@ -1379,14 +1131,11 @@ present_in	1
 other_than	1
 available_on	1
 many_of	1
-,_FW
-,_etc.	1
-WDT_VBD
-that_were	1
 NNS_NN
+titles_etc	1
 films_release	1
-EX_VBP
-there_are	1
+NNS_FW
+heavies_etc.	1
 IN_EX
 as_there	1
 VBP_VBN
@@ -1401,23 +1150,176 @@ is_the	1
 offers_the	1
 joins_a	1
 contains_the	1
-NN_VBN
-Kid_played	1
-action_mixed	1
 CD_NN
 ~_Image	1
 62_mins/B	1
 62_min	1
 VBZ_NNP
+sings_Back	1
 includes_Gene	1
 NNP_NNS
-Autry_enterprises	1
+Yates_directors	1
 Adams_collector/guideslines	1
 Columbia_westerns	1
 Saturday_matinees	1
-JJ_``
-renowned_``	1
-present_``	1
+Autry_enterprises	1
+NNP_NNP
+OLD_CHISHOLM	1
+Old_Santa	1
+Producer_Gerald	1
+Charles_Clague	1
+Weldon_aka	1
+The_Cass	1
+Range_Rider	1
+Townsman_Pierce	1
+Corp._In	1
+National_Center	1
+BEEN_INVITED	1
+Autry_Champion	1
+Boyd_Magers	2
+In_The	1
+Films_Recordings	1
+Apache_Kid	2
+Mangrum_Frankie	1
+Weldon_Dickie	1
+Old_Tucson	1
+L._Cason	1
+J._Yates	1
+Sweeney_Editor	1
+Henchman_Gandy	1
+Schaefer_Producer	1
+Deputy_Syd	1
+Hollywood_Chamber	1
+Original_Press	1
+Weldon_Henry	1
+Frankie_Marvin	1
+Marshal_Sam	1
+Ranch_Radio	1
+Tioga_Texas	1
+Chuck_Anderson	1
+City_Los	1
+William_Bradford	1
+Studio_City	1
+J._Copeland	1
+Angeles_California	1
+Total_Time	1
+JUBILEE_Cass	1
+Ranch_Rodeo	1
+Gerald_Geraghty	1
+Connie_Weldon	1
+Bradford_Cinematographer	1
+Lemons_Empire	1
+Daniel_Doc	1
+George_Cooper	1
+Armand_Schaefer	1
+Cinematographer_Mischa	1
+Taplin_Harry	1
+AGAIN_Gene	1
+Mascot_Republic	1
+Clague_Art	1
+In_Old	1
+Les_Adams	1
+Harry_Harvey	2
+Annie_Oakley	1
+Republic_Pictures	1
+Geraghty_Screenwriter	1
+Pat_Buttram	5
+Gandy_Herman	1
+Autry_Date	1
+A_Ranch	1
+Doc_Weldon	2
+Sam_Taplin	1
+Archainbaud_Director	1
+Dave_Weldon	1
+Mike_McClure	2
+Champion_Gene	1
+Director_Armand	1
+Jones_Gordon	1
+Real_Bob	1
+Syd_Saylor	1
+Melody_Ranch	3
+Pictures_Corp.	2
+Wonder_Horse	1
+Autry_National	1
+Autry_OLD	1
+Art_Director	1
+Rhonda_Lemons	1
+Los_Angeles	2
+A._Crowe	1
+aka_The	1
+SADDLE_AGAIN	1
+James_A.	1
+John_L.	1
+Herbert_J.	1
+Gene_Autry	16
+A_JUBILEE	1
+Back_In	1
+Dick_Jones	3
+McClure_George	1
+Pierce_Lyden	1
+Henchman_Mangrum	1
+Flying_A	2
+Mascot_Pictures	1
+Doublemint_Gum	1
+Columbia_Pictures	1
+Nat_Levine	1
+Recordings_Television	1
+Gregg_Barton	1
+Cass_County	6
+Entertainment_~	1
+Anderson_Webmaster	1
+Bob_Woodward	1
+Bob_Nareau	1
+Dr._Kunody	1
+Sandy_Sanders	1
+Kunody_Bob	1
+Henchman_Slim	1
+Digitally_Remastered	1
+Autry_Flying	1
+Dial_Gene	1
+The_Apache	2
+Restored/Dolby_Digitally	1
+Original_Melody	1
+James_Crowe	1
+Dickie_Jones	1
+Horse_Pat	1
+Smiley_Pat	1
+Ranch_Theater	2
+AND_OUT	1
+Unshaven_Henchman	1
+George_J.	1
+Com_Boyd	1
+Bob_Steele	1
+Radio_Films	1
+Nashville_Network	1
+Publishing_Inc	1
+Empire_Publishing	2
+Phantom_Empire	1
+Townsman_Sandy	1
+Santa_Fe	1
+Gordon_Jones	1
+Buttram_Cass	1
+Weldon_Harry	1
+The_Saddle	1
+Carlo_Tricoli	1
+Orvon_Gene	1
+Live_Theater	1
+Deputy_Pat	1
+Henry_Rowland	2
+Bobby_J.	1
+Cason_The	1
+Herman_Hack	1
+Radio_Show	1
+Director_James	1
+James_Sweeney	1
+Champion_World	1
+Editor_Charles	1
+Texas_Date	1
+John_Cason	1
+Mischa_Bakaleinikoff	1
+J._Lewis	1
+George_Archainbaud	1
+Screenwriter_William	1
 VBG_RB
 looking_forward	1
 NNPS_:
@@ -1425,8 +1327,10 @@ Boys_...	1
 Boys_-	1
 :_RB
 --_Shortly	1
-,_WP
-,_who	3
+RB_JJ
+very_entertaining	1
+fairly_simple	1
+too_bad	1
 IN_PRP$
 under_his	1
 as_his	2
@@ -1441,17 +1345,15 @@ NNP_NNPS
 County_Boys	6
 CC_PRP$
 and_his	1
-VB_RP
-check_out	1
-Check_out	1
-NNPS_,
-Boys_,	4
 RB_VBN
 then_given	1
-NN_''
-Cowboy_''	1
-Talk_''	1
-TEAM_''	1
+NNS_CD
+'20s_'30s	1
+TO_NNP
+to_Les	1
+TO_A	1
+NNPS_PRP
+Boys_I	1
 VB_CD
 have_five	1
 VBG_DT
@@ -1464,8 +1366,6 @@ RB_VBD
 originally_aired	1
 eventually_joined	1
 always_preferred	1
-VB_RB
-happen_too	1
 VBN_NNS
 been_cowboys	1
 :_VBG
@@ -1475,8 +1375,8 @@ VBN_CC
 caught_or	1
 VBN_TO
 come_to	1
-,_WDT
-,_which	1
+VB_RB
+happen_too	1
 :_VBN
 --_Hosted	1
 --_Discovered	1
@@ -1495,10 +1395,6 @@ leading_ladies	1
 Following_Segments	1
 watching_buckaroos	1
 working_titles	1
-,_NNS
-,_songwriters	1
-,_directors	1
-,_salaries	1
 JJ_JJ
 other_black	1
 misguided_teen	1
@@ -1510,30 +1406,17 @@ teen_aged	1
 :_VBP
 --_relive	1
 --_do	1
-NNP_''
-Dial_''	1
-Doc_'	1
-Theater_''	2
-Steele_''	1
-Show_''	1
-Angeles_''	1
-Saddle_''	1
-Fe_''	1
-A_''	1
-Empire_''	1
 CD_TO
 1940_to	1
 NNP_TO
 INVITED_TO	1
-,_VBD
-,_rode	1
-,_had	1
+Gum_to	1
+VB_RP
+check_out	1
+Check_out	1
 WRB_PRP
 where_they	1
 how_I	1
-RB_DT
-much_a	1
-Well_both	1
 VBZ_TO
 has_to	1
 IN_DT
@@ -1553,6 +1436,7 @@ down_the	1
 by_the	2
 of_an	1
 on_the	6
+of_The	1
 like_no	1
 for_the	1
 at_the	3
@@ -1563,15 +1447,16 @@ JJ_NN
 regular_sidekick	1
 Musical_Direction/Supervision	1
 classic_motion	1
+present_WAGON	1
 personal_life	1
 serial_era	1
 half-hour_TV	1
 Special_footnote	1
 entertaining_film	1
 white_venture	1
-cultural_mission	1
-First_Singing	1
 Western_star	1
+First_Singing	1
+cultural_mission	1
 longtime_sidekick	1
 high_school	1
 top_notch	1

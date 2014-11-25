@@ -33,10 +33,8 @@ NNS_IN
 lots_of	1
 VB_VBN
 have_seen	1
-,_PRP
-,_I	1
-NNP_,
-Pakua_,	1
+NN_RB
+style_however	1
 JJ_IN
 Other_than	1
 CC_NN
@@ -45,6 +43,8 @@ WRB_NNP
 when_Pakua	1
 IN_IN
 than_that	1
+NNP_PRP
+Pakua_I	1
 VBZ_DT
 gives_a	1
 VBG_NN
@@ -91,8 +91,6 @@ this_rare	1
 a_good	1
 VBN_RB
 seen_much	1
-NN_RB
-style_however	1
 IN_RB
 about_back	1
 DT_NN

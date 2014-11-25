@@ -54,11 +54,6 @@ made	1
 fallen	1
 enjoyed	1
 charged	1
-POS
-'s	5
-'	1
-''
-''	16
 VBP
 do	1
 get	1
@@ -274,8 +269,9 @@ audio	1
 fact	1
 FW
 i.e.	1
-,
-,	43
+POS
+'s	5
+'	1
 .
 !	1
 ?	1
@@ -473,8 +469,24 @@ Gauge	1
 O'Farrel	1
 Cruikshank	1
 Film	1
-``
-``	17
+VB
+Enjoy	1
+enjoy	1
+buy	2
+appear	1
+be	1
+recognize	2
+remember	1
+****	1
+see	1
+watch	2
+start	1
+say	1
+learn	1
+know	1
+recommend	1
+find	1
+fill	1
 WRB
 when	3
 where	1
@@ -567,21 +579,3 @@ JJR
 closer	1
 better	1
 easier	1
-VB
-Enjoy	1
-enjoy	1
-buy	2
-appear	1
-be	1
-recognize	2
-remember	1
-****	1
-see	1
-watch	2
-start	1
-say	1
-learn	1
-know	1
-recommend	1
-find	1
-fill	1

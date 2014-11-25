@@ -12,21 +12,17 @@ in_lingerie	1
 from_prison	1
 than_anything	1
 into_insanity	1
-,_IN
-,_with	1
-,_so	2
-,_as	1
-PRP_RB
-it_mainly	1
-you_much	1
-you_accidentally	1
+JJ_IN
+entertaining_with	1
+murky_as	1
+Awful_About	1
+long_at	1
+bad_if	1
 NNS_WP
 people_who	2
 NN_WRB
 countryside_where	1
 fortune_when	1
-``_JJ
-``_charming	1
 NNP_IN
 Earth_vs.	1
 Empire_of	1
@@ -41,6 +37,8 @@ MD_RB
 ca_n't	1
 could_n't	1
 'll_probably	1
+NN_WDT
+nudity_which	1
 VB_DT
 be_all	1
 write_a	1
@@ -59,14 +57,6 @@ RB_.
 not_.	1
 before_.	1
 yes_?	1
-PRP_''
-me_''	1
-,_PRP
-,_it	3
-,_he	3
-,_I	1
-,_she	1
-,_they	1
 VBZ_JJ
 hears_spooky	1
 is_decent	1
@@ -78,6 +68,8 @@ offers_human	1
 sees_spooky	1
 VBP_CD
 take_three	1
+VBD_CC
+did_but	1
 NN_TO
 joy_to	1
 death_to	1
@@ -90,18 +82,16 @@ CC_RB
 but_not	2
 and_mentally	1
 but_then	1
-VBN_,
-told_,	1
-gone_,	1
 JJ_CC
+dumb_but	1
 blind_and	1
+Tedious_but	1
+long_but	1
+good_but	1
 IN_VBZ
 as_is	1
 WRB_PRP
 where_she	1
-CD_,
-1934_,	1
-13_,	1
 CC_CD
 but_one	1
 CD_.
@@ -111,6 +101,8 @@ one_.	1
 --_In	1
 NN_JJ
 studio_insured	1
+RB_WDT
+well_which	1
 PRP$_JJ
 his_spare	1
 her_own	1
@@ -128,6 +120,11 @@ because_he	1
 VBN_CC
 convicted_and	1
 dated_and	1
+NNP_WP
+Gordon_who	1
+Paris_who	1
+VBZ_CC
+ensues_but	1
 CD_:
 1960_--	1
 1970_--	1
@@ -250,12 +247,6 @@ he_abandons	1
 he_sleeps	1
 he_kills	1
 it_'s	2
-IN_JJ
-for_young	1
-in_high	1
-for_small	1
-on_small	1
-as_anti-social	1
 NNP_CC
 Laverne_&	1
 Corman_and	1
@@ -278,9 +269,8 @@ VBG_IN
 dying_of	1
 carrying_on	1
 running_through	1
-VBZ_NN
-shows_coffin	1
-plays_screenwriter	1
+RB_CC
+throughout_but	1
 DT_CD
 This_one	1
 this_one	1
@@ -297,13 +287,11 @@ probably_be	1
 n't_go	1
 n't_blackmail	1
 PRP_.
+me_.	1
 it_.	1
 :_NN
 --_Opening	1
 --_TV	1
-PRP_,
-them_,	1
-it_,	1
 IN_PRP$
 in_his	1
 of_his	1
@@ -313,16 +301,9 @@ against_his	1
 in_their	1
 JJR_NN
 younger_sister	1
-,_WP
-,_who	3
 PRP_VB
 she_have	1
 ya_know	1
-NNP_,
-Coppola_,	1
-Paris_,	1
-Gordon_,	1
-Overall_,	1
 CD_JJ
 1/2_Tormented	1
 1/2_Twisted	1
@@ -362,6 +343,9 @@ his_sister	1
 his_junior	1
 his_girlfriend	1
 their_affair	1
+NNP_PRP
+Coppola_it	1
+Overall_I	1
 JJ_RB
 ugly_back	1
 taboo_back	1
@@ -380,14 +364,6 @@ glad_I	1
 unfortunate_you	1
 CC_VBN
 and_executed	1
-JJ_,
-dumb_,	1
-long_,	1
-good_,	1
-gawky_,	1
-murky_,	1
-Tedious_,	1
-entertaining_,	1
 JJ_.
 own_?	1
 ill_.	1
@@ -405,10 +381,6 @@ was_pretty	1
 had_never	1
 NN_DT
 lingerie_a	1
-RB_,
-Then_,	1
-throughout_,	1
-well_,	1
 VBN_IN
 Produced_by	1
 supported_by	1
@@ -424,9 +396,6 @@ sacrifices_.	1
 diehards_.	1
 students_.	1
 psychos_.	1
-NNS_,
-mid-thirties_,	1
-things_,	1
 TO_DT
 to_the	1
 VBD_TO
@@ -444,8 +413,6 @@ VBZ_PRP$
 loses_her	1
 RP_PRP$
 up_her	1
-``_WRB
-``_How	1
 JJ_NNS
 spooky_things	1
 insured_patrons	1
@@ -464,6 +431,7 @@ JJ_NNP
 rural_California	1
 CD_IN
 one_of	1
+1934_so	1
 JJR_IN
 more_of	1
 NNS_DT
@@ -471,9 +439,9 @@ frames_another	1
 WRB_JJ
 How_Awful	1
 How_unfortunate	1
-,_CC
-,_and	1
-,_but	13
+VB_VBG
+be_carrying	1
+be_slipping	1
 VB_NN
 whack_job	1
 satisfy_exploitation	1
@@ -485,10 +453,12 @@ monster_movies	1
 NNS_NNP
 movies_Empire	1
 NN_NNP
+scene_Tom	1
 girlfriend_Carol	1
 jane_fianc&eacute;	1
 anything_Coppola	1
 NN_WP
+brother_who	1
 daughter-in-law_who	1
 CD_CD
 ***_1/2	1
@@ -502,13 +472,18 @@ PRP$_NNS
 their_mid-thirties	1
 CD_CC
 1959_and	1
+13_but	1
 CC_NN
 but_coherence	1
 VBG_NNP
 starring_Anthony	1
 expecting_The	1
 NN_PRP
+morning_they	1
+job_he	1
+film_he	1
 crime_he	1
+taste_it	1
 VB_PRP$
 expose_their	1
 IN_RB
@@ -516,8 +491,8 @@ in_exquisitely	1
 of_before	1
 CC_IN
 and_in	1
-VBN_DT
-been_a	1
+PRP_WRB
+her_How	1
 :_DT
 --_An	1
 --_A	1
@@ -525,9 +500,8 @@ JJ_DT
 worth_a	1
 VBG_TO
 trying_to	1
-:_JJ
---_Serial	1
--_ish	1
+VBP_PRP
+think_they	1
 MD_VB
 may_be	1
 might_be	1
@@ -535,23 +509,21 @@ should_satisfy	1
 Would_have	1
 will_remind	1
 will_bring	1
-VBZ_,
-ensues_,	1
-VB_VBG
-be_carrying	1
-be_slipping	1
+:_JJ
+--_Serial	1
+-_ish	1
 PRP_TO
 her_to	1
 VB_VBN
 have_been	1
 be_told	1
-WP_RB
-who_also	1
 IN_CD
 of_one	1
 about_20	1
 at_74	1
 in_1934	1
+VBG_DT
+watching_the	1
 PRP_MD
 he_may	1
 she_might	1
@@ -559,18 +531,19 @@ it_should	1
 she_ca	1
 You_'ll	1
 it_will	2
-NN_CC
-classic_and	1
-coffin_and	1
-castle_and	1
-relationship_and	1
-footing_and	1
-patient_and	1
-Vi_and	1
+NNP_VBZ
+Tom_neglects	1
+Palance_runs	1
+Jr._overacts	1
+Jr._is	1
+Perkins_is	1
+Vi_loses	1
+Goldblum_plays	1
 CD_VBZ
 one_is	1
-VB_,
-know_,	1
+NNS_VBD
+women_were	1
+teenagers_were	1
 SYM_DT
 **_The	2
 *_The	1
@@ -582,19 +555,23 @@ PRP_NNS
 He_frames	1
 JJ_JJR
 attractive_younger	1
-NNS_VBD
-women_were	1
-teenagers_were	1
+VBZ_NN
+shows_coffin	1
+plays_screenwriter	1
 VBP_NNS
 're_students	1
 NNS_VBG
 Actors_playing	1
+TO_JJ
+to_charming	1
 EX_VBP
 there_are	1
 VBP_DT
 're_all	1
 RP_CC
 out_and	1
+VBN_DT
+been_a	1
 NN_NN
 JD_film	1
 husband_hint	1
@@ -614,8 +591,8 @@ film_studio	1
 hospital_patient	1
 domain_stuff	1
 sexpot_mistress	1
-,_WDT
-,_which	3
+POS_JJ
+'s_attractive	1
 NNP_WP$
 Perkins_whose	1
 DT_NNS
@@ -645,10 +622,6 @@ The_Killing	1
 the_Spider	1
 The_Sadist	1
 the_Hayes	1
-,_JJ
-,_plain	1
-WP_PRP
-whom_he	1
 DT_JJ
 no_particular	1
 a_middle-age	1
@@ -675,29 +648,27 @@ cute_chubby	1
 good_public	1
 nice_low	1
 anti-social_psychotic	1
+gawky_plain	1
 nice_noir	1
 NN_:
 hint_:	1
 b/w_--	2
 NNS_CC
+mid-thirties_but	1
 sounds_and	1
+things_but	1
 VBD_PRP
 bought_it	1
 put_him	1
 NNP_JJ
 Pretty_dumb	1
 Pretty_dull	1
-NN_,
-taste_,	1
-brother_,	1
-woman_,	1
-job_,	1
-morning_,	1
-nudity_,	1
-body_,	1
-film_,	1
-sister_,	1
-scene_,	1
+IN_JJ
+for_young	1
+in_high	1
+for_small	1
+on_small	1
+as_anti-social	1
 NN_.
 ledge_.	1
 basement_.	1
@@ -754,12 +725,13 @@ agenda_of	1
 island_off	1
 care_of	1
 Anatomy_of	1
+body_so	1
 villa_in	1
 screenplay_for	1
 face_of	1
-NNP_RB
-Story_pretty	1
-Kind_as	1
+VBN_PRP
+told_it	1
+gone_she	1
 POS_:
 's_-	1
 NNP_VBP
@@ -779,14 +751,16 @@ patrons_against	1
 movies_than	1
 NNS_PRP
 suspicions_she	1
-NNP_VBZ
-Tom_neglects	1
-Palance_runs	1
-Jr._overacts	1
-Jr._is	1
-Perkins_is	1
-Vi_loses	1
-Goldblum_plays	1
+NN_CC
+classic_and	1
+coffin_and	1
+castle_and	1
+relationship_and	1
+sister_but	1
+woman_but	1
+footing_and	1
+patient_and	1
+Vi_and	1
 VB_JJ
 get_cheap	1
 TO_VB
@@ -810,8 +784,8 @@ Maniac_1934	1
 Skull_1958	1
 Dementia_13	1
 Craze_1974	1
-VBD_,
-did_,	1
+WP_PRP
+whom_he	1
 NN_VBZ
 image_is	1
 Vi_threatens	1
@@ -831,8 +805,6 @@ obsession_ensues	1
 VBD_.
 did_.	1
 committed_.	1
-''_NN
-''_villa	1
 VBG_NNS
 playing_teenagers	1
 leering_suspicions	1
@@ -841,6 +813,8 @@ Coppola_did	1
 VBD_IN
 testified_against	1
 were_in	1
+PRP_CC
+them_and	1
 SYM_NN
 **_Dementia	1
 WDT_VBD
@@ -850,20 +824,19 @@ Corman_'s	1
 Tom_'s	1
 IN_WP
 with_whom	1
-PRP_``
-her_``	1
-JJ_IN
-Awful_About	1
-long_at	1
-bad_if	1
+NNP_RB
+Story_pretty	1
+Kind_as	1
+PRP_RB
+it_mainly	1
+you_much	1
+you_accidentally	1
 DT_.
 all_.	1
 NNS_NN
 people_hostage	1
 VBG_RP
 plucking_out	1
-TO_``
-to_``	1
 NN_RP
 teenager_out	1
 RB_RB
@@ -943,8 +916,6 @@ completely_unwatchable	1
 pretty_entertaining	1
 VBZ_VBG
 is_trying	1
-JJ_''
-charming_''	1
 VB_PRP
 remind_you	1
 bring_you	1
@@ -966,15 +937,14 @@ Or_her	1
 and_his	1
 WRB_NN
 when_Palance	1
-VBP_PRP
-think_they	1
 RB_VBN
 pretty_dated	1
 justly_convicted	1
 even_heard	1
-VBG_DT
-watching_the	1
+VB_CC
+know_but	1
 RB_PRP
+Then_he	1
 n't_ya	1
 RB_VBD
 accidentally_fell	1
@@ -987,15 +957,13 @@ leaves_him	1
 has_her	1
 takes_her	1
 abandons_her	1
-''_.
-''_.	1
+WP_RB
+who_also	1
 VBN_TO
 released_to	1
 CC_MD
 and_could	1
 But_could	1
-,_NNP
-,_Tom	1
 CC_NNP
 and_Psycho	1
 and_The	1
@@ -1008,8 +976,6 @@ CC_NNS
 but_women	1
 JJ_WP
 psychotic_who	1
-POS_JJ
-'s_attractive	1
 VB_RP
 cover_up	1
 VBZ_TO
@@ -1046,13 +1012,12 @@ JJ_NN
 Irish_castle	1
 low_budget	1
 middle-age_woman	1
-good_fortune	1
+noir_vibe	1
 small_role	1
 Twisted_Obsession	1
 mental_hospital	1
 Recent_widower	1
 dopey_monster	1
-noir_vibe	1
 young_filmmaker	1
 small_island	1
 chubby_girlfriend	1
@@ -1062,6 +1027,7 @@ spare_time	1
 reasonable_price	1
 plain_jane	1
 public_domain	1
+good_fortune	1
 Leading_lady	1
 antique_store	1
 modern_jazz	1
@@ -1073,3 +1039,6 @@ particular_reason	1
 bad_taste	1
 twisted_obsession	1
 ish_JD	1
+charming_villa	1
+PRP_WDT
+it_which	1

@@ -20,10 +20,6 @@ shot	1
 spurned	1
 identified	1
 forgotten	1
-POS
-'s	5
-''
-''	5
 VBP
 love	1
 assume	1
@@ -148,8 +144,8 @@ were	1
 denied	1
 was	3
 came	1
-,
-,	16
+POS
+'s	5
 .
 .	16
 TO
@@ -230,8 +226,16 @@ Parajanov	3
 Legend	1
 Fortress	1
 Islam	1
-``
-``	5
+VB
+be	1
+protect	1
+complete	1
+immure	1
+have	1
+recommend	1
+save	1
+bury	1
+achieve	1
 CC
 and	13
 &	1
@@ -269,13 +273,3 @@ greatest	1
 JJR
 better	1
 richer	1
-VB
-be	1
-protect	1
-complete	1
-immure	1
-have	1
-recommend	1
-save	1
-bury	1
-achieve	1

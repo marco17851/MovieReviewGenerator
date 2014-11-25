@@ -8,12 +8,13 @@ NNS_IN
 faces_in	1
 tears_up	1
 interviews_with	1
-VBP_NNS
-are_interviews	1
 NN_CC
+B_and	1
 r_&	1
 TO_VB
 to_check	1
+NN_PRP
+TV_you	1
 NN_VBZ
 video_is	1
 RP_DT
@@ -22,13 +23,9 @@ NNP_POS
 Fayetteville_'s	1
 IN_VBG
 of_seeing	1
-,_PRP
-,_you	1
 VBZ_JJ
 performs_hip-hop	1
 is_awesome	1
-,_CC
-,_and	1
 NNS_VBZ
 artists_performs	1
 CC_NN
@@ -42,8 +39,8 @@ NNP_NNS
 Carolina_tears	1
 NNP_NNP
 North_Carolina	1
-JJ_,
-hip-hop_,	1
+VBP_NNS
+are_interviews	1
 JJ_.
 awesome_.	1
 NN_NNPS
@@ -64,8 +61,6 @@ POS_JJ
 's_top	1
 JJR_.
 more_.	1
-,_NN
-,_r	1
 VBP_JJ
 are_tired	1
 IN_NNP
@@ -93,9 +88,8 @@ this_show	1
 the_music	1
 The_Spot	1
 This_video	1
-NN_,
-TV_,	1
-B_,	1
+IN_JJ
+of_fresh	1
 NN_.
 stage_.	1
 air_.	1
@@ -122,5 +116,4 @@ in_the	1
 JJ_NN
 fresh_air	1
 top_radio	1
-IN_JJ
-of_fresh	1
+hip-hop_r	1

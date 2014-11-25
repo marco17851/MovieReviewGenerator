@@ -1,5 +1,9 @@
 IN_NN
 of_wing	1
+JJ_IN
+informative_as	1
+good_in	1
+fundamental_of	1
 VBN_VBG
 been_searching	1
 VBG_VBD
@@ -16,10 +20,6 @@ That_being	1
 RB_.
 long_.	1
 off_.	1
-,_PRP
-,_it	1
-,_It	1
-,_I	1
 VBZ_JJ
 is_OK	1
 's_ok	1
@@ -33,8 +33,6 @@ JJ_CC
 OK_but	1
 VB_JJR
 be_better	1
-CD_,
-one_,	1
 CD_.
 4_.	1
 IN_PRP
@@ -44,6 +42,14 @@ PRP_VBD
 I_paid	1
 CD_NNS
 30_minutes	1
+NN_IN
+structure_on	1
+footage_that	1
+Dvd_on	1
+video_with	1
+value_of	1
+understanding_on	1
+rip_of	1
 NNP_NN
 VHS_master	1
 Poor_audio	1
@@ -92,9 +98,6 @@ RB_IN
 so_for	1
 VBG_IN
 searching_for	1
-,_RB
-,_so	2
-,_simply	1
 DT_CD
 this_one	1
 a_4	1
@@ -102,21 +105,17 @@ CC_PRP
 but_it	1
 PRP_.
 it_.	1
-PRP_,
-it_,	1
-IN_JJ
-for_overall	1
 NNP_.
 Chun_.	1
 IN_WDT
 on_what	1
+JJ_RB
+historic_so	1
 VB_IN
 occur_on	1
 say_that	1
-JJ_,
-historic_,	1
-great_,	1
-ok_,	1
+JJ_PRP
+ok_it	1
 VBD_RB
 were_as	1
 PDT_DT
@@ -131,18 +130,14 @@ VBD_JJ
 looked_good	1
 RB_NN
 so_incompatibility	1
-NN_IN
-structure_on	1
-footage_that	1
-Dvd_on	1
-video_with	1
-value_of	1
-understanding_on	1
-rip_of	1
+VBN_NN
+pressed_DVD	1
 JJ_NNS
 martial_arts	1
 VBZ_IN
 comes_as	1
+JJ_NNP
+great_Master	1
 JJR_IN
 more_than	2
 IN_PDT
@@ -152,6 +147,8 @@ chapter_stops	1
 DVD_Players	1
 NNS_NNS
 arts_DVDs	1
+NN_NNP
+money_Quality	1
 CC_IN
 but_for	1
 DT_RB
@@ -165,6 +162,7 @@ I_would	1
 It_would	1
 NN_PRP
 price_I	1
+quality_I	1
 IN_RB
 for_now	1
 JJ_DT
@@ -181,8 +179,6 @@ RB_CD
 only_30	1
 CC_NN
 and_quality	1
-,_DT
-,_this	1
 VBP_VBN
 have_seen	1
 have_been	1
@@ -192,14 +188,15 @@ Quality_is	1
 Goldberg_has	1
 NNS_VBG
 students_demonstrating	1
+CD_PRP
+one_It	1
 CC_RB
 and_now	1
 but_not	1
 VBP_VBD
 buy_were	1
-VBZ_NN
-is_nothing	1
-is_DVD	1
+NNS_VBN
+topics_covered	1
 NN_NN
 DVD_rip	1
 home_video	1
@@ -219,12 +216,12 @@ the_martial	1
 a_perfect	1
 an_informative	1
 the_fundamental	1
+VBD_DT
+said_this	1
 NNS_CC
 basics_and	1
-NN_,
-DVD_,	1
-money_,	1
-quality_,	1
+IN_JJ
+for_overall	1
 NN_.
 cover_.	1
 audio_.	1
@@ -235,8 +232,9 @@ style_.	1
 money_.	1
 chun_.	1
 master_.	1
-NNS_VBN
-topics_covered	1
+VBZ_NN
+is_nothing	1
+is_DVD	1
 VBN_PRP
 found_it	1
 NNS_IN
@@ -253,8 +251,6 @@ Nothing_more	1
 NN_VBD
 inkjet_printed	1
 cover_looked	1
-VBD_,
-said_,	1
 NN_VBZ
 footage_is	1
 chun_is	1
@@ -269,13 +265,10 @@ paid_for	1
 DT_JJS
 the_best	1
 NN_RB
+DVD_so	1
 DVD-R_not	1
-JJ_IN
-informative_as	1
-good_in	1
-fundamental_of	1
-VBN_NN
-pressed_DVD	1
+PRP_RB
+it_simply	1
 VBZ_DT
 is_some	1
 is_all	1
@@ -303,9 +296,6 @@ RB_PRP
 now_I	1
 JJS_NN
 best_footage	1
-,_NNP
-,_Master	1
-,_Quality	1
 VBD_NN
 printed_cover	1
 IN_DT

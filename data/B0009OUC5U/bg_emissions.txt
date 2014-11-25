@@ -19,6 +19,7 @@ as_secretary	1
 via_streaming	1
 in_quality	1
 for_Justice	1
+from_Deception	1
 if_someone	1
 up_blood	1
 In_fact	1
@@ -31,6 +32,7 @@ on_top	1
 of_plot	1
 between_lynley	1
 like_dirt	1
+of_spice	1
 without_difficulty	1
 of_investigation	1
 on_film	1
@@ -63,6 +65,8 @@ seen_hanging	1
 begun_reading	1
 FW_DT
 Sinner_A	2
+PRP$_IN
+her_of	1
 CC_JJ
 and_unnatural	1
 and_professional	1
@@ -79,13 +83,10 @@ enough_to	1
 forward_to	1
 well_to	1
 dear_to	1
-IN_``
-from_``	1
-that_``	1
-of_``	3
 VBP_.
-have_.	1
 think_.	1
+have_.	1
+dunnit_?	1
 VBP_CD
 get_4	1
 are_one	1
@@ -101,43 +102,33 @@ get_better	1
 VBN_.
 read_.	1
 published_.	1
-VBN_,
-watched_,	1
-solved_,	1
-cast_,	1
 WDT_MD
 which_can	1
 that_will	1
-VB_TO
-grow_to	1
-seem_to	1
-hesitate_to	1
-want_to	1
-Note_to	1
+VBN_CC
+cast_and	1
+solved_but	1
+numbered_and	1
 VBZ_CD
 features_four	1
 NNS_WDT
+episodes_which	1
 men_that	1
+arguments_which	1
 series_that	1
 mysteries_that	2
 DT_FW
 this_murder/mystery	1
 RB_JJR
 little_more	1
-VBG_WRB
-Continuing_where	1
-continuing_where	1
-WP_VBD
-who_was	2
-who_mentored	1
-who_grew	1
-who_detested	1
-who_liked	1
+PRP_PRP
+themselves_her	1
+it_I	1
+me_I	1
 IN_RBR
 as_more	1
-RP_,
-up_,	1
-off_,	1
+TO_JJR
+to_more	1
 VBN_JJ
 found_dead	1
 WP_VBP
@@ -150,6 +141,7 @@ Lewis_or	1
 Webberly_and	1
 Series_but	1
 Marple_and	1
+Justice_and	2
 Dermot_but	1
 Lynley_and	6
 Mystery_and	1
@@ -159,8 +151,6 @@ NNP_CD
 Series_2	2
 Series_3	3
 Series_Two	1
-``_WP
-``_who	1
 RP_VBG
 up_reading	1
 JJR_NNS
@@ -195,16 +185,8 @@ while_her	1
 with_his	1
 of_its	1
 for_his	1
-NNS_''
-betters_''	1
-Horses_''	6
-``_VBG
-``_working	1
-``_running	1
 NN_VB
 someone_help	1
-``_VBD
-``_matured	1
 IN_WDT
 for_which	1
 in_which	2
@@ -232,6 +214,7 @@ my_list	1
 your_mind	1
 its_class	1
 her_career	1
+her_strength	1
 her_character	1
 her_fate	1
 her_car	1
@@ -243,8 +226,6 @@ his_testimony	1
 my_favorite	1
 their_relationship	1
 his_life	1
-``_VBZ
-``_lets	1
 VB_IN
 see_that	1
 notice_that	1
@@ -264,19 +245,27 @@ look_into	1
 appreciate_about	1
 recall_from	1
 feel_like	1
-''_TO
-''_to	3
+JJ_PRP
+harsh_he	1
 VBD_RB
 were_first	1
+matured_wonderfully	1
 did_not	1
 were_so	1
 was_n't	2
 was_very	1
 was_just	1
 NN_DT
+hand_that	1
+apartment_a	1
+episode_A	1
+Mind_the	1
+Memory_A	1
+direction_the	1
+conspiracy_an	1
+day_the	1
 extent_this	1
 way_the	1
-direction_the	1
 PDT_DT
 all_the	3
 WDT_RB
@@ -296,6 +285,8 @@ season_3	1
 family_20	1
 Series_Two	1
 murder_ten	1
+WP_TO
+who_to	1
 VBD_RP
 left_off	1
 grew_up	1
@@ -313,6 +304,7 @@ show_Lynley	1
 think_Lynley	1
 hate_Lynley	1
 NNS_NNP
+bars_Stephen	1
 characters_Lynley	1
 PRP_WP
 them_What	1
@@ -335,10 +327,6 @@ her_novels	1
 their_characters	1
 RB_NNP
 now_Lynley	1
-,_PRP$
-,_its	1
-,_her	1
-,_their	1
 IN_RB
 for_now	1
 in_awhile	1
@@ -381,18 +369,18 @@ CD_VBZ
 three_has	1
 3_brings	1
 3_does	1
-3_is	1
+3_is	2
+3_picks	1
 VB_.
 follow_.	1
 assist_.	1
 balance_.	1
-VBP_''
-dunnit_''	1
 JJ_TO
+nice_to	1
 easy_to	1
 much_to	1
 disappointed_to	1
-nice_to	1
+stand-up_to	1
 willing_to	1
 common_to	1
 important_to	1
@@ -402,14 +390,10 @@ useful_to	1
 new_to	1
 CD_VBP
 3_are	1
-WP_,
-who_,	1
+NNS_JJ
+stories_easy	1
 MD_IN
 must_for	1
-NNP_''
-Witness_''	2
-Justice_''	3
-Sinner_''	2
 DT_NNS
 The_DVDs	1
 the_episodes	7
@@ -481,6 +465,7 @@ by_Sharon	1
 of_England	1
 that_Ms.	1
 by_Chief	1
+that_A	1
 in_Series	8
 towards_Havers	1
 of_Lynley	1
@@ -493,6 +478,7 @@ that_Netflix	1
 of_Havers	1
 of_Mrs.	1
 between_Insp.	1
+of_Witness	1
 against_Lynley	1
 between_Lynley	1
 as_Lynleys	1
@@ -515,6 +501,8 @@ the_Perfect	2
 The_Series	1
 the_Elizabeth	1
 the_Sherlock	1
+WDT_IN
+which_of	1
 PRP_NN
 me_hanging	1
 myself_feeling	1
@@ -533,14 +521,18 @@ NNS_CC
 episodes_and	1
 bosses_or	1
 friends_and	1
+books_but	1
 lines_but	1
 ex-wives_and	1
 sessions_and	1
 stories_and	1
+mysteries_and	1
+mysteries_but	1
 books_and	2
 Files_and	1
-locations_and	1
+novels_but	1
 cases_and	2
+locations_and	1
 NNS_CD
 Horses_Two	1
 VBN_PRP
@@ -550,43 +542,54 @@ are_from	1
 revolve_around	1
 feel_that	1
 observe_that	1
+are_In	1
 are_in	1
 suppose_in	1
 are_among	1
 comment_on	1
 NN_CC
 quality_and	1
+development_and	1
+man_but	1
 darkness_and	1
 hair_and	1
+appeal_but	1
 box_and	1
-life_and	1
-plot_and	1
+life_and	2
+tension_and	1
 violence_and	1
+plot_and	1
+depth_and	1
 killer_or	1
 DVD_or	1
 duo_and	1
+style_and	1
 countryside_and	1
+marriage_and	1
 respect_and	1
 protege_and	1
 drama_and	1
-series_and	3
+child_and	1
+series_and	5
+series_or	1
 daughter_and	1
 blood_and	1
 temper_or	1
-lynley_and	1
+past_and	1
 wardrobe_and	1
-show_and	1
+relationship_or	1
 shot_and	1
 book_and	1
 script_or	1
+class_and	1
 work_and	1
-relationship_or	1
+quality_but	1
+show_and	1
 case_and	1
+lynley_and	1
 WDT_PRP
 which_they	1
 which_she	1
-''_VBP
-''_are	1
 JJ_FW
 Proper_Sinner	2
 DT_JJS
@@ -595,15 +598,18 @@ the_best	1
 DT_WP
 those_who	1
 NN_JJ
+son_acclaimed	1
 bit_forced	1
 something_harsh	1
 Lynley_antagonistic	1
 show_worth	2
 book_fanatic	1
 stage_unable	1
+dialogue_scenic	1
 police_superior	1
 movie_rental	1
 RB_EX
+aside_there	1
 now_there	1
 NNP_NNS
 Lynley_novels	2
@@ -650,6 +656,7 @@ Inspector_Webberley	1
 Barbara_Flynn	1
 Gerard_Cole	1
 Constable_Billy	1
+Morse_Lewis	1
 Paul_Copley	1
 Helen_Clyde	1
 Oliver_Cotton	1
@@ -663,6 +670,7 @@ Inspector_Morse	1
 Jenny_Agutter	1
 Jemma_Redgrave	1
 Elizabeth_George	7
+Club_Morag	1
 Lynley_Nathaniel	2
 Miss_Marple	1
 Washington_Post	1
@@ -675,6 +683,7 @@ DI_Thomas	1
 Morag_McNicholl	1
 Martin_Patrick	1
 Maiden_Emma	1
+Again_Series	1
 McNicholl_Catherine	1
 BBC_America	1
 Lynley_Series	2
@@ -713,12 +722,14 @@ CC_EX
 and_there	1
 JJR_DT
 better_each	1
-JJR_,
-longer_,	1
 RP_WRB
 up_where	1
-VBN_CC
-numbered_and	1
+VB_TO
+grow_to	1
+seem_to	1
+hesitate_to	1
+want_to	1
+Note_to	1
 VBN_TO
 tempted_to	1
 chosen_to	1
@@ -728,9 +739,6 @@ meant_to	1
 demoted_to	1
 driven_to	1
 made_to	2
-''_RB
-''_wonderfully	1
-''_also	1
 IN_DT
 with_another	1
 through_the	1
@@ -810,21 +818,6 @@ knows_where	1
 is_why	1
 VB_WP
 control_what	1
-RB_,
-n't_,	1
-Still_,	1
-yet_,	2
-however_,	1
-Again_,	1
-far_,	1
-Sure_,	1
-However_,	4
-Unfortunately_,	1
-before_,	1
-Simultaneously_,	1
-certainly_,	1
-aside_,	1
-Overall_,	1
 RB_.
 now_!	1
 awhile_.	1
@@ -839,22 +832,12 @@ before_.	2
 well_.	2
 MD_CC
 may_or	1
-,_WRB
-,_when	1
-CC_RB
-and_just	1
-and_highly	1
-and_perhaps	1
-and_am	1
-and_even	1
-and_yet	1
-and_now	1
-and_not	1
-and_also	1
-and_sometimes	1
-and_then	3
-and_truly	1
-and_very	1
+VBN_PRP$
+saved_his	1
+NNS_DT
+mysteries_these	1
+episodes_the	1
+movies_a	1
 RB_:
 ago_-	1
 TO_.
@@ -865,9 +848,6 @@ when_he	1
 :_IN
 ;_if	1
 :_In	2
-''_:
-''_-	1
-''_:	3
 PRP$_JJ
 their_fierce	1
 his_moody	1
@@ -879,9 +859,12 @@ her_own	1
 Its_nice	1
 My_main	1
 her_aristocratic	1
-PRP_PRP
-themselves_her	1
-me_I	1
+WP_VBD
+who_was	2
+who_mentored	1
+who_grew	1
+who_detested	1
+who_liked	1
 IN_PRP
 though_they	1
 since_they	1
@@ -910,17 +893,9 @@ since_I	1
 that_it	1
 of_us	1
 that_we	1
-''_.
-''_?	2
-''_.	4
-'_.	1
-''_!	1
-''_,
-''_,	4
-,_FW
-,_etc.	1
-:_NNP
-:_Havers	1
+VBG_WRB
+Continuing_where	1
+continuing_where	1
 PRP_VBD
 We_were	1
 you_enjoyed	1
@@ -964,6 +939,7 @@ the_bos	1
 a_concert	1
 the_police	2
 The_twist	1
+a_lady	1
 the_murder	3
 a_world	1
 the_sound	1
@@ -981,6 +957,7 @@ the_attraction	1
 the_interaction	2
 a_secret	1
 the_book	2
+The_class	1
 the_fact	1
 each_time	1
 the_mill	1
@@ -1049,6 +1026,7 @@ an_appeal	1
 the_slew	1
 each_set	1
 the_drama	1
+the_back	1
 another_case	1
 the_profiler	1
 the_killer	1
@@ -1056,7 +1034,7 @@ the_daughter	1
 a_movie	1
 a_friendship	1
 a_bit	2
-the_back	1
+the_class	1
 a_case	1
 this_series	11
 DT_VBZ
@@ -1105,8 +1083,8 @@ I_like	2
 I_comment	1
 DT_VBN
 the_bore	1
-VBD_''
-matured_''	1
+PRP_JJ
+her_worth	1
 PRP_VBZ
 she_has	1
 It_smacks	1
@@ -1128,22 +1106,17 @@ he_bullies	1
 it_'s	6
 IN_#
 at_#	1
-IN_,
-that_,	1
 IN_.
 in_.	1
-``_DT
-``_A	6
-``_a	1
-``_The	2
+WP_NNP
+whom_Finnegan	1
 PRP_.
 me_?	1
-it_!	1
+it_!	2
 it_.	1
 them_.	1
-PRP_,
-itself_,	1
-it_,	1
+IN_:
+at_...	1
 CC_VBP
 and_have	2
 and_am	1
@@ -1167,6 +1140,7 @@ words_her	1
 RP_TO
 out_to	1
 NNP_PRP
+Three_it	1
 Three_them	1
 View_them	1
 CC_VBD
@@ -1176,27 +1150,18 @@ and_showing	1
 but_confirming	1
 NNPS_VB
 Mysteries_Set	2
-JJ_,
-professional_,	1
-superior_,	1
-undercover_,	1
-conniving_,	1
-crooked_,	1
-great_,	1
-harsh_,	1
-blunt_,	1
-human_,	1
-different_,	1
 JJ_.
 own_!	1
 hidden_.	1
 interesting_.	1
+worth_.	1
 excellent_.	1
 uncomfortable_.	1
 scathing_.	1
 true_.	1
 right_.	1
 aristocratic_.	1
+dandy_.	1
 awful_.	1
 other_.	1
 good_.	1
@@ -1228,6 +1193,7 @@ made_after	1
 injured_by	1
 excused_from	1
 wound_around	1
+watched_except	1
 played_by	1
 stated_that	1
 implicated_in	1
@@ -1242,9 +1208,11 @@ based_on	5
 tuned_in	1
 perpetrated_by	1
 CC_IN
-but_if	1
+and_If	2
+But_If	1
 or_in	1
 but_as	1
+but_if	1
 but_with	1
 and_at	1
 but_since	1
@@ -1252,6 +1220,7 @@ JJ_:
 well-written_;	1
 IN_WRB
 on_how	1
+that_when	1
 NNPS_VBD
 Wishes_Were	2
 #_CD
@@ -1271,27 +1240,34 @@ murder_mysteries	2
 crime_stories	1
 cllection_dvds	1
 mystery_novels	1
+NNP_PRP$
+Havers_its	1
 NNPS_VBP
 British_are	1
 NN_NNP
 husband_Nigel	1
 actor_Sharon	1
 detective_Timothy	1
+companion_Gerard	1
+DS_Barbara	1
 wife_Maureen	1
 psychiatrist_Dermot	1
 wife_Grace	1
+home_Lynley	1
 casting_Sharon	1
+father_Noel	1
 partner_Inspector	1
+wife_Helen	1
 reporter_Red	1
-DS_Barbara	1
+case_Lynley	1
+man_Daniel	1
+woman_Nicola	1
 violinist_Gideon	1
 class_Detective	1
 boss_DSI	1
 socialite_Jemma	1
 NNPS_VBZ
 Mysteries_finds	1
-:_``
-:_``	1
 CD_CC
 one_and	1
 3_and	1
@@ -1310,14 +1286,14 @@ Can_someone	1
 :_A	1
 -_the	1
 ;_the	1
+:_The	1
 ..._The	1
 DT_MD
 a_must	1
 JJR_NN
 more_series	1
-RB_``
-merely_``	1
-verbally_``	1
+RP_NNP
+up_Havers	1
 PRP_MD
 I_would	1
 I_'d	2
@@ -1350,10 +1326,11 @@ CC_VB
 or_say	1
 and_control	1
 VBP_VBG
-are_engrossing	1
 are_enjoying	1
+are_engrossing	1
 are_taking	1
 are_disappearing	1
+are_running	1
 are_heading	1
 are_being	1
 NNS_VBD
@@ -1368,13 +1345,13 @@ There_'s	3
 EX_VBP
 there_are	2
 There_are	2
-CC_``
-and_``	2
-But_``	1
 NN_NN
 work_spouse	1
+strength_therein-she	1
 crime_drama	1
+drama_tension	1
 police/investigation_show	1
+folk_intelligence	1
 desk_work	1
 stage_fright	1
 love_with-I	1
@@ -1390,25 +1367,31 @@ world_class	1
 Mystery_series	1
 sound_production	1
 murder_investigation	1
-apartment_building	1
+meek_wife	1
 vice_cop	1
 vice_detective	1
 police_force	2
+tone_style	1
 class_violinist	1
 book_series	1
+conclusion_tragedy	1
 disc_episode	1
 Memory_A	2
 class_status	1
+apartment_building	1
 DVD_box	1
 sex_appeal	1
 detective_work	1
 death_point	1
-meek_wife	1
+work_marriage	1
 DVD_package	1
 flare_gun	1
+desperation_greed	1
 shop_girl	1
+Murder/Mystery_series	1
 mystery_book	1
 police_coverup	1
+owner_socialite	1
 murder_victim	1
 character_development	1
 DVD_case	1
@@ -1429,23 +1412,13 @@ screenplays_as	1
 books_yet	1
 years_before	1
 episodes_here	1
+insights_almost	1
 occasions_verbally	1
 books_very	1
 sources_now	1
+mysteries_especially	1
 films_not	1
 Havers_really	1
-CD_''
-3_''	2
-,_JJ
-,_scenic	1
-,_selfless	1
-,_acclaimed	1
-,_crooked	1
-,_annoying	1
-,_tousled	1
-,_sardonic	1
-,_EX
-,_there	2
 DT_JJ
 This_superb	1
 the_public	1
@@ -1458,6 +1431,7 @@ the_last	3
 a_retired	2
 a_possible	1
 a_wonderful	1
+a_dandy	1
 a_hidden	1
 a_bare	1
 the_personal	1
@@ -1538,8 +1512,6 @@ an_entire	1
 a_boisterous	1
 WP$_NN
 whose_relationship	1
-NNS_``
-troubles_``	1
 NN_IN
 interaction_between	2
 left-off_with	1
@@ -1549,11 +1521,13 @@ country_with	1
 season_in	1
 conjunction_with	1
 installment_of	1
+show_in	1
 secretary_for	1
 philanthropist_with	1
 show_since	1
 mystery_until	1
 packaging_for	1
+front_with	1
 series_via	1
 detective_without	1
 website_at	1
@@ -1575,6 +1549,7 @@ order_in	1
 fan_of	3
 girl_with	1
 couple_as	1
+book_With	1
 anger_out	1
 challenge_of	2
 officer_on	1
@@ -1590,13 +1565,15 @@ series_for	1
 burden_of	1
 mother_of	1
 watching_if	1
+dependence_on	1
 daughter_of	2
 slew_of	1
+streaming_through	1
 independence_with	1
 cop_on	1
 collection_of	1
 employee_of	1
-streaming_through	1
+gun_as	1
 Cry_For	1
 birth_of	1
 background_in	1
@@ -1617,11 +1594,12 @@ work_in	1
 Deception_on	1
 relationship_with	1
 complaint_with	1
+relationship_between	1
 plenty_of	2
 money_as	1
 resignation_from	2
 relationship_of	1
-dependence_on	1
+lady_while	1
 way_at	1
 team_of	1
 thing_for	1
@@ -1642,13 +1620,15 @@ life_in	1
 series_of	3
 episode_in	1
 character_with	1
+status_of	1
 series_on	1
 number_of	1
 account_of	1
 attack_on	1
+Justice_with	1
 sound_on	1
 fact_that	1
-relationship_between	1
+acting_because	1
 lot_of	3
 role_of	1
 feeling_for	1
@@ -1671,30 +1651,38 @@ murder_made	1
 woman_imprisoned	1
 book_titled	1
 NNS_PRP
-answers_they	1
 times_he	1
+answers_they	1
+instances_it	1
 Horses_I	1
 dvds_I	1
 NN_VBG
-mystery_dating	1
-philanthropist_being	1
+stuff_helping	1
 viewer_guessing	1
-intelligence_playing	1
+role_leaving	1
+mystery_dating	1
 difficulty_closing	1
+philanthropist_being	1
+intelligence_playing	1
 NN_VBD
 author_was	1
 testimony_put	1
+class_was	1
+character_matured	1
 set_was	1
 WP_PRP
 What_I	1
 NN_VBZ
 complaint_is	1
+Sinner_takes	1
 will_is	1
-thing_is	1
+love_is	1
+thing_is	2
 mother_is	1
 case_is	1
 wallet_is	1
 case_hits	1
+career_is	1
 cash_is	1
 obnoxiousness_is	1
 series_is	2
@@ -1702,13 +1690,15 @@ series_continues	1
 lynley_is	1
 episode_is	1
 acting_is	1
+Justice_features	1
 therein-she_is	1
 parallel_trails	1
 book_is	1
 series_stands	1
-series_has	1
+Memory_focuses	1
+scene_displays	1
 effort_has	1
-love_is	1
+series_has	1
 set_is	1
 testimony_denies	1
 victim_turns	1
@@ -1731,6 +1721,7 @@ only_recently	1
 n't_quite	1
 always_strictly	1
 n't_particularly	1
+Still_even	1
 very_highly	1
 almost_always	1
 am_sorely	1
@@ -1739,6 +1730,7 @@ very_well	1
 VBD_IN
 bore_of	1
 hooked_on	1
+Was_If	1
 ran_from	1
 said_that	1
 put_behind	1
@@ -1748,9 +1740,9 @@ to_in	1
 NN_VBP
 evidence_are	1
 series_are	1
+drama_do	1
 discipline_make	1
-PRP_''
-it_''	1
+reason_have	1
 PRP_RB
 I_just	1
 She_certainly	1
@@ -1769,11 +1761,10 @@ We_also	1
 I_really	2
 he_always	1
 I_especially	1
-NN_FW
-thing_i	1
-JJ_``
-superb_``	1
+IN_EX
+that_there	1
 RB_VBZ
+verbally_lets	1
 actually_gets	1
 consistantly_sucks	1
 promptly_runs	1
@@ -1788,8 +1779,6 @@ really_proves	1
 almost_loses	1
 RBR_VBN
 more_laid	1
-,_WP
-,_who	3
 VBZ_VBG
 is_researching	1
 is_causing	1
@@ -1809,17 +1798,8 @@ enjoy_them	1
 appreciate_it	1
 love_it	1
 assist_him	1
-RB_VBP
-highly_recommend	1
-only_get	1
-completely_contradict	1
-really_feel	1
-Really_do	1
-also_enjoy	1
-here_are	1
-affectionately_refer	1
-also_see	1
-truly_love	1
+PRP_DT
+him_a	1
 VBZ_VBN
 has_become	1
 is_based	1
@@ -1857,25 +1837,6 @@ Newly_reinstated	1
 apparently_connected	1
 independently_conceived	1
 Also_implicated	1
-NN_''
-beat_''	1
-lady_''	1
-stuff_''	1
-Memory_''	3
-class_''	2
-thing_''	1
-status_''	1
-show_''	1
-front_''	1
-spice_''	1
-interest_''	1
-Mind_''	1
-spouse_'	1
-strength_''	1
-folk_''	1
-Murder/Mystery_''	1
-Justice_''	2
-Sinner_''	1
 VB_RBR
 seem_less	1
 RB_VBG
@@ -1894,6 +1855,10 @@ newly_returned	1
 just_finished	2
 especially_enjoyed	1
 just_left	1
+NNS_NN
+knuckles_approach	1
+guts_type	1
+others_company	1
 CC_MD
 but_could	1
 or_may	1
@@ -1901,10 +1866,13 @@ VBD_NN
 had_difficulty	1
 JJ_JJ
 boisterous_young	1
+crooked_selfless	1
 unspoken_emotional	1
-unfeeling_aristocratic	1
-much_hard	1
 noted_criminal	1
+blunt_sardonic	1
+much_hard	1
+unfeeling_aristocratic	1
+conniving_crooked	1
 NNP_TO
 Small_to	1
 England_to	1
@@ -1922,20 +1890,6 @@ comes_to	1
 continues_to	1
 PRP_WDT
 me_that	1
-,_IN
-,_at	2
-,_with	1
-,_because	1
-,_as	3
-,_between	1
-,_while	2
-,_on	1
-,_against	1
-,_so	1
-,_across	1
-,_for	1
-,_of	1
-,_except	1
 POS_NNS
 's_books	2
 's_finances	1
@@ -1944,8 +1898,11 @@ POS_NNS
 '_breaches	1
 NNS_WP
 individuals_who	1
-TO_JJR
-to_more	1
+VBG_CC
+engrossing_and	1
+missing_but	1
+JJR_JJ
+longer_tousled	1
 VBG_CD
 containing_four	1
 MD_RB
@@ -1962,7 +1919,9 @@ NN_WDT
 club_that	1
 type_that	1
 class_that	1
+episode_which	1
 series_which	3
+drama_which	1
 case_that	1
 suicide_that	1
 VB_DT
@@ -2004,8 +1963,6 @@ When_a	1
 where_the	1
 FW_FW
 murder/mystery_show-I	1
-PRP_``
-her_``	2
 VBZ_JJ
 is_untouched	1
 is_important	1
@@ -2022,30 +1979,30 @@ is_unclear	1
 goes_undercover	1
 feels_uncomfortable	1
 's_good	1
-''_DT
-''_This	1
 NN_TO
-Series_to	1
+relationship_to	1
+force_to	1
+order_to	1
+Traitor_to	4
+point_to	1
+hostess_to	1
+race_to	1
+depth_to	1
+permission_to	1
+addition_to	1
 series_to	1
 appeal_to	1
-relationship_to	1
-race_to	1
-force_to	1
 excuse_to	1
-depth_to	1
-order_to	1
-Traitor_To	1
-visit_to	1
 duty_to	1
-demotion_to	1
 approach_to	1
-respect_to	1
-permission_to	1
-Traitor_to	4
+demotion_to	1
 crusade_to	1
-point_to	1
-addition_to	1
-hostess_to	1
+Series_to	1
+visit_to	1
+spice_to	1
+interest_to	1
+Traitor_To	1
+respect_to	1
 DT_IN
 those_of	1
 that_of	2
@@ -2076,34 +2033,24 @@ but_two	1
 but_one	1
 RB_WDT
 romantically_which	1
-,_NN
-,_style	1
-,_marriage	1
-,_tension	1
-,_greed	1
-,_socialite	1
-,_tragedy	1
 NNP_RBR
 Barbara_less	1
 PRP$_RB
 its_almost	1
-``_NNS
-``_betters	1
-PRP$_``
-her_``	2
-``_NNP
-``_A	2
-``_Witness	1
-``_Inspector	1
 RB_DT
 essentially_a	1
 now_a	1
 then_the	1
-Still_a	1
+However_the	3
 not_all	1
-even_the	1
 just_the	1
+even_the	1
+Overall_this	1
 not_the	1
+Unfortunately_the	1
+n't_a	1
+Still_a	1
+merely_a	1
 NN_MD
 with-I_'ll	1
 someone_could	1
@@ -2116,21 +2063,6 @@ all_be	1
 a_Set	1
 CC_RBR
 and_more	1
-DT_``
-a_``	2
-the_``	1
-The_``	1
-,_RB
-,_almost	1
-,_not	1
-,_sickeningly	1
-,_newly	1
-,_apparently	1
-,_rather	1
-,_still	1
-,_even	2
-,_promptly	1
-,_especially	3
 CC_PRP
 and_they	1
 but_they	2
@@ -2138,8 +2070,6 @@ But_I	1
 but_it	2
 and_it	1
 but_I	1
-,_VBD
-,_was	2
 RB_VB
 n't_seem	1
 somewhat_meld	1
@@ -2185,14 +2115,13 @@ because_of	1
 while_at	1
 because_although	1
 As_for	1
-,_``
-,_``	2
+JJ_RB
+human_not	1
+great_even	1
 VBG_PRP$
 reading_her	1
 maintaining_their	1
 murdering_her	1
-,_VBG
-,_leaving	1
 NNS_.
 characters_.	1
 killers_.	1
@@ -2213,27 +2142,13 @@ films_.	2
 girlfriends_.	1
 families_.	1
 backgrounds_.	1
+Horses_.	1
+betters_.	1
 ones_.	1
 misdeeds_.	1
 installments_.	1
 lives_.	1
 sets_.	1
-NNS_,
-manufacturers_,	1
-instances_,	1
-suspects_,	1
-arguments_,	1
-insights_,	1
-bars_,	1
-novels_,	1
-mysteries_,	4
-newcomers_,	1
-books_,	1
-protestations_,	1
-episodes_,	2
-,_VBP
-,_have	1
-,_do	1
 RBR_RB
 more_so	1
 VBD_NNS
@@ -2244,16 +2159,13 @@ mentored_Helen	1
 liked_Inspector	1
 detested_Dermot	1
 NNS_:
+Horses_-	1
+Horses_:	1
 books_-	1
-,_VBZ
-,_displays	1
-,_conducts	1
-,_is	2
 WRB_RB
 how_accurately	1
-VBG_JJ
-exhibiting_much	1
-helping_upper-class	1
+NNPS_PRP
+Mysteries_they	1
 JJ_NNS
 psychological_insights	1
 main_charaters	1
@@ -2302,17 +2214,18 @@ upper-class_Lynley	1
 deskbound_Havers	1
 wonderful_Jeremy	1
 CD_IN
-4_of	1
 two_of	1
+3_as	1
+4_of	1
+5_at	1
 one_of	3
 Two_of	2
-''_CC
-''_and	2
 NNS_EX
 films_there	1
 VBG_PRP
-proving_her	1
+taking_I	1
 enjoying_them	1
+proving_her	1
 watching_them	1
 reading_them	1
 DT_RB
@@ -2324,11 +2237,15 @@ the_British	1
 NN_PRP
 series_it	1
 case_itself	2
-show_I	1
+Murder/mystery_I	1
+fact_I	1
+beat_she	1
+show_I	2
 series_I	1
 snob_he	1
 someone_he	1
 website_I	1
+angst_it	1
 VB_PRP$
 lose_his	1
 free_his	1
@@ -2336,15 +2253,16 @@ increase_his	1
 use_her	1
 DT_RP
 this_up	1
-,_MD
-,_will	1
 JJ_DT
 prevalent_these	1
+blind_This	1
 RB_CC
-else_but	1
-sometime_and	1
-together_but	1
 now_and	1
+yet_but	1
+else_but	1
+before_but	1
+together_but	1
+sometime_and	1
 MD_VB
 'd_give	1
 will_be	1
@@ -2380,13 +2298,6 @@ enjoy_watching	1
 WRB_NNP
 When_Helen	1
 where_Series	2
-,_DT
-,_this	1
-,_these	1
-,_that	1
-,_a	4
-,_the	9
-,_an	1
 NNP_NNPS
 British_Mysteries	1
 Lynley_Mysteries	3
@@ -2394,12 +2305,23 @@ VBZ_RBR
 gets_better	1
 CD_PRP
 two_I	1
-NNS_DT
-movies_a	1
-POS_``
-'_`	1
+CC_RB
+and_just	1
+and_highly	1
+and_perhaps	1
+and_am	1
+and_even	1
+and_yet	1
+and_now	1
+and_not	1
+and_also	1
+and_sometimes	1
+and_then	3
+and_truly	1
+and_very	1
 VBZ_NN
 prefers_resignation	1
+adds_interest	1
 has_script	1
 stretches_credibility	1
 's_something	2
@@ -2408,6 +2330,7 @@ POS_RB
 TO_JJ
 to_extreme	1
 to_previous	1
+to_stand-up	1
 VBP_DT
 recommend_the	1
 contain_a	1
@@ -2446,35 +2369,39 @@ shows_in	1
 Fans_of	2
 facts_of	1
 seasons_except	1
+suspects_between	1
 requests_that	1
 stories_in	1
 times_while	1
 DVDs_on	1
 differences_between	1
 DVDs_because	1
+manufacturers_for	1
 weeks_before	1
 Havers_in	1
 episodes_in	1
 lines_on	1
+fans_of	1
 characters_on	1
 episodes_of	1
 characters_in	2
 books_into	1
 friends_across	1
 acts_out	1
+troubles_on	1
 novels_in	1
 mysteries_in	1
 mysteries_with	1
 investigations_on	1
 adaptations_of	1
-avenues_of	1
 movies_for	1
+protestations_as	1
 terms_of	1
 ways_than	1
 murders_of	1
 secrets_of	1
 treatments_for	1
-fans_of	1
+avenues_of	1
 performances_of	1
 scenes_in	1
 films_in	2
@@ -2486,6 +2413,7 @@ talk_;	1
 gci_-	1
 series_-	1
 interview_:	1
+Memory_:	1
 order_:	1
 difficulty_;	1
 CD_RB
@@ -2493,69 +2421,6 @@ CD_RB
 two_not	1
 POS_JJR
 's_longer	1
-._''
-._''	1
-NN_,
-apartment_,	1
-development_,	1
-father_,	1
-man_,	2
-pond_,	1
-tension_,	1
-child_,	1
-style_,	1
-son_,	1
-episode_,	1
-conclusion_,	1
-angst_,	1
-day_,	1
-work_,	1
-course_,	1
-role_,	1
-acting_,	1
-wife_,	1
-series_,	5
-town_,	1
-scene_,	1
-companion_,	1
-Murder/mystery_,	1
-past_,	1
-conspiracy_,	1
-depth_,	1
-greed_,	1
-car_,	1
-woman_,	1
-life_,	1
-quality_,	1
-hand_,	1
-television_,	1
-gun_,	1
-fact_,	1
-career_,	1
-appeal_,	1
-rank_,	1
-dialogue_,	1
-marriage_,	1
-show_,	1
-excuse_,	1
-drama_,	3
-desperation_,	1
-home_,	1
-owner_,	1
-tone_,	1
-time_,	1
-case_,	1
-reason_,	1
-``_NN
-``_love	1
-``_lady	1
-`_work	1
-``_spice	1
-``_interest	1
-``_strength	1
-``_class	2
-``_Deception	1
-``_Murder/Mystery	1
 NN_.
 cop_.	1
 prison_.	1
@@ -2585,6 +2450,7 @@ parternship_.	1
 demotion_.	1
 dirt_.	1
 favorite_.	1
+spouse_.	1
 crime_.	1
 killer_.	1
 set_.	1
@@ -2633,23 +2499,6 @@ that_seem	1
 that_consider	1
 that_are	2
 that_get	1
-''_VBD
-''_was	1
-''_VBG
-''_helping	1
-''_VBZ
-''_is	2
-''_focuses	1
-''_investigates	1
-''_takes	1
-''_stretches	1
-''_picks	1
-''_begins	1
-''_features	1
-''_NN
-''_intelligence	1
-''_therein-she	1
-''_series	1
 VBP_VB
 do_enjoy	1
 PRP_CC
@@ -2661,8 +2510,6 @@ that_involved	1
 which_starred	1
 VBG_RB
 looking_forward	1
-WDT_,
-which_,	1
 CC_NNS
 and_havers	1
 and_themes	1
@@ -2713,8 +2560,6 @@ as_good	1
 about_equal	1
 NNS_RBS
 people_most	1
-NNPS_,
-Mysteries_,	1
 TO_NNP
 to_Morag	1
 to_Constable	1
@@ -2739,8 +2584,12 @@ watching_this	1
 confirming_the	1
 playing_a	1
 RB_PRP
-Overall_I	1
+yet_it	1
+however_it	1
 accurately_they	1
+Sure_he	1
+Again_I	1
+Overall_I	1
 VBZ_PRP
 loses_it	1
 believes_she	1
@@ -2768,12 +2617,10 @@ play_off	1
 VBZ_PDT
 has_all	1
 NN_RBR
+pond_more	1
 bit_more	1
-``_JJ
-``_tough	1
-``_worth	1
-``_stand-up	1
-``_dandy	1
+NN_EX
+series_there	1
 NNP_IN
 George_from	1
 Havers_while	1
@@ -2789,10 +2636,6 @@ North_of	1
 Lynley_that	2
 Lynley_as	1
 Constable_on	1
-,_TO
-,_to	1
-VBZ_``
-adds_``	1
 IN_VBG
 in_resolving	1
 while_maintaining	1
@@ -2807,36 +2650,22 @@ of_moving	1
 while_crossing	1
 while_worrying	1
 for_assaulting	1
-,_PRP
-,_it	5
-,_he	2
-,_I	6
-,_they	1
 IN_VBN
 into_neglected	1
 As_stated	1
 as_played	1
-IN_EX
-that_there	1
 VBG_.
 disappearing_.	1
 heading_.	1
-,_RBR
-,_more	1
-VBG_,
-continuing_,	1
-guessing_,	1
-taking_,	1
-missing_,	1
-engrossing_,	1
-moving_,	1
 JJ_CC
 fanatic_and	1
 good_but	1
 selfless_and	1
 compelling_and	1
 instinctive_and	1
+different_but	1
 platonic_and	1
+professional_and	1
 long_and	1
 unjustified_and	1
 forced_and	1
@@ -2848,9 +2677,6 @@ As_is	1
 JJ_CD
 other_2	1
 mysterious_10,000	1
-CD_,
-3_,	1
-5_,	1
 CD_.
 one_.	1
 4_.	1
@@ -2879,11 +2705,15 @@ WRB_VBZ
 Why_does	1
 NNP_WP
 West_who	1
+Webb_who	1
 Lynley_who	1
+Cotton_who	1
+Martin_who	1
 CD_:
 2_;	1
 POS_NN
 's_father	1
+'_work	1
 '_resignation	1
 's_meek	1
 's_testimony	1
@@ -2962,6 +2792,7 @@ to_our	1
 VBN_RP
 based_off	1
 RB_PRP$
+However_their	1
 even_their	1
 even_his	1
 VBZ_RP
@@ -2973,10 +2804,9 @@ DT_RBS
 a_most	1
 NNS_MD
 detectives_will	1
-novels_will	1
 characters_will	1
-NNP_``
-Havers_``	1
+novels_will	1
+newcomers_will	1
 TO_RB
 to_somewhat	1
 to_merely	1
@@ -2985,21 +2815,24 @@ better_with	1
 RB_IN
 once_in	1
 especially_since	1
+there_because	1
 apart_in	1
 naturally_while	1
 wonderfully_in	1
+certainly_on	1
 thereof_with	1
 so_in	2
-there_because	1
+far_so	1
 back_at	1
-enough_on	1
+shortly_after	1
 seamlessly_into	1
-especially_with	1
+Simultaneously_across	1
 before_in	1
 even_though	1
+especially_with	1
 early_in	1
 Especially_in	1
-shortly_after	1
+enough_on	1
 VBG_IN
 seeing_at	1
 hanging_around	1
@@ -3011,6 +2844,7 @@ hoping_that	1
 condescending_towards	1
 dealing_with	1
 camping_in	1
+guessing_while	1
 looking_at	1
 DT_CD
 all_four	1
@@ -3044,27 +2878,8 @@ do_truly	1
 do_n't	9
 have_just	1
 are_not	2
-VBG_``
-saying_``	1
-guessing_``	1
 JJ_VBZ
 other_complicates	1
-NNP_,
-Martin_,	1
-McDonough_,	1
-Havers_,	2
-Morse_,	1
-Flynn_,	1
-Three_,	1
-Lawrence_,	1
-Copley_,	1
-Again_,	2
-Webb_,	1
-Willis_,	1
-Helen_,	1
-Cotton_,	1
-Club_,	1
-McGlynn_,	1
 CD_JJ
 four_intriguing	1
 four_outstanding	1
@@ -3084,6 +2899,7 @@ Small_.	4
 Agutter_.	1
 Jackos_.	1
 Three_.	2
+Witness_?	1
 FW_NN
 etc._Series	1
 VBG_NN
@@ -3091,14 +2907,23 @@ working_class	2
 pending_birth	1
 developing_respect	1
 playing_hostess	1
+saying_love	1
 NNP_:
 Lynley_-	1
-PRP_DT
-him_a	1
+Justice_:	1
+RB_VBP
+highly_recommend	1
+only_get	1
+completely_contradict	1
+really_feel	1
+Really_do	1
+also_enjoy	1
+here_are	1
+affectionately_refer	1
+also_see	1
+truly_love	1
 VBZ_.
 sucks_.	1
-VBZ_,
-is_,	1
 RB_NN
 then_insight	1
 especially_crime	1
@@ -3109,8 +2934,6 @@ episodes_to	1
 clues_to	1
 calls_to	1
 challenges_to	1
-VBP_``
-are_``	2
 VBZ_IN
 trails_of	1
 decides_that	1
@@ -3118,6 +2941,7 @@ focuses_on	1
 smacks_of	1
 proves_that	1
 appears_in	1
+is_at	1
 apologizes_for	1
 is_that	4
 stands_above	1
@@ -3127,10 +2951,6 @@ JJR_IN
 more_than	2
 less_of	1
 more_of	2
-,_CC
-,_and	15
-,_or	1
-,_but	11
 VB_NN
 balance_work	1
 Go_figure	1
@@ -3144,6 +2964,8 @@ wonder_what	1
 woman_who	1
 man_whom	1
 Anyone_who	1
+:_NNP
+:_Havers	1
 PRP_TO
 them_to	1
 her_to	2
@@ -3153,6 +2975,7 @@ Havers_get	1
 disks_are	1
 novels_observe	1
 episodes_contain	1
+shows_have	1
 episodes_are	1
 stories_include	1
 DVDs_do	1
@@ -3171,9 +2994,14 @@ books_are	2
 episodes_match	1
 stories_revolve	1
 mysteries_are	4
-shows_have	1
+Horses_are	1
 differences_are	1
 characters_are	1
+VB_CD
+Set_2	2
+Set_3	3
+Set_4	1
+place_two	1
 NNP_MD
 Havers_could	1
 Lynley_will	1
@@ -3186,11 +3014,13 @@ about_90	1
 WRB_VB
 where_Set	1
 NNS_VBZ
-films_is	1
+Horses_stretches	1
 ramifications_adds	1
-suspects_gives	1
-episodes_is	1
+Horses_begins	1
 characters_keeps	1
+films_is	1
+episodes_is	1
+suspects_gives	1
 JJS_IN
 least_for	1
 most_of	1
@@ -3201,12 +3031,10 @@ shows_containing	1
 Havers_having	1
 characters_changing	1
 DVDs_sliding	1
-``_IN
-``_on	1
-``_If	6
-``_With	1
-``_of	1
-``_In	3
+PRP_NNP
+itself_Lynley	1
+PRP_NNS
+her_betters	1
 NNS_VBN
 viewers_tuned	1
 episodes_based	1
@@ -3223,23 +3051,23 @@ enjoy_Lynley	1
 love_Elizabeth	1
 VBP_RP
 pile_up	1
-FW_RB
-i_really	1
+RP_IN
+around_until	1
+off_with	1
+up_for	1
+out_in	1
+off_of	2
+off_on	1
 NN_WP$
 artist_whose	1
+VBG_WP
+guessing_who	1
 CD_JJR
 4_more	1
 POS_JJ
 's_criminal	1
 's_upper	1
 's_old	1
-''_IN
-''_while	1
-''_in	1
-''_with	2
-''_of	1
-VBN_PRP$
-saved_his	1
 VBD_VBN
 was_run	1
 was_killed	1
@@ -3271,10 +3099,13 @@ on_rainy	1
 in_other	1
 of_personal	1
 with_flawed	1
+of_tough	1
 in_original	1
 over_several	1
 NNP_RB
+Havers_newly	1
 Series_actually	1
+Witness_also	1
 Helen_early	1
 Lynley_almost	1
 NNP_VBP
@@ -3287,25 +3118,28 @@ Havers_have	1
 VBD_:
 Were_...	1
 NNP_VBZ
-Lynley_takes	1
-Lynley_struggles	1
-Havers_does	1
-Havers_goes	1
-Vickerage_is	1
-Harvey_is	1
-Helen_is	1
-Netflix_has	1
-BBC_knows	1
-George_has	1
 Nicola_is	1
-Havers_decides	1
-Redgrave_is	1
-Parker_is	1
-Lynley_is	3
-Havers_is	2
-Lynley_suspects	1
+Netflix_has	1
+Copley_conducts	1
+McDonough_is	1
 Lynley_tries	1
 Small_fits	1
+Vickerage_is	1
+BBC_knows	1
+George_has	1
+Helen_is	1
+Redgrave_is	1
+Havers_is	2
+Lynley_suspects	1
+Havers_goes	1
+Lynley_takes	1
+Havers_does	1
+Harvey_is	1
+Parker_is	1
+Lynley_struggles	1
+Sinner_investigates	1
+Havers_decides	1
+Lynley_is	3
 VB_JJ
 be_scathing	1
 feel_right	1
@@ -3351,10 +3185,6 @@ WDT_DT
 which_the	1
 RB_MD
 really_could	1
-NN_``
-episode_``	1
-character_``	1
-book_``	1
 VBG_NNP
 researching_Mr.	1
 reading_Miss	1
@@ -3365,15 +3195,16 @@ VBD_.
 ended_.	1
 did_.	1
 NNP_VBG
+Havers_working	1
 Havers_brainstorming	1
 Three_exhibiting	1
 NNP_VBD
-Kennedy_ran	1
+Willis_was	1
+Lawrence_was	1
 Havers_demoted	1
+Kennedy_ran	1
 NNP_VBN
 Small_demoted	1
-WP_NNP
-whom_Finnegan	1
 NNP_POS
 Lynley_'s	4
 Mayden_'s	1
@@ -3385,22 +3216,29 @@ Finnegan_'s	2
 Lynleys_'	1
 George_'s	3
 NN_RB
+course_still	1
+mind_constantly	1
+something_terribly	1
+wife_not	1
 company_even	1
-way_especially	1
+rank_promptly	1
+partner_always	1
+series_sickeningly	1
+series_well	1
 crisis_just	1
+lack_thereof	1
+television_especially	1
+Friendship_aside	1
+series_before	1
+series_completely	1
+nothing_else	1
+excuse_especially	1
+way_especially	1
 episode_just	1
 violinist_suddenly	1
 work_together	1
-Friendship_aside	1
-series_well	1
-mind_constantly	1
-wife_not	1
-something_terribly	1
-series_before	1
-partner_always	1
-series_completely	1
-nothing_else	1
-lack_thereof	1
+car_apparently	1
+time_rather	1
 JJ_IN
 good_as	1
 nervous_about	1
@@ -3419,26 +3257,18 @@ interesting_about	1
 complex_that	1
 happy_with	1
 good_that	1
+superior_while	1
 dead_in	1
 much_of	1
 antagonistic_for	1
+undercover_against	1
 other_on	1
 frumpy_with	1
 interested_in	1
-VBD_``
-Was_``	1
-''_PRP
-''_she	1
-NNS_NN
-knuckles_approach	1
-guts_type	1
-others_company	1
-NNS_JJ
-stories_easy	1
-TO_``
-to_``	1
-IN_:
-at_...	1
+VBG_JJ
+exhibiting_much	1
+moving_annoying	1
+helping_upper-class	1
 MD_PRP$
 can_their	1
 CD_NN
@@ -3458,43 +3288,27 @@ finds_Detective	1
 VBP_NN
 get_shot	1
 are_plenty	1
-JJ_''
-worth_''	1
-blind_''	1
-stand-up_''	1
-dandy_''	1
-VB_CD
-Set_2	2
-Set_3	3
-Set_4	1
-place_two	1
+NN_PRP$
+town_her	1
+NN_FW
+greed_etc.	1
+thing_i	1
 NNP_DT
 Lynley_an	1
+McGlynn_the	1
+Again_the	1
+Flynn_a	1
+Sinner_A	1
+Helen_a	1
 VBN_NNP
 reinstated_Detective	1
-RP_IN
-out_in	1
-up_for	1
-around_until	1
-off_on	1
-off_of	2
+FW_RB
+i_really	1
 VBN_NNS
 neglected_avenues	1
 conceived_episodes	1
 JJS_NN
 newest_book	1
-,_NNP
-,_Gerard	1
-,_Nicola	1
-,_Daniel	1
-,_Stephen	1
-,_Helen	1
-,_Noel	1
-,_Havers	1
-,_Morag	1
-,_Series	1
-,_Lewis	1
-,_Lynley	3
 CC_NNP
 and_Havers	6
 and_Lynley	2
@@ -3504,12 +3318,9 @@ and_Sherlock	1
 and_Sgt.	1
 and_Sharon	1
 VBG_NNS
+continuing_misdeeds	1
 brainstorming_sessions	1
 having_troubles	1
-,_NNS
-,_misdeeds	1
-,_WDT
-,_which	4
 DT_TO
 that_to	1
 this_to	1
@@ -3592,6 +3403,7 @@ moody_obnoxiousness	1
 longtime_employee	1
 upper_class	1
 British_show	1
+superb_Murder/Mystery	1
 abused_woman	1
 dead_woman	1
 first_wife	1

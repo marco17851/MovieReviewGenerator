@@ -8,13 +8,12 @@ of_trench	1
 through_death	1
 of_Sophomore	1
 of_heart	1
+IN_BOOK	1
 IN_RAW	1
 of_lecturing	1
 in_battle	2
 with_conviction	1
 in_film	1
-,_IN
-,_while	1
 JJ_IN
 easy_for	1
 many_of	2
@@ -24,18 +23,23 @@ VB_WP
 know_what	1
 FW_:
 eg_:	1
-VBD_``
-wrote_``	1
 NNP_IN
 I_on	1
 OUT_OF	1
-PRESENTATION_OF	1
+FIGHTING_IN	1
 ANNIVERSARY_OF	1
 France_while	1
+PRESENTATION_OF	1
 DIFFERENTLY_WITH	1
-NNS_RB
-words_just	1
-COULD_ONLY	1
+DT_NNS
+the_eyes	1
+THE_TRENCHES	1
+no_claims	1
+no_subtitles	1
+the_characters	1
+The_explosives	1
+the_comments	1
+the_girls	1
 POS_NNS
 's_vocals	1
 's_lives	1
@@ -46,8 +50,6 @@ but_interwoven	1
 and_poor	1
 and_several	1
 and_white	2
-DT_``
-an_``	1
 MD_RB
 might_just	1
 can_only	1
@@ -71,19 +73,16 @@ only_to	1
 enthusiastically_to	1
 CD_POS
 1930_'s	2
-RB_,
-maybe_,	1
-always_,	1
-However_,	1
+FW_FW
+EACH_GENERATIONAL	1
+me_i	1
 RB_.
 then_.	1
 else_.	1
 together_.	1
 there_.	1
-IN_``
-IN_``	1
-,_PRP
-,_it	1
+CC_JJS
+and_most	1
 VBZ_JJ
 is_good	1
 is_dated	1
@@ -105,18 +104,25 @@ it_in	1
 it_through	1
 RBR_JJ
 more_realistic	1
-VBN_.
-Dated_?	1
-made_.	1
+NNS_DT
+vocals_all	1
+deaths_no	1
+soldiers_each	1
+reviewers_a	1
+feet_the	1
+lovers_this	1
+subtitles_the	1
 JJS_IN
 greatest_of	1
 most_of	2
 IN_JJS
 by_most	1
 JJ_CC
-forward_but	1
-white_and	1
 black_and	1
+forward_but	1
+dated_but	1
+powerful_but	1
+white_and	1
 Black_and	1
 IN_FW
 For_me	1
@@ -153,13 +159,8 @@ NNP_WP
 Aires_who	1
 VBZ_CC
 enlists_and	1
-CC_VBZ
-and_leaves	1
-and_features	1
-,_NN
-,_s	1
-,_comradeship	1
-,_ect	2
+CD_NN
+TWO_DISC	1
 POS_NN
 'S_TRUTH	1
 WP_VBP
@@ -240,6 +241,7 @@ THE_REALITY	2
 The_film	1
 THE_ENVIRONMENT	1
 THE_GLORY	1
+an_enemy	1
 the_side	1
 another_age	1
 The_DVD	1
@@ -278,8 +280,10 @@ they_are	1
 we_look	1
 I_think	1
 RB_DT
+maybe_the	1
 just_the	1
 definately_the	1
+always_the	1
 NN_MD
 bombing_might	1
 PRP_VBZ
@@ -292,12 +296,6 @@ a_more	1
 NNP_CC
 Ayres_&	1
 Remarque_and	1
-VB_,
-be_,	1
-VBN_``
-granted_``	1
-IN_,
-that_,	1
 IN_.
 through_.	1
 RB_IN
@@ -306,6 +304,7 @@ away_from	1
 even_on	1
 instead_of	1
 just_outside	1
+However_while	1
 even_though	1
 only_that	1
 VBG_IN
@@ -313,9 +312,6 @@ flocking_at	1
 going_through	1
 filming_of	1
 living_on	1
-,_RB
-,_even	1
-,_instead	1
 DT_CD
 the_9,000,000	1
 the_1930	2
@@ -347,8 +343,6 @@ n't_know	1
 PRP_.
 me_.	1
 it_.	1
-PRP_,
-it_,	1
 IN_PRP$
 of_your	1
 with_my	1
@@ -359,20 +353,16 @@ of_his	2
 at_your	1
 after_its	1
 by_his	1
-NNS_''
-TRENCHES_''	1
+JJR_NN
+better_someone	1
 IN_JJ
 before_Western	1
 in_black	1
 in_general	1
 by_various	1
 of_Western	1
-NNP_,
-TECHNICALLY_,	1
-MOVIE_,	1
-Baumer_,	1
-VETERAN_,	1
 NNP_.
+Picture_.	1
 Milestone_.	1
 Hollywood_.	1
 WWI_.	1
@@ -410,10 +400,6 @@ RB_CD
 now_73	1
 JJ_VBD
 several_cried	1
-JJ_,
-young_,	1
-dated_,	1
-powerful_,	1
 JJ_.
 real_.	1
 general_.	1
@@ -423,6 +409,7 @@ did_not	1
 was_then	1
 were_there	1
 NN_DT
+teacher_the	1
 life_the	1
 VB_VBN
 be_confronted	1
@@ -444,15 +431,6 @@ movies_.	1
 seats_.	1
 subtitles_.	1
 eyes_.	1
-NNS_,
-trenches_,	1
-feet_,	1
-scratches_,	1
-movies_,	1
-events_,	1
-times_,	1
-reviewers_,	1
-vocals_,	1
 TO_DT
 to_the	2
 NN_CD
@@ -469,8 +447,6 @@ VBZ_.
 is_.	1
 VBP_JJ
 are_real	2
-VBZ_,
-begins_,	1
 NNS_TO
 claims_to	1
 tears_to	1
@@ -490,8 +466,9 @@ emotional_strains	1
 last_words	1
 great_episodes	1
 various_soldiers	1
-CC_JJS
-and_most	1
+CC_VBZ
+and_leaves	1
+and_features	1
 VBZ_IN
 reigns_amongst	1
 is_of	1
@@ -503,19 +480,17 @@ CD_IN
 WRB_JJ
 how_glorious	1
 how_old	1
-,_CC
-,_and	3
-,_but	3
-,_yet	2
 VB_NN
 be_anything	1
 todays_war	1
 VB_NNP
 SEE_THIS	1
+be_Paul	1
 NN_NNS
 film_makers	1
-movie_dozens	1
+book_events	1
 type_movies	1
+movie_dozens	1
 cast_members	1
 world_cultures	1
 war_movies	1
@@ -614,22 +589,21 @@ think_of	1
 digress_from	1
 look_at	1
 die_in	1
-,_DT
-,_a	3
-,_the	5
-,_all	1
 VBP_VBN
 've_seen	1
 are_taken	1
 are_worn	1
 NN_CC
+version_yet	1
 WW_and	1
 film_and	2
 ENVIRONMENT_AND	1
 TRUTH_AND	1
 time_and	1
+Front_but	1
 battle_and	1
 set_and	1
+conviction_and	1
 BLU-RAY_AND	1
 comradeship_and	1
 story_and	1
@@ -648,11 +622,9 @@ VB_.
 mind_.	1
 RP_RB
 up_only	1
-NNS_DT
-deaths_no	1
-soldiers_each	1
-subtitles_the	1
-lovers_this	1
+VBN_.
+Dated_?	1
+made_.	1
 VBP_VBD
 think_was	1
 JJ_TO
@@ -675,14 +647,8 @@ believe_this	1
 IMAGINE_THE	1
 MD_IN
 must_if	1
-``_IN
-``_As	1
-``_IN	1
 VB_CC
 care_but	1
-NN_''
-BOOK_''	1
-enemy_''	1
 NN_NN
 trench_warfare.The	1
 warfare.The_story	1
@@ -690,6 +656,7 @@ war_film	1
 AGE_MAN	1
 world_war	1
 school_master	1
+BOOK_FORM	1
 film_history	1
 film_collection	1
 DOOR_GUNNER	1
@@ -699,36 +666,29 @@ school_year	1
 film_making	1
 war_message	1
 RAW_FORM	1
+SET_BLU-RAY	1
 war_movie	1
 DVD_version	2
 OR_WOMAN	1
 ANY_AGE	1
+ect_ect	1
 DISC_SET	1
 WAR_FILM	1
 Sophomore_world	1
 master_piece	1
-SET_BLU-RAY	1
+nation_ect	1
 HELICOPTER_CREWCHIEF	1
+brutality_comradeship	1
 realistc_brutality	1
 MAN_OR	1
-FW_FW
-EACH_GENERATIONAL	1
-me_i	1
 CD_JJS
 5_best	1
-NNP_''
-Picture_''	1
 VBP_VBG
 am_going	1
-DT_NNS
-the_eyes	1
-THE_TRENCHES	1
-no_claims	1
-no_subtitles	1
-the_characters	1
-The_explosives	1
-the_comments	1
-the_girls	1
+NNS_RB
+words_just	1
+COULD_ONLY	1
+scratches_even	1
 IN_NNS
 of_times	1
 for_anyones	1
@@ -755,12 +715,6 @@ THE_100TH	1
 the_War	1
 the_French	1
 A_Cinema	1
-''_IN
-''_IN	1
-,_JJ
-,_ordinary	1
-''_.
-''_.	1
 DT_JJ
 the_third	1
 the_high	1
@@ -788,6 +742,8 @@ the_top	1
 a_new	1
 The_non-stop	1
 The_anti	1
+PRP_NN
+it_s	1
 VBD_VBN
 were_pinned	1
 VBD_DT
@@ -804,24 +760,15 @@ CC_WP
 and_what	1
 NNS_CC
 members_and	1
+times_yet	1
+events_and	1
+trenches_and	1
 VBD_PRP
 showed_it	1
 VBD_VBG
 remembered_seeing	1
-NN_,
-book_,	1
-brutality_,	1
-war_,	1
-nation_,	1
-version_,	1
-conviction_,	1
-Front_,	1
-teacher_,	1
-ect_,	1
-``_NN
-``_enemy	1
-``_Best	1
-``_BOOK	1
+NNS_FW
+episodes_eg	1
 NN_.
 battlefield_.	1
 history_.	1
@@ -842,9 +789,6 @@ cinematography_.	1
 time_.	1
 collection_.	2
 camara_.	1
-''_NN
-''_FORM	1
-''_someone	1
 NN_IN
 point_of	1
 reviewer_below	1
@@ -904,10 +848,12 @@ dozens_of	1
 films_of	1
 biographies_of	1
 years_after	1
+TRENCHES_IN	1
 eyes_of	1
 nerves_as	1
 boots_as	1
 NNS_PRP
+movies_it	1
 movies_you	1
 NNP_VBZ
 Paul_has	1
@@ -941,8 +887,6 @@ crane_introduced	1
 dialouge_was	1
 professor_showed	1
 film_won	1
-NNP_``
-FIGHTING_``	1
 NN_VBZ
 book_is	1
 WAR_IS	1
@@ -954,6 +898,7 @@ DVD_is	1
 scene_is	1
 Front_plays	1
 movie_is	1
+enemy_does	1
 FILM_IS	1
 acting_is	1
 film_is	1
@@ -961,8 +906,6 @@ story_is	1
 movie_begins	1
 VBD_.
 died_.	1
-''_VBZ
-''_does	1
 POS_.
 's_.	1
 RB_RB
@@ -979,15 +922,12 @@ went_on	1
 advanced_on	1
 complained_about	1
 won_in	1
+wrote_As	1
 were_like	1
 PRP_CC
 He_and	1
-NNS_FW
-episodes_eg	1
 NNP_VBN
 Academy_granted	1
-CD_NN
-TWO_DISC	1
 DT_JJS
 the_greatest	1
 the_best	1
@@ -1002,24 +942,26 @@ NN_RB
 movie_ever	1
 anything_else	1
 teacher_over-enthusiastically	1
+war_instead	1
 movie_together	1
-JJR_''
-better_''	1
 PRP_RB
 it_still	1
 I_always	1
 VBG_.
 watching_.	1
+VBN_NN
+granted_Best	1
 NNS_NN
 anyones_collection	1
 WP_JJ
 what_many	1
 VBZ_DT
-is_a	5
 has_a	1
-portrays_the	1
 IS_THE	1
+begins_a	1
+is_a	5
 makes_no	1
+portrays_the	1
 NN_VBN
 lecturing_led	1
 book_written	1
@@ -1042,6 +984,7 @@ AS_I	1
 War_I	1
 AT_THIS	1
 AND_FIGHTING	1
+TECHNICALLY_AND	1
 Lewis_Milestone	1
 THIS_FIRST	1
 Al_Jolson	1
@@ -1056,6 +999,7 @@ MUST_HAVE	1
 FOUGHT_TECHNICALLY	1
 Lew_Aires	1
 Erich_Maria	1
+MOVIE_THIS	1
 SOLDIERS_MUST	1
 100TH_ANNIVERSARY	1
 THIS_CLASSIC	1
@@ -1063,7 +1007,7 @@ AND_AS	1
 War_Hero	1
 FOUGHT_DIFFERENTLY	1
 AND_IT	1
-ENCOURAGE_ANY	1
+WATCHED_THIS	1
 WAYS_IT	1
 FIRST_CLASS	1
 AND_OUT	1
@@ -1071,10 +1015,11 @@ CLASSIC_WWI	1
 ANY_YOUNG	1
 I_ENCOURAGE	1
 EUROPE_AT	1
+VETERAN_I	1
 I_WATCHED	1
 WWI_SOLDIERS	1
 Lew_Ayres	2
-WATCHED_THIS	1
+ENCOURAGE_ANY	1
 THESE_WWI	1
 Maria_Remarque	1
 VBZ_NNS
@@ -1118,6 +1063,8 @@ discussing_the	1
 seeing_this	1
 tying_the	1
 killing_an	1
+NNP_DT
+Baumer_a	1
 RB_VBD
 always_remembered	1
 JJS_NN
@@ -1142,19 +1089,13 @@ let_alone	1
 take_away	1
 PRP_VB
 it_let	1
-,_NNP
-,_I	1
-,_THIS	1
-,_Paul	1
-,_AND	1
 VBG_RB
 filming_just	1
-,_NNS
-,_events	1
 JJ_JJ
 third_such	1
 few_young	1
 famous_last	1
+young_ordinary	1
 VB_RP
 Turn_up	1
 VBG_PRP
@@ -1187,7 +1128,7 @@ by_the	1
 on_the	5
 OF_A	1
 by_a	1
-that_the	2
+that_the	3
 WITH_THE	2
 of_a	1
 JJ_NN

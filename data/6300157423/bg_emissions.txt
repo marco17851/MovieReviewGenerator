@@ -7,11 +7,6 @@ in_example	1
 with_<a href="http://www.amazon.com/gp/product/B00005M1ZO">	1
 despite_cover	1
 In_fact	1
-,_IN
-,_along	1
-,_despite	1
-,_so	1
-,_as	1
 JJ_IN
 available_from	1
 little-impressed_with	1
@@ -21,6 +16,8 @@ NNP_VB
 Box_get	2
 VBN_VBD
 been_told	1
+RP_WDT
+out_which	1
 NNP_IN
 Bow_in	1
 ENTERTAINMENT_as	1
@@ -35,11 +32,9 @@ pay_a	1
 get_this	1
 RB_TO
 not_to	1
-RB_,
-first_,	1
-anyway_,	1
-,_PRP
-,_it	1
+IN_VBG
+of_crashing	1
+by_driving	1
 VBZ_JJ
 's_hard	1
 's_worth	1
@@ -47,11 +42,10 @@ causes_several	1
 is_worth	1
 is_unable	1
 's_unable	1
+PRP_IN
+him_as	1
 VBG_.
 watching_.	1
-CD_,
-1925_,	1
-1946_,	1
 CD_.
 1946_.	1
 PRP$_JJ
@@ -66,6 +60,7 @@ WP_RB
 who_here	1
 NNP_WP
 Aubrey_who	1
+Brooks_who	1
 WRB_TO
 how_to	1
 POS_NN
@@ -75,6 +70,8 @@ POS_NN
 's_adaptation	1
 CD_NNS
 5_stars	1
+CD_NNP
+1946_Red	1
 NNP_NN
 Sterling_vehicle	1
 Sterling/Brooks_version	1
@@ -109,8 +106,6 @@ the_truth	1
 THE_SHOW	1
 DT_VBZ
 this_is	1
-RP_,
-out_,	1
 RB_PRP$
 n't_her	1
 PRP_VBP
@@ -119,9 +114,8 @@ they_'ve	1
 you_have	1
 VBZ_RP
 helps_out	1
-RB_DT
-only_This	1
-actually_a	1
+WP_VBP
+who_are	1
 PRP$_JJS
 her_best	1
 CD_VB
@@ -148,20 +142,11 @@ n't_own	1
 n't_know	1
 PRP_.
 it_.	1
-PRP_,
-him_,	1
 IN_PRP$
 so_his	1
 about_their	1
-RB_JJ
-only_Parenthetical	1
-also_available	1
-NNP_,
-Brooks_,	1
-Piper_,	1
-Wilson_,	1
-,_VBG
-,_featuring	1
+NNP_WDT
+Wilson_which	1
 IN_IN
 along_with	1
 PRP$_NN
@@ -173,22 +158,19 @@ JJ_VBG
 worth_watching	1
 JJ_PRP
 worth_it	1
-WP_VBP
-who_are	1
+RB_DT
+first_this	1
+only_This	1
+actually_a	1
 NN_DT
 <a href="http://www.amazon.com/gp/product/B00005M1ZO">_THE	1
 <a href="http://www.amazon.com/gp/product/630294659X">_THE	1
-IN_VBG
-of_crashing	1
-by_driving	1
 VBN_IN
 known_as	1
 found_at	1
 NNS_.
 Kops_.	1
 problems_.	1
-NNS_,
-stars_,	1
 VBP_JJ
 are_little-impressed	1
 are_hard	1
@@ -205,16 +187,17 @@ CD_IN
 one_of	1
 WP_VBZ
 who_does	1
-,_CC
-,_and	1
-,_but	1
 VB_NNP
 own_Pandoria	1
 NN_NNS
 Keystone_Kops	1
 NN_NNP
 brother_Joe	1
+auto_Aubrey	1
+raffle_Aubrey	1
 spendthrift_Aubrey	1
+VBG_PRP
+featuring_It	1
 DT_RB
 this_just	1
 PRP$_NNS
@@ -229,6 +212,8 @@ JJ_DT
 worth_the	1
 VBG_TO
 claiming_to	1
+RB_CC
+anyway_and	1
 MD_VB
 can_be	1
 NN_VBN
@@ -243,13 +228,12 @@ POS_IN
 CC_NN
 But_anything	1
 and_spendthrift	1
-,_DT
-,_this	1
-,_a	1
 VBP_VBN
 've_been	1
 NN_CC
 position_and	1
+PRP_NNP
+It_Girl	1
 JJ_TO
 unable_to	2
 hard_to	1
@@ -257,8 +241,6 @@ VBZ_NN
 is_masterpiece	1
 VBP_NNP
 have_Pandor	1
-``_PRP
-``_It	1
 NN_NN
 cover_art	1
 poll_rating	1
@@ -271,8 +253,8 @@ viewer_poll	1
 resource_website	1
 railroad_clerk	1
 PLASTIC_AGE	1
-,_WDT
-,_which	2
+POS_JJ
+'s_lowly	1
 IN_NNS
 of_problems	1
 IN_NNP
@@ -300,14 +282,8 @@ a_whole	1
 VBD_DT
 stageplay_THE	1
 told_the	1
-PRP_''
-It_''	1
-NN_,
-vehicle_,	1
-auto_,	1
-raffle_,	1
-feature_,	1
-fine_,	1
+NNS_CC
+stars_but	1
 TO_CD
 to_10	1
 NN_.
@@ -329,13 +305,16 @@ adaptation_of	1
 set_of	1
 process_of	1
 cop_against	1
+fine_so	1
 movie_with	1
+vehicle_despite	1
 anything_with	1
 truth_about	1
 bride_on	1
 car_in	1
 girlfriend_of	1
 side_of	1
+feature_along	1
 NNP_RB
 VHS_only	1
 NNP_VBP
@@ -391,13 +370,9 @@ DT_$
 a_$	1
 NN_RB
 DVD_only	1
-VBG_``
-featuring_``	1
 PRP_RB
 she_only	1
 it_first	1
-DT_,
-this_,	1
 NN_JJ
 company_big	1
 comedy_double	1
@@ -434,11 +409,14 @@ RB_VBZ
 just_is	1
 here_portrays	1
 only_has	1
-,_WP
-,_who	1
+RB_JJ
+only_Parenthetical	1
+also_available	1
 VB_PRP
 get_it	1
 operate_it	1
+CD_VBG
+1925_featuring	1
 VBZ_PRP$
 displeases_her	1
 RB_VBN
@@ -447,21 +425,18 @@ TO_NNP
 to_Amy	1
 VB_CC
 find_but	1
-''_NNP
-''_Girl	1
+NNP_DT
+Piper_a	1
 JJS_NN
 best_vehicle	1
+DT_PRP
+this_it	1
 VB_RB
 marry_anyway	1
 CC_MD
 but_can	1
-,_NNP
-,_Red	1
-,_Aubrey	2
 VBG_NNP
 depicting_Louise	1
-POS_JJ
-'s_lowly	1
 CD_TO
 1_to	1
 VBZ_TO

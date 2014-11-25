@@ -22,8 +22,6 @@ happy_with	1
 important_as	1
 enjoyable_for	1
 such_as	1
-,_FW
-,_etc.	1
 NNP_VB
 TELEVISA_do	1
 DT_RB
@@ -47,8 +45,6 @@ and_white	1
 and_sexy	1
 VBG_CD
 playing_700	1
-DT_``
-this_`	1
 MD_RB
 can_still	1
 would_also	1
@@ -73,11 +69,9 @@ watch_a	1
 RB_TO
 back_to	1
 there_to	1
-RB_,
-considerably_,	1
-however_,	1
-However_,	2
-importantly_,	1
+IN_VBG
+from_beginning	1
+of_pulling	1
 RB_.
 ever_.	1
 behind_.	1
@@ -86,13 +80,13 @@ either_.	1
 there_.	1
 really_.	1
 well_.	2
-,_PRP
-,_it	2
-,_she	2
-,_I	3
-PDT_DT
-all_the	2
-all_those	1
+VBZ_JJ
+is_perfect	1
+has_English	1
+is_sexy	1
+is_refreshing	1
+is_great	1
+is_hot	1
 VBD_CC
 created_and	1
 NN_TO
@@ -107,29 +101,28 @@ some_of	1
 PRP_IN
 it_for	1
 it_because	1
+it_if	1
 it_with	1
+RB_NNP
+however_Barbara	1
 CC_RB
 and_not	2
 either_really	1
-VBN_,
-developed_,	1
-,_RBS
-,_most	1
 JJ_CC
+beautiful_and	1
 refreshing_and	1
 great_and	1
 black_and	1
-CD_,
-one_,	1
 CD_.
 one_.	1
 2004_.	1
 20_.	1
+PRP_PRP$
+it_its	1
 NN_JJ
 telenovela_great	1
-RB_CC
-there_and	1
-up_and	1
+WP_VBD
+who_played	1
 FW_DT
 entiende_no	1
 novela_no	1
@@ -156,25 +149,19 @@ so_you	1
 VBN_CC
 needed_either	1
 edited_and	1
-''_,
-'_,	1
 VBZ_PDT
 has_all	1
 NNS_WDT
 parts_that	1
+minutes_which	1
 scenes_that	1
 qualities_that	1
 shows_that	1
-,_NN
-,_money	1
-,_sh	1
-,_goodness	1
-,_deceit	1
-,_everyone	1
-,_passion	1
 POS_NN
 's_cover	1
 's_worth	1
+RB_JJS
+However_most	1
 TO_NN
 to_anyone	1
 to_disaster	1
@@ -194,13 +181,14 @@ I_felt	1
 CD_NNS
 three_stars	1
 74_minutes	1
-WP_VBD
-who_played	1
+CD_NNP
+one_Rubi	1
 VBN_RB
 lost_so	1
 made_still	1
 chopped_up	1
 NNP_NN
+Rubi_everyone	1
 Rubi_fan	3
 SCI_FI	1
 VBZ_RB
@@ -231,12 +219,13 @@ the_DVD	2
 the_length	1
 a_spectaucalar	1
 no_gasten	1
-the_scene	1
+this_telenovela	1
 a_ball	1
 a_bunch	1
 The_story	2
 the_end	2
 the_soap	1
+the_scene	1
 this_show	1
 this_DVD	4
 the_plot	1
@@ -253,12 +242,10 @@ that_bad	1
 The_DVD	1
 that_sense	1
 a_reassurance	1
-CC_,
-and_,	2
 RP_.
 up_.	1
-RP_,
-out_,	1
+NNP_NNS
+Los_capitulos	1
 DT_VBG
 those_enticing	1
 the_leading	1
@@ -266,6 +253,7 @@ VBN_RP
 chopped_up	2
 edited_out	1
 VBN_JJ
+developed_other	1
 purchased_other	1
 PRP_VBP
 You_do	1
@@ -311,11 +299,12 @@ IN_$
 than_$	1
 NNS_MD
 ladies_will	1
-,_JJS
-,_most	1
+CC_RBS
+and_most	1
 IN_.
 around_.	1
 RB_IN
+considerably_since	1
 Ever_since	1
 well_into	1
 instead_of	1
@@ -329,9 +318,9 @@ $_20	1
 DT_VBZ
 This_is	2
 that_is	2
-VBZ_NN
-'s_sort	1
-'s_goal	1
+RB_CC
+there_and	1
+up_and	1
 DT_CD
 this_one	1
 the_one	1
@@ -373,8 +362,6 @@ her_.	1
 them_.	1
 FW_.
 etc._.	1
-PRP_,
-it_,	2
 IN_PRP$
 into_her	1
 with_my	1
@@ -382,17 +369,6 @@ VBD_NNS
 had_doubts	1
 NNP_WDT
 Rubi_that	1
-,_WP
-,_who	1
-IN_JJ
-as_true	1
-in_black	1
-of_funny	1
-NNP_,
-Santamarina_,	1
-Maribel_,	1
-Carillo_,	1
-Rubi_,	3
 CD_JJ
 One_important	1
 NNP_.
@@ -403,6 +379,8 @@ Aleandro_.	1
 Rubi_.	1
 CC_VBZ
 and_tells	1
+NN_WRB
+finale_when	1
 DT_PRP$
 all_their	1
 IN_IN
@@ -416,10 +394,13 @@ her_character	1
 your_money	1
 Her_character	1
 NNP_PRP
+Rubi_I	1
 Rubi_he	2
+Carillo_she	1
 CC_VBD
 and_did	1
 JJ_RB
+good_however	1
 bad_basically	1
 overall_very	1
 beautiful_yet	1
@@ -428,16 +409,10 @@ go_until	1
 learn_from	1
 Rubi_on	1
 JJ_PRP
+bad_it	1
 sexy_she	1
 NNP_:
 EDIT_:	1
-JJ_,
-evil_,	1
-beautiful_,	1
-hot_,	1
-bad_,	1
-poor_,	1
-good_,	1
 JJ_.
 bittersweet_.	1
 funny_.	1
@@ -457,9 +432,9 @@ did_not	1
 come_far	1
 was_very	1
 was_totally	1
-IN_VBG
-from_beginning	1
-of_pulling	1
+PDT_DT
+all_the	2
+all_those	1
 RBS_RB
 most_importantly	1
 VBN_IN
@@ -476,12 +451,6 @@ telenovelas_.	1
 reviews_.	1
 collections_.	1
 parts_.	1
-NNS_,
-lies_,	1
-families_,	1
-lovers_,	1
-fans_,	1
-minutes_,	1
 TO_DT
 to_this	1
 to_any	3
@@ -505,8 +474,8 @@ VBP_JJ
 are_certain	1
 are_great	1
 am_available	1
-VBZ_,
-loves_,	1
+RB_NN
+importantly_money	1
 NNS_TO
 thanks_to	1
 CC_PRP$
@@ -539,20 +508,8 @@ VBD_VB
 felt_let	1
 JJR_IN
 less_than	1
-VBZ_JJ
-is_perfect	1
-has_English	1
-is_sexy	1
-is_refreshing	1
-is_great	1
-is_hot	1
-,_RB
-,_however	1
 IN_PDT
 for_all	1
-,_CC
-,_and	3
-,_but	2
 VB_NN
 make_sense	1
 have_plenty	1
@@ -568,9 +525,14 @@ soap_operas	1
 telenovela_thanks	1
 FI_fans	1
 NNS_NNP
+lies_Rubi	1
 makers_TELEVISA	1
 women_God	1
+families_SCI	1
+NN_NNP
+man_Hector	1
 CC_IN
+and_in	1
 but_as	1
 WDT_PRP
 which_it	1
@@ -590,19 +552,21 @@ CC_NN
 and_kindness	1
 and_romance	1
 and_misery	1
-,_PRP$
-,_its	1
-,_her	1
 NN_PRP
+overall_it	1
 reason_I	1
 stand-in_I	1
 fan_you	1
-overall_it	1
+end_she	1
+telenovela_it	1
 VB_PRP$
 get_your	1
+NNP_WP
+Santamarina_who	1
 IN_RB
 of_only	1
 NNP_CC
+Maribel_and	1
 English_but	1
 JJ_DT
 sexy_all	1
@@ -656,8 +620,10 @@ you_can	1
 she_can	1
 WRB_NNP
 when_Aleandro	1
-,_DT
-,_a	1
+RB_PRP
+then_you	1
+However_I	1
+Yet_she	1
 VBP_VBN
 are_omitted	1
 are_gone	1
@@ -669,8 +635,8 @@ Rubi_is	4
 Mori_is	2
 Aleandro_tells	1
 Mori_needs	1
-VB_,
-admit_,	1
+JJS_IN
+most_of	1
 NNS_VBG
 discs_playing	1
 VB_.
@@ -686,8 +652,9 @@ interesting_to	2
 first_to	1
 able_to	1
 keen_to	1
-JJS_IN
-most_of	1
+VBZ_NN
+'s_sort	1
+'s_goal	1
 VBP_NNS
 like_telenovelas	1
 ban_cortados	1
@@ -702,14 +669,17 @@ are_some	2
 'm_the	1
 are_a	2
 love_the	2
-FW_NNP
-y_Los	1
+RP_CC
+out_but	1
 NN_NN
-product_overall	1
-DVD_dose	1
+love_goodness	1
+greed_passion	1
+passion_deceit	1
 soap_opera	1
 DVD_version	1
 story_line	3
+product_overall	1
+DVD_dose	1
 FW_FW
 se_le	1
 esta_entera	1
@@ -722,8 +692,6 @@ la_compren	1
 le_entiende	1
 CD_PRP
 one_she	1
-,_WDT
-,_which	1
 DT_NNS
 the_things	1
 some_shows	1
@@ -751,10 +719,6 @@ a_Rubi	1
 the_Rubi	1
 any_Rubi	2
 the_Dr.	1
-,_JJ
-,_Western	1
-,_beautiful	2
-,_other	1
 DT_JJ
 the_important	1
 an_alternative	1
@@ -805,19 +769,10 @@ going_back	1
 CC_VB
 and_grab	1
 and_enjoy	1
-,_WRB
-,_when	1
-NN_,
-greed_,	1
-man_,	1
-deceit_,	1
-finale_,	1
-love_,	1
-passion_,	1
-novela_,	1
-end_,	2
-``_NN
-`_telenovela	1
+IN_JJ
+as_true	1
+in_black	1
+of_funny	1
 NN_.
 misery_.	1
 fan_.	2
@@ -885,7 +840,9 @@ wrongdoing_and	1
 love_and	1
 goodness_and	1
 novela_and	2
+deceit_and	1
 footage_and	1
+novela_but	1
 viewer_and	1
 screen_and	1
 disaster_and	1
@@ -945,14 +902,16 @@ you_and	1
 it_and	1
 RBS_JJ
 most_beautiful	1
-NN_VBP
-novela_do	1
+NNS_FW
+lovers_etc.	1
 WDT_VBD
 that_was	1
 PRP_CD
 it_three	1
 DT_JJS
 the_best	1
+NN_VBP
+novela_do	1
 NN_RB
 everyone_else	1
 line_considerably	1
@@ -973,6 +932,7 @@ DT_.
 all_.	1
 NNS_JJ
 telenovelas_Spanish	1
+fans_Western	1
 RB_RB
 never_really	1
 far_behind	1
@@ -997,9 +957,10 @@ CD_NN
 ;_I	1
 VBZ_NNP
 follows_Rubi	1
+loves_Alejandro	1
 tells_Rubi	2
-NNP_NNS
-Los_capitulos	1
+FW_NNP
+y_Los	1
 NNP_NNP
 Yadhira_Carillo	1
 Barbara_Mori	2
@@ -1012,6 +973,8 @@ finally_sees	1
 finally_marries	1
 even_has	1
 truly_loves	1
+NN_PRP$
+end_her	1
 RB_JJ
 as_important	1
 very_bad	1
@@ -1033,7 +996,7 @@ really_bad	1
 VBZ_VBG
 's_going	1
 VB_PRP
-admit_I	1
+admit_I	2
 like_it	1
 recommend_it	2
 buy_it	2
@@ -1060,15 +1023,12 @@ RB_VBN
 not_needed	1
 really_developed	1
 double_sided	1
-NN_''
-telenovela_'	1
 NN_FW
 gasten_su	1
 VB_CC
 watch_and	1
-RB_PRP
-then_you	1
-Yet_she	1
+NNP_DT
+Rubi_a	1
 RB_VBD
 really_liked	1
 ever_created	1
@@ -1078,10 +1038,6 @@ JJS_NN
 best_telenovelas	1
 RP_IN
 down_at	1
-,_IN
-,_in	1
-,_since	1
-,_if	1
 VBN_NNS
 sided_discs	1
 VB_TO
@@ -1089,12 +1045,6 @@ need_to	1
 VB_RB
 be_pretty	1
 enjoy_even	1
-,_NNP
-,_SCI	1
-,_Hector	1
-,_Rubi	2
-,_Alejandro	1
-,_Barbara	1
 VBD_NN
 deserved_something	1
 CC_NNS
@@ -1102,9 +1052,11 @@ CC_NNS
 and_lies	1
 JJ_JJ
 last_Rubi-filled	1
-great_such	1
-many_good	1
+poor_beautiful	1
 ambitious_young	1
+hot_beautiful	1
+many_good	1
+great_such	1
 NNP_TO
 Spanish_to	1
 VB_RP
@@ -1162,3 +1114,4 @@ whole_show	1
 true_love	1
 much_wretchedness	1
 awesome_DVD	1
+evil_sh	1

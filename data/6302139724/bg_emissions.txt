@@ -4,12 +4,11 @@ IN_NN
 of_suspense	1
 of_outlaw	1
 in_voice	1
-,_IN
-,_at	2
-``_VBD
-``_sang	1
+NNS_WP
+performers_who	1
 NNP_IN
 West_of	1
+Valley_at	1
 Wayne_along	1
 DT_NNS
 the_outlaws	1
@@ -26,16 +25,14 @@ RB_TO
 back_to	1
 IN_IN
 along_with	1
-IN_``
-of_`	1
-,_PRP
-,_he	1
 VBZ_JJ
 gives_particular	1
 makes_excellent	1
 IN_VBN
 since_learned	1
 of_defined	1
+VBD_CC
+sang_&	1
 NN_TO
 value_to	1
 CC_RB
@@ -88,24 +85,14 @@ the_plot	1
 an_eye	1
 that_role	1
 a_wagon	1
-CC_,
-and_,	1
-``_NNS
-`_vigilantes	1
-PRP$_``
-his_`	1
 PRP_VBP
 I_agree	1
 I_am	1
-RB_,
-later_,	1
 WP_VBP
 who_are	1
 who_oppose	1
 DT_VBN
 the_dubbed	1
-VBD_''
-sang_''	1
 WP_VBZ
 who_has	1
 PRP$_JJR
@@ -114,10 +101,11 @@ PRP_VBZ
 It_is	2
 he_is	1
 NNP_CC
+Strange_and	1
+Jr._and	1
+Bradbury_and	1
 Autry_&	1
 Canutt_and	1
-NNP_``
-Wayne_``	1
 VBP_NN
 oppose_lawlessness	1
 CC_PRP
@@ -127,18 +115,8 @@ not_want	1
 IN_PRP$
 of_his	3
 in_my	1
-,_WP
-,_who	1
-IN_JJ
-for_proper	1
-with_sparse	1
-in_widespread	1
-NNP_,
-Strange_,	1
-Wayne_,	1
-Jr._,	1
-Bradbury_,	2
-Valley_,	1
+VBD_NNS
+allowed_others	1
 NNP_.
 Nevada_.	1
 CC_VBZ
@@ -151,14 +129,13 @@ in_which	1
 PRP$_NN
 my_collection	1
 his_troupe	1
+his_long-loss-brother	1
 VBG_NN
 surviving_brother	1
 VBG_PRP$
 building_his	1
 VBD_RB
 did_not	1
-,_VBG
-,_building	1
 VBN_IN
 involved_in	1
 filmed_in	1
@@ -166,18 +143,12 @@ dubbed_in	1
 NNS_.
 movies_.	1
 outlaws_.	1
-NNS_,
-times_,	1
-performers_,	1
 TO_DT
 to_the	2
-VBD_NNS
-allowed_others	1
+CC_IN
+and_at	1
 VBP_JJ
 are_splendid	1
-,_VBZ
-,_seeks	1
-,_directs	1
 NNS_TO
 efforts_to	1
 stuntriders_to	1
@@ -212,10 +183,6 @@ JJR_IN
 better_of	1
 JJR_VBG
 older_surviving	1
-''_CC
-''_&	1
-,_CC
-,_and	3
 NN_NNS
 stunt_performers	1
 outlaw_bands	1
@@ -223,9 +190,8 @@ NN_NNP
 grade_B	1
 WDT_NNP
 which_John	1
-VBD_JJ
-had_good	1
-was_pleased	1
+NN_WP
+long-loss-brother_who	1
 DT_RB
 this_strongly	1
 PRP$_NNS
@@ -233,6 +199,9 @@ his_parents	1
 his_movies	1
 RB_NNP
 not_John	1
+VBD_JJ
+had_good	1
+was_pleased	1
 WDT_VBZ
 which_makes	1
 VBP_IN
@@ -254,6 +223,7 @@ VBZ_NN
 seeks_revenge	1
 NNS_JJ
 personalities_such	1
+times_stilted	1
 FW_NNS
 vigilante_efforts	1
 NN_NN
@@ -263,12 +233,15 @@ train_ambush	1
 singing_cowboy	1
 NNS_POS
 vigilantes_'	1
+NNP_WP$
+Bradbury_whose	1
 NNS_RB
 Years_later	1
 IN_NNS
 with_Westerns	1
 of_stuntriders	1
 at_times	1
+of_vigilantes	1
 IN_NNP
 like_Gene	1
 of_Robert	1
@@ -281,8 +254,6 @@ DT_NNP
 the_Far	1
 the_Sierra	1
 a_John	1
-,_JJ
-,_stilted	1
 DT_JJ
 this_well-made	1
 the_solid	1
@@ -297,12 +268,10 @@ edits_with	1
 has_since	1
 NNS_CC
 parents_and	1
-NN_,
-ambush_,	1
-period_,	1
-suspense_,	1
-``_NN
-`_long-loss-brother	1
+IN_JJ
+for_proper	1
+with_sparse	1
+in_widespread	1
 NN_.
 picture_.	1
 collection_.	1
@@ -323,8 +292,6 @@ NNS_IN
 scenes_with	1
 movies_in	1
 others_like	1
-VBN_CC
-reworked_&	1
 NN_CC
 lawlessness_and	1
 robbery_and	1
@@ -337,15 +304,20 @@ to_produce	1
 to_rid	1
 to_fill	1
 to_be	1
+NN_VBG
+suspense_building	1
 NN_VBD
 DVD_had	1
 film_was	1
 NN_VBZ
 voice_is	1
+ambush_seeks	1
+period_directs	1
 POS_WP
 '_who	1
-RB_RB
-definitely_not	1
+NNP_VBD
+Wayne_did	1
+Wayne_sang	1
 WDT_VBD
 that_were	1
 NNP_POS
@@ -381,6 +353,7 @@ Frank_McGlynn	1
 Roy_Rogers	1
 Owens_Valley	1
 Republic_Pictures	1
+Wayne_Frank	1
 Gene_Autry	1
 Newborn_Republic	1
 Robert_Bradbury	1
@@ -395,20 +368,14 @@ VBZ_PRP$
 confronts_his	1
 CC_PRP$
 and_his	1
-''_WP
-'_who	1
 RB_VBN
 strongly_scripted	1
-NNP_VBD
-Wayne_did	1
-NN_''
-long-loss-brother_'	1
+RB_PRP
+later_he	1
 VBN_NNS
 defined_personalities	1
-,_WP$
-,_whose	1
-,_NNP
-,_Frank	1
+VBN_CC
+reworked_&	1
 CC_NNP
 and_Glenn	1
 &_Roy	1
@@ -439,3 +406,5 @@ only_movie	1
 musical_adventure	1
 hard-riding_stunt	1
 excellent_use	1
+RB_RB
+definitely_not	1

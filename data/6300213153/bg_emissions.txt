@@ -5,17 +5,14 @@ in_search	1
 of_wardrobe	1
 of_irony	1
 on_occasion	1
-,_IN
-,_with	1
-,_as	1
+VBN_VBN
+been_ravaged	1
+been_dominated	1
 PRP_RB
 She_playfully	1
 her_back	1
 VB_WP
 cover_what	1
-VBN_VBN
-been_ravaged	1
-been_dominated	1
 NNP_IN
 Dagger_of	3
 Gelder_in	2
@@ -49,14 +46,8 @@ RB_TO
 back_to	1
 IN_VBG
 by_risking	1
-,_PRP
-,_she	1
-,_you	1
-,_they	1
 VBZ_JJ
 is_superb	1
-''_DT
-''_an	1
 NN_TO
 mission_to	1
 life_to	1
@@ -68,23 +59,19 @@ PRP_IN
 it_like	1
 VBN_.
 covered_.	1
-:_''
-:_''	1
-VBG_TO
-refreshing_to	1
-,_PRP$
-,_my	1
-VBD_IN
-recommended_for	1
+JJ_CC
+short_but	1
+tight_and	1
+JJ_CD
+uncomfortable_one	1
+:_IN
+:_Like	1
 PRP$_JJ
 his_dramatic	1
 His_emotional	1
 their_initial	1
 their_first	1
 her_blue	1
-VB_VBN
-be_covered	1
-have_brought	1
 IN_PRP
 for_her	1
 VB_TO
@@ -93,6 +80,7 @@ VBZ_CD
 is_one	2
 NNP_WP
 Noel_who	1
+Hill_who	1
 NNS_WDT
 jumpsuits_that	1
 POS_NN
@@ -103,6 +91,7 @@ POS_NN
 ..._undies	1
 :_NNP
 :_Kirk	1
+:_Dagger	1
 VBD_DT
 did_an	1
 PRP_VBD
@@ -111,7 +100,7 @@ WP_VBD
 What_was	1
 who_did	1
 NNP_NN
-Trek_fan	1
+Trek_fan	2
 Vulcan_mind	1
 Starfleet_uniform	1
 Enterprise_psychiatrist	1
@@ -180,10 +169,9 @@ they_feature	1
 I_love	1
 I_wish	1
 I_realize	1
-JJ_``
-devout_``	1
 RB_DT
 about_a	1
+However_the	1
 well_some	1
 not_the	1
 WP_VBZ
@@ -207,12 +195,15 @@ PRP_:
 her_...	1
 IN_.
 like_?	1
-``_WP
-``_What	1
+VBG_TO
+refreshing_to	1
 WDT_VBZ
 that_is	1
 VBG_RP
 reaching_up	1
+VBP_PRP
+wish_they	1
+love_it	1
 JJR_NNS
 better_episodes	2
 CC_PRP
@@ -234,22 +225,6 @@ of_his	1
 with_his	1
 of_my	1
 that_his	1
-''_NNP
-''_Dagger	3
-NN_,
-suspense_,	1
-world_,	1
-device_,	1
-colony_,	1
-story-line_,	1
-planet_,	1
-symbol_,	1
-NNP_,
-Noel_,	1
-Gelder_,	1
-Second_,	1
-Adams_,	1
-Hill_,	1
 LS_NNP
 1_Dr.	1
 NNP_.
@@ -258,8 +233,8 @@ Noel_.	1
 Adams_.	1
 Gelder_.	1
 Trek_.	1
-,_VBG
-,_making	1
+NNS_PRP$
+years_my	1
 IN_IN
 out_of	1
 While_on	1
@@ -280,10 +255,6 @@ discover_that	1
 NNP_:
 Gelder_:	1
 Kirk_:	1
-JJ_,
-First_,	1
-tight_,	1
-short_,	1
 JJ_.
 enjoyable_.	1
 intense_.	1
@@ -292,11 +263,11 @@ risking_her	1
 VBD_RB
 did_not	1
 was_also	1
-RB_,
-together_,	1
-Also_,	1
-behind_,	1
-However_,	2
+NN_DT
+story-line_the	1
+VB_VBN
+be_covered	1
+have_brought	1
 VBN_IN
 driven_out	1
 ravaged_by	1
@@ -306,10 +277,6 @@ undies_.	1
 minds_.	1
 inmates_.	1
 actors_.	1
-,_VBN
-,_given	1
-NNS_,
-years_,	1
 WDT_RB
 which_just	1
 TO_DT
@@ -325,8 +292,6 @@ VBP_JJ
 are_common	1
 are_several	1
 are_enough	1
-,_VBZ
-,_looks	1
 RB_NN
 not_swoon	1
 NNS_TO
@@ -343,6 +308,7 @@ looks_like	2
 flirts_with	2
 JJ_NNP
 sinister_Dr.	1
+devout_Classic	1
 particulary_Leonard	1
 beautiful_Marianna	1
 CD_IN
@@ -351,9 +317,6 @@ JJR_IN
 better_of	2
 VB_NNS
 reshape_memories	1
-,_CC
-,_and	2
-,_but	1
 VB_NN
 convince_anyone	1
 VB_NNP
@@ -370,15 +333,17 @@ upsets_Kirk	1
 films_Helen	1
 NN_NNP
 set_Dr.	1
-sister_Cathy	1
+colony_Kirk	1
 psychiatrist_Dr.	1
 psychologist_Dr.	1
-:_``
-:_``	2
+make_Dagger	1
+sister_Cathy	1
 DT_RB
 this_visibly	1
 PRP$_NNS
 my_observations	1
+RB_NNP
+Also_Marianna	1
 PRP_MD
 they_could	1
 you_can	1
@@ -386,6 +351,8 @@ you_can	1
 :_1	1
 VBG_NNP
 making_Kirk	1
+NN_PRP
+world_she	1
 IN_RB
 from_behind	1
 as_well	1
@@ -393,12 +360,13 @@ PRP_WRB
 it_when	1
 :_DT
 --_a	1
+JJ_DT
+First_this	1
 NNS_:
 observations_:	1
 items_:	1
-VBP_PRP
-wish_they	1
-love_it	1
+RB_CC
+together_and	1
 VBP_IN
 realize_that	1
 MD_VB
@@ -420,10 +388,9 @@ CC_NN
 and_company	1
 and_control	1
 and_suspense	1
-,_DT
-,_this	1
-,_a	1
-,_the	3
+RB_PRP
+behind_you	1
+However_they	1
 VBP_VBN
 are_supposed	1
 are_shocked	1
@@ -434,6 +401,7 @@ Neutralizer_is	1
 Hill_plays	1
 Starfleet_skirts	1
 Helen_is	1
+Noel_looks	1
 Gregory_plays	1
 Spock_uses	1
 Woodward_gives	1
@@ -468,8 +436,6 @@ century_dentist	1
 A_couple	1
 transporter_room	1
 rehabilitation_colony	1
-``_IN
-``_Like	1
 POS_JJ
 's_first	1
 DT_NNS
@@ -530,9 +496,6 @@ ummmm_...	1
 NNS_CC
 memories_and	1
 inconsistencies_and	1
-._''
-?_''	1
-!_''	1
 VBD_PRP
 was_it	1
 VBD_VBG
@@ -556,6 +519,7 @@ mind_.	1
 fan_.	1
 NN_IN
 surface_of	1
+device_with	1
 search_of	1
 mind_of	1
 performance_as	1
@@ -567,6 +531,7 @@ sight_of	1
 irony_in	1
 patch_on	1
 portrayal_of	1
+suspense_as	1
 courage_by	1
 psychologist_in	1
 encounter_in	1
@@ -620,11 +585,14 @@ to_trade	1
 to_probe	1
 NN_VBG
 hand_holding	1
+planet_making	1
 NN_VBD
 department_gave	1
 NN_VBZ
+Mind_is	1
 skirt_is	1
 chair_looks	1
+Mind_introduces	1
 episode_contains	1
 uniform_seems	1
 episode_is	1
@@ -632,17 +600,10 @@ mind_has	2
 acting_is	1
 director_is	1
 episode_introduces	1
-''_VBZ
-''_is	1
-''_introduces	1
-''_NN
-''_fan	1
 RB_RB
 n't_quite	1
-,_WP
-,_who	1
-JJ_CD
-uncomfortable_one	1
+VBD_IN
+recommended_for	1
 NN_VBP
 company_are	1
 sickbay_are	1
@@ -674,6 +635,8 @@ plays_the	1
 gives_a	1
 steals_the	1
 gets_the	2
+NN_VBN
+symbol_given	1
 VBZ_NNP
 plays_Enterprise	2
 NNP_NNP
@@ -685,6 +648,7 @@ Helen_Noel	4
 Hill_Helen	1
 Captain_Kirk	2
 Tantalus_V	1
+Second_Morgan	1
 The_Neural	1
 Simon_Van	3
 Dr._Simon	3
@@ -731,38 +695,31 @@ RB_VBN
 nearly_driven	1
 NNP_VBD
 Woodward_did	1
-NN_''
-make_''	1
-Mind_''	2
 VBG_DT
 holding_a	1
 using_a	1
 NNP_DT
+Gelder_a	1
 Noel_a	1
+Adams_the	1
+Mind_an	1
 RB_VBD
 Highly_recommended	1
 JJS_NN
 greatest_psychologist	1
-``_NNP
-``_Classic	1
 VBZ_PRP
 introduces_us	2
 uses_it	1
 VBN_TO
 supposed_to	2
 shocked_to	1
-,_NNP
-,_Kirk	1
-,_Marianna	1
-,_Morgan	1
 CC_NNP
 but_Helen	1
 and_Van	1
 CC_NNS
 and_gaps	1
-NNP_''
-Trek_''	1
-Mind_''	1
+:_WP
+:_What	1
 VBN_PRP
 brought_her	1
 VBZ_TO

@@ -50,10 +50,6 @@ gone_...	1
 Viewed_:	1
 UH_JJ
 Oh_sure	1
-VBP_,
-mean_,	2
-IN_``
-from_``	1
 VBP_.
 are_.	1
 occur_.	1
@@ -65,8 +61,6 @@ VBP_CC
 dangle_but	1
 VBN_.
 described_.	1
-VBN_,
-tested_,	1
 VB_JJR
 appeal_more	1
 CC_TO
@@ -81,11 +75,12 @@ VBZ_CD
 shows_one	1
 VBZ_CC
 sparks_but	1
-NNS_WDT
-films_that	1
-things_that	1
+VBN_CD
+rated_14	1
 WRB_TO
 how_to	1
+PRP_PRP
+it_she	1
 RP_.
 out_.	1
 WP_VBZ
@@ -96,10 +91,13 @@ who_goes	1
 Who_has	1
 who_seeks	1
 NNP_CC
-Brown_&	1
-Cruise_and	3
+Macarena_and	1
+Cruise_but	1
 MovieMars_or	1
 GoHastings_or	1
+Cruise_and	3
+Brown_&	1
+Macarena_or	1
 Brown_and	1
 NNP_CD
 Classic_80	1
@@ -125,8 +123,8 @@ from_his	1
 of_their	1
 in_my	2
 that_his	1
-NNS_''
-morons_'	1
+NN_VB
+fad_be	1
 IN_WDT
 in_which	1
 PRP$_NN
@@ -152,12 +150,9 @@ the_Razzie	1
 a_Twizzler	1
 the_Wolf	1
 the_George	1
+all_Cocktail	1
 JJ_PRP
 upfront_it	1
-``_VBP
-``_dangle	1
-,_''
-,_'	1
 VBD_RB
 was_mostly	1
 did_n't	3
@@ -169,9 +164,14 @@ were_just	1
 was_so	1
 went_ahead	1
 NN_DT
+plot_the	1
 *_The	1
+heartbreak_a	1
+avenue_the	1
+dance_a	1
 alcohol_all	1
 way_those	1
+level_the	1
 commercial_some	1
 STORY_A	1
 course_the	1
@@ -226,9 +226,6 @@ n't_Earth	1
 specially_Run	1
 WDT_NN
 THAT_kind	1
-,_PRP$
-,_his	1
-,_my	1
 IN_RB
 for_so	1
 without_too	1
@@ -258,12 +255,14 @@ but_fun	1
 and_ofcourse	1
 and_banter	1
 or_something	1
+VBP_PRP$
+mean_his	1
 CD_VBZ
 one_has	1
 two_is	1
-VB_,
-expect_,	1
 VB_.
+end_.	1
+deliver_.	1
 believe_.	1
 do_!	1
 JJ_TO
@@ -273,9 +272,7 @@ hard_to	1
 cheap_to	1
 NNS_JJ
 eyes_open	1
-NNP_''
-Macarena_'	1
-Cowboy_''	1
+words_pointless	1
 DT_NNS
 the_themes	1
 the_movies	2
@@ -309,6 +306,7 @@ at_Flanagan	1
 of_Tom	1
 IN_LIFE	1
 for_Cruise	1
+from_Midnight	1
 with_Brown	1
 between_Cruise	1
 of_Wall	1
@@ -319,6 +317,7 @@ with_Cruise	1
 by_Bryan	1
 as_Lenny	1
 NN_CD
+film_&#34;	1
 predictability_one	1
 NN_SYM
 music_*	1
@@ -345,13 +344,12 @@ was_an	1
 served_no	1
 portrayed_the	1
 NNS_CC
+millions_but	1
 sorts_and	1
 movies_but	1
 lives_and	1
 NNS_CD
 guys_10	1
-''_VBZ
-''_is	1
 VBP_IN
 delve_beneath	1
 skip_in	1
@@ -361,10 +359,11 @@ fall_in	1
 'm_on	1
 NN_CC
 quality_and	1
-friend_and	1
+?!_And	1
 world_but	1
 price_and	1
 cat_or	1
+lifestyle_but	1
 business_and	1
 movie_and	2
 bartending_and	1
@@ -372,11 +371,15 @@ breaking_or	1
 interest_and	1
 person_and	1
 role_and	1
-?!_And	1
+friend_and	1
+school_but	1
 time_and	1
 song_and	1
 alcohol_and	1
 past_but	1
+care_and	1
+girlfriend_or	1
+dancing_or	1
 everyone_but	1
 music_and	1
 death_and	1
@@ -388,7 +391,7 @@ world_and	1
 acting_and	1
 color_and	1
 top_and	1
-movie_but	2
+movie_but	3
 bar_and	2
 scene_and	1
 hour_and	1
@@ -422,6 +425,7 @@ Jordan_Shue	1
 AND_PICTURE	1
 Wall_Street	1
 Julia_Roberts	1
+OUT_HOW	1
 ?!_Classic	1
 York_City	1
 AND_MEN	1
@@ -436,7 +440,7 @@ New_York	1
 Veteran_Bar	1
 Bryan_Brown	4
 MOVIE_PERFECT	1
-OUT_HOW	1
+Cruise_Brian	1
 FINDING_OUT	1
 Wild_Again	1
 Flanagan_Tom	1
@@ -456,10 +460,13 @@ Nicolas_Cage	1
 Las_Vegas	1
 Tender_Doug	1
 Midnight_Cowboy	1
-,_CD
-,_&#34;	1
+:_RB
+..._So	1
+..._totally	1
 CC_EX
 but_there	1
+VBN_CC
+tested_and	1
 VBN_TO
 designed_to	1
 come_to	1
@@ -510,21 +517,15 @@ On_the	1
 of_a	5
 WDT_JJ
 whatever_other	1
-VBN_CD
-rated_14	1
+NNS_WDT
+films_that	1
+things_that	1
 VB_WP
 See_what	1
 know_what	1
 CD_POS
 80_'s	5
 90_'s	1
-RB_,
-oddly_,	1
-nonetheless_,	1
-Actually_,	1
-before_,	1
-Then_,	1
-well_,	1
 RB_.
 now_!	1
 together_.	1
@@ -543,6 +544,8 @@ won_and	1
 CC_RB
 and_early	1
 and_surprisingly	1
+But_nonetheless	1
+and_oddly	1
 and_mostly	1
 and_then	1
 and_over	1
@@ -583,10 +586,6 @@ though_he	1
 if_he	1
 so_I	1
 If_it	1
-''_.
-''_.	2
-'_.	1
-'_!	1
 :_NNP
 ..._Elizabeth	2
 ..._New	1
@@ -677,6 +676,7 @@ The_mugging	1
 the_side	1
 a_lot	2
 the_heartbeat	1
+a_flare	1
 the_bar	2
 The_Shelter	1
 a_music	1
@@ -754,8 +754,6 @@ it_'s	6
 VBP_EX
 know_there	1
 realize_there	1
-IN_,
-that_,	1
 IN_.
 underneath_.	1
 FW_FW
@@ -768,10 +766,6 @@ them_.	1
 us_.	1
 it_.	1
 himself_.	1
-PRP_,
-it_,	2
-:_RB
-..._totally	1
 CC_VBP
 but_do	1
 PRP_VB
@@ -791,6 +785,7 @@ feel_when	1
 party_where	1
 Love_when	1
 film_where	1
+life_how	1
 military_where	1
 bar_where	1
 CC_VBD
@@ -801,15 +796,8 @@ but_needed	1
 CC_VBG
 and_backstabbing	1
 and_dumping	1
-JJ_,
-many_,	1
-stupid_,	1
-concerned_,	1
-bad_,	2
-good_,	1
-great_,	2
-corny_,	1
-cruel_,	1
+CC_VBN
+or_obsessed	1
 JJ_.
 drunk_.	1
 quotable_.	1
@@ -828,6 +816,7 @@ purchased_as	1
 overshadowed_by	1
 seen_in	1
 VBP_WRB
+mean_how	1
 feel_when	1
 VBD_JJ
 had_many	1
@@ -851,19 +840,17 @@ bar_films	1
 NN_NNP
 bartender_Bryan	1
 bar_?!	1
-ofcourse_Tom	1
+know-it-all_English	1
+hand_Tom	1
+bartender_Doug	1
 director_Roger	1
+ofcourse_Tom	1
 girl_Elizabeth	1
 nd_Wild	1
-''_RB
-''_So	1
 WDT_NNS
 THAT_PEOPLE	1
 CD_CD
 4_5/12	1
-,_WRB
-,_why	1
-,_how	2
 WDT_FW
 THAT_WOULD	1
 :_DT
@@ -873,9 +860,11 @@ more_heartbreak	1
 older_woman	1
 more_education	1
 darker_layer	1
-:_CD
-:_4	1
-:_5/12	1
+VBP_VBN
+have_been	1
+are_tested	1
+get_broken	1
+'ve_come	1
 PRP_MD
 I_'d	1
 I_ca	1
@@ -889,11 +878,9 @@ I_can	1
 you_'ll	1
 I_might	1
 we_could	1
-VBP_VBN
-have_been	1
-are_tested	1
-get_broken	1
-'ve_come	1
+:_CD
+:_4	1
+:_5/12	1
 :_CC
 ..._but	1
 -_and	1
@@ -902,37 +889,43 @@ or_be	1
 AND_GET	1
 and_get	1
 and_throw	1
-JJS_IN
-most_of	1
+NNS_VBD
+people_loved	1
+movies_rolled	1
+brains_were	1
 EX_VBZ
 there_'s	3
 SYM_DT
 *_the	1
 EX_VBP
 there_are	1
-CC_``
-or_`	1
 NN_NN
 ground_breaking	1
-line_dancing	1
+A_FILEING	1
 Plot_shift	1
 bar/nightclub_scene	1
 FIELD_EXPERIENCE	1
-A_FILEING	1
+COCKTAIL_director	1
+love_friendship	1
+line_dancing	1
 tone_dialogue	1
 buddy_movie	1
-MAILROOM_OR	1
+NOSE_BUSINESS	1
 Love_nd	1
-Ur_Love	1
+friendship_care	1
 dollar_mugging	1
 bottle_throwing	1
 date_movie	1
 sage_guru	1
 BUSINESS_EXPERIENCE	1
 time_period	1
+Law_philosophy	1
 product_price	1
 business_school	1
+substance_film	1
+Ur_Love	1
 mentor_tone	1
+flare_bar-tender	1
 bar_film	1
 nothing_ground	1
 bar_tender	1
@@ -946,9 +939,12 @@ school_text	1
 study_grasshopper	1
 FILEING_CLERK	1
 party_boat	1
-NOSE_BUSINESS	1
+life_film	1
+MAILROOM_OR	1
 brain_damage	1
 love_*	1
+movie_COCKTAIL	1
+money_love	1
 A_JOB	1
 love_story	1
 woman_love	1
@@ -960,14 +956,10 @@ fights_later	1
 peers_even	1
 bartenders_eventually	1
 years_later	1
-,_JJ
-,_bad	2
-,_pointless	2
-,_20-somethings	1
 DT_JJ
 the_male	1
 A_good	1
-a_bad	1
+a_bad	2
 the_corporate	1
 a_few	3
 the_commercial	1
@@ -979,6 +971,7 @@ a_lively	1
 the_many	1
 a_terrible	2
 the_next	1
+the_real	1
 The_other	1
 a_gold	1
 an_escapist	1
@@ -1020,11 +1013,10 @@ teaches_him	1
 betrays_him	1
 VBD_JJR
 was_more	1
-NNS_``
-books_``	1
 NN_IN
 movie_because	1
 %_in	1
+plot_in	1
 story_with	1
 time_of	1
 guru_of	1
@@ -1050,13 +1042,14 @@ movie_that	1
 success_as	1
 film_in	2
 hero_into	1
-alcoholism_in	1
+earnest_with	1
 bar_whilst	1
 lesson_about	1
 life_at	1
 world_around	1
-hero_of	1
+alcoholism_in	1
 side_of	1
+hero_of	1
 CLERK_IN	1
 respect_from	1
 bar_for	1
@@ -1109,6 +1102,7 @@ girl_named	1
 fun_seen	1
 NNS_PRP
 awards_it	1
+movies_he	1
 NN_VBG
 tan_going	1
 damage_smelling	1
@@ -1147,11 +1141,12 @@ shipping_is	1
 movie_is	6
 dialog_is	1
 partner_betrays	1
-Cocktail_is	1
+Cocktail_is	2
 education_comes	1
 acting_is	1
 RB_RB
 very_much	1
+well_maybe	1
 almost_certainly	1
 around_here	1
 very_quickly	1
@@ -1166,23 +1161,19 @@ COLLEGE_Have	1
 afar_do	1
 PRP_RB
 He_sure	1
-it_never	1
-it_anywhere	1
 you_ever	1
 it_together	1
+it_well	1
+it_never	1
+it_anywhere	1
 PRP_RP
 him_over	1
-JJ_``
-own_`	1
-constant_`	1
 RB_VBZ
 also_has	1
 first_seems	1
 never_gets	1
 still_has	1
 never_stops	1
-,_WP
-,_who	1
 VBZ_VBG
 's_going	2
 VB_PRP
@@ -1211,22 +1202,15 @@ shakes_my	1
 CC_PRP$
 And_his	1
 and_his	1
-WRB_NN
-why_Cocktail	1
+VB_RP
+set_up	1
+figure_out	1
 DT_DT
 this_a	1
 RB_VBN
 clearly_designed	1
 as_described	1
 better_known	1
-NN_''
-world_'	1
-Cocktail_''	1
-life_'	1
-Law_''	1
-substance_'	1
-girlfriend_'	1
-flare_'	1
 RB_VBG
 often_carrying	1
 RB_VBD
@@ -1235,24 +1219,27 @@ sure_drank	1
 probably_did	1
 really_wanted	1
 ever_watched	1
-JJ_WRB
-own_when	1
+VBZ_EX
+Seems_there	1
 VBD_NN
 was_alot	1
 needed_employment	1
 liked_alot	1
 had_money	1
 JJ_JJ
+corny_pointless	1
 decent_romantic	1
 other_crazy	1
 get-rich_decadent	1
 throbbing_musical	1
 stupid_drunk	1
 bottle-spinning_slick	1
+many_20-somethings	1
 few_catchy	1
 notable_modern	1
 many_impressive	1
 great_big	1
+bad_bad	2
 other_funny	1
 whole_get-rich	1
 few_enduring	1
@@ -1267,10 +1254,6 @@ goes_to	1
 seems_to	2
 POS_NNP
 's_NYC	1
-,_IN
-,_with	1
-,_in	1
-,_if	2
 MD_RB
 could_not	1
 will_also	1
@@ -1344,27 +1327,6 @@ RBR_JJ
 more_difficult	1
 VBN_SYM
 broken_*	1
-:_''
-..._''	1
-,_NN
-,_care	1
-,_mentor	1
-,_friendship	1
-,_director	1
-,_COCKTAIL	1
-,_love	1
-CC_,
-But_,	1
-and_,	1
-``_NNS
-`_morons	1
-PRP$_``
-his_``	1
-``_NNP
-``_Midnight	1
-``_Beer	1
-``_Coughlin	1
-`_Macarena	1
 RB_DT
 still_an	1
 just_a	1
@@ -1382,16 +1344,6 @@ NN_MD
 viewer_must	1
 alot_must	1
 dialogue_can	1
-DT_``
-a_``	1
-the_`	1
-a_`	1
-,_RB
-,_oddly	1
-,_maybe	1
-,_especially	1
-,_nonetheless	1
-,_well	1
 CC_PRP
 but_he	2
 but_I	2
@@ -1416,6 +1368,7 @@ n't_have	1
 n't_speak	1
 n't_know	1
 IN_IN
+that_if	1
 like_as	1
 because_of	2
 as_if	1
@@ -1425,42 +1378,30 @@ from_OF	1
 at_at	1
 JJ_RB
 incredible_specially	1
+concerned_especially	1
 top_very	1
 other_better	1
-,_``
-,_`	1
-,_``	1
 VBZ_WP
 's_what	2
 VBG_PRP$
 supporting_his	1
-,_VBG
-,_having	1
 NNS_.
 days_.	1
 lines_.	1
 sons_.	1
 bumps_.	1
 studies_.	1
+morons_!	1
 cards_.	1
 tomatoes_.	1
 stupids_.	1
 works_?	1
 drinks_.	2
-NNS_,
-bottles_,	1
-rocks_,	1
-movies_,	1
-millions_,	1
-words_,	1
-ropes_,	1
-,_VBP
-,_ai	1
+VBD_NNS
+thought_morons	1
 NNS_:
 scenes_;	1
 bars_...	1
-,_VBZ
-,_has	1
 WRB_RB
 how_preposterously	1
 JJ_NNS
@@ -1481,18 +1422,12 @@ many_scenes	1
 enduring_comments	1
 decadent_1980s	1
 budding_bartenders	1
-CC_JJS
-and_most	2
 DT_PRP$
 all_my	1
 JJ_NNP
 GREAT_MOVIE	1
 beautiful_Jamaica	1
-''_CD
-'_80	1
-''_CC
-'_and	1
-'_or	1
+own_Macarena	1
 IN_WP
 in_what	1
 VBG_PRP
@@ -1507,23 +1442,25 @@ NN_PRP
 college_he	1
 snake_he	1
 fact_they	1
+way_I	1
+score_you	1
 movie_it	1
 EXPERIENCE_YOU	1
 movie_you	1
 way_they	1
 VB_PRP$
 start_his	1
+expect_my	1
 keep_your	1
 ._.
 ._.	7
 JJ_DT
 hard_an	1
+good_the	1
 RB_CC
 over_and	2
 ahead_and	1
-:_PRP
-..._you	1
---_it	1
+before_but	1
 MD_VB
 'll_catch	1
 'll_see	1
@@ -1539,6 +1476,7 @@ RB_CD
 about_15	1
 down_one	1
 early_90	1
+very_80	1
 VB_VBN
 be_gone	1
 have_been	1
@@ -1551,16 +1489,12 @@ RB_RBR
 much_more	1
 WRB_NNS
 where_friendships	1
-,_DT
-,_a	2
-,_the	4
-,_that	1
 VB_VBZ
 generate_sparks	1
+CD_PRP
+80s_it	1
 NNS_DT
 ALWAYS_THE	1
-POS_``
-'s_`	1
 VBZ_NN
 's_nothing	1
 TO_JJ
@@ -1606,6 +1540,8 @@ dozens_of	1
 people_from	1
 sponsors_of	1
 morals_of	1
+NNS_PDT
+bottles_such	1
 JJS_NNP
 most_Tom	1
 least_Gina	1
@@ -1617,41 +1553,9 @@ bartending_;	1
 thing_:	1
 Cocktail_...	1
 friendship_...	1
-._''
-._''	1
 NNP_JJ
 Brian_flat	1
 PICTURE_GREAT	1
-NN_,
-level_,	1
-care_,	1
-dance_,	1
-avenue_,	1
-money_,	1
-lifestyle_,	1
-score_,	1
-way_,	1
-bartender_,	1
-fad_,	1
-COCKTAIL_,	1
-heartbreak_,	1
-school_,	1
-know-it-all_,	1
-life_,	1
-hand_,	1
-friendship_,	1
-dancing_,	1
-film_,	1
-movie_,	2
-earnest_,	1
-love_,	1
-plot_,	2
-``_NN
-`_flare	1
-``_Cocktail	1
-`_know-it-all	1
-`_slice	1
-`_style	1
 NN_.
 gift_.	1
 opinion_.	1
@@ -1669,6 +1573,7 @@ shape_.	1
 ending_.	1
 actress_.	1
 bartender_.	1
+world_.	1
 comedy_.	1
 philosophy_.	1
 rating_.	1
@@ -1699,22 +1604,11 @@ that_contains	1
 that_seems	1
 that_is	2
 that_has	1
-NNP_VBD
-Cruise_had	2
-Vegas_was	1
-Always_liked	2
-Coughlin_was	1
 JJR_TO
 more_to	2
 WDT_VBP
 THAT_GOING	1
 that_top	1
-,_VB
-,_be	1
-''_NN
-''_philosophy	1
-'_bar-tender	1
-'_film	2
 IN_TO
 than_to	1
 except_to	1
@@ -1724,8 +1618,6 @@ VBG_RB
 smelling_too	1
 getting_there	1
 shopping_early	1
-DT_,
-all_,	1
 DT_.
 this_.	2
 that_?	1
@@ -1775,11 +1667,14 @@ ATTENDING_THE	1
 having_the	1
 carrying_the	1
 RB_PRP
-n't_they	1
-later_he	1
-Then_he	1
 maybe_they	1
+later_he	1
+Then_he	2
 badly_it	1
+oddly_I	1
+n't_they	1
+nonetheless_we	1
+Actually_I	1
 :_VBG
 :_becoming	1
 :_VBD
@@ -1794,17 +1689,20 @@ go_back	1
 go_very	1
 JJS_PDT
 most_all	1
-VB_RP
-set_up	1
-figure_out	1
-VBZ_EX
-Seems_there	1
+WRB_NN
+why_Cocktail	1
+VBZ_PDT
+deserves_all	1
+knows_all	1
+JJ_WRB
+own_when	1
 JJ_IN
 great_at	1
 much_of	1
 great_in	1
 open_for	1
 palpable_with	1
+great_if	1
 surprised_that	1
 bad_in	1
 full_of	1
@@ -1812,12 +1710,8 @@ well-documented_that	1
 deep_at	1
 interested_in	1
 famous_for	1
-``_JJ
-`_real	1
-``_bad	1
-VB_''
-deliver_''	1
-end_''	1
+NNS_WRB
+ropes_why	1
 NNP_IN
 Run_For	1
 Brian_by	1
@@ -1832,6 +1726,7 @@ Lenny_from	1
 Shue_as	1
 SUCESSFUL_IN	1
 Twizzler_in	1
+Cowboy_with	1
 FW_.
 Anyhoo_.	1
 IN_VBG
@@ -1843,26 +1738,20 @@ of_getting	2
 for_turning	1
 for_getting	1
 after_working	1
-,_PRP
-,_he	2
-,_we	1
-,_you	1
-,_it	1
-,_I	3
-,_she	1
+CC_JJS
+and_most	2
 CC_JJR
 But_more	1
-RB_''
-very_'	1
-``_VBN
-`_obsessed	1
 PRP$_NNP
+his_Coughlin	1
 his_Julia	1
 JJ_CC
-ambitious_and	1
 ignorant_and	1
-experienced_and	1
 pointless_and	1
+great_and	1
+cruel_but	1
+ambitious_and	1
+experienced_and	1
 terrible_and	1
 IN_WP$
 in_whose	1
@@ -1870,8 +1759,6 @@ JJ_CD
 great_1980s	1
 late_80	1
 bad_one	1
-CD_,
-80s_,	1
 CD_.
 1987_.	1
 one_.	2
@@ -1879,17 +1766,17 @@ WRB_VBG
 when_getting	1
 WRB_VBZ
 why_'s	1
-VBZ_PDT
-deserves_all	1
-knows_all	1
+NNP_WP
+Brown_who	1
 CD_:
 5/12_:	1
 WRB_VBP
 Why_do	1
 POS_NN
+'s_style	1
+'s_?!	1
 's_business	1
 's_Law	1
-'s_?!	1
 's_character	1
 's_movie	2
 TO_NN
@@ -1904,8 +1791,15 @@ CD_NNP
 VBN_RB
 disappeared_shortly	1
 NNP_NN
+English_mentor	1
 Roberts_smile	1
 George_role	1
+Cruise_slice	1
+TO_PRP$
+to_his	2
+to_our	1
+NN_POS
+TGIFriday_'s	1
 VBZ_RB
 is_totally	1
 has_n't	1
@@ -1924,19 +1818,12 @@ is_clearly	1
 's_almost	1
 's_always	1
 is_completely	1
-NN_POS
-TGIFriday_'s	1
-TO_PRP$
-to_his	2
-to_our	1
 RB_PRP$
 probably_his	1
 VBZ_RP
 shows_up	1
 hooks_up	1
 breaks_up	1
-NNP_``
-Cruise_`	1
 RB_IN
 back_in	1
 EVEN_IF	1
@@ -1975,15 +1862,6 @@ Do_n't	1
 JJ_VBZ
 other_is	1
 watchable_is	1
-''_NNP
-'_English	1
-NNP_,
-Cruise_,	2
-English_,	1
-Macarena_,	1
-Coglin_,	1
-Now_,	1
-Brown_,	1
 CD_JJ
 two_great	1
 one_happy	1
@@ -1998,11 +1876,13 @@ Amazon_.	1
 Again_.	1
 MEN_.	1
 POS_CC
-'s_and	1
+'s_and	2
 VBG_NN
 imagining_life	1
 watching_fun	1
 shattering_stuff	1
+JJ_VBG
+stupid_having	1
 NNP_:
 Rate_:	1
 Shue_...	3
@@ -2015,8 +1895,6 @@ really_matter	1
 eventually_realize	1
 VBZ_.
 stops_.	1
-VBZ_,
-says_,	1
 NNS_TO
 mintues_to	1
 ways_to	1
@@ -2029,6 +1907,7 @@ is_like	2
 jumps_around	1
 is_because	1
 is_about	1
+says_If	1
 Gets_into	1
 stands_as	1
 is_for	1
@@ -2040,10 +1919,6 @@ more_than	1
 more_of	3
 WRB_JJ
 how_much	1
-,_CC
-,_and	4
-,_or	2
-,_but	7
 VB_NN
 suffer_brain	1
 Sleep_deprivation	1
@@ -2064,9 +1939,11 @@ them_to	1
 itself_to	1
 NNS_VBP
 bartenders_tend	1
+rocks_ai	1
 hearts_get	1
 PEOPLE_GET	1
 fans_get	1
+books_dangle	1
 problems_occur	1
 situations_are	1
 friendships_are	1
@@ -2080,14 +1957,10 @@ that_million	1
 IN_CC
 over_and	2
 over_or	1
-NNS_VBD
-people_loved	1
-movies_rolled	1
-brains_were	1
+JJS_IN
+most_of	1
 NNS_VBG
 christmas_shopping	1
-``_IN
-``_If	1
 PRP_NNP
 YOU_START	1
 NNS_VBN
@@ -2103,8 +1976,6 @@ ZONE_out	1
 POS_JJ
 's_annoying	1
 's_one-man	1
-''_IN
-''_with	1
 VBD_VBN
 was_purchased	1
 VBD_PRP
@@ -2132,16 +2003,18 @@ NNP_RB
 Flanagan_also	1
 NNP_VBP
 Shue_are	2
-,_PDT
-,_such	1
+:_PRP
+..._you	1
+--_it	1
 :_JJ
 ..._hard	1
 -_Australian	1
 NNP_VBZ
 Donaldson_shows	1
-Coughlin_scoffs	1
+Coglin_has	1
 Beer_is	1
 Brown_teaches	1
+Coughlin_scoffs	1
 Cruise_stars	1
 Cocktail_is	3
 Cruise_is	2
@@ -2191,8 +2064,6 @@ and_Brown	1
 and_Cocktail	1
 or_MovieMars	1
 and_Bryan	1
-VBD_,
-thought_,	1
 VBD_.
 was_.	1
 made_.	1
@@ -2200,8 +2071,11 @@ went_.	1
 NNP_VBG
 Earth_shattering	1
 Cruise_taking	1
-POS_,
-'s_,	1
+NNP_VBD
+Cruise_had	2
+Vegas_was	1
+Always_liked	2
+Coughlin_was	1
 NNP_POS
 Flanagan_'s	2
 Cage_'s	1
@@ -2261,6 +2135,8 @@ use_amazon	1
 do_something	1
 VB_CD
 make_one	1
+NNP_DT
+Now_that	1
 VBN_NNP
 named_Jordan	1
 known_Tom	1
@@ -2271,11 +2147,6 @@ over_in	1
 out_with	1
 VBN_NNS
 seen_dozens	1
-,_NNP
-,_Tom	1
-,_Brian	1
-,_Doug	1
-,_Cocktail	1
 VBG_NNP
 backstabbing_Brian	1
 dumping_Brian	1
@@ -2290,6 +2161,7 @@ JJ_NN
 romantic_interest	1
 lively_narrative	1
 happy_couple	1
+constant_know-it-all	1
 HARD_NOSE	1
 quick_study	1
 few_fist	1

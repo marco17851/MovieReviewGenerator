@@ -4,17 +4,15 @@ NNS_IN
 girls_in	1
 NN_CC
 thing_and	1
-NN_``
-host_``	1
 NN_VBZ
 video_is	1
-''_VBZ
-''_is	1
 VBZ_JJ
 is_hot	1
 is_crazy	1
 VBD_PRP$
 did_their	1
+NNP_VBZ
+Patty_is	1
 PRP$_NN
 their_thing	1
 VBP_NN
@@ -24,8 +22,8 @@ hot_!	1
 funny_!	1
 EX_VBP
 There_are	1
-NNP_''
-Patty_''	1
+NN_NN
+host_Fish	1
 NNS_RB
 dancers_definitely	1
 RB_VBD
@@ -42,8 +40,6 @@ This_video	1
 the_host	1
 IN_JJ
 of_sexy	1
-``_NN
-``_Fish	1
 NN_.
 video_!	1
 NN_NNP

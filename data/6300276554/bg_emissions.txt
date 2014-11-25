@@ -2,9 +2,12 @@ NNP_VB
 Disney_see	1
 CAN_be	2
 VBN_VBN
+circulated_copied	1
 been_taken	1
+been_blacklisted	1
 IN_NN
 about_slavery	1
+OF_FAMILY	1
 along_w	1
 from_Song	1
 of_love	1
@@ -21,6 +24,7 @@ of_history	1
 of_Song	2
 IN_ANY	1
 in_college	1
+for_Song	1
 for_life	1
 from_elsewhere	1
 VBP_JJS
@@ -42,11 +46,6 @@ and_magical	1
 ..._who	1
 RB_TO
 orally_to	1
-VBP_,
-do_,	1
-IN_``
-OF_``	1
-for_``	1
 VBP_.
 do_.	1
 VBP_CD
@@ -57,9 +56,8 @@ being_circulated	1
 VBN_.
 offended_.	1
 prejudiced_.	1
+blacklisted_.	1
 banned_.	2
-VBN_,
-circulated_,	1
 WDT_MD
 that_will	1
 VB_TO
@@ -84,8 +82,6 @@ even_more	1
 PRP_PRP
 me_you	1
 them_you	1
-RP_,
-up_,	1
 VBN_JJ
 sold_new	1
 been_many	1
@@ -121,8 +117,6 @@ through_its	1
 of_their	1
 in_my	1
 so_her	1
-NNS_''
-Roots_''	1
 NN_VB
 public_decide	1
 correctness_be	1
@@ -150,18 +144,19 @@ play_on	2
 hope_that	1
 JJ_PRP
 violent_you	1
-,_''
-,_''	1
+offensive_it	1
 VBD_RB
 did_not	1
 was_just	1
 was_very	1
 was_sooooo	1
 NN_DT
+violence_no	1
+release_this	1
 anything_this	1
+history_a	1
 reading_this	1
 Root_the	1
-release_this	1
 WDT_RB
 whatever_probably	1
 TO_DT
@@ -207,19 +202,20 @@ My_children	1
 our_children	1
 her_grandchildren	1
 our_mistakes	1
-RB_NNP
-yet_NEVER	1
-yet_ANOTHER	1
-N'T_RELEASE	1
-almost_WORN	1
+PRP$_NNP
+our_VHS	2
+My_Dad	1
 IN_RB
 of_kindly	1
 out_there	1
 if_not	1
 If_not	1
-VBN_DT
-enjoyed_this	1
-acquired_this	1
+WDT_VBZ
+which_remains	1
+THAT_'S	1
+THAT_IS	1
+that_has	1
+which_includes	1
 VBG_TO
 trying_to	1
 VBP_PRP
@@ -239,13 +235,13 @@ and_videotape	1
 and_nobody	1
 and_nature	1
 and_re-release	1
+and_Root	1
 and_caring	1
 VBP_PRP$
 dictate_your	1
 deprive_our	1
-VB_,
-see_,	2
-hear_,	1
+NNP_UH
+God_yes	1
 VB_.
 be_.	1
 enjoy_.	1
@@ -259,14 +255,6 @@ Uncles_such	1
 years_old	2
 FW_NNP
 Write_Disney	1
-NNP_''
-South_''	2
-ENTERTAINMENT_''	1
-Amistad_''	1
-Shaft_''	1
-Generation_''	1
-VBG_:
-telling_...	1
 DT_NNS
 the_ones	1
 all_stripes	1
@@ -319,6 +307,8 @@ a_VHS	1
 the_Next	1
 VBD_RBR
 were_more	1
+WDT_IN
+which_in	1
 VB_WRB
 see_how	1
 PRP_NN
@@ -337,8 +327,11 @@ made_this	1
 starred_some	1
 NNS_CC
 characters_and	1
+days_but	1
 careers_and	1
+songs_and	1
 grandaughters_and	1
+players_but	1
 books_and	1
 generations_and	1
 songs_but	1
@@ -347,9 +340,9 @@ multicultures_and	1
 stripes_and	1
 Aunts_and	1
 tensions_and	1
+names_or	1
 rights_and	1
-''_VBZ
-''_is	1
+Roots_and	1
 VBP_IN
 be_at	1
 agree_with	2
@@ -360,21 +353,24 @@ NN_CC
 love_and	1
 warming_and	1
 university_and	1
-book_and	2
-story_and	1
+sex_and	1
+griot_or	1
 light_and	1
 movie_and	1
 child_and	2
 video_and	1
+story_and	1
 elsewhere_and	1
 time_but	1
 grandson_and	1
 everyone_and	1
 slavery_and	1
-sex_and	1
+X_and	1
+hood_and	1
 celluloid_and	1
 DVD_and	1
 humor_and	1
+book_and	2
 WDT_PRP
 which_I	2
 whatever_you	1
@@ -390,6 +386,7 @@ what_wonderful	1
 NN_JJ
 family_oriented	1
 OR_INCORRECT	1
+friendship_great	1
 PC_mad	1
 NNP_NNS
 Chinese_subtitles	1
@@ -404,6 +401,7 @@ COME_CLOSE	1
 Next_Generation	1
 Sing-A-Long_Songs	1
 PUT_IT	1
+ENTERTAINMENT_CAN	1
 NOT_EVEN	1
 WORN_OUT	1
 Disney_Films	1
@@ -411,17 +409,21 @@ I_WAS	1
 Walt_Disney	1
 Hollywood_Disney	1
 Uncle_Remus	5
+Generation_Amistad	1
 West_Indies	1
 Michael_Eisner	2
 AND_AT	1
 ANOTHER_TERRIFIC	1
 IT_ON	1
 ANYONE_KNOWS	1
+Disney_DO	1
 THINGS_AND	1
-WHATS_WRONG	1
+DISNEY_WHATS	1
 AT_THINGS	1
 AT_YOURSELF	1
+Songs_Zip-A-Dee-Doo-Dah	1
 CAN_NOT	1
+WHATS_WRONG	1
 Mr._Willert	1
 EVEN_COME	1
 AND_I	1
@@ -432,6 +434,8 @@ OUT_NOW	1
 THIS_FILM	2
 :_RB
 ..._just	1
+VB_VBP
+please_do	1
 RP_WRB
 up_when	1
 DT_PRP
@@ -489,19 +493,20 @@ VB_WP
 know_what	1
 enjoy_what	1
 decide_what	1
+DT_.
+this_?	1
+all_.	1
 RB_WRB
 exactly_how	1
 aloud_when	1
 CD_POS
 40_'s	1
 50_'s	2
-RB_,
-too_,	1
-Unfortunately_,	1
 RB_.
 not_.	1
 much_.	1
 VBD_CC
+suffered_but	1
 sang_and	1
 VBD_CD
 was_11	1
@@ -549,10 +554,6 @@ that_I	3
 since_I	1
 though_it	1
 if_they	2
-''_.
-''_.	3
-''_,
-''_,	2
 NNS_VB
 children_learn	1
 PRP_VBD
@@ -581,10 +582,11 @@ DT_NN
 The_world	1
 This_tape	1
 a_lot	2
+a_griot	1
 THE_SOUTH	2
 a_family	1
 that_today	1
-no_matter	1
+the_hood	1
 the_university	1
 a_fan	1
 THE_NAME	1
@@ -613,6 +615,7 @@ this_tape	1
 the_film	3
 any_kind	1
 a_child	3
+no_matter	1
 a_copy	1
 a_lawsuit	1
 a_movie	1
@@ -704,10 +707,8 @@ YOU_!	1
 me_.	1
 it_.	2
 them_.	1
-PRP_,
-I_,	1
-him_,	1
-it_,	1
+IN_:
+for_:	1
 CC_VBP
 and_have	1
 NNP_WDT
@@ -723,6 +724,7 @@ and_shows	1
 NN_WRB
 day_when	1
 matter_how	1
+century_when	1
 sense_when	1
 time_when	2
 CC_VBD
@@ -738,12 +740,6 @@ and_calling	1
 CC_VBN
 and_sold	1
 and_loved	2
-JJ_,
-innocent_,	1
-patriotic_,	1
-good_,	2
-delightful_,	1
-offensive_,	1
 JJ_.
 harmful_.	1
 white_.	1
@@ -787,15 +783,11 @@ PAL_versions	1
 princess_lovers	1
 correctness_children	1
 NN_NNP
+SOUTH_AND	1
 liberal_Hollywood	1
 boy_CAN	1
 man_CAN	1
 FAMILY_ENTERTAINMENT	1
-,_JJ
-,_great	1
-,_gentle	1
-,_vulgur	1
-,_patriotic	1
 CD_CC
 72_and	1
 IN_JJS
@@ -813,8 +805,6 @@ all_should	1
 JJR_NN
 more_heart	1
 <_JUNK	1
-RB_``
-even_``	1
 VBP_VBZ
 know_is	1
 think_is	1
@@ -866,30 +856,30 @@ there_are	1
 There_are	1
 NNS_RP
 movies_out	1
-CC_``
-and_``	1
 NN_NN
+language_crap	1
+academy_award	1
+love_friendship	1
+try_eBay	1
+folktale_movie	1
+Malcom_X	1
+animals.Disney_management	1
 search_engine	1
+wisdom_humor	1
+VIDEO_!!!!	1
+conversion_service	1
+village_storyteller	1
 forest_animals.Disney	1
 video_conversion	1
+people.This_movie	1
+burning_point	1
+heart_warming	1
+film_quality	1
 ANY_WAY	1
 film_industry	1
-academy_award	1
-village_storyteller	1
-VIDEO_!!!!	1
-heart_warming	1
-try_eBay	1
-conversion_service	1
-youth_today	1
-burning_point	1
 NO_sense	1
-Malcom_X	1
-language_crap	1
-folktale_movie	1
-film_quality	1
-animals.Disney_management	1
+youth_today	1
 USA_marketing	1
-people.This_movie	1
 NNS_RB
 minutes_long	1
 perversions_yet	1
@@ -897,10 +887,6 @@ JJ_EX
 threadbare_there	1
 JJS_.
 most_.	1
-JJS_,
-most_,	1
-,_EX
-,_there	1
 DT_JJ
 the_other	1
 A_good	1
@@ -919,6 +905,7 @@ a_white	1
 each_other	1
 The_ultimate	1
 the_mickey	1
+the_bad	1
 the_orginal	1
 a_great	1
 the_old	1
@@ -964,6 +951,7 @@ movie_from	1
 copy_of	1
 tape_because	1
 fit_because	1
+format_for	1
 tape_of	1
 movie_about	3
 Song_Of	2
@@ -973,7 +961,7 @@ hate_in	1
 anthropology_at	1
 influence_on	1
 part_of	1
-fan_of	1
+release_like	1
 fantasy_from	1
 state_that	1
 movie_in	1
@@ -987,9 +975,10 @@ version_of	1
 past_if	1
 movie_for	3
 movie_as	1
-purchase_for	1
+fan_of	1
+slave_so	1
 NAME_OF	1
-format_for	1
+purchase_for	1
 sense_that	1
 story_about	1
 film_that	1
@@ -1011,8 +1000,10 @@ life_including	1
 crap_being	1
 whitebread_upbringing	1
 grandmother_trying	1
-PRP_FW
-it_tooo	1
+VBP_NNP
+LOOK_AT	1
+have_SOOOO	1
+do_Disney	1
 CC_WRB
 and_why	1
 NN_VBD
@@ -1022,6 +1013,7 @@ EVERYONE_suffered	1
 movie_were	1
 wish_was	1
 engine_brought	1
+turn_led	1
 film_was	1
 WP_PRP
 what_we	1
@@ -1061,15 +1053,19 @@ received_for	1
 learned_that	1
 was_about	1
 came_out	1
+NN_VBP
+majority_do	1
 PRP_RB
 I_just	1
 I_still	1
 it_not	1
-it_very	1
+I_now	1
 you_really	1
 them_aloud	1
-I_now	1
+it_even	1
+it_very	1
 It_never	1
+I_too	1
 they_never	1
 PRP_RP
 it_up	1
@@ -1077,10 +1073,9 @@ RB_VBZ
 Here_'s	1
 always_gets	1
 still_hopes	1
-,_WP
-,_who	1
-``_VBN
-``_blacklisted	1
+VBZ_VBG
+is_ruining	1
+'s_hoping	1
 VB_PRP
 tell_them	1
 believe_me	1
@@ -1117,10 +1112,6 @@ hugely_disappointed	1
 emotionally_attached	1
 now_deprived	1
 still_allowed	1
-NN_''
-griot_''	1
-hood_''	1
-X_''	1
 RB_VBG
 still_being	1
 RB_VBD
@@ -1128,6 +1119,8 @@ just_received	1
 never_happened	1
 really_wanted	1
 never_occurred	1
+NNS_NN
+friends_w	1
 CC_MD
 and_would	2
 and_will	1
@@ -1143,12 +1136,6 @@ is_to	1
 hopes_to	1
 POS_NNP
 's_VHS	1
-,_IN
-,_like	1
-,_of	1
-,_if	2
-,_in	1
-,_so	1
 NNS_WP
 grandsons_what	1
 customers_who	1
@@ -1161,6 +1148,7 @@ should_never	2
 can_not	1
 NN_WDT
 WOMAN_THAT	1
+college_which	1
 version_that	1
 relationship_which	1
 VB_DT
@@ -1200,6 +1188,7 @@ what_all	1
 DT_IN
 THOSE_OF	1
 Some_of	1
+all_of	1
 some_of	1
 PRP_IN
 themselves_about	1
@@ -1210,6 +1199,7 @@ me_into	1
 me_in	1
 it_into	1
 them_on	1
+him_if	1
 it_because	1
 it_in	1
 us_of	1
@@ -1221,20 +1211,10 @@ How_can	1
 how_will	1
 CC_CD
 and_50	1
-,_NN
-,_try	1
-,_friendship	1
-,_wisdom	1
-,_humor	1
 PRP$_RB
 its_almost	1
 FW_TO
 ANYONE_TO	1
-``_NNS
-``_Roots	1
-``_NNP
-``_Shaft	1
-``_Amistad	1
 RB_DT
 not_this	1
 just_a	1
@@ -1246,17 +1226,6 @@ NN_MD
 service_can	1
 videotape_might	1
 movie_should	1
-DT_``
-a_``	1
-the_``	2
-,_RB
-,_even	1
-,_too	1
-,_here	1
-VBZ_NN
-Makes_NO	1
-IS_ALL	1
-is_plenty	1
 CC_PRP
 but_us	1
 and_you	1
@@ -1279,18 +1248,16 @@ So_please	1
 never_see	1
 n't_have	1
 n't_know	1
+POS_WDT
+'s_which	1
 FW_FW
 INSANE_!!	1
 WHERE_CAN	1
 fOR_ANYONE	1
-,_``
-,_``	2
 VBZ_WP
 is_what	1
-,_VBD
-,_led	1
-IN_VBG
-about_offending	1
+VBG_:
+telling_...	1
 NNS_.
 homes_.	1
 songs_?	1
@@ -1299,19 +1266,6 @@ players_.	1
 gems_.	1
 classics_.	1
 grandchildren_.	1
-,_VBN
-,_copied	1
-NNS_,
-names_,	1
-days_,	1
-people_,	1
-consumers_,	1
-players_,	1
-songs_,	1
-actors_,	1
-,_VBP
-,_am	1
-,_do	2
 VBD_NNS
 had_Aunts	1
 VBD_NNP
@@ -1354,12 +1308,10 @@ other_classics	1
 awsome_movies	1
 new_generations	1
 unappropriate_movies	1
+VB_VB
+hear_see	1
 JJ_NNP
 only_Disney	1
-''_CC
-''_but	1
-''_and	3
-''_or	1
 VBG_PRP
 making_it	1
 reading_them	1
@@ -1385,11 +1337,11 @@ want_your	1
 show_my	1
 til_its	1
 open_their	1
-._.
-!_.	2
-._.	7
+NNP_EX
+Willert_there	1
 JJ_DT
 available_any	1
+patriotic_no	1
 such_a	1
 RB_CC
 ahead_and	1
@@ -1421,21 +1373,8 @@ will_play	1
 should_hear	1
 would_celebrate	1
 should_re-release	1
-NNS_IN
-children_of	2
-types_of	1
-songs_that	1
-years_since	1
-mistakes_in	1
-friends_with	1
-copies_of	1
-movies_so	1
-songs_on	1
-customers_for	1
-folks_in	1
-subtitles_for	1
-movies_out	1
-kids_on	1
+RB_CD
+only_15	1
 VB_VBN
 be_prejudiced	1
 be_viewed	1
@@ -1446,15 +1385,14 @@ be_banned	1
 be_had	1
 VB_VBG
 stop_making	1
-,_DT
-,_a	3
-,_both	2
-,_no	2
-,_that	1
-VB_VBP
-please_do	1
-UH_,
-yes_,	1
+NNS_DT
+actors_both	1
+consumers_a	1
+people_a	1
+VBZ_NN
+Makes_NO	1
+IS_ALL	1
+is_plenty	1
 TO_JJ
 to_Political	1
 VBP_DT
@@ -1473,6 +1411,21 @@ used_to	1
 proceeded_to	1
 NNS_POS
 children_'s	1
+NNS_IN
+children_of	2
+types_of	1
+songs_that	1
+years_since	1
+mistakes_in	1
+friends_with	1
+copies_of	1
+movies_so	1
+songs_on	1
+customers_for	1
+folks_in	1
+subtitles_for	1
+movies_out	1
+kids_on	1
 NN_:
 today_...	1
 w_/	2
@@ -1484,29 +1437,6 @@ management_...	1
 movie_-	1
 NNP_JJ
 Disney_afraid	1
-,_WRB
-,_when	1
-NN_,
-history_,	1
-SOUTH_,	1
-release_,	1
-violence_,	1
-wisdom_,	1
-turn_,	1
-love_,	1
-minority_,	1
-friendship_,	1
-college_,	1
-century_,	1
-majority_,	1
-slave_,	1
-``_NN
-``_Song	2
-``_Root	1
-``_FAMILY	1
-``_griot	1
-``_Malcom	1
-``_hood	1
 NN_.
 way_.	1
 viewing_.	1
@@ -1540,20 +1470,13 @@ history_?	1
 movie_.	4
 business_.	1
 reputation_.	1
-WDT_VBZ
-which_remains	1
-THAT_'S	1
-THAT_IS	1
-that_has	1
-which_includes	1
-POS_,
-'s_,	2
+VBN_DT
+enjoyed_this	1
+acquired_this	1
 WDT_VBP
 that_be	1
 that_are	1
 THAT_THIS	1
-,_VB
-,_see	1
 VBP_VB
 are_criticize	1
 PRP_CC
@@ -1561,14 +1484,8 @@ me_or	1
 it_or	1
 WDT_VBD
 THAT_LOVED	1
-WDT_,
-which_,	1
-DT_,
-another_,	1
-all_,	1
-DT_.
-this_?	1
-all_.	1
+UH_DT
+yes_that	1
 VBG_RP
 blowing_up	1
 NNS_NNS
@@ -1634,8 +1551,6 @@ NNS_WRB
 stories_when	1
 years_where	1
 gays_when	1
-``_JJ
-``_bad	1
 NNP_IN
 Zip-A-Dee-Doo-Dah_from	1
 England_in	1
@@ -1649,14 +1564,15 @@ Disney_on	1
 FW_.
 !!_.	1
 tooo_!	1
-NNS_NN
-friends_w	1
-,_PRP
-,_it	1
-,_I	1
-PRP$_NNP
-our_VHS	2
-My_Dad	1
+IN_VBG
+about_offending	1
+RB_NNP
+yet_NEVER	1
+almost_WORN	1
+Unfortunately_Eisner	1
+yet_ANOTHER	1
+even_Shaft	1
+N'T_RELEASE	1
 JJ_CC
 smart_and	1
 sickening_and	1
@@ -1673,6 +1589,7 @@ kind_and	1
 old_and	2
 timeless_and	1
 free_but	1
+good_but	1
 CD_.
 one_.	1
 13_.	1
@@ -1695,11 +1612,13 @@ treated_kindly	1
 NNP_NN
 Disney_management	1
 TERRIFIC_purchase	1
-Ridge_reading	1
+Amistad_Malcom	1
+Remus_story	1
 VHS_form	1
 Disney_book	1
 ON_VIDEO	1
-Remus_story	1
+Amazon_try	1
+Ridge_reading	1
 VHS_copy	1
 VBZ_RB
 is_not	2
@@ -1716,6 +1635,9 @@ TO_PRP
 to_us	1
 TO_PRP$
 to_their	1
+._.
+!_.	2
+._.	7
 VBN_RP
 taken_off	1
 DT_RBS
@@ -1725,8 +1647,6 @@ grandchildren_can	1
 hearts_can	1
 children_should	1
 generations_can	1
-VBN_''
-blacklisted_''	1
 RB_IN
 once_in	1
 back_on	1
@@ -1747,6 +1667,8 @@ DT_CD
 this_one	1
 the_50	1
 the_40	1
+DT_CC
+another_and	1
 RP_DT
 off_the	1
 up_the	1
@@ -1758,47 +1680,32 @@ feel_hugely	1
 do_not	1
 do_n't	5
 are_now	1
-''_NNP
-''_CAN	1
-NNP_,
-South_,	1
-Disney_,	1
-Willert_,	1
-DISNEY_,	1
-God_,	1
-Amazon_,	1
-Songs_,	1
-Zip-A-Dee-Doo-Dah_,	1
-Ridge_,	1
 NNP_.
-South_.	1
+South_.	2
 Africa_.	1
 OUT_!	1
 Europe_!	1
 Eisner_.	2
+Shaft_.	1
 Disney_.	1
 FILM_!	2
 YOURSELF_.	1
 SO_.	1
 KNOWS_?	1
-VBZ_VBG
-is_ruining	1
-'s_hoping	1
 POS_CC
-'s_and	1
+'s_and	2
 NNP_WRB
 London_when	1
 VBG_NN
 offending_anyone	1
 enchanting_film	1
-RB_CD
-only_15	1
 NNP_:
 Disney_-	1
 RB_VBP
 now_have	1
 yet_deprive	1
 still_hum	1
+too_am	1
 RB_NN
 completely_PC	1
 NNS_TO
@@ -1813,22 +1720,24 @@ twin_3yr	1
 such_awsome	1
 3yr_old	1
 such_great	1
+delightful_gentle	1
 great_classic	1
+innocent_patriotic	1
 35-year_interracial	1
 VBN_PRP
 found_it	1
 WRB_JJ
 how_pure	1
-,_CC
-,_and	4
-,_or	1
-,_but	4
+RP_JJ
+up_vulgur	1
 VB_NN
 know_it.Maybe	1
 please_go	1
 pass_tradition	1
 please_everyone	1
 re-release_botht	1
+NN_WP
+minority_who	1
 PRP_TO
 them_to	1
 it_to	1
@@ -1864,6 +1773,7 @@ VBD_PRP$
 took_my	1
 got_our	1
 JJS_IN
+most_if	1
 most_of	1
 NNS_VBG
 movies_showing	1
@@ -1879,24 +1789,18 @@ NNS_VBN
 songs_made	1
 movies_produced	1
 WORDS_INSTEAD	1
-,_UH
-,_yes	1
 VBP_NNS
 PREFER_WORDS	1
 're_parents	1
 sponser_gays	1
-VBP_NNP
-LOOK_AT	1
-have_SOOOO	1
+PRP_FW
+it_tooo	1
 NN_WP$
 storyteller_whose	1
 NN_PDT
 re-release_all	1
 POS_JJ
 's_beautiful	1
-VBN_``
-made_``	1
-been_``	1
 VBD_VBN
 was_banned	2
 were_treated	1
@@ -1932,7 +1836,10 @@ pirated_version	1
 lost_touch	1
 NNP_RB
 Land_speacially	1
+Zip-A-Dee-Doo-Dah_here	1
 DO_N'T	1
+NNP_VBP
+Ridge_do	1
 :_PRP
 -_it	1
 :_we	1
@@ -1947,6 +1854,7 @@ loved_and	1
 NNP_VBZ
 Eisner_is	1
 South_has	1
+South_is	1
 Remus_is	1
 VB_JJ
 be_afraid	1
@@ -1978,10 +1886,11 @@ WDT_DT
 which_the	1
 NN_JJR
 JUNK_>	1
-VBG_NNP
-ruining_Disney	1
-VBD_,
-suffered_,	1
+CC_NNP
+or_Chinese	1
+but_SONG	1
+and_Disney	1
+And_Tom	1
 VBD_.
 happened_?	1
 wanted_.	1
@@ -2025,8 +1934,6 @@ such_as	1
 VBG_JJ
 being_beaten	1
 depicting_racial	1
-IN_:
-for_:	1
 VBZ_DT
 's_a	2
 depicts_the	1
@@ -2050,30 +1957,24 @@ will_children	1
 VB_CD
 love_one	1
 VB_CC
-see_and	1
+see_and	2
+see_but	1
 admire_and	1
 relent_and	1
 make_and	1
 sit_and	1
 share_and	1
 NNP_DT
+South_both	1
 Christmas_a	1
 RP_IN
 out_that	1
 up_with	1
 up_in	1
-,_NNP
-,_Disney	1
-,_Eisner	1
-,_DO	1
-,_AND	1
-,_Zip-A-Dee-Doo-Dah	1
-,_WHATS	1
-CC_NNP
-or_Chinese	1
-but_SONG	1
-and_Disney	1
-And_Tom	1
+VBN_NNS
+made_Roots	1
+VBG_NNP
+ruining_Disney	1
 CC_NNS
 and_Uncles	1
 and_multihistories	1
@@ -2083,8 +1984,6 @@ is_about	1
 is_that	1
 shows_that	1
 seems_that	1
-,_WDT
-,_which	2
 JJ_NN
 mistaken_belief	1
 Political_Correctness	1
@@ -2136,6 +2035,7 @@ GREAT_ITEM	1
 right_happiness	1
 wonderful_movie	1
 positive_relationship	1
+good_wisdom	1
 19th_century	1
 briar_patch	1
 interracial_relationship	1

@@ -1,6 +1,10 @@
+POS_NNP
+'s_Forbidden	1
+'s_Crimewave	1
 IN_NN
 in_case	2
 in_color	1
+of_coherency	1
 of_manhood	1
 On_top	1
 of_director	1
@@ -8,37 +12,32 @@ of_beefcake	1
 in_3d	1
 on_video	1
 of_film	1
-,_IN
-,_with	1
-,_in	2
-,_because	2
-,_that	2
+VBN_VBN
+been_shortened	1
 JJ_IN
 charming_in	1
 white_with	1
 ashamed_of	1
+competent_because	1
 many_of	2
 much_as	1
 first_out	1
-JJ_:
-good_...	1
+NNS_WDT
+extras_which	1
 CD_WRB
 1989_when	1
-``_JJ
-``_dumb-ass	1
-``_deleted	2
-``_lost	1
-``_professional-feeling	1
-``_new	1
-,_NN
-,_incoherency	1
+VBN_VBG
+heard_including	1
 DT_VBP
 the_gore	1
-VBN_VBN
-been_shortened	1
+VBP_TO
+hate_to	1
+want_to	1
 NNP_IN
 First_off	1
 Xenon_for	1
+Crimewave_as	1
+Johnson_that	1
 DT_NNS
 the_1980s	1
 some_scenes	1
@@ -49,6 +48,7 @@ VBP_CC
 gore_and	1
 JJR_JJ
 more_competent	1
+more_professional-feeling	1
 CC_JJ
 and_stupid	1
 and_cheap	1
@@ -80,21 +80,20 @@ save_the	1
 appreciate_the	1
 promote_some	1
 get_a	1
-DT_.
-all_.	2
+RB_WRB
+Then_when	1
 RB_TO
 enough_to	1
 ostensibly_to	1
 CD_POS
 50_'s	1
-RB_,
-closely_,	1
-not_,	1
-however_,	2
-though_,	1
-unfortunately_,	1
-Then_,	1
-So_,	1
+IN_VBG
+from_exercising	1
+for_putting	1
+for_wrecking	1
+After_seeing	1
+of_watching	1
+After_viewing	1
 IN_VBD
 in_was	1
 RB_.
@@ -102,11 +101,6 @@ once_.	1
 now_?	1
 elsewhere_.	1
 entirely_.	1
-VBP_,
-understand_,	1
-IN_``
-into_``	1
-of_``	2
 CC_JJS
 and_most	1
 VBZ_JJ
@@ -122,10 +116,8 @@ has_such	1
 is_borderline	1
 VBP_CD
 own_three	1
-,_WRB
-,_when	1
-''_DT
-''_a	1
+RB_VBG
+not_viewing	1
 NN_TO
 selection_to	1
 humor_to	1
@@ -141,26 +133,25 @@ some_of	2
 PRP_IN
 him_from	1
 it_at	1
-RP_TO
-in_to	1
-down_to	1
+RBR_JJ
+more_extra	1
 CC_RB
 and_totally	1
 VBG_.
 dreaming_.	1
-VBN_,
-shortened_,	1
-heard_,	1
-UH_VB
-Please_give	1
 JJ_CC
+special_and	1
 high_and	1
 boring_and	1
 sarcastic_and	1
-untimely_and	1
+inept_and	1
+little_but	1
+couquetish_and	1
 black_and	1
+clever_but	1
 never-before-seen_or	1
 young_and	1
+untimely_and	1
 VB_JJR
 watch_more	1
 WRB_PRP
@@ -176,15 +167,10 @@ PRP$_JJ
 its_initial	1
 their_infinite	1
 my_favorite	1
-VBZ_DT
-has_a	1
-'s_a	1
-holds_this	1
-has_the	1
-takes_the	1
-makes_the	1
-IN_WP
-of_whom	1
+PRP_PRP
+it_he	1
+it_I	1
+it_you	1
 CC_TO
 and_to	1
 but_to	1
@@ -195,6 +181,7 @@ at_it	1
 that_you	1
 of_it	1
 like_they	2
+off_I	1
 than_I	1
 If_you	3
 because_I	1
@@ -202,23 +189,16 @@ that_he	1
 if_they	1
 of_themselves	1
 VBN_CC
+shortened_or	1
 edited_and	1
 WRB_VBZ
 where_is	1
 NNP_WP
+Types_who	1
 VA_who	1
 Deputy_who	1
-IN_VBG
-from_exercising	1
-for_putting	1
-for_wrecking	1
-After_seeing	1
-of_watching	1
-After_viewing	1
 VBN_CD
 been_one	1
-PDT_DT
-all_the	1
 :_WRB
 :_where	1
 POS_NN
@@ -278,6 +258,7 @@ a_place	1
 the_part	1
 a_lot	1
 the_evisceration	1
+those_cult	1
 the_cake	1
 a_ploy	1
 This_DVD	1
@@ -320,19 +301,13 @@ whose_untimely	1
 RP_.
 out_.	2
 out_!	1
-RP_,
-out_,	1
 DT_VBG
 the_missing	2
 VBN_RP
 slowed_down	1
 cut_out	1
-``_NNP
-``_Crimewave	1
-``_Forbidden	1
-``_Dr.	1
-``_Hollywood	1
-``_Max	1
+VBN_JJ
+seen_many	1
 PRP_VBP
 me_want	1
 you_do	1
@@ -357,11 +332,14 @@ wears_out	1
 RB_DT
 perhaps_the	1
 almost_all	1
+Else_a	1
+unfortunately_the	1
 DT_VBN
 the_deleted	1
 this_edited	1
 PRP_JJ
 me_real	1
+it_many	1
 it_special	1
 TO_VBP
 to_censor	1
@@ -378,43 +356,33 @@ it_'s	4
 It_'s	3
 FW_PRP
 !!!_I	1
-VBG_RB
-missing_entirely	1
+NNP_CC
+VHS_and	1
+Zone_and	1
+VanArsdale_and	1
 NNP_CD
 VHS_two	1
 VanArsdale_one	1
-NNP_``
-Wilson_``	1
-A.K.A._``	1
-,_JJR
-,_more	1
 RB_VBZ
+however_contains	1
+Else_has	1
 just_ooozes	1
-IN_,
-off_,	1
-DT_``
-The_``	1
-the_``	2
-those_``	2
+PDT_DT
+all_the	1
+VBD_JJR
+made_more	1
 RB_IN
 later_as	1
 back_in	1
 there_at	1
+however_that	1
 just_in	2
 Even_if	1
 there_with	1
 much_as	1
+though_because	1
 VBG_IN
 appearing_on	1
-,_RB
-,_though	1
-,_completely	1
-,_simply	1
-,_however	2
-,_ostensibly	1
-,_unfortunately	1
-PRP_PRP
-it_he	1
 DT_CD
 the_three	1
 the_50	1
@@ -427,18 +395,24 @@ RP_DT
 down_the	2
 away_any	1
 VBP_RB
-watch_closely	1
 have_either	1
-do_n't	2
 look_elsewhere	1
+watch_closely	1
+understand_however	1
+do_n't	2
 are_not	1
-``_DT
-``_The	1
+RB_VB
+ever_imagine	1
+even_exist	1
+quite_get	1
+simply_turn	1
+n't_throw	1
+n't_believe	1
+ever_be	1
+not_save	1
 PRP_.
 I_.	1
 themselves_.	1
-PRP_,
-it_,	4
 IN_PRP$
 of_your	1
 for_my	1
@@ -446,25 +420,11 @@ after_its	1
 of_my	4
 in_my	1
 in_their	1
-NNS_''
-scenes_''	1
-RBR_JJ
-more_extra	1
-''_NNP
-''_A.K.A.	1
-''_Norris	1
-''_NNS
-''_movies	1
-''_scenes	1
 IN_JJ
 of_many	1
 on_high	1
+into_deleted	1
 in_black	1
-NNP_,
-VanArsdale_,	1
-Johnson_,	1
-Hassler_,	2
-Quinn_,	1
 NNP_.
 PRICELESS_.	1
 Norris_.	1
@@ -474,8 +434,6 @@ and_has	1
 but_has	1
 NN_WRB
 luck_when	1
-:_VBZ
-..._maintains	1
 IN_IN
 out_on	1
 As_for	1
@@ -486,12 +444,16 @@ your_life	1
 its_status	1
 His_popcorn	1
 my_heart	2
-VBN_JJ
-seen_many	1
+RP_TO
+in_to	1
+down_to	1
 CC_VBD
 and_failed	1
 and_watched	1
 and_made	1
+JJ_RB
+stupid_completely	1
+odd_though	1
 VB_IN
 imagine_for	1
 believe_that	1
@@ -502,33 +464,20 @@ VBZ_WP
 is_what	1
 VB_PDT
 see_all	1
+JJ_VBG
+new_pertaining	1
 JJ_PRP
 glad_I	1
 glad_you	1
 CC_VBN
 and_censored	1
 or_heard	1
-JJ_,
-amateurish_,	1
-competent_,	1
-stupid_,	1
-unfunny_,	1
-clever_,	1
-odd_,	1
-inept_,	1
-couquetish_,	1
-special_,	1
-little_,	1
-:_VBN
-..._created	1
 JJ_.
 extra_.	1
 hilarious_.	1
 amazing_.	1
 cool_.	1
 great_.	2
-,_VBD
-,_decided	1
 VBD_RB
 did_n't	1
 demonstrated_later	1
@@ -550,6 +499,7 @@ made_into	1
 heard_of	1
 NNS_.
 favorites_.	1
+scenes_.	1
 parties_.	1
 props_.	1
 friends_.	1
@@ -557,15 +507,6 @@ films_.	1
 versions_.	1
 copies_.	1
 actors_.	1
-NNS_,
-extras_,	1
-things_,	1
-films_,	2
-viewers_,	1
-producers_,	1
-actors_,	1
-,_VBP
-,_bless	1
 TO_DT
 to_this	1
 to_the	2
@@ -583,8 +524,6 @@ does_.	1
 NNS_:
 copies_...	1
 1980s_:	1
-VBZ_,
-is_,	1
 NNS_TO
 people_to	1
 VBN_NN
@@ -597,7 +536,7 @@ part-time_actors	1
 special_effects	1
 old_copies	1
 other_shots	1
-deleted_scenes	4
+deleted_scenes	5
 fond_memories	1
 Particular_favorites	1
 fine_people	1
@@ -620,6 +559,8 @@ VBP_.
 do_.	1
 have_.	1
 JJ_JJ
+amateurish_boring	1
+unfunny_amateurish	1
 many_other	1
 other_small	1
 unemployed_part-time	1
@@ -636,41 +577,37 @@ who_holds	1
 who_looks	1
 VBN_PRP
 bought_it	1
-RB_VBG
-not_viewing	1
-''_CC
-''_and	2
 NNS_DT
 Thanks_a	1
 VB_NNS
 get_people	1
-,_CC
-,_and	8
-,_or	1
-,_but	7
 VB_NN
 chop_shop	1
 see_something	1
 Thank_god	1
+IN_WP
+of_whom	1
 NN_NNS
-cult_movies	1
-,_,
-,_,	2
+cult_movies	2
+DT_VB
+the_chop	1
 VBZ_JJR
 is_more	1
 NN_NNP
 actor_William	1
 director_Howard	1
-investigator_Wilson	1
+star_William	1
 director_Hassler	1
-JJR_``
-more_``	1
+assistant_Tim	1
+investigator_Wilson	1
 VBD_NNS
 quoted_lines	1
 had_parties	1
 DT_RB
 a_little	1
 the_highly	1
+UH_NN
+alas_incoherency	1
 PRP$_NNS
 my_favorites	1
 my_friends	2
@@ -682,16 +619,15 @@ CC_NN
 but_rumor	1
 and_editing	1
 and_crew	1
-VBP_TO
-hate_to	1
-want_to	1
-,_PRP$
-,_my	1
+JJ_:
+good_...	1
 NN_PRP
 psychiatrist_it	1
 editing_it	1
-version_I	1
+version_I	2
 life_you	1
+comedy_it	1
+pastry_you	1
 movie_you	1
 3d_it	1
 movie_itself	1
@@ -739,8 +675,6 @@ can_see	1
 may_be	1
 VBD_WP
 was_what	1
-,_VBZ
-,_contains	1
 NN_WP
 someone_who	1
 NNS_VBP
@@ -772,13 +706,16 @@ you_will	1
 You_will	1
 I_could	1
 you_can	1
-,_DT
-,_this	1
-,_the	2
+._.
+._.	1
+NNP_DT
+A.K.A._The	1
+Hassler_the	1
 VBP_VBN
 've_enjoyed	1
 have_saved	1
 NN_NN
+footage_selection	1
 theatrical_release	1
 secretary_scene	1
 DVD_release	2
@@ -797,28 +734,22 @@ has_more	1
 VB_.
 get_.	1
 exist_.	1
-CD_PRP
-one_I	1
+RP_RB
+up_there	1
+out_almost	1
 VBN_.
 broken_.	1
 gone_.	1
-POS_``
-'s_``	2
 JJ_TO
 impossible_to	1
-,_VBG
-,_including	1
 VBZ_NN
 ooozes_sensuality	1
 is_nobody	1
-,_UH
-,_alas	1
 VBP_RP
 censor_out	1
-UH_,
-alas_,	1
 NNS_JJ
 extras_never-before-seen	1
+words_dumb-ass	1
 VBP_DT
 are_the	1
 make_all	1
@@ -829,8 +760,8 @@ enjoy_a	1
 liken_the	1
 wish_the	1
 Get_A	1
-._.
-._.	1
+RP_CC
+out_but	1
 :_CC
 ..._and	2
 VBD_TO
@@ -840,18 +771,10 @@ wanted_to	1
 used_to	1
 NN_FW
 DVD_!!!	1
-RP_RB
-up_there	1
-out_almost	1
-NNP_''
-Types_''	1
-Zone_''	1
-Max_''	1
-Crimewave_''	2
-Woman_''	1
-''_VBG
-''_including	1
-''_pertaining	1
+CD_PRP
+one_I	1
+NNP_WP$
+Hassler_whose	1
 VBP_VBG
 are_missing	1
 NNS_RB
@@ -859,36 +782,33 @@ back-ups_just	1
 IN_NNP
 with_Richard	1
 on_VHS	2
+of_Dr.	1
 at_Xenon	1
 with_Chris	1
 DT_NNP
 The_Big	1
+those_Hollywood	1
 the_Deputy	1
 all_PRICELESS	1
-''_IN
-''_as	1
-''_for	1
-''_by	1
-,_JJ
-,_boring	1
-,_many	1
-,_amateurish	1
-,_unfunny	1
+NNS_NNS
+producers_directors	1
+actors_producers	1
 DT_JJ
 the_finer	1
 a_bad	1
 the_underlying	1
 these_other	1
 the_incisive	1
-the_reclusive	1
+an_inside	1
 the_executive	1
 This_execrable	1
-an_inside	1
+the_reclusive	1
 The_full	1
+The_lost	1
 the_stylistic	1
 the_excessive	1
 any_old	1
-the_deleted	3
+the_deleted	4
 an_old	1
 no_other	1
 a_little	1
@@ -904,8 +824,6 @@ the_first	1
 a_tasty	1
 these_low	1
 some_other	1
-NNP_CC
-VHS_and	1
 VBD_VBN
 was_tempted	1
 were_shot	1
@@ -920,8 +838,6 @@ was_no	1
 rented_this	1
 was_the	1
 were_all	1
-``_VB
-``_chop	1
 NN_:
 crew_...	1
 film_...	1
@@ -929,13 +845,14 @@ sunset_...	1
 NNS_CC
 friends_and	1
 directors_and	1
+things_but	1
 shots_and	1
 sets_and	1
 moviemakers_and	1
+films_but	1
+films_and	1
 scenes_and	1
 lines_and	1
-,_WP$
-,_whose	1
 VBD_PRP
 put_it	1
 wished_I	1
@@ -949,24 +866,8 @@ was_dreaming	1
 CC_VB
 and_send	1
 and_edit	1
-NN_,
-release_,	2
-wisdom_,	1
-DVD_,	1
-star_,	1
-version_,	1
-Life_,	1
-doctor_,	1
-nudity_,	1
-cake_,	1
-pastry_,	1
-Somebody_,	1
-movie_,	3
-comedy_,	1
-assistant_,	1
-``_NN
-``_cult	1
-``_coherency	1
+VBG_RB
+missing_entirely	1
 NN_.
 release_.	1
 title_.	1
@@ -985,8 +886,6 @@ viewer_.	1
 time_.	1
 film_.	1
 production_.	1
-NNS_``
-words_``	1
 NNS_VBD
 scenes_were	2
 NN_IN
@@ -996,33 +895,39 @@ fault_of	1
 Shot_in	1
 evisceration_of	1
 heart_that	1
+screen_in	1
 scence_in	1
 pacing_of	1
-lot_for	1
+joke_that	1
 quirkiness_of	1
 laugh_from	1
-screen_in	1
+shop_by	1
 parody_of	1
-movie_like	1
+Life_with	1
 producer_of	1
 part_of	2
+coherency_for	1
 wit_of	1
 movie_after	1
-joke_that	1
+Somebody_in	1
 sense_of	1
 god_for	1
 version_on	1
 version_of	3
+movie_like	1
 control_over	1
 top_of	1
 ineptitude_of	1
 film_on	1
 use_of	1
 status_of	1
+lot_for	1
 JJR_IN
 less_than	1
 more_like	1
 more_than	2
+NNP_VBG
+Woman_including	1
 POS_:
 's_...	1
 VBN_DT
@@ -1044,6 +949,7 @@ stars_because	1
 copies_of	1
 scenes_on	2
 copies_on	1
+viewers_in	1
 memories_of	1
 scenes_from	1
 VBD_:
@@ -1053,6 +959,11 @@ movies_you	1
 scenes_they	1
 NN_CC
 critic_and	1
+nudity_and	1
+DVD_but	1
+movie_and	1
+doctor_but	1
+sidekick_and	1
 goldfish_or	1
 NNS_VBN
 bits_cut	1
@@ -1074,16 +985,13 @@ to_make	2
 NN_VBG
 commentary_including	1
 manhood_appearing	1
-NN_``
-something_``	1
 NN_VBD
 DVD_was	1
-heart_was	1
-incoherency_was	1
 incarceration_prevented	1
 original_was	1
-VBD_,
-made_,	1
+incoherency_was	1
+wisdom_decided	1
+heart_was	1
 NN_VBZ
 DVD_is	1
 movie_does	1
@@ -1098,18 +1006,15 @@ rumor_has	1
 film_is	1
 VBD_.
 failed_.	1
-''_VBZ
-''_has	1
-''_NN
-''_selection	1
-''_version	1
 VBG_NNS
 missing_scenes	2
 RB_RB
 almost_as	1
 Somewhere_Else	2
 n't_quite	1
+So_unfortunately	1
 not_there	1
+not_simply	1
 n't_even	1
 as_much	1
 DT_JJS
@@ -1118,18 +1023,14 @@ VBD_IN
 stumbled_upon	1
 saw_on	1
 Came_From	2
+PRP_CC
+it_and	1
 NN_VBP
 show_Get	1
 series_look	1
-RB_VB
-ever_imagine	1
-even_exist	1
-quite_get	1
-simply_turn	1
-n't_throw	1
-n't_believe	1
-ever_be	1
-not_save	1
+release_bless	1
+WDT_VBD
+which_were	1
 PRP_CD
 it_two	1
 NNP_POS
@@ -1144,10 +1045,10 @@ movie_back	1
 budget_enough	1
 movie_almost	1
 movie_ever	1
+movie_ostensibly	1
 film_somewhat	1
+release_however	1
 scene_just	1
-RB_''
-Else_''	2
 PRP_RB
 I_usually	1
 I_still	1
@@ -1156,27 +1057,30 @@ I_first	1
 it_as	1
 I_only	1
 he_now	1
-DT_,
-all_,	1
-WDT_VBD
-which_were	1
+DT_.
+all_.	2
 VBG_JJ
 exercising_personal	1
-,_PRP
-,_it	1
-,_I	3
-,_you	3
-CC_,
-But_,	1
+CC_UH
+But_alas	1
 NN_JJ
 something_extra	1
+something_new	1
+cake_unfunny	1
 grade_crappy	1
-``_PRP
-``_It	2
+VBZ_DT
+has_a	1
+'s_a	1
+holds_this	1
+has_the	1
+takes_the	1
+makes_the	1
 PRP_RP
 it_out	2
 it_up	1
 it_down	1
+VBZ_NNP
+is_Mrs.	1
 NNP_NNS
 VHS_copies	1
 VHS_versions	1
@@ -1185,19 +1089,23 @@ Medicine_Woman	1
 Dr._Quinn	1
 William_VanArsdale	2
 Howard_Hassler	1
+Quinn_Medicine	1
+Richard_Elfman	1
 Tim_Johnson	1
 John_Paiz	1
+Max_Norris	1
 Chris_Elliott	1
 Mrs._VA	1
 Forbidden_Zone	1
-Richard_Elfman	1
+Crimewave_A.K.A.	1
+Wilson_Max	1
 Hollywood_Types	1
 Big_Crimewave	1
-NNP_VBD
-Ive_seen	1
 VBP_NN
 are_something	1
 are_part	1
+NN_PRP$
+movie_my	1
 :_RB
 ..._just	1
 RB_JJ
@@ -1212,13 +1120,10 @@ truly_amazing	1
 also_low	1
 CC_VBP
 or_are	1
-JJ_''
-professional-feeling_''	1
-new_''	1
-deleted_''	1
 VB_PRP
 Check_it	1
 see_them	1
+find_It	1
 give_me	1
 RB_VBP
 still_have	1
@@ -1231,10 +1136,10 @@ VBZ_VBN
 is_hidden	1
 VBZ_PRP$
 maintains_its	1
-''_WP
-''_who	1
-VB_``
-find_``	1
+:_VBZ
+..._maintains	1
+DT_DT
+all_this	1
 PRP_VBN
 them_gone	1
 RB_VBN
@@ -1245,14 +1150,8 @@ never_bought	1
 already_seen	1
 ever_heard	1
 then_made	1
-''_.
-''_.	1
-NN_''
-footage_''	1
-shop_''	1
-sidekick_''	1
-cult_''	1
-coherency_''	1
+NNP_VBD
+Ive_seen	1
 VB_CD
 buy_three	1
 VBG_DT
@@ -1261,6 +1160,7 @@ viewing_the	1
 including_the	2
 RB_PRP
 So_I	1
+closely_you	1
 Also_I	1
 RB_VBD
 ever_made	1
@@ -1278,25 +1178,19 @@ CD_JJS
 three_greatest	1
 VBN_TO
 tempted_to	1
-,_NNP
-,_Medicine	1
-,_Tim	1
-,_Mrs.	1
-,_William	1
+:_VBN
+..._created	1
 CC_NNP
 and_John	1
 CC_NNS
 and_extras	1
 and_bits	1
 and_props	1
-,_NNS
-,_producers	1
-,_directors	1
+UH_VB
+Please_give	1
 VBZ_IN
 Looks_like	1
 seems_like	1
-,_WDT
-,_which	1
 :_.
 ..._.	1
 VB_RP
@@ -1343,6 +1237,7 @@ low_budget	1
 Toxic_Avenger	1
 borderline_blasphemy	1
 personal_control	1
+professional-feeling_version	1
 excessive_use	1
 cheap_sex	1
 clever_comedy	1

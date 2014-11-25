@@ -81,12 +81,12 @@ being_bombarded	1
 Having_watched	1
 VBP_JJR
 are_better	1
+NNS_PRP$
+comedies_My	1
 VBN_VBG
 been_talking	1
 VBG_VBD
 Having_said	1
-JJS_''
-best_''	1
 VBG_VBZ
 marrying_is	1
 CC_JJ
@@ -138,6 +138,8 @@ and_comedic	1
 and_sad	1
 and_engaging	1
 or_current	1
+VBN_VBZ
+married_tries	1
 RB_TO
 back_to	1
 only_to	2
@@ -156,15 +158,6 @@ married_;	1
 married_...	1
 hooked_-	1
 Unveiled_:	1
-VBP_,
-mean_,	2
-want_,	2
-sap_,	1
-please_,	1
-IN_``
-as_``	1
-of_``	4
-for_``	2
 VBP_.
 am_!	1
 POS_CC
@@ -173,6 +166,10 @@ VBP_CD
 am_one	1
 VBP_CC
 are_both	1
+sap_but	1
+want_and	1
+want_but	1
+please_but	1
 VBN_VBD
 purchased_was	1
 ordered_got	1
@@ -186,6 +183,7 @@ concerned_.	1
 solved_.	1
 Surprised_.	1
 revealed_.	1
+jello_.	1
 entertained_.	2
 made_.	1
 said_.	1
@@ -193,17 +191,6 @@ missed_.	1
 Recommended_.	1
 had_.	1
 seen_!	1
-VBN_,
-told_,	1
-paced_,	1
-dated_,	1
-Granted_,	1
-played_,	1
-seen_,	1
-married_,	3
-backfired_,	1
-executed_,	1
-touched_,	1
 VB_JJS
 stay_best	1
 VB_JJR
@@ -216,6 +203,7 @@ CC_TO
 and_to	3
 but_to	2
 DT_PRP
+that_it	2
 some_she	1
 all_she	1
 VBZ_CD
@@ -229,18 +217,23 @@ is_one	4
 becomes_one	1
 has_5	1
 VBZ_CC
-is_both	1
+is_but	1
 finds_and	1
 incorporates_both	1
+makes_but	1
+is_both	1
+is_and	1
+exploits_but	1
 NNS_WDT
 interludes_which	1
 differences_that	1
 LINES_THAT	1
+movies_that	1
 actresses/actors_that	1
 WRB_TO
 how_to	1
 DT_FW
-an_ex	1
+an_ex	2
 RB_JJR
 much_larger	1
 only_more	1
@@ -252,8 +245,6 @@ what_was	1
 who_used	1
 who_did	3
 who_had	1
-''_MD
-''_should	1
 RP_.
 down_.	1
 around_.	1
@@ -264,8 +255,6 @@ up_!	1
 off_.	1
 out_?	1
 up_.	4
-RP_,
-in_,	1
 VBN_JJ
 cultivated_gay	1
 left_many	1
@@ -304,30 +293,39 @@ who_sees	1
 who_likes	2
 who_alternates	1
 what_is	2
-VBG_CD
-approaching_thirty	1
 NNP_CC
 Evert_and	1
+Michael_but	2
+Roberts_but	2
 Mulroney_and	2
-Diaz_and	5
+Diaz_and	7
+Hopin_and	1
 Samantha_and	1
 Bass_and	1
-Trivia_and	1
-Micheal_and	1
 Julia_and	1
-Julianne_and	3
-Mike_and	2
-Julia_&	2
-Bosco_and	1
-Facts_and	1
+George_and	1
+Micheal_and	1
 Walter_and	1
+Micheal_but	1
+Julianne_and	4
+Madonna_but	1
+Mike_and	2
+Bosco_and	1
+Julia_&	2
+Trivia_and	1
+Facts_and	1
+In_and	1
 Roberts_and	9
+NY_and	1
+Kim_but	1
+Ritt_and	1
 Everett_and	3
 Michael_and	8
 Griffiths_and	1
 Roberts_or	2
+Wishin_and	2
 Dermot_and	1
-Kimmy_and	1
+Kimmy_and	2
 Hill_or	2
 Jules_and	1
 NNP_CD
@@ -403,18 +401,16 @@ as_her	4
 if_her	1
 of_its	2
 behind_their	1
-NNS_''
-friends_''	1
-years_''	1
 NN_VB
-movie_cause	1
+seat_hide	1
 friend-boy_marry	1
 someone_fail	1
+friend_get	1
+Truth_be	1
 total_let	1
 conscience_start	1
-Truth_be	1
-TO_CD
-to_4	1
+movie_cause	1
+ensemble_Say	1
 VBD_PDT
 was_half	1
 did_such	1
@@ -426,6 +422,7 @@ our_backyard	1
 her_way	2
 her_man	4
 his_care	1
+your_list	1
 her_role	2
 our_mind	1
 her_lover	3
@@ -441,7 +438,7 @@ her_wish	1
 his_patience	1
 her_character	2
 her_battle	1
-your_list	1
+his_sidekick	1
 My_Best	6
 his_wedding	2
 her_mind	1
@@ -523,6 +520,7 @@ hope_for	1
 be_with	2
 find_that	1
 star_in	1
+like_if	1
 fall_in	1
 serve_as	1
 feel_that	1
@@ -552,21 +550,25 @@ happen_if	1
 doubt_that	1
 realize_that	2
 look_into	1
+CD_WDT
+28_which	1
 JJ_PRP
+honest_she	1
+ridiculous_it	1
 much_she	1
 nervous_you	1
-honest_it	1
+jealous_she	1
+dumb_he	2
 humiliating_herself	1
 great_I	1
+good_I	1
 elegant_he	1
 darn_it	1
-good_it	1
+good_it	2
+honest_it	1
+infectious_it	1
 horrible_we	1
 evil_you	1
-``_VBP
-``_Do	3
-,_''
-,_''	2
 VBD_RB
 were_n't	1
 came_so	1
@@ -591,28 +593,44 @@ loved_all	1
 fell_apart	1
 were_too	1
 was_only	1
+fetched_however	1
 was_really	2
+fetched_overall	1
 NN_DT
-end_the	1
-video_a	1
-timing_the	1
-clich&eacute;_the	1
-doubt_a	1
-dialogue_a	1
-Wedding_every	1
-love_this	1
-DVD_a	1
-picture_a	1
-jab_each	1
+singing_a	1
+condition_no	1
 rate_this	1
+love_this	1
+hair_a	1
+picture_a	1
+wedding_this	1
+Honor_a	1
+timing_the	1
+release_this	1
 thing_the	1
-case_this	1
+dialogue_a	1
 part_a	1
 end_all	1
-rent_this	1
 fact_the	1
-showcase_a	1
 woman_the	1
+end_the	1
+love_a	1
+Wedding_every	1
+friend_a	1
+doubt_a	1
+case_this	1
+showcase_a	1
+smile_a	1
+acting_a	1
+video_a	1
+song_a	1
+clich&eacute;_the	1
+conflict_an	1
+DVD_a	1
+jab_each	1
+opinion_all	1
+willenjoy_this	1
+rent_this	1
 PDT_DT
 half_an	1
 all_the	4
@@ -684,7 +702,7 @@ PRP_JJR
 it_earlier	1
 it_slower	1
 PRP_JJS
-her_best	6
+her_best	7
 VB_NNS
 be_lovers	1
 have_feelings	1
@@ -709,6 +727,7 @@ marry_Kim	1
 make_Julia	1
 forget_Rupert	1
 see_Cameron	1
+go_Juliette	1
 love_Julia	1
 inform_Julianne	1
 embarrass_Kimmy	1
@@ -718,15 +737,11 @@ why_.	1
 where_.	1
 PRP_WP
 me_what	1
-WRB_,
-where_,	1
 JJS_JJ
 best_romantic	1
 most_female	1
 best_male	1
 biggest_young	1
-POS_JJS
-'s_best	3
 VBD_JJ
 did_great	1
 was_anxious	1
@@ -756,23 +771,37 @@ want_to	5
 begin_to	1
 come_to	1
 have_to	2
-,_TO
-,_to	5
+PRP$_NNS
+his_films	1
+my_eyes	1
+her_efforts	1
+her_Gay	1
+his_intentions	1
+their_roles	1
+her_movies	1
+my_favorites	1
+her_actions	1
+our_passions	1
+her_plans	1
+Her_plans	1
+his_performances	1
 RB_NNP
 probably_Julia	1
 Basically_Jules	1
 just_Roberts	1
+Immediately_Julianne	1
+However_Michael	1
 then_Ms.	1
+off_Julia	1
+Unfortunately_Julia	1
+Fortunately_Roberts	1
 Apparently_Jules	1
+back_Julianne	2
 n't_Know	1
 WDT_NN
 which_case	1
 What_relationship	1
 which_woman	1
-,_PRP$
-,_his	1
-,_My	1
-,_her	5
 IN_RB
 that_much	1
 for_so	1
@@ -780,7 +809,7 @@ without_quite	1
 over_again	1
 as_well	1
 that_maybe	1
-of_completely	1
+by_just	1
 until_now	1
 for_once	1
 in_just	1
@@ -797,6 +826,7 @@ between_mildly	1
 So_then	1
 with_fantastically	1
 of_just	1
+of_completely	1
 across_as	1
 than_just	1
 VBN_DT
@@ -832,14 +862,17 @@ know_it	1
 ask_me	1
 like_her	1
 think_it	1
+mean_it	1
 tell_them	1
 hope_I	1
 are_you	1
+sing_I	2
 VB_:
 lose_-	1
+Set_;	1
 part_...	1
 Note_:	1
-do_...	1
+do_...	2
 CD_VBG
 One_being	1
 CD_VBD
@@ -852,7 +885,7 @@ both_comedy	1
 and_lovliness	1
 and_I	1
 and_laugh	1
-and_career	1
+and_conscience	1
 and_pathos	1
 and_everyone	2
 and_Cameron	1
@@ -869,6 +902,7 @@ and_editor	1
 but_everything	1
 and_tragedy	1
 AND_HOW	1
+and_Return	1
 and_tonight	1
 and_slower.For	1
 and_cell	1
@@ -878,20 +912,16 @@ and_writer	1
 and_love	1
 and_devotion	1
 and_concern	1
-and_conscience	1
+and_career	1
 and_manipulation	1
 VBP_PRP$
+make_My	1
 have_our	2
 do_their	1
+see_My	1
 profess_their	1
 CD_VBZ
 1997_is	1
-VB_,
-mention_,	1
-go_,	1
-be_,	1
-like_,	1
-say_,	1
 VB_.
 decide_.	1
 end_.	1
@@ -939,20 +969,17 @@ enjoyable_to	1
 CD_VBP
 !!!_Buy	1
 NNS_JJ
+features_great	1
 times_far-fetched	1
+girls_handsome	1
+roles_such	1
 years_old	2
 actions_cruel	1
+men_humorous	1
 FW_NNP
 Ms_Roberts	1
 WDT_DT
 which_the	1
-NNP_''
-David_''	1
-George_''	1
-Unbox_''	1
-Hopin_'	1
-Wishin_'	2
-In_''	1
 NNP_JJR
 MANY_MORE	1
 NNP_JJS
@@ -1017,8 +1044,8 @@ of_leaves	1
 in_parts	2
 of_mishaps	1
 IN_NNP
+of_Michael	2
 over_Michael	1
-from_Mr.	1
 from_Michael	1
 by_Roberts	1
 of_Ronald	1
@@ -1033,6 +1060,7 @@ IN_THIS	1
 for_Julia	2
 that_Julia	2
 with_Julianne	1
+from_Mr.	1
 about_George	1
 of_Dianne	1
 after_Roberts	1
@@ -1058,7 +1086,7 @@ through_Chicago	1
 about_Michael	1
 from_Kimmy	1
 between_Kimmy	1
-of_Michael	2
+for_George	1
 that_George	1
 of_Michelangelo	1
 as_Roberts	2
@@ -1083,13 +1111,14 @@ for_Michael	1
 although_Julia	1
 of_Hugh	1
 from_Angels	1
-of_P.J.	2
+of_Wishin	1
 for_Diaz	1
 like_Runaway	1
 in_Chicago	2
 as_M.	1
 for_Roberts	2
 via_Amazon	1
+of_P.J.	2
 with_Kimmy	1
 between_Michael	2
 by_Don	1
@@ -1115,6 +1144,7 @@ a_HUGE	1
 a_Chicago	1
 Some_Music	1
 WDT_IN
+which_with	1
 Which_of	1
 :_EX
 ..._there	1
@@ -1140,64 +1170,73 @@ Dont_get	1
 George_pretend	1
 David_guess	1
 Holmes_pick	1
+Diaz_buy	1
 VBD_DT
-put_a	1
-were_both	1
 was_a	4
-enjoyed_this	3
-saw_the	1
 received_the	1
-wanted_the	1
-liked_the	1
-said_the	1
+seemed_a	2
+made_a	3
+saw_the	1
+enjoyed_the	1
+enjoyed_this	3
 ordered_the	1
 played_an	1
-had_a	3
-seemed_a	2
-got_the	1
-enjoyed_the	1
-was_the	3
-made_a	3
-caught_the	1
 was_an	2
-did_a	2
+put_a	1
+said_the	1
+had_a	3
 loved_this	1
+caught_the	1
+did_some	1
+wanted_the	1
+liked_the	1
+got_the	1
+was_the	3
+were_both	1
+did_a	2
 CC_WP
 And_what	1
 and_who	2
 NNS_CC
-performances_and	1
-shadows_and	1
-issues_and	1
-moments_and	1
-actors_and	2
-ups_and	1
+films_and	1
 passions_and	2
+eyes_and	2
+actions_and	1
 roles_and	1
+parts_but	1
+movies_and	2
 expressions_and	1
 twists_and	1
 years_and	1
 lines_and	1
 days_and	1
-eyes_and	2
-actions_and	1
-comedies_or	1
+friends_and	1
+performances_and	1
+moments_but	1
+moments_and	1
 times_and	1
+methods_and	1
+actors_and	2
+ups_and	1
+issues_and	1
+nupitals_but	1
+shadows_and	1
+comedies_or	1
 NNS_CD
 years_!!!	1
-''_VBZ
-''_is	2
-'_is	1
 VBN_PRP
 seen_it	1
+told_she	1
 caused_her	1
-surprised_I	1
-engaged_she	1
 watched_it	3
+engaged_she	1
+surprised_I	1
 selected_her	1
+dated_it	1
 called_her	1
 allowed_myself	1
 thought_she	1
+touched_he	1
 loved_her	1
 messed_it	1
 viewed_it	1
@@ -1230,82 +1269,117 @@ think_about	1
 love_that	1
 realize_that	1
 NN_CC
-comedy_and	3
-ending_but	1
+scheme_and	1
+film_and	1
+end_but	1
+dismay_and	1
+soundtrack_and	1
+heroine_and	1
+chutzpah_and	1
+film_but	1
+LIFE_AND	1
+entertainement_or	1
+fan_But	1
+sympathy_and	1
+</a>_or	1
+Prayer_and	2
+Bride_and	1
+extent_and	1
+boyfriend_or	1
+groom_but	1
+friend_but	1
+acting_and	1
+charm_and	1
+vehicle_and	1
+laugh_but	1
+couple_and	2
+CRY_and	1
+ending_but	2
+friend_and	3
+time_and	1
+movie_and	10
+wit_and	1
+character_and	1
+affection_and	1
+hero_and	1
+groom_and	1
+plan_but	1
+blast_but	1
+dinner_and	1
+fun_and	1
+thing_and	3
+nothing_but	2
+jealousy_and	1
+semi-psychopath_but	1
+editor_and	1
+delight_and	1
+pace_and	1
+over.Julia_and	1
 wardrobe_and	1
-smile_and	1
-friend_and	2
+genre_or	1
+face_but	1
+director_and	1
+rental_or	1
+commitment_and	1
+guile_and	1
+scene_and	3
+bride-to-be_or	1
+aid_but	1
 scene_but	1
 hug_and	1
 slack_and	1
-charm_and	1
-movie_and	6
-guy_and	1
-wit_and	1
+restaurant_and	1
 humor_and	2
-affection_and	1
-sympathy_and	1
-vehicle_and	1
+person_and	1
+decade_and	1
 counselor_and	1
-dinner_and	1
 lover_and	2
-fun_and	1
-thing_and	3
-condition_and	2
+lovliness_and	1
 Julianne_and	1
-nothing_but	2
-entertainement_or	1
-pace_and	1
-LIFE_AND	1
 story_and	1
-jealousy_and	1
 song_and	1
-fan_But	1
-care_and	1
-marriage_and	1
+condition_and	2
 partner_and	1
-meanness_and	1
-heroine_and	1
-editor_and	1
-hero_and	1
 truck_and	1
-arm_and	1
-wedding_and	2
-over.Julia_and	1
-boyfriend_or	1
+meanness_and	1
+this_and	1
 bridge_and	1
 writing_and	1
-Bride_and	1
-end_and	1
-genre_or	1
-love_and	1
+today_and	1
 warmth_and	1
-film_and	1
+work_and	1
+guy_and	1
+career_and	1
+superb_and	1
+movie_but	3
+comedy_and	3
+smile_and	1
+yada_and	1
+ending_and	2
+hell_and	1
+enemy_but	1
 death_and	1
+end_and	1
+care_and	1
+marriage_and	1
+everyone_but	1
+bar_but	1
+wedding_and	3
+arm_and	1
+success_and	1
+love_and	2
+love_but	1
 romance_and	1
 side_and	1
-laugh_and	1
-person_and	1
-relationship_and	1
+laugh_and	2
+relationship_and	2
 advice_and	1
-director_and	1
-rental_or	1
-groom_and	1
-career_and	1
-commitment_and	1
-couple_and	2
-CRY_and	1
 cast_and	1
-movie_but	1
-scene_and	1
-scheme_and	1
-chutzpah_and	1
-bride-to-be_or	1
-ending_and	1
 NN_CD
 wedding_1997	1
 Mask_three	1
 movie_1997	1
+Man_One	1
 Wedding_three	1
 movie_!!	1
 affair_10	1
@@ -1333,22 +1407,27 @@ whose_opinions	1
 whose_actions	1
 NN_JJ
 anyone_interested	1
-character_relatable	1
-doll_perfect	1
-sound_easy	1
-<a href="http://www.amazon.com/gp/product/B00003IPFQ">_Runaway	1
 bit_wooden	1
-time_favorite	1
-part_due	1
-something_definite	1
-finesse_incomparable	1
+character_relatable	1
+<a href="http://www.amazon.com/gp/product/B00003IPFQ">_Runaway	1
+A_solid	1
 story_believable	1
 masterpiece_complete	1
-A_solid	1
 fun_romantic	2
+friend_witty	1
 nothing_original	1
-man_happy	1
+movie_great	1
+sound_easy	1
+humor_good	1
+story_superb	1
+something_definite	1
+course_hilarious	1
 something_similar	1
+doll_perfect	1
+part_due	1
+man_happy	1
+time_favorite	1
+finesse_incomparable	1
 RB_EX
 Then_there	1
 NNP_NNS
@@ -1381,14 +1460,17 @@ Pretty_Woman	2
 Rupert_Holmes	1
 P.J._Hogan	2
 Kimmie_Cameron	1
+Unbox_Service	1
 Downes_Rupert	2
 MY_DAUGHTER	1
 M._Emmett	1
+Roberts_Dermot	1
 HBO_Making-Of	1
 IT_MANY	2
 Harry_Shearer	1
 Joe_O'Neal	1
 ITS_A	1
+Julianne_George	1
 Kim_Cameron	1
 Jonathan_P.F.	1
 !!!_This	1
@@ -1411,7 +1493,9 @@ Dermont_Mulroney	1
 RECOMMENDED_I	1
 Rachel_Griffiths	1
 !!_All	1
+Kim_Michael	1
 RIGHT_COMES	1
+Wallace_Rachel	1
 HUGE_Dermot	1
 Bottom_Line	1
 I_HAVE	1
@@ -1434,11 +1518,14 @@ Wallace_Cameron	1
 !!_Movie	1
 Top_Date-Movies	1
 Doris_Day-Rock	1
+helium_Paul	1
+Roberts_Cameron	1
 Dermot_Mulrooney	1
 Joseph_Gordon-Levitt	1
 Day-Rock_Hudson	1
 MY_BEST	6
 Katherine_Hepburn	1
+Roberts_Diaz	1
 Ms_Diaz	1
 A_NICE	1
 JULIA_ROBERTS	1
@@ -1451,7 +1538,9 @@ Julia_Robert	3
 Critic_Julianne	1
 Do_With	1
 AND_I	1
+Diaz_Rupert	1
 WATCHING_THIS	1
+Mulroney_Cameron	2
 DERMOT_MULRONEY	1
 LOVE_CAMERON	1
 fianc&eacute;_Kimmy	1
@@ -1470,14 +1559,17 @@ Paul_Giamatti	1
 VIEWED_IT	1
 Will_Julianne	1
 MULRONEY_CAN	1
+Mulroney_Jules	1
 Jules_Julia	2
 Philip_Bosco	2
 Jules_Potter	1
+Roberts_Michael	1
 Mr._Mulroney	1
 Don_Cornell	1
 George_Downes	2
 Potter_Julia	2
 Rupertt_Everett	1
+George_Julianne	1
 M._Emmet	1
 Notting_Hill	3
 ROLE_AND	1
@@ -1499,6 +1591,7 @@ VBD_VB
 did_have	1
 did_keep	1
 did_steal	1
+called_Play	1
 JJR_PRP
 cuter_I	1
 CC_EX
@@ -1508,9 +1601,6 @@ better_?	1
 better_.	1
 more_.	2
 stronger_.	1
-JJR_,
-Cooler_,	1
-sexier_,	1
 VB_TO
 fly_to	1
 want_to	2
@@ -1538,8 +1628,6 @@ suposed_to	1
 determined_to	1
 come_to	1
 touted_to	1
-NNPS_''
-Hearts_''	1
 WDT_NNP
 which_Cameron	1
 IN_DT
@@ -1613,7 +1701,7 @@ of_those	1
 into_the	3
 across_the	1
 from_a	1
-with_the	10
+with_the	11
 with_an	1
 although_the	2
 like_some	1
@@ -1670,8 +1758,8 @@ knows_how	1
 's_how	1
 shows_how	1
 explains_how	1
-VBG_''
-winning_''	1
+EX_MD
+there_can	1
 VB_WP
 get_what	2
 see_what	2
@@ -1682,53 +1770,18 @@ WDT_PRP
 which_he	1
 which_I	1
 whatever_it	2
-JJS_TO
-best_to	2
+UH_DT
+Oh_some	1
 RB_WRB
 just_why	1
 just_how	1
 even_when	1
+once_when	1
 perhaps_where	1
 just_when	1
 down_when	1
 CD_POS
 50_'s	1
-RB_,
-not_,	1
-However_,	5
-wistfully_,	1
-ago_,	1
-Now_,	1
-loyally_,	1
-ever_,	1
-Sure_,	2
-obviously_,	1
-together_,	2
-back_,	3
-along_,	1
-though_,	1
-over_,	1
-afterwards_,	1
-Immediately_,	1
-Anyway_,	2
-down_,	1
-always_,	1
-disastrously_,	1
-later_,	1
-off_,	1
-Maybe_,	1
-maybe_,	1
-overall_,	1
-once_,	1
-Fortunately_,	1
-however_,	2
-HERE_,	1
-now_,	2
-again_,	1
-Unfortunately_,	1
-here_,	2
-Overall_,	1
-Well_,	2
 RB_.
 right_!	1
 ever_!	2
@@ -1771,47 +1824,16 @@ TO_:
 to_...	1
 NNPS_CC
 TIMES_AND	1
-CC_RB
-But_overall	1
-and_actually	1
-and_also	1
-and_then	4
-and_finally	1
-and_definitely	1
-but_very	1
-but_still	2
-but_even	2
-and_wickedly	1
-but_maybe	1
-and_ultimately	1
-and_only	1
-and_sometimes	1
-And_then	1
-and_very	1
-and_afterwards	1
-and_just	3
-but_just	2
-But_even	2
-and_completely	1
-but_deep	1
-But_definitely	1
-and_maybe	1
-but_then	2
-and_over	1
-and_so	1
-And_finally	1
-and_slightly	1
-but_only	2
-But_now	2
-and_genuinely	1
-and_lastly	1
-and_now	1
-and_not	3
-or_just	2
-and_perhaps	1
-and_really	1
-but_quickly	1
-and_again	2
+NNS_DT
+days_this	1
+touches_the	1
+others_the	1
+scenes_the	1
+times_the	1
+performances_the	1
+missteps_that	1
+comedies_this	1
+words_an	1
 RB_:
 still_...	1
 again_...	2
@@ -1845,12 +1867,11 @@ why_you	2
 ..._for	1
 -_like	1
 ..._about	1
+;_Since	1
 --_in	1
 ;_that	1
+:_On	1
 ..._although	1
-''_:
-''_...	1
-''_;	2
 :_WDT
 --_which	1
 PRP$_JJ
@@ -1890,12 +1911,13 @@ her_gay	3
 her_own	2
 her_good	1
 her_apparent	1
-FW_DT
-isnt_a	1
 PRP_PRP
-it_I	1
+me_I	2
+you_you	1
+it_they	1
 it_you	1
-him_she	1
+him_she	2
+it_I	1
 IN_PRP
 While_I	1
 against_her	1
@@ -1938,14 +1960,15 @@ because_she	2
 until_he	1
 So_it	1
 Whether_we	1
-that_I	6
+that_I	7
 about_her	1
 so_she	1
 before_he	1
 in_him	1
 for_her	6
-because_it	4
 about_it	3
+because_it	4
+of_I	3
 if_she	5
 Because_I	1
 that_she	8
@@ -1970,21 +1993,11 @@ because_I	2
 for_yourself	1
 throughout_it	1
 as_she	3
-''_.
-''_.	9
-'_.	1
-''_!	1
-''_,
-'_,	1
-''_,	7
 NNS_VB
 people_ask	1
+dice_pay	1
 TO_WP
 to_what	1
-RB_NNS
-ever_films	1
-Usually_couples	1
-Even_guys	1
 :_NNS
 -_amateurs	1
 --_charges	1
@@ -1992,6 +2005,7 @@ Even_guys	1
 ..._ITS	1
 ;_HBO	1
 :_Behind-the-Scenes	1
+..._Maybe	1
 ;_Philip	1
 ..._MY	1
 :_Though	1
@@ -2060,6 +2074,7 @@ PRP_VBG
 you_thinking	1
 you_guessing	2
 YOU_REPEATING	1
+herself_usurping	1
 us_guessing	1
 you_smiling	1
 them_delivering	1
@@ -2083,7 +2098,7 @@ the_bride	3
 the_story	6
 this_day	2
 this_character	1
-another_level	1
+a_desparado	1
 a_sequel	1
 the_norm	1
 the_loser	1
@@ -2263,6 +2278,7 @@ The_dialogue	1
 every_day	1
 The_music	2
 The_premise	1
+this_time	1
 this_DVD	3
 the_type	1
 a_heartbreaker	1
@@ -2280,6 +2296,7 @@ every_scene	2
 The_item	1
 the_difference	1
 that_part	1
+the_Best	1
 the_self-centeredness	1
 The_plot	3
 some_charisma	1
@@ -2325,6 +2342,7 @@ The_addition	1
 a_word	1
 the_comedy	1
 a_pushover	1
+another_level	1
 a_moment	1
 the_exterior	1
 The_script	1
@@ -2356,7 +2374,7 @@ the_cover	1
 a_copy	2
 a_movie	2
 The_ending	3
-this_time	1
+The_singing	1
 a_college	1
 a_comeback	1
 the_hair	1
@@ -2389,6 +2407,7 @@ That_leaves	1
 that_'s	4
 that_makes	1
 this_is	13
+that_lets	1
 this_happens	1
 that_is	1
 That_'s	3
@@ -2492,8 +2511,10 @@ neither_found	1
 this_lost	1
 the_planned	1
 PRP_JJ
+her_ditzy	1
 I_related	1
 it_several	1
+You_humiliating	1
 it_quaint	1
 it_unfortunate	1
 it_annoying	1
@@ -2587,14 +2608,11 @@ It_does	1
 He_nails	1
 FW_PRP
 ?!!_It	1
-IN_,
-that_,	1
-although_,	1
-on_,	1
-by_,	1
-with_,	1
-in_,	1
-over_,	1
+PRP_:
+it_...	1
+themselves_:	1
+him_-	1
+her_:	1
 IN_.
 in_.	1
 for_?	1
@@ -2603,34 +2621,32 @@ over_.	1
 PRP_.
 me_.	3
 herself_!	1
+him_!	1
 him_.	2
 Me_.	1
 her_?	1
-him_!	1
+You_.	1
 herself_.	4
 me_!	1
 them_.	1
 it_!	7
 her_!	1
-you_.	2
+you_.	5
 you_!	2
 yourself_.	1
 her_.	8
 it_.	12
-PRP_,
-me_,	5
-him_,	6
-them_,	1
-herself_,	1
-you_,	1
-her_,	2
-it_,	5
-You_,	1
+IN_:
+with_;	1
+in_-	1
+like_...	1
+of_...	1
 CC_VBP
-and_do	1
-and_are	1
 and_claim	1
+and_are	1
 but_know	1
+And_do	1
+and_do	1
 NNP_WDT
 Roberts_that	1
 PRP_VB
@@ -2668,7 +2684,8 @@ and_tells	1
 and_determines	1
 NN_WRB
 game_where	1
-restaurant_where	1
+restaurant_where	2
+restaraunt_where	1
 hand_why	1
 reason_why	1
 beginning_when	1
@@ -2678,6 +2695,7 @@ yesterday_when	1
 point_where	1
 scene_where	3
 head_when	1
+heart_why	1
 friend/boyfriend_when	1
 WINDOW_WHEN	1
 RP_TO
@@ -2687,12 +2705,17 @@ down_to	1
 out_to	1
 off_to	2
 NNP_PRP
-Julianne_he	1
-Service_you	1
-Well_it	1
+Bride_you	1
+Everett_she	1
 Julianne_herself	1
+Well_it	1
 Trust_me	1
+Roberts_she	1
 Maybe_it	1
+Hill_you	1
+Service_you	1
+Everett_it	1
+Julianne_he	1
 CC_VBD
 and_kept	1
 and_moved	1
@@ -2719,66 +2742,6 @@ understand_all	1
 CC_VBN
 and_left	1
 and_cultivated	1
-JJ_,
-stylish_,	1
-current_,	1
-intelligent_,	1
-well-acted_,	1
-brilliant_,	1
-sweet_,	1
-devoted_,	1
-other_,	2
-serviceable_,	1
-young_,	1
-blonde_,	1
-comical_,	1
-wooden_,	1
-rich_,	1
-dumb_,	2
-excellent_,	1
-ridiculous_,	1
-witty_,	1
-hilarious_,	3
-romantic_,	1
-irritated_,	1
-surprising_,	1
-elegant_,	1
-wonderful_,	1
-unlikeable_,	1
-far-fetched_,	1
-spunky_,	1
-good_,	2
-qucik_,	1
-off-key_,	1
-reprehensible_,	1
-cruel_,	2
-uninteresting_,	1
-honest_,	1
-mature_,	1
-shy_,	1
-likable_,	1
-noble_,	1
-engaging_,	1
-entertaining_,	1
-energetic_,	1
-gay_,	2
-enjoyable_,	4
-big_,	1
-infectious_,	1
-simple_,	1
-underhanded_,	2
-despicable_,	2
-original_,	2
-fresh_,	1
-jealous_,	1
-light-hearted_,	1
-bizarre_,	1
-funny_,	5
-sure_,	1
-pathetic_,	1
-humorous_,	1
-different_,	1
-weak_,	1
 JJ_.
 perfect_.	1
 worth-watching_.	1
@@ -2837,16 +2800,12 @@ beautiful_.	2
 sympathetic_.	1
 charming_.	1
 funny_!	1
-VBN_NNP
-seen_MY	1
-seen_Julianne	1
-named_Kimberly	1
-engaged_George	1
 RBS_RB
 most_notably	1
 :_VB
 :_<a href="http://www.amazon.com/gp/product/B000T4ETI6">	1
 ..._call	1
+:_Play	1
 ..._watch	1
 VBN_IN
 married_before	1
@@ -2860,12 +2819,13 @@ enriched_by	1
 happened_without	1
 bombarded_on	1
 stated_at	1
+shot_in	1
 commended_for	1
 stationed_over	1
 obliterated_at	1
 thwarted_by	1
 driven_by	1
-shot_in	1
+executed_with	1
 done_in	1
 Armed_with	1
 thrown_into	1
@@ -2889,6 +2849,7 @@ based_on	1
 RB_WP
 So_what	1
 then_who	1
+Well_what	1
 then_what	1
 VBP_WRB
 see_how	1
@@ -2951,54 +2912,72 @@ screwball_comedies	1
 opening_sequences	1
 film_kudos	1
 group_members	1
+NNP_PRP$
+O'Neal_her	1
+Diaz_her	2
+Everett_her	1
 NN_NNP
-time_!!!	1
+wedding_Roberts	1
 day_Katherine	1
 critic_Julianne	1
 thing_Julia	1
 person_Roberts	1
 friend_Micheal	1
+character_Food	1
 day_Jules	1
 point_Jules	1
+fianc&eacute;e_Kimmy	1
 music_Diaz	1
-singing_Dionne	1
+fact_Julianne	1
+broadcaster_Michael	1
+engagement_George	1
+bellman_Harry	1
 Wedding_Do	1
+movie_Michael	1
 fiancee_Kimmie	1
 beginning_Jules	1
+time_!!!	1
 job_!!	1
 fiance_Cameron	1
+woman_Kimmy	1
+character_Julianne	1
 scheme_Roberts	1
 voice_Kimmy	1
 editor_George	1
 woman_Michael	1
-friend_George	5
+friend_George	9
+singing_Dionne	1
 everything_Julia	1
+friend/ex-boyfriend_Michael	1
 soulmate_Dermot	1
 !!!_Julia	1
-friend_Rupert	3
+friend_Rupert	4
+accident_Kim	1
 partner_Michael	1
 fiancee_Kimberly	1
-friend_Michael	3
+friend_Michael	6
 bride_Cameron	1
 friend_Dermott	1
-:_``
-:_`	1
-;_`	1
-:_``	5
+JJR_JJR
+Cooler_sexier	1
+sexier_funnier	1
 CD_CD
 !!_One	1
-,_WRB
-,_when	1
-,_why	1
-,_where	3
+CD_CC
+one_and	1
+7.36_and	1
+3_but	1
+one_or	1
+28_and	1
 IN_JJS
-For_most	1
 as_most	1
+For_most	1
+for_most	2
+as_best	1
 of_most	1
 at_least	2
-for_most	2
 POS_PRP
-'s_I	1
+'s_I	4
 VBD_WRB
 liked_how	1
 was_when	1
@@ -3027,8 +3006,6 @@ younger_brother	1
 deeper_quagmire	1
 younger_woman	1
 earlier_tonight	1
-RB_``
-again_`	1
 :_CD
 /_4	1
 :_One	1
@@ -3053,6 +3030,7 @@ I_could	2
 it_should	1
 you_would	1
 I_should	1
+him_must	2
 you_might	1
 I_will	3
 you_may	1
@@ -3112,10 +3090,12 @@ but_let	1
 and_try	1
 and_know	1
 or_buy	1
+But_let	1
 and_enjoy	2
 and_get	1
 and_watch	2
 and_go	1
+and_Say	1
 and_win	1
 and_invite	1
 or_find	1
@@ -3165,33 +3145,38 @@ There_are	4
 there_are	5
 NNS_RP
 defences_down	1
-CC_``
-and_``	2
+FW_DT
+isnt_a	1
 NN_NN
 city_bread	1
 smoking_bellhop	1
 restaraunt_scene	1
+edition_dvd	1
 bar_scene	1
+singing_table	1
 comedy_movie	1
 THIS_man	1
 star_effort	1
 date_movie	1
 bread_van	1
 fun_movie	2
-boat_scene	1
+dancing_singing	1
 Wedding_Planner	1
 chair_scene	1
 restaurant_critic	1
 food_critic	8
 edition_DVD	1
+comedy_love	1
 Bride_</a>	1
 tender_moment	1
 dance_scene	1
+jealousy_hate	1
 FAMILY_MOVIE	1
 thatthis_film	1
 stealing_wit	1
 family_Diaz	1
 romance_classic	1
+Prayer_sing-along	1
 surprise_package	1
 commitment_phobia	1
 camera_focus	1
@@ -3211,8 +3196,9 @@ audience_wait	1
 table_scene	1
 record_speed	1
 outfits_singing	1
-wedding_film	1
+group_sing-along	1
 kimmy_cameron	1
+music_dancing	1
 film_!!!	1
 agenda_secret	1
 entertainment_value	1
@@ -3220,12 +3206,15 @@ scene_stealing	1
 nightclub_performance	1
 downtown_river	1
 bread_truck	2
+hate_forgiveness	1
 love_triangle	1
 Best_Man	1
 trust_Julianne	1
+Ghost_etc.	1
 HOW_EVERYTHING	1
+boat_scene	1
 singing_voice	1
-group_sing-along	1
+wedding_film	1
 fight_scene	1
 car_chase	1
 restaurant_hilarity	1
@@ -3237,32 +3226,38 @@ DVD_b/c	1
 evil_plan	1
 panic_mode	1
 Best_Friend	6
+forgiveness_yada	1
 bargain_purchase	1
+sidekick_character	1
 comedy_formula	1
+comedy_ahem	1
 Wedding_Album	1
 comedy_heroine	1
-bellhop_scene	1
+restaurant_scene	2
 boat_ride	1
 karaoke_rendition	1
-chair_arm	1
+Best_Thing	1
+Prayer_scene	1
 film.The_restaraunt	1
 Wedding_</a>	1
 Break_!!!	1
 chickflick_refrain	1
 comedy_thing	1
 comedy_part	1
+girl_character	1
 girl_group	1
 heart_breaking	1
-baseball_field	1
+theft_bread	1
 pact_deadline	1
 critic_thing	1
 seafood_restaraunt	1
 ice_sculpture	3
-edition_dvd	1
+marriage_jealousy	1
 eye_opener	1
-restaurant_scene	2
-Best_Thing	1
-theft_bread	1
+bellhop_scene	1
+chair_arm	1
+LAUGH_CRY	1
+baseball_field	1
 RP_RB
 up_brilliantly	1
 out_too	1
@@ -3278,46 +3273,28 @@ stars_mainly	1
 friends_ever	1
 years_ago	3
 years_later	3
+shucks_well	1
+scenes_mostly	1
 ones_perfectly	1
 roberts_down	1
 SELECTIONS_HERE	1
 muses_wistfully	1
+ages_recently	1
 friends_forever	2
+comedies_obviously	1
 rooftops_either	1
+JJ_EX
+sure_there	1
 JJS_.
 most_.	1
 best_.	2
 least_.	2
-,_JJ
-,_opposite-sex	1
-,_wonderful	1
-,_romantic	3
-,_such	1
-,_funny	1
-,_great	2
-,_superb	1
-,_pretty	1
-,_beautiful	2
-,_blonde	1
-,_good	2
-,_ready	1
-,_feel-good	1
-,_scene-stealing	1
-,_sweet	1
-,_bittersweet	1
-,_hilarious	1
-,_handsome	1
-,_active	1
-,_despicable	2
-,_like-dressing	1
-,_old	1
-,_humorous	1
-,_intelligent	1
-,_funky	1
-,_witty	2
-,_uninteresting	1
-,_EX
-,_there	2
+VBP_NNS
+love_movies	1
+are_times	1
+make_fools	1
+enjoy_films	1
+are_moments	1
 DT_JJ
 a_final	1
 A_good	1
@@ -3352,7 +3329,7 @@ the_shadowed	1
 the_last	2
 a_recent	1
 a_surefire	1
-a_wonderful	2
+a_wonderful	3
 a_witty	1
 a_tiny	1
 a_five-years	1
@@ -3454,6 +3431,7 @@ The_big	1
 This_romantic	1
 any_other	1
 this_whole	1
+THE_OTHER	1
 a_helpless	1
 the_corny	1
 a_similar	1
@@ -3500,17 +3478,11 @@ some_great	1
 an_off-key	1
 The_whole	1
 the_excellent	1
-``_VB
-``_Play	2
-``_Say	4
 VBD_JJR
 had_more	1
 expected_more	1
 VBD_JJS
 guessed_most	1
-NNS_``
-comedies_``	1
-credits_``	1
 NN_IN
 movie_because	2
 superstar_in	1
@@ -3525,9 +3497,12 @@ hour_of	1
 secret_from	1
 evening_of	1
 time_of	1
+kind_of	4
+friend_on	1
 flick_that	1
 copy_of	1
 age_of	1
+TV_via	1
 love_for	2
 chance_with	1
 family_for	1
@@ -3541,8 +3516,10 @@ BACK_FOR	1
 wedding_with	1
 smile_on	1
 outing_at	1
+Wedding_worth	1
 scene_on	1
 everyone_around	1
+movie_like	1
 item_that	1
 affair_in	1
 friction_between	1
@@ -3551,6 +3528,7 @@ bone_in	1
 student_with	1
 fuss_about	1
 lack_of	1
+line_near	1
 movie_in	1
 movie_with	2
 fall_in	1
@@ -3558,7 +3536,8 @@ scar_on	1
 end_of	1
 scene_for	1
 smoking_in	1
-kind_of	4
+friendship_in	1
+romance_because	1
 job_as	1
 laugh_out	1
 basis_for	1
@@ -3572,6 +3551,7 @@ marriage_since	1
 list_since	1
 comedy_of	1
 movie_as	1
+audience_for	1
 group_in	1
 balance_between	1
 wedding_from	1
@@ -3589,7 +3569,7 @@ e-mail/falling_off	1
 wedge_between	1
 character_of	2
 package_of	1
-review_until	1
+Wedding_as	1
 action_until	1
 scene_at	1
 fiance_in	1
@@ -3599,6 +3579,7 @@ scene_with	1
 rendition_of	3
 singing_in	1
 mixture_of	1
+Prayer_at	1
 crux_of	1
 performance_of	2
 viewer_on	1
@@ -3610,6 +3591,7 @@ fan_of	7
 day_along	1
 moment_between	1
 cruise_through	1
+pity_because	1
 life_into	2
 item_in	1
 talent_of	1
@@ -3625,10 +3607,11 @@ lot_of	5
 heart_of	1
 sense_than	1
 piece_of	1
-love_with	10
+love_with	11
 message_on	1
 guy_for	1
 interest_in	1
+Planner_in	1
 chemistry_with	1
 friend_from	1
 alot_of	1
@@ -3642,9 +3625,11 @@ focus_on	1
 character_in	1
 wedding_of	1
 position_of	1
+youth_although	1
 direction_of	1
 side_of	1
 slew_of	1
+desparado_with	1
 life_with	1
 commedy_of	1
 elbow_on	1
@@ -3680,7 +3665,7 @@ variety_of	1
 sake_of	1
 part_in	1
 hilarity_of	1
-line_near	1
+flick_with	1
 field_between	1
 END_If	1
 member_of	2
@@ -3696,6 +3681,7 @@ immaturity_of	1
 laugh_in	1
 relationship_with	2
 resident_of	1
+formula_if	1
 part_for	1
 point_of	3
 relationship_between	1
@@ -3723,7 +3709,9 @@ role_of	2
 chase_in	1
 travail_over	1
 fiance_from	1
+end_in	1
 film_because	1
+review_until	1
 chorus_of	1
 father_of	2
 plus_in	1
@@ -3752,6 +3740,7 @@ everyone_in	1
 singing_that	1
 OWN_ON	1
 sadness_in	1
+star_for	1
 notice_by	1
 writing_of	1
 protagonist_in	1
@@ -3761,6 +3750,7 @@ redemption_at	1
 film_in	2
 way_of	1
 boat_with	1
+conflict_so	1
 DVD_for	1
 classic_in	1
 taste_of	1
@@ -3795,23 +3785,31 @@ student_named	1
 critic_played	1
 NNS_PRP
 things_one	1
-movies_she	1
-leaves_you	1
+members_he	1
 times_I	1
+credits_you	1
+movies_she	1
+desires_she	1
+leaves_you	1
 NN_VBG
 sweetness_being	1
 friend_getting	1
 love_burning	1
+marriage_giving	1
 fun_watching	1
+afternoon_taking	1
 pizzazz_describing	1
 charm_including	1
 cast_including	1
 charachter_confronting	1
 crowd_pleasing	1
 answermachine_telling	1
-afternoon_taking	1
+way_forcing	1
 movie_making	1
+blue_leaving	1
 woman_approaching	1
+fiance_hoping	1
+couple_using	1
 problem_making	1
 relationship_going	1
 PRP_FW
@@ -3882,7 +3880,7 @@ film_tells	1
 character_does	1
 life_turns	1
 story_is	2
-Wedding_is	1
+Wedding_is	2
 intent_is	1
 humor_does	1
 movie_is	16
@@ -3894,6 +3892,7 @@ scene_is	2
 someone_does	1
 plot_revolves	1
 job.This_is	1
+Prayer_is	2
 stanza_is	1
 party_gets	1
 singing_is	1
@@ -3911,7 +3910,7 @@ movie_has	1
 WEDDING_is	2
 misstep_is	1
 script_keeps	1
-guy_is	1
+value_comes	1
 TRIUMPH_comes	1
 cause_has	1
 character_is	2
@@ -3919,8 +3918,9 @@ ending_is	2
 thing_is	1
 film_provides	1
 daughter_has	1
+actor_is	1
 star_is	1
-value_comes	1
+guy_is	1
 film_has	6
 movie_hits	1
 story_involves	1
@@ -3979,6 +3979,7 @@ even_then	1
 never_really	2
 very_much	1
 not_so	2
+Maybe_just	1
 sometimes_gleefully	1
 somewhat_outlandishly	1
 As_well	1
@@ -4005,12 +4006,15 @@ Quite_frankly	1
 so_much	1
 not_necessarily	1
 very_promptly	1
+however_very	1
 too_close	1
 upside_down	1
 not_always	1
 closer_together	1
 :-LRB-_well	1
 not_yet	1
+loyally_thoughtfully	1
+now_maybe	1
 just_about	1
 apart_only	1
 not_just	2
@@ -4020,6 +4024,7 @@ so_fast	1
 almost_so	1
 very_well	3
 VBD_IN
+said_if	1
 went_with	1
 was_in	4
 behaved_like	1
@@ -4037,27 +4042,22 @@ found_with	1
 TO_IN
 to_until	1
 NN_VBP
+character_hate	1
 Cameron_fit	1
 scene_are	1
 family_make	1
 movies.I_'ve	1
 ahem_are	1
 wedding_are	1
+look_hate	1
 moment_are	1
 writer_are	1
 comedy.I_am	1
+hair_hate	1
 love_seem	1
 chuckle_make	1
 :_WRB
 :_When	1
-PRP_''
-you_''	3
-You_''	1
-myself_''	1
-CD_CC
-one_and	1
-7.36_and	1
-one_or	1
 PRP_RB
 I_just	5
 I_specially	1
@@ -4099,6 +4099,7 @@ I_really	3
 they_just	1
 I_Just	1
 she_truly	2
+it_just	1
 They_even	1
 I_highly	1
 it_probably	1
@@ -4116,20 +4117,13 @@ IN_EX
 While_there	1
 that_there	2
 if_there	1
-``_JJS
-``_best	3
-`_best	1
+JJS_PRP
+most_I	1
 PRP_RP
 her_out	1
 it_up	3
 me_up	1
 it_off	1
-JJ_``
-enjoyable_``	1
-off-beat_``	1
-romantic_`	1
-whole_`	1
-normal_`	1
 POS_VB
 's_be	1
 RB_VBZ
@@ -4144,24 +4138,26 @@ finally_calls	1
 only_gets	1
 convincingly_plays	1
 still_manages	1
-only_looks	1
+always_shines	1
 then_realizes	1
 desperately_calls	1
 also_seems	1
 still_makes	1
 truly_loves	1
 really_has	1
-also_gives	1
+only_looks	1
 else_needs	1
 finally_reveals	1
 there_makes	1
 clearly_is	1
+ever_comes	1
 just_happens	1
 soon_turns	1
 still_holds	1
 back_is	1
 probably_ranks	1
 absolutely_steals	1
+also_gives	1
 only_has	1
 then_becomes	1
 about_has	1
@@ -4179,9 +4175,6 @@ almost_tells	1
 gleefully_assists	1
 VBZ_VBD
 has_had	1
-,_WP
-,_who	8
-,_what	1
 VBZ_VBG
 is_taking	1
 is_marrying	2
@@ -4222,7 +4215,7 @@ enjoy_it	2
 Play_it	1
 pretend_he	1
 love_him	2
-say_I	1
+say_I	2
 help_her	3
 hear_he	1
 Buy_it	1
@@ -4251,8 +4244,10 @@ invite_her	1
 love_her	1
 let_him	1
 PRP_DT
-they_all	1
+myself_the	1
+me_this	1
 they_both	1
+they_all	1
 her_the	1
 it_all	2
 me_every	1
@@ -4261,6 +4256,7 @@ them_this	1
 US_THE	1
 us_a	1
 us_an	1
+me_the	1
 it_this	1
 VBZ_VBN
 has_made	2
@@ -4311,9 +4307,11 @@ or_his	1
 :_VBZ
 ..._SHOWS	1
 DT_DT
-the_this	1
+all_a	3
 this_an	1
+that_a	1
 this_a	1
+the_this	1
 RB_VBN
 n't_seen	1
 never_solved	1
@@ -4343,25 +4341,6 @@ well_cast	1
 suddenly_thrown	1
 easily_fallen	1
 vastly_entertained	1
-NN_''
-formula_'	1
-Wedding_'	1
-Prayer_''	7
-friend_''	2
-friendship_'	1
-singing_''	1
-WOMAN_'	1
-Wedding_''	4
-girl_'	1
-sidekick_'	1
-desparado_''	1
-Man_''	1
-comedy_'	1
-restaurant_'	1
-friendship_''	1
-bone_''	1
-flick_''	1
-extravaganza_''	1
 VB_RBR
 see_more	1
 RB_VBG
@@ -4373,6 +4352,7 @@ forever_guessing	1
 then_redeeming	1
 just_thinking	1
 actually_noticing	1
+here_making	1
 surely_working	1
 quite_being	1
 definitely_going	1
@@ -4436,13 +4416,15 @@ was_time	1
 told_somebody	1
 NNP_TO
 Julianne_to	3
-Everett_to	1
+Mike_to	1
 Roberts_to	1
 Julia_to	1
-Mike_to	1
+Mulrooney_to	1
+Everett_to	2
 Flying_to	1
 Cameron_to	1
 Chicago_to	2
+York_to	1
 George_to	2
 Fraud_to	1
 VBZ_TO
@@ -4471,33 +4453,14 @@ leaps_to	1
 begins_to	1
 VBP_PDT
 love_all	1
+PRP_WDT
+them_which	1
 POS_NNP
 's_Roberts	1
+'s_Unbox	1
 's_David	1
 'S_WEDDDING	1
 's_Editor	1
-,_IN
-,_at	1
-,_with	6
-,_in	4
-,_because	3
-,_before	1
-,_as	2
-,_for	3
-,_if	4
-,_on	1
-,_though	1
-,_that	1
-,_so	2
-,_like	2
-,_via	1
-,_although	1
-,_from	1
-,_while	1
-,_of	3
-,_except	1
-,_since	1
-,_along	1
 POS_NNS
 's_characters	1
 '_hearts	1
@@ -4509,12 +4472,14 @@ faces_who	1
 movie-goers_who	1
 RP_NN
 out_singing	1
-,_CD
-,_One	1
+RBR_CC
+earlier_but	1
+VBG_CC
+happening_and	1
 JJR_JJ
 More_delightful	1
-``_UH
-`_Aw	1
+VBG_CD
+approaching_thirty	1
 MD_RB
 would_not	1
 can_only	1
@@ -4538,29 +4503,35 @@ would_ever	1
 should_definetly	1
 can_not	1
 NN_WDT
-movie_that	3
-kind_that	1
-talent_that	1
+humour_which	1
+ending_which	1
 person_that	1
 comedy_which	1
-giggle-fest_that	1
-ending_which	1
-humour_which	1
-reaction_that	1
-comedy_that	1
-mystery_that	1
-wedding_which	1
-scenario_which	1
-something_that	1
-song_which	1
 flick_that	1
 husband_which	1
-character_that	2
+movie_that	3
+film_which	1
+kind_that	1
+comedy_that	1
+mystery_that	1
+song_which	1
+reaction_that	1
 everything_that	1
 film_that	2
+talent_that	1
+wedding_which	1
+performance_which	1
+something_that	1
+movie_which	1
+giggle-fest_that	1
+yep_that	1
+character_that	2
+scenario_which	1
+wow_that	1
 VB_DT
 Say_a	4
 do_the	1
+mention_some	1
 grab_the	1
 outwit_each	1
 like_this	1
@@ -4642,6 +4613,7 @@ how_the	2
 where_this	1
 IN_IN
 that_if	3
+although_along	1
 Unless_of	1
 thru_in	1
 except_for	1
@@ -4654,14 +4626,11 @@ if_by	1
 in_for	1
 through_in	1
 from_under	1
+over_though	1
 Up_until	1
 out_of	3
 As_for	1
 about_in	1
-PRP_``
-her_`	1
-her_``	1
-it_``	1
 VBZ_JJ
 is_perfect	1
 is_beautiful	1
@@ -4697,7 +4666,7 @@ is_much	1
 is_ready	1
 's_OK	1
 is_sexy	1
-is_incorrect	1
+is_dumb	1
 's_long-time	1
 is_fresh	1
 has_many	2
@@ -4710,6 +4679,7 @@ is_independent	1
 finds_true	1
 is_well-acted	1
 is_such	1
+is_incorrect	1
 is_great	6
 's_great	1
 's_outstanding	1
@@ -4738,6 +4708,7 @@ NN_TO
 someone_to	1
 power_to	2
 invitation_to	1
+region_to	1
 place_to	1
 everyone_to	1
 character_to	1
@@ -4765,6 +4736,7 @@ film_to	3
 heart_to	1
 bid_to	1
 scheme_to	1
+fianc&eacute;e_to	1
 excuse_to	1
 DVD_to	1
 fight_to	1
@@ -4801,8 +4773,6 @@ each_of	1
 Some_of	1
 all_about	1
 All_in	1
-EX_MD
-there_can	1
 PRP_IN
 her_until	1
 we_as	1
@@ -4840,14 +4810,10 @@ more_interested	1
 more_worth-watching	1
 less_interested	1
 more_beautiful	1
-JJR_VBD
-less_said	1
 WRB_MD
 How_can	1
 WP_DT
 What_an	1
-:_''
-..._''	1
 CC_CD
 And_one	1
 But_three	1
@@ -4857,19 +4823,6 @@ her_his	1
 WP_RB
 who_really	1
 who_soon	1
-,_NN
-,_singing	1
-,_NOBODY	1
-,_jealousy	1
-,_yada	1
-,_CRY	1
-,_forgiveness	1
-,_twenty-eight	1
-,_etc.	1
-,_dancing	1
-,_love	1
-,_Ghost	1
-,_hate	1
 PRP$_RB
 its_almost	1
 his_seemingly	1
@@ -4877,28 +4830,12 @@ your_very	1
 WP_PRP$
 what_my	1
 what_her	1
-``_RB
-``_just	1
-CC_,
-But_,	1
-And_,	1
 JJR_CC
 funnier_and	1
 slower_and	1
 crueler_and	1
-PRP$_``
-his_`	1
-your_``	2
-``_NNP
-``_Muriel	1
-``_George	1
-``_Fools	1
-``_Wishin	2
-``_Unbox	1
-VBG_:
-seeing_--	1
 RB_DT
-n't_the	1
+Anyway_the	2
 obviously_a	1
 overall_a	1
 not_some	1
@@ -4910,16 +4847,18 @@ especially_the	1
 Sometimes_those	1
 quite_a	1
 just_that	1
-overall_the	1
+overall_the	2
 almost_every	1
 just_a	3
 Only_the	1
+Overall_the	1
 Overall_a	1
 not_the	1
 notably_the	1
 simply_a	1
 really_the	1
 even_the	1
+n't_the	1
 JUST_A	1
 maybe_that	1
 not_a	7
@@ -4933,6 +4872,7 @@ definitely_the	1
 differently_each	1
 perhaps_the	1
 also_a	1
+though_each	1
 just_another	1
 just_the	1
 then_some	1
@@ -4944,9 +4884,10 @@ her_biggest	1
 My_Best	9
 his_best	2
 Her_best	2
-your_best	1
+your_best	2
 Her_closest	1
 NN_MD
+Wedding_should	1
 world_will	1
 film_would	1
 depth_might	1
@@ -4964,49 +4905,13 @@ groom_should	1
 viewer_can	2
 DT_VB
 a_give	1
+the_Say	1
 the_Set	1
 all_be	1
 WRB_PRP$
 When_his	1
 CC_RBR
 and_more	1
-DT_``
-a_``	2
-THE_`	1
-the_``	2
-The_``	1
-an_``	1
-,_RB
-,_thoughtfully	1
-,_overall	1
-,_so	2
-,_well	1
-,_especially	2
-,_irritatingly	1
-,_recently	1
-,_supposedly	1
-,_too	2
-,_pretty	1
-,_beautifully	1
-,_even	2
-,_also	1
-,_particularly	1
-,_not	4
-,_however	2
-,_much	1
-,_fast	1
-,_then	4
-,_rather	1
-,_just	4
-,_as	1
-,_finally	1
-,_maybe	1
-,_forever	1
-,_somehow	1
-,_obviously	1
-,_very	1
-,_really	1
-,_mostly	1
 CC_PRP
 And_they	1
 and_they	1
@@ -5048,6 +4953,7 @@ n't_realize	1
 n't_drag	1
 probably_avoid	1
 n't_like	4
+back_relax	1
 n't_write	1
 n't_succeed	1
 n't_know	1
@@ -5063,6 +4969,7 @@ So_sit	1
 n't_depend	1
 even_have	1
 also_serve	1
+together_go	1
 completly_steal	1
 definitely_get	1
 also_star	1
@@ -5076,6 +4983,7 @@ n't_interest	1
 ever_get	1
 n't_miss	1
 definetly_see	1
+obviously_skip	1
 n't_get	1
 really_recomend	1
 n't_help	3
@@ -5097,32 +5005,42 @@ only_hope	1
 unwittingly_outwit	1
 definitely_make	1
 n't_find	1
-''_JJ
-''_humiliating	1
+VBG_VB
+singing_Say	1
 :_UH
 ..._Yeah	1
+:_Aw	1
 JJ_RP
 flat_out	1
 right_up	1
+NNPS_IN
+Hearts_in	1
 FW_FW
 girlie_gook	1
 in_THIS	1
 wrong.This_isnt	1
 JJ_RB
 humourous_indeed	1
-interesting_enough	1
 OK_then	1
-sympathetic_even	1
-happy_even	1
+original_too	1
 funny_especially	1
-perfect_even	1
-sad_enough	1
-clear-cut_now	1
-awesome_too-especially	1
+despicable_not	2
+stylish_especially	1
+qucik_as	1
+funny_fast	1
+sympathetic_even	1
 brilliant_too	1
-,_``
-,_`	1
-,_``	3
+interesting_enough	1
+wonderful_irritatingly	1
+perfect_even	1
+well-acted_beautifully	1
+sad_enough	1
+other_then	1
+clear-cut_now	1
+funny_so	1
+awesome_too-especially	1
+happy_even	1
+cruel_somehow	1
 VBG_PRP$
 watching_My	1
 burning_her	1
@@ -5135,15 +5053,8 @@ returning_his	1
 describing_their	1
 banging_your	1
 keeping_her	1
-,_VBG
-,_forcing	1
-,_hoping	1
-,_including	1
-,_giving	2
-,_leaving	1
-,_using	1
-,_usurping	1
-,_making	1
+VBG_:
+seeing_--	1
 NNS_.
 hearts_.	2
 friends_!	1
@@ -5186,42 +5097,6 @@ lovers_.	1
 years_.	2
 values_.	1
 men_.	2
-,_VBN
-,_played	1
-NNS_,
-characters_,	1
-girls_,	1
-roles_,	1
-features_,	1
-methods_,	1
-women_,	1
-words_,	1
-parts_,	1
-fans_,	1
-comedies_,	2
-scratches_,	1
-desires_,	1
-moments_,	1
-scenes_,	3
-ages_,	1
-days_,	2
-movies_,	3
-films_,	1
-bridesmaids_,	1
-dice_,	1
-others_,	1
-members_,	1
-shucks_,	1
-minutes_,	1
-credits_,	1
-missteps_,	1
-ways_,	1
-men_,	1
-nupitals_,	1
-,_VBP
-,_do	1
-,_hate	3
-,_are	1
 VBD_NNS
 had_problems	1
 had_loads	1
@@ -5242,19 +5117,13 @@ viewers_;	1
 nuptials_--	1
 films_-	1
 years_...	1
-,_VBZ
-,_tries	3
-,_shines	1
-,_comes	1
-,_lets	1
-,_sums	1
-,_makes	1
-,_is	1
 WRB_RB
 how_well	1
 how_much	1
 when_totally	1
 why_not	1
+POS_DT
+'_the	1
 JJ_NNS
 various_methods	1
 sad_movies	1
@@ -5354,26 +5223,22 @@ JJ_NNP
 funny_!!	1
 future_Hollywood	1
 sunny_Cameron	1
+simple_Jules	1
+die-hard_Julia	1
 split-up_Mike	1
 great_Julia	1
-die-hard_Julia	1
-favorite_Roberts	1
-confident_Chicago	1
 scene-stealing_Cameron	1
 perfect_Kimmy	1
+favorite_Roberts	1
+confident_Chicago	1
+other_Rupert	1
+noble_Kim	1
+off-beat_Muriel	1
 dull_Saturday	1
 sweet_Kimmy	1
 young_Chris	1
-CD_IN
-4_If	1
-one_of	17
-One_of	3
-one_without	1
-5_of	1
-''_CC
-'_and	3
-''_and	4
-''_or	1
+JJR_VBD
+less_said	1
 IN_WP
 against_what	1
 with_what	1
@@ -5408,10 +5273,11 @@ a_well	1
 a_really	2
 the_completely	1
 a_fairly	1
+all_not	1
 both_still	1
-a_truly	1
-a_very	5
 the_delightfully	1
+a_very	5
+a_truly	1
 some_extremely	1
 the_always	1
 this_soon	1
@@ -5426,9 +5292,9 @@ this_too	1
 the_strikingly	1
 some_very	2
 this_then	1
-JJS_,
-most_,	1
-freshest_,	1
+VBD_CC
+was_but	2
+dated_and	1
 MD_.
 should_.	1
 VBD_CD
@@ -5438,45 +5304,63 @@ were_28	1
 :_LS
 ..._i	1
 NN_PRP
+future_I	1
+character_she	1
 point_I	1
 !!_I	2
 thing_I	1
 cover_it	1
 comedy_it	2
+Wedding_I	1
+guy_she	1
 character_I	1
-viewpoint_I	2
+boyfriend_he	1
 b/c_it	1
+day_he	1
 Movie_you	1
+college_she	1
+fact_I	1
 time_I	1
-movie_I	2
+movie_I	5
 course_you	1
 household_you	1
+scene_I	1
 flaw_I	1
+man_he	1
+singing_I	1
 heartbreaker_she	1
-pick_me	1
-day_he	1
-fact_she	1
+opinion_it	1
+TV_it	1
+fan_it	1
+twenty-eight_she	1
+someone_you	1
 music_they	1
 hope_she	1
-problem_she	1
-man_she	2
+flick_it	1
+man_she	3
 coz_I	1
-role_she	2
+role_she	3
+scene_you	1
 thing_she	1
 partner_they	1
 genre_we	1
-tonight_we	1
-movie_she	1
+quagmire_she	1
+movie_she	2
 course_we	1
+lot_I	1
+tonight_we	1
+fact_she	1
 way_I	1
 something_you	1
 guy_they	1
-guy_she	1
+song_I	1
+viewpoint_I	2
 everything_she	1
+meeting_he	1
 fact_you	1
 rating_it	1
 scene_he	2
-scene_I	1
+order_we	1
 somebody_you	1
 screwball_they	1
 fault_I	1
@@ -5485,14 +5369,17 @@ end_he	1
 beginning_I	1
 process_she	1
 friend_she	1
+pick_me	1
 b/c_I	1
 row_it	1
-character_she	1
+romance_it	1
+call_he	1
 relationship_they	1
-someone_you	1
+deadline_she	1
 IMHO_it	1
 turn_she	1
 time_you	1
+problem_she	1
 movie_you	1
 movie_itself	1
 VB_PRP$
@@ -5521,24 +5408,27 @@ this_out	1
 ._.
 !_.	1
 ._.	5
-,_MD
-,_must	2
 JJ_DT
 glad_this	1
+funny_the	1
 cold_a	1
 worth_an	1
+wooden_this	1
 such_a	4
 RB_CC
-over_and	2
+down_but	1
+over_and	3
 then_nor	1
 much_and	1
 n't_and	1
+disastrously_and	1
 away_and	1
 recently_and	2
 thoughtfully_and	1
 together_but	1
 back_and	1
 well_and	1
+now_and	1
 again_and	2
 RB_RP
 somewhat_off	1
@@ -5613,10 +5503,11 @@ can_use	2
 can_save	1
 will_continue	1
 NNS_IN
+days_with	1
 jokes_as	1
 downs_of	1
 examples_of	1
-characters_from	1
+characters_from	2
 moments_so	1
 errors_in	1
 FOIBLES_OF	1
@@ -5646,6 +5537,7 @@ means_of	1
 feelings_as	1
 charges_after	1
 times_before	1
+fans_since	1
 Hints_for	1
 problems_with	1
 movies_from	1
@@ -5658,7 +5550,7 @@ kudos_for	1
 Thanks_for	1
 intentions_of	1
 years_ago	1
-women_in	1
+women_in	2
 fans_of	2
 years_since	1
 weeks_before	2
@@ -5671,6 +5563,7 @@ feet_in	1
 lyrics_of	1
 times_at	1
 guys_like	1
+scratches_like	1
 scenes_in	2
 VB_VBN
 be_missed	1
@@ -5693,12 +5586,10 @@ be_said	2
 have_ruined	1
 VBD_:
 was_...	1
-VB_VBG
-enjoy_watching	1
-imagine_wanting	1
-suggest_seeing	1
-be_facing	1
-recomend_buying	1
+RP_JJ
+out_loud	1
+out_illegal	1
+up_big	1
 WRB_NNP
 how_Cameron	1
 Why_Julia	1
@@ -5715,16 +5606,6 @@ when_Julianne	3
 WRB_NNS
 When_people	1
 where_people	1
-,_DT
-,_some	3
-,_this	8
-,_that	1
-,_each	1
-,_a	19
-,_the	14
-,_no	1
-,_an	3
-,_all	1
 NNP_NNPS
 MANY_TIMES	1
 Do_n'ts	1
@@ -5733,15 +5614,52 @@ VBZ_RBR
 is_less	1
 CD_PRP
 28_they	1
+1997_she	1
 one_you	1
-NNS_DT
-performances_the	1
-touches_the	1
-times_the	1
-POS_``
-'s_``	4
+CC_RB
+But_overall	1
+and_actually	1
+and_also	1
+and_then	4
+and_finally	1
+and_definitely	1
+but_very	1
+but_still	2
+but_even	2
+and_wickedly	1
+but_maybe	1
+and_ultimately	1
+and_only	1
+and_sometimes	1
+And_then	1
+and_very	1
+and_afterwards	1
+and_just	3
+but_just	2
+But_even	2
+and_completely	1
+but_deep	1
+But_definitely	1
+and_maybe	1
+but_then	2
+and_over	1
+and_so	1
+And_finally	1
+and_slightly	1
+but_only	2
+But_now	2
+and_genuinely	1
+and_lastly	1
+and_now	1
+and_not	3
+or_just	2
+and_perhaps	1
+and_really	1
+but_quickly	1
+and_again	2
 VBZ_NN
 has_chutzpah	1
+does_nothing	1
 does_everything	2
 does_something	1
 is_alot	1
@@ -5764,10 +5682,6 @@ POS_RB
 '_often	1
 WRB_NN
 where_everyone	1
-UH_,
-Oh_,	1
-Aw_,	1
-OK_,	1
 TO_JJ
 to_other	1
 to_next	1
@@ -5828,18 +5742,18 @@ man_in	1
 movie_?!!	1
 cause_i	1
 movie_i	1
-,_WDT
-,_which	5
-,_that	3
-``_PRP$
-``_My	3
-`_My	1
+NNS_POS
+things_'	1
+audiences_'	1
+women_'s	1
 NNPS_NN
 Friends_Wedding	2
 VBG_EX
 getting_there	1
 UH_NNP
 Oh_Julia	1
+UH_NNS
+Aw_shucks	1
 JJS_NNS
 best_friends	4
 best_things	1
@@ -5855,6 +5769,7 @@ bombshell_-	1
 heroine_-	1
 comedy_--	1
 Wedding_:	1
+Wedding_;	1
 CLASSIC_...	1
 contradiction_...	1
 charisma_:	1
@@ -5882,146 +5797,26 @@ one_just	1
 one_either	1
 POS_JJR
 's_younger	1
-._''
-?_''	1
-._'	2
-._''	4
+POS_JJS
+'s_best	3
 NNP_JJ
 Amazon.com_Essential	1
 Roberts_sky-high	1
+Roberts_beautiful	1
 Roberts_next	1
 Roberts_facial	1
 Julianne_sympathetic	1
 Jules_weird	1
+Newhouse_like-dressing	1
 Michael_jealous	4
-NN_,
-wow_,	1
-superb_,	1
-seat_,	1
-conflict_,	2
-heart_,	1
-everyone_,	1
-decade_,	1
-Man_,	1
-hate_,	1
-face_,	1
-Wedding_,	1
-enemy_,	1
-this_,	1
-edge_,	1
-singing_,	1
-groom_,	1
-</a>_,	1
-bar_,	1
-laugh_,	2
-Ghost_,	1
-comedy_,	2
-humor_,	1
-relationship_,	1
-Heck_,	1
-marriage_,	2
-extent_,	1
-fan_,	1
-Honor_,	1
-lovliness_,	1
-condition_,	1
-aid_,	1
-release_,	1
-notch_,	1
-romance_,	3
-forgiveness_,	1
-success_,	1
-story_,	1
-actor_,	1
-bellman_,	1
-smile_,	1
-acting_,	2
-pity_,	1
-today_,	1
-formula_,	1
-order_,	1
-engagement_,	1
-semi-psychopath_,	1
-song_,	1
-plan_,	1
-boyfriend_,	1
-ending_,	2
-blue_,	1
-fact_,	2
-movie_,	17
-call_,	1
-man_,	2
-moment_,	1
-pathos_,	1
-soundtrack_,	1
-guile_,	1
-end_,	2
-quagmire_,	1
-meeting_,	1
-restaurant_,	1
-part_,	1
-friend/ex-boyfriend_,	1
-pact_,	1
-star_,	1
-accident_,	1
-fianc&eacute;e_,	2
-broadcaster_,	1
-woman_,	2
-film_,	3
-fiance_,	2
-work_,	1
-future_,	1
-youth_,	1
-hell_,	1
-audience_,	1
-LAUGH_,	1
-yada_,	1
-jealousy_,	1
-friend_,	13
-restaraunt_,	1
-twenty-eight_,	1
-role_,	1
-opinion_,	2
-TV_,	2
-music_,	1
-hair_,	2
-flick_,	1
-look_,	1
-blast_,	1
-way_,	1
-course_,	2
-region_,	1
-performance_,	1
-willenjoy_,	1
-scene_,	3
-deadline_,	1
-character_,	4
-boss_,	1
-couple_,	1
-college_,	1
-dancing_,	1
-yep_,	1
-etc._,	1
-Planner_,	1
-wedding_,	3
-delight_,	1
-love_,	4
-time_,	2
-dismay_,	1
-``_NN
-`_coz	1
-``_Best	1
-``_Return	1
-`_comedy	1
-``_yep	1
-`_nothing	1
-``_desparado	1
-``_singing	1
-`_singing	1
-``_chick	1
-`_sidekick	1
-``_boyfriend	1
-`_formula	1
+CD_IN
+4_If	1
+one_of	17
+One_of	3
+one_without	1
+5_of	1
+TO_CD
+to_4	1
 NN_.
 manipulation_.	1
 happiness_.	1
@@ -6038,7 +5833,8 @@ speed_!	1
 father_.	3
 edition_.	1
 conclusion_.	2
-today_.	1
+film_.	8
+Man_!	1
 party_.	2
 face_.	2
 gem_.	1
@@ -6059,6 +5855,7 @@ outcome_.	2
 dialogue_.	1
 life_.	1
 relationship_!	1
+WOMAN_.	1
 classic_.	1
 masterpiece_.	1
 chemistry_.	1
@@ -6078,7 +5875,7 @@ subject_.	1
 smile_.	1
 path_.	1
 ground_.	1
-film_.	8
+bad_.	1
 tension_.	1
 Prayer_.	1
 affection_.	1
@@ -6086,6 +5883,7 @@ WEDDING_!	1
 sculpture_.	1
 place_.	1
 script_.	1
+today_.	1
 resolution_.	1
 breakfast_.	1
 fire_.	1
@@ -6117,7 +5915,7 @@ case_.	1
 star_.	1
 brilliance_.	2
 breaking_.	1
-friendship_.	1
+friendship_.	2
 fiance_.	1
 chase_.	1
 anything_.	1
@@ -6128,6 +5926,7 @@ cast_.	2
 honesty_.	1
 thing_!	1
 watching_.	1
+bone_.	1
 help_.	1
 yada_.	1
 movie_!	1
@@ -6150,6 +5949,7 @@ avail_.	1
 measure_.	1
 way_.	3
 pushover_.	1
+extravaganza_.	1
 scene_.	3
 exception_.	1
 brother_.	1
@@ -6167,7 +5967,6 @@ premise_.	1
 afternoon_.	1
 battle_.	2
 wedding_.	11
-bad_.	1
 point_?	1
 love_.	3
 Date_.	1
@@ -6190,8 +5989,6 @@ that_is	3
 that_leads	1
 that_'s	1
 that_serves	1
-POS_,
-'_,	2
 JJR_TO
 more_to	1
 WDT_VBP
@@ -6200,24 +5997,6 @@ that_show	1
 that_are	1
 THAT_HAVE	1
 which_are	1
-,_VB
-,_get	1
-,_hide	1
-,_let	1
-,_go	1
-,_round	1
-,_relax	1
-,_buy	1
-,_pay	1
-,_skip	1
-''_NN
-'_ahem	1
-''_sing-along	1
-''_fiancee	1
-''_table	1
-'_character	2
-''_scene	1
-''_friend-boy	1
 VBP_VB
 cant_believe	1
 do_enjoy	1
@@ -6230,11 +6009,16 @@ as_to	2
 PRP_CC
 it_nor	1
 herself_and	1
+it_and	2
+him_but	1
 she_and	1
-him_and	2
-her_and	4
+it_but	1
+him_and	3
+me_but	1
+her_and	5
 them_and	1
-him_or	1
+him_or	2
+her_but	1
 it_or	1
 WDT_VBD
 which_was	1
@@ -6243,15 +6027,11 @@ which_made	1
 which_seemed	1
 PRP_CD
 it_7	1
-RP_JJ
-out_loud	1
-out_illegal	1
-up_big	1
 VBG_RB
 behaving_somewhat	1
 breaking_slowly	1
-WDT_,
-which_,	1
+FW_JJ
+ex_old	1
 DT_WRB
 this_when	1
 CC_NNS
@@ -6260,9 +6040,6 @@ and_laughs	1
 and_desires	2
 and_sports	1
 and_motivations	1
-DT_,
-that_,	4
-all_,	5
 DT_.
 this_.	4
 that_.	2
@@ -6284,12 +6061,16 @@ i_really	1
 JJ_VB
 few_peer	1
 huge_let	1
+bizarre_round	1
 bittersweet_blend	1
 DT_:
 all_...	1
 this_-	1
 NNS_NNP
 parents_Walter	1
+credits_Wishin	1
+bridesmaids_Chris	1
+years_Jules	1
 names_Roberts	1
 NNPS_:
 n'ts_-	1
@@ -6298,6 +6079,7 @@ completely_wrong	2
 very_sweet	1
 absolutely_delightful	1
 very_wealthy	1
+maybe_sweet	1
 very_pleased	1
 really_good	3
 slightly_black	1
@@ -6402,15 +6184,16 @@ very_humourous	1
 so_much	2
 terribly_imaginative	2
 yet_other	1
+not_ready	1
 absolutely_superb	1
 actually_uninventive	1
 absolutely_hilarious	1
 always_sunny	1
 genuinely_engaging	1
+WRB_IN
+where_while	1
 NNS_RBR
 years_earlier	1
-VB_``
-say_``	2
 TO_PDT
 to_all	1
 CD_DT
@@ -6456,26 +6239,36 @@ saying_this	1
 RB_PRP
 well_she	1
 now_I	1
+here_I	1
 just_me	1
 only_himself	1
+now_we	1
 Sometimes_we	1
-However_it	1
+However_it	3
 perhaps_it	2
 well_it	1
+Sure_I	1
+later_I	1
 somehow_we	1
 Maybe_it	2
-then_I	1
+together_we	1
+Maybe_I	1
+Sure_she	1
+Well_it	1
 Sometimes_I	1
+afterwards_you	1
 maybe_we	1
 then_you	3
 However_I	1
 Normally_I	1
 then_they	1
+wistfully_I	1
 Then_she	1
 n't_it	1
+along_it	1
 frankly_I	1
-now_we	1
-Maybe_I	1
+ago_she	1
+then_I	1
 finally_she	1
 :_VBG
 ..._balancing	1
@@ -6507,6 +6300,7 @@ gives_us	1
 says_she	1
 makes_her	1
 entertains_me	1
+is_I	1
 devours_her	1
 loves_her	2
 tells_her	1
@@ -6518,27 +6312,32 @@ realizes_she	3
 pleases_you	1
 asks_her	1
 VB_RB
+walk_away	1
+have_easily	2
+feel_so	1
+have_ever	1
+complain_too	1
+get_together	1
+depend_so	1
+get_back	1
+sit_back	1
+be_also	1
+cry_just	1
+steal_almost	1
 play_very	1
 let_down	1
-complain_too	1
-walk_away	1
-feel_not	1
 be_sorely	1
 sing_along	1
-depend_so	1
-get_together	1
-steal_almost	1
-have_easily	2
-get_back	1
-feel_so	1
-cry_just	1
-have_ever	1
-Sit_back	1
 slip_away	1
-be_vastly	1
-sit_back	1
-think_again	1
 be_very	1
+Sit_back	1
+be_vastly	1
+feel_not	1
+think_again	1
+:_VBN
+:_Unveiled	1
+:_VBP
+:_Do	1
 VB_RP
 give_away	1
 pick_up	1
@@ -6554,9 +6353,10 @@ call_up	1
 round_out	1
 wake_up	1
 JJ_WRB
+incorrect_when	1
 picky_when	1
 active_when	1
-incorrect_when	1
+enjoyable_where	1
 furious_when	1
 NN_RBR
 product_faster	1
@@ -6564,18 +6364,8 @@ NNS_WRB
 films_where	1
 scenes_where	2
 times_when	1
-``_JJ
-``_dumb	1
-``_funny	1
-``_women-only	1
-`_OTHER	1
-``_perfect	1
-`_ditzy	1
-``_wonderful	1
-``_gosh	1
-VB_''
-do_''	1
-Set_''	1
+NN_EX
+film_there	1
 NNP_IN
 Grant_in	1
 Michael_for	1
@@ -6596,6 +6386,7 @@ PERFECT_IN	1
 Mulroney_in	1
 Diaz_in	3
 Diaz_of	1
+Roberts_of	1
 DIAZ_AS	1
 Roberts_in	1
 Kimmy_at	1
@@ -6606,30 +6397,15 @@ Hepburn_in	1
 Bosco_as	1
 Mulroney_as	1
 George_for	1
+David_At	1
 Kimmy_in	1
 Kimmy_as	1
-FW_,
-ex_,	1
-PRP$_NNS
-his_films	1
-my_eyes	1
-her_efforts	1
-her_Gay	1
-his_intentions	1
-their_roles	1
-her_movies	1
-my_favorites	1
-her_actions	1
-our_passions	1
-her_plans	1
-Her_plans	1
-his_performances	1
+RB_NNS
+ever_films	1
+Usually_couples	1
+Even_guys	1
 FW_.
 gook_.	1
-VBZ_``
-does_`	1
-is_``	1
-becomes_`	1
 IN_VBG
 from_happening	1
 of_breaking	1
@@ -6665,23 +6441,15 @@ before_watching	1
 of_getting	1
 for_getting	1
 while_watching	1
-,_PRP
-,_she	17
-,_they	1
-,_we	2
-,_you	6
-,_it	17
-,_I	15
-,_he	8
 CC_JJR
 but_more	1
 and_better	1
 IN_VBN
 of_happened	1
-``_VBN
-``_Unveiled	1
 PRP$_NNP
 his_fianc&eacute;	1
+JJS_JJS
+freshest_funniest	1
 VBG_.
 telling_.	1
 winning_?	1
@@ -6693,70 +6461,78 @@ depressing_.	1
 buying_.	1
 watching_!	1
 going_.	1
-''_''
-'_''	1
-VBG_,
-happening_,	1
-confronting_,	1
 JJ_CC
-original_but	1
+original_but	2
+uninteresting_and	1
 serious_but	1
 witty_and	1
+next_and	1
 confident_and	1
 sarcastic_and	1
 beautiful_and	3
+likable_but	1
 fast_and	1
 good_and	3
 necessary_and	1
-romantic_and	1
+romantic_and	2
 successful_and	1
-convincing_and	1
+old_and	2
+women-only_or	1
 contrived_and	1
 spontaneous_and	1
-heart-warming_but	1
+other_but	1
 funky_and	1
-interesting_but	1
+hilarious_and	2
+big_but	1
 challenging_or	1
 foiled_and	1
+male_and	1
 Sharp-witted_and	1
+convincing_and	1
+devoted_and	1
 sweet_and	1
+great_and	2
 cute_and	1
 comedic_and	1
-funny_and	6
-loud_and	1
+funny_and	7
+enjoyable_and	1
+far-fetched_and	1
+irritated_and	1
+cruel_but	1
 classy_and	1
+serviceable_but	1
+heart-warming_but	1
+loud_and	1
 deceptive_and	1
 funny_or	1
-old_and	2
-male_and	1
+reprehensible_and	1
+brilliant_and	1
+shy_and	1
+entertaining_but	1
 relatable_and	1
 old_or	1
 immature_and	1
 irritating_but	1
 true_and	2
 pretty_and	1
-next_and	1
+interesting_but	1
 fleeting_and	1
 independent_and	1
-great_and	2
+gay_and	1
 sympathetic_and	1
-pathetic_and	1
+pathetic_and	2
+gay_but	1
+comical_but	1
 evil_but	1
 good_but	1
 VBN_RBR
 become_more	1
-MD_,
-will_,	1
 JJ_CD
 same_two	1
 solid_3-1/2	1
 excellent_one	1
 rewarding_one	1
 old_50	1
-CD_,
-1997_,	1
-3_,	1
-28_,	3
 CD_.
 one_.	1
 28_.	1
@@ -6766,11 +6542,16 @@ WRB_LS
 when_i	1
 NNP_WP
 Rupert_who	1
+Kimmy_who	1
 Michael_who	1
 Know_What	1
+South_who	1
 Roberts_who	1
 Holmes_who	1
 Mulroney_who	1
+Diaz_who	1
+George_who	1
+Juliette_who	1
 Everett_who	2
 Phobic_who	1
 CD_:
@@ -6846,20 +6627,24 @@ nine_years	3
 CD_NNP
 One_Woman	1
 1997_Julia	1
+28_Michael	1
 VBN_RB
-chosen_not	1
-been_much	1
-been_together	1
+seen_particularly	1
 put_forth	1
+been_together	1
+chosen_not	1
+married_then	1
+paced_not	1
 aged_very	1
+been_much	1
 NNP_NN
 Michael_fall	1
 Roberts_fight	1
+Bride_Ghost	1
 Hudson_extravaganza	1
 York_food	1
 Roberts_movie	1
 Saturday_afternoon	1
-NICE_FAMILY	1
 Date-Movies_list	1
 Chicago_food	2
 Hollywood_legend	1
@@ -6869,6 +6654,7 @@ Diaz_fan	1
 J.Roberts_vehicle	1
 Roberts_vehicle	1
 Jules_commitment	1
+Julia_smoking	1
 Roberts_character	1
 Barbie_doll	1
 Mulroney_fan	1
@@ -6876,7 +6662,7 @@ Hollywood_romance	1
 This_movie	2
 Julia_bride	1
 Food_critic	1
-Julia_smoking	1
+NICE_FAMILY	1
 Roberts_fan	2
 VBZ_RB
 is_also	2
@@ -7009,24 +6795,24 @@ Others_may	1
 amateurs_could	1
 PRP$_$
 your_$	1
-,_JJR
-,_sexier	1
-,_funnier	1
+FW_VBP
+i_have	1
+dont_expect	1
 TO_RB
 to_ever	1
 to_not	1
 to_always	1
 to_FINALLY	1
 to_unwittingly	1
-VBN_''
-jello_''	1
 RBR_IN
 faster_than	1
 more_than	1
 better_than	1
 Earlier_in	1
+better_with	1
 RB_IN
 particularly_for	1
+However_on	1
 just_for	1
 even_after	1
 back_before	1
@@ -7051,6 +6837,7 @@ well_as	2
 around_in	1
 especially_from	1
 n't_until	1
+However_at	1
 even_though	1
 So_because	1
 here_in	1
@@ -7060,6 +6847,7 @@ just_with	1
 far_that	1
 ultimately_in	1
 now_that	1
+again_for	1
 just_after	1
 not_at	1
 Even_though	1
@@ -7081,6 +6869,7 @@ hopelessly_in	1
 right_through	1
 First_of	1
 only_if	1
+however_that	1
 especially_in	1
 VBG_IN
 working_at	1
@@ -7105,6 +6894,7 @@ guessing_until	1
 REPEATING_OVER	1
 routing_for	1
 assisting_in	1
+confronting_if	1
 $_CD
 $_7.36	1
 FW_VBD
@@ -7124,9 +6914,7 @@ a_1958	1
 the_two	2
 DT_CC
 this_and	1
-all_but	1
-FW_``
-ex_``	1
+all_but	2
 RP_DT
 up_the	13
 up_a	1
@@ -7164,45 +6952,6 @@ are_overall	1
 am_normally	1
 PRP$_:
 her_...	1
-VBG_``
-singing_``	1
-seeing_``	1
-saying_``	1
-''_NNP
-''_Service	1
-''_George	1
-''_Maybe	1
-NNP_,
-South_,	1
-Mulroney_,	4
-Juliette_,	1
-Madonna_,	1
-Micheal_,	1
-Bride_,	2
-York_,	1
-O'Neal_,	2
-Newhouse_,	1
-Julianne_,	5
-Diaz_,	9
-Kim_,	3
-Richard_,	1
-Hill_,	1
-Juliana_,	1
-NY_,	1
-Ritt_,	1
-Jule_,	1
-Potter_,	3
-WEDDING_,	1
-helium_,	1
-Kimberly_,	1
-Kimmy_,	2
-Michael_,	5
-David_,	1
-Roberts_,	10
-Everett_,	4
-George_,	2
-Wallace_,	1
-Mulrooney_,	1
 CD_JJ
 two_main	1
 three_short	1
@@ -7233,9 +6982,14 @@ Woman_.	3
 Everett_.	5
 Stars_!	1
 Chicago_.	2
+JJ_VBP
+off-key_Do	1
 FW_NN
 Bottom_line	1
 THIS_movie	1
+ex_boyfriend	1
+PRP$_FW
+your_ex	1
 JJ_VBN
 perfect_compared	1
 POS_CD
@@ -7297,26 +7051,27 @@ VBZ_:
 says_:	1
 is_:	1
 implies_:	1
+JJ_PRP$
+engaging_My	1
 VBZ_.
 happens_.	1
 bangs_!	1
 seems_.	1
 succeeds_.	1
 is_.	2
-VBZ_,
-makes_,	1
-is_,	5
-exploits_,	1
 RB_NN
-then_everyone	1
+basically_b/c	1
+n't_love	1
 generally_fun	1
+HERE_NOBODY	1
 just_heart	1
 not_everyone	1
+Now_twenty-eight	1
+again_coz	1
 well_character	1
-only_saviour	1
-n't_love	1
+then_everyone	1
 completely_trust	1
-basically_b/c	1
+only_saviour	1
 NNS_TO
 days_to	3
 efforts_to	3
@@ -7325,49 +7080,61 @@ desires_to	1
 weddings_to	1
 attempts_to	1
 flies_to	1
-VBP_``
-see_``	1
-make_``	1
-sing_``	2
-VBD_''
-hurt_''	1
 JJ_JJ
 many_memobrable	1
 typical_romantic	1
 hilarious_karoke	1
 breeze-light_romantic	1
 oh-so-tired_romantic	1
+spunky_funny	1
 good_romantic	1
+different_wonderful	1
 other_male	1
+excellent_feel-good	1
 excellent_technical	1
-great_supporting	1
+fresh_funky	1
+hilarious_romantic	1
+kind-of_real-life	1
 few_good	2
-much_soppy	1
+feel-good_romantic	1
+mature_good	1
 helpless_romantic	1
 all-time_favorite	1
+much_soppy	1
 main_male	1
 real-life_romantic	1
 deliteful_romantic	1
 solid_romantic	1
-feel-good_romantic	1
+young_scene-stealing	1
+intelligent_witty	1
 gay_other	1
 successful_girly	1
 only_professional	1
+energetic_bittersweet	1
 former_romantic	1
 bitter_sweet	1
 fast-talking_confident	1
-kind-of_real-life	1
+underhanded_despicable	2
 non-feelgood_romantic	1
 many_different	1
+funny_romantic	1
+rich_blonde	1
 original_alternative	1
+current_opposite-sex	1
 pure_comedic	1
-gosh_darn	1
-little_harsh	1
+witty_active	1
+sweet_pretty	1
 light_romantic	1
+gosh_darn	1
 harsh_only	1
 16-year_old	1
 run-of-the-mill_romantic	1
+little_harsh	1
+humorous_beautiful	1
+great_supporting	1
+elegant_intelligent	1
 own_personal	1
+blonde_perfect	1
 final_desperate	1
 afore-mentioned_gay	1
 doomed_uphill	1
@@ -7375,6 +7142,8 @@ clever_romantic	1
 perky_blonde	1
 good_hearted	1
 handsome_gay	1
+light-hearted_romantic	1
+weak_uninteresting	1
 significant_other	1
 JJR_IN
 less_than	1
@@ -7388,12 +7157,15 @@ how_much	2
 how_nervous	1
 how_real	1
 how_classy	1
-,_CC
-,_and	68
-,_or	2
-,_but	55
+VB_VBG
+enjoy_watching	1
+imagine_wanting	1
+suggest_seeing	1
+be_facing	1
+recomend_buying	1
 VB_NN
-find_someone	1
+say_yep	1
+kill_everything	1
 peer_group	1
 happen_!!	1
 say_everything	1
@@ -7404,9 +7176,9 @@ have_!!	1
 break_marriage	1
 watch_movie	1
 enjoy_life	1
-kill_everything	1
-cry_cause	1
 marry_someone	1
+cry_cause	1
+find_someone	1
 UH_RB
 Yeah_right	1
 VBZ_JJR
@@ -7417,31 +7189,35 @@ has_less	1
 is_more	1
 VBZ_JJS
 's_best	1
+becomes_best	1
 RP_CC
 off_and	1
+POS_IN
+'_before	1
 NN_WP
 cast_who	1
-foe_who	1
+gem_who	1
+course_who	1
+couple_who	1
+anyone_who	2
+bride_whom	1
 someone_who	1
 girl_who	1
-type_who	1
-couple_who	1
-bride_whom	1
+tomboy_who	1
+actress_who	1
+fiance_who	1
+Anyone_who	1
+friend_who	1
 saviour_who	1
 everyone_who	1
-Anyone_who	1
 guy_who	1
-gem_who	1
-critic_who	4
-woman_who	1
-tomboy_who	1
 man_who	2
-actress_who	1
-reviewer_who	1
-anyone_who	2
 character_who	1
-``_FW
-``_ex	2
+foe_who	1
+woman_who	1
+type_who	1
+reviewer_who	1
+critic_who	4
 RB_RBR
 even_better	1
 much_better	1
@@ -7469,9 +7245,10 @@ laughs_come	1
 characters_breathe	1
 characters_share	1
 songs_are	1
+plans_have	1
 endings_are	1
 motivations_provoke	1
-plans_have	1
+ways_are	1
 girls_are	1
 stars_!!	1
 people_make	1
@@ -7480,9 +7257,6 @@ moments_occur	1
 Things_go	1
 expressions_are	1
 plans_are	1
-FW_VBP
-i_have	1
-dont_expect	1
 NNP_MD
 Julianne_can	1
 Julianne_must	1
@@ -7519,6 +7293,7 @@ roberts_is	1
 sequences_is	1
 bridesmaids_gets	1
 featurettes_is	1
+minutes_makes	1
 actions_does	1
 VBD_PRP$
 thrown_her	1
@@ -7526,15 +7301,12 @@ wanted_their	1
 enjoyed_his	1
 had_her	1
 IN_CC
-OVER_AND	1
 over_and	4
-with_and	1
 in_and	1
-PRP_:
-it_...	1
-themselves_:	1
-him_-	1
-her_:	1
+with_and	1
+in_but	1
+OVER_AND	1
+on_and	1
 JJS_IN
 Most_of	1
 best_out	1
@@ -7544,10 +7316,9 @@ best_in	1
 NNS_VBG
 directors_pulling	1
 boys_getting	1
-``_IN
-`_Since	1
-``_On	1
+scenes_including	1
 PRP_NNP
+it_Julia	1
 you_?!	1
 PRP_NNS
 it_lights	1
@@ -7557,12 +7328,12 @@ NNS_VBN
 situations_engineered	1
 intentions_put	1
 clich&eacute;s_built	1
-VBP_NNS
-love_movies	1
-are_times	1
-make_fools	1
-enjoy_films	1
-are_moments	1
+VBN_NNP
+seen_MY	1
+seen_Julianne	1
+named_Kimberly	1
+Granted_Julia	1
+engaged_George	1
 VBP_NNP
 love_Rupert	2
 are_Samantha	1
@@ -7572,8 +7343,9 @@ love_Julia	1
 love_MY	1
 enjoy_Julia	1
 have_Julia	1
-hate_Cameron	1
+mean_Chicago	1
 feel_George	1
+hate_Cameron	1
 recognize_Cameron	1
 see_Michael	1
 meet_Kimmy	1
@@ -7581,10 +7353,6 @@ VBP_RP
 wind_up	1
 break_out	1
 end_up	2
-``_PRP
-``_I	12
-``_It	1
-``_He	1
 NN_WP$
 anti-heroine_whose	1
 VBG_WP
@@ -7602,14 +7370,6 @@ POS_JJ
 's_directorial	1
 's_gay	1
 's_hilarious	1
-''_IN
-''_worth	1
-'_in	1
-''_with	2
-''_on	1
-''_as	1
-''_At	1
-''_at	1
 :_TO
 ;_to	1
 VBD_VBN
@@ -7631,6 +7391,8 @@ got_driven	1
 had_promised	1
 CC_WP$
 and_whose	1
+JJS_TO
+best_to	2
 VBZ_VB
 does_lessen	1
 VBD_PRP
@@ -7673,6 +7435,7 @@ between_fresh	1
 as_sweet	1
 with_many	1
 on_short	1
+for_women-only	1
 of_true	1
 despite_good	1
 for_many	1
@@ -7692,9 +7455,6 @@ like_new	1
 in_pseudo-romantic	1
 for_great	1
 for_good	1
-RBR_,
-better_,	1
-earlier_,	1
 VBN_NN
 planned_wedding	1
 deserved_ending	1
@@ -7705,19 +7465,25 @@ done_nothing	1
 NNP_RB
 Everett_practically	1
 Everett_also	1
+WEDDING_then	1
 NOT_always	1
 Everett_not	1
 Julia_just	1
 Roberts_then	1
+Juliana_then	1
 Diaz_instead	1
 Roberts_convincingly	1
-Juliana_then	1
+Kimberly_completely	1
 Mulroney_just	1
-Everett_virtually	1
+Diaz_much	1
+Michael_so	1
 George_really	1
 Michael_back	3
 Roberts_together	1
-Kimberly_completely	1
+Jule_pretty	1
+Everett_virtually	1
+UH_IN
+OK_so	1
 NNP_VBP
 Diaz_are	2
 Michael_have	1
@@ -7733,6 +7499,7 @@ Preston_are	1
 ..._IT	1
 ;_it	1
 :_I	1
+:_It	1
 :_JJ
 -_such	1
 :_funny	1
@@ -7742,15 +7509,19 @@ Preston_are	1
 :_warm	1
 :_new	1
 VBN_CC
+played_but	1
+cast_and	1
+backfired_and	1
 photographed_and	1
 dated_and	1
 married_and	2
-cast_and	1
+married_but	1
 NNP_VBZ
 Michael_is	4
 Roberts_has	2
 Movie_has	1
 Everett_reminds	1
+Michael_tries	1
 Julianne_becomes	1
 ROBERTS_IS	1
 Kim_is	1
@@ -7816,6 +7587,7 @@ Potter_is	2
 Kim_latches	1
 Walsh_plays	1
 Roberts_finds	2
+Potter_tries	1
 Diaz_puts	1
 Michael_seems	1
 George_comes	1
@@ -7826,6 +7598,7 @@ Roberts_becomes	1
 WEDDING_is	1
 Julianne_sets	1
 Shearer_plays	1
+Julianne_sums	1
 VB_JJ
 get_serious	1
 be_sure	1
@@ -7834,11 +7607,12 @@ have_much	1
 see_many	1
 provide_moral	1
 remember_many	1
+be_honest	1
 be_good	1
 be_fickle	1
 Be_careful	1
+say_funny	1
 be_right	1
-be_honest	1
 be_predictable	1
 like_romantic	1
 be_gay	1
@@ -7935,16 +7709,12 @@ to_learn	1
 to_introduce	1
 to_wait	1
 NN_JJS
+movie_most	1
 childhood_best	1
 RB_MD
 just_might	1
 just_may	1
 much_can	1
-NN_``
-song_``	1
-ensemble_``	1
-singing_``	1
-lot_``	1
 VBG_NNP
 chasing_Kimmy	1
 meeting_Kimberly	1
@@ -7956,20 +7726,18 @@ featuring_Roberts	1
 marrying_Kimmy	1
 chasing_Michael	1
 marrying_Cameron	1
+winning_George	1
 including_Kimberely	1
+seeing_Fools	1
 praising_Ms	1
 securing_Michael	1
-VBD_,
-did_,	1
-said_,	1
-was_,	2
-fetched_,	2
 FW_VBN
 i_ordered	1
 VBD_.
 ended_.	1
 split_.	1
 expected_.	1
+hurt_.	1
 focused_.	1
 were_.	1
 had_.	1
@@ -7977,6 +7745,7 @@ loved_!	1
 NNP_VBG
 Roberts_behaving	1
 Everett_breaking	1
+Julianne_giving	1
 Roberts_having	1
 NNP_VBD
 Cornell_called	1
@@ -7991,6 +7760,8 @@ Michael_seemed	1
 Diaz_was	3
 George_had	1
 Michael_vowed	1
+NNP_VBN
+O'Neal_played	1
 NNP_POS
 Warwick_'s	3
 Diaz_'s	1
@@ -8018,19 +7789,24 @@ Hopin_'	1
 Everett_'s	1
 Do_'s	1
 George_'s	2
-VBD_CC
-dated_and	1
 NN_RB
 age_even	1
 life_upside	1
 relationship_even	1
+pathos_rather	1
 everyone_else	2
+performance_here	1
+boss_supposedly	1
 cruelty_as	1
 somebody_else	1
 Mr.Everett_rather	1
 norm_unfortunately	1
+movie_too	1
+pact_however	1
+notch_especially	1
 television_recently	1
 Nothing_too	1
+romance_just	1
 movie_still	1
 lesson_here	1
 someone_else	1
@@ -8041,6 +7817,7 @@ bride-to-be_so	1
 movie_back	1
 love_ever	1
 film_even	1
+edge_forever	1
 humor_here	1
 movie_away	1
 attempt_only	1
@@ -8051,20 +7828,25 @@ lot_not	1
 nothing_else	1
 wedding_so	1
 favourite_ever	1
+etc._then	1
 ending_not	1
 wife_thoroughly	1
-performance_here	1
+Heck_even	1
 film_originally	1
+part_finally	1
 film_aside	1
+woman_just	1
 film_though	1
+comedy_even	1
 bit_far	2
+movie_really	1
 scene_over	1
 movie_close	1
 JJ_IN
-tired_of	1
+Other_than	1
 hard_for	1
 predictable_as	1
-Other_than	1
+tired_of	1
 good_at	1
 sure_that	1
 magnificiant_in	1
@@ -8075,6 +7857,7 @@ jealous_of	1
 great_with	1
 complete_with	1
 interesting_that	2
+unlikeable_as	1
 vibrant_as	1
 perfect_as	1
 right_about	1
@@ -8089,7 +7872,7 @@ great_about	1
 enjoyable_although	1
 other_if	2
 right_out	1
-sexy_as	1
+such_as	2
 few_of	1
 entertaining_as	1
 clear_that	1
@@ -8099,6 +7882,7 @@ adorable_in	1
 forgivable_in	1
 scared_of	1
 Much_of	1
+enjoyable_with	1
 inventive_for	1
 outstanding_as	1
 interested_in	3
@@ -8106,15 +7890,17 @@ naive_because	1
 funny_at	1
 endearing_in	1
 much_as	1
+sexy_as	1
 reflective_of	1
-such_as	2
+surprising_because	1
 much_of	3
 careful_with	1
 single_at	1
 great_as	1
-blonde_from	1
+enjoyable_as	1
 curious_about	1
 afraid_of	1
+blonde_from	1
 OK_until	1
 flat_on	1
 pleased_with	1
@@ -8124,10 +7910,6 @@ high_on	1
 other_in	1
 wonderful_so	1
 glad_that	2
-VBD_``
-called_``	1
-''_PRP
-''_I	1
 VBG_JJ
 pleasing_romantic	1
 balancing_subtle	1
@@ -8138,6 +7920,7 @@ looking_male	1
 facing_grand	1
 using_various	1
 bringing_much	1
+saying_gosh	1
 VB_MD
 watch_will	1
 NN_RP
@@ -8145,11 +7928,6 @@ laugh_out	1
 mess_up	2
 couple_up	1
 audience_around	1
-IN_:
-with_;	1
-in_-	1
-like_...	1
-of_...	1
 VBZ_DT
 gets_a	1
 is_the	13
@@ -8238,10 +8016,12 @@ Goes_ON	1
 meets_Kim	1
 plays_Juliette	1
 IS_PERFECT	1
+is_Life	1
 calls_George	1
 loves_Jule	1
 MD_IN
 can_in	1
+will_of	1
 :_.
 ..._?	1
 VBZ_NNS
@@ -8256,15 +8036,11 @@ want_someone	1
 provoke_sympathy	1
 want_everyone	1
 NN_PRP$
+moment_her	1
 slower.For_our	1
+formula_My	1
+time_his	1
 comedy_My	1
-JJ_''
-women-only_''	1
-perfect_''	1
-other_''	1
-,_JJS
-,_funniest	1
-,_most	1
 :_RBS
 :_most	1
 VB_CD
@@ -8283,16 +8059,27 @@ watch_and	1
 help_but	2
 relax_and	1
 NNP_DT
-Everett_the	1
+Mulroney_the	1
+Kim_a	1
+Roberts_a	1
+Michael_the	1
+Diaz_a	1
 Though_this	1
+Potter_a	2
+David_this	1
 NOT_the	1
 Wallace_the	1
+Juliana_a	1
+Kimberly_the	1
+Everett_the	1
+Richard_an	1
+Julianne_a	1
 JJS_NN
 best_friendship	1
 Best_Man-to-be	1
 Best_Friend	7
 biggest_love	1
-best_scene	1
+best_friend-boy	1
 best_friend/ex-boyfriend	1
 best_film	1
 funniest_screwball	1
@@ -8301,12 +8088,14 @@ least_someone	1
 best_role	1
 least_rent	1
 slightest_interest	1
+best_scene	1
 best_movie	1
 closest_friend	1
 best_friend/boyfriend	1
 most_part	1
 RP_IN
 off_for	1
+in_except	1
 out_into	1
 up_for	3
 up_after	1
@@ -8319,27 +8108,6 @@ up_if	1
 VBN_NNS
 released_years	1
 buried_emotions	1
-,_NNP
-,_Paul	1
-,_Kimmy	2
-,_Roberts	2
-,_Julianne	6
-,_Rupert	3
-,_Cameron	3
-,_Rachel	1
-,_Julia	4
-,_Dermot	1
-,_Food	1
-,_Michael	10
-,_George	6
-,_Juliette	1
-,_Life	1
-,_Chicago	1
-,_Chris	1
-,_Jules	3
-,_Harry	1
-,_Kim	2
-,_Diaz	1
 CC_NNP
 and_George	2
 and_Holmes	1
@@ -8385,8 +8153,6 @@ supporting_roles	1
 becoming_friends	1
 touching_moments	1
 playing_games	1
-,_NNS
-,_shucks	1
 WP_IN
 what_if	1
 what_about	1
@@ -8395,6 +8161,7 @@ comes_from	1
 is_on	1
 calls_on	1
 emerges_as	1
+is_of	1
 remembers_that	1
 erupts_with	1
 shines_through	1
@@ -8438,10 +8205,6 @@ claims_across	1
 realizes_that	4
 shines_as	1
 starts_with	1
-NNS_POS
-things_'	1
-audiences_'	1
-women_'s	1
 DT_TO
 all_to	1
 this_to	1
@@ -8554,11 +8317,12 @@ clear_example	1
 whole_decade	1
 same_thing	1
 universal_subject	1
-perfect_fiancee	1
+normal_formula	1
+perfect_fiancee	2
 delightful_film	1
 first_meeting	1
 great_performance	1
-romantic_comedy	20
+romantic_comedy	21
 just_resolution	1
 right_person	1
 unusual_take	1
@@ -8606,13 +8370,13 @@ near_future	1
 Good_luck	1
 hilarious_romantic-comedy	1
 plausible_plot	1
-skillful_writing	1
+Buy_this	1
 pivotal_role	1
 new_life	1
 proper_match	1
 wealthy_family	1
 romantic_partner	1
-Buy_this	1
+enjoyable_chick	1
 Essential_Review	1
 whole_food	1
 complex_problem	1
@@ -8624,6 +8388,7 @@ pseudo-romantic_humour	1
 main_guy	1
 wonderful_ensemble	1
 good_grace	1
+whole_singing	1
 great_comedy	1
 big_city	1
 dumb_fiance	1
@@ -8685,6 +8450,7 @@ internal_conflict	1
 very_end	1
 real_person	1
 grand_theft	2
+skillful_writing	1
 wonderful_job	1
 Great_date	1
 other_woman	1

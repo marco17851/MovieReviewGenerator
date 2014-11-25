@@ -27,16 +27,17 @@ emotions_that	1
 NNP_VB
 Walken_portray	1
 Germany_Die	1
-``_JJ
-``_anal	1
-VBZ_VB
-lets_find	1
+VBN_VBG
+been_looking	1
 VBP_TO
 try_to	1
 appear_to	1
 get_to	1
 JJ_EX
 disjointed_there	1
+RP_RB
+up_short	1
+out_back	1
 NNP_IN
 Fire_In	1
 NNS_RB
@@ -74,6 +75,8 @@ see_this	1
 mean_the	1
 have_a	2
 be_any	1
+VBD_VB
+did_read	1
 WRB_DT
 how_these	1
 RB_TO
@@ -97,10 +100,6 @@ afterwards_.	1
 though_.	1
 much_.	1
 immensely_.	1
-VBP_,
-go_,	1
-IN_``
-with_``	1
 VBP_.
 like_.	1
 VBZ_JJ
@@ -140,18 +139,20 @@ VBG_.
 watching_.	1
 IN_VBP
 as_are	1
-VBG_,
-watching_,	1
+IN_JJS
+As_most	1
+at_best	1
 JJ_CC
-interesting_or	1
 absolute_and	1
 frustrated_and	1
+excellent_but	1
+interesting_or	1
+suspenseless_and	1
+good_but	1
 NNP_PRP
 Trust_me	1
 VBN_RBR
 been_better	1
-JJS_,
-best_,	1
 WP_DT
 what_a	1
 What_an	1
@@ -161,10 +162,10 @@ when_it	1
 CD_.
 one_.	1
 three_.	1
-VBN_VBG
-been_looking	1
-''_:
-''_...	1
+JJ_RB
+compelling_even	1
+JJ_CD
+weird_80s	1
 PRP$_JJ
 his_physical	1
 his_upstate	1
@@ -173,14 +174,6 @@ WDT_MD
 that_would	1
 RP_.
 out_.	1
-VB_VBN
-be_driven	1
-be_made	1
-get_scared	1
-have_been	2
-have_seen	1
-be_prepared	1
-have_imagined	1
 IN_PRP
 if_it	1
 like_it	1
@@ -206,27 +199,25 @@ NNP_WP
 God_what	1
 VBN_CD
 recommended_80	1
-,_NN
-,_yuck	1
-,_discount	1
-,_rubber	1
+PRP_RP
+yourself_out	1
 POS_NN
 's_B	1
 's_book	1
 's_Edition	1
-NNS_VBN
-puppets_motivated	1
 PRP_VBD
 It_kept	1
 I_felt	1
 I_was	1
 I_jumped	1
 he_was	1
+I_did	1
 it_was	1
 I_found	1
 I_heard	1
 I_purchased	1
 you_slept	1
+yourself_did	1
 I_bought	1
 CD_NNS
 80s_things	1
@@ -244,6 +235,7 @@ VBZ_RB
 has_n't	1
 is_really	1
 is_not	2
+is_very	1
 depicts_exactly	1
 brings_forth	1
 is_n't	1
@@ -283,6 +275,7 @@ the_plot	1
 the_midst	1
 the_disc	1
 a_friend	1
+the_lil	1
 The_movie	3
 the_kid	1
 this_nature	1
@@ -322,6 +315,7 @@ themselves_represent	1
 we_have	1
 I_feel	1
 I_'m	2
+I_do	1
 you_'ve	2
 you_like	1
 I_am	2
@@ -332,8 +326,6 @@ I_read	1
 I_like	2
 I_remember	1
 you_see	1
-JJ_``
-famous_``	1
 RB_DT
 definitely_a	1
 not_a	1
@@ -342,8 +334,6 @@ even_a	1
 Not_a	1
 DT_VBN
 all_been	1
-``_VBP
-`_do	1
 WP_VBZ
 who_is	2
 who_loves	1
@@ -358,9 +348,6 @@ He_gives	1
 it_rings	1
 DT_RBS
 the_most	1
-,_DT
-,_this	1
-,_the	2
 NNP_CC
 Strieber_and	1
 Strieber_nor	1
@@ -369,27 +356,21 @@ Walken_&	1
 Walken_and	1
 NNP_CD
 PAL_5	1
-NNP_``
-Walken_`	1
-DT_PRP
-all_I	2
+WP_MD
+what_could	1
 TO_RB
 to_actually	1
-IN_,
-though_,	1
-Although_,	1
 VBD_JJR
 was_more	1
-DT_``
-the_`	1
-the_``	1
-The_`	1
+IN_.
+for_.	1
 RB_IN
 still_though	1
-even_in	1
 back_in	1
-short_of	1
 together_in	1
+short_of	1
+away_unless	1
+even_in	1
 VBG_IN
 creeping_into	1
 thinking_for	1
@@ -457,26 +438,17 @@ on_your	1
 of_my	3
 around_his	1
 into_your	1
-NNS_''
-visitors_''	1
-guys_''	1
-VBG_PRP$
-watching_his	1
+DT_VB
+that_dissuade	1
 VB_VBZ
 say_is	1
-NN_,
-total_,	1
-movie_,	1
-flick_,	1
-book_,	3
-chance_,	1
-NNP_,
-Streiber_,	1
+PRP_VB
+me_stay	1
 NNP_.
 Whitely_.	1
 Walken_.	1
 Communion_.	2
-Kind_.	1
+Kind_.	2
 Park_.	1
 Strieber_.	1
 CC_VBZ
@@ -486,18 +458,20 @@ and_keeps	1
 but_has	1
 NN_WRB
 book_when	1
-PRP$_``
-his_``	1
+PRP_WRB
+me_how	1
 IN_IN
 out_of	4
 along_with	1
 because_of	1
+though_if	1
 while_in	1
 than_in	1
 on_at	1
 PRP$_NN
 my_bedroom	1
 your_bedroom	1
+his_behaviour	1
 His_acting	1
 my_fav	1
 his_speech	1
@@ -511,21 +485,21 @@ his_bedroom	1
 his_experience	1
 VBG_RB
 feeling_deeply	1
-``_VBZ
-`_is	1
+CC_VBD
+and_introduced	1
+and_enjoyed	1
 CC_VBG
 or_treating	1
 or_performing	1
 VB_IN
 be_about	1
-say_though	1
-say_that	1
 compare_with	1
+say_that	1
 see_if	1
+say_though	1
+be_at	1
 VBG_NN
 defining_role	1
-``_VBD
-`_did	1
 DT_NNP
 a_UFO	1
 that_Christopher	1
@@ -542,11 +516,6 @@ Besucher_-	1
 Walken_...	1
 CC_VBN
 and_expressed	1
-JJ_,
-excellent_,	1
-horrible_,	1
-good_,	1
-suspenseless_,	1
 TO_PRP$
 to_his	1
 JJ_.
@@ -563,9 +532,8 @@ latter_.	1
 classic_.	1
 disappointed_.	1
 noteworthy_.	1
-,_VBD
-,_did	1
-,_became	1
+VBG_PRP$
+watching_his	1
 VBD_RB
 were_very	1
 was_just	1
@@ -575,13 +543,14 @@ book_some	1
 film_a	1
 hoax_a	1
 movie_a	1
-RB_,
-However_,	1
-away_,	1
-Well_,	1
-entirely_,	1
-anyway_,	1
-over_,	1
+VB_VBN
+be_driven	1
+be_made	1
+get_scared	1
+have_been	2
+have_seen	1
+be_prepared	1
+have_imagined	1
 VBN_IN
 driven_from	1
 depicted_in	1
@@ -605,21 +574,8 @@ similarities_.	1
 bells_.	1
 scenes_.	1
 animatronics_.	1
-NNS_POS
-visitors_'	1
-NNS_,
-days_,	1
-movies_,	1
-moments_,	1
-aliens_,	1
-encounters_,	1
-women_,	1
-books_,	2
-abductions_,	1
-effects_,	1
-,_VBP
-,_try	1
-,_do	1
+RB_WP
+just_what	1
 VBP_WRB
 know_how	1
 JJ_PRP$
@@ -638,12 +594,8 @@ finished_Strieber	1
 VBD_RP
 came_up	1
 came_out	1
-JJ_CD
-weird_80s	1
-VBZ_,
-is_,	1
-RB_WP
-just_what	1
+NNS_:
+guys_...	1
 RB_NN
 n't_realized/come	1
 NNS_TO
@@ -667,10 +619,6 @@ inflatable_puppets	1
 similar_lines	1
 creepy_preformances	1
 great_novels	1
-,_PRP
-,_he	1
-,_I	2
-,_you	4
 JJ_JJ
 true_great	1
 other_alien	1
@@ -682,6 +630,8 @@ only_other	1
 supposed_true	1
 classic_alien	1
 alleged_true	1
+horrible_suspenseless	1
+famous_anal	1
 JJ_NNP
 Special_Collector	1
 Fourth_Kind	2
@@ -695,16 +645,11 @@ PRP$_JJS
 his_greatest	1
 JJR_IN
 more_about	1
-IN_JJS
-As_most	1
-at_best	1
 IN_WP
 as_what	1
 of_what	1
-,_CC
-,_and	4
-,_or	1
-,_but	6
+RP_JJ
+out_great	1
 VB_NN
 prove_anything	1
 VB_NNP
@@ -721,17 +666,17 @@ career_women	1
 film_effects	1
 film_adaptations	1
 rubber_muppets	1
-DT_VB
-that_dissuade	1
+NNS_NNP
+movies_Walken	1
+movies_Communion	1
 NN_NNP
 fav_Chris	1
-''_RB
-'_very	1
 VBG_PRP
 freaking_yourself	1
 watching_it	1
 liking_it	1
 treating_I	1
+watching_you	1
 CD_CD
 2004_105	1
 DT_RB
@@ -763,19 +708,16 @@ you_'ll	1
 It_will	1
 POS_PRP
 '_themselves	1
-CC_VBD
-and_introduced	1
-and_enjoyed	1
 NN_PRP
 kind_I	1
+movie_you	1
+book_you	1
 film_I	1
+total_I	1
 VB_PRP$
 see_his	1
 VB_TO
 have_to	1
-TO_NNP
-to_Whitley	1
-to_Whitely	1
 CC_IN
 and_because	1
 But_in	1
@@ -790,10 +732,12 @@ sure_a	1
 worth_the	1
 RB_CC
 out_and	1
+over_but	1
 delicately_and	1
 differently_and	1
 VBP_IN
 remember_while	1
+do_like	1
 enjoy_besides	1
 MD_VB
 will_be	1
@@ -813,15 +757,14 @@ be_leaving	1
 NNS_VBP
 Movies_are	1
 things_go	1
+visitors_are	1
 novels_go	1
 VB_CD
 do_100	1
 VBP_VBZ
 say_lets	1
-WP_MD
-what_could	1
-``_DT
-``_The	1
+TO_PRP
+to_me	1
 VBP_PRP$
 say_its	1
 IN_CD
@@ -838,6 +781,7 @@ VBP_:
 go_...	1
 RB_PRP
 Interestingly_I	1
+Well_you	1
 Maybe_I	1
 VBP_VBN
 am_disappointed	1
@@ -847,12 +791,11 @@ Striber_is	1
 Crouse_is	1
 Communion_is	1
 Crouse_plays	1
-Walken_is	2
+Walken_is	3
 CD_VBZ
 one_is	1
-VB_,
-be_,	1
-say_,	1
+NNS_VBD
+saucers_dragged	1
 NNS_VBG
 pieces_missing	1
 aliens_peeking	1
@@ -867,21 +810,16 @@ NNS_DT
 pants_the	1
 PRP$_DT
 its_a	1
-IN_.
-for_.	1
 JJ_TO
 difficult_to	1
 promising_to	1
 interesting_to	1
 Needless_to	1
-,_VBG
-,_shifting	1
 VBZ_NN
 does_nothing	1
 is_abducted	1
+is_yuck	1
 gives_nothing	1
-VBD_NN
-was_nothing	1
 VBP_NNS
 are_books	1
 have_opinions	1
@@ -892,6 +830,7 @@ there_are	1
 VBP_DT
 have_all	1
 see_the	1
+go_this	1
 get_THE	1
 read_the	1
 feel_an	1
@@ -917,23 +856,26 @@ abduction_experience	1
 NTSC_land	1
 abduction_movie	2
 %_speedup	1
+probe_scene	1
 horror_flick	1
 version_PAL	1
 shelf_life	1
 B_movie	1
 min_version	1
 lil_blu	1
-RP_RB
-up_short	1
-out_back	1
-NNP_''
-Kind_''	1
+PRP_NNP
+it_Communion	1
+POS_JJ
+'s_first	1
+'s_euphoric	1
+'s_dated	1
 CC_VBP
 and_appear	1
 NN_VBD
 creature_was	1
 movie_was	3
 film_had	1
+book_became	1
 VBP_VBG
 enjoy_pressing	1
 like_freaking	1
@@ -944,7 +886,9 @@ the_lights	2
 the_eighties	1
 any_bells	1
 this_reviewers	1
+The_visitors	1
 any_means	1
+the_visitors	1
 the_woods	1
 the_wits	1
 IN_NNS
@@ -974,12 +918,8 @@ story_80	1
 Edition_1989	1
 EX_VBD
 There_were	1
-''_IN
-'_like	1
-''_in	1
-,_JJ
-,_suspenseless	1
-,_alien	1
+VBP_VBD
+'ve_had	1
 DT_JJ
 a_similar	1
 a_creepy	1
@@ -1043,17 +983,24 @@ bedroom_...	1
 night_...	1
 movie_;	1
 movie_...	1
-VBZ_''
-is_'	1
+VBD_NN
+was_nothing	1
 NNS_CC
+books_but	1
+encounters_but	1
+women_and	1
 strings_and	1
 eighties_and	1
+abductions_or	1
+days_and	1
 books_and	1
+effects_and	1
 times_and	1
 means_but	1
+moments_but	1
 aliens_but	1
-._''
-?_''	1
+VBZ_VB
+lets_find	1
 VBD_PRP
 enjoyed_it	1
 kept_me	1
@@ -1062,6 +1009,7 @@ NNP_JJ
 Communion_Special	1
 Strieber_insane	1
 PRP_DT
+it_the	1
 us_all	1
 IN_JJ
 of_great	1
@@ -1071,9 +1019,6 @@ for_absolute	1
 with_desperate	1
 in_particular	1
 of_thoughtful	1
-``_NN
-``_behaviour	1
-`_lil	1
 NN_.
 theater_.	1
 book_.	2
@@ -1106,10 +1051,6 @@ movie_.	2
 time_.	1
 RBR_.
 better_.	1
-NNS_VBD
-saucers_dragged	1
-TO_PRP
-to_me	1
 NN_IN
 price_of	1
 experience_of	1
@@ -1131,7 +1072,7 @@ movie_by	1
 opinion_of	1
 range_of	1
 PAL_from	1
-acting_of	1
+behaviour_in	1
 experience_with	1
 half_of	1
 film_like	1
@@ -1166,14 +1107,10 @@ min_in	1
 pilot_of	1
 production_in	1
 mind_that	1
+acting_of	1
 realm_of	1
 VBN_PRP
 intrigued_me	1
-''_VB
-'_read	1
-,_RB
-,_too	1
-,_not	1
 WDT_VBZ
 that_depicts	1
 that_'s	1
@@ -1207,6 +1144,7 @@ VBN_CC
 made_and	1
 NNS_PRP
 things_It	1
+books_he	1
 pieces_it	1
 NN_CC
 family_and	1
@@ -1219,9 +1157,8 @@ lie_or	1
 presence_and	1
 sci-fi_or	1
 style_but	1
-``_NNS
-`_visitors	1
-``_visitors	1
+NNS_VBN
+puppets_motivated	1
 VB_JJ
 be_real	1
 TO_VB
@@ -1245,8 +1182,6 @@ CC_NNP
 and_Lindsay	1
 &_Crouse	1
 but_God	1
-VBD_''
-did_'	1
 NN_VBZ
 film_gives	1
 movie_has	1
@@ -1259,11 +1194,8 @@ acting_is	1
 plot_is	1
 VBD_.
 slept_?	1
-,_VB
-,_be	1
-,_stay	1
-''_NN
-''_scene	1
+NNP_VBG
+Streiber_shifting	1
 RB_RB
 very_much	1
 all_too	1
@@ -1274,8 +1206,7 @@ so_anyway	1
 not_as	1
 almost_always	1
 comically_yet	1
-''_VBP
-''_are	1
+entirely_too	1
 VBD_IN
 heard_that	1
 jumped_out	1
@@ -1289,10 +1220,6 @@ WDT_VBD
 which_had	1
 that_was	1
 that_scared	1
-VBP_''
-do_'	1
-RP_JJ
-out_great	1
 NNP_POS
 Streiber_'s	1
 Collector_'s	1
@@ -1300,14 +1227,11 @@ Strieber_'s	2
 VB_NNS
 inspire_films	1
 sell_books	1
-PRP_WRB
-me_how	1
-PRP_``
-I_`	2
 NN_RB
 subject_entirely	1
 movie_closely	1
 year_afterwards	1
+chance_not	1
 disc_alone	1
 film_though	1
 account_up	1
@@ -1327,18 +1251,18 @@ It_truly	1
 I_really	1
 I_still	1
 it_immensely	1
+NN_VB
+book_be	1
 DT_.
 that_.	1
 NNS_NN
+aliens_rubber	1
 reviewers_opinion	1
-PRP_,
-yourself_,	1
-me_,	1
-it_,	2
 NN_JJ
 Anyone_interested	1
 Im_glad	1
 abductee_such	1
+flick_alien	1
 discount_inflatable	1
 VBZ_DT
 is_THE	1
@@ -1379,8 +1303,6 @@ Whitley_Streiber	2
 Lindsay_Crouse	2
 Whitley_Striber	1
 High_School	1
-NNS_NNP
-movies_Walken	1
 RB_VBZ
 truly_mystifies	1
 actually_believes	1
@@ -1418,12 +1340,15 @@ along_similar	1
 VBZ_VBG
 keeps_seeing	1
 VB_PRP
+say_I	1
 dissuade_you	1
-leave_you	1
 Watch_it	1
+leave_you	1
 see_her	1
 RB_VBP
+However_do	1
 still_have	1
+anyway_try	1
 really_enjoy	1
 RBR_IN
 better_in	1
@@ -1448,11 +1373,9 @@ highly_recommended	1
 NNP_VBD
 Crouse_were	1
 Walken_was	2
-NN_''
-behaviour_''	1
-probe_''	1
-PRP_RP
-yourself_out	1
+TO_NNP
+to_Whitley	1
+to_Whitely	1
 TO_NNS
 to_terms	1
 VBG_DT
@@ -1476,11 +1399,8 @@ only_had	1
 actually_read	1
 never_finished	1
 JJS_NN
+best_discount	1
 most_film	1
-,_IN
-,_at	1
-,_if	1
-,_unless	1
 VBN_NNS
 discarded_animatronics	1
 :_VBG
@@ -1489,8 +1409,8 @@ VBZ_PRP
 makes_him	1
 mystifies_me	1
 is_he	1
-''_.
-''_.	1
+DT_PRP
+all_I	2
 VBN_TO
 repulsed_to	1
 VB_RB
@@ -1498,10 +1418,8 @@ stay_away	1
 say_yes	1
 be_all	1
 be_so	1
-VBP_VBD
-'ve_had	1
-,_NNP
-,_Communion	2
+CC_MD
+and_will	1
 VBG_NNP
 watching_Walken	1
 VBG_NNS
@@ -1509,15 +1427,11 @@ seeing_aliens	1
 acting_skills	1
 flying_saucers	1
 succeeding_books	1
-CC_MD
-and_will	1
 VBZ_IN
 believes_in	1
 is_that	1
-POS_JJ
-'s_first	1
-'s_euphoric	1
-'s_dated	1
+NNS_POS
+visitors_'	1
 RB_RBR
 much_better	1
 NNP_TO
@@ -1555,6 +1469,7 @@ like_The	1
 from_the	1
 In_The	1
 besides_this	1
+Although_the	1
 as_this	1
 like_an	1
 on_the	2
@@ -1563,7 +1478,7 @@ in_that	1
 as_the	1
 by_any	1
 that_the	3
-with_The	1
+with_The	2
 of_a	1
 JJ_NN
 full_range	1
@@ -1617,5 +1532,3 @@ great_actor	1
 first_half	1
 alien_abduction	2
 everyday_housewife	1
-JJ_RB
-compelling_even	1

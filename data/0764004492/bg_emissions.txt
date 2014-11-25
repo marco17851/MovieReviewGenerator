@@ -3,22 +3,17 @@ of_course	1
 like_something	1
 on_DVD	1
 in_mind	1
-,_IN
-,_except	1
-,_so	1
+VBN_VBN
+been_described	1
 PRP_RB
 it_again	2
 it_alone	1
 I_still	1
 it_totally	1
-NNS_WDT
-movies_that	1
+VBN_CD
+been_22	1
 NNP_VB
 NOT_WATCH	1
-VB_''
-copy_''	1
-VBN_VBN
-been_described	1
 RP_NN
 out_laughing	1
 DT_NNS
@@ -36,18 +31,16 @@ could_not	1
 'll_probably	1
 NN_WDT
 something_that	1
+feeling_which	1
 FW_.
 Yikes_!	1
 RB_WRB
 ago_when	1
-RB_,
-again_,	1
-still_,	1
+IN_VBG
+in_making	1
+after_seeing	1
 RB_.
 either_.	1
-,_PRP
-,_I	1
-,_you	1
 VBZ_JJ
 is_weird	1
 's_impressive	1
@@ -65,11 +58,12 @@ But_still	1
 IN_JJS
 at_least	1
 JJ_CC
+original_but	2
 scared_or	1
-fascinating_and	1
 13th_and	1
-,_JJ
-,_scared	1
+scary_but	1
+fascinating_and	1
+weird_and	1
 WRB_PRP
 when_I	2
 JJ_RB
@@ -77,10 +71,6 @@ little_too	1
 uncreative_either	1
 WDT_MD
 that_would	1
-VB_VBN
-have_come	1
-be_re-released	1
-have_written	1
 IN_PRP
 because_I	2
 so_I	1
@@ -91,8 +81,8 @@ VB_TO
 show_to	1
 NNS_VB
 people_bleed	1
-VBN_CD
-been_22	1
+NNS_WDT
+movies_that	1
 POS_NN
 's_lover	1
 TO_NN
@@ -152,6 +142,8 @@ DT_VBZ
 That_'s	1
 DT_VBG
 a_stocking	1
+JJR_CC
+younger_but	1
 RB_PRP$
 not_their	1
 VBN_JJ
@@ -174,10 +166,6 @@ PRP_VBZ
 It_is	1
 it_'s	4
 It_needs	1
-,_DT
-,_this	1
-VB_,
-bleed_,	1
 RB_VBZ
 always_is	1
 VBD_PRP
@@ -188,14 +176,15 @@ scared_us	1
 had_it	1
 RB_IN
 probably_like	1
+again_so	1
 straight_out	1
 again_after	1
 alone_in	1
 VBG_IN
 stocking_over	1
 keeping_in	1
-NNP_JJ
-BIG_such	1
+VBD_VBG
+remembered_seeing	1
 RB_CC
 too_and	1
 JJR_NNS
@@ -217,24 +206,10 @@ find_these	1
 IN_PRP$
 for_its	1
 over_his	1
-VBG_PRP$
-killing_your	1
-''_NNS
-''_techniques	1
-IN_JJ
-of_other	1
-with_straight	1
-among_other	1
-of_scary	1
-of_pricey	1
-in_junior	1
-of_bad	1
 VBN_VBP
 killed_are	1
 NNP_.
 ALONE_!	1
-,_VBG
-,_killing	1
 NN_WRB
 laughing_when	1
 FW_FW
@@ -255,11 +230,10 @@ but_keeping	1
 VB_IN
 live_on	1
 say_that	1
-JJ_,
-scary_,	1
-weird_,	1
-original_,	2
-old_,	1
+DT_NNP
+a_Halloween	1
+JJ_PRP
+old_I	1
 JJ_.
 awesome_!	1
 independent_.	1
@@ -271,14 +245,17 @@ normal_.	1
 impressive_.	1
 entertaining_.	1
 creepy_!	1
-,_VBD
-,_had	1
+VBG_PRP$
+killing_your	1
 VBD_RB
 had_not	1
 was_not	1
-IN_VBG
-in_making	1
-after_seeing	1
+NN_DT
+mask_this	1
+VB_VBN
+have_come	1
+be_re-released	1
+have_written	1
 :_VB
 ..._Wait	1
 VBN_IN
@@ -290,9 +267,6 @@ NNS_.
 movies_.	1
 nightmares_!	1
 parts_.	1
-NNS_,
-movies_,	1
-children_,	1
 WDT_RB
 that_later	1
 CC_IN
@@ -319,11 +293,14 @@ junior_high	1
 own_dark	1
 JJ_NNP
 dark_BUT	1
-,_CC
-,_and	1
-,_but	6
+VB_NNS
+copy_techniques	1
 VB_NNP
 WATCH_IT	1
+NN_NNS
+music_women	1
+NN_NNP
+mask_Jason	1
 RB_FW
 already_???	1
 IN_IN
@@ -335,8 +312,6 @@ NNP_POS
 Freud_'s	1
 CC_NN
 and_sort	1
-,_PRP$
-,_their	1
 IN_RB
 as_pretty	1
 ._.
@@ -358,6 +333,7 @@ would_say	1
 NNS_IN
 ways_that	1
 colours_among	1
+children_except	1
 sounds_like	1
 stars_because	1
 people_in	1
@@ -376,6 +352,7 @@ for_two	1
 after_22	1
 RB_VBG
 then_trying	1
+still_killing	1
 NNS_VBZ
 years_is	1
 PRP_MD
@@ -396,6 +373,8 @@ PRP_NNP
 it_BIG	1
 PRP_NNS
 you_nightmares	1
+JJS_PRP$
+least_their	1
 JJ_TO
 bad_to	1
 gory_to	1
@@ -422,12 +401,10 @@ IN_NNP
 If_Michael	1
 of_Freud	1
 as_Friday	1
-DT_NNP
-a_Halloween	1
+NN_VBD
+script_had	1
 WDT_IN
 which_of	1
-JJS_,
-least_,	1
 VB_WRB
 seem_when	1
 DT_JJ
@@ -448,21 +425,20 @@ VBD_DT
 bought_this	1
 rented_this	1
 gave_this	1
-``_VB
-``_copy	1
 NN_:
 school_...	1
 VBD_JJR
 was_younger	1
-VBD_VBG
-remembered_seeing	1
-NN_,
-feeling_,	1
-world_,	1
-music_,	1
-script_,	1
-movie_,	1
-mask_,	2
+NNP_JJ
+BIG_such	1
+IN_JJ
+of_other	1
+with_straight	1
+among_other	1
+of_scary	1
+of_pricey	1
+in_junior	1
+of_bad	1
 NN_.
 thing_.	1
 subconscious_.	1
@@ -487,19 +463,26 @@ wonder_if	1
 admit_that	1
 NNP_VBD
 Horror_seemed	1
+NNS_PRP
+movies_you	1
 NN_CC
 friend_and	1
-briefly_and	1
+world_but	1
 lover_and	1
 hair_and	1
 mirror_and	1
+briefly_and	1
+movie_but	1
+VB_JJ
+bleed_scared	1
 TO_VB
 to_be	1
-to_live	1
+to_seem	1
 to_find	1
+to_copy	1
 to_say	1
 to_show	1
-to_seem	1
+to_live	1
 NN_CD
 movie_5	1
 WP_PRP
@@ -542,8 +525,6 @@ DT_.
 this_.	1
 NNS_NN
 eighties_feeling	1
-TO_``
-to_``	1
 NN_RP
 bust_out	1
 VBZ_DT
@@ -594,8 +575,6 @@ gets_killed	1
 NN_NN
 hockey_mask	1
 skin_briefly	1
-JJR_,
-younger_,	1
 VBG_DT
 making_the	1
 NNP_DT
@@ -606,16 +585,10 @@ later_made	1
 totally_memorized	1
 NN_WP
 man_who	1
-,_NNP
-,_Jason	1
 CC_NNP
 and_Amityville	1
-,_NNS
-,_women	1
 VBZ_IN
 is_that	1
-,_WDT
-,_which	1
 WRB_NN
 when_somebody	1
 VBG_PRP

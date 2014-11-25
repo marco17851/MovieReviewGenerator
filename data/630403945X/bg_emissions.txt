@@ -23,12 +23,13 @@ Flynn_as	1
 Bros._that	1
 NNS_RB
 herds_up	1
-``_FW
-`_Skidoodle	1
+brains_not	1
 CC_JJ
 and_worn	1
 or_pleasant	1
 and_drunk	1
+JJ_VBZ
+predictable_shows	1
 MD_RB
 ca_n't	1
 may_not	1
@@ -37,6 +38,7 @@ era_that	1
 VB_DT
 do_this	1
 let_a	1
+die_the	1
 feel_that	1
 WRB_DT
 where_the	1
@@ -46,10 +48,6 @@ Skidoodle_diddle	1
 RB_.
 afterwards_.	1
 profitably_.	1
-,_PRP
-,_he	1
-,_we	2
-,_you	1
 VBZ_JJ
 is_smooth	1
 looks_corrupted	1
@@ -64,40 +62,28 @@ RB_JJR
 much_better	1
 NNS_DT
 Westerns_the	1
-VBN_,
-made_,	1
 IN_JJS
 at_least	1
 JJ_CC
 easy_or	1
-corrupted_and	1
-tired_and	1
-alcoholic_and	1
 usual_but	1
-:_''
-..._''	1
-CD_,
-41_,	1
-1953_,	1
-50_,	1
-1959_,	1
+corrupted_and	1
+alcoholic_and	1
+drunk_but	1
+tired_and	1
+JJ_CD
+next_two	1
 CC_CD
 and_one	1
 or_three	1
-VBN_JJ
-called_Cuban	1
 JJS_DT
 least_some	1
-''_:
-''_...	1
-JJ_CD
-next_two	1
 PRP$_JJ
 his_last	1
 my_favorite	1
 His_last	1
-PRP_PRP
-her_I	1
+CD_NNP
+41_Flynn	1
 IN_PRP
 in_them	1
 since_I	1
@@ -107,8 +93,6 @@ DT_PRP
 All_he	1
 IN_VBG
 while_singing	1
-,_NN
-,_run	1
 FW_POS
 daddle_'	1
 POS_NN
@@ -174,16 +158,12 @@ a_sheepman	1
 THE_HORSE	1
 the_score	1
 this_section	1
-IN_CC
-in_either	1
 DT_VBZ
 that_'s	1
 VBN_RP
 stepped_in	1
-``_NNP
-``_Cuddles	1
-``_Reckon	1
-``_Montana	1
+VBN_JJ
+called_Cuban	1
 PRP_VBP
 we_hear	1
 I_'m	2
@@ -218,9 +198,10 @@ Ford_and	1
 Chase_and	1
 Smith_and	1
 NNP_CD
+Ballantrae_1953	1
 Reg_.0	1
-NNP_``
-Z._``	1
+PRP_PRP
+her_I	1
 RB_VBZ
 just_disappears	1
 PDT_DT
@@ -231,17 +212,8 @@ up_from	1
 ever_since	1
 early_in	1
 sometimes_with	2
-PRP$_,
-his_,	1
-``_PRP
-``_I	1
-,_RB
-,_so	1
-,_sometimes	2
-,_equally	1
-,_not	1
-VBZ_PRP$
-looks_his	1
+DT_CC
+this_but	1
 DT_MD
 That_would	1
 VBP_RB
@@ -253,8 +225,6 @@ n't_stink	1
 PRP_.
 him_.	1
 them_.	1
-:_RB
-..._so	2
 IN_PRP$
 of_his	1
 of_my	1
@@ -262,24 +232,8 @@ as_their	1
 with_his	1
 JJR_NN
 more_charm	1
-''_NNP
-''_Sakoll	1
-NN_,
-fistfight_,	1
-music_,	1
-actor_,	1
-mutton_,	1
-movie_,	1
-humor_,	1
-NNP_,
-Sakoll_,	1
-MOUNTAIN_,	1
-PAL_,	1
-FORMAT_,	1
-Webb_,	1
-</a>_,	1
-Kennedy_,	1
-Ballantrae_,	1
+PRP_VB
+me_feel	1
 NNP_.
 West_.	1
 Kennedy_.	1
@@ -304,18 +258,14 @@ help_with	1
 come_in	1
 VBG_NN
 wearing_make-up	1
+JJ_PRP
+bizarre_we	1
 NNP_:
 Territory_...	1
 VBZ_RP
 shows_up	2
-JJ_,
-drunk_,	1
-bizarre_,	1
-predictable_,	1
 RB_VBP
 even_have	1
-,_VBD
-,_was	1
 VBD_RB
 had_n't	1
 NN_DT
@@ -340,16 +290,11 @@ Westerns_.	1
 co-stars_.	1
 men_.	1
 Girls_.	1
-,_VBN
-,_released	1
-,_based	1
-NNS_,
-ewes_,	1
-brains_,	1
-fists_,	1
-CC_IN
-but_for	1
-and_under	1
+WRB_EX
+why_there	1
+VBD_JJ
+were_hard	1
+was_prevalent	1
 VBD_NNP
 saw_Flynn	1
 JJ_:
@@ -361,10 +306,8 @@ disappears_.	1
 NNS_:
 1879_...	1
 men_...	1
-,_VBZ
-,_shows	1
-WRB_EX
-why_there	1
+VBZ_PRP$
+looks_his	1
 RB_NN
 not_brawn	1
 NNPS_VBD
@@ -391,10 +334,6 @@ CD_IN
 one_of	2
 JJR_IN
 better_than	1
-''_CC
-''_And	1
-,_CC
-,_but	4
 VB_NN
 take_place	1
 NN_NNS
@@ -405,20 +344,22 @@ run_things	1
 NNS_NNP
 ranchers_Alexis	1
 NNS_NNS
+fists_men	1
 cattle_ranchers	2
 NN_NNP
-year_ROCKY	1
-Composer_David	1
-point_Raoul	1
 queen_Maria	1
+Composer_David	1
+singing_Reckon	1
+year_ROCKY	1
+point_Raoul	1
 Gun_NON-USA	1
 VBP_JJ
 're_interested	1
-:_``
-..._``	1
-VBD_JJ
-were_hard	1
-was_prevalent	1
+CC_IN
+but_for	1
+and_under	1
+DT_RB
+this_sometimes	1
 DT_NNPS
 The_Fifties	1
 PRP$_NNS
@@ -436,6 +377,7 @@ and_singing	1
 VBG_NNP
 involving_Errol	1
 NN_PRP
+music_we	1
 scripting_it	1
 VB_PRP$
 recapture_their	1
@@ -451,6 +393,7 @@ trying_to	1
 looking_to	1
 going_to	1
 :_PRP
+..._I	1
 ..._they	1
 MD_VB
 would_make	1
@@ -461,8 +404,11 @@ will_get	1
 would_come	1
 will_take	1
 NN_VBN
+movie_released	1
 something_called	1
 studio_produced	1
+CD_DT
+1959_the	1
 NNS_VBP
 sheepmen_do	1
 RB_VBN
@@ -478,6 +424,8 @@ in_1959	1
 VBG_DT
 singing_this	1
 strumming_a	1
+CD_VBD
+50_was	1
 PRP_MD
 you_ca	1
 He_would	1
@@ -487,10 +435,8 @@ WRB_NNP
 when_Morgan	1
 WRB_NNS
 where_cattle	1
-,_DT
-,_this	1
-,_a	2
-,_the	2
+IN_CC
+in_either	1
 NNP_VBZ
 Flynn_smiles	1
 Flynn_shows	1
@@ -506,17 +452,18 @@ looks_had	1
 NNS_VBG
 scenes_involving	1
 :_CC
+..._And	1
 ..._and	1
-RP_RB
-up_early	1
+CD_PRP
+1953_he	1
 CC_RB
 And_not	1
 And_ever	1
 and_then	1
+PRP$_DT
+his_a	1
 JJ_TO
 hard_to	1
-VB_,
-die_,	1
 EX_VBZ
 there_'s	1
 EX_VBP
@@ -528,15 +475,18 @@ share_the	1
 have_a	1
 'm_a	1
 NN_NN
-Award_Winner	1
 building_era	1
 empire_building	1
+mutton_run	1
 character_actor	1
 punch_line	1
+Award_Winner	1
 War_incident	1
 colour_Cinematography	1
 VBG_PRP
 following_him	1
+RP_RB
+up_early	1
 POS_JJ
 's_last	1
 DT_NNS
@@ -567,8 +517,6 @@ Under_Ray	1
 In_MONTANA	1
 NN_CD
 age_50	1
-''_IN
-'_in	1
 DT_JJ
 a_certain	1
 an_original	1
@@ -595,6 +543,7 @@ met_a	1
 drove_the	1
 NN_:
 king_...	1
+Love_...	1
 Import_-	1
 gun_...	1
 NNS_CC
@@ -636,7 +585,7 @@ horseback_with	1
 Cinematography_by	1
 idea_in	1
 country_in	1
-confrontation_with	1
+singin_in	1
 struggle_between	1
 sheepherder_in	1
 juice_in	1
@@ -650,6 +599,9 @@ bunch_of	1
 feel_of	1
 western_with	1
 section_of	1
+confrontation_with	1
+NNP_RB
+Kennedy_equally	1
 VBN_DT
 needed_a	1
 CC_DT
@@ -664,14 +616,17 @@ days_into	1
 ranchers_in	1
 IN_TO
 about_to	1
+NNS_PRP
+ewes_you	1
 NN_CC
 incident_and	1
 booze_and	1
 campfire_and	1
 script_or	1
-charm_and	1
-direction_and	1
 place_and	1
+fistfight_but	1
+direction_and	1
+charm_and	1
 movie_and	1
 sheep_and	1
 guitar_and	1
@@ -696,9 +651,6 @@ VBP_NNP
 hear_Celito	1
 have_Errol	1
 enjoy_S.	1
-NN_``
-saddle_`	1
-singing_``	1
 NN_VBD
 year_was	1
 law_was	1
@@ -720,6 +672,7 @@ PRP_CC
 She_and	1
 NNP_VBN
 Tucker_sung	1
+MOUNTAIN_based	1
 Montana_controlled	1
 WDT_VBD
 that_was	1
@@ -730,6 +683,8 @@ Flynn_'s	1
 DT_WP
 those_who	3
 NN_RB
+humor_sometimes	1
+actor_so	1
 drink_afterwards	1
 land_profitably	1
 JJ_IN
@@ -740,8 +695,6 @@ convincing_in	1
 much_as	1
 smooth_as	1
 prevalent_in	1
-DT_,
-this_,	2
 :_WRB
 ..._where	2
 NNS_NN
@@ -758,8 +711,6 @@ has_a	1
 is_the	1
 CD_NN
 .0_Import	1
-._''
-._''	1
 NNP_NNS
 Hollywood_films	1
 Smith_co-stars	1
@@ -767,6 +718,7 @@ Flynn_films	1
 NNP_NNP
 James_R.	1
 Rod_Ackroyd	1
+Australia_</a>	1
 David_Buttolph	1
 NON-USA_FORMAT	1
 Ray_Enright	1
@@ -775,6 +727,7 @@ MONTANA_Flynn	1
 Ackroyd_Douglas	1
 Lane_Errol	1
 Singleton_Alexis	1
+PAL_Reg	1
 Glenn_Ford	1
 Raoul_Walsh	1
 R._Webb	1
@@ -790,21 +743,24 @@ Karl_Freund	1
 Roger_Livesey	1
 The_Sheepman	1
 Borden_Chase	1
+Webb_Borden	1
 S._Z.	1
-<a href="http://www.amazon.com/gp/product/B000WZQHAK">_The	1
+Cuddles_Sakoll	1
+FORMAT_PAL	1
+Z._Cuddles	1
 Celito_Lindo	1
 Morgan_Lane	1
 Dan_Tucker	1
 Douglas_Kennedy	2
 Alexis_Smith	3
 Errol_Flynn	4
-Australia_</a>	1
+<a href="http://www.amazon.com/gp/product/B000WZQHAK">_The	1
 VBZ_NNS
 invades_cattle	1
 DT_JJS
 the_most	1
-,_CD
-,_1953	1
+:_RB
+..._so	2
 RB_JJ
 so_predictable	1
 so_cute	1
@@ -824,15 +780,16 @@ CC_EX
 but_there	1
 VBD_TO
 had_to	1
-NN_''
-singin_'	1
-Love_''	1
 VBZ_VBZ
 wants_is	1
+NN_FW
+saddle_Skidoodle	1
 RB_VBG
 not_going	1
 NNP_DT
+</a>_a	1
 Buttolph_THE	1
+Sakoll_this	1
 JJS_NN
 most_part	1
 greatest_asset	1
@@ -844,32 +801,23 @@ enjoy_music	1
 VBZ_PRP
 shows_him	1
 makes_me	1
+VBN_CC
+made_but	1
 VBN_TO
 said_to	1
 VB_RB
 be_entirely	1
 do_much	1
 stink_as	1
-PRP_VB
-me_feel	1
-,_NNP
-,_Flynn	1
-,_Borden	1
-,_Reg	1
-,_PAL	1
 VBD_NN
 was_king	1
 was_something	1
 CC_NNS
 and_ewes	1
 and_brains	1
-,_NNS
-,_men	1
 VBZ_IN
 smiles_while	1
 looks_as	1
-NNP_''
-Cuddles_''	1
 VBP_IN
 'm_in	1
 VB_RP

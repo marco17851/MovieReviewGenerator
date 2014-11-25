@@ -1,6 +1,7 @@
 NNP_VBZ_TO
 Arjuna_refuses_to	1
 Mahabharata_has_to	1
+Vishnu_tries_to	1
 Amazon_appears_to	1
 FW_NN_IN
 Fu_master_in	1
@@ -8,20 +9,8 @@ Sarabhai_saying_of	1
 DT_WP_VBP
 all_who_are	1
 those_who_are	1
-,_DT_NNS
-,_the_sets	1
-,_the_themes	1
-,_the_thoughts	1
-,_the_characters	1
-,_the_actors	1
-,_the_colors	1
-,_DT_NNP
-,_the_Kaurava	2
-,_the_Mahabharata	2
-,_the_Bhagavad	1
-,_the_Kauravas	1
-NN_WRB_RB
-master_why_not	1
+VBD_MD_RB
+wondered_would_n't	1
 VB_RP_TO
 scroll_down_to	1
 get_out_to	1
@@ -39,14 +28,8 @@ WP$_NNS_VBP
 whose_minds_are	1
 NN_NN_MD
 art_world_will	1
-VB_,_``
-offer_,_``	1
 CC_WP_VBD
 and_who_became	1
-,_IN_PRP$
-,_in_my	1
-,_with_his	1
-,_with_its	1
 FW_FW_NNP
 Mahabharata_</a>_Poor	1
 NNS_IN_VBG
@@ -62,6 +45,7 @@ WP_VBD_DT
 who_wrote_a	1
 who_became_the	1
 NN_VBZ_DT
+head_becomes_the	1
 boy_meets_the	1
 version_gives_a	1
 one_undertakes_a	1
@@ -74,23 +58,37 @@ life_is_a	1
 religion_is_a	1
 version_is_a	1
 NN_PRP_VBZ
+delivery_it_'s	1
+book_it_beats	1
 acting_itself_is	1
 context_it_is	1
+history_it_contains	1
+medium_it_has	1
 NN_PRP_VBP
+form_I_suggest	2
+film_we_are	1
+faith_I_think	1
+childhood_I_have	1
 delivery_I_agree	1
+story_I_do	1
+movie_we_see	2
 NN_RB_VBZ
 film_never_gets	1
 line_quickly_develops	1
+result_however_is	1
 latter_reluctantly_prepares	1
 time_here_becomes	1
 NNP_:_PRP
 Dammit_-_I	1
 Bible_;_it	1
+Brook_:_I	1
+CD_VBZ_RB
+2008_is_only	1
 CD_NN_DT
 One_point_the	1
 one_context_this	1
-VBD_MD_RB
-wondered_would_n't	1
+NN_RB_VBG
+group_thus_adding	1
 CC_IN_RB
 and_with_divinely	1
 and_with_often	1
@@ -106,6 +104,9 @@ epic_I_found	1
 today_it_arrived	1
 SINCE_I_TRIED	1
 DVD_I_GOT	1
+case_I_watched	1
+cut_we_had	1
+movie_I_was	1
 GLAD_YOU_GOT	1
 NN_RB_VBN
 poem_ever_written	1
@@ -116,15 +117,12 @@ NN_VBD_CC
 mother_escaped_and	1
 :_VBN_IN
 --_done_in	1
-DT_VBG_JJ
-an_enlightening_spiritual	1
+CC_NN_JJ
+and_mist_rocky	1
 VBZ_RP_.
 stands_out_.	1
 NNS_VBG_NN
 questions_concerning_life	1
-``_NN_''
-`_pasupata_'	1
-`_duty_'	1
 VB_VBN_CC
 be_touched_and	1
 VBD_DT_NN
@@ -144,10 +142,8 @@ was_a_bit	1
 Had_this_play	1
 PRP_DT_WRB
 I_some_how	1
-VBD_VBN_DT
-had_read_the	1
-had_assumed_this	1
 JJ_NN_IN
+single_studio_with	1
 overall_message_of	1
 superior_job_of	1
 meticulous_search_for	1
@@ -162,7 +158,7 @@ great_performance_by	1
 amazing_labor_of	1
 Indian_rendition_of	1
 great_theatre_in	1
-truest-to-the-spirit_version_of	1
+spiritual_journey_whether	1
 likeable_offscreen_than	1
 pre-battle_discussion_between	1
 central_part_of	1
@@ -178,13 +174,16 @@ first_king_of	1
 self-important_destroyer_of	1
 great_work_like	1
 international_cast_of	1
+long_preparation_for	1
+filmic_excitement_as	1
+good_Song_of	1
 18-day_war_between	2
 excellent_job_of	1
 quintessential_text_of	1
 abridged_version_of	2
 five-hour_version_of	1
 long_discussion_between	1
-long_preparation_for	1
+fascinating_story_with	1
 religious_text_of	1
 audio_quality_on	1
 great_story_of	1
@@ -212,6 +211,7 @@ prior_knowledge_of	1
 big_battle_between	1
 average_indian_without	1
 new_rendering_of	2
+truest-to-the-spirit_version_of	1
 original_documentary_on	1
 amazing_piece_for	1
 multinational_production_of	1
@@ -221,13 +221,17 @@ Also_recommended_.	1
 sorely_disappointed_.	1
 well_done_.	1
 DT_NNP_CC
+The_Mahabharata_but	1
 the_Mount_and	1
 the_Mahbharata_and	1
 both_Krishna_and	1
 the_Mahabharata_and	1
 the_BBC_and	1
+the_Bhagavad-Gita_and	1
 the_Duryodhana_and	1
 The_Iliad_or	1
+DT_NNP_CD
+The_Mahabharata_54	1
 TO_PRP$_NNS
 to_my_expectations	1
 to_your_senses	1
@@ -242,10 +246,18 @@ the_choice_to	1
 a_taster_to	1
 an_insult_to	1
 the_poem_to	2
+IN_NNS_DT
+of_dice_the	1
+As_children_the	1
+RB_VBG_RB
+ever_roving_around	1
 DT_NN_VBG
 the_guy_signing	1
+the_process_reducing	1
 DT_NN_VBD
+a_lite_hearted	1
 this_play_opened	1
+this_film_anbd	1
 that_mankind_started	2
 the_strory_was	1
 The_play_came	1
@@ -263,6 +275,7 @@ the_story_were	1
 RB_RB_NN
 not_just_religion	1
 RB_JJ_CC
+very_precise_and	1
 so_profound_and	1
 too_grand_and	1
 pretty_uninteresting_or	1
@@ -320,6 +333,7 @@ the_DVD_make	1
 the_text_are	1
 DT_PRP_VBP
 All_I_'ve	1
+this_I_give	1
 VBD_VBN_IN
 was_raised_on	1
 was_projected_in	1
@@ -342,8 +356,6 @@ and_subtitling_is	1
 DT_PRP_VBZ
 this_it_is	1
 all_it_seems	1
-,_CC_PRP$
-,_and_her	1
 IN_WP_DT
 about_what_The	1
 JJ_TO_VB
@@ -359,8 +371,8 @@ hard_to_identify	1
 fair_to_say	1
 sure_to_get	1
 difficult_to_follow	2
-``_CD_''
-``_2008_''	1
+NNP_NNP_PRP
+PRODUCT_SO_I	1
 VBN_CC_VBN
 read_and_seen	1
 touched_and_befriended	1
@@ -379,8 +391,7 @@ of_suspense_time	1
 via_spoon_feeding	1
 through_minus_bathroom	1
 of_screen_time	1
-:_IN_NNP
---_by_Joseph	2
+of_philosophy_myth	1
 NN_VBG_VBN
 production_being_offered	1
 JJS_NN_RB
@@ -389,28 +400,13 @@ CC_IN_VBG
 but_with_raising	1
 NNS_JJ_.
 years_old_.	1
-NN_,_PRP
-film_,_we	1
-case_,_I	1
-movie_,_we	2
-book_,_it	1
-feature_,_it	1
-family_,_I	1
-medium_,_it	1
-faith_,_I	1
-childhood_,_I	1
-delivery_,_it	1
-history_,_it	1
-movie_,_I	1
-cut_,_we	1
-casting_,_it	1
-story_,_I	1
-option_,_I	1
-form_,_I	2
 DT_VBN_NN
 a_filmed_stage	1
 a_selected_group	1
+NNS_NNS_IN
+rulers_sons_of	1
 CC_VBZ_IN
+but_lacks_in	1
 and_goes_into	1
 and_says_that	1
 VBZ_NNP_NN
@@ -459,9 +455,12 @@ simple_--_the	1
 PRP_VBZ_NNP
 he_teaches_Arjuna	1
 it_beats_Bollywood	1
+JJ_VBN_.
+complicated_grounded_.	1
 VBP_IN_FW
 're_into_Hindu	1
 NNP_CC_NN
+WMD_and_war	1
 Brook_and_company	1
 IN_DT_CD
 from_a_5000	1
@@ -474,9 +473,8 @@ of_the_six	1
 for_another_50	1
 VBG_RB_TO
 Looking_forward_to	1
-IN_NNP_RB
-of_Mahabharata_mainly	1
-in_India_roughly	1
+PRP_PRP_VBZ
+me_it_is	1
 VBN_NN_VBZ
 staged_play_is	1
 NNS_:_NN
@@ -487,6 +485,7 @@ PRP_VBD_PRP
 I_felt_I	1
 it_took_me	2
 they_loved_it	1
+I_bought_I	1
 We_had_it	1
 I_met_him	1
 I_found_it	1
@@ -497,6 +496,7 @@ YOU_GOT_IT	1
 I_decided_we	1
 RB_JJ_DT
 truly_worth_the	1
+very_rich_the	1
 melodically_stunning_this	2
 :_CC_NNP
 :_but_Peter	1
@@ -505,6 +505,8 @@ painstakingly_translated_and	1
 finely_acted_and	1
 well_priced_and	1
 CC_JJ_CC
+and_realistic_and	1
+and_human_and	1
 and_unearthly_and	1
 VB_DT_FW
 have_a_Kung	1
@@ -516,30 +518,34 @@ simple_stories_rather	1
 career-making_egos_aside	1
 Many_reviews_here	1
 few_years_back	1
+JJ_CD_NN
+full_5 1/2_hour	1
+original_1990_interpretation	1
 RB_WRB_RB
 probably_why_so	1
 DT_NNS_IN
-the_parallels_between	1
-the_beginnings_of	1
-the_families_because	1
 the_characters_of	1
-the_lineages_of	1
-some_moments_of	1
-the_hands_of	1
-all_aspects_of	1
 the_hearts_of	2
-The_criticisms_of	1
 the_reviews_of	1
+some_things_in	1
+the_lineages_of	1
+the_performances_of	1
+the_families_because	1
+some_moments_of	1
 The_women_in	1
 the_people_around	1
-some_aspects_of	1
 the_limitations_of	1
-some_things_in	1
-the_origins_of	1
+the_parallels_between	1
+the_beginnings_of	1
+The_criticisms_of	1
 the_characters_that	1
-the_performances_of	1
+the_origins_of	1
+the_themes_as	1
 Both_groups_of	1
+the_hands_of	1
+all_aspects_of	1
 the_tales_by	1
+some_aspects_of	1
 VBN_IN_DT
 drawn_from_every	1
 thrilled_by_some	1
@@ -567,8 +573,6 @@ abridged_from_a	1
 amazed_by_the	1
 PRP_PRP_VBP
 myself_I_think	1
-RB_VBZ_''
-literally_means_''	1
 VBD_TO_NNP
 came_to_New	1
 NNS_VBP_DT
@@ -586,16 +590,9 @@ NN_VBG_JJ
 cast_wearing_traditional	1
 :_RB_NNP
 ..._yet_Brook	1
-,_CC_IN
-,_but_with	1
-,_but_that	1
-,_but_in	1
-,_but_for	1
-,_and_in	1
-,_and_at	1
-,_both_in	1
 NNP_VBZ_IN
 Krishna_responds_that	1
+Yudhishthira_recognizes_that	1
 Meyers_stands_above	1
 Krishna_does_throughout	2
 VBP_PRP_IN
@@ -627,13 +624,8 @@ seek_to_rule	1
 care_to_nurture	1
 come_to_visit	1
 intend_to_do	1
-POS_NN_TO
-'s_version_to	1
 NNP_VBD_PRP
 Brook_captured_it	1
-,_CC_WP
-,_and_what	1
-,_but_what	1
 NNP_VBD_VBN
 Bhima_was_rescued	1
 Brook_had_been	1
@@ -642,20 +634,11 @@ and_released_a	1
 and_watched_this	1
 VBP_RB_.
 agree_completely_.	1
-VBP_RB_,
-listen_carefully_,	1
-NNP_``_NN
-Dharma_`_duty	1
 CC_NNS_TO
 or_miniseries_to	1
 RB_VB_JJ
 not_be_offensive	1
 so_be_ready	1
-,_IN_CC
-,_whether_or	1
-,_IN_CD
-,_over_315	1
-,_after_five	1
 VBN_WDT_VBP
 asked_which_side	1
 WP_MD_VB
@@ -665,17 +648,10 @@ JJ_NNP_RB
 complete_Mahabharata_not	1
 DT_JJR_CD
 the_shorter_one	1
-DT_NN_``
-the_phrase_``	1
 NN_NNP_CC
+epic_Mahabharata_and	1
+tongue_English_and	1
 god_Krishna_and	1
-,_JJ_,
-,_philosophical_,	1
-,_complicated_,	1
-,_spare_,	1
-,_evasive_,	1
-,_turbulent_,	1
-,_brilliant_,	1
 PDT_DT_NNS
 all_the_questions	1
 IN_CD_VBG
@@ -695,25 +671,30 @@ if_one_needed	1
 VBZ_JJR_IN
 is_longer_than	1
 grows_bigger_than	1
+:_NN_IN
+:_Everything_in	1
 CC_DT_NNP
+and_the_Freddy	1
 and_the_East	1
 and_the_International	1
-CC_JJ_,
-and_human_,	1
-or_strange_,	1
-and_poetic_,	1
-and_realistic_,	1
-and_universal_,	1
-NN_CC_VB
-storyline_and_make	1
-toilet_or_get	1
+IN_CD_VBZ
+as_2008_is	1
+VBP_IN_DT
+live_in_a	1
+see_that_the	2
+suggest_as_a	2
+are_from_the	1
+think_that_this	1
+think_about_the	1
 POS_IN_DT
 's_after_a	1
 NNS_IN_IN
 hours_of_behind	1
+children_though_after	1
 CC_VB_PRP
 and_make_it	1
 or_look_it	1
+but_believe_me	1
 WP_VBP_NNS
 who_are_cousins	1
 VBD_TO_DT
@@ -721,6 +702,7 @@ led_to_a	1
 WP_VBP_NNP
 who_play_Krishna	1
 DT_NN_IN
+a_Pandava_as	1
 a_bit_like	1
 the_movie_from	1
 the_father_of	1
@@ -738,8 +720,10 @@ some_knowledge_of	1
 the_purpose_of	1
 this_philosophy_that	1
 The_soundtrack_for	1
+the_question_if	1
 a_faith_of	1
 the_enemy_of	1
+any_rate_if	1
 The_vision_of	1
 the_director_of	1
 a_way_that	1
@@ -747,6 +731,7 @@ the_head_of	1
 a_lot_of	1
 a_bit_of	1
 the_forest_for	1
+another_time_since	1
 the_story_of	3
 the_rest_for	1
 the_end_of	2
@@ -757,6 +742,7 @@ a_story_about	1
 no_difference_between	2
 every_minute_of	1
 the_stereotype_of	1
+the_boy_at	1
 the_material_with	1
 the_discipline_of	1
 a_cross-section_of	1
@@ -810,6 +796,7 @@ the_mother_of	1
 a_mini-script_of	1
 the_family_in	1
 a_re-release_of	1
+The_Mahabharata_by	1
 a_way_of	1
 a_model_of	1
 the_grandeur_of	1
@@ -827,12 +814,12 @@ to_identify_with	1
 to_play_by	1
 to_nurture_within	1
 to_say_that	3
-to_communicate_about	1
+to_offer_In	1
 to_love_in	1
 to_enthrall_with	1
+to_communicate_about	1
+to_be_in	1
 to_sell_in	1
-CC_``_PRP
-and_``_He	1
 PRP_IN_JJS
 it_at_least	1
 NN_VBD_RB
@@ -845,18 +832,16 @@ and_evil_existing	1
 and_worth_watching	1
 JJ_IN_NN
 interested_in_epic	1
-``_DT_NNP
-`_The_Mahabharata	1
-``_The_Mahabharata	3
-``_The_Mahabbarata	1
 PRP_VBZ_RBR
 it_is_more	1
 VBD_IN_CD
 were_about_thirteen	1
-VBZ_,_IN
-lacks_,_in	1
+VBD_PRP_VBD
+bought_I_was	1
 CC_IN_PRP$
 but_in_his	1
+NN_VBD_NN
+lite_hearted_manner	1
 VBD_TO_VB
 tried_to_watch	1
 had_to_give	1
@@ -885,18 +870,12 @@ may_be_valid	1
 can_appear_god-like	1
 can_be_useful	1
 can_get_complete	1
-,_WDT_VBD
-,_which_was	2
-,_WDT_VBZ
-,_which_culminates	2
-,_which_deserves	1
-,_which_is	1
+VBP_:_NNS
+agree_;_subtitles	1
 RP_NN_NNS
 up_hearing_stories	1
 VBG_NN_PRP
 concerning_life_itself	1
-JJS_,_CC
-best_,_and	1
 NN_PRP_.
 poem_itself_.	1
 NN_IN_NNS
@@ -904,6 +883,7 @@ confusion_among_characters	1
 game_of_dice	1
 couple_of_months	1
 interplay_of_gods	1
+studio_with_actors	1
 kind_of_values	1
 exile_for_13years	1
 cross-section_of_backgrounds	1
@@ -921,24 +901,24 @@ version_of_Peter	1
 performance_by_Vittorio	1
 fan_of_Star	1
 culture_of_India	1
+wife_against_Shakuni	1
 Song_of_Norway	1
 version_of_Weapons	1
 input_from_Brook	1
-book_that_Hare	1
+culture_in_India	1
+Mahabharata_by_Peter	1
 king_of_India	1
 telecast_in_Europe	1
 saying_of_Brook	1
-discussion_between_Arjuna	1
 bit_like_Kung	1
+discussion_between_Arjuna	1
 incarnation_of_Vishnu	1
-culture_in_India	1
+book_that_Hare	1
 translation_by_William	1
 poem_on_Earth	1
 rendering_of_Mahabharata	1
 story_of_Krishna	1
 version_of_Mahabharata	1
-RB_,_VBZ
-however_,_is	1
 VBD_RB_JJ
 was_completely_un-artistic	1
 were_pretty_uninteresting	1
@@ -949,6 +929,8 @@ was_already_abridged	1
 were_too_tired	1
 was_rather_interested	1
 was_very_popular	1
+NN_DT_NNS
+action_the_thoughts	1
 VBZ_JJ_TO
 's_offensive_to	1
 is_fair_to	1
@@ -956,38 +938,32 @@ is_offensive_to	1
 NN_DT_NNP
 way_the_Pandava	2
 way_the_Bible	1
-RB_,_VBP
-Also_,_do	2
-RB_JJ_,
-very_precise_,	1
-very_rich_,	1
-extremely_long_,	1
-DT_NNS_,
-the_thoughts_,	1
-the_performances_,	1
-the_themes_,	1
-PRP_,_PRP
-you_,_I	1
-me_,_it	1
-VBZ_NNP_,
-selects_Krishna_,	1
-IS_BLURRY_,	1
+RB_IN_PRP$
+even_if_your	1
+RB_JJ_.
+utterly_dull_.	1
+very_enjoyable_.	1
+too_human_.	1
+also_multi-generational_.	1
+extremely_rude_.	1
+very_unreasonable_.	1
+bit_thick_.	1
+pretty_bad_.	1
+PRP_WP_NNP
+you_what_Peter	1
 RB_RB_IN
 as_well_as	1
 albeit_not_via	1
+n't_however_because	1
 as_long_as	2
 VBZ_VBG_IN
 's_speaking_in	1
-EX_VBD_RB
-There_was_even	1
 RB_JJ_:
 so_simple_--	1
 DT_IN_NNS
 this_for_years	1
 DT_IN_NNP
 this_in_PBS	1
-''_CC_VBZ
-'_and_says	1
 TO_DT_NN
 to_any_one	1
 to_the_original	1
@@ -1002,8 +978,6 @@ to_the_toilet	1
 to_the_material	1
 VB_IN_RB
 enthrall_with_very	1
-NN_CD_,
-watch_one_,	1
 PRP_MD_RB
 it_should_never	1
 I_can_only	1
@@ -1038,13 +1012,13 @@ captured_it_with	1
 had_it_on	1
 threw_him_into	1
 purchased_it_through	1
-VB_JJR_RB
-be_easier_just	1
 RB_EX_VBZ
 Now_there_is	1
 not_there_is	1
 IN_LS_VBP
 that_i_have	1
+RB_CC_DT
+yet_but_a	1
 VBZ_VBN_IN
 is_derived_from	1
 is_drawn_from	1
@@ -1062,39 +1036,32 @@ NN_NN_WDT
 film_version_which	1
 scene_footage_that	1
 NN_DT_JJ
+author_the_old	1
+beginning_the_multi-national	1
 movie_a_second	1
-''_CD_NN
-''_54_min	1
+pasupata_the_absolute	1
+poem_the_last	1
 VB_DT_DT
 identify_the_the	1
 IN_PRP$_JJS
 at_its_best	1
-,_NNS_TO
-,_cousins_to	1
-''_,_CC
-''_,_and	1
-RB_JJ_.
-utterly_dull_.	1
-very_enjoyable_.	1
-too_human_.	1
-also_multi-generational_.	1
-extremely_rude_.	1
-very_unreasonable_.	1
-bit_thick_.	1
-pretty_bad_.	1
 NNS_NNS_VBP
 characters_motives_are	1
 DT_NNP_VBZ
+the_Mahabharata_permeates	1
 the_Mahabharata_is	6
+The_Mahabbarata_is	1
 the_Mahabharata_feels	1
 The_Mahabharata_has	1
 the_Mahabharata_has	1
 The_Gita_has	1
 the_Bible_has	1
+the_Kauravas_chooses	1
 The_RSC_has	1
-The_Mahabharata_is	4
+The_Mahabharata_is	6
 WRB_JJ_NN
 how_free_will	2
+how_good_Song	1
 VBP_CC_RB
 form_and_later	1
 DT_NNP_VBD
@@ -1108,16 +1075,22 @@ VBP_VBG_.
 are_developing_.	1
 DT_NNP_DT
 the_BBC_a	1
+the_Bharatas_the	1
 the_USA_the	1
 JJ_NN_NN
 good_starting_place	2
 splashy_television_series	1
 six-hour_film_version	1
+marvelous_acting_dialogue	1
 good_guy_strongman	1
 full_length_version	1
 problematic_prose_translation	1
+Indian_history_culture	1
 Indian_caste_system	1
 straight_stage_production	1
+virgin_birth_prophecy	1
+great_war_death	1
+human_life_something	1
 outlandish_soap_opera	1
 full_stage_version	1
 CC_DT_RB
@@ -1126,14 +1099,25 @@ CC_IN_NN
 and_for_film	1
 and_in_spite	1
 and_that_part	1
+NN_VBZ_CD
+everybody_dies_one	1
 PRP$_JJ_NNS
 my_absolute_favorites	1
 their_own_interpretations	1
 its_universal_precepts	1
+our_home-grown_talents	1
 its_central_themes	1
 their_physical_attributes	1
 their_scheming_cousins	2
 their_career-making_egos	1
+NN_VBZ_CC
+subject_requires_and	1
+NN_JJ_CC
+world_good_and	1
+VBZ_NN_PRP$
+takes_place_his	1
+NN_NNS_DT
+gladiator_movies_this	1
 CC_VBG_IN
 and_working_with	1
 NNP_VBZ_PRP
@@ -1141,31 +1125,6 @@ Drona_puts_it	1
 Krishna_reminds_him	1
 NNP_DT_.
 See_this_.	1
-NN_,_CC
-boring_,_and	1
-mix_,_and	1
-self-importance_,_but	1
-advice_,_and	1
-year_,_but	1
-destruction_,_but	1
-duty_,_and	1
-DVD_,_and	1
-love_,_and	1
-tea_,_and	1
-version_,_but	1
-day_,_and	1
-cutting_,_and	1
-liking_,_and	1
-matter_,_and	1
-tale_,_and	1
-box_,_and	1
-charioteer_,_and	1
-escape_,_and	1
-film_,_and	1
-,_NN_VBZ
-,_everybody_dies	1
-''_IN_DT
-'_since_the	1
 NN_:_CC
 time_--_and	1
 screen_--_and	1
@@ -1202,33 +1161,52 @@ went_into_making	2
 CD_IN_PRP
 two_of_them	1
 !!!_If_you	1
+VBN_NNP_.
+called_Lord_.	1
 NNS_:_PRP
 adolescents_--_it	1
 IN_JJ_RB
 of_many_very	1
+in_gentle_nearly	1
 RB_CC_VB
 aside_and_focus	1
 carefully_and_be	1
 NNP_DT_JJ
+Bharatas_the_legendary	1
 BBC_a_few	1
 Oida_the_amazing	1
+Carriere_The_Discreet	1
 Arjuna_another_great	1
-JJR_NN_VBZ
-more_faithful_is	1
-longer_version_is	1
+NN_RB_CC
+version_yet_but	1
+DVD_yet_but	1
+listing_carefully_and	1
 DT_VBD_NN
 this_was_something	1
-JJ_NN_''
-absolute_weapon_'	1
-NNS_''_IN
-talents_'_since	1
+EX_VBD_RB
+There_was_even	1
+IN_NN_WDT
+of_man_which	2
+on_DVD_which	1
 PRP_RB_IN
 it_perfectly_about	1
-WDT_DT_JJ
-which_an_entire	1
+NNP_CD_NN
+Mahabharata_54_min	1
+NNS_CC_WP
+rivalries_and_what	1
+plays_but_what	1
+DT_NN_WRB
+the_sea_where	1
+this_movie_when	1
+the_film_where	1
+the_stage_where	1
 NNP_NNP_CD
+The_Gita_one	1
+Methuen_Drama_1988	1
 Peter_Brook_eight	1
 NNP_NNP_CC
+Outer_Space_and	1
+Overall_Brook_and	1
 Star_Trek_or	1
 Jean-Claude_Carri&egrave;re_and	1
 Peter_Brook_and	1
@@ -1237,11 +1215,9 @@ a_greater_harm	1
 The_longer_version	1
 a_greater_person	1
 the_shorter_version	1
-NN_PRP$_NNS
-surprise_my_friends	1
-NN_''_CC
-Bourgeoisie_''_and	1
-duty_'_and	1
+RP_DT_NN
+out_the_plot	1
+up_the_text	1
 VBD_NNP_CC
 poisoned_Bhima_and	1
 VB_RB_VBN
@@ -1251,37 +1227,38 @@ more_faithful_but	1
 NN_CC_IN
 stage_and_for	1
 vision_and_in	1
-interpretation_and_in	1
+box_and_in	1
 royalty_and_with	1
+interpretation_and_in	1
+year_but_for	1
 film_and_that	1
 NNP_VBZ_DT
-Mahabharata_is_the	2
+Mahabharata_is_the	3
 Hinduism_is_a	1
-Brook_is_a	1
+Brook_is_a	2
+Kauravas_chooses_the	1
 Krishna_has_an	2
 Brook_shows_an	1
 Brook_has_no	1
 This_is_the	1
 Fu_meets_the	1
-Mahabharata_is_a	2
+Mahabharata_is_a	3
+Mahabharata_is_an	1
 VB_NNS_VBG
 become_gods_depending	1
 watch_people_hearing	1
 NN_NN_PRP
 TIME_SINCE_I	1
+book_form_I	2
 VBZ_JJ_IN
 is_blind_so	1
-is_present_in	1
-is_bad_in	1
-is_full_of	1
 is_guilty_of	1
+is_infinitesimal_that	1
+is_present_in	1
+is_full_of	1
+is_bad_in	1
 JJR_NN_IN
 more_time_against	1
-VBZ_NN_,
-takes_place_,	1
-loses_everything_,	1
-NN_JJ_,
-fight_wrong_,	1
 VBZ_NN_.
 is_illusion_.	1
 gets_boring_.	1
@@ -1294,26 +1271,29 @@ quickly_develops_as	1
 CC_MD_PRP
 Nor_can_I	1
 JJ_RB_JJ
+gentle_nearly_monochromatic	1
 many_very_complicated	1
 CC_NNS_VBZ
 and_gods_is	1
-,_CC_JJ
-,_and_tenacious	1
-,_and_hurtful	1
-,_and_unearthly	1
 NN_IN_PRP
 way_that_you	1
 philosophy_that_we	1
+character_as_they	1
+rate_if_it	1
 minute_of_it	1
+mankind_as_one	2
 year_because_I	1
 film_before_I	1
 movie_if_you	1
-character_as_they	1
+excitement_as_it	1
 film_for_you	1
+question_if_you	1
 celebration_of_them	1
 plot_as_you	1
 something_that_I	1
 tale_that_I	1
+VBZ_PRP_PRP$
+tells_himself_My	1
 CC_NNS_VBP
 and_concepts_are	1
 VBD_RBR_JJ
@@ -1323,8 +1303,9 @@ PRP_VBP_:
 I_agree_;	1
 RB_IN_PRP
 so_if_you	1
-Even_though_it	1
 only_because_I	1
+Even_though_it	1
+however_because_it	1
 VBZ_IN_PRP
 says_that_he	1
 is_about_YOU	1
@@ -1334,8 +1315,6 @@ and_love_every	1
 or_get_some	1
 and_forget_the	1
 and_complete_this	1
-,_NNP_POS
-,_Vyasa_'s	1
 NNS_NN_IN
 actors_fight_in	1
 VBZ_PRP$_NN
@@ -1345,8 +1324,6 @@ bases_its_culture	1
 becomes_his_charioteer	1
 kills_his_enemy	1
 eats_his_heart	1
-,_IN_PDT
-,_with_all	1
 NN_VBP_VBN
 company_have_done	1
 NNP_VBZ_RB
@@ -1361,53 +1338,66 @@ Yudhishthira_gambles_inexorably	1
 CC_WP_NN
 and_what_kind	1
 NN_NN_CC
+philosophy_myth_and	1
 hollywood_production_but	1
 text_cold_and	1
+dialogue_music_and	1
 television_series_and	1
 epic_mythology_and	1
 lac_house_and	1
+death_destruction_but	1
+history_culture_and	1
+stage_version_but	1
 video_store_or	1
 VBG_IN_DT
 looking_for_a	1
 existing_within_both	1
 entering_into_the	1
 speaking_in_the	1
+NN_VBP_DT
+representation_reflect_the	2
 VBG_DT_IN
 watching_this_in	1
 watching_this_with	1
 watching_the_behind	1
 NNP_NNP_:
-Mass_Destruction_-	1
+England_Senegal_...	1
 Toshi_Tsuchitori_;	1
+Mass_Destruction_-	1
 RB_NN_CC
 just_religion_but	1
 VBG_JJ_NNS
 introducing_dedicated_beginners	1
-NNP_NNP_,
-Terry_Gilliam_,	1
-Methuen_Drama_,	1
-VERY_GOOD_,	1
-The_Gita_,	1
-Bhagavad_Gita_,	2
-THIS_PRODUCT_,	1
-Joseph_Campbell_,	2
-Peter_Brook_,	2
-India_Bharat_,	2
-Peter_Brooke_,	1
+DT_NN_PRP
+the_film_we	1
+another_context_it	1
+the_acting_itself	1
+the_feature_it	1
+the_end_you	1
+Some_day_we	1
+the_medium_it	1
+the_movie_we	2
+an_option_I	1
+the_poem_itself	1
+the_sixth_she	1
+the_movie_I	1
+the_work_itself	1
+a_family_I	1
+THE_DVD_I	1
+the_delivery_I	1
 NNP_NNP_.
 Got_Fingered_.	1
 Peter_Brookes_.	1
-du_Nord_.	1
-William_Buck_.	3
 Bill_Moyers_.	2
+William_Buck_.	3
 BEATRIZ_BELTRAN_.	1
 NOT_IT_!	1
+du_Nord_.	1
 Peter_Brook_.	2
 The_Bhagavad-Gita_.	1
 Nicholas_Nickleby_.	1
 The_Mahabharata_.	1
-PRP_IN_IN
-them_as_beneath	1
+Brook_Marat-Sade_.	1
 VBG_TO_VB
 trying_to_figure	1
 attempting_to_screen	1
@@ -1429,11 +1419,16 @@ Kaurava_kings_that	2
 VBZ_RB_JJR
 is_far_more	1
 NN_NNP_NNP
-way_Laurence_Olivier	1
 director_Peter_Brook	1
-screenwriter_Jean_Claude	1
+way_Laurence_Olivier	1
 director/co-writer_Peter_Brook	1
 version_Brooklyn_Academy	1
+play_Nicholas_Nickleby	1
+screenwriter_Jean_Claude	1
+stage_Peter_Brooke	1
+RB_JJ_PRP
+well_worth_it	1
+so_worth_it	1
 VBP_PRP_DT
 tell_us_the	1
 WRB_RB_NN
@@ -1455,12 +1450,11 @@ NN_VBN_.
 light_preserved_.	1
 RB_VBP_RB
 certainly_do_n't	1
+Also_do_not	2
 then_do_n't	1
 just_do_n't	1
 NNP_TO_DT
 Video_to_any	1
-,_CC_,
-,_but_,	1
 CD_VBN_IN
 one_dated_as	1
 one_shown_on	1
@@ -1475,11 +1469,6 @@ RB_IN_JJ
 far_from_ignorant	1
 VBN_IN_NNPS
 watched_by_Westerners	1
-NN_,_``
-boy_,_``	1
-``_PRP_VBD
-``_I_had	1
-``_I_did	1
 VBG_IN_JJ
 specializing_in_rare	1
 CD_NNS_MD
@@ -1488,23 +1477,26 @@ VBG_VBN_RB
 being_offered_here	1
 DT_NN_RB
 this_film_never	1
+the_story_already	1
 the_latter_reluctantly	1
 the_language_so	1
-this_version_yet	1
-the_story_already	1
+The_result_however	1
+any_level_then	1
 a_friend_once	1
+a_film_so	1
 a_film_instead	1
 the_story_also	1
 the_listing_carefully	1
+every_day_maybe	1
+the_DVD_maybe	1
 the_DVD_yet	1
+this_version_yet	1
 a_notion_sometimes	1
 a_bit_too	1
 JJ_CC_PRP
 sorry_but_I	1
 VB_VBN_VBN
 have_been_called	1
-RB_._''
-else_._''	1
 FW_FW_NN
 Mallika_Sarabhai_saying	1
 Kung_Fu_master	2
@@ -1513,6 +1505,7 @@ bringing_its_central	1
 revealing_his_true	1
 VBZ_NN_NN
 HAS_BEEN_A	1
+loses_everything_land	1
 DT_NN_RP
 the_film_off	1
 VBG_NN_IN
@@ -1532,17 +1525,19 @@ RBS_JJ_NNS
 most_precious_gems	1
 most_profound_stories	1
 most_gifted_geniuses	1
-RB_,_IN
-Yes_,_in	1
-however_,_because	1
 IN_CD_JJ
 of_42_international	1
 by_two_great	1
 of_two_rival	1
 NNP_NN_NNS
+Katha_cartoon_books	1
 Hindi_language_skills	1
 DT_NN_DT
 the_story_some	2
+the_poem_the	1
+this_story_a	1
+the_author_the	1
+the_way_the	1
 the_movie_a	1
 NN_VBZ_RP
 one_stands_out	1
@@ -1554,6 +1549,8 @@ could_come_out	1
 must_see_for	1
 should_act_with	1
 can_go_for	1
+DT_CC_MD
+this_and_will	1
 RB_VBP_DT
 here_deplore_the	1
 already_know_the	1
@@ -1576,15 +1573,16 @@ drama_has_often	1
 version_is_much	1
 faithful_is_also	1
 world_is_so	1
-NNS_VBP_,
-others_mention_,	1
 JJ_CC_DT
 stunning_and_the	1
 wonderful_and_the	1
 bubbly_and_the	1
+realistic_and_the	1
 illiterate_and_the	1
 incorrect_and_the	1
+treacherous_and_this	1
 excellent_and_the	1
+covered_but_those	1
 PRP_VB_NN
 me_say_something	1
 CC_VBG_TO
@@ -1596,11 +1594,14 @@ Brook_version_has	1
 Brooks_version_gives	1
 JJ_NNS_NNP
 international_actors_India	1
+human_species_Vyasa	1
+full_miniseries_THIS	1
+famous_artists_Peter	1
+absolute_favorites_Mallika	1
 VB_DT_VB
 let_that_discourage	1
-,_RB_RB
-,_as_well	1
-,_very_long	1
+:_IN_NNP
+--_by_Joseph	2
 NNS_RB_IN
 months_later_on	1
 men_together_in	1
@@ -1642,9 +1643,10 @@ VB_VBG_NNS
 be_watching_actors	1
 IN_PRP_PRP
 for_myself_I	1
-JJ_CD_NN
-full_5 1/2_hour	1
-original_1990_interpretation	1
+VBG_RP_WRB
+growing_up_how	1
+VBP_VBN_NNP
+are_called_Lord	1
 NNP_PRP_MD
 SO_I_SHOULD	1
 NN_:_RB
@@ -1655,32 +1657,29 @@ audience_--_albeit	1
 DT_NNS_VBG
 the_characters_barring	1
 the_questions_concerning	1
-NNP_NNP_``
-Peter_Brook_``	1
-Claude_Carriere_``	1
+PRP_PRP_MD
+you_I_would	1
 FW_IN_DT
 mythology_on_any	1
-JJ_,_IN
-long_,_with	1
-gifted_,_if	1
-infinitesimal_,_that	1
+POS_NN_TO
+'s_version_to	1
 VBD_PRP_VBZ
 decided_it_is	1
 RB_RB_RB
 just_so_well	1
 only_so_much	1
+very_very_long	1
 NN_NN_NNS
+land_kingdom_brothers	1
 minus_bathroom_breaks	1
 NN_NN_NNP
+mother_tongue_English	1
 stage_version_Brooklyn	1
 guy_strongman_Bhima	1
-VBP_IN_DT
-live_in_a	1
-see_that_the	2
-suggest_as_a	2
-are_from_the	1
-think_that_this	1
-think_about_the	1
+starting_place_Mahabharata	2
+NN_CC_VB
+storyline_and_make	1
+toilet_or_get	1
 IN_RB_PRP
 At_first_it	1
 CC_VBP_DT
@@ -1688,8 +1687,6 @@ and_watch_the	1
 and_enjoy_the	2
 RB_CC_WP
 ago_and_who	1
-,_NNS_IN
-,_sons_of	1
 CC_VBN_.
 and_enlightened_.	1
 and_directed_.	1
@@ -1698,6 +1695,8 @@ VB_VBN_JJ
 have_given_negative	1
 VBD_JJR_.
 got_worse_.	1
+JJ_CC_VB
+daunting_but_believe	1
 NNP_VBZ_JJR
 Mahabharata_is_longer	1
 NNS_CC_PRP$
@@ -1711,6 +1710,7 @@ NNP_VBZ_PRP$
 Bhima_kills_his	1
 NN_RB_RB
 half_as_long	1
+touch_as_well	1
 movie_only_so	1
 CD_JJ_NN
 one_final_chance	1
@@ -1733,53 +1733,24 @@ Like_so_many	1
 with_very_little	1
 with_just_enough	1
 in_practically_Shakespearean	1
-NNP_POS_``
-Gilliam_'s_`	1
-Brook_'s_`	2
 NNS_VBD_JJR
 videotapes_got_worse	1
-NN_,_RB
-touch_,_as	1
-DVD_,_maybe	1
-day_,_maybe	1
-result_,_however	1
-group_,_thus	1
-level_,_then	1
-film_,_so	1
-audience_,_much	1
-cast_,_rather	1
-NNS_CC_``
-preferences_and_``	1
-NNP_,_VBZ
-Brooke_,_has	1
-Vishnu_,_tries	1
-Brook_,_is	1
-Kauravas_,_chooses	1
-Gilliam_,_is	1
-Yudhishthira_,_loses	1
-Yudhishthira_,_recognizes	1
-VBP_VBN_``
-are_called_``	1
-VBN_DT_VBD
-assumed_this_was	1
 :_CC_VB
 --_and_love	1
-JJ_:_CC
-hurtful_..._and	1
 CC_VBP_RB
 but_seem_too	1
 and_are_also	1
 But_do_n't	1
-,_WP_PRP
-,_what_I	1
-VBD_,_NNP
-occurred_,_Duryodhan	1
 VBN_CD_JJ
 offered_one_final	1
 IN_PRP_IN
 about_it_without	1
+of_it_because	1
 NNP_IN_PRP$
+Gita_with_its	1
 Mahabharata_in_my	1
+VBZ_JJ_VBG
+is_superb_acting	1
 PRP_DT_JJ
 it_the_elevated	1
 NN_VBN_IN
@@ -1804,135 +1775,112 @@ The_movie_'s	1
 the_poet_'s	1
 the_world_'s	1
 NN_IN_DT
-universality_of_the	1
-Sermon_on_the	1
-poem_in_the	1
 head_of_the	1
 essence_of_the	4
-making_of_The	1
 coincidence_that_both	1
-blindfold_for_the	1
-cheating_in_a	1
+part_of_a	1
+text_of_the	2
+work_like_this	1
+family_in_a	1
+production_of_the	1
+knowledge_of_the	1
+message_of_the	1
+section_on_the	1
+internet_about_this	1
+video_of_the	1
+fight_in_a	1
+yoga_as_the	1
+brother_of_the	1
+director_of_the	1
+documentary_on_the	1
+world_into_a	1
+rest_for_another	1
+discussion_between_the	1
+interpretation_of_the	1
+adaptation_of_the	3
+poem_in_the	1
+lip_after_the	1
 stereotype_of_the	1
+reflection_of_the	1
+soundtrack_for_this	1
+in-law_of_the	1
+branch_of_the	1
+cheating_in_a	1
+Pandava_as_the	1
+quality_of_the	1
+creation_of_the	2
+end_of_the	2
+Everything_about_this	1
+course_of_a	1
+lie_for_the	1
+knowledge_at_all	1
+piece_for_the	1
+inspiration_from_this	1
+drama_in_the	2
+universality_of_the	1
+Sermon_on_the	1
+rendering_of_an	2
+library_for_that	1
+pursuit_of_the	1
+toe_into_the	1
+cover_at_all	1
+blindfold_for_the	1
+Charm_of_the	1
+point_of_The	1
+grandeur_of_the	2
+preparation_for_the	1
+part_of_the	2
+adaptation_on_the	1
+example_during_the	1
+subtlety_of_the	1
+story_about_the	2
+battle_between_the	2
+story_of_the	3
+experience_in_the	1
+feud_on_an	1
+CD_with_the	1
+spite_of_this	1
+grace_in_the	1
+duty_of_a	1
+Everything_in_The	1
+episode_of_a	1
+war_between_the	3
 re-release_of_the	1
 problem_of_the	1
 version_of_the	9
 version_as_a	1
-part_of_a	1
-pursuit_of_the	1
-rest_for_another	1
-cover_at_all	1
-text_of_the	2
-adaptation_of_the	3
 money_on_this	1
-work_like_this	1
-branch_of_the	1
-family_in_a	1
-epic_in_a	1
-Charm_of_the	1
-rendition_of_the	1
-in-law_of_the	1
-production_of_the	1
-toe_into_the	1
-knowledge_of_the	1
+boy_at_the	1
 momentum_of_the	1
-rendering_of_an	2
-message_of_the	1
-preparation_for_the	1
+epic_in_a	1
+rendition_of_the	1
 master_in_the	1
-experience_in_the	1
-section_on_the	1
-part_of_the	2
-internet_about_this	1
 version_of_this	3
-reflection_of_the	1
 wisdom_of_the	1
-video_of_the	1
-fight_in_a	1
-adaptation_on_the	1
-quality_of_the	1
-subtlety_of_the	1
-story_about_the	2
-lip_after_the	1
-battle_between_the	2
-creation_of_the	2
-end_of_the	2
-brother_of_the	1
-story_of_the	3
-vision_of_the	1
-soundtrack_for_this	1
-course_of_a	1
-director_of_the	1
-Everything_about_this	1
-world_into_a	1
-inspiration_from_this	1
-feud_on_an	1
 depth_of_the	2
 knowledge_of_this	2
-discussion_between_the	1
-lie_for_the	1
-CD_with_the	1
-war_between_the	3
-spite_of_this	1
-grace_in_the	1
-interpretation_of_the	1
-knowledge_at_all	1
-duty_of_a	1
-piece_for_the	1
+making_of_The	1
 polarization_between_the	1
-Everything_in_The	1
 feel_of_a	1
-episode_of_a	1
+vision_of_the	1
 mini-script_of_The	1
-grandeur_of_the	2
-drama_in_the	2
 VBZ_RB_WRB
 is_probably_why	1
-NN_,_WDT
-epic_,_which	1
-man_,_which	2
-version_,_which	1
-film_,_which	1
-bonus_,_which	1
 IN_DT_PRP
 at_all_it	1
 over_this_it	1
+of_this_I	1
 PRP_RP_.
 it_down_.	1
 it_up_.	1
-VBP_NNS_,
-are_cousins_,	1
-NNPS_CC_PRP$
-Pandavas_and_their	1
 CC_VBD_JJ
 and_was_curious	1
-,_''_PRP
-,_''_he	1
-VBG_''_,
-changing_''_,	1
 CD_NNS_.
 five_stars_.	1
 5 1/2_hours_.	1
 5-6_hours_.	1
 170_minutes_.	1
 5_years_.	1
-CD_NNS_,
-25_minutes_,	1
-two_armies_,	1
-8_hours_,	1
-325_minutes_,	1
-two_discs_,	1
-NN_,_DT
-life_,_a	1
-poem_,_the	1
-heart_,_the	1
-story_,_a	1
-opinion_,_the	1
-action_,_the	1
-author_,_the	1
-way_,_the	1
-production_,_the	1
-beginning_,_the	1
 NNS_CC_DT
 colors_and_the	1
 gods_but_all	1
@@ -1941,6 +1889,8 @@ VB_VBN_PRP$
 have_limited_his	1
 NN_DT_VBZ
 context_this_seems	1
+VBP_RB_PRP
+listen_carefully_he	1
 VBG_NNS_IN
 reading_reviews_for	1
 warring_sets_of	1
@@ -1953,15 +1903,25 @@ go_to_one	1
 NNS_DT_NN
 decades_an_example	1
 people_every_day	1
-``_PRP$_NN
-``_My_success	1
+months_the_writing	1
+evenings_a_couple	1
 IN_NN_:
 of_mankind_:	1
 of_humanity_--	1
 as_faithful_-	1
+of_Myth_--	2
 of_life_--	1
-PRP_VBD_NNP
-It_took_Peter	1
+PRP_RB_VBD
+I_then_purchased	1
+it_really_helped	1
+I_just_sat	1
+I_just_had	1
+I_just_did	1
+I_too_grew	1
+I_first_heard	2
+I_finally_bought	1
+I_finally_had	1
+I_first_saw	2
 VBZ_DT_JJ
 is_a_graceless	1
 is_a_brilliant	2
@@ -1972,6 +1932,7 @@ is_the_first	1
 is_a_little	1
 is_the_fantastic	1
 is_the_central	1
+means_the_great	1
 is_a_wonderful	1
 undertakes_a_detailed	1
 is_this_three-hour	1
@@ -1994,8 +1955,6 @@ is_a_beautiful	1
 makes_a_foreign	1
 VBN_CD_NNS
 written_three_times	1
-NNP_''_NN
-Katha_''_cartoon	1
 IN_PDT_DT
 in_such_a	1
 of_all_the	1
@@ -2040,6 +1999,8 @@ of_expressing_severe	1
 of_introducing_dedicated	1
 VB_DT_RBS
 be_the_most	1
+NNP_VBG_NNP
+English_including_B.	1
 DT_IN_DT
 this_as_a	1
 all_of_these	1
@@ -2050,17 +2011,15 @@ this_with_some	1
 that_of_the	2
 this_for_those	1
 all_of_the	2
-DT_,_PRP
-this_,_I	1
-PRP_VBZ_NN
-It_'s_fun	1
-It_takes_place	1
+NN_CC_NNP
+charioteer_and_Duryodhana	1
 NN_CC_NNS
 documentary_or_miniseries	1
 NNP_NNP_NN
 Peter_Brook_version	2
 Peter_Brooks_work	1
 Chitra_Khatha_equivalent	1
+Chitra_Katha_cartoon	1
 Star_Trek_movie	1
 VBN_RB_.
 offered_here_.	1
@@ -2088,6 +2047,8 @@ IN_JJ_IN
 of_several_of	1
 from_ignorant_of	1
 in_tight_on	1
+NNS_NNP_POS
+species_Vyasa_'s	1
 VB_VBG_NN
 be_getting_work	1
 RB_VBZ_TO
@@ -2096,39 +2057,32 @@ truly_cuts_to	1
 JJ_NNS_VBN
 Indian_texts_translated	1
 several_incidents_depicted	1
+silent_backgrounds_interspersed	1
 moral_dilemmas_presented	1
 VB_PRP_MD
 believe_it_will	1
-DT_JJ_JJ
-a_good_short	1
-the_original_Indian	1
-the_legendary_first	1
-a_nine-hour_full	1
-a_little_over	1
-a_modern_Western	1
-This_excellent_multinational	1
-the_typical_Indian	1
-a_private_long	1
-the_old_blind	1
-this_six-hour_visual	2
-The_Acclaimed_new	2
+PRP_VBP_WRB
+we_see_when	1
+We_see_how	2
 NN_CC_JJ
 television_and_later	1
-birth_and_other	1
 continent_and_racial	1
-understanding_and_parochial	1
+birth_and_other	1
 item_and_worth	1
 pacing_and_near-zero	1
+cutting_and_hurtful	1
+understanding_and_parochial	1
 NN_POS_NN
 poet_'s_scribe	1
 everybody_'s_liking	1
-``_NNP_NNP
-``_Amar_Chitra	1
-``_Peter_Brook	1
-`_Peter_Brook	1
-``_Freddy_Got	1
-CC_DT_``
-and_the_``	1
+NNS_CD_IN
+performances_two_of	1
+PRP_CC_RB
+them_and_then	1
+me_but_also	1
+VBZ_JJ_JJ
+is_capricious_evasive	1
+is_theatrical_philosophical	1
 RB_IN_WP
 perfectly_about_what	1
 RB_VBD_RB
@@ -2136,8 +2090,6 @@ just_did_n't	1
 also_was_quite	1
 VB_:_NNP
 fight_;_Arjuna	1
-RB_,_JJ
-ever_,_replete	1
 PRP_VB_JJR
 it_be_easier	1
 VBD_PRP_RB
@@ -2151,30 +2103,40 @@ CC_VBN_CC
 and_designed_and	1
 VBD_IN_PRP$
 did_with_his	1
+VBZ_IN_PRP$
+lacks_in_my	1
 VB_DT_NNP
 get_a_Cliff	1
 kill_the_Pandavas	1
 recommend_this_Video	1
 get_the_Chopra	1
-PRP_RB_VBD
-I_then_purchased	1
-it_really_helped	1
-I_just_sat	1
-I_just_had	1
-I_just_did	1
-I_too_grew	1
-I_first_heard	2
-I_finally_bought	1
-I_finally_had	1
-I_first_saw	2
+IN_NN_CC
+of_war_and	2
+with_intelligence_and	1
+on_television_and	1
+of_choice_and	1
+into_royalty_and	1
+on_video_and	1
+of_self-importance_but	1
+of_stage_and	1
+like_water_and	1
+on_DVD_and	1
+by_heart_and	1
+that_inaction_and	1
+of_duty_and	1
 FW_FW_.
 grandmothers/grandfathers/Indian_TV/Movies_.	1
-NN_VBZ_,
-subject_requires_,	1
-everybody_dies_,	1
+PRP$_JJ_NN
+his_limited_understanding	1
+his_western_mindset	1
+His_eclectic_casting	1
+his_true_form	1
+My_wise_cousin	1
+its_real_strength	1
+his_entire_army	1
 IN_DT_NNP
 into_the_Ganges	1
-of_the_Mahabharata	12
+of_the_Mahabharata	13
 with_some_Darjeeling	1
 about_the_Mahabharata	1
 at_the_Bouffes	1
@@ -2195,9 +2157,10 @@ that_both_Krishna	1
 of_the_John	1
 because_the_VCR	1
 Although_the_Mahabharata	1
+as_The_Mahabharata	1
 on_the_Bhagavad-Gita	1
 of_all_Hindu	1
-of_The_Mahabharata	2
+of_The_Mahabharata	3
 on_the_Mount	1
 as_the_Bible	2
 like_The_Iliad	1
@@ -2212,6 +2175,7 @@ that_the_intricacies	1
 with_some_qualities	1
 of_the_characters	2
 between_the_cousins	1
+that_the_actors	1
 of_the_families	1
 of_the_parallels	1
 after_the_words	1
@@ -2237,13 +2201,18 @@ VBZ_JJ_DT
 conserves_intact_the	1
 VB_NNP_VBD
 wish_Brook_had	1
+VB_NNP_VBZ
+follow_AND_is	1
+take_Krishna_responds	1
 NN_:_PRP
 world_;_it	1
 text_-_I	1
 option_;_he	1
 item_;_I	1
+reason_--_I	1
 IN_DT_CC
 about_this_and	1
+on_this_and	1
 at_all_and	1
 :_PRP_RB
 -_I_definitely	1
@@ -2274,18 +2243,8 @@ JJR_RB_TO
 easier_just_to	1
 POS_:_RB
 's_-_very	1
-IN_NN_,
-For_example_,	1
-of_life_,	1
-of_duty_,	1
-of_man_,	2
-on_DVD_,	1
-of_love_,	1
-of_mankind_,	2
-of_philosophy_,	1
-of_casting_,	1
-in_imagery_,	1
-of_self-importance_,	1
+NN_PRP$_JJ
+place_his_entire	1
 WDT_MD_VB
 that_can_be	1
 that_will_be	1
@@ -2310,6 +2269,8 @@ HAVE_SUBTITLES_AND	1
 VB_JJ_.
 find_distracting_.	1
 be_valid_.	1
+NNS_RB_DT
+years_ago_the	1
 NN_NNS_.
 couple_months_.	1
 language_skills_.	1
@@ -2321,15 +2282,8 @@ yoga_texts_.	1
 attention_spans_?	1
 CD_NNS_VBZ
 100,000_verses_tells	1
-NN_NNS_,
-dozen_countries_,	1
-rocket_grenades_,	1
-life_lessons_,	1
-gladiator_movies_,	1
-reed_thickets_,	1
-dozen_times_,	1
-NNS_VBN_,
-dilemmas_presented_,	1
+CD_CC_JJR
+60_or_more	1
 NNS_RB_VBP
 reviews_here_deplore	1
 years_ago_are	1
@@ -2339,6 +2293,8 @@ TO_NN_:
 to_everyone_:	1
 JJ_CC_WP
 good_or_who	2
+NNS_RB_VBG
+stakes_finally_losing	1
 CC_JJ_NN
 and_common_wife	1
 but_problematic_prose	1
@@ -2354,16 +2310,19 @@ than_attempting_to	1
 TO_NN_.
 to_film_.	1
 POS_NN_CC
+'s_liking_and	1
 's_birth_and	1
 's_story_but	1
+'_advice_and	1
 's_family_and	1
 's_version_and	1
 CC_DT_VBZ
 and_this_has	1
 NNP_POS_VBD
 Norway_'_was	1
-NN_''_:
-Myth_''_--	2
+NNP_NNS_DT
+wednesday_evenings_a	1
+Hindu_texts_the	1
 PRP_NNS_.
 it_groups_.	1
 RP_:_DT
@@ -2384,20 +2343,16 @@ IN_DT_RB
 in_a_well	1
 PRP_WRB_PRP
 him_when_I	1
-NN_''_,
-pasupata_'_,	1
+NN_RB_VBD
+friend_once_loaned	1
 WP_VBP_RB
 who_have_not	1
 IN_RB_.
 in_there_.	1
 WP_DT_NN
 What_a_tool	1
-,_``_DT
-,_``_The	2
 VBP_CD_NN
 are_two_version	1
-,_EX_VBP
-,_there_are	1
 POS_VBD_IN
 '_was_until	1
 MD_DT_NN
@@ -2412,13 +2367,11 @@ DT_JJ_WDT
 the_same_which	1
 VBZ_CD_IN
 is_one_of	3
+dies_one_by	1
 PRP_NN_PRP
 us_home_we	1
-DT_NNP_''
-The_Mahabbarata_''	1
-The_Mahabharata_''	3
-NNP_NN_CC
-International_cast_and	1
+NN_VBD_VBG
+he/she_was_watching	1
 VB_JJ_TO
 Be_sure_to	1
 be_offensive_to	1
@@ -2437,8 +2390,8 @@ This_is_not	1
 that_is_n't	1
 that_is_just	1
 This_is_probably	1
-VB_DT_CC
-redeem_all_or	1
+JJ_NN_VBP
+full_story_are	1
 RBR_JJ_CC
 more_complete_and	1
 more_bubbly_and	1
@@ -2481,64 +2434,46 @@ amazing_5_+	1
 VBN_DT_NN
 watched_this_version	1
 become_a_DVD	1
+broadcasted_The_Mahabharata	1
 woven_a_wealth	1
 heard/read/wathced_the_epic	1
 dipped_a_toe	1
 seen_the_DVD	1
 watched_the_DVD	1
 broken_every_value	2
-''_,_VB
-'_,_get	1
+NNS_NNS_TO
+brothers_cousins_to	1
 VBP_DT_IN
 love_all_of	1
-''_PRP$_NN
-'_their_version	1
 NNP_NNS_VBN
 Indian_movies_based	1
-JJ_,_JJ
-philosophical_,_spare	1
-capricious_,_evasive	1
-spare_,_poetic	1
-evasive_,_turbulent	1
-strong_,_complicated	1
-Beautiful_,_brilliant	1
-original_,_full	1
-multi-national_,_multi-racial	1
-slow_,_deliberate	1
-theatrical_,_philosophical	1
-disappointing_,_sliced	1
 NN_CC_WP
 mythology_and_who	1
 enemy_or_who	2
-VBZ_VBN_,
-is_destroyed_,	2
 VBP_JJ_IN
+am_justified_in	1
 are_familiar_with	1
 are_god-like_so	1
 are_interested_in	1
-am_justified_in	1
+are_gifted_if	1
 WRB_VBZ_CD
 how_does_one	1
 VBP_NN_NN
 have_NO_IDEA	1
+CC_NNP_WP
+and_Television_who	1
 VBG_PDT_DT
 compressing_all_the	1
-``_NNP_CD
-``_Plan_9	1
 CC_NN_.
 and_direction_.	1
 and_destiny_.	2
 and_plurality_.	1
 and_cinematography_.	1
 or_back-story_.	1
-CC_NN_,
-and_mist_,	1
-or_library_,	1
-and_wife_,	1
-or_escape_,	1
-and_cutting_,	1
-VBP_IN_NNS
-say_in_interviews	1
+NN_WDT_VBP
+footage_that_enhance	1
+NNS_WDT_VBP
+qualities_that_are	1
 VBZ_RB_DT
 is_actually_a	1
 is_definitely_no	1
@@ -2550,13 +2485,9 @@ is_indeed_a	1
 is_n't_a	1
 VBP_CD_NNS
 are_two_discs	1
-CC_RB_,
-But_still_,	1
-And_especially_,	1
-and_very_,	1
-CC_NN_:
-and_sensibility_--	1
-and_history_--	1
+RB_RB_CC
+very_long_but	1
+long_ago_and	1
 WP_NNP_NNP
 what_Peter_Brook	1
 VBN_TO_NN
@@ -2569,8 +2500,6 @@ teach_you_important	1
 PDT_DT_JJ
 all_the_most-crucial	1
 Such_a_powerful	1
-,_DT_MD
-,_this_could	1
 VBN_VBZ_JJ
 done_is_astonishing	1
 CC_NN_TO
@@ -2582,16 +2511,15 @@ burning_it_down	1
 making_it_up	1
 PRP$_NN_CC
 his_enemy_and	1
+his_charioteer_and	1
 their_warning_and	1
 VBP_IN_IN
 feel_that_if	1
 understand_that_within	1
-PRP_,_DT
-it_,_this	1
+NNS_DT_MD
+movies_this_could	1
 VBG_VBD_JJ
 acting_was_excellent	1
-JJR_TO_VB
-easier_to_follow	1
 DT_VBP_TO
 each_seek_to	1
 VBN_IN_IN
@@ -2599,11 +2527,15 @@ been_for_at	1
 CD_NN_.
 one_stroke_.	1
 54_min_.	1
+NNS_DT_JJS
+dice_the_oldest	1
 VBZ_PRP_IN
 tells_you_about	1
 reminds_him_about	1
 RB_PRP$_NNS
 yet_their_names	1
+RB_PRP$_NNP
+so_his_Mahabharata	1
 VBP_RB_VB
 do_n't_know	5
 do_n't_see	1
@@ -2612,33 +2544,38 @@ do_n't_do	1
 do_n't_let	1
 do_n't_get	1
 do_n't_need	1
-,_VB_PRP
-,_keep_you	1
-,_believe_me	1
-,_teach_you	1
+POS_NNP_.
+'s_Mahabharata_.	1
+'s_Jabberwocky_.	1
+VBD_VBG_NNP
+was_watching_Mahabharata	1
 VBD_VBG_NNS
 was_reading_reviews	1
 VBD_IN_NN
 sat_in_silence	1
 CD_NN_VBZ
 One_example_is	1
+RB_CC_PRP
+yet_but_I	1
+dramatically_but_I	1
 VBD_PRP_MD
 felt_I_could	1
 decided_we_would	1
-,_CC_WRB
-,_and_how	1
-JJ_NNP_,
-Shakespearean_English_,	1
+NN_NNS_RB
+rocket_grenades_too	1
 RB_DT_NN
 definitely_no_hollywood	1
 actually_a_stage	1
+Fortunately_this_version	1
 hardly_any_reflection	1
+especially_the_actor	1
 well_the_purpose	1
 much_the_way	1
 n't_a_fan	1
 Then_the_play	2
 effectively_the_strory	1
 really_a_story	1
+aside_this_film	1
 not_an_option	1
 Just_the_quality	1
 once_every_year	2
@@ -2654,6 +2591,7 @@ beauty_and_grandeur	1
 culture_and_religion	1
 water_and_rock	1
 health_nor_beauty	1
+Bourgeoisie_and_director	1
 fog_and_mist	1
 depth_and_subtlety	1
 will_and_fait	2
@@ -2661,6 +2599,7 @@ myth_or_back-story	1
 writing_and_direction	1
 pacing_and_feel	1
 store_or_library	1
+DVD_and_today	1
 rock_and_fire	1
 stage_and_screen	1
 background_or_knowledge	1
@@ -2676,13 +2615,6 @@ VBN_VBZ_DT
 read_is_the	1
 IN_NNS_.
 among_characters_.	1
-IN_NNS_,
-of_brothers_,	1
-As_children_,	1
-in_turns_,	1
-of_stories_,	1
-of_values_,	1
-of_dice_,	1
 CC_NNP_POS
 and_Karna_'s	1
 and_Carriere_'s	1
@@ -2695,13 +2627,30 @@ IN_NNS_:
 for_adolescents_--	1
 for_adults_--	1
 at_times_-	1
-PRP_VBP_WRB
-we_see_when	1
-We_see_how	2
+DT_JJ_JJ
+a_good_short	1
+the_original_Indian	1
+the_legendary_first	1
+a_nine-hour_full	1
+a_little_over	1
+the_multi-national_multi-racial	1
+The_Acclaimed_new	2
+This_excellent_multinational	1
+the_typical_Indian	1
+a_modern_Western	1
+a_private_long	1
+the_original_full	1
+this_six-hour_visual	2
+a_disappointing_sliced	1
+the_old_blind	1
 RB_DT_VBZ
 however_this_is	2
+Instead_this_is	1
 CD_CC_IN
 1989_and_by	1
+one_and_at	1
+NNP_WP_VBD
+Television_who_wrote	1
 NN_WRB_NNS
 stage_where_dozens	1
 NN_WDT_MD
@@ -2731,10 +2680,13 @@ VBP_RB_DT
 are_not_an	1
 are_hardly_any	1
 are_n't_a	1
+CD_NN_PRP
+one_case_I	1
 IN_WRB_JJ
 on_how_faithful	1
 TO_VB_TO
 to_lie_to	1
+to_enchant_to	1
 to_get_to	1
 to_try_to	1
 DT_VBP_VBN
@@ -2750,16 +2702,14 @@ CC_VBD_VBN
 and_was_amazed	1
 RB_VBP_TO
 just_want_to	1
-,_CC_NNP
-,_and_Duryodhana	1
+WP_DT_NNP
+what_The_Mahabharata	1
 DT_VBN_JJ
 the_butchered_three-hour	1
-NNS_,_FW
-chartecters_,_etc.	1
-,_FW_,
-,_i.e._,	1
-,_FW_.
-,_etc._.	1
+JJR_NNS_RB
+higher_stakes_finally	1
+NN_RBR_JJ
+lot_more_pleasurable	1
 :_RB_RB
 --_albeit_not	1
 -_very_long	1
@@ -2776,27 +2726,40 @@ it_the_most	1
 PRP$_NNS_CC
 their_senses_and	1
 my_DVDs_and	1
+their_rivalries_and	1
 his_brothers_and	2
+NN_NN_WP
+prophecy_someone_who	1
 VBD_VBN_CC
 was_shocked_and	1
 was_told_and	1
 was_complicated_and	1
-WRB_NNS_IN
-where_dozens_of	1
+VBP_VBN_TO
+are_seen_to	1
+have_continued_to	1
 DT_RB_RB
 some_not_as	2
+VB_PRP_NNP
+THANK_YOU_BEATRIZ	1
+NN_WDT_VBZ
+movie_which_is	1
+intensity_that_is	1
+bonus_which_deserves	1
+one_that_'s	1
+story_that_grows	1
+DVD_that_is	1
+film_which_is	1
+man_which_culminates	2
+film_that_is	1
 JJ_VBZ_DT
 informative_is_the	1
 MD_VB_NNS
 can_become_gods	1
 can_get_movies	1
-NN_WDT_VBZ
-movie_which_is	1
-intensity_that_is	1
-one_that_'s	1
-story_that_grows	1
-DVD_that_is	1
-film_that_is	1
+MD_VB_NNP
+will_take_Krishna	1
+VBD_VBN_MD
+had_hoped_would	1
 DT_RBS_JJ
 the_most_precious	1
 the_most_sacred	1
@@ -2810,24 +2773,26 @@ play_opened_on	1
 VB_PRP_VB
 make_you_think	1
 Let_me_say	1
-VBP_VBN_PRP
-have_watched_it	1
 NN_NNS_VBD
 school_kids_were	1
 production_values_were	1
 RBR_RB_:
 more_carefully_-	1
-NNS_DT_NNPS
-brothers_the_Pandavas	1
-,_DT_JJ
-,_the_multi-national	1
-,_the_old	1
-,_the_last	1
+PRP_VBZ_VBN
+It_is_rendered	1
+He_is_offered	1
+He_has_worked	1
+NN_NNS_VBN
+dozen_countries_come	1
+VBZ_JJ_WP
+is_evil_who	2
 NN_NNS_VBP
 television_miniseries_form	1
 life_characters_are	1
 VBD_DT_RB
 were_a_pretty	1
+PRP_NNP_NNP
+YOU_BEATRIZ_BELTRAN	1
 NNS_VBG_DT
 years_co-writing_the	1
 WDT_VBP_JJ
@@ -2836,11 +2801,8 @@ RB_:_RB
 well_--_especially	1
 JJ_VB_IN
 long-awaited_reprint_of	1
-,_VB_DT
-,_get_a	1
-,_get_the	1
-IN_,_CC
-of_,_and	1
+NNS_NN_CD
+discs_watch_one	1
 NN_MD_VB
 anybody_can_appear	1
 viewing_will_be	1
@@ -2857,6 +2819,9 @@ very_complicated_moral	1
 very_little_else	1
 HEAVILY_abridged_170-minute	1
 so_many_famous	1
+IN_NNS_NNS
+of_values_preferences	1
+of_brothers_cousins	1
 DT_IN_:
 those_without_--	1
 VBP_VBG_DT
@@ -2869,8 +2834,6 @@ VBZ_CD_NNS
 is_325_minutes	1
 CC_NN_PRP
 and_today_it	1
-PRP_,_WP
-you_,_what	1
 EX_PRP_VBZ
 there_it_is	1
 NNS_:_DT
@@ -2880,8 +2843,6 @@ times_-_the	1
 props_..._that	1
 VBG_PRP_NNP
 returning_it_ASAP	1
-JJ_,_VBG
-superb_,_acting	1
 IN_NN_TO
 in_reference_to	1
 In_order_to	1
@@ -2918,18 +2879,15 @@ VB_NNS_RB
 write_ups_as	1
 VBZ_VBG_TO
 is_going_to	2
-,_VBG_PRP
-,_reducing_it	1
-CD_,_CC
-one_,_and	2
-1989_,_and	1
 RB_VBG_NNP
 eagerly_awaiting_Peter	1
 DT_NNP_IN
-The_Mahabharata_in	1
-the_Mahabharata_in	2
+the_Pandavas_by	1
 the_Mahabharata_at	1
+The_Mahabharata_as	1
+the_Mahabharata_in	2
 the_Sons_of	1
+The_Mahabharata_in	1
 RB_NN_NNS
 not_attack_helicopters	1
 RB_RB_JJ
@@ -2943,12 +2901,16 @@ JJR_NN_.
 greater_harm_?	1
 greater_person_.	1
 NNS_VBN_IN
+stories_centered_on	1
+backgrounds_interspersed_with	1
 movies_based_on	1
 incidents_depicted_in	1
+countries_come_from	1
 NNP_CC_DT
 India_and_the	1
 Krishna_and_the	1
 Brook_and_the	1
+Space_and_the	1
 PRP_VBD_RBR
 they_were_more	1
 DT_CD_NN
@@ -2965,18 +2927,22 @@ DT_CC_NN
 all_or_escape	1
 PRP$_NN_DT
 its_length_this	1
+its_heart_the	1
+my_opinion_the	1
 RB_VBZ_DT
 nevertheless_carries_a	1
-still_misses_some	1
+literally_means_the	1
+however_is_a	1
 truly_captures_the	1
+still_misses_some	1
 DT_CD_NNS
 another_ten_minutes	1
 all_6_hours	1
 the_two_armies	2
 the_two_actors	1
 these_two_actors	1
-CD_DT_JJ
-one_the_next	1
+JJ_RB_IN
+wrong_even_if	1
 VBG_VBD_IN
 Having_said_that	1
 VBP_JJ_DT
@@ -2990,9 +2956,6 @@ to_entertain_:	1
 CC_VBP_VBG
 and_are_looking	1
 and_are_entering	1
-,_CC_MD
-,_but_should	1
-,_and_will	1
 CC_VBP_VBN
 and_have_watched	1
 WP_VBP_IN
@@ -3001,61 +2964,34 @@ VBG_JJR_NNS
 playing_greater_people	1
 VBN_WRB_DT
 disappointed_when_this	1
-TO_VB_,
-to_offer_,	1
-to_follow_,	2
-to_be_,	1
-to_fight_,	1
-to_enchant_,	1
-to_eachother_,	1
+DT_VBG_JJ
+an_enlightening_spiritual	1
 TO_VB_.
 to_end_.	1
 to_own_.	1
 to_finish_.	1
 to_follow_.	1
 to_have_.	1
-IN_``_DT
-as_`_The	1
-on_``_the	1
-of_``_The	1
 VBZ_PRP_JJ
 Is_it_permissible	1
 VBP_PRP$_JJ
 are_my_absolute	1
 create_their_own	1
-''_,_VBZ
-''_,_is	1
-``_JJ_NN
-`_absolute_weapon	1
+JJ_NNS_DT
+royal_cousins_the	1
+scheming_cousins_the	2
+many_months_the	1
 CC_NN_VBZ
 and_religion_is	1
 and_war_is	1
-``_NNP_''
-`_Jabberwocky_'	1
-`_Mahabarata_'	1
-``_Marat-Sade_''	1
-``_Mahabharata_''	3
-`_Mahabharata_'	2
-``_Lord_''	1
+NN_VBG_PRP
+process_reducing_it	1
 CC_NN_VBP
 and_company_have	1
 and_retirement_are	1
 and_camera-work_are	1
-``_DT_NN
-`_The_Mahabharata	1
-``_the_making	1
-``_The_Power	2
-IN_NN_CC
-of_war_and	2
-with_intelligence_and	1
-on_television_and	1
-of_choice_and	1
-into_royalty_and	1
-on_video_and	1
-of_stage_and	1
-like_water_and	1
-by_heart_and	1
-that_inaction_and	1
+VBN_NN_NN
+filmed_stage_play	1
 JJR_IN_DT
 more_than_a	1
 VBP_DT_DT
@@ -3073,10 +3009,16 @@ sensibility_--_i.e.	1
 VBP_PRP_CD
 give_it_five	1
 NN_NNS_CC
-attack_helicopters_and	1
+dozen_times_and	1
 Pandava_princes_and	2
+reed_thickets_and	1
+life_lessons_and	1
+attack_helicopters_and	1
+kingdom_brothers_and	1
 VBZ_RBR_JJ
 is_more_apt	1
+JJ_JJ_.
+spare_poetic_.	1
 PRP$_NN_VBD
 My_family_begged	1
 their_mother_escaped	1
@@ -3090,46 +3032,49 @@ her_pain_is	1
 My_success_proves	1
 NNS_RB_TO
 ages_just_to	1
-RB_NN_IN
-visually_ALL_of	1
-DT_NN_''
-the_Bourgeoisie_''	1
-The_Mahabharata_'	1
 NNP_NNP_VBZ
+The_Mahabharata_is	1
 Peter_Brookes_has	1
-Peter_Brook_is	1
+Peter_Brook_is	2
 Peter_Brook_has	2
+Pandavas_Yudhishthira_loses	1
+Peter_Brooke_has	1
 Kung_Fu_meets	1
 Bruce_Meyers_stands	1
 Mallika_Sarabhai_is	1
 Peter_Brook_shows	1
+Terry_Gilliam_is	1
+BLURRY_BUT_IS	1
 TO_NNP_.
 to_Hindus_.	1
-TO_NNP_,
-to_Hindus_,	1
+PRP_IN_IN
+them_as_beneath	1
 DT_JJ_VB
 a_long-awaited_reprint	1
-,_:_NN
-,_..._etc.	1
-NNP_RB_VBP
-Odyssey_just_do	1
 VBG_IN_VBG
 insisting_on_blemishing	1
 enchanting_without_losing	1
+NNS_CC_VBZ
+Moses_but_is	1
 VBZ_RB_EX
 is_not_there	1
+DT_NNS_MD
+these_events_could	1
 VBP_DT_RB
 are_a_bit	1
-,_DT_CD
-,_this_one	1
-,_these_two	1
 VBN_RB_IN
 blown_away_by	1
 enjoyed_only_by	1
 listed_not_as	1
 suffered_horribly_at	1
-NN_:_NN
-series_-_interpretation	1
+JJ_NN_PRP
+universal_story_I	1
+painful_cut_we	1
+secular_history_it	1
+great_epic_I	1
+straight_delivery_it	1
+VBN_VBN_CC
+heard_read_and	1
 PRP_CD_NNS
 it_five_stars	1
 it_three_times	1
@@ -3142,15 +3087,14 @@ not_be_that	2
 fully_appreciate_this	1
 not_understand_all	1
 n't_let_that	1
-IN_``_NNP
-since_``_Plan	1
-in_``_Amar	1
+over_look_The	2
 JJ_IN_JJ
 first_of_many	1
+full_of_marvelous	1
+long_with_many	1
+ready_for_slow	1
 guilty_of_many	1
 confusing_at_first	1
-ready_for_slow	1
-full_of_marvelous	1
 MD_VB_RBR
 would_be_more	1
 VBN_JJR_IN
@@ -3160,20 +3104,23 @@ true_Mahabharata_.	2
 VBD_VBN_RBR
 had_been_more	1
 NNP_VBZ_CD
+Gilliam_is_one	1
+Mahabharata_has_zero	1
 Mahabharata_is_one	1
 MD_VB_PRP
 can_assure_you	1
 'll_think_you	1
+NNP_VBZ_CC
+Mahabbarata_is_both	1
 NN_CC_PRP
-version_but_I	1
-production_but_it	1
-group_and_himself	1
 cast_and_I	1
+group_and_himself	1
+version_but_it	1
+version_but_I	1
+film_and_it	1
+production_but_it	1
 NNP_CC_VB
 Notes_or_look	1
-``_IN_DT
-``_In_the	1
-``_at_the	1
 NNP_VB_IN
 Brook_speak_about	1
 IN_:_FW
@@ -3184,31 +3131,39 @@ story_were_strong	1
 DT_NN_CD
 every_year_!!!	1
 DT_NN_CC
-the_beauty_and	1
-the_pacing_and	1
-the_depth_and	1
-the_theater_or	1
-a_play_and	1
-the_documentary_and	1
-the_play_and	1
-the_production_and	1
-a_sleepover_and	1
-every_continent_and	1
-neither_health_nor	1
-an_enemy_or	2
-the_stage_and	1
-the_storyline_and	1
-the_writing_and	1
+every_year_but	1
 the_toilet_or	1
+the_stage_and	1
+the_box_and	1
 this_version_but	1
 the_film_and	1
 the_material_and	2
 The_directing_and	1
+the_theater_or	1
+every_continent_and	1
+the_documentary_and	1
+that_matter_and	1
 the_myth_or	1
+the_production_and	1
+neither_health_nor	1
+the_pacing_and	1
+any_day_and	1
+a_play_and	1
+a_sleepover_and	1
+this_film_and	1
+the_Bourgeoisie_and	1
+the_writing_and	1
+the_beauty_and	1
+the_depth_and	1
+the_play_and	1
+an_enemy_or	2
+the_storyline_and	1
 FW_TO_VB
 mythology_to_appreciate	1
 VBD_VBN_RB
 was_blown_away	1
+VB_PRP_WP
+assure_you_what	1
 IN_PRP$_NN
 for_my_husband	1
 in_my_mother	1
@@ -3232,22 +3187,12 @@ of_her_life	1
 about_his_contempt	1
 WDT_VBZ_CD
 which_is_325	1
-JJ_NN_VBP
-full_story_are	1
-NNP_,_CC
-Bhagavad-Gita_,_and	1
-India_,_and	1
-Mahabharata_,_and	1
-WMD_,_and	1
-India_,_but	1
+RB_PRP_RB
+however_I_finally	1
 DT_DT_CD
 this_a_4	1
 JJ_PRP_.
 worth_it_.	2
-NNP_,_CD
-Drama_,_1988	1
-Music_,_1987	1
-Gita_,_one	1
 VB_DT_NNPS
 eliminate_the_Pandavas	1
 PRP_VB_IN
@@ -3261,21 +3206,14 @@ RB_VBG_TO
 not_trying_to	1
 NN_NN_WRB
 NO_IDEA_why	1
-VBZ_,_CD
-dies_,_one	1
-VBZ_,_CC
-requires_,_and	1
+VBD_RB_CC
+dropped_dramatically_but	1
+UH_RB_:
+No_actually_--	1
 VBD_NNP_:
 played_Krishna_--	1
-NN_,_VBD
-film_,_anbd	1
 VBD_RB_CD
 was_about_ten	1
-NN_,_VBG
-cast_,_representing	1
-process_,_reducing	1
-NN_,_VBZ
-head_,_becomes	1
 PRP_MD_VB
 I_would_like	1
 He_can_be	1
@@ -3312,6 +3250,8 @@ to_a_western	1
 to_a_little	1
 to_a_modern	1
 to_the_amazing	1
+NN_CC_PDT
+mix_and_such	1
 NNP_VBD_CD
 Chopra_took_94	1
 PRP_VBD_JJ
@@ -3323,8 +3263,6 @@ WDT_VBZ_PRP
 that_accomplishes_I	1
 WDT_VBZ_VBG
 that_is_going	1
-NNS_,_WP
-friends_,_who	1
 JJR_NNS_CC
 shorter_versions_and	1
 WDT_VBZ_VBN
@@ -3353,17 +3291,8 @@ than_us_.	1
 around_him_.	1
 of_them_.	1
 in_it_.	2
-IN_PRP_,
-of_it_,	1
-for_me_,	1
-CC_RB_PRP$
-and_so_his	1
 NNP_POS_CD
 Carriere_'s_1985	1
-,_CD_IN
-,_one_by	1
-,_1988_that	1
-,_two_of	1
 JJ_NNP_VBZ
 god-man_Krishna_urges	1
 NNP_POS_CC
@@ -3374,11 +3303,8 @@ WP$_JJ_NNS
 whose_timeless_backdrops	1
 VB_DT_CD
 take_a_5	1
-NN_IN_,
-making_of_,	1
-heart_of_,	1
-''_NN_.
-''_manner_.	1
+VB_DT_CC
+redeem_all_or	1
 NNP_RB_VBN
 Krishna_wonderfully_played	1
 Mahabharata_not_included	1
@@ -3392,17 +3318,20 @@ Estienne_apparently_spent	1
 Madireddi_Really_impressed	1
 NNS_NN_.
 arts_world_.	1
-scenes_featurette_.	1
 media_presentation_.	2
+hours_total_.	1
 dice_game_.	1
+scenes_featurette_.	1
 NNP_RB_VBZ
 Mahabharata_literally_means	2
 Brook_even_parallels	1
-WP_VBZ_TO
-who_wants_to	1
-RB_RB_CC
-very_long_but	1
-long_ago_and	1
+JJ_CC_IN
+other_but_that	1
+abstract_but_in	1
+juvenile_and_with	1
+NNP_RB_VBP
+Hindus_then_do	1
+Odyssey_just_do	1
 NNP_NNP_POS
 R._Chopra_'s	1
 King_Santanu_'s	1
@@ -3410,11 +3339,17 @@ Peter_Brooke_'s	1
 Peter_Brook_'s	5
 Peter_Brooks_'	1
 NN_DT_NN
+opinion_the_intensity	1
+story_a_notion	1
+point_the_woman	1
 length_this_film	1
 sense_the_subject	1
 war_every_rule	2
-point_the_woman	1
+life_a_faith	1
+heart_the_epic	1
 breakup_the_momentum	1
+way_the_father	1
+production_the_one	1
 JJ_CC_JJR
 complete_and_easier	1
 NNS_VBP_JJ
@@ -3427,14 +3362,23 @@ sets_are_large	1
 sets_are_gorgeous	1
 VBG_DT_RB
 adding_a_rather	1
-CD_NN_,
-one_case_,	1
 PRP$_NNS_TO
 his_ambitions_to	1
+VBD_PRP_TO
+forced_us_to	1
+told_me_to	1
+begged_me_to	1
+JJ_DT_NNS
+poetic_the_themes	1
+rich_the_sets	1
+DT_NNP_JJ
+the_Trinity_virgin	1
 MD_JJ_NNS
 will_British_critics	1
 VBP_VB_NNP
 do_wish_Brook	1
+JJ_NNS_WRB
+great_things_why	1
 DT_VBN_NNS
 the_written_versions	1
 DT_NNP_NNS
@@ -3445,9 +3389,11 @@ DT_NNP_NNP
 the_International_Centre	1
 this_Peter_Brook	1
 the_French_School	1
+the_Pandavas_Yudhishthira	1
 The_Mahabharata_Methuen	1
 the_Peter_Brook	1
 The_Peter_Brook	1
+the_Freddy_Got	1
 the_The_Gita	1
 the_Bouffes_du	1
 the_Royal_Shakespeare	1
@@ -3461,8 +3407,8 @@ not_watched_this	1
 ever_dipped_a	1
 not_heard/read/wathced_the	1
 successfully_denuded_the	1
-NNS_,_EX
-armies_,_there	1
+POS_NN_PRP
+'s_faith_I	1
 NN_:_NNS
 view_--_gods	1
 NN_NN_:
@@ -3488,16 +3434,10 @@ you_do_n't	2
 I_have_ever	1
 I_'m_not	1
 you_are_n't	1
-NN_,_PRP$
-place_,_his	1
-cast_,_my	1
-NN_NN_,
-book_form_,	2
-war_chapter_,	1
-stage_version_,	1
-mother_tongue_,	1
-elephant_head_,	1
-DVD_set_,	1
+NNS_DT_NNPS
+brothers_the_Pandavas	1
+great-grandchildren_the_Pandavas	1
+cousins_the_Pandavas	1
 NN_NN_.
 hour_stageplay_.	1
 entertainment_value_.	1
@@ -3531,8 +3471,6 @@ not_believe_it	1
 n't_like_him	1
 n't_see_it	1
 strongly_recommend_it	1
-,_VBZ_IN
-,_recognizes_that	1
 :_NNP_VBZ
 ;_Arjuna_selects	1
 VBZ_NN_IN
@@ -3540,10 +3478,16 @@ Is_cheating_in	1
 is_theatre_at	1
 is_something_that	1
 includes_footage_with	1
+JJ_JJ_JJ
+capricious_evasive_turbulent	1
+theatrical_philosophical_spare	1
+philosophical_spare_poetic	1
 VB_CC_EX
 know_but_there	1
 VBD_JJR_IN
 was_more_than	1
+VB_JJ_RB
+appear_god-like_even	1
 IN_DT_NN
 of_the_story	5
 of_the_DVD	2
@@ -3590,6 +3534,7 @@ At_any_rate	1
 of_a_feud	1
 into_a_model	1
 with_this_version	1
+on_the_making	1
 of_the_world	2
 in_this_story	1
 in_this_world	1
@@ -3628,6 +3573,7 @@ In_a_game	1
 for_a_film	1
 in_the_process	1
 of_the_drama	1
+in_a_lite	1
 of_the_film	1
 for_the_rest	1
 for_the_stage	1
@@ -3687,9 +3633,10 @@ be_seen_.	1
 be_covered_.	1
 NNS_WP_VBP
 actors_who_seek	1
+viewers_who_have	1
 actors_who_play	1
 people_who_are	1
-viewers_who_have	1
+friends_who_have	1
 IN_VBN_IN
 as_presented_by	1
 VBG_NNS_DT
@@ -3700,8 +3647,9 @@ even_purchasing_it	1
 TO_VB_RBR
 to_learn_more	1
 to_understand_more	1
-WP_VBD_VBN
-what_was_given	1
+CC_PRP_RB
+and_it_truly	1
+But_we_quickly	1
 CD_IN_DT
 One_of_the	1
 one_of_the	4
@@ -3715,8 +3663,6 @@ he_turns_into	2
 It_clocks_in	1
 It_is_like	1
 it_is_about	1
-NN_RBR_JJ
-lot_more_pleasurable	1
 DT_VBN_PRP
 the_loved_it	1
 EX_VBP_DT
@@ -3726,12 +3672,18 @@ are_etched_but	1
 PRP_IN_NN
 it_on_video	1
 IT_FOR_ME	1
+PRP_PRP$_NN
+himself_My_success	1
 PRP$_NNS_POS
 his_brothers_'	1
 MD_CC_MD
 may_or_may	3
 VB_WRB_PRP
 forget_when_we	1
+NN_NNP_:
+place_Mahabharata_-	2
+NN_NNP_WP
+poet_Vyasa_who	1
 VB_RBR_JJ
 be_more_detailed	1
 WRB_PRP_RB
@@ -3741,21 +3693,19 @@ RB_VBP_NNP
 definitely_recommend_Chopra	1
 IN_WDT_JJ
 on_which_human	1
+DT_VBD_NNP
+this_occurred_Duryodhan	1
 DT_VBD_RB
 this_was_n't	1
-CD_CC_JJR
-60_or_more	1
-PRP_RB_MD
-we_too_can	1
-It_also_may	1
+VBN_VBN_DT
+been_called_the	1
 VBD_CC_VBD
 escaped_and_wandered	1
-CC_``_NNP
-but_`_Peter	1
 WP_VBZ_RB
 who_is_not	2
 what_is_not	1
 IN_JJ_JJ
+for_slow_deliberate	1
 of_ancient_Indian	1
 of_Indian_Mythical	1
 NNP_IN_NN
@@ -3766,10 +3716,11 @@ to_explore_all	1
 to_recognize_the	1
 to_get_the	1
 to_take_some	1
-to_defeat_the	1
+to_eachother_each	1
 to_do_the	2
 to_take_a	1
 to_see_the	2
+to_defeat_the	1
 to_kill_the	1
 to_avoid_a	1
 to_rule_the	1
@@ -3795,15 +3746,8 @@ to_confront_the	1
 to_turn_the	1
 to_throw_the	1
 to_give_the	1
-POS_``_JJ
-'s_`_international	1
 POS_NNP_CC
 's_Notes_or	1
-,_VBN_CC
-,_grounded_and	1
-,_read_and	1
-RB_VBD_VBN
-indeed_was_adapted	1
 DT_JJ_IN
 the_first_of	1
 JJ_IN_IN
@@ -3814,12 +3758,16 @@ IN_NNS_PRP
 in_interviews_they	1
 NN_NNP_VBZ
 strongman_Bhima_kills	1
+survivor_Yudhishthira_recognizes	1
 JJR_NN_MD
 shorter_version_may	1
 PRP_TO_VB
 me_to_watch	2
+JJ_FW_DT
+strange_i.e._the	1
 NNP_TO_VB
 Brook_to_bring	1
+English_to_give	1
 VBD_RB_RB
 abandoned_long_ago	1
 was_n't_up	1
@@ -3849,18 +3797,16 @@ the_modern_arts	1
 the_religious_philosophies	1
 DT_JJ_NNP
 the_complete_Mahabharata	1
+a_proper_Mahabarata	1
 a_bad_Star	1
 the_god-man_Krishna	1
 the_true_Mahabharata	2
 VBG_NNP_.
 watching_Mahabharata_.	1
-,_NNS_,
-,_chartecters_,	1
-,_brothers_,	1
-,_rulers_,	1
 RB_JJ_WRB
 quite_impressed_how	1
 NNS_CC_IN
+years_but_with	1
 hues_and_with	1
 NN_VBD_RBR
 acting_seemed_more	1
@@ -3868,12 +3814,8 @@ DT_VBD_DT
 this_was_a	1
 VB_NN_NNP
 see_director/co-writer_Peter	1
-NN_NNS_''
-life_styles_''	1
 VB_TO_DT
 get_to_the	1
-``_PRP_MD
-``_He_can	1
 JJ_NNS_IN
 most-crucial_parts_of	1
 complete_seasons_of	1
@@ -3888,8 +3830,10 @@ mythical_stories_in	1
 countless_stories_about	1
 few_points_for	1
 many_digressions_that	1
+other_people_so	1
 other_players_in	2
 gifted_geniuses_of	1
+home-grown_talents_since	1
 great_charlatans_of	1
 natural_elements_like	1
 sacred_texts_from	1
@@ -3902,23 +3846,19 @@ positive_reviews_of	1
 tiresome_airs_of	1
 dedicated_beginners_in	1
 special_features_of	1
-,_CC_NN
-,_and_wife	1
-,_and_war	1
-,_and_today	1
-,_and_candlelit	1
-,_and_appeal	1
-,_and_cutting	1
-VBD_IN_,
-said_that_,	1
+IN_NNP_CD
+since_Plan_9	1
+of_Music_1987	1
 IN_NNP_CC
 from_India_and	1
+in_India_but	1
 on_Earth_and	1
 in_London_and	1
 as_Draupadi_and	1
 between_Karna_and	1
 for_Film_and	1
 about_Mahabharata_and	1
+in_India_and	1
 from_Brook_and	2
 of_Mahabharata_and	1
 between_Arjuna_and	2
@@ -3926,27 +3866,31 @@ RB_IN_NNP
 especially_since_Chopra	1
 VBP_RB_TO
 look_forward_to	1
-,_NN_IN
-,_something_that	1
-NNS_NNP_,
-actors_India_,	1
 NNP_POS_NNP
+Brook_'s_Mahabharata	1
+Gilliam_'s_Jabberwocky	1
 Brook_'s_The	2
 Brooks_'_The	1
 Cliff_'s_Notes	1
 NNP_DT_NN
-Bollywood_any_day	1
-Shakuni_an_in-law	1
+Gita_the_book	1
 USA_the_DVD	1
+Bollywood_any_day	1
 Arjuna_a_Pandava	1
-NNP_,_RB
-Bharat_,_yet	2
-Brook_,_yet	1
-Hindus_,_then	1
+Duryodhana_the_head	1
+Shakuni_an_in-law	1
+Krishna_the_incarnation	1
+IN_PRP_RB
+that_we_too	1
+because_they_already	1
+than_itself_somehow	1
+that_you_hardly	2
 VBD_PRP_CD
 watched_it_three	1
 VBP_PRP_VBZ
 hope_it_is	1
+NNS_VBP_VBP
+others_mention_check	1
 NN_:_.
 :[_..._.	1
 PRP_NN_IN
@@ -3975,45 +3919,43 @@ effects_are_enchanting	1
 JJR_IN_NNP
 more_of_Brook	1
 deeper_than_Brook	1
-NNP_''_CD
-Mahabharata_''_54	1
 PRP$_NNS_VBD
 my_parents_showed	1
 our_moms_came	1
 VBP_VBN_VBZ
 've_read_is	1
+VBP_VBN_VBD
+are_spoken_amazed	1
 VBP_VBN_VBG
 have_been_awaiting	1
 NN_IN_VBG
-purpose_of_introducing	1
+film_by_renting	1
 job_of_expressing	1
 hesitation_after_reading	1
 impossibility_of_picking	1
 ingenuity_in_compressing	1
 version_whilst_being	1
-film_by_renting	1
+purpose_of_introducing	1
 job_of_capturing	1
 movie_from_beginning	1
+time_since_sleeping	1
 PRP$_NNS_VBP
 their_names_do	1
 VBP_VBN_VBN
 have_been_inundated	1
+have_heard_read	1
 VBZ_CC_DT
 faces_and_these	1
+requires_and_this	1
 is_both_a	1
 NNS_VBP_NN
 backdrops_are_fog	1
-NNS_,_``
-senses_,_``	1
-minutes_,_``	1
 VBN_DT_NNS
 read_the_reviews	1
 denuded_the_characters	1
 VBN_DT_NNP
 called_the_Mahabharata	1
 seen_The_Mahabharata	1
-,_DT_NNPS
-,_the_Pandavas	2
 NNP_VBD_RB
 Brook_omitted_very	1
 WP_PRP_VBD
@@ -4025,9 +3967,8 @@ and_be_sure	1
 WP_PRP_VBP
 what_I_believe	1
 what_I_'ve	1
-JJR_NNS_,
-greater_people_,	1
-higher_stakes_,	1
+VB_NNP_IN
+depict_Krishna_as	1
 JJ_IN_WP
 detailed_than_what	1
 IN_VBG_IN
@@ -4057,20 +3998,18 @@ butchered_three-hour_version	1
 formed_Western_consciousness	1
 RB_VBD_CD
 apparently_spent_8	1
-TO_NN_POS
-to_everybody_'s	1
-NN_''_IN
-Mahabharata_'_by	1
 VBZ_CD_VB
 does_one_condense	1
 DT_IN_IN
 all_from_over	1
 NNP_NNP_IN
 The_Mahabharata_on	1
+Peter_Brook_like	1
 Carri&egrave;re_President_of	1
 Theatre_Research_in	1
 Shakespeare_Company_in	1
 New_York_in	1
+Bhagavad_Gita_with	1
 International_Centre_for	1
 French_School_for	1
 Brooklyn_Academy_of	1
@@ -4078,42 +4017,34 @@ Mamadou_Dioume_as	1
 Mallika_Sarabhai_as	1
 NNS_VBZ_CC
 actors_faces_and	1
-,_RB_VB
-,_so_be	1
 CC_IN_DT
 and_with_a	1
 but_for_the	1
 and_at_the	1
 and_in_the	2
 and_of_the	1
-NNS_,_DT
-texts_,_the	1
-months_,_the	1
-cousins_,_the	3
-great-grandchildren_,_the	1
-movies_,_this	1
-evenings_,_a	1
-children_,_the	1
-versions_,_the	1
-thoughts_,_the	1
-dice_,_the	1
-VBN_VBN_DT
-been_called_the	1
+PRP_RB_MD
+we_too_can	1
+It_also_may	1
 VBP_WRB_PRP
 see_when_she	1
 JJ_NN_CC
 long_search_and	1
-compelling_story_and	1
+international_cast_and	1
+unrequited_love_and	1
 detailed_documentary_or	1
 human_body_and	1
 brilliant_work_and	2
 Indian_background_or	1
+powerful_mix_and	1
 free_will_and	2
+squalid_boring_and	1
 limited_understanding_and	1
 parochial_vision_and	1
-international_cast_and	1
+compelling_story_and	1
 low_budget_and	1
 other_film_and	2
+mythic_tale_and	1
 good_value_and	1
 theatrical_work_but	1
 deliberate_pacing_and	1
@@ -4134,17 +4065,16 @@ NNP_CD_NNS
 Brook_eight_years	1
 VBG_IN_NN
 sitting_on_cardboard	1
-,_VBP_RB
-,_do_not	2
 :_CC_RB
 ..._and_sometimes	1
 CD_NNS_IN
 five_minutes_of	1
 2_months_of	1
-315_minutes_while	1
 two_branches_of	1
-ten_minutes_of	1
 three_times_over	1
+325_minutes_because	1
+ten_minutes_of	1
+315_minutes_while	1
 two_sets_of	1
 VB_IN_NN
 act_with_detachment	1
@@ -4155,11 +4085,10 @@ DT_NNPS_CC
 the_Pandavas_and	3
 The_Pandavas_and	1
 the_Kauravas_and	1
+the_Pandavas_but	1
+the_Kauravas_both	1
 VBZ_CD_JJ
 is_one_extravagent	1
-,_IN_NNP
-,_against_Shakuni	1
-,_like_Terry	1
 VBP_VBN_RP
 are_fed_up	1
 IN_EX_VBD
@@ -4185,42 +4114,33 @@ with_one_stroke	1
 In_one_case	1
 From_one_context	1
 VBD_JJ_CC
+were_treacherous_and	1
 was_excellent_and	1
 CC_NNP_NN
 and_Brooks_version	1
 JJ_NN_WDT
+great_epic_which	1
+three-hour_version_which	1
 amazing_story_that	1
 IN_NN_DT
 that_breakup_the	1
+of_life_a	1
+for_pasupata_the	1
 RB_DT_:
 just_that_-	1
 VB_DT_RB
 appreciate_this_masterfully	1
 NNS_CC_PRP
 versions_and_I	1
-NNP_,_DT
-Duryodhana_,_the	1
-Broadway_,_these	1
-Krishna_,_the	1
-Gita_,_the	1
-PRP_._''
-me_._''	1
-themselves_._''	1
-NNS_''_PRP
-styles_''_they	1
-VB_PRP_DT
-give_it_the	1
-tell_him_the	1
+TO_DT_.
+to_both_.	1
+RB_TO_PRP$
+up_to_my	1
 DT_VBZ_CD
 This_is_one	1
 this_is_one	1
-NN_,_VB
-seat_,_teach	1
-story_,_get	1
 RB_VB_WP
 n't_know_what	1
-UH_,_RB
-No_,_actually	1
 NN_VBZ_JJ
 husband_is_blind	1
 version_conserves_intact	1
@@ -4233,18 +4153,10 @@ opponent_is_guilty	1
 pain_is_compelling	1
 version_is_squalid	1
 movie_is_perfect	1
-VBZ_RB_,
-is_n't_,	2
-NN_CC_DT
-body_and_an	1
-story_and_an	1
-series_and_the	1
-family_and_the	1
-anything_but_a	1
-cast_and_the	1
-version_and_the	1
-material_and_the	1
+WP_VBZ_NNP
+who_plays_Drona	1
 VBZ_RB_.
+is_nowhere_.	1
 is_not_.	2
 FW_NN_WRB
 Fu_master_why	1
@@ -4252,17 +4164,17 @@ WP_VBP_VBG
 who_are_expecting	1
 EX_VBP_CD
 There_are_two	2
-,_VBZ_DT
-,_becomes_the	1
-,_chooses_the	1
-,_is_a	2
 VBZ_NN_TO
 's_fun_to	1
 RB_RB_VB
 still_not_understand	1
 not_over_look	2
+PRP_VB_VB
+you_think_keep	1
 NN_RB_DT
 story_also_the	1
+audience_much_the	1
+personality_aside_this	1
 VBP_JJ_TO
 are_eager_to	1
 'm_superior_to	1
@@ -4279,40 +4191,27 @@ VBP_VBG_PRP$
 are_building_their	1
 WDT_VBZ_TO
 which_deserves_to	1
-,_PRP_VBP
-,_we_are	1
-,_I_have	1
-,_I_feel	1
-,_I_give	1
-,_I_do	1
-,_I_'m	1
-,_you_are	1
-,_I_think	2
-,_I_intend	1
-,_we_see	2
-,_I_suggest	2
-TO_DT_.
-to_both_.	1
+VBN_CC_DT
+priced_and_a	1
+etched_but_the	1
+JJ_NN_WRB
+personal_fame_when	1
 CC_PRP_VBP
 and_I_agree	1
 And_I_'m	1
 but_I_have	1
-,_PRP_VBZ
-,_it_contains	1
-,_he_teaches	1
-,_it_'s	1
-,_it_beats	1
-,_it_is	2
-,_it_has	1
+CC_NNP_DT
+and_Duryodhana_the	1
+DT_NNS_VBD
+the_videotapes_got	1
+the_songs_were	1
+the_characters_were	1
 WRB_NNS_VBD
 why_things_were	1
 IN_DT_.
 at_all_.	1
 like_this_?	1
 within_both_.	1
-IN_DT_,
-on_this_,	1
-of_this_,	1
 VBP_VBN_PRP$
 have_wasted_my	1
 CC_PRP_VBD
@@ -4321,8 +4220,9 @@ and_it_took	2
 and_they_loved	1
 and_I_used	1
 and_it_was	1
-NN_CC_MD
-work_and_should	2
+NNP_RB_PRP$
+Brook_yet_their	1
+Bharat_yet_its	2
 JJ_CC_JJ
 un-artistic_and_several	1
 unprofessional_and_tiresome	1
@@ -4331,6 +4231,8 @@ black_and_white	1
 else_but_strong	1
 sliced_and_diced	1
 eloquent_and_poetic	1
+turbulent_and_tenacious	1
+human_and_unearthly	1
 rare_and_imported	1
 grand_and_mythic	1
 strong_but_problematic	1
@@ -4342,11 +4244,6 @@ CC_IN_PRP
 but_that_he	1
 And_although_they	1
 But_if_it	1
-,_PRP_VBD
-,_I_watched	1
-,_I_was	2
-,_I_loved	1
-,_we_had	1
 IN_PRP_DT
 within_it_the	1
 CC_JJ_IN
@@ -4358,30 +4255,33 @@ NNS_PRP_VBD
 tapes_I_bought	1
 VBZ_VBN_JJR
 is_presented_quicker	1
+PRP$_NNS_WP
+my_friends_who	1
+NNP_VBN_IN
+Mahabharata_directed_by	1
 NNS_VBP_IN
 actors_hint_at	1
 IN_DT_RBS
 of_the_most	2
-,_VBP_DT
-,_check_the	1
 NNS_PRP_VBP
 interviews_they_create	1
 qualities_we_care	1
+styles_they_are	1
 films_I_have	1
 RB_RBR_JJ
 even_more_likeable	1
 much_more_valuable	1
 much_more_complete	1
-VBD_NN_PRP
-was_something_I	1
 NNS_PRP_VBZ
 touches_he_turns	2
 JJ_NNS_TO
 enough_breaks_to	1
 central_themes_to	1
 exotic_drugs_to	1
-:_VBD_PRP
--_hated_it	1
+NNP_WDT_PRP
+Krishna_which_I	1
+CC_VBN_DT
+and_seen_The	1
 VBN_PRP$_NNS
 limited_his_ambitions	1
 PRP_VBZ_JJ
@@ -4415,17 +4315,12 @@ VBP_VBG_PRP
 stop_treating_it	1
 VBP_IN_NNP
 hint_at_Brook	1
-RB_IN_``
-not_as_`	1
+VBP_IN_NNS
+say_in_interviews	1
 NN_:_VBN
 saga_--_done	1
-VBD_,_PRP
-bought_,_I	1
 DT_NN_JJR
 the_DVD_more	1
-,_TO_VB
-,_to_give	1
-,_to_entertain	1
 JJ_IN_VBG
 justified_in_treating	1
 PRP_VBP_VBG
@@ -4442,8 +4337,8 @@ I_think_I	1
 I_assure_you	1
 I_wish_I	1
 I_hope_it	1
-,_NNS_CC
-,_preferences_and	1
+NNS_EX_VBZ
+armies_there_is	1
 PRP_VBP_VBN
 I_have_been	1
 I_'ve_read	1
@@ -4456,9 +4351,6 @@ I_'ve_found	1
 they_have_been	1
 I_'ve_seen	1
 I_have_continued	1
-VB_,_CC
-act_,_but	1
-fight_,_and	1
 VBN_IN_JJ
 aimed_at_Indian	1
 rendered_in_gentle	1
@@ -4487,8 +4379,6 @@ for_those_of	1
 With_all_of	1
 For_those_with	1
 For_those_without	1
-,_NNS_MD
-,_folks_will	1
 VBG_RP_VBZ
 sleeping_in_is	1
 VBD_:_DT
@@ -4500,8 +4390,6 @@ more_apt_to	1
 more_faithful_to	1
 NN_JJR_IN
 DVD_more_than	1
-,_DT_VBZ
-,_this_is	2
 NN_:_DT
 coincidence_:_the	1
 history_--_a	1
@@ -4509,13 +4397,12 @@ feeding_;_the	1
 life_--_all	1
 mistake_;_this	1
 PS_:_The	1
-NNS_,_NNP
-favorites_,_Mallika	1
-species_,_Vyasa	1
-miniseries_,_THIS	1
-artists_,_Peter	1
-IN_,_WP
-of_,_what	1
+NN_CC_VBD
+warning_and_purchased	1
+tale_and_set	1
+material_and_went	1
+sleepover_and_were	1
+video_and_watched	1
 NN_CC_VBG
 play_and_working	1
 cold_and_trying	1
@@ -4529,11 +4416,13 @@ never_cease_to	1
 not_be_to	1
 now_have_to	1
 n't_need_to	1
-,_DT_VBN
-,_each_born	1
 NN_CC_VBZ
+escape_and_agrees	1
+day_and_makes	1
+duty_and_says	1
 faithful_but_lacks	1
 enemy_and_eats	1
+advice_and_loses	1
 MD_CD_CC
 can_60_or	1
 CC_NNS_RB
@@ -4572,13 +4461,6 @@ VBD_JJ_.
 was_terrific_.	1
 RB_PRP$_NN
 yet_its_meaning	2
-VBD_JJ_,
-were_treacherous_,	1
-were_strong_,	1
-JJ_NN_NNP
-old_poet_Vyasa	1
-soul-searching_archer_Arjuna	1
-wise_god_Krishna	1
 IN_PRP_VBP
 after_they_have	1
 While_I_'m	1
@@ -4607,23 +4489,17 @@ ups_as_there	1
 times_as_long	1
 NNPS_IN_PRP$
 Tonies_for_their	1
-VBN_IN_PRP
-presented_that_you	2
 CD_VBN_TO
 one_needed_to	1
+RP_WRB_PRP
+up_how_they	1
 NNS_VBD_PRP
 parents_showed_me	1
-VBG_NNP_VBP
-barring_Draupadi_are	1
 CC_PRP$_JJ
 and_their_scheming	2
 but_its_real	1
-''_NN_VBZ
-'_version_is	1
 PRP_TO_PRP$
 it_to_my	1
-VB_,_IN
-be_,_in	1
 VB_PRP_IN
 have_it_for	1
 keep_you_on	1
@@ -4632,6 +4508,8 @@ discourage_you_into	1
 read_them_in	1
 PRP_VBZ_TO
 she_chooses_to	1
+TO_VB_CC
+to_fight_and	1
 WDT_VBZ_JJR
 that_grows_bigger	1
 RB_VB_:
@@ -4641,31 +4519,31 @@ the_worst_films	1
 JJR_IN_PRP
 greater_than_us	1
 bigger_than_itself	1
-PRP_,_IN
-it_,_because	1
 RB_VBN_NNP
 since_watched_Brook	1
 DT_NNP_WRB
 the_Mahabharata_when	1
-RB_IN_PRP$
-even_if_your	1
+IN_PRP_CC
+for_me_but	1
+RB_VBN_NNS
+divinely_guided_paths	1
 DT_IN_PRP
 all_of_it	1
 those_of_us	1
 this_as_it	1
 POS_JJ_JJ
 's_great_religious	1
-,_WP_DT
-,_who_each	1
-POS_NN_,
-'_advice_,	1
-'s_faith_,	1
-'s_liking_,	1
+CD_VB_DT
+one_condense_the	1
 JJ_NN_RB
-foreign_masterpiece_very	1
 icky_personality_aside	1
-single_movie_only	1
+all-Indian_cast_rather	1
+Western_audience_much	1
 over_half_as	1
+racial_group_thus	1
+transcendent_touch_as	1
+foreign_masterpiece_very	1
+single_movie_only	1
 VB_DT_IN
 be_that_of	2
 visualize_this_for	1
@@ -4676,6 +4554,7 @@ NN_VBD_DT
 reviewer_used_the	1
 part_was_a	1
 studio_did_this	1
+film_anbd_the	1
 NNS_TO_RB
 years_to_fully	1
 CC_DT_NN
@@ -4704,16 +4583,11 @@ RB_VBD_NN
 finally_had_time	1
 CC_WP_VBZ
 or_who_is	4
-VBN_IN_``
-seen_since_``	1
-dated_as_``	1
 CC_CD_NNS
 and_25_minutes	1
 and_170_minutes	1
 NNP_NNP_TO
 Peter_Brook_to	1
-VBD_''_NN
-hearted_''_manner	1
 DT_CC_JJ
 this_and_other	1
 RP_TO_VB
@@ -4746,6 +4620,7 @@ would_be_a	2
 would_recommend_this	1
 RB_DT_CD
 perhaps_another_ten	1
+Honestly_this_one	1
 Especially_the_two	1
 VBG_PRP_IN
 seeing_it_for	1
@@ -4759,10 +4634,6 @@ CC_RB_IN
 and_later_on	1
 WDT_VBD_VBN
 which_was_projected	1
-JJ_,_WP
-evil_,_who	2
-NN_RB_VBD
-friend_once_loaned	1
 :_NNS_CC
 --_gods_and	1
 CC_DT_NNS
@@ -4770,22 +4641,24 @@ and_these_actors	1
 But_the_names	1
 and_the_performances	1
 and_the_characters	1
+NN_IN_CC
+journey_whether_or	1
+making_of_and	1
 CC_NN_NNP
 and_director_Peter	1
 CC_NN_NNS
-and_screen_actors	1
 and_reed_thickets	1
-and_candlelit_rooms	1
 and_book_versions	2
 and_rocket_grenades	1
+and_candlelit_rooms	1
+and_screen_actors	1
+and_life_styles	1
 RB_VB_WRB
 n't_realize_how	1
 never_forget_when	1
 NN_VBZ_NNP
 IMAGE_IS_BLURRY	1
 poem_is_The	1
-VB_,_VB
-think_,_keep	1
 CC_VBZ_PRP$
 and_eats_his	1
 NNS_CD_JJR
@@ -4793,23 +4666,33 @@ cheaters_one_more	1
 dice_one_more	1
 RB_VBG_DT
 thus_adding_a	1
-NNS_CC_VBZ
-Moses_but_is	1
+NN_PRP$_NN
+weapon_their_version	1
+IN_WP_PRP
+of_what_I	1
+NNS_NNP_NNP
+artists_Peter_Brook	1
+favorites_Mallika_Sarabhai	1
+actors_India_USA	1
 VBN_DT_IN
 watched_this_in	1
-NNP_''_CC
-Space_''_and	1
+VBP_NNS_WRB
+are_cousins_how	1
 VB_DT_VBN
 be_a_bore	1
+eachother_each_born	1
 VB_VBZ_TO
 win_is_to	2
 IN_NN_IN
-without_input_from	1
+of_mankind_as	2
 of_theatre_as	1
 into_exile_for	1
 into_battle_with	1
+of_love_with	1
 in_spite_of	1
+For_example_during	1
 with_experience_in	1
+without_input_from	1
 on_internet_about	1
 about_grace_in	1
 without_knowledge_of	1
@@ -4824,18 +4707,9 @@ on_earth_with	1
 -_the_plot	1
 VB_DT_VBG
 take_some_getting	1
-,_WRB_NNP
-,_where_Bhima	1
-,_RB_PRP
-,_maybe_I	2
-,_then_I	1
-,_then_it	1
 RB_VBD_PRP
 then_purchased_it	1
 once_loaned_me	1
-,_JJ_IN
-,_such_as	1
-,_replete_with	1
 CC_JJR_TO
 and_easier_to	1
 CC_JJ_JJ
@@ -4850,6 +4724,8 @@ oldest_brother_of	1
 best_adaptation_of	1
 largest_poem_on	1
 greatest_epic_on	1
+VBN_CC_EX
+presented_but_there	1
 CD_NNS_TO
 eight_years_to	1
 94_episodes_to	1
@@ -4859,7 +4735,9 @@ seek_personal_fame	1
 NNS_VBD_WP
 things_were_what	1
 PRP$_NNS_DT
+his_great-grandchildren_the	1
 my_friends_all	1
+your_senses_The	1
 VBD_CD_NNS
 bought_14_years	1
 took_94_episodes	1
@@ -4871,8 +4749,14 @@ is_in_there	1
 is_in_practically	1
 DT_VBN_IN
 each_born_into	1
+PRP$_NNP_VBZ
+his_Mahabharata_has	1
+NN_NN_JJ
+war_chapter_actual	1
 NN_NNS_POS
 DVD_collectors_'	1
+FW_EX_VBP
+e.g._there_are	1
 DT_CD_VBP
 the_two_are	1
 WRB_NNP_RB
@@ -4881,45 +4765,20 @@ NNPS_VBP_DT
 Pandavas_prefer_a	1
 RP_DT_NNS
 out_the_lineages	1
-VBZ_PRP_``
-tells_himself_``	1
 CC_VBN_IN
 and_edited_in	1
 and_repented_for	1
 and_enacted_by	1
 and_raised_like	1
-,_VBG_RB
-,_representing_visually	1
 PRP$_NN_PRP$
 my_surprise_my	1
 CC_IN_NNP
 and_by_PBS	1
 DT_VB_PRP
 that_discourage_you	1
-NN_,_IN
-wife_,_against	1
-husband_,_after	1
-library_,_for	1
-rate_,_if	1
-excitement_,_as	1
-Pandava_,_as	1
-journey_,_whether	1
-love_,_with	1
-question_,_if	1
-time_,_since	1
-mankind_,_as	2
-studio_,_with	1
-example_,_during	1
-set_,_over	1
-story_,_with	1
-yoga_,_as	1
-IN_PRP_RB
-that_we_too	1
-because_they_already	1
-than_itself_somehow	1
-that_you_hardly	2
-NN_``_NN
-phrase_``_life	1
+CC_JJ_DT
+and_universal_the	1
+and_poetic_the	1
 NNS_RBR_RB
 reviews_more_carefully	1
 VBZ_IN_NNP
@@ -4928,23 +4787,8 @@ stands_above_Arjuna	1
 builds_as_Yudhishthira	1
 VBN_RB_DT
 taken_perhaps_another	1
-VB_,_RB
-follow_,_especially	1
 DT_NNP_:
 the_Bible_;	1
-,_VBD_DT
-,_anbd_the	1
-,_amazed_that	1
-DT_NNP_,
-the_Kauravas_,	1
-the_Mahabharata_,	1
-the_Bharatas_,	1
-The_Mahabharata_,	2
-the_Trinity_,	1
-the_Bhagavad-Gita_,	1
-the_Pandavas_,	2
-VB_JJ_,
-appear_god-like_,	1
 DT_NNP_.
 the_Baghavad-Gita_.	1
 the_Ganges_.	1
@@ -4958,27 +4802,12 @@ on_as_we	1
 as_beneath_me	1
 that_if_I	1
 though_after_they	1
-RB_,_RB
-Recently_,_however	1
-n't_,_however	1
-n't_,_then	1
-very_,_very	1
-IN_,_DT
-that_,_the	1
+JJ_WP_VBZ
+evil_who_is	2
 IN_NN_FW
 with_actress_Mallika	1
-''_PRP_VBZ
-''_he_tells	1
-RP_,_WRB
-up_,_how	1
 NN_NNP_NN
 epic_Sanskrit_collection	1
-''_VBZ_CD
-'_has_zero	1
-''_PRP_VBP
-''_they_are	1
-VBZ_``_JJ
-seems_``_juvenile	1
 :_NN_VBZ
 -_interpretation_is	1
 RB_JJ_IN
@@ -4990,21 +4819,19 @@ very_popular_in	1
 as_bad_as	1
 so_different_from	1
 already_abridged_from	1
+extremely_long_with	1
 as_distracting_as	1
+ever_replete_with	1
 so_unhappy_with	1
+CC_NNS_CC
+and_years_but	1
 RBS_JJ_CC
 most_accessible_and	1
-''_DT_JJ
-''_the_legendary	1
-''_the_great	1
-JJ_,_NN
-squalid_,_boring	1
 POS_NN_IN
 's_character_as	1
 's_version_whilst	1
-NNP_,_:
-Senegal_,_...	1
 DT_NNS_DT
+the_thoughts_the	1
 these_people_every	1
 PRP_JJ_TO
 it_difficult_to	1
@@ -5012,14 +4839,14 @@ it_permissible_to	1
 RB_VB_CC
 fully_conceptualize_and	1
 n't_know_but	1
+MD_VB_CC
+should_act_but	1
 VB_PRP_VBP
 think_you_'re	1
 PRP_TO_JJR
 it_to_lower	1
-JJ_,_RB
-wrong_,_even	1
-gentle_,_nearly	1
-god-like_,_even	1
+VBP_VBN_PRP
+have_watched_it	1
 IN_PRP$_NNP
 about_his_Dharma	1
 with_his_Shakespeare	1
@@ -5036,13 +4863,10 @@ before_our_moms	1
 of_his_brothers	1
 on_my_DVDs	1
 with_his_fingerprints	1
-VBD_DT_NNS
-were_some_moments	1
-NNP_''_VBZ
-Mahabharata_''_permeates	1
-Mahabharata_''_is	3
-Mahabharata_'_has	1
-Mahabbarata_''_is	1
+VBN_VBD_DT
+spoken_amazed_that	1
+NNP_IN_VBN
+Mahabharata_as_presented	1
 VBZ_DT_RBS
 is_the_most	1
 NN_NNP_DT
@@ -5054,33 +4878,21 @@ are_stunning_and	1
 are_large_and	1
 are_unclean_and	1
 are_incorrect_and	1
-VB_NNP_IN
-depict_Krishna_as	1
+NNS_DT_NNP
+minutes_The_Mahabharata	1
+cousins_the_Kaurava	2
+children_the_Kauravas	1
+senses_The_Mahabharata	1
+texts_the_Bhagavad	1
+NNS_DT_NNS
+versions_the_characters	1
+thoughts_the_colors	1
 WP_VBZ_PRP
 who_tells_himself	1
-NNP_,_NNP
-Overall_,_Brook	1
-Japan_,_Vietnam	1
-Campbell_,_Bill	2
-BLURRY_,_BUT	1
-Italy_,_England	1
-India_,_USA	1
-USA_,_Burkina-Faso	1
-GOOD_,_IT	1
-Pandavas_,_Yudhishthira	1
-England_,_Senegal	1
-Burkina-Faso_,_Japan	1
-Vietnam_,_Italy	1
-PRODUCT_,_SO	1
-NNP_,_NNS
-India_,_folks	1
-''_:_DT
-''_-_The	2
+IN_CC_PRP
+of_and_you	1
 VBP_WRB_JJ
 see_how_free	2
-NNS_,_RB
-stakes_,_finally	1
-grenades_,_too	1
 :_CC_PRP
 --_and_it	1
 NN_DT_JJR
@@ -5095,14 +4907,10 @@ who_seek_personal	1
 VBP_RB_RB
 are_too_close	1
 do_not_over	2
-VBP_:_NNS
-agree_;_subtitles	1
 RB_RB_JJR
 conceptually_much_deeper	1
 VBD_NN_IN
 was_telecast_in	1
-IN_NNS_WP$
-with_directors_whose	1
 CC_RB_JJ
 and_melodically_stunning	2
 and_as_ancient	1
@@ -5110,11 +4918,9 @@ and_utterly_dull	1
 and_very_appealing	1
 VBP_VBN_.
 have_seen_.	1
-VBP_VBN_,
-have_heard_,	1
-are_spoken_,	1
 RB_IN_DT
 especially_of_the	1
+not_as_The	1
 around_in_the	1
 mainly_for_the	1
 Even_in_the	2
@@ -5130,12 +4936,12 @@ long_as_the	2
 away_by_the	1
 right_into_the	1
 back_with_some	1
+Yes_in_this	1
 rather_than_a	1
 just_before_the	1
-NNP_,_TO
-English_,_to	1
 NNP_IN_NNP
 Sarabhai_as_Draupadi	1
+Brook_like_Terry	1
 Notice_that_Krishna	2
 Company_in_London	1
 Research_in_Paris	1
@@ -5145,74 +4951,80 @@ School_for_Film	1
 Sons_of_Hercules	1
 Academy_of_Music	1
 Centre_for_Theatre	1
-,_''_CC
-,_'_but	1
 PRP_VBD_IN
 I_felt_like	2
 I_went_into	1
 it_seemed_that	1
 we_were_about	1
 I_got_over	1
-CC_,_VB
-but_,_believe	1
 VBD_NN_:
 had_time_--	1
-NNS_,_VBN
-stories_,_centered	1
-countries_,_come	1
-backgrounds_,_interspersed	1
-turns_,_grounded	1
+RB_VBD_VBN
+indeed_was_adapted	1
+VBD_NN_.
+hearted_manner_.	1
 JJ_CC_VBZ
 unique_and_tells	1
 jarring_and_seems	1
 :_PRP_MD
 ;_he_should	1
 --_it_will	1
+NNP_VBZ_NN
+Yudhishthira_loses_everything	1
 PRP_VBD_:
 they_were_-	1
 WDT_JJ_RB
 which_human_yet	1
-DT_``_JJ
-a_``_secular	1
-the_`_absolute	1
 PRP_VBD_.
 it_arrived_.	1
 she_was_.	1
-PRP_VBD_,
-I_bought_,	1
 IN_IN_IN
 than_on_as	1
 in_at_around	1
-,_WRB_MD
-,_why_would	1
 PRP_:_VBD
 it_-_hated	1
+CD_CC_VBP
+one_and_watch	1
 IN_NNS_WP
 for_actors_who	1
-RB_TO_PRP$
-up_to_my	1
-CC_NN_MD
-and_fait_can	2
+VB_PRP_DT
+give_it_the	1
+read_it_this	1
+tell_him_the	1
 NNP_NNP_NNS
 John_Buchan_novels	1
 PRP_NNS_RB
 me_ages_just	1
+CD_CC_VBD
+1989_and_was	1
 NNP_NNP_NNP
-DOES_NOT_HAVE	1
 B._R._Chopra	1
-Maha_India_Bharat	2
-Amar_Chitra_Khatha	1
-NOT_VERY_GOOD	1
-Bouffes_du_Nord	1
-Mahabharata_Methuen_Drama	1
-Amar_Chitra_Katha	1
+Vietnam_Italy_England	1
 Jean-Claude_Carri&egrave;re_President	1
 IT_DOES_NOT	1
-Marie-H_&eacute;l&egrave;ne_Estienne	1
-Jean_Claude_Carriere	1
-Freddy_Got_Fingered	1
-Great_Maha_India	2
+India_USA_Burkina-Faso	1
 Royal_Shakespeare_Company	1
+VERY_GOOD_IT	1
+Maha_India_Bharat	2
+Campbell_Bill_Moyers	2
+Japan_Vietnam_Italy	1
+Mahabharata_Methuen_Drama	1
+Amar_Chitra_Katha	1
+Freddy_Got_Fingered	1
+THIS_PRODUCT_SO	1
+Great_Maha_India	2
+Bouffes_du_Nord	1
+USA_Burkina-Faso_Japan	1
+Peter_Brook_Marat-Sade	1
+NOT_VERY_GOOD	1
+Marie-H_&eacute;l&egrave;ne_Estienne	1
+Amar_Chitra_Khatha	1
+Joseph_Campbell_Bill	2
+Italy_England_Senegal	1
+DOES_NOT_HAVE	1
+GOOD_IT_DOES	1
+Burkina-Faso_Japan_Vietnam	1
+Jean_Claude_Carriere	1
 VB_RB_JJ
 be_very_precise	1
 NN_WDT_PRP
@@ -5220,57 +5032,54 @@ DVD_which_I	1
 VBZ_RB_RB
 is_not_as	1
 is_not_really	1
+is_n't_however	1
 is_n't_so	1
-is_almost_as	1
 is_so_badly	1
+is_almost_as	1
+is_n't_then	1
 is_not_just	1
 is_also_clearly	1
 is_just_so	1
 is_so_well	2
-''_NN_NNS
-''_cartoon_books	1
-,_CC_PRP
-,_but_it	2
-,_and_I	1
-,_but_I	2
-,_and_you	1
-,_and_it	2
-,_PRP_MD
-,_I_would	2
+VBD_NN_PRP
+was_something_I	1
+CC_RB_PRP$
+and_so_his	1
 WP_VBD_NN
 who_gave_birth	1
-NN_VBP_DT
-representation_reflect_the	2
-,_``_IN
-,_``_In	1
-,_``_at	1
+VBN_NNS_DT
+written_versions_the	1
+NN_VBG_CC
+life_changing_and	1
 DT_VB_NNS
 the_write_ups	1
 NNP_NN_IN
+Arjuna_yoga_as	1
 Brook_version_in	1
 Hindu_culture_in	1
-Sanskrit_collection_of	1
+Trek_movie_if	1
 VCR_version_of	1
 Hindi_version_of	1
-Trek_movie_if	1
+Sanskrit_collection_of	1
 VBP_VBG_RP
 are_wearing_out	1
 are_growing_up	1
 RB_DT_RBR
 n't_a_more	1
-,_VBZ_TO
-,_tries_to	1
-RB_JJ_PRP
-well_worth_it	1
-so_worth_it	1
+VBN_DT_VBD
+assumed_this_was	1
 PRP_NNPS_VBP
 We_British_have	1
 FW_FW_TO
 Hindu_mythology_to	1
+NNS_WRB_PRP
+cousins_how_they	1
 NN_VBZ_WRB
 example_is_when	1
 NNS_IN_FW
 ways_from_grandmothers/grandfathers/Indian	1
+NNP_VB_DT
+Mahabarata_get_the	1
 VB_PRP_RP
 look_it_up	1
 NN_TO_DT
@@ -5280,10 +5089,6 @@ essence_to_a	1
 birth_to_a	1
 insult_to_a	1
 reference_to_the	1
-NNP_NNP_''
-Outer_Space_''	1
-The_Mahabharata_''	1
-Chitra_Katha_''	1
 VBZ_VBN_VBN
 has_been_cut	1
 has_been_crafted	1
@@ -5292,13 +5097,10 @@ VB_VBN_IN
 have_guessed_that	1
 be_watched_by	1
 be_impressed_with	1
-''_VBZ_CC
-''_is_both	1
-MD_VB_,
-will_take_,	1
-should_act_,	1
 MD_VB_.
 can_co-exist_.	2
+VBZ_VBN_VBG
+is_destroyed_leaving	2
 WDT_VBZ_DT
 that_is_the	1
 Which_begs_the	1
@@ -5312,6 +5114,7 @@ the_film_music	1
 a_lac_house	1
 the_war_chapter	1
 a_family_feud	1
+the_phrase_life	1
 the_chariot_fight	1
 no_hollywood_production	1
 this_stage_production	1
@@ -5326,27 +5129,23 @@ the_video_store	1
 a_flashback_episode	1
 the_story_line	1
 a_video_store	1
+the_war_everybody	1
 a_stage_play	1
 the_camera_work	1
 VBG_IN_NNS
 depending_on_circumstances	1
 NN_PRP_RB
+feature_it_really	1
+casting_it_truly	1
+family_I_just	1
 something_I_just	1
 VBZ_VBN_VBZ
 has_done_is	1
 EX_VBD_DT
 There_were_some	1
 CC_RB_DT
+And_especially_the	1
 and_sometimes_the	1
-,_IN_PRP
-,_as_they	1
-,_so_I	1
-,_because_they	1
-,_if_you	1
-,_if_it	1
-,_as_it	1
-,_as_one	2
-,_because_it	1
 FW_VBN_IN
 </a>_Written_in	1
 VB_PRP$_NN
@@ -5366,20 +5165,22 @@ it_through_Amazon.com	1
 her_in_India	1
 FW_FW_FW
 <a href="http://www.amazon.com/gp/product/0520227042">_Mahabharata_</a>	2
+DT_NNPS_WP
+the_Kauravas_who	2
+VBP_VBP_DT
+mention_check_the	1
 NNP_VBG_PRP$
 Mezzogiorno_revealing_his	1
-VBN_NN_NN
-filmed_stage_play	1
 NN_CD_IN
 year_!!!_If	1
+TO_NNP_RB
+to_Hindus_then	1
 VBN_DT_VBG
 masked_the_underlying	1
 CC_VBN_TO
 But_compared_to	1
 JJ_CC_VBN
 unearthly_and_enlightened	1
-DT_VBD_,
-this_occurred_,	1
 RB_JJ_NN
 Truly_great_literature	1
 really_bad_gladiator	1
@@ -5394,11 +5195,12 @@ hauntingly_beautiful_music	1
 FW_IN_NNS
 i.e._for_adolescents	1
 i.e._for_adults	1
+NNP_NN_NNP
+Poor_quality_VHS	1
 DT_NNS_CD
 the_dice_one	1
+the_performances_two	1
 the_cheaters_one	1
-NNS_WDT_VBP
-qualities_that_are	1
 DT_NNS_CC
 the_characters_and	1
 the_intricacies_and	1
@@ -5410,14 +5212,13 @@ movie_would_n't	1
 casting_may_not	1
 NN_IN_WP
 difference_between_whom	2
-JJ_''_NN
-international_'_version	1
-secular_''_history	1
+heart_of_what	1
 POS_NN_JJ
 's_version_many	1
 JJ_NN_WP$
 dream-like_stage_whose	1
 NN_RB_JJ
+opera_ever_replete	1
 bit_too_grand	1
 language_so_eloquent	1
 masterpiece_very_accessible	1
@@ -5427,13 +5228,8 @@ too_close_to	1
 CC_VBN_JJ
 and_made_accessible	1
 and_seen_many	1
-VB_``_DT
-look_``_The	2
-NN_RB_,
-version_yet_,	1
-opera_ever_,	1
-personality_aside_,	1
-DVD_yet_,	1
+NNPS_WP_DT
+Kauravas_who_each	1
 NN_RB_.
 someone_else_.	1
 fire_everywhere_.	1
@@ -5453,6 +5249,7 @@ schedule_the_rest	1
 Watch_the_making	1
 get_some_coffee	1
 recognize_the_stereotype	1
+look_The_Power	2
 be_a_lot	1
 wear_a_blindfold	1
 love_every_minute	1
@@ -5481,17 +5278,11 @@ I_was_reading	1
 we_started_watching	1
 I_started_showing	1
 I_enjoyed_watching	1
-,_JJ_NN
-,_full_length	1
-,_virgin_birth	1
-,_compulsive_gambling	1
-,_unrequited_love	1
-,_multi-racial_cast	1
-,_deliberate_pacing	1
 WDT_VBP_PRP
 which_side_he	1
-,_CD_:
-,_1987_;	1
+CC_NN_:
+and_sensibility_--	1
+and_history_--	1
 VBN_IN_VBG
 repented_for_buying	1
 PRP_VBD_VBN
@@ -5513,13 +5304,17 @@ the_Pandava_can	2
 DT_NNPS_VBP
 the_Pandavas_prefer	1
 The_Kauravas_want	1
+NNP_CD_:
+Music_1987_;	1
 PRP_VBD_VBZ
 I_GOT_IS	1
 :_PRP_VBD
+:_I_did	1
+--_I_had	1
 ;_I_found	1
 ;_it_was	1
-NN_VBG_''
-life_changing_''	1
+TO_VB_RB
+to_follow_especially	1
 NNS_CC_JJ
 brothers_and_common	1
 brothers_and_beloved	1
@@ -5535,11 +5330,6 @@ It_is_no	1
 It_is_a	1
 it_is_a	2
 It_is_an	1
-VBZ_''_DT
-means_''_the	1
-DT_NNPS_,
-the_Pandavas_,	1
-the_Kauravas_,	3
 DT_NNPS_.
 the_Vedas_.	1
 :_PRP_VBZ
@@ -5557,25 +5347,30 @@ JJ_NNS_NN
 visual_media_presentation	2
 crooked_dice_game	1
 modern_arts_world	1
+NNPS_WP_VBP
+Kauravas_who_are	1
 LS_VBP_VBN
 i_have_seen	1
 IN_NNP_DT
 above_Arjuna_another	1
+on_Broadway_these	1
 against_Shakuni_an	1
-FW_,_EX
-e.g._,_there	1
 RB_VBP_PRP
 now_believe_it	1
 JJ_NNP_NNS
 many_Indian_movies	1
 JJ_NNP_NNP
 bad_Star_Trek	1
-NN_._''
-person_._''	1
 TO_RB_RB
 to_as_well	1
+RB_RB_PRP
+Recently_however_I	1
+very_long_I	1
+n't_then_it	1
 RB_RB_VBD
 as_there_seemed	1
+PRP$_NN_VB
+your_seat_teach	1
 JJ_WDT_RB
 same_which_still	1
 RB_RB_VBN
@@ -5583,14 +5378,6 @@ also_clearly_aimed	1
 so_well_presented	2
 so_well_done	1
 so_finely_acted	1
-VBZ_JJ_,
-is_superb_,	1
-is_theatrical_,	1
-is_capricious_,	1
-sounds_daunting_,	1
-is_squalid_,	1
-is_infinitesimal_,	1
-is_evil_,	2
 VBZ_JJ_.
 is_fine_.	1
 is_excellent_.	1
@@ -5602,13 +5389,6 @@ is_perfect_.	1
 is_astonishing_.	1
 seems_arbitrary_.	1
 is_compelling_.	1
-NN_,_JJ
-chapter_,_actual	1
-gambling_,_unrequited	1
-imagery_,_such	1
-world_,_good	1
-polygamy_,_compulsive	1
-mist_,_rocky	1
 VBN_NNP_POS
 watched_Brook_'s	1
 VBZ_DT_JJS
@@ -5619,15 +5399,11 @@ on_cardboard_props	1
 of_television_shows	1
 with_bedtime_stories	1
 than_life_characters	1
-``_NNS_''
-`_talents_'	1
 NNS_IN_RB
 periods_of_hauntingly	1
 RB_VB_RP
 not_figure_out	1
 n't_get_out	1
-``_DT_JJ
-``_The_Discreet	1
 VBN_CC_PRP
 translated_and_it	1
 complicated_and_it	1
@@ -5647,29 +5423,29 @@ to_figure_out	1
 to_wake_up	1
 to_find_out	1
 to_scroll_down	1
+NNS_NNS_CC
+values_preferences_and	1
 :_FW_IN
 --_i.e._for	2
-:_``_NN
-:_``_Everything	1
 VB_IN_DT
 say_that_an	1
+appear_on_the	1
 say_that_the	2
 identify_with_the	1
 see_for_all	1
 hope_that_some	1
-go_for_another	1
+offer_In_the	1
 hope_that_the	1
-appear_on_the	1
+go_for_another	1
 reprint_of_an	1
 stumble_on_the	1
 perform_on_a	1
 NNP_VBZ_NNP
+Mahabharata_permeates_Hindu	1
 Arjuna_selects_Krishna	1
 THIS_IS_NOT	1
 NNP_VBZ_NNS
 Krishna_urges_tricks	1
-NNP_,_WDT
-Krishna_,_which	1
 MD_RB_PRP
 would_n't_it	1
 NNS_VBZ_DT
@@ -5695,16 +5471,12 @@ RB_NN_TO
 definitely_something_to	1
 DT_NNPS_VBD
 The_Kauravas_were	1
-NNP_``_DT
-Carriere_``_The	1
-,_EX_VBZ
-,_there_is	1
-NNP_:_``
-Brook_:_``	1
+PRP$_JJS_CC
+its_best_and	1
 TO_PRP$_NN
 To_my_surprise	1
-NNP_``_NNP
-Brook_``_Marat-Sade	1
+JJ_NNP_TO
+Shakespearean_English_to	1
 JJS_RB_DT
 least_once_every	1
 NNS_MD_RB
@@ -5718,8 +5490,6 @@ VB_:_CC
 entertain_:_but	1
 JJ_IN_FW
 well-read_on_Hindu	1
-,_IN_VBN
-,_as_presented	1
 RB_VBZ_NN
 never_gets_boring	1
 here_becomes_space	1
@@ -5728,16 +5498,16 @@ different_now_but	1
 NNPS_CC_DT
 Pandavas_and_the	3
 SUBTITLES_AND_THE	1
-,_IN_VBG
-,_since_sleeping	1
-,_by_luring	1
+Pandavas_but_the	1
 PRP_IN_PRP$
 him_about_his	1
 it_with_his	1
 them_in_my	1
 NN_NN_VBZ
 camera_work_is	1
+war_everybody_dies	1
 hour_film_is	1
+elephant_head_becomes	1
 VBZ_TO_VB
 prepares_to_enter	1
 chooses_to_wear	1
@@ -5752,10 +5522,6 @@ agrees_to_throw	1
 appears_to_be	1
 refuses_to_fight	1
 is_to_enchant	1
-''_CC_``
-'_but_`	1
-,_NNP_VBD
-,_Duryodhan_poisoned	1
 VB_NN_CC
 collect_item_and	1
 be_anything_but	1
@@ -5767,13 +5533,9 @@ NN_NN_VBN
 epic_tale_based	1
 NNP_NNP_VB
 Peter_Brook_speak	1
-,_NNP_VBZ
-,_AND_is	1
-,_BUT_IS	1
-,_Krishna_responds	1
-,_THIS_IS	1
 NN_NN_VBG
 video_store_specializing	1
+phrase_life_changing	1
 stage_production_being	1
 IN_VBG_RP
 since_sleeping_in	1
@@ -5794,24 +5556,16 @@ of_their_physical	1
 with_its_universal	1
 NNS_RB_.
 years_back_.	1
+grenades_too_?	1
 answers_here_.	1
 husbands_equally_?	1
 minutes_long_.	1
 years_ago_.	1
 years_ago_!	1
-NNS_RB_,
-years_ago_,	1
-VBD_PRP_TO
-forced_us_to	1
-told_me_to	1
-begged_me_to	1
-''_VBZ_DT
-''_is_the	1
-''_is_an	1
-''_is_a	1
-DT_JJ_``
-a_proper_`	1
+CC_NN_MD
+and_fait_can	2
 NNP_:_DT
+Mahabharata_-_The	2
 Tsuchitori_;_the	1
 VBG_NN_TO
 getting_work_to	1
@@ -5830,18 +5584,15 @@ this_on_television	1
 those_with_intelligence	1
 IN_WRB_NNS
 on_why_things	1
-NN_''_PRP$
-weapon_'_their	1
 VB_NNP_NNP
 compare_Peter_Brooke	1
 GET_THIS_PRODUCT	1
 CC_NN_CC
+and_cutting_and	1
 and_rock_and	1
+or_escape_and	1
 JJ_VBG_IN
 evil_existing_within	1
-NNP_,_''
-Mahabharata_,_'	1
-Bharatas_,_''	1
 NN_VBD_TO
 play_came_to	1
 cast_led_to	1
@@ -5858,31 +5609,22 @@ So_how_does	1
 RB_IN_CD
 later_on_one	1
 First_on_three	1
-RB_RB_,
-very_long_,	1
 RBR_JJ_IN
 more_detailed_than	1
 more_pleasurable_if	1
-RB_''_.
-nowhere_''_.	1
 NN_PRP_MD
 end_you_will	1
 home_we_would	1
 day_we_'ll	1
+option_I_would	1
 JJ_DT_JJ
 intact_the_original	1
-,_NNP_PRP
-,_SO_I	1
-VBZ_:_``
-says_:_``	1
 PRP_DT_NNS
 us_the_origins	1
 PRP_DT_NNP
 me_the_VHS	1
-PRP$_JJS_,
-its_best_,	1
-CC_NNP_:
-and_Arjuna_;	1
+NN_WRB_DT
+IDEA_why_the	1
 NNPS_VBP_TO
 Kauravas_want_to	1
 VBZ_PRP_RB
@@ -5895,23 +5637,21 @@ old_blind_king	1
 nine-hour_full_stage	1
 ancient_Indian_culture	1
 little_over_half	1
+original_full_length	1
 private_long_dialogue	1
 legendary_first_king	1
-Acclaimed_new_rendering	2
 excellent_multinational_production	1
+slow_deliberate_pacing	1
+Acclaimed_new_rendering	2
 actual_personal_life	1
 typical_Indian_rendition	1
 own_ininteresting_self	1
 modern_Western_audience	1
+multi-national_multi-racial_cast	1
 abridged_170-minute_version	1
 good_short_rendering	1
-NNP_,_IN
-Pandavas_,_by	1
-Arjuna_,_with	1
-Brook_,_like	1
-Mahabharata_,_as	1
-Krishna_,_while	1
-Gita_,_with	1
+TO_DT_RB
+to_a_beautifully	1
 PRP_VBZ_WRB
 It_begins_when	1
 WDT_VBZ_IN
@@ -5930,20 +5670,14 @@ I_do_hope	1
 I_do_wish	1
 MD_VB_VBZ
 can_win_is	2
+IN_NNP_VBG
+in_English_including	1
 JJR_NNS_IN
 more_episodes_of	1
 MD_VB_VBG
 will_be_returning	1
-NNS_,_IN
-themes_,_as	1
-children_,_though	1
-people_,_so	1
-minutes_,_because	1
-,_PRP_RB
-,_I_finally	1
-,_it_really	1
-,_I_just	1
-,_it_truly	1
+NN_WRB_RB
+master_why_not	1
 MD_VB_VBN
 would_have_given	1
 can_be_touched	1
@@ -5968,22 +5702,18 @@ to_read_it	1
 to_have_it	1
 VB_IN_WRB
 comment_on_how	1
-CC_VBZ_,
-but_lacks_,	1
+VBD_VBN_DT
+had_read_the	1
+had_assumed_this	1
 CC_VBZ_.
 and_loses_.	1
-PRP_,_NNP
-YOU_,_BEATRIZ	1
 CD_NNS_DT
 three_decades_an	1
+25_minutes_The	1
 VBD_JJ_TO
 was_hard_to	1
 were_poor_to	1
 was_curious_to	1
-POS_NN_.
-'s_work_.	1
-'s_version_.	1
-'s_scribe_.	1
 VB_VBN_TO
 get_introduced_to	1
 WRB_JJ_DT
@@ -6063,18 +5793,21 @@ that_the_only	2
 after_a_long	1
 of_the_original	1
 by_the_illiterate	1
-VB_,_TO
-enchant_,_to	1
 RB_DT_NNS
 sometimes_the_accents	1
 VBP_NNP_POS
 love_Brook_'s	1
 recommend_Chopra_'s	1
-NNP_,_PRP
-Yoshi_,_I	1
-Mahabharata_,_I	1
+RB_DT_NNP
+ago_the_Mahabharata	1
+Briefly_the_Mahabharata	1
 :_IN_DT
 -_that_the	1
+CC_JJ_FW
+or_strange_i.e.	1
+VB_PRP_PRP
+Mind_you_I	1
+believe_me_it	1
 PRP$_JJ_JJ
 his_own_ininteresting	1
 his_actual_personal	1
@@ -6096,12 +5829,11 @@ EX_VBP_NN
 there_are_filler	1
 CC_JJ_:
 and_hurtful_...	1
-VBN_NNS_,
-written_versions_,	1
+VBZ_:_NN
+says_:_Everything	1
 VBN_VBG_DT
 been_awaiting_a	1
-,_VBZ_CD
-,_is_one	1
+destroyed_leaving_no	2
 JJ_JJ_NNS
 original_Indian_texts	1
 complicated_moral_dilemmas	1
@@ -6120,14 +5852,10 @@ the_VHS_version	1
 the_Chopra_version	1
 some_Darjeeling_tea	1
 the_Hindi_language	1
-''_CC_DT
-''_and_the	1
-DT_``_NN
-a_``_lite	1
+IN_NNS_WP$
+with_directors_whose	1
 VBP_DT_NNP
 lack_the_Hindi	1
-,_DT_``
-,_the_`	1
 VBP_DT_NNS
 know_the_tales	1
 imitate_these_people	1
@@ -6154,9 +5882,6 @@ RB_:_WP
 elsewhere_;_what	1
 RB_CC_VBP
 ago_and_have	1
-IN_CD_,
-by_one_,	1
-in_1989_,	1
 VBG_NNS_VB
 watching_actors_perform	1
 :_DT_NNP
@@ -6177,17 +5902,17 @@ like_to_compare	1
 need_to_be	1
 try_to_sell	1
 cease_to_be	1
+enchant_to_entertain	1
 like_to_understand	1
 have_to_wake	1
 have_to_buy	1
 lie_to_avoid	1
-VBD_VBG_NNP
-was_watching_Mahabharata	1
-RP_DT_NN
-out_the_plot	1
-up_the_text	1
-NNS_IN_``
-stories_in_``	1
+CC_NNP_IN
+and_Arjuna_with	1
+and_Krishna_while	1
+NN_PRP$_NNS
+cast_my_expectations	1
+surprise_my_friends	1
 NNS_VB_IN
 actors_perform_on	1
 IN_JJ_NN
@@ -6209,23 +5934,19 @@ with_gory_relish	1
 of_human_life	1
 NNP_IN_JJ
 Krishna_as_blue-skinned	1
+Arjuna_with_black	1
 NN_WP$_JJ
 stage_whose_timeless	1
-,_WP_NNP
-,_what_Peter	1
+VB_CC_VBZ
+fight_and_tells	1
 CD_VBG_NNS
 two_warring_sets	1
 JJR_CD_TO
 shorter_one_to	1
 CC_NN_RB
 and_fire_everywhere	1
-RB_PRP$_``
-so_his_`	1
 PRP_TO_RB
 us_to_really	1
-NNP_NNS_,
-wednesday_evenings_,	1
-Hindu_texts_,	1
 VBD_RB_VB
 did_n't_realize	1
 did_n't_have	1
@@ -6237,13 +5958,8 @@ NN_POS_IN
 dvd_'s_after	1
 RB_IN_JJR
 inexorably_for_higher	1
-,_IN_JJ
-,_with_many	1
-,_with_black	1
-PRP_VB_,
-you_think_,	1
-VBZ_RB_''
-is_nowhere_''	1
+JJ_:_CC
+hurtful_..._and	1
 NNS_CC_MD
 frailties_and_can	1
 DT_CD_IN
@@ -6260,6 +5976,9 @@ his_choice_of	1
 his_heart_with	1
 his_adaptation_of	1
 their_version_of	1
+my_husband_after	1
+IN_JJ_DT
+at_first_a	1
 WP_VBP_DT
 who_have_no	1
 who_lack_the	1
@@ -6272,28 +5991,20 @@ it_repeatedly_.	1
 itself_somehow_.	1
 it_anyway_.	1
 it_too_.	1
-,_CC_RB
-,_and_never	1
-,_but_also	1
-,_and_then	1
-,_and_so	1
-,_and_sometimes	1
-,_and_very	1
 WRB_NN_IN
 where_essence_of	1
-IN_``_CD
-as_``_2008	1
 PRP_RB_:
 him_first_;	1
 NN_WRB_PRP
 film_where_I	1
 movie_when_I	1
-FW_,_DT
-i.e._,_the	1
+fame_when_they	1
 NNS_PRP_MD
 stories_they_will	1
 JJ_NNS_MD
 Western_audiences_will	1
+NNPS_CC_IN
+Kauravas_both_in	1
 TO_VB_VBG
 to_be_applying	1
 to_start_killing	1
@@ -6301,9 +6012,8 @@ to_be_getting	1
 NN_VBD_PRP
 cousin_told_me	1
 family_begged_me	1
-JJ_._''
-unreasonable_._''	1
-rude_._''	1
+WRB_VBD_DT
+how_liked_the	1
 TO_VB_VBN
 to_be_seen	1
 to_get_introduced	1
@@ -6335,16 +6045,16 @@ play_was_adapted	2
 writing_was_complicated	1
 play_was_abridged	1
 music_was_composed	1
-IN_DT_``
-in_a_``	1
-of_the_``	1
-,_RB_DT
-,_even_the	1
-,_much_the	1
+NNP_NN_CC
+Darjeeling_tea_and	1
+International_cast_and	1
+Dharma_duty_and	1
 NN_NNS_TO
 DVD_details_to	1
 VBZ_JJ_CC
 is_vast_and	1
+sounds_daunting_but	1
+seems_juvenile_and	1
 is_jarring_and	1
 is_good_or	2
 VB_IN_IN
@@ -6354,36 +6064,21 @@ VBZ_DT_CD
 is_a_2	1
 VB_JJR_.
 be_worse_?	1
-NN_IN_``
-documentary_on_``	1
-point_of_``	1
-search_for_`	1
 NN_NNS_FW
+plot_chartecters_etc.	1
 TV_audiences_e.g.	1
 JJR_DT_RB
 better_some_not	2
-,_NN_CD
-,_watch_one	1
-,_NN_CC
-,_culture_and	1
-,_music_and	1
-,_myth_and	1
-,_CC_DT
-,_but_the	1
-,_and_the	1
-,_and_a	1
-,_but_a	2
-,_but_those	1
-,_and_all	1
-,_and_this	2
-``_NN_NNS
-``_life_styles	1
+JJR_TO_VB
+easier_to_follow	1
+NNP_NNS_MD
+India_folks_will	1
+VB_VB_PRP
+think_keep_you	1
+NNPS_CC_PRP$
+Pandavas_and_their	1
 VBD_VBG_JJ
 were_being_negative	1
-VBN_,_VBG
-destroyed_,_leaving	2
-VBN_,_VBD
-spoken_,_amazed	1
 CD_NN_NN
 5_hour_interpretation	1
 9_hour_stageplay	1
@@ -6396,10 +6091,10 @@ six_hour_version	2
 2_DVD_set	1
 5 1/2_hour_version	1
 1985_stage_version	1
-WRB_JJ_``
-how_good_`	1
-VBN_,_VBN
-heard_,_read	1
+IN_NNP_RB
+with_Brook_yet	1
+of_Mahabharata_mainly	1
+in_India_roughly	1
 VBN_TO_VB
 needed_to_take	1
 continued_to_draw	1
@@ -6413,9 +6108,6 @@ VBD_JJ_NNS
 were_good_guys	1
 were_several_cuts	1
 spawned_many_discussions	1
-,_JJ_NNS
-,_actual_horses	1
-,_rocky_slopes	1
 VB_NN_RB
 be_someone_else	1
 RB_TO_VBG
@@ -6424,18 +6116,15 @@ FW_FW_VBN
 Mahabharata_</a>_Written	1
 WDT_VBP_DT
 that_enhance_the	1
-,_RB_.
-,_too_?	1
 FW_FW_VBZ
 in_1991and_has	1
 NNP_POS_JJ
 Brook_'s_icky	1
 Brook_'s_five-hour	1
+Brook_'s_international	1
 Brook_'s_wonderful	1
 Chopra_'s_splashy	1
 Brook_'s_unprofessional	1
-,_RB_JJ
-,_nearly_monochromatic	1
 NN_NN_IN
 pop_culture_in	1
 epic_poem_in	1
@@ -6445,18 +6134,14 @@ hour_interpretation_of	1
 epic_poem_of	1
 chariot_fight_between	1
 bowling_ball_for	1
+DVD_set_over	1
+life_something_that	1
 family_feud_on	1
 caste_system_with	1
 offering_insight_on	1
 flashback_episode_of	1
-,_NNP_NNP
-,_BEATRIZ_BELTRAN	1
-,_Nicholas_Nickleby	1
-,_Mallika_Sarabhai	1
-,_Peter_Brooke	1
-,_IT_DOES	1
-,_Bill_Moyers	2
-,_Peter_Brook	1
+CD_NNS_EX
+two_armies_there	1
 VBZ_RB_:
 is_elsewhere_;	1
 NNS_JJ_PRP
@@ -6464,28 +6149,20 @@ years_old_we	1
 PRP$_NNS_IN
 their_motivations_because	1
 their_views_on	1
+my_children_though	1
 his_fingerprints_by	1
 my_expectations_for	1
 CC_EX_VBP
 but_there_are	1
-''_NN_,
-''_history_,	1
+RB_NN_IN
+visually_ALL_of	1
 VBZ_CD_NN
 has_zero_entertainment	1
-,_DT_JJS
-,_the_oldest	1
-,_VBZ_RB
-,_is_only	1
 DT_NNS_WDT
 some_qualities_that	1
-RB_,_CC
-yet_,_but	2
-Yes_,_and	1
-dramatically_,_but	1
-CC_``_NN
-and_``_life	1
 NNP_VBZ_VBN
 Bible_has_formed	1
+Brooke_has_directed/produced	1
 Mahabharata_has_been	1
 Brook_has_done	1
 Gita_has_been	1
@@ -6493,7 +6170,7 @@ Mahabharata_is_presented	1
 RSC_has_been	1
 DT_NNP_PRP
 an_Indian_I	1
-the_Mahabharata_I	1
+the_Mahabharata_I	2
 IN_NNS_CC
 for_years_and	1
 of_gods_and	1
@@ -6512,6 +6189,7 @@ branches_of_a	1
 aspects_of_this	1
 years_because_the	1
 performances_of_the	1
+minutes_because_the	1
 features_of_the	1
 limitations_of_the	1
 minutes_while_the	1
@@ -6531,6 +6209,7 @@ stories_from_the	2
 letters_on_the	1
 airports_around_the	1
 origins_of_the	1
+talents_since_the	1
 moments_of_the	1
 things_in_the	1
 reviews_of_the	2
@@ -6540,11 +6219,12 @@ props_against_a	1
 epics_like_The	1
 episodes_of_a	1
 criticisms_of_the	1
-NNPS_IN_RB
-Westerners_with_comparatively	1
+IN_NNP_NNS
+In_India_folks	1
 DT_NN_RBR
 a_lot_more	1
 IN_NNP_NNP
+in_Amar_Chitra	1
 by_Vittorio_Mezzogiorno	1
 by_Joseph_Campbell	2
 on_King_Santanu	1
@@ -6574,8 +6254,6 @@ just_sat_in	1
 first_heard_that	1
 Really_impressed_with	1
 first_heard_of	1
-PRP_``_PRP$
-himself_``_My	1
 CC_NN_NN
 but_pop_culture	1
 +_hour_original	1
@@ -6587,38 +6265,32 @@ NNP_VBD_DT
 Carriere_created_an	1
 Brook_was_the	1
 Brook_encapsulated_the	2
-WP_VBZ_NNP
-who_plays_Drona	1
 EX_VBD_JJ
 there_were_good	1
 DT_IN_CD
 this_in_one	1
 NNP_VBP_RB
 Draupadi_are_hardly	1
-NN_RB_CC
-listing_carefully_and	1
-IN_NN_''
-of_Myth_''	2
+JJR_NN_VBZ
+more_faithful_is	1
+longer_version_is	1
 NN_VBP_PRP
 DVD_make_it	1
+NN_WRB_NNP
+sea_where_Bhima	1
 NNS_IN_PDT
 gems_of_all	1
-NN_,_WRB
-fame_,_when	1
-sea_,_where	1
 CD_VBG_.
 one_sitting_.	1
 :_MD_RB
 --_can_sometimes	1
 NN_RB_PRP
+level_then_I	1
+DVD_maybe_I	1
+day_maybe_I	1
 story_already_it	1
 VBG_VBN_TO
 getting_used_to	1
-NNP_,_WP
-Krishna_,_who	1
-Television_,_who	1
-Ganesh_,_who	1
-Vyasa_,_who	1
 NNS_NN_MD
 circumstances_anybody_can	1
 RB_JJ_NNS
@@ -6631,16 +6303,18 @@ RB_VBP_VBG
 ago_are_wearing	1
 RB_JJ_NNP
 practically_Shakespearean_English	1
-DT_NNS_VBD
-the_videotapes_got	1
-the_songs_were	1
-the_characters_were	1
+TO_NN_POS
+to_everybody_'s	1
 RB_JJR_IN
 yet_larger_than	1
 perhaps_more_of	1
 much_deeper_than	1
 VBZ_NNP_DT
 beats_Bollywood_any	1
+NNP_DT_CD
+Broadway_these_two	1
+CC_NNP_WDT
+and_Krishna_which	1
 RP_IN_NNP
 up_on_Wikipedia	1
 out_on_RealWorld	1
@@ -6652,20 +6326,16 @@ JJ_TO_DT
 faithful_to_the	1
 accessible_to_a	1
 appealing_to_a	1
-NNP_,_JJ
-Trinity_,_virgin	1
 VB_VBN_NNPS
 have_won_Tonies	1
-,_RB_VBP
-,_then_do	1
-IN_NN_WDT
-on_DVD_which	1
 CC_NNP_NNP
 and_Mamadou_Dioume	1
-but_Peter_Brook	1
+but_Peter_Brook	2
 or_The_Odyssey	1
 and_Marie-H_&eacute;l&egrave;ne	1
 and_Jean-Claude_Carriere	1
+DT_NNP_TO
+this_Video_to	1
 DT_DT_JJ
 an_all_Indian	2
 JJ_TO_JJ
@@ -6673,23 +6343,19 @@ superior_to_other	1
 PRP_IN_PRP
 it_for_myself	1
 itself_in_it	1
+it_because_they	1
 you_that_you	1
-CC_VBN_DT
-and_seen_The	1
+:_VBD_PRP
+-_hated_it	1
 IN_NN_JJ
+in_imagery_such	1
 in_silence_spellbound	1
-,_RB_VBG
-,_thus_adding	1
-,_finally_losing	1
-IN_JJ_,
-for_slow_,	1
-in_gentle_,	1
-at_first_,	1
-TO_CD_NN
-to_one_group	1
+JJ_CC_NN
+precise_and_cutting	1
 NNS_VBD_TO
 moms_came_to	1
 RB_PRP_VBD
+long_I_loved	1
 then_I_wondered	1
 Once_I_got	1
 first_it_seemed	1
@@ -6700,14 +6366,12 @@ ever_see_.	1
 n't_know_.	1
 n't_do_.	1
 RB_PRP_VBZ
+carefully_he_tells	1
+Seriously_it_is	1
 Perhaps_it_is	1
 then_it_is	1
 already_it_is	1
-NN_,_NNP
-tongue_,_English	1
-survivor_,_Yudhishthira	1
-stage_,_Peter	1
-play_,_Nicholas	1
+Then_he_teaches	1
 RB_VBN_IN
 not_included_in	1
 clearly_aimed_at	1
@@ -6719,14 +6383,15 @@ always_impressed_with	1
 sometimes_reinforced_in	1
 well_presented_that	2
 also_disappointed_with	1
-NN_,_NNS
-plot_,_chartecters	1
-family_,_rulers	1
-kingdom_,_brothers	1
 RB_PRP_VBP
+still_I_think	1
 not_you_'ve	1
 then_I_assure	1
+So_I_feel	1
+However_you_are	1
 Now_we_have	1
+NN_VB_PRP
+seat_teach_you	1
 VBD_DT_JJ
 was_a_long-awaited	1
 anbd_the_special	1
@@ -6741,14 +6406,16 @@ WRB_PRP_VBZ
 when_she_'s	1
 PRP$_NNS_:
 his_ancestors_...	1
-,_IN_IN
-,_though_after	1
+VBZ_VBN_NNP
+'s_titled_Peter	1
 RBS_JJ_NN
 most_outlandish_soap	1
 NN_IN_CD
 feud_between_two	1
+husband_after_five	1
 tale_of_two	2
 poem_of_100,000	1
+set_over_315	1
 mother_of_five	1
 version_in_1989	1
 group_of_42	1
@@ -6780,8 +6447,6 @@ check_the_listing	1
 'm_no_expert	1
 enjoy_the_interplay	1
 hope_that_IMAGE	1
-''_IN_NNP
-'_by_Peter	1
 PRP$_NNS_.
 their_parts_.	1
 his_cousins_.	1
@@ -6789,25 +6454,8 @@ their_paychecks_.	1
 our_selves_.	1
 his_brothers_?	1
 my_expectations_.	1
-PRP$_NNS_,
-their_rivalries_,	1
-my_children_,	1
-my_friends_,	1
-his_great-grandchildren_,	1
-your_senses_,	1
 JJ_CD_DT
 next_one_the	1
-JJ_,_CC
-turbulent_,_and	1
-human_,_and	1
-covered_,_but	1
-precise_,_and	1
-daunting_,_but	1
-brilliant_,_and	1
-realistic_,_and	1
-treacherous_,_and	1
-other_,_but	1
-abstract_,_but	1
 WRB_PRP_VBD
 when_I_was	2
 when_we_were	1
@@ -6828,6 +6476,10 @@ reinforced_in_imagery	1
 guessed_that_he/she	1
 inundated_with_bedtime	1
 born_into_royalty	1
+NNP_WP_VBZ
+Ganesh_who_has	1
+Vyasa_who_says	1
+Krishna_who_becomes	1
 VBD_IN_NNP
 translated_into_English	1
 opened_on_Broadway	1
@@ -6840,17 +6492,18 @@ liked_the_Duryodhana	1
 NNS_VBP_CC
 miniseries_form_and	1
 :_IN_PRP
-:_if_you	1
+:_if_you	2
 VB_IN_NNS
 sell_in_airports	1
+be_in_turns	1
 VBN_IN_RB
 published_in_much	1
-VBP_VBG_IN
-are_entering_into	1
-are_looking_for	1
-are_enchanting_without	1
+NNP_IN_VBG
+Pandavas_by_luring	1
 CC_VBG_PRP$
 and_bringing_its	1
+JJ_NNP_VB
+proper_Mahabarata_get	1
 CC_VBD_PRP
 and_set_it	1
 and_purchased_it	1
@@ -6863,19 +6516,15 @@ that_went_into	2
 VBP_VBN_JJ
 have_heard_countless	1
 NNS_IN_PRP
-wrongs_against_you	1
-families_because_they	1
+themes_as_they	1
+people_so_I	1
 Years_ago_I	1
 people_around_him	1
+wrongs_against_you	1
+families_because_they	1
 points_for_me	1
-``_NN_VBD
-``_lite_hearted	1
-UH_,_DT
-Yes_,_this	1
-NNS_FW_,
-audiences_e.g._,	1
-,_WDT_PRP
-,_which_I	1
+NNS_FW_.
+chartecters_etc._.	1
 POS_JJ_NN
 's_superb_cast	1
 's_five-hour_version	1
@@ -6883,40 +6532,33 @@ POS_JJ_NN
 's_wonderful_film	1
 's_future_husband	1
 's_icky_personality	1
-,_CC_EX
-,_but_there	1
-VBN_CC_DT
-priced_and_a	1
-etched_but_the	1
+'s_international_version	1
 NNP_NN_RB
 Pours_wisdom_right	1
 Khatha_equivalent_roughly	1
+JJ_JJ_VBN
+strong_complicated_grounded	1
 CC_WRB_JJ
 and_how_right	1
 RB_VBZ_NNP
 literally_means_Great	2
-NN_WRB_DT
-IDEA_why_the	1
 VBZ_DT_RB
 is_a_heavily	1
 is_a_HEAVILY	1
-``_NN_IN
-``_Everything_in	1
-`_Song_of	1
 VBP_PRP_MD
 believe_it_should	1
 side_he_will	1
+VBG_CC_PRP
+changing_and_I	1
+VB_PRP_CC
+write_them_and	1
 IN_NNS_RB
 of_months_later	1
-WP_DT_NNP
-what_The_Mahabharata	1
 VB_RB_IN
 focus_instead_on	1
 sit_back_with	1
+follow_especially_in	1
 come_again_with	1
-NN_NNP_,
-poet_Vyasa_,	1
-epic_Mahabharata_,	1
 IN_DT_VBZ
 If_that_is	1
 in_this_is	1
@@ -6926,6 +6568,7 @@ NNP_CC_NNP
 Draupadi_and_Mamadou	1
 Film_and_Television	1
 Krishna_and_Arjuna	1
+Mahabharata_but_Peter	1
 Iliad_or_The	1
 Brook_and_Carriere	1
 Carri&egrave;re_and_Marie-H	1
@@ -6965,10 +6608,12 @@ unhappy_with_this	1
 tight_on_the	1
 familiar_with_the	2
 abridged_from_the	1
-bad_in_the	1
+ancient_as_the	1
 Irrespective_of_the	1
 sacred_of_all	1
-ancient_as_the	1
+gifted_if_a	1
+bad_in_the	1
+infinitesimal_that_every	1
 several_of_the	1
 ignorant_of_the	1
 VBN_VBN_IN
@@ -6985,40 +6630,33 @@ the_DVD_that	1
 an_agenda_that	2
 the_one_that	1
 the_intensity_that	1
+a_bonus_which	1
+this_film_which	1
 the_effort_that	2
 this_movie_which	1
-VB_PRP_,
-read_it_,	1
-THANK_YOU_,	1
-write_them_,	1
-Mind_you_,	1
-believe_me_,	1
-assure_you_,	1
 VBN_RB_VBN
 been_painstakingly_translated	1
 VBN_RB_VBG
 been_eagerly_awaiting	1
-DT_VBZ_``
-this_seems_``	1
-DT_``_NNP
-the_``_Mahabharata	1
-the_``_Freddy	1
+NN_RB_VB
+film_so_be	1
 CD_NN_CC
 1_disk_and	1
 1990_interpretation_and	1
 one_group_and	1
 RB_VBN_CD
 ever_written_three	1
+FW_DT_NN
+i.e._the_woman	1
 VB_WP_VBZ
 know_what_is	1
-RB_,_''
-carefully_,_''	1
 RB_VBD_JJ
 often_spawned_many	1
 VBD_VBN_TO
 was_adapted_to	2
 IN_CD_CC
-in_1989_and	1
+in_1989_and	2
+by_one_and	1
 CD_DT_RBS
 one_the_most	1
 IN_CD_CD
@@ -7047,18 +6685,8 @@ VBZ_VBZ_NN
 IS_HAS_BEEN	1
 IN_NNPS_VBP
 that_Indians_understand	1
-NN_CC_VBD
-warning_and_purchased	1
-material_and_went	1
-sleepover_and_were	1
-video_and_watched	1
-VB_VBN_RB
-have_taken_perhaps	1
-be_enjoyed_only	1
-NNP_._''
-Mahabharata_._''	1
-Fingered_._''	1
-Mahabharata_._'	1
+VB_JJR_RB
+be_easier_just	1
 MD_VB_RB
 may_serve_well	1
 will_be_sorely	1
@@ -7069,8 +6697,6 @@ more_chance_to	1
 NNP_VBD_IN
 Olivier_did_with	1
 Brooks_translated_into	1
-,_PRP$_JJ
-,_his_entire	1
 WP_WDT_VBZ
 What_that_accomplishes	1
 PRP_VBD_DT
@@ -7083,17 +6709,13 @@ I_had_an	1
 they_were_a	1
 NNP_PRP_VBP
 Indian_I_have	1
+Mahabharata_I_'m	1
 Mahabharata_I_'ve	1
+Yoshi_I_intend	1
 WP_VBZ_.
 what_is_.	1
-NN_POS_JJ
-movie_'s_superb	1
-woman_'s_future	1
-world_'s_great	1
-``_JJ_''
-``_secular_''	1
-``_juvenile_''	1
-`_international_'	1
+NN_VBG_RB
+cast_representing_visually	1
 VBG_NNP_NNP
 including_B._R.	1
 awaiting_Peter_Brooks	1
@@ -7105,19 +6727,18 @@ will_be_someone	1
 'll_see_director/co-writer	1
 SHOULD_BE_GLAD	1
 must_collect_item	1
-NNP_,_VBG
-English_,_including	1
 :_WP_VBZ
 ;_what_makes	1
 ;_what_is	1
 JJ_WRB_RB
 impressed_how_effectively	1
-NN_VBD_VBG
-he/she_was_watching	1
 CC_IN_JJ
 both_in_hot	1
-NNP_,_VBN
-Mahabharata_,_directed	1
+VBZ_NNP_WP
+selects_Krishna_who	1
+VB_VBN_RB
+have_taken_perhaps	1
+be_enjoyed_only	1
 VBP_NNP_CC
 play_Krishna_and	1
 CC_VBZ_PRP
@@ -7127,6 +6748,7 @@ roughly_!_.	1
 NN_JJ_IN
 bit_confusing_at	1
 birthday_present_for	1
+imagery_such_as	1
 PRP_IN_RB
 it_without_even	1
 it_that_much	1
@@ -7147,21 +6769,20 @@ is_born_and	1
 -_The_Acclaimed	2
 --_the_good	1
 --_a_virual	1
-VBG_RP_,
-growing_up_,	1
 RB_VBN_NN
 beautifully_staged_play	1
 masterfully_told_story	1
 well_choreographed_manner	1
-POS_``_NNP
-'s_`_Jabberwocky	1
-'s_`_Mahabharata	1
 VBP_VBG_JJR
 are_playing_greater	1
 VBG_RP_:
 wearing_out_...	1
+VBN_NNP_NNP
+titled_Peter_Brook	1
 VBG_PRP_.
 purchasing_it_.	1
+NNS_WRB_MD
+things_why_would	1
 PRP_VBD_RB
 I_was_about	1
 I_was_rather	1
@@ -7174,19 +6795,21 @@ it_was_so	1
 :_screenwriter_Jean	1
 VBG_VBN_WDT
 Being_asked_which	1
-,_VBN_.
-,_grounded_.	1
 PRP_VBP_TO
 I_come_to	1
 we_care_to	1
 I_intend_to	1
 you_want_to	1
 NN_NN_NN
-street_side_drama	1
+birth_prophecy_someone	1
+everything_land_kingdom	1
+war_death_destruction	1
 A_LONG_TIME	1
-LONG_TIME_SINCE	1
 BEEN_A_LONG	1
 film_music_:[	1
+street_side_drama	1
+LONG_TIME_SINCE	1
+acting_dialogue_music	1
 VBZ_IN_NN
 goes_into_exile	1
 says_that_inaction	1
@@ -7199,19 +6822,14 @@ enjoyed_watching_this	1
 was_seeing_a	1
 CD_VBP_RB
 two_are_too	1
-RB_,_DT
-especially_,_the	1
-Honestly_,_this	1
-ago_,_the	1
-Briefly_,_the	1
-aside_,_this	1
-Fortunately_,_this	1
-Instead_,_this	1
 IN_JJS_CD
 at_least_three	1
 JJ_NN_DT
 18-day_war_every	2
+whole_action_the	1
+brief_beginning_the	1
 same_way_the	1
+same_production_the	1
 only_way_the	2
 elevated_sense_the	1
 VBD_IN_PRP
@@ -7222,23 +6840,14 @@ RB_VBD_TO
 really_helped_to	1
 just_had_to	1
 there_seemed_to	1
-:_NNP_,
--_WMD_,	1
-VBP_VBN_TO
-are_seen_to	1
-have_continued_to	1
-NNP_''_,
-Mahabarata_'_,	1
-NNP_''_.
-Jabberwocky_'_.	1
-Lord_''_.	1
-Mahabharata_'_.	1
-Marat-Sade_''_.	1
+WRB_NNS_IN
+where_dozens_of	1
 NN_RB_IN
 film_instead_of	1
 place_just_before	1
 wisdom_right_into	1
 play_rather_than	1
+cast_rather_than	1
 WP_DT_VBP
 who_each_seek	1
 NNP_NNS_PRP
@@ -7247,32 +6856,21 @@ VCR_tapes_I	1
 Gilliam_touches_he	1
 NNP_CC_PRP
 Earth_and_it	1
-NN_VBN_``
-television_broadcasted_`	1
-NNP_''_:
-Mahabharata_''_-	2
+India_but_it	1
 DT_NNP_RB
 the_Brook_even	1
 the_Mahabharata_ever	1
-NNPS_,_CC
-Pandavas_,_but	1
-Kauravas_,_both	1
 VBZ_TO_PRP$
 comes_to_their	1
 DT_:_NN
 that_-_theatre	1
 DT_VBZ_JJ
 that_sounds_daunting	1
+this_seems_juvenile	1
 this_is_amazing	1
 that_is_bad	1
-VBP_,_VBP
-mention_,_check	1
-:_``_IN
-:_``_if	1
-VBN_``_NNP
-called_``_Lord	1
-titled_``_Peter	1
 JJ_NN_JJ
+compulsive_gambling_unrequited	1
 public_television_many	1
 DT_VBZ_DT
 all_is_the	1
@@ -7305,6 +6903,8 @@ JJ_PRP_VBP
 sure_you_are	1
 FW_FW_IN
 Hindu_mythology_on	1
+VB_CC_MD
+act_but_should	1
 IN_WDT_DT
 upon_which_an	1
 VB_WRB_NNP
@@ -7325,16 +6925,8 @@ them_into_a	1
 it_on_a	1
 you_on_the	1
 you_about_the	1
-,_CC_PDT
-,_and_such	1
-IN_NNP_,
-of_Music_,	1
-of_Vishnu_,	1
-in_India_,	2
-in_English_,	1
-with_Brook_,	1
-In_India_,	1
-on_Broadway_,	1
+RB_CC_PRP$
+Yes_and_her	1
 IN_NNP_.
 of_India_.	2
 as_Bhima_.	1
@@ -7345,8 +6937,10 @@ with_Peter_.	1
 on_RealWorld_.	1
 of_Jesus_.	1
 of_Hercules_.	1
-NN_VB_DT
-company_abridge_a	1
+NN_CC_MD
+work_and_should	2
+NN_NNS_NNS
+family_rulers_sons	1
 JJ_NNS_.
 universal_precepts_.	1
 many_years_.	1
@@ -7357,20 +6951,9 @@ salient_points_.	1
 major_events_.	1
 imported_videos_.	1
 underwater_creatures_.	1
-JJ_NNS_,
-scheming_cousins_,	2
-silent_backgrounds_,	1
-great_things_,	1
-many_plays_,	1
-human_species_,	1
-many_months_,	1
-famous_artists_,	1
-royal_cousins_,	1
-other_people_,	1
-full_miniseries_,	1
-absolute_favorites_,	1
-VBD_VBN_MD
-had_hoped_would	1
+IN_NNP_:
+on_Wikipedia_;	1
+of_Brook_:	1
 JJ_NNS_:
 few_props_...	1
 JJ_CC_NNP
@@ -7384,6 +6967,8 @@ NN_NNS_WRB
 cartoon_books_where	1
 VB_RP_RBR
 find_out_more	1
+NNP_CD_DT
+Gita_one_the	1
 WRB_DT_NNP
 how_The_Mahabharata	1
 DT_JJR_DT
@@ -7399,9 +6984,12 @@ a_spare_5-6	1
 the_other_one	1
 the_original_1990	1
 DT_JJ_CC
+the_same_and	1
+all_covered_but	1
 all_wonderful_and	1
 the_illiterate_and	1
-the_same_and	1
+the_abstract_but	1
+the_other_but	1
 the_strong_but	1
 PRP_VBP_.
 you_go_.	1
@@ -7410,17 +6998,16 @@ the_scenes_featurette	1
 VBN_PRP_RB
 watched_it_repeatedly	1
 NN_:_IN
+Myth_--_by	2
+mankind_:_if	1
 philosophy_-_that	1
 everyone_:_if	1
 NNS_RB_JJ
 themes_so_profound	1
 NN_TO_NN
 warning_to_everyone	1
-JJ_,_DT
-universal_,_the	1
-poetic_,_the	1
-first_,_a	1
-rich_,_the	1
+PRP$_NNP_NN
+his_Dharma_duty	1
 VBP_IN_PRP
 emphasize_that_it	1
 RB_CC_RB
@@ -7445,21 +7032,19 @@ RB_VBN_RB
 not_presented_overtly	1
 even_listed_not	1
 never_seen_before	1
-,_VBG_DT
-,_leaving_no	2
 JJ_NNS_CC
 good_guys_and	1
-rocky_slopes_and	1
+many_plays_but	1
 physical_attributes_and	1
 many_times_and	2
 religious_philosophies_and	1
+rocky_slopes_and	1
 strong_characters_and	1
 human_frailties_and	1
 monochromatic_hues_and	1
 NN_IN_PDT
+story_with_all	1
 example_of_all	1
-VBN_,_CC
-presented_,_but	1
 VBG_RP_DT
 picking_up_the	1
 IN_NNP_IN
@@ -7472,17 +7057,15 @@ VBN_IN_NNS
 interspersed_with_periods	1
 raised_like_Moses	1
 raised_on_stories	1
-NNS_,_WRB
-things_,_why	1
-cousins_,_how	1
-,_JJ_.
-,_poetic_.	1
+VBP_DT_VBN
+deplore_the_butchered	1
 VBN_IN_NNP
 presented_by_Peter	1
 interpreted_by_Sarmila	1
 Retold_by_William	2
 adapted_from_Brook	1
 played_by_Bruce	1
+seen_since_Plan	1
 directed_by_Peter	1
 lost_from_Peter	1
 Written_in_India	1
@@ -7530,18 +7113,8 @@ and_strongly_recommend	1
 and_never_cease	1
 NNP_:_UH
 Krishna_--_Wow	1
-''_:_IN
-''_--_by	2
 NN_CD_NNS
 love_five_husbands	1
-PRP$_NN_,
-your_seat_,	1
-its_heart_,	1
-his_charioteer_,	1
-my_husband_,	1
-my_opinion_,	1
-my_book_,	1
-my_childhood_,	1
 PRP$_NN_.
 my_mind_!	1
 your_film_.	1
@@ -7558,42 +7131,34 @@ higher_and_higher	1
 CC_PDT_DT
 and_such_a	1
 But_such_a	1
+:_NNP_CC
+-_WMD_and	1
 PRP$_NN_:
 His_reason_--	1
 CC_VB_RB
 and_focus_instead	1
 VBZ_DT_MD
 is_a_must	2
-,_NN_WP
-,_someone_who	1
 NNS_CC_VB
 drugs_and_forget	1
 CD_CD_NNS
 three_thousand_years	1
 IN_WP_VBD
 than_what_was	1
-,_VBZ_VBN
-,_has_directed/produced	1
+NN_VBN_DT
+television_broadcasted_The	1
 IN_WP_VBZ
 between_whom_is	2
 NNP_VBZ_JJ
 Mahabharata_is_theatrical	1
-DT_JJ_,
-the_other_,	1
-the_multi-national_,	1
-the_original_,	1
-all_covered_,	1
-the_abstract_,	1
-a_disappointing_,	1
 DT_JJ_.
 all_wrong_.	1
 the_perverse_.	1
 each_other_.	1
-DT_NN_WRB
-this_movie_when	1
-the_film_where	1
-the_stage_where	1
+WDT_DT_JJ
+which_an_entire	1
 VBN_IN_CD
+dated_as_2008	1
 centered_on_two	1
 crafted_by_two	1
 JJS_IN_DT
@@ -7607,12 +7172,10 @@ NN_TO_NNP
 version_to_Amar	1
 RB_JJ_VBZ
 Especially_informative_is	1
-PRP$_JJ_``
-our_home-grown_`	1
 VBN_JJ_TO
 made_accessible_to	1
-RB_DT_``
-indeed_a_``	1
+NN_NNS_PRP
+life_styles_they	1
 NNS_WRB_NN
 books_where_essence	1
 VBZ_VBN_RB
@@ -7631,18 +7194,12 @@ clocks_in_at	1
 is_that_if	1
 RB_DT_DT
 not_an_all	1
-NNS_,_NN
-mortals_,_polygamy	1
-hours_,_total	1
-discs_,_watch	1
 DT_NNS_RBR
 the_reviews_more	1
 DT_DT_NNS
 the_the_characters	1
 IN_RB_VBG
 without_even_purchasing	1
-NN_VBD_''
-lite_hearted_''	1
 IN_RB_VBN
 with_divinely_guided	1
 CD_NNS_CC
@@ -7657,17 +7214,6 @@ a_totally_faithful	1
 all_too_human	1
 WRB_NNP_NNP
 how_Peter_Brook	1
-,_NNP_,
-,_England_,	1
-,_USA_,	1
-,_Japan_,	1
-,_Burkina-Faso_,	1
-,_Yudhishthira_,	2
-,_Italy_,	1
-,_Senegal_,	1
-,_Vietnam_,	1
-VBG_NNS_,
-siring_mortals_,	1
 VB_RB_DT
 serve_well_the	1
 NNPS_CC_VBZ
@@ -7677,6 +7223,8 @@ fantastic_cast_who	1
 amazing_actor_who	1
 healthy-minded_director_who	1
 graceless_prick_who	1
+NNS_FW_EX
+audiences_e.g._there	1
 VB_RP_IN
 wake_up_at	1
 VBZ_NNS_TO
@@ -7695,20 +7243,12 @@ months_of_straight	1
 times_in_various	1
 digressions_that_Western	1
 aspects_of_human	1
-JJ_``_NNS
-home-grown_`_talents	1
 PRP_JJ_NNS
 me_many_months	1
-JJ_``_NNP
-proper_`_Mahabarata	1
 DT_JJS_.
 the_least_.	1
 NN_NN_CD
 woman_love_five	1
-VBZ_VBN_``
-'s_titled_``	1
-NN_``_NNP
-place_``_Mahabharata	2
 VBZ_DT_VBG
 is_a_starting	1
 RB_IN_NN
@@ -7718,12 +7258,13 @@ straight_through_minus	1
 later_on_laserdisc	1
 DT_NN_JJ
 this_film_many	1
-a_bit_confusing	1
+the_world_good	1
 the_DVD_front	1
 a_novice_international	1
 a_fight_wrong	1
 the_DVD_last	1
 a_birthday_present	1
+a_bit_confusing	1
 CC_DT_NNPS
 and_the_Kauravas	3
 but_the_Pandavas	1
@@ -7751,58 +7292,45 @@ CC_DT_WP
 but_those_who	1
 VB_PRP$_JJ
 put_their_career-making	1
-''_VBZ_NNP
-''_permeates_Hindu	1
-RB_VB_``
-over_look_``	2
 IN_RB_DT
 in_much_the	1
-,_VBZ_NN
-,_loses_everything	1
 JJ_VBZ_JJ
 blue-skinned_is_jarring	1
 VBZ_NN_RB
 takes_place_just	1
 PDT_DT_VBG
 such_a_penetrating	1
-,_WP_VBP
-,_who_are	1
-,_who_have	1
 JJ_JJ_CC
+disappointing_sliced_and	1
+evasive_turbulent_and	1
+Beautiful_brilliant_and	1
 little_else_but	1
 DT_NN_VB
 a_company_abridge	1
 this_production_sing	1
 any_film_be	1
-,_WP_VBZ
-,_who_is	2
-,_who_has	1
-,_who_says	1
-,_who_becomes	1
-,_WP_VBD
-,_who_wrote	1
+the_story_get	1
 JJ_CC_RB
 unclean_and_utterly	1
+brilliant_and_very	1
 vast_and_often	1
 RB_JJ_RB
 as_good_however	2
 pretty_cool_too	1
 very_different_now	1
+NNP_JJ_NN
+Trinity_virgin_birth	1
 PDT_DT_VBZ
 all_that_is	1
 DT_RBR_JJ
 a_more_universal	1
-NN_WDT_VBP
-footage_that_enhance	1
+PRP_VBD_NNP
+It_took_Peter	1
 RP_IN_CD
 in_at_5	1
 up_at_6:00	2
 NN_VBZ_VB
 DVD_does_presume	1
-NNS_,_NNS
-values_,_preferences	1
-brothers_,_cousins	1
-rulers_,_sons	1
 JJ_VBG_RB
 worth_watching_once	1
 NNS_WP$_NNS
@@ -7813,68 +7341,21 @@ no_mistake_;	1
 the_text_-	1
 the_world_;	1
 an_option_;	1
-,_WRB_PRP
-,_how_they	2
-,_when_they	1
 RB_:_DT
 carefully_-_this	1
 actually_--_this	1
 NN_JJ_NN
 novice_international_cast	1
 DVD_last_year	1
+polygamy_compulsive_gambling	1
 DVD_front_cover	1
+gambling_unrequited_love	1
 NN_WDT_VBD
-version_which_was	1
+version_which_was	2
+epic_which_was	1
 effort_that_went	2
-JJ_,_VBN
-complicated_,_grounded	1
-DT_NN_PRP
-the_work_itself	1
-another_context_it	1
-the_acting_itself	1
-the_end_you	1
-Some_day_we	1
-the_poem_itself	1
-THE_DVD_I	1
-the_sixth_she	1
-the_delivery_I	1
 WDT_VBZ_JJ
 that_is_present	1
-DT_NN_,
-the_plot_,	1
-any_level_,	1
-a_film_,	1
-every_year_,	1
-the_movie_,	3
-the_medium_,	1
-the_way_,	1
-a_bonus_,	1
-this_story_,	1
-an_option_,	1
-the_poem_,	1
-every_day_,	1
-the_process_,	1
-the_play_,	1
-the_film_,	1
-the_boy_,	1
-the_author_,	1
-another_time_,	1
-that_matter_,	1
-the_sea_,	1
-the_question_,	1
-any_rate_,	1
-the_world_,	1
-the_feature_,	1
-any_day_,	1
-the_war_,	1
-the_story_,	1
-this_film_,	3
-the_DVD_,	1
-The_result_,	1
-the_stage_,	1
-a_Pandava_,	1
-the_box_,	1
-a_family_,	2
 DT_NN_.
 a_stage_.	1
 the_movie_?	1
@@ -7942,22 +7423,23 @@ JJ_NN_VBN
 great_literature_brought	1
 Dutch_television_broadcasted	1
 long_epic_shown	1
-,_NNP_CC
-,_Brook_and	1
-,_English_and	1
 VB_VBG_PRP
 be_returning_it	1
-DT_NNS_MD
-these_events_could	1
+NN_JJ_RB
+fight_wrong_even	1
+NN_CD_CC
+watch_one_and	1
 JJ_NN_VBG
+international_cast_representing	1
 Indian_cast_wearing	1
-JJ_NN_PRP
-great_epic_I	1
+NN_:_NN
+series_-_interpretation	1
 JJ_NN_VBD
 wise_cousin_told	1
 multi-racial_cast_led	1
 overall_production_was	1
 JJ_NN_VBZ
+international_version_is	1
 real_strength_is	1
 young_boy_meets	1
 future_husband_is	1
@@ -7974,9 +7456,13 @@ Indian_tradition_says	1
 NNP_NNP_VBG
 Vittorio_Mezzogiorno_revealing	1
 NNS_CC_NN
+brothers_and_wife	1
+preferences_and_life	1
 slopes_and_reed	1
-philosophies_and_culture	1
+thickets_and_candlelit	1
+lessons_and_appeal	1
 helicopters_and_rocket	1
+philosophies_and_culture	1
 NNP_NNP_VBD
 Laurence_Olivier_did	1
 Peter_Brook_encapsulated	2
@@ -7987,31 +7473,28 @@ Hare_Krishnas_used	1
 Peter_Brook_was	1
 VBP_JJ_.
 are_gorgeous_.	1
-VBP_JJ_,
-are_gifted_,	1
 NN_CC_RB
-play_and_indeed	1
 production_and_also	1
 value_and_conceptually	1
+duty_and_so	1
 work_but_now	1
+play_and_indeed	1
+liking_and_sometimes	1
 budget_and_very	1
 NN_CC_VBP
+matter_and_are	1
 heart_and_are	1
 search_and_enjoy	1
+tea_and_enjoy	1
+self-importance_but_seem	1
 VBP_JJ_PRP
 am_sure_it	1
 VBP_JJ_:
 are_pedestrian_;	1
-:_``_PRP
---_``_I	1
-:_``_I	1
 NNS_VBG_PRP$
 people_hearing_their	1
-CC_PRP_RB
-and_it_truly	1
-But_we_quickly	1
-''_,_DT
-'_,_the	1
+WP_VBD_VBN
+what_was_given	1
 IN_DT_WP
 for_all_who	1
 TO_VB_WRB
@@ -8019,8 +7502,6 @@ to_watch_how	1
 NN_IN_WDT
 story_upon_which	1
 canvas_on_which	1
-,_''_DT
-,_''_the	1
 TO_RB_VB
 to_really_understand	1
 to_fully_appreciate	1
@@ -8029,37 +7510,21 @@ to_not_depict	1
 to_fully_conceptualize	1
 JJ_CD_VBN
 other_one_dated	1
-NN_,_NN
-prophecy_,_someone	1
-everything_,_land	1
-acting_,_dialogue	1
-war_,_everybody	1
-war_,_death	1
-dialogue_,_music	1
-land_,_kingdom	1
-life_,_something	1
-death_,_destruction	1
-history_,_culture	1
-philosophy_,_myth	1
-birth_,_prophecy	1
 CC_MD_VB
 and_can_be	1
 but_should_act	1
 NNPS_VBD_JJ
 Kauravas_were_treacherous	1
-''_CC_IN
-''_and_with	1
 IN_PRP_MD
 that_he_will	1
 as_one_would	2
 that_you_'ll	1
 if_they_can	1
 that_you_will	2
-,_IN_NNS
-,_with_actors	1
-,_in_turns	1
 NNP_NNP_DT
+Bhagavad_Gita_the	1
 Yoshi_Oida_the	1
+Claude_Carriere_The	1
 VBG_PRP$_NNS
 losing_his_brothers	1
 hearing_their_views	1
@@ -8069,8 +7534,6 @@ VBG_RP_IN
 Weighing_in_at	1
 NNS_VBG_NNS
 gods_siring_mortals	1
-JJ_``_NN
-good_`_Song	1
 NNS_VBG_NNP
 characters_barring_Draupadi	1
 MD_RB_VB
@@ -8092,23 +7555,26 @@ will_happily_watch	1
 could_not_figure	1
 RB_VB_PRP$
 n't_heed_their	1
+VBD_NNP_VBD
+occurred_Duryodhan_poisoned	1
 VBG_RB_DT
 watching_once_every	1
 NNP_VBP_VBN
 Jesus_are_called	1
-,_NN_,
-,_destruction_,	1
-,_prophecy_,	1
-,_death_,	1
-,_dialogue_,	1
-,_boring_,	1
-,_kingdom_,	1
-,_land_,	1
-,_polygamy_,	1
-,_NN_.
-,_total_.	1
-IN_``_NN
-for_`_pasupata	1
+NN_CC_DT
+destruction_but_a	1
+body_and_an	1
+love_and_a	1
+story_and_an	1
+series_and_the	1
+family_and_the	1
+anything_but_a	1
+cast_and_the	1
+version_and_the	1
+material_and_the	1
+boring_and_all	1
+JJR_NNS_JJR
+greater_people_greater	1
 NNS_VBD_VBG
 people_were_being	1
 DT_WRB_VBD
@@ -8119,23 +7585,27 @@ NNS_VBD_VBN
 songs_were_interpreted	1
 IN_IN_NN
 that_if_war	1
-,_VBG_VBD
-,_acting_was	1
 TO_VBG_DT
 to_watching_this	1
 to_watching_the	1
+PRP$_NN_PRP
+my_childhood_I	1
+my_book_it	1
+UH_DT_NN
+Yes_this_DVD	1
 RBR_IN_DT
 more_about_the	1
 more_about_this	2
+NNPS_VBP_.
+Indians_understand_.	1
 IN_IN_JJS
 for_at_least	1
 JJ_DT_VBD
 sure_this_was	1
-VBN_``_DT
-broadcasted_`_The	1
-,_CC_VBD
-,_and_was	1
-,_and_set	1
+VBN_IN_PRP
+presented_that_you	2
+VBG_NNP_VBP
+barring_Draupadi_are	1
 IN_NNP_POS
 of_Norway_'	1
 of_Brook_'s	1
@@ -8148,16 +7618,6 @@ as_Gilliam_'s	1
 ..._that_is	1
 -_this_is	1
 --_this_is	2
-,_CC_VBG
-,_and_bringing	1
-CC_NNS_,
-and_years_,	1
-,_CC_VBZ
-,_and_includes	1
-,_and_loses	1
-,_and_tells	1
-,_and_makes	1
-,_and_agrees	1
 CC_NNS_.
 and_men_.	1
 IN_JJ_CC
@@ -8165,11 +7625,6 @@ with_black_and	1
 in_rare_and	1
 VBZ_RP_IN
 is_out_on	1
-,_CC_VBP
-,_and_watch	1
-,_but_seem	1
-,_and_are	1
-,_and_enjoy	1
 JJ_DT_VBZ
 faithful_this_is	1
 PRP_VBZ_RB
@@ -8189,6 +7644,7 @@ It_is_easily	1
 NNS_IN_NNP
 stories_about_Mahabharata	1
 projects_with_Jean-Claude	1
+stories_in_Amar	1
 texts_from_India	1
 NNS_IN_NNS
 dozens_of_actors	1
@@ -8205,19 +7661,20 @@ has_always_impressed	1
 has_often_masked	1
 is_even_listed	1
 is_not_packed	1
+JJ_VBG_VBD
+superb_acting_was	1
 VB_VBG_DT
 suggest_watching_this	1
 start_killing_each	1
 be_applying_the	1
-PRP_,_CC
-them_,_and	1
-me_,_but	1
 NNS_MD_VB
 audiences_will_find	1
 actors_would_have	1
 subtitles_would_be	1
 events_could_have	1
 NNS_VBN_CC
+dilemmas_presented_but	1
+turns_grounded_and	1
 texts_translated_and	1
 JJ_TO_PRP
 accessible_to_us	1
@@ -8252,13 +7709,11 @@ different_role_to	1
 IN_NNS_NN
 of_actors_fight	1
 on_circumstances_anybody	1
-NN_:_``
-reason_--_``	1
-mankind_:_``	1
 NNP_NNP_RB
 The_Odyssey_just	1
 &eacute;l&egrave;ne_Estienne_apparently	1
 S.K._Madireddi_Really	1
+India_Bharat_yet	2
 NN_TO_VB
 poem_to_engrave	2
 chance_to_redeem	1
@@ -8274,22 +7729,22 @@ role_to_play	1
 mistake_to_take	1
 ability_to_communicate	1
 fun_to_watch	1
-VBD_RB_,
-dropped_dramatically_,	1
 DT_VBG_VBN
 some_getting_used	1
-NNS_,_JJR
-people_,_greater	1
 CC_NN_IN
 and_grandeur_of	1
 and_feel_of	1
-nor_beauty_in	1
-or_knowledge_at	1
 and_subtlety_of	1
+or_knowledge_at	1
+nor_beauty_in	1
+and_wife_against	1
 and_culture_of	1
+or_library_for	1
 NN_WP_VBD
 actor_who_played	1
 woman_who_gave	1
+VBD_JJ_JJ
+were_strong_complicated	1
 NN_WP_VBZ
 brother_who_tells	1
 prick_who_mistreats	1
@@ -8303,14 +7758,14 @@ first_saw_the	1
 finally_bought_the	1
 WDT_VBZ_RB
 which_is_almost	1
-NNS_,_CD
-performances_,_two	1
 NN_WP_VBP
 cast_who_say	1
 NNP_CD_IN
+Drama_1988_that	1
 Plan_9_From	1
 NNS_CC_RB
 times_and_still	1
+times_and_never	1
 RB_MD_VB
 too_can_become	1
 also_may_be	1
@@ -8354,10 +7809,12 @@ a_dream-like_stage	1
 an_international_cast	2
 the_extreme_condensation	1
 the_great_canvas	1
+the_absolute_weapon	1
 the_wise_god	1
 a_second_time	1
 all_Indian_cast	2
 a_traditional_saga	1
+a_secular_history	1
 a_final_glimmer	1
 a_detailed_documentary	1
 a_long_preparation	1
@@ -8464,11 +7921,8 @@ the_great_story	1
 VBZ_TO_DT
 is_to_the	1
 cuts_to_the	1
-PRP_VBZ_VBN
-It_is_rendered	1
-He_is_offered	1
-He_has_worked	1
 VBZ_JJ_NN
+is_squalid_boring	1
 is_low_budget	1
 is_great_theatre	1
 VB_NNS_IN
@@ -8476,10 +7930,12 @@ get_movies_with	1
 PRP_NNS_PRP$
 he_touches_his	1
 JJ_DT_NN
-worth_every_penny	1
+first_a_lot	1
 worth_the_money	1
-stunning_this_presentation	2
+worth_every_penny	1
+universal_the_action	1
 worth_the_time	1
+stunning_this_presentation	2
 VBZ_DT_NN
 is_an_enemy	2
 tells_the_tale	1
@@ -8512,16 +7968,12 @@ DT_NNS_NNS
 the_characters_motives	1
 NNP_CC_VBZ
 Mount_and_is	1
-,_RB_:
-,_actually_--	1
-PRP$_NNP_``
-his_Dharma_`	1
+Bhagavad-Gita_and_includes	1
 NNP_:_NN
 Arjuna_;_wow	1
+Senegal_..._etc.	1
 NNP_EX_VBZ
 Roy_there_is	1
-,_RB_,
-,_however_,	3
 CC_VBZ_TO
 and_agrees_to	1
 WDT_RB_VBZ
@@ -8538,25 +7990,27 @@ short_attention_spans	1
 important_life_lessons	1
 primary_school_kids	1
 bad_gladiator_movies	1
+NNP_CC_VBG
+Mahabharata_and_bringing	1
 NNP_CC_VBD
 Mahabharata_and_was	1
 Mahabharata_and_watched	1
 Bhima_and_threw	1
-TO_DT_RB
-to_a_beautifully	1
+JJ_NN_NNP
+old_poet_Vyasa	1
+soul-searching_archer_Arjuna	1
+wise_god_Krishna	1
+last_survivor_Yudhishthira	1
 IN_NNP_VBZ
 that_Krishna_has	2
 As_Krishna_does	2
+of_Vishnu_tries	1
 as_Yudhishthira_gambles	1
-RB_VBG_RB
-ever_roving_around	1
+CC_NNP_:
+and_Arjuna_;	1
 POS_NN_:
 's_version_-	1
 '_item_;	1
-WRB_VBD_DT
-how_liked_the	1
-,_PRP$_NNS
-,_my_expectations	1
 WRB_DT_NN
 why_the_studio	1
 when_this_version	1
@@ -8579,20 +8033,10 @@ that_Brooks_translated	1
 CC_NNP_.
 and_PBS_.	1
 and_Hindi_.	1
-CC_NNP_,
-and_Duryodhana_,	1
-and_Television_,	1
-and_Krishna_,	2
-and_Arjuna_,	1
-,_JJ_CC
-,_sliced_and	1
-,_good_and	1
-DT_,_CC
-this_,_and	1
-,_RB_IN
-,_rather_than	1
-,_even_if	1
-,_especially_in	1
+POS_NN_.
+'s_work_.	1
+'s_version_.	1
+'s_scribe_.	1
 PRP_RB_JJ
 him_extremely_rude	1
 CC_WP_MD
@@ -8604,36 +8048,8 @@ for_higher_and	1
 IN_NN_VBD
 that_he/she_was	1
 that_part_was	1
-JJ_NN_,
-filmic_excitement_,	1
-great_war_,	1
-compulsive_gambling_,	1
-last_survivor_,	1
-Western_audience_,	1
-whole_action_,	1
-mythic_tale_,	1
-international_cast_,	1
-marvelous_acting_,	1
-transcendent_touch_,	1
-human_life_,	1
-three-hour_version_,	1
-virgin_birth_,	1
-spiritual_journey_,	1
-Indian_history_,	1
-powerful_mix_,	1
-unrequited_love_,	1
-Indian_cast_,	1
-racial_group_,	1
-fascinating_story_,	1
-single_studio_,	1
-brief_beginning_,	1
-great_epic_,	1
-same_production_,	1
-all-Indian_cast_,	1
-straight_delivery_,	1
-painful_cut_,	1
-personal_fame_,	1
-universal_story_,	1
+IN_NN_PRP
+of_casting_it	1
 JJ_NN_.
 multicultural_cast_.	1
 distorted_story_.	1
@@ -8689,6 +8105,7 @@ but_now_believe	1
 DT_NN_NNS
 a_dozen_times	1
 the_epic_hundreds	1
+the_plot_chartecters	1
 the_cousin_families	1
 the_yoga_texts	1
 a_dozen_countries	1
@@ -8697,17 +8114,21 @@ The_production_values	1
 a_DVD_collectors	1
 the_DVD_details	1
 a_couple_months	1
+a_family_rulers	1
 IN_NN_VBN
 of_light_preserved	1
 DT_NN_NNP
 the_epic_Sanskrit	1
+the_play_Nicholas	1
 the_epic_Mahabharata	1
 the_way_Laurence	1
+the_stage_Peter	1
 TO_VB_NNS
 to_watch_people	1
 TO_VB_NNP
 TO_GET_THIS	1
 to_compare_Peter	1
+to_follow_AND	1
 CC_RB_VBZ
 but_nevertheless_carries	1
 CC_RB_VBD
@@ -8715,8 +8136,9 @@ and_often_spawned	1
 and_also_was	1
 and_indeed_was	1
 CC_RB_PRP
-or_not_it	1
 and_then_I	1
+or_not_it	1
+But_still_I	1
 or_not_you	1
 JJ_TO_NNP
 offensive_to_Hindu	1
@@ -8741,6 +8163,7 @@ story_of_its	1
 rest_of_her	1
 enemy_of_his	1
 time_against_his	1
+love_with_his	1
 model_of_his	1
 history_of_his	1
 theatre_at_its	1
@@ -8756,6 +8179,8 @@ of_background_is	1
 of_mankind_is	1
 that_life_is	1
 if_war_takes	1
+NNS_JJR_IN
+people_greater_than	1
 NNP_VBD_NNP
 Duryodhan_poisoned_Bhima	1
 NNP_NN_.
@@ -8763,28 +8188,19 @@ VHS_version_.	1
 Buyer_beware_!	1
 Brooks_work_.	1
 Chopra_version_.	1
-NNP_NN_,
-Arjuna_yoga_,	1
-Darjeeling_tea_,	1
-JJ_''_CC
-juvenile_''_and	1
-,_RB_PRP$
-,_yet_their	1
-,_yet_its	2
+PRP_VBZ_NN
+It_'s_fun	1
+It_takes_place	1
 WRB_NNP_VBD
 where_Bhima_was	1
-DT_NNP_TO
-this_Video_to	1
-NN_NN_``
-starting_place_``	2
-RB_,_PRP
-still_,_I	1
-So_,_I	1
-long_,_I	1
-Seriously_,_it	1
-however_,_I	1
-Then_,_he	1
-However_,_you	1
+JJ_NN_PRP$
+Indian_cast_my	1
+absolute_weapon_their	1
+TO_CD_NN
+to_one_group	1
+IN_DT_NNPS
+of_the_Vedas	1
+of_the_Kauravas	1
 VBP_VBN_IN
 've_seen_in	1
 are_reinforced_with	1
@@ -8795,35 +8211,24 @@ WDT_VBD_NN
 which_was_telecast	1
 NNS_TO_DT
 themes_to_a	1
-PRP$_JJ_NN
-his_limited_understanding	1
-his_western_mindset	1
-His_eclectic_casting	1
-his_true_form	1
-My_wise_cousin	1
-its_real_strength	1
-his_entire_army	1
+VBP_VBG_IN
+are_entering_into	1
+are_looking_for	1
+are_enchanting_without	1
 VB_CC_VB
 conceptualize_and_complete	1
-''_CC_NN
-''_and_director	1
 EX_VBP_JJ
 There_are_other	2
 VBD_DT_IN
 bought_this_as	1
 watched_this_on	1
-NNS_,_CC
-years_,_but	1
-lessons_,_and	1
-thickets_,_and	1
-times_,_and	1
-rivalries_,_and	1
-brothers_,_and	1
-plays_,_but	1
 RP_RBR_IN
 out_more_about	1
 VBN_RBR_JJ
 been_more_faithful	1
+CD_NNS_NN
+8_hours_total	1
+two_discs_watch	1
 IN_CC_RB
 whether_or_not	2
 than_and_as	1
@@ -8832,12 +8237,10 @@ Destruction_-_WMD	1
 TO_NNP_NNP
 to_Amar_Chitra	1
 to_New_York	1
-``_NN_VBG
-``_life_changing	1
 CC_NNS_IN
 and_subtleties_of	1
-PRP$_``_NNP
-his_`_Mahabharata	1
+NNS_NN_JJ
+mortals_polygamy_compulsive	1
 DT_NN_WP
 the_brother_who	1
 the_actor_who	2
@@ -8854,21 +8257,18 @@ NN_VBN_TO
 literature_brought_to	1
 RP_VBZ_DT
 in_is_a	1
-VB_,_NNP
-follow_,_AND	1
-take_,_Krishna	1
 EX_VBZ_RB
 there_is_nowhere	1
 IN_IN_VBG
 so_that_depending	1
-VBP_DT_VBN
-deplore_the_butchered	1
-NNPS_,_WP
-Kauravas_,_who	2
 CD_TO_VB
 6:00_to_see	1
 VBD_PRP$_NN
 changed_my_life	1
+NNPS_IN_RB
+Westerners_with_comparatively	1
+VBG_NNS_NN
+siring_mortals_polygamy	1
 WP_VBZ_VBN
 who_is_born	1
 NN_IN_NN
@@ -8900,16 +8300,13 @@ meaning_of_life	1
 father_of_mankind	1
 Anyone_with_experience	1
 vision_of_life	1
+search_for_pasupata	1
 wealth_of_philosophy	1
 plight_of_mankind	1
 something_in_passing	1
 footage_with_actress	1
 movie_on_DVD	1
 text_as_faithful	1
-,_JJR_IN
-,_greater_than	1
-CD_''_,
-2008_''_,	1
 VBZ_RB_NN
 is_definitely_something	1
 VBN_TO_DT
@@ -8927,6 +8324,7 @@ POS_CD_NN
 RB_DT_JJ
 even_the_so-called	1
 much_the_same	1
+indeed_a_secular	1
 also_the_audio	1
 Even_the_god-man	1
 not_the_original	1
@@ -8938,17 +8336,11 @@ VBZ_WRB_NNP
 is_when_Krishna	1
 TO_PRP_.
 to_us_.	1
-,_IN_DT
-,_for_that	1
-,_during_the	1
-,_that_every	1
-,_as_the	2
-,_in_this	1
-,_while_the	1
-,_if_a	1
-,_because_the	1
 NNS_CC_CD
 hours_and_25	1
+NN_VB_DT
+story_get_a	1
+company_abridge_a	1
 IN_JJ_NNS
 by_underwater_creatures	1
 of_many_wrongs	1
@@ -8964,15 +8356,15 @@ in_various_ways	1
 VBZ_NNP_NNP
 means_Great_Maha	2
 IS_NOT_VERY	1
+IS_BLURRY_BUT	1
 is_The_Bhagavad-Gita	1
 IS_NOT_IT	1
 VBZ_NNP_IN
 tells_Krishna_that	1
-,_CD_DT
-,_one_the	1
 RB_CD_JJ
 Just_one_small	1
 CC_PRP_MD
+and_He_can	1
 and_you_'ll	1
 but_I_can	2
 But_it_would	1
@@ -8985,22 +8377,14 @@ who_is_an	2
 who_mistreats_the	1
 VBD_RP_NN
 grew_up_hearing	1
-,_VBG_NNP
-,_including_B.	1
 VBP_DT_MD
 think_this_may	1
-IN_DT_NNPS
-of_the_Vedas	1
-of_the_Kauravas	1
 NN_VB_JJR
 film_be_worse	1
 PRP$_NN_MD
 your_viewing_will	1
-JJ_,_FW
-strange_,_i.e.	1
-IN_NNP_:
-on_Wikipedia_;	1
-of_Brook_:	1
+WP_VBZ_TO
+who_wants_to	1
 NNS_TO_VB
 tricks_to_defeat	1
 episodes_to_do	1
@@ -9010,8 +8394,10 @@ miniseries_to_visualize	1
 cousins_to_eachother	1
 drugs_to_write	1
 details_to_make	1
-NNPS_VBP_.
-Indians_understand_.	1
+NNP_CC_WRB
+India_and_how	1
+CD_DT_JJ
+one_the_next	1
 VBN_TO_RB
 used_to_as	1
 VB_PRP_NN
@@ -9023,13 +8409,8 @@ PDT_DT_NN
 such_a_way	1
 all_the_yoga	1
 such_a_story	1
-NNP_NN_NNP
-Poor_quality_VHS	1
-,_VBN_IN
-,_centered_on	1
-,_interspersed_with	1
-,_directed_by	1
-,_come_from	1
+JJS_CC_PRP
+best_and_it	1
 POS_JJ_CC
 's_unprofessional_and	1
 PRP_:_RB
@@ -9042,6 +8423,8 @@ We_all_have	1
 NNP_VBD_TO
 Kauravas_plotted_to	1
 Krishnas_used_to	1
+PRP_DT_VBZ
+it_this_is	1
 PRP_VBD_CD
 I_bought_14	1
 FW_NNP_NN
@@ -9049,21 +8432,29 @@ FW_NNP_NN
 VBD_IN_DT
 got_over_this	1
 impressed_with_this	1
+said_that_the	1
 wandered_in_the	1
 heard_of_the	1
 went_with_an	1
 went_into_this	1
-``_IN_PRP
-``_if_you	1
-RB_VBN_NNS
-divinely_guided_paths	1
+VBD_DT_NNS
+were_some_moments	1
+NN_POS_JJ
+movie_'s_superb	1
+woman_'s_future	1
+world_'s_great	1
 IN_NNS_VBP
 of_cousins_start	1
 As_others_mention	1
+IN_NNS_VBN
+in_turns_grounded	1
+of_stories_centered	1
 NN_JJ_NNS
+chapter_actual_horses	1
 film_many_times	1
 version_many_times	1
 television_many_years	1
+mist_rocky_slopes	1
 IN_NNS_VBD
 that_people_were	1
 TO_JJ_NNS
@@ -9073,6 +8464,7 @@ with_gods_siring	1
 with_actors_sitting	1
 JJ_RB_DT
 good_however_this	2
+god-like_even_the	1
 NNP_IN_DT
 Amazon.com_because_this	1
 Paris_at_the	1
@@ -9081,6 +8473,7 @@ Krishna_in_the	1
 Krishna_that_the	1
 President_of_the	1
 Mahabharata_at_all	1
+Krishna_while_the	1
 Mahabharata_in_a	2
 VBP_RB_JJ
 are_so_unhappy	1
@@ -9091,37 +8484,17 @@ are_also_multi-generational	1
 WDT_VBD_RB
 which_was_very	1
 CC_RB_RB
+and_very_very	1
 and_sometimes_very	1
 and_conceptually_much	1
 and_still_not	1
-VB_,_DT
-eachother_,_each	1
-,_DT_NN
-,_the_writing	1
-,_the_woman	1
-,_this_DVD	1
-,_this_version	1
-,_the_intensity	1
-,_this_film	1
-,_a_faith	1
-,_a_couple	1
-,_the_incarnation	1
-,_the_action	1
-,_the_head	1
-,_the_one	1
-,_the_father	1
-,_the_book	1
-,_a_lot	1
-,_the_epic	1
-,_the_actor	1
-,_a_notion	1
 CD_TO_DT
 one_to_both	1
-CD_VB_DT
-one_condense_the	1
 TO_VB_JJ
 to_see_many	1
 to_produce_simple	1
 to_be_mere	1
 to_make_sure	1
 to_be_well-read	1
+NNS_NNP_VBZ
+miniseries_THIS_IS	1

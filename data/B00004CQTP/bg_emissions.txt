@@ -45,6 +45,8 @@ and_post-production	1
 and_new	1
 and_inspiring	1
 and_humorous	1
+VBN_VBZ
+unveiled_is	1
 RB_TO
 ever_to	1
 just_to	1
@@ -62,9 +64,6 @@ involved_.	1
 stoked_.	1
 bored_.	1
 seen_!	1
-VBN_,
-unveiled_,	1
-made_,	1
 VB_TO
 want_to	5
 be_to	1
@@ -76,15 +75,17 @@ go_to	1
 VBZ_CD
 is_1	1
 follows_2	1
+RB_JJS
+However_most	1
 RB_JJR
 much_better	1
+PRP_PRP
+you_you	1
 PRP$_VBP
 Their_are	1
 RP_.
 up_.	1
 off_.	1
-RP_,
-around_,	1
 VBN_JJ
 considered_bland	1
 WP_VBP
@@ -103,15 +104,21 @@ HI_and	1
 Bad_&	1
 Fiji_and	1
 Hoey_and	1
+CA_and	1
 Rent_or	1
-Mike_and	1
 O'Connel_and	1
-Pat_and	1
+Mike_and	1
+January_but	1
+Pat_and	2
+Zulu_and	1
 O'Connell_and	1
 WP_MD
 What_could	1
 JJ_RBR
+dark-haired_more	1
 onscreen_better	1
+RP_PRP
+around_it	1
 RBS_JJ
 most_influential	1
 most_classic	1
@@ -120,8 +127,14 @@ RP_VBN
 out_done	1
 :_NN
 :_A	1
-``_VBN
-``_stoked	1
+IN_PRP$
+if_your	1
+with_my	1
+for_my	1
+from_my	1
+on_his	1
+for_his	1
+in_my	2
 IN_WDT
 of_which	1
 PRP$_NN
@@ -142,6 +155,7 @@ watch_before	1
 go_for	1
 delve_into	1
 consider_for	1
+have_for	1
 record_from	1
 rate_as	1
 improve_on	1
@@ -152,17 +166,25 @@ was_really	1
 was_so	1
 was_back	1
 NN_DT
+cinematography_some	1
 surfer_this	1
+encounter_a	1
+ES_the	1
 film_all	1
+world_this	1
 doubt_the	1
 grace_a	1
 movie_a	1
+food_the	1
 break_each	1
+footage_the	1
+course_the	2
 WDT_RB
 that_only	1
 TO_DT
-to_the	3
 to_a	1
+to_the	3
+to_The	1
 VBD_RP
 turned_up	1
 topped_off	1
@@ -172,22 +194,23 @@ are_able	1
 are_unparalleled	1
 want_beautiful	1
 are_huge	1
+VB_NNP
+have_Revisited	1
 NNS_NNS
+emotions_sights	1
 waves_breaks	1
 JJS_JJ
 most_beautiful	1
-VBD_JJ
-was_wrong	1
-enjoyed_Endless	1
-suffocated_many	1
-cracked_open	1
-had_great	1
+CC_IN
+and_down	1
+and_of	2
 VBP_TO
 want_to	1
 PRP$_NNS
 their_friends	1
 RB_NNP
 again_Bruce	1
+not_CHECK	1
 IN_RB
 as_well	1
 in_as	1
@@ -237,11 +260,11 @@ true_to	3
 hard_to	1
 able_to	1
 NNS_JJ
-charactors_likable	1
+breaks_interesting	1
+surfers_awesome	1
 friends_everyday	1
-NNP_''
-Wingnut_''	1
-Revisited_''	2
+charactors_likable	1
+waves_awesome	1
 DT_NNS
 The_parts	1
 The_guys	1
@@ -324,17 +347,19 @@ and_what	1
 and_who	1
 but_what	1
 NNS_CC
+characters_and	1
 sons_and	1
+waves_but	1
 waves_and	1
+surfers_but	1
+homes_but	1
 breaks_and	1
 years_and	1
 sights_and	1
 bands_and	1
 surfers_and	1
+locations_and	1
 people_and	1
-VBZ_VBG
-'s_going	1
-makes_surfing	1
 VBN_PRP
 seen_it	1
 done_himself	1
@@ -351,31 +376,45 @@ add_in	1
 are_into	1
 hope_that	1
 NN_CC
+appeal_and	1
 time_or	1
 time_and	1
+day_and	1
 movie_and	1
+collection_and	1
+surfing_or	1
 videography_and	1
-beauty_and	1
+humor_and	1
+roommate_and	1
 production_and	1
+greatness_and	1
 project_and	1
+australia_and	1
 fun_and	1
 soul_and	1
 power_and	1
 A_+	2
+beauty_and	2
+cast_and	1
 kinship_and	1
 culture_and	1
+I_but	1
 funding_&	1
 commentary_and	1
+dvd_but	1
 surfer_or	1
-surfer_and	1
+footwork_and	1
 sound_and	1
+ecology_and	1
 storie_and	1
+surf_or	2
 shot_and	1
+chase_and	1
 charm_and	1
 scenery_&	1
 scene_and	1
 surfing_and	1
-footwork_and	1
+surfer_and	1
 NN_CD
 Summer_II	2
 Summer_1	1
@@ -391,45 +430,55 @@ the_smallest	1
 the_greatest	1
 the_best	8
 the_coolest	1
-PRP_TO
-us_to	1
 DT_WP
 both_what	1
 NN_JJ
 surfing_breathtaking	1
-world_such	1
-gremmie_responsible	1
+video_great	1
 go_wrong	1
+gremmie_responsible	1
+world_such	1
 year_old	2
 time_many	1
 NNP_NNP
+Robert_Wingnut	1
+Wingnut_Pat	1
+Slater_Tommy	1
 Tommy_Curren	1
 South_Afica	1
 MOVIE_OUT	1
 CHECK_THIS	1
-John_Whitmore	1
+Santa_Cruz	1
 Jeffries_Bay	1
 Dick_Dale	1
-Pat_O'Connell	1
+Biaritz_Fr	1
 THIS_MOVIE	1
+Pat_O'Connell	1
 Jerry_Lopez	1
 Dana_Point	2
 Summer_II	3
 Laird_Hamilton	1
 Robert_Weaver	1
-Summer_I	1
+Bruce_Wingnut	1
 NOT_SO	1
+Hamilton_Kelly	1
 Bruce_Brown	3
 Bottom_Line	1
 Gary_Hoey	1
+Summer_I	1
 St._Francis	1
 TJ_Barron	1
+Lopez_Shane	1
 The_Ugly	1
+Wingnut_Weaver	1
 I_'d	1
 Pat_O'Connel	1
 Shane_Matthews	1
+Curren_Walter	1
 Pink_Floyd	1
-Santa_Cruz	1
+John_Whitmore	1
+Good_The	1
+Point_CA	2
 The_Bad	1
 Summer_Revisited	1
 Biaritz_France	1
@@ -443,6 +492,7 @@ VBN_CC
 surfed_or	1
 visited_and	1
 retraced_and	1
+made_and	1
 VBN_TO
 disheartened_to	1
 stoked_to	1
@@ -510,16 +560,6 @@ VBZ_WRB
 is_how	1
 VB_WP
 know_what	1
-RB_,
-not_,	1
-However_,	1
-here_,	1
-instead_,	1
-now_,	1
-enough_,	1
-ever_,	1
-Here_,	1
-anytime_,	1
 RB_.
 ever_!	1
 soon_.	1
@@ -577,8 +617,6 @@ so_I	3
 of_us	1
 that_we	1
 in_you	1
-''_.
-''_.	1
 NNS_VB
 Thanks_be	1
 RB_LS
@@ -765,17 +803,13 @@ themselves_:	1
 IN_.
 around_.	1
 about_.	1
-``_DT
-``_The	3
-``_this	1
 PRP_.
 it_!	1
 it_.	1
 himself_.	1
 you_.	2
-PRP_,
-you_,	1
-themselves_,	1
+IN_:
+by_...	1
 CC_VBP
 and_hope	1
 PRP_VB
@@ -795,22 +829,6 @@ CC_VBN
 and_spoiled	1
 and_surfed	1
 or_thought	1
-JJ_,
-pleasant_,	1
-special_,	1
-beautiful_,	1
-original_,	1
-spectacular_,	1
-witty_,	1
-bad_,	1
-blasphemy_,	1
-brash_,	1
-bland_,	1
-colorful_,	1
-blond_,	1
-present_,	1
-dark-haired_,	1
-addicting_,	1
 JJ_.
 exceptional_.	1
 breathtaking_.	1
@@ -831,13 +849,16 @@ caught_on	1
 seen_in	1
 lauded_for	1
 thrown_in	1
-stoked_while	1
+stoked_while	2
 VBP_WRB
 wonder_when	1
 mean_when	1
-CC_IN
-and_down	1
-and_of	2
+VBD_JJ
+was_wrong	1
+enjoyed_Endless	1
+suffocated_many	1
+cracked_open	1
+had_great	1
 JJ_:
 amazing_--	1
 genious_--	1
@@ -845,6 +866,7 @@ excellent_...	1
 IN_PDT
 despite_all	1
 NN_NNS
+smooth_charactors	1
 way_things	1
 place_combines	1
 movie_reviewers	1
@@ -856,7 +878,10 @@ delivery_mechanisms	1
 punk_bands	1
 NN_NNP
 couple_Coronas	1
+snow_O'Connell	1
 legend_August	1
+CD_CD
+3_!!!	1
 CD_CC
 5_+	1
 1_and	1
@@ -871,7 +896,7 @@ us_how	1
 ..._all	1
 :_the	1
 DT_MD
-a_must	1
+a_must	2
 that_would	1
 JJR_NN
 better_surf	1
@@ -913,13 +938,15 @@ NN_NN
 KILLER_sountrack	1
 decade_veteran	1
 surfing_movie	3
-camera_shot	1
+france_africa	1
 distribution_company	1
 narration_smooth	1
-world_trip	1
+surf_footage	2
+humor_nature	1
 surfing_video	1
 bear_encounter	1
 budget_style	1
+nature_beauty	1
 surf_culture	1
 surf_documnetary	1
 spring_break	1
@@ -930,43 +957,34 @@ fun_movie	1
 surf_video	2
 surfing_footage	1
 surfing_adventure	1
+break_day	1
 croc_chase	1
 theme_song	1
 movie_special	1
+Surf_movie	1
 airport_scene	1
 experience_part	1
 surfing_film	1
 summer_I	1
-surf_footage	2
+world_trip	1
+music_A	1
 landmark_movie	1
 movie_genre	1
-surfing_documentary	1
+surfing_humor	1
 shortboard_footage	1
+africa_australia	1
 summer_fun	1
 surf_film	3
+surfing_documentary	1
+camera_shot	1
 NNS_RB
 breaks_ever	1
 movies_ever	1
 movies_only	1
+waves_only	1
 years_ago	2
-CD_''
-3_''	1
 EX_VBD
 There_was	1
-,_JJ
-,_recycled	1
-,_true	1
-,_interesting	1
-,_crazy	1
-,_cold	1
-,_witty	1
-,_awesome	2
-,_mindful	1
-,_outspoken	1
-,_tongue-in-cheek	1
-,_adrenaline	1
-,_great	1
-,_addicting	1
 DT_JJ
 the_other	2
 the_rental	1
@@ -989,6 +1007,7 @@ a_great	2
 the_perfect	1
 The_ugly	1
 the_awesome	1
+the_Classic	1
 a_flat	1
 a_tremendous	1
 the_original	4
@@ -1006,6 +1025,7 @@ those_amateur	1
 a_good	3
 a_real	1
 the_Endless	1
+an_endless	1
 the_true	1
 some_excellent	1
 No_other	1
@@ -1019,89 +1039,94 @@ the_east	1
 a_meandering	1
 the_present	1
 NN_IN
-adventure_of	1
 peek_at	1
 side-footage_of	1
-world_of	1
-atmosphere_of	1
-thing_in	1
-loop_so	1
+frame_so	1
 experience_of	1
-break_from	1
-Anyone_from	1
-movie_with	3
-surfing_of	1
-lot_of	1
-way_through	1
-glimpse_into	1
-sport_in	1
-photography_than	1
-masterpiece_of	1
-bit_of	1
-innovator_in	1
-predecessor_in	1
-night_after	1
-footage_than	1
-passion_for	1
-trip_down	1
-movie_that	1
-day_after	1
-soul_of	1
-movie_on	1
-anyone_so	1
-documentary_of	1
-money_on	1
-majesty_of	1
-surfing_like	1
-art_of	1
-dose_of	1
-part_with	1
-side_of	1
-essence_of	2
 blood_in	1
-quest_for	1
-joke_about	1
-adventure_than	1
-video_for	1
-part_of	1
-stranglehold_on	1
-path_of	1
-movie_along	1
-world_at	1
-likes_of	1
-summer_around	1
-film_for	2
+movie_with	3
+photography_than	1
+innovator_in	1
+passion_for	1
+anyone_so	1
+loop_so	1
 couple_of	1
-participation_in	1
-something_for	2
-movie_of	1
-movie_for	1
+essence_of	2
+film_for	2
+movie_along	1
 Side_of	1
 kind_of	1
+footage_with	1
+footage_at	1
+Summer_in	1
+feeling_of	1
+art_of	1
+beach_in	1
+world_of	1
+break_from	1
+masterpiece_of	1
+trip_down	1
+movie_that	1
+stranglehold_on	1
+majesty_of	1
+surfing_like	1
+part_with	1
+side_of	1
+mix_of	1
+path_of	1
+quest_for	1
+something_for	2
+dose_of	1
+year_throughout	1
+movie_during	1
+laserdisc_onto	1
+footage_of	3
+summer_of	1
+adventure_of	1
+atmosphere_of	1
+thing_in	1
+sun_on	1
+surfing_of	1
+glimpse_into	1
+surf_in	1
+footage_than	1
+day_after	1
+documentary_of	1
+world_at	1
+Anyone_from	1
+summer_around	1
+participation_in	1
+tire_on	1
 day_in	1
 bundle_if	1
 field_of	1
-narration_of	1
-footage_at	1
-year_throughout	1
-Summer_in	1
-tire_on	1
-feeling_of	1
-breath_of	1
-mix_of	1
+movie_for	1
 footage_in	1
 tire_of	1
-movie_during	1
-surf_in	1
-laserdisc_onto	1
 passion_that	1
-footage_with	1
-job_of	1
-footage_of	3
 song_from	1
-flick_for	1
-thing_about	1
 exception_though	1
+narration_of	1
+adventure_than	1
+sport_in	1
+way_through	1
+predecessor_in	1
+night_after	1
+job_of	1
+soul_of	1
+joke_about	1
+part_of	1
+likes_of	1
+movie_of	1
+bit_of	1
+movie_on	1
+video_for	1
+breath_of	1
+flick_for	1
+lot_of	1
+coast_so	1
+money_on	1
+thing_about	1
 CC_DT
 and_some	2
 and_a	1
@@ -1119,26 +1144,49 @@ film_called	1
 pain_involved	1
 NNS_PRP
 places_themselves	1
+reviewers_myself	1
 people_themselves	1
 times_I	1
 NN_VBG
+part_surfing	1
+globe_catching	1
 world_surfing	1
+past_living	1
 CC_WRB
 and_how	1
 NN_VBD
 movie_were	1
-son_took	1
+heat_cracked	1
 someone_said	1
-documnetary_was	1
+son_took	1
 surfing_was	1
+documnetary_was	1
+DVD_turned	1
 quality_was	1
 bird_brained	1
 WP_PRP
 what_I	2
 what_they	1
 who_they	1
-PRP_''
-it_''	1
+NN_VBZ
+Summer_has	1
+special_is	1
+humour_is	1
+movie_does	1
+video_has	1
+humor_is	1
+soundtrack_is	1
+movie_captures	1
+bad_is	1
+movie_is	5
+DVD_comes	1
+film_follows	1
+movie_flows	1
+film_is	1
+music_is	1
+footage_is	1
+soundtrack_fits	1
+place_has	1
 RB_RB
 Sure_enough	1
 as_well	2
@@ -1152,11 +1200,13 @@ too_soon	1
 out_there	1
 not_only	2
 not_quite	1
+anytime_anywhere	1
 VBD_IN
 popped_in	1
 TO_IN
 to_that	1
 NN_VBP
+movie_make	1
 video_show	1
 film_have	1
 PRP_RB
@@ -1176,29 +1226,31 @@ I_really	2
 I_still	1
 I_HIGHLY	1
 RB_VBZ
+instead_gives	1
 rarely_takes	1
 also_has	1
 still_remains	1
 only_comes	1
 perfectly_conveys	1
 always_gets	1
-IN_PRP$
-if_your	1
-with_my	1
-for_my	1
-from_my	1
-on_his	1
-for_his	1
-in_my	2
+VBZ_VBG
+'s_going	1
+makes_surfing	1
 VB_PRP
 Take_me	1
 release_it	1
 see_it	1
 let_'s	1
 miss_it	1
-PRP_DT
-it_the	1
-it_a	1
+RB_VBP
+highly_recommend	1
+still_love	1
+just_wish	1
+HIGHLY_recommend	1
+elsewhere_are	1
+really_love	1
+Now_watch	1
+still_think	1
 VBZ_VBN
 is_thrown	1
 is_made	1
@@ -1227,10 +1279,7 @@ extremely_pleased	1
 equally_stoked	1
 always_been	1
 ever_seen	1
-NN_''
-Surf_''	1
-summer_''	1
-Summer_''	1
+Here_unveiled	1
 VB_RBR
 be_more	1
 RB_VBG
@@ -1242,28 +1291,26 @@ really_appreciated	1
 first_watched	1
 instantly_was	1
 just_purchased	1
-NNS_NN
-scenes_production	1
 CC_MD
 and_should	1
 VBD_NN
 brained_gremmie	1
 JJ_JJ
+spectacular_addicting	1
 other_dark-haired	1
-several_exotic	1
 pure_goofy	1
+several_exotic	1
 new_exciting	1
+bland_recycled	1
 narrative_reminiscent	1
 enough_non-surf	1
+brash_outspoken	1
+addicting_adrenaline	1
+colorful_witty	1
 outspoken_blond	1
+witty_tongue-in-cheek	1
 VBZ_TO
 loves_to	1
-,_IN
-,_on	1
-,_because	1
-,_in	1
-,_since	1
-,_so	2
 NNS_WP
 men_who	1
 VBG_CC
@@ -1277,9 +1324,11 @@ might_even	1
 would_n't	1
 would_never	1
 NN_WDT
-anyone_that	1
+company_which	1
 thing_that	1
 kind_that	1
+surfing_which	1
+anyone_that	1
 film_that	1
 VB_DT
 show_some	1
@@ -1296,6 +1345,7 @@ enjoy_this	1
 get_this	1
 Add_this	1
 have_a	1
+do_The	1
 know_the	1
 WRB_DT
 how_this	1
@@ -1349,20 +1399,8 @@ CC_CD
 and_15	1
 and_2	1
 and_19	1
-,_NN
-,_france	1
-,_day	1
-,_nature	1
-,_humor	1
-,_beauty	1
-,_africa	1
-,_A	1
-,_australia	1
 PRP$_RB
 your_not	1
-``_NNP
-``_Revisited	1
-``_Wingnut	1
 RB_DT
 Simply_the	1
 Certainly_a	1
@@ -1383,26 +1421,12 @@ film_can	1
 one_could	1
 DT_VB
 a_discredit	1
-DT_``
-a_``	1
-the_``	1
-an_``	1
-,_RB
-,_not	1
-,_never	1
-,_anywhere	1
-,_just	1
-,_then	1
-,_only	1
 CC_PRP
 and_you	1
 and_it	1
 and_we	1
 and_I	3
 or_I	1
-,_VBD
-,_turned	1
-,_cracked	1
 RB_VB
 n't_miss	1
 even_get	1
@@ -1425,15 +1449,9 @@ costa_rica	1
 in_bikinis	1
 JJ_RB
 nice_not	1
-,_``
-,_``	1
 VBG_PRP$
 cheering_your	1
 doing_their	1
-,_VBG
-,_surfing	1
-,_catching	1
-,_living	1
 NNS_.
 shots_.	1
 boards_.	1
@@ -1445,33 +1463,16 @@ videos_.	1
 places_.	2
 adventures_.	1
 stars_.	2
-,_VBN
-,_stoked	1
-,_unveiled	1
-NNS_,
-surfers_,	3
-people_,	1
-characters_,	1
-struggles_,	1
-waves_,	3
-homes_,	1
-breaks_,	1
-reviewers_,	1
-emotions_,	1
-locations_,	1
-,_VBP
-,_make	1
 RBR_RB
 more_fittingly	1
 NNS_:
 surfers_...	1
 surf-brats_--	1
 roots_:	1
-,_VBZ
-,_gives	1
-,_is	1
 WRB_RB
 where_deeply	1
+VBG_JJ
+surfing_low	1
 JJ_NNS
 beautiful_breaks	1
 huge_days	1
@@ -1514,8 +1515,6 @@ one_of	1
 1_of	1
 one_by	1
 II_on	1
-''_CD
-''_!!!	1
 IN_WP
 at_what	1
 with_what	1
@@ -1533,6 +1532,7 @@ surf_it	1
 !!_I	1
 thing_I	1
 course_it	1
+surf_you	1
 time_they	1
 ocean_itself	1
 way_they	1
@@ -1542,13 +1542,17 @@ summer_I	1
 VB_PRP$
 waste_your	1
 JJ_DT
+pleasant_the	1
 open_a	1
+blond_the	1
 RB_CC
 once_and	1
 seriously_and	1
 now_and	1
-ago_and	1
+ever_and	1
 there_and	1
+here_and	1
+ago_and	1
 MD_VB
 would_have	1
 could_top	1
@@ -1601,7 +1605,7 @@ parts_in	1
 scenes_in	1
 VB_VBN
 have_saved	1
-get_stoked	1
+get_stoked	2
 be_blown	1
 have_given	1
 be_seen	1
@@ -1609,17 +1613,13 @@ CC_PDT
 and_all	1
 VB_VBG
 help_laughing	1
-,_DT
-,_this	2
-,_some	1
-,_both	1
-,_a	1
-,_the	10
-,_an	1
 VB_VBZ
 see_is	1
 NNS_DT
+surfers_both	1
+struggles_an	1
 copies_each	1
+people_the	1
 VBZ_NN
 separates_ES	1
 is_surfing	1
@@ -1645,8 +1645,6 @@ travel_the	1
 recommend_this	2
 think_the	1
 trek_the	1
-,_WDT
-,_which	2
 JJS_NNS
 best_movies	1
 most_people	1
@@ -1666,50 +1664,10 @@ CD_RB
 19_now	1
 POS_JJS
 's_most	1
-NN_,
-snow_,	1
-france_,	1
-ES_,	1
-sun_,	1
-content_,	1
-footage_,	1
-music_,	1
-roommate_,	1
-ecology_,	1
-day_,	1
-africa_,	1
-break_,	1
-australia_,	1
-DVD_,	1
-video_,	1
-nature_,	1
-ocean_,	1
-beach_,	1
-beauty_,	1
-surfing_,	3
-frame_,	1
-past_,	1
-smooth_,	1
-greatness_,	1
-dvd_,	1
-company_,	1
-surf_,	3
-chase_,	1
-collection_,	1
-cinematography_,	1
-food_,	1
-appeal_,	1
-humor_,	2
-I_,	1
-part_,	1
-coast_,	1
-encounter_,	1
-cast_,	1
-world_,	1
-globe_,	1
-movie_,	1
-heat_,	1
-course_,	2
+NNP_JJ
+I_true	1
+Matthews_crazy	1
+Hawaii_cold	1
 NN_.
 cool_.	1
 adventure_.	2
@@ -1764,18 +1722,13 @@ unveiled_a	1
 provided_the	1
 purchased_a	1
 seen_all	1
+called_The	1
 saved_a	1
 caught_the	1
 VB_RP
 find_out	1
 Woke_up	1
 go_off	1
-''_VBN
-''_associated	1
-''_VBZ
-''_has	1
-''_NN
-''_movie	1
 IN_TO
 out_to	1
 before_to	1
@@ -1810,35 +1763,34 @@ deeply_spiritual	1
 really_special	1
 fittingly_ironic	1
 well_worth	1
+very_good	1
 truly_beautiful	1
 as_good	1
-very_good	1
+now_mindful	1
 IN_IN
 on_because	1
 along_with	2
 along_for	1
 WRB_IN
 how_after	1
-VB_``
-do_``	1
-get_``	1
-have_``	1
 TO_NNP
 to_Biaritz	1
 to_Bruce	1
 TO_NNS
 to_people	1
 VBG_DT
-sabotaging_this	1
-playing_all	1
-riding_a	1
 surfing_the	1
+playing_all	1
+thinking_this	1
+riding_a	1
+sabotaging_this	1
 riding_the	1
 watching_this	1
 capturing_the	2
 RB_PRP
 now_I	1
 anytime_I	1
+enough_it	1
 then_you	1
 VBZ_PRP
 makes_it	1
@@ -1864,11 +1816,6 @@ VBZ_PDT
 is_all	1
 NN_RBR
 tad_better	1
-``_JJ
-``_Classic	1
-``_endless	1
-VB_''
-have_''	1
 NNP_IN
 August_in	1
 Weaver_from	1
@@ -1879,8 +1826,6 @@ O'Connell_from	1
 Moon_with	1
 Wizard_of	1
 Coronas_with	1
-FW_,
-rica_,	1
 RB_NNS
 too_guys	1
 IN_VBG
@@ -1897,34 +1842,26 @@ of_surfing	1
 after_playing	1
 of_capturing	2
 while_watching	1
-,_PRP
-,_it	2
-,_myself	1
-,_you	2
 CC_JJR
 or_less	1
 IN_VBN
 since_purchased	1
-``_MD
-``_must	1
 VBG_.
 vacationing_.	1
-,_RBR
-,_more	1
-VBG_,
-thinking_,	1
 JJ_CC
+original_but	1
 innocent_and	1
+blasphemy_but	1
 goofy_and	1
 original_and	1
+beautiful_and	1
 original_or	1
 incredible_and	1
 long_and	1
 reserved_but	1
 likable_and	1
-TO_NN
-to_surf	2
-to_grace	1
+FW_CC
+bikinis_or	1
 JJ_CD
 original_1964	1
 entertaining_35mm	1
@@ -1937,8 +1874,9 @@ POS_NN
 's_surfing	1
 's_footwork	1
 's_night	1
-FW_CC
-bikinis_or	1
+TO_NN
+to_surf	2
+to_grace	1
 CD_NNS
 four_years	1
 30_years	1
@@ -1981,12 +1919,8 @@ NNS_MD
 surfers_can	1
 people_would	1
 viewers_may	1
-NNP_``
-Robert_``	1
 TO_RB
 to_just	1
-VBN_''
-stoked_''	1
 RBR_IN
 better_than	2
 RB_IN
@@ -2031,46 +1965,17 @@ are_now	1
 JJ_VBZ
 good_is	1
 ugly_is	1
-''_NNP
-''_NOT	1
-''_Weaver	1
-NNP_,
-Point_,	2
-Zulu_,	1
-Matthews_,	1
-Bruce_,	1
-Hamilton_,	1
-France_,	1
-Slater_,	1
-Lopez_,	1
-Curren_,	1
-I_,	1
-Alaska_,	1
-Biaritz_,	1
-Wingnut_,	1
-Pat_,	1
-Good_,	1
-January_,	1
-CA_,	2
-Hawaii_,	1
 CD_JJ
 !!_Unforgiveable	1
 two_young	1
-NNP_.
-Oz_.	1
-OUT_!	1
-Ugly_.	1
-Bay_?	1
-Whitmore_.	1
-Dale_.	1
-SO_!	1
-Fr_.	1
-dvdplanet.com_.	1
-Grrrrrrr_.	1
-Cruz_.	1
+VBD_EX
+was_there	1
 JJ_VBP
 many_think	1
+FW_NN
+rica_france	1
 JJ_VBN
+present_stoked	1
 modern_updated	1
 VBG_NN
 pumping_sport	1
@@ -2083,15 +1988,10 @@ VHS_-	1
 Line_:	1
 JJ_VBD
 many_thought	1
-RB_VBP
-highly_recommend	1
-still_love	1
-just_wish	1
-HIGHLY_recommend	1
-elsewhere_are	1
-really_love	1
-Now_watch	1
-still_think	1
+PRP_DT
+it_the	1
+themselves_the	1
+it_a	1
 JJ_PRP$
 worth_your	1
 VBZ_.
@@ -2115,10 +2015,6 @@ WRB_JJ
 how_different	1
 how_many	1
 when_many	1
-,_CC
-,_and	20
-,_or	3
-,_but	8
 VB_NN
 Please_note	1
 find_luxury	1
@@ -2129,24 +2025,8 @@ NN_WP
 anybody_who	1
 anyone_who	1
 surfer_who	1
-NN_VBZ
-soundtrack_is	1
-special_is	1
-humour_is	1
-movie_does	1
-video_has	1
-humor_is	1
-movie_captures	1
-bad_is	1
-movie_is	5
-DVD_comes	1
-film_follows	1
-movie_flows	1
-film_is	1
-music_is	1
-footage_is	1
-soundtrack_fits	1
-place_has	1
+PRP_TO
+us_to	1
 NNS_VBP
 surfers_are	1
 things_are	1
@@ -2177,6 +2057,8 @@ surfers_doing	1
 dudes_attempting	1
 events_going	1
 surfers_riding	1
+PRP_NNP
+it_NOT	1
 NNS_VBN
 others_involved	1
 locations_visited	1
@@ -2190,12 +2072,6 @@ POS_JJ
 's_Dark	1
 's_narrative	1
 's_corporate	1
-VBN_``
-called_``	1
-''_IN
-''_for	1
-''_while	1
-''_of	1
 VBD_VBN
 was_made	1
 was_disheartened	1
@@ -2226,6 +2102,8 @@ updated_feel	1
 NNP_RB
 Weaver_ever	1
 'd_just	1
+Alaska_never	1
+France_just	1
 NNP_VBP
 Weaver_are	1
 Australia_are	1
@@ -2269,6 +2147,8 @@ NNP_VBG
 Wingnut_tromping	1
 NNP_VBD
 Robert_did	1
+NNP_VBN
+Revisited_associated	1
 NNP_POS
 Hollywood_'s	1
 Brown_'s	1
@@ -2276,24 +2156,28 @@ Floyd_'s	1
 Wingnut_'s	1
 Pat_'s	1
 NN_RB
-orginal_still	1
+ocean_then	1
 scene_here	1
 film_rarely	1
 wave_too	1
 movie_ever	2
 air_anytime	1
 movie_perfectly	1
+orginal_still	1
 car_there	1
 DVD_now	1
+content_not	1
 sountrack_as	1
 video_ever	1
 JJ_IN
 Simple_as	1
 great_at	1
 everyday_for	1
-responsible_for	1
+bad_because	1
+special_since	1
 true_behind	1
 fresh_from	1
+responsible_for	1
 reminiscent_of	1
 first_as	1
 excited_about	1
@@ -2306,16 +2190,12 @@ cheesy_that	1
 ironic_than	1
 mindful_of	1
 such_as	1
-VBG_JJ
-surfing_low	1
+NNS_NN
+scenes_production	1
 JJS_VBP
 most_do	1
-TO_``
-to_``	1
 NN_RP
 time_around	1
-IN_:
-by_...	1
 VBZ_DT
 conveys_the	1
 's_a	3
@@ -2349,11 +2229,10 @@ is_Bruce	1
 VBP_NN
 think_surfing	1
 want_adventure	1
-,_JJS
-,_most	1
 VB_CC
 be_and	1
 NNP_DT
+CA_this	1
 Walter_the	1
 JJS_NN
 coolest_movie	1
@@ -2371,18 +2250,6 @@ off_by	1
 off_that	1
 VBN_NNS
 spoiled_surf-brats	1
-,_NNP
-,_Tommy	1
-,_Wingnut	1
-,_CHECK	1
-,_O'Connell	1
-,_Pat	1
-,_Shane	1
-,_Fr	1
-,_The	1
-,_Walter	1
-,_CA	2
-,_Kelly	1
 CC_NNP
 and_Robert	3
 &_The	1
@@ -2395,13 +2262,21 @@ ending_waves	1
 looking_girls	1
 surfing_movies	1
 catching_waves	1
-,_NNS
-,_charactors	1
-,_sights	1
 DT_TO
 all_to	1
-VBD_EX
-was_there	1
+NNP_.
+Oz_.	1
+OUT_!	1
+Dale_.	1
+Revisited_.	1
+Bay_?	1
+Whitmore_.	1
+Ugly_.	1
+SO_!	1
+Fr_.	1
+dvdplanet.com_.	1
+Grrrrrrr_.	1
+Cruz_.	1
 JJ_NN
 full_essence	1
 third_installment	1

@@ -79,10 +79,6 @@ RB_VB
 n't_understand	1
 n't_have	1
 not_bog	1
-PRP_,
-it_,	1
-MD_VB
-might_like	1
 CC_VBZ
 and_keeps	1
 POS_CC
@@ -103,8 +99,7 @@ did_n't	1
 was_n't	1
 NN_DT
 point_the	1
-RB_,
-However_,	1
+trunk_the	1
 POS_TO
 's_to	1
 VBN_IN
@@ -112,36 +107,36 @@ made_in	1
 NNS_.
 scenes_.	1
 scrolls_.	1
-NNS_,
-media_,	1
 VBD_RP
 recorded_off	1
 NNS_TO
 movies_to	1
+VBN_NN
+titled_Desert	1
 JJ_NNS
 even_scrolls	1
-,_PRP
-,_you	1
 VB_VB
 Please_realize	1
 JJ_NNP
 early_Wayne	1
 IN_WP
 of_what	1
-,_CC
-,_and	1
 VB_NN
 understand_half	1
 have_TV	1
 NN_NNS
 action_scenes	1
 chase_scenes	1
+RB_NNS
+However_times	1
 IN_JJS
 at_least	1
+NN_PRP
+movie_you	1
 RB_CC
 down_and	1
-,_DT
-,_the	1
+MD_VB
+might_like	1
 NNS_VBP
 times_have	1
 IN_CD
@@ -159,8 +154,8 @@ NNS_VBD
 b-westerns_were	1
 UH_.
 Yes_.	1
-EX_VBP
-there_are	1
+NNS_JJ
+media_okay	1
 VBP_DT
 are_some	1
 accept_the	1
@@ -172,11 +167,6 @@ these_b-westerns	1
 these_movies	1
 IN_NNS
 of_media	1
-VBN_``
-titled_``	1
-,_JJ
-,_okay	1
-,_excellent	1
 DT_JJ
 some_good	2
 another_early	1
@@ -188,14 +178,6 @@ VBD_VBN
 were_made	1
 VBD_DT
 found_these	1
-._''
-._''	1
-NN_,
-trunk_,	1
-plot_,	1
-movie_,	1
-``_NN
-``_Desert	1
 NN_.
 Trail_.	1
 entertainment_.	1
@@ -237,6 +219,8 @@ NN_VBZ
 sound_is	1
 movie_is	1
 westrern_has	1
+PRP_CC
+it_and	1
 TO_IN
 to_at	1
 NN_RB
@@ -245,7 +229,10 @@ doe_not	1
 JJ_IN
 excellent_for	1
 bad_though	1
+EX_VBP
+there_are	1
 NN_JJ
+plot_excellent	1
 film_even	1
 gimmick-a_hollow	1
 VBZ_DT
@@ -283,8 +270,6 @@ bog_down	1
 be_extremely	1
 VBD_NN
 was_king	1
-,_NNS
-,_times	1
 VBZ_IN
 is_that	1
 sounds_like	1
