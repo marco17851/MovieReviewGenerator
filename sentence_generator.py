@@ -172,7 +172,8 @@ def transitions(productID):
 
 """
 # Function: getWordFromUnigramEmissions(ID, pos)
-# Input: 
+# Input: ID: Product ID specifying the reviews from which to select the word
+        pos: the part of speech of the returned word
 
 # Description: 
 """
@@ -222,7 +223,7 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
     sentences = []
     arpa_dict = transitions(productID)
 
-    for i in range(1):
+    for i in range(10):
 
         sentence = ''
         curr_key = '<s>'
