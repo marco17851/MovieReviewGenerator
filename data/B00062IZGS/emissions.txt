@@ -26,8 +26,6 @@ FW
 VERSION	1
 !!!	2
 AROUND	1
-``
-``	4
 VBN
 amputated	1
 lost	1
@@ -42,11 +40,6 @@ learned	1
 severed	4
 saved	1
 told	1
-POS
-'s	2
-'	1
-''
-''	4
 VBP
 purchase	1
 look	1
@@ -267,8 +260,9 @@ went	1
 seemed	1
 was	4
 happened	1
-,
-,	39
+POS
+'s	2
+'	1
 .
 !	5
 ?	9

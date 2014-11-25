@@ -1,3 +1,5 @@
+POS_NNP
+'s_Surf	1
 VBN_VBZ
 covered_is	1
 MD_RB
@@ -19,8 +21,6 @@ VBG_.
 saying_!	1
 WDT_MD
 that_can	1
-''_.
-''_.	1
 WRB_TO
 how_to	2
 TO_NN
@@ -47,8 +47,6 @@ this_DVD	1
 a_sequence	1
 DT_VBZ
 this_is	1
-``_NNP
-``_Surf	1
 PRP_VBP
 they_'re	1
 RB_DT
@@ -70,6 +68,8 @@ n't_require	1
 only_present	1
 PRP_.
 it_.	1
+NNP_.
+Coast_.	1
 PRP$_NN
 your_money	1
 VB_IN
@@ -120,8 +120,6 @@ VB_.
 bother_.	1
 VBP_VBG
 're_saying	1
-POS_``
-'s_``	1
 JJ_TO
 difficult_to	1
 JJS_IN
@@ -135,8 +133,6 @@ topics_such	1
 NN_NN
 video_format	1
 surf_cast	1
-NNP_''
-Coast_''	1
 DT_NNS
 the_fifties	1
 IN_NNS

@@ -7,15 +7,13 @@ NNS_IN
 borders_on	1
 VBN_CC
 paced_and	1
-RB_VBZ
-just_loves	1
 PRP_:
 it_;	1
-,_NN
-,_life	1
 NN_VBZ
 voice_is	1
 bunny_is	1
+JJ_DT
+darn_that	1
 VBP_IN
 think_in	1
 VBZ_JJ
@@ -24,16 +22,13 @@ EX_POS
 there_'s	1
 CC_NN
 and_gosh	1
-,_DT
-,_that	1
 NN_JJ
 gosh_darn	1
-PRP_VBP
-I_have	1
-I_think	1
-JJ_,
-archaic_,	1
-darn_,	1
+NN_NNS
+life_lessons	1
+animation_borders	1
+RB_VBZ
+just_loves	1
 :_IN
 ..._like	1
 RB_JJ
@@ -42,6 +37,8 @@ VBP_DT
 have_an	1
 JJR_VBN
 slower_paced	1
+NN_NN
+math_life	1
 IN_PRP
 because_it	1
 WP_RB
@@ -51,18 +48,16 @@ POS_JJ
 JJ_:
 soothing_...	2
 cute_...	1
+JJ_EX
+archaic_there	1
 CC_DT
 and_the	1
 POS_NN
 's_voice	1
 RB_JJR
 much_slower	1
-,_EX
-,_there	1
 DT_JJ
 an_autistic	1
-NN_IN
-part_because	1
 JJ_JJ
 put-mom-to-sleep_soothing	1
 VBZ_PRP
@@ -78,20 +73,20 @@ the_animation	1
 that_bunny	1
 IN_DT
 While_the	1
-NN_,
-math_,	1
-NN_NNS
-life_lessons	1
-animation_borders	1
+IN_JJ
+on_archaic	1
+like_put-mom-to-sleep	1
+PRP_VBP
+I_have	1
+I_think	1
 PRP_VBZ
 it_'s	1
-NN_WP
-son_who	1
+NN_IN
+part_because	1
 NNS_CC
 lessons_and	1
 JJ_NN
 simple_math	1
 autistic_son	1
-IN_JJ
-on_archaic	1
-like_put-mom-to-sleep	1
+NN_WP
+son_who	1

@@ -14,10 +14,6 @@ was	6
 played	1
 VBN
 made	1
-POS
-'s	1
-''
-''	3
 VBP
 set	1
 love	1
@@ -81,8 +77,8 @@ brother	2
 cheapie	1
 time	1
 interplay	1
-,
-,	4
+POS
+'s	1
 .
 !	2
 .	8
@@ -121,8 +117,11 @@ Tab	4
 Yvonne	2
 John	1
 George	3
-``
-``	3
+VB
+be	1
+save	1
+think	1
+Tab	1
 WRB
 when	2
 CC
@@ -154,8 +153,3 @@ could	1
 might	1
 JJS
 least	1
-VB
-be	1
-save	1
-think	1
-Tab	1

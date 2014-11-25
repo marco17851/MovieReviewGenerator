@@ -4,13 +4,10 @@ IN_NN
 on_top	1
 from_drug	1
 than_nothing	1
-,_IN
-,_though	1
-,_if	1
 NNS_WDT
 Submissions_that	1
-NNP_VB
-Fine_Print	1
+NNP_WDT
+Hunter_which	1
 EX_MD
 there_would	1
 VBN_VBG
@@ -28,8 +25,6 @@ PDT_DT
 half_the	1
 RB_.
 here_.	1
-,_PRP
-,_it	1
 VBZ_JJ
 's_ridiculous	1
 's_full	1
@@ -42,8 +37,6 @@ NNS_DT
 episodes_each	1
 JJ_CD
 first_two	2
-CD_,
-two_,	1
 CC_CD
 and_'91	1
 and_30	1
@@ -134,8 +127,6 @@ IN_PRP$
 in_our	1
 in_Your	1
 with_your	1
-NNP_,
-Hunter_,	1
 NNP_.
 Policy_.	1
 Stuff_?	1
@@ -160,8 +151,8 @@ did_n't	1
 NN_DT
 Return_an	1
 feeling_the	1
-RB_,
-Still_,	1
+NNS_VBP
+reviews_are	1
 VBN_IN
 posted_within	1
 NNS_.
@@ -185,17 +176,14 @@ VBZ_IN
 consists_of	1
 JJR_IN
 better_than	1
-,_CC
-,_but	1
 NN_NNS
 license_terms	1
 drug_dealers	1
 shipping_rates	1
 business_days	1
 review_guidelines	1
-NNP_PRP$
-Track_your	1
-Forgot_your	1
+DT_VB
+each_mind	1
 VBZ_JJR
 's_better	1
 CC_NNPS
@@ -231,8 +219,6 @@ might_have	1
 must_have	1
 would_have	1
 will_display	1
-NNS_VBP
-reviews_are	1
 VB_VBN
 have_been	1
 have_done	1
@@ -260,9 +246,8 @@ VBN_.
 posted_.	1
 WRB_POS
 Where_'s	1
-JJ_TO
-able_to	1
-subject_to	1
+JJ_JJR
+few_more	1
 NNS_VBN
 terms_set	1
 VBP_NNP
@@ -273,8 +258,6 @@ NN_NN
 Help_department	1
 *_Visit	1
 gift_certificate	1
-,_WDT
-,_which	1
 DT_NNS
 the_people	1
 IN_NNS
@@ -284,23 +267,20 @@ of_City	1
 of_Use	1
 DT_NNP
 The_Fine	1
-,_EX
-,_there	1
 DT_JJ
 A_few	1
 the_usual	1
 this_nagging	1
 the_first	2
+NNP_VB
+Fine_Print	1
 VBD_DT
 had_this	1
 NNS_CC
 rates_&	1
-JJ_JJR
-few_more	1
-NN_,
-show_,	1
-nothing_,	1
-location_,	1
+JJ_TO
+able_to	1
+subject_to	1
 TO_CD
 to_seven	1
 NN_.
@@ -312,9 +292,11 @@ potential_.	1
 review_.	2
 department_.	1
 NN_IN
+information_with	1
 top_of	1
 amount_of	1
-information_with	1
+location_if	1
+nothing_though	1
 VBN_PRP
 provided_us	1
 WDT_VBZ
@@ -332,6 +314,7 @@ dollars_for	1
 collections_like	1
 NN_CC
 nickname_and	1
+show_but	1
 Name_and	1
 WDT_VBP
 that_do	1
@@ -340,12 +323,12 @@ TO_VB
 to_buy	1
 NN_VBD
 season_did	1
-,_VB
-,_mind	1
 CD_MD
 '91_must	1
 RB_RB
 not_even	1
+CD_EX
+two_there	1
 SYM_NN
 *_Return	1
 NNPS_SYM
@@ -354,8 +337,6 @@ NN_RB
 item_here	1
 CC_NNS
 &_policies	1
-DT_,
-each_,	1
 VBP_VBN
 have_provided	1
 CD_NN
@@ -364,6 +345,9 @@ NNP_NNP
 Returns_Policy	1
 City_Hunter	3
 My_Stuff	1
+NNP_PRP$
+Track_your	1
+Forgot_your	1
 NN_PRP$
 Visit_our	1
 VB_PRP
@@ -377,6 +361,7 @@ VB_CC
 Redeem_or	1
 RB_PRP
 Now_they	1
+Still_it	1
 VBN_NNS
 submitted_reviews	1
 VB_RB

@@ -1,8 +1,6 @@
 VB_IN_DT
 realize_that_this	1
 sit_through_the	1
-DT_NNS_,
-the_kiddies_,	1
 NNPS_NNP_WRB
 Brothers_Studio_where	1
 CC_IN_DT
@@ -14,8 +12,8 @@ Bunny_calls_Granny	1
 Granny_thinks_Bugs	1
 NNP_MD_VB
 Bunny_would_be	1
-,_DT_NNS
-,_all_gunshots	1
+NN_JJ_.
+TV_Special_.	1
 NNP_NNP_CD
 Le_Pew_7	1
 NNP_NNP_CC
@@ -25,13 +23,15 @@ Daffy_Daffy_&	1
 Anonymous_Tweety_&	1
 PRP$_NNS_.
 his_cartoons_.	1
+UH_CC_IN
+Oh_and_since	1
 JJ_NN_CD
 Hillbilly_Hare_3	1
 NNP_CD_NNP
 Seville_8_Foghorn	1
 Sylvester_5_Birds	1
-UH_,_CC
-Oh_,_and	1
+DT_VBD_IN
+this_was_for	1
 NNS_CC_NNS
 filmings_&_screenings	1
 CD_NNS_IN
@@ -45,12 +45,10 @@ SYM_RB_JJ
 *_almost_complete	1
 CD_IN_JJ
 6_For_Scent-Imental	1
-VBZ_JJ_RB
-is_weak_well	1
-NNS_,_DT
-kiddies_,_all	1
-NNS_,_VBG
-cartoons_,_using	1
+:_CD_NNP
+:_1_Knighty	1
+VBZ_RB_JJ
+is_pretty_poor	1
 VBN_IN_NN
 directed_by_veteran	1
 DT_NN_.
@@ -73,24 +71,20 @@ about_3_minutes	1
 from_10_cartoons	1
 NN_VBZ_RB
 animation_is_pretty	1
+NN_IN_PRP
+substitute_so_she	1
 TO_VB_PRP
 to_tell_her	1
-CD_NNS_,
-10_cartoons_,	1
 IN_NNP_LS
 for_Bugs_4	1
 VBZ_NNP_TO
 calls_Granny_to	1
-JJ_NN_,
-good_substitute_,	1
 NNP_NNS_VBN
 Cartoon_clips_used	1
 JJ_NN_.
 new_animation_.	1
 VB_DT_JJ
 be_a_good	1
-RB_DT_NN
-only_the_ending	1
 VBG_RB_IN
 using_only_about	1
 TO_VB_NNP
@@ -132,8 +126,8 @@ VBN_CD_NNS
 gotten_5_stars	1
 POS_JJ_NN
 's_vocal_work	1
-NN_VBZ_JJ
-work_is_weak	1
+JJ_NN_IN
+good_substitute_so	1
 IN_IN_DT
 out_of_the	1
 JJ_NN_VBZ
@@ -146,16 +140,14 @@ NOT_by_Warner	1
 Rabbit_Of_Seville	1
 NN_VBD_VBN
 material_was_produced	1
-:_CD_NNP
-:_1_Knighty	1
 VBZ_JJ_TO
 is_hard_to	1
 NN_DT_NNP
 reason_the_Easter	1
-DT_VBD_IN
-this_was_for	1
 NN_NNS_TO
 minute_segments_to	1
+JJ_NN_VBD
+poor_material_was	1
 NNP_NN_CD
 Leghorn_cartoon_9	1
 VBZ_JJ_CC
@@ -205,8 +197,6 @@ CD_NNP_NNP
 9_Robin_Hood	1
 VBZ_RB_TO
 goes_down_to	1
-RB_JJ_,
-almost_complete_,	1
 VBN_VBN_IN
 been_edited_out	1
 VBN_TO_VB
@@ -222,12 +212,10 @@ It_would_have	1
 she_must_sit	1
 VBZ_VBN_VBN
 has_been_removed	1
-,_IN_PRP
-,_so_she	1
+NNP_NNP_MD
+Bugs_Bunny_would	1
 IN_NNP_IN
 by_Warner_for	1
-,_VBG_RB
-,_using_only	1
 PRP_VBZ_JJ
 It_is_hard	1
 he_is_sick	1
@@ -243,8 +231,10 @@ CC_NNP_CD
 &_Sylvester_6	1
 NNP_POS_NNP
 Tweety_'s_Circus	1
-NN_,_IN
-substitute_,_so	1
+CC_NNP_POS
+&_Mel_'s	1
+RB_DT_NN
+only_the_ending	1
 NNP_VBP_VBN
 Fudd_have_been	1
 NN_VBZ_VBN
@@ -257,8 +247,8 @@ segway_back_to	1
 NN_CD_NNP
 cartoon_9_Robin	1
 Hare_3_Bully	1
-CC_NNP_POS
-&_Mel_'s	1
+NNS_VBG_RB
+cartoons_using_only	1
 LS_JJ_NN
 2_Hillbilly_Hare	1
 CD_NN_NNS
@@ -288,19 +278,21 @@ of_Looney_Tunes	1
 by_Elmer_Fudd	1
 MD_VB_IN
 must_sit_through	1
-VBZ_RB_JJ
-is_pretty_poor	1
-JJ_NN_VBD
-poor_material_was	1
+VBZ_JJ_RB
+is_weak_well	1
+NN_VBZ_JJ
+work_is_weak	1
 MD_VB_VBN
 would_have_gotten	1
+RB_JJ_RB
+almost_complete_only	1
 RB_TO_DT
 back_to_the	1
 down_to_the	1
 PRP_VBZ_RB
 she_goes_down	1
-NN_JJ_.
-TV_Special_.	1
+CD_NNS_VBG
+10_cartoons_using	1
 NNS_IN_NNP
 gunshots_by_Elmer	1
 screenings_of_Looney	1
@@ -320,20 +312,18 @@ VB_NNP_NNP
 distribute_Easter_Eggs	1
 JJ_NNS_NNP
 Scent-Imental_Reasons_Pepe	1
+DT_NNS_DT
+the_kiddies_all	1
 DT_NNS_IN
 all_gunshots_by	1
 VBZ_VBN_RP
 is_made_up	1
 DT_JJ_NNS
 the_various_filmings	1
-,_RB_DT
-,_only_the	1
 IN_DT_JJ
 For_some_unexplained	1
 through_the_various	1
 that_this_poor	1
-,_CC_IN
-,_and_since	1
 IN_PRP_VBZ
 that_he_is	1
 so_she_goes	1
@@ -343,8 +333,6 @@ DT_NNS_VBD
 the_cartoons_were	1
 VBN_IN_IN
 edited_out_of	1
-JJ_,_RB
-complete_,_only	1
 NNP_SYM_RB
 Porky_*_almost	1
 TO_VB_PRP$
@@ -377,6 +365,8 @@ IN_:_CD
 from_:_1	1
 NNS_VBZ_VBG
 Bugs_is_filming	1
+NNS_DT_NNS
+kiddies_all_gunshots	1
 NNP_LS_NNP
 Bugs_4_Tweety	1
 CC_NNP_NNP
@@ -395,12 +385,12 @@ VB_PRP_IN
 tell_her_that	1
 VBZ_NNP_NNP
 thinks_Bugs_Bunny	1
+JJ_RB_DT
+complete_only_the	1
 NNP_IN_DT
 Warner_for_the	1
 TO_VB_RB
 to_segway_back	1
-NNP_NNP_MD
-Bugs_Bunny_would	1
 VBN_RP_IN
 made_up_from	1
 JJ_NN_DT

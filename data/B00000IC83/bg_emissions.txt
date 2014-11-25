@@ -7,8 +7,8 @@ RB_NNP
 especially_Jesus	1
 NN_CC
 idea_and	1
-,_RB
-,_especially	1
+NN_VBD
+jesus_did	1
 NN_VBZ
 DVD_is	1
 RB_RB
@@ -17,6 +17,8 @@ VBP_RB
 'm_not	1
 NNP_POS
 Jesus_'	1
+NN_RB
+part_especially	1
 CC_NN
 and_messange	1
 VBZ_DT
@@ -40,8 +42,6 @@ POS_NN
 '_miracle	1
 DT_JJ
 a_small	1
-NN_VBD
-jesus_did	1
 VBZ_RB
 is_very	1
 DT_NN
@@ -49,8 +49,6 @@ The_DVD	1
 the_bible	1
 a_pharisee	1
 no_idea	1
-NN_,
-part_,	1
 NN_.
 jesus_.	1
 pharisee_.	1

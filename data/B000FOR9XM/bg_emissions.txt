@@ -1,3 +1,5 @@
+POS_NNP
+'s_Razumovsky	1
 IN_NN
 of_intimacy	1
 by_movement	1
@@ -7,19 +9,20 @@ like_mine	1
 from_instrument	1
 of_intonation	1
 of_costume	1
-,_IN
-,_like	1
-,_in	1
-,_near	1
 POS_NNS
 '_members	1
 VBG_VBN
 being_delighted	1
 getting_used	1
+NNP_IN
+House_near	1
+Razumovsky_in	1
 DT_NNS
 the_climaxes	1
 the_performances	1
 the_others	1
+VBG_CC
+preaching_and	1
 CC_JJ
 and_clear	1
 and_warm	1
@@ -48,16 +51,18 @@ listener_to	1
 VBN_.
 played_.	1
 overdone_.	1
-VBN_,
-played_,	1
-VBG_,
-preaching_,	1
+IN_VBP
+as_are	1
 JJ_CC
 candid_and	1
+brilliant_and	1
 good_and	1
+great_but	1
 friendly_and	1
 JJ_CD
 small_13	1
+CC_VBG
+but_satisfying	1
 PRP$_JJ
 their_ridiculous	1
 my_favorite	1
@@ -70,10 +75,8 @@ What_really	1
 VBZ_CD
 performs_three	1
 is_one	1
-''_,
-''_,	2
-,_NN
-,_everything	1
+POS_NN
+'s_Death	1
 :_NNP
 :_Haydn	1
 TO_NN
@@ -107,8 +110,9 @@ RP_.
 out_.	1
 DT_VBG
 some_getting	1
-``_NNP
-``_Razumovsky	1
+VBG_RB
+working_together	1
+satisfying_nonetheless	1
 PRP_VBP
 they_toss	1
 I_'m	1
@@ -120,26 +124,20 @@ they_are	1
 They_are	3
 I_hear	1
 I_guess	1
-RB_,
-together_,	1
-well_,	1
+VBZ_RP
+stands_out	1
 RB_DT
 exactly_the	1
 not_the	1
 PRP_VBZ
 He_is	1
-JJ_,
-brilliant_,	1
-great_,	1
-clear_,	1
+NNP_CC
+Maiden_and	1
 RB_IN
 just_as	1
 even_on	1
 forth_from	1
 there_with	1
-,_RB
-,_very	1
-,_even	1
 VBP_PRP
 guess_we	1
 CC_PRP
@@ -152,8 +150,11 @@ appear_so	1
 are_enough	1
 are_not	1
 'm_right	1
-``_DT
-``_The	1
+RB_VB
+also_tell	1
+not_imagine	1
+n't_leave	1
+n't_go	1
 PRP_.
 them_.	1
 CC_VBP
@@ -161,17 +162,6 @@ and_want	1
 and_are	1
 and_smile	1
 and_have	1
-NN_,
-clarity_,	1
-composer_,	1
-TV_,	2
-excitement_,	1
-playing_,	1
-beauty_,	1
-NNP_,
-House_,	1
-Razumovsky_,	1
-Edinburgh_,	1
 CD_JJ
 three_famous	1
 NNP_.
@@ -183,15 +173,11 @@ PRP$_NN
 their_choice	1
 their_presentation	1
 their_playing	1
-CC_VBG
-but_satisfying	1
+JJ_RB
+clear_even	1
 VB_IN
 go_into	1
 tell_by	1
-VBZ_RP
-stands_out	1
-,_''
-,_''	1
 JJ_.
 distracting_.	1
 excellent_.	1
@@ -207,25 +193,19 @@ savored_until	1
 delighted_by	1
 JJ_IN
 warm_in	1
-NNS_,
-others_,	1
-shots_,	1
-performances_,	2
-comparisons_,	1
-rooms_,	1
 CC_IN
 and_with	1
 NNS_:
 quartets_:	1
 VBZ_PRP$
 is_my	1
+POS_DT
+'s_The	1
 JJ_NNS
 close_shots	1
 slow_movements	1
 large_rooms	1
 various_rooms	1
-,_PRP
-,_I	2
 JJ_JJ
 ridiculous_pouffy	1
 JJ_NNP
@@ -234,9 +214,6 @@ CD_IN
 one_of	1
 NNS_DT
 players_all	1
-,_CC
-,_and	8
-,_but	5
 VB_NN
 imagine_anyone	1
 UH_RB
@@ -245,6 +222,7 @@ NN_NNS
 movement_comparisons	1
 Quartet_members	1
 NN_NNP
+Bird_Schubert	1
 violist_Roger	1
 PRP$_NNS
 their_interviews	1
@@ -253,6 +231,7 @@ and_beauty	1
 and_ensemble	1
 NN_PRP
 gospel_they	1
+playing_I	1
 everything_I	1
 IN_RB
 until_exactly	1
@@ -261,6 +240,7 @@ the_cleanest	1
 VBP_JJ
 are_great	1
 RB_CC
+together_and	1
 back_and	1
 VBP_IN
 talk_about	1
@@ -283,8 +263,6 @@ You_can	1
 I_can	1
 VBD_PRP$
 was_their	1
-,_DT
-,_the	1
 VBP_VBN
 are_savored	1
 NNP_VBZ
@@ -293,14 +271,10 @@ CC_RB
 and_very	1
 and_forth	1
 but_never	1
-POS_``
-'s_``	3
 VBP_NNS
 toss_phrases	1
 VBP_NNP
 hope_Mr.	1
-IN_VBP
-as_are	1
 EX_VBP
 there_are	1
 VBP_DT
@@ -319,12 +293,11 @@ inch_TV	1
 shirt_getup	1
 TO_.
 to_.	1
-NNP_''
-Maiden_''	1
 VBP_VBG
 enjoy_working	1
 are_preaching	1
 NNS_RB
+rooms_very	1
 Allegros_always	1
 motifs_back	1
 IN_NNS
@@ -336,8 +309,6 @@ DT_NNP
 The_Takacs	2
 the_Maiden	1
 the_Takacs	3
-''_IN
-''_in	1
 DT_JJ
 an_inner	1
 all_candid	1
@@ -349,21 +320,19 @@ the_right	1
 JJS_NNS
 cleanest_performances	1
 NNS_CC
+shots_and	1
+comparisons_but	1
 phrases_and	1
 interviews_and	1
+others_but	1
 VBD_PRP
 irked_me	1
-VBG_RB
-working_together	1
-satisfying_nonetheless	1
 PRP_DT
 we_all	1
 IN_JJ
 in_slow	1
 in_various	1
 with_beautiful	1
-``_NN
-``_Death	1
 NN_.
 getup_.	1
 mine_.	1
@@ -380,25 +349,34 @@ NN_IN
 bit_as	1
 choice_of	1
 group_over	1
+player_as	1
 element_of	1
 DVD_that	1
 movement_by	1
-player_as	1
+TV_like	1
 understanding_of	1
 earth_in	1
+VBN_DT
+played_the	1
 CC_DT
 and_the	3
 NNS_IN
 rooms_of	1
-features_of	1
-terms_of	1
-acoustics_in	1
 climaxes_in	1
+performances_in	1
+features_of	1
+acoustics_in	1
+terms_of	1
 NN_CC
-intimacy_and	1
-Death_and	1
+beauty_and	1
 lighting_and	1
+composer_and	1
+intimacy_and	1
+clarity_but	1
+excitement_and	1
 intonation_and	1
+TV_but	1
+Death_and	1
 TO_VB
 to_be	1
 to_enjoy	1
@@ -410,11 +388,6 @@ Quartet_is	1
 RB_RB
 very_down	1
 right_there	1
-RB_VB
-also_tell	1
-not_imagine	1
-n't_leave	1
-n't_go	1
 NNP_POS
 Takacs_'	1
 Beethoven_'s	1
@@ -428,6 +401,8 @@ he_really	1
 they_really	1
 It_really	1
 it_just	1
+NNS_NN
+performances_everything	1
 VBZ_DT
 takes_some	1
 is_an	1
@@ -440,6 +415,7 @@ NNP_NNP
 Roger_Tapping	1
 Hopetoun_House	1
 Mr._Tapping	1
+Edinburgh_Scotland	1
 RB_VBZ
 really_takes	1
 here_performs	1
@@ -468,19 +444,16 @@ so_committed	1
 never_overdone	1
 NNP_VBD
 Tapping_did	1
-NN_''
-Bird_''	1
 VBG_DT
 watching_this	1
+RB_PRP
+well_I	1
 RB_VBD
 really_irked	1
 VBN_TO
 used_to	1
 CC_MD
 but_can	1
-,_NNP
-,_Scotland	1
-,_Schubert	1
 CC_NNP
 and_Beethoven	1
 CC_NNS

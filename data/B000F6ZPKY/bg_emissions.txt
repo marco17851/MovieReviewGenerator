@@ -10,8 +10,6 @@ as_intent	1
 for_DVD	1
 with_em	1
 FOR_SURE	1
-,_IN
-,_like	1
 POS_NNS
 's_vocals	1
 's_licks	1
@@ -78,14 +76,6 @@ RB_.
 forth_.	1
 there_.	1
 again_!	1
-POS_,
-'s_,	1
-IN_``
-of_`	1
-,_PRP
-,_I	1
-,_you	3
-,_they	2
 VBZ_JJ
 is_perfect	1
 is_double	1
@@ -96,8 +86,8 @@ is_great	2
 is_good-time	1
 is_different	1
 is_unique	1
-VBP_CD
-have_zero	1
+JJS_RB
+best_never	1
 CD_CC
 50_plus	1
 08_and	1
@@ -109,8 +99,6 @@ opportunity_to	1
 something_to	1
 way_to	1
 shoulder_to	1
-JJS_NNS
-most_folks	1
 :_NN
 ..._hey	1
 VBG_NNP
@@ -125,21 +113,19 @@ but_overall	1
 and_well	1
 and_forth	1
 and_again	1
-VBN_,
-been_,	1
-heard_,	1
-compressed_,	1
 RB_:
 too_;	1
 JJ_CC
 uptempo_and	1
+possible_but	1
 clean_and	3
+jazzy_and	1
+muddy_or	1
 live_and	1
-great_and	1
+great_and	2
 smooth_and	1
 talented_and	1
-,_JJ
-,_good	1
+tight_and	1
 IN_VBZ
 as_is	1
 VBP_DT
@@ -205,20 +191,22 @@ with_it	1
 before_you	1
 VBN_CC
 recognized_and	1
+compressed_or	1
+been_but	1
 VBZ_CD
 is_one	1
-''_,
-'_,	1
+VBN_RB
+heard_too	1
 VB_EX
 have_there	1
 NNS_WDT
 Bands_that	1
-,_NN
-,_something	1
 FW_CD
 Audio_3	1
 *****_2	1
 *****_3	1
+WRB_VBP
+Why_are	1
 POS_NN
 's_voice	1
 's_band	1
@@ -226,8 +214,9 @@ POS_NN
 RB_JJR
 little_better	1
 little_more	1
-''_JJS
-'_best	1
+VBP_PRP
+like_it	1
+think_you	1
 TO_NN
 to_film	1
 to_style	1
@@ -250,6 +239,7 @@ ANOTHER_DVD	1
 Texas_style	2
 LONG_OR	1
 Poor_audio	1
+Texas_DVD	1
 WP_JJS
 what_most	1
 VBZ_RB
@@ -273,6 +263,7 @@ this_concert	1
 no_matter	1
 the_band	2
 the_drummer	1
+no_bonus	1
 the_lead	2
 this_disc	1
 a_treat	1
@@ -329,9 +320,6 @@ counterpoints_beautifully	1
 JJR_CC
 less_and	1
 quicker_and	1
-``_NNP
-``_Crazy	1
-``_My	1
 PRP_VBP
 I_'VE	1
 I_'ve	3
@@ -358,6 +346,7 @@ seemingly_no	1
 not_the	1
 also_a	1
 PRP_JJ
+it_good	1
 it_due	1
 PRP$_VBG
 my_growing	1
@@ -369,34 +358,25 @@ It_is	2
 it_gives	1
 it_'s	1
 He_has	1
-IN_JJ
-with_great	1
-above_normal	1
-for_live	1
-in_great	1
-IN_RECENT	1
-for_sure	1
 NNS_MD
 guys_'d	1
 NNP_CC
-Kubek_and	1
-JOE_AND	1
 J_&	1
+JOE_AND	1
+Kubek_and	1
+World_and	1
 Joe_and	1
+Man_and	1
 NNP_CD
 Performance_2	1
-VB_,
-dance_,	1
-live_,	1
 WP_MD
 who_would	1
 NNPS_NNS
 Kings_vocals	1
 PRP_:
 it_;	1
-DT_``
-the_``	1
-no_``	1
+IN_.
+though_.	1
 RB_IN
 easily_in	1
 beautifully_with	1
@@ -409,11 +389,6 @@ still_during	1
 VBG_IN
 hearing_on	1
 being_at	1
-,_RB
-,_never	1
-,_too	2
-,_now	1
-,_not	1
 VBZ_WDT
 IS_THAT	1
 VBZ_NN
@@ -458,8 +433,6 @@ me_.	1
 it_.	2
 EX_:
 there_...	1
-PRP_,
-it_,	2
 VBN_.
 locked_.	1
 IN_PRP$
@@ -471,13 +444,11 @@ of_their	1
 in_my	2
 like_your	1
 in_your	1
-,_WP
-,_what	1
 PRP_VB
+it_settle	1
 it_fill	1
-NNP_,
-King_,	1
-Worth_,	1
+NN_NNP
+DVD_SMOKIN	1
 CD_JJ
 zero_musical	1
 NNP_.
@@ -492,8 +463,6 @@ matter_how	1
 town_where	1
 PRP_RB
 I_even	1
-RB_,
-too_,	2
 NNP_WRB
 Texas_where	1
 IN_IN
@@ -503,7 +472,7 @@ along_with	1
 out_of	1
 because_of	1
 POS_CC
-'s_and	2
+'s_and	3
 PRP$_NN
 your_player	1
 its_rockin	1
@@ -517,6 +486,7 @@ my_bass	1
 your_right	1
 Their_brand	1
 NNP_PRP
+King_you	1
 Wish_I	1
 CC_VBD
 and_allowed	1
@@ -550,13 +520,6 @@ EX_NNS
 there_performances	1
 RB_NN
 else_interview	1
-JJ_,
-jazzy_,	1
-tight_,	1
-small_,	1
-great_,	1
-possible_,	1
-muddy_,	1
 JJ_.
 solid_.	1
 wrong_.	1
@@ -576,6 +539,9 @@ looked_plenty	1
 WAS_N'T	1
 was_n't	1
 NN_DT
+collection_this	1
+house_These	1
+audio_no	1
 band_a	1
 VB_VBN
 be_held	1
@@ -607,13 +573,6 @@ lovers_.	1
 songs_.	1
 drums_.	1
 vocals_.	2
-,_VBN
-,_put	1
-NNS_,
-strats_,	1
-TIMES_,	1
-blues_,	1
-friends_,	1
 TO_DT
 to_these	1
 to_a	2
@@ -630,14 +589,14 @@ call_smooth	1
 are_good	1
 're_tight	1
 are_clean	1
-,_VBZ
-,_is	1
 CC_EX
 And_there	1
 VBN_RP
 lit_up	1
 NNS_TO
 instruments_to	1
+JJR_VBN
+better_put	1
 VBN_NN
 preferred_something	1
 JJ_NNS
@@ -669,10 +628,8 @@ NNS_DT
 guys_a	1
 WRB_JJ
 how_good	1
-,_CC
-,_and	11
-,_or	2
-,_but	4
+VBP_CD
+have_zero	1
 VB_NN
 BE_THERE	1
 back_today	1
@@ -684,10 +641,14 @@ playing_styles	1
 guitar_players	1
 style_blues	2
 DVD_videos	1
+NNS_NNP
+TIMES_BUT	1
 NNS_NNS
 blues_lovers	1
 VBZ_JJS
 does_most	1
+NN_WP
+way_what	1
 WDT_PRP
 THAT_IT	1
 VBP_TO
@@ -716,13 +677,14 @@ and_Blu-ray	2
 and_video	1
 and_bass	1
 but_everyone	1
-WRB_''
-Why_''	1
 VBD_RP
 tracked_down	1
 NN_PRP
-singer_I	1
+music_I	1
+hey_they	1
 SURE_I	1
+singer_I	1
+band_they	1
 film_it	1
 VB_PRP$
 play_my	1
@@ -739,12 +701,14 @@ like_being	1
 PRP_WRB
 Me_Why	1
 JJ_DT
+small_the	1
 good_the	1
 VBG_TO
 listening_to	1
 coming_to	1
 RB_CC
 again_and	1
+too_and	2
 back_and	1
 VBP_IN
 sing_with	1
@@ -770,6 +734,7 @@ CC_FW
 and_Bnois	1
 NN_VBN
 concert_filmed	1
+butt-kickin_set	1
 NNS_VBP
 guys_have	1
 accoustics_are	1
@@ -809,11 +774,8 @@ You_wo	1
 it_should	1
 you_'ll	3
 you_can	2
-,_DT
-,_this	1
-,_These	1
-,_the	1
-,_no	1
+JJR_NNS
+more_shots	1
 VBP_VBN
 have_seen	2
 have_had	1
@@ -836,22 +798,19 @@ VB_.
 get_.	1
 name_.	1
 CC_VB
+and_get	1
 and_rank	1
 and_show	1
 and_feel	1
-and_get	1
+and_Tell	1
 VBP_VBG
 're_coming	1
 're_playing	1
 are_having	1
-IN_.
-though_.	1
 JJ_TO
 due_to	1
 impossible_to	1
 sharp_to	1
-TO_NNP
-to_Vegas	1
 NNS_VBN
 performances_recognized	1
 VBP_NNS
@@ -864,10 +823,6 @@ FW_NNS
 *****_Bands	1
 MD_IN
 must_for	1
-VBG_,
-playing_,	1
-CC_``
-and_``	1
 NN_NN
 fine_jam	1
 band_justice	1
@@ -881,16 +836,15 @@ dance_floor	1
 rhythm_section	2
 lead_guitar	1
 road_house	1
+boost_something	1
 house_band	1
 EVERY_cut	1
 NN_JJR
 OR_MORE	1
 CD_PRP
 !!_I	1
-NNP_''
-Texas_''	1
-Man_'	1
-World_''	1
+POS_JJ
+'_melodious	1
 TO_RB
 to_back	1
 to_finally	1
@@ -926,6 +880,7 @@ in_Fort	1
 DT_NNP
 a_CD	1
 A_HighSierraBassPlayer	1
+the_My	1
 The_Axe	1
 any_Blues	1
 the_J	1
@@ -934,8 +889,6 @@ THE_ONLY	1
 the_CD	1
 JJS_.
 best_!	1
-JJS_,
-best_,	1
 VB_WRB
 know_how	1
 DT_JJ
@@ -973,13 +926,15 @@ allowed_all	1
 owned_a	1
 played_a	1
 bought_the	1
-``_VB
-``_Tell	1
+JJS_NNS
+most_folks	1
 NN_:
 head_...	1
 CD_RB
 I_just	1
 NNS_CC
+friends_and	1
+strats_and	1
 players_and	1
 recordings_and	1
 years_and	1
@@ -988,24 +943,13 @@ licks_and	2
 blues_and	1
 VBD_PRP
 loved_it	1
-NN_,
-audio_,	2
-fan_,	1
-way_,	1
-band_,	1
-music_,	1
-DVD_,	1
-guitar_,	1
-bass_,	1
-hey_,	1
-boost_,	1
-collection_,	1
-performance_,	1
-video_,	1
-house_,	1
-room_,	1
-``_NN
-``_bonus	1
+IN_JJ
+with_great	1
+above_normal	1
+for_live	1
+in_great	1
+IN_RECENT	1
+for_sure	1
 NN_.
 treat_.	1
 band_!	1
@@ -1033,8 +977,6 @@ THERE_!	1
 time_.	1
 :_JJ
 ;_understandable	1
-''_NN
-''_DVD	1
 NN_IN
 interplay_between	1
 brand_of	1
@@ -1046,7 +988,7 @@ iceing_on	1
 copy_of	1
 intent_on	1
 disc_in	1
-form_on	1
+bonus_though	1
 DVD_with	1
 DVD_of	1
 style_as	1
@@ -1057,23 +999,19 @@ STAR_IN	1
 !!!_If	1
 section_in	1
 bass_along	1
+form_on	1
 genre_of	1
 button_with	1
 floor_at	1
-club_except	1
+video_like	1
 work_of	1
+club_except	1
 performance_as	1
 DVD_for	1
 performance_at	1
 rating_of	1
-JJR_NNS
-more_shots	1
-''_VB
-'_cause	1
 VB_WP
 see_what	1
-''_VBN
-'_set	1
 VBN_DT
 had_the	1
 seen_a	1
@@ -1099,19 +1037,24 @@ times_for	1
 IN_TO
 in_to	1
 NNS_PRP
+blues_you	1
 videos_I	1
 years_I	1
 NN_CC
 audio_and	1
 DVD_and	1
+guitar_and	1
+audio_but	1
 drummer_and	1
 fun_and	1
 bar_but	1
 style_and	2
 industry_or	1
 crowd_and	1
+room_but	1
 arse_and	1
 A_+	1
+bass_and	1
 WDT_VBP
 that_wish	1
 VB_JJ
@@ -1129,6 +1072,8 @@ to_say	1
 to_show	1
 to_enjoy	1
 to_get	1
+NN_JJS
+rockin_best	1
 EX_VBZ
 There_is	1
 there_is	1
@@ -1140,7 +1085,7 @@ WP_PRP
 what_you	2
 NN_VBZ
 everyone_is	1
-mix_is	1
+performance_is	1
 quality_is	1
 section_is	1
 cut_is	1
@@ -1148,6 +1093,7 @@ DVD_is	1
 band_is	1
 show_takes	1
 DVD_'S	1
+mix_is	1
 venue_is	1
 voice_is	1
 one_'s	1
@@ -1156,26 +1102,18 @@ version_is	1
 crowd_is	1
 music_is	1
 one_is	1
-,_VB
-,_settle	1
 POS_.
 's_.	3
-''_CC
-''_and	1
 NNP_VBD
 Amazon_had	1
 NEVER_SEEN	1
-PRP_CC
-he_and	1
 VBD_IN
 were_in	1
-''_VBP
-''_are	1
+PRP_CC
+he_and	1
 NN_VBP
 bass_are	1
 video_are	1
-``_DT
-`_The	1
 PRP_CD
 it_!!	1
 DT_JJS
@@ -1188,9 +1126,10 @@ NN_RB
 lead_back	1
 DVD_back	1
 something_else	1
-band_twice	1
-product_highly	1
 right_there	1
+product_highly	1
+band_twice	1
+fan_not	1
 :_:
 ..._...	2
 JJ_IN
@@ -1202,14 +1141,14 @@ normal_for	1
 different_from	1
 tight_on	1
 different_in	1
+NN_VB
+em_cause	1
 DT_.
 all_.	2
 NNS_NN
 fans_cake	1
 blues_singer	1
 blues_DVD	1
-''_IN
-''_though	1
 RB_RB
 up_there	1
 right_up	1
@@ -1238,6 +1177,7 @@ Blues_Fest	1
 Fort_Worth	1
 Paul_Jenkins	1
 AS_THIS	1
+Worth_Texas	1
 COMPLAINT_I	1
 Bnois_King	4
 Smokin_Joe	1
@@ -1303,9 +1243,6 @@ is_your	1
 is_my	1
 makes_his	1
 has_his	1
-VBP_PRP
-like_it	1
-think_you	1
 JJR_.
 better_.	1
 MORE_.	1
@@ -1315,13 +1252,8 @@ simply_locked	1
 never_heard	1
 pretty_packed	1
 highly_recomended	1
-JJR_,
-better_,	1
-NN_''
-rockin_'	1
-em_'	1
-bonus_''	1
-butt-kickin_'	1
+TO_NNP
+to_Vegas	1
 CC_TO
 and_to	1
 RB_VBG
@@ -1345,15 +1277,13 @@ VBN_TO
 liked_to	1
 held_to	1
 VB_RB
+enjoy_again	1
+live_now	1
 have_even	1
 sit_still	1
-enjoy_again	1
+dance_too	1
 CC_MD
 and_ca	1
-,_NNP
-,_SMOKIN	1
-,_Texas	1
-,_BUT	1
 VBD_NN
 saw_nothing	1
 kicked_arse	1
@@ -1365,8 +1295,8 @@ Demand_better	1
 VBZ_IN
 looks_like	1
 'S_IN	1
-POS_JJ
-'_melodious	1
+VBG_PRP
+playing_you	1
 IN_DT
 of_the	5
 As_a	1
@@ -1387,6 +1317,7 @@ except_the	1
 by_the	1
 on_the	2
 from_any	1
+of_The	1
 as_a	2
 from_this	1
 at_the	3

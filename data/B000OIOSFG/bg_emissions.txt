@@ -4,6 +4,7 @@ VBP_TO
 need_to	1
 NNP_CC
 NYC_and	1
+Santana_and	1
 NNS_IN
 faces_in	1
 hits_at	1
@@ -12,6 +13,8 @@ NN_CC
 hip-hop_and	1
 TO_VB
 to_check	1
+NN_PRP
+TV_you	1
 NNP_IN
 Ballroom_in	1
 NN_VBZ
@@ -26,21 +29,14 @@ NNS_WP
 artists_who	1
 IN_VBG
 of_seeing	1
-,_PRP
-,_you	1
 VBZ_JJ
 is_awesome	1
-NNP_,
-Remy_,	1
-Santana_,	1
 JJ_IN
 tired_of	1
 CC_NN
 and_music	1
 and_R&B	1
 and_Ne-Yo	1
-NN_,
-TV_,	1
 VBP_VBN
 are_interviewed	1
 VBP_PRP$
@@ -52,6 +48,7 @@ you_need	1
 I_love	1
 you_are	1
 NNP_NNP
+Remy_Juelz	1
 Roseland_Ballroom	1
 Juelz_Santana	1
 JJ_.
@@ -97,12 +94,10 @@ this_show	1
 the_music	1
 The_Spot	1
 This_video	1
-,_NNP
-,_Juelz	1
 CC_NNS
 and_tears	1
-,_CC
-,_and	1
+IN_JJ
+of_fresh	1
 NN_.
 stage_.	1
 air_.	1
@@ -127,5 +122,3 @@ like_a	1
 up_the	1
 PRP_VBZ
 It_'s	1
-IN_JJ
-of_fresh	1

@@ -6,14 +6,12 @@ NNS	1
 VBN
 NN	1
 IN	1
-,
-PRP	2
 VBP
 DT	1
 JJ	1
 JJ
 NNS	3
-,	1
+PRP	1
 .	1
 WP
 VBZ
@@ -30,9 +28,9 @@ NNP	1
 NN
 MD	1
 RBR	1
-,	1
 .	1
 RB	1
+WP	1
 VBZ	3
 :	1
 POS
@@ -72,8 +70,8 @@ CD
 IN
 PRP$	1
 VBG	1
-,	1
 .	1
+PRP	1
 JJ	2
 IN	1
 DT	2

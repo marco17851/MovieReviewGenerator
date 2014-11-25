@@ -48,6 +48,7 @@ as_art	1
 that_part	1
 than_street	1
 with_bedtime	1
+for_pasupata	1
 in_epic	1
 on_cardboard	1
 on_internet	1
@@ -73,17 +74,25 @@ VBN_VBN
 been_pointed	1
 been_cut	1
 been_called	1
+heard_read	1
 been_compared	1
 been_inundated	1
 been_crafted	1
-VBG_VBN
-being_offered	1
-Being_asked	1
-getting_used	1
-NNS_PRP$
-touches_his	1
+NNP_WDT
+Krishna_which	1
+VBN_VBD
+spoken_amazed	1
+NN_WRB
+movie_when	1
+sea_where	1
+film_where	1
+stage_where	1
+master_why	1
+IDEA_why	1
+fame_when	1
 VBN_VBG
 been_awaiting	1
+destroyed_leaving	2
 VBG_VBD
 acting_was	1
 Having_said	1
@@ -128,16 +137,6 @@ close_to	1
 forward_to	2
 up_to	1
 just_to	2
-VBP_,
-mention_,	1
-IN_``
-as_``	1
-on_``	1
-in_``	1
-as_`	1
-of_``	1
-for_`	1
-since_``	1
 VBP_.
 go_.	1
 understand_.	1
@@ -146,6 +145,10 @@ Fu_master	2
 Sarabhai_saying	1
 VBP_CD
 are_two	2
+VBG_VBN
+being_offered	1
+Being_asked	1
+getting_used	1
 VBP_CC
 form_and	1
 VBP_:
@@ -165,18 +168,17 @@ missed_.	2
 feared_.	1
 grounded_.	1
 recommended_.	1
-VBN_,
-presented_,	1
-destroyed_,	2
-heard_,	1
-spoken_,	1
 VB_JJR
 be_easier	1
 be_worse	1
+NNP_WRB
+Mahabharata_when	1
 WDT_MD
 that_can	1
 that_may	2
 that_will	1
+FW_DT
+i.e._the	1
 VBN_CC
 told_and	1
 designed_and	1
@@ -191,13 +193,16 @@ read_and	1
 angled_and	1
 shocked_and	1
 complicated_and	1
+presented_but	1
 VBZ_CD
 has_zero	1
 does_one	1
 is_325	1
+dies_one	1
 is_one	4
 VBZ_CC
 is_both	1
+requires_and	1
 faces_and	1
 NNS_WDT
 kings_that	2
@@ -221,8 +226,6 @@ down_.	1
 out_.	1
 up_.	1
 off_.	1
-RP_,
-up_,	1
 VBN_JJ
 formed_Western	1
 given_negative	1
@@ -252,33 +255,43 @@ who_says	1
 what_is	2
 who_wants	1
 NNP_CC
-Notes_or	1
 Arjuna_and	2
 BBC_and	1
-Duryodhana_and	1
 Film_and	1
-India_and	1
-English_and	1
-Earth_and	1
-Mount_and	1
-Bhima_and	1
-Brook_and	4
-Trek_or	1
-Mahabharata_and	3
-Carri&egrave;re_and	1
-Draupadi_and	1
-London_and	1
 Karna_and	1
+Mount_and	1
+Trek_or	1
+Notes_or	1
+Carri&egrave;re_and	1
+London_and	1
+Brook_and	4
 Krishna_and	3
+India_but	1
 Iliad_or	1
+Draupadi_and	1
+Bhagavad-Gita_and	1
+Duryodhana_and	1
+India_and	2
+Mahabharata_but	1
+Earth_and	1
+English_and	1
+Space_and	1
+Mahabharata_and	4
+WMD_and	1
+Bhima_and	1
 Mahbharata_and	1
 NNP_CD
-Plan_9	1
+Drama_1988	1
+Music_1987	1
 Brook_eight	1
+Gita_one	1
+Mahabharata_54	1
+Plan_9	1
 DT_PRP
 All_I	1
 this_it	1
 all_it	1
+this_I	1
 VBN_WDT
 asked_which	1
 RP_VBZ
@@ -295,12 +308,15 @@ most_gifted	1
 most_outlandish	1
 most_sacred	1
 most_precious	1
+JJS_CC
+best_and	1
 :_NN
--_theatre	1
 -_interpretation	1
-;_wow	1
-:_screenwriter	1
 ..._etc.	1
+:_screenwriter	1
+-_theatre	1
+;_wow	1
+:_Everything	1
 IN_PRP$
 of_your	1
 At_its	1
@@ -330,15 +346,12 @@ about_his	2
 in_his	1
 with_his	7
 of_its	1
-NNS_''
-talents_'	1
-styles_''	1
 NN_VB
 company_abridge	1
-production_sing	1
+story_get	1
 film_be	1
-TO_CD
-to_one	1
+production_sing	1
+seat_teach	1
 IN_WDT
 upon_which	1
 on_which	2
@@ -386,26 +399,28 @@ your_viewing	1
 my_money	1
 VB_IN
 appear_on	1
-watch_if	1
-speak_about	1
-go_for	1
 reprint_of	1
-say_that	3
-communicate_about	1
-stumble_on	1
-act_with	1
-see_for	1
-perform_on	1
+come_out	1
+hope_that	2
+offer_In	1
 enthrall_with	1
+nurture_within	1
+enter_into	1
+perform_on	1
+stumble_on	1
 play_by	1
+identify_with	1
+watch_if	1
+go_for	1
+act_with	1
+communicate_about	1
+speak_about	1
+say_that	3
+be_in	1
+see_for	1
 love_in	1
 comment_on	2
 sell_in	1
-identify_with	1
-nurture_within	1
-enter_into	1
-come_out	1
-hope_that	2
 JJ_PRP
 disappointed_I	1
 right_she	1
@@ -413,9 +428,6 @@ worth_it	2
 sure_you	1
 sure_it	1
 old_we	1
-,_''
-,_''	2
-,_'	1
 VBD_RB
 did_n't	4
 dropped_dramatically	1
@@ -434,14 +446,24 @@ abandoned_long	1
 was_about	1
 was_already	1
 NN_DT
+life_a	1
+heart_the	1
 sense_the	1
-length_this	1
+action_the	1
+opinion_the	1
+pasupata_the	1
+poem_the	1
 story_some	2
 point_the	1
+beginning_the	1
 breakup_the	1
-movie_a	1
+author_the	1
+story_a	1
+length_this	1
+production_the	1
 context_this	1
-way_the	3
+movie_a	1
+way_the	4
 war_every	2
 VBN_JJR
 presented_quicker	1
@@ -484,14 +506,21 @@ watch_people	1
 get_movies	1
 write_ups	1
 VB_NNP
-depict_Krishna	1
 compare_Peter	1
 wish_Brook	1
+take_Krishna	1
 GET_THIS	1
+depict_Krishna	1
+follow_AND	1
 NNS_NNP
+favorites_Mallika	1
+artists_Peter	1
 actors_India	1
-NNS_NNS
-characters_motives	1
+species_Vyasa	1
+miniseries_THIS	1
+PRP_WP
+you_what	1
+us_who	1
 VBG_JJR
 playing_greater	1
 VBD_JJ
@@ -537,9 +566,7 @@ their_names	1
 PRP$_NNP
 his_Dharma	1
 his_Shakespeare	1
-,_PRP$
-,_his	1
-,_my	1
+his_Mahabharata	1
 IN_RB
 that_much	1
 with_comparatively	1
@@ -594,6 +621,7 @@ two_warring	1
 POS_IN
 's_after	1
 CC_NN
+and_life	1
 and_reed	1
 and_offering	1
 and_subtlety	1
@@ -637,16 +665,6 @@ are_my	1
 create_their	1
 VBN_MD
 hoped_would	1
-VB_,
-act_,	1
-offer_,	1
-follow_,	2
-eachother_,	1
-fight_,	1
-be_,	1
-take_,	1
-enchant_,	1
-think_,	1
 VB_.
 follow_.	1
 co-exist_.	2
@@ -682,16 +700,6 @@ names_sorry	1
 years_old	2
 FW_NNP
 </a>_Poor	1
-NNP_''
-Mahabharata_''	7
-Marat-Sade_''	1
-Jabberwocky_'	1
-Katha_''	1
-Space_''	1
-Mahabbarata_''	1
-Mahabharata_'	2
-Mahabarata_'	1
-Lord_''	1
 DT_NNS
 the_themes	2
 the_families	1
@@ -794,6 +802,7 @@ From_Outer	1
 in_Europe	1
 through_Amazon.com	1
 of_Weapons	1
+in_Amar	1
 by_PBS	1
 of_Hercules	1
 of_Norway	1
@@ -816,6 +825,7 @@ into_English	1
 since_Chopra	1
 than_Brook	1
 from_Peter	1
+since_Plan	1
 by_Toshi	1
 of_Jesus	1
 of_Vishnu	1
@@ -882,6 +892,7 @@ the_East	1
 the_Brook	1
 the_Chopra	1
 the_USA	1
+the_Freddy	1
 the_Bhagavad-Gita	1
 The_Mahabbarata	1
 the_Ganges	1
@@ -889,14 +900,12 @@ this_Video	1
 a_Cliff	1
 some_Darjeeling	1
 the_Bouffes	1
-the_Mahabharata	19
+the_Mahabharata	20
 the_Bible	3
 the_French	1
 VBD_RBR
 were_more	1
 seemed_more	1
-VBZ_''
-means_''	1
 VB_WRB
 forget_when	1
 realize_how	1
@@ -906,6 +915,7 @@ us_home	1
 it_version	1
 NNP_VB
 Brook_speak	1
+Mahabarata_get	1
 VBD_DT
 was_a	2
 saw_this	1
@@ -943,15 +953,20 @@ stories_and	1
 hues_and	1
 colors_and	1
 attributes_and	1
+rivalries_and	1
 DVDs_and	1
+plays_but	1
+thickets_and	1
 drugs_and	1
 years_and	1
-humans_and	1
-brothers_and	2
+lessons_and	1
+brothers_and	3
 intricacies_and	1
 gods_but	1
+years_but	1
+humans_and	1
 preferences_and	1
-times_and	2
+times_and	3
 philosophies_and	1
 characters_and	2
 versions_and	1
@@ -965,12 +980,8 @@ guys_and	1
 princes_and	2
 NNS_CD
 dice_one	1
+performances_two	1
 cheaters_one	1
-,_VB
-,_believe	1
-,_keep	1
-,_get	2
-,_teach	1
 VBN_PRP
 watched_it	1
 loved_it	1
@@ -989,38 +1000,46 @@ emphasize_that	1
 hint_at	1
 are_from	1
 NN_CC
-understanding_and	1
+religion_but	1
+duty_and	2
+destruction_but	1
 rock_and	1
 will_and	2
 continent_and	1
 warning_and	1
 music_and	1
-version_and	1
+day_and	1
 pacing_and	2
+vision_and	1
+group_and	1
 background_or	1
+box_and	1
 production_but	1
 enemy_or	2
 faithful_but	1
+self-importance_but	1
 television_and	1
 story_but	1
+understanding_and	1
 beauty_and	1
 production_and	1
 documentary_and	1
-version_but	1
-depth_and	1
+version_but	2
+liking_and	1
 stage_and	2
-play_and	2
+matter_and	1
 birth_and	1
 mythology_and	1
+escape_and	1
 video_and	1
 war_and	2
 value_and	1
-vision_and	1
+play_and	2
 budget_and	1
 story_and	1
 body_and	1
 house_and	1
-religion_but	1
+DVD_and	1
 material_and	2
 writing_and	1
 documentary_or	1
@@ -1028,30 +1047,41 @@ cold_and	1
 family_and	1
 myth_or	1
 item_and	1
+boring_and	1
 storyline_and	1
-group_and	1
+inaction_and	1
+depth_and	1
 theater_or	1
 culture_and	1
 store_or	1
 royalty_and	1
-series_and	1
+cutting_and	1
+disk_and	1
 intelligence_and	1
 choice_and	1
-film_and	3
+tale_and	1
+film_and	4
+series_and	1
+charioteer_and	1
 anything_but	1
 heart_and	1
 interpretation_and	1
-inaction_and	1
+tea_and	1
+love_and	1
+mix_and	1
 sleepover_and	1
 work_but	1
 toilet_or	1
 water_and	1
 work_and	2
-disk_and	1
+version_and	1
 health_nor	1
 myth_and	1
+year_but	1
+advice_and	1
 directing_and	1
 cast_and	2
+Bourgeoisie_and	1
 search_and	1
 fog_and	1
 enemy_and	1
@@ -1059,6 +1089,8 @@ NN_CD
 watch_one	1
 love_five	1
 year_!!!	1
+JJ_FW
+strange_i.e.	1
 DT_JJS
 the_least	1
 The_largest	1
@@ -1078,15 +1110,21 @@ all_who	1
 WP$_NNS
 whose_minds	1
 NN_JJ
+imagery_such	1
+novice_international	1
+world_good	1
 birthday_present	1
 television_many	1
-novice_international	1
+gambling_unrequited	1
 film_many	1
 version_many	1
 fight_wrong	1
+chapter_actual	1
+polygamy_compulsive	1
 silence_spellbound	1
 DVD_last	1
 DVD_front	1
+mist_rocky	1
 bit_confusing	1
 RB_EX
 not_there	1
@@ -1097,12 +1135,15 @@ Brook_touches	1
 Hindu_texts	1
 Shakespeare_movies	1
 Buchan_novels	1
+India_folks	1
 Kaurava_kings	2
 wednesday_evenings	1
 Indian_movies	1
 VCR_tapes	1
 NNP_NNP
+Japan_Vietnam	1
 Shakespeare_Company	1
+GOOD_IT	1
 Chitra_Katha	1
 Terry_Gilliam	1
 King_Santanu	1
@@ -1110,16 +1151,19 @@ International_Centre	1
 Great_Maha	2
 Chitra_Khatha	1
 Amar_Chitra	2
-Royal_Shakespeare	1
+Theatre_Research	1
 Jean_Claude	1
 The_Odyssey	1
 Star_Trek	2
-NOT_HAVE	1
+England_Senegal	1
 Bill_Moyers	2
 NOT_IT	1
 Peter_Brook	25
 Yoshi_Oida	1
+Vietnam_Italy	1
 New_York	1
+USA_Burkina-Faso	1
+Overall_Brook	1
 Freddy_Got	1
 Mallika_Sarabhai	2
 Sarmila_Roy	1
@@ -1128,6 +1172,7 @@ Laurence_Olivier	1
 S.K._Madireddi	1
 The_Gita	1
 Got_Fingered	1
+Burkina-Faso_Japan	1
 Methuen_Drama	1
 B._R.	1
 The_Bhagavad-Gita	1
@@ -1139,26 +1184,32 @@ Peter_Brooks	2
 Outer_Space	1
 Nicholas_Nickleby	1
 Vittorio_Mezzogiorno	1
-Theatre_Research	1
+Royal_Shakespeare	1
 India_Bharat	2
-Jean-Claude_Carriere	1
+Brook_Marat-Sade	1
 &eacute;l&egrave;ne_Estienne	1
+Hare_Krishnas	1
 Peter_Brookes	2
+PRODUCT_SO	1
 Carri&egrave;re_President	1
 IT_DOES	1
 R._Chopra	1
 The_Mahabharata	3
 Toshi_Tsuchitori	1
 Bruce_Meyers	1
+Italy_England	1
 French_School	1
 Joseph_Campbell	2
-Hare_Krishnas	1
+India_USA	1
+Campbell_Bill	2
+Jean-Claude_Carriere	1
 BEATRIZ_BELTRAN	1
 Marie-H_&eacute;l&egrave;ne	1
 Mamadou_Dioume	1
 DOES_NOT	1
 du_Nord	1
 Mass_Destruction	1
+NOT_HAVE	1
 Bhagavad_Gita	2
 Jean-Claude_Carri&egrave;re	2
 Maha_India	2
@@ -1166,7 +1217,9 @@ NOT_VERY	1
 Mahabharata_Methuen	1
 John_Buchan	1
 William_Buck	3
+Pandavas_Yudhishthira	1
 Brooklyn_Academy	1
+BLURRY_BUT	1
 VERY_GOOD	1
 :_RB
 ;_so	1
@@ -1183,8 +1236,11 @@ better_some	2
 JJR_.
 worse_.	1
 worse_?	1
+RP_WRB
+up_how	1
 VB_TO
 have_to	2
+enchant_to	1
 like_to	2
 cease_to	1
 get_to	1
@@ -1202,9 +1258,6 @@ introduced_to	1
 used_to	1
 adapted_to	2
 continued_to	1
-WDT_NNP
-Whatever_Gilliam	1
-Whatever_Brook	1
 IN_DT
 like_this	1
 on_any	1
@@ -1214,7 +1267,7 @@ over_the	1
 about_this	4
 by_an	1
 So_a	1
-on_the	11
+on_the	12
 with_an	1
 because_this	1
 for_a	1
@@ -1228,7 +1281,7 @@ At_the	1
 for_another	2
 that_some	1
 for_the	9
-that_the	9
+that_the	10
 since_the	2
 into_a	3
 against_a	1
@@ -1250,6 +1303,7 @@ if_a	1
 from_every	1
 Although_the	1
 between_the	8
+as_The	1
 over_this	1
 during_the	1
 after_the	1
@@ -1301,7 +1355,7 @@ as_an	1
 For_those	2
 of_these	1
 into_this	1
-of_The	2
+of_The	3
 onto_the	1
 CD_TO
 6:00_to	1
@@ -1316,71 +1370,47 @@ easier_just	1
 VBN_CD
 written_three	1
 offered_one	1
-VBG_''
-changing_''	1
 VB_WP
 know_what	1
 WDT_PRP
 which_I	2
+UH_DT
+Yes_this	1
 RB_WRB
 probably_why	1
 So_how	1
-RB_,
-dramatically_,	1
-Honestly_,	1
-long_,	1
-ago_,	1
-ever_,	1
-aside_,	1
-carefully_,	1
-However_,	1
-Yes_,	2
-Also_,	2
-Seriously_,	1
-especially_,	1
-very_,	1
-Fortunately_,	1
-still_,	1
-however_,	3
-yet_,	2
-Instead_,	1
-Briefly_,	1
-Recently_,	1
-Then_,	1
-n't_,	2
-So_,	1
 MD_CD
 can_60	1
 RB_.
 not_.	2
-here_.	2
-back_.	1
 equally_?	1
-ago_!	1
-completely_.	1
 Completely_!	1
 ago_.	1
-too_.	2
 long_.	1
-overtly_.	1
-everywhere_.	1
-else_.	1
-am_.	1
-there_.	1
-repeatedly_.	1
-somehow_.	1
-before_.	1
-anyway_.	1
-roughly_!	1
 too_?	1
+there_.	1
+too_.	2
+back_.	1
+ago_!	1
+anyway_.	1
+everywhere_.	1
+am_.	1
+somehow_.	1
+roughly_!	1
+overtly_.	1
+else_.	1
+repeatedly_.	1
+before_.	1
+nowhere_.	1
+completely_.	1
+here_.	2
 MD_CC
 may_or	3
 JJS_RB
 least_once	1
-CD_CC
-5_+	1
-1989_and	1
-60_or	1
+VBN_PRP$
+limited_his	1
+wasted_my	1
 VBD_CD
 bought_14	1
 took_94	1
@@ -1389,6 +1419,8 @@ NNPS_CC
 Pandavas_and	4
 SUBTITLES_AND	1
 Kauravas_and	1
+Pandavas_but	1
+Kauravas_both	1
 CC_RB
 and_often	1
 or_not	2
@@ -1428,12 +1460,9 @@ When_I	1
 when_they	1
 when_I	3
 :_IN
-:_if	1
+:_if	2
 -_that	1
 --_by	2
-''_:
-''_-	2
-''_--	2
 PRP$_JJ
 its_real	1
 his_western	1
@@ -1454,7 +1483,9 @@ his_limited	1
 their_physical	1
 his_actual	1
 PRP_PRP
+you_I	1
 myself_I	1
+me_it	1
 IN_PRP
 While_I	1
 as_we	1
@@ -1501,17 +1532,8 @@ about_it	1
 like_I	2
 that_we	1
 within_it	1
-''_.
-''_.	3
-'_.	2
-''_,
-'_,	2
-''_,	2
 NNS_VB
 actors_perform	1
-,_FW
-,_etc.	1
-,_i.e.	1
 :_NNS
 --_gods	1
 ;_subtitles	1
@@ -1561,8 +1583,6 @@ it_seemed	1
 DT_VBP
 all_have	1
 each_seek	1
-,_:
-,_...	1
 DT_NN
 a_lie	1
 The_Power	2
@@ -1609,6 +1629,7 @@ an_epic	1
 a_version	1
 that_untruth	1
 a_model	1
+a_lite	1
 the_Sermon	1
 every_penny	1
 The_cast	1
@@ -1915,9 +1936,9 @@ he_is	1
 It_is	9
 it_seems	1
 he_tells	1
-IN_,
-that_,	1
-of_,	2
+PRP_:
+itself_...	1
+it_-	1
 FW_FW
 Hindu_mythology	2
 Mahabharata_</a>	2
@@ -1926,10 +1947,8 @@ Mallika_Sarabhai	1
 grandmothers/grandfathers/Indian_TV/Movies	1
 Kung_Fu	2
 in_1991and	1
-``_DT
-`_The	2
-``_The	7
-``_the	1
+WP_NNP
+what_Peter	1
 PRP_.
 me_.	1
 him_.	1
@@ -1941,12 +1960,8 @@ you_.	1
 YOU_!	1
 us_.	2
 it_.	8
-PRP_,
-them_,	1
-me_,	2
-you_,	2
-it_,	2
-YOU_,	1
+IN_:
+without_--	1
 CC_VBP
 and_enjoy	2
 and_have	1
@@ -1972,19 +1987,16 @@ and_is	1
 and_tells	2
 and_includes	1
 and_agrees	1
-NN_WRB
-IDEA_why	1
-master_why	1
-film_where	1
-movie_when	1
-stage_where	1
+NNS_PRP$
+touches_his	1
 RP_TO
 out_to	1
 down_to	1
 NNP_PRP
 Indian_I	1
 SO_I	1
-Mahabharata_I	1
+Mahabharata_I	2
+Yoshi_I	1
 CC_VBD
 and_purchased	1
 and_decided	1
@@ -2015,43 +2027,8 @@ and_befriended	1
 and_directed	1
 But_compared	1
 and_repented	1
-JJ_,
-evasive_,	1
-superb_,	1
-long_,	1
-turbulent_,	1
-infinitesimal_,	1
-capricious_,	1
-brilliant_,	1
-slow_,	1
-daunting_,	1
-other_,	1
-multi-national_,	1
-complicated_,	1
-gentle_,	1
-gifted_,	1
-poetic_,	1
-rich_,	1
-precise_,	1
-strong_,	1
-squalid_,	1
-treacherous_,	1
-realistic_,	1
-strange_,	1
-covered_,	1
-Beautiful_,	1
-human_,	1
-wrong_,	1
-universal_,	1
-philosophical_,	1
-original_,	1
-god-like_,	1
-abstract_,	1
-spare_,	1
-evil_,	2
-first_,	1
-theatrical_,	1
-disappointing_,	1
+FW_EX
+e.g._there	1
 JJ_.
 terrific_.	1
 valuable_.	1
@@ -2191,6 +2168,7 @@ in_one	1
 on_three	1
 of_100,000	1
 around_8	1
+as_2008	1
 In_one	1
 at_5	1
 About_1/2	1
@@ -2207,13 +2185,15 @@ on_one	1
 after_five	1
 NN_NNS
 screen_actors	1
+kingdom_brothers	1
 couple_months	1
 reed_thickets	1
+movie_theatres	1
 bathroom_breaks	1
 life_styles	1
 cardboard_props	1
 Pandava_princes	2
-movie_theatres	1
+life_characters	1
 epic_hundreds	1
 dozen_countries	1
 candlelit_rooms	1
@@ -2229,8 +2209,8 @@ rocket_grenades	1
 language_skills	1
 life_lessons	1
 gladiator_movies	1
-life_characters	1
 bedtime_stories	1
+family_rulers	1
 production_values	1
 DVD_collectors	1
 yoga_texts	1
@@ -2238,6 +2218,7 @@ cartoon_books	1
 dozen_times	1
 school_kids	1
 hearing_stories	1
+plot_chartecters	1
 attack_helicopters	1
 television_shows	1
 NNPS_VBP
@@ -2246,30 +2227,35 @@ British_have	1
 Kauravas_want	1
 Indians_understand	1
 NN_NNP
+place_Mahabharata	2
 epic_Sanskrit	1
-director/co-writer_Peter	1
+screenwriter_Jean	1
+survivor_Yudhishthira	1
+stage_Peter	1
 version_Brooklyn	1
 quality_VHS	1
 director_Peter	1
 archer_Arjuna	1
 strongman_Bhima	1
 way_Laurence	1
+play_Nicholas	1
 poet_Vyasa	1
-god_Krishna	1
-screenwriter_Jean	1
+director/co-writer_Peter	1
 epic_Mahabharata	1
-:_``
---_``	1
-:_``	3
+tongue_English	1
+god_Krishna	1
+WDT_NNP
+Whatever_Gilliam	1
+Whatever_Brook	1
 WDT_NNS
 which_qualities	1
 CD_CD
 three_thousand	1
-,_WRB
-,_when	1
-,_why	1
-,_where	1
-,_how	2
+CD_CC
+5_+	1
+one_and	2
+60_or	1
+1989_and	2
 IN_JJR
 for_higher	1
 IN_JJS
@@ -2291,8 +2277,6 @@ him_when	1
 ..._This	1
 ..._the	2
 --_this	2
-''_PRP$
-'_their	1
 DT_MD
 a_must	2
 this_could	1
@@ -2339,6 +2323,8 @@ I_'ll	1
 I_can	5
 they_should	1
 you_'ll	2
+VBP_VBP
+mention_check	1
 VBP_VBN
 have_wasted	1
 've_found	1
@@ -2370,6 +2356,7 @@ or_get	1
 and_be	1
 and_love	1
 and_forget	1
+but_believe	1
 or_look	1
 and_focus	1
 and_complete	1
@@ -2400,15 +2387,12 @@ there_is	4
 EX_VBP
 There_are	4
 there_are	2
-CC_``
-and_``	2
-but_`	1
 NN_NN
-suspense_time	1
+camera_work	1
 guy_strongman	1
 hour_interpretation	1
 TIME_SINCE	1
-television_series	1
+phrase_life	1
 prose_translation	1
 music_:[	1
 epic_tale	2
@@ -2417,52 +2401,66 @@ hollywood_production	1
 A_LONG	1
 page_book	1
 soap_opera	1
+history_culture	1
+hour_stageplay	1
 STAR_quality	1
 film_version	1
 stage_production	2
-flashback_episode	1
 LONG_TIME	1
 stage_version	2
 art_world	1
-BEEN_A	1
+dialogue_music	1
 scene_footage	1
 chariot_fight	1
 DVD_set	1
 hour_original	1
+everything_land	1
 hour_play	2
 entertainment_value	1
+BEEN_A	1
 bowling_ball	1
+television_series	1
 minus_bathroom	1
 hour_film	1
 war_chapter	1
 lac_house	1
 mother_tongue	1
+prophecy_someone	1
 caste_system	1
-hour_stageplay	1
+life_something	1
 side_drama	1
 elephant_head	1
 film_music	1
+acting_dialogue	1
 spoon_feeding	1
 starting_place	2
 TV_series	1
 stage_play	2
 epic_mythology	1
 video_store	2
+philosophy_myth	1
 length_version	1
 book_form	2
 woman_love	1
-camera_work	1
+flashback_episode	1
 pop_culture	1
-offering_insight	1
 street_side	1
+offering_insight	1
+suspense_time	1
+birth_prophecy	1
+war_everybody	1
 screen_time	1
 family_feud	1
+death_destruction	1
 story_line	1
+war_death	1
+land_kingdom	1
 hour_version	3
 NO_IDEA	1
 text_cold	1
 NNS_RB
 minutes_long	1
+grenades_too	1
 years_ago	6
 hours_straight	1
 themes_so	1
@@ -2474,13 +2472,12 @@ egos_aside	1
 answers_here	1
 men_together	1
 stories_rather	1
+ups_as	1
 ages_just	1
 months_later	1
-ups_as	1
+stakes_finally	1
 :_MD
 --_can	1
-CD_''
-2008_''	1
 EX_VBD
 there_were	1
 There_were	1
@@ -2489,10 +2486,6 @@ JJS_.
 least_.	1
 VBP_NNS
 are_cousins	1
-JJS_,
-best_,	1
-,_EX
-,_there	2
 DT_JJ
 the_single	1
 a_final	1
@@ -2583,6 +2576,7 @@ a_divine	1
 a_single	1
 the_only	2
 the_strong	1
+a_secular	1
 the_amazing	2
 the_good	1
 a_healthy-minded	1
@@ -2639,6 +2633,7 @@ a_good	4
 a_modern	1
 the_true	2
 a_foreign	1
+the_absolute	1
 a_long	4
 the_illiterate	1
 an_entire	1
@@ -2658,6 +2653,7 @@ faith_of	1
 hesitation_after	1
 fight_between	1
 CD_with	1
+rate_if	1
 culture_in	2
 edge_of	1
 plot_as	1
@@ -2671,10 +2667,12 @@ message_of	1
 fight_in	1
 celebration_of	1
 essence_of	5
+example_during	1
 meaning_of	1
 book_that	1
 plight_of	1
 movie_if	1
+history_of	2
 film_for	2
 episode_of	1
 glimmer_of	1
@@ -2691,7 +2689,7 @@ version_of	15
 theatre_at	1
 theatre_as	1
 inspiration_from	1
-video_of	1
+husband_after	1
 story_upon	1
 cut_after	1
 work_like	1
@@ -2702,13 +2700,16 @@ family_in	1
 preparation_for	1
 version_with	1
 culture_of	1
+journey_whether	1
 wealth_of	1
 soundtrack_for	1
 enemy_of	1
 search_for	1
 philosophy_that	1
+boy_at	1
 system_with	1
 in-law_of	1
+problem_of	1
 destroyer_of	1
 material_with	1
 Everything_in	1
@@ -2718,11 +2719,13 @@ experience_in	1
 story_into	1
 movie_on	1
 earth_with	1
-model_of	1
+set_over	1
 version_as	1
 fan_of	1
 version_in	1
 choice_of	1
+model_of	1
+video_of	1
 fate_of	2
 telecast_in	1
 adaptation_of	3
@@ -2731,18 +2734,20 @@ rendering_of	3
 year_because	1
 adaptation_on	1
 story_of	7
-polarization_between	1
+momentum_of	1
 knowledge_at	1
 piece_for	1
 heart_of	1
 lie_for	1
-Anyone_with	1
+Mahabharata_by	1
 action_so	1
-problem_of	1
+mankind_as	2
+Pandava_as	1
 rest_for	1
 feel_of	1
 saying_of	1
 war_between	3
+wife_against	1
 exile_for	1
 grace_in	1
 Song_of	1
@@ -2754,6 +2759,7 @@ minute_of	1
 heart_with	1
 cross-section_of	1
 epic_in	1
+studio_with	1
 film_before	1
 forest_for	1
 quality_of	1
@@ -2771,6 +2777,7 @@ moment_of	1
 discussion_between	2
 battle_with	1
 game_of	1
+library_for	1
 mini-script_of	1
 bit_like	1
 section_on	1
@@ -2778,12 +2785,13 @@ sense_of	1
 movie_from	1
 discipline_of	1
 Vishnu_after	1
-momentum_of	1
+polarization_between	1
 reflection_of	1
 purpose_of	1
 condensation_of	1
 duty_of	1
 grandeur_of	2
+excitement_as	1
 impossibility_of	1
 stereotype_of	1
 production_of	1
@@ -2796,6 +2804,7 @@ internet_about	1
 coincidence_that	1
 subtlety_of	1
 point_of	1
+story_with	1
 toe_into	1
 difference_between	3
 tale_that	1
@@ -2806,16 +2815,18 @@ way_of	1
 pursuit_of	1
 tale_of	2
 poem_on	1
+Anyone_with	1
 version_whilst	1
 feud_on	1
 poem_of	1
+yoga_as	1
 job_of	2
 cover_at	1
 feud_between	1
 screenplay_with	1
 translation_by	1
 branch_of	1
-history_of	2
+love_with	1
 confusion_among	1
 interpretation_of	1
 making_of	2
@@ -2842,9 +2853,11 @@ text_as	1
 vision_of	2
 competition_between	1
 universality_of	1
+time_since	1
 ball_for	1
 Sermon_on	1
 money_on	1
+question_if	1
 insight_on	1
 group_of	1
 CC_DT
@@ -2873,24 +2886,26 @@ NNS_PRP
 interviews_they	1
 touches_he	2
 tapes_I	1
+styles_they	1
 stories_they	1
 films_I	1
 qualities_we	1
 NN_VBG
-life_changing	1
+cast_representing	1
+process_reducing	1
+production_being	1
 guy_signing	1
 cast_wearing	1
 store_specializing	1
-production_being	1
+life_changing	1
 CC_WRB
 and_how	1
 NN_VBD
-studio_did	1
 cast_led	1
 video_was	1
 he/she_was	1
 play_opened	1
-mother_escaped	1
+studio_did	1
 cousin_told	1
 play_dropped	1
 play_was	3
@@ -2904,7 +2919,9 @@ part_was	1
 reviewer_used	1
 version_was	1
 strory_was	1
+mother_escaped	1
 music_was	1
+film_anbd	1
 story_were	1
 family_begged	1
 version_came	1
@@ -2914,6 +2931,7 @@ what_I	2
 what_they	1
 NN_VBZ
 mind_is	1
+head_becomes	1
 effect_is	1
 success_proves	1
 civilization_bases	1
@@ -2991,13 +3009,17 @@ conceptually_much	1
 so_well	3
 albeit_not	1
 only_so	1
+n't_then	1
+n't_however	1
 as_long	2
 just_so	1
 n't_up	1
 long_ago	1
 n't_so	1
 as_there	1
+Recently_however	1
 not_as	3
+very_very	1
 so_much	1
 sometimes_very	1
 too_close	1
@@ -3064,24 +3086,18 @@ wondered_would	1
 PRP_RP
 it_up	2
 it_down	1
-JJ_``
-good_`	1
-home-grown_`	1
-proper_`	1
 RB_VBZ
 never_gets	1
 literally_means	3
 still_misses	1
 truly_captures	1
+however_is	1
 reluctantly_prepares	1
 here_becomes	1
 truly_cuts	1
 quickly_develops	1
 even_parallels	1
 nevertheless_carries	1
-,_WP
-,_who	9
-,_what	2
 VBZ_VBG
 's_speaking	1
 is_going	2
@@ -3113,13 +3129,14 @@ see_it	1
 Let_me	1
 PRP_DT
 We_all	1
-me_this	1
+us_the	1
 it_the	2
 I_some	1
 it_a	1
-us_the	1
+me_this	1
 him_the	1
 me_the	1
+it_this	1
 VBZ_VBN
 is_woven	1
 has_formed	1
@@ -3195,13 +3212,6 @@ divinely_guided	1
 never_seen	1
 ever_written	1
 not_heard/read/wathced	1
-NN_''
-Myth_''	2
-pasupata_'	1
-Bourgeoisie_''	1
-duty_'	1
-Mahabharata_'	1
-weapon_'	1
 VB_RBR
 learn_more	1
 understand_more	1
@@ -3246,11 +3256,15 @@ but_should	1
 or_may	3
 VBD_NN
 gave_birth	1
+hearted_manner	1
 was_telecast	1
 had_time	1
 was_something	1
+JJ_WP
+evil_who	2
 NNP_TO
 Video_to	1
+English_to	1
 Brook_to	1
 VBZ_TO
 chooses_to	1
@@ -3268,40 +3282,19 @@ agrees_to	1
 cuts_to	1
 POS_NNP
 's_The	2
+'s_Mahabharata	1
 '_The	1
 's_Notes	1
-,_IN
-,_after	1
-,_with	6
-,_in	3
-,_so	1
-,_because	3
-,_as	7
-,_for	1
-,_if	3
-,_over	1
-,_though	1
-,_that	1
-,_against	1
-,_like	1
-,_during	1
-,_while	1
-,_by	1
-,_whether	1
-,_since	1
+'s_Jabberwocky	1
 NNS_WP
-actors_who	2
-people_who	1
+friends_who	1
 viewers_who	1
+people_who	1
+actors_who	2
 RP_NN
 up_hearing	1
-,_CD
-,_1987	1
-,_two	1
-,_one	2
-,_1988	1
-TO_JJR
-to_lower	1
+VBG_CC
+changing_and	1
 MD_RB
 'll_never	1
 will_ever	1
@@ -3318,16 +3311,20 @@ should_never	1
 will_simply	1
 can_not	2
 NN_WDT
-one_that	1
+bonus_which	1
 movie_which	1
+epic_which	1
 point_that	1
+film_which	1
 footage_that	1
 agenda_that	2
+one_that	1
 DVD_that	1
+man_which	2
 format_that	1
 DVD_which	1
 story_that	1
-version_which	1
+version_which	2
 intensity_that	1
 effort_that	2
 film_that	1
@@ -3344,12 +3341,12 @@ schedule_the	1
 take_some	2
 get_some	1
 understand_this	1
-buy_the	1
+eachother_each	1
 have_a	2
 throw_the	1
 understand_the	1
 explore_all	1
-wear_a	1
+buy_the	1
 let_that	1
 forget_the	1
 complete_this	1
@@ -3357,6 +3354,7 @@ watch_a	1
 get_a	2
 turn_the	1
 give_the	1
+look_The	2
 enjoy_this	1
 recommend_this	1
 say_the	1
@@ -3370,6 +3368,7 @@ be_that	2
 become_a	1
 avoid_a	1
 recognize_the	2
+wear_a	1
 mark_this	1
 screen_the	1
 prevent_the	1
@@ -3399,8 +3398,6 @@ all_the	3
 such_a	3
 all_that	1
 Such_a	1
-PRP_``
-himself_``	1
 VBZ_JJ
 is_perfect	1
 is_infinitesimal	1
@@ -3423,6 +3420,7 @@ is_amazing	1
 is_fine	1
 's_abridged	1
 is_squalid	1
+seems_juvenile	1
 's_offensive	1
 sounds_daunting	1
 is_jarring	1
@@ -3435,8 +3433,6 @@ is_poor	1
 is_evil	2
 LS_VBP
 i_have	1
-''_DT
-''_the	2
 NN_TO
 poem_to	2
 day_to	1
@@ -3475,27 +3471,28 @@ those_without	1
 this_on	1
 this_as	3
 PRP_IN
-it_on	2
 her_in	1
-it_in	1
-them_as	1
-him_into	1
-it_without	1
 it_for	2
-you_into	1
-them_into	1
 you_that	1
-you_on	1
-it_that	1
-them_in	1
-it_at	3
-IT_FOR	1
-it_through	1
+you_into	1
+it_because	1
+it_without	1
+him_about	1
 you_about	1
 itself_in	1
-him_about	1
+it_on	2
+them_in	1
+him_into	1
+them_into	1
 it_with	1
 it_as	1
+it_at	3
+it_in	1
+it_through	1
+them_as	1
+IT_FOR	1
+it_that	1
+you_on	1
 RBR_JJ
 more_complete	1
 more_faithful	1
@@ -3507,26 +3504,9 @@ more_detailed	1
 more_likeable	1
 more_bubbly	1
 more_pleasurable	1
-,_JJ
-,_such	1
-,_philosophical	1
-,_unrequited	1
-,_virgin	1
-,_actual	1
-,_brilliant	1
-,_multi-racial	1
-,_replete	1
-,_poetic	1
-,_evasive	1
-,_deliberate	1
-,_spare	1
-,_rocky	1
-,_sliced	1
-,_turbulent	1
-,_good	1
-,_complicated	1
-,_compulsive	1
-,_full	1
+WRB_MD
+why_would	1
+When_will	1
 WP_DT
 who_each	1
 What_a	1
@@ -3534,52 +3514,23 @@ what_The	1
 CC_CD
 and_25	1
 and_170	1
+PRP_PRP$
+himself_My	1
 NNP_FW
 PBS_in	1
-,_NN
-,_music	1
-,_boring	1
-,_watch	1
-,_death	1
-,_land	1
-,_someone	1
-,_polygamy	1
-,_something	1
-,_dialogue	1
-,_kingdom	1
-,_culture	1
-,_myth	1
-,_destruction	1
-,_prophecy	1
-,_total	1
-,_everybody	1
 FW_TO
 mythology_to	1
-CC_,
-but_,	1
-``_NNS
-`_talents	1
 JJR_CC
 higher_and	1
-PRP$_``
-his_`	1
-``_NNP
-``_Peter	1
-`_Mahabarata	1
-`_Mahabharata	2
-``_Plan	1
-``_Mahabharata	3
-`_Peter	1
-`_Jabberwocky	1
-``_Lord	1
-``_Amar	1
-``_Marat-Sade	1
-``_Freddy	1
 RB_DT
+Fortunately_this	1
+aside_this	1
 really_a	2
 once_every	2
 effectively_the	1
 even_the	1
+especially_the	1
+however_this	2
 just_that	1
 well_the	1
 certainly_a	1
@@ -3592,14 +3543,17 @@ Even_the	1
 Especially_the	2
 perhaps_another	1
 not_an	2
-however_this	2
+actually_a	1
+Instead_this	1
 hardly_any	1
+ago_the	1
 much_the	2
 Then_the	2
+Briefly_the	1
 also_the	1
 definitely_no	1
+Honestly_this	1
 indeed_a	1
-actually_a	1
 PRP$_JJS
 its_best	1
 NN_MD
@@ -3618,27 +3572,6 @@ viewing_will	1
 DT_VB
 the_write	1
 that_discourage	1
-DT_``
-a_``	2
-the_`	1
-the_``	2
-,_RB
-,_yet	3
-,_as	1
-,_however	3
-,_finally	1
-,_much	1
-,_so	1
-,_maybe	2
-,_nearly	1
-,_thus	1
-,_actually	1
-,_even	2
-,_then	3
-,_very	1
-,_especially	1
-,_too	1
-,_rather	1
 CC_PRP
 and_they	1
 but_I	4
@@ -3649,10 +3582,8 @@ And_I	1
 but_it	3
 and_it	6
 and_I	3
+and_He	1
 But_we	1
-,_VBD
-,_anbd	1
-,_amazed	1
 RB_VB
 never_have	1
 over_look	2
@@ -3716,13 +3647,14 @@ Out_of	1
 on_as	1
 JJ_RB
 different_now	1
-good_however	2
+wrong_even	1
+cool_too	1
 own_perhaps	1
 human_yet	1
-cool_too	1
+god-like_even	1
+gentle_nearly	1
+good_however	2
 many_very	1
-,_``
-,_``	4
 VBG_PRP$
 bringing_its	1
 signing_their	1
@@ -3730,12 +3662,6 @@ losing_his	1
 hearing_their	1
 revealing_his	1
 building_their	1
-,_VBG
-,_acting	1
-,_leaving	2
-,_representing	1
-,_reducing	1
-,_including	1
 NNS_.
 characters_.	1
 hours_.	2
@@ -3771,64 +3697,13 @@ groups_.	1
 minutes_.	1
 videos_.	1
 men_.	1
-,_VBN
-,_directed	1
-,_centered	1
-,_grounded	2
-,_read	1
-,_come	1
-,_interspersed	1
-NNS_,
-hours_,	1
-friends_,	1
-thickets_,	1
-things_,	1
-mortals_,	1
-cousins_,	4
-lessons_,	1
-chartecters_,	1
-favorites_,	1
-artists_,	1
-years_,	1
-rulers_,	1
-months_,	1
-performances_,	1
-themes_,	1
-turns_,	1
-backgrounds_,	1
-evenings_,	1
-rivalries_,	1
-texts_,	1
-children_,	2
-times_,	1
-movies_,	1
-miniseries_,	1
-brothers_,	2
-versions_,	1
-senses_,	1
-species_,	1
-countries_,	1
-great-grandchildren_,	1
-discs_,	1
-dice_,	1
-plays_,	1
-minutes_,	2
-people_,	2
-thoughts_,	1
-stories_,	1
-stakes_,	1
-armies_,	1
-grenades_,	1
-values_,	1
-,_VBP
-,_do	2
-,_check	1
 RBR_RB
 more_carefully	1
 VBD_NNP
 took_Peter	1
 played_Krishna	1
 poisoned_Bhima	1
+occurred_Duryodhan	1
 NNS_:
 times_-	1
 adolescents_--	1
@@ -3836,14 +3711,6 @@ talents_:	1
 props_...	1
 adults_--	1
 ancestors_...	1
-,_VBZ
-,_has	1
-,_tries	1
-,_becomes	1
-,_loses	1
-,_recognizes	1
-,_chooses	1
-,_is	4
 WRB_RB
 why_so	1
 how_effectively	1
@@ -3895,6 +3762,7 @@ many_projects	1
 absolute_favorites	1
 most-crucial_parts	1
 complete_seasons	1
+home-grown_talents	1
 Indian_texts	1
 special_features	1
 religious_texts	1
@@ -3940,6 +3808,8 @@ other_players	2
 physical_attributes	1
 career-making_egos	1
 royal_cousins	1
+VB_VB
+think_keep	1
 JJ_NNP
 many_Indian	1
 bad_Star	1
@@ -3947,6 +3817,7 @@ true_Mahabharata	2
 Shakespearean_English	1
 complete_Mahabharata	1
 god-man_Krishna	1
+proper_Mahabarata	1
 CD_IN
 !!!_If	1
 one_by	1
@@ -3955,18 +3826,13 @@ two_of	1
 one_of	4
 One_of	1
 9_From	1
-''_CD
-''_54	1
-''_CC
-'_and	1
-''_and	3
-'_but	1
 IN_WP
 than_what	1
 about_what	1
 between_whom	2
-RB_''
-nowhere_''	1
+of_what	1
+NNS_EX
+armies_there	1
 VBG_PRP
 watching_it	1
 luring_them	1
@@ -4000,22 +3866,39 @@ the_Pandavas	5
 the_Kauravas	4
 The_Pandavas	1
 NN_PRP
-DVD_I	1
-something_I	1
 delivery_I	1
+childhood_I	1
+SINCE_I	1
+option_I	1
+today_it	1
+context_it	1
+family_I	1
+movie_we	2
+feature_it	1
+something_I	1
 sixth_she	1
-work_itself	1
 epic_I	1
+home_we	1
+acting_itself	1
+movie_I	1
+work_itself	1
 day_we	1
+form_I	2
 poem_itself	1
 life_itself	1
-SINCE_I	1
 GLAD_YOU	1
-today_it	1
-acting_itself	1
-context_it	1
-home_we	1
+case_I	1
+faith_I	1
+history_it	1
+DVD_I	1
 end_you	1
+book_it	1
+film_we	1
+story_I	1
+medium_it	1
+delivery_it	1
+cut_we	1
+casting_it	1
 VB_PRP$
 be_your	1
 put_their	1
@@ -4025,15 +3908,22 @@ change_your	1
 NNP_EX
 Roy_there	1
 JJ_DT
+rich_the	1
 stunning_this	2
 worth_every	1
 faithful_this	1
 intact_the	1
+poetic_the	1
+first_a	1
+universal_the	1
 sure_this	1
 worth_the	2
 RB_CC
+yet_but	2
 Visually_and	2
+Yes_and	1
 carefully_and	1
+dramatically_but	1
 now_but	1
 ago_and	2
 aside_and	1
@@ -4118,12 +4008,6 @@ even_more	1
 WRB_NNS
 why_things	1
 where_dozens	1
-,_DT
-,_these	1
-,_this	7
-,_each	1
-,_a	4
-,_the	30
 NNP_NNPS
 HAVE_SUBTITLES	1
 VB_VBZ
@@ -4133,11 +4017,21 @@ VBZ_RBR
 is_more	1
 NNS_DT
 friends_all	1
-people_every	1
-brothers_the	1
+versions_the	1
 decades_an	1
-POS_``
-'s_`	3
+people_every	1
+children_the	1
+movies_this	1
+thoughts_the	1
+great-grandchildren_the	1
+evenings_a	1
+texts_the	1
+senses_The	1
+cousins_the	3
+minutes_The	1
+months_the	1
+brothers_the	1
+dice_the	1
 VBZ_NN
 is_illusion	1
 takes_place	2
@@ -4152,9 +4046,6 @@ HAS_BEEN	1
 gets_boring	1
 UH_.
 Wow_!	1
-UH_,
-No_,	1
-Yes_,	1
 TO_JJ
 to_other	1
 VBP_DT
@@ -4189,6 +4080,38 @@ prefer_a	1
 love_all	1
 start_a	1
 are_a	1
+VBZ_RB
+is_also	1
+is_well	1
+is_truly	1
+is_easily	1
+has_not	1
+is_certainly	1
+is_far	1
+is_probably	1
+is_definitely	2
+is_pretty	2
+is_nowhere	1
+is_n't	4
+is_indeed	1
+is_just	3
+is_much	1
+is_extremely	1
+is_only	1
+has_successfully	1
+is_elsewhere	1
+has_always	1
+is_almost	1
+feels_almost	1
+is_really	1
+is_so	4
+is_not	8
+seems_very	1
+is_even	2
+is_actually	1
+has_often	1
+gambles_inexorably	1
+is_very	2
 VBD_TO
 plotted_to	1
 TRIED_TO	1
@@ -4205,8 +4128,6 @@ DVD_more	1
 NNS_POS
 collectors_'	1
 brothers_'	1
-``_PRP$
-``_My	1
 JJS_NNS
 worst_films	1
 NN_:
@@ -4233,120 +4154,20 @@ feeding_;	1
 faithful_-	1
 original_;	1
 life_--	1
+Myth_--	2
 item_;	1
 saga_--	1
 history_--	1
 CD_RB
 6:00_am	1
 4_only	1
-._''
-._'	1
-._''	8
+NNPS_WP
+Kauravas_who	2
 NNP_JJ
+Trinity_virgin	1
 PBS_several	1
-NN_,
-level_,	1
-gambling_,	1
-wife_,	1
-seat_,	1
-heart_,	1
-film_,	5
-stage_,	1
-studio_,	1
-escape_,	1
-option_,	1
-man_,	2
-history_,	2
-liking_,	1
-life_,	2
-cut_,	1
-polygamy_,	1
-tale_,	1
-dialogue_,	1
-mist_,	1
-excitement_,	1
-example_,	1
-boy_,	1
-book_,	1
-death_,	1
-self-importance_,	1
-story_,	4
-prophecy_,	1
-form_,	2
-version_,	2
-acting_,	1
-faith_,	1
-philosophy_,	1
-rate_,	1
-bonus_,	1
-play_,	1
-place_,	1
-fame_,	1
-process_,	1
-chapter_,	1
-delivery_,	1
-husband_,	1
-poem_,	1
-kingdom_,	1
-way_,	1
-destruction_,	1
-box_,	1
-journey_,	1
-birth_,	1
-mankind_,	2
-casting_,	1
-tea_,	1
-case_,	1
-land_,	1
-opinion_,	1
-war_,	2
-epic_,	1
-author_,	1
-boring_,	1
-advice_,	1
-survivor_,	1
-production_,	1
-cast_,	3
-childhood_,	1
-touch_,	1
-set_,	1
-audience_,	1
-question_,	1
-feature_,	1
-beginning_,	1
-world_,	1
-action_,	1
-cutting_,	1
-plot_,	1
-duty_,	1
-charioteer_,	1
-day_,	2
-library_,	1
-DVD_,	2
-Pandava_,	1
-mix_,	1
-imagery_,	1
-sea_,	1
-matter_,	1
-head_,	1
-medium_,	1
-result_,	1
-yoga_,	1
-year_,	1
-movie_,	3
-group_,	1
-tongue_,	1
-love_,	2
-time_,	1
-family_,	2
-everything_,	1
-``_NN
-`_Song	1
-``_Everything	1
-``_lite	1
-`_duty	1
-`_pasupata	1
-``_life	2
+TO_CD
+to_one	1
 NN_.
 featurette_.	1
 wife_.	2
@@ -4457,20 +4278,24 @@ time_.	5
 drama_.	1
 game_.	3
 NNP_VBG
+English_including	1
 Mezzogiorno_revealing	1
+NNS_JJR
+people_greater	1
 VBN_DT
 masked_the	1
 denuded_the	1
 broken_every	2
 watched_the	1
+dipped_a	1
 assumed_this	1
 directed/produced_an	1
-dipped_a	1
+given_a	1
 done_an	1
 watched_this	2
 become_a	1
 heard/read/wathced_the	1
-given_a	1
+broadcasted_The	1
 considered_the	1
 seen_The	1
 read_the	2
@@ -4483,18 +4308,12 @@ WDT_VBP
 that_enhance	1
 which_side	1
 that_are	1
-''_VBZ
-''_is	4
-'_has	1
-''_permeates	1
-''_NN
-'_version	1
-''_manner	1
-''_history	1
-''_cartoon	1
 VBP_VB
 do_hope	1
 do_wish	1
+PRP_CC
+me_but	1
+them_and	1
 WDT_VBD
 which_was	3
 that_went	2
@@ -4509,8 +4328,6 @@ watching_once	1
 Looking_forward	1
 DT_WRB
 some_how	1
-DT_,
-this_,	2
 DT_.
 both_.	2
 this_.	2
@@ -4518,6 +4335,7 @@ all_.	1
 this_?	1
 NNS_FW
 audiences_e.g.	1
+chartecters_etc.	1
 VBG_RP
 sleeping_in	1
 Weighing_in	1
@@ -4528,8 +4346,11 @@ JJ_VB
 long-awaited_reprint	1
 DT_:
 that_-	1
-PRP_WP
-us_who	1
+NNS_NNS
+characters_motives	1
+rulers_sons	1
+brothers_cousins	1
+values_preferences	1
 RB_JJ
 so_eloquent	1
 very_different	1
@@ -4557,6 +4378,7 @@ HEAVILY_abridged	1
 as_bad	1
 badly_abridged	1
 almost_Shakespeaerean	1
+ever_replete	1
 extremely_rude	1
 well_worth	1
 very_difficult	1
@@ -4594,11 +4416,6 @@ totally_faithful	1
 too_grand	1
 NNS_RBR
 reviews_more	1
-VB_``
-look_``	2
-NNPS_,
-Pandavas_,	1
-Kauravas_,	3
 CD_DT
 1/2_the	1
 one_the	2
@@ -4633,15 +4450,23 @@ watching_this	3
 leaving_no	2
 getting_the	1
 RB_PRP
-n't_it	1
+still_I	1
+however_I	1
 Once_I	1
+Then_he	1
+long_I	1
+carefully_he	1
 already_it	1
 not_you	1
+Seriously_it	1
 first_it	1
-Perhaps_it	1
+n't_it	1
 Now_we	1
 then_it	1
+Perhaps_it	1
+So_I	1
 not_it	1
+However_you	1
 maybe_I	2
 then_I	2
 MD_DT
@@ -4658,6 +4483,7 @@ puts_it	1
 reminds_him	1
 VB_RB
 focus_instead	1
+follow_especially	1
 be_sorely	1
 be_very	1
 serve_well	1
@@ -4677,43 +4503,39 @@ NN_RBR
 lot_more	1
 NNS_WRB
 books_where	1
-``_JJ
-``_juvenile	1
-`_international	1
-`_absolute	1
-``_secular	1
+things_why	1
+cousins_how	1
 NNP_IN
-Research_in	1
-Sons_of	1
-Dioume_as	1
-School_for	1
-Company_in	1
+Krishna_while	1
 Mahabharata_in	3
-Mahabharata_at	1
-Paris_at	1
-President_of	1
-Europe_in	1
-Krishna_in	1
-Weapons_of	1
-Sarabhai_as	1
-Krishna_that	1
-Centre_for	1
+Arjuna_with	1
 Amazon.com_because	1
-Krishna_as	1
-York_in	1
+Weapons_of	1
 Mahabharata_on	1
-Notice_that	2
 Academy_of	1
-FW_,
-e.g._,	1
-i.e._,	1
-,_TO
-,_to	2
+Gita_with	1
+Dioume_as	1
+Mahabharata_at	1
+President_of	1
+Mahabharata_as	1
+School_for	1
+Centre_for	1
+Brook_like	1
+Research_in	1
+Company_in	1
+Pandavas_by	1
+Krishna_in	1
+York_in	1
+Sons_of	1
+Paris_at	1
+Krishna_as	1
+Krishna_that	1
+Europe_in	1
+Sarabhai_as	1
+Notice_that	2
 FW_.
 etc._.	1
 TV/Movies_.	1
-VBZ_``
-seems_``	1
 IN_VBG
 in_treating	1
 in_compressing	1
@@ -4746,8 +4568,6 @@ on_doing	1
 from_beginning	1
 whilst_being	1
 of_capturing	1
-``_CD
-``_2008	1
 POS_NN
 's_work	1
 's_faith	1
@@ -4761,12 +4581,6 @@ POS_NN
 's_version	6
 's_story	1
 's_birth	1
-,_PRP
-,_I	18
-,_it	8
-,_he	1
-,_we	4
-,_you	1
 CC_JJR
 or_more	1
 and_easier	1
@@ -4787,22 +4601,33 @@ excellent_and	1
 un-artistic_and	1
 else_but	1
 black_and	1
+abstract_but	1
 same_and	1
 good_and	1
+daunting_but	1
+other_but	1
 vast_and	1
 good_or	2
+precise_and	1
 unclean_and	1
 jarring_and	1
+juvenile_and	1
 accessible_and	1
 complete_and	1
 bubbly_and	1
 large_and	1
+turbulent_and	1
 wonderful_and	1
+covered_but	1
 sliced_and	1
+realistic_and	1
 illiterate_and	1
+treacherous_and	1
 sorry_but	1
+brilliant_and	1
 eloquent_and	1
 unique_and	1
+human_and	1
 profound_and	1
 grand_and	1
 strong_but	1
@@ -4818,15 +4643,17 @@ full_5 1/2	1
 other_one	1
 amazing_5	1
 next_one	1
-CD_,
-one_,	2
-1989_,	1
 CD_.
 50_.	1
 WRB_VBD
 how_liked	1
 WRB_VBZ
 how_does	1
+NNP_WP
+Krishna_who	1
+Television_who	1
+Vyasa_who	1
+Ganesh_who	1
 CD_:
 1987_;	1
 VBG_PDT
@@ -4893,6 +4720,7 @@ Darjeeling_tea	1
 Brooks_version	1
 Arjuna_yoga	1
 VHS_version	1
+Chopra_version	1
 Khatha_equivalent	1
 International_cast	1
 Poor_quality	1
@@ -4900,11 +4728,12 @@ Hindi_language	1
 Hindi_version	1
 Hindu_culture	1
 VCR_version	1
-Trek_movie	1
+Katha_cartoon	1
 Buyer_beware	1
+Trek_movie	1
 Sanskrit_collection	1
 Brooks_work	1
-Chopra_version	1
+Dharma_duty	1
 Brook_version	2
 TO_PRP$
 to_your	1
@@ -4920,38 +4749,8 @@ woman_'s	1
 everybody_'s	1
 TO_PRP
 to_us	1
-VBZ_RB
-is_also	1
-is_well	1
-is_truly	1
-is_easily	1
-has_not	1
-is_certainly	1
-is_far	1
-is_probably	1
-is_definitely	2
-is_pretty	2
-is_nowhere	1
-is_n't	4
-is_indeed	1
-is_just	3
-is_much	1
-is_extremely	1
-is_only	1
-has_successfully	1
-is_elsewhere	1
-has_always	1
-is_almost	1
-feels_almost	1
-is_really	1
-is_so	4
-is_not	8
-seems_very	1
-is_even	2
-is_actually	1
-has_often	1
-gambles_inexorably	1
-is_very	2
+TO_VBG
+to_watching	2
 ._.
 !_.	1
 VBN_RP
@@ -4970,14 +4769,12 @@ DT_RBS
 the_most	6
 DT_RBR
 a_more	1
-TO_VBG
-to_watching	2
-NNP_``
-Brook_``	1
-Dharma_`	1
-Carriere_``	1
-,_JJR
-,_greater	1
+NNS_MD
+actors_would	1
+audiences_will	1
+subtitles_would	1
+folks_will	1
+events_could	1
 TO_RB
 to_not	1
 to_really	1
@@ -4995,12 +4792,14 @@ back_with	1
 Even_in	2
 mainly_for	1
 ago_that	1
+however_because	1
 away_by	1
 perfectly_about	1
 First_on	1
 together_in	1
 long_as	2
 horribly_at	1
+Yes_in	1
 so_if	1
 only_by	1
 well_as	1
@@ -5056,7 +4855,7 @@ a_2	1
 DT_CC
 all_and	1
 all_or	1
-this_and	1
+this_and	2
 RP_DT
 up_the	1
 out_the	2
@@ -5092,46 +4891,6 @@ blue-skinned_is	1
 informative_is	1
 RP_RBR
 out_more	1
-NNP_,
-England_,	1
-WMD_,	1
-Drama_,	1
-Vietnam_,	1
-Broadway_,	1
-Burkina-Faso_,	1
-Bhagavad-Gita_,	1
-USA_,	1
-Gita_,	3
-Gilliam_,	1
-Brook_,	3
-Vishnu_,	1
-Yoshi_,	1
-Music_,	1
-Mahabharata_,	5
-Vyasa_,	1
-PRODUCT_,	1
-BLURRY_,	1
-Krishna_,	4
-Brooke_,	1
-Bharat_,	2
-India_,	4
-Duryodhana_,	1
-Campbell_,	2
-Trinity_,	1
-Yudhishthira_,	2
-Arjuna_,	1
-Senegal_,	1
-English_,	2
-Hindus_,	1
-Pandavas_,	2
-Kauravas_,	1
-Ganesh_,	1
-GOOD_,	1
-Television_,	1
-Bharatas_,	1
-Overall_,	1
-Japan_,	1
-Italy_,	1
 CD_JJ
 one_small	1
 one_extravagent	1
@@ -5146,13 +4905,14 @@ Baghavad-Gita_.	1
 Fingered_.	1
 Nickleby_.	1
 Bhagavad-Gita_.	1
-Hercules_.	1
+East_.	1
 Bhima_.	1
 Ganges_.	1
 Hindi_.	1
 Brook_.	2
 BELTRAN_.	1
-Mahabharata_.	9
+Mahabharata_.	10
+Hercules_.	1
 India_.	5
 Jesus_.	1
 Bible_.	1
@@ -5164,13 +4924,15 @@ RealWorld_.	1
 Hindus_.	1
 ASAP_.	1
 Brookes_.	1
-East_.	1
+Marat-Sade_.	1
+Lord_.	1
 IT_!	1
+Jabberwocky_.	1
 English_.	1
 POS_CC
 's_and	1
-NNP_WRB
-Mahabharata_when	1
+JJ_VBN
+complicated_grounded	1
 POS_CD
 's_1985	1
 VBG_NN
@@ -5181,20 +4943,24 @@ concerning_life	1
 underlying_philosophy	1
 starting_point	1
 JJ_VBG
+superb_acting	1
 worth_watching	1
 evil_existing	1
 NNP_:
 Wikipedia_;	1
-Destruction_-	1
+Brook_:	1
+Senegal_...	1
 Arjuna_;	1
 Tsuchitori_;	1
-Brook_:	1
+Mahabharata_-	2
+Destruction_-	1
 Krishna_--	1
 Bible_;	1
 Dammit_-	1
 RB_VBP
 highly_recommend	1
 hardly_realize	2
+Also_do	2
 just_do	1
 quickly_see	1
 just_want	1
@@ -5212,10 +4978,6 @@ VBZ_.
 loses_.	1
 shows_.	1
 is_.	2
-VBZ_,
-dies_,	1
-lacks_,	1
-requires_,	1
 RB_NN
 not_attack	1
 visually_ALL	1
@@ -5232,33 +4994,42 @@ episodes_to	1
 drugs_to	1
 tricks_to	1
 miniseries_to	1
-VBD_''
-hearted_''	1
 JJ_JJ
+evasive_turbulent	1
 modern_Western	1
+original_full	1
 Acclaimed_new	2
+philosophical_spare	1
 other_sacred	1
 own_ininteresting	1
 Indian_Mythical	1
 many_famous	1
 six-hour_visual	2
 ancient_Indian	1
+disappointing_sliced	1
 excellent_multinational	1
 abridged_170-minute	1
 near-zero_special	1
 other_major	1
 nine-hour_full	1
 good_short	1
+strong_complicated	1
 old_blind	1
 great_religious	1
+theatrical_philosophical	1
 original_Indian	1
 typical_Indian	1
 little_else	1
 private_long	1
 legendary_first	1
+multi-national_multi-racial	1
 complicated_moral	1
+slow_deliberate	1
+capricious_evasive	1
 little_over	1
 actual_personal	1
+spare_poetic	1
+Beautiful_brilliant	1
 JJR_IN
 more_than	2
 quicker_than	1
@@ -5277,10 +5048,6 @@ how_faithful	1
 how_free	2
 how_right	1
 how_good	1
-,_CC
-,_and	42
-,_both	1
-,_but	18
 VB_NN
 engrave_drama	2
 collect_item	1
@@ -5290,6 +5057,8 @@ see_director/co-writer	1
 draw_inspiration	1
 BE_GLAD	1
 say_something	1
+UH_RB
+No_actually	1
 VBZ_JJR
 is_longer	1
 grows_bigger	1
@@ -5307,12 +5076,6 @@ WRB_NNP
 where_Bhima	1
 how_Peter	1
 when_Krishna	1
-NNS_MD
-actors_would	1
-audiences_will	1
-subtitles_would	1
-folks_will	1
-events_could	1
 VBD_WP
 were_what	1
 PRP_TO
@@ -5364,10 +5127,8 @@ VBN_NNPS
 won_Tonies	1
 IN_CC
 whether_or	2
+of_and	1
 than_and	1
-PRP_:
-itself_...	1
-it_-	1
 NNS_VBD
 videotapes_got	1
 people_were	1
@@ -5386,12 +5147,11 @@ years_co-writing	1
 actors_sitting	1
 gods_siring	1
 questions_concerning	1
-``_IN
-``_In	1
-``_at	1
-``_if	1
 PRP_NNP
+YOU_BEATRIZ	1
 it_ASAP	1
+CD_VBZ
+2008_is	1
 PRP_NNS
 it_groups	1
 me_ages	1
@@ -5399,8 +5159,12 @@ he_touches	1
 NNS_VBN
 incidents_depicted	1
 dilemmas_presented	1
+turns_grounded	1
+stories_centered	1
 movies_based	1
+backgrounds_interspersed	1
 texts_translated	1
+countries_come	1
 JJS_NN
 largest_poem	1
 longest_poem	1
@@ -5413,18 +5177,12 @@ play_Krishna	1
 recommend_Chopra	1
 believe_Yoshi	1
 love_Brook	1
-``_PRP
-``_I	2
-``_He	1
 NN_WP$
 stage_whose	1
 EX_PRP
 there_it	1
 CD_JJR
 one_more	2
-WRB_MD
-why_would	1
-When_will	1
 POS_JJ
 's_wonderful	1
 's_future	1
@@ -5433,17 +5191,8 @@ POS_JJ
 's_superb	1
 's_splashy	1
 's_great	1
+'s_international	1
 's_five-hour	1
-VBN_``
-titled_``	1
-broadcasted_`	1
-called_``	1
-''_IN
-'_by	1
-'_since	1
-VBN_PRP$
-limited_his	1
-wasted_my	1
 VBD_VBN
 was_followed	1
 was_raised	1
@@ -5470,27 +5219,28 @@ was_amazed	1
 VBZ_VB
 does_presume	1
 VBD_PRP
-captured_it	1
-took_me	2
-GOT_IT	1
 found_it	1
-threw_him	1
+captured_it	1
 watched_it	2
-loved_it	2
 found_him	1
-begged_me	1
-had_it	1
-set_it	1
-hated_it	1
-purchased_it	2
 told_me	1
 felt_I	1
-loaned_me	1
-forced_us	1
-showed_me	1
 met_him	1
-decided_it	1
+showed_me	1
+begged_me	1
+loved_it	2
+had_it	1
+purchased_it	2
+GOT_IT	1
 decided_we	1
+took_me	2
+loaned_me	1
+hated_it	1
+forced_us	1
+bought_I	1
+threw_him	1
+set_it	1
+decided_it	1
 VBD_VBG
 was_wondering	1
 was_watching	1
@@ -5547,33 +5297,41 @@ told_story	1
 filmed_stage	1
 choreographed_manner	1
 NNP_RB
+Hindus_then	1
 Mahabharata_literally	2
 Brook_even	1
 Odyssey_just	1
+Mahabharata_mainly	1
 Madireddi_Really	1
 Krishna_wonderfully	1
 Mahabharata_not	1
 Mahabharata_ever	1
-Mahabharata_mainly	1
+Brook_yet	1
 Estienne_apparently	1
+Bharat_yet	2
 India_roughly	1
 POS_:
 's_-	1
 NNP_VBP
 Jesus_are	1
 Draupadi_are	1
+TO_JJR
+to_lower	1
 :_PRP
 ;_I	2
-;_it	3
 -_I	2
 ;_he	1
+--_I	1
 --_it	1
+:_I	1
+;_it	3
 NNS_IN
 characters_of	1
-films_of	1
+talents_since	1
 Years_ago	1
 times_over	1
 groups_of	1
+motivations_because	1
 limitations_of	1
 tales_by	1
 lineages_of	1
@@ -5582,6 +5340,7 @@ hours_of	1
 movies_with	1
 sets_of	3
 branches_of	1
+themes_as	1
 minutes_while	1
 geniuses_of	1
 stories_of	1
@@ -5620,8 +5379,9 @@ stories_from	2
 periods_of	1
 times_in	1
 gems_of	1
+people_so	1
 performances_of	1
-motivations_because	1
+hundreds_of	1
 ways_from	1
 reviews_for	1
 beginners_in	2
@@ -5629,16 +5389,18 @@ criticisms_of	1
 airs_of	1
 versions_of	2
 years_because	1
+films_of	1
 wrongs_against	1
 theatres_in	1
 dozens_of	1
 aspects_of	2
 guys_in	1
+children_though	1
 subtleties_of	1
 parallels_between	1
 women_in	1
 hearts_of	2
-hundreds_of	1
+minutes_because	1
 paths_in	1
 discussions_on	1
 features_of	1
@@ -5654,30 +5416,38 @@ Bhima_kills	1
 Fu_meets	1
 Krishna_responds	1
 Krishna_urges	1
-Brook_is	1
-Mahabharata_is	11
+Brook_is	2
+Mahabharata_is	14
 BUT_IS	1
-Arjuna_refuses	1
+Sarabhai_is	1
 Brookes_has	1
-Mahabharata_has	2
+Mahabharata_has	3
 THIS_IS	1
 RSC_has	1
 Brook_shows	1
+Yudhishthira_loses	1
 Krishna_reminds	1
 This_is	1
 Amazon_appears	1
-AND_is	1
+Mahabharata_permeates	1
 Yudhishthira_gambles	1
-Sarabhai_is	1
+Yudhishthira_recognizes	1
+Arjuna_refuses	1
+Vishnu_tries	1
 Krishna_has	2
 Brook_has	2
 Bible_has	1
 Drona_puts	1
 Gita_has	1
+Brooke_has	1
+Mahabbarata_is	1
 Mahabharata_feels	1
 Arjuna_selects	1
+Kauravas_chooses	1
 Meyers_stands	1
+AND_is	1
 Krishna_does	2
+Gilliam_is	1
 Hinduism_is	1
 VB_JJ
 produce_simple	1
@@ -5768,28 +5538,23 @@ RB_MD
 also_may	1
 much_can	1
 too_can	1
-NN_``
-phrase_``	1
-place_``	2
 VBG_NNP
 barring_Draupadi	1
 awaiting_Peter	1
 including_B.	1
 watching_Mahabharata	1
-VBD_,
-bought_,	1
-occurred_,	1
 FW_VBN
 </a>_Written	1
 VBD_.
 arrived_.	1
 was_.	1
-VBG_NNS
-reading_reviews	1
-watching_actors	1
-warring_sets	1
-siring_mortals	1
-warring_brothers	1
+CC_NNS
+or_miniseries	1
+and_concepts	1
+and_men	2
+and_years	1
+and_gods	1
+and_subtleties	1
 NNP_VBD
 Chopra_took	1
 Brooks_translated	1
@@ -5804,8 +5569,8 @@ Brook_omitted	1
 Olivier_did	1
 Carriere_created	1
 Brook_had	1
-WP_NNP
-what_Peter	1
+NNP_VBN
+Mahabharata_directed	1
 NNP_POS
 Brooke_'s	1
 Cliff_'s	1
@@ -5826,13 +5591,18 @@ personality_aside	1
 story_already	1
 story_also	1
 fire_everywhere	1
+result_however	1
 latter_reluctantly	1
 bit_too	1
+audience_much	1
+touch_as	1
 DVD_yet	1
 opera_ever	1
 film_instead	1
+day_maybe	1
 version_yet	1
 wisdom_right	1
+DVD_maybe	1
 film_never	1
 someone_else	1
 masterpiece_very	1
@@ -5840,10 +5610,14 @@ language_so	1
 listing_carefully	1
 movie_only	1
 equivalent_roughly	1
+level_then	1
 half_as	1
 notion_sometimes	1
 time_here	1
+group_thus	1
 poem_ever	1
+cast_rather	1
+film_so	1
 line_quickly	1
 play_rather	1
 place_just	1
@@ -5851,8 +5625,10 @@ friend_once	1
 WP_WDT
 What_that	1
 JJ_IN
+long_with	1
 useful_for	1
 ignorant_of	1
+gifted_if	1
 bad_in	1
 different_from	1
 grieve_for	1
@@ -5886,22 +5662,21 @@ blind_so	1
 unhappy_with	1
 justified_in	1
 abridged_that	1
+infinitesimal_that	1
 negative_about	1
 interested_in	2
-''_PRP
-''_they	1
-''_he	1
 NNS_NN
 scenes_featurette	1
 dice_game	1
 circumstances_anybody	1
 actors_fight	1
-arts_world	1
 media_presentation	2
+arts_world	1
+discs_watch	1
+hours_total	1
+mortals_polygamy	1
 NN_RP
 film_off	1
-IN_:
-without_--	1
 VBZ_DT
 meets_the	2
 is_the	18
@@ -5921,6 +5696,7 @@ makes_a	1
 has_a	1
 is_neither	1
 has_no	1
+means_the	1
 plays_the	1
 becomes_the	1
 is_no	1
@@ -5976,26 +5752,35 @@ think_Mr.Brook	1
 are_fog	1
 have_NO	1
 NN_PRP$
+cast_my	1
+place_his	1
+weapon_their	1
 surprise_my	1
-JJ_''
-secular_''	1
-juvenile_''	1
-international_'	1
 NN_FW
 actress_Mallika	1
 VB_CC
 know_but	1
 conceptualize_and	1
+fight_and	1
+act_but	1
 NNP_DT
 Shakuni_an	1
 USA_the	1
+Oida_the	1
 Arjuna_a	1
 BBC_a	1
 Bollywood_any	1
-Arjuna_another	1
+Gita_the	1
+Broadway_these	1
 See_this	1
-Oida_the	1
+Carriere_The	1
+Arjuna_another	1
+Bharatas_the	1
+Krishna_the	1
+Duryodhana_the	1
 VBN_NNP
+called_Lord	1
+titled_Peter	1
 watched_Brook	1
 RP_IN
 up_on	1
@@ -6008,30 +5793,6 @@ out_by	1
 VBN_NNS
 guided_paths	1
 written_versions	1
-,_NNP
-,_THIS	1
-,_Vietnam	1
-,_IT	1
-,_USA	1
-,_England	1
-,_Senegal	1
-,_Japan	1
-,_English	1
-,_Vyasa	1
-,_Yudhishthira	2
-,_AND	1
-,_Italy	1
-,_Duryodhan	1
-,_SO	1
-,_Krishna	1
-,_Peter	2
-,_BEATRIZ	1
-,_BUT	1
-,_Brook	1
-,_Nicholas	1
-,_Mallika	1
-,_Burkina-Faso	1
-,_Bill	2
 CC_NNP
 and_Television	1
 and_Marie-H	1
@@ -6043,31 +5804,23 @@ and_Brooks	1
 and_Arjuna	2
 and_Hindi	1
 and_Jesus	1
-but_Peter	1
+but_Peter	2
 or_The	1
 and_Duryodhana	1
 and_Krishna	2
 and_Jean-Claude	1
-CC_NNS
-or_miniseries	1
-and_concepts	1
-and_men	2
-and_years	1
-and_gods	1
-and_subtleties	1
-,_NNS
-,_folks	1
-,_chartecters	1
-,_sons	1
-,_cousins	1
-,_preferences	1
-,_brothers	1
-,_rulers	1
+VBG_NNS
+reading_reviews	1
+watching_actors	1
+warring_sets	1
+siring_mortals	1
+warring_brothers	1
 VBZ_IN
 gets_in	1
 parallels_that	1
 is_of	1
 develops_as	1
+lacks_in	1
 contains_within	1
 stands_above	1
 is_in	2
@@ -6086,8 +5839,6 @@ goes_into	1
 is_that	1
 says_that	2
 seems_that	1
-,_WDT
-,_which	7
 JJ_NN
 last_survivor	1
 sweeping_story	1
@@ -6112,6 +5863,7 @@ full_version	1
 diced_version	1
 Discreet_Charm	1
 entire_civilization	1
+secular_history	1
 graceless_prick	1
 prior_knowledge	1
 limited_understanding	1
@@ -6161,6 +5913,7 @@ audio_quality	1
 old_poet	1
 average_indian	1
 brilliant_work	2
+squalid_boring	1
 amazing_story	1
 great_work	2
 virual_encyclopedia	1
@@ -6201,8 +5954,10 @@ fascinating_story	1
 first_place	1
 overall_production	1
 full_story	1
+international_version	1
 virgin_birth	1
 powerful_mix	1
+good_Song	1
 truest-to-the-spirit_version	1
 Western_audience	1
 last_year	1

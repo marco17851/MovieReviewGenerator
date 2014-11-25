@@ -5,6 +5,7 @@ of_rap	1
 CD_WRB
 54_where	1
 NNP_IN
+Duff_from	1
 VJ_around	1
 NNS_RB
 stars_actually	1
@@ -20,10 +21,6 @@ CD_POS
 90_'s	1
 IN_VBG
 After_seeing	1
-IN_``
-as_``	1
-,_PRP
-,_it	2
 VBZ_JJ
 is_hysterical	1
 is_great	1
@@ -53,6 +50,8 @@ I_went	1
 it_brought	1
 WP_VBD
 who_done	1
+PRP_VBG
+it_featuring	1
 NNP_NN
 Oscar_contender	1
 VBZ_RB
@@ -66,9 +65,6 @@ a_copy	1
 a_cameo	1
 this_movie	1
 The_parade	1
-``_NNP
-``_Car	1
-``_Duff	1
 PRP_VBP
 I_think	1
 RB_DT
@@ -91,8 +87,6 @@ RB_IN
 away_from	1
 much_as	1
 especially_if	1
-,_RB
-,_very	1
 CC_PRP
 but_it	1
 but_I	1
@@ -103,10 +97,6 @@ RB_VB
 n't_claim	1
 PRP_.
 you_?	1
-PRP_,
-it_,	1
-NNP_,
-Plus_,	1
 FW_FW
 ***_!!!	1
 VBG_NN
@@ -117,8 +107,6 @@ hysterical_.	1
 cute_!	1
 VBD_RB
 was_never	1
-,_VBG
-,_featuring	1
 VBN_IN
 contained_in	1
 NNS_.
@@ -140,8 +128,6 @@ long_funny	1
 many_quotable	1
 JJR_IN
 more_like	1
-,_CC
-,_but	1
 NN_NNS
 rap_stars	1
 hip-hop_artists	1
@@ -150,6 +136,9 @@ comedy_who	1
 someone_who	1
 CD_CC
 1993_or	1
+NN_PRP
+cursing_it	1
+contender_it	1
 IN_RB
 like_really	1
 VBG_TO
@@ -161,8 +150,6 @@ CC_DT
 and_the	1
 MD_VB
 would_recommend	1
-,_JJR
-,_more	1
 IN_CD
 around_1990-91	1
 around_1993	1
@@ -181,26 +168,21 @@ EX_VBZ
 there_is	1
 VBP_DT
 are_a	1
-CC_``
-and_``	1
 NN_NN
 school_hip-hop	1
 NN_FW
 h_***	1
-NNP_''
-Duff_''	1
 DT_NNS
 the_rappers	1
 the_musicians	1
 the_actors	1
 IN_NNP
 from_MTV	1
-on_BET	1
 with_Rosi	1
+on_BET	1
+as_Car	1
 DT_NNP
 an_Oscar	1
-''_IN
-''_from	1
 DT_JJ
 a_serious	1
 a_good	2
@@ -221,17 +203,10 @@ CD_RB
 NNS_CC
 musicians_and	1
 actors_and	1
-._''
-?_''	1
 VBD_PRP
 done_it	1
 VBD_VBG
 went_searching	1
-NN_,
-pair_,	1
-movie_,	2
-cursing_,	1
-contender_,	1
 NN_.
 movie_.	1
 laugh_.	1
@@ -251,12 +226,14 @@ Lover_are	1
 :_PRP
 ..._It	1
 NN_CC
-movie_but	1
+movie_but	2
 WDT_VBP
 that_are	1
 TO_VB
 to_buy	1
 to_know	1
+NN_JJR
+movie_more	1
 POS_.
 's_.	1
 RB_RB
@@ -266,6 +243,7 @@ that_was	1
 NN_RB
 movie_especially	1
 laugh_much	1
+pair_very	1
 JJ_IN
 funny_as	1
 VBZ_DT
@@ -276,11 +254,12 @@ makes_a	1
 wants_a	1
 NNP_NNP
 MJ_This	1
+Plus_Dennis	1
 MTV_VJ	1
-Dr._Dre	1
+Rosi_O	1
 Dennis_Leary	2
 Ed_Lover	1
-Rosi_O	1
+Dr._Dre	1
 RB_VBZ
 actually_enhances	1
 also_makes	1
@@ -296,10 +275,9 @@ VBG_DT
 seeing_the	1
 RB_PRP
 recently_it	1
-,_NNP
-,_Dennis	1
 CC_NNP
 and_Ed	1
+and_Duff	1
 IN_DT
 during_the	1
 from_the	1

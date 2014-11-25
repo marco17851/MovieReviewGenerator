@@ -23,9 +23,6 @@ for_reading	1
 out_movie	1
 in_DVD	1
 in_front	1
-,_IN
-,_while	1
-,_if	2
 PRP_RB
 I_originally	1
 it_over	1
@@ -51,8 +48,6 @@ A_seemingly	1
 a_surprisingly	1
 A_very	1
 a_potentially	1
-LS_VBP
-i_have	1
 NNP_IN
 Explosion_at	1
 White_from	1
@@ -104,8 +99,6 @@ WRB_DT
 when_the	2
 RB_NNP
 just_God	1
-VBZ_``
-is_``	2
 IN_VBG
 of_looking	1
 about_sharing	1
@@ -116,14 +109,8 @@ afterward_.	1
 properly_.	1
 over_.	1
 so_.	1
-IN_``
-as_``	1
-of_``	2
-in_``	1
-,_PRP
-,_it	2
-,_I	1
-,_you	2
+VBP_.
+think_.	1
 VBZ_JJ
 is_unrealistic	1
 is_excellent	1
@@ -131,8 +118,8 @@ is_shy	1
 is_short	1
 is_good	1
 studies_hard	1
-RB_''
-accurately_''	1
+LS_VBP
+i_have	1
 NNS_LS
 films_i	1
 RB_VBG
@@ -158,9 +145,8 @@ all_that	1
 PRP_IN
 it_for	1
 it_as	1
+it_if	1
 them_of	1
-LS_RB
-i_absolutely	1
 CC_RB
 and_over	1
 and_very	1
@@ -168,8 +154,6 @@ and_especially	1
 VBG_.
 seeing_.	1
 coming_.	1
-VBN_,
-approved_,	1
 VBP_JJS
 find_most	1
 JJ_CC
@@ -193,14 +177,19 @@ where_you	1
 how_we	1
 how_it	1
 when_it	1
-,_EX
-,_there	1
-CC_MD
-and_can	1
+PRP_VBD
+it_was	1
+they_tried	1
+I_had	1
+It_showed	1
+it_carried	1
+I_did	1
+it_had	1
+I_found	2
+I_liked	1
+I_received	1
 NNP_FW
 BIBLICAL_!!!!!!	1
-JJ_CD
-first_25	1
 PRP$_JJ
 her_true	1
 their_own	1
@@ -211,8 +200,6 @@ my_very	1
 their_eventual	1
 JJS_PRP
 best_I	1
-RP_.
-up_.	1
 VB_VBN
 be_made	1
 be_used	1
@@ -222,8 +209,8 @@ be_prepared	1
 be_denied	1
 be_pleased	1
 have_preferred	1
-FW_DT
-!!!!!!_this	1
+NNP_DT
+God_this	1
 IN_PRP
 If_you	1
 before_it	1
@@ -241,8 +228,10 @@ that_it	1
 that_he	1
 that_we	1
 before_you	1
-''_.
-''_.	4
+VB_TO
+like_to	1
+try_to	1
+attempt_to	1
 VBZ_CD
 gives_one	1
 is_one	2
@@ -252,13 +241,17 @@ knows_and	1
 is_and	1
 VBN_CD
 given_5	1
-,_NN
-,_End	1
 CD_FW
 9:15_et	1
+RB_LS
+there_i	1
+WP_VBP
+who_are	1
+What_are	1
 VBP_PRP
 recommend_it	2
 FW_CC
+al_and	1
 66:8_and	1
 IN_FW
 of_Isaiah	1
@@ -272,6 +265,7 @@ CD_NNS
 200_years	1
 25_minutes	1
 VBN_RB
+approved_rightly	1
 put_together	1
 seen_yet	1
 ridiculed_mercilessly	1
@@ -378,25 +372,15 @@ this_video	2
 a_student	1
 the_witness	1
 The_knowledge	1
-IN_CC
-over_and	1
-about_or	1
-about_and	1
-,_VBZ
-,_gives	1
 DT_VBZ
 This_is	2
 this_is	2
 This_sets	1
-``_NNS
-``_signs	1
 VBN_RP
 watered_down	1
-``_NNP
-``_End	1
-``_Study	2
-``_Hmmm	1
-``_WOW	1
+VBN_JJ
+made_available	1
+been_nice	1
 PRP_VBP
 I_find	1
 you_want	1
@@ -419,9 +403,12 @@ CC_NNP
 and_YES	1
 or_God	1
 and_Knowledge	1
-WP_VBP
-who_are	1
-What_are	1
+RB_DT
+importantly_THE	1
+Unfortunately_this	1
+now_an	1
+Hopefully_a	1
+not_a	3
 DT_VBN
 both_involved	1
 PRP_JJ
@@ -446,18 +433,14 @@ it_talks	1
 He_'s	1
 DT_RBS
 the_most	1
+VBD_TO
+tried_to	1
 NNS_MD
 materials_will	1
 NNP_CD
 Amos_9:15	1
-DT_PRP
-all_we	1
-IN_,
-in_,	1
-that_,	1
-for_,	1
-VBN_''
-approved_''	1
+WP_MD
+what_may	1
 IN_.
 on_.	1
 while_.	1
@@ -475,10 +458,11 @@ FW_VBZ
 !!!!_thumbs	1
 VBG_IN
 looking_at	1
-,_RB
-,_rightly	1
-FW_,
-al_,	1
+RP_.
+up_.	1
+VBZ_NN
+'s_point	1
+presents_theory	1
 DT_CD
 This_one	1
 the_7	1
@@ -494,20 +478,25 @@ and_it	1
 and_I	4
 RBS_JJ
 most_wonderful	1
-,_VBD
-,_did	1
-``_DT
-``_the	1
+VBP_RB
+do_n't	1
+are_well	1
+are_not	1
+RB_VB
+n't_seem	1
+not_spend	1
+n't_spoil	1
+n't_come	1
+n't_do	1
+not_prepare	1
+ever_be	1
+not_be	3
+n't_know	1
 PRP_.
 it_.	2
 me_!	1
 FW_.
 6:2_.	1
-PRP_,
-it_,	1
-:_RB
--_not	1
--_rather	1
 IN_PRP$
 among_my	1
 at_our	1
@@ -516,33 +505,12 @@ of_my	2
 of_their	2
 about_His	1
 in_your	1
-NNS_''
-times_''	1
+VBD_NNS
+had_subtitles	1
 JJR_RBS
 >_most	1
-JJS_NNS
-most_movies	1
-''_NNS
-''_studies	1
-IN_JJ
-in_good	1
-of_evangelical	1
-for_such	1
-while_sincere	1
-in_humiliating	1
-with_much	1
-on_end-time	1
-into_end-time	1
-in_proper	1
-at_biblical	1
-of_christian	1
-of_national	1
-NNP_,
-66:8_,	1
-YES_,	1
-Israel_,	1
-Knowledge_,	1
-36:24_,	1
+PRP_VB
+it_be	1
 RB_WRB
 else_where	1
 NNP_.
@@ -564,6 +532,8 @@ NNPS_IN
 Streets_as	1
 PRP_WRB
 us_how	1
+WDT_PRP
+which_I	1
 CC_FW
 and_Hosea	1
 IN_IN
@@ -586,6 +556,7 @@ RP_TO
 up_to	1
 NNP_PRP
 Christian_I	1
+Knowledge_you	1
 JJ_VBN
 bible_based	1
 VB_IN
@@ -609,13 +580,12 @@ late_one	1
 JJ_VBG
 hard_hitting	1
 worth_seeing	1
+JJ_PRP
+old_it	1
 NNP_:
 Hmmm_...	1
-VBZ_RP
-thumbs_up	1
-JJ_,
-sincere_,	1
-old_,	1
+JJ_VBD
+sincere_did	1
 JJ_.
 late_.	1
 memorable_!	1
@@ -633,17 +603,15 @@ did_n't	2
 was_very	1
 found_very	1
 NN_DT
-prophecy_this	1
 impact_the	1
+prophecy_this	1
+fact_the	1
+defeat_another	1
+presentation_the	1
 faith_a	1
-RB_,
-importantly_,	1
-Hopefully_,	1
-here_,	1
-else_,	1
-there_,	1
-Unfortunately_,	1
-Personally_,	1
+NNS_VBP
+students_attend	1
+characters_are	1
 RBS_RB
 most_importantly	1
 VBN_IN
@@ -670,6 +638,7 @@ doubts_.	1
 subtitles_.	1
 lines_.	1
 principals_.	1
+times_.	1
 christians_.	1
 favourites_.	1
 credits_.	1
@@ -678,23 +647,17 @@ students_.	1
 intentions_?	1
 stars_.	1
 statements_.	1
-,_VBN
-,_rooted	1
-NNS_,
-organizers_,	1
-movies_,	1
-commentaries_,	1
-trailers_,	1
-proofs_,	1
-ages_,	1
+VBN_CC
+cut_and	1
+heard_and	1
 WP_LS
 what_i	1
 TO_DT
 to_all	1
 to_the	2
 to_a	1
-VBD_TO
-tried_to	1
+NN_CD
+film_one	1
 CC_IN
 and_over	1
 and_in	1
@@ -721,8 +684,6 @@ lots_to	1
 movies_to	1
 IN_WRB
 on_how	1
-:_JJR
--_>	1
 VBN_NN
 based_film	1
 JJ_NNS
@@ -739,8 +700,6 @@ few_movies	1
 Christian_films	1
 christian_movies	1
 stupid_conclusions	1
-VBP_.
-think_.	1
 VBZ_IN
 comes_like	1
 specialises_in	1
@@ -763,15 +722,11 @@ VBN_PRP
 watched_it	1
 LS_NN
 i_look	1
-NNS_DT
-years_this	1
+VBZ_RP
+thumbs_up	1
 WRB_JJ
 how_important	1
 how_long	1
-,_CC
-,_and	6
-,_but	4
-,_But	1
 VB_NN
 keep_watching.The	1
 advise_anyone	1
@@ -786,54 +741,50 @@ opening_scenes	1
 viewer_lots	1
 youth_groups	1
 bonus_materials	1
-,_CD
-,_one	1
-RB_DT
-now_an	1
-not_a	3
-WP_MD
-what_may	1
+NNS_NNS
+times_lines	1
+trailers_commentaries	1
+NN_NNP
+writer_Charles	1
 NN_WP
 campus_who	1
 idea_who	1
 anyone_who	1
+book_Who	1
 friend_who	1
-WDT_PRP
-which_I	1
+VBD_CD
+was_one	1
 VBP_TO
 decide_to	1
 want_to	1
-VBN_JJ
-made_available	1
-been_nice	1
+VB_VBD
+have_said	1
 PRP$_NNS
 his_principals	1
 its_proofs	1
 your_thoughts	1
-CC_,
-but_,	1
 PRP$_NNP
 My_Husband	1
 our_Church	1
 IN_JJS
 as_most	1
-VBD_NNS
-had_subtitles	1
 NN_PRP
 context_it	1
 movie_they	1
 way_you	1
+production_it	1
 VB_PRP$
 do_his	1
 form_your	1
 share_his	1
-VBZ_NN
-'s_point	1
-presents_theory	1
-TO_NNP
-to_Christ	1
+NNS_DT
+years_this	1
+IN_RB
+if_only	1
+with_very	1
 ._.
 ._.	1
+?_.	1
 VBN_DT
 written_some	1
 DT_VBD
@@ -849,6 +800,7 @@ RB_CC
 over_and	1
 quickly_and	1
 furiously_but	1
+here_but	1
 JJ_VBZ
 own_is	1
 important_is	1
@@ -870,9 +822,8 @@ can_appreciate	1
 could_have	1
 can_tell	1
 must_read	1
-NNS_VBP
-students_attend	1
-characters_are	1
+DT_EX
+that_there	1
 NNS_IN
 leaders_of	1
 Thanks_for	1
@@ -930,13 +881,12 @@ look_at	1
 are_into	1
 believe_in	1
 realize_as	1
-,_DT
-,_either	1
-,_this	1
-,_another	1
-,_a	1
-,_the	3
-,_THE	1
+IN_CC
+over_and	1
+that_But	1
+in_but	1
+about_and	1
+about_or	1
 NNP_NNPS
 Mercy_Streets	1
 VBP_PRP$
@@ -946,6 +896,8 @@ one_is	1
 NNS_VBD
 scenes_had	1
 minutes_were	1
+NNS_VBG
+organizers_telling	1
 VB_.
 escape_.	1
 do_.	1
@@ -960,16 +912,15 @@ and_consider	1
 and_possess	1
 and_try	1
 VBN_.
-seen_.	1
 denied_.	1
-based_.	1
+approved_.	1
 done_.	2
 paraphrased_.	1
+seen_.	1
+based_.	1
 JJ_TO
 reluctant_to	1
 hard_to	1
-,_VBG
-,_telling	1
 JJS_IN
 most_of	1
 VBP_NNS
@@ -977,8 +928,6 @@ are_surprises	1
 EX_VBZ
 There_is	2
 there_is	2
-``_WP
-``_Who	1
 EX_VBP
 There_are	1
 VBP_DT
@@ -991,8 +940,8 @@ am_no	1
 am_a	1
 recommend_this	1
 present_the	1
-CC_``
-and_``	1
+FW_DT
+!!!!!!_this	1
 NN_NN
 university_shot	1
 surprise_ending	1
@@ -1007,13 +956,12 @@ philosophy_class	1
 end_time	1
 DVD_version	1
 philosophy_group	3
+screenplay_End	1
 FW_FW
 et_al	1
 Isaiah_66:8	1
 Yay_!!!!	1
 Hosea_6:2	2
-NNP_''
-Time_''	1
 :_JJ
 ..._interesting	1
 WRB_CD
@@ -1041,12 +989,16 @@ IN_NNP
 of_Bible	1
 at_Arkansas	1
 about_Israel	1
+in_End	1
+of_WOW	1
 of_God	2
 at_Amazon	1
 up_:-RRB-	1
 on_Christian	1
+as_Study	1
 of_Israel	1
 in_Evangelism	1
+of_Hmmm	1
 DT_NNP
 a_Christian	1
 This_Christian	1
@@ -1100,44 +1052,40 @@ liked_this	1
 saw_this	2
 was_a	2
 showed_the	1
-``_VB
-``_join	1
+JJS_NNS
+most_movies	1
 NN_:
 woman_-	1
-VB_NNS
-love_folks	1
-entertain_viewers	1
-tell_people	1
 NNS_CC
-christians_and	1
-groups_and	1
 studies_and	1
-movies_and	1
-._''
-?_''	1
-!_''	2
+movies_and	2
+christians_and	1
+proofs_but	1
+groups_and	1
+ages_and	1
+commentaries_and	1
 VBD_PRP
 received_it	1
 found_it	1
 said_it	1
 NNP_JJ
 Christian_reluctant	1
-NN_,
-defeat_,	1
-screenplay_,	1
-theory_,	1
-man_,	1
-truth_,	1
-writer_,	1
-presentation_,	1
-film_,	1
-time_,	1
-fact_,	1
-movie_,	1
-video_,	1
-production_,	1
+IN_JJ
+in_good	1
+of_evangelical	1
+for_such	1
+while_sincere	1
+in_humiliating	1
+with_much	1
+on_end-time	1
+into_end-time	1
+in_proper	1
+at_biblical	1
+of_christian	1
+of_national	1
 NN_.
 learning_.	1
+harvest_.	1
 reason_.	1
 heart_.	1
 anyone_.	1
@@ -1174,11 +1122,8 @@ time_.	1
 message_.	1
 CC_NN
 and_learning	1
-VBN_CC
-cut_and	1
-heard_and	1
-VB_VBD
-have_said	1
+:_JJR
+-_>	1
 NN_IN
 student_by	1
 version_with	1
@@ -1194,6 +1139,7 @@ thief_in	1
 fan_of	2
 word_of	1
 date-setting_in	1
+video_if	1
 way_up	1
 resource_for	1
 sort_of	1
@@ -1206,7 +1152,7 @@ thought_in	1
 Word_of	1
 Harvest_before	1
 store_for	1
-believer_before	1
+movie_for	1
 something_of	1
 film_as	1
 paper_from	1
@@ -1216,12 +1162,13 @@ watch_of	1
 portrayal_of	1
 front_of	1
 existence_of	1
+believer_before	1
 account_of	1
 end_of	1
 rebirth_of	1
 Faith_with	1
 program_on	1
-movie_for	1
+man_while	1
 place_in	1
 thought_out	1
 book_at	1
@@ -1256,23 +1203,26 @@ that_specialises	1
 CC_DT
 but_this	1
 But_a	1
-and_the	2
+and_the	3
+but_either	1
 NN_VBN
-knowledge_offered	1
-topic_based	1
-paper_written	1
+theory_rooted	1
 vision_made	1
+topic_based	1
 research_done	1
+knowledge_offered	1
+paper_written	1
 IN_TO
 off_to	1
-''_VBN
-''_paraphrased	1
 NN_CC
 problem_and	1
 encounter_and	1
 gospel_and	1
+truth_and	1
 acting_and	1
 scripture_and	1
+time_but	1
+movie_and	1
 listening_and	1
 husband_and	1
 hour_and	1
@@ -1308,6 +1258,7 @@ to_mind	1
 to_build	1
 to_step	1
 to_show	2
+to_join	1
 to_give	1
 to_know	1
 to_think	1
@@ -1349,12 +1300,11 @@ book_is	1
 movie_has	1
 group_is	1
 theme_is	1
+harvest_is	1
 movie_makes	1
 material_is	1
 video_presents	1
 movie_deserves	1
-''_VBZ
-''_is	1
 RB_RB
 right_up	1
 up_there	1
@@ -1362,38 +1312,15 @@ very_well	2
 Not_just	1
 not_only	1
 Very_well	1
-VBP_RB
-do_n't	1
-are_well	1
-are_not	1
 VBD_IN
 had_on	1
 said_in	1
-PRP_VBD
-it_was	1
-they_tried	1
-I_had	1
-It_showed	1
-it_carried	1
-I_did	1
-it_had	1
-I_found	2
-I_liked	1
-I_received	1
+JJ_CD
+first_25	1
 NN_VBP
 group_decide	1
 NNS_:
 minutes_-	1
-RB_VB
-n't_seem	1
-not_spend	1
-n't_spoil	1
-n't_come	1
-n't_do	1
-not_prepare	1
-ever_be	1
-not_be	3
-n't_know	1
 DT_JJS
 the_best	1
 IN_WP
@@ -1416,15 +1343,16 @@ worth_while	1
 proper_in	1
 sure_about	1
 friendly_at	1
-DT_,
-that_,	1
-this_,	1
+VB_NNS
+love_folks	1
+entertain_viewers	1
+tell_people	1
 VBG_JJ
 Featuring_excellent	1
 WP_JJ
 who_Biblical	1
-TO_``
-to_``	1
+LS_RB
+i_absolutely	1
 NN_JJ
 fear_based	1
 Support_Christian	1
@@ -1450,11 +1378,13 @@ one_night	1
 VBZ_NNP
 IS_NOT	1
 is_Esau-Edom	1
+is_Study	1
 stars_David	1
-NN_``
-book_``	1
+NNP_NNS
+Time_studies	1
 NNP_NNP
 Harvest_</a>	1
+36:24_Amos	1
 <a href="http://www.amazon.com/gp/product/B00097E6NQ">_End	1
 Harvest-Luke_10:2	1
 Arkansas_State	1
@@ -1466,28 +1396,30 @@ Christian_TV	1
 David_White	1
 Ezekiel_36:24	1
 Charles_Weisman	1
+Israel_Isaiah	1
 NOT_BIBLICAL	1
 End_Time	1
+66:8_Ezekiel	1
 10:2_This	1
 Isaiah_66:8	1
 Irma_WOW	1
 Evangelism_Explosion	1
-VBD_CD
-was_one	1
-,_LS
-,_i	2
+VBZ_NNS
+is_signs	1
 RB_VBZ
 really_gets	1
-repeatedly_challenges	1
-only_makes	1
-Really_makes	1
 also_leaves	1
+Really_makes	1
+repeatedly_challenges	1
+else_gives	1
+only_makes	1
 NN_PRP$
 discrediting_his	1
 WDT_MD
 that_should	1
-NNS_NNS
-times_lines	1
+:_RB
+-_not	1
+-_rather	1
 RB_JJ
 too_late	1
 potentially_plausible	1
@@ -1510,9 +1442,6 @@ spoil_it	1
 tell_you	1
 PRP_DT
 you_the	1
-IN_RB
-if_only	1
-with_very	1
 WRB_IN
 where_for	1
 VBZ_VBN
@@ -1533,6 +1462,7 @@ RB_VBN
 well_done	2
 Biblically_based	1
 ignorantly_used	1
+accurately_paraphrased	1
 well_put	1
 well_versed	1
 often_misused	1
@@ -1541,15 +1471,15 @@ not_allowed	1
 never_heard	1
 NNP_VBD
 This_was	1
-NN_''
-harvest_''	2
+TO_NNP
+to_Christ	1
 VB_CD
 spend_1	1
 VB_CC
 stand_and	1
 continue_and	1
-NNP_DT
-God_this	1
+RB_PRP
+Personally_I	1
 RB_VBD
 originally_saw	1
 really_hit	1
@@ -1563,10 +1493,9 @@ VBZ_PRP
 makes_you	3
 leaves_you	1
 encourages_us	1
-VB_TO
-like_to	1
-try_to	1
-attempt_to	1
+DT_PRP
+this_you	1
+all_we	1
 VBN_TO
 allowed_to	1
 misused_to	1
@@ -1581,13 +1510,8 @@ be_afterward	1
 do_so	1
 Look_else	1
 prepare_properly	1
-PRP_VB
-it_be	1
-,_NNP
-,_Ezekiel	1
-,_Charles	1
-,_Amos	1
-,_Isaiah	1
+CC_MD
+and_can	1
 VBD_NN
 carried_alot	1
 hit_home	1
@@ -1595,8 +1519,6 @@ CC_NNS
 and_demands	1
 and_winds	1
 and_non-christians	1
-,_NNS
-,_commentaries	1
 WP_IN
 who_as	1
 JJ_JJ
@@ -1604,6 +1526,8 @@ proper_Biblical	1
 plain_stupid	1
 secular_scholastical	1
 young_british	1
+NNP_LS
+YES_i	1
 NNP_TO
 Study_to	2
 VB_RP
@@ -1644,7 +1568,7 @@ in_that	1
 as_a	5
 as_the	1
 at_a	1
-for_the	2
+for_the	3
 Beyond_that	1
 that_the	1
 upon_an	1

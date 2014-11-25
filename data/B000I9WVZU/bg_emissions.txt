@@ -18,25 +18,25 @@ in_comparison	1
 of_everything	1
 for_DVD	1
 about_anything	1
-,_IN
-,_with	3
-,_though	1
-,_because	1
-,_as	1
-,_about	1
-,_so	3
-,_for	1
-,_since	1
-POS_NNS
-'s_advertisements	1
+VBN_VBN
+been_cast	1
+JJ_IN
+talented_as	1
+great_with	1
+scrawny_in	1
+overnight_with	1
+sad_since	1
+funny_with	1
+funny_in	1
+stupid_at	1
+kewl_as	2
 NNS_WP
+dogs_who	1
 girls_who	2
 VBG_VBN
 being_plastered	1
 NN_EX
 casting_there	1
-``_JJ
-``_Dazed	1
 VBN_VBG
 been_slipping	1
 PRP$_RBS
@@ -47,13 +47,13 @@ tend_to	1
 get_to	1
 VBG_VBG
 including_seeing	1
-RP_NN
-out_concert	1
+NNP_IN
+Dawson_with	1
 NNS_RB
 advertisements_really	1
 years_ago	1
-DT_VBD
-this_was	1
+POS_NNS
+'s_advertisements	1
 CC_JJ
 and_bleached	1
 and_simple	1
@@ -68,23 +68,26 @@ would_never	1
 NN_WDT
 soundtrack_that	1
 movie_that	1
+film_which	1
+movie_which	1
 VB_DT
 hit_the	1
 be_an	1
 be_a	2
 see_this	1
+say_this	1
 find_a	1
 get_a	2
 UH_DT
 Oh_this	1
-RB_,
-much_,	1
-finally_,	1
-However_,	1
-before_,	1
-Suddenly_,	1
-too_,	1
-well_,	2
+IN_VBG
+without_hearing	1
+of_portraying	1
+in_seeing	1
+in_keeping	1
+with_winning	1
+from_being	1
+while_updating	1
 IN_VBD
 as_did	1
 RB_.
@@ -95,16 +98,8 @@ too_!	1
 recently_.	1
 there_.	1
 alone_!	1
-VBP_,
-find_,	1
-IN_``
-on_``	2
-,_PRP
-,_it	2
-,_he	1
-,_I	1
-,_you	1
-,_they	2
+VBP_.
+suppose_.	1
 VBZ_JJ
 is_funny	1
 is_gorgeous	1
@@ -138,6 +133,7 @@ itself_since	1
 her_in	1
 it_for	1
 'em_for	1
+You_as	1
 it_from	1
 it_at	1
 them_like	1
@@ -154,16 +150,16 @@ or_maybe	1
 and_really	1
 and_definitely	1
 and_again	1
-VBN_,
-cast_,	1
-talented_,	1
 RB_:
 here_:	1
 JJ_CC
-gorgeous_and	1
-old_and	1
+easy_or	1
+naive_and	1
 clear_and	1
 Dazed_and	1
+gorgeous_and	1
+old_and	1
+overnight_and	1
 WP_DT
 what_some	1
 WRB_PRP
@@ -172,15 +168,10 @@ When_I	1
 when_she	1
 When_he	1
 when_it	1
-IN_CC
-of_and	1
-on_and	1
 :_IN
 ..._if	1
 JJ_VBP
 Little_do	1
-JJ_CD
-first_10	1
 PRP$_JJ
 their_own	1
 my_all-time	1
@@ -188,13 +179,8 @@ my_top	1
 their_market-savvy	1
 JJ_NNPS
 little_Pussycats	1
-RP_.
-up_.	1
-VB_VBN
-be_placed	1
-be_eliminated	1
-NNP_DT
-Though_the	1
+VBD_WRB
+loved_when	1
 IN_PRP
 around_them	1
 of_me	1
@@ -220,13 +206,14 @@ have_to	1
 listen_to	2
 VBN_RB
 cast_as	1
+VBZ_CC
+seems_or	1
 RP_PRP
 out_I	1
 CD_NN
 one_song	1
-,_NN
-,_TOO	1
-,_ha	1
+VBD_VBN
+had_been	1
 POS_NN
 's_boss	1
 's_character	1
@@ -256,19 +243,21 @@ she_let	1
 I_loved	2
 CD_NNS
 300_times	1
+one_Puppies	1
 5_times	1
 10_minutes	1
+PRP_PRP
+it_it	1
 PRP_VBG
 themselves_being	1
 myself_quoting	1
 myself_watching	1
 her_going	1
-VBD_WRB
-loved_when	1
 NNP_NN
 Moon_movie	1
 Backstage_featurette	1
 VBZ_RB
+happens_literally	1
 is_pretty	1
 says_otherwise	1
 is_never	1
@@ -279,8 +268,6 @@ is_greatly	1
 's_so	1
 is_only	1
 is_always	1
-,_:
-,_...	1
 NN_POS
 character_'s	1
 DT_NN
@@ -340,10 +327,8 @@ VBN_RP
 sold_out	1
 RB_PRP$
 maybe_their	1
-``_NNP
-``_Orange	1
-``_Down	1
-``_Josie	1
+VBN_JJ
+been_able	1
 PRP_VBP
 I_watch	1
 I_make	2
@@ -383,10 +368,8 @@ it_pokes	1
 he_stumbles	1
 it_seems	1
 It_'s	1
-PDT_DT
-all_the	1
-VBN_VBN
-been_cast	1
+UH_CC
+Oh_and	1
 NNP_CC
 Josie_and	3
 Fiona_and	1
@@ -397,36 +380,32 @@ Reid_and	1
 Alexander_and	1
 Elfont_and	1
 Ried_and	1
+Posey_plus	1
 Posey_and	1
 McCoy_and	1
+Valentine_and	1
 Valerie_and	1
 DT_CD
 this_one	1
 the_two	1
-VBD_DT
-had_no	1
-did_the	1
-let_the	1
-added_some	1
-got_the	1
-got_a	1
-did_a	2
-WP_MD
-who_'d	1
+DT_JJR
+the_better	1
+RP_NN
+out_concert	1
 VBP_NN
 make_fun	1
-IN_,
-in_,	1
-though_,	1
-on_,	1
+PDT_DT
+all_the	1
 VBD_JJR
 was_more	1
 NN_VBG
 job_being	1
+minimum_focusing	1
 ??_Realizing	1
 RB_IN
 immediately_without	1
 ago_in	1
+However_since	1
 aside_from	1
 just_about	1
 only_in	1
@@ -441,20 +420,19 @@ going_on	1
 looking_in	1
 selling_like	1
 looking_for	1
-``_PRP
-``_You	1
-,_RB
-,_aside	1
-,_literally	1
-,_not	1
+RP_.
+up_.	1
 RB_CC
-here_and	1
+well_and	1
 on_and	1
+here_and	1
+much_but	1
 JJ_.
-self-aware_.	1
-simple_.	1
-blonde_.	1
 hilarious_!	1
+blonde_.	1
+self-aware_.	1
+Confused_.	1
+simple_.	1
 funny_!	1
 CC_PRP
 and_they	1
@@ -489,8 +467,6 @@ it_.	2
 her_!	1
 me_!	1
 them_.	1
-PRP_,
-it_,	1
 VBN_.
 surprised_.	1
 made_.	1
@@ -508,34 +484,9 @@ mentioned_before	1
 was_really	2
 was_extremely	1
 came_on	1
-,_WP
-,_who	1
-IN_JJ
-of_candy-colored	1
-as_usual	1
-with_hideous	1
-with_subliminal	1
-on_quirky	1
-of_sexual	1
-beyond_logical	1
-with_beautiful	1
-like_mad	1
-of_young	1
-NNP_,
-Valentine_,	1
-Posey_,	1
-Dawson_,	1
-Melody_,	2
-Rachael_,	1
-Megarecords_,	1
-McCoy_,	1
-Cooke_,	1
-Brown_,	1
-Fiona_,	1
-Jour_,	2
-Riverdale_,	1
-Frame_,	1
-Park_,	1
+PRP_VB
+they_know	1
+you_think	1
 CD_JJ
 two_trouble-making	1
 NNP_.
@@ -548,10 +499,11 @@ Riverdale_.	1
 CC_VBZ
 or_does	1
 But_is	1
-PRP_WRB
-me_when	1
+JJ_MD
+gorgeous_may	1
 IN_IN
 on_about	1
+though_for	1
 because_of	1
 As_for	2
 that_on	1
@@ -561,13 +513,13 @@ her_character	1
 my_curiousity	1
 your_head	1
 their_music	1
-VBN_JJ
-been_able	1
+DT_VBD
+this_was	1
 NNP_PRP
 LOL_I	1
 U.S.A._They	1
-CC_VBD
-and_airheaded	1
+JJ_VBN
+hideous_chopped	1
 JJ_RB
 excellent_also	1
 VB_IN
@@ -582,58 +534,38 @@ VBG_NN
 struggling_garage	1
 quoting_Val	1
 winning_support	1
+JJR_IN
+more_than	1
+better_of	1
 JJ_VBG
 nice_seeing	1
 worth_watching	1
 JJ_PRP
+gorgeous_they	1
 sure_I	1
 NNP_:
 Cook_:	1
-JJ_,
-gorgeous_,	2
-smart_,	1
-long_,	1
-featurette_,	1
-beautiful_,	1
-hideous_,	1
-easy_,	1
-funny_,	1
-great_,	1
-usual_,	1
-naive_,	1
-overnight_,	1
 PRP_DT
 it_a	1
 you_some	1
 VBG_PRP$
 using_their	1
 RB_DT
-simply_an	1
-twice_a	1
-n't_all	1
-not_a	1
 now_these	1
+simply_an	1
+not_a	1
+twice_a	1
+Suddenly_the	1
+n't_all	1
 NN_DT
 sense_the	1
-IN_VBG
-without_hearing	1
-of_portraying	1
-in_seeing	1
-in_keeping	1
-with_winning	1
-from_being	1
-while_updating	1
-JJ_IN
-talented_as	1
-scrawny_in	1
-overnight_with	1
-sad_since	1
-funny_in	1
-stupid_at	1
-kewl_as	2
+VB_VBN
+be_placed	1
+be_eliminated	1
 VBN_IN
 overpowered_by	1
 placed_on	1
+cast_though	1
 cast_as	1
 pounded_over	1
 helped_by	1
@@ -647,21 +579,6 @@ films_.	1
 niblettes_.	1
 dream-girls_.	1
 fans_.	1
-,_VBN
-,_chopped	1
-NNS_,
-extras_,	1
-voices_,	1
-leads_,	1
-tracks_,	1
-friends_,	1
-times_,	1
-things_,	1
-dogs_,	1
-villains_,	1
-videos_,	1
-scenes_,	1
-messages_,	1
 WDT_RB
 that_just	1
 TO_DT
@@ -681,16 +598,13 @@ stops_.	1
 is_.	1
 VBP_JJ
 get_old	1
+make_sure	1
 're_gorgeous	1
 are_great	1
-make_sure	1
-VBZ_,
-happens_,	1
-seems_,	1
-,_``
-,_``	1
+find_boy-band	1
 RB_NN
 n't_mess	1
+too_TOO	1
 NNS_TO
 moments_to	1
 shoes_to	1
@@ -700,9 +614,11 @@ since_when	1
 NN_IN
 point_of	1
 town_of	1
+character_on	1
 concert_on	1
 band_from	1
 LOT_of	1
+personality_so	1
 piece_of	1
 person_because	1
 feeling_about	1
@@ -710,7 +626,7 @@ issue_beyond	1
 idea_that	1
 fitting_in	1
 job_of	2
-sense_of	1
+strip_about	1
 cover_of	1
 gain_in	1
 man_at	1
@@ -718,13 +634,16 @@ fun_at	1
 support_from	1
 movie_at	1
 placement_of	1
+advertising_so	1
+sense_of	1
+film_as	1
 everything_from	1
 fun_of	3
 anything_for	1
 note_of	1
 image_of	1
 kind_of	1
-character_on	1
+girl_so	1
 version_of	1
 america_with	1
 youth_of	1
@@ -761,16 +680,18 @@ young_girls	1
 top_dream-girls	1
 favorite_films	1
 hilarious_villains	1
-VBP_.
-suppose_.	1
 JJ_JJ
+beautiful_long	1
 all-time_favorite	1
 hot_little	1
+long_brown	1
 real_acting	1
+featurette_great	1
 own_personal	1
 other_little	1
 sidebar_comic	1
 great_deleted	1
+smart_funny	1
 JJ_NNP
 fabulous_Parker	1
 wrong_Pussy	1
@@ -784,36 +705,39 @@ WP_VBZ
 who_plays	1
 who_says	1
 What_'s	1
-JJR_IN
-more_than	1
-better_of	1
+VBN_PRP
+seen_her	1
+talented_they	1
 IN_JJS
 at_least	1
 IN_PDT
 for_all	1
-CD_``
-one_``	1
+NNS_DT
+times_this	1
+scenes_a	1
 WRB_JJ
 when_simple-minded	1
 how_gorgeous	1
-,_CC
-,_and	13
-,_or	2
-,_plus	1
-,_but	3
 VB_NN
 sell_everything	1
 NN_NNS
 record_companies	1
 tennis_shoes	1
 DVD_extras	1
+magazine_albums	1
 shower_curtains	1
 NNS_NNP
+villains_Fiona	1
+things_Orange	1
 Directors_Deborah	1
-,_CD
-,_two	1
-RP_NNP
-off_Mel	1
+things_Wyatt	1
+leads_Rachael	1
+friends_Valerie	1
+NNPS_VBP
+Pussycats_are	1
+NN_NNP
+boss_Fiona	1
+character_Melody	1
 NNPS_VBZ
 Pussycats_is	1
 NN_WP
@@ -835,6 +759,9 @@ its_leads	1
 your_kids	1
 their_instruments	1
 their_tracks	1
+RB_NNP
+finally_Rachael	1
+before_Rachael	1
 CC_NN
 and_product	1
 and_cd	1
@@ -844,14 +771,20 @@ and_Val	1
 and_branding	1
 VBG_NNP
 portraying_Melody	1
+CC_VBD
+and_airheaded	1
 NN_PRP
 casting_I	1
 something_I	1
 week_they	1
 hunk_I	1
+Val_You	1
 everything_I	1
+ha_you	1
+hand_he	1
 pussycat_I	1
 way_they	1
+TV_it	1
 everytime_it	1
 movie_I	1
 IN_RB
@@ -866,10 +799,9 @@ were_excellent	1
 NNS_MD
 pussycats_must	1
 reviewers_might	1
-,_MD
-,_may	1
 JJ_DT
 gorgeous_the	1
+usual_a	1
 VBG_TO
 trying_to	1
 gon_na	1
@@ -893,8 +825,6 @@ exploit_that	1
 grow_into	1
 work_in	1
 like_that	1
-PRP_''
-You_''	1
 MD_VB
 could_relate	1
 must_have	1
@@ -904,9 +834,6 @@ will_give	1
 might_say	1
 must_be	1
 can_be	1
-,_VBZ
-,_decides	1
-,_is	1
 RB_CD
 Definitely_one	1
 definitely_one	1
@@ -924,17 +851,13 @@ days_tend	1
 teens_are	1
 girls_do	1
 comedies_have	1
-TO_PRP
-to_it	1
-To_You	1
-to_her	1
+WP_MD
+who_'d	1
 VB_VBG
 be_looking	1
 RB_VBG
 eventually_buying	1
 not_changing	1
-VBN_``
-dubbed_``	1
 NNS_VBZ
 pussycats_is	1
 PRP_MD
@@ -944,10 +867,10 @@ I_could	2
 they_ca	1
 WRB_NNP
 When_Valerie	1
-,_DT
-,_this	4
-,_a	3
-,_the	5
+IN_CC
+of_and	1
+in_and	1
+on_and	1
 VBP_VBN
 are_overpowered	1
 have_been	1
@@ -958,18 +881,19 @@ let_your	1
 have_their	1
 NNP_UH
 LOL_Oh	1
-VB_,
-say_,	1
+NNS_EX
+extras_there	1
 NNS_VBG
 girls_crossing	1
 albums_selling	1
+tracks_using	1
 fans_buzzing	1
 VB_.
 Enjoy_!	1
 finish_.	1
 watch_.	1
-,_VBD
-,_was	1
+JJR_CC
+better_and	1
 VBP_VBG
 are_trying	1
 are_brainwashing	1
@@ -979,24 +903,24 @@ JJ_TO
 true_to	1
 able_to	1
 desperate_to	1
-,_VBG
-,_focusing	1
-,_using	1
-,_including	1
-NNS_VBN
-confetti_based	1
-advertisements_aimed	1
-DT_JJR
-the_better	1
+VBD_DT
+had_no	1
+did_the	1
+let_the	1
+added_some	1
+got_the	1
+got_a	1
+did_a	2
+VBZ_NN
+is_PG-13	1
+is_fun	1
+is_everything	1
+makes_fun	1
 VBP_NNP
 'm_Pussycat	1
 watch_South	1
 love_Parker	1
 think_Alan	1
-``_WP
-``_What	1
-UH_,
-Oh_,	1
 NNS_JJ
 scenes_featurette	1
 VBP_DT
@@ -1007,18 +931,16 @@ form_a	1
 have_a	1
 love_this	2
 carry_this	1
-VBN_DT
-missed_the	1
-seen_this	1
 NN_NN
 cartoon_band	1
 pop_sensation	1
 placement_advertising	1
-mean_person	1
+hair_ha	1
 boy_band	1
 garage_band	1
 record_business	1
 product_placement	2
+mean_person	1
 music_industry	1
 cartoon_character	2
 band_parody	1
@@ -1027,11 +949,19 @@ century_audience	1
 movie_everytime	1
 stoner_girl	1
 potty_humor	1
+VB_RB
+seem_ridiculously	1
+have_completely	1
+reach_recently	1
+do_just	1
 TO_.
 to_.	3
-,_WDT
-,_which	2
+TO_PRP
+to_it	1
+To_You	1
+to_her	1
 NN_VBD
+parody_was	1
 branding_was	1
 curiousity_got	1
 DT_NNS
@@ -1060,6 +990,7 @@ IN_NNP
 of_Riverdale	1
 as_Valerie	1
 on_VHS	1
+as_Josie	1
 of_Rachael	1
 with_Rachael	1
 that_Josie	1
@@ -1067,9 +998,10 @@ at_Megarecords	1
 since_Elfont	1
 as_Sailor	1
 in_Riverdale	1
-as_Josie	1
+on_Down	1
 that_Wyatt	1
 like_Barney	1
+on_Wyatt	1
 upon_Josie	1
 with_McDonald	1
 so_God	1
@@ -1078,18 +1010,8 @@ the_Archie	1
 the_Backstage	1
 NNS_WDT
 Groups_that	1
-''_IN
-''_as	1
 NNPS_NN
 Pussycats_video	1
-,_JJ
-,_long	1
-,_great	1
-,_funny	1
-,_boy-band	1
-,_brown	1
-,_EX
-,_there	1
 :_RB
 ..._well	1
 DT_JJ
@@ -1135,8 +1057,8 @@ a_new	1
 the_subliminal	1
 a_21st	1
 a_busy	1
-VBD_VBN
-had_been	1
+NNP_VB
+Melody_make	1
 VBZ_IN
 's_because	1
 is_like	1
@@ -1144,18 +1066,20 @@ stumbles_upon	1
 JJS_NNS
 best_friends	1
 NN_:
+PG-13_...	1
 presentation_...	1
 CD_RB
 two_very	1
 NNS_CC
 theaters_and	1
 characters_and	1
+voices_but	1
+videos_and	1
 hotcakes_and	1
 trends_and	1
 logos_and	1
-._''
-?_''	1
-!_''	3
+VBZ_VB
+does_make	1
 VBD_PRP
 seen_it	1
 found_myself	1
@@ -1163,31 +1087,18 @@ loved_it	1
 saw_it	1
 NNP_JJ
 Archie_sidebar	1
-NN_,
-fortune_,	1
-TV_,	1
-advertising_,	1
-ha_,	1
-Val_,	1
-joke_,	1
-personality_,	1
-video_,	1
-hair_,	2
-minimum_,	1
-head_,	1
-hand_,	1
-film_,	2
-act_,	1
-strip_,	1
-girl_,	1
-choice_,	1
-spotlight_,	1
-boss_,	1
-magazine_,	1
-character_,	2
-parody_,	1
-movie_,	1
-PG-13_,	1
+IN_JJ
+of_candy-colored	1
+as_usual	1
+with_hideous	1
+on_Dazed	1
+with_subliminal	1
+on_quirky	1
+of_sexual	1
+beyond_logical	1
+with_beautiful	1
+like_mad	1
+of_young	1
 NN_.
 cd_.	1
 role_.	1
@@ -1211,20 +1122,17 @@ audience_.	1
 movie_.	1
 classic_.	1
 pink_!	1
-NNS_``
-things_``	1
 VBZ_VBG
 is_hogging	1
 is_gon	1
 is_looking	1
-VBZ_NN
-is_PG-13	1
-is_fun	1
-is_everything	1
-makes_fun	1
-''_.
-''_.	1
+NNS_VBN
+confetti_based	1
+advertisements_aimed	1
+RP_NNP
+off_Mel	1
 NNP_RB
+Melody_aside	1
 Kaplan_already	1
 RB_JJR
 much_older	1
@@ -1232,8 +1140,9 @@ little_better	1
 NNP_VBP
 Elfont_do	1
 God_bless	1
-NNPS_''
-Pussycats_''	1
+VBN_DT
+missed_the	1
+seen_this	1
 CC_DT
 but_that	2
 and_some	1
@@ -1244,6 +1153,7 @@ and_the	5
 and_this	1
 NNS_IN
 laughs_on	1
+messages_because	1
 instruments_in	1
 times_that	1
 members_of	1
@@ -1259,11 +1169,18 @@ guys_like	1
 messages_under	1
 deaths_of	1
 NN_CC
-cast_and	1
+act_and	1
+spotlight_and	1
 fame_and	1
 band_and	1
 Jsie_and	1
+hair_and	1
+character_but	1
+choice_and	1
+cast_and	1
+head_and	1
 song_and	1
+fortune_and	1
 dvd_and	1
 sunshine_and	1
 WDT_VBP
@@ -1286,11 +1203,13 @@ to_get	2
 NNP_VBZ
 Wyatt_is	1
 Valerie_begins	1
+Fiona_decides	1
 Orange_is	1
-Josie_is	1
+Wyatt_preoccupies	1
 Cook_is	1
 ALSO_begins	1
-Wyatt_preoccupies	1
+Megarecords_is	1
+Josie_is	1
 M._is	1
 Green_is	1
 RB_MD
@@ -1299,6 +1218,7 @@ CC_WRB
 But_when	1
 and_when	1
 NN_CD
+video_two	1
 number_one	1
 WP_PRP
 what_it	1
@@ -1311,11 +1231,10 @@ success_happens	1
 placement_is	1
 band_does	1
 rating_is	1
-,_VB
-,_make	1
 EX_RB
 there_too	1
 NNP_VBG
+Rachael_including	1
 Posey_being	1
 RB_RB
 that_much	1
@@ -1333,8 +1252,8 @@ her_and	1
 VBD_IN
 was_on	1
 messed_with	1
-''_VBP
-''_are	1
+JJ_CD
+first_10	1
 RBS_JJ
 most_recent	1
 NN_VBP
@@ -1355,13 +1274,14 @@ Wyatt_'s	1
 McDonald_'s	1
 IN_WP
 Despite_what	1
-VBZ_VB
-does_make	1
+PRP_WRB
+me_when	1
 NN_RB
 movie_though	1
-innuendo_here	1
+joke_not	1
 bit_too	1
 message_here	1
+innuendo_here	1
 nothing_else	1
 PRP_RB
 it_just	1
@@ -1376,8 +1296,6 @@ it_really	1
 it_never	1
 he_just	1
 I_also	3
-DT_,
-all_,	1
 DT_.
 that_.	1
 VBG_JJ
@@ -1403,8 +1321,6 @@ it_up	1
 :_PRP
 ..._it	1
 ..._I	1
-``_NNS
-``_Puppies	1
 VBZ_NNP
 plays_Alan	1
 NNP_NNS
@@ -1413,9 +1329,11 @@ Mercury_years	1
 NNP_NNP
 Tara_Ried	1
 Wyatt_Frame	1
+Riverdale_U.S.A.	1
 Tara_Reid	2
 Melody_ALSO	1
 Rachael_Leigh	4
+Jour_Wyatt	1
 Parker_Posey	4
 Leigh_Cooke	1
 Du_Jour	3
@@ -1427,6 +1345,7 @@ Josie_McCoy	2
 Sailor_Mercury	1
 Deborah_Kaplan	1
 Alan_M.	2
+Cooke_Tara	1
 Melody_Valentine	1
 Rosario_Dawson	3
 Sailor_Moon	1
@@ -1473,8 +1392,6 @@ of_my	2
 under_their	1
 over_your	1
 at_their	1
-JJ_''
-Confused_''	1
 VB_PRP
 make_you	1
 get_it	1
@@ -1497,8 +1414,8 @@ CC_PRP$
 and_her	2
 WRB_NN
 when_nothing	1
-NNPS_,
-Pussycats_,	1
+DT_DT
+all_this	1
 RB_VBN
 completely_missed	1
 nicely_cast	1
@@ -1534,6 +1451,7 @@ hogging_the	1
 hearing_a	1
 buying_the	1
 RB_PRP
+well_I	1
 soon_I	1
 here_they	1
 soon_they	1
@@ -1541,6 +1459,8 @@ RB_VBD
 really_stood	1
 really_added	1
 else_was	1
+VBN_NNP
+dubbed_Josie	1
 RP_IN
 around_with	1
 out_for	1
@@ -1554,22 +1474,13 @@ chopped_and	1
 VBN_TO
 meant_to	1
 used_to	1
-VB_RB
-seem_ridiculously	1
-have_completely	1
-reach_recently	1
-do_just	1
-PRP_VB
-they_know	1
-you_think	1
-,_NNP
-,_Valerie	1
-,_Melody	1
-,_Fiona	2
-,_Wyatt	3
-,_U.S.A.	1
-,_Rachael	3
-,_Tara	1
+NNP_DT
+Brown_the	1
+Park_this	1
+Frame_the	1
+Jour_the	1
+McCoy_the	1
+Though_the	1
 CC_NNP
 and_Du	1
 and_Melody	1
@@ -1582,16 +1493,12 @@ and_Alexandra	1
 CC_NNS
 and_fans	1
 and_rainbows	1
-,_NNS
-,_albums	1
-JJR_CC
-better_and	1
+NNPS_DT
+Pussycats_a	1
 NNS_:
 kids_...	1
 NNP_TO
 Down_To	1
-VBN_PRP
-seen_her	1
 VB_RP
 make_up	1
 VBG_PRP

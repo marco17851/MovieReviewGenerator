@@ -1,7 +1,9 @@
-``_JJ
-``_6th	1
 NNP_IN
 Seattle_in	1
+DT_NNS
+every_sports	1
+the_odds	1
+the_headlines	1
 CC_JJ
 and_other	1
 and_perrenial	1
@@ -46,12 +48,8 @@ DT_NN
 the_person	1
 a_DVD	1
 the_disc	1
-``_NNP
-``_Big	1
 PRP_VBP
 They_are	1
-JJ_``
-other_``	1
 RB_DT
 just_that	1
 PRP_VBZ
@@ -59,35 +57,18 @@ It_'s	1
 NNP_CC
 Horry_or	1
 Pippen_and	1
-Starks_and	1
+Bogues_and	1
 Webb_and	1
-NNP_``
-Robert_``	1
+Starks_and	1
 RB_IN
 Even_with	1
-,_RB
-,_namely	1
 DT_CD
 the_1977	1
-PRP_,
-them_,	1
 IN_PRP$
 with_their	1
-''_NNP
-''_Horry	1
-''_NNS
-''_overachievers	1
-NNP_,
-Bogues_,	1
-Wallace_,	1
-Elie_,	1
-Walton_,	1
-Garnett_,	1
 NNP_.
 Armstrong_.	1
 NBA_.	1
-,_VBG
-,_including	1
 PRP$_NN
 their_epic	1
 CC_VBD
@@ -112,11 +93,6 @@ NNS_.
 performances_.	1
 UNDERDOGS_.	1
 stories_.	1
-NNS_,
-upsets_,	1
-players_,	1
-,_VBP
-,_have	1
 TO_DT
 to_the	2
 CC_NNPS
@@ -131,18 +107,18 @@ TRUE_UNDERDOGS	1
 inspirational_stories	1
 heroic_tales	1
 JJ_JJ
+other_6th	1
 little_big	1
 perrenial_all-star	1
 CD_IN
 one_of	1
-,_CC
-,_and	1
 VB_NNP
 see_NBA	1
 see_Robert	1
 NN_NNS
 Trail_Blazers	1
 epic_performances	1
+man_overachievers	1
 NN_NNP
 seed_Shawn	1
 host_Bill	1
@@ -159,13 +135,12 @@ VB_VBN
 have_loved	1
 CC_NN
 and_injury	1
-,_DT
-,_an	1
-,_these	1
 NNP_NNPS
 NBA_Upsets	1
 NNP_VBZ
 Video_explores	1
+NNS_VBG
+players_including	1
 VBP_VBG
 depsite_being	1
 JJ_TO
@@ -176,12 +151,8 @@ VBP_DT
 are_the	3
 NN_NN
 championship_run	1
-NNP_''
-Bob_''	1
-DT_NNS
-every_sports	1
-the_odds	1
-the_headlines	1
+NNS_RB
+upsets_namely	1
 IN_NNP
 like_Spud	1
 of_Scottie	1
@@ -224,6 +195,7 @@ person_of	1
 run_of	1
 NNP_VBP
 Noteworthy_are	1
+Walton_have	1
 WDT_VBZ
 that_has	1
 NNS_IN
@@ -266,42 +238,45 @@ NNP_NNS
 NBA_finals	1
 NNP_NNP
 New_York	1
+Bob_Horry	1
 Ben_Wallace	1
 Kevin_Garnett	1
+Elie_John	1
 Mugsy_Bogues	1
+Bill_Walton	1
 NBA_Video	1
+Shawn_Kemp-led	1
 John_Starks	1
 Kemp-led_Seattle	1
 Spud_Webb	1
-Bill_Walton	1
+Garnett_NBA	1
 NBA_Entertainment	1
 Scottie_Pippen	1
 Darrel_Armstrong	1
 Big_Shot	1
 Mario_Elie	1
-Shawn_Kemp-led	1
+Robert_Big	1
 Shot_Bob	1
 DT_JJS
 the_greatest	2
 DT_WDT
 this_that	1
+PRP_DT
+them_these	1
 VBZ_VBN
 has_become	1
 RB_VBN
 truly_inspired	1
 Also_included	1
-NN_''
-man_''	1
 VBG_DT
 being_an	1
+NNP_DT
+Wallace_an	1
 RP_IN
 up_with	1
 VBN_TO
 loved_to	1
 managed_to	1
-,_NNP
-,_NBA	1
-,_John	1
 CC_NNP
 and_Kevin	1
 and_Mugsy	1

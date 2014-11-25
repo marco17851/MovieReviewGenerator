@@ -33,6 +33,9 @@ import random
 import string        #some string-related utilities
 import sys        #for command-line args
 import re    #for regular expressions
+from nltk.corpus import wordnet as wn
+import nltk
+import sys
 import os
 import math
 import ngram
@@ -48,7 +51,7 @@ uniPosEmissions = defaultdict(list)
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
 
 #do not use the following words/part-of-speech tags in generating the sentence
-dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
+dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>", "''", "\"\"", ",", "``"]
 
 """
 Inner class to compare two sentences (based on perplexity, TFIDF score, or some other measure)
@@ -485,6 +488,46 @@ def trigramify_pos_seq(pos_seq):
         trigrams.append('_'.join(pos_seq[i*3:i*3+3]))
     return trigrams
 
+"""
+# Function: get_similar()
+# Input: inputPhrase = the phrase that will be modified
+# Output: a similar sentence to the phrase that was inputed
+
+# Description:  Uses Wordnet to obtain synonyms/similar words to the
+                Nouns, Verbs, and Adjectives in a sentence.
+"""
+def get_similar(inputPhrase):
+
+    phrase = nltk.word_tokenize(inputPhrase)
+    sentence = nltk.pos_tag(phrase)
+
+    # Loops through the words and tags in the sentence
+    for index, part in enumerate(sentence):
+
+        # If the tag is a noun, adjective, or verb, obtain a similar word
+        if part[1] == 'NN' or part[1] == 'JJ' or part[1] == 'VB' \
+            or part[1] == 'JJS':
+            synsets = wn.synsets(part[0])
+            if len(synsets) == 0:
+                continue
+            rand = random.randint(0, len(synsets)-1)
+            word = synsets[rand]
+            similar = word.lemmas()
+            if len(similar) == 0:
+                continue
+            rand = random.randint(0, len(similar)-1)
+            if rand == 0:
+                continue
+            sim = similar[rand].name()
+            phrase[index] = sim
+
+    # Outputs the similar sentence with the words replaced
+    output = ""
+    for x in phrase:
+        output += (x + " ")
+
+    return output
+
 if __name__=='__main__':
 
     #process command-line arguments for the type of review to generate, the part-of-speech generation method, 
@@ -497,6 +540,12 @@ if __name__=='__main__':
         ngram.sentence_extraction()
         sys.exit(0)
 
+    print "Title: " + sys.argv[2] + "\nID: " + sys.argv[1] + "\n"
+
+    #----------------
+    #populate randomly_chosen_pos_sequences with part-of-speech sequences
+
+    pos_sequences = build_POS_table("./data/" + sys.argv[1] + "/pos.txt")
     randomly_chosen_pos_sequences = []
 
     #----------------
@@ -539,5 +588,6 @@ if __name__=='__main__':
         for pos in randomly_chosen_pos_sequences:
             for sent in sentenceBigrams(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
+                print get_similar(sent.lower())
 
     #----------------

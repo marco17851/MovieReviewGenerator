@@ -7,9 +7,6 @@ of_Romance	1
 of_kidnapping	1
 after_school	1
 by_slave	1
-,_IN
-,_with	1
-,_so	1
 NNP_IN
 Tamahome_of	1
 Priestess_of	1
@@ -18,6 +15,7 @@ Preistess_of	1
 Yugi_by	1
 Stars_of	1
 NNS_RB
+episodes_just	1
 seasons_long	1
 CC_JJ
 and_old	1
@@ -36,9 +34,6 @@ because_getting	1
 like_buying	1
 RB_.
 alone_.	1
-,_PRP
-,_it	1
-,_they	1
 VBZ_JJ
 is_wonderful	1
 LS_VBP
@@ -65,13 +60,13 @@ WRB_PRP
 when_they	1
 CD_.
 30_.	1
+RP_PRP
+out_it	1
 PRP$_JJ
 her_high	1
 my_favorite	1
 JJS_PRP
 most_I	1
-VB_VBN
-be_given	1
 IN_PRP
 on_it	1
 that_they	1
@@ -88,9 +83,8 @@ WRB_LS
 When_i	1
 NNS_WDT
 OVAS_that	1
-,_NN
-,_love	1
-,_drama	1
+RB_EX
+Also_there	1
 RB_JJR
 even_more	1
 VBD_DT
@@ -144,8 +138,6 @@ an_addition	1
 This_story	2
 TO_PRP$
 to_your	1
-RP_,
-out_,	1
 PRP_VBP
 we_learn	1
 I_am	1
@@ -153,8 +145,6 @@ I_have	1
 they_find	1
 They_are	1
 they_are	1
-RB_,
-There_,	1
 RB_DT
 Suddenly_a	1
 PRP_JJ
@@ -188,8 +178,6 @@ VBG_IN
 studying_for	1
 $_CD
 $_30	1
-,_RB
-,_just	1
 DT_CD
 the_Four	1
 The_two	1
@@ -208,8 +196,6 @@ it_!	1
 her_.	1
 it_.	1
 them_.	1
-PRP_,
-it_,	1
 IN_PRP$
 in_her	1
 about_my	1
@@ -219,14 +205,6 @@ for_her	1
 with_her	2
 JJR_NN
 more_drama	1
-IN_JJ
-in_acient	1
-of_funny	1
-with_incredible	1
-through_terrible	1
-NNP_,
-Tamahome_,	1
-Yu_,	1
 CD_JJ
 one_true	1
 NNP_.
@@ -254,9 +232,6 @@ JJ_PRP
 worth_it	1
 CC_VBN
 and_found	1
-JJ_,
-funny_,	1
-wonderful_,	1
 JJ_.
 funny_!	1
 glad_!	1
@@ -265,8 +240,8 @@ true_.	1
 VBD_RB
 did_n't	1
 had_already	1
-,_VBG
-,_leaving	1
+VB_VBN
+be_given	1
 JJ_$
 worth_$	1
 VBN_IN
@@ -284,10 +259,8 @@ Gods_.	1
 exams_.	1
 wishes_.	1
 episodes_.	1
-NNS_,
-times_,	1
-episodes_,	2
-exams_,	1
+RB_WP
+else_who	1
 TO_DT
 to_the	5
 to_a	1
@@ -298,10 +271,6 @@ happens_.	1
 happens_!	1
 VBP_JJ
 come_true	1
-,_VBZ
-,_is	1
-RB_WP
-else_who	1
 RB_NN
 also_someone	1
 NNS_TO
@@ -321,28 +290,28 @@ old_ancient	1
 red_light	1
 JJ_NNP
 acient_China	1
+wonderful_Watase	1
 WP_VBZ
 what_happens	1
 who_is	1
 who_saves	1
 VB_NNS
 make_wishes	1
-,_CC
-,_and	4
-,_but	2
 VB_NN
 return_home	1
 NN_NNS
 school_exams	1
 entrance_exams	1
 slave_traders	1
+NNS_NNP
+episodes_Miaka	1
 JJR_VBZ
 more_is	1
 NN_NNP
+library_Miaka	1
+school_Miaka	1
 girl_Miaka	1
 series_Fushigi	1
-RB_EX
-Also_there	1
 VBG_PRP
 buying_it	1
 VBP_TO
@@ -350,6 +319,8 @@ begin_to	1
 PRP$_NNS
 her_dreams	1
 her_warriors	1
+RB_NNP
+There_Miaka	1
 PRP_MD
 she_will	1
 she_must	1
@@ -396,25 +367,27 @@ and_romance	1
 either_laugh	1
 and_food	1
 and_regret	1
-,_DT
-,_a	1
+NNP_DT
+Tamahome_a	1
 VBP_VBN
 are_puzzeled	1
 have_seen	1
 are_met	1
 are_pulled	1
 NN_CC
+love_and	1
 home_and	1
 book_and	2
 Yui_and	1
+drama_and	1
 laugh_or	1
 library_and	1
 I_either	1
+action_and	1
 dvd_and	1
+artist_and	1
 CD_VBZ
 two_loves	1
-VB_,
-read_,	1
 VB_.
 weaken_.	1
 CC_VB
@@ -435,15 +408,19 @@ NN_NN
 friend_Yui	2
 Yui_travel	1
 anime_dvd	1
+fantasy_drama	1
 city_capital	1
 love_triangle	1
 anime_collection	1
+death_love	1
 NN_PDT
 food_all	1
 DT_NNS
 the_girls	1
 the_stories	1
 the_pages	1
+PRP_LS
+it_i	1
 IN_NNP
 of_Konan	1
 by_Yu	1
@@ -459,8 +436,6 @@ the_Preistess	1
 the_National	1
 VBP_NNS
 are_OVAS	1
-,_JJ
-,_small	1
 DT_JJ
 the_real	1
 a_strong	1
@@ -485,24 +460,19 @@ is_in	2
 finds_that	1
 finds_near	1
 NNS_CC
+times_but	1
 warriors_and	1
 ordeals_and	1
 traders_and	1
+exams_but	1
 VBD_PRP
 rescued_them	1
 arrived_they	1
-NN_,
-kidnapping_,	1
-Romance_,	1
-library_,	1
-world_,	1
-drama_,	1
-death_,	1
-artist_,	1
-fantasy_,	1
-love_,	1
-action_,	1
-school_,	1
+IN_JJ
+in_acient	1
+of_funny	1
+with_incredible	1
+through_terrible	1
 NN_.
 warrior_.	1
 regret_.	1
@@ -528,6 +498,7 @@ vision_of	1
 love_with	1
 teenager_in	1
 world_of	1
+kidnapping_so	1
 Universe_of	2
 dose_of	2
 man_with	1
@@ -552,10 +523,11 @@ swarms_them	1
 NNP_VBZ
 Miaka_encounters	1
 Watase_inclues	1
-Yui_is	1
-Yugi_is	2
+Yu_is	1
 Miaka_accompanies	1
+Yugi_is	2
 Miaka_finds	1
+Yui_is	1
 Miaka_is	1
 Miaka_sees	1
 Yuki_finds	1
@@ -571,6 +543,7 @@ to_go	1
 to_return	1
 to_make	1
 NN_VBG
+world_leaving	1
 internet_trying	1
 VBG_NNP
 leaving_Miaka	1
@@ -599,13 +572,13 @@ someone_else	1
 JJ_IN
 pleased_that	1
 other_than	1
-DT_,
-this_,	1
+funny_with	1
 DT_.
 each_.	1
 NN_JJ
 soo_glad	1
 life_other	1
+Romance_small	1
 VBZ_DT
 has_a	1
 inclues_the	1
@@ -634,8 +607,6 @@ Seven_Stars	1
 Fushigi_Yugi	3
 Miaka_Yuki	3
 Watase_Yu	1
-,_LS
-,_i	2
 NNP_POS
 Miaka_'s	1
 RB_JJ
@@ -646,9 +617,12 @@ definetly_worth	1
 very_pleased	1
 so_funny	1
 VB_PRP
+read_they	1
 check_it	1
 VB_VB
 Go_check	1
+DT_LS
+this_i	1
 VBZ_VBN
 has_formed	1
 is_chosen	1
@@ -687,9 +661,6 @@ VBN_TO
 chosen_to	1
 CC_MD
 and_should	1
-,_NNP
-,_Miaka	4
-,_Watase	1
 CC_NNP
 But_Yui	1
 and_Miaka	1

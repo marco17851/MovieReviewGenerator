@@ -1,8 +1,6 @@
 IN_NN
 in_refrigeration	1
 with_soundtrack	1
-,_IN
-,_as	1
 VBG_VBN
 being_held	1
 NNP_IN
@@ -11,6 +9,8 @@ CC_JJ
 or_anamorphic	1
 VBG_CD
 watching_2.20:1	1
+NN_WDT
+Panavision_which	1
 VB_DT
 mention_the	1
 RB_TO
@@ -19,16 +19,12 @@ IN_VBG
 of_exposing	1
 RB_.
 ever_.	1
-,_PRP
-,_I	1
 RBR_JJ
 more_common	1
 IN_VBZ
 In_regards	1
 JJ_CD
 uneducated_2.35:1	1
-CD_,
-2.20:1_,	1
 CC_CD
 and_one	1
 CD_.
@@ -37,6 +33,8 @@ NN_JJ
 camera_negative	1
 PRP$_JJ
 his_special	1
+JJ_.
+Amazing_.	1
 IN_PRP
 as_it	1
 after_it	1
@@ -76,17 +74,10 @@ rather_than	1
 sometimes_in	1
 VBG_IN
 waiting_for	1
-,_RB
-,_rather	1
 DT_CD
 a_2.20:1	1
 FW_.
 2.20:1_.	1
-NN_,
-reviewer_,	1
-Panavision_,	1
-NNP_,
-Photography_,	1
 CD_JJ
 70_65mm	1
 NNP_.
@@ -97,12 +88,14 @@ FW_NN
 2.20:1_aspect	1
 PRP$_NN
 your_aspect	1
-JJ_.
-Amazing_.	1
+NNP_PRP
+Photography_I	1
+JJ_RB
+negative_rather	1
+CD_WDT
+2.20:1_which	1
 NNP_:
 Film_...	1
-JJ_,
-negative_,	2
 RBR_VBG
 more_waiting	1
 VBG_PRP$
@@ -133,6 +126,7 @@ print_with	1
 pass_so	1
 generation_on	1
 print_in	1
+reviewer_as	1
 effort_of	1
 fact_that	1
 JJ_NNS
@@ -147,6 +141,7 @@ successive_passes	1
 JJ_JJ
 common_optical	1
 original_undeveloped	1
+negative_70mm	1
 65mm_negative	2
 optical_negative	1
 undeveloped_65mm	1
@@ -189,10 +184,11 @@ VBP_VBG
 are_watching	2
 NNS_JJ
 effects_composite	1
-VBD_TO
-went_to	1
-,_WDT
-,_which	2
+NN_NN
+aspect_ratio	2
+ratio_format	1
+projection_print	1
+zealot_reviewer	1
 IN_NNP
 that_Kubrick	1
 in_Super	1
@@ -200,8 +196,6 @@ of_Photography	1
 in_Cinemascope	1
 DT_NNP
 a_Director	1
-,_JJ
-,_70mm	1
 DT_JJ
 the_original	2
 A_true	1
@@ -273,11 +267,8 @@ for_up	1
 so_that	1
 VBZ_VBN
 is_supposed	1
-NN_NN
-aspect_ratio	2
-ratio_format	1
-projection_print	1
-zealot_reviewer	1
+VBD_TO
+went_to	1
 NNP_VBD
 Kubrick_went	1
 VBG_DT

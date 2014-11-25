@@ -4,14 +4,10 @@ in_love	1
 like_pimp	1
 for_oscar	1
 of_pimp	1
-,_IN
-,_besides	1
 JJ_IN
 good_in	1
 wrong_for	1
 awesome_in	1
-''_TO
-'_to	1
 VBP_TO
 recommend_to	1
 NNS_RB
@@ -26,11 +22,8 @@ movie_that	1
 pimp_that	1
 cop_that	1
 fact_that	1
-VB_DT
-recommend_this	1
-have_a	1
-tell_the	1
-lack_the	1
+FW_.
+pimpin_.	1
 DT_.
 all_.	1
 WRB_DT
@@ -42,22 +35,26 @@ RB_.
 alone_.	1
 away_.	1
 definitely_!	1
-IN_``
-of_``	1
-,_PRP
-,_it	1
-,_he	2
-,_she	1
-FW_''
-pimpin_'	1
+VBZ_JJ
+has_big	1
+is_great	1
+is_blind	2
+is_okay	1
 NN_TO
 spot_to	1
+pimpin_to	1
 CC_RB
 or_possibly	1
 and_yes	1
 but_overall	1
+JJ_CC
+blind_and	1
 VBG_TO
 trying_to	1
+PRP_VBD
+he_fell	1
+it_was	5
+It_left	1
 CD_.
 one_!	1
 RBR_DT
@@ -83,8 +80,6 @@ VBN_CC
 groomed_and	1
 VBZ_CD
 is_one	1
-,_FW
-,_i	1
 RB_LS
 yes_i	1
 DT_FW
@@ -92,10 +87,8 @@ all_i	1
 TO_NN
 to_everyone	1
 to_reality	1
-PRP_VBD
-he_fell	1
-it_was	5
-It_left	1
+IN_FW
+of_po	1
 WP_VBD
 what_happened	1
 PRP_VBG
@@ -172,9 +165,6 @@ even_though	1
 espcially_since	1
 VBG_IN
 looking_for	1
-,_RB
-,_well	1
-,_even	1
 RB_CC
 back_and	1
 DT_CD
@@ -189,6 +179,11 @@ n't_mean	1
 not_regret	1
 PRP_.
 it_.	1
+VB_DT
+recommend_this	1
+have_a	1
+tell_the	1
+lack_the	1
 IN_PRP$
 in_his	1
 For_my	1
@@ -196,9 +191,6 @@ on_his	1
 of_his	1
 for_her	1
 in_my	1
-IN_JJ
-in_such	1
-on_true	1
 NN_VB
 u_seek	1
 CC_VBZ
@@ -232,20 +224,18 @@ interesting_espcially	1
 VB_IN
 say_about	1
 seek_in	1
-JJ_,
-blind_,	1
 JJ_.
 okay_.	1
 great_!	1
 several_!	1
 frightening_.	1
 ill_.	1
-,_VBD
-,_got	1
 VBD_RB
 was_not	1
 was_very	1
 NN_DT
+story_this	1
+movie_this	1
 taste_this	1
 VBN_IN
 involved_with	1
@@ -256,9 +246,6 @@ films_.	1
 ducks_.	1
 bills_.	1
 eyes_.	1
-NNS_,
-pimps_,	1
-muscles_,	1
 VBD_TO
 needed_to	1
 CC_IN
@@ -289,14 +276,6 @@ is_in	1
 PRP$_JJS
 his_hottest	1
 his_best	1
-VBZ_JJ
-has_big	1
-is_great	1
-is_blind	2
-is_okay	1
-,_CC
-,_and	3
-,_but	2
 NN_NNS
 pimp_movies	1
 hospital_bills	1
@@ -306,6 +285,7 @@ i_recommend	1
 FW_MD
 i_can	1
 NN_NNP
+hoe_Naomi	1
 *_Sponsored	1
 end_Sugar	1
 NN_WP
@@ -316,13 +296,14 @@ so_that	1
 between_because	1
 DT_RB
 A_very	1
-``_FW
-``_po	1
 PRP$_NNS
 his_fathers	1
 my_eyes	1
 NN_PRP
+kitchen_he	1
 story_it	1
+budget_it	1
+joke_she	1
 meantime_he	1
 VB_PRP$
 get_his	1
@@ -364,18 +345,17 @@ you_will	1
 you_would	1
 WRB_NNP
 when_Sugar	1
-,_DT
-,_this	2
 NN_CC
 view_and	1
+budget_but	1
 drama_and	1
+car_but	1
 story_and	1
 movie_and	1
 life_and	1
 pimp_and	1
+material_and	1
 bedroom_or	1
-VB_,
-mean_,	1
 VB_.
 regret_.	1
 VBN_.
@@ -385,6 +365,8 @@ brings_po	1
 is_movie	1
 EX_VBZ
 There_is	1
+NNS_JJ
+muscles_flashy	1
 VBP_DT
 have_the	1
 VBG_WP
@@ -399,12 +381,13 @@ pimp_game	1
 pimping_game	1
 glamour_u	1
 story_line	1
+po_pimpin	1
 pimp_story	1
 pimpin_game	1
 sugar_valentine	4
 oscar_award	1
-NN_JJR
-bit_more	1
+NN_FW
+story_i	1
 DT_NNS
 the_streets	1
 IN_NNS
@@ -414,8 +397,6 @@ IN_NNP
 in_LA	1
 EX_VBD
 there_was	1
-,_JJ
-,_flashy	1
 DT_JJ
 the_real	1
 a_nice	2
@@ -443,28 +424,19 @@ NN_:
 reality_...	1
 game_--	1
 NNS_CC
+pimps_and	1
 movies_and	1
 movies_but	1
 poems_and	1
-._''
-._''	1
 VBD_PRP
 left_you	1
 VBD_VBG
 was_trying	1
 PRP_DT
 it_all	2
-NN_,
-kitchen_,	1
-joke_,	1
-material_,	1
-car_,	2
-hoe_,	1
-story_,	2
-buddy_,	1
-film_,	1
-movie_,	2
-budget_,	2
+IN_JJ
+in_such	1
+on_true	1
 NN_.
 bum_.	1
 apartment_.	1
@@ -490,6 +462,7 @@ u_like	1
 bit_of	1
 example_of	1
 kind_of	1
+movie_besides	1
 bunch_of	1
 WDT_VBZ
 that_'s	1
@@ -519,6 +492,7 @@ NN_VBD
 movie_was	1
 story_was	1
 valentine_was	1
+buddy_got	1
 NN_VBZ
 look_is	1
 line_is	1
@@ -529,8 +503,6 @@ valentine_brings	1
 movie_is	1
 daddy_is	1
 brother_has	1
-''_NN
-'_pimpin	1
 NNP_VBG
 LA_looking	1
 RB_RB
@@ -547,10 +519,12 @@ that_was	2
 that_needed	1
 that_took	1
 NN_RB
-hospital_very	1
 stuff_here	1
-game_away	1
 game_back	1
+game_away	1
+film_even	1
+car_well	1
+hospital_very	1
 award_definitely	1
 PRP_RB
 He_even	1
@@ -595,9 +569,12 @@ very_good	1
 n't_frightening	1
 VBZ_VBG
 is_doing	1
+NN_JJR
+bit_more	1
 VB_PRP
 follow_it	1
 rent_it	1
+mean_he	1
 RB_VBP
 Strongly_recommend	1
 VBZ_VBN
@@ -617,9 +594,6 @@ well_told	1
 NNP_VBD
 Valentine_was	2
 Sugar_was	1
-NN_''
-po_'	1
-pimpin_'	1
 RB_VBG
 even_eating	1
 RB_PRP
@@ -633,10 +607,6 @@ VBZ_PRP
 leaves_him	1
 claims_she	1
 makes_it	1
-''_.
-'_.	1
-,_NNP
-,_Naomi	1
 VBD_NN
 was_drama	1
 VBP_IN

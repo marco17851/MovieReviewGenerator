@@ -25,6 +25,7 @@ up_'till	1
 between_seriousness	1
 in_something	1
 by_Dane	1
+as_money	1
 without_hesitation	1
 of_will	1
 of_survival	1
@@ -52,12 +53,18 @@ in_front	1
 in_therapy	1
 VBN_VBN
 introduced_played	1
-''_TO
-''_to	1
+VBG_VBN
+getting_married	1
+being_possessed	1
+getting_loaded	1
 VBN_VBD
 offered_was	1
+VBN_VBG
+loaded_snorting	1
 VBG_VBD
 marrying_wanted	1
+VBG_VBG
+murdering_raping	1
 CC_JJ
 and_mixed-up	1
 and_assertive	1
@@ -73,7 +80,7 @@ and_large	1
 but_good	1
 and_anal	1
 and_unreal	1
-and_overall	1
+and_overall	2
 and_over-the-top	1
 but_fatal	1
 :_WP
@@ -87,16 +94,8 @@ not_to	2
 just_to	1
 close_to	1
 seriously_to	1
-VBP_,
-say_,	1
-scream_,	1
-IN_``
-as_``	1
-in_``	1
-at_``	1
-about_`	1
-into_``	1
-like_``	1
+VBN_:
+married_...	1
 VBP_.
 proceed_.	1
 are_!	1
@@ -106,10 +105,6 @@ cant_.	1
 VBP_CD
 do_one	1
 get_five	1
-VBG_VBN
-getting_married	1
-being_possessed	1
-getting_loaded	1
 VBP_CC
 fight_and	1
 confess_or	1
@@ -128,12 +123,6 @@ deprived_.	1
 JJS_IN
 least_for	1
 most_of	2
-VBN_,
-shocked_,	1
-involved_,	1
-married_,	1
-loaded_,	1
-concerned_,	1
 VB_JJR
 get_worse	1
 WDT_MD
@@ -145,6 +134,7 @@ CC_TO
 and_to	1
 but_to	1
 DT_PRP
+all_you	1
 all_it	1
 VBZ_CD
 is_!!!	1
@@ -156,9 +146,11 @@ nitpicks_and	1
 increases_and	1
 bullies_and	1
 NNS_WDT
-results_that	1
 ones_that	1
 movies_that	2
+results_that	1
+situations_which	1
+virtues_which	1
 consequences_that	1
 WRB_TO
 how_to	1
@@ -181,8 +173,6 @@ than_most	1
 RP_.
 out_.	2
 up_.	1
-RP_,
-up_,	1
 VBN_JJ
 crazed_little	1
 considered_funny	1
@@ -209,8 +199,11 @@ what_is	1
 VBP_MD
 plot_shall	1
 NNP_CC
+Heathers_and	2
 Kubrick_and	1
 Day_but	1
+Vegas_and	1
+Gladiator_but	1
 Piven_and	1
 Favreau_and	1
 DEEP_and	1
@@ -236,6 +229,7 @@ least_and	1
 IN_PRP$
 of_your	1
 like_your	1
+in_My	1
 towards_his	1
 in_his	1
 with_his	1
@@ -252,19 +246,12 @@ of_their	1
 in_my	2
 since_its	1
 by_its	1
-NNS_''
-Killers_''	1
-Fellas_''	1
-things_''	1
-bachelors_'	1
-Comedies_''	1
-Things_''	1
 NN_VB
 movie_react	1
+side_check	1
 JJ_MD
+wicked_should	1
 definite_must	1
-,_CD
-,_one	1
 IN_WDT
 FOR_WHAT	1
 PRP$_NN
@@ -272,6 +259,7 @@ your_cup	1
 my_retina	1
 his_minivan	1
 his_career	1
+its_distaste	1
 its_neccessity	1
 their_time	1
 My_Best	1
@@ -294,6 +282,7 @@ get_through	1
 receive_near	1
 seem_like	1
 plow_through	1
+gore_of	1
 know_if	1
 give_in	1
 worry_about	1
@@ -312,12 +301,15 @@ be_on	1
 Watch_for	1
 think_of	1
 think_about	1
+be_while	1
 happen_if	1
 realize_that	1
 happen_in	1
 JJ_PRP
+serious_you	1
 glad_I	1
 short_it	1
+cowardly_I	1
 VBD_RB
 did_n't	4
 stuck_as	1
@@ -334,13 +326,31 @@ sat_there	1
 was_just	1
 was_truly	1
 NN_DT
-time_the	1
+plot_the	1
+year_the	1
+cast_a	1
+likelihood_the	1
+humor_this	1
+decision_that	1
+show_this	1
+director_the	1
 humor_a	1
+time_the	1
+way_the	1
+movie_a	2
+end_all	1
 'till_this	1
 laugh_all	1
-comedy_this	1
-way_the	1
 woman_the	1
+hand_a	1
+life_the	1
+comedy_this	1
+PDT_DT
+all_a	1
+all_the	4
+half_the	1
+All_the	1
+all_those	2
 WDT_RB
 that_just	1
 that_desperately	1
@@ -368,6 +378,8 @@ go_one-on-one	1
 are_secondary	1
 are_massive	1
 are_cute	1
+RP_PRP$
+up_their	1
 VB_NNS
 show_actitudes	1
 like_movies	1
@@ -376,13 +388,19 @@ blame_Piven	1
 try_Todd	1
 thank_God	1
 make_John	1
+NNS_NNP
+words_Siskel	1
+people_God	1
 NNS_NNS
+thoughts_edges	1
 people_movies	1
+ideas_thoughts	1
 JJS_JJ
 worst_possible	1
 CC_IN
 and_if	1
-But_if	2
+But_if	3
+But_as	1
 and_before	1
 but_because	1
 And_in	1
@@ -400,27 +418,19 @@ take_to	1
 seem_to	1
 have_to	3
 go_to	1
-PRP$_NNS
-their_troubles	1
-Its_characters	1
-his_others	1
-your_morals	1
-their_parts	1
-your_parents	1
-their_claws	1
-his_pals	1
-my_favorites	1
-your_hands	1
-your_prejudices	1
-their_priorities	1
-his_actions	1
-PRP$_NNP
-his_Life	1
-My_God	1
+RB_NNS
+just_stories	1
+just_connect-the-dots	1
+Alone_movies	1
+only_abuses	1
+RB_NNP
+once_Favreau	1
+especially_Favreau	2
+there_Braveheart	1
+maybe_Slater	1
+Then_THIS	1
 WDT_NN
 What_kind	1
-,_PRP$
-,_their	1
 IN_RB
 of_genuinely	1
 above_also	1
@@ -432,14 +442,16 @@ of_bizzarely	1
 If_not	1
 by_far	2
 out_there	1
+about_Very	1
 like_so	1
 that_only	1
-VBN_DT
-got_the	1
-done_some	1
-used_some	1
-been_the	1
-seen_a	1
+WDT_VBZ
+that_'s	1
+that_plays	1
+that_puts	1
+that_begins	1
+that_happens	1
+that_feels	2
 VBG_TO
 trying_to	1
 going_to	1
@@ -458,15 +470,18 @@ think_it	1
 think_we	1
 follow_them	1
 belive_they	1
-,_RBS
-,_most	1
 VB_:
 enjoy_-	1
+CD_VBG
+one_sucking	1
+POS_IN
+'_at	1
 CC_NN
 and_paranoia	1
 and_story	1
 but_heck	1
 and_duplicity	1
+and_Death	1
 and_partying	1
 or_life	1
 and_horror	1
@@ -485,13 +500,6 @@ like_your	1
 doubt_his	1
 VBN_MD
 repulsed_can	1
-VB_,
-act_,	1
-possess_,	1
-watch_,	1
-be_,	1
-gore_,	1
-work_,	1
 VB_.
 watch_.	1
 do_.	2
@@ -504,16 +512,18 @@ say_?	1
 JJ_POS
 other_'s	1
 JJ_TO
+subserviant_to	1
 brilliant_to	1
 delighted_to	1
 able_to	1
 hard_to	1
-subserviant_to	1
+pleased_to	1
 close_to	1
 Went_to	1
 Contrary_to	1
 NNS_JJ
 characters_two-dimensional	1
+performances_raw	1
 cents_worth	1
 comedies_American	1
 RP_CC
@@ -521,13 +531,6 @@ up_but	1
 up_and	2
 RP_CD
 in_2	1
-NNP_''
-Heathers_''	2
-Dogs_''	1
-Diaz_'	1
-Nicholson_''	1
-VBG_:
-watching_...	1
 DT_NNS
 no_issues	1
 these_guys	3
@@ -552,6 +555,7 @@ the_people	3
 some_senses	1
 the_others	1
 The_homages	1
+the_bachelors	1
 the_ones	1
 the_actors	4
 IN_NNS
@@ -574,29 +578,32 @@ at_times	3
 if_events	1
 with_results	1
 IN_NNP
-because_Berg	1
-of_Tim	1
-of_Sunday	1
+unlike_Donald	1
 in_Australia	1
-since_Pink	1
-with_Berg	1
-of_Christian	2
 while_Stern	1
 of_Reservoir	1
+as_Independence	1
+of_Swingers	1
 in_Vegas	1
+of_Tim	1
+since_Pink	1
 in_DEEP	1
 that_Christian	1
-as_Independence	1
-like_John-John	1
-unlike_Donald	1
-by_Diaz	1
-without_Cameron	1
-of_Swingers	1
-with_Tripplehorn	1
-that_Cameron	1
+of_Christian	2
 of_Sin	1
+because_Berg	1
+like_Heathers	1
+with_Berg	1
+like_John-John	1
+without_Cameron	1
+of_Sunday	1
+that_Cameron	1
+at_Heathers	1
+by_Diaz	1
+with_Tripplehorn	1
 DT_NNP
 all_??	1
+the_City	1
 the_VCR	1
 those_Slow	1
 WDT_IN
@@ -634,34 +641,35 @@ left_the	1
 liked_that	1
 was_an	1
 NNS_CC
-friends_and	1
+perfomances_and	1
 cannons_and	1
-stars_but	1
+edges_and	1
+ends_and	1
+roles_but	1
 prostitutes_or	1
 movies_and	1
-edges_and	1
-guests_and	1
 Stooges_or	1
-stars_or	1
-drugs_and	1
-connect-the-dots_and	1
-men_and	1
-senses_but	1
-ends_and	1
-drugs_but	1
+drugs_and	2
+years_and	1
+times_but	1
 accomplishments_and	1
+men_and	1
+friends_and	1
+Cops_but	1
+Fellas_and	1
+stars_or	1
+stars_but	1
 suburbanites_and	1
-NNPS_``
-Books_``	1
-''_VBZ
-''_is	1
+guests_and	1
+others_and	1
+connect-the-dots_and	1
+senses_but	1
+drugs_but	1
 VBN_PRP
 seen_it	1
 hated_it	1
 steered_them	1
 spiced_him	1
-''_RBR
-''_sooner	1
 VBP_IN
 know_of	1
 are_out	1
@@ -680,39 +688,52 @@ NN_CC
 hooker_and	1
 party_and	1
 friend_and	1
-acting_and	1
+premise_and	1
 callousness_and	1
 thriller_and	2
+comedy_but	1
 character_but	1
 movie_and	2
+tension_and	1
+idiot_but	1
 production_and	1
+tch_and	1
+cocaine_and	1
 tragedy_and	1
+thing_and	1
+partying_and	1
 energy_and	1
+accident_and	1
 rowdy_and	1
 situation_and	1
+cinematography_or	1
 nothing_but	1
+prostitue_and	1
 tea_and	1
+kite_and	1
+movie_or	1
 suffering_and	1
+exaggeration_and	1
 seriousness_and	1
+viewer_but	1
 illogic_and	1
 direction_and	1
-behavior_and	1
+instinct_and	1
+name_but	1
 nerve_and	1
 humour_and	1
 film_and	2
 dream_and	1
-premise_and	1
+acting_and	1
+film_but	1
 shock_and	1
 anyone_or	1
+behavior_and	1
 review_but	1
 penalty_or	1
 NN_CD
 film_4	1
 character_forty	1
-''_RP
-'_up	1
-''_VBP
-''_are	1
 DT_JJS
 the_least	1
 the_most	1
@@ -741,11 +762,14 @@ Berg_remarks	1
 NNP_NNP
 Slow_Saturday	1
 Alfred_Hitchcock	1
+Braveheart_Gladiator	1
 Jon_Faverau	1
+God_Diaz	1
 AND_LAUGH	1
 Peter_Berg	2
 Cameron_Diaz	8
 Donald_E.	1
+Terrific_Funny	1
 Reservoir_Dogs	1
 Saturday_Night	1
 Todd_Soldonz	1
@@ -753,12 +777,14 @@ Youssef_Well	1
 John_Waters	1
 Los_Angeles	1
 Jon_Favreau	1
+Stern_Orser	1
 Reservior_Dogs	1
 Christian_Slater	9
 Stanley_Kubrick	1
 Independence_Day	1
 Tim_Burton	1
 Sin_City	1
+Piven_Stern	1
 Kyle_Jon	1
 E._Westlake	1
 ??_This	1
@@ -770,6 +796,7 @@ Leland_Orser	1
 Time_Life	1
 LAUGH_AWAY	1
 Richard_Stark	1
+Burton_Stanley	1
 Robert_Boyd	1
 Jack_Nicholson	1
 JJR_:
@@ -787,15 +814,12 @@ But_there	2
 JJR_.
 more_.	2
 worse_.	1
-JJR_,
-less_,	1
 VBN_CC
 cast_and	1
+shocked_and	1
 VBN_TO
 carried_to	1
 supposed_to	1
-NNPS_''
-Slickers_''	1
 VBP_FW
 guess_i	1
 IN_DT
@@ -814,6 +838,7 @@ before_the	1
 throughout_the	1
 Despite_a	1
 Despite_the	1
+because_all	1
 near_the	1
 From_the	2
 on_the	5
@@ -822,7 +847,7 @@ for_the	5
 that_the	3
 with_any	2
 into_a	1
-in_a	5
+in_a	6
 about_the	2
 about_a	1
 of_this	3
@@ -891,33 +916,13 @@ in_every	1
 VBZ_WRB
 knows_how	1
 happens_when	1
+NNPS_NNS
+Slickers_movies	1
 CD_WRB
 sixteen_when	1
 WDT_PRP
 WHAT_IT	1
 which_it	1
-RB_,
-once_,	1
-Essentially_,	1
-not_,	2
-Basically_,	1
-however_,	1
-Hopefully_,	1
-here_,	1
-secretly_,	1
-enough_,	1
-Yet_,	1
-Rather_,	1
-Indeed_,	1
-far_,	1
-Furthermore_,	1
-yet_,	1
-before_,	2
-dangerously_,	1
-then_,	2
-so_,	1
-Anyway_,	1
-Well_,	1
 RB_.
 twice_.	1
 not_.	2
@@ -940,8 +945,8 @@ MD_CC
 JJS_RB
 least_secretly	1
 least_once	1
-VBN_PRP$
-given_his	1
+VBD_CC
+laughed_and	1
 VBD_CD
 was_sixteen	1
 CC_RB
@@ -974,8 +979,6 @@ loud_-	1
 yet_-	1
 TO_.
 to_.	1
-TO_,
-to_,	1
 WRB_PRP
 when_it	3
 how_you	1
@@ -989,24 +992,24 @@ when_they	2
 :_if	1
 ..._for	1
 --_if	1
-''_:
-'_--	1
 PRP$_JJ
 your_rental	1
 your_ethical	1
+my_own	1
 My_only	1
 his_usual	1
 its_unique	1
-my_own	1
+her_big	2
 my_favourite	1
 its_technical	1
 his_outrageous	1
 their_nasty	1
 their_rowdy	1
-her_big	2
+Her_funny	1
 PRP_PRP
 I_myself	1
 yourself_it	1
+him_you	1
 IN_PRP
 at_it	1
 at_me	1
@@ -1055,10 +1058,6 @@ because_I	1
 of_us	1
 that_we	1
 as_she	1
-''_.
-''_.	3
-''_,
-''_,	1
 NNS_VB
 minivans_take	1
 RB_LS
@@ -1104,8 +1103,6 @@ PRP_VBG
 me_falling	1
 me_rolling	1
 you_watching	1
-,_:
-,_...	1
 DT_NN
 this_character	1
 a_let-up	1
@@ -1195,6 +1192,7 @@ any_justification	1
 the_anarchy	1
 the_counter	1
 the_nature	1
+the_Home	1
 a_character	2
 the_death	1
 The_dog	1
@@ -1289,6 +1287,7 @@ this_is	4
 that_lends	1
 That_goes	1
 DT_VBG
+all_reaching	1
 a_murdering	1
 a_contriving	1
 a_moving	1
@@ -1350,42 +1349,40 @@ it_great	1
 it_serious	1
 them_unlikable	1
 PRP_VBZ
-them_is	1
-it_is	8
-it_has	2
+she_'s	1
+She_nitpicks	1
+he_'s	3
+it_helps	1
+you_thrills	1
 it_'s	9
 she_bullies	1
-he_'s	3
-It_is	3
-it_comes	1
-IT_IS	1
-She_nitpicks	1
-it_helps	1
-He_appears	1
+myself_is	1
+He_'s	1
 it_does	2
 it_breaks	1
-she_'s	1
-He_'s	1
-It_does	1
+IT_IS	1
 It_'s	4
+it_is	8
+you_makes	1
+it_comes	1
+you_scares	1
+He_appears	1
+them_is	1
+it_has	2
+It_is	3
+It_does	1
 IN_$
 for_$	1
-IN_,
-in_,	1
-that_,	2
-of_,	1
-because_,	1
+PRP_:
+ya_...	1
 IN_.
 of_.	1
 from_.	1
 thru_.	1
-FW_FW
-Hell_!!!	1
-in_awe	1
 WP_NNS
 who_winds	1
-``_DT
-``_The	1
+MD_VBG
+could_judging	1
 PRP_.
 me_.	1
 him_.	1
@@ -1394,14 +1391,8 @@ it_?	1
 you_.	1
 us_.	1
 it_.	6
-PRP_,
-I_,	1
-him_,	1
-them_,	2
-me_,	2
-you_,	4
-myself_,	1
-it_,	6
+IN_:
+of_-	1
 FW_WP
 !!!_What	1
 CC_VBP
@@ -1412,6 +1403,7 @@ NNP_WDT
 Sunday_that	1
 PRP_VB
 I_say	1
+them_thank	1
 me_feel	1
 I_take	1
 them_make	1
@@ -1430,6 +1422,7 @@ up_to	1
 off_to	1
 NNP_PRP
 Australia_we	1
+Diaz_it	1
 CC_VBD
 and_laughed	1
 and_saw	1
@@ -1444,38 +1437,6 @@ and_went	1
 CC_VBG
 but_having	1
 and_going	1
-JJ_,
-detatched_,	1
-lost_,	1
-dark_,	3
-all-over-the-map_,	1
-impressive_,	1
-serious_,	1
-aggressive_,	1
-generic_,	1
-angry_,	1
-cowardly_,	1
-terrible_,	1
-okay_,	1
-wicked_,	2
-first-time_,	1
-convincing_,	1
-fearful_,	1
-great_,	3
-pleased_,	1
-overall_,	1
-extreme_,	1
-white-knuckle_,	1
-unreal_,	1
-original_,	1
-evil_,	1
-ugly_,	1
-large_,	1
-irritating_,	1
-funny_,	2
-belligerent_,	1
-shiny_,	1
-cynic_,	1
 JJ_.
 nice_.	1
 diabolic_!	1
@@ -1541,6 +1502,7 @@ flawed_;	1
 MD_PRP
 can_I	1
 would_you	1
+should_you	1
 IN_WRB
 of_how	1
 that_when	2
@@ -1554,10 +1516,12 @@ in_all	1
 NN_NNS
 movie_people	1
 comedy_fans	1
+point_people	1
 comedy_things	1
 film_finishes	1
 class_schmucks	1
 studio_execuives	1
+drinking_drugs	1
 movie_shocks	1
 censorship_laws	1
 hsi_friends	1
@@ -1570,10 +1534,8 @@ Dane_Youssef	1
 Writer/Director_Peter	1
 aka_Richard	1
 actor_Peter	1
-''_RB
-''_then	1
-,_WRB
-,_where	1
+CD_CC
+98_and	1
 IN_JJS
 At_least	1
 Throughout_most	1
@@ -1596,6 +1558,8 @@ better_direction	1
 more_filt	1
 more_havoc	1
 longer_living	1
+VBP_VBZ
+say_is	1
 RP_NNS
 up_daisies	1
 PRP_MD
@@ -1618,6 +1582,8 @@ you_will	1
 you_ca	1
 you_'ll	4
 they_would	1
+VBP_VBP
+scream_fight	1
 VBP_VBN
 've_laughed	1
 have_done	1
@@ -1657,14 +1623,14 @@ EX_VBP
 there_are	1
 NNS_RP
 things_up	1
-CC_``
-and_``	2
 NN_NN
+action_film	1
 b_*	1
 guard_wind	1
 bachelor_party	4
 someone_evil	1
 writing_style	1
+comedy_thriller	1
 personality_complex	1
 towel_hanger	1
 security_guard	1
@@ -1680,25 +1646,29 @@ death_penalty	1
 survival_instinct	1
 scenario_movie	1
 testosterone_level	1
+movie_dark	1
 body_count	1
 combo_protein-shake	1
 directing_world	1
-action_film	1
+reclusive_enigma	1
 family_man	1
 snowball_effect	1
 estate_selling	1
 fatalism_oughta	1
 circus_act	1
-horror_show	1
+Fiction_type	1
 assembly_line	1
 reading_enjoyment	1
 idiot_plot	1
 video_store	1
 hotel_room	2
+madness_none	1
 Best_Friend	1
 morality_tale	1
+term_idiot	1
 viewer_think	1
 comedy_version	1
+horror_show	1
 story_line	1
 character_reasoning	1
 mass_consumption	1
@@ -1707,35 +1677,19 @@ PRP_NNP
 I_Love	1
 NNS_RB
 people_apparently	1
-movies_out	1
+people_just	1
+Comedies_then	1
+Things_once	1
+hands_Very	1
+fans_Very	1
 characters_just	1
+movies_out	1
 winds_up	1
 EX_VBD
 there_were	1
 JJS_.
 best_.	1
 least_.	1
-,_JJ
-,_furious	1
-,_cynic	1
-,_dog-hating	1
-,_modern-day	1
-,_promising	1
-,_raw	1
-,_missguided	1
-,_nail-biting	1
-,_paint-by-numbers	1
-,_happy	1
-,_impressive	1
-,_aggressive	1
-,_overall	1
-,_convincing	1
-,_Good	1
-,_life-altering	1
-,_intense	1
-,_single	1
-,_EX
-,_there	2
 DT_JJ
 a_final	1
 the_devil-may-care	1
@@ -1764,7 +1718,7 @@ a_pathetic	1
 an_abandoned	1
 the_different	1
 the_wrong	1
-the_other	6
+the_other	7
 the_grim	1
 the_american	1
 the_dismembered	1
@@ -1853,10 +1807,13 @@ pad_for	1
 performance_as	1
 entity_with	1
 witch_behind	1
+time_like	1
 time_on	1
+premise_in	1
 melodrama_at	1
 part_in	1
 something_though	1
+drama_in	1
 filt_for	1
 couple_of	1
 enigma_of	1
@@ -1884,8 +1841,10 @@ laugh_at	1
 search_for	1
 act_of	1
 therest_of	1
+Wedding_as	1
 product_that	1
 violence_that	1
+handful_of	1
 scene_with	1
 mood_for	1
 performance_of	1
@@ -1895,6 +1854,7 @@ side_of	1
 room_in	1
 debauchery_of	1
 Suspencion_of	1
+fault_unless	1
 nature_of	1
 someone_after	1
 act_as	1
@@ -1902,11 +1862,13 @@ Movie_if	1
 behavior_from	1
 must-see_for	1
 love_with	1
+dog_because	1
 comedy_at	1
 retina_after	1
 clerk_behind	1
 scence_of	1
 kick_in	1
+shame_because	1
 film_like	1
 run_in	1
 recommendation_of	1
@@ -1934,6 +1896,7 @@ piece_from	1
 abuse_in	1
 feel_like	1
 door_for	1
+movie_for	1
 member_of	1
 market_for	1
 think_of	1
@@ -1942,6 +1905,7 @@ experiment_in	1
 day_with	1
 difference_between	1
 point_on	1
+money_as	1
 good_in	1
 way_through	1
 thought_throughout	1
@@ -1958,6 +1922,7 @@ marketing_of	1
 type_of	1
 fun_in	1
 life_in	1
+character_with	1
 likes_of	1
 criticism_for	1
 art_at	1
@@ -1972,7 +1937,7 @@ reasoning_in	1
 something_like	1
 lot_of	2
 majority_of	1
-handful_of	1
+feeling_for	1
 world_with	1
 idea_for	1
 group_of	4
@@ -1996,19 +1961,26 @@ NN_VBN
 reasoning_offered	1
 fact_repulsed	1
 NNS_PRP
-chills_you	1
 remarks_he	1
-people_I	1
+others_he	1
+theatres_I	1
 plays_him	1
+people_I	1
+chills_you	1
+circumstances_I	1
 shocks_you	1
 NN_VBG
 store_looking	1
+compound_erupting	1
+floor_letting	1
+decision_making	1
 friend_having	1
 movie_dealing	1
-decision_making	1
+ferocity_holding	1
 NN_VBD
 complex_made	1
 movie_was	2
+neccessity_was	1
 acting_was	1
 comedy_took	1
 movie_did	1
@@ -2056,6 +2028,7 @@ count_is	1
 movie_is	12
 wife_is	1
 Death_Becomes	1
+contrast_is	1
 belief_is	1
 prostitute_is	1
 mom_is	1
@@ -2074,6 +2047,7 @@ too_much	2
 so_maybe	1
 out_there	1
 just_ashamedly	1
+Well_not	1
 often_very	1
 severely_awry	1
 n't_even	1
@@ -2091,6 +2065,7 @@ not_twice	1
 often_not	1
 n't_just	1
 damn_well	1
+so_then	1
 n't_really	2
 just_never	1
 so_hard	1
@@ -2120,37 +2095,37 @@ party-gone-bad_are	1
 :_WRB
 --_how	1
 ..._when	1
-PRP$_''
-Her_''	1
 PRP_RB
 I_just	3
-I_actually	1
 It_just	1
-it_once	1
-it_actually	2
-it_damn	1
-they_inherently	1
-I_seldom	1
-it_again	1
-it_just	1
+I_still	1
+I_however	1
 it_first	1
-they_just	1
 it_only	1
-you_rather	1
 them_back	1
+you_just	1
+it_once	1
+it_again	1
 We_never	1
+they_inherently	1
 him_as	1
+I_seldom	1
+I_actually	1
+it_actually	2
+it_however	1
 It_never	1
 I_really	1
-you_just	1
-I_still	1
+they_just	1
+it_just	1
+it_damn	1
+me_Very	1
+you_rather	1
+IN_EX
+that_there	1
 PRP_RP
 him_up	1
 you_up	1
 me_up	1
-JJ_``
-good_``	1
-final_``	1
 RB_VBZ
 so_ensues	1
 still_lingers	1
@@ -2199,12 +2174,15 @@ liken_it	1
 cause_you	1
 SEE_IT	1
 RB_VBP
-just_hope	1
+not_do	1
+secretly_view	1
 seldom_take	1
+Furthermore_are	1
 here_are	1
 never_doubt	1
 then_do	1
 apparently_are	1
+just_hope	1
 VBZ_VBN
 's_supposed	1
 is_corrupted	1
@@ -2228,6 +2206,7 @@ look_up	1
 bring_down	1
 DT_DT
 this_the	1
+all_the	1
 this_a	1
 RB_VBN
 well_rounded	1
@@ -2246,21 +2225,16 @@ ever_seen	1
 ever_saw	1
 completely_deprived	1
 definitely_shocked	2
-NN_''
-Wedding_''	1
-plot_''	1
-Supper_''	1
-distaste_''	1
-money_''	1
-Happiness_''	1
-pushin_'	1
-Fiction_''	1
+VBP_WP
+forget_what	1
+think_what	1
 RB_VBG
-there_watching	1
 still_rising	1
-generally_acting	1
-personally_recommending	1
 probably_acting	1
+there_watching	1
+generally_acting	1
+before_making	1
+personally_recommending	1
 RB_VBD
 just_kept	1
 just_told	1
@@ -2269,6 +2243,7 @@ else_was	1
 just_bought	1
 actually_happened	1
 just_happened	1
+however_thought	1
 just_had	1
 first_came	1
 still_esteemed	1
@@ -2291,22 +2266,6 @@ seems_to	2
 appears_to	1
 needs_to	1
 comes_to	1
-,_IN
-,_at	2
-,_with	2
-,_in	5
-,_because	3
-,_as	1
-,_for	4
-,_if	2
-,_like	1
-,_on	1
-,_up	1
-,_from	1
-,_while	1
-,_of	1
-,_by	3
-,_unless	1
 POS_NNS
 's_roots	1
 's_accomplishments	1
@@ -2339,6 +2298,8 @@ NN_WDT
 one_that	1
 movie_that	3
 base_that	1
+film_which	1
+truth_which	1
 accident_that	1
 party_that	1
 night_that	1
@@ -2365,6 +2326,7 @@ recommend_this	1
 find_the	1
 watch_this	1
 take_a	1
+watch_The	1
 say_the	2
 condone_the	1
 see_the	1
@@ -2375,6 +2337,7 @@ kill_the	2
 write_a	1
 be_a	2
 judge_the	1
+work_an	1
 spend_the	1
 check_this	1
 hate_this	1
@@ -2387,12 +2350,9 @@ When_the	1
 how_the	2
 why_some	1
 where_the	1
-PDT_DT
-all_a	1
-all_the	4
-half_the	1
-All_the	1
-all_those	2
+FW_FW
+Hell_!!!	1
+in_awe	1
 VBZ_JJ
 is_dark	2
 is_perfect	1
@@ -2430,8 +2390,9 @@ comedy_to	2
 thing_to	1
 moment_to	1
 way_to	1
-everything_to	1
 hooker_to	1
+everything_to	1
+plot_to	1
 time_to	1
 something_to	2
 film_to	1
@@ -2443,7 +2404,7 @@ this_as	2
 that_of	3
 That_of	1
 this_in	1
-all_at	2
+all_at	3
 some_of	3
 all_of	1
 this_on	1
@@ -2453,7 +2414,8 @@ all_through	1
 all_in	2
 PRP_IN
 us_with	1
-them_in	3
+them_in	4
+me_if	1
 me_that	1
 it_with	2
 it_since	1
@@ -2481,50 +2443,31 @@ and_one	1
 but_one	1
 WP_RB
 What_else	1
-,_NN
-,_enigma	1
-,_thriller	1
-,_She	1
-,_none	1
-,_dark	1
-``_RB
-``_Very	1
-``_very	1
-`_Very	5
-CC_,
-But_,	2
-and_,	2
-``_NNS
-`_bachelors	1
-PRP$_``
-its_``	1
-``_NNP
-``_Jack	1
-``_Heathers	2
-``_Reservior	1
-`_Nuff	1
-``_City	1
 RB_DT
-simply_the	1
-probably_the	1
-maybe_that	1
-here_a	1
-quite_a	1
-especially_the	1
-not_an	1
-purely_an	1
-just_a	3
+n't_the	1
 easily_the	1
-only_a	1
 just_the	1
-n't_all	1
-then_this	1
-surely_no	1
+before_this	1
+Anyway_this	1
 not_that	1
 once_the	1
+simply_the	1
+probably_the	1
+here_a	1
+quite_a	1
+just_a	3
+Basically_these	1
+n't_all	1
+especially_the	1
+not_an	1
 surely_this	1
+only_a	1
+surely_no	1
+here_this	1
+maybe_that	1
+purely_an	1
 simply_a	1
-n't_the	1
+then_this	1
 POS_WRB
 '_when	1
 PRP$_JJS
@@ -2533,6 +2476,7 @@ NN_MD
 druggie_would	1
 audience_would	1
 film_would	1
+imitation_should	1
 story_would	1
 decision_must	1
 comedy_should	1
@@ -2542,36 +2486,20 @@ opinion_would	1
 movie_would	1
 ending_could	1
 conscience_will	1
+eye_could	1
 person_would	1
 dog_should	1
 DT_VB
 all_get	1
+UH_CC
+Oh_but	1
 WRB_PRP$
 when_your	1
 when_their	1
+CC_RBS
+and_most	1
 CC_RBR
 or_later	1
-DT_``
-the_`	2
-the_``	2
-,_RB
-,_completely	1
-,_now	1
-,_ever	1
-,_yet	1
-,_not	1
-,_however	2
-,_over	1
-,_so	3
-,_just	3
-,_surely	1
-,_probably	1
-,_Very	2
-,_then	4
-,_very	1
-,_usually	1
-,_especially	2
-,_once	1
 RP_JJR
 down_more	1
 CC_PRP
@@ -2584,9 +2512,6 @@ but_it	3
 and_it	3
 And_I	1
 and_she	1
-VBG_PRP$
-having_her	1
-letting_her	1
 RB_VB
 n't_care	1
 n't_call	1
@@ -2631,8 +2556,6 @@ n't_respect	1
 possibly_go	1
 just_sit	1
 just_give	1
-''_JJ
-''_funny	1
 RB_MD
 else_can	1
 well_should	1
@@ -2645,37 +2568,38 @@ about_within	1
 that_unlike	1
 than_that	1
 as_if	1
+from_off	1
 because_of	1
+of_up	1
 through_out	1
 of_like	1
-from_off	1
+that_by	1
 JJ_RB
-memorable_too	1
+okay_so	1
 open-minded_enough	1
-little_too	2
 dark_so	1
+memorable_too	1
+irritating_ever	1
+dark_yet	1
 great_too	1
-,_``
-,_`	1
+funny_so	1
+little_too	2
+dark_very	1
 VBZ_WP
 's_what	1
 shows_what	1
 challenges_what	1
-,_VBD
-,_stuck	1
-,_thought	1
-,_was	1
-,_VBG
-,_letting	1
-,_snorting	1
-,_holding	1
-,_judging	1
-,_playing	1
-,_reaching	1
-,_erupting	1
-,_raping	1
-,_sucking	1
-,_making	1
+VBG_PRP$
+having_her	1
+letting_her	1
+IN_VBG
+for_entering	1
+of_being	1
+of_plotting	1
+after_seeing	1
+on_going	1
+at_making	1
+for_taking	1
 NNS_.
 levels_.	1
 hours_.	1
@@ -2703,34 +2627,6 @@ extremes_.	1
 people_.	2
 stories_.	1
 reviewers_.	1
-NNS_,
-roles_,	1
-hands_,	1
-circumstances_,	1
-words_,	2
-acts_,	1
-fans_,	1
-ideas_,	1
-years_,	1
-Cops_,	1
-Things_,	1
-perfomances_,	1
-performances_,	1
-situations_,	1
-drugs_,	1
-times_,	1
-movies_,	1
-theatres_,	1
-schmucks_,	1
-others_,	2
-virtues_,	1
-people_,	2
-thoughts_,	1
-,_VBP
-,_fight	1
-,_view	1
-,_do	1
-,_are	1
 VBD_NNS
 did_drugs	2
 made_movies	1
@@ -2738,13 +2634,8 @@ NNS_:
 friends_--	1
 others_...	1
 performances_--	1
-,_VBZ
-,_comes	1
-,_is	3
-,_scares	1
-,_thrills	1
-,_makes	1
 VBG_JJ
+raping_dog-hating	1
 getting_married	1
 JJ_NNS
 annoying_films	1
@@ -2753,6 +2644,7 @@ dead_people	1
 good_things	1
 black_comedies	1
 other_reviewers	1
+other_performances	1
 negative_reviews	1
 negative_stars	1
 many_months	1
@@ -2816,21 +2708,17 @@ main_characters	1
 ethical_limits	1
 JJ_NNP
 devil-may-care_Robert	1
+evil_Cameron	1
 modern-day_Woody	1
+good_Jack	1
 CD_IN
 one_of	8
 One_of	1
-''_CD
-'_98	1
-''_CC
-''_and	2
 IN_WP
 despite_what	1
 after_what	1
 for_what	1
 of_what	1
-RB_''
-Alone_''	1
 FW_MD
 i_would	1
 i_can	1
@@ -2848,22 +2736,33 @@ the_extremely	1
 some_very	2
 a_very	2
 a_well	1
+another_usually	1
+all_so	1
+VBN_PRP$
+given_his	1
 MD_.
 must_.	1
 could_.	1
-MD_,
-should_,	1
-could_,	1
 NN_PRP
+climax_I	1
 becuse_he	1
 movie_they	1
+laughter_you	1
 oufffff_I	1
+desert_I	1
+comedy_it	1
 loon_she	1
 accomplishment_itself	1
+trouble_he	1
+end_I	1
 wish_they	1
 movie_it	1
+movie_you	1
 chance_they	1
+laughing_I	1
 film_I	1
+hesitation_I	1
+movie_I	2
 VB_PRP$
 kill_his	1
 have_her	1
@@ -2882,22 +2781,25 @@ DT_RP
 this_out	1
 ._.
 ?_.	1
-,_MD
-,_could	1
-,_should	2
 JJ_DT
-last_this	1
+funny_the	1
 such_an	1
-worth_the	2
+large_these	1
+last_this	1
+unreal_all	1
 funny_this	1
+worth_the	2
+cynic_a	1
 NNPS_JJS
 Slaters_best	1
 RB_CC
 once_and	1
+enough_but	1
 else_but	1
 over_and	1
 there_and	1
 back_and	1
+once_but	1
 again_and	1
 MD_VB
 would_happen	1
@@ -2938,10 +2840,9 @@ may_like	1
 'll_be	1
 can_say	1
 will_have	1
-:_JJ
-..._Wonderful	1
--_disgusted	1
-..._Contrary	1
+RB_CD
+far_one	1
+perhaps_one	1
 VB_VBN
 be_judged	1
 be_excepted	1
@@ -2961,15 +2862,6 @@ VB_VBG
 keep_telling	1
 WRB_NNS
 how_things	1
-,_DT
-,_this	7
-,_some	1
-,_these	2
-,_that	1
-,_a	8
-,_the	10
-,_an	1
-,_all	3
 NNP_NNPS
 City_Slickers	1
 Christian_Slaters	1
@@ -2978,12 +2870,12 @@ Life_Books	1
 VBZ_RBS
 's_most	1
 NNS_DT
-ways_the	1
-boys_the	1
 times_a	1
+boys_the	1
+words_a	1
+ways_the	1
+movies_the	1
 performances_a	1
-POS_``
-'s_``	1
 VBZ_NN
 ensues_suffering	1
 's_opinion	1
@@ -2991,9 +2883,8 @@ is_nothing	1
 is_something	2
 POS_RB
 '_almost	1
-UH_,
-Oh_,	1
 TO_JJ
+to_Good	1
 to_much	1
 VBP_DT
 hire_a	1
@@ -3006,9 +2897,6 @@ like_the	1
 have_no	1
 see_this	1
 do_the	1
-VBG_,
-murdering_,	1
-raping_,	1
 VBD_TO
 took_to	1
 went_to	2
@@ -3019,10 +2907,9 @@ NN_FW
 anything_i	1
 UH_:
 Nope_--	1
-,_WDT
-,_which	4
-``_PRP$
-``_My	1
+NNS_POS
+Things_'	5
+buddies_'	1
 JJS_NNS
 best_perfomances	1
 best_films	1
@@ -3044,77 +2931,8 @@ act_;	1
 life_:	1
 story_...	1
 NNP_JJ
+Funny_cynic	1
 Piven_lively	1
-NN_,
-instinct_,	1
-end_,	2
-shame_,	1
-desert_,	1
-contrast_,	1
-climax_,	1
-partying_,	1
-drinking_,	1
-name_,	1
-hesitation_,	1
-compound_,	1
-angle_,	1
-eye_,	1
-case_,	1
-ferocity_,	1
-laughing_,	1
-noodle_,	1
-fault_,	1
-viewer_,	1
-accident_,	1
-trouble_,	1
-floor_,	1
-tension_,	1
-cocaine_,	1
-imitation_,	1
-exaggeration_,	1
-tch_,	1
-character_,	1
-decision_,	1
-life_,	1
-hand_,	1
-neccessity_,	1
-idiot_,	1
-dog_,	1
-year_,	1
-film_,	2
-cinematography_,	1
-career_,	1
-comedy_,	3
-plot_,	1
-humor_,	1
-point_,	1
-premise_,	1
-thing_,	1
-director_,	1
-feeling_,	1
-reclusive_,	1
-madness_,	1
-show_,	1
-evil_,	1
-cast_,	2
-drama_,	2
-laughter_,	1
-prostitue_,	1
-side_,	1
-likelihood_,	1
-time_,	1
-truth_,	1
-movie_,	9
-try_,	1
-kite_,	1
-``_NN
-``_money	1
-``_distaste	1
-``_Home	1
-``_Happiness	1
-``_idiot	1
-``_Pulp	1
-``_Death	1
 NN_.
 dark_.	1
 scenario_.	1
@@ -3122,10 +2940,11 @@ friend_.	1
 hilt_.	1
 mess_!	1
 scenerio_.	1
+distaste_.	1
 baby_.	1
 man_.	1
 fervor_.	1
-prison_.	1
+Supper_.	1
 consumption_.	1
 heart_.	3
 anyone_.	1
@@ -3161,6 +2980,7 @@ convincing_.	1
 admission_.	1
 dvd_.	1
 thought_.	1
+Happiness_.	1
 life_.	2
 movie_.	11
 proud_.	1
@@ -3182,32 +3002,28 @@ thriller_.	1
 character_.	1
 drink_.	1
 city_.	1
+prison_.	1
 time_.	1
 family_.	1
 humor_.	1
 tale_.	1
-WDT_VBZ
-that_'s	1
-that_plays	1
-that_puts	1
-that_begins	1
-that_happens	1
-that_feels	2
-POS_,
-'_,	1
+TO_CC
+to_and	1
+NNP_VBG
+Stern_playing	1
+VBN_DT
+been_the	1
+used_some	1
+got_the	1
+concerned_the	1
+done_some	1
+seen_a	1
 JJR_TO
 easier_to	1
 WDT_VBP
 that_proceed	1
 that_translate	1
 that_know	1
-,_VB
-,_thank	1
-,_check	1
-''_NN
-''_ending	1
-''_type	1
-''_imitation	1
 VBP_VB
 dont_know	1
 do_get	1
@@ -3216,7 +3032,7 @@ about_to	1
 in_to	1
 PRP_CC
 them_and	1
-it_and	1
+it_and	3
 it_or	2
 us_or	1
 WDT_VBD
@@ -3229,9 +3045,6 @@ holding_back	1
 going_along	1
 occurring_right	1
 having_not	1
-DT_,
-another_,	1
-all_,	5
 DT_.
 this_.	2
 that_.	1
@@ -3300,9 +3113,8 @@ so_different	1
 as_stupid	1
 up_dead	2
 just_wonderful	1
-VB_``
-dig_`	1
-watch_``	1
+NNS_RBR
+things_sooner	1
 NNPS_.
 Flamingoes_.	1
 TO_NNP
@@ -3321,29 +3133,36 @@ pounding_a	1
 seeing_this	1
 reaching_a	1
 RB_PRP
-then_you	2
+yet_it	1
+then_you	3
 however_I	1
+not_I	1
 Then_you	1
+then_they	1
 Basically_you	1
 yes_they	1
+Indeed_we	1
 always_I	1
 then_it	1
+Rather_it	1
 :_VBG
 --_wavering	1
 :_getting	1
 VBZ_PRP
 throws_himself	1
 makes_it	1
-has_it	1
+is_it	1
 keeps_you	1
 makes_you	1
 puts_them	1
 thrills_you	1
+has_it	1
 pushes_you	1
 hits_ya	1
 scares_you	1
 VB_RB
 offer_much	1
+watch_over	1
 see_once	1
 have_not	1
 derive_entirely	1
@@ -3353,6 +3172,7 @@ fall_too	1
 eat_away	1
 be_very	1
 sit_back	1
+dig_Very	1
 CD_MD
 one_must	1
 :_VBP
@@ -3364,103 +3184,100 @@ JJ_WRB
 good_when	1
 NNS_WRB
 occaisions_where	1
-``_JJ
-`_other	1
-``_Serial	1
-``_happy	1
-``_Black	1
-``_Good	1
+NN_EX
+cast_there	1
 NNP_IN
 Piven_for	1
 Slater_in	1
 Dogs_that	1
 Vegas_for	2
 Vegas_by	1
+Stern_by	1
 Favreau_of	1
 All_in	1
 RB_POS
 here_'s	1
-RB_NNS
-just_stories	1
-just_connect-the-dots	1
-only_abuses	1
+PRP$_NNS
+their_troubles	1
+Its_characters	1
+his_others	1
+your_morals	1
+their_parts	1
+your_parents	1
+their_claws	1
+his_pals	1
+my_favorites	1
+your_hands	1
+your_prejudices	1
+their_priorities	1
+his_actions	1
 FW_.
 awe_.	1
-IN_VBG
-for_entering	1
-of_being	1
-of_plotting	1
-after_seeing	1
-on_going	1
-at_making	1
-for_taking	1
-,_PRP
-,_he	2
-,_they	1
-,_we	1
-,_you	7
-,_it	5
-,_I	11
+VBG_:
+watching_...	1
 CC_JJR
 and_more	1
 IN_VBN
 like_crazed	1
 with_hated	1
-RB_NNP
-once_Favreau	1
-especially_Favreau	2
-there_Braveheart	1
-maybe_Slater	1
-Then_THIS	1
+PRP$_NNP
+his_Life	1
+My_God	1
 VBG_.
 disgusting_.	1
 rising_.	1
 WRB_JJR
 where_more	1
 JJ_CC
-wonderful_and	1
-responsible_but	1
-dismembered_and	1
-interesting_but	1
-cute_and	1
 single_and	1
-dark_and	1
 transparent_and	1
-lively_but	1
-gory_and	1
-great_and	1
+aggressive_and	1
 good_and	1
-perfect_and	1
-nervous_and	1
-relatable_or	1
-inoffensive_and	1
-little_and	1
 disgusted_and	1
 real_and	1
+wicked_and	1
+lively_but	1
+inoffensive_and	1
+gory_and	1
+perfect_and	1
+cute_and	1
+little_and	1
+wonderful_and	1
+responsible_but	1
+extreme_yet	1
+dark_and	2
+original_and	1
+all-over-the-map_but	1
+great_but	1
+dismembered_and	1
+interesting_but	1
+great_and	3
+relatable_or	1
+nervous_and	1
 PDT_PRP$
 all_his	1
 VBN_RBR
 been_more	1
 IN_VBZ
 like_does	1
-CD_,
-one_,	3
-98_,	1
 CD_.
 one_.	2
 5.50_.	1
 five_.	1
+NNPS_JJ
+Books_Serial	1
 WRB_VBP
 why_do	1
 POS_NN
 's_one	1
 's_fault	1
-'s_role	1
+'s_Happiness	1
+'s_character	1
 's_reclusive	1
 's_Wedding	1
 's_personality	1
 '_bachelor	1
-'s_character	1
+'s_role	1
 TO_NN
 to_murder	1
 IN_FW
@@ -3474,29 +3291,33 @@ Three_Stooges	1
 two_minutes	1
 20_years	1
 forty_times	1
+one_folks	1
 15_minutes	1
 five_guys	2
 4_stars	1
 2_cents	1
 2_sittings	1
 VBN_RB
-been_half	1
-presented_here	1
-played_bitingly	1
 played_especially	1
-printed_here	1
-seen_before	1
+been_half	1
 blown_away	1
+involved_especially	1
+played_bitingly	1
+seen_before	1
+printed_here	1
+presented_here	1
 laughed_so	1
 NNP_NN
 This_movie	1
 City_kick	1
 Westlake_aka	1
+Kennedy_She	1
 Waters_proud	1
 Night_cult	1
 Woody_Allen-on-crack	1
 Vegas_city	1
 Slater_reason	1
+Nicholson_imitation	1
 VBZ_RB
 is_also	1
 's_appropriately	1
@@ -3517,6 +3338,7 @@ is_no	1
 's_really	1
 's_purely	1
 is_perhaps	1
+is_then	1
 is_not	4
 is_very	1
 is_here	1
@@ -3557,6 +3379,7 @@ abilities_might	1
 FW_VBP
 i_'ve	1
 TO_RB
+to_Very	1
 to_just	1
 RB_IN
 entirely_from	1
@@ -3564,15 +3387,19 @@ along_with	1
 not_for	3
 not_that	2
 so_for	1
+Yet_because	1
 away_by	1
 n't_as	1
-especially_after	1
-usually_out	1
 Not_for	1
+usually_out	1
+especially_after	1
+dangerously_for	1
+Hopefully_with	1
 ever_for	1
 bitingly_by	1
 hard_at	1
 only_because	1
+Essentially_from	1
 Then_that	1
 far_as	1
 Perhaps_if	1
@@ -3619,34 +3446,19 @@ are_just	1
 've_ever	1
 are_seriously	1
 go_severely	1
+do_very	1
 think_highly	1
 part_well	1
+find_Very	1
 are_pretty	1
 have_just	1
 are_not	2
-''_NNS
-''_movies	2
-'_performances	1
-NNP_,
-Boyd_,	1
-Terrific_,	1
-Diaz_,	1
-Gladiator_,	1
-God_,	1
-Burton_,	1
-Piven_,	1
-Braveheart_,	1
-Stern_,	3
-Funny_,	1
-Kennedy_,	1
-Well_,	1
-Vegas_,	1
-Angeles_,	1
 CD_JJ
-five_main	1
-two_dead	1
 one_horrible	1
+two_dead	1
+one_Good	1
 two_dichotomous	1
+five_main	1
 NNP_.
 Favreau_.	1
 AWAY_!	1
@@ -3662,6 +3474,7 @@ many_find	1
 many_have	1
 NNP_WRB
 Tripplehorn_when	1
+Angeles_where	1
 VCR_when	1
 POS_CD
 '_^	1
@@ -3673,25 +3486,23 @@ devestating_accident	1
 taking_part	1
 contriving_screenwriter	1
 snorting_cocaine	1
-RB_CD
-perhaps_one	1
 JJ_VBG
 effective_doing	1
 worth_seeing	1
 worth_watching	1
 NNP_:
 God_...	1
+Diaz_--	1
 JJ_VBD
 such_hit	1
 PRP_DT
 we_all	1
-it_the	1
+it_the	2
 me_a	1
 it_all	1
 it_a	3
+it_this	2
 them_all	1
-,_TO
-,_to	1
 JJ_PRP$
 comedic_my	1
 VBZ_.
@@ -3699,9 +3510,6 @@ berates_.	1
 does_.	2
 ensues_.	1
 is_.	1
-VBZ_,
-comes_,	1
-is_,	4
 RB_NN
 n't_anyone	1
 just_becuse	1
@@ -3709,42 +3517,49 @@ nearly_everyone	1
 NNS_TO
 homages_to	1
 sittings_to	1
-VBP_``
-find_`	1
-do_``	1
 WDT_CD
 which_99	1
 JJ_JJ
+fearful_life-altering	1
+overall_impressive	1
+impressive_convincing	1
+same_comedic	1
+sick_black	1
+shiny_happy	1
 sure_many	1
 dark_comedic	1
-several_life-or-death	1
-large_teenage	1
-great_dark	1
-assertive_male-bonding	1
 such_grim	1
-likable_middle	1
-true_black	1
-same_comedic	1
+great_dark	1
+lost_single	1
+assertive_male-bonding	1
+belligerent_modern-day	1
+final_happy	1
+generic_paint-by-numbers	1
+first-time_promising	1
+large_teenage	1
+convincing_intense	1
+several_life-or-death	1
+angry_aggressive	1
 true_shocking	1
 such_fearful	1
-sick_black	1
 shocking_classic	1
+white-knuckle_nail-biting	1
+detatched_furious	1
+likable_middle	1
+true_black	1
+terrible_missguided	1
 JJR_IN
-More_than	1
+more_than	2
 better_than	1
 younger_than	1
+less_in	1
 worse_than	1
-more_than	2
+More_than	1
 stupider_than	1
 WRB_JJ
 how_funny	1
 Where_many	1
 how_many	1
-,_CC
-,_and	29
-,_or	2
-,_but	15
-,_yet	1
 VB_NN
 do_everything	1
 expect_nothing	1
@@ -3754,8 +3569,6 @@ be_pushin	1
 respect_art	1
 tell_someone	1
 see_something	1
-,_,
-,_,	1
 VBZ_JJR
 is_more	1
 NN_WP
@@ -3774,9 +3587,6 @@ magnet_who	1
 friend_who	1
 FW_PRP
 Finaly_they	1
-VBP_WP
-forget_what	1
-think_what	1
 CC_FW
 and_in	1
 PRP_TO
@@ -3817,6 +3627,7 @@ IN_CD
 of_five	1
 in_20	1
 in_two	1
+in_98	1
 after_15	1
 on_one	1
 for_two	1
@@ -3824,21 +3635,21 @@ of_two	1
 NNS_VBZ
 bodies_does	1
 books_is	1
-Things_is	2
+Things_is	3
+acts_comes	1
 things_is	1
 VBD_PRP$
 was_my	1
 IN_CC
 through_and	1
 By_and	1
-PRP_:
-ya_...	1
 NNS_VBD
-actors_felt	1
-girls_saw	1
 execuives_did	1
-others_worked	1
+girls_saw	1
 guys_were	2
+actors_felt	1
+schmucks_stuck	1
+others_worked	1
 NNS_VBG
 favorites_being	1
 murders_bobbing	1
@@ -3849,6 +3660,7 @@ RP_RB
 out_loud	1
 out_instead	1
 PRP_NNS
+you_chills	1
 You_people	1
 NNS_VBN
 Situations_presented	1
@@ -3867,10 +3679,10 @@ POS_JJ
 's_demented	1
 's_energetic	1
 's_fateful	1
-''_IN
-''_as	2
-''_for	1
-'_in	1
+:_JJ
+..._Wonderful	1
+-_disgusted	1
+..._Contrary	1
 VBD_VBN
 was_made	1
 was_exhausted	1
@@ -3925,6 +3737,7 @@ of_black	1
 after_many	1
 of_sick	1
 in_several	1
+into_Black	1
 in_black	1
 from_such	1
 of_self-help	1
@@ -3941,15 +3754,16 @@ between_real	1
 as_many	1
 of_old	1
 In_other	2
-IN_''
-in_'	1
 VBN_NN
 rounded_movie	1
 rendered_act	1
 let_hsi	1
 relaxed_censorship	1
 defined_plot	1
+NNP_RB
+Well_now	1
 NNP_VBP
+Dogs_are	1
 God_bless	1
 Diaz_are	1
 :_PRP
@@ -3964,6 +3778,7 @@ commandments_of	1
 groups_of	1
 lives_as	1
 undertones_of	1
+events_as	1
 people_in	1
 pleasures_that	1
 people_on	1
@@ -3977,7 +3792,7 @@ roots_in	1
 films_that	1
 issues_with	1
 things_in	1
-characters_in	1
+Killers_for	1
 performances_by	1
 justifications_for	1
 things_from	1
@@ -3986,6 +3801,7 @@ morals_at	1
 actions_for	1
 movies_out	1
 abuses_because	1
+bachelors_in	1
 roles_for	1
 performances_of	1
 people_into	1
@@ -3993,7 +3809,7 @@ movies_like	1
 stars_if	1
 limits_until	1
 hisbuddies_for	1
-events_as	1
+characters_in	1
 parts_of	1
 women_in	1
 situations_of	1
@@ -4067,18 +3883,15 @@ NN_JJR
 nothing_less	1
 bit_younger	1
 lot_more	1
-NN_``
-term_``	1
 CC_NNP
 and_Stern	1
 and_Diaz	3
+and_Reservior	1
 and_Ebert	1
 and_Christian	1
 and_Alfred	1
 and_Cameron	2
 And_Cameron	1
-VBD_,
-laughed_,	1
 VBD_.
 did_.	1
 said_.	2
@@ -4112,8 +3925,10 @@ wind_up	1
 everyone_else	1
 conflict_even	1
 abuser_only	1
-oughta_really	1
+spiral_rapidly	1
+try_just	1
 anything_else	1
+case_just	1
 head_gracefully	1
 laugh_then	1
 film_just	1
@@ -4121,13 +3936,19 @@ watch_always	1
 movie_also	1
 movie_there	1
 movie_still	1
+noodle_completely	1
 movie_JUST	1
+career_probably	1
 something_else	1
 theatre_quietly	1
 job_as	1
-spiral_rapidly	1
+drama_then	1
+evil_surely	1
+angle_especially	1
+oughta_really	1
 Home_Alone	1
 value_whatsoever	1
+movie_then	1
 something_as	1
 JJ_IN
 Other_than	1
@@ -4159,6 +3980,7 @@ capable_of	1
 normal_in	1
 commendable_about	1
 high_as	1
+ugly_for	1
 different_than	1
 despicable_because	1
 disturbing_of	1
@@ -4167,16 +3989,10 @@ glad_that	1
 NNS_NN
 errors_compound	1
 characters_illogic	1
-WP_,
-who_,	1
-TO_``
-to_``	1
-to_`	1
 NN_RP
+pushin_up	1
 laugh_out	1
 film_out	1
-IN_:
-of_-	1
 VBZ_DT
 has_a	1
 's_a	4
@@ -4186,6 +4002,7 @@ helps_the	1
 expresses_a	1
 does_a	1
 puts_a	1
+comes_some	1
 is_the	1
 lends_some	1
 is_a	15
@@ -4217,17 +4034,18 @@ want_something	1
 're_someone	1
 have_way	1
 take_time	1
-JJ_''
-happy_''	1
-other_'	1
 VB_CD
 make_one	1
 VB_CC
 see_and	1
-help_but	1
-expect_and	1
+act_and	1
 read_both	1
+expect_and	1
 see_or	1
+help_but	1
+possess_but	1
+NNP_DT
+Boyd_a	1
 JJS_NN
 strongest_performance	1
 best_part	1
@@ -4247,16 +4065,6 @@ out_as	1
 VBN_NNS
 crafted_performances	1
 done_drugs	1
-,_NNP
-,_Gladiator	1
-,_Funny	1
-,_Siskel	1
-,_God	1
-,_Cameron	1
-,_Stern	1
-,_Diaz	1
-,_Stanley	1
-,_Orser	1
 VBG_NNP
 watching_Christian	1
 being_Piven	1
@@ -4264,30 +4072,23 @@ CC_NNS
 and_paint-by-numbers	1
 And_things	1
 and_women	1
-,_NNS
-,_chills	1
-,_folks	1
-,_people	1
-,_thoughts	1
-,_drugs	1
-,_edges	1
+WP_IN
+who_in	1
 VBZ_IN
 ensues_as	1
 lingers_on	1
 's_about	1
+is_on	1
 sounds_like	1
 brings_about	1
 's_because	1
 occurs_in	1
 feels_like	2
 is_that	3
-is_by	1
+is_by	2
 comes_as	1
 's_like	1
 hinges_on	1
-NNS_POS
-Things_'	5
-buddies_'	1
 JJ_NN
 serious_movie	1
 sheer_desire	1
@@ -4311,6 +4112,7 @@ raw_tension	1
 horrible_thing	1
 male_viewer	1
 unanimous_criticism	1
+happy_ending	1
 shy_guy	1
 Good_acting	1
 intial_moment	1

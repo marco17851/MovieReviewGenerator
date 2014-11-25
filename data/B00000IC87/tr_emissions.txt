@@ -22,14 +22,10 @@ VB_VBZ_IN
 say_is_that	1
 IN_NNS_DT
 at_times_all	1
-JJ_,_CC
-due_,_But	1
 WRB_PRP_VBD
 when_they_made	1
 NN_IN_JJ
 freeway_through_beloved	1
-CC_,_IN
-but_,_on	1
 VBG_CD_IN
 playing_one_of	1
 NNP_MD_VB
@@ -51,6 +47,7 @@ NNS_IN_PRP$
 episodes_of_her	1
 NN_PRP_VBD
 fan_I_snatched	1
+record_they_picked	1
 JJ_NNP_NNP
 beloved_Main_Street	1
 upstate_New_York	1
@@ -73,8 +70,6 @@ DT_RB_VB
 the_up_side	1
 POS_JJS_NN
 's_newest_celebrity	2
-,_JJ_IN
-,_unaware_that	1
 DT_NN_TO
 the_secretary_to	1
 DT_NN_VBD
@@ -98,20 +93,19 @@ NNP_CC_NNP
 Lucy_and_Viv	2
 Ball_and_Viv	1
 Lucy_and_Carol	1
+NN_NN_JJ
+tournament_engagement_unaware	1
 JJ_IN_DT
 much_of_an	1
-NNP_VBZ_DT
-Lucy_Gets_a	1
-Avalon_has_a	1
+CD_NN_.
+2_pack_!	1
 VBZ_PRP_IN
 enters_him_in	1
 VBP_RB_VB
 do_n't_do	1
-NN_,_PRP
-record_,_they	1
-NNP_POS_NNP
-Lucy_'s_Barbershop	1
-Lucy_'s_Substitute	1
+DT_NNS_VBP
+the_shows_are	1
+the_episodes_are	1
 CC_IN_NNS
 and_at_times	1
 VBP_DT_JJ
@@ -119,10 +113,10 @@ VBP_DT_JJ
 CC_DT_JJ
 and_the_French	1
 and_some_classic	1
-IN_NNS_,
-for_fans_,	1
 RB_DT_PRP
 Well_all_I	1
+DT_NNP_:
+the_Starmaker_-	1
 PRP$_NN_NN
 his_entertainment_career	1
 PRP_VBZ_NNP
@@ -135,16 +129,16 @@ IN_DT_CD
 for_this_10	1
 VBZ_RBR_IN
 receives_more_than	1
-IN_,_DT
-on_,_the	1
+NN_WDT_MD
+episode_which_would	1
 JJ_CD_NNS
 first_3_seasons	1
 PRP_VBD_PRP
 I_snatched_it	1
+NN_CC_JJ
+vacation_and_new	1
 JJ_NNS_.
 classic_commercials_.	1
-``_NNP_POS
-``_Lucy_'s	2
 CC_VBD_PRP
 and_brought_it	1
 RB_JJ_IN
@@ -166,10 +160,10 @@ VBD_DT_.
 made_this_.	1
 VBD_TO_NNP
 traveled_to_California	1
-,_CC_IN
-,_But_on	1
 CC_VBZ_PRP
 and_enters_him	1
+NN_JJ_IN
+engagement_unaware_that	1
 VBD_DT_RB
 used_a_very	1
 picked_some_fairly	1
@@ -181,8 +175,6 @@ VBP_VBN_TO
 are_supposed_to	1
 IN_NN_:
 of_order_...	1
-RB_IN_,
-Later_on_,	1
 PRP_NN_.
 it_home_.	1
 JJ_PRP_RB
@@ -191,8 +183,9 @@ TO_JJ_NN
 to_grumpy_banker	1
 NNS_PRP_VBZ
 notices_he_resembles	1
-NN_TO_VB
-attempt_to_install	1
+NNP_VBZ_DT
+Lucy_Gets_a	1
+Avalon_has_a	1
 NN_NN_NN
 replacement_guest_star	1
 celebrity_client_guest	1
@@ -206,14 +199,14 @@ NN_NNS_VBD
 roommate_episodes_were	1
 RB_VB_JJ
 n't_make_much	1
-NN_NN_,
-shower_episode_,	1
-tournament_engagement_,	1
-barbershop_group_,	1
 VBN_RP_IN
 turned_down_for	1
 JJ_NN_DT
 down_side_the	1
+NNS_VBG_DT
+bucks_Being_a	1
+NN_NNP_CC
+money_Lucy_and	1
 JJ_:_PRP
 white_..._I	1
 NNP_VBG_PRP$
@@ -222,15 +215,8 @@ PRP_VBP_JJ
 I_'m_glad	1
 NNP_NNS_PRP
 Lucy_notices_he	1
-VBD_PRP_RP
-snatched_it_up	1
-NNP_''_:
-Goulet_''_-	1
-Leonard_''_-	1
-Springs_''_-	1
-Secretary_''_-	1
-USA_''_-	1
-Starmaker_''_-	1
+RB_IN_DT
+Later_on_the	1
 NNP_IN_NNP
 Carol_in_Palm	1
 NNS_NN_CC
@@ -247,8 +233,6 @@ NN_DT_JJ
 DVD_a_good	1
 VBD_PRP_NN
 brought_it_home	1
-NNS_,_VBG
-bucks_,_Being	1
 DT_NN_IN
 an_impression_with	1
 a_shower_in	1
@@ -257,6 +241,8 @@ an_outline_of	1
 a_freeway_through	1
 an_era_in	1
 this_two-pack_in	1
+JJ_NN_JJ
+good_value_bottom	1
 TO_VB_IN
 to_be_of	1
 :_PRP_MD
@@ -289,8 +275,6 @@ Mr_Mooney_Gale	1
 Viv_Bagley_Vivian	1
 PRP_IN_DT
 him_in_a	1
-,_CC_PRP
-,_but_she	1
 NNP_CC_DT
 Lucy_and_the	1
 IN_NNP_.
@@ -311,6 +295,7 @@ story_of_widows	1
 information_for_fans	1
 NN_IN_NNP
 set_from_Madacy	1
+rendition_of_Down	1
 outline_of_Lucy	1
 :_NNP_VBZ
 -_Lucy_attempts	1
@@ -334,25 +319,18 @@ NN_:_IN
 order_..._like	1
 TO_DT_NN
 to_the_store	1
-``_NNP_VBZ
-``_Lucy_Meets	2
-``_Lucy_Gets	1
 NNP_NNP_MD
 Hans_Conreid_can	1
-NNP_NNP_''
-Sheldon_Leonard_''	1
-Street_USA_''	1
-Robert_Goulet_''	1
-Palm_Springs_''	1
-Substitute_Secretary_''	1
+NN_IN_NN
+era_in_television	1
 POS_NNP_NNP
 's_Substitute_Secretary	1
 MD_VB_.
 can_help_?	1
 RB_VBN_RB
 not_restored_much	1
-VBZ_VBN_JJ
-'s_been_pooped	1
+NN_VBZ_IN
+tranfer_looks_like	1
 DT_NN_NN
 a_bargain_bin	1
 a_bank_robber	1
@@ -360,12 +338,14 @@ a_golfing_tournament	1
 The_shower_episode	1
 DT_NNS_POS
 the_boys_'	1
-,_VBG_DT
-,_Being_a	1
 EX_VBD_DT
 There_were_no	1
+IN_NNP_IN
+of_Down_By	1
 VB_PRP$_NN
 launch_his_entertainment	1
+RB_CC_DT
+much_and_all	1
 VBD_DT_NN
 found_this_two-pack	1
 told_the_story	1
@@ -373,9 +353,6 @@ NNP_POS_.
 Stream_'_.	1
 NN_VBZ_VBN
 truck-driver_gets_turned	1
-DT_NN_''
-a_Shower_''	1
-a_Roommate_''	1
 RB_VBZ_CD
 then_theres_one	1
 IN_PRP$_JJS
@@ -384,31 +361,22 @@ RB_JJ_NN
 very_bad_film	1
 NN_POS_JJS
 bank_'s_newest	2
-''_:_VBG
-''_-_Trying	1
-CC_,_DT
-and_,_all	1
 JJ_NN_NN
 eccentric_voice_coach	1
 efficient_replacement_guest	1
 French_Movie_Star	1
 great_singing_voice	1
 bad_film_copy	1
-``_NNP_DT
-``_Lucy_the	1
 VB_RP_DT
 stave_off_the	1
 RB_VB_DT
 up_side_the	1
-IN_``_NNP
-of_`_Down	1
 VB_DT_NN
 be_the_secretary	1
 put_a_freeway	1
 install_a_shower	1
-,_JJ_NN
-,_eccentric_librarian	1
-,_bottom_line	1
+NN_RB_TO
+mine_back_to	1
 VB_NNP_NN
 do_Lucy_justice	1
 NNP_VBZ_CD
@@ -416,14 +384,11 @@ Entertainment_comprises_10	1
 Mooney_is_one	1
 NN_CC_PRP
 quality_but_they	1
+group_but_she	1
 NNP_DT_NNP
 Lucy_the_Starmaker	1
 VBZ_VBN_RP
 gets_turned_down	1
-NN_,_CC
-group_,_but	1
-color_,_and	1
-fan_,_but	1
 NN_VBD_JJ
 set_was_cheap	1
 NNS_RB_IN
@@ -440,15 +405,10 @@ DT_RB_JJ
 a_very_bad	1
 some_fairly_good	1
 NN_NN_CC
+barbershop_group_but	1
 singing_voice_and	1
 JJ_NN_WP
 local_town_who	1
-VBZ_JJ_,
-'s_due_,	1
-NN_,_JJ
-engagement_,_unaware	1
-flatmate_,_eccentric	1
-value_,_bottom	1
 PRP_MD_VB
 I_'d_wait	1
 I_can_say	1
@@ -472,6 +432,8 @@ NN_NN_CD
 episode_DVD_2	1
 IN_PRP_.
 for_it_.	1
+NNP_:_WRB
+Goulet_-_When	1
 IN_NN_WDT
 in_television_that	1
 VB_IN_DT
@@ -488,6 +450,8 @@ one_of_Lucy	1
 NNP_NNP_CC
 Lucille_Ball_and	1
 Robert_Goulet_and	1
+JJ_CC_IN
+due_But_on	1
 DT_JJR_NN
 a_better_edition	1
 NNP_NNP_POS
@@ -495,8 +459,10 @@ Mill_Stream_'	1
 Mr_Cheever_'s	1
 NN_DT_NN
 side_the_tranfer	1
-CD_NN_.
-2_pack_!	1
+NN_CC_IN
+fan_but_on	1
+DT_NN_WDT
+each_episode_which	1
 NNP_JJ_NN
 Pretty_good_box	1
 Bradford_guest_star	1
@@ -505,8 +471,20 @@ the_Old_Mill	1
 THE_LUCY_SHOW	1
 RB_VBZ_IN
 even_jumps_in	1
+NN_:_NNP
+Star_-_Lucy	1
+Quartet_-_Lucy	1
+Roommate_-_Lucy	1
+NN_NN_:
+Movie_Star_-	1
+DT_NN_:
+a_Shower_-	1
+a_Roommate_-	1
 PRP_VBZ_VBN
 it_'s_been	1
+NN_JJ_NN
+value_bottom_line	1
+flatmate_eccentric_librarian	1
 NN_NN_.
 bank_robber_.	1
 entertainment_career_.	1
@@ -514,10 +492,6 @@ NN_IN_PRP
 package_unless_you	1
 RB_VB_NNP
 n't_do_Lucy	1
-DT_NN_,
-each_episode_,	1
-the_record_,	1
-a_loan_,	1
 DT_NN_.
 the_series_.	1
 the_money_.	1
@@ -544,8 +518,6 @@ NNP_NNP_VBZ
 Madacy_Entertainment_comprises	1
 Frankie_Avalon_has	1
 Mr_Mooney_is	1
-,_NNP_CC
-,_Lucy_and	1
 IN_DT_NN
 for_a_golfing	1
 in_a_bargain	1
@@ -555,6 +527,7 @@ of_an_impression	1
 for_a_loan	1
 with_an_outline	1
 of_the_bank	1
+on_the_series	1
 in_a_Shower	1
 in_a_couple	1
 of_the_series	1
@@ -564,8 +537,6 @@ DT_JJR_PRP
 Any_higher_it	1
 NNP_VBZ_RP
 Lucy_calls_off	1
-,_NNP_VBZ
-,_Lucy_takes	1
 NNP_NNP_VBG
 Lucie_Arnaz_playing	1
 Vivian_Vance_raising	1
@@ -575,18 +546,26 @@ NN_NN_VBD
 DVD_set_was	1
 VBD_WRB_NNP
 changed_when_Lucy	1
+NN_CC_RB
+color_and_then	1
 IN_PRP$_JJ
 of_her_later	1
 with_her_whisper-soft	1
-``_NNP_IN
-`_Down_By	1
 VBP_JJ_PRP
 'm_glad_I	1
 VBZ_RP_PRP$
 calls_off_her	1
+NNP_NNP_:
+Substitute_Secretary_-	1
+Robert_Goulet_-	1
+Sheldon_Leonard_-	1
+Palm_Springs_-	1
+Street_USA_-	1
 CD_IN_DT
 one_of_the	1
 one_from_the	1
+DT_NN_PRP
+the_record_they	1
 NNP_NNP_.
 Jacques_Bergerac_.	1
 Carol_Burnett_.	1
@@ -604,6 +583,8 @@ POS_NN_NN
 's_barbershop_group	1
 POS_VBP_VBN
 's_are_supposed	1
+NN_NNP_NNS
+loan_Lucy_notices	1
 NN_NNP_NNP
 banker_Mr_Mooney	1
 librarian_Carol_Bradford	1
@@ -622,9 +603,6 @@ NNP_NNP_DT
 Love_Lucy_these	1
 NNP_VBG_CD
 Arnaz_playing_one	1
-,_CC_,
-,_and_,	1
-,_but_,	1
 VB_IN_JJ
 be_of_high	1
 VBZ_PRP_VBZ
@@ -653,8 +631,6 @@ JJ_CC_PRP
 entertaining_and_they	1
 IN_IN_NN
 out_of_order	1
-,_DT_IN
-,_all_of	1
 NNP_TO_VB
 California_to_be	1
 PRP_VBZ_PRP$
@@ -663,20 +639,18 @@ DT_JJ_NNS
 some_classic_commercials	1
 DT_JJ_NNP
 a_young_Lucie	1
-VB_NN_,
-save_money_,	1
 MD_VB_VBZ
 can_say_is	1
 DT_NN_DT
 this_DVD_a	1
 IN_NNP_POS
 of_Lucy_'s	1
+VB_NN_NNP
+save_money_Lucy	1
 MD_VB_IN
 'd_wait_for	1
 IN_JJ_CC
 in_black_and	1
-NNS_,_IN
-seasons_,_in	1
 RB_VBP_DT
 almost_make_this	1
 RB_TO_DT
@@ -688,8 +662,8 @@ PRP_VBZ_RB
 she_does_n't	1
 NNP_VBZ_RBR
 Lucy_receives_more	1
-NN_RB_TO
-mine_back_to	1
+VBD_PRP_RP
+snatched_it_up	1
 VBZ_PRP$_JJ
 discovers_her_efficient	1
 RP_DT_NNS
@@ -698,9 +672,9 @@ NN_TO_JJ
 secretary_to_grumpy	1
 JJ_NN_VBN
 good_box_set	1
-DT_NNS_VBP
-the_shows_are	1
-the_episodes_are	1
+NNP_POS_NNP
+Lucy_'s_Barbershop	1
+Lucy_'s_Substitute	1
 PRP$_NNP_NNP
 her_Lake_Arrowhead	1
 IN_DT_JJ
@@ -718,9 +692,10 @@ Extras_include_a	1
 PRP_VBP_DT
 you_'re_a	1
 they_highlight_an	1
-JJS_NN_,
-latest_flatmate_,	1
+NN_TO_VB
+attempt_to_install	1
 NN_NN_NNP
+shower_episode_Lucy	1
 guest_star_Jacques	1
 guest_star_Hans	1
 guest_star_Ruta	1
@@ -741,8 +716,8 @@ VBP_DT_NNS
 include_a_trivia	1
 CC_VBZ_NNP
 and_joins_Carol	1
-NN_VBZ_IN
-tranfer_looks_like	1
+VBZ_VBN_JJ
+'s_been_pooped	1
 VB_JJ_NN
 be_good_information	1
 DT_JJ_NN
@@ -784,11 +759,11 @@ TO_VB_RP
 to_stave_off	1
 NNP_CC_VBZ
 Goulet_and_enters	1
-,_WDT_MD
-,_which_would	1
 CC_IN_DT
 But_on_the	1
+but_on_the	1
 JJ_NN_CC
+diehard_fan_but	1
 high_quality_but	1
 CC_VBZ_TO
 and_decides_to	1
@@ -799,8 +774,6 @@ Viv_'s_barbershop	1
 Lucy_'s_secretary	1
 Cheever_'s_nephew	1
 Carol_'s_band	1
-''_:_NNP
-''_-_Lucy	8
 JJ_NN_NNS
 new_roommate_episodes	1
 official_air_dates	1
@@ -809,6 +782,7 @@ grumpy_banker_Mr	1
 guest_star_Carol	1
 eccentric_librarian_Carol	1
 CD_NNS_IN
+3_seasons_in	1
 five_bucks_for	1
 four_episodes_of	1
 NNP_NN_TO
@@ -827,13 +801,8 @@ NNS_VBP_RB
 shows_are_highly	1
 POS_NN_.
 '_bedroom_.	1
-,_IN_JJ
-,_in_black	1
 CD_NNS_.
 FIVE_BUCKS_.	1
-CD_NNS_,
-five_bucks_,	1
-3_seasons_,	1
 NN_WDT_RB
 television_that_rarely	1
 NN_IN_DT
@@ -843,25 +812,22 @@ shower_in_the	1
 Put_in_a	1
 band_for_a	1
 screen_with_an	1
-NN_,_WDT
-episode_,_which	1
-JJ_NN_,
-good_value_,	1
-diehard_fan_,	1
+NNS_CC_DT
+fans_and_the	1
 JJ_NN_.
 bad_value_.	1
 look-alike_contest_.	1
 bottom_line_!	1
+DT_NN_NNP
+a_loan_Lucy	1
 TO_VB_NNP
 to_join_Viv	1
 CC_RB_VBZ
 and_then_theres	1
-,_CC_RB
-,_and_then	1
 IN_JJ_NN
 of_high_quality	1
-NN_NN_''
-Movie_Star_''	1
+NNS_DT_NN
+mistakes_the_bank	1
 NN_IN_PRP$
 impression_with_her	1
 NN_WRB_PRP
@@ -879,8 +845,8 @@ features_a_young	1
 is_a_white	1
 has_a_great	1
 's_a_bad	1
-IN_NN_,
-in_color_,	1
+NNP_NN_:
+Barbershop_Quartet_-	1
 WP_VBP_VBG
 who_are_fighting	1
 TO_NNP_TO
@@ -889,40 +855,34 @@ PRP_RB_VBZ
 It_even_jumps	1
 NNP_NNS_DT
 Lucy_mistakes_the	1
-``_NNP_CC
-``_Lucy_and	3
 DT_IN_DT
 all_of_the	1
+VBZ_JJ_CC
+'s_due_But	1
 NNP_NNP_NN
 Lake_Arrowhead_vacation	1
-VBN_RB_,
-restored_much_,	1
 PRP$_JJ_NN
 her_later_show	1
 her_efficient_replacement	1
 her_whisper-soft_rendition	1
-NN_IN_``
-rendition_of_`	1
 CC_PRP_VBP
 and_they_highlight	1
-NNS_,_CC
-fans_,_and	1
 CC_PRP_VBZ
 but_she_does	1
-NNS_DT_NN
-mistakes_the_bank	1
 CC_PRP_VBD
 but_they_used	1
 JJ_CC_JJ
 black_and_white	1
-,_PRP_VBD
-,_they_picked	1
-,_CC_DT
-,_and_the	1
-NNP_NN_''
-Barbershop_Quartet_''	1
-NN_CC_JJ
-vacation_and_new	1
+NNP_:_NNP
+Secretary_-_Lucy	1
+Starmaker_-_Lucy	1
+USA_-_Lucy	1
+Leonard_-_Lucy	1
+Springs_-_Lucy	1
+JJS_NN_JJ
+latest_flatmate_eccentric	1
+NN_NNP_VBZ
+episode_Lucy_takes	1
 CD_NN_NN
 10_episode_DVD	1
 NNS_VBP_IN
@@ -931,8 +891,6 @@ VBN_TO_VB
 supposed_to_be	1
 TO_VB_NN
 to_save_money	1
-``_NNP_NNP
-``_Main_Street	1
 IN_CC_IN
 on_and_at	1
 PRP_VBZ_JJ
@@ -943,18 +901,18 @@ VBP_VBZ_DT
 see_is_a	1
 RP_CC_VBD
 up_and_brought	1
+NN_:_VBG
+Shower_-_Trying	1
 NNP_NN_.
 Lucy_justice_.	1
-''_:_WRB
-''_-_When	1
 NN_NN_IN
 celebrity_client_for	1
 DVD_package_unless	1
 bargain_bin_for	1
-,_NNP_NNS
-,_Lucy_notices	1
-NN_IN_NN
-era_in_television	1
+NNS_IN_JJ
+seasons_in_black	1
+IN_NN_CC
+in_color_and	1
 PRP_VBP_VBG
 I_'m_taking	1
 NN_VBZ_.
@@ -967,26 +925,30 @@ from_both_phases	1
 in_the_boys	1
 of_the_episodes	1
 of_the_entrants	1
-,_IN_DT
-,_on_the	1
 PRP_VBP_VBZ
 you_see_is	1
-RB_,_CC
-much_,_and	1
+IN_NNS_CC
+for_fans_and	1
 IN_JJ_NNP
 through_beloved_Main	1
 in_upstate_New	1
 DT_CD_NN
 this_10_episode	1
+CC_DT_IN
+and_all_of	1
 IN_NNP_NNP
 in_Palm_Springs	1
 from_Madacy_Entertainment	1
 as_I_Love	1
 that_Mr_Mooney	1
+CD_NNS_VBG
+five_bucks_Being	1
 VBP_RB_JJ
 are_highly_entertaining	1
 WDT_MD_VB
 which_would_be	1
+VBN_RB_CC
+restored_much_and	1
 POS_NN_NNP
 's_nephew_Frankie	1
 VBZ_IN_DT
@@ -1020,11 +982,6 @@ PRP$_NNS_RB
 their_children_together	1
 RB_JJ_NNS
 fairly_good_episodes	1
-NN_''_:
-Shower_''_-	1
-Star_''_-	1
-Roommate_''_-	1
-Quartet_''_-	1
 IN_DT_RB
 On_the_up	1
 POS_NNP_NN
@@ -1053,13 +1010,5 @@ Down_By_the	1
 VBZ_CD_IN
 theres_one_from	1
 is_one_of	1
-DT_NNP_''
-the_Starmaker_''	1
-NN_,_NNP
-loan_,_Lucy	1
-episode_,_Lucy	1
-money_,_Lucy	1
-,_DT_NN
-,_the_series	1
 VBD_DT_JJ
 were_no_official	1

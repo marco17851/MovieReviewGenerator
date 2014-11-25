@@ -20,6 +20,8 @@ DT_JJR_NN
 a_better_viewing	1
 JJR_NN_NN
 better_viewing_mode	1
+NN_DT_NN
+quality_this_video	1
 VBZ_JJ_IN
 's_ashame_that	1
 NNP_NNS_.
@@ -43,6 +45,7 @@ VB_IN_NNP
 appear_on_Nickelodeon	1
 NN_NN_.
 EP_mode_.	1
+TVShowsOnDVD_site_.	1
 viewing_mode_.	1
 NN_IN_PRP
 show_since_I	1
@@ -53,10 +56,8 @@ vote_for_a	1
 release_of_this	1
 cartoon_at_the	1
 shame_that_the	1
-NN_,_DT
-quality_,_this	1
-JJ_NN_,
-poor_quality_,	1
+DT_NN_.
+a_kid_!	1
 CD_RB_DT
 twenty_now_The	1
 RB_VB_PRP
@@ -77,8 +78,6 @@ NN_VBZ_JJ
 acting_is_GREAT	1
 NN_VBD_VBN
 cartoon_was_recorded	1
-IN_DT_``
-at_the_``	1
 DT_NN_VBD
 This_cartoon_was	1
 RB_JJ_CC
@@ -120,6 +119,7 @@ JJ_IN_DT
 Other_than_the	1
 DT_NN_NN
 a_DVD_release	1
+the_TVShowsOnDVD_site	1
 IN_DT_RBS
 of_the_most	1
 VB_PRP_.
@@ -134,8 +134,6 @@ that_you_can	1
 that_they_could	1
 JJ_IN_PRP
 cheap_that_they	1
-DT_NN_.
-a_kid_!	1
 MD_RB_VB
 could_n't_have	1
 can_hardly_watch	1
@@ -148,9 +146,8 @@ DVD_release_of	1
 DT_NN_RB
 a_star_only	1
 IN_DT_NN
+at_the_TVShowsOnDVD	1
 for_a_DVD	1
-''_NN_.
-''_site_.	1
 PRP_VBP_VBN
 I_'ve_loved	1
 WP_VBD_DT
@@ -166,16 +163,12 @@ IN_DT_NNS
 that_the_people	1
 VBN_DT_JJR
 used_a_better	1
-NN_''_NN
-TVShowsOnDVD_''_site	1
 DT_NNP_VBD
 the_VHS_was	1
 RP_NN_.
 off_air_.	1
 VBZ_JJ_DT
 is_such_a	1
-DT_``_NN
-the_``_TVShowsOnDVD	1
 MD_VB_IN
 must_have_for	1
 JJ_NN_IN
@@ -220,14 +213,14 @@ NNS_VBP_DT
 Thanks_;-RRB-_This	1
 DT_MD_VB
 a_must_have	1
-``_NN_''
-``_TVShowsOnDVD_''	1
 VBN_IN_PRP
 done_that_you	1
 NN_NN_CC
 ep_mode_and	1
 DT_RBS_JJ
 the_most_intelligent	1
+RB_VBN_IN
+badly_done_that	1
 RB_RB_VBN
 so_badly_done	1
 NNP_VBD_PRP
@@ -256,7 +249,5 @@ FW_:_NN
 Pssst_..._ARM	1
 JJ_DT_NN
 such_a_shame	1
-,_DT_NN
-,_this_video	1
-RB_VBN_IN
-badly_done_that	1
+JJ_NN_DT
+poor_quality_this	1

@@ -6,6 +6,7 @@
 # Output: 	A sentence similar to "You don't want to miss this amazing movie!"
 
 # Description: 	This program was written to test out Wordnet and how to use it.
+				It isn't necessary for the program as a whole.
 """
 
 from nltk.corpus import wordnet as wn

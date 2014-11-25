@@ -68,6 +68,7 @@ been_released	1
 NNP_WDT
 Dance_which	1
 JVC_which	1
+Stratas_that	1
 Salome_that	1
 Vickers_that	1
 VBN_VBD
@@ -116,11 +117,6 @@ not_to	1
 close_to	1
 VBN_:
 experienced_...	1
-VBP_,
-think_,	1
-IN_``
-into_``	1
-in_``	1
 VBP_.
 profess_.	1
 POS_CC
@@ -140,9 +136,6 @@ sung_.	1
 filmed_.	1
 deserved_.	1
 airbrushed_.	1
-VBN_,
-opined_,	1
-mentioned_,	1
 VB_JJR
 happen_more	1
 be_better	1
@@ -152,20 +145,17 @@ JJ_VBN
 trivial_compared	1
 WDT_MD
 that_could	1
-VBN_CC
-seen_and	1
-sung_and	1
-hypnotized_and	1
-remastered_and	1
-plumb_and	1
-played_and	1
-shown_&	1
+DT_PRP
+this_it	2
+all_it	1
 TO_RBR
 to_better	1
 VBZ_CC
 demands_and	1
 NNS_WDT
 reactions_that	1
+RB_JJS
+Basically_most	1
 RB_JJR
 once_more	1
 far_better	1
@@ -199,25 +189,31 @@ who_reveals	1
 who_sings	1
 what_is	2
 NNP_CC
-Barstow_and	1
-Salome_&	2
-Salome_but	1
-Loren_and	1
-Nedda_and	1
-Solti_and	1
-Weikl_but	1
-Dance_and	1
+Herodias_and	2
 Laserdisc_and	1
 Varnay_or	1
-Stratas_and	2
-Salome_or	1
-Johanaan_&	1
+Dance_and	1
 Strauss_and	1
-Salome_and	2
-Traviata_and	1
+Jochanaan_and	1
 Streep_or	1
+Nedda_and	1
+Solti_and	1
+Traviata_and	1
+Rysanek_or	1
+Salome_but	1
+Loren_and	1
 Wilde_and	1
+Salome_or	1
+Salome_and	3
+BUT_and	1
+Barstow_and	1
+Salome_&	2
+Johanaan_&	1
+Stratas_but	1
+Weikl_but	1
 Mordor_&	1
+Jochanaan_but	1
+Stratas_and	2
 Herodias_but	1
 WP_MD
 what_might	1
@@ -234,6 +230,8 @@ most_appropriate	1
 most_scandalous	1
 most_thrilling	1
 most_memorable	1
+:_NN
+:_Tu	1
 IN_PRP$
 against_her	1
 of_his	2
@@ -259,13 +257,8 @@ for_its	1
 for_his	1
 NN_VB
 somebody_let	1
-``_NN
-``_scandal	1
-`_MAHOGONNY	1
-`_JUSTOLDBILL	1
-``_Tu	1
-`_Saturday-afternoon-opera	1
-`_ivory	1
+JJ_MD
+aesthetic_ca	1
 IN_WDT
 for_which	1
 in_which	1
@@ -355,11 +348,11 @@ be_for	1
 go_with	1
 JJ_PRP
 sudden_I	1
+catlike_she	1
+wonderful_it	1
+good_I	1
 sure_it	1
 happy_I	1
-wonderful_it	1
-,_''
-,_''	1
 VBD_RB
 was_mostly	1
 did_n't	4
@@ -381,12 +374,17 @@ was_really	1
 failed_again	1
 was_truly	1
 NN_DT
-Ring_the	1
 doubt_the	1
+presence_the	1
+Ring_the	1
+voice_the	1
+fan_this	1
+time_this	1
 collection_this	1
 production_a	1
-time_this	1
+lifetime_a	1
 production_The	1
+masterpiece_the	1
 catalogue_the	1
 VBN_JJR
 seen_more	1
@@ -451,16 +449,15 @@ RB_NNS
 n't_DG	1
 not_films	1
 RB_NNP
-Even_Narroboth	1
 Actually_Teresa	1
-not_Salome	1
+therefore_Salome	1
+Even_Narroboth	1
+dear_Herod	1
 probably_Monserrat	1
+Also_Astrid	1
+not_Salome	1
 WDT_NN
 what_opera	1
-,_PRP$
-,_his	1
-,_her	1
-,_their	1
 IN_RB
 from_just	1
 as_well	2
@@ -490,6 +487,8 @@ know_it	1
 see_her	1
 think_it	2
 admit_they	1
+JJR_RBR
+colder_less	1
 VB_:
 work_--	1
 CC_NN
@@ -512,10 +511,8 @@ and_somebody	1
 or_understanding	1
 and_graciousness	1
 and_staging	1
-VB_,
-do_,	1
-count_,	1
-watch_,	1
+CD_VBZ
+1974_is	1
 VB_.
 wish_.	1
 be_.	3
@@ -549,11 +546,9 @@ tricky_to	1
 NNS_JJ
 shots_realistic	1
 recordings_available	1
-NNP_''
-Salome_'	2
-Salome_''	2
-DT_PRP
-this_it	1
+cords_lithe	1
+MD_IN
+must_for	1
 DT_NNS
 these_reviews	1
 all_roles	1
@@ -619,6 +614,7 @@ with_Dame	1
 about_Johanaan	1
 of_Wilde	1
 about_Stratas	1
+into_Salome	1
 by_Ken	1
 of_Weikl	1
 in_Pagliacci	1
@@ -709,7 +705,7 @@ the_Nadja	1
 a_Sophia	1
 a_Florida	1
 the_Salome	1
-the_Dance	1
+the_Dance	2
 The_Berlin	3
 the_Metropolitan	1
 VBD_RBR
@@ -738,20 +734,24 @@ And_what	1
 but_what	2
 But_what	1
 NNS_CC
-expressions_and	1
-things_or	1
-emotions_and	1
-years_and	1
+Recordings_or	1
+films_and	1
 emotions_or	1
-,_VB
-,_please	1
-JJR_IN
-more_than	3
-better_than	1
-More_than	1
-more_of	1
+expressions_and	1
+calisthetics_and	1
+things_or	1
+tatters_but	1
+years_and	3
+aficianados_and	1
+emotions_and	1
+singers_and	1
+VBN_PRP
+felt_she	1
+shown_it	1
+brought_me	1
 VBP_IN
 read_about	1
+are_over	1
 are_of	1
 think_for	1
 wonder_if	1
@@ -776,55 +776,77 @@ talk_about	1
 go_with	1
 NN_CC
 closing_and	1
-singing_and	2
+excitement_and	1
 G-string_and	1
+R_and	1
+conductor_and	1
+time_and	1
 tease_&	1
 piece_but	1
 incest_and	1
-show_&	1
+singing_and	2
 hair_and	1
-opera_and	1
+opera_and	2
+dubbing_but	1
+show_&	1
 head_and	1
 dancer_and	1
+television_and	1
 orchestra_and	1
 necrophilia_&	1
-production_and	2
+vocalist_but	1
 CD_or	1
 costuming_and	1
-stage_and	1
-score_and	1
+stage_and	2
+DVD_but	1
+amazon_or	1
 friendliness_and	1
+life_&	1
 poise_and	1
+wilfull_and	1
+stage_but	1
 artistry_and	1
+finale_and	1
 singer_but	1
 role_or	1
+talent_but	1
 slender_and	1
-nothing_but	1
 DVD_and	2
-B&ouml;hm_and	1
+televsion_and	1
+B&ouml;hm_and	2
 dancing_and	1
+weekend_and	1
 singing_&	1
-life_&	1
+production_and	2
 cast_and	1
 soundtrack_and	1
+walk-on_and	1
+sky_and	1
 shot_or	1
 costume_&	1
 notch_&	1
 emotion_and	1
 direction_&	1
+nothing_but	1
 film_and	1
+opera_but	1
 artist_and	1
 voice_and	1
 love_and	1
 corruption_and	1
 husband_and	1
 sophistication_and	1
+figure_but	1
+set_but	1
 acting_and	1
-version_and	1
+version_and	2
+expression_and	1
 actor_and	1
-role_and	1
-amazon_or	1
+role_and	2
+screen_and	1
+score_and	1
 prose_and	1
+theatre_but	1
 singer_and	1
 audience_&	1
 RBS_VBN
@@ -839,7 +861,12 @@ a_better	1
 no_better	1
 DT_WP
 those_who	4
+RBR_PRP
+earlier_she	1
 NN_JJ
+photography_wonderful	1
+towering_magnificent	1
+body_sensuous	1
 opera_available	1
 nothing_short	1
 creepy-just_amazing	1
@@ -858,16 +885,17 @@ Amazon_reviews	1
 Palmour_clips	1
 Mafitano_productions	1
 NNP_NNP
-Meryl_Streep	1
+Karita_Mattila	1
 Oscar_Wilde	1
 Penthouse_Caligula	1
 Rubeus_Hagrid	1
-Covent_Garden	2
+Herod_Herodias	1
 Deidra_Palmour	1
 Lazer_Disc	1
 La_Traviata	1
 Cate_Blanchett	1
-Karita_Mattila	1
+Berlin_Terfel	1
+Meryl_Streep	1
 July_7th	1
 Peter_Hall	1
 Georg_Solti	1
@@ -875,12 +903,13 @@ R._Strauss	2
 Varnay_Salome	1
 Birgit_Nilsson	2
 Herodias_Astrid	1
+Dieu_Iokanaan	1
 New_York	1
 Hedwig_Lachmann	1
 !!!!!!!!!_Whether	1
 Jon_Vickers	2
 Sophia_Loren	1
-Does_Salome	1
+Covent_Garden	2
 Welitsch_Salome	1
 Monserrat_Caballe	1
 Teresa_Stratas	16
@@ -888,7 +917,7 @@ Astrid_Varnay	11
 Simon_Estes	2
 Wieslaw_Ochman	1
 Bernt_Weikl	1
-Inge_Borkh	1
+Salome_Varnay	1
 Vienna_Philharmonic	1
 Temple_University	1
 Hanna_Schwarz	2
@@ -907,34 +936,40 @@ Karl_Bohm	3
 Richard_Strauss	1
 Robert_Petersen	1
 Theresa_Stratas	1
+Does_Salome	1
 Hans_Beirer	2
 Ms._Stratas	1
 Gotz_Friedrich	1
 G&ouml;tz_Friedrich	2
+Nilsson_Welitsch	1
 Stratas_Salome	1
+Yes_Astrid	1
+Herod_Welitsch	1
 Albert_Kleppe	1
 Bryn_Teufel	1
+Neilson_Rysanek	1
+Inge_Borkh	1
 Weikl_Johanaan	1
 JAMES_LEVINE	1
+Studer_Neilson	1
 Berlin_Mafitano	2
+Welitsch_Studer	1
+Salomes_Ljuba	1
 :_RB
 ;_so	1
 --_even	1
 --_still	1
 VBP_RBR
 get_more	1
+JJR_PRP
+more_she	1
 CC_EX
 but_there	1
-''_WP
-''_who	1
 JJR_DT
 more_all	1
 JJR_.
 less_.	1
 more_.	2
-JJR_,
-more_,	1
-colder_,	1
 VB_TO
 have_to	1
 like_to	1
@@ -953,14 +988,10 @@ compared_to	2
 astoninshed_to	1
 glued_to	1
 thrilled_to	1
-NNPS_''
-Veils_''	1
 VBZ_CD
 presents_1974	1
 is_one	1
 says_1976	1
-:_``
-:_``	1
 IN_DT
 through_the	2
 off_the	1
@@ -1059,30 +1090,16 @@ one_where	1
 VB_WP
 remember_who	1
 consume_what	1
+DT_.
+this_.	3
+No_.	1
+that_.	1
+all_.	3
 RB_WRB
 Even_when	1
 so_why	1
 CD_POS
 70_'s	1
-RB_,
-perhaps_,	1
-outwardly_,	1
-not_,	1
-however_,	1
-Basically_,	1
-frankly_,	1
-side-by-side_,	1
-here_,	3
-Also_,	2
-ago_,	2
-Now_,	1
-now_,	1
-else_,	1
-brilliantly_,	1
-dear_,	1
-meantime_,	1
-so_,	1
-well_,	2
 RB_.
 here_!	1
 gloriously_.	1
@@ -1151,8 +1168,6 @@ When_I	1
 -_for	1
 -_of	1
 ..._because	1
-''_:
-''_--	1
 WP_JJR
 What_more	1
 PRP$_JJ
@@ -1175,7 +1190,9 @@ his_hateful	1
 her_prime	1
 PRP_PRP
 me_she	1
+it_it	1
 me_I	1
+her_you	1
 IN_PRP
 between_them	1
 for_you	2
@@ -1212,18 +1229,11 @@ so_you	1
 that_we	1
 since_it	1
 as_she	1
-''_.
-''_.	1
-'_.	1
 NNS_VB
 DG_release	1
 singer-actors_see	1
 VB_EX
 remember_there	1
-,_FW
-,_moi	1
-,_tu	1
-,_mais	1
 :_NNS
 --_tears	1
 --_Hints	1
@@ -1291,6 +1301,7 @@ the_action	2
 the_exception	1
 the_production	1
 an_immense	1
+this_kind	1
 a_monster	1
 a_woman	1
 a_walk-on	1
@@ -1328,7 +1339,7 @@ the_gate	1
 the_role	8
 any_DVD	1
 Every_praise	1
-this_kind	1
+the_scandal	1
 The_story	1
 the_voice	1
 the_end	4
@@ -1502,6 +1513,7 @@ you_want	2
 they_are	3
 I_get	1
 they_'re	1
+them_do	1
 she_raise	1
 you_dig	1
 you_read	1
@@ -1531,6 +1543,7 @@ I_guess	1
 you_associate	1
 DT_VBN
 a_filmed	1
+an_exhausted	1
 a_staged	2
 The_forgotten	1
 PRP_JJ
@@ -1572,6 +1585,7 @@ he_looks	1
 she_demands	1
 he_is	3
 She_looks	1
+you_is	1
 It_is	6
 it_brings	1
 it_seems	2
@@ -1582,33 +1596,11 @@ she_excels	1
 she_makes	1
 FW_PRP
 </a>_You	1
-IN_,
-that_,	1
-of_,	1
-with_,	1
+PRP_:
+them_;	1
 IN_.
 on_?	1
 for_.	1
-FW_FW
-Salome_</a>	2
-tes_yeux	1
-aurais_aim&eacute;e	1
-le_bandeau	1
-veut_voir	1
-tu_l'as	1
-bandeau_de	1
-avais_vue	1
-qui_veut	1
-celui_qui	1
-sur_tes	1
-jamais_vue	1
-mais_moi	1
-yeux_le	1
-tu_ne	1
-de_celui	1
-Eh_bien	1
-mis_sur	1
-in_awe	1
 VBN_WP
 given_what	1
 RP_.
@@ -1630,21 +1622,13 @@ him_?	1
 you_!	1
 her_.	2
 it_.	5
-PRP_,
-me_,	1
-him_,	1
-them_,	1
-You_,	1
-her_,	2
-us_,	1
-it_,	1
-you_,	1
+IN_:
+with_:	1
+on_-	1
 CC_VBP
 and_are	1
 and_have	3
 and_act	1
-JJS_``
-best_`	1
 PRP_VB
 you_do	1
 I_add	1
@@ -1661,15 +1645,19 @@ and_sings	1
 NN_WRB
 scene_when	1
 end_when	1
+world_when	1
 RP_TO
 up_to	1
 out_to	1
 NNP_PRP
+SEEN_her	1
+Varnay_herself	1
+Salome_I	2
 Cousin_It	1
 Kleppe_I	1
+Stratas_I	1
 Friedrich_it	1
-Salome_I	1
-SEEN_her	1
+Salome_we	1
 CC_VBD
 but_was	1
 and_thought	1
@@ -1693,40 +1681,6 @@ and_played	1
 and_glued	1
 JJR_NNP
 better_Salome	1
-JJ_,
-leering_,	1
-superb_,	1
-appealing_,	1
-brilliant_,	2
-ghoulish_,	1
-perfect_,	1
-thankful_,	1
-young_,	2
-excellent_,	1
-nasty_,	1
-sexy_,	1
-Brilliant_,	1
-artistic_,	1
-excited_,	1
-magnificent_,	1
-dated_,	1
-vibrant_,	1
-Beautiful_,	1
-first_,	1
-ham-fisted_,	1
-vivid_,	1
-atmospheric_,	1
-flat_,	1
-fair_,	1
-alluring_,	1
-catlike_,	1
-tense_,	1
-secondary_,	1
-good_,	2
-usual_,	2
-verbatim_,	1
-repulsive_,	1
-weak_,	1
 JJ_.
 apt_.	1
 ideal_.	1
@@ -1820,6 +1774,7 @@ but_in	3
 or_that	1
 or_if	1
 and_on	2
+And_after	1
 &_by	1
 and_while	1
 But_with	1
@@ -1846,6 +1801,7 @@ than_all	1
 NN_NNS
 skin_scandals	1
 location_shots	1
+beauty_looks	1
 ticket_prices	1
 opera_singers	1
 Salom&eacute;_sucker-punches	1
@@ -1857,25 +1813,31 @@ opera_productions	1
 liner_notes	1
 film_permits	1
 camera_pans	1
+NNP_PRP$
+Baptist_their	1
 NN_NNP
 serpentine_Stratas	1
+role_Salome	1
 mother_Herodias	1
 name_Teresa	1
 opera_Stradas	1
 son_Dieu	1
 aka_John	1
-librettist_Hedwig	1
+director_G&ouml;tz	1
 ton_Dieu	1
 singing_Herod	1
+librettist_Hedwig	1
+show_Astrid	1
 director_Gotz	1
 avd_Varnay	1
-''_RB
-''_completely	1
-'_ever	1
+closeup_Mafitano	1
+NNPS_VBZ
+Veils_is	1
 WDT_NNP
 which_Rysanek	1
 CD_CC
 180_and	1
+1080_and	1
 ------_and	1
 four_or	1
 IN_JJS
@@ -1896,16 +1858,15 @@ it_when	1
 :_the	1
 -_the	1
 DT_MD
-this_would	1
-this_should	1
+a_must	1
 this_could	1
 This_must	1
 This_may	1
+this_would	1
+this_should	1
 JJR_NN
 better_production	1
 younger_stuff	1
-RB_``
-therefore_``	1
 VBP_VBZ
 Kiss_is	1
 want_is	1
@@ -1999,33 +1960,46 @@ Tha_name	1
 laserdisc_version	1
 Star_rating	1
 essence_everything	1
+star_quality	1
 acting_ability	1
+ATTENTION_JUSTOLDBILL	1
 cruise_ship	1
 video_version	1
 play_performance	1
 paper_assignment	1
 image_quality	1
+JUSTOLDBILL_ANKENBROCK	1
+DVD_MAHOGONNY	1
+acting_singing	1
 shock_element	1
 set_design	1
 stage_production	1
+vu_ton	1
 title_role	4
 carp_nuzzle	1
+scandal_thing	1
+DVD_life	1
 TV_version	1
 DVD_recording	1
 stage_business	1
-production_*	1
+acting_direction	1
 opera_performance	1
 opera_audience	1
 morning_dew	1
+jealousy_incest	1
 violin_concerto	1
 prima_donna	1
+plot_singing	1
 video_disc	1
 stage_set	1
+ivory_skin	1
 disc_format	1
-star_quality	1
+obsession_jealousy	1
 supporting_cast	1
+production_*	1
 title_character	1
 film_version	1
+drama_opera	1
 dozen_opera	1
 opera_film	1
 Bottom_line	1
@@ -2034,40 +2008,27 @@ beaver_climax	1
 singer_nekkid	1
 Met/Mattila_production	1
 opera_singer	2
+show_necrophilia	1
 studio_production	1
 dance_smock	1
+acting_dancing	1
 opera_dvd	1
-TO_RB
-to_not	1
+Saturday-afternoon-opera_kind	1
+girl_look	1
 NNP_WP$
 Strauss_whose	1
+Herodias_whose	1
 NNS_RB
-stores_soon	1
 things_around	1
 years_ago	2
+stores_soon	1
+lip-synchers_so	1
+productions_not	1
 performers_here	1
 SYM_PRP
 *_I	1
-CD_''
-12_''	1
-56_''	1
 VBP_NNS
 get_views	1
-,_JJ
-,_first	1
-,_artistic	1
-,_magnificent	1
-,_lithe	1
-,_sensuous	1
-,_leering	1
-,_wonderful	1
-,_tense	1
-,_sexy	2
-,_able	1
-,_careful	1
-,_erotic	1
-,_clear	1
-,_misogynistic	1
 DT_JJ
 a_clumsy	1
 a_fantastic	1
@@ -2162,6 +2123,7 @@ the_German	1
 a_young	2
 the_invisible	1
 a_modern	1
+a_painted	1
 a_smooth	1
 the_absolute	1
 a_total	1
@@ -2169,8 +2131,6 @@ the_never-convincing	1
 a_infatuated	1
 WP$_NN
 whose_prose	1
-EX_,
-There_,	1
 NN_IN
 sound_with	1
 madness_of	1
@@ -2179,7 +2139,7 @@ choice_for	1
 deal_of	1
 *_with	1
 actress_with	1
-opera_on	4
+performance_as	1
 SALOME_on	1
 kind_of	4
 thrall_with	1
@@ -2194,7 +2154,7 @@ interplay_with	1
 queen_of	1
 viewing_of	1
 lack_of	1
-end_of	3
+role_like	1
 none_of	1
 performance_from	2
 version_of	1
@@ -2204,16 +2164,18 @@ take_into	1
 video_of	1
 Tu_as	1
 traversal_of	1
-performance_as	1
+opera_on	4
 praise_of	1
 head_of	1
 set_on	1
 interplay_between	1
 conductor_of	1
 opera_in	1
+set_as	1
 stage_for	1
+film_as	1
 empathy_for	1
-production_from	2
+production_from	3
 screed_at	1
 thing_with	1
 difference_that	1
@@ -2232,11 +2194,12 @@ side_of	1
 master_with	1
 impact_on	1
 performance_on	1
-set_as	1
+widescreen_as	1
 fan_of	1
 version_in	1
 spot_on	1
 survey_at	1
+woman_in	1
 rendering_of	1
 opera_about	1
 fear_than	1
@@ -2247,7 +2210,9 @@ decline_from	1
 shot_of	1
 skill_in	1
 place_in	1
+dungeon_after	1
 man_of	1
+m_as	1
 believability_that	1
 print_if	1
 leap_from	1
@@ -2277,6 +2242,7 @@ track_down	1
 singer-actor_of	1
 top_of	1
 tire_of	1
+film_with	1
 production_of	4
 exception_of	1
 story_about	1
@@ -2314,6 +2280,7 @@ sequence_of	1
 selection_of	1
 conducting_from	1
 close_on	1
+MAHOGONNY_WITH	1
 number_of	2
 recording_from	1
 review_of	1
@@ -2328,12 +2295,13 @@ film_in	1
 lot_of	2
 movement_of	1
 copy_from	1
-role_like	1
+end_of	3
 petulance_into	1
 DVD_for	2
 love_of	1
 design_by	1
 production_in	1
+time_at	1
 lesson_in	1
 CC_DT
 and_an	1
@@ -2350,6 +2318,7 @@ But_the	1
 and_the	18
 and_this	2
 NN_VBN
+production_typified	1
 sensuality_gone	1
 artistry_involved	1
 scene_restored	1
@@ -2362,14 +2331,20 @@ confines_itself	1
 jewels_she	1
 sucker-punches_us	1
 productions_I	1
+limits_she	1
 riches_she	1
+reviews_I	1
+microphones_she	1
 things_one	1
 references_she	1
 NN_VBG
+DVD_taking	1
 assignment_requiring	1
 boat_crossing	1
 close-up_filming	1
+way_ignoring	1
 palace_being	1
+face_glancing	1
 anybody_buying	1
 person_fleeing	1
 CC_WRB
@@ -2383,6 +2358,7 @@ Money_was	1
 photography_was	1
 understanding_failed	1
 DVD_were	1
+religion_put	1
 machine_broke	1
 film_shocked	1
 opera_was	1
@@ -2401,7 +2377,7 @@ who_he	1
 What_I	1
 NN_VBZ
 mind_is	1
-action_takes	1
+performance_is	2
 costuming_is	1
 music_matches	1
 camera_watches	1
@@ -2410,6 +2386,7 @@ scandal_is	1
 DVD_presents	1
 music_is	1
 scene_is	1
+action_takes	1
 orchestra_is	1
 film_demonstrates	1
 everything_is	1
@@ -2423,11 +2400,12 @@ wife_seeks	1
 gate_crashes	1
 B&ouml;hm_leads	1
 voice_is	3
-performance_is	2
+artist_comes	1
 project_is	1
 element_is	1
 singing_is	2
 one_expects	1
+career_is	1
 difference_is	1
 film_is	1
 prophet_is	1
@@ -2484,6 +2462,7 @@ long_ago	1
 not_so	1
 well_especially	1
 as_far	1
+here_vocally	1
 pretty_much	1
 so_much	2
 also_frequently	1
@@ -2503,12 +2482,13 @@ said_about	1
 came_on	1
 NN_VBP
 conducting_are	1
-mouth_are	1
+nekkid_go	1
+music_are	1
 production_are	1
 NOT_own	1
 screen_are	1
 talent_are	1
-music_are	1
+mouth_are	1
 cast_are	1
 :_WRB
 :_Why	1
@@ -2541,8 +2521,6 @@ me_around	1
 IN_EX
 that_there	1
 as_there	1
-JJ_``
-many_`	1
 RB_VBZ
 much_is	1
 really_captures	1
@@ -2551,6 +2529,7 @@ so_is	2
 simply_is	1
 really_makes	1
 even_begins	1
+however_is	1
 actually_helps	1
 never_puts	1
 nevertheless_creates	1
@@ -2560,9 +2539,6 @@ here_leaves	1
 now_shows	1
 slowly_replaces	1
 still_looks	1
-,_WP
-,_whom	1
-,_who	2
 VBZ_VBG
 is_seeing	1
 is_doing	1
@@ -2596,6 +2572,7 @@ VBZ_PRP$
 seals_his	1
 looks_her	1
 is_your	1
+calls_her	1
 tailors_her	1
 watches_their	1
 exhibits_his	1
@@ -2608,6 +2585,8 @@ and_her	4
 VB_RP
 give_up	1
 DT_DT
+all_a	1
+this_the	1
 this_a	1
 RB_VBN
 now_changed	1
@@ -2641,16 +2620,11 @@ not_set	1
 never_experienced	1
 Never_been	1
 brilliantly_composed	1
-NN_''
-top_''	1
-queen_''	1
-Saturday-afternoon-opera_'	1
-scandal_''	1
-MAHOGONNY_'	1
-JUSTOLDBILL_'	1
-ivory_'	1
+VBP_WP
+have_what	1
 RB_VBG
 gracefully_moving	1
+here_letting	1
 not_caring	1
 also_doing	1
 not_knowing	1
@@ -2661,6 +2635,7 @@ Absolutely_smashing	1
 n't_talking	1
 RB_VBD
 just_watched	1
+else_found	1
 however_used	1
 actually_watched	1
 never_thought	1
@@ -2672,10 +2647,13 @@ always_had	1
 also_became	1
 never_did	1
 FW_IN
+vue_tu	1
 awe_as	1
 </a>_As	1
 NNS_NN
+pans_montage	1
 humanities_survey	1
+looks_poise	1
 NN_RBS
 onanism_best	1
 CC_MD
@@ -2706,29 +2684,12 @@ POS_NNP
 '_Salome	1
 's_Donizetti	1
 's_Narraboth	1
-,_IN
-,_at	3
-,_with	7
-,_in	2
-,_except	1
-,_though	1
-,_as	4
-,_while	1
-,_if	2
-,_although	2
-,_so	2
-,_from	2
-,_for	1
-,_after	2
-,_tu	1
 POS_NNS
 's_words	1
 's_standards	1
 's_operas	1
 '_chords	1
 '_actions	1
-JJ_MD
-aesthetic_ca	1
 RBR_CC
 more_or	1
 VBG_CC
@@ -2760,7 +2721,9 @@ brat_that	1
 casting_that	1
 orchestra_which	1
 performance_that	1
+staging_which	1
 something_that	1
+original_which	1
 repertoire_that	1
 role_that	1
 VB_DT
@@ -2813,11 +2776,13 @@ VBZ_JJ
 is_beautiful	2
 is_perfect	6
 is_incredible	1
+seems_careful	1
 is_synoymous	1
 is_mesmerizing	1
 is_good	2
 is_vivid	1
 is_ripe	1
+is_first	1
 is_magnificent	1
 is_stunning	1
 matters_little	1
@@ -2873,6 +2838,7 @@ responsibility_to	1
 river_to	1
 predecessor_to	1
 opportunity_to	1
+acting_to	1
 version_to	1
 rating_to	1
 offer_to	1
@@ -2918,38 +2884,18 @@ and_six	1
 or_five	1
 NNP_FW
 Si_tu	1
+Iokanaan_mais	1
 WP_RB
 who_never	1
 what_really	1
-,_NN
-,_acting	1
-,_singing	2
-,_jealousy	1
-,_ton	1
-,_montage	1
-,_necrophilia	1
-,_opera	1
-,_look	1
-,_life	1
-,_dancing	1
-,_direction	1
-,_incest	1
-,_poise	1
 PRP$_RB
 my_very	1
-CC_,
-But_,	1
-and_,	1
-And_,	1
 JJR_CC
 more_&	1
-``_NNP
-`_Salome	2
-``_Salome	2
-``_Dance	1
 RB_DT
 Even_the	1
 probably_the	1
+perhaps_the	1
 then_the	1
 superbly_the	1
 actually_the	1
@@ -2959,6 +2905,7 @@ even_the	1
 already_a	1
 simply_a	1
 then_this	1
+meantime_this	1
 much_a	1
 never_a	1
 once_the	1
@@ -2976,44 +2923,25 @@ peeve_should	1
 recording_will	1
 DT_VB
 a_disconnect	1
+this_please	1
 CC_RBR
 or_less	1
-DT_``
-a_``	2
-the_``	2
-an_`	1
-,_RB
-,_yet	1
-,_not	4
-,_perfectly	1
-,_however	1
-,_perhaps	1
-,_stunningly	1
-,_so	1
-,_nevertheless	1
-,_vocally	1
-,_then	1
-,_dear	1
-,_really	1
-,_mostly	1
 CC_PRP
 and_they	1
 And_they	1
 but_he	2
 but_I	4
+But_it	1
 and_you	3
 but_she	1
 &_he	4
 &_I	1
-and_I	4
+and_I	5
 but_it	3
 and_she	4
 and_it	2
 And_I	1
 and_he	2
-VBG_PRP$
-repeating_his	1
-seeing_her	1
 RB_VB
 never_have	2
 n't_stop	1
@@ -3051,35 +2979,39 @@ n't_resist	1
 still_have	1
 n't_be	2
 even_remember	1
-IN_IN
-on_about	1
-of_as	1
-that_in	1
-out_of	1
-from_inside	1
-because_of	1
-as_if	1
-so_that	1
+FW_FW
+Salome_</a>	2
+tes_yeux	1
+bien_tu	1
+le_bandeau	1
+veut_voir	1
+tu_l'as	1
+bandeau_de	1
+jamais_vue	1
+qui_veut	1
+celui_qui	1
+sur_tes	1
+moi_moi	1
+aurais_aim&eacute;e	1
+mais_moi	1
+yeux_le	1
+tu_ne	1
+de_celui	1
+Eh_bien	1
+avais_vue	1
+mis_sur	1
+in_awe	1
 JJ_RB
-true_as	1
 careful_enough	1
-sacrilege_not	1
-little_too	1
 quaint_now	1
-,_VBD
-,_put	1
-,_found	1
-,_VBG
-,_being	1
-,_including	2
-,_looking	1
-,_ignoring	1
-,_giving	1
-,_playing	1
-,_letting	1
-,_glancing	1
-,_taking	1
-,_beginning	1
+repulsive_yet	1
+sacrilege_not	1
+young_stunningly	1
+true_as	1
+little_too	1
+VBG_PRP$
+repeating_his	1
+seeing_her	1
 NNS_.
 dvds_.	1
 singers_.	1
@@ -3101,34 +3033,6 @@ harmonies_.	1
 stars_.	1
 lip-synchers_.	1
 audiences_.	1
-,_VBN
-,_given	1
-,_typified	1
-NNS_,
-others_,	1
-calisthetics_,	1
-tatters_,	1
-productions_,	2
-Recordings_,	1
-looks_,	1
-times_,	2
-aficianados_,	1
-reviews_,	1
-cords_,	1
-films_,	1
-years_,	2
-pans_,	1
-singers_,	1
-stars_,	1
-permits_,	1
-limits_,	1
-microphones_,	1
-lip-synchers_,	1
-recordings_,	1
-,_VBP
-,_do	1
-,_profess	1
-,_go	1
 VBD_NNS
 shocked_students	1
 VBD_NNP
@@ -3143,10 +3047,6 @@ subtitles_-	1
 words_:	1
 memories_-	1
 reviews_...	1
-,_VBZ
-,_comes	1
-,_sounds	1
-,_is	8
 WRB_RB
 when_suddenly	1
 JJ_NNS
@@ -3200,6 +3100,7 @@ appropriate_Salome	1
 longtime_Strauss	1
 great_Jochanaan	1
 inspiritational_Jochanaan	1
+alluring_Salome	1
 perfect_Salome	1
 good_Page	1
 dyed-in-the-wool_Strauss	1
@@ -3257,16 +3158,25 @@ should_.	1
 could_.	1
 NN_PRP
 whim_he	1
+mind_it	2
 costuming_I	1
 way_it	1
+show_I	1
 stage_she	1
 heroine_she	1
 fact_I	1
 recording_I	1
+look_it	1
+enthusiast_it	1
+music_she	1
 microsecond_she	1
+concerto_you	1
 complaint_I	1
+end_we	1
 person_you	1
 story_itself	1
+opera_I	1
+DVD_it	1
 video_she	1
 time_she	1
 DVD_I	1
@@ -3275,6 +3185,7 @@ choreography_I	1
 look_she	1
 course_I	1
 performance_I	1
+reason_you	1
 dance_you	1
 music_I	1
 deviousness_itself	1
@@ -3282,6 +3193,7 @@ way_she	1
 end_I	1
 fact_she	1
 star-quality_you	1
+production_you	1
 VB_PRP$
 change_my	1
 compare_their	1
@@ -3292,14 +3204,20 @@ have_your	1
 arouse_your	1
 see_her	1
 JJ_DT
+excellent_the	1
+wrong_no	1
+weak_the	1
+vivid_the	1
 sure_this	1
 worth_the	1
-wrong_no	1
 RB_CC
+now_but	1
 superbly_and	1
+well_but	1
 lithely_and	1
+so_but	1
 visually_and	1
-ago_and	1
+ago_and	3
 again_&	3
 well_and	1
 MD_VB
@@ -3360,19 +3278,18 @@ be_called	1
 CC_PDT
 &_all	1
 VB_VBG
+count_beginning	1
 be_getting	1
 VBG_NNS
 requiring_students	1
 WRB_NNP
 where_Herodias	1
-,_DT
-,_this	4
-,_a	4
-,_the	12
 NNP_NNPS
 Seven_Veils	2
 VBZ_RBR
 is_more	1
+CD_PRP
+1979_I	1
 NNS_DT
 closeups_the	1
 VBZ_NN
@@ -3389,10 +3306,6 @@ is_video	1
 is_perfection	1
 POS_RB
 's_supremely	1
-IN_VBP
-in_compare	1
-UH_,
-Yes_,	1
 TO_JJ
 to_non-opera	1
 VBP_DT
@@ -3424,11 +3337,9 @@ anything_less	1
 NNS_POS
 singers_'	1
 others_'	1
-``_PRP$
-``_her	1
 JJS_NNP
 greatest_Strauss	2
-best_Salome	1
+best_Salome	2
 JJS_NNS
 best_DVDs	1
 NN_:
@@ -3450,87 +3361,12 @@ one_:	1
 end_-	1
 monster_;	1
 production_-	1
-._''
-._''	2
+CD_RB
+one_mostly	1
 NNP_JJ
 Herodias_imaginable	1
 Berlin_aesthetic	1
 Dance_appealing	1
-,_WRB
-,_when	1
-NN_,
-dubbing_,	1
-voice_,	1
-vocalist_,	1
-role_,	1
-excitement_,	1
-world_,	1
-closeup_,	1
-reason_,	1
-plot_,	1
-talent_,	1
-artist_,	1
-enthusiast_,	1
-widescreen_,	1
-end_,	1
-stage_,	2
-name_,	1
-sky_,	1
-face_,	1
-lifetime_,	1
-opera_,	3
-weekend_,	1
-vu_,	1
-way_,	1
-DVD_,	4
-obsession_,	1
-version_,	1
-acting_,	4
-nekkid_,	1
-presence_,	1
-theatre_,	1
-R_,	1
-walk-on_,	1
-photography_,	1
-look_,	1
-beauty_,	1
-performance_,	1
-production_,	3
-mind_,	2
-age_,	1
-donna_,	1
-staging_,	1
-woman_,	1
-concerto_,	1
-thought_,	1
-finale_,	1
-towering_,	1
-body_,	2
-screen_,	1
-expression_,	1
-film_,	2
-music_,	1
-evening_,	1
-religion_,	1
-dungeon_,	1
-director_,	1
-masterpiece_,	1
-girl_,	1
-original_,	1
-fan_,	1
-show_,	3
-B&ouml;hm_,	1
-drama_,	1
-conductor_,	1
-wilfull_,	1
-set_,	1
-television_,	1
-time_,	2
-figure_,	1
-career_,	1
-televsion_,	1
-course_,	1
-jealousy_,	1
 TO_CD
 to_1080	1
 to_4 1/2	1
@@ -3554,6 +3390,7 @@ screen_.	1
 cistern_.	1
 madness_.	1
 masterpiece_.	1
+top_.	1
 cast_.	1
 classic_.	1
 release_.	1
@@ -3626,32 +3463,24 @@ relief_.	1
 character_.	1
 time_.	2
 VBN_DT
-heard_this	1
+enjoyed_this	1
 owned_the	1
 given_the	1
+opined_this	1
 had_this	1
 sung_the	1
 mentioned_this	1
-enjoyed_this	1
+heard_this	1
 WDT_VBP
 which_let	1
 which_need	1
 that_are	1
-''_VBZ
-''_is	1
-''_NN
-'_ANKENBROCK	1
-'_opera	1
-'_kind	1
-''_video	1
-'_skin	1
-''_dress	1
-''_thing	1
 IN_TO
 on_to	1
 up_to	2
 PRP_CC
 it_and	1
+her_and	1
 he_and	1
 she_and	1
 WDT_VBD
@@ -3665,18 +3494,14 @@ glancing_away	1
 looking_right	1
 studying_deeply	1
 being_far	1
-DT_,
-this_,	3
-all_,	2
-DT_.
-this_.	3
-No_.	1
-that_.	1
-all_.	3
+UH_DT
+Yes_the	1
 VBG_RP
 streaming_down	2
 reaching_out	1
 rambling_on	1
+NNS_NNP
+permits_Stratas	1
 RB_JJ
 glowingly_positive	1
 so_happy	1
@@ -3684,6 +3509,7 @@ supremely_wild	1
 so_important	1
 truly_excited	1
 remarkably_vivid	1
+well_able	1
 really_good	1
 convincingly_youthful	1
 only_last	1
@@ -3746,10 +3572,18 @@ vaguely_erotic	1
 very_tight	1
 ever_likely	1
 truly_Medusa-looking	1
+IN_IN
+on_about	1
+of_as	1
+that_in	1
+out_of	1
+from_inside	1
+because_of	1
+as_if	1
+so_that	1
+of_with	1
 WRB_IN
 where_in	1
-VB_``
-say_``	1
 JJR_MD
 more_can	1
 CD_DT
@@ -3783,12 +3617,16 @@ singing_the	1
 playing_the	1
 seeing_an	1
 indulging_every	1
+shining_the	1
 RB_PRP
+frankly_you	1
 Now_I	1
 appropriately_it	1
+Also_I	1
 curiously_it	1
-vocally_she	1
 So_I	1
+not_it	1
+vocally_she	1
 n't_I	1
 only_he	1
 :_VBG
@@ -3813,11 +3651,12 @@ VB_RB
 buy_again	1
 intrude_as	1
 be_over	1
-be_extremely	1
+do_just	1
 dwell_too	1
 return_gladly	1
 be_seriously	1
-do_just	1
+be_extremely	1
+do_however	1
 VBD_FW
 was_in	1
 CD_MD
@@ -3836,10 +3675,6 @@ reservations_when	1
 years_when	1
 NN_EX
 version_there	1
-``_JJ
-``_hey	1
-``_painted	1
-``_modern	1
 PRP$_RBS
 his_most	1
 FW_:
@@ -3850,7 +3685,9 @@ Varnay_in	1
 Stratas_as	1
 Dance_of	3
 Fellowship_of	1
+Jokanaan_while	1
 OUT_of	1
+Bohm_as	1
 AVAILABLE_IN	1
 Teufel_as	1
 Jokanaan_in	1
@@ -3866,23 +3703,28 @@ Beirer_as	1
 Salome_on	5
 York_in	1
 Salome_with	1
+Varnay_although	1
 Herodias_on	1
 Disc_for	1
 Princess_of	1
 Violetta_in	1
 Bohm_so	1
+Schwarz_at	1
+Schwarz_as	1
 MAHAGONNY_with	1
-FW_,
-vue_,	1
-bien_,	1
-moi_,	1
-,_TO
-,_to	1
+PRP$_NNS
+their_performances	1
+its_limits	1
+your_emotions	1
+her_histrionics	1
+their_reactions	1
+his_looks	1
+her_reactions	1
+our_laps	1
+my_reservations	1
 FW_.
 aim&eacute;e_.	1
 vue_.	1
-VBZ_``
-calls_``	1
 IN_VBG
 by_repeating	1
 for_drowning	1
@@ -3897,13 +3739,6 @@ as_being	3
 in_putting	1
 about_acting	1
 while_watching	1
-,_PRP
-,_she	6
-,_we	2
-,_you	5
-,_it	10
-,_I	10
-,_herself	1
 CC_JJR
 &_more	1
 IN_VBN
@@ -3911,10 +3746,6 @@ of_spoiled	1
 As_noted	1
 into_obsessed	1
 that_done	1
-``_VBN
-`_exhausted	1
-``_MD
-``_must	1
 VBG_.
 doing_.	1
 coming_.	1
@@ -3923,35 +3754,37 @@ watching_.	1
 filming_.	1
 smashing_!	1
 posing_.	1
-,_RBR
-,_less	1
-VBG_,
-shining_,	1
-Casting_,	1
+IN_VBP
+in_compare	1
 JJ_CC
 excellent_and	1
+weak_&	1
 beautiful_and	1
 good_and	1
 realistic_but	1
 Medusa-looking_and	1
+perfect_but	1
 magnificant_and	1
-sonic_and	1
-wild_and	1
+noble_and	1
+vulnerable_but	1
 intense_and	1
 visual_or	1
+dated_but	1
 breathtaking_&	1
-noble_and	1
-weak_&	1
+magnificent_but	1
+sonic_and	1
+thankful_but	1
 wonderful_and	1
 vivid_and	1
-vulnerable_but	1
+wild_and	1
+artistic_and	1
 passionate_and	1
 expressive_and	1
 flawless_and	1
 prime_but	1
 stunning_both	1
 impressive_but	1
-sexy_and	1
+sexy_and	2
 unprepared_and	1
 clear_and	1
 Dark_and	1
@@ -3962,6 +3795,7 @@ different_and	1
 superb_and	2
 mesmerizing_and	1
 scary_and	1
+good_but	1
 PDT_PRP$
 all_my	1
 VBN_RBR
@@ -3975,11 +3809,6 @@ realistic_------	1
 old_12	1
 old_1974	1
 harrowing_90	1
-CD_,
-1080_,	1
-one_,	1
-1974_,	1
-1979_,	1
 CD_.
 1976_.	1
 one_.	1
@@ -3997,10 +3826,11 @@ why_did	1
 WRB_VBG
 when_seeking	1
 NNP_WP
-Herodias_who	1
+Stratas_who	2
 God_who	1
 Varnay_who	1
 Mattila_who	1
+Herodias_who	1
 POS_NN
 's_MAHAGONNY	1
 's_child	1
@@ -4049,6 +3879,8 @@ two_recordings	1
 seven_veils	1
 two_nights	1
 Two_questions	1
+CD_NNP
+56_JVC	1
 VBN_RB
 done_well	1
 cast_here	1
@@ -4078,6 +3910,7 @@ Strauss_fan	1
 Strauss_conductor	2
 Berlin_production	2
 LEVINE_DVD	1
+Estes_ivory	1
 Jagdpanzer_voice	1
 VBZ_RB
 comes_close	1
@@ -4112,6 +3945,7 @@ acts_superbly	1
 is_nearly	1
 is_convincingly	1
 seeks_only	1
+is_perhaps	1
 is_pretty	1
 is_never	1
 is_about	1
@@ -4146,14 +3980,16 @@ to_their	1
 RB_PRP$
 even_her	1
 then_his	1
+here_her	1
 VBZ_RP
 comes_across	2
 shows_up	1
 crashes_down	1
 goes_on	1
 PRP_VBN
-it_turned	1
 me_hooked	1
+it_turned	1
+us_given	1
 DT_RBS
 the_most	4
 DT_RBR
@@ -4161,14 +3997,11 @@ a_more	1
 any_more	1
 NNS_MD
 DG_would	1
-NNP_``
-Estes_`	1
-,_JJS
-,_most	1
-VBN_''
-exhausted_'	1
+TO_RB
+to_not	1
 RB_IN
 just_for	1
+Now_if	1
 long_on	1
 mostly_because	1
 especially_since	1
@@ -4187,7 +4020,10 @@ right_at	1
 convincingly_like	1
 only_in	1
 especially_after	1
+brilliantly_with	1
 well_as	1
+side-by-side_so	1
+outwardly_at	1
 well_at	1
 around_by	1
 well_past	1
@@ -4218,8 +4054,6 @@ Coming_into	1
 sitting_in	1
 performing_in	1
 looking_for	1
-MD_''
-must_''	1
 DT_CD
 a_Five	1
 the_one	2
@@ -4258,35 +4092,10 @@ look_forward	1
 are_already	1
 are_equally	1
 'm_not	2
-''_NNP
-''_JVC	1
-''_Herod	1
-NNP_,
-Jokanaan_,	1
-Bohm_,	1
-Herod_,	2
-Herodias_,	5
-Schwarz_,	2
-Friedrich_,	1
-Varnay_,	2
-Berlin_,	1
-Neilson_,	1
-Hagrid_,	1
-Iokanaan_,	1
-Stratas_,	5
-Jochanaan_,	3
-Salomes_,	1
-Baptist_,	1
-Nilsson_,	1
-Studer_,	1
-Welitsch_,	1
-BUT_,	1
-Rysanek_,	1
-Salome_,	5
-Weikl_,	1
-John_,	1
-Dieu_,	1
-Yes_,	1
+JJ_VBZ
+young_sounds	1
+superb_is	1
+usual_is	2
 CD_JJ
 one_other	1
 one_last	1
@@ -4313,7 +4122,7 @@ German_.	1
 Salome_!	2
 Pagliacci_.	1
 Marton_.	1
-Salome_.	5
+Salome_.	6
 Russell_.	1
 Dieu_.	1
 Blanchett_.	1
@@ -4328,22 +4137,25 @@ NNP_WRB
 Donizetti_when	1
 VBG_NN
 demanding_ego	1
-drowning_duty	1
+Casting_acting	1
 taking_advantage	1
 tormenting_story	1
 shattering_music	1
 giving_depth	1
 stretching_time	1
+drowning_duty	1
 fleeing_corruption	1
 JJ_VBG
 worth_studying	1
+fair_being	1
+brilliant_giving	1
 intellectual_posing	1
 NNP_:
 Jochanaan_-	1
 REVIEW_:	1
 Jokanaan_--	1
 Strauss_-	2
-Salome_--	1
+Salome_--	2
 Welitsch_--	1
 States_/	1
 Baptist_...	1
@@ -4351,11 +4163,13 @@ Operas_;	1
 RB_PDT
 so_all	1
 PRP_DT
-her_the	1
 herself_a	1
 me_a	1
+him_the	1
+her_the	1
 it_all	2
 me_an	1
+me_this	1
 me_the	1
 VBZ_:
 is_--	1
@@ -4367,9 +4181,6 @@ portays_.	1
 shows_.	1
 sees_.	1
 has_.	1
-VBZ_,
-is_,	3
-seems_,	1
 RB_NN
 suddenly_Salom&eacute;	1
 never_tire	1
@@ -4387,46 +4198,49 @@ singers_to	2
 sets_to	1
 students_to	1
 tools_to	1
-VBP_``
-are_``	1
 JJ_JJ
 great_one-act	1
 delicate_dark	1
 overall_frightening	1
+vibrant_clear	1
 intelligent_acting	1
-classic_Freudian	1
+first_operas	1
+tense_sexy	1
 whole_darn	1
 distorted_reptile-like	1
 own_youthful	1
-superb_German	1
+ghoulish_erotic	1
 adequate_below-the-waist	1
 rich_orchestral	1
 German_expressionistic	1
 shocking_old	1
 sensuous_facial	1
-first_operas	1
 =_=	4
+Beautiful_sexy	1
+classic_Freudian	1
+superb_German	1
+Brilliant_tense	1
 lascivious_failed	1
 youthful_sexual	1
+leering_misogynistic	1
 great_good	1
+appealing_artistic	1
 real_sonic	1
 German_aesthetic	1
 lithe_cat-like	1
 sheer_vocal	1
-VBN_PRP
-felt_she	1
-shown_it	1
-brought_me	1
+nasty_leering	1
+JJR_IN
+more_than	3
+better_than	1
+More_than	1
+more_of	1
 :_FW
 -_Salome	2
 ..._tu	1
 WRB_JJ
 how_many	1
 how_wonderful	1
-,_CC
-,_and	37
-,_or	2
-,_but	21
 VB_NN
 please_take	1
 use_anything	1
@@ -4438,13 +4252,13 @@ expect_anything	1
 VBZ_JJR
 is_more	2
 NN_WP
+donna_whom	1
 star_who	1
+queen_who	1
 matter_what	1
-``_FW
-`_avais	1
-`_aurais	1
-VBP_WP
-have_what	1
+NN_FW
+m_avais	1
+m_aurais	1
 PRP_TO
 you_to	1
 itself_to	1
@@ -4459,6 +4273,7 @@ costumes_are	1
 hits_keep	1
 sets_are	2
 people_talk	1
+times_profess	1
 reviewers_have	1
 operas_are	1
 veils_are	1
@@ -4493,42 +4308,44 @@ VBD_PRP$
 lost_his	1
 struck_his	1
 IN_CC
-under_&	5
+with_and	1
+that_but	1
 though_and	1
+under_&	5
 on_and	1
-PRP_:
-them_;	1
 NNS_VBD
 artists_were	2
 reviews_were	1
 Circumstances_gave	1
 arias_did	1
 NNS_VBG
-roles_being	1
 voices_singing	1
 hankies_hanging	1
+others_including	1
 tears_streaming	2
-``_IN
-``_over	1
-`_as	1
+roles_being	1
+times_including	1
 PRP_NNP
 me_OUT	1
+You_John	1
 it_!!!!!!!!!	1
 WRB_POS
 where_'s	1
 VBN_NNP
 heard_Inge	1
-filmed_Salome	1
-sung_Salome	1
 placed_Salome	1
+filmed_Salome	1
+mentioned_Teresa	1
+sung_Salome	1
 hooked_Bilbo	1
 VBP_NNP
+think_Jon	1
 think_Weikl	1
 want_Salome	1
-``_PRP
-``_He	1
 VBG_WP
 knowing_what	1
+EX_PRP
+There_I	1
 NN_PDT
 production_all	1
 POS_JJ
@@ -4543,9 +4360,6 @@ POS_JJ
 :_JJ
 -_great	1
 ;_such	1
-''_IN
-'_WITH	1
-''_for	1
 RBR_:
 more_;	1
 VBD_VBN
@@ -4598,6 +4412,7 @@ As_previous	1
 with_Biblical	1
 although_grotesque	1
 by_insulting	1
+in_modern	1
 As_other	1
 at_top	1
 with_enough	1
@@ -4624,8 +4439,6 @@ of_conventional	1
 as_pure	1
 RBR_.
 better_.	1
-RBR_,
-earlier_,	1
 VBN_NN
 obsessed_insanity	1
 recorded_piece	1
@@ -4633,11 +4446,16 @@ forgotten_scandal	1
 calibrated_opera	1
 seen_anything	1
 staged_production	1
+exhausted_opera	1
 NNP_RB
-Herodias_slowly	1
 Stratas_probably	1
+Herodias_slowly	1
+Friedrich_really	1
 Caballe_never	1
+Salome_completely	1
 Stratas_lithely	1
+Herodias_then	1
+Salome_ever	1
 NNP_VBP
 Philharmonic_provide	1
 Salome_are	1
@@ -4665,12 +4483,13 @@ performances_with	1
 shots_like	1
 repeats_in	1
 performances_from	1
-dances_with	1
+productions_in	1
 Hints_at	1
 clips_on	1
 idiosyncrasies_with	1
 strengths_of	1
 demands_of	2
+terms_of	2
 performances_in	1
 players_in	1
 feelings_about	1
@@ -4683,16 +4502,26 @@ times_that	1
 qualities_in	1
 inches_from	1
 productions_of	2
-terms_of	2
+dances_with	1
+stars_if	1
 reviews_about	1
 views_that	1
+notes_with	1
 notes_on	1
 pictures_in	1
 figures_on	1
 characters_as	1
 performances_of	1
-notes_with	1
+recordings_with	1
 feelings_of	1
+VBN_CC
+seen_and	1
+sung_and	1
+hypnotized_and	1
+remastered_and	1
+plumb_and	1
+played_and	1
+shown_&	1
 NNP_VBZ
 Weikl_makes	1
 Mafitano_suffers	1
@@ -4717,6 +4546,7 @@ Estes_sings	1
 Berlin_proceeds	1
 Herodias_is	2
 Friedrich_has	1
+Hagrid_is	1
 Sam_shows	1
 Narraboth_is	1
 Salome_is	7
@@ -4742,6 +4572,7 @@ be_scary	1
 be_disruptive	1
 be_complete	1
 find_other	1
+say_hey	1
 lose_many	1
 see_previous	1
 TO_VB
@@ -4796,11 +4627,6 @@ which_the	1
 RB_MD
 never_should	1
 probably_could	1
-NN_``
-ATTENTION_`	1
-m_`	3
-role_`	1
-DVD_`	1
 VBG_NNP
 hearing_Birgit	1
 seeing_Stratas	2
@@ -4812,8 +4638,10 @@ POS_.
 's_?	1
 's_.	1
 NNP_VBG
+Salome_playing	1
 Stratas_looking	1
 Borkh_singing	1
+Weikl_looking	1
 Stratas_including	1
 NNP_VBD
 Rysanek_was	1
@@ -4849,29 +4677,35 @@ Mafitano_'s	1
 NN_RB
 praise_heretofore	1
 opera_even	1
+age_not	1
 something_completely	1
 singing_consistently	1
 fore_as	1
 production_really	1
 TV_long	1
 view_here	1
+name_dear	1
 music_then	1
+performance_not	1
 somethig_else	1
 opera_however	1
 video_so	1
 rating_so	1
 version_curiously	1
+evening_nevertheless	1
 mother_side-by-side	1
 film_brilliantly	1
 play_almost	1
+course_perfectly	1
 DVD_even	1
 library_especially	1
-problem_now	1
+bar_too	1
 job_even	1
 immense_well	1
 generation_ago	1
+thought_not	1
 time_appropriately	1
-bar_too	1
+problem_now	1
 fate_not	1
 depravity_now	1
 :_:
@@ -4886,15 +4720,19 @@ grotesque_in	1
 perfect_for	4
 beautiful_in	1
 scary_as	1
+secondary_except	1
+flat_with	1
 perfect_as	1
 wonderful_as	1
 riveting_as	1
 worthy_of	1
-insipid_from	1
 upset_with	1
+insipid_from	1
+excited_though	1
 good_as	1
 familiar_with	1
 good_on	1
+brilliant_although	1
 upset_because	1
 decadent_while	1
 available_on	3
@@ -4905,9 +4743,12 @@ short_of	1
 outstanding_that	1
 first_of	1
 such_as	1
+verbatim_so	1
 much_of	1
 illegal_in	1
+atmospheric_with	1
 welcome_in	1
+first_for	1
 important_in	1
 good_for	1
 such_like	1
@@ -4915,6 +4756,7 @@ easy_for	1
 convincing_of	1
 little_in	1
 beautiful_as	1
+ham-fisted_from	1
 much_in	1
 inferior_that	1
 VBG_JJ
@@ -4923,9 +4765,6 @@ portraying_Biblical	1
 NN_RP
 way_around	1
 end_up	1
-IN_:
-with_:	1
-on_-	1
 VBZ_DT
 is_the	17
 creates_a	1
@@ -4952,11 +4791,12 @@ is_a	25
 captures_the	1
 gives_a	1
 CD_NN
+one_notice	1
+five_DVD	1
+12_video	1
 1974_film	1
 one_evening	1
-five_DVD	1
 Five_Star	1
-one_notice	1
 VBZ_NNP
 stretches_Stratas	1
 follows_Wilde	1
@@ -4971,31 +4811,25 @@ is_Salome	1
 ..._.	1
 VBZ_NNS
 is_pictures	1
-PRP$_NNS
-their_performances	1
-its_limits	1
-your_emotions	1
-her_histrionics	1
-their_reactions	1
-his_looks	1
-her_reactions	1
-our_laps	1
-my_reservations	1
-JJ_''
-modern_''	1
+NN_PRP$
+body_his	1
 VB_CD
 be_one	2
 see_one	1
 VB_CC
+watch_and	1
 see_nor	1
 look_and	1
 NNP_DT
+John_a	1
 Salome_this	1
 Salome_a	1
 Salome_all	1
-John_the	3
-Whether_this	1
 Nilsson_the	1
+John_the	3
+Jochanaan_the	1
+Whether_this	1
+Herodias_a	1
 Herodias_any	1
 JJS_NN
 best_version	1
@@ -5012,26 +4846,6 @@ across_as	1
 on_about	1
 VBN_NNS
 composed_shots	1
-,_WP$
-,_whose	1
-,_NNP
-,_Mafitano	1
-,_Varnay	1
-,_Ljuba	1
-,_G&ouml;tz	1
-,_Terfel	1
-,_Salome	1
-,_Jon	1
-,_Stratas	1
-,_Herodias	1
-,_John	1
-,_Welitsch	2
-,_Rysanek	1
-,_Neilson	1
-,_Teresa	1
-,_Iokanaan	1
-,_Studer	1
-,_Astrid	3
 CC_NNP
 and_Riegel	1
 and_Strauss	2
@@ -5053,33 +4867,29 @@ CC_NNS
 and_feelings	1
 and_dances	1
 and_singers	1
-,_NNS
-,_looks	1
 VBZ_IN
+expects_from	1
+'s_because	1
+resounds_as	1
+is_for	1
+is_in	2
+is_with	1
+is_like	1
+suffers_from	1
+is_as	1
+'s_on	1
+makes_of	1
+'s_in	2
+goes_under	1
+'s_under	4
+seems_as	1
 is_among	1
 demonstrates_that	1
-'s_on	1
-is_like	1
-goes_under	1
-suffers_from	1
-expects_from	1
-is_as	1
-'s_because	1
 is_of	1
 looks_like	1
-resounds_as	1
 stays_at	1
 is_that	2
-is_for	1
-makes_of	1
-'s_under	4
 's_like	1
-seems_as	1
-'s_in	2
-is_in	2
-,_WDT
-,_which	2
-,_that	1
 JJ_NN
 fine_stage	1
 perfect_performance	1
@@ -5092,6 +4902,7 @@ slight_figure	1
 reptile-like_face	1
 stunning_acting	1
 little_vixen	1
+many_Saturday-afternoon-opera	1
 orchestral_sound	1
 high-quality_drama	1
 complete_wreck	1
@@ -5175,6 +4986,7 @@ legendary_talent	1
 directorial_responsibility	1
 only_recording	1
 darn_thing	1
+modern_dress	1
 misogynistic_bit	1
 magnificent_performance	1
 fascinating_opera	1

@@ -1,22 +1,21 @@
+POS_NNP
+'s_Les	1
 IN_NN
 for_music	1
 of_music	1
 of_course	1
 For_instance	1
 as_conductor	1
-,_IN
-,_at	1
-,_of	1
-,_among	1
-,_alongside	1
-,_for	2
 PRP_RB
 him_there	1
+FW_DT
+Gentele_the	1
 NNP_IN
 Gentele_by	1
 Son_of	1
 Czechoslovakia_as	1
 Philharmonic_at	1
+Prague_alongside	1
 DT_NNS
 the_works	1
 the_orchestras	1
@@ -39,9 +38,6 @@ PDT_DT
 all_that	1
 RB_.
 later_.	1
-,_PRP
-,_he	1
-,_we	1
 FW_FW
 G&ouml;ran_Gentele	1
 JJS_RB
@@ -58,10 +54,12 @@ PRP_IN
 him_through	1
 him_as	1
 NNS_DT
+musicians_a	1
 cases_the	1
 VBG_.
 conducting_.	1
 JJ_CC
+necessary_but	1
 HUMAN_AND	1
 good_and	1
 NNP_WRB
@@ -95,12 +93,8 @@ is_one	1
 NNP_WP
 Barenboim_who	1
 Met_who	1
-IN_VBG
-from_conducting	1
 NNS_WDT
 others_that	1
-,_NN
-,_kind	1
 PRP$_RB
 his_dear	1
 POS_NN
@@ -154,16 +148,14 @@ the_post	2
 DT_VBZ
 This_is	1
 this_is	1
-``_NNP
-`_Les	1
 PRP_VBP
 I_have	1
 we_are	1
 we_see	1
 PRP$_VBN
 his_idolized	1
-WRB_,
-where_,	1
+WP_VBZ
+what_is	1
 PRP_VBZ
 It_features	1
 It_recounts	1
@@ -178,11 +170,6 @@ partly_because	1
 back_until	1
 VBG_IN
 talking_about	1
-,_RB
-,_too	1
-,_quietly	1
-FW_,
-Gentele_,	1
 JJ_.
 good_.	1
 obscure_.	1
@@ -206,37 +193,13 @@ with_his	2
 about_his	1
 by_his	1
 alongside_his	1
-,_WP
-,_whoever	1
-PRP$_VBG
-its_differing	1
-IN_JJ
-among_other	1
-of_different	1
-In_many	1
-of_archival	1
-for_German	1
-NNP_,
-Martin_,	1
-Garden_,	1
-French_,	1
-Moritz_,	1
-Morison_,	1
-Symphony_,	1
-English_,	1
-Prague_,	2
-Hartmann_,	1
-German_,	1
-DELICATE_,	1
-Kubelik_,	1
 NNP_.
 Spanish_.	1
 Troyens_.	1
 MUSICAN_.	1
 Stereo_.	1
-RB_,
-Also_,	1
-there_,	1
+NN_WRB
+instance_when	1
 DT_PRP$
 all_its	1
 IN_IN
@@ -249,37 +212,33 @@ his_burial	1
 his_d&eacute;but	1
 his_side	1
 his_death	2
+NNP_PRP
+Hartmann_we	1
 CC_VBD
 and_did	1
 and_made	1
-JJ_,
-virtuoso_,	1
-gentle_,	1
-necessary_,	1
-thoughtful_,	1
-tragic_,	1
+JJ_RB
+tragic_too	1
+RB_CD
+obviously_one	1
 PRP_DT
 him_all	1
 VBD_RB
 did_n't	1
 was_not	1
-,_VBG
-,_studying	1
+NN_DT
+course_this	1
+wife_the	1
+IN_VBG
+from_conducting	1
 VBN_IN
 made_in	1
 greeted_as	1
 NNS_.
 others_.	1
 mins_.	1
-,_VBN
-,_made	1
-NNS_,
-others_,	1
-orchestras_,	1
-instances_,	1
-works_,	1
-things_,	1
-musicians_,	1
+RB_WP
+Also_whoever	1
 TO_DT
 to_this	1
 to_the	3
@@ -294,8 +253,6 @@ is_.	1
 VBP_JJ
 are_extensive	1
 are_obscure	1
-,_VBZ
-,_is	1
 RB_NN
 dear_friend	1
 VBN_NN
@@ -314,25 +271,27 @@ WDT_CD
 which_one	1
 JJ_JJ
 only_real	1
+thoughtful_dedicated	1
 glorious_American	1
+gentle_thoughtful	1
 JJ_NNP
 great_English	1
+virtuoso_Jan	1
 beloved_Prague	1
 young_Czech	1
 CD_IN
 one_of	3
 2003_for	1
-WP_VBZ
-what_is	1
+PRP$_VBG
+its_differing	1
 IN_PDT
 for_all	1
-,_CC
-,_and	3
-,_but	2
 VB_NN
 write_music	1
 VB_NNP
 leave_Czechoslovakia	1
+NNP_PRP$
+Martin_his	1
 NN_NNP
 soprano_Elsie	1
 MAN_AND	1
@@ -345,13 +304,11 @@ DT_RB
 a_very	2
 PRP$_NNS
 his_musicians	1
-,_WRB
-,_when	1
+RB_NNP
+there_Kubelik	1
 IN_JJS
 in_most	1
 at_least	1
-,_PRP$
-,_his	1
 NN_PRP
 criticism_I	1
 VBG_TO
@@ -361,8 +318,8 @@ see_him	1
 CC_DT
 and_the	1
 nor_a	1
-RB_CD
-obviously_one	1
+NN_VBN
+documentary_made	1
 IN_CD
 in_2003	1
 of_20	1
@@ -376,21 +333,16 @@ VBD_PRP$
 made_his	1
 continued_his	1
 played_his	1
-,_DT
-,_this	2
-,_a	1
-,_the	2
 NNP_VBZ
 Sound_is	2
 Kubelik_is	1
+Moritz_is	1
 NNS_VBD
 subtitles_was	1
 CD_PRP
 one_it	1
 VBN_.
 identified_.	1
-POS_``
-'s_`	1
 VBP_NNS
 are_others	1
 EX_VBZ
@@ -407,9 +359,11 @@ NN_NN
 tender_age	1
 premi&egrave;re_production	1
 music_director	1
+man_kind	1
 friend_composer	1
 NNS_RB
 years_later	1
+others_quietly	1
 IN_NNP
 without_Gentele	1
 by_Reiner	1
@@ -425,9 +379,6 @@ the_Metropolitan	1
 the_English	1
 :_EX
 --_there	1
-,_JJ
-,_dedicated	1
-,_thoughtful	1
 DT_JJ
 an_extensive	1
 a_political	1
@@ -463,22 +414,17 @@ NN_:
 material_--	1
 CC_WP
 but_who	1
-._''
-._'	1
+NNS_CC
+orchestras_and	1
+works_but	1
 VBD_VBG
 was_conducting	1
-NN_,
-speller_,	1
-editing_,	1
-wife_,	1
-course_,	1
-piano_,	1
-documentary_,	1
-child_,	1
-man_,	1
-hero_,	1
-instance_,	1
-music_,	1
+IN_JJ
+among_other	1
+of_different	1
+In_many	1
+of_archival	1
+for_German	1
 NN_.
 father_.	1
 matter_.	2
@@ -494,8 +440,10 @@ NN_IN
 advantage_of	1
 criticism_of	1
 death_of	1
-manager_of	1
+hero_at	1
+speller_for	1
 time_of	2
+editing_for	1
 conductor_with	1
 talent_for	1
 use_of	1
@@ -514,6 +462,7 @@ number_of	1
 PIRCURE_OF	1
 story_of	1
 world_as	1
+manager_of	1
 music_with	1
 television_by	1
 production_of	1
@@ -532,13 +481,17 @@ moves_as	1
 people_for	1
 interviews_with	1
 Subtitles_in	1
+instances_of	1
 NNS_PRP
 orchestras_he	1
+things_he	1
 NN_CC
 cosmopolitanism_and	1
+child_and	1
 music_but	1
 death_and	1
 violin_and	1
+piano_and	1
 videography_and	1
 emigr&eacute;_and	1
 WDT_VBP
@@ -546,6 +499,8 @@ that_are	1
 TO_VB
 to_leave	1
 to_write	1
+NN_VBG
+music_studying	1
 NN_VBD
 government_forced	1
 NN_VBZ
@@ -583,27 +538,35 @@ is_PCM	1
 NNP_NNS
 English_subtitles	1
 NNP_NNP
-Les_Troyens	1
 Chicago_Symphony	1
-Rafael_Kubelik	1
-AND_A	1
-PCM_Stereo	1
 Covent_Garden	1
 Daniel_Barenboim	1
-Bayerischer_Rundfunk	1
 conductor/pianist_Daniel	1
-Karl_Amadeus	1
 Rundfunk_Symphonieorchester	1
 Czech_Philharmonic	1
-Metropolitan_Opera	1
+PCM_Stereo	1
+German_French	1
 E._Moritz	1
+Les_Troyens	1
+Garden_Chicago	1
+Rafael_Kubelik	1
+Bayerischer_Rundfunk	1
+Prague_Covent	1
 HUMBLE_MUSICAN	1
+French_Spanish	1
 Jan_Kubelik	1
-A_DELICATE	1
-Amadeus_Hartmann	1
 Scott_Morrison	1
+English_German	1
+Amadeus_Hartmann	1
 Reiner_E.	1
+Karl_Amadeus	1
 Elsie_Morison	1
+AND_A	1
+Morison_conductor/pianist	1
+DELICATE_HUMBLE	1
+Metropolitan_Opera	1
+Symphony_Munich	1
+A_DELICATE	1
 :_VBZ
 --_is	1
 RB_JJ
@@ -617,6 +580,8 @@ VBZ_VBG
 is_conducting	1
 MD_NNS
 may_clips	1
+WRB_IN
+where_among	1
 CC_EX
 and_there	1
 but_there	1
@@ -635,6 +600,7 @@ to_others	1
 VBG_DT
 conducting_a	1
 NNP_DT
+Kubelik_this	1
 Morrison_THE	1
 RB_VBD
 first_soloed	1
@@ -649,17 +615,6 @@ VBN_TO
 destined_to	1
 VB_RB
 go_back	1
-,_NNP
-,_Kubelik	1
-,_Munich	1
-,_French	1
-,_HUMBLE	1
-,_Chicago	1
-,_Covent	1
-,_conductor/pianist	1
-,_Spanish	1
-,_Jan	1
-,_German	1
 VBG_NNS
 differing_sources	1
 VBZ_IN

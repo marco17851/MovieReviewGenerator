@@ -34,6 +34,7 @@ from_start	1
 of_everyone	1
 in_structure	1
 CC_JJ
+or_Disneyfied	1
 and_wild	1
 and_exaggerated	1
 and_hostile	1
@@ -53,9 +54,6 @@ VBN_VBZ
 Bound_is	1
 RB_TO
 back_to	2
-IN_``
-as_``	1
-of_``	1
 CD_WP
 95_who	1
 VBN_.
@@ -66,12 +64,6 @@ developed_.	1
 rescued_.	1
 shipwrecked_.	1
 rescued_?	1
-VBN_,
-lost_,	1
-found_,	2
-rescued_,	2
-biased_,	1
-Granted_,	1
 VB_TO
 like_to	1
 beg_to	1
@@ -110,8 +102,11 @@ who_saves	1
 who_has	1
 NNP_CC
 Angus_or	1
-Disney_but	1
+Lassie_and	1
+Columbia_and	1
 Angus_and	3
+Flipper_or	1
+Disney_but	1
 WP_MD
 who_may	1
 JJ_.
@@ -135,6 +130,8 @@ entertaining_.	1
 Disneyfied_.	1
 RP_VBN
 up_stranded	1
+VB_WDT
+watch_which	1
 :_NN
 ..._thanx	1
 IN_PRP$
@@ -198,6 +195,9 @@ differ_with	1
 search_for	1
 worry_as	1
 enjoy_like	1
+JJ_PRP
+clean_I	1
+good_it	1
 VBD_RB
 did_n't	3
 was_very	1
@@ -216,10 +216,17 @@ was_badly	1
 NN_DT
 case_the	1
 nutshell_this	1
+storm_the	1
 library_a	1
+line_the	1
+scenery_the	1
+cinematography_the	1
+acting_the	1
+storm_a	1
 <a href="http://www.amazon.com/gp/product/B000065V3A">_The	1
 fact_the	1
 course_the	1
+while_the	1
 VBN_JJR
 been_better	1
 WDT_RB
@@ -246,6 +253,7 @@ VB_NNS
 Thank_heavens	1
 VB_NNP
 find_Angus	2
+Buy_Far	1
 NNS_NNP
 names_Yellow	1
 NNS_NNS
@@ -254,8 +262,6 @@ yellows_actions	1
 children_ages	1
 JJS_JJ
 best_American	1
-POS_JJS
-'s_biggest	1
 VBD_JJ
 was_incredible	1
 was_predictable	1
@@ -271,8 +277,6 @@ his_eyes	1
 his_parents	3
 RB_NNP
 Then_Far	1
-,_PRP$
-,_his	3
 RB_SYM
 never_*	1
 just_*	1
@@ -293,8 +297,6 @@ think_it	1
 allow_him	1
 Are_you	1
 believe_I	1
-LS_MD
-i_can	1
 CC_NN
 +_popcorn	1
 and_filmmaking	1
@@ -309,10 +311,6 @@ and_dog	1
 and_<a href="http://www.amazon.com/gp/product/B00006ZXSI">	1
 but_nothing	1
 or_car	1
-VB_,
-spoil_,	1
-survive_,	2
-watch_,	1
 VB_.
 come_!	1
 watch_.	1
@@ -330,13 +328,8 @@ able_to	2
 CD_VBP
 two_have	1
 NNS_JJ
+children_such	1
 animals_such	1
-NNP_''
-Yellow_''	1
-Feature_''	1
-Lassie_''	1
-Home_''	2
-Flipper_''	1
 DT_NNS
 some_parts	2
 the_critics	1
@@ -385,18 +378,21 @@ for_kids	1
 IN_NNP
 as_Angus	1
 for_Disney	1
-From_Home	6
+by_Disney	1
 of_Course	1
-of_British	1
+as_Flipper	1
 of_Natty	1
 with_Yellow	1
 on_KidScene	1
 of_Angus	1
-with_Christmas	1
-by_Disney	1
-on_HBO	1
+of_Far	1
 like_Shrek	1
+with_Christmas	1
+From_Home	6
+on_HBO	1
+of_British	1
 DT_NNP
+an_Air	1
 the_Clouds	1
 the_Coast	1
 a_Yellow	2
@@ -427,25 +423,28 @@ found_the	1
 liked_this	1
 were_both	1
 NNS_CC
+adults_and	1
 wolves_and	1
 dogs_and	1
 expressions_and	1
+emotions_and	1
 parents_and	1
 explosions_or	1
 children_and	1
 shoot-outs_and	1
 sub-plots_and	1
 kids_and	3
+forests_and	1
 cookies_and	1
-adults_and	1
-emotions_and	1
+ones_but	1
+cats_but	1
 NNS_CD
+boys_7	1
 ages_7	1
-,_VB
-,_encounter	1
-,_find	1
-VBN_PRP
-purchased_it	1
+JJR_IN
+better_as	1
+More_than	1
+more_than	1
 VBP_IN
 resemble_that	1
 are_in	1
@@ -455,28 +454,37 @@ disagree_with	1
 NN_CC
 scenery_and	1
 teenager_and	2
+attack_and	1
 entertainment_and	1
 lover_and	1
-father_and	1
-movie_and	2
+father_and	2
+movie_and	3
 morning_and	1
 responsibility_and	1
+home_and	1
+day_but	1
+search_and	1
+smile_and	1
 mirror_and	1
 accident_and	1
 boy_or	1
 heart_and	1
+lab_and	1
+problem_and	1
 fan_and	1
 journey_and	1
 technology_and	1
 rabbit_and	1
+survival_but	1
 ravine_and	1
 love_and	1
-respect_but	1
+pass_and	1
 acting_and	1
 </a>_and	1
 boy_and	6
-pass_and	1
-search_and	1
+food_and	1
+respect_but	1
+movie_but	2
 gloom_and	1
 sister_and	1
 movie_+	1
@@ -494,8 +502,10 @@ any_more	1
 DT_WP
 some_who	1
 NN_JJ
-popcorn_=	1
+movie.intense_surprising	1
+coastline_vast	1
 movie_free	1
+popcorn_=	1
 ending_satisfying	1
 year_old	1
 genre_such	1
@@ -524,17 +534,15 @@ Good_Family	1
 :_RB
 ;_perhaps	1
 ;_not	1
-NN_JJR
-lot_more	1
 JJR_PRP
 more_it	1
 CC_EX
 but_there	1
 JJR_.
 more_.	2
-VBN_CC
-introduced_and	1
-done_and	1
+DT_PRP
+all_I	1
+all_it	1
 VBN_TO
 brought_to	1
 put_to	2
@@ -604,13 +612,10 @@ than_the	1
 of_a	5
 CD_TO
 5_to	1
+UH_DT
+Yes_the	1
 CD_POS
 90_'s	2
-RB_,
-quickly_,	1
-always_,	1
-enough_,	1
-well_,	1
 RB_.
 ago_.	1
 too_.	1
@@ -668,11 +673,8 @@ if_he	1
 that_it	1
 for_ourselves	1
 of_us	1
-''_.
-''_.	2
-''_,
-''_,	1
 :_NNP
+:_Family	1
 :_Gabriella	1
 PRP_VBD
 they_did	1
@@ -688,6 +690,7 @@ It_was	3
 he_suffered	1
 I_did	4
 We_knew	1
+him_changed	1
 We_laughed	1
 I_expected	1
 they_were	1
@@ -872,18 +875,12 @@ PRP_:
 us_...	1
 IN_.
 that_.	1
-FW_FW
-everytime_i	1
 PRP_.
 you_!	1
 it_.	1
 him_.	2
 himself_.	1
 you_.	1
-PRP_,
-them_,	1
-it_,	3
-him_,	3
 CC_VBP
 and_are	1
 and_have	1
@@ -918,23 +915,14 @@ and_found	1
 CC_VBN
 and_resolved	1
 and_drawn	1
-JJ_,
-unnecessary_,	1
-predictable_,	2
-emotional_,	1
-surprising_,	1
-happy_,	1
-sentimental_,	1
-refreshing_,	1
-sad_,	1
-good_,	1
-inspiring_,	1
-young_,	1
 JJR_NNS
 older_ones	1
 older_children	1
 younger_ones	1
 younger_children	1
+VBN_NNP
+named_Angus	1
+named_Yellow	1
 :_VB
 -_Preview	1
 VBN_IN
@@ -987,10 +975,14 @@ animal_movies	1
 HDnet_movies	1
 family_films	1
 brother_dresses	1
+NNP_PRP$
+Angus_his	1
 NN_NNP
+story_Far	1
+dad_John	1
+dog_Huck	1
+civilization_Angus	1
 master_Angus	1
-:_``
-:_``	1
 CD_CC
 7_and	1
 2_and	1
@@ -1008,15 +1000,24 @@ PRP_WRB
 him_when	1
 :_DT
 ..._This	1
+:_The	2
 -_The	1
 ..._that	1
-:_The	2
+..._a	1
 DT_MD
 a_must	1
 JJR_NN
 better_movie	1
-:_CD
-..._;-RRB-	1
+VBP_VBN
+'ve_seen	1
+are_lost	1
+are_set	1
+are_found	1
+have_seen	1
+are_put	1
+are_worried	1
+are_marooned	1
+are_introduced	1
 VBP_VBZ
 have_survives	1
 PRP_MD
@@ -1034,16 +1035,8 @@ it_would	1
 you_will	1
 they_may	1
 You_'ll	1
-VBP_VBN
-'ve_seen	1
-are_lost	1
-are_set	1
-are_found	1
-have_seen	1
-are_put	1
-are_worried	1
-are_marooned	1
-are_introduced	1
+:_CD
+..._;-RRB-	1
 CC_VB
 and_end	1
 and_be	1
@@ -1061,18 +1054,19 @@ EX_VBP
 there_are	1
 NNS_RP
 eyes_out	1
-CC_``
-or_``	2
 NN_NN
 TV_movie	1
 family_film	1
 coast_guard	1
 wilderness_drama	1
 anything_TRULY	1
-plot_point	1
+NW_rainforest	1
 wilderness_country	1
+plot_point	1
 boat_accident	2
 programming_block	1
+laugh_smile	1
+boy_boy	1
 son_responsibility	1
 family_fare	1
 point_time	1
@@ -1086,7 +1080,7 @@ movie_library	1
 wolf_attack	1
 dog_lover	1
 supply_run	1
-NW_rainforest	1
+violence_car	1
 Dog_tonight	1
 set_sail	1
 family_night	1
@@ -1095,6 +1089,7 @@ heart_attack	1
 night_programming	1
 animal_lover	1
 situation_comedy	1
+romance_part	1
 drama_worth	1
 story_line	1
 reality_show	1
@@ -1107,23 +1102,13 @@ minutes_long	1
 adults_alike	1
 days_off	1
 years_ago	1
+times_especially	1
+words_really	1
 EX_VBD
 there_was	1
 there_wasnt	1
 JJS_.
 worst_.	1
-,_JJ
-,_such	1
-,_emotional	1
-,_inspiring	1
-,_surprising	1
-,_sentimental	1
-,_happy	1
-,_sad	1
-,_young	1
-,_vast	1
-,_EX
-,_there	1
 DT_JJ
 a_six-year	1
 a_darn	1
@@ -1212,6 +1197,7 @@ film_about	1
 anyone_from	1
 sort_of	1
 DVD_of	1
+story_as	1
 cover_of	1
 bond_between	1
 timeframe_with	1
@@ -1229,17 +1215,18 @@ moment_of	1
 sinking_of	1
 son_out	1
 belief_that	1
+movie_although	1
 story_between	1
 film_for	1
 thanx_for	1
-pack_of	1
+movie_in	1
 rainforest_with	1
 country_after	1
 struggle_against	1
 produce_by	1
 end_of	1
 need_for	1
-Best_of	1
+pack_of	1
 *_like	1
 beginning_while	1
 bit_of	1
@@ -1265,6 +1252,7 @@ ship_during	1
 type_of	1
 fight_through	1
 scene_that	1
+Best_of	1
 CC_DT
 But_the	1
 and_a	2
@@ -1283,10 +1271,12 @@ movie_been	1
 boy_named	1
 sincerity_surrounded	1
 NNS_PRP
+changes_I	1
 comforts_him	1
+woods_you	1
+names_him	2
 touches_me	1
 kisses_him	1
-names_him	2
 dresses_himself	1
 NN_VBG
 time_developing	1
@@ -1332,12 +1322,13 @@ boy_is	1
 dog_appears	1
 story_is	2
 title_says	1
+Home_is	1
 suspense_comes	1
 problem_is	1
 dog_finds	1
 boy_takes	1
 movie_is	6
-Dog_is	1
+Dog_is	2
 father_looks	1
 film_is	2
 car_chases	2
@@ -1356,8 +1347,9 @@ just_as	1
 almost_always	1
 as_well	1
 even_remotely	1
-pretty_much	1
+quickly_never	1
 mainly_just	1
+pretty_much	1
 n't_blindly	1
 Not_very	1
 as_far	1
@@ -1393,19 +1385,15 @@ IN_EX
 that_there	1
 JJS_PRP
 worst_I	1
-JJ_``
-whole_``	1
-typical_``	1
 RB_VBZ
 really_captures	1
 certainly_LOOKS	1
+always_is	1
 long_is	1
 just_is	1
 really_enjoys	1
 just_goes	1
 still_amazes	1
-,_WP
-,_who	1
 VBZ_VBG
 is_missing	1
 VB_PRP
@@ -1417,6 +1405,7 @@ think_they	1
 make_it	2
 see_it	1
 enjoy_it	1
+survive_they	1
 tell_you	1
 add_it	1
 RB_VBP
@@ -1435,11 +1424,8 @@ saves_his	1
 cries_his	1
 is_their	1
 is_my	1
-CC_PRP$
-and_her	1
-and_his	3
-or_his	1
-+_your	1
+VBN_EX
+Granted_there	1
 DT_DT
 this_any	1
 this_a	1
@@ -1453,9 +1439,6 @@ not_needed	1
 ever_seen	1
 Homeward_Bound	1
 just_assumed	1
-NN_''
-Home_''	1
-romance_''	1
 RB_VBG
 just_finishing	1
 rapidly_approaching	1
@@ -1470,9 +1453,10 @@ then_brought	1
 really_wanted	1
 NNS_NN
 years_pass	1
+bugs_kill	1
+characters_plight	1
 boys_life	1
 critics_review	1
-characters_plight	1
 others_love	1
 CC_MD
 or_should	1
@@ -1484,19 +1468,12 @@ VBZ_TO
 goes_to	1
 PRP_WDT
 me_which	1
-,_IN
-,_on	1
-,_in	1
-,_although	1
-,_that	1
-,_as	1
 NNS_WP
 reviewers_who	1
 ones_who	1
-``_NN
-``_romance	1
 VBG_CC
 ending_but	1
+approaching_but	1
 MD_RB
 Ca_n't	1
 may_never	1
@@ -1506,7 +1483,9 @@ would_not	3
 should_n't	1
 NN_WDT
 bond_that	1
+ending_which	1
 strength_that	1
+structure_that	1
 film_that	2
 VB_DT
 mourn_the	1
@@ -1543,6 +1522,7 @@ all_those	1
 VBZ_JJ
 is_beautiful	2
 's_hard	1
+is_clean	1
 is_predictable	2
 is_typical	1
 is_short	1
@@ -1550,8 +1530,6 @@ takes_complete	1
 is_wonderful	1
 is_entertaining	1
 comes_excellent	1
-''_DT
-''_a	1
 NN_TO
 school_to	1
 anyone_to	1
@@ -1582,31 +1560,14 @@ RBR_JJ
 more_realistic	1
 more_suitable	1
 more_attractive	1
-:_''
-..._''	1
 CC_CD
 &_8	1
-,_NN
-,_kill	1
-,_age	1
-,_family	1
-,_car	1
-,_boy	1
-,_smile	1
-``_RB
-``_Far	1
 JJR_CC
 better_but	1
-``_NNP
-``_Yellow	1
-``_Air	1
-``_Far	3
-``_Family	1
-``_Flipper	1
-``_Lassie	1
 RB_DT
 Even_the	1
 Also_some	1
+well_this	1
 also_a	1
 just_another	1
 actually_the	1
@@ -1631,16 +1592,6 @@ dog_ca	1
 dog_can	1
 movie_might	1
 attack_would	1
-DT_``
-an_``	1
-,_RB
-,_almost	1
-,_not	1
-,_never	1
-,_too	1
-,_apparently	1
-,_especially	2
-,_really	1
 CC_PRP
 but_I	2
 But_it	1
@@ -1649,20 +1600,19 @@ and_I	6
 but_it	1
 and_he	1
 but_we	1
-,_VBD
-,_changed	1
 RB_VB
 n't_spend	1
 n't_watch	1
 n't_make	1
 never_be	1
-not_look	1
+desperately_search	1
 eventually_get	1
 not_advise	1
 n't_offer	1
 n't_have	2
-desperately_search	1
 n't_rush	1
+not_look	1
+enough_encounter	1
 not_stop	1
 n't_remember	1
 n't_worry	1
@@ -1675,21 +1625,13 @@ absolutley_love	1
 quite_put	1
 not_recommend	1
 n't_find	3
-IN_IN
-though_that	1
-As_for	1
-along_with	2
-that_of	1
-because_of	1
+FW_FW
+everytime_i	1
 JJ_RB
 hungry_enough	1
 delightful_nonetheless	1
-,_``
-,_``	1
 VBG_PRP$
 teaching_their	1
-,_VBG
-,_leading	1
 NNS_.
 eleven_.	1
 hours_.	1
@@ -1714,30 +1656,11 @@ critics_.	1
 people_.	1
 reviewers_.	1
 breeds_.	1
-NNS_,
-ones_,	1
-forests_,	1
-bugs_,	1
-times_,	1
-woods_,	1
-Movies_,	1
-changes_,	1
-words_,	1
-cats_,	1
-elements_,	1
-boys_,	1
-children_,	1
-,_VBP
-,_watch	1
-,_Are	1
 VBD_NNP
 was_MY	1
 NNS_:
 letters_:	1
 tears_...	1
-,_VBZ
-,_becomes	1
-,_is	2
 JJ_NNS
 obvious_manipulations	1
 young_children	2
@@ -1767,6 +1690,7 @@ short_scenes	1
 few_days	1
 main_characters	1
 VB_VB
+survive_find	1
 stop_mourn	1
 JJ_NNP
 young_Angus	1
@@ -1774,9 +1698,6 @@ rugged_British	1
 lost_Yellow	1
 CD_IN
 one_of	6
-''_CC
-''_and	1
-''_or	1
 VBG_PRP
 making_it	1
 seeing_it	2
@@ -1796,15 +1717,24 @@ a_pretty	1
 -_i	1
 NN_PRP
 boat_they	1
+ship_it	1
+dog_he	1
+Dog_he	1
 grief_it	1
 nothing_they	1
+fact_I	1
+tonight_it	1
 time_he	1
+ending_I	1
+accident_they	1
 guy_I	1
+ending_it	1
 movie_it	1
 lover_I	1
 GADFLY_I	1
 film_I	1
-time_I	1
+time_I	2
+Lab_we	1
 VB_PRP$
 see_their	1
 find_their	1
@@ -1812,6 +1742,7 @@ put_my	1
 remember_my	1
 accompany_his	1
 JJ_DT
+unnecessary_the	1
 such_a	1
 RB_CC
 over_and	2
@@ -1867,10 +1798,6 @@ WRB_NNP
 when_Yellow	2
 how_Angus	1
 When_Angus	1
-,_DT
-,_this	2
-,_a	2
-,_the	8
 NNP_NNPS
 Disney_Movies	1
 VBZ_RBR
@@ -1885,8 +1812,6 @@ feels_*	1
 has_something	1
 comes_home	2
 builds_anticipation	1
-UH_,
-Yes_,	1
 TO_JJ
 to_mid	1
 VBP_DT
@@ -1907,16 +1832,36 @@ am_a	1
 find_a	1
 recommend_this	1
 forge_a	1
+VBZ_RB
+is_also	1
+'s_completely	1
+is_definitely	1
+is_not	3
+does_n't	1
+is_ultimately	1
+is_definately	1
+transcends_even	1
+LOOKS_really	1
+utilizes_not	1
+is_n't	1
+does_not	1
+is_just	1
+feels_really	1
+is_fairly	2
+is_quickly	1
+remains_pretty	1
+'s_just	4
+is_barely	1
+happens_almost	1
 VBD_TO
 wanted_to	1
 seemed_to	1
-NN_FW
-movie_everytime	1
+RB_MD
+just_might	1
+Probably_would	1
+alike_will	1
 UH_:
 eh_...	1
-,_WDT
-,_which	2
-,_that	1
 NNS_IN
 moments_for	1
 Years_ago	1
@@ -1926,6 +1871,7 @@ emotions_of	1
 adventures_of	3
 relationships_with	1
 movies_on	1
+Movies_that	1
 children_under	1
 Adventures_of	3
 hearts_of	1
@@ -1951,51 +1897,11 @@ CD_RB
 one_mainly	1
 one_really	1
 10_mainly	1
-._''
-._''	2
+POS_JJS
+'s_biggest	1
 NNP_JJ
+Northwest_young	1
 A_refreshing	1
-NN_,
-boy_,	1
-dad_,	1
-violence_,	1
-coastline_,	1
-father_,	1
-survival_,	1
-acting_,	1
-story_,	2
-problem_,	1
-line_,	1
-day_,	1
-ending_,	3
-smile_,	1
-tonight_,	1
-attack_,	1
-home_,	2
-process_,	1
-storm_,	2
-emotion_,	1
-accident_,	1
-tear-jerker_,	1
-lab_,	1
-civilization_,	1
-while_,	1
-dog_,	3
-fact_,	1
-laugh_,	1
-cinematography_,	1
-food_,	1
-Lab_,	1
-movie.intense_,	1
-ship_,	1
-structure_,	1
-adventure_,	1
-property_,	1
-Dog_,	2
-time_,	1
-family_,	1
-movie_,	5
-scenery_,	1
 TO_CD
 to_95	1
 NN_.
@@ -2053,19 +1959,15 @@ VBN_DT
 assumed_the	1
 CC_UH
 but_eh	1
-''_VBZ
-''_is	2
-''_says	1
-''_NN
-''_film	1
-''_part	1
 VBP_VB
 do_survive	1
 dont_think	1
 PRP_CC
-him_and	2
-DT_,
-all_,	2
+it_but	2
+them_but	1
+it_and	1
+him_but	1
+him_and	3
 DT_.
 this_.	2
 VBG_RP
@@ -2074,12 +1976,6 @@ Growing_up	1
 leading_up	1
 FW_VB
 i_remember	1
-JJS_NN
-biggest_problem	1
-worst_bit	1
-biggest_complaint	1
-biggest_fan	1
-best_friend	1
 RB_JJ
 as_entertaining	1
 very_heartwarming	1
@@ -2112,8 +2008,12 @@ trmendously_faithful	1
 really_bloated	1
 So_many	1
 very_long	1
-VB_``
-Buy_``	1
+IN_IN
+though_that	1
+As_for	1
+along_with	2
+that_of	1
+because_of	1
 CD_DT
 one_that	1
 ;-RRB-_The	1
@@ -2164,15 +2064,10 @@ NNS_WRB
 animals_when	1
 NN_EX
 fear_there	1
-``_JJ
-``_clean	1
-``_Disneyfied	1
-``_A-boy-and-his-pet	1
 NNP_IN
 Far_From	6
+Davison_on	1
 Scrooge_with	1
-VBZ_``
-is_``	1
 IN_VBG
 of_thinking	1
 as_satisfying	1
@@ -2184,43 +2079,31 @@ for_delivering	1
 while_watching	1
 IN_VBD
 of_struck	1
-,_PRP
-,_he	2
-,_they	2
-,_we	2
-,_you	1
-,_it	6
-,_I	6
 IN_VBN
 since_purchased	1
 VBG_.
 enticing_.	1
 missing_.	1
-VBG_,
-approaching_,	1
 JJ_CC
 standard_and	1
 undeveloped_and	1
 likeable_or	1
 excellent_and	1
 close_and	1
+young_but	1
 bloated_and	1
 appealing_or	1
 good_and	2
-predictable_and	3
+predictable_and	4
 suspenseful_and	1
 dramatic_and	2
 VBN_RBR
 seen_better	1
 JJ_CD
 mid_90	2
-CD_,
-14_,	1
 CD_.
 8_.	1
 one_.	1
-TO_VBG
-to_making	1
 WRB_VBN
 When_combined	1
 NNP_WP
@@ -2240,17 +2123,20 @@ to_civilization	1
 CD_NNS
 75_minutes	1
 1 1/2_hours	1
+CD_NNP
+14_KIDS	1
 VBN_RB
 been_much	1
 been_even	1
 concerned_either	1
 resolved_too	1
 NNP_NN
-Gann_</a>	1
-MY_son	1
-Friday_night	1
-Yellow_lab	1
 Yellow_Lab	2
+Friday_night	1
+Chu_age	1
+Gann_</a>	1
+Yellow_lab	1
+MY_son	1
 TO_PRP$
 to_his	1
 to_your	1
@@ -2263,26 +2149,8 @@ father_'s	1
 person_'s	1
 TO_PRP
 to_me	1
-VBZ_RB
-is_also	1
-'s_completely	1
-is_definitely	1
-is_not	3
-does_n't	1
-is_ultimately	1
-is_definately	1
-transcends_even	1
-LOOKS_really	1
-utilizes_not	1
-is_n't	1
-does_not	1
-is_just	1
-feels_really	1
-is_fairly	2
-is_quickly	1
-remains_pretty	1
-'s_just	4
-is_barely	1
+TO_VBG
+to_making	1
 VBN_RP
 drawn_out	1
 caught_up	1
@@ -2300,8 +2168,6 @@ lovers_will	1
 kids_ca	1
 critics_would	1
 ones_might	1
-,_JJR
-,_older	1
 TO_RB
 to_absolutley	1
 RBR_IN
@@ -2353,24 +2219,20 @@ Do_n't	1
 remember_back	1
 JJ_VBZ
 few_sprinkles	1
-NNP_,
-Davison_,	1
-Northwest_,	1
-KidScene_,	1
-Yellow_,	1
-Columbia_,	2
-Angus_,	1
-Chu_,	1
 NNP_.
+Feature_.	1
 Course_.	1
 Video_.	1
 II_.	1
-Bud_.	1
+Yellow_.	5
 FIRST_!	1
 </a>_.	1
 Angus_.	1
-Yellow_.	4
+Bud_.	1
 HBO_.	1
+JJ_VBP
+emotional_Are	1
+predictable_watch	1
 POS_CC
 's_and	1
 NNP_WRB
@@ -2390,10 +2252,6 @@ it_a	1
 VBZ_.
 delivers_.	1
 is_.	1
-VBZ_,
-happens_,	1
-chases_,	1
-says_,	1
 RB_NN
 barely_*	1
 definitely_*	1
@@ -2401,29 +2259,35 @@ truly_*	1
 NNS_TO
 guns_to	1
 years_to	1
+CC_PRP$
+and_her	1
+and_his	3
+or_his	1
++_your	1
 JJ_JJ
-clean_adventurous	1
+happy_sentimental	1
 six-year_old	2
+sentimental_inspiring	1
 =_Great	1
 near_fatal	1
+sad_happy	1
 few_scary	1
+clean_adventurous	1
 true_American	1
+inspiring_emotional	1
+surprising_sad	1
 good_emotional	1
 beautiful_rugged	1
-JJR_IN
-better_as	1
-More_than	1
-more_than	1
-,_CC
-,_and	15
-,_but	17
+typical_A-boy-and-his-pet	1
+VBN_PRP
+purchased_it	1
+LS_MD
+i_can	1
 VB_NN
 find_food	1
 advise_anyone	1
-,_CD
-,_7	1
 NN_WP
-dog_who	1
+dog_who	2
 Anyone_who	1
 everyone_who	1
 RB_RBR
@@ -2462,6 +2326,7 @@ NNS_VBD
 movies_won	1
 conpanions_carried	1
 NNS_VBG
+elements_leading	1
 moments_involving	1
 PRP_NNP
 him_Yellow	2
@@ -2487,8 +2352,6 @@ master_half	1
 POS_JJ
 's_favorite	1
 '_little	1
-VBN_``
-named_``	1
 VBD_VBN
 were_mesmerized	1
 was_devoted	1
@@ -2498,6 +2361,8 @@ VBD_PRP
 struck_me	1
 changed_him	1
 found_him	1
+cried_it	1
+laughed_we	1
 VBD_VBG
 was_engaging	1
 was_pulling	1
@@ -2529,8 +2394,19 @@ Yellow_are	1
 ;_they	1
 :_JJ
 -_GODLY	1
+VBN_CC
+found_and	1
+found_but	1
+done_and	1
+biased_but	1
+introduced_and	1
+lost_and	1
+rescued_but	2
 NNP_VBZ
+Home_is	1
 Yellow_comes	1
+Home_says	1
+Yellow_becomes	1
 Dog_is	1
 John_is	1
 Angus_acquires	1
@@ -2569,18 +2445,15 @@ to_show	1
 to_make	1
 to_come	1
 to_see	4
-RB_MD
-just_might	1
-Probably_would	1
-alike_will	1
+NN_JJR
+lot_more	1
+emotion_older	1
 CC_NNP
 and_Friday	1
-but_Yellow	1
+or_Lassie	1
 or_Yellow	1
 and_Yellow	4
-VBD_,
-laughed_,	1
-cried_,	1
+but_Yellow	1
 VBD_.
 was_.	1
 POS_.
@@ -2609,11 +2482,15 @@ humor_as	1
 mile_back	1
 ocean_first	1
 film_just	1
+tear-jerker_too	1
 island_far	1
+movie_still	1
 movie_right	1
 dog_only	1
-movie_still	1
+adventure_especially	1
+property_apparently	1
 guard_desperately	1
+family_not	1
 family_really	1
 JJ_IN
 incredible_in	1
@@ -2661,34 +2538,38 @@ one_scene	1
 one_day	1
 29_year	1
 VBZ_NNP
+says_Good	1
 acquires_Yellow	1
 VBZ_NNS
+chases_shoot-outs	1
 becomes_boys	1
 VBP_NN
 gain_strength	1
 dont_make	1
-JJ_''
-clean_''	1
-A-boy-and-his-pet_''	1
+NN_PRP$
+home_his	1
+process_his	1
+NN_FW
+movie_everytime	1
 VB_CC
+spoil_but	1
 survive_and	1
-VBN_NNP
-named_Angus	1
+NNP_DT
+Columbia_this	1
+KidScene_a	1
+JJS_NN
+biggest_problem	1
+worst_bit	1
+biggest_complaint	1
+biggest_fan	1
+best_friend	1
 RP_IN
 up_in	2
 out_while	1
-,_NNP
-,_Good	1
-,_Angus	1
-,_John	1
-,_Huck	1
-,_KIDS	1
 VBG_NNP
 watching_Far	1
 VBG_NNS
 flying_planes	1
-,_NNS
-,_shoot-outs	1
 VBZ_IN
 seems_like	1
 is_about	1
@@ -2724,6 +2605,7 @@ happy_ending	2
 heartwarming_tale	1
 fabulous_scenery	1
 subtle_belief	1
+A-boy-and-his-pet_film	1
 great_family	2
 entire_movie	1
 stray_dog	2
@@ -2742,6 +2624,7 @@ GODLY_GADFLY	1
 very_fun	1
 unusual_ending	1
 remote_island	1
+splendid_family	1
 enough_time	1
 family-oriented_film	1
 fantastic_movie	1
@@ -2751,7 +2634,7 @@ old_guy	1
 terrible_boat	1
 actual_survival	1
 great_movie	1
-splendid_family	1
+refreshing_family	1
 uplifting_journey	1
 delightful_movie	1
 long_time	1
@@ -2783,6 +2666,7 @@ dangerous_wildlife	1
 innocuous_family	1
 little_brother	1
 lovely_cinematography	1
+whole_romance	1
 coming-of-age_story	1
 perilous_log	1
 Great_stuff	1

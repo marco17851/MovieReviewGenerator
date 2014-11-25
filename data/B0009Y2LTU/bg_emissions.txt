@@ -15,8 +15,6 @@ mother_that	1
 VB_DT
 compose_an	1
 make_the	1
-RB_,
-however_,	1
 VBZ_JJ
 takes_several	1
 is_emotional	1
@@ -29,10 +27,9 @@ CC_RB
 and_discretely	1
 and_never	1
 JJ_CC
+fitting_and	1
+eye-catching_and	1
 humble_and	1
-VB_IN
-remain_behind	1
-excel_as	1
 PRP$_JJ
 my_beloved	1
 VBZ_DT
@@ -66,8 +63,6 @@ a_whole	1
 A_must-see	1
 a_model	1
 the_idea	1
-``_NNP
-``_Bellissima	3
 PRP_VBP
 You_are	1
 WP_VBP
@@ -78,33 +73,23 @@ NNS_MD
 interests_will	1
 RB_IN
 Just_as	1
-,_RB
-,_however	1
 IN_PRP$
 for_her	1
 as_her	1
 by_my	1
 of_her	1
 about_their	1
-IN_JJ
-in_multiple	1
-NNP_,
-Magnani_,	1
-War_,	1
 PRP$_NN
 her_daughter	3
 her_mother	1
 her_life	1
-,_``
-,_``	1
+NNP_WRB
+War_where	1
+VB_IN
+remain_behind	1
+excel_as	1
 JJ_PRP
 boring_You	1
-JJ_,
-eye-catching_,	1
-incredible_,	1
-fitting_,	1
-,_VBG
-,_leaving	1
 VBN_IN
 carved_in	1
 starred_by	1
@@ -113,13 +98,9 @@ NNS_.
 turns_.	1
 ways_.	1
 films_.	1
-,_VBN
-,_starred	1
 VBP_JJ
 come_full	1
 enjoy_dramatic	1
-,_VBZ
-,_is	1
 JJ_NNS
 unexpected_turns	1
 dramatic_films	1
@@ -133,11 +114,9 @@ CD_IN
 one_with	1
 WRB_JJ
 where_unsaid	1
-,_CC
-,_and	3
-,_CD
-,_one	1
 NN_NNP
+anecdote_Visconti	1
+art_Bellissima	1
 master_Director	1
 CD_DT
 one_the	1
@@ -146,27 +125,28 @@ this_apparently	1
 this_very	1
 PRP$_NNS
 their_lives	1
-,_WRB
-,_where	1
-,_MD
-,_will	1
+JJ_DT
+incredible_the	1
 MD_VB
 will_make	1
 will_compose	1
 will_remain	1
+NN_VBN
+woman_starred	1
 NNS_VBP
 events_come	1
 models_are	1
 NNP_MD
 Visconti_will	1
+Magnani_will	1
 PRP_MD
 she_can	1
-,_DT
-,_the	1
 VBP_VBN
 are_bound	1
-NNP_VBZ
-Director_is	1
+NN_CC
+personality_and	1
+watch_and	1
+idea_and	1
 VBZ_NN
 captures_beauty	1
 VBP_DT
@@ -175,8 +155,6 @@ MD_IN
 can_for	1
 NN_NN
 Neo_Realism	1
-NNP_''
-Bellissima_''	3
 DT_NNS
 the_twists	1
 the_objects	1
@@ -203,14 +181,8 @@ age_:	1
 NNS_CC
 times_and	1
 lives_and	1
-NN_,
-anecdote_,	1
-circle_,	1
-watch_,	1
-art_,	1
-woman_,	1
-daughter_,	1
-film_,	1
+IN_JJ
+in_multiple	1
 NN_.
 fate_.	1
 must-see_.	1
@@ -240,16 +212,19 @@ NNS_IN
 pieces_of	1
 twists_of	1
 objects_of	1
-NN_CC
-personality_and	1
-idea_and	1
+NNP_VBZ
+Bellissima_is	2
+Director_is	1
+Bellissima_captures	1
 VB_JJ
 feel_sympathetic	1
 TO_VB
 to_feel	1
 to_excel	1
-RBS_VBN
-most_reminded	1
+NN_VBG
+circle_leaving	1
+NN_CD
+film_one	1
 NN_VBZ
 daughter_wins	1
 whole_is	1
@@ -259,15 +234,14 @@ film_is	1
 music_is	1
 life_takes	1
 story_is	1
-''_VBZ
-''_is	2
-''_captures	1
 RB_RB
 not_entirely	1
 DT_JJS
 the_best	1
 DT_WP
 those_who	1
+NN_RB
+daughter_however	1
 JJ_IN
 emotional_at	1
 sympathetic_for	1
@@ -278,6 +252,8 @@ NNP_NNP
 Italian_Society	1
 Post_War	1
 Anna_Magnani	1
+RB_VBZ
+however_is	1
 RB_JJ
 very_fitting	1
 apparently_innocent	1
@@ -292,14 +268,14 @@ CC_PRP$
 and_her	1
 JJR_DT
 more_the	1
+RBS_VBN
+most_reminded	1
 RB_VBN
 entirely_thrilled	1
 VBN_NNS
 reminded_pieces	1
 VBN_TO
 bound_to	1
-,_NNP
-,_Visconti	1
 CC_NNS
 and_models	1
 IN_DT

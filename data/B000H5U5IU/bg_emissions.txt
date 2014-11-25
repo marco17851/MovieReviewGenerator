@@ -17,6 +17,8 @@ NNS_WP
 people_who	1
 VB_WP
 watch_what	1
+DT_RB
+this_then	1
 NNP_IN
 Tiki_into	1
 CC_JJ
@@ -26,32 +28,24 @@ could_not	1
 will_probably	1
 NN_WDT
 thing_that	1
+picture_which	1
 VB_DT
 give_any	1
 be_a	1
+remember_this	1
 avoid_this	1
 find_this	1
 save_the	1
 wish_the	1
 expect_a	1
 be_the	1
-VBN_CD
-wasted_80	1
-VBG_DT
-comparing_the	1
-reading_the	1
-watching_any	1
-RB_,
-Truthfully_,	1
-away_,	1
+VBG_JJ
+being_generous	1
 RB_.
 too_.	1
 sadly_.	1
-VBP_,
-want_,	1
-,_PRP
-,_it	1
-,_I	1
+VBP_.
+want_.	1
 VBZ_JJ
 is_enough	2
 NN_TO
@@ -69,14 +63,13 @@ JJS_IN
 Most_of	1
 JJ_CC
 high_but	1
+creative_and	1
 CC_WDT
 but_which	1
 WRB_PRP
 when_we	1
 When_I	1
 where_we	1
-IN_CC
-in_and	1
 FW_.
 blah_.	1
 PRP$_JJ
@@ -95,17 +88,10 @@ VB_TO
 want_to	1
 IN_VBG
 for_reading	1
-,_FW
-,_etc.	1
-,_blah	1
-,_NN
-,_polynesia	1
-,_i.e	1
+VBN_CD
+wasted_80	1
 POS_NN
 's_End	1
-VBP_PRP
-love_them	1
-hope_you	1
 PRP_VBD
 I_was	2
 I_had	1
@@ -170,25 +156,22 @@ you_watch	1
 WP_VBP
 what_are	1
 who_will	1
-,_.
-,_.	1
+VBG_DT
+comparing_the	1
+reading_the	1
+watching_any	1
 NN_MD
 polynesia_may	1
 DT_VB
 a_knock	1
-IN_,
-for_,	1
 RB_IN
 now_as	1
 So_with	1
-VBG_IN
-knowing_that	1
-looking_for	1
-,_RB
-,_then	2
-,_sadly	1
-VBZ_NN
-gets_revenge	1
+RBR_VBN
+more_entertained	1
+VBP_PRP
+love_them	1
+hope_you	1
 DT_CD
 the_four	1
 a_four	2
@@ -211,6 +194,7 @@ so_wish	1
 n't_want	1
 likely_appreciate	1
 not_save	1
+away_avoid	1
 not_help	1
 then_give	1
 PRP_.
@@ -218,19 +202,13 @@ it_.	1
 them_.	1
 :_NN
 -_Killer	1
-PRP_,
-it_,	2
 IN_PRP$
 into_my	1
 of_your	1
 if_my	1
 of_her	1
-IN_JJ
-as_popular	1
-with_limited	1
-with_average	1
-NNP_,
-Shots_,	1
+PRP_VB
+it_remember	1
 CC_VBZ
 and_gets	1
 NN_WRB
@@ -254,9 +232,6 @@ live_in	1
 feel_as	1
 VBZ_WP
 is_what	1
-JJ_,
-creative_,	1
-brutal_,	1
 JJ_.
 comical_.	1
 redeeming_.	1
@@ -275,9 +250,8 @@ masterpieces_.	1
 50s_.	1
 actors_.	1
 flicks_.	1
-NNS_,
-flicks_,	1
-expectations_,	1
+VBP_WRB
+want_when	1
 RBR_RB
 more_likely	1
 VBD_TO
@@ -299,15 +273,11 @@ personal_expectations	1
 cinematic_masterpieces	1
 average_actors	1
 independent_films	1
-VBP_.
-want_.	1
-JJ_JJ
-absolute_favorite	1
+VBZ_IN
+is_by	1
+centers_around	1
 IN_WP
 for_what	1
-,_CC
-,_and	4
-,_but	2
 VB_NN
 have_something	1
 tell_somebody	1
@@ -320,34 +290,37 @@ PRP_VBZ
 me_is	1
 itself_is	1
 it_is	1
+NN_NNP
+Pad_Tequila	1
 RB_DT
 not_a	1
+Truthfully_this	1
 VBG_PRP
 watching_it	1
 hoping_it	1
+VBG_IN
+knowing_that	1
+looking_for	1
 IN_IN
 out_of	1
 as_if	1
 VBP_TO
 hesitate_to	1
-VBG_JJ
-being_generous	1
 PRP$_NNS
 my_expectations	1
 your_socks	1
-,_WRB
-,_when	1
 CC_NN
 and_trailer	1
 but_laugh	1
 and_talent	1
-,_PRP$
-,_my	1
+NN_PRP
+predisposition_I	1
 VB_PRP$
 admit_my	1
 knock_your	1
 IN_RB
 If_decently	1
+for_then	1
 by_far	1
 VBG_TO
 hoping_to	1
@@ -375,20 +348,15 @@ it_would	1
 I_could	1
 RB_RBR
 definitely_more	1
-,_DT
-,_this	2
+IN_CC
+in_and	1
 VBP_VBN
 have_wasted	1
 are_considered	1
-NN_CC
-review_but	1
-budget_and	1
-movie_and	1
-featurette_and	1
-VB_,
-Remember_,	1
-Avoid_,	1
-remember_,	1
+NNP_VBZ
+Hawaii_is	1
+NNS_VBD
+expectations_were	1
 VB_.
 be_.	1
 CC_VB
@@ -400,8 +368,8 @@ wasted_.	1
 entertained_.	1
 JJ_TO
 enough_to	2
-NNS_VBD
-expectations_were	1
+VBZ_NN
+gets_revenge	1
 EX_VBZ
 there_is	1
 There_is	1
@@ -429,8 +397,10 @@ p_production	1
 dvd_player	1
 doll_manifestation	1
 budget_picture	1
-,_WDT
-,_which	1
+case_polynesia	1
+NN_FW
+acting_blah	1
+End_etc.	1
 VBP_VBG
 like_giving	1
 am_being	1
@@ -445,10 +415,6 @@ DT_NNP
 a_Tiki	1
 NN_SYM
 c_**	1
-,_JJ
-,_terrible	1
-,_personal	1
-,_creative	1
 DT_JJ
 a_widescreen	1
 a_tremendous	1
@@ -465,6 +431,7 @@ wanted_this	1
 NN_:
 point_-	1
 NNS_CC
+expectations_and	1
 snobs_and	1
 extras_or	1
 methods_and	1
@@ -472,29 +439,20 @@ VBD_VBG
 was_hoping	1
 PRP_DT
 it_a	1
-NN_,
-surprise_,	1
-Pad_,	1
-predisposition_,	1
-player_,	1
-acting_,	1
-place_,	1
-case_,	1
-mainstream_,	1
-End_,	1
-picture_,	1
-i.e_,	1
-quality_,	1
-budget_,	1
+IN_JJ
+as_popular	1
+with_limited	1
+with_average	1
 NN_.
 thing_.	1
 trailer_.	1
 line_.	1
+life_.	1
 theme_.	1
 viewing_.	1
 presentation_.	1
-life_.	1
 appreciation_.	1
+i.e_.	1
 esp_.	1
 value_.	1
 shot_.	1
@@ -541,8 +499,14 @@ spoilers_in	1
 minutes_of	1
 socks_off	1
 films_with	1
-NNP_VBZ
-Hawaii_is	1
+NN_CC
+mainstream_but	1
+featurette_and	1
+surprise_but	1
+place_and	1
+budget_and	1
+movie_and	1
+review_but	1
 WDT_VBP
 that_are	1
 TO_VB
@@ -568,9 +532,6 @@ plot_does	1
 stupidity_is	1
 fact_is	1
 review_causes	1
-,_VB
-,_remember	1
-,_avoid	1
 VBP_VB
 go_tell	1
 RB_RB
@@ -579,7 +540,7 @@ so_desperately	1
 VBD_IN
 were_in	1
 PRP_CC
-it_and	1
+it_and	2
 SYM_NN
 **_p	1
 NNP_VBN
@@ -595,14 +556,15 @@ different_from	1
 okay_with	1
 generous_with	1
 tired_of	1
-DT_,
-this_,	1
 NNS_NN
+flicks_i.e	1
 clubs_esp	1
 NN_JJ
+budget_personal	1
+star_independent	1
 star_big	1
 something_redeeming	1
-star_independent	1
+quality_terrible	1
 VBZ_DT
 is_a	6
 CD_NN
@@ -610,11 +572,12 @@ four_star	3
 NNP_NNP
 Tequila_Body	1
 Body_Shots	1
+Shots_Hallow	1
 Enticing_Story	1
 VBG_RB
 expecting_much	1
-RBR_VBN
-more_entertained	1
+NN_PRP$
+player_my	1
 DT_WDT
 those_that	1
 RB_JJ
@@ -625,11 +588,12 @@ sometimes_comical	1
 VBP_RBR
 will_more	1
 VB_PRP
-watch_it	1
-give_it	1
-appreciate_it	1
 scare_you	1
+give_it	1
+watch_it	1
 hate_it	1
+appreciate_it	1
+Remember_it	1
 RB_VBP
 typically_dig	1
 otherwise_hesitate	1
@@ -658,14 +622,13 @@ FW_IN
 etc._In	1
 VBZ_PRP
 causes_you	1
-,_NNP
-,_Hallow	1
-,_Tequila	1
+VB_RB
+Avoid_sadly	1
 VBD_NN
 had_fun	1
-VBZ_IN
-is_by	1
-centers_around	1
+JJ_JJ
+brutal_creative	1
+absolute_favorite	1
 DT_TO
 This_to	1
 this_to	1

@@ -10,42 +10,43 @@ of_date	1
 in_meeting	1
 of_paper	1
 of_place	1
-,_IN
-,_like	1
-,_while	1
 POS_NNS
 '_stars	1
-NNS_WP
-co-workers_who	1
+VBN_CD
+met_one	1
 NNS_WRB
 eyes_when	1
 settings_where	1
+similarities_why	1
 CD_WRB
 5_Why	1
 one_where	1
 8_Why	1
 2005_when	1
-``_JJ
-``_INDIE	1
-``_Fast	1
-``_hot	1
-WRB_TO
-how_to	1
+VB_WP
+know_what	1
 NNP_IN
 Bridges_at	1
+Issues_that	1
+DT_NNS
+the_guys	4
+some_women	1
+The_conversations	1
+the_characters	1
+The_politics	1
+The_guys	1
+the_ones	1
+the_females	1
 VBG_CC
 knowing_or	1
-DT_VBD
-that_was	1
 CC_JJ
 and_clear	1
 &_Furious	1
 and_social	1
 VBG_CD
 playing_two	1
-DT_``
-a_``	1
-the_``	2
+VBN_VBZ
+released_calls	1
 MD_RB
 could_not	1
 can_only	1
@@ -71,11 +72,15 @@ when_the	1
 where_the	1
 when_an	1
 IN_NNP
-by_Nema	1
+like_Stomp	1
 for_Laz	1
-that_Laz	1
-between_Royce	1
 with_Tia	1
+by_Nema	1
+between_Royce	1
+that_Laz	1
+in_Daddy	1
+NNS_WP
+co-workers_who	1
 IN_VBG
 of_avoiding	1
 than_acting	1
@@ -92,19 +97,6 @@ alike_?	1
 n't_.	1
 once_?	1
 too_.	1
-VBP_,
-talk_,	1
-do_,	1
-cringe_,	1
-IN_``
-on_``	1
-like_``	1
-in_``	1
-,_PRP
-,_it	3
-,_I	4
-,_you	1
-,_they	1
 VBZ_JJ
 is_rare	1
 is_proud	1
@@ -141,17 +133,14 @@ related_?	1
 done_.	1
 VBG_.
 going_.	1
-VBN_,
-executed_,	1
-laid_,	1
-VBG_,
-sharing_,	1
+IN_JJS
+at_least	1
 JJ_CC
+funny_but	1
+up-to-date_but	1
 Fast_&	1
 good_and	1
-,_JJ
-,_vaginal	1
-,_lazy	1
+like_but	1
 WP_DT
 what_a	1
 what_the	1
@@ -163,24 +152,18 @@ CD_.
 2005_.	1
 ONE_.	1
 one_.	1
-VB_WP
-know_what	1
+RP_PRP
+up_I	1
 JJ_RB
 little_too	1
+bad_too	1
 PRP$_JJ
 his_own	1
 my_entire	1
 your_sexual	1
 her_own	1
-,_``
-,_``	1
-VB_VBN
-'ve_found	1
-be_bored	1
-get_laid	1
-'ve_been	2
-RB_CC
-back_and	1
+WRB_VBD
+Why_was	1
 VBD_WRB
 saw_where	1
 IN_PRP
@@ -202,28 +185,23 @@ because_he	1
 like_she	1
 for_them	1
 before_you	1
-VB_TO
-listen_to	1
-have_to	2
-Listen_to	1
-want_to	1
-''_,
-''_,	1
+VBN_CC
+laid_and	1
+written_and	1
+VBN_RB
+walked_around	1
 NNS_VB
 characters_look	1
-VBN_CD
-met_one	1
-,_NN
-,_hell	1
-,_sex	1
+NNS_WDT
+shows_which	1
+WRB_TO
+how_to	1
 RB_POS
 Here_'s	1
 POS_NN
 '_father	1
 's_character	1
 '_dialogue	1
-WP_PRP
-who_I	1
 RB_JJR
 n't_more	1
 much_better	1
@@ -262,12 +240,11 @@ you_going	1
 him_setting	1
 NNP_NN
 OWN_film	1
+Keys_joke	1
 VBZ_RB
 is_not	1
 does_n't	4
 goes_down	1
-JJR_NNS
-more_scenes	1
 DT_NN
 The_picture	1
 The_camera	1
@@ -315,6 +292,7 @@ the_camera	1
 the_sink	2
 a_world	1
 an_accident	1
+a_jezebel	1
 these_type	1
 this_help	1
 the_dialogue	3
@@ -332,10 +310,16 @@ some_do	1
 RP_.
 out_.	2
 up_.	1
-RP_,
-up_,	1
-``_NNS
-`_Issues	1
+UH_PRP
+Hey_I	1
+Yeah_it	1
+CC_RB
+and_just	1
+but_even	1
+and_forth	1
+and_not	1
+and_only	1
+and_then	1
 RB_VBP
 not_acknowledge	1
 actually_prefer	1
@@ -360,8 +344,6 @@ they_talk	1
 they_'re	3
 I_think	3
 I_wish	1
-RB_,
-there_,	1
 RB_DT
 even_the	1
 actually_a	1
@@ -388,19 +370,20 @@ it_'s	2
 she_teaches	1
 them_is	1
 it_sounds	1
-``_UH
-``_Hey	1
+CD_DT
+7_The	1
+6_The	1
 NNP_CC
-Tamera_and	1
-Alonso_and	1
+Show_but	1
 Royce_and	1
+Tamera_and	1
+Christmas_and	1
 Tia_and	1
-VBN_VBZ
-released_calls	1
-,_''
-,_''	2
-IN_,
-in_,	1
+Alonso_and	1
+JJS_NNP
+least_SOME	1
+TO_.
+to_.	1
 VBD_JJR
 had_more	1
 RBR_IN
@@ -420,19 +403,21 @@ shifting_from	1
 writing_about	1
 RB_:
 hard_--	1
-,_RB
-,_not	1
-,_too	1
-,_perhaps	1
-,_even	1
-,_rather	1
-,_especially	1
-:_WP
---_who	1
+DT_VBZ
+That_'s	2
+this_is	2
+VBP_PRP
+call_them	1
+make_it	1
+think_it	1
+Are_you	1
+know_they	1
 DT_CD
 this_one	2
 the_two	3
 all_three	1
+DT_CC
+this_but	1
 CC_PRP
 but_it	1
 and_she	1
@@ -472,28 +457,32 @@ of_my	1
 of_their	2
 in_my	1
 in_their	1
-NNS_''
-Girls_''	1
+VBD_NNS
+left_douches	1
 JJR_NN
 more_feeling	1
+RB_JJ
+clearly_up-to-date	1
+so_lame	1
+just_plain	1
+n't_convincing	1
+so_weird	1
+really_good	2
+too_hard	1
+really_disappointed	1
+so_bad	1
+too_raw	1
+pretty_good	1
+very_amateur	1
+incredibly_odd	1
 PRP_VB
 him_look	1
 them_talk	1
 me_check	1
-,_WP
-,_who	1
-IN_JJ
-than_decent	1
-for_dysfunctional	1
-of_funny	1
-than_few	1
-NNP_,
-Watkins_,	1
-Williams_,	1
-Yard_,	1
-CD_DT
-7_The	1
-6_The	1
+VBN_PRP
+executed_it	1
+NN_VB
+love_get	1
 CC_VBZ
 and_pays	1
 NN_WRB
@@ -511,17 +500,14 @@ my_head	1
 HIS_movie	1
 his_character	1
 his_girlfriend	1
-``_NNP
-``_Issues	1
-``_Alicia	1
-``_This	1
-``_Stomp	1
-``_Daddy	1
+DT_VBD
+that_was	1
 NNP_PRP
 Plus_it	1
 CC_VBD
 and_started	1
 CC_VBG
+and_Jumping	1
 and_saying	1
 or_destroying	1
 or_finding	1
@@ -533,22 +519,17 @@ VBG_NN
 surrounding_cast	1
 finding_love	1
 DT_NNP
+the_Alicia	1
 the_Yard	1
 The_Wendy	1
 RB_CD
 Not_one	1
 even_ONE	1
 JJ_VBG
+other_dealing	1
 odd_saying	1
-``_VBP
-``_Are	1
-JJ_,
-Furious_,	1
-bad_,	2
-funny_,	1
-up-to-date_,	1
-other_,	1
-like_,	1
+JJ_PRP
+bad_it	1
 JJ_.
 likely_!	1
 believable_.	1
@@ -585,9 +566,11 @@ NN_DT
 woman_a	1
 film_the	1
 movie_a	1
-,_VBG
-,_playing	1
-,_dealing	1
+VB_VBN
+'ve_found	1
+be_bored	1
+get_laid	1
+'ve_been	2
 VBN_IN
 bored_with	1
 heard_of	1
@@ -605,25 +588,12 @@ relationships_.	1
 laughs_!	1
 minutes_.	1
 aspirations_.	1
+Girls_?	1
 jobs_.	1
 cameras_.	1
 pants_.	1
 backs_.	1
 expenses_.	1
-NNS_,
-twins_,	1
-drugs_,	1
-douches_,	1
-bs_,	1
-relationships_,	1
-relatives_,	1
-dealers_,	1
-lives_,	1
-similarities_,	1
-guys_,	1
-shows_,	1
-friends_,	1
-men_,	1
 TO_DT
 to_the	3
 to_a	1
@@ -638,8 +608,10 @@ was_like	1
 had_decent	1
 was_good	1
 was_interesting	1
-VBN_RB
-walked_around	1
+:_WP
+--_who	1
+VBD_RP
+came_off	1
 PRP_WP
 him_who	1
 NNS_:
@@ -649,8 +621,6 @@ WRB_RB
 why_not	1
 WRB_:
 why_:	1
-TO_.
-to_.	1
 POS_WRB
 's_why	1
 JJ_NNS
@@ -679,6 +649,7 @@ main_female	2
 clear_physical	1
 JJ_NNP
 Light-skinned_Eric	1
+Furious_This	1
 CD_IN
 three_at	1
 one_of	4
@@ -687,27 +658,15 @@ PRP$_VBG
 his_surrounding	1
 JJR_IN
 more_than	1
-IN_JJS
-at_least	1
-''_CC
-''_and	1
 VB_NNS
 appreciate_women	1
 be_cousins	1
-,_CC
-,_and	7
-,_or	1
-,_but	9
 VB_NN
 make_space	1
 find_love	1
-VB_PRP
-Let_me	1
-do_it	1
-Thank_you	1
-say_they	1
-check_it	1
-sum_it	1
+VB_NNP
+know_Laz	1
+Remember_Gary	1
 NN_NNS
 reality_shows	1
 life_friends	1
@@ -717,16 +676,15 @@ room_mates	1
 camcorder_movies	1
 NNS_NNP
 stars_Laz	1
-VBZ_JJR
-is_more	1
+NNS_NNS
+women_hos	1
+friends_relatives	1
+men_women	1
+movies_people	1
 VBD_WDT
 was_THAT	1
-``_VBG
-``_Jumping	1
 NNP_PRP$
 Lost_Her	1
-:_``
-:_``	1
 NN_WP
 type_who	1
 mate_who	1
@@ -737,6 +695,9 @@ That_just	1
 a_much	1
 a_very	1
 a_really	1
+NNP_POS
+Alonso_'s	1
+Daddy_'s	1
 PRP$_NNS
 her_pants	1
 my_eyes	1
@@ -755,21 +716,27 @@ and_nobody	1
 or_something	1
 :_LS
 :_1	1
-VBD_RP
-came_off	1
+VBG_NNS
+paying_bills	1
+dealing_drugs	1
 NN_PRP
 dwelling_they	1
 stress_they	1
-film_it	2
-lesson_she	1
-way_they	1
 time_I	1
+lesson_she	1
+movie_you	1
+way_they	1
+budget_I	1
+film_it	2
+movie_I	1
 VB_PRP$
 relieve_your	1
 wrap_my	1
 plug_his	1
 pay_their	1
 believe_my	1
+NNP_WP
+Williams_who	1
 IN_RB
 in_really	1
 out_there	1
@@ -790,12 +757,9 @@ trying_to	1
 fumbling_to	1
 going_to	1
 learning_to	1
-VBP_PRP
-call_them	1
-make_it	1
-think_it	1
-Are_you	1
-know_they	1
+RB_CC
+there_but	1
+back_and	1
 DT_MD
 Some_might	1
 MD_VB
@@ -823,18 +787,13 @@ people_call	1
 people_purchase	1
 guys_see	1
 movies_read	1
-NNP_JJ
-SOME_good	1
+VBP_VBZ
+think_is	1
 TO_PRP
 to_them	1
 to_her	1
-CC_RB
-and_just	1
-but_even	1
-and_forth	1
-and_not	1
-and_only	1
-and_then	1
+WP_RB
+who_constantly	1
 IN_CD
 with_two	1
 in_2005	2
@@ -850,8 +809,6 @@ alleviating_the	1
 killing_each	1
 playing_a	1
 robbing_any	1
-VBN_``
-called_``	1
 CC_RBR
 and_better	1
 PRP_MD
@@ -867,9 +824,8 @@ much_more	1
 Even_less	1
 WRB_NNS
 where_characters	1
-,_DT
-,_some	1
-,_the	1
+RB_PRP
+Maybe_he	1
 VBP_VBN
 've_enjoyed	1
 're_related	1
@@ -907,28 +863,22 @@ are_sharing	1
 'm_guessing	1
 're_keeping	1
 're_looking	1
-POS_JJ
-'s_Little	1
 IN_.
 that_?	1
-VB_,
-act_,	1
 JJ_TO
 possible_to	1
 nice_to	1
 interesting_to	1
 VBZ_NN
 is_home	1
-UH_,
-Yeah_,	1
-Hey_,	1
-RP_IN
-up_with	1
+VBN_NNP
+called_Issues	1
 EX_VBP
 There_are	1
 VBP_DT
 purchase_this	1
 prefer_the	1
+do_some	1
 see_the	1
 wish_the	1
 know_this	1
@@ -938,13 +888,10 @@ talk_.	1
 believe_.	1
 VB_CC
 love_and	1
-NN_''
-jezebel_''	1
-director_''	1
-Broom_''	1
 NN_NN
 quality_film	1
 car_scene	1
+I-don_t-want-to-work	1
 n-word_NONSTOP	1
 clock_ticking	1
 medicine_cabinet	1
@@ -953,23 +900,15 @@ sex_scene	2
 room_mate	1
 picture_quality	1
 video_store	1
+love_sex	1
 home_movie	1
 RP_RB
 off_so	1
 NNS_POS
 Issues_'	1
 guys_'	2
-VBP_VBZ
-think_is	1
-DT_NNS
-the_guys	4
-some_women	1
-The_conversations	1
-the_characters	1
-The_politics	1
-The_guys	1
-the_ones	1
-the_females	1
+NNS_RB
+lives_rather	1
 IN_NNS
 that_people	1
 about_women	1
@@ -990,19 +929,10 @@ meeting_one	1
 EX_VBD
 there_were	1
 There_were	1
-''_IN
-''_that	1
-''_so	1
-''_of	1
 :_EX
 :_There	1
-DT_VBZ
-That_'s	2
-this_is	2
 VB_WRB
 care_how	1
-''_.
-''_?	2
 DT_JJ
 the_oral	1
 The_stuck-up	1
@@ -1023,7 +953,7 @@ the_entire	1
 Another_amateur	1
 an_old	1
 a_little	1
-the_clear	1
+these_black	1
 the_local	1
 an_uncensored	1
 the_shady	1
@@ -1031,7 +961,8 @@ the_main	2
 the_whole	1
 some_good	1
 a_good	1
-these_black	1
+the_hot	1
+the_clear	1
 a_pleasant	1
 a_new	1
 a_fine	1
@@ -1058,14 +989,14 @@ bills_and	1
 friends_and	1
 men_versus	1
 wipes_or	1
-women_and	1
+bs_and	1
 hos_and	1
 cousins_or	1
+guys_and	1
 politics_and	1
+drugs_or	1
 times_and	1
-._''
-?_''	1
-._''	2
+women_and	1
 VBD_PRP
 started_it	1
 did_we	1
@@ -1075,34 +1006,23 @@ made_him	1
 cracked_me	1
 liked_it	1
 made_me	1
-VBD_VBG
-was_going	1
-was_paying	1
-was_having	1
-was_reading	1
-was_writing	1
+NNP_JJ
+SOME_good	1
+Yard_Fast	1
 LS_DT
 3_The	1
 2_The	2
-,_WRB
-,_why	1
-NN_,
-film_,	2
-table_,	1
-hell_,	1
-love_,	2
-community_,	1
-movie_,	3
-accident_,	1
-budget_,	1
-``_NN
-`_t-want-to-work	1
-``_jezebel	1
+IN_JJ
+than_decent	1
+for_dysfunctional	1
+of_funny	1
+than_few	1
 NN_.
 ticking_.	1
 roommate_?	1
 stiff_?	1
 joke_.	1
+jezebel_?	1
 film_.	3
 comedy_.	1
 paper_.	1
@@ -1121,15 +1041,12 @@ sink_.	1
 actor_.	1
 move_.	1
 movie_.	2
-''_``
-''_``	2
-VBD_NNS
-left_douches	1
 NN_IN
 idea_of	1
 camera_because	1
 lot_of	2
 end_because	1
+director_of	1
 light_of	1
 mortgage_on	1
 film_because	1
@@ -1141,6 +1058,7 @@ scene_with	1
 day_about	1
 piece_of	1
 acting_of	1
+Broom_so	1
 couple_of	1
 dialogue_for	1
 type_of	1
@@ -1166,8 +1084,8 @@ love_in	1
 scene_between	1
 NNP_RB
 Alonso_personally	1
-NNP_VBG
-Sturgis_playing	1
+JJR_NNS
+more_scenes	1
 WDT_VBZ
 that_does	1
 VBP_IN
@@ -1190,26 +1108,34 @@ films_out	1
 scenes_like	1
 guys_in	1
 profiles_of	1
+relationships_while	1
 s_on	1
 matters_in	1
 pantiliners_on	1
-VBN_CC
-written_and	1
 NNS_PRP
 ones_he	1
+twins_they	1
 movies_I	1
 NN_CC
 store_and	1
-film_and	1
+film_and	2
+table_and	1
 actor_but	1
-woman_and	1
-sink_or	1
 house_and	1
+film_but	1
+sink_or	1
+accident_and	1
+woman_and	1
 tripod_and	1
 sex_and	1
+community_but	1
 rescue_and	1
+VBP_CC
+cringe_but	1
+talk_and	1
 VB_JJ
 look_bad	1
+scream_INDIE	1
 see_side	1
 portray_black	1
 be_wrong	1
@@ -1235,8 +1161,6 @@ NN_VBG
 nobody_robbing	1
 camera_shifting	1
 place_considering	1
-NN_``
-I-don_`	1
 NN_VBD
 character_was	1
 dvd_was	1
@@ -1253,8 +1177,8 @@ film_were	1
 cast_was	1
 boyfriend_was	1
 world_did	1
-VBD_,
-figured_,	1
+WP_PRP
+who_I	1
 NN_VBZ
 fear_is	1
 love_is	1
@@ -1268,13 +1192,15 @@ roommate_is	1
 cinematography_is	1
 VBD_.
 was_.	1
-,_VB
-,_get	1
-''_NN
-''_joke	1
-VBG_NNS
-paying_bills	1
-dealing_drugs	1
+VBD_VBG
+was_going	1
+was_paying	1
+was_having	1
+was_reading	1
+was_writing	1
+NNP_VBG
+Watkins_playing	1
+Sturgis_playing	1
 RB_RB
 actually_really	1
 not_just	1
@@ -1295,23 +1221,19 @@ sounded_like	1
 did_like	1
 was_out	1
 said_on	1
-JJS_NNP
-least_SOME	1
-RB_PRP
-Maybe_he	1
 NN_VBP
 daddy_make	1
 NNP_VBN
 Eric_played	1
-``_DT
-``_The	1
 PRP_CD
 it_three	1
-NNP_POS
-Alonso_'s	1
-Daddy_'s	1
+VBG_RB
+sharing_perhaps	1
 WRB_JJ
 how_much	1
+NN_RB
+movie_especially	1
+hell_even	1
 PRP_RB
 I_actually	2
 it_alot	1
@@ -1320,14 +1242,13 @@ I_recently	1
 you_constantly	1
 He_just	1
 they_just	1
-DT_,
-this_,	1
-all_,	1
 DT_.
 that_.	2
-VB_NNP
-know_Laz	1
-Remember_Gary	1
+NNS_NN
+relatives_hell	1
+NNS_JJ
+dealers_lazy	1
+douches_vaginal	1
 NN_JJ
 male_prospective	1
 barbershop_real	1
@@ -1367,44 +1288,35 @@ just_does	1
 constantly_calls	1
 RBR_VBN
 better_executed	1
-NNS_NNS
-women_hos	1
-movies_people	1
-RB_JJ
-clearly_up-to-date	1
-so_lame	1
-just_plain	1
-n't_convincing	1
-so_weird	1
-really_good	2
-too_hard	1
-really_disappointed	1
-so_bad	1
-too_raw	1
-pretty_good	1
-very_amateur	1
-incredibly_odd	1
+VBZ_JJR
+is_more	1
+VBD_UH
+figured_Hey	1
 VBP_RBR
 are_more	1
-CC_``
-and_``	1
+VB_PRP
+Let_me	1
+do_it	1
+Thank_you	1
+say_they	1
+check_it	1
+sum_it	1
 IN_IN
 out_of	2
+in_like	1
 that_unless	1
 WRB_IN
 Why_in	1
 VBZ_VBN
 is_replaced	1
-WRB_VBD
-Why_was	1
 CC_PRP$
 and_his	1
 but_his	1
 VB_RP
 find_out	1
 give_up	1
-VB_``
-scream_``	1
+DT_DT
+all_the	1
 JJR_.
 better_.	1
 RB_VBN
@@ -1438,23 +1350,27 @@ only_watched	1
 really_liked	1
 FW_IN
 i_like	1
-VB_RB
-'ve_just	1
-try_so	1
-look_alike	1
+RP_IN
+up_with	1
 LS_JJ
 1_Light-skinned	1
 VBZ_PRP
 teaches_them	1
 amuses_me	1
 does_it	1
-WP_RB
-who_constantly	1
+VB_TO
+listen_to	1
+have_to	2
+Listen_to	1
+want_to	1
 VBN_TO
 supposed_to	1
 got_to	1
-,_WDT
-,_which	1
+VB_RB
+'ve_just	1
+try_so	1
+act_not	1
+look_alike	1
 CC_MD
 and_could	1
 CC_NNP
@@ -1467,9 +1383,6 @@ and_relationships	1
 versus_women	1
 and_bs	1
 or_pantiliners	1
-,_NNS
-,_women	1
-,_relatives	1
 WP_IN
 who_in	1
 VBZ_IN
@@ -1478,11 +1391,10 @@ looks_like	1
 's_like	1
 does_that	2
 sounds_like	1
-NNP_''
-Issues_''	1
-Christmas_''	1
-Keys_''	1
-Show_''	1
+:_VBP
+:_Are	1
+POS_JJ
+'s_Little	1
 WRB_NN
 where_love	1
 WRB_PRP
@@ -1531,6 +1443,7 @@ than_all	1
 for_the	1
 that_the	1
 like_that	3
+on_The	1
 of_a	2
 JJ_NN
 low_budget	1

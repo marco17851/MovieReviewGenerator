@@ -1,4 +1,5 @@
 IN_NN
+in_Revenge	1
 of_box	1
 of_course	4
 for_example	1
@@ -46,10 +47,13 @@ that_Lom	1
 on_behalf	1
 NNP_VB
 Soviet_spook	1
+Down_Come	1
 Lom_play	1
 Dreyfus_descend	1
 VBN_VBD
 seen_was	1
+NNS_PRP$
+trousers_his	1
 VBG_VBD
 having_failed	1
 PRP$_IN
@@ -73,20 +77,6 @@ single-handedly_to	1
 ever_to	1
 further_to	1
 not_to	1
-VBP_,
-have_,	1
-do_,	1
-work_,	1
-want_,	1
-IN_``
-as_``	1
-of_``	1
-in_``	4
-with_``	1
-OF_``	1
-between_``	1
-after_``	1
-through_``	1
 VBP_.
 do_?	1
 swann_.	1
@@ -98,6 +88,8 @@ have_2	1
 VBG_VBN
 being_driven	1
 being_pursued	1
+VBP_CC
+work_and	1
 VBP_JJR
 owe_more	1
 VBP_:
@@ -106,18 +98,19 @@ VBN_.
 merited_.	1
 confused_.	1
 made_.	2
-VBN_,
-parodied_,	1
-devised_,	1
 VB_JJR
 buy_more	1
 be_more	1
 WDT_MD
 that_should	1
 FW_DT
+etc._The	1
 mehrdar_THE	1
+pic_THE	1
 series-from_The	1
+al_this	1
 VBN_CC
+devised_but	1
 averted_or	1
 VBZ_CD
 's_one	1
@@ -125,11 +118,15 @@ showcases_one	1
 is_one	5
 has_ten	1
 VBZ_CC
+is_and	1
+kicks_and	1
 works_but	1
 fails_and	1
 contains_both	1
 NNS_WDT
+films_which	1
 ones_that	1
+sequences_which	1
 DT_FW
 THE_DARK	1
 A_ASPALEET	1
@@ -148,9 +145,6 @@ who_wrote	1
 who_played	1
 RP_.
 out_.	1
-RP_,
-up_,	1
-off_,	1
 VBN_JJ
 left_unsmashed	1
 become_synonymous	1
@@ -175,21 +169,29 @@ who_gives	1
 what_is	2
 who_leads	1
 NNP_CC
-Clouseau_and	3
-McRoberts_and	1
-Margo_and	1
 LIFE_&	1
 Kato_and	1
-Vernon_and	1
-Clousseau_and	1
-Dreyfus_and	1
 Cato_and	1
-Ford_and	1
+Inspector_but	1
+Dreyfus_and	1
+CIA_and	1
+Kong_and	1
 Edwards_and	2
+Betsey_and	1
+McRoberts_and	1
+Margo_and	1
+Clouseau_and	4
+Clousseau_and	1
+KONG_and	1
+Christian_and	1
 Clouseau_but	1
 Sellers_and	1
-Bond_or	1
 Laurel_and	1
+Chateau_and	1
+Vernon_and	1
+Ford_and	1
+Steinway_and	1
+Bond_or	1
 NNP_CD
 Sellers_1925-1980	1
 WP_MD
@@ -220,6 +222,7 @@ invisible_.	1
 inevitable_.	1
 funny_.	1
 onscreen_.	1
+good_.	1
 innovative_.	1
 :_JJS
 --_funniest	1
@@ -259,19 +262,16 @@ in_his	7
 with_his	1
 that_my	1
 for_his	1
-NNS_''
-cuts_''	1
-``_VBG
-``_helping	1
 NN_VB
+way_give	1
+apartment_rumble	1
+dog_bite	3
 world_send	1
 fan_see	1
-apartment_rumble	1
 comedy_get	1
-dog_bite	3
-TO_CD
-to_one	1
-to_1	1
+song_Come	1
+singing_Come	1
+scientist_build	1
 VBD_PDT
 wrote_all	1
 IN_WDT
@@ -292,6 +292,7 @@ his_X-ray	1
 my_friend	1
 my_neighborhood	1
 his_dog	1
+his_interrogation	1
 his_voice	2
 my_opinion	1
 your_collection	2
@@ -313,9 +314,6 @@ his_thing	1
 your_name	1
 your_doig	1
 his_response	1
-``_VBZ
-``_Strikes	1
-``_Does	1
 VB_IN
 embody_that	1
 touch_on	1
@@ -340,8 +338,6 @@ JJ_PRP
 different_it	1
 silly_he	1
 priceless_I	1
-,_''
-,_''	6
 VBD_RB
 was_not	1
 fell_once	1
@@ -363,23 +359,38 @@ heard_before	1
 was_originally	1
 was_probably	1
 NN_DT
-laugh_every	1
-foot_all	1
 saw_this	1
-process_every	1
-apartment_the	1
-happenstance_a	1
-flashback_this	1
-actor_the	1
-laugh_the	1
+diamond_the	1
 scene_the	1
-performance_this	1
-scene-to_the	1
-gag_the	1
-home_this	1
-doubt_the	1
+series_the	1
+happenstance_a	1
+laugh_the	1
+ending_THE	1
+version_no	1
+movie_no	1
 grace_the	1
 dignity_no	1
+opinion_the	1
+farce_A	1
+flashback_this	1
+process_every	1
+apartment_the	1
+gag_the	1
+home_this	1
+foot_all	1
+world_a	1
+actor_the	1
+predecessor_The	1
+movie_this	1
+script_the	1
+doubt_the	1
+series_A	1
+laugh_every	1
+series_The	1
+step_the	1
+collection_this	1
+performance_this	1
+scene-to_the	1
 TV_both	1
 VBN_JJR
 gotten_worse	1
@@ -389,8 +400,9 @@ which_still	1
 TO_DT
 to_the	13
 to_a	2
-``_EX
-``_There	1
+NN_CD
+assassin_One	1
+riot_one	1
 VBD_RP
 came_out	1
 bowled_over	1
@@ -416,12 +428,11 @@ eliminate_Clouseau	1
 stop_Dreyfus	1
 NNS_NNP
 mistakes_Clouseau	2
+PRP_WP
+himself_who	1
 JJS_JJ
 greatest_comic	2
 best_classical	1
-POS_JJS
-'s_juiciest	1
-'s_greatest	1
 CC_IN
 and_that	2
 and_during	1
@@ -451,16 +462,15 @@ his_feet	1
 his_eyes	1
 its_drifts	1
 RB_NNP
+especially_Kato	1
+later_Clouseau	2
+even_James	1
+Obviously_Mr.	1
 even_Mike	1
 not_Clouseau	1
-especially_Kato	1
-later_Clouseau	1
-even_James	1
+later_CHIFF	1
 WDT_NN
 which_proof	1
-,_PRP$
-,_his	1
-,_their	1
 IN_RB
 that_even	1
 over_again	1
@@ -493,10 +503,11 @@ adding_to	1
 lying_to	1
 threatening_to	1
 VBP_PRP
-watch_it	1
-believe_you	1
 like_it	1
+have_it	1
+believe_you	1
 Are_you	1
+watch_it	1
 Are_You	1
 CD_VBN
 five_followed	1
@@ -504,6 +515,7 @@ VB_:
 NOTE_:	1
 CD_VBD
 thirteen_sat	1
+1925-1980_died	1
 CC_NN
 AND_THEY	1
 and_score	1
@@ -522,8 +534,8 @@ and_director	1
 and_pratfall-prone	1
 and_subtitle	1
 and_Lom	2
-VB_,
-disguise_,	1
+CD_VBZ
+1976_Strikes	1
 VB_.
 watch_.	1
 bite_?	4
@@ -534,8 +546,6 @@ get_.	1
 bite_.	1
 transpire_.	1
 hope_.	1
-VBP_''
-know_''	1
 JJ_TO
 ready_to	2
 easy_to	1
@@ -544,23 +554,20 @@ related_to	1
 nice_to	1
 pleasant_to	1
 great_to	1
-WP_,
-who_,	2
+NNS_JJ
+words_Franz-waa	1
+movies_familiar	1
+films_many	1
+Sellers_ready	1
+lines_such	1
+objects_invisible	1
+scenes_such	1
+times_brilliant	1
 MD_IN
 would_in	1
 WDT_DT
 which_the	1
 THAT_THE	1
-NNP_''
-Life_''	1
-Opera_''	1
-Flint_''	1
-CHIFF_''	1
-Betsey_''	1
-Strangelove_''	1
-Again_''	6
-Room_''	1
-Soup_''	1
 DT_PRP
 all_he	1
 DT_NNS
@@ -634,7 +641,9 @@ than_Inspector	1
 by_Sellars	1
 by_Blake	1
 OF_PETER	1
+in_Phantom	1
 that_Sellars	1
+as_Does	1
 of_Clouseau	5
 between_Clouseau	1
 of_Dreyfus	1
@@ -677,6 +686,7 @@ in_Dr.	1
 like_Sound	1
 Of_Weng	1
 while_Lesley-Ann	1
+in_The	1
 in_New	1
 of_Inspector	2
 as_Clousseau	1
@@ -706,6 +716,7 @@ the_James	1
 The_Magic	1
 the_Former	1
 an_Inspector	1
+this_Hollywood	1
 THE_PINK	6
 The_Pink	10
 the_President	1
@@ -715,12 +726,13 @@ the_Peter	1
 THE_LIFE	1
 the_Ocktoberfest	1
 THE_GYM	1
-the_Pink	9
+the_Pink	11
 the_FBI	1
 VBD_RBR
 mastered_better	1
 WDT_IN
 whatever_in	1
+which_in	1
 :_EX
 ;_there	1
 PRP_NN
@@ -752,12 +764,14 @@ but_what	1
 NNS_CC
 SHOES_AND	1
 movies_and	1
-stars_and	1
+stars_and	2
 extras_and	1
+films_but	1
 bombs_and	1
 details_and	1
 roles_and	2
 scenes_and	1
+times_and	2
 sunglasses_and	1
 scenes_but	1
 eyes_and	1
@@ -766,11 +780,6 @@ gags_and	1
 fans_or	1
 NNS_CD
 films_1964	1
-,_VB
-,_look	1
-,_take	1
-,_build	1
-,_give	1
 JJR_IN
 more_than	1
 better_than	1
@@ -790,49 +799,71 @@ mix_in	1
 NN_CC
 ward_and	1
 timing_and	1
-way_and	1
+violence_&	1
+way_and	2
 friend_and	1
 time_and	2
-performance_but	1
-film_and	1
+focus_but	1
 DARK_and	1
 comedy_but	1
+agent_and	1
 hunchback_and	1
-movie_and	1
+time_but	1
+ball_and	1
+theme_and	1
+movie_and	2
 album_and	1
-target_and	1
+transfer_and	1
+bed_and	1
 mallet_and	1
+story_but	1
+target_and	1
+air_yet	1
+edge_and	1
 villain_and	1
 bag_but	1
-face_and	1
-situation_and	1
 Return_and	1
-voice_and	1
+course_but	1
+face_and	1
+humor_and	1
+plot_but	1
+character_and	2
+situation_and	1
+hospital_and	1
+screen_and	1
+DVD_and	1
+SPHINX_and	1
+performance_but	2
 hand_and	1
 weapon_and	1
-violence_&	1
+helicopter_but	1
 classmate_and	1
 widescreen_and	1
+domain_and	1
 fashion_and	1
+voice_and	1
 PANTHER_and	2
-theme_and	1
+film_and	2
 genius_and	2
 laugh_and	1
 grace_and	1
 work_and	1
-dentist_and	1
+top_but	1
+dentist_and	2
 language_and	1
-SPHINX_and	1
+hospital_or	1
+floor_but	1
 interrogation_and	1
 video_or	1
 school_and	2
-NNP_WDT
-SAY_THAT	1
+dog_and	1
 WDT_PRP
 which_they	1
 which_he	3
 which_it	1
 PRP_CC
+himself_yet	1
+he_or	1
 he_and	1
 JJ_FW
 recent_bio	1
@@ -854,9 +885,11 @@ DT_JJR
 any_better	1
 no_less	1
 NN_JJ
+Panther_alive	1
 humor_unrivalled	1
 dozen_hit-men	1
 surprise_Egyptian	1
+scene_FRENCH	1
 letter_perfect	1
 A_little	1
 page_British	1
@@ -866,22 +899,27 @@ sky_high	1
 none_other	2
 subtitle_related	1
 RB_EX
+Yes_there	1
+Here_there	1
 Then_there	1
 NNP_NNS
 Kato_attacks	1
 Powers_movies	1
 Bond_movies	1
+Flint_mobies	1
 Clouseau_wanders	1
 Simpson_cameos	1
 Sellers_returns	2
 Bond_girls	1
 NNP_NNP
 Dr._Strangelove	2
-Who-The_Daemons	1
+Francois_Colin	1
 Man_Flint	1
 Geoffery_Rush	1
 PETER_SELLERS	1
+Who-The_Daemons	1
 A_SHOT	1
+Tiffany_Jones	1
 Dr._Who-The	2
 My_Life	1
 DR._STRANGELOVE	1
@@ -896,11 +934,14 @@ KING_KONG	1
 Ed_Sikov	1
 Again_</a>	1
 PANTHER_STRIKES	5
+Drummond_Leonard	1
 SELLERS_Geoffery	1
 Deep_Roy	1
+Fassbender_Briony	1
 Olga_Lesley-Anne	1
 Anne-Down_Georgina	1
 REALLY_GOOD	1
+Strangelove_A	1
 Girl_In	1
 Dreyfus_Herbert	4
 STRIKES_AGAIN	6
@@ -925,6 +966,7 @@ New_York	2
 Mother_Superior	1
 K._Smith	1
 Ann_Down	2
+ROOM_BLAKE	1
 Magic_Christian	1
 Burt_Kwouk	1
 Howard_K.	1
@@ -939,8 +981,9 @@ Peter_Sellers/Inspector	1
 AND_LAUGHING	1
 ORIGINAL_Austin	1
 Tom_Jones	2
-Oval_Office	1
+Roy_Dr.	1
 French_Inspector	1
+CHIFF_Inspector	1
 President_Gerald	2
 Clouseau_Peter	1
 Inspector_Jack	1
@@ -960,12 +1003,15 @@ Vernon_Dr.	1
 Jackie_Chan	1
 Hindu_Proverb	1
 ex-Chief_Inspector	1
+Music_Dracula	1
 Dreyfuss_Herbert	1
 I_AM	1
 Henry_Kissinger	1
 Former_Chief	1
+Dreyfus_Clouseau	1
 Austin_Powers	3
 Inspector_Clouseau	8
+Oval_Office	1
 Peter_Sellers	19
 Rossiter_Inspector	1
 Omar_Sharif	1
@@ -991,7 +1037,7 @@ Our_Man	1
 In_My	1
 Lesley_Ann	2
 Steve_Martin	2
-Tiffany_Jones	1
+Roared_Dr.	1
 SATISFIED_AND	1
 Jack_Clouseau	1
 Wile_E.Coyote	1
@@ -999,6 +1045,7 @@ Anne_Down	1
 Olga_Beriosova	1
 Moff_Tarkin	1
 Mr._Sellers	1
+Dracula_King	1
 Inspector_Dreyfus	6
 My_Soup	1
 Mike_Myers	2
@@ -1010,9 +1057,11 @@ Inspector_Jacques	1
 Tony_Simpson	1
 Gerald_Ford	2
 Inspector_Quinlan	1
+Cato_Andre	1
 Robert_Vernon	1
 Dr._Who-Talons	1
 Chief_Inspector	7
+Quinlan_Richard	1
 PINK_PANTHER	6
 :_RB
 --_just	1
@@ -1022,22 +1071,20 @@ PINK_PANTHER	6
 :_Not	1
 VBD_VB
 was_show	1
+was_Call	1
 JJR_PRP
 >_I	1
 CC_EX
 but_there	1
 and_there	4
 But_there	1
-VBZ_JJR
-has_more	1
 JJR_.
 worse_.	1
-JJR_,
-better_,	1
 CC_TO
 but_to	1
 RP_WRB
 out_where	1
+up_when	1
 VB_TO
 do_to	1
 Come_To	2
@@ -1056,10 +1103,6 @@ come_to	1
 called_to	1
 sent_to	1
 created_to	1
-NNPS_VBZ
-EDWARDS_DOES	1
-WDT_NNP
-which_Edwards	1
 VBP_FW
 'm_Shawk	1
 IN_DT
@@ -1109,6 +1152,7 @@ OF_A	1
 by_all	1
 by_a	2
 in_that	3
+between_A	1
 as_a	14
 as_the	10
 around_the	2
@@ -1121,6 +1165,7 @@ For_the	1
 That_the	1
 into_the	1
 After_a	1
+after_A	1
 from_a	2
 with_the	13
 in_the	30
@@ -1130,18 +1175,20 @@ OF_THE	4
 into_another	1
 with_this	1
 for_a	3
+in_The	1
 on_a	2
 by_the	7
 of_an	3
 than_a	1
 that_this	1
+OF_The	1
 out_the	1
 after_that	1
 at_the	8
 After_the	1
 over_a	1
 than_the	1
-of_a	7
+of_a	8
 off_the	1
 with_both	1
 for_all	1
@@ -1157,12 +1204,15 @@ after_another	1
 from_each	1
 in_every	1
 above_all	1
+with_The	1
 IN_THE	6
 CD_TO
 one_to	1
 ONE_to	1
 VBZ_WRB
 is_where	2
+JJR_RB
+better_along	1
 EX_MD
 there_may	1
 CD_WRB
@@ -1170,6 +1220,8 @@ CD_WRB
 VB_WP
 spook_who	1
 know_what	1
+UH_DT
+No_the	1
 RB_WRB
 Just_when	1
 just_how	1
@@ -1181,29 +1233,6 @@ CD_POS
 1982_'s	1
 1981_'s	1
 1975_'s	1
-RB_,
-much_,	1
-HOWEVER_,	1
-marvelously_,	1
-Here_,	1
-Physically_,	1
-Now_,	1
-there_,	1
-too_,	1
-However_,	2
-though_,	1
-amok_,	1
-over_,	1
-Obviously_,	1
-correctly_,	1
-later_,	2
-before_,	1
-however_,	1
-typically_,	1
-now_,	2
-again_,	2
-Yes_,	1
-So_,	1
 RB_.
 well_.	1
 once_.	1
@@ -1232,25 +1261,20 @@ VBD_CC
 was_and	1
 VBD_CD
 was_thirteen	1
-CC_RB
-and_even	1
-and_maybe	1
-and_here	1
-And_there	1
-but_never	1
-and_well	1
-and_extremely	1
-or_perhaps	1
-and_now	2
-or_just	1
-and_never	2
-and_then	1
-and_over	1
-and_definitely	1
-and_very	1
-and_again	1
-and_vividly	1
-and_always	1
+POS_EX
+'s_There	1
+NNS_DT
+actors_The	1
+assailants_both	1
+sets_the	1
+fans_this	1
+movies_this	1
+times_the	1
+credits_the	1
+buildings_a	1
+exchanges_all	1
+movies_The	1
+films_this	1
 RB_:
 still_...	1
 ever_...	1
@@ -1295,7 +1319,7 @@ her_surprised	1
 my_other	1
 my_early	1
 my_male	1
-his_former	4
+his_former	5
 Our_only	1
 my_parochial	1
 his_own	3
@@ -1330,13 +1354,6 @@ Though_it	1
 through_it	1
 If_I	1
 about_it	3
-''_.
-''_.	7
-''_,
-''_,	7
-,_FW
-,_etc.	1
-,_et	1
 :_NNS
 --_people	1
 :_NNP
@@ -1402,6 +1419,7 @@ a_cameo	1
 the_silver	2
 no_end	1
 the_theater	1
+this_installment	2
 the_series	10
 the_Panther	4
 every_time	2
@@ -1608,7 +1626,7 @@ This_time	2
 The_second	1
 the_edge	1
 the_middle	1
-this_installment	2
+the_hunchback	1
 an_eye	1
 this_film	12
 a_performance	1
@@ -1684,6 +1702,7 @@ you_watch	1
 you_know	2
 DT_VBN
 some_deleted	1
+another_brought	1
 PRP_VBZ
 it_works	1
 he_gets	1
@@ -1719,9 +1738,8 @@ FW_PRP
 !!_I	1
 VBP_EX
 swear_there	1
-IN_,
-that_,	2
-OF_,	1
+PRP_:
+it_:	1
 IN_.
 of_.	1
 at_.	1
@@ -1740,13 +1758,10 @@ WP_NNS
 what_extras	1
 who_mistakes	1
 what_ails	1
-``_DT
-``_A	4
-``_a	1
-``_The	11
-``_That	2
-``_the	1
+WP_NNP
+what_Clouseau	2
 PRP_.
+Me_.	1
 him_.	2
 me_!	1
 them_.	1
@@ -1759,8 +1774,9 @@ as_--	1
 as_:	1
 CC_VBP
 and_have	1
-JJS_``
-best_``	1
+NNP_WDT
+Soup_that	1
+SAY_THAT	1
 PRP_VB
 he_realize	1
 CC_VBZ
@@ -1773,9 +1789,11 @@ and_creates	1
 and_is	4
 or_is	1
 NN_WRB
+castle_where	1
 theater_when	1
 matter_how	1
 reaction_how	1
+classic_why	1
 end_when	1
 scene_where	2
 movie_where	1
@@ -1802,21 +1820,10 @@ notice_all	1
 outdo_all	1
 JJR_NNP
 more_Peter	1
-JJ_,
-Dark_,	1
-dim-witted_,	1
-related_,	1
-alive_,	1
-subjective_,	1
-clever_,	1
-great_,	1
-far-fetched_,	1
-first_,	1
-good_,	1
-side-splitting_,	1
 JJR_NNS
 more_times	1
 :_VB
+:_Give	1
 :_PAY	1
 ;_consider	1
 VBN_IN
@@ -1855,6 +1862,7 @@ visited_by	1
 disguised_as	1
 included_as	1
 RB_WP
+So_what	1
 worldwide_who	1
 VBD_JJ
 had_classic	1
@@ -1879,15 +1887,13 @@ IN_WRB
 of_where	1
 PRP$_VBG
 his_falling	1
+NNS_WP$
+Sellers_whose	1
 IN_PDT
 in_all	1
 after_all	1
 of_all	1
 through_such	1
-NN_MD
-series_will	1
-movie_could	1
-movie_ca	1
 NN_NNS
 film_merits	1
 spy-movie_spoofs	1
@@ -1896,7 +1902,7 @@ fullscreen_versions	1
 title_sequences	1
 O.K.Panther_fans	1
 color_remarks	1
-Panther_movies	2
+Panther_movies	3
 office_bombs	1
 sight_gags	1
 PANTHER_films	1
@@ -1907,38 +1913,47 @@ sex_FELLOWS	1
 Clousseau_scenes	1
 kind_Sellers	1
 femme_fatales	1
-Panther_films	4
+Panther_films	5
 panther_fans	1
 NNP_PRP$
 Does_your	2
 NN_NNP
-scientist_Robert	1
+film_REVENGE	1
 gardener_Clouseau	2
 genious_Peter	1
-star_Peter	1
 mind_Peter	1
-example_Overall	1
-agent_Olga	1
 end_Dreyfus	1
-movie_Jacques	1
-director_Blake	3
+agent_Olga	1
 villain_Dreyfuss	1
+manservant_Cato	1
 daughter_Briony	1
-time_Clouseau	1
+scientist_Robert	1
+love_Tony	1
+classic_Pink	1
 nemesis_Chief	1
-madman_Dreyfus	1
+chiefinspector_Jaques	1
+supervisor_Dreyfus	1
+time_Clouseau	3
+servant_Damaris	1
+madman_Dreyfus	2
 witch_Ms.	1
-''_RB
-''_as	1
-''_later	1
-''_then	1
-:_``
-:_``	2
-..._``	3
-,_WRB
-,_when	1
-,_why	1
-,_where	1
+star_Peter	1
+comedy_Does	1
+ala_Breakfast	1
+slapstick_Dreyfus	1
+gardener_Leonard	1
+director_Blake	3
+example_Overall	1
+movie_Jacques	1
+chief_Dreyfus	1
+NNPS_VBZ
+EDWARDS_DOES	1
+WDT_NNP
+which_Edwards	1
+CD_CC
+???_And	1
+one_and	1
+9_or	1
 IN_JJS
 as_most	1
 at_least	2
@@ -1949,8 +1964,8 @@ wondered_why	1
 PRP_WRB
 it_when	1
 :_DT
+..._That	2
 ..._No	1
-..._That	1
 ;_a	2
 -_some	1
 --_an	1
@@ -1964,10 +1979,6 @@ CD_PRP$
 1976_its	1
 JJR_NN
 more_footage	1
-RB_``
-not_``	1
-later_``	1
-especially_``	1
 JJR_UH
 >_No	1
 VBP_VBZ
@@ -2047,16 +2058,14 @@ JJS_:
 best_...	1
 NNS_RP
 socks_off	1
-CC_``
-and_``	2
-or_``	1
 NN_NN
 comedy_classic	1
 floor_laughing	1
 Panther_collection	1
 Best_Song	1
 bee_keeper	1
-Panther_film	4
+Panther_film	5
+stunt_Nothing	1
 KNOW_YES-YES	1
 agent_parody	1
 DVD_collection	1
@@ -2064,7 +2073,7 @@ Train_Robbery	1
 ray_gun	1
 comedy_ala	1
 anyone_check	1
-star_billing	1
+silver_screen	2
 Down.So_panther	1
 fur_coat	1
 caliber_slapstick	1
@@ -2075,11 +2084,12 @@ fun_movie	1
 Panther_movie	2
 screen_time	1
 sight_gag	2
-office_success	1
+Panther_franchise	1
 supporting_actor	1
 Panther_diamond	1
-silver_screen	2
+luck_timing	1
 Panther_humor	1
+star_billing	1
 comedy_evern	1
 world_hostage	1
 news_paper	1
@@ -2106,7 +2116,8 @@ soundtrack_album	1
 psyco_ward	1
 master_villain	1
 stock_footage	1
-Panther_series	4
+office_success	1
+Panther_series	6
 laugh_riot	1
 chief_inspector	1
 t_waste	1
@@ -2130,12 +2141,17 @@ times_before	1
 Sellers_directly	1
 stars_not	1
 films_very	1
+words_especially	1
 genres_best	1
+bits_too	1
+jewels_so	1
+heights_especially	1
 movies_ever	1
 actors_ever	1
+stars_still	1
 scenes_so	1
 lines_ever	1
-stars_still	1
+times_especially	1
 EX_VBD
 there_were	2
 There_was	1
@@ -2146,13 +2162,6 @@ funniest_.	2
 VBP_NNS
 are_lots	2
 spoof_hits	1
-,_JJ
-,_former	1
-,_familiar	1
-,_classic	1
-,_dead	1
-,_EX
-,_there	2
 DT_JJ
 the_parallel	1
 the_inept	1
@@ -2177,6 +2186,7 @@ the_hilarious	1
 a_one-two	1
 The_Dark	6
 a_precious	1
+the_hallucinatory	1
 Every_great	1
 the_shagadelic	1
 the_great	1
@@ -2222,7 +2232,7 @@ the_Russian	2
 a_side-splitting	1
 the_surreal	1
 all_British	1
-the_first	8
+the_first	9
 a_couple	1
 the_hapless	1
 the_superb	1
@@ -2305,10 +2315,8 @@ the_manic	1
 THE_PINK	5
 the_non-biting	1
 the_excellent	1
-``_VB
-``_Call	1
-``_Give	1
-``_Come	3
+:_VBD
+..._had	1
 VBD_JJR
 were_more	1
 NN_IN
@@ -2318,7 +2326,7 @@ understanding_of	1
 inspector_as	1
 laughing_during	1
 rendition_of	1
-movie_with	2
+movie_with	3
 laser_from	1
 favorite_of	1
 hand_in	1
@@ -2327,7 +2335,10 @@ exchange_for	1
 moment_after	1
 gag_for	1
 mixture_of	1
+kind_of	1
+cameo_in	1
 installment_of	1
+wave_of	1
 plan_for	1
 laugh_after	1
 installment_in	2
@@ -2347,9 +2358,10 @@ assault_on	1
 Panther_at	1
 problem_with	1
 movie_in	1
+room_from	1
 end_of	1
 act_of	1
-kind_of	1
+machinery_with	1
 inclination_of	1
 Return_Of	2
 hesitation_in	1
@@ -2362,6 +2374,7 @@ mallet_in	1
 machine_in	1
 ransom_from	1
 briefest_of	1
+Panther_in	1
 ruum_for	1
 entanglement_with	1
 pratfall_with	1
@@ -2373,10 +2386,11 @@ REVENGE_OF	1
 film_as	1
 outing_in	1
 acting_from	1
-change_of	1
+pace_with	1
 scene_in	3
 revenue_from	1
 development_of	1
+note_that	1
 enforcement_as	1
 boredom_with	1
 scene_at	1
@@ -2389,7 +2403,7 @@ matter_of	1
 piece_of	1
 panache_as	1
 attempt_by	1
-performance_of	1
+course_by	1
 SHOT_IN	3
 beginning_with	1
 movie_on	1
@@ -2404,15 +2418,17 @@ choice_on	1
 raising_of	1
 afternoon_of	1
 book_on	1
+madman_from	1
 joke_at	1
 love_with	1
-success_that	1
+score_while	1
 mutilation_of	1
 base_in	1
 doubt_about	2
 brilliance_of	1
 trailer_for	1
 second_of	1
+series_though	1
 focus_of	1
 scenery_in	1
 screen_while	1
@@ -2422,16 +2438,19 @@ element_above	1
 rake_in	1
 bit_of	1
 hostage_in	1
+transition_with	1
 spoof_on	1
 favorite_from	1
 Trail_of	1
 theorem_of	1
 life_by	1
+script_by	1
 footage_for	1
 destruction_of	1
 success_of	1
 couple_of	2
 kidnapping_of	1
+performance_of	1
 Nothing_like	1
 parody_of	1
 presence_of	1
@@ -2449,7 +2468,7 @@ ensemble_of	1
 relapse_in	1
 Everything_from	1
 fault_of	1
-cameo_in	1
+change_of	1
 appeal_of	1
 tire_of	1
 laugh_with	1
@@ -2473,8 +2492,9 @@ rest_of	1
 film_in	1
 appearance_in	1
 era_in	1
+success_that	1
 joke_about	1
-note_that	1
+opening_with	1
 man_if	1
 staff_of	1
 inspiration_for	1
@@ -2497,6 +2517,7 @@ camera_on	1
 role_of	1
 genius_of	1
 appeal_as	1
+interrogation_of	1
 CURSE_OF	1
 scene_with	1
 classic_in	1
@@ -2506,7 +2527,7 @@ CC_DT
 both_the	1
 but_that	3
 and_a	2
-and_The	1
+and_The	3
 and_those	1
 but_a	1
 or_no	1
@@ -2521,29 +2542,37 @@ bit_confused	1
 man_driven	1
 assassin_sent	1
 dentist_seen	1
-evern_committed	1
 DETECTIVE_ARRESTED	1
+evern_committed	1
+wonder_given	1
 spy_named	1
 hilarity_provided	1
 NNS_PRP
-fatales_I	1
+movies_you	1
+ails_us	1
 ways_he	1
+Sellers_it	1
 parts_you	1
 thoughts_I	1
-ails_us	1
-stairs_he	1
 attacks_him	1
+stairs_he	1
+fatales_I	1
 NN_VBG
 madman_holding	1
+series_ranking	1
 rest_starting	1
 actor_stumbling	1
 ball_lying	1
+voice_noting	1
 inspector_trying	1
 assassin_wearing	1
 man_asking	1
 boy_running	1
-film_going	1
+water_having	1
+dark_taking	1
 manor_following	1
+film_going	1
+relapsed_raving	1
 CC_WRB
 and_where	1
 and_how	2
@@ -2551,15 +2580,17 @@ And_where	1
 NN_VBD
 competition_was	1
 movie_was	1
+genius_talented	1
 franchise_was	1
 plot_was	1
 second_was	1
 dog_did	1
 Lom_was	1
 scene_engendered	1
-Song_went	1
+everyone_led	1
 laugh_was	1
 entry_was	1
+Song_went	1
 panther_had	1
 Panther_won	1
 recess_related	1
@@ -2581,13 +2612,14 @@ cast_includes	1
 plot_involves	1
 vase_is	1
 way_is	1
-scene_is	2
+course_is	1
 hit_is	1
 release_contains	1
 outing_is	1
 hope_is	1
+effect_derives	1
 recommendation_is	1
-mind_seems	1
+installment_is	1
 plot_is	1
 Lom_takes	1
 belly_laughs	1
@@ -2596,10 +2628,12 @@ one_includes	1
 side_catches	1
 eye_has	1
 movie_features	1
+mind_seems	1
 film_progresses	1
 madness_is	1
 film_is	3
 series_provides	1
+boss_has	1
 one_kicks	1
 series_is	3
 doig_does	1
@@ -2611,22 +2645,28 @@ bonus_is	1
 movie_is	1
 proof_is	1
 dog_bites	2
+scene_is	2
 score_is	1
 interest_is	1
 film_sets	1
 DARK_is	1
+Panther_plays	1
 plus_is	1
 material_is	1
 Panther_Strikes	8
+Lom_is	1
 send-up_is	1
 RB_RB
+anymore_as	1
 as_well	2
+amok_cheerfully	1
 not_only	1
 very_much	1
 much_then	1
 brilliantly_so	1
 long_after	1
 Not_anymore	2
+Physically_practically	1
 still_never	1
 so_well	1
 once_again	1
@@ -2642,9 +2682,11 @@ broke_here	1
 not_just	1
 as_far	1
 as_much	1
+Now_almost	1
 VBD_IN
 lashed_about	1
 engendered_in	1
+led_of	1
 got_out	1
 sat_through	1
 were_about	1
@@ -2653,20 +2695,18 @@ came_from	1
 NNPS_MD
 Sellers_could	1
 NN_VBP
-THEY_ARE	1
-someone_remember	1
-DARK_are	1
 comedy_are	1
+inspector_are	1
+someone_remember	1
 stronghold_are	1
+DARK_are	1
+THEY_ARE	1
+Look_do	1
+castle_are	1
+superspy_do	1
 :_WRB
 :_Why	1
 --_when	1
-PRP_''
-Me_''	3
-CD_CC
-???_And	1
-one_and	1
-9_or	1
 PRP_RB
 I_JUST	1
 it_so	1
@@ -2700,11 +2740,6 @@ that_there	2
 though_there	1
 PRP_RP
 it_up	1
-JJ_``
-popular_``	1
-substandard_``	1
-famous_``	1
-inferior_``	1
 RB_VBZ
 too_has	1
 still_works	1
@@ -2721,9 +2756,6 @@ also_drags	1
 along_comes	1
 RBR_VBN
 more_heightened	1
-,_WP
-,_who	4
-,_what	3
 VBZ_VBG
 is_threatening	1
 's_happening	1
@@ -2747,11 +2779,15 @@ make_me	1
 graduate_them	1
 keep_you	1
 spot_him	1
-PRP_DT
-it_the	1
-it_a	1
-us_all	1
-him_the	1
+RB_VBP
+clearly_see	1
+never_stop	1
+together_are	1
+honestly_do	1
+also_get	1
+only_watch	1
+MUST_get	1
+still_mix	1
 VBZ_VBN
 is_followed	1
 's_disguised	1
@@ -2780,6 +2816,8 @@ catches_his	1
 enters_his	1
 CC_PRP$
 and_his	7
+:_VBZ
+:_Does	1
 DT_DT
 the_all	1
 RB_VBN
@@ -2806,16 +2844,8 @@ never_tired	1
 previously_issued	1
 RBR_VBZ
 longer_feels	1
-NN_''
-Panther_''	9
-Robbery_''	1
-dog_''	1
-interrogation_''	1
-Falcon_''	1
-dentist_'	1
-inspector_''	1
-wave_''	1
-room_''	1
+VBP_WP
+remember_what	1
 RB_VBG
 once_getting	1
 cheerfully_reprising	1
@@ -2838,11 +2868,12 @@ always_wondered	1
 FW_IN
 LATER_IN	1
 NNS_NN
-arts_send-up	1
-professors_home	1
-sequels_CURSE	1
-scenes_work	1
 bars_stunt	1
+strikes_actor	1
+arts_send-up	1
+sequels_CURSE	1
+professors_home	1
+scenes_work	1
 CD_JJS
 two_best	1
 CC_MD
@@ -2861,30 +2892,14 @@ wants_to	1
 needs_to	1
 has_to	2
 comes_to	1
+PRP_WDT
+Me_which	1
 POS_NNP
 '_Pink	1
 's_Death	1
 's_A	1
 '_KING	1
 's_Patsy	1
-,_IN
-,_after	1
-,_with	5
-,_in	8
-,_by	3
-,_before	2
-,_as	7
-,_for	1
-,_like	2
-,_without	1
-,_though	3
-,_that	1
-,_ON	1
-,_from	1
-,_while	3
-,_of	4
-,_around	1
-,_along	1
 POS_NNS
 's_trousers	1
 's_cuts	1
@@ -2895,12 +2910,10 @@ POS_NNS
 's_attempts	2
 NNS_WP
 guys_who	1
-''_VBP
-''_are	1
 RP_NN
 up_laughing	1
-``_UH
-``_No	1
+VBG_CC
+saying_and	1
 MD_RB
 ca_n't	4
 'd_always	1
@@ -2917,10 +2930,12 @@ NN_WDT
 box_that	1
 movie_that	1
 else_that	1
-superlaser_that	1
+plot_which	1
+madness_which	1
 part_whatever	1
 world_that	1
 everything_that	1
+superlaser_that	1
 gun_which	1
 punch_that	1
 VB_DT
@@ -2988,9 +3003,6 @@ is_stunning	1
 is_awesome	1
 EX_POS
 There_'s	1
-''_DT
-''_the	1
-''_this	1
 NN_TO
 force_to	1
 ability_to	1
@@ -3037,6 +3049,7 @@ PRP_IN
 it_over	1
 it_with	1
 it_for	1
+Me_at	1
 it_like	1
 you_on	1
 it_that	1
@@ -3048,42 +3061,28 @@ him_as	1
 RBR_JJ
 more_insane	1
 less_subtle	1
-JJS_,
-best_,	1
 UH_UH
 Oh_yes	1
 WP_DT
 what_a	1
-:_''
-..._''	2
 CC_CD
 or_2	1
 and_one	1
 and_ten	1
 and_1965	1
-,_NN
-,_timing	1
-,_fun	1
-,_actor	1
+NNP_FW
+French_leau	1
+WP_RB
+who_typically	1
+PRP$_RB
+his_even	1
 RP_WP
 out_who	1
-CC_,
-and_,	2
+UH_PRP
+Okay_I	1
+Oh_you	1
 JJR_CC
 less_and	1
-PRP$_``
-his_``	2
-``_NNP
-``_Pink	5
-`_Dreyfus	1
-``_Dr.	1
-``_Breakfast	1
-``_Does	2
-``_Room	1
-``_Phantom	1
-``_The	1
-``_Our	1
-``_CHIFF	1
 RB_DT
 Perhaps_the	1
 just_a	1
@@ -3096,8 +3095,9 @@ even_A	1
 now_a	1
 far_the	1
 still_a	1
+though_this	1
 Thus_the	1
-not_the	2
+not_the	3
 even_some	1
 even_a	1
 then_the	1
@@ -3109,6 +3109,8 @@ perhaps_the	1
 also_a	2
 Not_a	1
 twice_the	1
+correctly_the	1
+now_The	1
 possibly_the	1
 Reportedly_the	1
 certainly_no	1
@@ -3116,40 +3118,17 @@ PRP$_JJS
 his_funniest	1
 their_best	1
 its_most	1
-CD_``
-five_``	1
-two_``	1
-1976_``	1
+NN_MD
+matter_will	1
+series_will	1
+movie_could	1
+movie_ca	1
 DT_VB
 all_sleep	1
+UH_CC
+yes_and	1
 CC_RBS
 and_most	1
-DT_``
-the_`	2
-the_``	3
-,_RB
-,_relatively	1
-,_though	1
-,_well	1
-,_cheerfully	1
-,_so	1
-,_especially	3
-,_almost	1
-,_too	1
-,_instead	1
-,_then	2
-,_even	2
-,_typically	1
-,_now	2
-,_however	1
-,_preferably	1
-,_just	1
-,_brilliantly	1
-,_practically	1
-,_along	1
-,_later	1
-,_narrowly	1
-,_entirely	1
 CC_PRP
 yet_I	1
 but_he	1
@@ -3165,11 +3144,6 @@ and_it	2
 yet_he	1
 and_we	1
 and_he	2
-VBG_PRP$
-doing_his	1
-carrying_his	1
-fighting_his	1
-putting_his	1
 RB_VB
 only_get	1
 vividly_remember	1
@@ -3184,6 +3158,7 @@ n't_know	1
 always_maintain	1
 not_get	1
 really_come	1
+However_take	1
 not_know	2
 quite_figure	1
 not_go	1
@@ -3203,26 +3178,22 @@ ever_be	1
 only_hope	1
 not_waste	1
 n't_try	1
-''_JJ
-''_alive	1
+:_UH
+..._No	1
 JJ_RP
 warm_up	1
 VBN_PDT
 seen_all	1
-,_VBG
-,_ranking	1
-,_noting	1
-,_bettering	1
-,_having	1
-,_raving	1
-,_taking	1
 IN_IN
-As_in	1
+that_before	1
+that_of	1
+as_in	1
 that_in	1
 out_of	3
-as_in	1
+As_in	1
 along_with	2
 while_in	1
+OF_ON	1
 like_in	1
 than_in	1
 from_around	1
@@ -3233,32 +3204,20 @@ fresh_even	1
 old_enough	1
 hard_not	1
 own_extremely	1
+alive_preferably	1
+clever_relatively	1
 funny_regardless	1
 other_marvelously	1
-,_``
-,_``	8
 VBZ_WP
 's_what	1
 is_what	1
-,_VBD
-,_talented	1
-,_died	1
-,_proved	1
-,_ARRIVED	1
-,_led	1
-IN_VBG
-by_holding	1
-by_saying	1
-as_playing	1
-After_getting	1
-with_releasing	1
-since_being	1
-of_phoning	1
-after_having	1
-after_falling	1
-while_being	1
-from_destroying	1
-After_smashing	1
+VBG_PRP$
+doing_his	1
+carrying_his	1
+fighting_his	1
+putting_his	1
+VBG_:
+happening_--	1
 NNS_.
 Clouseau-scenes_?	1
 masterpieces_.	1
@@ -3279,36 +3238,6 @@ plots_.	1
 stars_.	2
 scenes_.	4
 years_.	3
-,_VBN
-,_given	1
-,_played	1
-,_brought	1
-NNS_,
-bits_,	1
-heights_,	1
-words_,	1
-spoofs_,	1
-exchanges_,	1
-incarnations_,	1
-jewels_,	1
-stars_,	1
-actors_,	1
-trousers_,	1
-comedies_,	1
-times_,	3
-movies_,	4
-films_,	3
-buildings_,	1
-problems_,	1
-Sellers_,	2
-sequences_,	1
-strikes_,	2
-1970s_,	1
-credits_,	1
-sets_,	1
-,_VBP
-,_do	2
-,_are	1
 VBD_NNS
 had_issues	1
 VBD_NNP
@@ -3324,16 +3253,9 @@ sequences_--	1
 laughs_:	1
 reviewers_--	1
 times_-	1
-,_VBZ
-,_sets	1
-,_provides	1
-,_derives	1
-,_encounters	1
-,_has	2
-,_exists	1
-,_is	5
 POS_DT
 's_THE	1
+'s_this	1
 JJ_NNS
 male_buddies	1
 later_movies	1
@@ -3392,10 +3314,9 @@ memorable_scenes	1
 funny_actors	1
 sparkling_jewels	1
 British_movies	1
-CC_JJS
-and_funniest	1
 JJ_NNP
 inimitable_Peter	1
+popular_Pink	1
 superior_Dreyfus	2
 huge_Lesley-Anne	1
 great_Peter	1
@@ -3408,7 +3329,7 @@ classic_Pink	1
 hot-looking_Lesley	1
 poor_Blake	1
 precious_Steinway	1
-excellent_Herbert	1
+dim-witted_Inspector	1
 servant_Kato	1
 hapless_Inspector	1
 oblivious_Clouseau	1
@@ -3424,24 +3345,19 @@ old_VHS	1
 inept_French	1
 slinky_Soviet	1
 mock_Oval	1
+excellent_Herbert	1
 insane_Former	1
 CD_IN
 one_in	1
 one_of	12
 One_of	2
-''_CD
-'_60	1
-''_CC
-'_and	1
-''_and	4
 IN_WP
 from_what	1
 for_what	2
 of_what	1
-IN_VBN
-that_defined	1
 VBG_PRP
 playing_himself	1
+helping_he	1
 DT_RB
 all_very	1
 the_immensely	1
@@ -3453,28 +3369,37 @@ a_very	4
 a_little	2
 a_really	1
 some_extremely	1
+the_then	1
 the_very	3
 the_always	2
 VBN_PRP$
 lost_his	1
 NN_PRP
-bar_he	1
-part_it	1
+series_it	1
 scene_it	1
-film_I	2
-segment_I	1
-line_he	1
-fight_I	1
 attack_he	1
-case_you	1
+line_he	1
+subtlety_it	1
 fact_I	1
+bar_he	1
+slapstick_it	1
+film_I	2
+work_they	1
+day_it	1
+collection_you	1
+part_it	1
+case_you	1
+hearing_he	1
+screen_you	1
+segment_I	1
+fan_you	1
+fight_I	1
 film_he	1
 one.For_me	1
 time_you	1
-hearing_he	1
 movie_you	1
+basis_it	1
 shame_it	1
-work_they	1
 VB_PRP$
 stop_his	1
 see_my	1
@@ -3482,22 +3407,25 @@ remember_my	1
 send_their	1
 NNP_EX
 Wish_there	1
-,_MD
-,_ca	1
-,_will	2
 JJ_DT
 funny_the	1
 such_an	1
+subjective_this	1
+Dark_The	1
+Dark_the	1
 misnamed_the	1
 original_THE	1
 talented_the	1
 RB_NNPS
 Only_Sellers	1
 RB_CC
-over_and	2
 once_and	1
-later_but	1
 altogether_but	1
+marvelously_and	1
+over_and	2
+now_but	1
+later_but	1
+again_and	2
 MD_VB
 would_recommend	1
 should_have	1
@@ -3556,27 +3484,32 @@ even_more	1
 WRB_NNS
 WHEN_SELLERS	1
 where_Sellers	1
-,_DT
-,_this	8
-,_The	2
-,_a	3
-,_THE	2
-,_no	3
-,_every	1
-,_all	1
-,_the	14
 NNP_NNPS
 BLAKE_EDWARDS	1
 VB_VBZ
 admit_exceeds	1
 VBZ_RBR
 is_more	1
-NNS_DT
-assailants_both	1
-times_the	1
-fans_this	1
-POS_``
-'s_``	1
+CC_RB
+and_even	1
+and_later	1
+and_here	1
+And_there	1
+and_maybe	1
+but_never	1
+and_well	1
+and_extremely	1
+or_perhaps	1
+and_now	2
+or_just	1
+and_never	2
+and_then	1
+and_over	1
+and_definitely	1
+and_very	1
+and_again	1
+and_vividly	1
+and_always	1
 VBZ_NN
 makes_love	1
 is_punishment	1
@@ -3590,37 +3523,33 @@ POS_RB
 UH_.
 No_.	1
 Yes_.	2
-UH_,
-No_,	1
-Oh_,	2
-yes_,	2
-Okay_,	1
 TO_JJ
 to_new	1
 to_laughing	1
 to_British	1
 VBP_DT
 enjoy_the	1
+know_the	1
+'re_a	1
+think_this	1
+'m_the	1
+like_the	1
+want_a	1
 are_the	4
 have_the	3
-are_some	2
-admit_this	1
-'re_a	1
-ARE_BOTH	1
-forget_those	1
 think_that	1
-do_this	1
-'m_the	1
 're_all	1
-like_the	1
-get_this	1
-think_this	1
-see_a	1
-am_a	1
+forget_those	1
 recommend_this	1
-want_a	1
-think_the	3
+are_some	2
+do_this	1
+see_a	1
+admit_this	1
+ARE_BOTH	1
+get_this	1
+am_a	1
 involve_the	1
+think_the	3
 VBD_TO
 honed_to	1
 HAVE_TO	1
@@ -3631,11 +3560,13 @@ went_to	2
 proved_to	1
 got_to	1
 NN_FW
+RAID_Sellers	1
+Falcon_et	1
 SCENE_Clouseau	1
 NNS_POS
 Sellers_'	3
 JJS_NNP
-best_Pink	1
+best_Pink	2
 funniest_Clouseau	1
 most_James	1
 JJS_NNS
@@ -3669,109 +3600,18 @@ reaction_;	1
 series_;	1
 CD_RB
 10_now	1
-._''
-?_''	1
-!_''	1
-._''	5
+POS_JJS
+'s_juiciest	1
+'s_greatest	1
 NNP_JJ
 Sellers_final	1
 Dreyfus_ready	1
 James_Bond-ish	1
 Former_chief	1
-Clouseau_dead	1
-NN_,
-way_,	2
-dark_,	1
-voice_,	1
-top_,	1
-madman_,	2
-vehicle_,	1
-world_,	1
-water_,	1
-relapsed_,	1
-agent_,	1
-transition_,	1
-story_,	1
-collection_,	2
-Lom_,	1
-everyone_,	1
-domain_,	1
-riot_,	1
-manservant_,	1
-predecessor_,	1
-Panther_,	1
-day_,	1
-song_,	1
-score_,	1
-course_,	4
-version_,	1
-helicopter_,	1
-series_,	5
-son-of-a-gun_,	1
-floor_,	1
-opening_,	1
-assassin_,	1
-performance_,	1
-castle_,	2
-slapstick_,	1
-opinion_,	1
-Look_,	2
-supervisor_,	1
-basis_,	1
-superspy_,	1
-edge_,	1
-chief_,	1
-bed_,	1
-farce_,	1
-matter_,	1
-love_,	1
-hospital_,	2
-DVD_,	2
-script_,	2
-air_,	1
-transfer_,	1
-confusion_,	1
-scientist_,	1
-screen_,	2
-wonder_,	1
-film_,	2
-chiefinspector_,	1
-diamond_,	1
-plot_,	2
-effect_,	1
-humor_,	1
-luck_,	1
-boss_,	1
-perfection_,	1
-machinery_,	1
-madness_,	1
-classic_,	1
-pace_,	1
-fan_,	1
-subtlety_,	1
-genius_,	1
-ending_,	1
-servant_,	1
-ball_,	1
-focus_,	1
-retrospect_,	1
-character_,	2
-time_,	3
-installment_,	1
-movie_,	4
-middle_,	1
-gardener_,	1
-step_,	1
-``_NN
-``_Revenge	1
-``_room	1
-``_interrogation	1
-``_Nothing	1
-``_Panther	2
-``_Trail	1
-``_director	1
-`_hunchback	1
-``_Blemish	1
+Clouseau_dead	2
+TO_CD
+to_one	1
+to_1	1
 NN_.
 Rain_!	1
 professor_.	1
@@ -3860,7 +3700,7 @@ castle_.	1
 game_!	1
 character_.	2
 laugh_!	1
-Panther_.	2
+Panther_.	3
 Steinway_!	1
 VBN_DT
 filmed_the	1
@@ -3871,30 +3711,16 @@ seen_the	3
 named_THE	1
 based_the	1
 Given_the	1
+seen_The	1
 read_the	1
 seen_some	1
-POS_,
-'s_,	1
-''_VBN
-''_directed	1
 JJR_TO
 more_to	2
 WDT_VBP
 which_spoof	1
 that_have	1
-''_VBD
-''_came	1
-''_had	1
 CC_UH
 And_yes	1
-''_VBZ
-''_is	3
-''_plays	1
-''_NN
-''_film	1
-''_franchise	1
-''_enforcement	1
-''_series	2
 IN_TO
 about_to	2
 JJS_DT
@@ -3921,18 +3747,13 @@ FW_JJ
 Laugh-out-loud_funny	1
 WDT_.
 THAT_!	1
-WDT_,
-which_,	1
-DT_,
-another_,	1
-this_,	1
-the_,	1
 DT_.
 this_.	1
 each_.	1
 another_.	1
 all_.	1
 NNS_FW
+strikes_etc.	1
 FELLOWS_!!	1
 VBG_RP
 falling_down	1
@@ -3992,7 +3813,10 @@ relatively_sophisticated	1
 Wonderfully_lunatic	1
 WRB_IN
 when_on	1
+CD_DT
+one_no	1
 TO_NNP
+to_Dr.	1
 to_Seller	1
 to_Lesley-Anne	1
 TO_SAY	1
@@ -4014,13 +3838,17 @@ releasing_an	1
 surrounding_the	1
 asking_another	1
 RB_PRP
+much_I	1
+n't_he	1
+later_I	1
+now_we	1
 n't_you	1
 then_it	1
-now_we	1
 here_we	1
-n't_he	1
 MD_DT
 can_all	1
+JJS_VBG
+best_bettering	1
 VBZ_PRP
 gives_him	1
 has_you	1
@@ -4047,15 +3875,11 @@ funny_how	1
 VBZ_WDT
 IS_THAT	1
 NNS_WRB
+cuts_where	1
 scenes_where	1
 NN_EX
 action_there	1
 mean_there	1
-``_JJ
-`_hallucinatory	1
-``_former	1
-``_FRENCH	1
-``_first	1
 PRP$_RBS
 his_most	1
 FW_:
@@ -4068,21 +3892,30 @@ Down_in	1
 Down_as	1
 WALKING_IN	1
 Light_Up	1
+Again_by	1
 Breakfast_at	1
 Globe_for	1
 Wellsley_in	1
+Dreyfus_while	1
+Daemons_as	1
 Mouse_That	1
 Chiang_as	1
 Jones_as	1
-Shot_In	3
 SHOT_IN	1
+Shot_In	3
 Edwards_through	1
 STRANGELOVE_by	1
+Martin_like	1
 Sellers_out	1
 Roberts_in	1
+Clouseau_in	2
 Martin_as	1
 Dreyfus_as	1
+Room_in	1
+Again_though	1
 Superior_about	1
+Lom_in	1
+Clouseau_as	1
 Star_by	1
 Returning_as	1
 Building_in	1
@@ -4091,23 +3924,33 @@ Perrin_as	1
 Who-Talons_Of	1
 Edwards_in	1
 Kwouk_as	1
+Sikov_along	1
 Dreyfus_in	1
 Sound_of	1
 Hawthorne_in	1
 DEATH_OF	1
-Downstairs_as	1
-Dreyfus_with	1
+Dreyfuss_while	1
 Phantom_of	1
-FW_,
-pic_,	1
-al_,	1
+Downstairs_as	2
+Dreyfus_with	1
+Sin_as	1
 RB_NNS
 just_Sellers	1
 just_lovers	1
-VBZ_``
-exclaims_``	1
-VBG_:
-happening_--	1
+IN_VBG
+by_holding	1
+by_saying	1
+as_playing	1
+After_getting	1
+with_releasing	1
+since_being	1
+through_helping	1
+of_phoning	1
+after_having	1
+after_falling	1
+while_being	1
+from_destroying	1
+After_smashing	1
 IN_VBD
 as_got	1
 POS_NN
@@ -4129,36 +3972,34 @@ POS_NN
 's_relapse	1
 's_madness	1
 's_TRAIL	1
-,_PRP
-,_it	7
-,_I	3
-,_you	6
-FW_''
-leau_''	1
-RB_''
-anymore_''	1
+CC_JJS
+and_funniest	1
+IN_VBN
+that_defined	1
+RP_VB
+off_look	1
 IN_VBP
 in_Are	1
-VBG_,
-missing_,	1
-saying_,	2
-helping_,	1
 JJ_CC
+Dark_but	1
 unique_and	1
 ridiculous_and	1
 mad_and	2
 nameless_and	1
 straight-faced_and	1
+Dark_and	1
 believable_and	1
 alive_and	1
 dead_or	1
 old_but	1
 full_and	1
+great_but	1
 destructive_and	1
 faithful_and	1
 brilliant_and	1
-credible_and	1
 funny_and	2
+credible_and	1
+good_and	1
 VBN_RBR
 been_better	1
 FW_CC
@@ -4170,9 +4011,6 @@ JJ_CD
 first_two	3
 first_one	1
 strong_four	1
-CD_,
-one_,	3
-1925-1980_,	1
 CD_.
 1_.	1
 one_.	1
@@ -4186,8 +4024,10 @@ Why_did	1
 WRB_VBZ
 where_'s	1
 NNP_WP
+Smart_who	1
+Beriosova_who	1
 Waldman_who	1
-Lom_who	2
+Lom_who	3
 WRB_VBP
 why_do	1
 VBN_WRB
@@ -4220,12 +4060,14 @@ ten_years	1
 CD_NNP
 one_Clouseau	1
 1960s_BATMAN	1
+one_Peter	1
 VBN_RB
 made_long	1
 tired_here	1
 seen_yet	1
 followed_closely	1
 provided_here	1
+parodied_even	1
 driven_further	1
 NNP_NN
 Bond_ending	1
@@ -4290,6 +4132,7 @@ series.Don_'	1
 director_'s	1
 TO_PRP
 to_her	1
+to_You	1
 To_Me	2
 to_him	1
 to_Me	1
@@ -4318,9 +4161,6 @@ NNS_MD
 gags_will	1
 extras_could	1
 Sellers_must	1
-NNP_``
-Down_``	1
-French_``	1
 TO_RB
 to_ever	1
 to_always	1
@@ -4337,15 +4177,19 @@ just_as	1
 else_for	1
 just_in	1
 here_as	1
+Even_though	1
 now_as	1
 expertly_by	1
 then_that	1
+however_as	1
 Personally_while	1
 especially_by	1
 so_at	1
 simply_as	1
 well_for	1
+HOWEVER_in	1
 regardless_of	1
+However_as	1
 again_on	1
 well_as	1
 merely_by	1
@@ -4355,13 +4199,15 @@ anywhere_in	1
 up_from	1
 again_as	1
 somewhere_between	1
-Even_though	1
+far_as	1
 fast_for	1
+before_for	1
 even_as	1
 here_by	1
-far_as	1
+there_in	1
 right_behind	1
 strictly_for	1
+too_of	1
 totally_on	1
 instead_of	1
 directly_as	1
@@ -4390,15 +4236,14 @@ DT_CD
 the_9	1
 this_1976	1
 the_five	1
+this_???	1
 the_1960s	1
 the_one	2
-this_???	1
+the_60	1
 THE_ONE	1
 a_thousand	2
 this_one	5
 the_1976	1
-FW_``
-etc._``	1
 RP_DT
 down_the	1
 up_the	2
@@ -4408,92 +4253,54 @@ VBP_RB
 pop_up	1
 have_never	1
 do_n't	4
+do_brilliantly	1
 are_so	1
 are_nowhere	1
 are_certainly	1
+appear_together	1
 am_particularly	1
 are_totally	1
 've_ever	1
 've_probably	1
 do_not	1
 have_n't	1
-appear_together	1
+want_then	1
 do_so	1
 am_also	1
 remember_correctly	1
 JJ_VBZ
+far-fetched_exists	1
 same_is	1
 cruel_prevents	1
 surprising_is	1
-''_NNP
-''_Inspector	1
-''_NNS
-''_movies	1
-''_films	1
-''_mobies	1
-NNP_,
-Quinlan_,	1
-Cato_,	1
-Again_,	1
-Edwards_,	1
-Downstairs_,	1
-Lom_,	3
-Dracula_,	1
-Sikov_,	1
-Ocktoberfest_,	1
-Roared_,	1
-Beriosova_,	1
-Music_,	1
-Kong_,	1
-Clouseau_,	8
-Sellers_,	1
-Strangelove_,	1
-Chateau_,	1
-FBI_,	1
-Smart_,	1
-Daemons_,	1
-Proverb_,	1
-KONG_,	1
-Francois_,	1
-ROOM_,	1
-Martin_,	1
-Drummond_,	1
-Down_,	2
-Sin_,	1
-Christian_,	1
-Roy_,	1
-Steinway_,	1
-GOOD_,	1
-Inspector_,	2
-Dreyfuss_,	1
-PANTHER_,	1
-Fassbender_,	1
-CIA_,	1
-Dreyfus_,	3
 CD_JJ
 I_first	1
-one_hilarious	1
+one_former	1
 one_comic	1
+one_hilarious	1
 NNP_.
-Down_.	1
-Clouseau_.	4
 WTC_.	1
-Served_?	1
-Sellars_.	1
-Jarvis_.	1
-Clousseau_.	1
-Again_.	1
+Opera_.	1
 Kubrick_.	1
-AGAIN_.	2
-Steinway_.	1
+Again_.	1
 Sellers_.	5
 Edwards_.	1
-Inspector_.	1
-NOW_!	1
 Lom_.	2
 Office_.	1
-Dreyfus_.	1
+Served_?	1
+Clousseau_.	1
+Clouseau_.	4
+Strangelove_.	1
+NOW_!	1
+Sellars_.	1
+Jarvis_.	1
+AGAIN_.	2
 Master_.	1
+Down_.	1
+Life_.	1
+Steinway_.	1
+Inspector_.	1
+Dreyfus_.	1
 JJ_VBP
 hysterical_romp	1
 unique_spark	1
@@ -4501,6 +4308,7 @@ Dark_are	1
 FW_NN
 CHEW_KNOW	1
 trhe_gardener	1
+leau_enforcement	1
 NNP_WRB
 Octoberfest_where	1
 VBG_NN
@@ -4531,15 +4339,13 @@ superb_was	1
 Dark_were	1
 TO_WRB
 TO_WHEN	1
-RB_VBP
-clearly_see	1
-never_stop	1
-together_are	1
-honestly_do	1
-also_get	1
-only_watch	1
-MUST_get	1
-still_mix	1
+PRP_DT
+it_the	1
+it_a	1
+me_this	1
+him_the	1
+me_the	1
+us_all	1
 WRB_EX
 why_there	1
 VBZ_.
@@ -4549,12 +4355,8 @@ misses_.	1
 bites_.	1
 is_.	2
 makes_.	1
-VBZ_,
-kicks_,	1
-works_,	1
-is_,	3
-revolves_,	1
 RB_NN
+especially_room	1
 never_tire	1
 always_laugh	1
 arguably_laugh	1
@@ -4595,6 +4397,7 @@ wonderful_animated	1
 beautiful_Russian	1
 QUICK_CLOSE	1
 good_warm	1
+first_classic	1
 entertaining_animated	1
 slow-motion_kung-fu	1
 superb_priceless	1
@@ -4607,39 +4410,32 @@ how_talented	1
 how_different	1
 how_funny	1
 how_silly	1
-,_CC
-,_and	34
-,_or	2
-,_but	15
-,_yet	2
 VB_NN
 PAY_ATTENTION	1
 take_note	1
 tearfully_laugh	1
 make_ruum	1
 get_star	1
-,_CD
-,_One	1
-,_one	1
+UH_RB
+Oh_well	1
+VBZ_JJR
+has_more	1
 VBZ_JJS
 does_best	1
 NN_WP
+retrospect_what	1
 butler_who	1
 woman_who	1
 inspector_who	1
+Look_what	1
 spy_who	1
 anyone_who	1
 keeper_who	1
-``_FW
-``_leau	1
-``_Sellers	1
 WRB_NNP
 where_Mike	1
 how_Blake	1
 When_Clouseau	1
 where_Omar	1
-VBP_WP
-remember_what	1
 PRP_TO
 them_to	1
 NNS_VBP
@@ -4676,18 +4472,17 @@ with_1975	1
 for_1982	1
 about_3	1
 NNS_VBZ
-SELLERS_IS	1
 scenes_is	1
-Sellers_is	2
 Sellers_destroys	1
+1970s_is	1
+SELLERS_IS	1
 movies_is	1
+Sellers_is	2
 VBD_PRP$
 said_your	2
 was_your	1
 IN_CC
 over_and	1
-PRP_:
-it_:	1
 JJS_IN
 loudest_at	1
 best_in	2
@@ -4702,6 +4497,7 @@ tears_laughing	1
 people_running	1
 PRP_NNP
 You_Light	1
+himself_Peter	1
 me_Clouseau	1
 you_REALLY	1
 WRB_POS
@@ -4729,13 +4525,6 @@ see_Clouseau	1
 want_Clouseau	1
 miss_Clousseau	1
 are_NOT	1
-''_WRB
-''_where	1
-``_PRP
-``_I	1
-``_You	1
-PRP$_,
-his_,	1
 RP_PDT
 out_all	1
 POS_JJ
@@ -4749,13 +4538,6 @@ POS_JJ
 's_old	1
 :_JJ
 ..._great	1
-VBN_``
-seen_``	1
-''_IN
-''_from	1
-''_at	1
-''_in	2
-''_of	2
 :_TO
 --_to	1
 VBD_VBN
@@ -4773,6 +4555,7 @@ VBZ_VB
 does_contain	1
 VBD_PRP
 thought_you	2
+said_you	1
 loved_it	2
 knew_it	1
 saw_it	1
@@ -4818,12 +4601,17 @@ given_star	1
 sent_home	1
 NNP_RB
 Inspector_later	1
+Sellers_now	1
+Lom_however	1
 Sharif_then	1
+Dreyfus_now	1
 Ford_only	1
 Clouseau_possibly	1
 Rush_deservedly	1
 Oktoberfest_hilariously	1
 Lom_really	1
+UH_IN
+yes_that	1
 POS_:
 's_...	1
 NNP_VBP
@@ -4834,7 +4622,7 @@ Cato_are	1
 REALLY_want	1
 :_PRP
 --_he	1
-..._I	1
+..._I	2
 :_they	1
 :_he	1
 -_it	1
@@ -4842,8 +4630,10 @@ REALLY_want	1
 NNS_IN
 holidays_in	1
 cameos_in	1
+comedies_without	1
 Sellers_as	1
 entries_in	1
+incarnations_before	1
 events_in	1
 decisions_like	1
 sequences_in	1
@@ -4877,6 +4667,7 @@ undertakings_on	1
 moments_upon	1
 premises_by	1
 years_after	1
+problems_in	1
 vehicles_for	1
 scenes_with	1
 biographies_of	1
@@ -4890,6 +4681,7 @@ feet_in	1
 drifts_into	1
 films_of	1
 antics_that	1
+spoofs_around	1
 mobies_from	1
 gems_that	1
 talents_as	1
@@ -4900,25 +4692,30 @@ changed_...	1
 did_--	1
 NNP_VBZ
 Lom_hams	1
+Again_is	3
 Lom_plays	1
-Ford_is	1
+Inspector_sets	1
 Clouseau_has	1
 Down_is	1
 Hollywood_deserves	1
 Clouseau_sings	1
+Ocktoberfest_encounters	1
 CLOUSEAU_IS	1
 STRANGELOVE_is	1
+Ford_is	1
 Dreyfus_disappers	1
 Dreyfus_erases	1
+Down_provides	1
 Edwards_gives	1
 Sellers_strikes	1
 Visitation_plays	1
-Clouseau_is	8
+Clouseau_is	9
 AGAIN_is	3
 Dreyfus_has	1
 Jones_contributes	1
 Sharif_makes	1
 Mancini_contributes	1
+Proverb_has	1
 Down_adds	1
 Sellers_is	3
 Dreyfus_is	2
@@ -4974,26 +4771,29 @@ NN_JJS
 laugh-out-loud_fest	1
 time_greatest	1
 RB_MD
+over_will	1
+typically_ca	1
 just_ca	1
-NN_``
-comedy_``	1
-stunt_``	1
-series_``	1
-slapstick_`	1
-RAID_``	1
-singing_``	1
-ala_``	1
-scene_``	1
-classic_``	1
-VBG_NNP
-killing_Bond	1
-Being_Served	1
-bumbling_Clousseau	1
-Watching_Dreyfus	1
-VBD_,
-was_,	1
-said_,	1
-led_,	1
+CC_NNP
+and_A	1
+and_Herbert	2
+but_Inspector	1
+and_Dreyfus	1
+and_Clouseau	3
+and_Michael	1
+and_Hardy	1
+and_Peter	1
+and_Cato	1
+And_Clouseau	1
+and_MR.	1
+or_Our	1
+and_Dreyfuss	1
+and_Deep	1
+but_STRIKES	1
+and_Lesley	1
+and_Henry	1
+&_DEATH	1
+and_Frank	1
 VBD_.
 won_.	1
 NNP_VBG
@@ -5007,22 +4807,24 @@ Clouseau_trying	1
 Lom_giving	1
 NNP_VBD
 Edwards_kept	1
+GOOD_ARRIVED	1
 Hardy_proved	1
 Kissinger_were	1
 Sellers_had	1
-Sellers_was	1
+Again_came	1
+PANTHER_proved	1
 Sellars_mastered	1
 President_was	1
 Clouseau_was	1
+Sellers_was	1
 York_did	1
 Myers_got	1
 Down_gave	1
 AGAIN_was	1
 Powers_was	1
-DT_''
-the_'	1
-WP_NNP
-what_Clouseau	2
+NNP_VBN
+Clouseau_played	1
+Again_directed	1
 NNP_POS
 Inspector_'s	1
 Mancini_'s	1
@@ -5041,28 +4843,36 @@ Laurentis_'	1
 Edwards_'	1
 NN_RB
 time_altogether	1
-Best_ever	1
+guess_also	1
+dog_really	1
+vehicle_though	1
+step_up	1
+cast_frequently	1
 bit_as	1
 moment_later	1
-one_else	1
-story_still	1
-dog_really	1
-audience_merely	1
-success_nonetheless	1
-PANTHER_as	1
-form_here	1
+DVD_instead	1
 movie_also	1
-step_up	1
+story_still	1
+son-of-a-gun_narrowly	1
+middle_then	1
+confusion_just	1
+audience_merely	1
+PANTHER_as	1
 something_else	1
 course_not	1
 trick_still	1
 film_previously	1
-Everything_else	1
 helm_again	1
-cast_frequently	1
-guess_also	1
+course_entirely	1
+one_else	1
+form_here	1
+Best_ever	1
+success_nonetheless	1
+Robbery_later	1
+Everything_else	1
 JJ_IN
 crazy_by	1
+related_though	1
 wonderful_in	1
 insane_than	1
 rid_of	1
@@ -5071,7 +4881,7 @@ unfortunate_that	1
 full_of	1
 myriad_of	1
 own_in	1
-alive_in	1
+such_as	2
 few_of	1
 over-the-top_at	1
 hit-men_from	1
@@ -5081,7 +4891,7 @@ unfamiliar_with	1
 Bond-ish_with	1
 dead_after	1
 synonymous_with	1
-such_as	2
+alive_in	1
 other_than	2
 stunning_as	1
 Excellent_in	1
@@ -5090,29 +4900,13 @@ subtle_than	1
 funny_with	1
 humorous_with	1
 other_in	1
-''_PRP
-''_he	1
 VBG_JJ
 avoiding_certain	1
 giving_such	1
 resulting_martial	1
-NNS_JJ
-words_Franz-waa	1
-films_many	1
-Sellers_ready	1
-lines_such	1
-objects_invisible	1
-scenes_such	1
-times_brilliant	1
-TO_``
-to_``	2
 NN_RP
 time_out	1
 laugh_out	1
-PRP_,
-he_,	1
-me_,	2
-himself_,	3
 VBZ_DT
 is_the	24
 provides_a	1
@@ -5152,12 +4946,15 @@ is_any	1
 erases_the	1
 is_a	14
 enjoys_a	1
+exclaims_That	1
 DOES_A	1
 CD_NN
-one_element	1
-1976_movie	1
 1976_laugh-out-loud	1
+two_Panther	1
+1976_movie	1
 one_side	1
+five_Panther	1
+one_element	1
 VBZ_NNP
 is_Austin	1
 's_A	1
@@ -5171,6 +4968,8 @@ comes_Lesley	1
 Strikes_Again	9
 RP_CC
 up_and	1
+:_.
+..._.	1
 VBZ_NNS
 is_dwells	1
 makes_objects	1
@@ -5180,20 +4979,23 @@ are_plenty	1
 get_everything	1
 are_language	1
 NN_PRP$
+waste_your	1
 laugh.Mark_my	1
 laugh_your	1
-waste_your	1
-JJ_''
-Dark_''	3
-good_''	1
+perfection_their	1
 VB_CD
 get_one	1
 VB_CC
 contemplate_and	1
+disguise_and	1
 NNP_DT
-Overall_this	1
 Hayman_the	1
+Clouseau_every	1
 Oscars_that	1
+Overall_this	1
+Down_a	1
+FBI_the	1
+Edwards_the	1
 VBN_NNP
 entertained_AND	1
 named_Olga	1
@@ -5204,59 +5006,25 @@ over_in	1
 up_as	1
 VBN_NNS
 deleted_scenes	1
-,_WP$
-,_whose	1
-,_NNP
-,_Damaris	1
-,_Leonard	2
-,_Hollywood	1
-,_Jaques	1
-,_A	1
-,_Dreyfus	3
-,_REVENGE	1
-,_King	1
-,_BLAKE	1
-,_Lesley	1
-,_Cato	1
-,_Dr.	2
-,_Inspector	1
-,_Briony	1
-,_Tony	1
-,_Mr.	1
-,_Peter	2
-,_Richard	1
-,_Dracula	1
-,_Clouseau	4
-,_Andre	1
-,_Colin	1
-,_Sharif	1
-CC_NNP
-and_A	1
-and_Herbert	2
-but_Inspector	1
-and_Dreyfus	1
-and_Clouseau	3
-and_Michael	1
-and_Hardy	1
-and_Peter	1
-and_Cato	1
-And_Clouseau	1
-and_MR.	1
-and_Dreyfuss	1
-and_Deep	1
-but_STRIKES	1
-and_Henry	1
-&_DEATH	1
-and_Frank	1
+VBG_NNP
+missing_Sharif	1
+saying_Room	1
+bumbling_Clousseau	1
+killing_Bond	1
+Being_Served	1
+Watching_Dreyfus	1
 CC_NNS
 and_cameos	1
 and_mistakes	1
 and_lines	2
 WP_IN
+who_after	1
 who_by	1
 VBZ_IN
 drags_in	1
 comes_into	1
+is_of	1
+works_as	1
 falls_in	1
 shows_that	1
 comments_on	1
@@ -5264,7 +5032,8 @@ returns_in	1
 is_from	1
 is_about	2
 is_like	1
-is_in	2
+is_that	1
+is_in	3
 is_at	2
 stands_as	1
 disappers_into	1
@@ -5280,13 +5049,10 @@ saunters_across	1
 's_at	1
 is_through	1
 goes_for	1
-is_that	1
+revolves_like	1
 loses_in	1
 seems_that	1
 excells_in	1
-,_WDT
-,_which	5
-,_that	1
 VBD_EX
 did_There	1
 JJ_NN
@@ -5356,6 +5122,7 @@ reliable_story	1
 single_disc	1
 good_entry	1
 glowing_tribute	1
+famous_Blemish	1
 former_chief	2
 public_restroom	1
 same_subject	1
@@ -5413,9 +5180,10 @@ Egyptian_spy	1
 favorite_Panther	1
 genuine_comedy	1
 lucky_son-of-a-gun	1
-painful_way	1
+side-splitting_fun	1
 PINK_PANTHER	7
 tooth-pulling_dentist	1
+substandard_director	1
 very_beginning	1
 old_boss	1
 incompetent_chiefinspector	1
@@ -5431,6 +5199,7 @@ vain_attempt	1
 silly_sight	1
 big_fan	1
 thin_air	1
+inferior_Trail	1
 look-alike_actor	1
 strange_dream	1
 first_Panther	2
@@ -5459,6 +5228,7 @@ supporting_cast	1
 high_caliber	1
 only_hope	1
 super_weapon	1
+painful_way	1
 early_film	1
 European_castle	1
 subtle_comedy	1

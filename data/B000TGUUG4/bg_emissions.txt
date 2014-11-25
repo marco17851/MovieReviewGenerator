@@ -1,7 +1,3 @@
-,_IN
-,_like	1
-,_though	1
-,_as	1
 JJ_IN
 available_on	1
 obnoxious_at	1
@@ -34,6 +30,7 @@ me_sesame	1
 NN_TO
 concept_to	1
 DT_IN
+all_like	1
 some_of	2
 PRP_IN
 it_in	1
@@ -64,8 +61,6 @@ as_they	1
 though_I	1
 with_me	1
 With_Me	2
-IN_CD
-than_75	1
 VBZ_CD
 is_8	1
 is_13	1
@@ -92,9 +87,7 @@ PRP_VBG
 myself_singing	1
 NNP_NN
 Me_series	1
-Sesame_series	1
-NN_,
-online_,	1
+Sesame_series	2
 VBZ_RB
 is_so	1
 does_not	1
@@ -120,8 +113,9 @@ TO_PRP$
 to_her	1
 VBN_RP
 taken_down	1
-``_NNP
-``_Groverelli	1
+VBN_JJ
+packaged_different	1
+been_able	1
 PRP_VBP
 I_find	1
 I_give	1
@@ -140,28 +134,23 @@ PRP$_JJS
 my_youngest	1
 NN_MD
 T-Mom_Ca	1
-PRP_VBZ
-Me_seems	1
-it_is	2
-it_sucks	1
-it_does	1
-It_is	2
+DT_VB
+the_Play	1
 NNP_CC
+Sesame_and	1
 Street_&	1
 NNP_CD
 August_2008	1
 VBP_NN
 love_play	1
 are_crap	1
-DT_``
-the_``	1
+RBR_IN
+more_on	1
 RB_IN
 anywhere_until	1
 again_until	1
 instead_of	1
 enough_of	1
-,_RB
-,_especially	1
 VBP_PRP
 wish_they	1
 find_myself	1
@@ -191,10 +180,6 @@ JJR_NN
 harder_concept	1
 PRP_VB
 me_teach	1
-NNP_,
-Sesame_,	1
-VBZ_PRP
-loves_it	1
 NNP_.
 Amazon_.	1
 DT_VBP
@@ -215,13 +200,13 @@ RP_TO
 up_to	1
 CC_VBD
 &_held	1
+JJ_RB
+ST_especially	1
 VB_IN
 Play_With	2
 Play_with	1
 CC_VBN
 but_updated	1
-JJ_,
-ST_,	1
 JJR_NNS
 more_games	1
 VBG_PRP$
@@ -245,17 +230,10 @@ expectations_.	1
 shows_.	1
 videos_.	1
 toddlers_.	1
-NNS_,
-opposites_,	1
-releases_,	1
-patterns_,	1
-colors_,	1
-episodes_,	1
 NN_CD
 age_2	1
-VBD_JJ
-arrived_quick	1
-came_loose	1
+CC_IN
+and_in	2
 VBD_RP
 lived_up	1
 RB_NN
@@ -284,26 +262,30 @@ more_than	1
 better_than	1
 VBZ_JJ
 is_available	1
-,_CC
-,_and	2
-,_but	1
+IN_CD
+than_75	1
 VB_NN
 diminish_quality	1
 NN_NNS
 music_videos	1
 DVD/CD-ROM_releases	1
 income_families	1
+PRP_VBZ
+Me_seems	1
+it_is	2
+it_sucks	1
+it_does	1
+It_is	2
+NNS_NNS
+colors_patterns	1
+opposites_colors	1
 NN_NNP
 content_August	1
-''_RB
-''_quite	1
-CC_IN
-and_in	2
+VBD_JJ
+arrived_quick	1
+came_loose	1
 VBP_TO
 have_to	1
-VBN_JJ
-packaged_different	1
-been_able	1
 PRP$_NNS
 her_expectations	1
 My_kids	1
@@ -376,9 +358,9 @@ screen_time	1
 content_online	1
 game_content	1
 school_music	1
-NNP_''
-Groverelli_''	1
-Sesame_''	1
+NNS_POS
+children_'s	1
+kids_'	1
 DT_NNS
 the_cases	1
 The_discs	1
@@ -413,12 +395,12 @@ VBD_DT
 had_the	1
 chose_the	1
 found_this	1
-``_VB
-``_Play	1
 CD_RB
 2008_So	1
 NNS_CC
 months_and	1
+patterns_and	1
+releases_but	1
 songs_but	1
 VBD_PRP
 helped_me	1
@@ -451,11 +433,13 @@ series_for	1
 player_so	1
 %_off	1
 time_with	1
+online_as	1
 mouse_for	1
 play_with	1
 combination_of	1
 rest_of	1
 NNP_RB
+Groverelli_quite	1
 Amazon_first	1
 CC_DT
 &_this	1
@@ -463,6 +447,7 @@ but_the	1
 and_this	1
 NNS_IN
 Thanks_for	1
+episodes_though	1
 games_on	1
 CC_CD
 or_3	1
@@ -496,8 +481,6 @@ autistic.HE_LOVES	1
 VBD_.
 helped_.	1
 liked_.	1
-''_NN
-''_series	1
 RB_RB
 anywhere_again	1
 so_much	1
@@ -507,9 +490,6 @@ VBD_IN
 checked_on	1
 TO_IN
 to_for	1
-,_NNS
-,_patterns	1
-,_colors	1
 DT_JJS
 the_hardest	1
 DT_JJR
@@ -519,14 +499,10 @@ NN_RB
 DVD/VHS_anywhere	1
 granddaughter_absolutely	1
 series_as	1
-VBG_``
-singing_``	1
 PRP_RB
 it_always	1
 them_instead	1
 I_highly	1
-DT_,
-all_,	1
 JJS_TO
 youngest_to	1
 VBG_JJ
@@ -582,20 +558,19 @@ buying_the	1
 getting_the	1
 JJS_NN
 hardest_time	1
-RBR_IN
-more_on	1
+VBZ_PRP
+loves_it	1
 VB_RB
 shop_anywhere	1
 get_enough	1
+VBG_NNP
+singing_Groverelli	1
 CC_NNS
 and_characters	1
 PRP$_CD
 My_18	1
 VBZ_IN
 sucks_that	1
-NNS_POS
-children_'s	1
-kids_'	1
 VBG_PRP
 popping_it	1
 VBZ_TO

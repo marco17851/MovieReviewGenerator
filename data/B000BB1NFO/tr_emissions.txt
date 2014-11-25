@@ -1,9 +1,9 @@
+NNS_NNP_CC
+prophets_Zoroaster_or	1
 VBN_IN_DT
 seen_on_this	1
 PDT_DT_NNS
 all_the_prophets	1
-,_NNP_CC
-,_Zoroaster_or	1
 IN_DT_NN
 on_this_topic	1
 JJ_NNS_.
@@ -58,10 +58,6 @@ NNP_CC_NNP
 Zoroaster_or_Zarathustra	1
 NN_PRP_VBP
 documentary_I_have	1
-PRP_VBD_PRP
-I_found_it	1
-PRP_VBZ_RB
-It_is_definitely	1
 NNS_IN_DT
 prophets_in_the	1
 CD_JJ_NNS
@@ -79,8 +75,8 @@ the_price_.	1
 this_topic_.	1
 JJ_NNS_IN
 major_prophets_in	1
-NNS_,_NNP
-prophets_,_Zoroaster	1
+PRP_VBZ_RB
+It_is_definitely	1
 JJ_RB_.
 old_together_.	1
 VBZ_VBN_.
@@ -91,10 +87,12 @@ TO_VB_JJ
 to_be_inspirational	1
 JJ_DT_NN
 worth_the_price	1
-JJ_NNS_,
-favorite_prophets_,	1
+PRP_VBD_PRP
+I_found_it	1
 VBP_PRP_:
 recommend_it_...	1
+JJ_NNS_NNP
+favorite_prophets_Zoroaster	1
 DT_VBD_RB
 This_was_simply	1
 PRP_VBZ_PDT

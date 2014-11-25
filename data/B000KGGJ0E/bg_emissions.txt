@@ -5,9 +5,6 @@ between_comedy	1
 in_front	1
 in_capital	1
 with_energy	1
-,_IN
-,_for	1
-,_from	1
 JJ_IN
 GREAT_in	1
 crude_like	1
@@ -47,10 +44,6 @@ RB_.
 indeed_.	1
 soon_.	1
 much_.	1
-,_PRP
-,_he	2
-,_I	2
-,_you	1
 VBZ_JJ
 is_GREAT	1
 is_adorable	1
@@ -58,8 +51,8 @@ is_great	1
 's_professional	1
 VBP_CD
 are_two	1
-VBD_NN
-looked_brand	1
+VBD_CC
+wanted_and	1
 VBD_CD
 spent_one	1
 had_one	1
@@ -73,8 +66,6 @@ and_then	1
 VBG_.
 thinking_.	1
 watching_.	1
-VBN_,
-played_,	1
 IN_JJS
 like_most	1
 at_least	1
@@ -84,13 +75,12 @@ cute_and	1
 WRB_PRP
 how_it	1
 why_she	1
-IN_CC
-before_and	1
 JJ_RB
 rare_indeed	1
 PRP$_JJ
 your_average	1
 PRP_PRP
+it_I	1
 me_it	1
 IN_PRP
 like_you	1
@@ -101,8 +91,11 @@ for_me	1
 as_It	1
 as_he	1
 as_it	1
+VBN_CC
+played_and	1
 VBZ_CD
 's_one	1
+says_90	1
 gets_zero	1
 NNP_WP
 Allen_who	1
@@ -111,8 +104,6 @@ NNS_WDT
 films_that	1
 guys_that	1
 comedys_which	1
-PDT_DT
-all_the	1
 POS_NN
 's_film	1
 's_character	2
@@ -195,8 +186,6 @@ I_think	2
 I_like	1
 I_agree	1
 you_care	1
-RB_,
-Well_,	1
 RB_DT
 even_the	1
 exactly_the	1
@@ -230,24 +219,22 @@ NNP_CC
 Allen_and	1
 NNP_CD
 Top_100	1
-VB_,
-be_,	1
 TO_RB
 to_really	1
-IN_,
-with_,	1
+PDT_DT
+all_the	1
 RB_IN
+Well_for	1
 exactly_as	1
 not_at	1
 dangerously_between	1
-,_RB
-,_even	1
-,_not	1
 VBP_PRP
 think_it	1
 agree_it	1
 think_you	1
 own_it	1
+DT_CC
+this_and	1
 CC_PRP
 But_I	1
 and_you	1
@@ -270,17 +257,10 @@ VBD_JJ
 was_excellent	1
 PRP_.
 it_.	2
-PRP_,
-them_,	1
-it_,	2
 IN_PRP$
 of_his	2
 from_his	1
 about_your	1
-IN_JJ
-in_top	1
-NNP_,
-But_,	1
 CD_JJ
 two_pretty	1
 one_good	1
@@ -288,8 +268,6 @@ NNP_.
 Allen_.	1
 Scarett_.	1
 Destiny_.	1
-,_VBG
-,_playing	1
 LS_VB
 i_love	1
 IN_IN
@@ -309,14 +287,14 @@ CC_VBG
 and_watching	1
 VB_IN
 begin_with	1
+be_from	1
 say_that	1
 JJ_VBG
 worth_owning	1
+JJ_PRP
+likeable_you	1
 CC_VBN
 and_embarassed	1
-JJ_,
-likeable_,	1
-overall_,	1
 JJ_.
 predictable_.	1
 excellent_.	1
@@ -329,6 +307,8 @@ playing_their	1
 VBD_RB
 had_only	1
 was_n't	1
+NN_DT
+star_the	1
 VB_VBN
 be_played	1
 VBN_IN
@@ -356,12 +336,6 @@ VBZ_.
 cares_!	1
 VBP_JJ
 are_predictable	1
-VBZ_,
-says_,	1
-NNS_,
-co-workers_,	1
-parents_,	1
-minutes_,	1
 RB_NN
 really_laugh	1
 NNS_TO
@@ -396,20 +370,16 @@ NN_MD
 everybody_should	1
 IN_WP
 about_what	1
-,_CC
-,_and	10
-,_or	1
-,_but	2
+VB_VBG
+be_thinking	1
 VB_NN
 be_somebody	1
 NN_NNS
 capital_letters	1
 karaoke_scenes	1
 work_buddies	1
-,_CD
-,_90	1
-VBG_JJR
-watching_more	1
+NN_NNP
+character_Chuck	1
 MD_IN
 should_at	1
 NN_WP
@@ -442,8 +412,10 @@ hope_to	1
 get_to	1
 NN_PRP
 way_they	1
-way_you	1
 promotion_he	1
+fan_I	1
+way_you	1
+company_he	1
 NNS_DT
 characters_a	1
 IN_RB
@@ -484,8 +456,9 @@ and_work	1
 and_karaoke	1
 VBD_PRP$
 got_their	1
-,_DT
-,_the	2
+IN_CC
+with_and	1
+before_and	1
 NNP_VBZ
 Allen_gives	1
 Belushi_is	1
@@ -509,6 +482,8 @@ ans_sickness	1
 teaches_karate	1
 VBP_NNP
 enjoy_Allen	1
+NNS_JJ
+parents_unhappy	1
 VBP_DT
 am_a	1
 think_the	1
@@ -522,8 +497,9 @@ self_defense	1
 tool_man	1
 action_star	1
 parking_lot	1
-,_WDT
-,_which	1
+POS_JJ
+'s_new	1
+'s_huge	1
 CC_VBP
 but_y'	1
 DT_NNS
@@ -546,12 +522,6 @@ the_Allen	1
 a_TIm	1
 the_Tool	1
 a_Tim	1
-,_JJ
-,_unhappy	1
-,_inescrupulous	1
-,_solid	1
-WP_PRP
-what_he	1
 DT_JJ
 some_bad	1
 a_HILARIOUS	1
@@ -576,11 +546,12 @@ a_former	1
 PRP_NN
 it_downfall	1
 JJ_JJ
-first_few	1
-HILARIOUS_deleted	1
-pretty_funny	1
 straight_forward	1
+overall_solid	1
+HILARIOUS_deleted	1
 half_enjoyable	1
+first_few	1
+pretty_funny	1
 JJS_NNS
 most_comedys	1
 Most_people	1
@@ -588,26 +559,16 @@ greatest_films	1
 CC_WP
 But_who	1
 NNS_CC
+minutes_but	1
 peers_and	1
 reviews_and	1
 VBD_PRP
 enjoyed_it	2
 loved_it	1
-NN_,
-mother_,	1
-form_,	1
-stand_,	1
-fan_,	1
-DVD_,	1
-character_,	1
-company_,	1
-life_,	1
-downfall_,	1
-enthusiasm_,	1
-karate_,	1
-star_,	1
-movie_,	2
-comedy_,	1
+PRP_DT
+it_a	1
+IN_JJ
+in_top	1
 NN_.
 shame_.	1
 picture_.	1
@@ -660,13 +621,22 @@ films_that	1
 reviews_because	1
 ways_of	1
 features_with	1
+NNS_PRP
+co-workers_he	1
 NN_CC
+movie_or	1
 comedy_and	1
-man_and	1
-fan_and	1
-daughter_and	1
 squash_and	1
+downfall_but	1
+man_and	1
+karate_and	1
+daughter_and	1
+stand_and	1
 energy_and	1
+movie_and	1
+life_and	1
+DVD_and	1
+fan_and	1
 WDT_VBP
 that_are	1
 TO_VB
@@ -674,15 +644,15 @@ to_be	1
 to_have	1
 to_take	1
 to_begin	1
-NN_JJS
-time_greatest	1
+NN_VBG
+form_playing	1
 RB_MD
 probably_can	1
 NN_VBD
 career_tanked	1
 movie_generated	1
-VBD_,
-wanted_,	1
+WP_PRP
+what_he	1
 NN_VBZ
 sickness_makes	1
 business_comes	1
@@ -707,6 +677,7 @@ not_anywhere	1
 VBD_IN
 lost_in	1
 PRP_CC
+them_and	1
 I_and	1
 NN_VBP
 laugh_are	1
@@ -719,6 +690,10 @@ Belushi_'s	2
 NN_RB
 film_soon	1
 role_exactly	1
+enthusiasm_even	1
+comedy_not	1
+NN_JJS
+time_greatest	1
 PRP_RB
 I_just	1
 he_now	1
@@ -726,13 +701,12 @@ You_probably	1
 It_literally	1
 it_very	1
 I_never	1
-DT_,
-this_,	1
 DT_.
 all_.	1
 NN_JJ
 day_present	1
 feel_good	1
+mother_inescrupulous	1
 brand_new	1
 VBZ_DT
 delivers_a	1
@@ -779,8 +753,8 @@ starts_wondering	1
 VB_PRP
 skip_it	1
 read_it	1
-PRP_DT
-it_a	1
+VBG_JJR
+watching_more	1
 VBZ_VBN
 is_played	1
 VBZ_PRP$
@@ -801,6 +775,7 @@ VBG_DT
 refinishing_the	1
 NNP_DT
 Tim_the	1
+But_the	1
 RB_VBD
 never_saw	1
 literally_looked	1
@@ -813,24 +788,19 @@ VBN_NNS
 divorced_parents	1
 VBZ_PRP
 makes_it	2
-VB_VBG
-be_thinking	1
 VB_RB
 get_back	1
 CC_MD
 or_would	1
-,_NNP
-,_Chuck	1
 CC_NNP
 and_Mr.	1
 and_Belushi	2
 CC_NNS
 and_co-workers	1
-POS_JJ
-'s_new	1
-'s_huge	1
 NNP_TO
 Joe_to	1
+VBD_NN
+looked_brand	1
 VB_RP
 stand_out	1
 figure_out	1
@@ -882,3 +852,5 @@ good_father	1
 huge_fan	1
 great_movie	1
 real_drama	1
+PRP_WDT
+it_which	1

@@ -70,10 +70,6 @@ watered	1
 amused	1
 watched	1
 misused	1
-POS
-'s	1
-''
-''	9
 VBP
 do	1
 think	1
@@ -407,8 +403,8 @@ Hosea	2
 6:2	2
 et	1
 Isaiah	1
-,
-,	42
+POS
+'s	1
 .
 !	7
 ?	2
@@ -589,8 +585,58 @@ NOT	1
 YES	1
 Harvest-Luke	1
 Hmmm	1
-``
-``	9
+VB
+own	1
+love	1
+consider	1
+be	10
+mind	1
+bring	1
+say	2
+have	5
+escape	1
+seem	1
+provoke	1
+occur	1
+end	2
+give	1
+prepare	1
+perform	1
+support	1
+show	2
+chide	1
+build	1
+advise	1
+tell	2
+do	3
+buy	2
+Join	1
+Look	1
+form	1
+get	1
+read	1
+share	2
+step	1
+entertain	1
+know	2
+spoil	1
+join	1
+spend	1
+come	1
+present	2
+possess	1
+Enjoy	1
+think	1
+attempt	1
+like	1
+appreciate	1
+keep	1
+try	1
+Held	1
+continue	1
+stand	1
+penetrate	1
+make	2
 WRB
 how	4
 when	3
@@ -670,55 +716,3 @@ best	1
 JJR
 >	1
 less	1
-VB
-own	1
-love	1
-consider	1
-be	10
-mind	1
-bring	1
-say	2
-have	5
-escape	1
-seem	1
-provoke	1
-occur	1
-end	2
-give	1
-prepare	1
-perform	1
-support	1
-show	2
-chide	1
-build	1
-advise	1
-tell	2
-do	3
-buy	2
-Join	1
-Look	1
-form	1
-get	1
-read	1
-share	2
-step	1
-entertain	1
-know	2
-spoil	1
-join	1
-spend	1
-come	1
-present	2
-possess	1
-Enjoy	1
-think	1
-attempt	1
-like	1
-appreciate	1
-keep	1
-try	1
-Held	1
-continue	1
-stand	1
-penetrate	1
-make	2

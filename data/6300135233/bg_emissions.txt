@@ -32,18 +32,15 @@ make_an	1
 keep_a	1
 be_that	1
 get_this	1
-RB_,
-again_,	1
-nicely_,	1
 RB_.
 again_.	1
 well_!	1
-,_PRP
-,_it	1
 VBZ_JJ
 is_responsible	1
 is_amazing	1
 is_inconceivable	1
+VBD_NN
+FIND_ANYTHING	1
 NN_TO
 culture_to	1
 RB_VBP
@@ -79,8 +76,6 @@ VB_TO
 like_to	1
 VBZ_CC
 is_either	1
-,_NN
-,_everytime	1
 PRP_VBD
 he_researched	1
 I_saw	1
@@ -114,10 +109,8 @@ this_film	3
 the_audience	1
 this_one	1
 a_plot	1
-CC_,
-plus_,	1
-RP_,
-out_,	1
+VBZ_RB
+is_so	1
 VBN_RP
 found_out	1
 DT_VBD
@@ -145,16 +138,12 @@ HE_IS	1
 NNS_MD
 gypsies_will	1
 customs_might	1
-VBN_''
-outdated_''	1
 IN_.
 that_.	1
 RB_IN
 later_that	1
 well_as	1
 again_as	1
-,_RB
-,_never	1
 VBP_PRP
 WHERE_HE	1
 see_it	1
@@ -181,11 +170,6 @@ IN_PRP$
 of_their	1
 about_their	1
 in_his	1
-NN_,
-fun_,	1
-Plus_,	1
-NNP_,
-BTW_,	1
 NNP_.
 LIVING_?	1
 York_.	1
@@ -217,8 +201,6 @@ JJ_PRP
 revealing_it	1
 CC_VBN
 and_found	1
-JJ_,
-many_,	1
 JJ_.
 invisible_.	1
 wrong_.	1
@@ -232,6 +214,7 @@ ABOUT_WHERE	1
 :_SEE	1
 VBN_IN
 stunned_with	1
+outdated_by	1
 forgotten_as	1
 done_that	1
 put_on	1
@@ -245,21 +228,15 @@ JJ_:
 accurate_-	1
 VBP_JJ
 are_accurate	1
-VBZ_,
-has_,	1
 IN_WRB
 with_how	1
 JJ_NNS
 cultural_customs	1
 different_facets	1
-VBZ_IN
-is_about	1
-moves_along	1
+JJ_JJ
+many_many	1
 WRB_JJ
 how_fresh	1
-,_CC
-,_and	1
-,_but	1
 UH_RB
 Oh_well	1
 NN_NNS
@@ -268,6 +245,8 @@ NNPS_VBP
 Gypsies_do	1
 NN_NNP
 book_King	1
+RP_CC
+out_and	1
 RB_VBN
 already_done	1
 so_forgotten	2
@@ -303,6 +282,7 @@ PRP_TO
 it_to	1
 VB_VBN
 be_put	1
+be_outdated	1
 TO_PRP
 to_me	1
 NNS_VBZ
@@ -340,19 +320,16 @@ think_the	1
 feel_this	1
 NNS_RP
 things_out	1
-VBZ_RB
-is_so	1
 NN_NN
 Gypsy_Life	1
 Gypsy_life	1
 story_line	1
+Plus_everytime	1
 CC_VB
 and_amuse	1
 and_keep	1
 and_get	1
 and_tell	1
-CC_VBP
-and_seem	1
 DT_NNS
 the_reviews	1
 the_parts	1
@@ -366,10 +343,6 @@ the_New	1
 the_Roma	1
 EX_VBD
 there_were	1
-''_IN
-''_by	1
-,_JJ
-,_many	1
 DT_JJ
 this_great	1
 a_good	1
@@ -392,6 +365,8 @@ or_whoever	1
 NNS_CC
 parts_and	1
 non-gypsies_and	1
+VBZ_VB
+has_do	1
 VBD_PRP
 helped_him	1
 saw_it	1
@@ -437,6 +412,7 @@ facets_of	1
 NN_CC
 producer_or	1
 movie_and	1
+fun_but	1
 DVD_and	1
 director_or	1
 VB_JJ
@@ -461,8 +437,6 @@ film_has	2
 movie_takes	1
 story_has	1
 one_has	1
-,_VB
-,_do	1
 NNP_VBD
 WHATEVER_HAPPENED	1
 Maas_wrote	1
@@ -487,6 +461,7 @@ because_there	1
 that_there	1
 RB_RB
 as_well	1
+nicely_never	1
 VBZ_DT
 is_a	2
 has_a	1
@@ -508,6 +483,7 @@ York_City	1
 Robert_Duvell	1
 KNOW_WHATEVER	1
 Am_I	1
+BTW_DOES	1
 ON_WIDESCREEN	1
 I_Rom	1
 DOES_ANYBODY	1
@@ -524,8 +500,8 @@ really_is	1
 RB_JJ
 so_revealing	1
 mostly_wrong	1
-``_VBN
-``_outdated	1
+CC_VBP
+and_seem	1
 VB_PRP
 do_you	1
 tell_him	1
@@ -537,8 +513,6 @@ has_been	2
 PRP_NNP
 I_CA	1
 HE_LIVING	1
-VB_``
-be_``	1
 VBD_TO
 HAPPENED_TO	1
 exaggerated_to	1
@@ -551,6 +525,7 @@ entertain_and	1
 amuse_and	1
 RB_PRP
 maybe_they	1
+again_it	1
 RB_VBD
 N'T_FIND	1
 first_saw	1
@@ -562,11 +537,11 @@ lets_you	1
 IS_HE	1
 VBN_CC
 forgotten_and	1
-,_NNP
-,_IT	1
-,_DOES	1
-VBD_NN
-FIND_ANYTHING	1
+CC_NNP
+plus_IT	1
+VBZ_IN
+is_about	1
+moves_along	1
 VBZ_TO
 continues_to	1
 seems_to	1

@@ -13,12 +13,13 @@ DT	1
 NN
 VBG	1
 CC	2
-,	3
+JJR	1
 .	1
 TO	1
 JJ	1
 IN	3
 VBZ	4
+DT	2
 NNS	1
 NNP	1
 CC
@@ -27,11 +28,7 @@ RB	4
 RP
 JJS
 IN	1
-,
-CC	1
-DT	2
-JJR	1
-NN	1
+PRP$
 VBG
 TO	1
 RB	1
@@ -41,12 +38,11 @@ VBP
 RB	1
 JJ	1
 PRP
-,	1
+CC	1
 .	1
 JJ
-NN	4
+NN	5
 CC	1
-,	1
 .	5
 PRP	1
 JJ	2
@@ -65,7 +61,6 @@ DT
 JJ	4
 NN	7
 IN	1
-PRP$
 NNS
 VBP	1
 JJR

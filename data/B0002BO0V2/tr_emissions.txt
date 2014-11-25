@@ -4,6 +4,17 @@ JJ_NN_RB
 great_look_back	1
 NN_VBZ_DT
 DVD_is_a	1
+CD_NNP_NNP
+1953-61_John_F.	1
+1963-69_Richard_M.	1
+1977-81_Ronald_Reagan	1
+1961-63_Lyndon_B.	1
+1981-89_George_Herbert	1
+1945-53_Dwight_D.	1
+1969-74_Gerald_R.	1
+1989-93_Bill_Clinton	1
+1974-77_Jimmy_Carter	1
+1933-45_Harry_S.	1
 NN_RB_IN
 look_back_at	1
 CC_DT_NN
@@ -38,8 +49,6 @@ time_and_in	1
 NN_IN_JJ
 outside_of_official	1
 ribbing_of_many	1
-DT_NN_,
-an_emcee_,	1
 NN_IN_CD
 age_of_102	1
 television_for_46	1
@@ -50,8 +59,6 @@ delivered_on_time	1
 been_on_broadcast	1
 NNP_JJ_NN
 NBC_Special_appearance	1
-POS_NN_,
-'s_wife_,	1
 MD_VB_DT
 would_be_a	1
 DT_NNP_NNP
@@ -65,6 +72,10 @@ PRP_VBD_NNP
 He_outlived_George	1
 TO_VB_.
 to_watch_.	1
+NN_DT_MD
+perspective_this_would	1
+NN_PRP_VBP
+host_they_take	1
 DT_VBZ_NNP
 This_is_Bob	1
 IN_CD_NNS
@@ -72,9 +83,12 @@ of_100_years	1
 for_46_years	1
 at_100_years	1
 CD_IN_DT
+2003_at_the	1
 2011_at_the	1
 IN_CD_NN
 of_93_broadcast	1
+:_NNP_NNP
+:_Lucille_Ball	1
 CD_NNS_.
 48_days_.	1
 59_days_.	1
@@ -82,8 +96,6 @@ CD_NNS_.
 NN_IN_DT
 buff_so_this	1
 appearance_at_the	1
-NN_,_DT
-perspective_,_this	1
 NNP_NNP_CD
 R._Ford_1974-77	1
 Bill_Clinton_1993-2001	1
@@ -96,23 +108,31 @@ M._Nixon_1969-74	1
 D._Eisenhower_1953-61	1
 S._Truman_1945-53	1
 D._Roosevelt_1933-45	1
-JJ_NN_,
-historical_perspective_,	1
+IN_NN_PRP
+as_host_they	1
 JJ_NN_.
 official_business_.	1
 special_guest_.	1
 excellent_condition_.	1
+NNP_CD_NNP
+Truman_1945-53_Dwight	1
+Bush_1989-93_Bill	1
+Reagan_1981-89_George	1
+Nixon_1969-74_Gerald	1
+Ford_1974-77_Jimmy	1
+Carter_1977-81_Ronald	1
+Eisenhower_1953-61_John	1
+Johnson_1963-69_Richard	1
+Roosevelt_1933-45_Harry	1
+Kennedy_1961-63_Lyndon	1
 VBD_RB_IN
 passed_away_from	1
 VB_DT_JJ
 be_a_good	1
 NNPS_NNP_NNP
 States_Bob_Hope	1
-CD_,_CD
-23_,_1996	1
-19_,_2011	1
-9_,_1996	1
-27_,_2003	1
+NNP_CC_IN
+President_but_of	1
 CD_NNS_CC
 100_years_+	2
 NNP_NNPS_NNP
@@ -133,8 +153,6 @@ Hope_'s_wife	1
 TO_NNP_NNP
 to_Bill_Clinton	1
 to_Bob_Hope	1
-,_NNP_CD
-,_July_27	1
 CD_IN_CD
 1996_at_100	1
 PRP_VBD_VBN
@@ -150,8 +168,6 @@ in_a_satire	1
 in_the_company	1
 VBZ_DT_JJ
 is_a_great	1
-,_VBD_RP
-,_passed_away	1
 MD_VB_JJ
 can_be_funny	1
 IN_PDT_DT
@@ -162,30 +178,14 @@ Presidential_comedian_for	1
 Special_appearance_at	1
 IN_IN_DT
 with_as_an	1
-,_NN_,
-,_speaker_,	1
-IN_NN_,
-from_pneumonia_,	1
-as_host_,	1
 JJ_IN_DT
 hot_at_The	1
 IN_NN_CC
 on_time_and	1
 IN_NN_IN
 through_time_of	1
-CD_,_NNP
-1989-93_,_Bill	1
-1961-63_,_Lyndon	1
-1963-69_,_Richard	1
-1945-53_,_Dwight	1
-1953-61_,_John	1
-1969-74_,_Gerald	1
-1974-77_,_Jimmy	1
-1933-45_,_Harry	1
-1977-81_,_Ronald	1
-1981-89_,_George	1
-WP_VBD_NNP
-who_died_March	1
+CD_CD_.
+23_1996_.	1
 NNP_NNP_VBD
 Bob_Hope_was	1
 Bob_Hope_passed	1
@@ -197,55 +197,54 @@ IN_VBG_JJ
 without_being_devisive	1
 NN_VBD_VBN
 DVD_was_delivered	1
-NNP_CD_,
-Ford_1974-77_,	1
-Nixon_1969-74_,	1
-Eisenhower_1953-61_,	1
-March_9_,	1
-Bush_1989-93_,	1
-Reagan_1981-89_,	1
-November_23_,	1
-September_19_,	1
-Johnson_1963-69_,	1
-Roosevelt_1933-45_,	1
-Truman_1945-53_,	1
-Kennedy_1961-63_,	1
-July_27_,	1
-Carter_1977-81_,	1
-NNP_CC_NNP
-Hope_and_Betty	1
+CC_CD_NNS
++_59_days	1
++_48_days	1
 IN_PRP$_JJ
 at_his_good-spirited	1
 RB_IN_PRP$
 back_at_his	1
 DT_NN_VBD
 The_DVD_was	1
-CC_NNP_NNP
-and_Betty_Ford	1
-PRP_,_PRP
-it_,_she	1
 NNP_NNP_NNP
-Lady_Betty_Ford	1
-President_George_Bush	1
+George_Bush_Former	1
+Betty_Ford_Don	1
+President_Gerald_Ford	1
+Former_President_Gerald	1
+Naomi_Judd_Former	1
+Richard_M._Nixon	1
+Reagan_Tom_Selleck	1
+Franklin_D._Roosevelt	2
+Ronald_Reagan_Tom	1
 Harry_S._Truman	1
 Lady_Barbara_Bush	1
 George_Herbert_Walker	1
-Former_First_Lady	2
-Herbert_Walker_Bush	1
-Former_President_Gerald	1
-President_Gerald_Ford	1
-Lyndon_B._Johnson	1
-John_F._Kennedy	1
-First_Lady_Betty	1
-John_Davidson_Show	1
-President_Ronald_Reagan	1
-President_Bill_Clinton	1
+Lady_Betty_Ford	1
+Tom_Selleck_Naomi	1
 Gerald_R._Ford	1
-Richard_M._Nixon	1
-Former_President_George	1
-Dwight_D._Eisenhower	1
-Franklin_D._Roosevelt	2
 First_Lady_Barbara	1
+Selleck_Naomi_Judd	1
+President_Ronald_Reagan	1
+Bush_Ann-Margret_President	1
+President_George_Bush	1
+Ford_Don_Johnson	1
+Judd_Former_President	1
+John_F._Kennedy	1
+John_Davidson_Show	1
+Dwight_D._Eisenhower	1
+Herbert_Walker_Bush	1
+Former_President_George	1
+Don_Johnson_Former	1
+Johnson_Former_President	1
+Ford_Former_First	1
+Bush_Former_First	1
+Gerald_Ford_Former	1
+Former_First_Lady	2
+Lyndon_B._Johnson	1
+Barbara_Bush_Ann-Margret	1
+First_Lady_Betty	1
+Ann-Margret_President_Bill	1
+President_Bill_Clinton	1
 DT_NN_VBZ
 this_DVD_is	1
 PRP$_JJ_NN
@@ -254,15 +253,6 @@ CD_NNP_IN
 11_Presidents_from	1
 RB_VB_NNS
 also_see_clips	1
-NNP_NNP_,
-Ronald_Reagan_,	1
-Tom_Selleck_,	1
-Naomi_Judd_,	1
-George_Bush_,	1
-Barbara_Bush_,	1
-Gerald_Ford_,	1
-Betty_Ford_,	1
-Don_Johnson_,	1
 NNP_NNP_.
 White_House_.	1
 Bill_Clinton_.	2
@@ -270,17 +260,15 @@ Davidson_Show_.	1
 Lucille_Ball_.	1
 PRP$_NN_CC
 my_daughter_and	1
-,_PRP_VBP
-,_they_take	1
 NNP_NNPS_NN
 United_States_outside	1
 VBD_VBN_IN
 was_delivered_on	1
 had_been_on	1
-,_DT_MD
-,_this_would	1
-,_PRP_VBZ
-,_she_is	1
+NNP_CC_NNP
+Hope_and_Betty	1
+CC_NNP_NNP
+and_Betty_Ford	1
 CC_IN_NN
 but_of_course	1
 CC_PRP_VBD
@@ -291,8 +279,6 @@ JJ_CC_JJ
 Nervous_and_hot	1
 POS_JJ_NNP
 's_final_NBC	1
-,_NN_CC
-,_host_or	1
 PRP_MD_RB
 You_will_also	1
 IN_DT_VBD
@@ -301,8 +287,8 @@ DT_JJ_JJ
 the_official_Presidential	1
 NN_IN_NN
 library_for_insight	1
-CC_JJ_IN
-and_hot_at	1
+PRP_PRP_VBZ
+it_she_is	1
 IN_NN_NN
 on_broadcast_television	1
 NN_CC_JJ
@@ -310,6 +296,7 @@ host_or_special	1
 PRP_IN_NN
 you_through_time	1
 DT_NN_NN
+an_emcee_speaker	1
 a_history_buff	1
 NN_POS_NN
 one_'s_DVD	1
@@ -319,13 +306,8 @@ NN_IN_IN
 company_with_as	1
 NN_IN_PDT
 time_of_all	1
-,_CD_IN
-,_2011_at	1
-,_1996_at	1
 DT_VBD_RB
 this_was_really	1
-NN_,_PRP
-host_,_they	1
 JJ_JJ_NN
 official_Presidential_comedian	1
 VBZ_VBN_IN
@@ -336,36 +318,20 @@ MD_RB_VB
 will_also_see	1
 PRP_VBZ_WRB
 It_shows_how	1
+NNP_VBD_RP
+Dolores_passed_away	1
 VBD_DT_NN
 had_a_contract	1
 VBD_IN_PRP$
 was_for_my	1
+IN_NNP_CC
+for_President_but	1
 NNP_POS_JJ
 Hope_'s_final	1
 NN_NN_IN
 broadcast_television_for	1
 DVD_library_for	1
 history_buff_so	1
-,_NNP_NNP
-,_Tom_Selleck	1
-,_Naomi_Judd	1
-,_Don_Johnson	1
-,_Ronald_Reagan	1
-,_Lyndon_B.	1
-,_John_F.	1
-,_Harry_S.	1
-,_President_Bill	1
-,_Gerald_R.	1
-,_Dwight_D.	1
-,_Former_President	2
-,_Bill_Clinton	1
-,_Richard_M.	1
-,_Jimmy_Carter	1
-,_George_Herbert	1
-,_Former_First	2
-NN_,_NN
-emcee_,_speaker	1
-speaker_,_host	1
 JJ_IN_VBG
 funny_without_being	1
 PRP_VBP_PRP
@@ -377,23 +343,30 @@ WRB_JJ_NN
 how_political_humor	1
 NN_NNP_VBD
 course_Bob_turned	1
+wife_Dolores_passed	1
 IN_:_NNP
 of_:_Lucille	1
 IN_NNS_:
 for_generations_-	1
+CD_CD_IN
+9_1996_at	1
+27_2003_at	1
+19_2011_at	1
 IN_DT_NNP
 on_the_John	1
 of_the_United	2
 at_The_White	1
-,_IN_DT
-,_at_the	1
 NNS_CC_CD
 years_+_48	1
 years_+_59	1
+POS_NN_NNP
+'s_wife_Dolores	1
 PRP$_VBP_NNS
 Their_are_interviews	1
 DT_JJ_NNP
 the_many_Presidents	1
+CC_JJ_IN
+and_hot_at	1
 IN_JJ_NNP
 with_former_President	1
 IN_JJ_NNS
@@ -408,6 +381,11 @@ RP_NNP_CD
 away_September_19	1
 PRP_VBD_PRP
 she_loved_it	1
+NNP_CD_CD
+September_19_2011	1
+July_27_2003	1
+November_23_1996	1
+March_9_1996	1
 VBD_RB_DT
 was_essentially_the	1
 MD_VB_RB
@@ -425,8 +403,6 @@ NN_TO_NNP
 insight_to_Bob	1
 RB_JJ_IN
 too_small_for	1
-NNP_,_VBD
-Dolores_,_passed	1
 IN_NNP_CD
 on_November_23	1
 PRP$_JJ_NNS
@@ -435,14 +411,10 @@ NNP_CD_.
 Clinton_1993-2001_.	1
 RB_NN_TO
 really_fun_to	1
-IN_NNP_,
-for_President_,	1
-,_CD_,
-,_2003_,	1
+WP_VBD_NNP
+who_died_March	1
 POS_NN_NN
 's_DVD_library	1
-,_CD_.
-,_1996_.	1
 NN_CC_PRP
 daughter_and_she	1
 NNP_NNP_WP
@@ -460,8 +432,6 @@ shows_how_political	1
 IN_DT_JJ
 From_a_historical	1
 with_the_many	1
-,_CC_IN
-,_but_of	1
 NNP_VBZ_VBN
 Hope_has_been	1
 Bob_has_entertained	1
@@ -485,15 +455,12 @@ TO_NN_POS
 to_one_'s	1
 VBP_PRP_IN
 take_you_through	1
-NNP_,_CC
-President_,_but	1
+VBD_RP_NNP
+passed_away_September	1
 VBD_NNP_NNP
 outlived_George_Burns	1
 DT_MD_VB
 this_would_be	1
-CC_CD_NNS
-+_59_days	1
-+_48_days	1
 NN_IN_NNP
 contract_with_NBC	1
 satire_with_Bob	1
@@ -504,15 +471,12 @@ JJ_NNP_NNP
 former_President_Ronald	1
 NNP_CC_PRP$
 Hope_and_his	1
-VBD_PRP_,
-loved_it_,	1
+NN_NN_CC
+speaker_host_or	1
 RP_IN_PRP
 down_because_he	1
 DT_NNP_NNPS
 the_United_States	2
-,_NNP_,
-,_Ann-Margret_,	1
-,_Dolores_,	1
 NN_VBD_IN
 DVD_was_for	1
 NNP_VBD_RB
@@ -520,16 +484,6 @@ Hope_was_essentially	1
 Hope_passed_away	1
 CC_PRP$_JJ
 and_his_personal	1
-NNP_,_NNP
-Bush_,_Ann-Margret	1
-Johnson_,_Former	1
-Ford_,_Don	1
-Judd_,_Former	1
-Selleck_,_Naomi	1
-Ann-Margret_,_President	1
-Ford_,_Former	1
-Bush_,_Former	1
-Reagan_,_Tom	1
 NNP_VBD_PRP
 Bob_turned_it	1
 VBZ_VBN_CD
@@ -541,9 +495,10 @@ a_good_addition	1
 a_historical_perspective	1
 a_great_look	1
 IN_NN_NNP
+from_pneumonia_July	1
 of_course_Bob	1
-CD_,_IN
-2003_,_at	1
+NN_NN_NN
+emcee_speaker_host	1
 NNS_IN_JJ
 interviews_with_former	1
 VBZ_NNP_NNP
@@ -564,11 +519,12 @@ IN_NNP_NNP
 from_Franklin_D.	1
 with_Bob_Hope	1
 With_Tony_Danza	1
-NN_,_NNP
-pneumonia_,_July	1
-wife_,_Dolores	1
 RB_IN_NN
 away_from_pneumonia	1
+JJ_NN_DT
+historical_perspective_this	1
+NN_NNP_CD
+pneumonia_July_27	1
 VBZ_DT_NN
 is_a_history	1
 NNP_NNP_IN
@@ -578,7 +534,5 @@ Johnny_Carson_in	1
 Tony_Danza_as	1
 VBN_CD_NNP
 entertained_11_Presidents	1
-VBD_RP_NNP
-passed_away_September	1
-:_NNP_NNP
-:_Lucille_Ball	1
+VBD_PRP_PRP
+loved_it_she	1

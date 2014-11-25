@@ -15,13 +15,11 @@ with_education	1
 on_saltwater	1
 In_fact	1
 of_bait	1
-,_IN
-,_on	1
 JJ_IN
 devoid_of	1
 stereotypical_if	1
-,_FW
-,_etc.	2
+NNS_WP
+people_who	1
 NNS_WRB
 changes_when	1
 VBG_VBN
@@ -37,6 +35,7 @@ the_very	1
 NNP_IN
 Clampett_with	1
 Howard_like	1
+Howard_on	1
 NNS_RB
 reviews_here	1
 CC_JJ
@@ -67,20 +66,12 @@ WRB_DT
 when_the	1
 RB_TO
 else_to	1
-NNS_WP
-people_who	1
 IN_VBG
 of_pushing	1
 from_identifying	1
 of_trolling	1
 RB_.
 back_.	1
-VBP_,
-tackle_,	1
-are_,	1
-,_PRP
-,_it	1
-,_you	1
 VBZ_JJ
 is_poor	1
 seems_competent	1
@@ -108,8 +99,8 @@ you_from	1
 him_from	1
 RBR_JJ
 more_informed	1
-VBN_.
-sold_.	1
+NNS_DT
+discussions_no	1
 IN_JJS
 at_best	1
 JJ_CC
@@ -125,8 +116,6 @@ my_first	2
 her_insulting	1
 my_second	1
 her_stereotypical	1
-RP_.
-up_.	1
 VBN_NNP
 imagined_!!	1
 WRB_VBG
@@ -143,8 +132,6 @@ mean_to	1
 prefer_to	1
 VBN_CD
 received_one	1
-,_NN
-,_bait	1
 PRP$_RB
 his_very	1
 Its_just	1
@@ -207,19 +194,20 @@ a_root	1
 a_joke	1
 a_boat	1
 A_guide	1
-the_dentist	1
+a_refund	1
 a_wash	1
-the_fish	2
+the_exception	1
 the_cover	1
 the_series	1
 a_business	1
 the_charter	2
 an_anesthetic	1
-a_refund	1
+the_dentist	1
+a_lady	1
 a_site	1
 the_boat	1
 a_pass	1
-the_exception	1
+the_fish	2
 This_one	1
 the_cost	1
 the_video	3
@@ -236,10 +224,8 @@ this_is	1
 This_is	2
 DT_VBG
 a_changing	1
-``_NNP
-``_Lady	1
-``_Angler	1
-``_Angel	1
+DT_VBD
+this_was	1
 PRP_VBP
 I_buy	1
 I_provide	1
@@ -257,8 +243,9 @@ I_believe	1
 :_.
 ..._.	1
 RB_DT
-absolutely_the	1
 not_the	1
+perhaps_the	1
+absolutely_the	1
 just_an	1
 WP_VBZ
 who_treats	1
@@ -274,11 +261,6 @@ anglers_will	1
 fishermen_will	1
 TO_RB
 to_even	2
-PDT_DT
-such_a	1
-DT_``
-a_``	1
-the_``	1
 RB_IN
 first_before	1
 here_after	1
@@ -287,9 +269,8 @@ VBG_IN
 happening_in	1
 looking_for	1
 using_for	1
-,_RB
-,_perhaps	1
-,_much	1
+RP_.
+up_.	1
 RB_CC
 around_and	1
 enough_and	1
@@ -301,6 +282,7 @@ and_you	2
 but_I	1
 and_I	1
 VBP_RB
+are_perhaps	1
 are_just	1
 am_frankly	1
 have_never	1
@@ -319,18 +301,12 @@ it_.	1
 him_.	1
 FW_.
 etc._.	2
-PRP_,
-them_,	1
 VBD_RB
 was_absolutely	1
 CC_VBP
 and_are	1
-''_NNP
-'_Howard	1
-IN_JJ
-on_mute	1
-NNP_,
-Howard_,	1
+PRP_VB
+them_check	1
 CD_JJ
 5_other	1
 NNP_.
@@ -349,8 +325,6 @@ his_explanation	1
 your_GPS	1
 your_review	1
 my_money	1
-DT_VBD
-this_was	1
 CC_VBD
 and_bought	1
 and_found	1
@@ -369,9 +343,6 @@ bad_it	1
 hard_it	1
 NNP_:
 Angler_-	1
-JJ_,
-selfish_,	1
-unemployed_,	1
 JJ_.
 sterotypical_.	1
 mute_.	1
@@ -384,9 +355,11 @@ informed_.	1
 other_.	1
 WP_VBP
 what_have	1
-RB_,
-perhaps_,	1
-Sadly_,	1
+NN_DT
+bait_the	1
+fish_the	1
+PDT_DT
+such_a	1
 VBN_IN
 divided_into	1
 heard_of	1
@@ -396,15 +369,6 @@ NNS_.
 scenes_.	1
 parts_.	1
 tips_.	2
-NNS_,
-techniques_,	1
-informers_,	1
-rigs_,	1
-discussions_,	1
-conditions_,	1
-techiniques_,	1
-customers_,	1
-locations_,	1
 TO_DT
 to_this	1
 to_the	2
@@ -437,34 +401,38 @@ many_clothes	1
 JJ_JJ
 Seasoned_female	1
 only_useful	1
-good_educational	1
-other_relavent	1
+selfish_irritating	1
 such_irritating	1
+other_relavent	1
+good_educational	1
+unemployed_idiot	1
 CD_IN
 one_that	1
-''_VBZ
-''_is	1
 IN_PDT
 with_such	1
 VB_NNS
 warn_customers	1
 entertain_thoughts	1
 get_reviews	1
-,_CC
-,_and	1
-,_but	1
-DT_JJS
-the_sorriest	1
+VB_NN
+tackle_bait	1
 NN_NNS
-marine_videos	1
 fishing_shows	1
-fishing_videos	1
-fishing_conditions	1
 tide_changes	1
-NNP_PRP$
-GUIDE_Its	1
+fishing_conditions	1
+marine_videos	1
+bait_techiniques	1
+fishing_videos	1
+NNS_NNP
+customers_Jim	1
 NNS_NNS
+techiniques_locations	1
+informers_demonstrators	1
+locations_tips	1
+rigs_techniques	1
 women_anglers	1
+NN_NNP
+grinnin_Howard	1
 CC_IN
 and_for	1
 VBP_TO
@@ -481,10 +449,11 @@ you_would	1
 NN_PRP
 rig_they	1
 video_I	1
-one_I	1
+video_itself	1
 week_I	1
 information_you	1
-video_itself	1
+fact_it	1
+one_I	1
 VB_PRP$
 find_her	2
 check_your	1
@@ -497,6 +466,7 @@ if_not	1
 ._.
 ._.	1
 NNP_CC
+Angel_and	1
 Jim_and	1
 JJ_DT
 worth_every	1
@@ -526,9 +496,6 @@ could_have	1
 could_discern	1
 would_recomend	1
 should_take	1
-,_VBZ
-,_has	1
-,_complains	1
 RBR_VB
 less_watch	1
 PRP_TO
@@ -556,24 +523,22 @@ VBD_PRP$
 found_its	1
 was_my	1
 wanted_my	1
-,_DT
-,_the	4
-,_no	1
 VBP_VBN
 are_produced	1
 are_inundated	1
 NNP_VBZ
 Jim_presents	1
 One_finds	1
+Angler_is	1
 Jim_imparts	1
 CD_VBZ
 Two_introduces	1
-VB_,
-tackle_,	1
 NNS_VBG
 guys_catching	1
 VB_.
 learn_.	1
+VBN_.
+sold_.	1
 JJ_TO
 due_to	1
 difficult_to	1
@@ -597,9 +562,8 @@ VBP_DT
 'm_a	1
 have_the	1
 learn_the	1
+tackle_the	1
 provide_this	1
-CC_``
-and_``	1
 NN_NN
 bennett_marine	1
 minute_video	1
@@ -627,9 +591,6 @@ bait_discussion	1
 fishing_rod	1
 VBG_PRP
 pushing_him	1
-NNP_''
-Angel_''	1
-Angler_''	1
 DT_NNS
 the_waters	1
 IN_NNS
@@ -639,13 +600,11 @@ from_Amazon.com	1
 with_Stooge	1
 with_Jim	1
 DT_NNP
-the_saturday	1
+the_Angel	1
 the_Gulf	1
+the_saturday	1
 JJS_.
 best_.	1
-,_JJ
-,_irritating	1
-,_idiot	1
 DT_JJ
 a_trolled	1
 the_4th	1
@@ -683,8 +642,6 @@ guys_and	1
 demonstrators_and	1
 fishermen_and	1
 shows_and	1
-._''
-._''	2
 VBD_PRP
 bought_it	1
 becuse_I	1
@@ -693,16 +650,8 @@ were_using	1
 was_looking	1
 was_happening	1
 was_surfing	1
-NN_,
-internet_,	1
-technique_,	1
-video_,	1
-fish_,	2
-bait_,	2
-fact_,	1
-pull_,	1
-``_NN
-``_lady	1
+IN_JJ
+on_mute	1
 NN_.
 shadow_.	1
 diversion_.	1
@@ -759,9 +708,6 @@ demonstration_of	3
 guide_on	1
 excuse_for	1
 exercise_in	1
-VBP_VB
-dont_know	1
-dont_mean	1
 VBN_DT
 floored_this	1
 VBP_IN
@@ -790,10 +736,11 @@ net_and	1
 GPS_and	1
 back_and	1
 time_or	1
-video_and	1
+internet_but	1
 series_and	1
-fish_and	1
+fish_and	2
 information_and	1
+video_and	1
 man_and	1
 information_or	1
 refund_and	1
@@ -823,14 +770,15 @@ video_was	2
 WP_PRP
 what_they	1
 NN_VBZ
-video_is	5
+pull_has	1
+technique_complains	1
+video_features	1
 duration_is	1
 captain_seems	1
-video_features	1
-,_VB
-,_check	1
-''_CC
-''_and	1
+video_is	5
+VBP_VB
+dont_know	1
+dont_mean	1
 RB_RB
 far_too	1
 very_poorly	1
@@ -839,6 +787,8 @@ once_again	1
 almost_completely	1
 not_even	1
 not_fish	1
+DT_JJS
+the_sorriest	1
 VBD_IN
 squinted_into	1
 NN_VBP
@@ -855,6 +805,7 @@ WRB_JJ
 how_hard	1
 NN_RB
 money_back	1
+video_much	1
 amazon_first	1
 review_too	1
 PRP_RB
@@ -864,8 +815,9 @@ you_ever	1
 I_still	1
 NN_VB
 dentist_perform	1
-TO_``
-to_``	1
+NNS_FW
+conditions_etc.	1
+techniques_etc.	1
 NN_JJ
 haircut_constant	1
 im_annoyed	1
@@ -890,6 +842,8 @@ IT_A	1
 ANYONE_CALL	1
 CALL_IT	1
 HOW_DARE	1
+NNP_PRP$
+GUIDE_Its	1
 VBP_NN
 buy_anything	1
 RB_JJ
@@ -926,8 +880,8 @@ frankly_floored	1
 never_received	1
 RP_WP
 out_what	1
-NN_''
-grinnin_'	1
+TO_NNP
+to_Lady	1
 VB_CD
 be_1000	1
 VBG_DT
@@ -937,6 +891,7 @@ identifying_the	1
 RB_PRP
 Instead_you	1
 again_I	1
+Sadly_you	1
 unfortunatly_I	1
 JJS_NN
 sorriest_excuse	1
@@ -951,18 +906,11 @@ Do_Not	1
 CC_MD
 and_would	1
 and_will	1
-,_NNP
-,_Jim	1
 CC_NNP
 and_Howard	1
+and_Angler	1
 VBG_RB
 surfing_around	1
-,_NNS
-,_techniques	1
-,_tips	1
-,_techiniques	1
-,_locations	1
-,_demonstrators	1
 NNP_TO
 Stick_to	1
 VB_RP

@@ -3,8 +3,6 @@ appear_on	1
 pay_for	1
 NNPS_.
 DVDs_.	1
-VBP_NN
-want_quality	1
 WDT_VBP
 that_pop	1
 VB_WP
@@ -26,8 +24,6 @@ MD_VB
 RB_.
 everwhere_.	1
 here_.	1
-,_PRP
-,_you	1
 CD_JJ
 four_public	1
 NN_VB
@@ -38,6 +34,8 @@ PRP_MD
 you_'ll	1
 NNP_NNPS
 SONY_DVDs	1
+NNS_VBD
+DVDs_restored	1
 VBZ_DT
 is_the	1
 PRP_VBP
@@ -50,16 +48,12 @@ SONY_Three	1
 Three_Stooges	1
 JJ_CD
 old_four	1
-JJ_,
-cheap_,	1
+VBP_NN
+want_quality	1
 CD_.
 35mm_.	1
-,_VBD
-,_restored	1
 RB_VBP
 also_appear	1
-NNS_,
-DVDs_,	1
 IN_PRP
 If_you	2
 NN_CD
@@ -76,6 +70,8 @@ JJ_JJ
 same_old	1
 DT_VBZ
 This_is	1
+JJ_PRP
+cheap_you	1
 NN_NNS
 domain_titles	1
 IN_DT

@@ -1,4 +1,5 @@
 POS_NNP
+'s_Wherever	1
 's_Dance	1
 IN_NN
 of_mountain	1
@@ -14,30 +15,25 @@ in_something	1
 for_ballroom	1
 of_knowledge	1
 of_information	1
-,_IN
-,_if	1
-,_unless	1
 POS_NNS
 '_arms	1
 's_routines	1
-''_TO
-''_to	1
 RP_DT
 down_the	1
 down_each	1
 VBN_VBG
 been_gaining	1
-VB_''
-pose_''	1
 VBP_TO
 like_to	1
 have_to	2
 need_to	1
 NNP_IN
+BUT_if	1
 MTV_that	1
 NNS_RB
 years_ago	1
 moves_well	1
+MTVs_then	1
 interuptions_pretty	1
 routines_instead	1
 instructions_not	1
@@ -45,10 +41,14 @@ steps_easily	1
 CC_JJ
 and_other	1
 or_professional	1
-``_UH
-``_Oops	1
-MD_RB
-could_not	1
+IN_NNS
+of_dollars	1
+from_DVDs	1
+on_MTVs	1
+for_yourselves	1
+for_years	1
+at_times	1
+of_compliments	1
 NN_WDT
 mountain_that	1
 VB_DT
@@ -72,8 +72,9 @@ where_the	1
 RB_TO
 enough_to	1
 not_to	1
-RB_,
-not_,	1
+IN_VBG
+on_rewinding	1
+after_giving	1
 RB_.
 again_.	1
 far_.	1
@@ -84,10 +85,8 @@ VBP_.
 are_.	1
 VBZ_JJ
 is_easy	1
-RB_''
-again_''	1
-,_WRB
-,_whenever	1
+VBD_NN
+was_way	1
 NN_TO
 choreography_to	1
 count_to	2
@@ -118,10 +117,12 @@ VB_JJR
 find_better	1
 TO_NN
 to_today	1
+NNP_WRB
+Wherever_whenever	1
 VBG_TO
 rewinding_to	1
-,_EX
-,_there	1
+CC_CD
+and_one	1
 CD_.
 2_!	1
 :_IN
@@ -129,8 +130,6 @@ CD_.
 PRP$_JJ
 her_previous	1
 my_favorite	1
-VB_VBN
-be_achieved	1
 WRB_VBG
 when_using	1
 IN_PRP
@@ -149,17 +148,13 @@ so_you	2
 for_them	1
 VB_TO
 like_to	1
+pose_to	1
 VBZ_CD
 is_one	1
-IN_VBG
-on_rewinding	1
-after_giving	1
-,_NN
-,_latin	1
-,_rewind.The	1
-,_insight	1
-,_imo	1
-,_persistance	1
+NNS_WDT
+moves_which	1
+WRB_TO
+how_to	1
 POS_NN
 's_worth	1
 's_DVD	3
@@ -243,9 +238,10 @@ this_is	2
 This_has	1
 UH_PRP
 Oops_I	1
-``_NNP
-``_Wherever	1
-``_Darrin	1
+POS_UH
+'_Oops	1
+PRP_WRB
+them_when	1
 PRP_VBP
 you_do	2
 I_hope	1
@@ -269,15 +265,13 @@ you_like	1
 I_love	1
 you_realize	1
 they_express	1
-JJ_``
-wonderful_``	1
+VBZ_RP
+breaks_down	1
 RB_DT
 not_the	1
 then_this	1
 DT_VBN
 any_given	1
-JJ_VBD
-ready_did	1
 NN_MD
 session_will	1
 PRP_VBZ
@@ -291,8 +285,6 @@ It_shows	1
 she_teaches	1
 DT_RBS
 a_most	1
-,_DT
-,_this	1
 NNP_CC
 Tina_&	1
 Landon_&	1
@@ -301,20 +293,16 @@ TO_RB
 to_patiently	1
 PRP_:
 it_...	1
-DT_``
-each_``	1
+IN_.
+with_.	1
 VBP_RP
 go_in	1
 VBG_IN
 considering_that	1
-,_RB
-,_then	1
-,_too	1
-,_maybe	1
-,_not	1
 RB_CC
 fast_and	2
 ago_and	1
+again_and	1
 CC_PRP
 &_I	1
 and_I	2
@@ -346,26 +334,6 @@ and_are	1
 and_feel	1
 JJR_NN
 better_dancer	1
-''_NNP
-''_Shakira	1
-NN_,
-information_,	1
-coordination_,	1
-DVD_,	2
-latin_,	1
-interestin_,	1
-segment_,	1
-traning_,	1
-insight_,	1
-time_,	2
-ballroom_,	1
-money_,	1
-video_,	2
-image_,	1
-humor_,	1
-NNP_,
-BUT_,	1
-Wherever_,	1
 NNP_.
 Mumba_.	1
 CC_VBZ
@@ -410,10 +378,8 @@ achieved_at	1
 made_for	1
 learned_from	1
 done_on	1
-VBZ_RP
-breaks_down	1
-JJ_,
-easy_,	1
+JJ_VBD
+ready_did	1
 JJ_.
 right_?	1
 annoying_.	1
@@ -425,9 +391,8 @@ was_so	1
 bought_almost	1
 NN_DT
 buying_this	1
-NNS_VBP
-legs_are	1
-instructions_are	1
+VB_VBN
+be_achieved	1
 VBN_JJR
 gotten_more	1
 VBZ_:
@@ -441,12 +406,8 @@ yourselves_.	1
 instructions_.	1
 videos_.	1
 choreographers_.	1
-NNS_,
-dancers_,	1
-moves_,	1
-MTVs_,	1
-,_VBP
-,_do	1
+RB_WP
+just_what	1
 TO_DT
 to_each	2
 CC_IN
@@ -454,17 +415,18 @@ and_over	1
 and_if	2
 and_after	1
 or_from	1
-NNS_:
-choreographers_;	1
-VBZ_,
-indicates_,	1
-RB_WP
-just_what	1
+VBP_JJ
+am_interested	1
+are_great	1
+are_interested	1
+hope_next	1
 RB_NN
 still_workout	1
 NNS_TO
 dancers_to	1
 beginners_to	1
+MD_RB
+could_not	1
 :_RB
 ..._way	1
 VBN_NN
@@ -479,24 +441,22 @@ proper_expectations	1
 other_interuptions	1
 favorite_choreographers	1
 professional_dancers	1
-,_PRP
-,_it	1
-,_you	1
 JJ_JJ
 other_teeny	1
 fresh_new	1
+easy_right	1
+JJ_NNP
+wonderful_Darrin	1
 CD_IN
 one_of	1
 one_by	1
 JJR_IN
 more_than	1
 better_than	1
-''_CC
-''_and	1
 IN_WP
 For_what	1
-,_CC
-,_and	4
+IN_CD
+of_4	1
 VB_NN
 have_emphasis	1
 need_coordination	1
@@ -510,8 +470,14 @@ dance_instructions	1
 dance_portions	1
 rewind.The_instructions	1
 fitness_videos	1
+DT_VB
+each_pose	1
 PRP_WP
 us_who	1
+NN_NNP
+video_Christina	1
+video_Britney	1
+time_Ms.	1
 VBG_PRP
 using_them	1
 DT_RB
@@ -520,8 +486,6 @@ an_extremely	1
 PRP$_NNS
 your_moves	1
 their_videos	1
-CC_CD
-and_one	1
 CD_CC
 1_and	1
 PRP_MD
@@ -530,11 +494,10 @@ it_can	1
 she_could	1
 you_would	1
 you_can	1
-WRB_''
-whenever_''	1
 NN_PRP
 course_you	1
 fun_they	1
+traning_it	1
 video_she	1
 way_I	1
 coordination_you	1
@@ -543,6 +506,7 @@ DVD_you	1
 dance/video_she	1
 price_I	1
 dvd_I	1
+segment_you	1
 VB_PRP$
 Save_your	1
 IN_RB
@@ -557,11 +521,8 @@ been_the	1
 gotten_a	1
 JJ_DT
 worth_a	1
-VBP_JJ
-am_interested	1
-are_great	1
-are_interested	1
-hope_next	1
+NNS_:
+choreographers_;	1
 VBP_PRP
 realize_it	1
 accomplish_it	1
@@ -576,13 +537,17 @@ will_do	1
 would_like	1
 can_see	1
 can_be	1
+DT_EX
+all_there	1
 RB_CD
 almost_10	1
 about_30	1
 PRP_TO
 you_to	1
-NNP_NNPS
-Dance_Grooves	1
+NNS_VBP
+legs_are	1
+dancers_do	1
+instructions_are	1
 NNP_MD
 Landon_will	1
 VB_VBG
@@ -590,6 +555,8 @@ climb_learning	1
 count_using	1
 RB_VBG
 Especially_considering	1
+POS_IN
+'s_If	1
 NNS_VBZ
 titles_indicates	1
 Moves_is	1
@@ -627,8 +594,6 @@ NNS_DT
 dollars_a	1
 VBP_VBD
 've_had	1
-IN_.
-with_.	1
 JJ_TO
 eager_to	1
 worthwhile_to	1
@@ -664,24 +629,28 @@ master_.	1
 VB_CC
 dance_and	1
 NN_NN
-master_choreographer	1
-body_coordination	1
-mirror_image	2
-dance_traning	1
-dance_instruction	1
 dance_training	1
-dance_segment	1
-video_preview	1
 dance_video	1
-teaching_pace	1
+coordination_persistance	1
+book_collection	1
+body_coordination	1
+dance_instruction	1
 singer/dance_video	1
-booper_singer/dance	1
+teaching_pace	1
+love_video	1
+mirror_image	2
+dance_segment	1
+dance_traning	1
+humor_insight	1
+ballroom_latin	1
 bargain_price	1
 dance_dvd	1
+master_choreographer	1
+interestin_imo	1
+time_rewind.The	1
+booper_singer/dance	1
 instruction_DVD	1
-book_collection	1
-``_IN
-``_If	1
+video_preview	1
 NNS_POS
 dancers_'	1
 DT_NNS
@@ -697,14 +666,8 @@ the_instructions	1
 the_ones	1
 the_arms	1
 those_moves	1
-IN_NNS
-of_dollars	1
-from_DVDs	1
-on_MTVs	1
-for_yourselves	1
-for_years	1
-at_times	1
-of_compliments	1
+NNPS_NN
+Grooves_DVD	1
 IN_NNP
 from_Tina	1
 because_Tina	1
@@ -716,14 +679,13 @@ about_Darrin	1
 by_Samantha	1
 about_Tina	1
 for_MTV	1
+over_Shakira	1
 of_Janet	1
 from_Jennifer	1
 DT_NNP
 Both_Tina	1
 CC_DT
 and_a	1
-,_JJ
-,_right	1
 VB_WRB
 see_where	1
 understand_how	1
@@ -745,19 +707,10 @@ no_magic	1
 the_next	1
 a_private	1
 the_opposite	1
-POS_``
-'s_``	3
-'_``	1
 VBZ_IN
 says_that	1
-``_VB
-``_pose	1
-``_Come	1
 NN_:
 dancer_--	1
-VB_NNS
-learn_dances	1
-expect_beginners	1
 NNS_CC
 times_&	1
 interviews_and	1
@@ -771,8 +724,6 @@ PRP_DT
 you_a	1
 it_the	1
 she_all	1
-IN_CD
-of_4	1
 IN_JJ
 On_other	1
 for_amateur	1
@@ -797,8 +748,6 @@ count_.	1
 time_.	1
 choreographer_.	1
 determination_.	1
-IN_''
-over_''	1
 NN_IN
 worth_in	1
 choreography_that	1
@@ -816,6 +765,7 @@ experience_with	1
 work_whether	1
 preview_so	1
 couple_of	1
+money_unless	1
 magic_of	1
 image_so	1
 form_of	1
@@ -869,9 +819,12 @@ routines_I	1
 portions_she	1
 NN_CC
 DVD_or	1
-DVD_and	2
-practice_and	2
+information_and	1
+insight_and	1
 persistance_&	1
+latin_and	1
+DVD_and	3
+practice_and	2
 NNS_VBN
 dances_done	1
 VB_JJ
@@ -925,15 +878,13 @@ VBD_.
 did_.	1
 WDT_LS
 which_i	1
-''_NN
-''_video	2
-''_DVD	1
 VBP_VB
 do_need	1
 do_get	1
 RB_RB
 so_far	1
 well_enough	1
+not_maybe	1
 way_too	1
 too_fast	2
 only_about	1
@@ -955,10 +906,10 @@ Spears_'	1
 Henson_'s	2
 DT_JJR
 a_better	1
-PRP_WRB
-them_when	1
 NN_RB
+image_not	1
 way_too	1
+DVD_too	1
 passion_very	1
 try_twice	1
 JJ_IN
@@ -969,8 +920,9 @@ pleased_with	1
 cheesy_at	1
 rewarding_as	1
 such_as	1
-DT_,
-all_,	1
+VB_NNS
+learn_dances	1
+expect_beginners	1
 IN_EX
 because_there	1
 NN_RP
@@ -986,6 +938,7 @@ is_a	4
 is_the	1
 is_no	4
 teaches_a	1
+indicates_this	1
 NN_VBN
 video_used	1
 NNP_NNS
@@ -999,6 +952,8 @@ Christina_Aguilera	1
 Darrin_Henson	2
 Tina_Landon	4
 Ms._Landon	1
+POS_VB
+'s_Come	1
 RB_VBZ
 even_says	1
 JJS_NN
@@ -1038,14 +993,16 @@ VBZ_VBN
 has_been	1
 has_done	1
 has_choreographed	1
+NNP_NNPS
+Dance_Grooves	1
+WRB_NN
+whenever_video	1
 DT_DT
 this_a	2
 RB_VBN
 just_begun	1
 Especially_made	1
 not_done	1
-NN_''
-love_''	1
 VBG_DT
 using_the	1
 giving_this	1
@@ -1063,27 +1020,15 @@ in_with	1
 VBZ_PRP
 whishes_you	1
 shows_you	1
-,_WDT
-,_which	1
-NNPS_''
-Grooves_''	1
-,_NNP
-,_Christina	1
-,_Ms.	1
-,_Britney	1
 CC_NNP
 and_Darrin	1
 CC_NNS
 and_legs	2
 POS_JJ
 's_best-selling	1
-VBD_NN
-was_way	1
 VB_RP
 keep_up	1
 break_down	1
-WRB_TO
-how_to	1
 VBZ_TO
 is_to	1
 controls_to	1

@@ -1,13 +1,12 @@
 IN_NN
 In_fairness	1
-,_IN
-,_at	1
 JJ_IN
 bad_in	1
 CD_WRB
 1966_when	1
 NNP_IN
 Hunter_in	1
+Prison_at	1
 DeCarlo_as	1
 Hunter_as	1
 on.Add_in	1
@@ -15,11 +14,6 @@ NNS_RB
 scenes_together	1
 NN_WDT
 western_that	1
-RB_,
-together_,	1
-,_PRP
-,_you	1
-,_they	1
 VBZ_JJ
 looks_bad	1
 gets_wild	1
@@ -49,19 +43,22 @@ It_showcased	1
 CD_NNS
 two_men	1
 Two_stars	1
+NNP_NN
+Tab_kid	1
 DT_NN
-the_hilt	1
+a_D	1
 this_cheapie	1
 a_hoot	1
-a_love	1
+a_gang	1
 the_time	1
 A_grade	1
-a_film	1
-a_gang	1
+a_blowbag	1
 a_prison	1
 this_western	1
-a_blowbag	1
+a_film	1
+a_love	1
 a_hanging	1
+the_hilt	1
 CC_NNP
 but_Tab	1
 and_George	1
@@ -75,10 +72,6 @@ it_gets	1
 NNP_CC
 Montgomery_and	2
 Hunter_and	1
-NNP_``
-Tab_``	1
-DT_``
-a_``	1
 RB_IN
 firmly_in	1
 VBG_IN
@@ -95,8 +88,6 @@ least_35	1
 IN_PRP$
 on_their	1
 in_their	1
-NNP_,
-Prison_,	1
 NNP_.
 DeCarlo_.	1
 PRP$_NN
@@ -108,8 +99,6 @@ awful_.	1
 wild_!	1
 NN_DT
 time_this	1
-NNS_,
-times_,	1
 TO_DT
 to_the	1
 CC_IN
@@ -121,10 +110,8 @@ VBZ_IN
 's_at	1
 CD_IN
 35_by	1
-''_CC
-''_and	1
-,_CC
-,_but	1
+IN_CD
+in_1966	1
 VB_NN
 think_something	1
 VBD_JJ
@@ -136,10 +123,6 @@ IN_JJS
 at_least	1
 VB_PRP$
 save_his	1
-NN_''
-D_''	1
-kid_''	1
-B_''	1
 PRP_WRB
 it_when	1
 VBG_TO
@@ -168,10 +151,13 @@ stars_Hostile	1
 VBP_DT
 set_this	1
 NN_NN
-love_interest	1
-cheapie_western	1
 prison_wagon	1
+B_western	1
+grade_B	1
 railroad_commissioner	1
+D_grade	1
+cheapie_western	1
+love_interest	1
 character_interplay	1
 DT_NNS
 some_cases	1
@@ -201,14 +187,6 @@ NNS_CC
 men_and	1
 VBD_PRP
 looked_it	1
-IN_CD
-in_1966	1
-NN_,
-attitude_,	1
-``_NN
-``_B	1
-``_kid	1
-``_D	1
 NN_.
 grade_.	1
 film_.	1
@@ -226,23 +204,21 @@ cowboy_with	1
 WDT_VBZ
 that_deserves	1
 NNS_PRP
+times_they	1
 cases_he	1
 NN_CC
+kid_and	1
+attitude_but	1
 blowbag_and	1
 TO_VB
 to_save	1
 to_Tab	1
 NN_VBG
 brother_trying	1
-NN_``
-grade_``	1
 NN_VBD
 commissioner_was	1
 hanging_was	1
 western_was	1
-''_NN
-''_grade	1
-''_western	1
 NNP_VBD
 Tab_was	1
 VBD_IN
@@ -277,6 +253,8 @@ VBD_TO
 played_to	1
 TO_NNP
 to_Huntsville	1
+RB_PRP
+together_you	1
 VBG_NNP
 going_on.Add	1
 IN_DT

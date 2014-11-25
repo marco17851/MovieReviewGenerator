@@ -1,4 +1,5 @@
 IN_NN
+While_H	1
 on_death	2
 in_jail	1
 in_order	2
@@ -6,14 +7,15 @@ in_landfill	1
 of_connection	1
 in_logic	1
 with_plenty	1
+of_Se7en	1
 In_contrast	1
-of_thing	1
 of_life	1
 of_suggestion	1
 of_caution	1
 of_vibe	1
 of_police	3
 like_silence	1
+of_thing	1
 in_direction	1
 for_entertainment	1
 of_atmosphere	1
@@ -67,14 +69,10 @@ not_to	1
 VBN_:
 recommended_...	1
 disappointed_...	1
-VBP_,
-believe_,	1
-slit_,	1
-IN_``
-While_``	1
-of_``	1
-in_`	1
+VBP_.
+am_.	1
 VBP_CD
+believe_22	1
 require_one	1
 VBP_CC
 go_and	1
@@ -84,28 +82,20 @@ imprisoned_.	1
 engaged_.	1
 made_.	1
 depicted_.	1
-VBN_,
-enjoyed_,	1
-murdered_,	1
-killed_,	1
 WDT_MD
 that_would	1
 that_will	1
 VBG_VBD
 being_said	2
-VB_TO
-tend_to	1
-build_to	1
-appeal_to	1
-get_to	1
-hate_to	1
-listen_to	1
+DT_PRP
+this_you	1
 VBZ_CD
 is_one	1
 VBN_CD
 arrested_10	1
 been_one	1
 imprisoned_ten	1
+murdered_one	1
 DT_FW
 this_a	1
 RB_JJR
@@ -124,9 +114,6 @@ IN_RBR
 as_more	1
 RP_.
 on_.	1
-RP_,
-in_,	1
-out_,	1
 VBN_JJ
 found_guilty	1
 taken_obvious	1
@@ -141,7 +128,7 @@ who_plays	1
 who_falls	1
 what_is	2
 NNP_CC
-Kim_and	1
+Kim_and	2
 Kang_and	1
 Han_and	1
 Hyuk-Lee_and	1
@@ -152,10 +139,25 @@ RP_VBP
 in_are	1
 RP_VBG
 up_killing	1
-JJR_NNS
-more_twists	1
+JJ_.
+late_.	1
+sucky_.	1
+unnecessary_.	1
+guilty_.	2
+petulant_.	1
+wrong_.	1
+logical_.	1
+right_.	2
+contrived_.	1
+healthy_.	1
+correct_.	1
+fabulous_.	1
+good_.	1
+above_.	1
 RBS_JJ
 most_unusual	1
+RP_VBN
+in_led	1
 :_NN
 ..._kinda	1
 IN_PRP$
@@ -170,6 +172,8 @@ in_your	2
 inside_his	1
 NN_VB
 dramas_go	1
+matter_check	1
+caution_be	1
 PRP$_NN
 His_partner	1
 her_goat	1
@@ -202,10 +206,12 @@ speak_of	1
 gore_than	1
 come_out	1
 JJ_PRP
-other_you	1
+mean_she	1
 much_it	1
-,_''
-,_''	1
+familiar_it	1
+superb_I	1
+other_you	1
+good_it	1
 VBD_RB
 did_n't	2
 was_so	1
@@ -221,15 +227,19 @@ was_still	1
 was_just	1
 went_downhill	1
 NN_DT
-time_another	1
 attention_the	1
-PDT_DT
-all_the	2
+cinema_this	1
+time_another	1
+pacing_the	1
+H_a	1
+landfill_the	1
+whole_the	1
 VBN_JJS
 seen_most	1
 WDT_RB
 that_yes	1
 TO_DT
+to_The	2
 to_all	1
 to_the	19
 to_a	3
@@ -262,13 +272,12 @@ shoot_Kang	1
 NNS_NNP
 detectives_Kang	1
 NNS_NNS
+screams_wrecks	1
 killers_motives	1
 VBG_JJR
 getting_worse	1
 JJS_JJ
 most_inept	1
-POS_JJS
-'s_most	1
 VBD_JJ
 were_pregnant	1
 was_unworthy	1
@@ -297,8 +306,6 @@ its_US	1
 our_Korean	1
 RB_MD
 really_would	1
-,_PRP$
-,_his	1
 IN_RB
 of_emotionally	1
 on_then	1
@@ -327,12 +334,15 @@ more_gore	1
 CC_NN
 but_none	1
 and_se7en	1
+and_Silence	1
 and_safety	1
 and_everyone	1
 and_director	1
 and_forty	1
 VBP_PRP$
 have_its	1
+NNP_UH
+Dog_Oh	1
 CD_VBZ
 one_is	1
 VB_.
@@ -341,8 +351,6 @@ help_.	1
 believe_?	1
 like_.	1
 go_.	1
-VBP_''
-am_'	1
 JJ_TO
 traumatic_to	1
 sad_to	1
@@ -358,8 +366,6 @@ years_old	1
 detectives_Jung-ah	1
 RP_CC
 up_and	1
-NNP_''
-Dog_''	1
 DT_NNS
 the_movies	1
 the_murders	4
@@ -440,6 +446,7 @@ did_the	1
 had_an	1
 mentioned_this	1
 enjoyed_the	1
+said_this	1
 thought_the	1
 packed_the	1
 investigated_the	1
@@ -448,30 +455,27 @@ And_what	1
 But_what	2
 NNS_CC
 characters_and	1
-murders_and	1
-thrillers_and	1
 credits_and	1
-clues_and	1
+women_and	1
 leaps_and	1
+thrillers_and	1
+murders_but	1
+clues_and	1
+murders_and	1
 stars_but	1
 scenes_and	1
-twists_and	1
-killings_and	1
+twists_and	2
+killings_and	2
 holes_and	1
 scares_or	1
+dressings_and	1
 eels_and	1
 lambs_and	1
-dressings_and	1
+films_or	1
 NNS_CD
 women_ten	1
-''_VBZ
-''_is	1
-''_holds	1
-''_remarks	1
-''_does	1
-'_is	2
-VBN_PRP
-turned_himself	1
+JJR_IN
+more_than	1
 VBP_IN
 reveal_in	1
 deduce_that	1
@@ -482,27 +486,36 @@ suspect_that	1
 like_in	1
 are_into	1
 NN_CC
-advice_or	1
 feel_both	1
 way_and	1
+entertainment_and	1
+calm_and	1
+badge_but	1
+ending_but	1
+crime_and	1
+woman_and	1
+baby_or	1
+advice_or	1
+row_and	1
+killer_or	1
+flick_and	1
+condom_or	1
+psychiatrist_and	1
+Yum_and	1
+cast_and	1
+person_but	1
+car_or	1
+writer_and	1
+blood_and	1
+killing_or	1
+shock_but	1
+Lambs_and	1
 BABY_and	1
 minute_and	1
 year_and	1
-Yum_and	1
-cast_and	1
-entertainment_and	1
-killer_or	1
-calm_and	1
-car_or	1
-writer_and	1
-ending_but	1
 health_and	1
-row_and	1
-woman_and	1
-flick_and	1
-psychiatrist_and	1
-condom_or	1
-baby_or	1
+Something_or	1
+conduct_but	1
 NN_CD
 police_ten	1
 DT_JJS
@@ -521,6 +534,8 @@ bit_cocky	1
 killer_Seung-woo	1
 coincidence_due	1
 bit_difficult	1
+icy_unsmiling	1
+abyss_dirty	1
 H_interesting	1
 pair_later	1
 RB_EX
@@ -567,8 +582,9 @@ Sun-kyung_Kim	1
 Tae_Hyun	2
 Chan_Wook	1
 Korean_Mr	1
-VBZ_JJR
-has_more	1
+:_RB
+..._maybe	1
+..._Truly	1
 VBD_VB
 did_learn	1
 CC_EX
@@ -578,10 +594,13 @@ And_there	1
 but_there	1
 JJR_.
 worse_.	2
-VBN_CC
-filmed_and	1
-acted_and	1
-headed_and	1
+VB_TO
+tend_to	1
+build_to	1
+appeal_to	1
+get_to	1
+hate_to	1
+listen_to	1
 VBN_TO
 accredited_to	1
 opposed_to	1
@@ -595,6 +614,7 @@ IN_DT
 although_both	1
 Of_The	1
 in_a	6
+in_The	1
 like_this	1
 as_THE	1
 in_this	5
@@ -663,6 +683,7 @@ is_how	1
 NNS_WDT
 elements_that	1
 killings_that	1
+motives_which	1
 clues_that	1
 retorts_that	1
 VB_WP
@@ -670,26 +691,6 @@ think_whoever	1
 convey_what	1
 JJ_PDT
 interesting_all	1
-RB_,
-Moreover_,	3
-Therefore_,	1
-However_,	3
-therefore_,	1
-Truly_,	1
-generally_,	1
-too_,	1
-Yet_,	1
-before_,	1
-again_,	1
-around_,	1
-away_,	1
-Yes_,	1
-first_,	1
-Eventually_,	1
-well_,	1
-Only_,	1
-nowhere_,	1
-yes_,	1
 RB_.
 not_.	1
 earlier_.	1
@@ -743,7 +744,8 @@ her_torn	1
 his_quiet	1
 PRP_PRP
 them_she	1
-her_she	1
+him_she	1
+her_she	2
 IN_PRP
 before_it	1
 as_he	1
@@ -777,11 +779,6 @@ than_I	1
 like_me	1
 because_I	1
 of_us	1
-''_.
-''_.	1
-'_.	5
-''_,
-'_,	1
 NNS_VB
 detectives_try	1
 TO_WP
@@ -813,8 +810,9 @@ you_got	1
 it_held	1
 I_thought	3
 it_was	2
-CC_LS
-but_i	1
+DT_:
+this_;	1
+this_:	1
 DT_VBP
 both_believe	1
 the_reveal	1
@@ -1041,13 +1039,13 @@ It_is	2
 It_starts	2
 it_seems	1
 he_tells	1
+FW_PRP
+Jung-woo_he	1
 VBP_EX
 believe_there	1
 IN_.
 in_.	2
 through_.	1
-``_DT
-`_The	3
 PRP_.
 me_.	3
 he_?	1
@@ -1058,12 +1056,8 @@ us_.	1
 her_.	1
 it_.	1
 himself_.	1
-PRP_,
-her_,	2
-him_,	1
-:_RB
-..._maybe	1
-..._Truly	1
+IN_:
+though_...	1
 CC_VBP
 and_speak	1
 PRP_VB
@@ -1080,6 +1074,8 @@ RP_TO
 up_to	1
 out_to	1
 in_to	1
+NNP_PRP
+Kang_they	1
 CC_VBD
 and_was	1
 CC_VBG
@@ -1087,34 +1083,8 @@ and_calculating	1
 and_constructing	1
 CC_VBN
 and_disconnected	1
-JJ_,
-mean_,	2
-clunky_,	1
-solid_,	1
-superb_,	1
-beautiful_,	1
-heavy_,	1
-pregnant_,	1
-familiar_,	1
-aloof_,	1
-good_,	1
-impatient_,	1
-anti-social_,	1
-JJ_.
-late_.	1
-sucky_.	1
-unnecessary_.	1
-guilty_.	2
-petulant_.	1
-wrong_.	1
-logical_.	1
-right_.	2
-contrived_.	1
-healthy_.	1
-correct_.	1
-fabulous_.	1
-good_.	1
-above_.	1
+JJR_NNS
+more_twists	1
 VBN_IN
 laced_with	1
 entwined_with	1
@@ -1162,9 +1132,16 @@ police_detectives	2
 killer_films	1
 end_credits	1
 crime_scenes	3
+NNP_PRP$
+Kang_My	1
 NN_NNP
-partner_Kang	1
+psychologist_Dr.	1
+chief_Park	1
+partner_Kim	1
+partner_Kang	2
 director_Jong	1
+contrast_Kim	1
+teacher_Mad	1
 detective_Kang	1
 CD_CC
 15_or	1
@@ -1179,8 +1156,18 @@ better_film	1
 more_impact	1
 <_expletive	1
 >_baby	1
-:_CD
-:_4.5	1
+VBP_VBN
+'ve_seen	1
+have_found	1
+are_found	1
+have_said	1
+are_intended	1
+have_seen	1
+are_dropped	1
+have_noted	1
+are_equaled	1
+are_called	2
+are_led	1
 PRP_MD
 I_would	1
 I_'d	1
@@ -1196,18 +1183,8 @@ I_can	1
 it_will	1
 you_would	1
 they_must	1
-VBP_VBN
-'ve_seen	1
-have_found	1
-are_found	1
-have_said	1
-are_intended	1
-have_seen	1
-are_dropped	1
-have_noted	1
-are_equaled	1
-are_called	2
-are_led	1
+:_CD
+:_4.5	1
 :_CC
 :_And	2
 --_and	1
@@ -1221,6 +1198,8 @@ or_help	1
 VBP_VBG
 are_getting	1
 are_talking	1
+JJ_JJS
+solid_most	1
 NNS_VBD
 words_were	1
 cops_behaved	1
@@ -1235,8 +1214,6 @@ There_are	2
 there_are	4
 NNS_RP
 freaks_out	1
-CC_``
-and_`	1
 NN_NN
 police_thriller	1
 ring_finger	1
@@ -1245,13 +1222,17 @@ suspense_thriller	1
 cover_ad	1
 death_penalty	1
 cop_movie	1
+misstep_H	1
+thriller_H	1
 police_access	1
 horror_film	1
 police_higher-up	1
 bit_gory	1
 abortion_doctor	1
 TV_dinner	1
+work_editing	1
 world_cinema	1
+fetus_leg	1
 DVD_debut	1
 serial_killer	1
 police_chief	1
@@ -1261,14 +1242,17 @@ passing_resemblance	1
 prawn_variety	1
 Jung_Ah	1
 Jung-Ah_Yum	1
+music_costuming	1
 police_car	1
 death_sentence	1
 serial-killer_movie	1
 crime_drama	1
 abortion_issue	1
 X-FILES_sort	1
+stepmother_Eun-joo	1
 Yum_Jung	1
 killer_drama	1
+blurb_SEVEN	1
 camera_work	1
 pulp_fiction	1
 surprise_raid	1
@@ -1276,14 +1260,19 @@ murder_victim	1
 death_row	2
 patient_confidentiality	1
 killer_dramas	1
+film_Cure	1
 cover_blurb	1
 homicide_department	1
+editing_music	1
 PRP_NNP
 it_H	1
 NNS_RB
 minutes_long	1
 days_away	1
+films_then	1
+viewers_therefore	1
 places_so	1
+spirits_so	1
 seconds_then	1
 months_ago	1
 agendas_too	1
@@ -1291,10 +1280,6 @@ cops_seriously	1
 months_earlier	1
 viewers_out	1
 bodies_especially	1
-,_JJ
-,_dirty	1
-,_unsmiling	1
-,_unexciting	1
 DT_JJ
 this_much	1
 some_gruesome	1
@@ -1391,11 +1376,6 @@ a_copycat	3
 some_great	1
 a_fast-paced	1
 the_deft	1
-``_VB
-`_Tell	1
-`_Se7ven	1
-``_Use	1
-`_be	1
 VBD_JJR
 had_more	1
 PRP_POS
@@ -1422,11 +1402,13 @@ none_of	1
 haircut_like	1
 pattern_as	1
 impact_if	1
+H_until	1
 higher-up_in	1
 babble_about	1
 raid_on	1
 word_of	1
 death_after	1
+acting_from	1
 penalty_for	1
 thriller_of	1
 case_from	1
@@ -1448,13 +1430,16 @@ fiction_before	1
 twist_that	1
 accomplice_on	1
 bottom_of	1
+story_although	1
 impact_of	1
 replication_of	1
 pair_of	3
 stepmother_in	1
+drama_with	1
 fault_of	1
 mystery_behind	1
-thriller_with	1
+thriller_with	2
+character_as	1
 name_of	1
 kinda_like	1
 smile_in	1
@@ -1470,6 +1455,7 @@ care_in	1
 bus_with	1
 top_of	1
 psychologist_by	1
+landfill_while	1
 something_in	1
 woman_on	1
 plenty_of	1
@@ -1514,8 +1500,8 @@ NN_VBN
 talent_squandered	1
 film_made	1
 production_called	1
-VBP_NNS
-like_movies	1
+NNS_PRP
+murders_they	1
 NN_VBG
 film_Whispering	1
 actor_playing	1
@@ -1555,6 +1541,7 @@ case_becomes	1
 ending_is	2
 film_follows	1
 killer_has	1
+debut_tells	1
 plot_is	2
 film_does	1
 everyone_believes	1
@@ -1562,19 +1549,24 @@ killer_is	4
 film_is	2
 philosophizing_is	1
 Yum_is	1
-H_is	4
+H_is	6
+H_does	1
 problem_is	1
 body_has	1
 SEVEN_meets	1
 woman_is	1
+something_breathes	1
 ad_says	1
+LAMBS_is	1
 version_is	1
 acting_is	2
 Se7en_meets	2
+Lambs_holds	1
 Ji_is	1
 movie_does	1
 question_is	1
 truth_provides	1
+nobility_remarks	1
 movie_plays	1
 narrative_begins	1
 patient_is	1
@@ -1600,6 +1592,7 @@ once_again	1
 out_there	2
 not_only	1
 so_not	1
+Truly_absolutely	1
 VBD_IN
 appeared_in	1
 behaved_like	1
@@ -1621,6 +1614,7 @@ it_then	1
 She_also	1
 I_ever	1
 her_before	1
+her_now	1
 it_also	2
 it_simply	1
 it_too	1
@@ -1646,8 +1640,6 @@ Here_'s	1
 also_likes	1
 then_is	1
 merely_gives	1
-,_WP
-,_who	1
 VBZ_VBG
 is_gon	1
 is_reenacting	1
@@ -1710,19 +1702,12 @@ brutally_murdered	1
 never_been	1
 well_directed	1
 Nicely_filmed	1
-NN_''
-Se7en_'	1
-Lambs_'	3
-LAMBS_''	1
-Lambs_''	1
-Something_'	1
-Cure_'	1
-H_'	3
-fetus_'	1
-H_''	3
+VBZ_VBZ
+is_is	1
 RB_VBG
 Cruelly_killing	1
 suddenly_crashing	1
+around_looking	1
 now_becoming	1
 definitely_getting	1
 finally_making	1
@@ -1754,13 +1739,6 @@ VBP_PDT
 bear_all	1
 POS_NNP
 's_VENGEANCE	1
-,_IN
-,_with	4
-,_although	1
-,_while	1
-,_as	3
-,_so	2
-,_from	1
 POS_NNS
 's_stars	1
 's_crimes	1
@@ -1779,9 +1757,10 @@ may_not	1
 would_n't	1
 NN_WDT
 killer_that	1
+way_that	1
 aspect_that	1
 drama_that	1
-way_that	1
+notch_which	1
 twist_that	1
 plot_that	1
 film_that	2
@@ -1817,16 +1796,8 @@ like_the	1
 WRB_DT
 why_the	1
 when_the	1
-IN_IN
-that_if	1
-out_on	1
-in_for	1
-in_that	1
-out_of	2
-because_of	1
-for_about	1
-like_that	1
-like_in	1
+PDT_DT
+all_the	2
 VBZ_JJ
 is_guilty	1
 is_necessary	1
@@ -1893,38 +1864,34 @@ who_the	1
 CC_CD
 And_one	1
 or_20	1
-,_NN
-,_something	1
-,_music	1
-,_editing	1
-,_Eun-joo	1
-,_costuming	1
-,_H	1
 PRP$_RB
 its_overtly	1
 its_just	1
 Its_not	1
 RP_WP
 out_what	1
-``_RB
-``_Cruelly	1
-``_NNP
-``_Mad	1
 RB_DT
-especially_the	1
+Moreover_the	1
+again_this	1
 quite_a	2
+especially_the	1
+Thus_the	1
 still_a	2
 just_another	1
 Not_all	1
-hey_this	1
+Eventually_the	1
 not_a	1
-Thus_the	1
+hey_this	1
 also_the	1
 thus_a	1
 just_a	1
-then_this	1
+However_this	1
+Moreover_these	1
 essentially_this	1
+Only_this	1
+generally_a	1
 Anyhow_the	1
+then_this	1
 PRP$_JJS
 Her_latest	1
 NN_MD
@@ -1934,18 +1901,6 @@ DT_VB
 a_knock	1
 CC_RBR
 and_more	1
-,_RB
-,_absolutely	1
-,_now	1
-,_yet	1
-,_as	1
-,_so	1
-,_therefore	1
-,_generally	1
-,_probably	1
-,_definitely	1
-,_then	1
-,_also	1
 CC_PRP
 and_they	1
 but_they	1
@@ -1977,6 +1932,7 @@ n't_be	1
 n't_see	1
 then_stay	1
 then_visit	1
+therefore_rent	1
 n't_speak	1
 not_help	1
 n't_connect	1
@@ -1991,9 +1947,6 @@ true_enough	1
 careful_not	1
 strange_indeed	1
 good_too	1
-,_``
-,_`	1
-,_``	3
 VBZ_WP
 is_what	1
 contradicts_what	1
@@ -2003,10 +1956,6 @@ making_its	1
 involving_his	1
 establishing_his	1
 awaiting_his	1
-,_VBG
-,_looking	1
-,_refusing	1
-,_wanting	1
 NNS_.
 murders_.	1
 flicks_.	1
@@ -2024,25 +1973,6 @@ scenes_.	2
 problems_.	1
 killings_.	3
 crimes_?	1
-,_VBN
-,_done	1
-,_played	1
-,_led	1
-NNS_,
-gender-roles_,	1
-motives_,	1
-murders_,	2
-screams_,	1
-crimes_,	1
-spirits_,	1
-films_,	2
-twists_,	1
-women_,	1
-viewers_,	1
-killings_,	1
-scenes_,	1
-,_VBP
-,_stare	1
 VBD_NNP
 got_Kang	1
 treated_Shin	1
@@ -2052,12 +1982,6 @@ killings_:	1
 films_--	1
 exceptions_:	1
 ways_--	1
-,_VBZ
-,_has	1
-,_tells	1
-,_breathes	1
-,_does	1
-,_is	1
 JJ_NNS
 final_moments	1
 quiet_words	1
@@ -2084,6 +2008,7 @@ few_exceptions	1
 pregnant_women	1
 disturbing_visuals	1
 many_viewers	1
+heavy_screams	1
 correct_words	1
 original_crimes	1
 gruesome_killings	1
@@ -2109,8 +2034,8 @@ favorite_parts	1
 cunning_detectives	1
 bloody_murders	1
 gory_films	1
-VB_VB
-like_gore	1
+DT_PRP$
+that_our	1
 JJ_NNP
 convincing_Seung-woo	1
 serious_Detective	1
@@ -2122,9 +2047,6 @@ one_in	1
 one_of	4
 seven_because	1
 one_at	1
-''_CC
-'_and	2
-'_or	1
 IN_WP
 from_what	1
 VBG_PRP
@@ -2148,11 +2070,17 @@ the_now	1
 a_pretty	2
 a_possibly	1
 NN_PRP
+hothead_he	1
+beginning_I	1
+fun_it	1
 thing_you	1
 victim_I	1
+sense_they	1
 hand_you	1
+LAMBS_it	1
 tail_her	1
 side_I	1
+story_it	1
 way_he	1
 film_I	1
 movie_itself	1
@@ -2199,11 +2127,6 @@ VB_VBD
 have_had	1
 RB_RBR
 even_more	1
-,_DT
-,_this	5
-,_these	1
-,_a	3
-,_the	7
 NNP_NNPS
 Horror_Movies	1
 VB_VBZ
@@ -2216,8 +2139,7 @@ CD_PRP
 4.5_I	1
 NNS_DT
 cracks_a	1
-POS_``
-'s_`	1
+gender-roles_the	1
 VBZ_NN
 kicks_something	1
 is_detective	1
@@ -2228,10 +2150,6 @@ knows_something	1
 's_Se7en	1
 POS_RB
 's_quite	1
-IN_VBP
-as_have	1
-UH_,
-Oh_,	1
 VBP_DT
 are_the	1
 have_the	2
@@ -2254,14 +2172,12 @@ wanted_to	2
 confessed_to	2
 NN_FW
 partner_Han	1
-,_WDT
-,_which	2
-NN_``
-blurb_``	1
-film_`	1
-thriller_``	1
-DT_PRP$
-that_our	1
+NNS_POS
+Sisters_'	1
+VBN_VB
+called_Tell	1
+VB_VB
+like_gore	1
 JJS_NNS
 latest_killings	4
 strongest_thrillers	1
@@ -2273,72 +2189,22 @@ killer_-	1
 suggestion_...	1
 CD_RB
 seven_so	1
-._''
-!_''	1
-._''	2
+POS_JJS
+'s_most	1
 NNP_JJ
 Yun_Jung-ah	1
 Hyun_Jin-hee	1
-NN_,
-notch_,	1
-beginning_,	1
-crime_,	1
-LAMBS_,	1
-acting_,	1
-contrast_,	1
-badge_,	1
-teacher_,	1
-editing_,	1
-cinema_,	1
-misstep_,	1
-smile_,	1
-psychologist_,	1
-conduct_,	1
-stepmother_,	1
-hothead_,	1
-matter_,	1
-landfill_,	2
-chief_,	1
-something_,	1
-person_,	1
-character_,	1
-icy_,	1
-sense_,	1
-nobility_,	1
-debut_,	1
-caution_,	1
-music_,	1
-work_,	1
-fun_,	1
-blood_,	1
-pacing_,	1
-partner_,	2
-drama_,	1
-killing_,	1
-thriller_,	1
-abyss_,	1
-whole_,	1
-time_,	1
-shock_,	1
-story_,	2
-``_NN
-``_Se7en	1
-`_Se7en	1
-``_H	3
-`_Silence	1
-`_H	3
-``_SEVEN	1
-`_Cure	1
 NN_.
 nutshell_.	1
 baby_!	1
 finale_!	1
 se7en_.	1
-Lambs_.	1
+Lambs_.	3
 m.o._.	1
 end_.	2
 something_.	2
 job_.	1
+movie_.	4
 reach_.	1
 idea_.	1
 stomach_.	2
@@ -2362,12 +2228,13 @@ landfill_.	1
 watch_.	2
 imitation_.	1
 suspense_.	1
+Cure_.	1
 exploitation_.	1
 harshness_.	1
 police_.	1
 killer_.	5
 Enemy_.	1
-movie_.	4
+plot_.	1
 shelf_.	1
 film_.	8
 angle_.	1
@@ -2385,19 +2252,15 @@ killing_.	1
 identity_.	1
 trilogy_.	1
 copycat_.	1
-plot_.	1
+H_.	1
 try_.	1
 time_.	1
+Se7en_.	1
 NNS_JJR
 movies_more	1
 VBN_DT
 written_this	1
 noted_the	1
-NNP_VBD
-Kang_showed	1
-Shin_turned	1
-Kim_were	1
-Hyun_hired	1
 JJR_TO
 more_to	1
 WDT_VBP
@@ -2405,12 +2268,6 @@ that_do	1
 that_are	1
 which_are	1
 that_emulate	1
-,_VB
-,_be	1
-,_rent	1
-,_check	1
-''_NN
-'_leg	1
 VBP_VB
 didnt_know	1
 IN_TO
@@ -2424,8 +2281,6 @@ guessing_right	1
 going_around	1
 getting_nowhere	1
 being_so	1
-DT_,
-this_,	1
 DT_.
 this_?	1
 that_.	1
@@ -2435,11 +2290,14 @@ VBG_RP
 going_on	2
 LS_RB
 i_really	1
-DT_:
-this_;	1
-this_:	1
+CC_LS
+but_i	1
 WRB_.
 Why_?	1
+JJS_NN
+latest_string	1
+latest_partner	1
+greatest_job	1
 RB_JJ
 somewhat_aloof	1
 always_late	1
@@ -2482,6 +2340,16 @@ so_traumatic	1
 as_smooth	1
 overtly_derivative	1
 truly_sickening	1
+IN_IN
+that_if	1
+out_on	1
+in_for	1
+in_that	1
+out_of	2
+because_of	1
+for_about	1
+like_that	1
+like_in	1
 WRB_IN
 where_if	1
 NNS_RBR
@@ -2504,20 +2372,30 @@ constructing_the	1
 having_the	1
 playing_the	1
 RB_PRP
-Maybe_he	1
-away_you	1
-long_it	1
+However_it	1
 First_you	1
+Maybe_he	1
+away_they	1
+yes_she	1
+long_it	1
 just_me	1
+away_you	1
+Moreover_they	1
+well_I	1
+too_I	1
 So_he	1
+nowhere_she	1
+Yes_he	1
 VBZ_PRP
 makes_it	1
 is_it	2
 leads_them	1
 is_he	1
 believes_he	1
+says_It	1
 gives_them	1
 Is_he	2
+is_I	1
 tells_them	1
 tells_her	1
 VB_RB
@@ -2526,9 +2404,8 @@ connect_very	1
 WRB_NN
 how_someone	1
 NN_RBR
+time_more	1
 bit_more	2
-VB_''
-Se7ven_'	1
 NNP_IN
 Hyun_in	1
 Indian_in	1
@@ -2537,14 +2414,9 @@ Tale_of	1
 Kim_as	1
 Farrow_in	1
 Korea_since	1
-FW_,
-Jung-woo_,	1
 RB_NNS
 barely_cracks	1
 only_days	1
-VBZ_``
-says_``	1
-is_`	1
 IN_VBG
 because_according	1
 after_murdering	1
@@ -2558,13 +2430,6 @@ after_being	1
 That_being	1
 In_trying	1
 after_having	1
-,_PRP
-,_he	3
-,_they	5
-,_you	1
-,_it	6
-,_I	5
-,_she	6
 IN_VBN
 as_opposed	1
 RB_NNP
@@ -2573,22 +2438,23 @@ VBG_.
 looking_.	1
 going_.	1
 waiting_.	1
-,_RBR
-,_more	1
+IN_VBP
+as_have	1
 JJ_CC
 sickening_and	1
-stylish_and	1
+interesting_and	1
 top_and	1
 level-headed_but	1
 excited_and	1
 aloof_and	1
 complicated_but	1
 terrifying_but	1
+stylish_and	1
 old_and	1
 bloody_and	1
 brash_and	1
 fast-paced_and	1
-interesting_and	1
+mean_but	1
 intriguing_and	1
 sinister_and	1
 convenient_and	1
@@ -2599,13 +2465,12 @@ good_one	1
 first_15	1
 CD_.
 2_.	1
-''_UH
-''_Oh	1
 PRP_VBG
 me_wondering	1
 them_being	1
 NNP_WP
 Kang_who	1
+Yun_who	1
 Kim_who	1
 POS_NN
 's_partner	1
@@ -2616,6 +2481,7 @@ POS_NN
 's_comparison	1
 's_nobility	1
 's_house	1
+'s_Se7en	1
 's_psychologist	1
 's_stomach	1
 TO_NN
@@ -2646,6 +2512,7 @@ done_much	1
 NNP_NN
 Seoul_killing	1
 US_DVD	1
+Overall_H	1
 VENGEANCE_trilogy	1
 VBZ_RB
 is_also	3
@@ -2653,6 +2520,7 @@ has_so	1
 is_well	1
 adds_quite	1
 does_n't	3
+is_generally	1
 is_there	2
 is_somewhat	1
 is_n't	1
@@ -2702,8 +2570,8 @@ comes_off	1
 adds_up	1
 DT_RBS
 a_most	1
-,_JJS
-,_most	1
+TO_RB
+to_not	1
 VBP_RP
 find_out	1
 track_down	1
@@ -2742,15 +2610,6 @@ have_already	1
 have_never	1
 JJ_VBZ
 thematic_is	1
-NNP_,
-Yun_,	1
-Kang_,	2
-Korean_,	1
-Kim_,	2
-Young-Su_,	1
-Shin_,	1
-Hyun_,	3
-Overall_,	1
 CD_JJ
 six_pregnant	1
 one_particular	1
@@ -2769,30 +2628,33 @@ few_have	1
 FW_NN
 copycat_killing	1
 JJ_VBN
+beautiful_done	1
 hot_headed	1
+POS_CD
+'s_two	1
 VBG_NN
 wanting_action	1
 echoing_abyss	1
 JJ_VBG
 worth_seeing	1
+impatient_wanting	1
 innocent_looking	2
+aloof_refusing	1
 NNP_:
 Stars_:	1
 RB_VBP
 ever_want	1
 then_skip	1
 just_do	1
-TO_RB
-to_not	1
+JJ_PRP$
+anti-social_his	1
 VBZ_.
 is_?	1
 is_.	2
-VBZ_,
-is_,	3
-says_,	1
 RB_NN
 probably_health	1
 moreover_world	1
+Yet_something	1
 fairly_action	1
 NNS_TO
 clues_to	1
@@ -2808,6 +2670,7 @@ slow_paced	1
 many_South	1
 many_bloody	1
 same_subject	1
+clunky_unexciting	1
 big_intuitive	1
 slick_stylish	1
 usual_American	1
@@ -2821,20 +2684,17 @@ torn_open	1
 bloody_serial	1
 South_Korean	2
 such_unoriginal	1
-JJR_IN
-more_than	1
-,_CC
-,_and	6
-,_or	2
-,_but	7
+VBN_PRP
+turned_himself	1
+killed_she	1
 VB_NN
 disrupt_crime	1
 keep_H	1
 miss_something	1
-,_CD
-,_two	1
-,_one	1
-,_22	1
+UH_RB
+Oh_as	1
+VBZ_JJR
+has_more	1
 NN_WP
 Yum_who	1
 kid_who	1
@@ -2870,6 +2730,7 @@ police_question	1
 women_are	1
 murders_look	1
 detectives_try	1
+scenes_stare	1
 puns_are	1
 corpses_are	1
 killers_fascinate	1
@@ -2901,6 +2762,7 @@ detectives_tracking	1
 women_using	2
 killings_resembling	1
 RP_RB
+out_probably	1
 away_far	1
 PRP_NNS
 He_tips	1
@@ -2913,43 +2775,39 @@ scenes_depicted	1
 words_laced	1
 people_butchered	1
 movies_called	1
-JJS_NN
-latest_string	1
-latest_partner	1
-greatest_job	1
+VBP_NNS
+like_movies	1
+slit_people	1
 VBP_NNP
 believe_Shin	1
 RB_IN
-away_from	1
 still_out	1
-not_into	1
-ago_after	1
-well_as	1
-too_over	1
-not_that	1
-downhill_from	1
+However_with	1
+before_so	1
 right_up	1
-just_like	1
-simply_at	1
-not_unlike	1
-so_if	1
-together_with	1
+ago_after	1
 now_as	1
-much_for	1
+not_that	1
 still_if	1
-well_in	1
 much_like	1
+much_for	1
+not_into	1
+simply_at	1
+so_if	1
+well_in	1
 thoroughly_over	1
-``_PRP
-``_It	1
+well_as	1
+downhill_from	1
+just_like	1
+too_over	1
+away_from	1
+first_as	1
+not_unlike	1
+together_with	1
+Therefore_as	1
 POS_JJ
 's_overall	1
 's_true	1
-VBN_``
-called_`	1
-called_``	1
-''_IN
-''_until	1
 :_TO
 ..._To	1
 VBD_VBN
@@ -2964,6 +2822,8 @@ was_kept	1
 VBZ_VB
 does_tend	1
 does_have	4
+says_Use	1
+is_be	1
 DOES_have	1
 VBD_PRP
 made_him	1
@@ -3003,16 +2863,19 @@ earlier_.	2
 VBN_NN
 made_flick	1
 discovered_body	1
+called_H	1
 convicted_serial	1
 directed_film	1
 removed_baby	1
 damaged_police	1
 NNP_RB
+Hyun_yet	1
+Young-Su_also	1
 Kim_barely	1
 :_PRP
 ;_I	1
 NNS_IN
-tons_of	1
+months_before	1
 patterns_as	1
 depths_as	1
 hallmarks_of	1
@@ -3022,6 +2885,7 @@ moments_of	1
 Sisters_as	1
 killings_of	1
 lapses_in	1
+crimes_so	1
 words_of	1
 performances_by	1
 killings_than	1
@@ -3032,23 +2896,29 @@ Corridors_as	1
 twists_than	1
 movies_like	2
 movies_about	1
-months_before	1
 murders_of	2
 parts_of	1
 women_in	1
 fans_of	1
+tons_of	1
 twists_in	1
 bodies_of	1
 loads_of	1
 streets_of	1
 crimes_of	1
 ones_out	1
+VBN_CC
+filmed_and	1
+acted_and	1
+headed_and	1
+enjoyed_but	1
 NNP_VBZ
 Shin_has	1
 Jun-Hee_is	1
 H_is	1
 Kyung-Sook_is	1
 Shin_is	1
+Korean_does	1
 Kim_is	2
 Lee_combines	1
 Korea_is	1
@@ -3060,6 +2930,7 @@ Shin_knows	1
 Hyun_is	1
 Cho_gives	1
 Lee_takes	1
+Kim_has	1
 VB_JJ
 seem_top	1
 feel_right	1
@@ -3086,6 +2957,7 @@ to_whomever	1
 na_be	1
 to_watch	1
 to_cooperate	1
+to_Se7ven	1
 to_drag	1
 to_like	3
 to_convey	1
@@ -3106,14 +2978,10 @@ to_interview	1
 NN_JJR
 lot_worse	1
 expletive_>	1
-``_PRP$
-``_My	1
 CC_NNP
 and_Kim	2
 and_Shin	1
 and_Kang	1
-VBD_,
-said_,	1
 VBD_.
 said_.	1
 POS_.
@@ -3123,10 +2991,13 @@ Whispering_Corridors	1
 killing_women	1
 getting_clues	1
 murdering_women	1
-POS_,
-'s_,	1
+NNP_VBD
+Kang_showed	1
+Shin_turned	1
+Kim_were	1
+Hyun_hired	1
 NNP_VBN
-Hyun_played	1
+Hyun_played	2
 NNP_POS
 Kim_'s	2
 Kyung-sook_'s	1
@@ -3153,8 +3024,9 @@ nature_then	1
 arguement_as	1
 film_first	1
 action_now	1
-killer_still	1
+smile_definitely	1
 infant_still	1
+killer_still	1
 JJ_IN
 Outside_of	1
 happy_for	1
@@ -3180,14 +3052,11 @@ true_up	1
 usual_as	1
 other_on	1
 unworthy_of	1
+pregnant_with	1
 smooth_as	1
 NNS_NN
 films_narrative	1
 viewers_arguement	1
-TO_``
-to_`	3
-IN_:
-though_...	1
 VBZ_DT
 gets_a	1
 is_the	8
@@ -3227,12 +3096,15 @@ are_plot	1
 VB_CD
 like_seven	1
 VB_CC
-be_or	1
-drag_and	1
-punch_or	1
 try_and	1
+drag_and	1
+be_or	1
+punch_or	1
+Se7ven_and	1
 help_and	1
 NNP_DT
+Shin_the	1
+Hyun_a	1
 Yun_the	1
 VBN_NNP
 imprisoned_Shin	1
@@ -3249,11 +3121,6 @@ out_if	1
 across_as	1
 VBN_NNS
 taped_interviews	1
-,_NNP
-,_Kang	1
-,_Park	1
-,_Dr.	1
-,_Kim	2
 VBG_NNP
 calculating_Shin	1
 resembling_Shin	1
@@ -3262,10 +3129,6 @@ CC_NNS
 or_killers	1
 and_answers	1
 or_shocks	1
-,_NNS
-,_screams	1
-,_wrecks	1
-,_people	1
 WP_IN
 who_in	1
 VBZ_IN
@@ -3278,8 +3141,6 @@ falls_for	1
 starts_with	1
 begins_with	1
 is_in	1
-NNS_POS
-Sisters_'	1
 JJ_NN
 much_talent	1
 same_m.o.	1

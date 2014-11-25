@@ -26,10 +26,6 @@ conducted	1
 promoted	1
 inserted	1
 surprised	1
-POS
-'s	10
-''
-''	19
 VBP
 Do	1
 search	1
@@ -157,8 +153,8 @@ time	2
 following	1
 Revenge	1
 side	1
-,
-,	12
+POS
+'s	10
 .
 !	2
 .	22
@@ -275,8 +271,20 @@ Paranormalists	1
 Operation	1
 Children	1
 Kevin	1
-``
-``	19
+VB
+do	1
+believe	1
+fit	1
+be	2
+ruin	1
+get	1
+watch	1
+think	1
+take	1
+mean	1
+save	1
+throw	1
+make	1
 WRB
 where	1
 CC
@@ -332,17 +340,3 @@ greatest	1
 best	1
 JJR
 longer	1
-VB
-do	1
-believe	1
-fit	1
-be	2
-ruin	1
-get	1
-watch	1
-think	1
-take	1
-mean	1
-save	1
-throw	1
-make	1

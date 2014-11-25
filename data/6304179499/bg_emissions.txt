@@ -30,6 +30,7 @@ on_TV	6
 in_narration	1
 of_pilgrim	1
 of_snoopy	1
+for_blockhead	1
 In_fact	1
 than_anything	1
 in_edgewise	1
@@ -74,7 +75,9 @@ enjoyed_hearing	1
 VBG_VBD
 getting_talked	1
 VBG_VBG
+frowning_growling	1
 doing_writing	1
+growling_acting	1
 VBG_NNPS
 starving_Pilgrims	1
 TO_WRB
@@ -111,25 +114,16 @@ enough_to	1
 forward_to	3
 just_to	1
 close_to	1
-VBP_,
-mean_,	2
-arrive_,	1
-are_,	1
-think_,	1
-IN_``
-from_``	1
-on_``	1
-for_``	3
 VBP_.
 feel_.	1
 have_.	1
 think_.	1
 POS_CC
+'s_but	1
+'s_and	1
 's_or	1
 VBP_CD
 are_3	1
-''_TO
-''_to	1
 VBP_$
 spend_$	1
 VBP_:
@@ -143,14 +137,6 @@ made_.	1
 embarrassed_.	1
 released_.	1
 Recommended_.	1
-VBN_,
-told_,	1
-heard_,	1
-entitled_,	1
-drawn_,	1
-aired_,	1
-gone_,	1
-had_,	1
 VB_JJR
 get_better	1
 JJ_VBN
@@ -160,17 +146,10 @@ that_will	1
 CC_TO
 &_to	1
 and_to	1
-VB_TO
-relate_to	1
-appeal_to	2
-have_to	1
-give_to	1
-dare_to	1
-seem_to	2
-come_to	1
-learn_to	1
-continue_to	1
-go_to	4
+DT_PRP
+those_you	1
+all_they	1
+these_I	1
 VBZ_CD
 's_one	1
 is_one	4
@@ -193,19 +172,15 @@ much_more	1
 much_smoother	1
 much_deeper	1
 arguably_better	1
-WP_VBD
-what_was	1
-who_became	1
-whoever_mastered	1
-who_learned	1
+PRP_PRP
+us_we	1
+it_it	1
+it_you	1
 RP_.
 out_.	1
 up_!	1
 off_!	1
 over_.	1
-RP_,
-down_,	1
-up_,	1
 VBN_JJ
 caused_poor	1
 served_buttered	1
@@ -229,34 +204,42 @@ what_does	1
 NNP_CC
 Mendleson_and	1
 America_and	1
-Christmas_and	5
+Christmas_and	7
 Sally_nor	1
 Charlie_and	3
+Scotland_but	1
 Halloween_or	1
-Patty_and	4
+Patty_and	5
 Mayflower_and	1
 Melendez_and	1
-Marcie_and	3
+Thankgiving_and	1
+Marcie_and	4
 Halloween_&	1
 BROWN_and	1
 Peanuts_and	1
 Thanksgiving_or	1
 Dinner_and	1
+Dick_and	2
 Squanto_and	1
 Show_or	1
-Lucy_and	2
+Lucy_and	3
+Sparky_and	1
 Voyage_and	1
 VHS_or	1
 Brown_and	11
 Linus_and	5
-Franklin_and	1
-Christmas_or	1
-Snoopy_and	9
-Marcy_and	1
+Thanksgiving_and	3
+Franklin_and	3
+Christmas_or	2
+Schulz_and	1
+Snoopy_and	11
+Marcy_and	3
+Ace_and	1
 Mendelssohn_and	1
 VHS_and	1
 NNP_CD
 November_20	1
+Snoopy_two	1
 October_21	1
 Thanksgiving_1973	1
 WP_MD
@@ -267,63 +250,77 @@ Who_could	1
 who_would	1
 SYM_JJ
 *_true	1
+VBN_WDT
+had_which	1
 RP_VBG
+up_discussing	1
 up_bringing	1
-JJ_.
-cool_.	1
-in-between_!	1
-superior_.	1
-educational_.	1
-fantastic_!	1
-important_.	1
-cute_!	1
-crazy_?	1
-child-centered_.	1
-old_.	1
-terrible_.	1
-Hysterical_!	1
-30-min_?	1
-dated_.	1
-priceless_.	1
-second_.	1
-boring_.	2
-profound_.	1
-annoying_.	1
-entertaining_.	1
-stale_.	1
-next_?	1
-hungry_.	1
-unforgiving_.	1
-hummable_.	1
-first_.	1
-little_.	1
+JJR_NNS
+harsher_facts	1
+older_ones	1
+more_times	1
+more_kids	1
+fewer_cartoons	1
+NNS_UH
+women_eh	1
 RBS_JJ
 most_valuable	1
 most_important	1
 most_beloved	1
 most_popular	1
+JJS_CC
+best_and	1
 :_NN
 :_popcorn	1
 :_NO	1
 ;_none	1
-``_VBN
-``_remastered	1
-``_lost	1
+IN_PRP$
+on_our	1
+before_your	1
+of_his	4
+with_your	2
+After_her	1
+at_their	1
+in_my	1
+at_his	5
+with_my	1
+of_her	2
+for_my	5
+from_her	1
+at_our	1
+from_his	1
+that_his	1
+for_their	2
+into_our	1
+if_their	1
+in_their	2
+In_her	1
+in_his	1
+as_his	1
+for_our	1
+with_his	1
+of_its	1
+for_his	4
+as_its	1
 NN_VB
 bird_get	1
 gang_recreate	1
-truth_be	1
 holiday_be	1
+pal_help	1
+blah_blah	1
+truth_be	1
 IN_WDT
 in_which	3
 of_which	1
+of_that	1
 PRP$_NN
 her_way	1
 their_appeal	1
 my_ear	1
+your_family	1
 Their_mom	1
 My_nephew	1
-your_family	1
+my_son	1
 her_place	1
 her_book	1
 her_back	1
@@ -346,7 +343,7 @@ their_grandmother	2
 my_family	1
 her_house	2
 my_collection	1
-my_son	1
+his_Amendment	1
 your_collection	1
 his_grandmother	11
 his_place	1
@@ -376,6 +373,7 @@ matter_if	1
 say_that	1
 deal_with	1
 note_that	1
+agree_if	1
 Set_Up	1
 come_from	1
 explain_that	1
@@ -394,10 +392,9 @@ could_under	1
 JJ_PRP
 worth_it	1
 great_it	1
+average_you	1
 ashamed_he	1
 good_he	1
-,_''
-,_''	1
 VBD_RB
 did_n't	3
 was_surprisingly	1
@@ -412,18 +409,28 @@ was_about	1
 was_really	1
 laughed_so	1
 NN_DT
-critique_the	1
+Ah_the	1
+fact_A	1
+language_no	1
+invasion_no	1
 pack_the	1
+kitchen_the	1
 togehter_a	1
 world_a	1
-TV_every	1
 condo_that	1
 buying_this	1
-look_a	1
-special_every	1
+time_a	1
 jam_this	1
 role_a	1
+message_no	1
+feature_The	1
+TV_every	1
+look_a	1
+critique_the	1
+program_this	1
+special_every	1
 TV_this	1
+show_This	1
 WDT_RB
 that_really	1
 that_just	1
@@ -455,7 +462,9 @@ VB_NNS
 make_matters	1
 sacrifice_tricks	1
 distrust_women	1
+say_episodes	1
 VB_NNP
+say_Peppermint	1
 unindict_Woodstock	1
 eat_Woodstock	1
 let_Charlie	1
@@ -466,14 +475,20 @@ replace_Charlie	1
 fire_Patty	1
 see_Peppermint	1
 recruit_Snoopy	1
+leave_Peppermint	1
 give_Charlie	1
 talk_Peppermint	1
 love_Charlie	1
 NNS_NNP
 Feelings_Miss	1
+features_A	1
+specials_Charlie	1
 specials_Big	1
-WRB_,
-Why_,	1
+NNS_NNS
+comics_PEANUTS	1
+lanterns_eggs	1
+sticks_jellybeans	1
+eggs_turkeys	1
 JJS_JJ
 best_animated	1
 VBD_JJ
@@ -494,9 +509,6 @@ her_Halloween	1
 his_Grandmother	2
 her_Sir	1
 his_Peanuts	1
-,_PRP$
-,_my	1
-,_their	2
 RB_SYM
 so_*	1
 IN_RB
@@ -542,14 +554,18 @@ invite_yourself	1
 invite_themselves	1
 give_it	1
 need_I	1
-love_it	2
+guess_he	1
 love_them	1
 make_it	1
 Am_I	1
 watch_it	1
+arrive_they	1
 think_you	1
+mean_it	1
+love_it	2
 have_them	1
-guess_he	1
+NNPS_NNPS
+Tommies_Dickies	2
 VB_:
 see_--	1
 enjoy_--	1
@@ -583,12 +599,6 @@ hold_their	1
 CD_VBZ
 one_shows	1
 one_is	1
-VB_,
-survive_,	1
-leave_,	2
-agree_,	1
-help_,	1
-say_,	2
 VB_.
 fret_.	1
 invite_.	1
@@ -618,26 +628,10 @@ CD_VBP
 two_are	1
 NNS_JJ
 features_many	1
-RP_CC
-up_and	2
-NNP_''
-Lucy_''	1
-Voyage_''	3
-Christmas_''	2
-Thankgiving_''	1
-Pumpkin_''	1
-Snoopy_''	1
-Thanksgiving_''	6
-Brown_''	2
-Birdie_''	1
-Sparky_''	1
-Peanuts_''	3
-Chuck_''	2
-Birdy_''	1
-Miles_''	1
-DT_PRP
-those_you	1
-all_they	1
+episodes_such	1
+WP_.
+what_!	1
+what_?	1
 DT_NNS
 all_foods	1
 these_years	1
@@ -716,6 +710,7 @@ between_Charlie	1
 that_Thanksgiving	1
 by_Marcie	1
 of_Peppermint	1
+by_Charlie	1
 on_Charles	1
 as_Peppermint	1
 of_Linus	3
@@ -739,7 +734,7 @@ at_Peppermint	1
 though_Charlie	1
 by_John	1
 of_Charlie	1
-by_Charlie	1
+for_Charlie	1
 that_Linus	1
 as_Christmas	1
 on_Chuck	1
@@ -766,7 +761,7 @@ that_Charlie	2
 that_Lucy	1
 on_November	1
 by_Jack	1
-as_Charlie	1
+on_Standish	1
 of_Marcie	1
 at_Plymouth	2
 because_Marcie	1
@@ -778,9 +773,10 @@ of_Thankgiving	2
 with_Christmas	1
 as_Thanksgiving	1
 on_Snoopy	1
+as_Charlie	1
 after_Patty	1
 DT_NNP
-The_Peanuts	1
+The_Peanuts	2
 these_Peanuts	1
 the_NASA	1
 the_Halloween	4
@@ -789,6 +785,7 @@ the_Mayflower	9
 THE_EASTER	1
 the_Atlantic	1
 The_Turkey-Day	1
+the_This	1
 The_Charlie	1
 a_BIG	1
 This_Charlie	1
@@ -808,7 +805,7 @@ the_Pilgrim	1
 the_World	1
 any_Halloween	1
 an_Emmy	1
-the_Garfield	1
+the_Garfield	2
 a_Charlie	2
 The_Chuckster	1
 the_Macy	1
@@ -840,6 +837,8 @@ understand_how	1
 PRP_NN
 him_today	1
 me_laugh	1
+her_sir	1
+her_mentress	1
 VBD_DT
 loved_the	1
 was_a	7
@@ -865,38 +864,40 @@ CC_WP
 and_what	1
 but_who	1
 NNS_CC
-characters_and	1
 tricks_or	1
-minutes_and	1
-potatoes_and	1
-shows_and	1
-jellybeans_and	2
-parts_and	1
-pretzels_and	2
-children_and	2
-beans_and	1
-trials_and	2
-eyes_and	1
-chairs_and	1
+classics_and	1
+1960s_and	1
+specials_but	4
 DVDs_and	1
-kids_and	1
-passengers_and	1
-specials_but	2
-tables_and	1
+eyes_and	1
 memories_and	1
+minutes_and	1
+parts_and	1
+trials_and	2
+passengers_and	1
+tables_and	1
+friends_but	1
+pretzels_and	3
+turkeys_and	1
+jellybeans_and	3
+shows_and	1
+hardships_and	1
+children_and	2
+beans_and	3
+potatoes_and	1
+characters_and	1
+animations_but	1
+chairs_and	1
+kids_and	2
+leaders_both	1
 NNS_CD
 videos_one	1
-,_VB
-,_say	1
-,_blah	1
-,_help	1
-,_ignore	1
-,_let	1
 JJR_IN
 better_than	3
 VBP_IN
 care_for	1
 mean_by	1
+are_of	1
 like_about	1
 think_that	1
 hear_on	1
@@ -910,23 +911,30 @@ NNPS_RB
 Carlitos_either	1
 NN_CC
 parade_but	1
-holiday_and	1
+holiday_and	2
 kid_but	1
+boot_and	1
 niece_&	1
 day_and	1
-beagle_nor	1
+food_but	2
+fun_but	1
 life_and	1
-TV_and	1
+house_but	1
+predicament_and	1
 picture_and	1
+TV_and	1
 story_but	1
 home_and	1
 bird_and	1
+supper_but	1
 dinner_and	2
 fun_and	1
+feature_but	1
 AAA_+	2
 television_or	1
+sir_and	1
 story_and	1
-feast_and	1
+feast_and	2
 house_and	1
 mailbox_and	1
 DVD_and	3
@@ -934,41 +942,37 @@ chair_and	1
 condition_and	2
 family_and	1
 special_and	1
+moment_and	1
 place_and	1
+everyone_but	1
 snoopy_and	1
 grandma_and	1
 effect_and	1
 Voyage_and	1
+magic_but	1
 sound_and	1
 DEAL_and	1
+ear_and	1
 house_or	1
 cereal_and	1
 warmth_and	1
-ear_and	1
+book_and	1
+classic_but	1
+viewing_and	1
 kid_and	3
 humor_or	1
 movie_&	1
 boy_and	1
 screen_and	1
 gumption_and	1
+beagle_nor	1
 comiong_and	1
 pilgrim_and	1
-NNP_WDT
-Rock_that	1
 NN_CD
 fist_one	1
 number_3	1
 number_two	1
 tape_two	1
-''_EX
-''_There	1
-PRP_CC
-herself_and	5
-it_and	1
-us_but	1
-me_&	1
-He_and	1
-itself_or	1
 DT_JJS
 the_oldest	1
 the_greatest	1
@@ -981,6 +985,8 @@ a_simpler	1
 that_simpler	1
 NN_JJ
 something_new	1
+story_excellent	1
+color_great	1
 day_mandatory	1
 Kid_friendly	1
 year_old	2
@@ -988,12 +994,16 @@ fun_little	1
 holiday_special	1
 A_laugh-filled	1
 period_such	1
+everyone_young	1
 NO_foul	1
+sauce_mashed	1
 FW_JJR
 !!_<	1
+RB_EX
+Furthermore_there	1
+Second_there	1
 NNP_NNS
 Easter_offerings	1
-NFL_games	1
 Halloween_specials	2
 Brown_features	1
 Christmas_trees	1
@@ -1001,6 +1011,7 @@ Halloween_cartoons	1
 Peanuts_DVDs	1
 Peanuts_shows	1
 Brown_characters	2
+NFL_games	1
 Guaraldi_soundtracks	1
 Peanuts_charaters	1
 Peanuts_gags	1
@@ -1017,38 +1028,49 @@ Peanuts_classics	1
 Peanuts_specials	4
 Brown_shows	1
 Brown_caroons	1
+Peanuts_moments	1
 Peanuts_characters	1
 Brown_cartoons	1
 CB_specials	1
 Pumpkin_cartoons	1
 All_ages	1
 NNP_NNP
+Marcie_Franklin	2
 Garfield_Holiday	1
+America_Charlie	5
 Charles_Schulz	8
+Atlantic_Ocean	1
 Bob_Matz	1
 Pete_Burness	1
 Halloween_Great	1
 Lucy_Van	1
 Schulz_Directed	1
-Atlantic_Ocean	1
+Smith_Bob	1
+Flying_Ace	1
 Miss_Patty	1
 Patricia_Joy	1
+Linus_Lucy	1
 Roman_Produced	1
 Charles_Schultz	3
-Pumkin_Charlie	1
+Marcie_Woodstock	1
 Thanksgiving_!!!	1
 Little_Birdie	1
+Scribner_Patricia	1
 Bror_Lansing	1
 Charlie_Browns	2
+Patty_Sir	1
 Phil_Roman	1
-A_CHARLIE	1
+Well_ol'	1
+BEAGLE_CHARLIE	1
 Thanksgiving_Show	1
-Charlie_B	1
+Jaimes_Bror	1
+Thanksgiving_Valentine	1
 !!!_This	1
 Todd_Barbee	1
 War_I	1
 Frank_Smith	1
 Ray_Patterson	1
+Snoopy_Woodstock	1
 Miles_Standish	1
 Standish_Miles	1
 Hank_Smith	1
@@ -1062,6 +1084,7 @@ Brown_Todd	1
 Borwn_Thanksgiving	1
 M._Schultz	1
 Peppermint_Patty	36
+Pumkin_Charlie	1
 Bill_Melendez	2
 Great_Pumpkin	6
 Bill_Littlejohn	1
@@ -1070,22 +1093,34 @@ Vince_Guaraldi	3
 Irven_Spence	1
 Peanuts_TV	1
 Charles_M	1
+Lansing_Bill	1
 Main_Menu	1
 This_Is	1
 Big_Three	1
+A_CHARLIE	1
+Lucy_Linus	1
 I_Flying	1
 Great_Pumkin	1
-Flying_Ace	1
+Brown_Linus	2
+Linus_Sally	1
 Melendez_Original	1
 Brooke_Shields	1
+Carlson_Sam	1
 Scott_Trotter	1
+Tom_Dick	2
 EASTER_BEAGLE	1
 THIS_Thanksgiving	1
+Thanksgiving_Christmas	1
+Spence_Ray	1
+Schultz_Peanuts	1
+Brown_Lucy	1
 CHARLIE_BROWN	4
+Littlejohn_Don	1
 Menu_Thanksgiving	1
 Don_Lusk	1
 !!!_All	1
 M._Schulz	1
+Charlie_B	1
 ol'_Chuck	1
 Charles_Shultz	1
 Halloween_Party	1
@@ -1093,30 +1128,42 @@ Little_Birdy	1
 Our_Hero	1
 Lee_Mendleson	1
 Brown_Christmas	4
-Vince_Giraldi	1
-Lee_Mendelssohn	1
-Charlie_Borwn	1
-World_War	1
 Is_America	2
+Pabian_Frank	1
+Lee_Mendelssohn	1
+Linus_Snoopy	2
+Matz_Rod	1
+Charlie_Borwn	1
+Patty_Marcy	1
+World_War	1
+Vince_Giraldi	1
+Schultz_Sparky	1
+Sally_Peppermint	1
 A_Charlie	7
 Rod_Scribner	1
 Charles_M.	2
 John_Scott	1
 Mayflower_Voyage	4
+Burness_Hank	1
 Snoopy_Show	1
 BROWN_THANKSGIVING	2
+Lusk_Al	1
 Al_Pabian	1
 Van_Pelt	1
 Poor_Charlie	1
-Pumpkin_Charlie	1
+Pumpkin_Charlie	2
 Charlie_Brown	109
+Patterson_Kenneth	1
 Sam_Jaimes	1
+Patty_Marcie	3
 Lou_Rawls	1
 Brown_Thankgiving	1
 Bob_Carlson	1
 Mayflower_Story	1
+Joy_Irven	1
 The_Mayflower	1
 Arbor_Day	1
+Muse_Pete	1
 Plymouth_Rock	2
 REAL_Thanksgiving	1
 :_RB
@@ -1127,6 +1174,8 @@ NN_JJR
 bit_smaller	1
 VBD_VB
 helped_bring	1
+JJR_PRP
+worse_she	1
 TO_PRP$
 to_his	11
 to_my	4
@@ -1134,27 +1183,23 @@ to_their	1
 to_her	3
 CC_EX
 and_there	2
-''_WP
-''_what	1
 JJR_.
 better_.	1
 more_.	1
 more_?	1
-JJR_,
-more_,	1
-softer_,	1
-worse_,	1
 RP_WRB
 up_when	1
-VBN_CC
-annoyed_and	1
-Written_and	1
-rushed_or	1
-Arranged_and	1
-been_and	1
-gone_but	1
-defeated_and	1
-Composed_and	1
+VB_TO
+relate_to	1
+appeal_to	2
+have_to	1
+give_to	1
+dare_to	1
+seem_to	2
+come_to	1
+learn_to	1
+continue_to	1
+go_to	4
 VBN_TO
 supposed_to	1
 gravitated_to	1
@@ -1168,13 +1213,6 @@ added_to	1
 converted_to	1
 come_to	2
 escorted_to	1
-NNPS_VBZ
-Voyagers_tells	1
-Voyagers_is	2
-Voyagers_gets	1
-NNPS_''
-Simpsons_''	1
-Celebrations_''	1
 VBP_FW
 am_:-RRB-	1
 IN_DT
@@ -1204,6 +1242,7 @@ since_the	1
 into_a	3
 under_a	1
 in_a	8
+from_This	1
 about_the	12
 as_all	1
 into_an	1
@@ -1259,6 +1298,7 @@ as_the	8
 of_a	4
 with_each	1
 for_all	1
+through_all	1
 aboard_the	1
 despite_the	1
 in_an	1
@@ -1267,6 +1307,7 @@ beyond_this	1
 of_these	2
 With_some	1
 as_some	2
+for_The	1
 across_the	1
 Between_the	1
 on_every	1
@@ -1276,9 +1317,11 @@ VBZ_WRB
 's_why	2
 NNS_WDT
 specials_that	2
+soundtracks_which	1
 guests_that	1
 kids_that	1
 tapes_which	1
+times_which	1
 things_that	1
 VB_WP
 see_what	1
@@ -1287,50 +1330,14 @@ guess_what	1
 WDT_PRP
 whatever_he	1
 which_I	3
+DT_.
+this_.	4
+all_.	1
 RB_WRB
+However_when	1
 so_whenever	1
 hard_when	1
 bigtime_when	1
-RB_,
-someday_,	1
-Still_,	2
-Yet_,	1
-Now_,	1
-First_,	1
-Sure_,	1
-No_,	1
-Alas_,	1
-already_,	1
-However_,	2
-around_,	1
-along_,	1
-Afterward_,	1
-everywhere_,	1
-Luckily_,	1
-Anyway_,	1
-Surely_,	1
-Together_,	1
-Finally_,	1
-Somehow_,	1
-specifically_,	1
-instead_,	1
-no_,	1
-before_,	1
-understandably_,	1
-well_,	2
-Unquestionably_,	1
-alike_,	1
-however_,	2
-here_,	3
-Instead_,	1
-now_,	1
-Second_,	2
-thus_,	1
-Furthermore_,	1
-Unfortunately_,	1
-Really_,	1
-Well_,	1
-So_,	2
 RB_.
 not_.	1
 on_.	1
@@ -1360,8 +1367,10 @@ again_.	5
 either_.	1
 either_!	1
 IN_VB
-than_talk	1
+like_Stop	1
+that_say	1
 as_enjoy	1
+than_talk	1
 that_come	1
 JJS_RB
 least_once	1
@@ -1371,7 +1380,8 @@ lost_their	1
 VBD_CD
 got_2	1
 NNPS_CC
-Dickies_and	1
+Pilgrims_but	1
+Dickies_and	2
 Pilgrims_and	3
 CC_RB
 and_then	2
@@ -1393,6 +1403,7 @@ And_even	1
 but_not	2
 but_now	1
 and_instead	1
+But_just	1
 but_then	1
 and_over	1
 and_so	1
@@ -1446,8 +1457,11 @@ their_last-minute	1
 their_original	1
 MD_MD
 Wo_Wo	3
-PRP_PRP
-us_we	1
+WP_VBD
+what_was	1
+who_became	1
+whoever_mastered	1
+who_learned	1
 IN_PRP
 because_we	1
 once_they	1
@@ -1501,14 +1515,9 @@ though_she	1
 about_it	2
 by_it	1
 that_we	3
-''_.
-''_.	3
-''_,
-''_,	1
 NNS_VB
 FEATURES_Play	1
-,_FW
-,_etc.	1
+details_let	1
 VBG_WRB
 knowing_how	1
 wondering_why	1
@@ -1559,6 +1568,8 @@ some_have	1
 all_make	1
 all_watch	1
 these_are	1
+NN_UH
+lesson_yes	1
 DT_NN
 a_lesson	1
 the_word	1
@@ -1607,16 +1618,17 @@ a_voice-over	1
 the_penultimate	1
 that_period	1
 an_innocence	1
-a_turkey	2
+the_meal	2
 The_film	1
 the_mood	1
 This_one	1
 the_video	2
+The_way	1
 a_parade	1
 a_boy	3
 a_reality	1
 a_winner	1
-a_feast	2
+a_turkey	2
 the_holiday	6
 the_scene	1
 the_wisdom	1
@@ -1655,6 +1667,7 @@ the_perfection	1
 a_fun	1
 a_review	1
 the_meaning	2
+this_Thankgiving	1
 The_bonus	1
 this_one	1
 this_time	2
@@ -1678,8 +1691,10 @@ this_video	2
 The_bulk	1
 No_turkey	1
 this_special	3
+the_Bonus	1
 the_blah	1
 no_exception	1
+a_feast	2
 no_doubt	1
 a_string	1
 the_backyard	1
@@ -1767,7 +1782,7 @@ a_change	1
 a_way	1
 the_voyage	1
 the_countdown	1
-this_Thankgiving	1
+The_chemistry	1
 a_trailer	1
 The_plan	1
 the_act	1
@@ -1783,6 +1798,7 @@ a_crack	1
 The_Mayflower	1
 the_table	3
 a_call	1
+a_making	1
 a_girl	1
 the_cartoon	1
 a_word	1
@@ -1867,10 +1883,12 @@ I_remember	1
 them_learn	1
 I_guess	1
 DT_VBN
+these_remastered	1
+that_forgotten	1
+An_added	1
 the_remastered	1
 all_come	1
-An_added	1
-that_forgotten	1
+the_lost	1
 PRP_JJ
 me_jaded	1
 me_hungry	1
@@ -1922,13 +1940,9 @@ FW_PRP
 nd_I	1
 VBP_EX
 are_there	1
-IN_,
-that_,	1
-on_,	1
-of_,	1
-through_,	1
-for_,	1
-like_,	1
+PRP_:
+it_:	1
+it_--	1
 IN_.
 from_?	1
 in_!	1
@@ -1948,29 +1962,26 @@ ala_carte	1
 EX_RB
 there_anyway	1
 there_probably	1
-``_DT
-``_A	5
-``_The	4
-``_no	1
-``_This	3
+WP_NNP
+what_Thanksgiving	2
 PRP_.
 it_!	1
 it_.	9
 him_!	1
 itself_.	1
 them_.	2
-PRP_,
-ya_,	1
-you_,	1
-it_,	6
-herself_,	4
+IN_:
+for_:	1
 CC_VBP
 and_am	1
 and_are	1
-JJS_``
-best_``	1
+NNP_WDT
+Rock_that	1
+Thanksgiving_which	2
+Voyage_that	1
 PRP_VB
 you_ask	1
+you_ignore	1
 himself_get	1
 him_flounder	1
 you_get	1
@@ -1995,6 +2006,7 @@ and_hurts	1
 NN_WRB
 gag_where	1
 charm_when	1
+beginning_when	1
 year_when	1
 tradition_where	1
 scene_where	2
@@ -2007,6 +2019,7 @@ up_to	1
 out_to	2
 in_to	1
 NNP_PRP
+Schultz_they	1
 Whether_you	1
 Smith_I	1
 CC_VBD
@@ -2031,36 +2044,34 @@ and_fed	1
 and_Created	1
 JJR_NNP
 better_Peanuts	1
-JJ_,
-jaded_,	1
-educational_,	1
-Clean_,	1
-like_,	1
-short_,	1
-average_,	1
-spooky_,	1
-wonderful_,	1
-fidgety_,	1
-own_,	2
-unconventional_,	1
-laugh-filled_,	1
-usual_,	1
-positive_,	1
-thankful_,	1
-soulless_,	1
-proper_,	1
-true_,	1
-funny_,	1
-good_,	1
-foremost_,	1
-ancient_,	1
-different_,	1
-JJR_NNS
-harsher_facts	1
-older_ones	1
-more_times	1
-more_kids	1
-fewer_cartoons	1
+JJ_.
+cool_.	1
+in-between_!	1
+superior_.	1
+educational_.	1
+fantastic_!	1
+important_.	1
+cute_!	1
+crazy_?	1
+child-centered_.	1
+old_.	1
+terrible_.	1
+Hysterical_!	1
+30-min_?	1
+dated_.	1
+priceless_.	1
+second_.	1
+boring_.	2
+profound_.	1
+annoying_.	1
+entertaining_.	1
+stale_.	1
+next_?	1
+hungry_.	1
+unforgiving_.	1
+hummable_.	1
+first_.	1
+little_.	1
 JJR_CD
 <_3	1
 VBN_IN
@@ -2122,6 +2133,7 @@ and_against	1
 And_while	1
 but_about	1
 And_in	2
+And_for	1
 and_because	1
 But_for	1
 And_as	1
@@ -2158,12 +2170,13 @@ musket_would	1
 dinner_would	1
 NN_NNS
 something_producers	1
-childhood_days	1
 pretzel_sticks	1
 Time_constraints	1
+toast_pretzels	1
 background_figures	1
 holiday_specials	7
-food_preparations	1
+toast_jellybeans	2
+childhood_days	1
 holiday_memories	1
 DVD_versions	1
 holiday_episodes	1
@@ -2172,6 +2185,7 @@ newspaper_strips	1
 video_tapes	1
 episode_details	1
 tv_shows	1
+o_lanterns	1
 TV_specials	1
 voice_actors	1
 DVD_FEATURES	1
@@ -2180,32 +2194,55 @@ football_fans	1
 scene_cuts	1
 pilgrim_children	1
 holiday_cartoons	1
+food_preparations	1
+popcorn_pretzels	2
 character_voices	1
 jelly_beans	4
 NN_NNP
-year_!!!	1
+pie_Chuck	1
+PUMPKIN_CHARLIE	1
+home_Snoopy	1
+hand_Charlie	1
 buff_Peanuts	1
+pushover_Charlie	1
 friend_Peppermint	1
-creator_Charles	1
-conscience_Marcy	1
+feast_Charlie	1
 A_Charlie	1
-handshake_Franklin	1
+instance_Linus	1
+time_Peppermint	1
 tomboy_Peppermint	1
+song_Little	1
+idea_Charlie	1
+conscience_Marcy	1
+shouting_Doopy	1
+humiliation_Marcie	1
+special_Lucy	1
+special_Charlie	1
 end_Charlie	1
 Selection_Main	1
+year_!!!	1
+creator_Charles	1
+course_Linus	1
+handshake_Franklin	1
+word_Snoopy	1
+dud_Mayflower	1
 brother_Charlie	1
-TO_PDT
-to_all	1
-''_RB
-''_absolutely	1
-''_ever	1
-:_``
---_``	1
-:_``	2
+episode_Charlie	1
+NNPS_VBZ
+Voyagers_tells	1
+Voyagers_is	2
+Voyagers_gets	1
+RP_NNS
+back_memories	2
+off_facts	1
+CD_CD
+21_1988	1
+20_1973	1
 CD_CC
 5_+	1
 3_or	1
 two_or	1
+two_but	1
 IN_JJR
 with_more	1
 for_older	1
@@ -2216,6 +2253,8 @@ At_least	1
 at_least	1
 VBD_WRB
 liked_how	1
+MD_NN
+Wo_language	1
 PRP_WRB
 it_when	2
 :_DT
@@ -2227,7 +2266,9 @@ it_when	2
 :_The	1
 DT_MD
 This_would	1
+the_Wo	1
 this_may	1
+the_must	1
 JJR_NN
 older_brother	1
 more_history	1
@@ -2255,9 +2296,8 @@ have_covered	1
 get_lost	1
 POS_VBD
 's_loved	1
-RP_NNS
-back_memories	2
-off_facts	1
+JJR_JJR
+softer_happier	1
 PRP_MD
 I_should	1
 you_will	1
@@ -2290,6 +2330,8 @@ You_ca	1
 you_'ll	1
 you_can	6
 We_should	1
+VBP_VBP
+think_contain	1
 :_CD
 ;_one	1
 :_three	1
@@ -2315,8 +2357,16 @@ enjoy_watching	1
 are_conversing	1
 're_gon	1
 are_coming	1
-JJS_IN
-most_of	1
+NNS_VBD
+pilgrims_suffered	1
+minutes_pleased	1
+times_was	1
+passengers_did	1
+specials_lost	1
+specials_changed	1
+years_purchased	1
+figures_lost	1
+parents_enjoyed	1
 IN_NNPS
 by_Pilgrims	1
 EX_VBZ
@@ -2330,26 +2380,31 @@ There_are	3
 NNS_RP
 friends_over	1
 buddies_over	1
-CC_``
-and_``	2
 NN_NN
 gun_musket	1
 analog_warmth	1
 text_book	1
-Peppermint_patty	1
+way_everyone	1
 pumpkin_pie	3
+turkey_pumpkin	1
 REMASTERING_ALL	1
 education_video	1
+feature_Voyage	1
 television_special	1
 law_chair	1
 tree_pack	1
 pie_epilogue	1
+classic_holiday	1
 potty_humor	1
 toast_!!?	1
+toast_popcorn	3
+football_food	1
 childhood_holiday	1
 history_lesson	2
 sound_quality	1
+Bonus_track	1
 companion_piece	1
+Peppermint_patty	1
 jack_o	1
 History_series	1
 bonus_movie	1
@@ -2367,21 +2422,24 @@ football_gag	1
 deck_chair	1
 TV_show	1
 pop_gun	1
+pie_cranberry	1
 Thankgiving_message	1
 bird_pal	1
 family_thanksgiving	1
+halftime_stuff	1
 history_buff	1
 fun_video	1
-DVD_version	1
+toast_jelly	1
+cartoon_strip	1
 length_movie	1
 DVD_today	1
-halftime_stuff	1
-football_food	1
+popcorn_jelly	1
+holiday_meal	1
 holiday_experience	1
 walk_home	1
 bonus_feature	3
 Amendment_Song	1
-holiday_meal	1
+holiday_fun	1
 Shear_fun	1
 junk_food	3
 holiday_program	1
@@ -2393,53 +2451,41 @@ holiday_special	2
 holiday_get-together	1
 family_cartoon	1
 feature_program	1
+toast_pretzel	1
 star_review	1
-cartoon_strip	1
+DVD_version	1
 kitchen_scene	1
 child_voice	1
-PRP_NNP
-it_Thanksgiving	1
+Popcorn_pretzel	1
+RP_RB
+out_soon	1
+up_really	1
+down_too	1
 NNS_RB
 people_often	1
-characters_very	1
+minutes_long	1
+parents_alike	1
+features_together	1
+cuts_back	1
+decorations_up	1
 adults_alike	1
 laughs_also	1
+specials_ever	1
+actors_now	1
+cartoons_as	1
+surprises_there	1
+characters_very	1
+classics_never	1
 traditions_ever	1
 times_now	1
-cartoons_as	1
-minutes_long	1
-specials_ever	1
-times_already	1
-features_together	1
 weeks_ago	1
-cuts_back	1
-parents_alike	1
-kids_too	1
-classics_never	1
-surprises_there	1
-decorations_up	1
+times_already	1
 manners_here	1
+kids_too	1
+shows_now	1
+friends_too	1
 EX_VBD
 There_was	1
-VBP_NNS
-are_hearts	1
-are_adults	1
-are_classics	1
-,_JJ
-,_such	1
-,_complete	1
-,_bright	1
-,_great	1
-,_excellent	1
-,_honest-to-God	1
-,_mashed	1
-,_buttered	1
-,_fading	1
-,_young	1
-,_heartwarming	1
-,_uplifting	1
-,_EX
-,_there	2
 DT_JJ
 this_additional	1
 a_second	1
@@ -2562,15 +2608,13 @@ a_big	1
 a_good	8
 The_shocked	1
 a_grand	1
-the_true	5
+the_true	6
 this_funny	1
 The_second	1
 an_entire	1
 The_whole	1
 no_inappropriate	1
 a_Thankgiving	1
-``_VB
-``_Stop	1
 VBD_JJR
 laughed_more	1
 PRP_POS
@@ -2586,6 +2630,7 @@ idea_of	1
 deal_of	1
 story_for	1
 hand_in	1
+moment_after	1
 video_as	1
 dvd_for	1
 time_of	1
@@ -2617,7 +2662,7 @@ opportunity_for	1
 lesson_for	1
 kind_of	4
 laugh_out	1
-popularity_of	1
+bunch_of	2
 version_of	2
 help_of	4
 penultimate_of	1
@@ -2625,35 +2670,40 @@ timing_between	1
 feeling_of	1
 video_on	1
 digging_into	1
+classic_so	1
 classic_that	1
 feast_for	1
 fun_for	4
 popcorn_of	1
+bit_like	1
 one_that	1
 crew_as	1
+story_after	1
 thing_that	1
 dinner_that	1
 tape_for	1
 change_of	1
+Song_for	1
 nephew_for	1
 experience_as	1
 boy_because	1
-dinner_with	1
+magic_as	1
 dinner_of	2
 spur_of	1
 portion_of	1
-movie_that	1
+menu_though	1
 classic_for	1
 wisdom_of	1
 freedom_in	1
 feast_of	2
 delight_that	1
 innocence_about	1
-bit_like	1
+series_of	1
 reminder_of	1
 institution_since	1
 faith_in	1
 meal_of	1
+sound_that	1
 speech_on	1
 period_after	1
 series_from	1
@@ -2662,8 +2712,10 @@ something_of	1
 line_of	1
 fan_of	2
 day_because	1
-meal_that	1
+chemistry_between	1
+meal_that	2
 quest_for	1
+Thankgiving_on	1
 story_in	1
 TV_for	1
 presence_in	1
@@ -2675,9 +2727,12 @@ way_off	1
 video_in	1
 account_of	1
 value_for	1
+dinner_with	1
 ALL_OF	1
 history_of	1
+meal_until	1
 collection_of	1
+meal_for	1
 night_with	1
 place_for	2
 message_about	1
@@ -2686,6 +2741,7 @@ box_once	1
 way_into	1
 appeal_after	1
 perfection_of	1
+simple_though	1
 shape_in	1
 fault_of	1
 none_of	2
@@ -2696,14 +2752,14 @@ charge_of	1
 song_about	1
 story_from	1
 battle_between	1
-dinner_by	1
+mentress_through	1
 toast_as	1
 ESSENCE_of	1
 DVD_in	1
-narration_by	1
+inclusion_on	1
 presentation_of	1
 word_in	1
-inclusion_on	1
+narration_by	1
 land_that	1
 humor_with	1
 feast_with	1
@@ -2714,6 +2770,7 @@ journey_of	1
 couple_of	1
 lesson_of	1
 gag_in	1
+programming_though	1
 fault_with	1
 child_for	1
 talk_of	1
@@ -2740,6 +2797,7 @@ retelling_of	1
 assortment_of	1
 DEAL_on	1
 treat_for	1
+dinner_by	1
 wrench_in	1
 dinner_for	6
 passing_on	1
@@ -2754,15 +2812,17 @@ person_in	1
 bulk_of	1
 upset_with	1
 tradition_for	1
-bunch_of	2
+popularity_of	1
+DVD_for	2
 part_of	2
 entertainment_for	1
-series_of	1
+feature_because	1
 home_for	1
 screen_for	1
 report_on	1
 take_on	1
 classic_at	1
+movie_that	1
 holiday_from	1
 synonym_for	1
 video_about	1
@@ -2775,10 +2835,11 @@ Part_of	1
 call_from	1
 string_of	1
 table_at	1
+view_with	1
 help_from	1
 world_with	1
 making_of	1
-DVD_for	2
+countdown_if	1
 year_in	1
 fun_that	1
 Voyage_of	1
@@ -2801,7 +2862,7 @@ And_the	1
 and_this	1
 but_the	2
 or_the	1
-and_the	24
+and_the	25
 And_this	1
 NN_VBN
 song_performed	1
@@ -2817,27 +2878,41 @@ epilogue_used	1
 episode_produced	1
 program_entitled	1
 star_taken	1
+house_defeated	1
 NNS_PRP
-blows_it	1
-cracks_me	1
-gags_we	1
+cartoons_I	1
+videos_you	1
+afterwords_he	1
+customs_we	1
+minutes_they	1
 things_we	1
+blows_it	1
+fans_you	1
+gags_we	1
+cracks_me	1
+specials_it	2
 NN_VBG
 food_causing	1
 doubt_having	1
 dinner_including	1
 special_revolving	1
 popcorn_popping	1
+soundtrack_bringing	1
 dealer_serving	1
 toast_flying	1
 year_seeing	1
+sequence_doubling	1
 voice-over_running	1
 trailer_promoting	1
 football_kicking	1
+hero_calling	1
+year_having	1
+half_taking	1
 PRP_FW
 me_!!	1
 CC_WRB
 but_when	1
+But_where	1
 and_how	2
 and_when	2
 NN_VBD
@@ -2853,8 +2928,10 @@ mom_sent	1
 movie_arrived	1
 world_was	1
 creation_had	1
+day_played	1
 movie_came	1
 special_was	1
+year_did	1
 office_wound	1
 DVD_was	1
 cartoon_was	1
@@ -2895,6 +2972,8 @@ end_brings	1
 bonus_is	1
 film_takes	1
 grandmother_'s	1
+Voyage_is	1
+food_is	1
 course_turns	1
 story_is	3
 grandmother_saves	1
@@ -2915,6 +2994,7 @@ special_does	1
 music_is	1
 video_takes	1
 gang_arrives	1
+creator_is	1
 result_is	1
 DVD_offers	1
 everyone_learns	1
@@ -2922,10 +3002,12 @@ DVD_contains	1
 gang_is	1
 premise_is	1
 cartoon_is	1
+way_involves	1
 one_is	1
 boring_pauses	1
 RB_RB
 still_waayyy	1
+Sure_historically	1
 too_far	1
 over_again	1
 just_as	1
@@ -2954,7 +3036,7 @@ also_very	1
 very_much	1
 not_too	1
 n't_enough	1
-along_too	1
+along_too	2
 once_again	1
 probably_mostly	1
 not_as	5
@@ -2970,6 +3052,7 @@ rather_adroitly	1
 n't_quite	1
 far_behind	1
 n't_really	2
+Afterward_however	1
 far_back	1
 actually_quite	1
 even_no	1
@@ -2994,12 +3077,17 @@ TO_IN
 to_at	1
 NN_VBP
 special_are	1
+dinner_do	1
+review_watch	1
 movie_are	1
 child_have	1
 quality_are	1
 memory_are	1
 gang_are	3
+classic_are	1
 series_are	1
+:_WRB
+:_Where	1
 PRP_RB
 I_just	2
 I_still	2
@@ -3028,13 +3116,11 @@ it_bigtime	1
 I_often	1
 them_as	1
 She_really	1
-it_too	1
+it_too	2
 's_just	1
 I_also	2
 VBG_.
 yelling_.	1
-,_NNPS
-,_Dickies	2
 IN_EX
 if_there	1
 JJS_PRP
@@ -3048,17 +3134,13 @@ me_up	1
 herself_over	2
 it_up	1
 it_down	1
-JJ_``
-great_``	1
-amazing_``	1
-weird_``	1
-much_``	1
 RB_VBZ
 also_features	1
 firmly_runs	1
 then_finds	1
 still_makes	1
 Nowhere_does	1
+however_is	1
 alone_is	1
 definitely_needs	1
 even_sings	1
@@ -3070,12 +3152,9 @@ then_gripes	1
 never_has	1
 Also_explains	1
 seldom_feels	1
+understandably_has	1
 VBZ_VBD
 's_got	1
-,_WP
-,_whoever	1
-,_who	4
-,_what	1
 VBZ_VBG
 is_telling	1
 is_making	1
@@ -3205,23 +3284,8 @@ not_lost	1
 never_seen	1
 greatly_missed	1
 Also_included	2
-NN_''
-Thankgiving_''	1
-anything_''	1
-Voyage_''	1
-Bird_''	1
-Bonus_'	1
-???!_''	1
-blockhead_''	1
-Song_''	1
-meal_''	2
-o_'	1
-way_''	1
-mentress_''	1
-magic_''	1
-story_''	1
-chemistry_''	1
-sir_''	1
+VBP_WP
+know_what	1
 VB_RBR
 be_more	1
 RB_VBG
@@ -3252,12 +3316,9 @@ Also_included	1
 first_started	1
 recently_checked	1
 finally_bought	1
+before_was	1
 first_saw	1
 always_had	1
-NNS_NN
-CDs_sound	1
-potatoes_???!	1
-peanuts_gang	2
 CC_MD
 and_will	1
 VBD_NN
@@ -3266,9 +3327,11 @@ raced_home	1
 was_fun	1
 put_butter	1
 was_something	2
+NNPS_CD
+Voyages_one	1
 NNP_TO
 Franklin_to	4
-Chuck_to	1
+Chuck_to	2
 Snoopy_to	1
 Halloween_to	2
 Patty_to	1
@@ -3287,40 +3350,21 @@ comes_to	1
 VBP_PDT
 think_all	1
 POS_NNP
+'s_Linus	1
 's_Thanksgiving	3
-,_IN
-,_after	1
-,_with	3
-,_in	2
-,_through	1
-,_because	1
-,_as	2
-,_while	3
-,_if	2
-,_on	1
-,_without	2
-,_though	4
-,_that	2
-,_so	1
-,_like	1
-,_until	1
-,_for	1
-,_of	1
 POS_NNS
 '_faces	1
 '_specials	1
 's_feelings	1
 NNS_WP
 parents_who	1
+classics_whoever	1
 people_who	1
 kids_who	1
 RP_NN
 up_conscience	1
-,_CD
-,_1973	1
-,_1988	1
-,_5	1
 VBG_CC
+talking_and	1
 suffering_and	1
 coming_and	1
 JJR_JJ
@@ -3346,12 +3390,13 @@ will_never	1
 can_not	1
 NN_WDT
 life_that	1
+DVD_that	1
 special_that	2
 joy_that	1
 chair_that	1
 deckchair_that	1
 holiday_that	1
-DVD_that	1
+series_which	1
 something_that	2
 story_that	2
 flick_that	1
@@ -3362,6 +3407,7 @@ enhance_the	1
 love_this	1
 get_the	2
 softsoap_the	1
+watch_A	1
 Get_this	1
 prepare_a	2
 get_a	3
@@ -3414,9 +3460,6 @@ all_these	1
 all_the	11
 all_those	1
 such_a	2
-PRP_``
-her_``	3
-it_``	1
 VBZ_JJ
 is_perfect	1
 feels_bad	1
@@ -3438,6 +3481,7 @@ is_obvious	1
 is_great	1
 's_great	1
 's_hummable	1
+sticks_buttered	1
 is_terrible	1
 is_silly	1
 gets_angry	1
@@ -3449,6 +3493,7 @@ is_cool	1
 reappears_next	1
 's_nice	1
 NN_TO
+football_to	1
 storyline_to	1
 song_to	1
 joy_to	1
@@ -3481,7 +3526,7 @@ DT_IN
 any_of	1
 this_in	1
 this_by	1
-all_about	1
+no_under	1
 some_of	3
 all_of	3
 this_on	2
@@ -3489,6 +3534,7 @@ Some_of	1
 this_from	1
 all_because	1
 all_with	1
+all_about	1
 PRP_IN
 it_on	2
 us_through	1
@@ -3514,8 +3560,8 @@ smarter_side	1
 more_critical	1
 more_sensitive	1
 more_educational	1
-JJS_,
-best_,	1
+WRB_MD
+Why_might	1
 WP_DT
 What_a	2
 CC_CD
@@ -3530,77 +3576,54 @@ CC_CC
 +_+	4
 RB_WDT
 together_whatever	1
+alike_that	1
+here_that	1
 JJ_NNPS
 native_Americans	1
 friendly_Indians	1
 little_Tommies	1
-,_NN
-,_pretzel	2
-,_toast	1
-,_holiday	2
-,_jelly	3
-,_popcorn	3
-,_Voyage	1
-,_pumpkin	2
-,_everyone	2
-,_fun	1
-,_cranberry	1
-,_tv	1
-,_shipping	1
 PRP$_RB
 his_mastefully	1
 CC_.
 +_.	2
-CC_,
-But_,	3
-and_,	1
-And_,	1
-``_NNS
-``_classics	1
+UH_PRP
+Yes_you	1
 JJR_CC
+more_and	1
 smaller_and	1
-PRP$_``
-his_``	1
-``_NNP
-``_Mayflower	2
-``_Linus	1
-``_Sir	1
-``_Popcorn	1
-``_Great	1
-``_Christmas	1
-``_Garfield	1
-``_Chuck	3
-``_Peanuts	3
-``_Sparky	1
-``_Ma	1
-``_Snoopy	1
-``_A	3
-``_Charlie	1
-``_Doopy	1
-``_This	1
-``_Standish	1
-``_Little	2
 RB_DT
-totally_a	1
-much_The	1
-quite_a	1
-n't_the	1
-still_a	2
-quite_the	1
-just_a	1
-Basically_The	1
-once_a	1
-just_the	1
-not_the	1
-actually_a	1
-hardly_any	1
-really_all	1
-else_the	1
-Not_the	1
-basically_this	1
-together_a	1
-Perhaps_a	1
+Second_A	1
+Still_the	1
+Finally_a	1
 still_an	1
+quite_the	1
+thus_the	1
+Basically_The	1
+just_the	1
+quite_a	1
+still_a	2
+else_the	1
+just_a	1
+Unfortunately_all	1
+Unquestionably_the	1
+not_the	1
+Together_these	1
+once_a	1
+n't_the	1
+totally_a	1
+Now_this	1
+Not_the	1
+actually_a	1
+really_all	1
+hardly_any	1
+First_this	1
+Surely_this	1
+together_a	1
+someday_this	1
+basically_this	1
+much_The	1
+Perhaps_a	1
+specifically_an	1
 PRP$_JJS
 his_best	1
 my_highest	1
@@ -3611,36 +3634,16 @@ DT_VB
 all_relate	1
 an_invite	1
 all_be	1
+UH_CC
+yes_but	1
 WRB_PRP$
 when_my	1
-DT_``
-a_``	1
-the_`	1
-the_``	7
-these_``	1
-The_``	3
-,_RB
-,_sadly	1
-,_now	2
-,_not	1
-,_too	7
-,_as	1
-,_so	2
-,_just	2
-,_well	1
-,_specifically	1
-,_historically	1
-,_understandably	1
-,_definitely	1
-,_then	2
-,_especially	1
-,_however	2
 CC_PRP
 and_they	5
 Yet_I	1
 but_I	1
-or_you	1
 but_you	1
+But_you	1
 and_you	1
 and_I	3
 and_It	1
@@ -3650,10 +3653,7 @@ and_it	2
 and_she	1
 But_I	1
 and_we	2
-VBG_PRP$
-holding_my	1
-bringing_his	1
-discussing_their	1
+or_you	1
 RB_VB
 n't_seem	1
 still_love	1
@@ -3712,33 +3712,23 @@ Except_for	1
 out_of	2
 along_with	1
 that_at	1
+for_while	1
 in_between	1
 as_while	1
 JJ_RB
 long_enough	1
+different_too	1
+proper_then	1
 grand_nevertheless	1
 great_even	1
-,_``
-,_``	7
+jaded_sadly	1
+good_too	1
 VBZ_WP
 's_what	2
-,_VBD
-,_purchased	1
-,_played	1
-,_did	1
-,_was	1
-,_VBG
-,_acting	1
-,_discussing	1
-,_including	1
-,_mixing	1
-,_scorning	1
-,_doubling	1
-,_calling	1
-,_growling	1
-,_having	1
-,_bringing	1
-,_taking	1
+VBG_PRP$
+holding_my	1
+bringing_his	1
+discussing_their	1
 NNS_.
 siblings_.	1
 characters_.	1
@@ -3787,50 +3777,6 @@ Americana_.	1
 classics_.	2
 holidays_.	2
 videos_.	1
-,_VBN
-,_defeated	1
-NNS_,
-afterwords_,	1
-hardships_,	1
-friends_,	3
-1960s_,	1
-women_,	1
-soundtracks_,	1
-fans_,	1
-cartoons_,	1
-comics_,	1
-years_,	1
-moments_,	1
-shows_,	1
-details_,	1
-actors_,	1
-specials_,	5
-times_,	1
-lanterns_,	1
-eyes_,	1
-pretzels_,	2
-beans_,	2
-animations_,	1
-films_,	1
-kids_,	2
-features_,	1
-chairs_,	1
-jellybeans_,	1
-adults_,	1
-sticks_,	1
-leaders_,	1
-minutes_,	1
-customs_,	1
-turkeys_,	1
-classics_,	2
-eggs_,	1
-videos_,	1
-episodes_,	1
-,_VBP
-,_do	1
-,_watch	1
-,_contain	1
-,_are	1
 VBD_NNP
 selected_Charlie	1
 liked_Marcie	1
@@ -3845,13 +3791,17 @@ memories_...	1
 specials_--	1
 1970s_:	1
 thanks_-	1
-,_VBZ
-,_has	1
-,_calls	1
-,_gets	1
-,_is	3
-``_WRB
-``_Where	2
+WRB_RB
+how_sorely	1
+VBG_JJ
+being_second	1
+planting_wet	1
+getting_fidgety	1
+acting_proper	1
+promoting_several	1
+getting_ready	3
+being_able	1
+being_thankful	2
 JJ_NNS
 starving_passengers	1
 other_DVDs	1
@@ -3926,9 +3876,10 @@ help_make	1
 help_set	1
 Play_Set	1
 JJ_NNP
+great_Peanuts	1
 afraid_Pixar	1
 Happy_Thanksgiving	1
-first_Thanksgiving	7
+previous_CB	1
 insulting_Charles	1
 classic_Charlie	2
 awesome_Vince	1
@@ -3938,6 +3889,7 @@ many_Thanksgiving	1
 old_Charlie	1
 real_Thanksgiving	1
 other_Peanuts	1
+usual_Charlie	1
 poor_Charlie	2
 tomboyish_Patty	1
 pushy_Peppermint	2
@@ -3945,21 +3897,18 @@ beloved_Charlie	1
 good_Peanuts	2
 poor_Chuck	1
 grand_Thanksgiving	1
-previous_CB	1
+weird_Ma	1
+first_Thanksgiving	7
 classic_Peanuts	2
 usual_Peanuts	1
 CD_IN
 two_in	1
 one_for	1
 one_with	1
+1960s_with	1
 one_of	8
 3_in	1
 2_of	1
-''_CD
-''_one	1
-''_two	1
-''_CC
-''_and	6
 IN_WP
 because_who	1
 of_what	1
@@ -3985,19 +3934,36 @@ The_Simpsons	1
 the_Pilgrims	5
 the_Tommies	1
 NN_PRP
-something_I	1
-animation_itself	1
-t.v._it	1
-Love_ya	1
-way_I	1
-everything_I	1
-bit_I	1
-chair_it	1
+book_she	1
 fact_he	1
+supper_they	1
+price_I	1
+something_I	1
+DVD_you	1
+sidewalk_they	1
+help_they	1
+chair_it	1
+worship_I	1
+story_it	1
+food_it	1
+year_I	1
+will_she	1
+course_we	1
+way_I	1
+soul_you	1
+everything_I	1
+t.v._it	1
 experience_you	1
 school_I	1
-price_I	1
-will_she	1
+classic_it	1
+musician_you	1
+anything_he	1
+kid_I	1
+TV_I	1
+bit_I	1
+rock_you	1
+animation_itself	1
+Love_ya	1
 VB_PRP$
 blow_her	1
 get_my	1
@@ -4005,21 +3971,26 @@ complete_your	1
 have_its	1
 ._.
 !_.	2
-,_MD
-,_might	1
+?_.	1
 JJ_DT
 short_a	1
 worth_the	2
 speical_the	1
 whent_the	1
 RB_CC
+no_but	1
 back_and	1
 well_but	1
 politely_but	1
 over_and	1
+here_or	1
 long_and	1
 soon_and	1
+well_and	1
+around_and	1
 together_and	1
+already_and	1
+here_but	1
 again_and	2
 MD_VB
 could_ask	1
@@ -4074,8 +4045,9 @@ would_conjure	1
 'll_get	1
 will_have	1
 RB_CD
-only_four	1
 not_one	1
+So_5	1
+only_four	1
 only_30	1
 Not_five	1
 only_one	1
@@ -4100,34 +4072,10 @@ VB_VBG
 mention_having	1
 be_smiling	1
 Stop_holding	1
-IN_PRP$
-on_our	1
-before_your	1
-of_his	4
-with_your	2
-After_her	1
-at_their	1
-in_my	1
-at_his	5
-with_my	1
-of_her	2
-for_my	5
-from_her	1
-at_our	1
-from_his	1
-that_his	1
-for_their	2
-into_our	1
-if_their	1
-in_their	2
-In_her	1
-in_his	1
-as_his	1
-for_our	1
-with_his	1
-of_its	1
-for_his	4
-as_its	1
+VBG_NNS
+giving_thanks	1
+serving_cards	1
+speaking_parts	1
 WRB_NNP
 when_Peppermint	1
 when_Snoopy	2
@@ -4138,15 +4086,6 @@ when_Vince	1
 where_Lucy	2
 when_Patty	1
 when_Lucy	1
-,_DT
-,_this	7
-,_these	1
-,_that	1
-,_a	3
-,_the	11
-,_no	3
-,_an	1
-,_all	3
 NNP_NNPS
 Trotter_Animators	1
 Holiday_Celebrations	1
@@ -4161,11 +4100,10 @@ do_is	1
 VBZ_RBR
 is_more	2
 NNS_DT
+eyes_A	1
 friends_all	1
 voices_this	1
 hardships_the	1
-POS_``
-'s_``	1
 VBZ_NN
 's_inclusion	1
 is_kind	1
@@ -4176,13 +4114,8 @@ means_REMASTERING	1
 is_something	1
 's_kind	1
 finds_fault	1
-WRB_RB
-how_sorely	1
-DT_''
-no_''	1
-UH_,
-Yes_,	2
-yes_,	1
+UH_.
+eh_.	1
 TO_JJ
 to_poor	1
 VBP_DT
@@ -4190,6 +4123,7 @@ have_all	1
 contain_a	1
 watch_the	1
 say_neither	1
+watch_A	1
 have_no	1
 have_a	2
 give_this	1
@@ -4209,6 +4143,7 @@ preserve_the	1
 LOVE_these	1
 kick_the	1
 lend_a	1
+click_no	1
 watch_every	1
 make_an	1
 am_a	2
@@ -4217,15 +4152,19 @@ decided_to	1
 lost_to	1
 had_to	1
 NN_FW
+gravy_etc.	1
 food_ala	1
-,_WDT
-,_which	6
-,_that	2
+NNS_POS
+games_'	1
+kids_'	2
 NNPS_NN
+Celebrations_DVD	1
 Pilgrims_journey	1
 NNS_PDT
 details_all	1
 glues_all	1
+JJS_NNP
+best_Peanuts	1
 NN_:
 example_:	1
 review_;	1
@@ -4247,110 +4186,17 @@ CD_RB
 one_seldom	1
 POS_JJS
 's_best	1
+NNPS_WP
+Simpsons_what	1
 NNP_JJ
 Peanuts_classic	1
 Charlie_brown	2
+Thanksgiving_complete	1
 Steven_Spielberg-ish	1
+Woodstock_Little	1
 Peanuts_gentle	1
 Giraldi_musical	1
 Browns_deep	1
-,_WRB
-,_when	3
-,_where	1
-NN_,
-entertainment_,	1
-hero_,	1
-color_,	1
-book_,	2
-viewing_,	1
-feature_,	3
-beginning_,	1
-kid_,	1
-program_,	1
-world_,	2
-TV_,	1
-moment_,	3
-musician_,	2
-creator_,	1
-popcorn_,	4
-story_,	2
-special_,	2
-half_,	1
-house_,	2
-flick_,	1
-score_,	1
-rock_,	1
-PUMPKIN_,	1
-combo_,	1
-Popcorn_,	1
-football_,	1
-day_,	1
-way_,	1
-course_,	3
-episode_,	1
-magic_,	1
-pushover_,	1
-everyone_,	2
-sequence_,	1
-DVD_,	1
-series_,	1
-boot_,	1
-pie_,	2
-humiliation_,	1
-invasion_,	1
-instance_,	1
-countdown_,	1
-gravy_,	1
-supper_,	2
-predicament_,	1
-Ah_,	1
-lesson_,	1
-soul_,	1
-feast_,	2
-blah_,	1
-sauce_,	1
-menu_,	1
-pal_,	1
-hand_,	1
-time_,	2
-kitchen_,	1
-fun_,	1
-worship_,	1
-year_,	3
-holiday_,	3
-food_,	4
-language_,	1
-sound_,	1
-turkey_,	1
-programming_,	1
-view_,	1
-quality_,	1
-nephew_,	1
-simple_,	1
-idea_,	1
-dinner_,	1
-message_,	1
-home_,	1
-soundtrack_,	1
-review_,	1
-meal_,	1
-classic_,	5
-fact_,	1
-toast_,	8
-sidewalk_,	1
-help_,	1
-``_NN
-``_way	1
-`_Bonus	1
-``_mentress	1
-``_making	1
-``_blockhead	1
-``_meal	2
-``_chemistry	1
-``_magic	1
-``_story	1
-``_Amendment	1
-``_sir	1
 NN_.
 voice_.	1
 popcorn_.	1
@@ -4419,6 +4265,7 @@ end_.	1
 money_.	1
 material_.	1
 fantasy_!	1
+Bird_.	1
 film_.	1
 stuff_.	1
 turkey_.	1
@@ -4459,22 +4306,21 @@ time_!	1
 toast_.	1
 time_.	1
 family_.	2
-POS_''
-'s_''	1
 NNS_JJR
 matters_worse	1
 VBN_DT
+gone_the	1
 Watched_these	1
 done_the	1
 learned_the	1
 studied_this	1
 become_a	1
+entitled_This	1
+been_an	1
 Loved_this	1
 read_the	1
 been_a	4
-been_an	1
-POS_,
-'s_,	2
+told_the	1
 JJR_TO
 harder_to	1
 WDT_VBP
@@ -4483,27 +4329,18 @@ that_cast	1
 that_are	2
 which_are	1
 that_need	1
-''_VBZ
-''_is	7
-''_involves	1
-''_intersperses	1
-''_NN
-''_holiday	1
-''_DVD	2
-''_language	1
-'_track	1
-''_meaning	1
-''_place	1
-''_sound	1
-''_TV	1
-''_series	1
 VBP_VB
 do_get	1
 IN_TO
 on_to	1
 as_to	1
-''_VBP
-''_are	1
+PRP_CC
+herself_and	6
+it_and	3
+us_but	1
+me_&	1
+He_and	1
+itself_or	1
 WDT_VBD
 which_was	1
 that_came	1
@@ -4523,12 +4360,8 @@ having_not	1
 Having_never	1
 appearing_back	1
 coming_along	1
-DT_,
-these_,	1
-the_,	1
-DT_.
-this_.	4
-all_.	1
+UH_DT
+Yes_the	1
 VBG_RP
 coming_out	1
 running_off	1
@@ -4539,6 +4372,12 @@ this_:	1
 NNPS_:
 Dinners_;	1
 Animators_:	1
+JJS_NN
+highest_recommendation	1
+best_purchase	1
+oldest_person	1
+greatest_holiday	1
+best_price	1
 RB_JJ
 surprisingly_sweet	1
 still_grand	1
@@ -4600,13 +4439,8 @@ so_glad	1
 really_important	1
 NNS_RBR
 ways_better	1
-VB_``
-watch_``	1
-NNPS_,
-Dickies_,	1
-Voyages_,	1
-Tommies_,	2
-Pilgrims_,	1
+TO_PDT
+to_all	1
 CD_DT
 3_This	1
 NNPS_.
@@ -4618,8 +4452,8 @@ to_Brooke	1
 to_Arbor	1
 to_Franklin	1
 to_Charlie	9
-to_A	1
-to_Chuck	2
+to_A	2
+to_Chuck	3
 to_Charles	1
 to_Our	1
 to_Peppermint	2
@@ -4651,10 +4485,18 @@ seeing_this	1
 cooking_the	1
 enjoying_all	1
 RB_PRP
-perhaps_you	1
-even_he	1
+Yet_I	1
 now_he	1
+Instead_we	1
+Luckily_we	1
+Still_it	1
+Really_I	1
+Somehow_he	1
+even_he	1
 fortunately_he	1
+perhaps_you	1
+instead_you	1
+No_I	1
 MD_DT
 can_all	2
 :_VBG
@@ -4675,6 +4517,7 @@ takes_me	2
 makes_me	1
 decides_she	1
 VB_RB
+leave_however	1
 get_pretty	1
 watch_annually	1
 have_quite	1
@@ -4694,20 +4537,20 @@ conjure_up	1
 set_up	1
 stay_up	1
 put_together	1
-NNP_WP
-Patty_who	1
+VBZ_PDT
+has_all	1
 JJ_WRB
 angry_when	1
+funny_when	1
+like_Where	1
 NN_RBR
 lot_better	1
+course_more	1
 NNS_WRB
 memories_when	1
 faces_when	1
-``_JJ
-``_true	1
-``_Little	2
-VB_''
-have_''	1
+NN_EX
+???!_There	1
 NNP_IN
 Hero_for	1
 AND_if	1
@@ -4722,13 +4565,14 @@ Produced_by	1
 Patty_up	1
 Woodstock_though	1
 Marcie_in	1
+Brown_through	1
 Thanksgiving_despite	1
 Marcie_after	1
 Rock_with	1
 VHS_for	1
 Woodstock_from	1
-Thanksgiving_while	1
-Thanksgiving_on	1
+Thanksgiving_while	2
+Thanksgiving_on	3
 Party_for	1
 Thanksgiving_in	2
 Chuck_for	1
@@ -4736,18 +4580,36 @@ Mayflower_in	1
 Ocean_on	1
 Thanksgiving_as	2
 Chuck_as	1
+Lucy_during	1
+Miles_before	1
+Chuck_from	1
+Brown_with	1
 Brown_that	1
 Patty_that	1
 VBG_PDT
 bringing_all	1
 making_all	1
-,_TO
-,_to	2
+PRP$_NNS
+her_friends	3
+my_grandchildren	1
+his_trials	1
+their_networks	1
+their_experiences	1
+their_debuts	1
+their_misconceptions	1
+their_parents	1
+his_friends	6
+his_plans	1
+his_buddies	1
+his_Grandmas	1
+my_kids	3
+its_moments	1
+your_children	1
+her_firnds	1
+its_predecessors	1
+their_hardships	1
 FW_.
 carte_.	1
-VBZ_``
-wants_``	1
-features_``	1
 IN_VBG
 after_taking	1
 into_making	1
@@ -4780,16 +4642,6 @@ from_bringing	1
 by_inviting	1
 in_helping	1
 without_giving	1
-,_PRP
-,_he	3
-,_they	7
-,_we	4
-,_you	10
-,_it	8
-,_I	9
-,_she	2
-FW_''
-hwa_''	1
 IN_VBN
 on_themed	1
 from_impressed	1
@@ -4799,13 +4651,13 @@ Then_Peppermint	1
 sorely_Patty	1
 Only_Charlie	1
 even_Linus	1
-So_Linus	1
+So_Linus	2
 then_Lucy	1
-Then_Linus	1
+however_Peppermint	1
+However_Charlie	1
 then_Peppermint	1
-``_MD
-``_Wo	1
-``_must	1
+Then_Linus	1
+well_Halloween	1
 :_NNP
 -_Peppermint	1
 ;_Snoopy	1
@@ -4813,12 +4665,7 @@ then_Peppermint	1
 :_Lucy	1
 :_Bob	1
 -_Thanksgiving	1
-,_RBR
-,_more	1
-VBG_,
-talking_,	1
-frowning_,	1
-growling_,	1
+--_Christmas	1
 JJ_CC
 inaccurate_but	1
 first_and	1
@@ -4827,19 +4674,22 @@ silly_but	1
 fast_and	1
 good_and	1
 acknowledged_and	1
-sterile_and	1
+First_and	1
 smooth-flowing_and	1
+short_but	1
 sweet_and	2
 bad_and	1
 cool_and	1
 enjoyable_and	1
+thankful_and	1
 dull_or	1
+spooky_and	1
 traditional_or	1
 young_and	1
 weird_and	1
-First_and	1
+sterile_and	1
 rewarding_and	1
-educational_but	1
+educational_but	2
 educational_and	1
 other_and	1
 PDT_PRP$
@@ -4855,12 +4705,6 @@ excellent_one	1
 brown_1966	1
 additional_25	1
 other_two	3
-CD_,
-1960s_,	1
-40_,	1
-21_,	1
-two_,	1
-20_,	1
 CD_.
 five_.	1
 1988_.	1
@@ -4875,8 +4719,10 @@ Where_did	1
 WRB_VBZ
 Where_'s	1
 where_is	1
-VBZ_PDT
-has_all	1
+NNP_WP
+Patty_what	1
+Patty_who	3
+Afterall_who	1
 WRB_VBP
 Where_are	1
 POS_NN
@@ -4887,7 +4733,7 @@ POS_NN
 's_arrival	1
 '_table	1
 's_fantasy	1
-'s_place	1
+'s_place	2
 's_help	1
 '_halftime	1
 's_habit	1
@@ -4942,14 +4788,17 @@ explained_rather	1
 gained_quite	1
 seen_before	1
 NNP_NN
+Thanksgiving_everyone	1
 Peanuts_gang	4
 Thanksgiving_tradition	1
+Woodstock_pumpkin	1
 Shultz_classic	1
 Thanksgiving_show	2
 Woodstock_work	1
+Brown_series	1
 NASA_special	1
 Halloween_candy	2
-Peanuts_holiday	4
+Peanuts_holiday	5
 PEANUTS_gang	2
 Brown_cartoon	1
 Thanksgiving_meal	1
@@ -4963,9 +4812,11 @@ Thankgiving_meal	1
 Thanksgiving_feast	3
 Original_Score	1
 Mayflower_version	1
+Mayflower_story	1
 Brown_house	1
 Brown_movie	1
 Peanuts_classic	2
+Peanuts_TV	1
 Snoopys_aid	1
 Peanuts_creator	1
 Peanuts_magic	1
@@ -4989,6 +4840,7 @@ Rawls_number	1
 VBZ_RB
 is_sadly	1
 is_also	2
+is_specifically	1
 does_n't	13
 's_basically	1
 feels_so	1
@@ -5037,8 +4889,6 @@ grandmother_'s	13
 pilgrim_'s	1
 TO_VBG
 to_being	1
-''_WDT
-''_that	2
 VBN_RP
 drawn_out	1
 fed_up	1
@@ -5046,6 +4896,7 @@ taken_off	1
 grown_up	1
 RB_PRP$
 so_my	1
+Anyway_my	1
 now_my	1
 VBZ_RP
 ends_up	1
@@ -5070,33 +4921,24 @@ days_may	1
 producers_would	1
 ones_would	1
 fans_may	1
-NNP_``
-Schultz_``	1
-Mayflower_``	1
-Woodstock_``	1
-Patty_``	1
-,_JJR
-,_happier	1
 TO_RB
 to_never	1
 to_again	1
 to_just	1
-VBN_''
-lost_''	1
-remastered_''	1
 RBR_IN
 longer_with	1
 RB_IN
 back_in	2
 along_with	1
 just_as	2
-now_that	1
+Well_without	1
 really_in	1
 not_for	1
 annually_before	1
 Together_with	1
 much_like	1
 especially_for	1
+back_for	1
 ever_since	2
 back_with	1
 Just_as	1
@@ -5110,8 +4952,8 @@ even_though	1
 So_for	1
 much_that	1
 well_as	1
-back_for	1
 even_for	1
+now_that	2
 together_at	1
 just_like	1
 mostly_of	1
@@ -5127,6 +4969,7 @@ back_as	1
 again_with	2
 away_into	1
 even_that	1
+Alas_in	1
 brightly_as	1
 VBG_IN
 taking_in	1
@@ -5144,8 +4987,6 @@ revolving_around	1
 speaking_in	1
 $_CD
 $_40	1
-MD_''
-Wo_''	1
 DT_CD
 a_31	1
 every_fifteen	1
@@ -5208,56 +5049,8 @@ read_correctly	1
 've_always	1
 JJ_VBZ
 same_is	1
+own_gets	1
 side_says	1
-''_NNP
-''_Peanuts	1
-''_NNS
-''_moments	1
-'_lanterns	1
-NNP_,
-Spence_,	1
-Tom_,	2
-Marcy_,	2
-Muse_,	1
-Joy_,	1
-BEAGLE_,	1
-Marcie_,	4
-Patty_,	9
-Schultz_,	2
-Thankgiving_,	1
-Scotland_,	1
-Pumpkin_,	1
-Lusk_,	1
-America_,	5
-Smith_,	1
-Scribner_,	1
-Brown_,	6
-Lansing_,	1
-Thanksgiving_,	11
-Sally_,	1
-Woodstock_,	1
-Afterall_,	1
-Franklin_,	2
-Matz_,	1
-Jaimes_,	1
-Pabian_,	1
-Halloween_,	2
-Christmas_,	1
-Littlejohn_,	1
-Ace_,	1
-Carlson_,	1
-Burness_,	1
-Schulz_,	1
-Lucy_,	2
-Dick_,	2
-Snoopy_,	3
-BROWN_,	1
-Patterson_,	1
-Linus_,	4
-Charlie_,	1
-Well_,	1
-IT_,	1
-Overall_,	2
 CD_JJ
 two_previous	1
 25_minute	1
@@ -5266,13 +5059,13 @@ three_second	1
 two_funny	1
 NNP_.
 LOL_.	1
-Snoopy_!	1
+Marcy_.	1
 Marcie_?	1
 Hmmmm_.	1
 Chuck_?	1
 Carlitos_.	1
 Marcie_.	1
-Marcy_.	1
+Snoopy_!	1
 Mayflower_.	3
 Thankgiving_.	1
 Patty_.	1
@@ -5281,6 +5074,7 @@ America_.	1
 Popcorn_?	1
 Thanksgiving_.	16
 Story_.	1
+Voyage_.	1
 Woodstock_.	1
 Franklin_.	1
 Sir_.	1
@@ -5301,6 +5095,7 @@ Standish_.	1
 Chuck_.	2
 FW_NN
 Scene_Selection	1
+hwa_sound	1
 NNP_WRB
 Franklin_whenever	1
 POS_CD
@@ -5345,10 +5140,6 @@ often_borrow	1
 usually_hear	1
 also_have	1
 never_become	1
-VBG_NNS
-giving_thanks	1
-serving_cards	1
-speaking_parts	1
 VBZ_:
 complains_:	1
 VBZ_.
@@ -5357,12 +5148,9 @@ exists_.	1
 is_?	1
 happens_!	1
 is_.	1
-VBZ_,
-complains_,	1
-is_,	1
-sticks_,	1
 RB_NN
 not_part	1
+everywhere_toast	1
 definitely_value	1
 then_entertainment	1
 just_something	1
@@ -5378,55 +5166,53 @@ others_to	1
 directions_to	1
 kids_to	1
 parents_to	1
-friends_to	2
-VBP_``
-are_``	1
-watch_``	1
-click_``	1
+friends_to	3
 JJ_JJ
-great_simple	1
-excellent_five-star	1
-uplifting_moral	1
-good_old	1
 several_other	1
-poor_old	1
+amazing_Little	1
+3rd_animated	1
 Spielberg-ish_special	1
-great_little	1
+entertaining_educational	1
+great_simple	1
+true_honest-to-God	1
+jaded_almost-30	1
+good_educational	1
+excellent_five-star	1
+laugh-filled_heartwarming	1
 over-the-top_manipulative	1
 few_native	1
-3rd_animated	1
-self-congratulatory_12-minute	1
-good_ol'	1
 certain_nostalgic	1
 24-minute_second	1
 great_stop-gap	1
-jaded_almost-30	1
-good_educational	1
 entire_24-minute	1
-entertaining_educational	1
+ancient_fading	1
+poor_old	1
+good_old	1
+great_little	1
+good_ol'	1
+self-congratulatory_12-minute	1
+positive_uplifting	1
+Clean_bright	1
+uplifting_moral	1
 VBN_PRP
 seen_it	2
-invited_herself	2
-invited_themselves	1
+heard_they	1
 watched_it	1
+invited_themselves	1
+invited_herself	2
 stopped_me	1
 worshipped_her	1
 made_me	2
 WRB_JJ
 how_great	1
 how_many	1
-,_CC
-,_both	1
-,_and	49
-,_or	2
-,_but	26
 VB_NN
 intertwine_humor	1
 depict_today	1
 take_home	1
 make_dinner	2
 boil_water	1
-have_DVD	1
+have_DVD	2
 be_popcorn	1
 throw_togehter	1
 be_home	2
@@ -5439,14 +5225,13 @@ POS_IN
 's_for	4
 's_in	1
 NN_WP
+nephew_who	1
 guy_who	1
 boy_who	1
 one_who	2
 girl_who	1
 RB_RBR
 no_longer	1
-VBP_WP
-know_what	1
 VBD_WP
 knew_what	1
 PRP_TO
@@ -5507,25 +5292,22 @@ was_my	1
 asked_my	1
 IN_CC
 that_neither	1
-PRP_:
-it_:	1
-it_--	1
-NNS_VBD
-pilgrims_suffered	1
-minutes_pleased	1
-times_was	1
-passengers_did	1
-specials_lost	1
-specials_changed	1
-figures_lost	1
-parents_enjoyed	1
+on_but	1
+of_and	1
+JJS_IN
+most_of	1
 NNS_VBG
-DVDs_coming	1
 teachers_speaking	1
+DVDs_coming	1
+kids_mixing	1
 friends_traveling	1
-RP_RB
-out_soon	1
-up_really	1
+PRP_NNP
+it_Charlie	1
+herself_Marcy	1
+it_Thanksgiving	2
+her_Chuck	1
+ya_Charlie	1
+herself_Marcie	2
 PRP_NNS
 It_cracks	1
 NNS_VBN
@@ -5535,23 +5317,16 @@ cartoons_created	1
 characers_created	1
 touches_added	1
 facts_related	1
-,_UH
-,_eh	1
-,_yes	1
-JJS_NN
-highest_recommendation	1
-best_purchase	1
-oldest_person	1
-greatest_holiday	1
-best_price	1
+VBP_NNS
+are_hearts	1
+are_adults	1
+are_classics	2
 VBP_NNP
 have_Christmas	1
+mean_Thanksgiving	1
 restrict_Chuck	1
 love_Charles	1
 get_Peppermint	1
-``_PRP
-``_you	1
-``_We	1
 NN_PDT
 child_all	1
 CD_JJR
@@ -5566,20 +5341,6 @@ POS_JJ
 's_first	1
 :_JJ
 -_great	1
-VBN_``
-called_``	1
-''_IN
-''_from	1
-''_under	1
-''_between	1
-''_during	1
-''_through	1
-''_before	1
-''_on	3
-''_as	1
-''_after	1
-''_that	1
-''_for	2
 RBR_:
 better_;	1
 VBD_VBN
@@ -5660,8 +5421,6 @@ as_many	1
 of_old	1
 RBR_.
 better_.	1
-IN_''
-of_''	1
 VBN_NN
 remastered_DVD	1
 added_feature	1
@@ -5672,16 +5431,19 @@ considered_number	1
 themed_programming	1
 NNP_RB
 Woodstock_accidently	1
-Thanksgiving_never	1
-Brown_now	1
 Marcie_politely	1
-Franklin_along	1
+Brown_now	1
+Thanksgiving_absolutely	1
 Brown_never	1
 Marcy_along	1
 Brown_even	1
+Thanksgiving_never	1
 Patty_definitely	1
+Halloween_well	1
+Franklin_along	1
 Browns_right	1
 Chuck_just	1
+Charlie_understandably	1
 Xmas_just	1
 NNP_VBP
 Sally_are	2
@@ -5690,9 +5452,11 @@ Woodstock_hold	1
 Lucy_are	1
 Woodstock_lend	1
 Snoopy_!?	1
+Pumpkin_are	1
 Woodstock_manage	1
 :_PRP
 -_it	2
+:_We	1
 --_I	1
 ..._I	1
 NNS_IN
@@ -5701,6 +5465,7 @@ lights_into	1
 plates_like	1
 tribulations_as	1
 caroons_of	1
+shows_with	1
 facts_of	1
 grandchildren_if	1
 debuts_into	1
@@ -5713,6 +5478,7 @@ ways_of	1
 stars_for	2
 kisses_on	1
 moves_on	1
+adults_in	1
 kids_during	1
 children_aboard	1
 factors_as	1
@@ -5723,6 +5489,7 @@ experiences_with	1
 ones_with	1
 hardships_of	1
 characters_in	1
+chairs_while	1
 origins_of	1
 characters_as	3
 minutes_of	1
@@ -5733,7 +5500,7 @@ stars_In	1
 thoughts_on	1
 extras_beyond	1
 dynamics_of	1
-shows_with	1
+moments_like	1
 people_like	1
 Grandmas_for	1
 lots_of	1
@@ -5756,23 +5523,34 @@ movies_that	1
 specials_on	1
 traditions_on	1
 misconceptions_of	1
-VBD_:
-remembered_:	1
+VBN_CC
+drawn_and	1
+Written_and	1
+rushed_or	1
+annoyed_and	1
+remastered_and	1
+Arranged_and	1
+been_and	1
+gone_but	1
+defeated_and	1
+Composed_and	1
 NNP_VBZ
-Brown_is	8
+Brown_is	9
 Charlie_enlists	1
 Patty_decides	1
 Linus_stops	1
+Birdy_is	1
 Patty_invites	3
 Barbee_is	1
 Pelt_decides	1
 Marcie_gets	1
 Lucy_pulls	1
 Thanksgiving_has	1
+Voyage_intersperses	1
 Charlie_is	1
 Linus_is	1
 Linus_gives	1
-Chuckster_is	1
+Thankgiving_is	1
 Snoopy_climbs	1
 Pixar_has	1
 THANKSGIVING_is	2
@@ -5783,6 +5561,7 @@ Lucy_wants	1
 Snoopy_is	4
 Snoopy_gets	1
 B_does	1
+Chuckster_is	1
 Marcy_puts	1
 This_is	3
 Brown_does	1
@@ -5790,7 +5569,7 @@ Brown_gets	1
 Patty_gets	1
 IT_'S	1
 Snoopy_pitches	1
-Thanksgiving_is	8
+Thanksgiving_is	10
 Patty_apologizes	1
 Linus_says	1
 Linus_backs	1
@@ -5809,13 +5588,14 @@ Brown_emerges	1
 Patty_complains	1
 Brown_throws	1
 Patty_has	2
-Patty_calls	2
+Patty_calls	3
 Brown_has	2
 Guaraldi_is	1
 Shultz_has	1
 Patty_is	2
 Linus_takes	1
 Woodstock_makes	1
+Birdie_is	1
 Lucy_yanks	1
 Problem_is	1
 Christmas_is	1
@@ -5890,15 +5670,8 @@ now_must	1
 probably_should	1
 just_ca	1
 else_would	1
-NN_``
-show_``	1
-feature_``	1
-dud_``	1
-song_``	1
-word_``	1
-shouting_``	1
 CC_NNP
-and_A	1
+and_A	2
 and_Carlitos	1
 and_Easter	1
 and_Christmas	1
@@ -5909,6 +5682,7 @@ and_Charlie	5
 or_Chuck	1
 But_Charlie	1
 and_IT	1
+and_Great	1
 And_Snoopy	1
 and_Franklin	7
 And_Peppermint	1
@@ -5931,8 +5705,6 @@ but_Linus	1
 and_Linus	3
 and_Phil	1
 or_Christmas	1
-VBD_,
-wrote_,	1
 FW_VBN
 Guaraldi_Arranged	1
 VBD_.
@@ -5941,11 +5713,13 @@ enjoyed_.	1
 POS_.
 's_.	2
 NNP_VBG
+Brown_scorning	1
 Brown_saving	1
 Christmas_being	1
 Brown_getting	1
 Marcie_saying	1
 Brown_trying	1
+IT_including	1
 Patty_putting	1
 Linus_being	1
 Snoopy_planting	1
@@ -5959,10 +5733,6 @@ Snoopy_prepared	1
 Thanksgiving_was	2
 Patty_was	2
 Schultz_hated	1
-UH_.
-eh_.	1
-WP_NNP
-what_Thanksgiving	2
 NNP_POS
 Brown_'s	13
 Guaraldi_'s	1
@@ -5983,20 +5753,30 @@ Grandma_'s	1
 Pumpkin_'s	1
 VBD_CC
 suffered_and	1
+wrote_but	1
 NN_RB
 family_again	1
 repast_just	1
 football_away	3
 everyone_else	1
+score_not	1
 something_incredibly	1
+message_here	1
 anyone_else	1
 holiday_perhaps	1
 DVD_also	2
+quality_so	1
+blockhead_ever	1
 movie_ever	1
+moment_then	1
 disc_alone	1
+holiday_too	1
 run_up	1
 history_then	1
+entertainment_definitely	1
 song_alone	1
+flick_as	1
+popcorn_just	1
 special_no	1
 time_around	1
 turkey_instead	1
@@ -6004,8 +5784,9 @@ set_someday	1
 movie_together	1
 work_together	1
 message_as	1
-message_here	1
+combo_especially	1
 American_alike	1
+musician_so	1
 cartoon_still	1
 film_either	1
 show_again	1
@@ -6024,13 +5805,16 @@ many_of	1
 grand_as	1
 friendly_with	1
 special_for	1
+soulless_as	1
 true_of	1
 special_with	1
+non-PC_about	1
+aggressive_for	1
 complete_with	1
 insignificant_that	1
 appropriate_for	1
-aggressive_for	1
-wrong_with	1
+fidgety_without	1
+foremost_though	1
 angry_with	1
 new_from	1
 ready_for	1
@@ -6046,34 +5830,30 @@ short_on	1
 such_as	2
 much_of	1
 obvious_by	1
+wrong_with	1
 antsy_if	1
 informative_for	1
 moral_of	1
-non-PC_about	1
+unconventional_as	1
 sensitive_of	1
+own_on	1
 popular_of	1
 other_at	1
 glad_that	1
-VBG_JJ
-being_second	1
-planting_wet	1
-getting_fidgety	1
-acting_proper	1
-promoting_several	1
-getting_ready	3
-being_able	1
-being_thankful	2
-TO_``
-to_``	2
+NNS_NN
+CDs_sound	1
+films_tv	1
+potatoes_???!	1
+peanuts_gang	2
+pretzels_jelly	1
 NN_RP
 crack_up	1
 back_up	1
-IN_:
-for_:	1
 VBZ_DT
 is_the	9
 learns_the	1
 provides_a	1
+complains_that	1
 contains_a	1
 makes_a	1
 Is_this	1
@@ -6095,6 +5875,7 @@ presents_the	1
 learns_a	1
 leaves_the	1
 gets_an	2
+features_The	1
 has_a	2
 contains_another	1
 takes_some	1
@@ -6126,15 +5907,12 @@ one_moment	1
 eight_part	1
 31_year	1
 three_holiday	1
+40_shipping	1
 one_bonus	1
 4_star	1
 one_scene	1
 1973_addition	1
 one_star	1
-._''
-?_''	2
-!_''	1
-._''	7
 VBZ_NNP
 has_Charlie	1
 invites_Peppermint	1
@@ -6147,11 +5925,11 @@ slips_Charlie	1
 is_America	3
 's_Thanksgiving	1
 is_Peanut	1
+wants_Chuck	1
 calls_Charlie	1
 's_Charlie	1
-WP_.
-what_!	1
-what_?	1
+RP_CC
+up_and	2
 VBZ_NNS
 includes_names	1
 wants_directions	1
@@ -6159,40 +5937,33 @@ VBP_NN
 get_tow	1
 are_comiong	1
 NN_PRP$
+world_their	2
 DVD_my	1
-PRP$_NNS
-her_friends	3
-my_grandchildren	1
-his_trials	1
-their_networks	1
-their_experiences	1
-their_debuts	1
-their_misconceptions	1
-their_parents	1
-his_friends	6
-his_plans	1
-his_buddies	1
-his_Grandmas	1
-my_kids	3
-its_moments	1
-your_children	1
-her_firnds	1
-its_predecessors	1
-their_hardships	1
-JJ_''
-true_''	1
+VBD_:
+remembered_:	1
 VB_CC
 see_and	1
+help_but	1
+survive_and	1
 NNP_DT
-All_the	1
+Halloween_the	1
+Thanksgiving_all	1
 ABC_this	1
+Thanksgiving_the	1
+Overall_this	1
+Overall_a	1
+BROWN_this	1
+All_the	1
 Franklin_all	1
 VBN_NNP
-Treated_Charlie	1
-found_AND	1
+aired_Charles	1
 reached_America	1
 called_This	1
+found_AND	1
+Treated_Charlie	1
 done_Charlie	1
+lost_Peanuts	1
+called_Mayflower	1
 RP_IN
 off_for	1
 up_with	5
@@ -6200,42 +5971,6 @@ over_in	1
 down_so	1
 VBN_NNS
 invited_friends	1
-,_NNP
-,_Valentine	1
-,_Ray	1
-,_Woodstock	2
-,_Frank	1
-,_Sally	1
-,_Patricia	1
-,_Marcy	2
-,_A	1
-,_Peanuts	1
-,_Halloween	1
-,_Sam	1
-,_Peppermint	5
-,_ol'	1
-,_Marcie	6
-,_Snoopy	4
-,_Bob	1
-,_Chuck	1
-,_Christmas	1
-,_Hank	1
-,_CHARLIE	2
-,_Dick	2
-,_Kenneth	1
-,_Al	1
-,_Don	1
-,_Bror	1
-,_Charles	1
-,_Thanksgiving	2
-,_Irven	1
-,_Linus	6
-,_Lucy	3
-,_Pete	1
-,_Rod	1
-,_Charlie	17
-,_Franklin	2
-,_Bill	1
 VBG_NNP
 watching_Lucy	1
 collecting_Charlie	1
@@ -6263,13 +5998,6 @@ and_jellybeans	1
 and_sundaes	1
 and_features	1
 and_perils	1
-,_NNS
-,_jellybeans	3
-,_turkeys	1
-,_episodes	1
-,_PEANUTS	1
-,_eggs	1
-,_pretzels	3
 VBZ_IN
 is_on	1
 emerges_as	1
@@ -6296,9 +6024,6 @@ is_that	4
 feels_from	1
 says_that	1
 begins_with	1
-NNS_POS
-games_'	1
-kids_'	2
 JJ_NN
 shocked_look	1
 grand_message	1
@@ -6339,6 +6064,7 @@ unknown_land	1
 good_presentation	1
 third_dimension	1
 heartwarming_delight	1
+second_DVD	1
 low_end	1
 jive_handshake	1
 original_state	1
@@ -6387,6 +6113,7 @@ great_movie	1
 brown_Thankgiving	1
 TRUE_ESSENCE	1
 true_friend	1
+much_magic	1
 whole_gang	1
 perfect_condition	1
 lively_remix	1
@@ -6458,7 +6185,7 @@ classic_holiday	1
 brief_football	1
 fading_video	1
 desert-island_material	1
-second_DVD	1
+wonderful_holiday	1
 perfect_special	1
 good_combo	1
 second_program	1
@@ -6478,7 +6205,7 @@ musical_score	1
 Native_American	1
 nice_package	1
 natural_companion	1
-true_meaning	4
+true_meaning	5
 extra_bonus	1
 Great_message	1
 quick_supper	1

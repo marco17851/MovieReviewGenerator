@@ -5,8 +5,6 @@ prophets_in	1
 prophets_of	1
 NNP_VBZ
 Zarathustra_is	1
-VBD_PRP
-found_it	1
 VB_JJ
 be_inspirational	1
 TO_VB
@@ -57,8 +55,6 @@ NNS_.
 Faiths_.	1
 VBZ_VBN
 is_mentioned	1
-NNS_,
-prophets_,	1
 VBZ_PDT
 ties_all	1
 DT_NNS
@@ -80,8 +76,8 @@ One_of	1
 DT_NN
 this_topic	1
 the_price	1
-,_NNP
-,_Zoroaster	1
+VBD_PRP
+found_it	1
 CC_NNP
 or_Zarathustra	1
 IN_PDT
@@ -94,6 +90,8 @@ price_.	1
 PRP_VBP
 I_have	1
 I_recommend	1
+NNS_NNP
+prophets_Zoroaster	1
 RB_DT
 simply_the	1
 IN_DT

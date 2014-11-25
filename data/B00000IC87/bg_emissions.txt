@@ -5,14 +5,10 @@ IN_NN
 in_television	1
 of_order	1
 in_color	1
-,_IN
-,_on	1
-,_in	1
-JJ_IN
-good_as	1
-much_of	1
-unaware_that	1
-pooped_on	1
+PRP_RB
+It_even	1
+I_recently	1
+I_only	1
 NNP_IN
 Carol_in	1
 Down_By	1
@@ -25,6 +21,7 @@ and_white	1
 VBG_CD
 playing_one	1
 NN_WDT
+episode_which	1
 television_that	1
 VB_DT
 install_a	1
@@ -35,12 +32,6 @@ WRB_DT
 When_a	1
 RB_TO
 back_to	1
-RB_,
-much_,	1
-IN_``
-of_`	1
-,_PRP
-,_they	1
 VBZ_JJ
 's_due	1
 VBD_CD
@@ -58,14 +49,13 @@ times_all	1
 mistakes_the	1
 JJ_CC
 entertaining_and	1
+due_But	1
 black_and	1
 WRB_PRP
 when_she	1
 when_they	1
 :_IN
 ..._like	1
-''_:
-''_-	10
 PRP$_JJ
 her_whisper-soft	1
 her_efficient	1
@@ -157,9 +147,6 @@ the_money	1
 a_shower	1
 an_impression	1
 a_golfing	1
-CC_,
-but_,	1
-and_,	1
 VBN_RP
 turned_down	1
 VBN_JJ
@@ -181,17 +168,12 @@ he_resembles	1
 she_discovers	1
 it_'s	3
 she_does	1
-,_DT
-,_all	1
-,_the	1
 VBD_TO
 traveled_to	1
 NNP_CC
 Ball_and	1
 Goulet_and	1
 Lucy_and	4
-IN_,
-on_,	1
 RBR_IN
 more_than	1
 RB_IN
@@ -225,11 +207,6 @@ with_her	2
 of_her	1
 JJR_NN
 better_edition	1
-IN_JJ
-in_upstate	1
-of_high	1
-through_beloved	1
-in_black	1
 CD_JJ
 10_great	1
 NNP_.
@@ -255,10 +232,6 @@ for_with	1
 out_of	1
 PRP$_NN
 his_entertainment	1
-``_NNP
-`_Down	1
-``_Lucy	9
-``_Main	1
 CC_VBD
 and_brought	1
 VB_IN
@@ -268,8 +241,13 @@ VBG_NN
 taking_mine	1
 JJ_PRP
 glad_I	1
-JJ_,
-due_,	1
+NNP_:
+Starmaker_-	1
+Leonard_-	1
+Springs_-	1
+Goulet_-	1
+Secretary_-	1
+USA_-	1
 JJ_.
 great_!	1
 cheap_.	1
@@ -280,8 +258,6 @@ were_not	1
 NN_DT
 side_the	1
 DVD_a	1
-,_VBG
-,_Being	1
 VBN_IN
 set_for	1
 NNS_.
@@ -289,10 +265,6 @@ BUCKS_.	1
 entrants_.	1
 friends_.	1
 commercials_.	1
-NNS_,
-bucks_,	1
-seasons_,	1
-fans_,	1
 WDT_RB
 that_rarely	1
 TO_DT
@@ -302,6 +274,7 @@ DVD_2	1
 CC_IN
 and_at	1
 But_on	1
+but_on	1
 JJ_:
 white_...	1
 VBZ_.
@@ -325,10 +298,6 @@ beloved_Main	1
 CD_IN
 one_of	2
 one_from	1
-,_CC
-,_and	3
-,_But	1
-,_but	2
 VB_NN
 save_money	1
 VB_NNP
@@ -343,12 +312,15 @@ notices_Mr	1
 widows_Lucy	1
 NN_NNP
 librarian_Carol	1
-star_Hans	1
+loan_Lucy	1
 banker_Mr	1
+star_Ruta	1
 star_Jacques	1
 nephew_Frankie	1
+episode_Lucy	1
 star_Carol	1
-star_Ruta	1
+money_Lucy	1
+star_Hans	1
 VBD_JJ
 was_cheap	1
 were_great	1
@@ -362,16 +334,14 @@ PRP$_NNP
 her_Lake	1
 NN_PRP
 fan_I	1
+record_they	1
 VB_PRP$
 launch_his	1
-NN_''
-Roommate_''	1
-Quartet_''	1
-Star_''	1
-Shower_''	1
 VBG_TO
 Trying_to	1
 wanting_to	1
+RB_CC
+much_and	1
 VBP_IN
 are_in	1
 are_out	1
@@ -393,8 +363,6 @@ Conreid_can	1
 IN_CD
 for_five	1
 FOR_FIVE	1
-NNS_POS
-boys_'	1
 PRP_MD
 I_'d	1
 I_can	1
@@ -419,8 +387,9 @@ Avalon_has	1
 Lucy_joins	1
 VB_VBZ
 say_is	1
-VBZ_RBR
-receives_more	1
+NNS_VBG
+developers_wanting	1
+bucks_Being	1
 VB_.
 help_?	1
 VBP_VBG
@@ -432,8 +401,8 @@ CD_VBP
 4_are	1
 NNS_VBD
 episodes_were	2
-NNS_VBG
-developers_wanting	1
+VBZ_RBR
+receives_more	1
 TO_JJ
 to_grumpy	1
 VBP_DT
@@ -465,8 +434,8 @@ shower_episode	1
 film_copy	1
 bargain_bin	1
 Movie_Star	1
-,_WDT
-,_which	1
+NNS_POS
+boys_'	1
 DT_NNS
 the_episodes	2
 the_boys	1
@@ -482,9 +451,10 @@ for_fans	1
 against_developers	1
 IN_NNP
 as_I	1
-that_Mr	1
-in_Palm	1
 of_Lucy	2
+of_Down	1
+in_Palm	1
+that_Mr	1
 from_Madacy	1
 DT_NNP
 the_Starmaker	1
@@ -494,10 +464,6 @@ The_Lucy	1
 THE_LUCY	1
 EX_VBD
 There_were	1
-,_JJ
-,_unaware	1
-,_bottom	1
-,_eccentric	1
 DT_JJ
 the_down	1
 a_local	1
@@ -525,6 +491,12 @@ were_no	1
 found_this	1
 NN_:
 order_...	1
+Roommate_-	1
+Shower_-	1
+Star_-	1
+Quartet_-	1
+NNS_CC
+fans_and	1
 POS_JJS
 's_newest	2
 VBD_PRP
@@ -533,17 +505,11 @@ snatched_it	1
 NNP_JJ
 Pretty_good	1
 Bradford_guest	1
-NN_,
-flatmate_,	1
-color_,	1
-fan_,	1
-record_,	1
-episode_,	2
-value_,	1
-engagement_,	1
-loan_,	1
-money_,	1
-group_,	1
+IN_JJ
+in_upstate	1
+of_high	1
+through_beloved	1
+in_black	1
 NN_.
 series_.	1
 store_.	1
@@ -576,6 +542,7 @@ impression_with	1
 bin_for	1
 information_for	1
 CC_DT
+and_all	1
 and_the	2
 and_some	1
 But_the	1
@@ -585,6 +552,7 @@ eps_from	1
 phases_of	1
 episodes_for	1
 bucks_for	1
+seasons_in	1
 episodes_from	1
 episodes_of	1
 advances_of	1
@@ -592,9 +560,12 @@ dates_of	1
 NNS_PRP
 notices_he	1
 NN_CC
-quality_but	1
+fan_but	1
 voice_and	1
 quiz_and	1
+group_but	1
+color_and	1
+quality_but	1
 illness_and	1
 vacation_and	1
 VB_JJ
@@ -646,14 +617,19 @@ a_better	1
 NN_RB
 mine_back	1
 episode_also	1
-PRP_RB
-It_even	1
-I_recently	1
-I_only	1
+JJ_IN
+good_as	1
+much_of	1
+unaware_that	1
+pooped_on	1
 DT_.
 this_.	1
 NNS_NN
 trivia_quiz	1
+NN_JJ
+flatmate_eccentric	1
+engagement_unaware	1
+value_bottom	1
 VBZ_DT
 has_a	1
 's_a	1
@@ -757,18 +733,9 @@ enters_him	1
 receives_it	1
 VBN_TO
 supposed_to	1
-,_NNP
-,_Lucy	3
 CC_NNP
 and_Carol	1
 and_Viv	3
-NNP_''
-USA_''	1
-Goulet_''	1
-Leonard_''	1
-Starmaker_''	1
-Springs_''	1
-Secretary_''	1
 NNP_TO
 California_to	1
 VB_RP
@@ -795,7 +762,7 @@ By_the	1
 for_a	4
 of_an	1
 in_the	1
-on_the	2
+on_the	3
 of_the	4
 JJ_NN
 grumpy_banker	1

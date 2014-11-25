@@ -4,26 +4,24 @@ NNP_RB_VBD
 This_actually_spawned	1
 NN_VBZ_JJ
 story_is_fantastic	1
+NNP_WP_IN
+Tenchi_What_if	1
 NNP_POS_NN
 Kyone_'s_story	1
-JJ_NNP_``
-long_Tenchi_``	1
 NNP_NNP_VB
 Pretty_Sammy_spin	1
-VBD_DT_NNP
-spawned_the_Pretty	1
 VBP_JJ_NNS
 love_cross-reality_stories	1
 VB_RP_NN
 spin_off_series	1
-NNP_``_WP
-Tenchi_``_What	1
 POS_NN_VBZ
 's_story_is	1
 VBZ_CD_JJ
 is_one_long	1
-IN_._''
-if_?_''	1
+JJ_NNP_WP
+long_Tenchi_What	1
+CC_DT_NN
+and_this_disc	1
 DT_NN_VBZ
 this_disc_is	1
 NNP_VB_RP
@@ -32,8 +30,8 @@ DT_NNP_NNP
 the_Pretty_Sammy	1
 RB_VBD_DT
 actually_spawned_the	1
-``_WP_IN
-``_What_if	1
+VBD_DT_NNP
+spawned_the_Pretty	1
 RP_NN_.
 off_series_.	1
 VBZ_JJ_.
@@ -48,5 +46,3 @@ NN_VBZ_CD
 disc_is_one	1
 JJ_NNS_CC
 cross-reality_stories_and	1
-CC_DT_NN
-and_this_disc	1

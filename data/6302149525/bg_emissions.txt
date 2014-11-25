@@ -4,12 +4,12 @@ for_sale	1
 of_print	1
 on_DVD	1
 of_place	1
-,_IN
-,_before	1
 POS_NNS
 's_concerts	1
 NNP_IN
 Movement_of	1
+NNS_RB
+fans_especially	1
 CC_JJ
 both_energetic	1
 and_pop-influenced	1
@@ -17,6 +17,7 @@ and_down-to-earth	1
 MD_RB
 should_n't	1
 NN_WDT
+concert_which	1
 limelight_that	1
 RB_NNS
 especially_fans	1
@@ -25,11 +26,6 @@ watch_a	1
 have_a	1
 RB_WRB
 best_when	1
-RB_,
-together_,	1
-too_,	1
-,_PRP
-,_you	1
 VBZ_JJ
 's_nice	1
 NN_TO
@@ -43,14 +39,14 @@ RBR_JJ
 more_trendy	1
 NNS_DT
 albums_no	1
+songs_the	1
 JJ_CC
 trendy_and	1
 energetic_and	1
+down-to-earth_and	1
 WRB_PRP
 why_they	1
 when_she	1
-CD_,
-one_,	1
 PRP$_JJ
 his_own	1
 their_life-long	1
@@ -58,6 +54,7 @@ her_early	1
 his_droll	1
 his_sweaty-face	1
 NNP_DT
+Overall_this	1
 Amy_a	1
 IN_PRP
 before_he	1
@@ -109,8 +106,6 @@ every_song	1
 a_piece	1
 DT_VBZ
 this_is	1
-VBG_RB
-performing_together	1
 PRP_VBP
 I_love	1
 PRP$_JJR
@@ -120,19 +115,12 @@ it_'s	2
 she_leaves	1
 She_'s	1
 It_'s	1
-,_DT
-,_this	1
-,_the	1
 NNP_CC
 Amy_and	1
 RB_IN
 really_out	1
 here_on	1
 not_on	1
-,_RB
-,_maybe	1
-,_especially	1
-,_too	1
 RP_VBG
 up_chewing	1
 JJR_NNS
@@ -145,8 +133,6 @@ are_best	1
 RB_VB
 n't_have	1
 n't_help	1
-PRP_,
-you_,	1
 IN_PRP$
 on_his	1
 with_his	1
@@ -154,12 +140,12 @@ with_her	1
 of_her	2
 PRP_VB
 me_wonder	1
-NNP_,
-Overall_,	1
 NNP_.
 Amy_.	1
 Chapman_.	1
 Vince_.	1
+PRP_RB
+you_too	1
 IN_IN
 out_of	3
 IN_WDT
@@ -176,8 +162,6 @@ help_with	1
 RB_CD
 maybe_two	1
 only_one	1
-JJ_,
-down-to-earth_,	1
 JJ_.
 own_.	1
 VBD_RB
@@ -190,13 +174,6 @@ influenced_by	1
 performed_with	1
 NNS_.
 songs_.	1
-,_VBN
-,_seen	1
-NNS_,
-keyboards_,	1
-songs_,	2
-outfits_,	1
-fans_,	1
 TO_DT
 to_the	1
 VBD_JJ
@@ -220,14 +197,8 @@ old_VHS	1
 young_Michael	1
 young_Amy	1
 hippy-flavored_Jesus	1
-CD_``
-1982_``	1
 VB_NNS
 change_outfits	1
-,_CC
-,_and	2
-,_or	1
-,_but	1
 VB_NNP
 give_Amy	1
 NN_NNS
@@ -237,24 +208,32 @@ then-husband_Gary	1
 DT_RB
 an_otherwise	1
 a_very	1
+NNP_POS
+Amy_'s	3
 PRP$_NNS
 her_spouses	1
-PRP_MD
-he_would	1
-you_should	1
-,_PRP$
-,_his	1
+RB_NNP
+too_Vince	1
+CC_NN
+and_musician	1
+and_concert	1
+NN_PRP
+DVD_you	1
 VB_PRP$
 see_their	1
 IN_RB
 At_first	1
 JJ_DT
 such_a	1
+RB_CC
+together_and	1
 MD_VB
 would_sing	1
-NN_VBN
-downer_compared	1
-doubt_influenced	1
+NNS_IN
+keyboards_before	1
+fans_of	1
+spouses_out	1
+tunes_of	1
 PRP_TO
 it_to	1
 NNS_VBP
@@ -263,9 +242,9 @@ IN_CD
 of_FIVE	1
 RB_VBG
 Also_making	1
-CC_NN
-and_musician	1
-and_concert	1
+PRP_MD
+he_would	1
+you_should	1
 VBD_PRP$
 did_her	1
 IN_CC
@@ -283,12 +262,11 @@ songs_performed	1
 VBP_DT
 want_a	1
 NN_NN
+Age_album	1
 center_stage	1
 concert_video	1
 light-up-the-room_charisma	1
 concert_tour	1
-,_WDT
-,_which	1
 DT_NNS
 the_'70s	1
 IN_NNS
@@ -318,17 +296,15 @@ PRP_NN
 him_center	1
 VBD_DT
 signaled_a	1
+CD_RB
+one_maybe	1
+NNS_CC
+outfits_or	1
+songs_but	1
 VBD_PRP
 gave_him	1
 thought_he	1
 Was_it	1
-NN_,
-DVD_,	1
-musician_,	1
-tour_,	1
-concert_,	1
-``_NN
-``_Age	2
 NN_.
 pie_?	1
 band_.	1
@@ -365,10 +341,10 @@ CC_DT
 both_the	1
 and_the	1
 and_a	1
-NNS_IN
-fans_of	1
-spouses_out	1
-tunes_of	1
+NN_VBN
+downer_compared	1
+doubt_influenced	1
+tour_seen	1
 NN_CC
 audience_and	1
 album_and	1
@@ -382,17 +358,14 @@ to_change	1
 to_give	1
 NN_VBG
 problem_finding	1
-''_VBD
-''_signaled	1
 NN_VBD
-personality_was	1
 section_seemed	1
+personality_was	1
+Age_signaled	1
 NN_VBZ
 enthusiasm_infuses	1
 appearance_is	1
 video_is	1
-''_NN
-''_album	1
 NNP_VBG
 Michael_performing	1
 WDT_VBN
@@ -401,8 +374,8 @@ VBD_IN
 came_of	1
 NN_VBP
 husband_want	1
-NNP_POS
-Amy_'s	3
+VBG_RB
+performing_together	1
 JJ_IN
 last_of	1
 VBZ_DT
@@ -410,6 +383,8 @@ infuses_every	1
 is_a	3
 's_a	1
 is_the	1
+CD_NN
+1982_Age	1
 NNP_NNS
 Amy_fans	1
 NNP_NNP
@@ -421,6 +396,8 @@ Though_Gary	1
 W._Smith	1
 RB_VBZ
 absolutely_shines	1
+NN_PRP$
+musician_his	1
 RB_JJ
 otherwise_flawless	1
 very_talented	1
@@ -429,8 +406,6 @@ leaves_her	1
 CC_PRP$
 And_his	1
 and_her	1
-NN_''
-Age_''	2
 VBG_DT
 chewing_the	1
 finding_an	1
@@ -445,8 +420,6 @@ VBZ_PRP
 makes_me	1
 VB_RB
 sing_only	1
-,_NNP
-,_Vince	1
 CC_NNP
 and_Michael	1
 PRP$_CD

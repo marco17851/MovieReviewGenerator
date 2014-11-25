@@ -67,9 +67,6 @@ been_.	1
 intended_.	1
 done_.	1
 changed_.	1
-VBN_,
-deadened_,	1
-done_,	1
 VB_JJR
 say_more	1
 see_more	1
@@ -87,8 +84,11 @@ VBZ_CD
 is_one	2
 has_4	1
 has_four	1
-VBN_CD
-anticipated_seven	1
+VBZ_CC
+progresses_but	1
+NNS_WDT
+episodes_that	1
+productions_that	1
 DT_FW
 the_Tenchi	4
 this_a	1
@@ -103,9 +103,6 @@ RP_.
 up_.	1
 out_.	1
 around_.	1
-RP_,
-out_,	1
-off_,	1
 VBN_JJ
 done_good	1
 WP_VBP
@@ -123,17 +120,19 @@ NNP_CC
 Piece_and	1
 Love_and	1
 Mihoshi_and	1
+Nobuyuki_and	1
 Moon_and	1
 Universe_or	1
 Muyo_and	1
 Dad_but	1
-Sasami_and	1
+Sasami_and	2
 Tenchi_and	1
 Noike_and	1
 Anime_and	1
 Sammy_and	1
 Tokyo_or	1
 Time_and	1
+Forever_and	1
 Death_and	1
 Universe_and	1
 Yosho_or	1
@@ -149,6 +148,7 @@ out_thinking	1
 RP_PRP
 out_he	1
 out_she	1
+out_it	1
 RBS_JJ
 most_likely	1
 most_cursory	1
@@ -169,8 +169,6 @@ of_my	2
 about_his	1
 in_their	1
 in_your	1
-NNS_''
-answers_''	1
 IN_WDT
 of_which	1
 PRP$_NN
@@ -185,9 +183,6 @@ his_grandpa	2
 her_dialogue	1
 her_nemesis	1
 your_collection	1
-``_VBZ
-``_wants	1
-``_defeats	1
 VB_IN
 see_that	1
 end_as	1
@@ -200,6 +195,9 @@ get_over	1
 have_for	1
 distract_from	1
 disapprove_of	1
+JJ_PRP
+wrong_I	1
+understandable_I	1
 VBD_RB
 was_not	1
 did_n't	1
@@ -215,10 +213,12 @@ was_very	1
 was_still	1
 was_really	1
 NN_DT
-reccomend_this	1
 version_a	1
-dread_any	1
+series_the	1
 check_this	1
+dread_any	1
+reccomend_this	1
+story_the	1
 TO_DT
 to_the	7
 to_a	4
@@ -251,7 +251,10 @@ get_Ryoko	1
 love_Tenchi	1
 Remember_Ryoko	1
 NNS_NNP
+movies_Tenchi	1
+guardians_Washu	1
 springs_Ryoko	1
+animes_Pretty	1
 VBG_JJR
 looking_sexier	1
 VBD_JJ
@@ -276,8 +279,6 @@ Now_Tenchi	1
 WDT_NN
 which_way	1
 Which_girl	1
-,_PRP$
-,_her	1
 IN_RB
 after_so	1
 of_even	1
@@ -288,12 +289,11 @@ than_before	1
 that_surely	1
 That_aside	1
 of_nowhere	1
-VBN_DT
-seen_both	1
-been_the	1
-skipped_an	1
-filled_the	1
-watched_a	1
+WDT_VBZ
+which_is	3
+that_'s	1
+that_continues	1
+which_has	1
 VBG_TO
 trying_to	1
 beginning_to	1
@@ -337,19 +337,15 @@ Muyo_OAVs	2
 manga_novels	1
 MD_IN
 must_for	1
-NNP_''
-Girl_''	2
-Fingers_''	1
-Tenchi_''	1
-Carnival_''	1
 DT_NNS
 the_guardians	1
-the_episodes	3
+those_answers	1
 the_writers	2
 the_translations	1
 The_others	1
 all_forms	1
 any_spoilers	1
+the_episodes	3
 these_DVDs	1
 the_minds	1
 the_voices	1
@@ -422,6 +418,7 @@ the_Carnival	1
 the_Ryo	1
 the_Devil	1
 the_Counter-Actor	1
+the_Mihoshi	1
 a_Jurain	1
 the_Goddess	1
 the_Tenchi	6
@@ -445,15 +442,18 @@ came_the	1
 was_an	1
 bought_the	1
 NNS_CC
+complaints_but	1
 characters_and	1
 cartoons_and	1
-fans_and	1
-episodes_but	1
+stories_nor	1
+episodes_but	2
+games_and	1
 tenchi_and	1
+battles_and	1
+kids_and	1
+characters_but	1
+fans_and	1
 times_and	1
-,_VB
-,_do	1
-,_check	1
 JJR_IN
 sexier_than	1
 cheaper_than	1
@@ -467,29 +467,39 @@ are_that	1
 serve_as	1
 galore_that	1
 NN_CC
-family_and	1
-animation_and	2
-adventure_and	1
-development_and	1
-cave_but	2
-battle_but	1
-Z_and	1
-revenge_and	1
+comedy_and	1
+animation_or	1
 price_and	1
+episode_and	1
+anyone_but	1
+fluidity_or	1
+cave_but	2
+Z_and	1
 cave_and	1
 tale_and	1
-comedy_and	1
+past_but	1
+animation_and	2
+series_but	1
+drama_and	1
 hand_and	1
-fluidity_or	1
-writing_or	1
+development_and	1
 trickery_and	1
+writing_and	1
+family_and	1
+adventure_and	1
+battle_but	1
+writing_or	1
+revenge_and	1
 scene_and	1
-anyone_but	1
 NN_CD
 Disk_2	1
 Disk_3	1
 DD_5.1	1
 disk_2	1
+PRP_CC
+it_but	1
+it_and	1
+you_but	1
 SYM_NN
 *_Couple	1
 JJ_FW
@@ -515,6 +525,7 @@ episode_worth	1
 REAL_dramatic	1
 direct-to-video_animated	1
 NNP_NNS
+Girl_animes	1
 Tenchi_returns	1
 Tenchi_fans	1
 Tenchi_shows	1
@@ -535,14 +546,18 @@ Nobuyuki_Tenchi	1
 Biff_Standard	2
 Snow_Fairy	1
 Dragon_Ball	1
+MISLEADING_INDEED	1
 THEME_SONG	1
 Pixy_Misa	1
+Evangellion_Death	1
 System_Microsoft	1
+Washu_Sasami	1
 Lady_Tokimi	1
 Magic_Fingers	1
 Ultimate_Edition	1
 Muyo_Ultimate	1
 Tenchi_Series	1
+Jurai_Yosho	1
 Outlaw_Star	1
 VERY_MISLEADING	1
 Tenchi_OAV	1
@@ -551,39 +566,43 @@ Muyo_OVA	1
 Lesson_Learned	1
 Bill_Gates	2
 Petrea_Burchard	1
-Space_Tenchi	1
+Tokimi_Tenchi	1
 Hitoshi_Okuda	1
-MISLEADING_INDEED	1
+Ball_One	1
 Microsoft_Windows	1
-Evangellion_Death	1
+Tenchi_Ryoko	1
 Pretty_Sammy	5
 Ryo-Ohki_OVA	1
 Universe_Series	1
+Ryoko_Nobuyuki	1
 Muyo_Ryo-Ohki	1
 Goddess_Tokimi	1
 Fairy_Sugar	1
+Ayeka_Sasami	1
 The_Sammy	1
 Tenchi_Forever	1
 Ryo_Ohki	1
 Mona_Marshall	1
 Sailor_Moon	1
+Space_Tenchi	1
 One_Piece	1
 !!_The	1
 VBD_VB
 did_clean	1
-''_WP
-''_who	1
+CC_EX
+But_there	1
 JJR_.
 more_.	1
 funnier_.	1
 RP_WRB
 up_when	1
 VBN_CC
+deadened_or	1
+resolved_or	1
 seen_or	1
 distributed_and	1
 explained_but	1
 rejunvinated_and	1
-resolved_or	1
 VBN_TO
 supposed_to	1
 bound_to	1
@@ -643,28 +662,12 @@ In_a	1
 In_the	1
 than_the	3
 of_a	2
-NNS_WDT
-episodes_that	1
-productions_that	1
+VBN_CD
+anticipated_seven	1
 CD_WRB
 2003_when	1
 JJS_TO
 best_to	1
-RB_,
-not_,	2
-Nah_,	1
-However_,	1
-specifically_,	1
-Instead_,	1
-overall_,	1
-Naturally_,	1
-always_,	1
-sequentially_,	1
-Anyway_,	2
-Apparently_,	1
-Sadly_,	1
-aside_,	2
-Well_,	2
 RB_.
 not_.	2
 instead_.	1
@@ -703,8 +706,8 @@ WRB_PRP
 how_she	1
 where_they	1
 when_it	1
-:_IN
--_at	1
+JJS_DT
+most_the	1
 :_WDT
 --_Which	1
 PRP$_JJ
@@ -744,8 +747,8 @@ that_it	1
 If_I	1
 though_she	1
 of_us	1
-''_.
-''_.	1
+NNS_VB
+episodes_do	1
 TO_WP
 to_what	1
 :_NNP
@@ -824,20 +827,17 @@ she_'s	3
 she_puts	1
 It_'s	5
 he_'s	1
+It_is	1
 he_sees	1
 it_plays	1
 he_ends	1
 he_is	2
 She_'s	2
-It_is	1
+it_wants	1
 She_falls	1
 it_'s	3
 WDT_EX
 which_there	1
-IN_,
-that_,	1
-of_,	1
-from_,	1
 IN_.
 on_.	1
 like_?	1
@@ -845,17 +845,16 @@ from_.	1
 over_.	1
 for_.	1
 with_?	1
-``_DT
-``_The	1
+WP_NNP
+what_Tenchi	1
 PRP_.
 them_!	1
 he_?	1
 him_.	2
 themselves_.	1
 it_!	1
+her_.	1
 it_.	3
-PRP_,
-it_,	1
 FW_WP
 cabbit_who	1
 CC_VBP
@@ -863,6 +862,7 @@ but_let	1
 and_are	1
 NNP_WDT
 Series_which	1
+OVA_which	1
 PRP_VB
 me_start	1
 me_get	1
@@ -872,17 +872,20 @@ you_decide	1
 CC_VBZ
 but_tends	1
 nor_is	1
-and_has	1
+and_defeats	1
 and_does	1
 Or_does	1
 but_takes	1
 and_takes	1
 but_is	1
+and_has	1
 NN_WRB
 time_when	1
 NNP_PRP
 Tokyo_it	1
+Well_it	1
 Toonami_I	1
+Gates_I	1
 CC_VBD
 and_said	1
 or_was	1
@@ -896,19 +899,6 @@ and_licensed	1
 JJR_NNP
 more_Pretty	1
 older_Tenchi	1
-JJ_,
-many_,	1
-wrong_,	1
-honest_,	1
-fascinating_,	1
-lovable_,	1
-understandable_,	1
-negative_,	1
-kyoot_,	1
-harmless_,	1
-naughty_,	1
-different_,	1
-weak_,	1
 JJ_.
 adorable_!	1
 jarring_.	1
@@ -943,8 +933,10 @@ been_like	1
 voiced_by	1
 known_for	1
 CC_IN
-and_of	1
+and_since	1
+And_of	1
 And_for	1
+and_of	1
 But_as	1
 And_after	1
 and_from	1
@@ -961,6 +953,7 @@ NN_NNS
 anime_productions	1
 inconsistancy_issues	1
 voice_actors	2
+note_fans	1
 anime_classics	1
 fantasy_episodes	1
 field_channels	1
@@ -981,8 +974,6 @@ end_Tenchi	1
 titan_Biff	1
 series_Tenchi	1
 nemesis_Pixy	1
-''_RB
-''_as	1
 CD_CC
 1_and	2
 IN_JJR
@@ -1052,8 +1043,6 @@ there_is	1
 EX_VBP
 There_are	1
 there_are	2
-CC_``
-and_``	1
 NN_NN
 space_pirate	1
 sub_version	1
@@ -1062,16 +1051,18 @@ Nurse_Washu	1
 computer_industry	1
 voice_actress	1
 good.I_love	1
-audio_track	1
+course_spot	1
 fairy_tale	1
 I_wont	1
+action_drama	1
 sentence_explanation	1
 dub_version	1
 recording_studio	1
-story_arc	1
+television_manga	1
 3D_computer	1
 Bill_umm	1
 *_sigh	1
+course_humor	1
 epic_danger	1
 umm_Biff	1
 series_special	1
@@ -1079,26 +1070,33 @@ hanging_story	1
 OVA_boxset	1
 software_titan	1
 video_animation	1
+harem_style	1
 sailor_moon	1
 art_form	1
 comedy_episode	1
 TV_series	2
+audio_track	1
 fighting_chance	1
 plot.I_reccomend	1
 OVA_series	1
 anime_fan	1
 monopolist_software	1
+story_arc	1
 voice_acting	1
 character_development	1
+manga_video	1
 episode_Z	1
+intrigue_epic	1
 story_line	2
 episode_continuation	1
 series_anyone	1
 NNS_RB
 monikers_aside	1
 DVDs_instead	1
+features_then	1
 writers_not	1
 people_probably	1
+episodes_then	1
 characters_not	1
 dollars_here	1
 characters_still	1
@@ -1106,17 +1104,10 @@ EX_VBD
 there_were	1
 JJS_.
 best_!	1
-,_JJ
-,_other	1
-,_ineffectual	1
-,_zany	1
-,_fascinating	1
-,_EX
-,_there	2
 DT_JJ
 a_thirteenth	1
 the_other	1
-This_particular	1
+the_dirty	1
 a_comedic	1
 a_bad	2
 The_Viridian	1
@@ -1131,6 +1122,7 @@ a_huge	1
 a_different	1
 a_mummified	1
 the_infamous	1
+This_particular	1
 the_front	1
 any_real	1
 a_rare	1
@@ -1157,6 +1149,7 @@ the_original	3
 some_tender	1
 a_nice	1
 the_veteran	1
+a_Magical	1
 the_second	1
 the_individual	1
 the_overall	1
@@ -1191,6 +1184,7 @@ story_after	1
 rengeneration_so	1
 disc_of	1
 search_for	1
+series_although	1
 performance_as	1
 inside_of	1
 none_of	1
@@ -1243,6 +1237,7 @@ sort_of	1
 taste_in	1
 revenge_on	1
 suggestion_of	1
+fan_although	1
 speaking_of	1
 showdown_with	1
 lot_of	1
@@ -1271,18 +1266,22 @@ NN_VBN
 villian_named	1
 sword_named	1
 NNS_PRP
-episodes_she	1
 aspects_I	1
+translations_it	1
 OVAs_I	1
+episodes_she	1
+spoilers_I	1
 complaints_I	1
 NN_VBG
 actress_playing	1
+fact_regarding	1
 audio_causing	1
 series_spanning	1
 NN_VBD
 re_appeared	1
 episode_was	1
 computer_generated	1
+actress_had	1
 service_were	1
 story_was	1
 studio_was	1
@@ -1357,8 +1356,6 @@ disc_are	1
 series_have	1
 wont_spoil	1
 Collection_are	1
-PRP_''
-her_''	1
 PRP_RB
 I_just	3
 them_anyway	1
@@ -1379,11 +1376,8 @@ if_there	1
 from_there	1
 PRP_RP
 it_out	1
-JJ_``
-other_``	1
-infamous_``	1
-common_``	1
 RB_VBZ
+Well_turns	1
 inexplicably_finds	1
 Here_is	1
 just_wants	1
@@ -1447,12 +1441,11 @@ ever_conjured	1
 finally_resolved	1
 well_done	1
 recently_distributed	1
-NN_''
-actress_'	1
-harem_''	1
-audio_''	1
+VBP_WP
+have_what	1
 VBZ_VBZ
 's_has	1
+happens_turns	1
 's_starts	1
 RB_VBG
 now_sounding	1
@@ -1486,14 +1479,6 @@ continues_to	1
 seems_to	1
 POS_NNP
 's_Dad	1
-,_IN
-,_after	2
-,_with	1
-,_because	1
-,_although	2
-,_if	2
-,_of	1
-,_since	1
 POS_NNS
 's_dollars	1
 NNS_WP
@@ -1509,11 +1494,14 @@ might_not	1
 will_only	2
 will_someday	1
 NN_WDT
+audio_that	1
+episode_that	1
 set_which	1
 audio_which	1
 conclusion_that	1
-episode_that	1
+time_that	1
 fan_that	1
+boxset_which	1
 VB_DT
 Enjoy_the	1
 find_a	2
@@ -1541,8 +1529,6 @@ when_a	1
 PDT_DT
 all_these	1
 all_the	1
-PRP_``
-it_``	1
 VBZ_JJ
 contains_dirty	1
 's_adorable	1
@@ -1585,8 +1571,6 @@ him_in	1
 it_if	1
 RBR_JJ
 more_detailed	1
-JJS_,
-most_,	1
 WP_DT
 what_this	1
 CC_CD
@@ -1594,54 +1578,39 @@ and_2	2
 WP_RB
 who_inexplicably	1
 who_once	1
-,_NN
-,_epic	1
-,_Nurse	1
-,_humor	1
-,_check	1
-,_spot	1
-,_hmmm	1
-,_video	1
-,_manga	1
-,_drama	1
 WP_PRP$
 who_his	1
-CC_,
-But_,	2
-And_,	1
-and_,	1
 UH_PRP
 alas_it	1
-``_NNS
-``_answers	1
 JJR_CC
 better_and	1
-``_NNP
-``_Mihoshi	1
-``_Magic	1
-``_Tenchi	1
 RB_DT
+even_these	1
+Almost_no	1
+unfortunately_a	1
 Essentially_a	1
 now_a	1
-absolutely_no	1
-actually_the	1
-also_a	1
 still_a	1
-sometimes_the	1
 just_a	2
-Later_a	1
-even_these	1
-even_the	1
-only_a	1
-However_the	1
-not_any	1
-Almost_no	1
+aside_these	1
 n't_a	1
-possibly_the	1
-nearly_all	1
-unfortunately_a	1
+sometimes_the	1
+Later_a	1
+even_the	1
+actually_the	1
+absolutely_no	1
 not_a	1
+only_a	1
+not_any	1
+nearly_all	1
+also_a	1
+specifically_the	1
+Sadly_the	1
 then_this	2
+However_the	1
+possibly_the	1
+aside_both	1
+Anyway_this	1
 PRP$_JJS
 my_biggest	1
 your_best	1
@@ -1653,22 +1622,6 @@ DT_VB
 all_like	1
 CC_RBR
 and_more	1
-DT_``
-a_``	1
-the_``	3
-those_``	1
-,_RB
-,_virtually	1
-,_here	1
-,_so	1
-,_just	1
-,_naturally	1
-,_nearly	1
-,_even	1
-,_then	4
-,_very	1
-,_only	1
-,_somewhat	1
 RP_JJS
 up_most	1
 CC_PRP
@@ -1678,6 +1631,7 @@ but_you	1
 and_you	1
 and_I	1
 but_it	3
+But_I	1
 RB_VB
 n't_seem	1
 n't_care	1
@@ -1706,17 +1660,14 @@ Yosho_reveils	1
 ing_cabbit	1
 a_Tenchi	1
 JJ_RB
+naughty_very	1
+honest_only	1
+harmless_somewhat	1
 likely_not	1
 giddy_over	1
 VBZ_WP
 's_what	1
 is_what	1
-,_VBD
-,_were	1
-,_VBG
-,_making	1
-,_regarding	1
-,_including	1
 NNS_.
 hearts_.	1
 channels_.	1
@@ -1738,25 +1689,6 @@ viewers_.	2
 scenes_.	1
 problems_.	1
 fans_.	3
-NNS_,
-others_,	1
-characters_,	1
-animes_,	1
-battles_,	1
-movies_,	1
-features_,	1
-games_,	1
-spoilers_,	1
-kids_,	1
-episodes_,	3
-stories_,	2
-media_,	1
-complaints_,	1
-guardians_,	1
-fans_,	1
-translations_,	1
-,_VBP
-,_do	1
 RBR_RB
 more_specifically	1
 VBD_NNS
@@ -1768,8 +1700,6 @@ watched_Tenchi	1
 NNS_:
 spoilers_:	1
 complaints_:	1
-,_VBZ
-,_turns	2
 WRB_RB
 how_not	1
 JJ_NNS
@@ -1801,13 +1731,12 @@ unforgettable_characters	1
 tender_moments	1
 diehard_fans	1
 different_voices	1
-CC_JJS
-and_funniest	1
 VB_VB
 Go_get	1
 JJ_NNP
 serious_Tenchi	1
 second_OVA	1
+infamous_Magic	1
 Magical_Girl	2
 brilliant_No	1
 simple_Tenchi	1
@@ -1820,8 +1749,7 @@ CD_IN
 4_of	1
 one_of	5
 2_of	1
-''_CC
-''_and	1
+one_with	1
 IN_WP
 of_what	1
 VBG_PRP
@@ -1841,29 +1769,34 @@ NN_PRP
 practice_I	1
 episode_I	1
 plant_they	1
+set_they	1
+track_I	1
+DVD_It	1
 time_she	2
 something_you	1
 :D_I	1
 twist_he	1
+while_they	1
+series_I	1
+All-in-all_it	1
 daughter_we	1
 VB_PRP$
 do_your	1
 find_their	1
 be_her	1
 use_her	1
-''_WDT
-''_that	1
-,_MD
-,_must	1
 JJ_DT
 sure_this	1
+many_this	1
 afraid_this	1
 RB_CC
-instead_but	1
 totally_and	1
-nowhere_and	1
+instead_but	1
 ago_but	1
+sequentially_and	1
+always_and	1
 back_and	1
+nowhere_and	1
 MD_VB
 'd_give	1
 would_want	1
@@ -1904,20 +1837,18 @@ Remember_wondering	2
 Remember_looking	1
 WRB_NNP
 when_Cartoon	1
-,_DT
-,_this	3
-,_these	1
-,_both	1
-,_the	10
-,_some	1
 VBZ_RBR
 happens_more	1
 VBZ_RBS
 's_most	1
+NNS_DT
+stories_this	1
+others_some	1
 VBZ_NN
 takes_controll	1
 is_good.I	1
 seems_alot	1
+sees_hmmm	1
 wants_revenge	2
 TO_JJ
 to_diehard	1
@@ -1948,43 +1879,10 @@ CD_RB
 10_though	1
 POS_JJR
 's_earlier	1
-._''
-!_''	1
-._''	1
 NNP_JJ
 OVA_original	1
 Mihoshi_Special	1
 Standard_same	1
-NN_,
-episode_,	1
-action_,	1
-All-in-all_,	1
-writing_,	1
-past_,	1
-story_,	1
-note_,	1
-boxset_,	1
-line_,	1
-course_,	4
-series_,	6
-animation_,	1
-hmmm_,	1
-track_,	1
-while_,	1
-manga_,	1
-boring_,	1
-television_,	1
-intrigue_,	1
-fan_,	2
-drama_,	1
-set_,	1
-commotion_,	1
-time_,	1
-fact_,	1
-DVD_,	1
-``_NN
-``_harem	1
-``_miaw	1
 NN_.
 episode_.	1
 bed_.	1
@@ -2029,25 +1927,18 @@ time_.	1
 love_.	1
 CD_RP
 one_out	1
-WDT_VBZ
-which_is	3
-that_'s	1
-that_continues	1
-which_has	1
-''_VBD
-'_had	1
+VBN_DT
+seen_both	1
+been_the	1
+skipped_an	1
+filled_the	1
+watched_a	1
 CC_UH
 but_alas	1
-''_VBZ
-''_is	1
-''_NN
-''_scene	1
-''_style	1
 VBP_VB
 wont_say	1
-PRP_CC
-it_but	1
-you_but	1
+:_IN
+-_at	1
 WDT_VBD
 that_ended	1
 that_plagued	1
@@ -2055,12 +1946,11 @@ that_revolved	1
 that_grew	1
 PRP_CD
 it_10	1
-RP_JJ
-in_new	1
 VBG_RB
 telling_completely	1
 spanning_nearly	1
 looking_forward	1
+waiting_naturally	1
 DT_.
 these_.	2
 all_.	1
@@ -2091,6 +1981,7 @@ slightly_redeeming	1
 so_much	1
 seemingly_simple	1
 mostly_recaps	1
+Naturally_zany	1
 nearly_humorless	1
 very_kyoot	1
 completely_unfunny	1
@@ -2108,6 +1999,8 @@ as_for	1
 through_in	1
 at_in	1
 with_from	1
+CD_DT
+2_the	1
 TO_NNP
 to_Journy	1
 VBG_DT
@@ -2118,16 +2011,22 @@ making_the	1
 mentioning_this	1
 getting_the	1
 regarding_some	1
+having_The	1
 RB_PRP
 Luckily_I	1
 then_you	2
-Sadly_it	1
+then_they	1
 surely_you	1
 first_they	1
-Now_I	1
-then_they	1
-so_I	1
 So_I	1
+Now_I	1
+not_she	1
+Sadly_it	1
+Apparently_he	1
+so_I	1
+Well_you	1
+Nah_she	1
+Instead_they	1
 MD_DT
 would_all	1
 VBZ_PRP
@@ -2159,9 +2058,8 @@ start_off	1
 take_over	1
 check_out	1
 Seek_out	1
-``_JJ
-``_dirty	1
-``_Magical	2
+NN_EX
+commotion_there	1
 PRP$_RBR
 my_more	1
 NNP_IN
@@ -2174,13 +2072,14 @@ Ryoko_from	1
 Sugar_from	1
 Ryoko_in	1
 Need_for	1
-Kagato_from	1
+Carnival_on	1
 Screwed_over	1
 Tenchi_since	1
 Muyo_in	1
 Recommmended_for	1
 Washu_as	1
 Ayeka_about	1
+Kagato_from	1
 RB_NNS
 even_novels	1
 FW_.
@@ -2196,28 +2095,23 @@ of_waiting	1
 from_hurting	1
 from_beginning	1
 Without_giving	1
-,_PRP
-,_she	3
-,_they	4
-,_It	1
-,_you	1
-,_it	4
-,_I	7
-,_he	1
+CC_JJS
+and_funniest	1
 CC_JJR
 and_funnier	1
 VBG_.
 buying_.	1
 getting_!	1
-VBG_,
-waiting_,	1
 JJ_CC
-contrived_and	1
-Japanese_and	1
+Special_and	1
 first_and	1
 shrill_and	1
 good_but	1
+negative_but	1
+fascinating_and	1
+Japanese_and	1
 funny_and	1
+contrived_and	1
 JJ_CD
 original_13	1
 first_13	1
@@ -2226,9 +2120,6 @@ first_five	1
 complicated_one	1
 first_30	1
 entire_seven	1
-CD_,
-one_,	1
-2_,	2
 CD_.
 5_!	1
 IN_MD
@@ -2236,9 +2127,11 @@ of_would	1
 from_will	1
 VBN_NNP
 named_Kagato	1
+named_Tenchi	1
 NNP_WP
 Gates_who	1
 Tenchi_who	1
+Girl_who	1
 Ryoko_who	1
 Marshall_who	1
 CD_:
@@ -2277,12 +2170,14 @@ released_sequentially	1
 NNP_NN
 Edition_DVD	1
 Tenchi_fan	2
+Fingers_scene	1
 Sammy_series	1
 Mihoshi_special	1
 OVA_collection	1
 Muyo_series	1
 Tenchi_show	1
 Jurain_woman	1
+Muyo_check	1
 Toonami_anime	1
 Muyo_franchise	1
 VBZ_RB
@@ -2381,6 +2276,7 @@ the_need	1
 each_episode	1
 the_way	1
 the_while	1
+the_miaw	1
 a_fantasy	1
 this_DVD	2
 a_follow-up	1
@@ -2433,26 +2329,30 @@ RBR_IN
 better_as	1
 more_on	1
 RB_IN
-probably_around	1
 back_on	1
 just_for	1
 back_into	1
 back_from	1
 back_in	1
-Even_if	1
+just_in	1
+not_because	1
+back_with	1
+n't_in	1
+probably_around	1
 especially_because	1
+However_after	1
+so_if	1
+once_in	1
+Later_on	1
+Even_though	1
+Even_if	1
 instead_of	1
 here_on	1
-just_in	1
-once_in	1
 even_if	1
-back_with	1
-Later_on	1
+Anyway_if	1
 just_out	1
-n't_in	1
 only_that	1
-so_if	1
-Even_though	1
+overall_if	1
 FW_VBZ
 OAVs_brings	1
 VBG_IN
@@ -2473,6 +2373,7 @@ a_one	1
 that_one	1
 this_one	1
 RP_DT
+off_the	1
 away_any	1
 over_the	1
 out_the	2
@@ -2485,29 +2386,6 @@ are_finally	1
 are_probably	1
 serve_absolutely	1
 do_n't	3
-VBG_``
-having_``	1
-''_NNS
-''_animes	1
-NNP_,
-Muyo_,	1
-Well_,	1
-OVA_,	1
-Washu_,	1
-Kagato_,	1
-Sasami_,	1
-Tenchi_,	1
-Ayeka_,	2
-Amazon_,	1
-Gates_,	1
-Ball_,	1
-Forever_,	1
-Tokimi_,	1
-Ryo-Ohki_,	1
-Nobuyuki_,	1
-Seto_,	1
-Ryoko_,	2
-Jurai_,	2
 CD_JJ
 4_different	1
 NNP_.
@@ -2537,6 +2415,7 @@ JJ_VBG
 worth_getting	1
 worth_mentioning	1
 odd_looking	1
+different_making	1
 NNP_:
 Ryo-Ohki_-	1
 RB_VBP
@@ -2549,10 +2428,6 @@ only_do	1
 VBZ_.
 looses_.	1
 is_.	1
-VBZ_,
-happens_,	1
-progresses_,	1
-sees_,	1
 RB_NN
 not_something	1
 now_dread	1
@@ -2564,6 +2439,8 @@ keys_to	1
 installments_to	1
 JJ_JJ
 extra_funny	1
+weak_ineffectual	1
+lovable_fascinating	1
 climactic_sixth	1
 confusing_due	1
 same_heartfelt	1
@@ -2572,20 +2449,20 @@ heartfelt_romantic	1
 downright_obnoxious	1
 only_positive	1
 beautiful_alien	1
+other_Magical	1
 extra_complicated	1
 only_notable	1
 various_alternate	1
 VBN_PRP
 spaced_it	1
+done_they	1
 :_FW
 -_ing	1
 CD_VB
+2_check	1
 10_distract	1
-,_CC
-,_nor	1
-,_and	14
-,_or	2
-,_but	8
+RP_JJ
+in_new	1
 VB_NN
 go_search	1
 try_hunting	1
@@ -2597,8 +2474,6 @@ earlier_episodes	2
 NN_WP
 grandpa_who	1
 prankster_who	1
-VBP_WP
-have_what	1
 PRP_TO
 him_to	1
 NNS_VBP
@@ -2613,6 +2488,7 @@ others_are	1
 characters_are	1
 twists_galore	1
 NNP_MD
+Jurai_must	1
 Ryoko_will	1
 IN_CD
 around_10	1
@@ -2625,17 +2501,21 @@ about_30	1
 NNS_VBZ
 minutes_is	1
 OAVs_is	1
+answers_is	1
 powers_agains	1
 VBD_PRP$
 got_your	1
 produced_her	1
 was_their	1
 IN_CC
+from_and	1
+that_but	1
 before_but	1
 JJS_IN
 least_on	1
 most_of	2
 NNS_VBG
+media_including	1
 years_watching	1
 episodes_introducing	1
 actors_coming	1
@@ -2673,10 +2553,6 @@ POS_JJ
 's_extended	1
 's_brilliant	1
 's_big	1
-VBN_``
-named_``	1
-''_IN
-''_on	1
 VBD_VBN
 purchased_used	1
 was_intended	1
@@ -2688,6 +2564,7 @@ was_used	1
 VBD_PRP
 reminded_me	1
 Loved_it	1
+lost_she	1
 VBD_VBG
 were_being	1
 kept_making	1
@@ -2695,6 +2572,7 @@ enjoyed_toying	1
 NNP_RP
 First_off	1
 IN_JJ
+of_other	1
 of_special	1
 with_odd	1
 with_Japanese	1
@@ -2712,7 +2590,9 @@ read_ALL	1
 grown_love	1
 awaited_completion	1
 NNP_RB
+Tenchi_as	1
 Tenchi_finally	1
+Amazon_so	1
 Ryoko_back	1
 Mihoshi_really	1
 Sugar_instead	1
@@ -2721,6 +2601,7 @@ Network_actually	1
 Mihoshi_now	1
 NNP_VBP
 Below_are	1
+Ryo-Ohki_do	1
 :_PRP
 --_she	1
 NNS_IN
@@ -2757,6 +2638,7 @@ kids_at	1
 minds_of	1
 parts_in	1
 cuts_off	1
+fans_after	1
 VBD_:
 thought_...	1
 NNP_VBZ
@@ -2821,8 +2703,6 @@ and_Ayeka	1
 or_Tenchi	1
 and_Tenchi	2
 and_Tokimi	1
-VBD_,
-lost_,	1
 VBD_.
 followed_.	1
 NNP_VBG
@@ -2835,11 +2715,10 @@ Ayeka_was	1
 Sammy_originated	1
 Next_came	1
 Yosho_was	1
+Ayeka_were	1
 Burchard_brought	1
 NNP_VBN
 Ryoko_rejunvinated	1
-WP_NNP
-what_Tenchi	1
 NNP_POS
 OAV_'s	1
 Sasami_'s	2
@@ -2849,21 +2728,28 @@ Okuda_'s	1
 Tenchi_'s	3
 Ayeka_'s	1
 NN_RB
-material_here	1
+fan_then	1
+series_then	1
+course_here	1
+episode_especially	1
+line_even	1
+spot_again	1
 episode_basically	1
+boring_nearly	1
+danger_quickly	1
+material_here	1
 DVD_first	1
-episode_before	1
+DVD_only	1
 thing_so	1
 character_so	1
-DVD_only	1
-episode_especially	1
-spot_again	1
-danger_quickly	1
 course_not	2
-while_ago	1
 route_instead	1
 sidekick_ever	1
 Pioneer/Geneon_recently	1
+episode_before	1
+series_just	1
+hmmm_virtually	1
+while_ago	1
 :_:
 :_-	1
 JJ_IN
@@ -2919,10 +2805,14 @@ does_Tenchi	1
 is_VERY	1
 is_Yosho	1
 meets_Ryoko	1
-JJ_''
-Special_''	1
+NN_PRP$
+course_her	1
 VB_CC
 go_and	1
+NNP_DT
+Kagato_the	1
+Ryoko_the	1
+Seto_the	1
 JJS_NN
 worst_continuation	1
 cutest_sidekick	1
@@ -2935,15 +2825,6 @@ out_about	1
 down_by	1
 VBN_NNS
 satisfied_fans	1
-,_NNP
-,_Ryoko	1
-,_Washu	1
-,_Tenchi	2
-,_Pretty	1
-,_Nobuyuki	1
-,_Yosho	1
-,_One	1
-,_Sasami	2
 VBG_NNP
 thinking_Lady	1
 operating_System	1
@@ -2955,8 +2836,6 @@ CC_NNS
 and_gags	1
 or_translations	1
 but_things	1
-,_NNS
-,_fans	1
 VBZ_IN
 is_from	1
 is_about	1
@@ -2966,92 +2845,91 @@ appears_on	1
 takes_with	1
 is_that	1
 throws_off	1
-,_WDT
-,_which	2
-,_that	1
 JJ_NN
-enough_content	1
-worth_speaking	1
-English_audio	1
-veteran_cast	1
 excellent_sequel	1
-poor_Bill	1
-frail_woman	1
-cursory_anime	1
-unmarried_widower	1
-right_amount	1
-big_brother	1
-first_disc	1
-obnoxious_performance	1
+nice_surprise	1
 new_material	1
-real_meat	1
-real_direction	1
-favorite_character	1
-big_exception	1
-later_re	1
-particular_volume	1
-great_video	1
-actual_DVD	1
-ineffectual_whiner	1
+worth_purchasing	1
 runaway_prince	1
 first_disk	1
-legendary_anime	1
-next_episode	1
-usual_mix	1
-climactic_showdown	1
-good_animation	1
-front_field	1
-romantic_intrigue	1
 actual_OVA	1
-dramatic_episode	1
-worth_purchasing	1
-casual_watcher	1
-good_work	1
-half-deluded_prankster	1
-extensive_offering	1
-pre_teen	1
-first_introduction	1
-unfunny_moron	1
-original_video	1
-shaky_writing	1
-sixth_episode	1
-original_series	1
-same_thing	1
-coming-of-age_story	1
-extended_family	1
-animated_series	1
-awesome_space	1
-evil_monopolist	1
-bad_guy	1
-notable_feature	1
-big_sense	1
+good_animation	1
+first_disc	1
 good_money	1
-rare_commodity	1
+pre_teen	1
+unfunny_moron	1
+later_re	1
+original_series	1
+extended_family	1
+usual_mix	1
+entire_series	1
+big_exception	1
+dramatic_episode	1
+enough_content	1
+second_time	1
+bad_taste	1
+particular_volume	1
+English_audio	1
+shaky_writing	1
+right_amount	1
+avid_fan	1
+legendary_anime	1
+incredible_coolness	1
+overall_story	1
+same_thing	1
+awesome_space	1
+big_sense	1
 beloved_series	1
 last_thing	1
 Complete_Series	1
-much_time	1
-Viridian_Collection	1
-very_*	1
-perfect_daughter	1
-thirteenth_episode	1
+original_video	1
 dirty_audio	2
-entire_series	1
-nice_surprise	1
-overall_story	1
-second_time	1
+kyoot_Nurse	1
 different_story	1
-avid_fan	1
 super_villian	1
-complete_series	1
-first_REAL	1
-bad_taste	1
 comedic_twist	2
 average_animation	1
+zany_adventure	1
+first_REAL	1
+romantic_intrigue	1
+frail_woman	1
+complete_series	1
+real_meat	1
+actual_DVD	1
 complete_loss	1
+much_time	1
+climactic_showdown	1
+half-deluded_prankster	1
+perfect_daughter	1
+first_introduction	1
+sixth_episode	1
+bad_guy	1
+rare_commodity	1
+obnoxious_performance	1
+next_episode	1
 new_plot.I	1
 inconclusive_note	1
-incredible_coolness	1
-climactic_conclusion	1
 redeeming_quality	1
-zany_adventure	1
+veteran_cast	1
+worth_speaking	1
+poor_Bill	1
+cursory_anime	1
+unmarried_widower	1
+big_brother	1
+real_direction	1
+favorite_character	1
+ineffectual_whiner	1
+great_video	1
+casual_watcher	1
+good_work	1
+coming-of-age_story	1
+animated_series	1
+front_field	1
+evil_monopolist	1
+common_harem	1
+notable_feature	1
+Viridian_Collection	1
+very_*	1
+extensive_offering	1
+thirteenth_episode	1
+climactic_conclusion	1

@@ -9,14 +9,12 @@ of_restoration	1
 as_banker	1
 with_pneumonia	1
 of_ECHO	1
-,_IN
-,_like	2
-,_with	1
-,_as	1
 NNP_IN
+</a>_as	1
 Paiva_In	1
 Bailey_In	1
 Drysdale_on	1
+Horn_while	1
 MD_RB
 ca_n't	1
 will_surely	1
@@ -24,15 +22,11 @@ VB_DT
 make_the	2
 RB_TO
 there_to	2
-VBZ_``
-performs_``	1
 IN_VBG
 of_struggling	2
 RB_.
 again_.	2
 together_.	2
-IN_``
-on_``	1
 VBZ_JJ
 is_interesting	2
 PRP$_NNP
@@ -44,12 +38,8 @@ but_actually	1
 and_there	2
 JJ_CD
 only_one	1
-CD_,
-one_,	2
 CC_CD
 and_70	1
-,_PRP$
-,_their	1
 :_IN
 :_on	1
 PRP$_JJ
@@ -57,9 +47,6 @@ her_usual	2
 CD_:
 1939_-	1
 1941_-	1
-,_NN
-,_love	2
-,_master	1
 POS_NN
 's_brother	1
 's_<a href="http://www.amazon.com/gp/product/B002JMRR9E">	1
@@ -77,6 +64,7 @@ put_together	2
 NNP_NN
 Selznick_production	1
 Utah_chemist	1
+Stewart_master	1
 NN_POS
 TV_'s	1
 DT_NN
@@ -94,9 +82,8 @@ the_fly	2
 a_picture	1
 No_sign	1
 a_baby	1
-``_NNP
-``_Pete	1
-``_Broadway	1
+VBG_RB
+rushing_here	2
 PRP_VBP
 You_wonder	2
 WP_VBP
@@ -106,15 +93,13 @@ serum_ca	1
 boy_will	1
 PRP_VBZ
 It_is	2
-VBG_RB
-rushing_here	2
+NNP_CC
+Piper_and	1
 VBP_NN
 have_in-law	1
 RB_IN
 here_from	1
 Maybe_in	2
-,_RB
-,_better	1
 DT_CD
 this_one	2
 RP_DT
@@ -122,37 +107,15 @@ up_the	1
 RB_VB
 n't_be	1
 surely_die	1
-''_JJ
-''_public	1
 IN_:
 in_:	1
 IN_PRP$
 on_their	1
 of_their	1
-IN_JJ
-of_many	1
-while_co-star	1
-from_pristine	1
-in_bad	1
-NNP_,
-Stewart_,	3
-Bond_,	1
-Carney_,	1
-Bailey_,	1
-Watson_,	1
-York_,	1
-Jamison_,	1
-Heidt_,	1
-Lombard_,	1
-Gordon_,	1
-Winninger_,	1
-Coburn_,	1
-Goddard_,	1
-</a>_,	1
 NNP_.
 Caballero_.	1
-,_VBG
-,_rushing	2
+RB_RB
+very_loosely	2
 PRP$_NN
 their_boy	1
 their_product	1
@@ -166,12 +129,12 @@ VBG_NN
 including_comedy	1
 JJ_.
 on-screen_.	1
-,_VBD
-,_were	2
 VBD_RB
 was_never	1
 were_very	2
 NN_DT
+product_this	1
+production_some	1
 <a href="http://www.amazon.com/gp/product/B002JMRR9E">_THE	1
 hunger_these	2
 VB_VBN
@@ -186,20 +149,12 @@ flown_in	1
 NNS_.
 dates_.	2
 prints_.	1
-NNS_,
-movies_,	2
-films_,	1
-musicians_,	2
 VBP_WRB
 wonder_how	2
 VBD_TO
 were_to	2
-JJ_:
-uncredited_:	2
-,_VBZ
-,_struggles	1
-``_WRB
-``_When	1
+VBD_RP
+took_up	1
 JJ_NNS
 old_films	1
 cinematic_genres	1
@@ -210,10 +165,6 @@ faint_intermittent	1
 JJ_NNP
 co-star_Paulette	1
 young_Art	2
-''_CC
-''_and	1
-,_CC
-,_but	1
 VB_NNP
 see_Horace	2
 NN_NNS
@@ -222,20 +173,20 @@ studio_prints	1
 domain_movies	1
 in-law_problems	1
 NNP_PRP$
+York_their	1
 Toots_His	1
 NN_NNP
+program_James	1
 Platinum_Disc	1
 banker_Milburn	1
 NN_WP
 couple_who	1
 CD_CC
 60_and	1
-VBD_RP
-took_up	1
+JJ_:
+uncredited_:	2
 VBD_PRP$
 had_its	2
-TO_NNP
-to_New	1
 :_DT
 :_the	1
 RB_CC
@@ -246,18 +197,18 @@ NNS_VBP
 touches_lighten	1
 VBG_NNS
 struggling_musicians	2
+CD_VBD
+one_were	2
 NNS_VBZ
 movies_is	1
 CC_NN
 and_play	2
 WRB_NNP
 When_Johnny	1
-,_DT
-,_this	1
-,_some	1
 NN_CC
 movie_or	2
 war_and	2
+harmonica_but	1
 NNS_VBD
 actors_were	2
 NNS_VBG
@@ -270,36 +221,31 @@ JJ_TO
 interesting_to	2
 VBP_DT
 lighten_a	1
-CC_``
-and_``	1
 NN_NN
+aka_Platinum	1
 BRIDGE_aka	1
+O_GOLD	1
 EACH_OTHER	1
 ECHO_BRIDGE	1
 POY_O	1
 radio_program	1
 chemist_serum-creator	1
-NNP_''
-Piper_''	1
-Disc_''	1
-Horn_''	1
 DT_NNS
 the_folks	2
 the_auditions	2
 these_actors	2
 IN_NNP
-in_l941	2
+on_Pete	1
+by_Horace	1
 for_Raymond	1
 from_Salt	1
 from_Jerry	1
-by_Horace	1
+in_l941	2
 DT_NNP
 THE_BEVERLY	1
 this_David	1
 the_Piper	1
 the_Utah	1
-''_IN
-''_while	1
 DT_JJ
 A_young	2
 the_only	1
@@ -317,22 +263,17 @@ downside_:	1
 NNS_CC
 problems_and	1
 auditions_and	2
-._''
-._''	1
 VBD_PRP
 was_it	2
 NNP_JJ
 Melton_uncredited	1
 Quillan_uncredited	1
-NN_,
-production_,	1
-fly_,	2
-program_,	1
-product_,	1
-harmonica_,	1
-comedy_,	1
-``_NN
-``_Platinum	1
+Disc_public	1
+IN_JJ
+of_many	1
+while_co-star	1
+from_pristine	1
+in_bad	1
 NN_.
 pneumonia_.	1
 brother_.	1
@@ -358,9 +299,12 @@ restoration_on	1
 instrument_as	1
 NNP_RB
 Stewart_also	1
+Bailey_better	1
 CC_DT
 and_a	1
 NNS_IN
+movies_like	2
+films_with	1
 Transfers_of	1
 folks_at	2
 NNP_VBZ
@@ -372,15 +316,14 @@ TO_VB
 to_see	2
 to_play	2
 to_make	2
-NN_``
-aka_``	1
+NN_VBG
+fly_rushing	2
 NN_CD
 GOLD_1941	1
 OTHER_1939	1
 NN_VBZ
+comedy_struggles	1
 company_superimposes	1
-''_NN
-'_GOLD	1
 NNP_VBG
 Stewart_playing	2
 NNP_VBD
@@ -397,6 +340,8 @@ tutelage_here	1
 JJ_IN
 comfortable_in	1
 sick_with	1
+NNS_NN
+musicians_love	2
 NN_JJ
 baby_sick	1
 kinda_dingy	2
@@ -408,29 +353,41 @@ CD_NN
 70_year	1
 NNP_NNP
 James_Stewart	2
-David_Selznick	1
+Carney_Bud	1
 HILLBILLIES_</a>	1
 Bud_Jamison	1
+Milburn_Drysdale	1
 Lake_City	1
 Mary_Gordon	1
 Eddie_Quillan	1
 BEVERLY_HILLBILLIES	1
+Lombard_Jimmy	1
+Stewart_Charles	1
 Adler_Larry	1
 Jerry_Adler	1
+Bond_Raymond	1
 l941_America	2
 Ward_Bond	1
-Raymond_Bailey	2
+Heidt_Charles	1
+Jamison_Nestor	1
 Paulette_Goddard	4
 New_York	1
+Goddard_Horace	1
 Carole_Lombard	1
+Coburn_Lucile	1
 Jimmy_Stewart	3
 Lucile_Watson	1
 Broadway_Caballero	1
 Johnny_Toots	1
+David_Selznick	1
 Salt_Lake	1
+Watson_Eddie	1
+Stewart_Paulette	1
 Charles_Coburn	1
-Milburn_Drysdale	1
+Gordon_Frank	1
+Winninger_Mary	1
 Art_Carney	3
+Raymond_Bailey	2
 Horace_Heidt	4
 Charles_Winninger	1
 Nestor_Paiva	1
@@ -450,8 +407,8 @@ RB_VBN
 loosely_adapted	1
 loosely_put	2
 better_known	1
-NN_''
-O_'	1
+TO_NNP
+to_New	1
 VBG_DT
 playing_the	1
 playing_a	2
@@ -459,19 +416,8 @@ NNP_DT
 Pete_the	1
 RB_VBD
 actually_took	1
-,_NNP
-,_Paulette	1
-,_James	1
-,_Charles	2
-,_Bud	1
-,_Frank	1
-,_Raymond	1
-,_Jimmy	1
-,_Lucile	1
-,_Mary	1
-,_Nestor	1
-,_Horace	1
-,_Eddie	1
+CC_NNP
+and_Broadway	1
 CC_NNS
 and_movies	2
 PRP$_CD
@@ -507,5 +453,5 @@ public_domain	1
 not-so-unusual_plot	2
 dingy_part	2
 intermittent_logo	1
-RB_RB
-very_loosely	2
+VBZ_WRB
+performs_When	1

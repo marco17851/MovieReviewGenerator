@@ -6,6 +6,7 @@ in_cowboy	1
 of_landscape	1
 of_view	1
 of_course	1
+from_acting	1
 for_Best	1
 Of_course	1
 of_DVD	1
@@ -26,12 +27,13 @@ of_mistake	1
 that_L'Amour	1
 as_3D-Blu-ray	1
 by_fire	1
-in_widescreen	2
 in_fact	3
 with_noise	1
+as_Support	1
 if_anything	1
 on_life	1
-as_Best	1
+as_Best	2
+for_lie	1
 of_life	7
 in_high-definition	1
 of_realism	1
@@ -40,11 +42,13 @@ that_widescreen	1
 of_sympathy	1
 upon_trouble	1
 on_film	1
+of_documentary	1
 of_friendship	1
 In_addition	1
 in_picture	1
 of_husband	1
 on_DVD	7
+like_wagon	1
 with_Hondo	1
 for_HONDO	1
 of_information	1
@@ -66,10 +70,11 @@ in_need	1
 with_stranger	1
 of_action	3
 around_elbow	1
-from_acting	1
+in_widescreen	2
 in_self-defense	1
 in_TV	1
 on_Blu-ray	1
+in_midair	1
 So_everytime	1
 in_3D	8
 of_everyone	1
@@ -83,6 +88,7 @@ in_time	2
 from_birth	1
 of_rintintin	1
 of_suspense	1
+about_realism	1
 in_color	1
 in_love	2
 of_feature	1
@@ -106,12 +112,15 @@ been_made	1
 been_retained	1
 been_written	1
 been_screened	1
-been_shot	1
+directed_scripted	1
 been_released	2
 been_done	1
 been_composed	1
 been_given	1
 been_abandoned	1
+been_shot	1
+crowded_blurred	1
+made_granted	1
 been_gone	1
 VBG_VBN
 being_stabbed	1
@@ -137,6 +146,8 @@ VBG_NNPS
 warring_Apaches	1
 PRP_RBR
 you_longer	1
+PRP$_IN
+his_at	1
 CC_JJ
 and_lovely	1
 and_informative	1
@@ -154,9 +165,10 @@ and_flawed	1
 and_occasional	1
 but_worth	1
 and_long	1
+and_moral	1
 and_enjoyable	1
 &_honest	1
-and_moral	1
+or_full	1
 and_co-star	1
 but_other	1
 and_straight	1
@@ -189,7 +201,7 @@ RB_TO
 soon_to	1
 back_to	3
 alone_to	1
-valiantly_to	1
+directly_to	1
 only_to	1
 forward_to	1
 here_to	1
@@ -197,38 +209,22 @@ prior_to	2
 enough_to	1
 perfectly_na	1
 not_to	4
-just_to	1
+sometime_to	1
+valiantly_to	1
 ever_to	1
 beautifully_to	1
-directly_to	1
+just_to	1
 VBN_:
 reccomended_:	1
 put_-	1
-VBP_,
-mean_,	1
-stay_,	1
-need_,	1
-disagree_,	1
-IN_``
-as_``	7
-on_``	1
-in_`	1
-in_``	13
-with_``	1
-of_``	6
-from_``	1
-about_``	1
-for_``	4
-like_``	2
-For_``	1
-In_``	1
 VBP_.
 lie_.	1
+POS_CC
+'_and	1
 VBP_CD
 are_two	1
-''_TO
-''_to	2
 VBP_CC
+disagree_but	1
 go_and	1
 attack_and	1
 VBP_:
@@ -255,26 +251,12 @@ Most_of	1
 best_as	1
 most_of	1
 best_of	2
-VBN_,
-told_,	1
-honored_,	1
-released_,	1
-done_,	1
-adored_,	1
-biased_,	1
-photographed_,	1
-involved_,	1
-directed_,	1
-made_,	1
-treated_,	1
-crowded_,	1
-gone_,	1
-read_,	1
-acted_,	1
 VB_JJR
 see_more	1
-JJ_VBN
-3-D_started	1
+NNP_WRB
+Wayne_how	1
+Hondo_when	1
+ET_when	1
 WDT_MD
 that_can	1
 which_may	1
@@ -282,26 +264,27 @@ that_would	1
 CC_TO
 and_to	1
 but_to	1
-VB_TO
-appeal_to	1
-want_to	3
-get_to	1
-bring_to	1
-wear_to	1
-seem_to	1
-hondo_to	1
+DT_PRP
+this_it	1
+some_they	1
+all_it	1
+that_I	1
+those_she	2
 VBZ_CD
 displays_one	1
 is_one	16
 VBZ_CC
 sparks_and	1
 is_and	1
+teaches_and	1
 meets_and	1
 NNS_WDT
+materials_which	1
 features_that	1
 men_that	1
 scenes_that	1
 glasses_which	1
+westerns_which	1
 films_which	1
 films_that	1
 classics_that	1
@@ -338,8 +321,6 @@ who_got	1
 who_were	1
 who_patterned	1
 who_wanted	1
-''_MD
-''_may	1
 IN_RBR
 that_better	1
 as_more	1
@@ -388,53 +369,92 @@ who_likes	1
 what_is	2
 what_has	1
 NNP_CC
-Arness_and	2
-Page_and	3
+Johnny_and	1
+Arness_and	5
+Page_and	4
+Baker_and	1
+Wayne_but	2
 Douglas_and	1
-High_and	4
+Mighty_and	1
 Mia_&	1
-Page_&	1
+Shane_but	1
+Lowe_but	1
+Unforgiven_and	1
 Apache_and	3
 Friedhofer_and	1
-Gordon_&	1
-Ford_or	2
-Pate_and	3
-Mighty_and	1
-Lowe_and	1
+Indian_and	1
+Newman_and	2
+Burks_and	1
+High_and	4
+Lowe_and	2
 Maltin_and	3
+Valance_and	1
+Warrior_and	1
+Sheriff_and	1
 Arizona_and	1
-Bond_and	1
+Good_and	1
+Bond_and	3
 Hondo_and	5
+Melody_and	1
 NY_and	1
 Lamour_and	1
-Wayne_and	11
+Wayne_and	12
 Aaker_&	1
+Vittorio_and	1
 Paramount_and	1
+Army_and	1
 Hepburn_and	1
 Duke_and	1
 Hondo_&	1
-Angie_and	1
+Grant_and	1
+Angie_and	2
+Gordon_&	1
 Stewart_and	1
+Page_&	1
 Western_and	2
 BATJAC_and	1
-Burks_and	1
+Pate_and	3
 Chaplin_and	1
 Farrow_and	1
-Newman_and	2
+Widescreen_and	1
+Ford_or	2
 LA_and	1
 NNP_CD
-Top_100	1
-Arness_1923	1
-Pate_1920	1
-Acosta_1920-1974	1
+McCain_1952	1
 Aaker_1943	1
-THIS_one	1
+Clementine_1946	1
+Alamo_1960	1
+Jake_1971	1
+Jima_1949	1
+Hondo_1953	1
+Lincoln_1939	1
+Apache_1948	2
+Acosta_1920-1974	1
+Dorado_1966	1
 Bond_1903-1960	1
+Island_1942	1
+WAYNE_1907-1979	1
+Mighty_1954	2
+Cahill_1973	2
+Ribbon_1949	1
+Chase_1955	1
+Bravo_1959	1
+Top_100	1
+Now_1956	1
+THIS_one	1
+Earth_1952	1
 BUT_ONE	1
 Duke_one	1
-WAYNE_1907-1979	1
+McClintock_1963	1
+Shadow_1966	1
 Gordon_1922-2000	1
 Wayne_1934-2003	1
+Train_1957	1
+Arness_1923	1
+Pate_1920	1
+Stagecoach_1939	1
+Grande_1950	1
+Noon_1952	1
 Page_1924-1987	1
 Mohawk_1939	1
 RP_VBP
@@ -450,6 +470,7 @@ up_telling	1
 JJR_NNS
 more_ways	1
 more_nuances	1
+more_men	1
 RBS_JJ
 most_true-to-life	1
 Most_other	1
@@ -506,27 +527,10 @@ For_her	2
 for_his	3
 because_her	1
 After_his	1
-NNS_''
-Days_''	1
-Features_''	1
-natives_''	1
-wagons_''	1
-savages_''	1
-Godfathers_''	1
-men_''	1
-extras_'	1
-``_VBG
-``_Making	3
-`_missing	1
 NN_VB
+screen_Watch	1
 n_Scan	1
-``_VBD
-``_got	1
-TO_CD
-to_one	2
-to_1	1
-to_7-11	1
-to_1975	1
+entertainment_give	1
 VBD_PDT
 left_such	1
 IN_WDT
@@ -557,7 +561,7 @@ his_name	1
 its_relevance	1
 her_part	1
 her_child	1
-his_dog	1
+his_dog	2
 her_performance	1
 your_film	1
 his_walk	1
@@ -602,8 +606,6 @@ his_career	3
 his_horse.as	1
 my_father	1
 my_blu-ray	1
-``_VBZ
-``_circles	1
 VB_IN
 appear_in	1
 be_on	1
@@ -614,9 +616,11 @@ stay_on	1
 be_at	1
 care_for	1
 see_from	2
+look_with	1
 stay_without	1
 defend_against	1
 get_past	1
+understand_because	1
 charge_in	1
 find_than	1
 perform_with	1
@@ -646,6 +650,7 @@ CD_WDT
 one_that	1
 JJ_PRP
 wrong_you	1
+short_you	1
 sure_they	1
 glad_they	1
 Novel_I	1
@@ -654,10 +659,6 @@ sure_you	1
 bad_it	1
 worth_it	2
 great_It	1
-``_VBP
-``_Do	1
-,_''
-,_''	5
 VBD_RB
 was_very	2
 said_before	1
@@ -697,31 +698,60 @@ carried_away	1
 was_really	1
 came_out	1
 NN_DT
+play_a	1
+result_the	1
 purchase_the	1
+fan_this	2
 music_all	1
-death_an	1
+Actress_the	1
+point_the	1
+film_a	2
 instance_the	1
-film_this	1
+3D_these	1
+chief_the	1
+rest_the	1
 loss_the	1
 Blu-ray_a	1
 slaughter_the	1
-time_a	1
-something_this	1
-rest_the	1
+kissing_a	1
 shape_A	1
+western_A	1
+figure_a	1
+time_a	1
+debut_the	1
+meantime_the	1
+release_the	1
+liar_a	1
+cavalry_the	1
+film_this	1
+feature_a	1
+fact_the	2
+resolution_the	1
 father_a	1
 menace_the	1
 ratio_the	1
+something_this	1
 screen_the	1
 hate_the	1
+character_a	1
 western_the	1
+video_a	1
+series_The	1
 everything_a	1
 nomination_the	1
-story_The	1
+film_The	1
+story_The	2
 thing_the	1
+thief_a	1
 Love_the	1
-film_a	2
+way_the	1
+quality_the	1
+death_an	1
+action_some	1
+dad_the	1
+movie_a	1
 TV_this	1
+film_no	1
 WDT_RB
 that_greatly	1
 which_usually	1
@@ -739,10 +769,6 @@ to_a	5
 to_some	1
 to_any	3
 to_those	1
-NN_CD
-THAN_I	1
-Wrath_1940	1
-opinion_one	1
 CC_NNPS
 and_Apaches	1
 versus_Indians	1
@@ -783,34 +809,45 @@ PRP_JJS
 it_best	1
 VB_NNS
 protect_others	1
+cook_booms	1
 VB_NNP
 save_Lowe	1
 find_Wayne	1
+get_Katharine	1
 play_Shane	1
 have_Hondo	1
 save_Wayne	1
-get_Katharine	1
+visit_Wayne	1
 tell_Angie	1
 see_<a href="http://www.amazon.com/gp/product/B00008CMR4">	1
 tackle_Ethan	1
+recommend_Hondo	1
 convince_Angie	1
 Wake_Island	1
 convince_Hondo	1
-visit_Wayne	1
+Fix_James	1
 prevent_Page	1
 troubld_Hondo	1
 disappoint_John	1
 be_Wayne	1
 TAKE_OUR	1
 NNS_NNP
-years_Wayne	1
+scenes_Hondo	1
 movies_!!!!	1
 favorites_Bob	1
 roles_Bond	1
+angles_Hondo	1
+titles_Hondo	1
+years_Wayne	1
+settlers_US	1
 extras_John	1
-versions_Blu-Ray	1
-60s_ABC	1
 cinematographers_Robert	1
+90s_Hondo	1
+60s_ABC	1
+years_Hondo	1
+favorites_Shane	1
+versions_Blu-Ray	1
+inaccuracies_Hondo	1
 PRP_WP
 you_who	1
 VBG_JJR
@@ -821,10 +858,6 @@ JJS_JJ
 most_macho	1
 most_popular	1
 best_pre	1
-POS_JJS
-'s_biggest	1
-'s_most	2
-'s_best	7
 VBD_JJ
 was_available	3
 did_little	1
@@ -885,17 +918,18 @@ Now_Sam	1
 then_John	1
 just_WRONG	1
 Only_John	1
+Still_Hondo	1
+just_Good	1
 n't_Pate	1
 only_Angie	1
 alone_Professor	1
-Later_Hondo	1
+Later_Hondo	2
 artistically_Wayne	1
 Even_Disney	1
 WDT_NN
 What_movie	1
-,_PRP$
-,_his	1
 JJS_DT
+best_the	1
 best_all	1
 IN_RB
 that_yet	1
@@ -923,6 +957,7 @@ in_nearly	1
 as_ruggedly	1
 Although_not	1
 VBN_DT
+seen_The	1
 taught_the	1
 violated_the	1
 shown_no	1
@@ -970,8 +1005,12 @@ love_you	1
 believe_they	1
 think_it	3
 know_you	1
+JJR_RBR
+calmer_more	1
 RBR_VB
 better_explain	1
+CD_VBN
+1961_based	1
 VB_:
 fight_-	1
 CD_VBG
@@ -979,6 +1018,7 @@ CD_VBG
 CD_VBD
 one_was	1
 CC_NN
+or_formula	1
 &_shot	1
 and_security	1
 and_dust	1
@@ -992,12 +1032,12 @@ and_bug	1
 and_wife	1
 and_presence	1
 and_page	1
-and_goodness	1
+and_deal	1
 or_bottom	1
 and_music	2
 and_way	1
 and_mother	1
-and_deal	1
+and_goodness	1
 and_fill	1
 and_top	1
 and_director	1
@@ -1008,23 +1048,16 @@ and_sound	2
 but_wait	1
 and_grace	1
 and_child	1
+and_attitude	1
 and_triumph	1
 VBP_PRP$
 like_his	1
 know_my	1
 believe_his	1
 CD_VBZ
+six_stands	1
 1953_gives	1
-VB_,
-put_,	1
-Fix_,	1
-be_,	1
-cook_,	1
-say_,	1
-understand_,	1
-cheat_,	1
-flee_,	1
-notice_,	1
+1922-2000_refuses	1
 VB_.
 like_.	1
 watch_.	3
@@ -1035,6 +1068,7 @@ scan_.	1
 be_!	1
 return_.	1
 earn_.	1
+do_.	1
 stay_.	1
 have_.	1
 tell_.	1
@@ -1048,13 +1082,14 @@ obvious_'	1
 JJ_TO
 beneficial_to	1
 able_to	1
-necessary_to	1
-good_to	1
 obvious_to	1
+good_to	1
+necessary_to	1
 close_to	1
 familiar_to	1
 little_to	1
 heartbreaking_to	1
+unbilled_to	1
 true_to	4
 lovely_to	1
 delighted_to	1
@@ -1075,58 +1110,16 @@ NNPS_VBG
 Apaches_speaking	1
 NNS_JJ
 glasses_3-D	1
+problems_such	1
+performances_great	1
 scenes_identical	1
+extras_such	1
+experts_multiple	1
 films_such	1
 RP_CC
 down_and	1
-NNP_''
-Clementine_''	1
-Dorado_''	2
-Alamo_''	1
-Lassie_''	2
-Noon_''	1
-Bravo_''	1
-Rin-Tin-Tin_''	1
-Jima_''	1
-Men_''	1
-Melody_''	1
-Earth_''	1
-Gunsmoke_''	2
-Hondo_''	30
-Shane_''	5
-Cochise_''	1
-Jake_''	2
-McCain_''	1
-McClintock_''	1
-Hunt_''	1
-Rusty_''	1
-Layne_''	1
-Ti_''	1
-Sheriff_''	1
-Master_''	1
-Good_'	1
-Island_''	1
-Baker_'	1
-Train_''	1
-Grande_''	1
-Mighty_''	3
-Unforgiven_''	1
-Shadow_''	1
-Searchers_''	1
-Duke_''	3
-ET_''	1
-Elder_''	1
-Bad_'	1
-Ribbon_''	1
-Now_''	1
-McLain_''	1
-Lincoln_''	1
-Chase_''	2
-Stagecoach_''	1
-Apache_''	2
-Cogburn_''	1
-Valance_''	1
-Cahill_''	2
+NNP_JJR
+PROMISES_MORE	1
 DT_NNS
 the_40s	1
 the_movies	2
@@ -1134,12 +1127,13 @@ the_theaters	1
 no_pets	1
 Both_films	1
 the_white/settlers	1
+the_features	2
 The_Grapes	1
 the_womans	1
 some_facets	1
 the_chirstms	1
 the_families	2
-the_features	2
+the_natives	1
 the_households	1
 the_extras	2
 the_parallels	1
@@ -1237,7 +1231,8 @@ IN_NNP
 like_Blu-Ray	1
 with_Geraldine	1
 among_Batjac	1
-on_Broadway	1
+as_Bronco	1
+as_Shane	1
 after_Hondo	1
 between_Victorio	1
 on_Blu-Ray	1
@@ -1256,6 +1251,7 @@ at_USC	1
 with_Budd	1
 in_Mexico	2
 about_Wayne	1
+For_Duke	1
 like_PATRICK	1
 about_THIS	1
 in_Joanne	1
@@ -1268,11 +1264,11 @@ that_Paramount	1
 of_George	1
 as_John	1
 by_Pate	1
-that_Acosta	1
+of_John	8
 of_Apache	1
 that_Mr.	1
 Without_Wayne	1
-in_Hondo	3
+in_Hondo	6
 that_Warner	1
 in_Arizona	1
 by_Lee	1
@@ -1288,7 +1284,7 @@ by_John	14
 for_James	1
 that_Wayne	3
 than_Wayne	1
-of_John	8
+that_Acosta	1
 from_Louis	1
 at_Universal	1
 as_Vittorio	1
@@ -1301,11 +1297,12 @@ of_Ethan	1
 of_Batjac	1
 with_Hondo	2
 for_HONDO	1
+of_Rin-Tin-Tin	1
 in_Wayne	2
 from_Michael	1
 by_Rudy	1
 from_John	2
-of_Hondo	11
+of_Hondo	13
 for_Angie	1
 so_John	1
 on_Louis	1
@@ -1321,18 +1318,23 @@ of_Cochise	1
 with_John	3
 on_John	1
 that_Vittorio	1
-on_Earth	1
+for_Sands	1
+in_Gunsmoke	1
 from_Leonard	1
+on_Broadway	1
+of_Katie	1
 on_Blue-Ray	1
 for_Christmas	1
-as_Hondo	8
+as_Hondo	9
 of_Duke	1
 as_Rusty	1
 as_Chief	1
 of_Angie	2
+on_Cable	1
+on_Earth	1
 as_Ward	1
 like_John	1
-on_Cable	1
+Of_Hondo	1
 In_Hondo	2
 on_Nietsche	1
 of_Mrs.	2
@@ -1352,7 +1354,7 @@ while_Stevens	1
 because_Hondo	1
 by_Wayne	3
 of_Mexico	1
-from_Wayne	1
+in_McLintock	1
 like_Hondo	1
 with_Margaret	1
 on_TV	1
@@ -1360,16 +1362,21 @@ than_Edwards	1
 about_Alamo	1
 by_Farrow	1
 by_Geraldine	1
+in_Rooster	1
 for_John	3
 with_Red	1
+from_Wayne	1
 from_Vittorio	1
 in_NY	1
-of_Katie	1
+in_Young	1
+from_ET	1
 with_Leonard	1
 as_Major	1
-Of_Hondo	1
+as_Stagecoach	1
 by_Louis	6
+with_Shane	1
 by_Robert	1
+in_Red	1
 in_New	1
 DT_NNP
 all_John	1
@@ -1426,6 +1433,7 @@ the_Cavalry	2
 Both_Hondo	1
 The_Weary	1
 The_Sea	2
+that_Hondo	1
 the_Wayne	1
 a_Yellow	1
 The_Sons	1
@@ -1445,14 +1453,14 @@ any_John	3
 the_Weary	1
 VBD_RBR
 was_more	1
-VBZ_''
-gets_''	1
 VB_WRB
 sentimentalize_when	1
+notice_when	1
 explain_why	1
 know_how	2
 PRP_NN
 we_today	1
+him_none	1
 NNP_VB
 Pate_play	1
 Acosta_complete	1
@@ -1482,7 +1490,7 @@ enjoyed_this	1
 thought_the	3
 ate_this	1
 had_an	1
-garnered_an	1
+made_The	1
 hired_a	1
 bought_this	1
 made_that	1
@@ -1493,8 +1501,10 @@ got_the	1
 knew_the	1
 had_no	1
 left_the	1
+said_the	1
 inhabited_a	1
 had_a	3
+garnered_an	1
 found_this	1
 finished_the	1
 loved_the	1
@@ -1520,36 +1530,41 @@ colors_and	1
 dispatches_and	1
 opticals_and/or	1
 indians_and	2
+ways_and	1
 roles_and	2
 warriors_but	1
 westerns_or	1
 reviews_and	1
 movies_and	1
-fans_and	1
+fans_and	2
+spaces_and	1
 settlers_and	1
 lies_and	1
 values_and	1
+compositions_but	1
 dvds_and	1
 apaches_and	1
 books_&	1
 intents_and	1
 featurettes_and	1
-westerns_and	1
-performances_and	1
+westerns_and	2
+performances_and	3
 ideals_and	1
-times_and	2
+movies_but	1
+characters_but	1
+transfers_but	1
+times_and	3
 arrows_and	1
 transfers_and	1
+widescreen_but	1
 theaters_and	1
 guys_and	1
+trailers_and	1
 40s_and	1
 NNS_CD
 films_7	1
-,_VB
-,_look	1
-,_go	1
-,_give	1
-,_seek	1
+Days_1956	1
+Godfathers_1948	1
 VBN_PRP
 seen_it	4
 watched_it	2
@@ -1561,6 +1576,8 @@ purchased_it	1
 made_it	1
 seen_you	1
 granted_it	1
+JJR_VB
+leaner_look	1
 VBP_IN
 know_for	1
 arrive_at	1
@@ -1584,110 +1601,166 @@ but_one	1
 or_three	1
 and_two	1
 NN_CC
+film_and	3
 pat_but	1
+fight_and	1
+son_but	1
 lout_and	1
+Shootist_and	1
 3D_but	1
 wayne_and	1
 vein_but	1
+coloring_but	1
+method_and	1
 top_and/or	1
+bodyguard_and	1
 experience_but	1
-rock_and	1
+scout_and	1
 LIFE_AND	1
+classic_and	1
 confidence_and	1
 release_and	1
-classic_and	1
+end_but	1
 year_or	1
-storyline_or	1
+DVD_and	1
+attribute_and	1
 color_and	1
 boy_and	2
 screenwriter_and	1
-photography_and	1
+industry_and	1
 shipping_and	1
 format_and	1
-dog_and	1
+philosophy_but	1
 movie_or	1
+adventure_and	1
 cowboy_versus	1
 bit_and	1
-time_and	1
+time_and	2
 critic_and	1
 warning_and	1
+information_and	1
 kinderness_and	1
 movie_and	5
-life_and	1
-character_and	2
-while_and	1
+life_and	2
+cowboy_&	1
+style_but	1
+star_but	1
+list_but	1
 carrier_and	1
 fun_and	1
 web_and	1
+treaty_and	2
+MOVIE_and	1
 uprising_&	1
-DVD_and	1
+storyline_or	1
 opportunity_and	1
+cast_and	1
+war_but	1
+sequence_and	1
 pace_and	2
 training_and	1
-farmwoman_and	1
+photography_and	1
 effect_and	2
-room_and	1
+fan_or	1
+widescreen_and	1
+deal_and	1
+honesty_and	2
 knife_and	1
-action_and	1
+action_and	2
 opinion_and	1
-adventure_and	1
+picture_but	1
 man_and	1
-film_but	1
-screen_and	1
-novel_and	2
+remastring_and	1
+top_or	1
+screen_and	2
+cheesy_but	1
+dog_and	1
 line_and	1
-scout_and	1
+future_but	1
+screw-up_and	1
+rock_and	1
 rider_and	1
 walk_and	1
 time_but	1
 rintintin_and	1
-cowboy_&	1
+hit_and	1
 picture_and	4
 bottom_and	1
 rancher_and	1
+chief_and	1
 scabbard_&	1
+difference_but	1
+dialog_and	1
 friend_and	1
 horse_and	1
 Maltin_and	1
 son_and	1
-honesty_and	2
+room_and	1
 goodness_and	1
-ground_and	1
+Hondo_but	1
+character_but	1
 fan_and	2
 image_and	1
 force_but	1
-husband_but	1
+husband_but	2
 woman_but	1
 coward_and	1
-film_and	2
+writing_and	1
 genre_and	1
 work_but	1
 water_and	1
 work_and	1
 friendship_and	1
-actor_and	2
+part_but	1
+actor_and	3
 language_and	1
+movie_but	2
 favorite_and	1
-top_or	1
+power_or	1
 season_but	1
+place_but	1
 pan_and	2
-remastring_and	1
-woman_and	5
+film_but	1
+scenery_and	1
+woman_and	6
 story_but	1
-Hondo_but	1
+ground_and	1
+suspense_and	1
+chemistry_and	1
 hat_or	1
 company_and	1
+character_and	2
+cinema_and	1
+opinion_but	1
 past_but	1
-husband_and	2
+farmwoman_and	1
+novel_and	2
+while_and	1
+love_and	1
+husband_and	3
 book_and	1
 cavalry_&	1
 crew_and	1
 pass_but	1
 land_and	1
+NN_CD
+Man_1952	1
+time_56	1
+posturing_one	1
+Rifleman_1958	1
+end_3	1
+Thing_1951	1
+City_1952	1
+THAN_I	1
+McQ_1974	1
+movie_one	1
+Sky_1953	1
+Wrath_1940	1
+Tin_1954	1
+opinion_one	1
+life_one	1
 RBS_VBN
 most_honored	1
-''_VBP
-''_are	3
 DT_JJS
 the_best	11
 the_most	1
@@ -1702,28 +1775,38 @@ this_better	1
 a_bigger	1
 any_more	1
 any_narrower	1
-DT_WP
-Those_who	1
-those_who	2
+JJR_DT
+longer_The	1
+narrower_the	1
 NN_JJ
-assignment_due	1
+work_great	1
+time_favorite	1
+cast_such	1
+life_other	1
+actress_famous	1
 movie_unaccredited	1
 razor_sharp	1
+look_amazing	1
+DVD_Special	1
+space_available	1
+course_bad	1
+focus_due	1
 movie_several	1
 quality_good	1
 wonder_3-D	1
-year_old	1
-cast_such	1
 DVD_special	1
-time_favorite	1
-space_available	1
-life_other	1
+course_perfect	1
+year_old	1
+story_great	1
+format_many	1
+cinematography_great	1
+movie_full	1
+film_fast-paced	1
 author_ofbang	1
-look_amazing	1
-focus_due	1
-DVD_Special	1
+assignment_due	1
 NNP_NNS
 Hondo_rates	1
+Searchers_performances	1
 Sioux_tribes	1
 Apache_warriors	2
 Wayne_experts	1
@@ -1731,11 +1814,13 @@ Duke_shoes	1
 Dukes_movies	1
 Wayne_stars	1
 AFI_films	1
+Hondo_items	1
 Tarzan_films	1
 Apache_attackers	1
 Wayne_re-issues	1
 Quality_pictures	1
 Apache_indians	1
+Duke_fans	1
 Wayne_fans	4
 Wayne_westerns	4
 Duke_westerns	1
@@ -1749,24 +1834,32 @@ Shane_fans	1
 Wayne_films	3
 NNP_NNP
 Angie_Lowe	10
+Hanks_Russell	1
 Liberty_Vallance	1
-Lakota_Sioux	1
+Boetticher_Scott	1
 Michael_Wayne	3
-Hondo_John	2
+Hondo_John	3
 Old_West	1
 The_Lakota	1
 Chuck_Roberson	1
+Vallance_True	1
 THEY_TOOK	1
+Columbia_Fort	1
+Man_Hatari	1
 AND_THEY	1
 REAL_Chiricahua	1
+TOOK_IT	1
+Lakota_Sioux	1
 Ed_Lowe	1
 Hondo_I	1
 Blu_Ray	1
 Terminator_3D	1
+Crowe_Liam	1
 Margaret_O'Sullivan	1
 MANY_PROMISES	1
 Hugo_Friedhofer	2
 US_MANY	1
+Apache_Rio	1
 Marshall_Dillon	2
 Big_Jake	3
 JOHN_WAYNE	1
@@ -1783,15 +1876,18 @@ Mr._Lowe	2
 Quiet_Man	1
 Randolph_Scott	1
 Kirk_Douglas	1
+Grande_The	1
 High_Quality	1
 Bronco_Layne	1
 Robert_Mitchum	1
 Henry_Fonda	1
+Greenville_SC	1
 Edward_Grant	6
 Ray_Version	1
+Stock_Company	1
 Lowe_Leo	1
 Giant_Shadow	1
-Ty_Hardin	1
+Pate_James	3
 Jack_Nicholson	1
 Rooster_Cogburn	1
 OUR_LAND	1
@@ -1806,20 +1902,26 @@ Lynn_Hoffman	1
 Michael_Pate	14
 Yellow_Ribbon	1
 Lee_Strasberg	1
+Page_Ward	2
 Rio_Bravo	2
 Lee_Aaker	12
 Russell_Crowe	1
 Katharine_Hepburn	1
+Bond_Paul	1
 Ward_Bond	16
 Lee_Akers	1
 The_Quiet	1
 Jack_Warner	1
+Newman_Bob	1
 Jake_</a>	1
+Farrow_Wayne	1
 Dodge_City	1
+Bond_Michael	4
 Farrow_Mia	1
 Spencer_Tracy	1
 Paul_Newman	1
 El_Dorado	2
+Mighty_Wayne	1
 Apache_Territory	1
 Ethan_Edwards	4
 Chiricahua_Chief	1
@@ -1827,19 +1929,22 @@ Red_Cloud	1
 Chiricahua_Apache	1
 Wagon_Train	1
 John_Ford	10
+Ty_Hardin	1
 George_Stevens	2
 O'Sullivan_Jane	1
 Joanne_Woodward	1
+Mitchum_Paul	1
 Red_River	2
 Mrs._Angie	1
 Cavalryman_Hondo	1
-James_Edward	5
+Camargo_Mexico	2
 Lowe_Geraldine	4
 US_Army	1
 Shot_Liberty	3
 Louis_L'amour	1
 Director_John	1
-Stock_Company	1
+Wayne_Geraldine	1
+Stagecoach_Fort	1
 Bwana_Devil	1
 Rodolfo_Acosta	2
 PATRICK_Wayne	1
@@ -1848,26 +1953,36 @@ BUT_THEY	1
 KEPT_BUT	1
 Louis_Lamour	2
 John_Furrow	1
+Batjac_Wayne	1
 <a href="http://www.amazon.com/gp/product/B00008CMR4">_Big	1
 Archie_Stout	1
 Budd_Boetticher	1
 Small_Warrior	2
+Bond_James	1
+L'amour_Hondo	1
+Wayne_Bond	1
+Grant_Wayne	1
 Liberty_Valance	2
 Chief_Red	1
+Australia_Pate	1
 Emil_Newman	2
 A_Lion	1
 John_Edward	1
+L'Amour_John	1
 Whenever_Wayne	1
-SPECIAL_COLLECTOR	1
+Camargo_Chihuahua	1
+Angry_Lowe	1
+Hondo_The	1
 Bob_Hope	1
 Wagon_Master	1
 Mr._Lincoln	1
-TOOK_IT	1
+Chihuahua_Mexico	1
 Matt_Dillon	1
-Chief_Vittorio	2
+Chief_Vittorio	3
 James_Cagney	1
 Robert_Burks	2
 John_Wayne	83
+City_Arness	1
 Vittorio_Michael	2
 Fort_Apache	3
 Fort_Ti	1
@@ -1890,14 +2005,18 @@ Greatest_Show	1
 American_Indian	1
 Mia_Farrow	1
 Buffalo_Baker	4
+Pate_Lee	1
 New_Mexican	1
 Katie_Elder	1
 Frank_Thompson	2
 New_Mexico	2
+McLintock_High	1
 Seth_Adams	1
+Jima_The	1
 Leo_Gordon	3
 Plaza_Theatre	1
 Universal_Studios	1
+Neeson_Jack	1
 James_Dean	1
 Jimmy_Stewart	1
 Weary_Professor	2
@@ -1906,6 +2025,8 @@ Seven_Men	2
 Lane_John	3
 !!!!_Kind	1
 Big_Jim	2
+James_Edward	5
+SPECIAL_COLLECTOR	1
 High_Noon	1
 Liam_Neeson	1
 Louis_LaMour	2
@@ -1926,23 +2047,29 @@ VBP_RBR
 are_more	1
 CC_EX
 but_there	1
-''_WP
-''_who	1
-JJR_DT
-narrower_the	1
+DT_WP
+Those_who	1
+those_who	2
 JJR_.
 more_.	2
-JJR_,
-calmer_,	1
-shorter_,	1
-faster_,	1
-VBN_WRB
-treated_when	1
-DT_PRP
-this_it	1
-some_they	1
-all_it	1
-those_she	2
+VBN_CC
+speared_and	1
+published_&	1
+released_and	1
+done_and	1
+crowded_and	1
+promised_and	1
+scripted_and	1
+adored_but	1
+involved_and	1
+caught_and	1
+read_and	1
+filmed_and	1
+biased_but	1
+blurred_and	1
+packaged_and	1
+gone_and	1
+magnified_and	1
 VBN_TO
 supposed_to	3
 hoped_to	1
@@ -1966,22 +2093,9 @@ liked_to	1
 treated_to	1
 meant_to	2
 compared_to	2
-''_RB
-''_certainly	1
-''_nevertheless	1
-''_then	1
-NNPS_''
-Leathernecks_''	1
-Eagles_''	1
-Indians_''	1
-Berets_''	1
-Streets_''	1
-Wolves_''	1
-Searchers_''	6
-WDT_NNP
-which_Michael	1
 IN_DT
 with_another	1
+Although_a	1
 than_those	1
 As_a	5
 in_this	17
@@ -1990,6 +2104,7 @@ for_this	5
 like_the	4
 about_this	1
 because_that	1
+In_The	1
 without_a	1
 Under_the	1
 that_any	1
@@ -2043,6 +2158,7 @@ as_a	13
 as_the	20
 than_the	1
 like_that	1
+on_The	1
 for_that	1
 from_that	1
 towards_the	1
@@ -2056,13 +2172,14 @@ into_the	5
 albeit_a	1
 from_a	2
 with_the	16
-in_the	71
+in_the	72
 although_the	1
 OF_THE	1
 if_the	1
 with_this	1
 from_the	17
 of_all	1
+in_The	4
 at_this	1
 on_a	9
 In_an	1
@@ -2099,6 +2216,7 @@ on_some	1
 into_this	1
 over_any	1
 as_another	1
+of_The	3
 past_that	1
 till_the	1
 through_this	1
@@ -2113,8 +2231,7 @@ VBN_CD
 shot_1.37:1	1
 been_one	1
 seen_one	1
-VBG_''
-missing_'	1
+told_one	1
 CD_WRB
 7-11_where	1
 VB_WP
@@ -2127,51 +2244,18 @@ which_we	1
 which_he	2
 which_I	1
 which_one	1
+UH_DT
+Yes_The	1
 RB_WRB
-even_when	1
+however_where	1
 once_when	1
+anywhere_where	1
+even_when	1
+first_where	1
 CD_POS
 90_'s	1
 1950_'s	3
 50_'s	2
-RB_,
-someday_,	1
-not_,	1
-Still_,	2
-However_,	3
-ago_,	1
-mechanically_,	1
-out_,	1
-Yet_,	1
-along_,	1
-Frankly_,	1
-alone_,	1
-Somehow_,	1
-hopefully_,	1
-sympathetically_,	1
-Also_,	2
-sometime_,	1
-else_,	1
-meanwhile_,	1
-later_,	1
-unfortunately_,	1
-before_,	1
-then_,	1
-well_,	2
-once_,	1
-however_,	1
-bravely_,	1
-here_,	1
-anywhere_,	1
-Otherwise_,	1
-Later_,	1
-Yes_,	1
-Unfortunately_,	1
-first_,	2
-Eventually_,	1
-Overall_,	1
-thereafter_,	1
-Well_,	1
 RB_.
 longer_.	1
 much_.	1
@@ -2201,29 +2285,41 @@ now_.	1
 again_.	3
 n't_.	1
 again_!	1
+IN_VB
+for_Wake	1
 JJS_RB
 best_ever	1
-,_WRB
-,_when	5
-,_where	4
-,_how	1
+VBD_CC
+went_and	1
+came_and	1
+bought_and	1
+were_and	1
+happened_but	1
+began_and	1
+did_and	1
 VBD_CD
 was_three	1
 saw_two	1
 was_one	1
 NNPS_CC
-Apaches_and	4
+Apaches_or	1
+Apaches_and	5
 Indians_and	2
 NNS_DT
+sources_this	1
 rates_a	1
 mins_this	1
 assays_a	1
 movies_all	1
-shoots_an	1
+commentaries_the	1
 womans_no	1
 50s_The	1
+shoots_an	1
+discrepancies_the	1
+westerns_this	1
 skills_the	1
 booms_the	1
+characterizations_a	1
 TO_TO
 to_to	1
 RB_:
@@ -2232,8 +2328,6 @@ again_;	1
 ago_...	1
 TO_.
 to_.	1
-TO_,
-to_,	1
 WRB_PRP
 when_I	1
 why_I	1
@@ -2263,10 +2357,6 @@ how_he	1
 ..._beyond	1
 ..._Under	1
 --_if	1
-''_:
-''_--	1
-''_...	5
-''_;	1
 PRP$_JJ
 my_own	1
 her_6-years	1
@@ -2316,13 +2406,18 @@ my_favorite	2
 his_human	1
 their_old	1
 his_first	3
+RP_NNS
+up_things	1
 PRP_PRP
 her_she	1
 me_I	1
-it_you	1
+her_he	1
+himself_they	1
+him_you	1
 it_she	1
 me_it	1
 her_it	1
+it_you	1
 IN_PRP
 at_it	1
 on_her	1
@@ -2341,7 +2436,7 @@ with_her	2
 without_it	1
 between_them	1
 Before_he	1
-if_it	1
+if_it	2
 of_them	1
 than_he	1
 like_you	1
@@ -2385,7 +2480,7 @@ of_it	4
 for_him	2
 until_I	1
 like_him	1
-ago_I	1
+ago_I	2
 with_him	4
 if_he	2
 since_I	2
@@ -2396,24 +2491,27 @@ for_me	3
 that_we	1
 since_it	1
 while_he	1
-''_.
-''_.	13
-'_.	1
-''_!	1
-''_,
-'_,	3
-''_,	6
 VB_EX
 think_there	1
-,_FW
-,_etc.	1
 CD_FW
 5.1_Dolby	1
 TO_WP
 to_what	1
-VBG_WRB
-telling_where	1
-considering_when	1
+:_NNP
+-_Honda	1
+;_Lee	1
+:_SPECIAL	1
+:_THEY	1
+-_Searchers	1
+..._AND	1
+..._PLEASE	1
+-_James	1
+-_Tom	1
+..._Wayne	1
+;_Hondo	1
+..._Lane	2
+:_Stagecoach	1
+--_Hondo	2
 PRP_VBD
 they_appeared	1
 he_wrote	1
@@ -2469,6 +2567,7 @@ She_Wore	1
 He_was	2
 I_received	1
 he_put	1
+they_thought	1
 I_supposed	2
 he_wanted	1
 I_fell	1
@@ -2570,7 +2669,7 @@ the_plot	1
 an_aspect	1
 this_instance	1
 this_way	1
-the_challenge	1
+this_blu	3
 The_directing	1
 the_desert	2
 the_camera	1
@@ -2644,8 +2743,9 @@ the_company	1
 A_bit	1
 the_place	1
 the_lead	1
+the_challenge	1
 the_chap	1
-this_3D	1
+this_3D	2
 a_stuntman	1
 The_story	2
 no_difference	1
@@ -2827,6 +2927,7 @@ the_opening	1
 a_stranger	1
 the_TV	5
 this_western	3
+a_y	1
 the_action	3
 each_version	1
 This_movie	3
@@ -2895,7 +2996,6 @@ The_screenplay	1
 a_fight	1
 a_night	1
 the_decision	1
-this_blu	3
 a_kid	2
 The_camera	1
 a_drunker	1
@@ -2913,6 +3013,7 @@ a_pioneer	1
 a_way	1
 an_afternoon	1
 a_commentary	2
+the_Witch	1
 the_transfer	1
 The_ending	1
 a_producer	1
@@ -2937,11 +3038,12 @@ this_is	10
 That_is	2
 DT_VBG
 this_being	1
-the_filming	1
+The_Making	1
 the_leading	3
+a_Making	1
 a_working	1
 the_ending	1
-The_Making	1
+the_filming	1
 DT_VBD
 That_said	2
 that_was	2
@@ -3105,15 +3207,13 @@ MD_VBN
 EX_RB
 There_really	1
 CD_PRP$
+1939_My	1
 one_his	1
 WP_NNS
 what_circumstances	1
-``_DT
-``_A	1
-``_a	1
-``_The	28
-``_That	1
-``_the	3
+WP_NNP
+whom_Hondo	1
+Who_Shot	3
 PRP_.
 me_.	3
 him_.	8
@@ -3126,15 +3226,14 @@ you_!	1
 her_.	3
 it_.	19
 himself_.	2
-PRP_,
-me_,	1
-itself_,	1
-him_,	4
-them_,	1
-they_,	1
-her_,	2
-himself_,	1
-it_,	1
+IN_:
+like_:	1
+though_...	1
+over_-	1
+about_...	1
+of_--	3
+FW_WP
+etc._who	1
 CC_VBP
 and_am	1
 and_kill	1
@@ -3145,9 +3244,10 @@ and_contain	1
 and_watch	1
 NNP_WDT
 Wayne_that	1
+Alamo_which	1
 Hondo_that	1
 PRP_VB
-him_do	1
+him_do	2
 you_go	1
 it_be	1
 you_get	1
@@ -3172,12 +3272,15 @@ and_lacks	1
 and_agrees	1
 NN_WRB
 death_when	1
+wife_when	1
+desert_where	1
 crossfire_when	1
 grader_when	1
 time_when	2
 DVD_When	1
 hit_when	1
 scene_where	2
+bat_when	1
 scene_when	1
 period_when	1
 end_where	1
@@ -3187,10 +3290,15 @@ up_to	3
 out_to	2
 down_to	1
 NNP_PRP
+Wayne_himself	3
+Hondo_she	1
+Blu-Ray_I	1
+Bob_I	1
+Hondo_he	1
+Westerns_I	1
 Duke_it	1
 Apache_he	1
-Wayne_himself	2
-Hondo_she	1
+Maltin_I	1
 CC_VBD
 but_was	1
 and_added	1
@@ -3241,64 +3349,11 @@ and_retired	1
 JJR_NNP
 better_John	1
 more_Top	1
-JJ_,
-enraged_,	1
-distinguished_,	1
-short_,	3
-right_,	1
-hot_,	1
-great_,	1
-well-rounded_,	1
-slow_,	1
-talented_,	1
-wise_,	1
-perfect_,	1
-other_,	1
-angry_,	1
-direct_,	1
-crisp_,	1
-many_,	1
-dusty_,	1
-amazing_,	1
-unbilled_,	1
-excellent_,	1
-3-D_,	3
-rewarding_,	1
-grueling_,	1
-OK_,	1
-general_,	1
-young_,	1
-long_,	1
-violent_,	1
-grey_,	1
-honest_,	1
-curly_,	1
-interesting_,	1
-tight_,	1
-spectacular_,	1
-contrived_,	1
-later_,	2
-bearded_,	1
-possible_,	1
-unsentimental_,	1
-independent_,	1
-handsome_,	2
-fresh_,	1
-revealing_,	1
-odd_,	1
-next_,	1
-good_,	2
-usual_,	1
-welcome_,	1
-weak_,	1
-memorable_,	1
-massive_,	1
-entertaining_,	1
 JJ_.
 surprise_.	1
 unaccredited_.	1
 eclectic_.	1
-great_.	3
+half-Indian_.	1
 right_.	1
 grim_.	1
 exciting_.	1
@@ -3320,6 +3375,7 @@ welcome_.	1
 entertaining_.	1
 unwatchable_.	1
 wooden_.	1
+great_.	3
 impressive_.	1
 wrong_.	1
 similar_.	1
@@ -3367,6 +3423,7 @@ pushed_into	1
 been_on	1
 composed_in	1
 filmed_of	1
+honored_by	1
 watched_in	1
 released_for	1
 shown_in	3
@@ -3375,6 +3432,7 @@ impaled_by	1
 shot_in	4
 remembered_for	1
 demorialized_by	1
+photographed_with	1
 written_by	2
 released_on	2
 praised_for	1
@@ -3452,6 +3510,7 @@ and_for	3
 And_if	1
 But_in	2
 or_if	1
+and_despite	1
 and_over	1
 and_as	1
 but_for	3
@@ -3477,7 +3536,7 @@ can_you	1
 IN_WRB
 on_how	1
 than_How	1
-that_when	1
+that_when	2
 as_when	1
 about_how	3
 of_how	1
@@ -3497,6 +3556,7 @@ JJ_WDT
 NN_NNS
 vhs_transfers	1
 plastic_glasses	1
+acting_sets	1
 3D_glasses	3
 bonus_features	1
 dozen_films	1
@@ -3505,7 +3565,7 @@ TV_showings	1
 TV_movies	1
 B_westerns	1
 projectile_images	1
-moment_whites	1
+Scenery_indians	1
 3D_effects	1
 husband_deserts	1
 survival_skills	1
@@ -3514,13 +3574,16 @@ scheduling_problems	1
 apache_uprisings	1
 blu_rays	1
 camera_angles	1
+moment_whites	1
 wayne_fans	1
 film_histories	1
 TV_shows	1
+video_editions	1
 landscape_vistas	1
 time_westerns	1
-video_editions	1
+round-up_years	1
 child_actors	1
+gallery_trailers	1
 manyd_films	1
 enmasse_scenarios	1
 bonus_materials	1
@@ -3533,80 +3596,113 @@ ray_westerns	1
 burning_images	1
 Veteran_cinematographers	1
 time_favorites	1
+DVD_extras	1
 A_treatments	1
 fullscreen_dvds	1
 NNP_PRP$
 Change_their	1
 NNPS_VBP
+Comanches_are	1
 Indians_are	2
 Apaches_find	1
-Apaches_roam	1
 Apaches_are	1
-Comanches_are	1
+Wolves_are	1
+Apaches_roam	1
 NN_NNP
 scout_Hondo	2
 actress_Page	1
 movie_Hondo	1
-dog_Sam	2
+dog_Sam	3
+era_Clark	1
 Witch_Hunt	1
+result_Hondo	1
 scribe_James	1
-head_Jack	1
+genre_John	1
+vision_Hondo	1
 son_Lee	2
-tough/tender_Hondo	1
-son_Johnny	3
+end_Hondo	1
+lead_Lee	1
 actor_Ty	1
+son_Michael	1
+son_Johnny	4
+western_Hondo	1
+boy_Johnny	2
 frontierswoman_Geraldine	1
+boy_Angie	1
 director_John	1
 notch_Western	1
 Gail_Russell	1
-leray_John	1
+tough/tender_Hondo	1
 chief_Vittorio	1
 outcast_Hondo	1
+love_Spencer	1
+death_John	1
 Best_Picture	1
 writer_Grant	1
 writer_James	1
+classic_Shane	1
+wife_Hondo	1
 career_Pate	1
-character_Hondo	1
+character_Hondo	2
+collection_Hondo	1
+anything_Ward	1
+glance_John	1
+series_Hondo	1
+cartoon_Melody	1
+homesteader_Arizona	1
 part_Indian	1
+leader_Victorio	1
 actor_Ward	1
 Corporal_Rusty	1
 boy_Lee	1
-historian_Frank	1
+release_George	1
 actress_Mia	1
+rider_Hondo	1
+leray_John	1
 buddy_Kirk	1
 actor_Lee	1
 husband_Leo	1
+year_Alan	1
+movie_Big	1
 friend_Buffalo	1
-leader_Victorio	1
-son_Michael	1
+Dog_Lassie	1
+hand_Hondo	1
+series_Wagon	1
+historian_Frank	1
+head_Jack	1
+film_Wagon	1
+hair_Geraldine	1
+director_Hondo	1
 location_Camargo	1
-woman_Angie	1
+role_James	1
+stranger_Hondo	1
+woman_Angie	2
 woman_Geraldine	2
-NNPS_,
-Apaches_,	3
-Searchers_,	5
-Indians_,	1
-Hawks_,	2
-JJR_``
-leaner_`	1
-more_``	1
-longer_``	1
+TO_PDT
+to_such	1
 NNPS_VBZ
 Indians_is	1
-:_``
-:_`	1
--_``	1
---_``	1
-:_``	1
-..._``	2
+Searchers_is	2
+WDT_NNP
+which_Michael	1
+CD_CD
+1948_3	1
 CD_CC
+1966_and	1
 two_or	1
 1956_and	1
-1952_and	2
+63_but	1
+1957_and	1
 1953_and	1
+1954_and	1
+73_but	1
 1974_and	1
 one_or	1
+1950_and	1
 1975_and	1
+1952_and	3
+1946_and	1
+1.37:1_or	1
 IN_JJR
 with_more	1
 in_more	3
@@ -3641,8 +3737,7 @@ himself_when	1
 :_The	2
 ..._This	1
 ..._all	1
-''_PRP$
-''_her	1
+..._The	2
 DT_MD
 this_would	1
 this_will	1
@@ -3653,9 +3748,6 @@ better_picture	1
 greater_range	1
 more_proof	1
 bigger_challenge	1
-RB_``
-not_``	2
-just_`	1
 :_CD
 ;_1953	1
 -_9	1
@@ -3665,8 +3757,8 @@ POS_VBN
 '_despised	1
 VBP_VBZ
 know_is	1
-RP_NNS
-up_things	1
+JJR_JJR
+shorter_faster	1
 PRP_MD
 You_'ll	1
 I_will	3
@@ -3739,7 +3831,7 @@ are_shown	1
 ..._and	3
 ..._but	2
 --_and	1
--_and	2
+-_and	3
 CC_VB
 and_protect	1
 and_buy	1
@@ -3766,6 +3858,7 @@ are_being	1
 PRP$_DT
 my_all	2
 JJ_JJR
+later_longer	1
 many_more	1
 NNS_JJR
 westerns_better	1
@@ -3793,10 +3886,6 @@ There_are	4
 there_are	1
 JJS_:
 best_:	1
-CC_``
-and_``	12
-or_``	2
-and_`	3
 NN_NN
 widescreen_projection	1
 western_adventure	1
@@ -3808,6 +3897,7 @@ wagon_train	1
 film_debut	2
 135th_film	1
 lip_service	1
+show_Rin	1
 plum_role	1
 man_approach	1
 photo_gallery	1
@@ -3820,6 +3910,7 @@ battle_scene	1
 mother_geraldine	1
 quality_DVD	1
 lead_character	1
+cast_crew	1
 western_film	1
 camera_work	1
 desert_southwest	1
@@ -3831,13 +3922,17 @@ studio_head	1
 ray_version	1
 peace_treaty	1
 aspect_ratio	3
+sympathy_kinderness	1
 box_office	1
 home_town	1
 movie_adaptation	1
+run-of-the-mill_cowboy	1
+commentary_photo	1
 3D_classic	1
 message_carrier	1
 DVD_transfer	2
 3D_version	1
+romance_adventure	1
 theater_system	1
 movie_collector	1
 pioneer_woman	2
@@ -3847,7 +3942,7 @@ wayne_movie	1
 chase_scene	1
 Pan_n	1
 TV_version	1
-stage_training	1
+absentee_husband	1
 cowboy_vampire	1
 scoundrel_father	1
 Blu-ray_release	1
@@ -3879,17 +3974,22 @@ silver_screen	1
 series_version	1
 boy.Great_film	1
 birthday_gift	1
+romance_plenty	1
+hand_scabbard	1
 purchasing_decision	1
 commentary_track	1
 office_draw	1
 TV_show	2
+directing_scenery	1
 hondo_lane	1
 stage_actress	2
+replacement_edition	1
 DVD_format	1
 film_instructor	1
 stock_company	1
 love_interest	3
 story_subplot	1
+lane_rider	1
 type_character	1
 screen_presence	1
 Tin_Tin	2
@@ -3914,21 +4014,24 @@ movie_expert	1
 3D-Blu-ray_release	1
 time_friend	1
 relevance_today	1
+movie_mother	1
 picture_loss	1
 movie_collection	1
 head_room	1
 bit_pat	1
 DVD_container	1
-absentee_husband	1
+stage_training	1
 teaching_coach	1
 stress_something	1
 character_justice	1
 afternoon_matinee	1
 production_company	1
+formula_western	1
 cowboy_cinema	1
 time_period	1
 horse_chase	1
 horror_movie	1
+camera_rifle	1
 summer_heat	1
 film_industry	2
 movie_critic	1
@@ -3937,7 +4040,7 @@ western_story	1
 HD_trailer	1
 job_supporting	1
 actor_today	1
-replacement_edition	1
+wagon_ho	1
 blu_ray	5
 football_player	1
 movie_look	1
@@ -3945,64 +4048,40 @@ film_grain	1
 PRP_NNP
 him_Small	2
 me_Hondo	1
+WRB_CC
+when_or	1
+NNP_WP$
+Lowe_whose	1
 PRP$_VB
 my_be	1
 NNS_RB
-minutes_long	1
 widescreen_just	1
-movies_instead	1
-years_ago	1
-years_later	2
-weeks_ago	1
-gimmicks_only	1
-purposes_so	1
 horses_right	1
-films_accordingly	1
-scenes_ever	1
-westerns_especially	1
 families_desperately	1
 devices_ever	1
-purchases_ever	1
+mannerisms_particularly	1
+issues_mainly	1
+gimmicks_only	1
+films_accordingly	1
+scenes_ever	1
+years_too	1
+dilemmas_beautifully	1
+minutes_long	1
+movies_instead	1
+films_especially	1
+westerns_especially	1
+shows_often	1
 customs_once	1
 horses_almost	1
-CD_''
-1939_''	1
+years_ago	1
+years_later	2
+purposes_so	1
+weeks_ago	1
+purchases_ever	1
 EX_VBD
 There_was	1
 JJS_.
 best_.	2
-,_JJ
-,_multiple	1
-,_dusty	1
-,_foreign	1
-,_bad	1
-,_long	1
-,_practical	1
-,_better-known	1
-,_such	2
-,_forthright	1
-,_great	4
-,_fast-paced	1
-,_perfect	1
-,_blonde	1
-,_good	1
-,_impressionable	1
-,_famous	1
-,_curly	1
-,_mid-period	1
-,_many	1
-,_laconic	1
-,_trim	1
-,_cumbersome	1
-,_old-fashioned	1
-,_crusty	1
-,_entertaining	1
-,_deliberate	1
-,_straigt	1
-,_deserving	1
-,_full	1
-,_EX
-,_there	2
 DT_JJ
 a_stylistic	1
 A_good	1
@@ -4015,7 +4094,7 @@ the_special	1
 a_usable	1
 the_final	2
 a_revealing	1
-a_Western	1
+a_busy	2
 a_telling	1
 the_broiling	1
 an_ominous	1
@@ -4059,7 +4138,7 @@ this_hard	1
 a_huge	1
 no_good	1
 the_sound	1
-the_top	2
+an_extra	1
 a_brutal	1
 this_new	3
 the_cavalry	2
@@ -4073,7 +4152,7 @@ a_personal	2
 the_native	1
 the_wayward	1
 the_honorable	1
-the_usual	1
+a_Western	1
 a_small	2
 a_cavalry	2
 the_many	1
@@ -4097,7 +4176,7 @@ this_effective	1
 the_correct	1
 the_literary	1
 some_B-grade	1
-the_later	1
+the_Indian	2
 The_Special	1
 the_few	1
 an_immediate	1
@@ -4121,6 +4200,7 @@ a_claustrophobic	1
 a_true	1
 the_violent	1
 this_spare	1
+a_welcome	1
 a_widescreen	1
 the_tough	1
 some_real	1
@@ -4129,8 +4209,8 @@ the_latter	2
 an_auspicious	1
 this_exciting	1
 the_wide	1
+a_dark	2
 a_mighty	1
-the_Indian	1
 the_big	1
 the_supporting	1
 the_fatal	1
@@ -4144,7 +4224,7 @@ a_matte	1
 the_only	4
 the_strong	1
 Another_great	1
-a_busy	2
+the_handsome	1
 a_chaste	1
 a_half-breed	1
 the_good	1
@@ -4157,6 +4237,7 @@ an_iconic	2
 The_sad	1
 a_stupid	1
 an_non-John	1
+the_usual	1
 the_lone	1
 the_vicious	1
 this_barren	1
@@ -4164,11 +4245,11 @@ the_crappy	1
 a_clever	1
 a_mortal	1
 all_worth	1
-a_dark	2
+a_typical	1
 a_fifth	1
 The_original	1
 a_real	2
-a_welcome	1
+the_new	1
 the_white	5
 the_strange	1
 a_popular	1
@@ -4181,12 +4262,13 @@ the_open	2
 a_sweeping	1
 the_classic	1
 an_insolated	1
+the_later	1
 a_few	7
 Some_special	1
 a_disguised	1
 a_favorite	1
 the_obvious	1
-the_Special	1
+the_Special	2
 the_same	13
 the_fullscreen	1
 A_fine	3
@@ -4213,6 +4295,7 @@ the_entire	1
 a_tough	1
 a_clear	1
 a_scant	1
+The_golden	1
 an_incredible	1
 the_liberal	1
 The_little	1
@@ -4220,6 +4303,7 @@ the_feminine	1
 a_little	4
 the_abrasive	1
 the_ever-reliable	1
+the_top	2
 the_boiling	1
 those_silly	1
 a_young	4
@@ -4250,21 +4334,10 @@ whose_husband	3
 :_VBD
 -_was	1
 -_willed	1
-``_VB
-``_Watch	1
-``_do	1
-`_look	1
-``_bother	1
-``_Wake	1
 VBD_JJR
 were_more	1
 was_better	1
 made_more	2
-``_PRP$
-``_My	1
-`_his	1
-''_``
-''_``	1
 MD_PRP$
 would_her	1
 NN_IN
@@ -4321,19 +4394,23 @@ quality_of	1
 debut_in	2
 novel_that	1
 try_at	1
+home_without	1
 script_by	1
 jake_as	1
 tradition_of	1
 actor_in	1
 price_for	1
 beginning_of	1
+role_despite	1
 sense_of	2
 research_on	1
 nomination_in	1
+frame_in	1
 son_in	2
 power_of	1
 stature_of	1
 room_for	1
+yeah_as	1
 notion_that	1
 material_from	2
 respect_for	2
@@ -4347,6 +4424,7 @@ friend_of	1
 Western_in	1
 impact_with	1
 arrival_of	1
+notion_of	1
 side_by	1
 directing_as	1
 number_of	1
@@ -4388,6 +4466,7 @@ trouble_between	1
 dialogue_in	1
 book_by	1
 adaptation_of	1
+expert_as	1
 weekend_during	1
 look_in	1
 fan_of	1
@@ -4402,8 +4481,9 @@ shame_that	2
 lead_of	1
 product_in	1
 upgrade_in	1
+time_out	1
 defense_of	1
-bravery_of	1
+review_of	1
 choice_for	1
 issue_with	1
 pair_of	1
@@ -4411,15 +4491,18 @@ mother_of	2
 slew_of	1
 Island_in	1
 overview_of	1
+experience_with	1
 husband_in	2
 form_as	1
 subject_of	1
 pressure_of	1
 tintype_of	1
+movie_till	1
 survivor_of	1
 spirit_of	1
 fame_as	1
 footage_in	1
+film_so	1
 print_of	1
 view_towards	1
 direction_from	1
@@ -4431,10 +4514,11 @@ point_of	2
 today_in	1
 side-line_in	1
 track_in	1
+3D_so	1
 kid_in	1
 treaty_with	1
 standard_of	1
-film_as	1
+part_of	1
 life_in	2
 frame_of	1
 deal_with	1
@@ -4452,15 +4536,18 @@ fall_for	1
 hurt_for	1
 story_for	2
 role_for	2
+career_with	1
 actor_with	1
 soliloquy_on	1
 treatment_of	2
 DVD_with	1
 attitude_towards	1
 role_in	1
+era_of	1
 something_about	1
 conflict_between	1
 couple_of	4
+movie_like	1
 ration_that	1
 must-have_for	1
 entry_into	1
@@ -4468,8 +4555,10 @@ none_of	1
 version_of	2
 space_at	1
 study_of	1
+run_though	1
 top_of	3
 dream_for	1
+Edition_with	1
 study_over	1
 amount_of	1
 sympathy_with	1
@@ -4478,34 +4567,39 @@ quality_if	1
 performance_of	1
 time_on	1
 television_in	1
+film_that	1
 comfort_of	1
-town_because	1
+combination_like	1
 image_in	1
 impression_on	1
+absence_of	1
 husband_from	1
 cavalry_in	1
 six-year-old_at	1
 interest_in	3
+documentary_with	1
 actor_from	1
 release_because	1
 scope_of	1
 study_for	1
 reason_that	1
 presentation_of	1
+realism_in	1
 package_for	1
 coincedence_that	1
-absence_of	1
 bit_like	1
 commentary_with	1
 fiction_that	1
 variety_of	1
 note_on	1
+blu-ray_because	1
 draw_at	1
 grandeur_of	2
 upgrade_from	1
 classic_among	1
 transfer_in	1
 shot_in	2
+Establishment_of	1
 estate_of	2
 son_from	2
 technology_of	1
@@ -4514,6 +4608,7 @@ time_in	1
 job_of	3
 film_in	2
 husband_so	1
+novel_in	1
 hero_of	1
 spearing_of	1
 company_of	1
@@ -4527,7 +4622,7 @@ classic_as	1
 personality_that	1
 3D_by	1
 movie_of	1
-review_of	1
+bravery_of	1
 ranch_for	1
 example_of	2
 bit_of	1
@@ -4548,6 +4643,7 @@ role_as	5
 imposition_of	1
 name_after	1
 person_of	1
+screen_in	1
 triangle_of	1
 southwest_during	1
 portrayal_as	1
@@ -4559,6 +4655,7 @@ Gift_of	1
 end_of	2
 difference_from	1
 proof_that	1
+attitude_into	1
 western_of	1
 time_for	2
 matinee_at	1
@@ -4572,7 +4669,7 @@ esteem_as	1
 honor_during	1
 triumph_over	1
 horse_after	1
-part_of	1
+film_as	1
 idea_if	1
 child_in	1
 act_of	1
@@ -4601,6 +4698,7 @@ thing_at	1
 ranch_with	1
 collection_of	2
 life_by	1
+engagement_so	1
 epic_of	1
 music_for	1
 view_of	2
@@ -4615,7 +4713,7 @@ quality_from	1
 scenery_throughout	1
 interest_of	1
 chemistry_between	1
-combination_like	1
+town_because	1
 marathon_of	1
 spite_of	1
 lot_of	4
@@ -4653,7 +4751,7 @@ and_that	2
 but_this	4
 but_all	1
 or_a	1
-and_The	1
+and_The	4
 both_the	1
 and_a	10
 yet_a	1
@@ -4674,55 +4772,75 @@ or_those	1
 but_each	1
 and_another	1
 NN_VBN
+film_directed	1
 time_flew	1
 advice_given	1
+score_credited	1
 feature_entitled	1
 man_hardened	1
-movie_released	1
+woman_played	1
 rider_named	1
 dog_used	1
+story_based	1
 dog_impaled	1
 screen_juxtaposed	1
 story_brought	1
 series_made	1
+film_made	1
+movie_released	1
 original_polarized	1
 podcast_called	1
 info_given	1
 man_manifested	1
 NNS_PRP
 editions_I	1
+movies_it	1
 extras_we	1
 glasses_you	1
 films_they	1
 films_I	2
-fans_I	1
 things_you	1
+fans_I	1
+cities_I	1
 ages_I	1
+films_it	1
 deserts_her	1
 NN_VBG
-job_portraying	1
-son_watching	1
-chief_wanting	1
-shot_being	1
-knife_coming	1
-period_fixing	1
-hero_redeeming	1
-fun_working	1
-fame_playing	1
 western_starring	1
-time_coming	1
-film_talking	1
+sequence_running	1
+period_fixing	1
 trouble_getting	1
+film_talking	1
+anyone_looking	1
+focus_alternating	1
+son_watching	1
+western_featuring	1
+fame_playing	1
 stranger_appearing	1
 Best_Supporting	1
-anyone_looking	1
+height_leading	1
+time_having	1
+knife_coming	1
+presentation_restoring	1
+shot_being	1
+job_portraying	1
+study_focusing	1
+hero_redeeming	1
+experience_including	1
+time_including	1
 version_expecting	1
+actor_appearing	1
+midair_expecting	1
+time_coming	1
+chief_wanting	1
+fun_working	1
 CC_WRB
 but_when	1
 and_how	2
 or_when	1
 and_when	2
 NN_VBD
+O'Clock_were	1
 service_was	1
 character_was	1
 movie_was	3
@@ -4737,10 +4855,14 @@ DVD_was	1
 Bond_portrayed	1
 letterbox_were	1
 production_had	1
+Wax_followed	1
 title_was	1
 night_came	1
+look_carried	1
 product_came	1
 version_looked	1
+wilderness_spotted	1
+y_added	1
 farmstead_inhabited	1
 husband_enjoyed	1
 portrayed-that_was	1
@@ -4750,6 +4872,7 @@ life_was	1
 hand_tended	1
 western_was	2
 dad_picked	1
+TV_appeared	1
 movie_did	1
 ending_was	1
 L'Amour_had	1
@@ -4771,7 +4894,7 @@ detail_missed	1
 WP_PRP
 what_I	2
 what_we	1
-what_they	1
+what_they	2
 what_you	2
 what_he	3
 NN_VBZ
@@ -4796,9 +4919,11 @@ direction_is	1
 wayne_is	1
 face_is	1
 death_is	1
+dog_is	1
 chief_takes	1
 film_resists	1
 cover_displays	1
+movie_tells	1
 edition_is	1
 western_shows	1
 case_includes	1
@@ -4811,7 +4936,7 @@ image_is	5
 DVD_has	2
 version_is	1
 fact_is	1
-realism_has	1
+husband_has	3
 film_suggests	1
 movie_has	2
 husband_is	1
@@ -4831,6 +4956,7 @@ trailer_is	1
 interaction_is	1
 film_has	1
 rest_looks	1
+brother_calls	1
 chief_brings	1
 fashion_refuses	1
 HONDO_is	5
@@ -4839,6 +4965,7 @@ picture_is	1
 proof_is	1
 dog_stands	1
 film_moves	1
+character_makes	1
 news_is	1
 work_is	1
 script_is	1
@@ -4849,6 +4976,7 @@ one_is	1
 one_tops	1
 framing_is	1
 horse_has	1
+land_decides	1
 movie_follows	1
 husband_leads	1
 adventure_is	1
@@ -4857,13 +4985,15 @@ lettering_hits	1
 track_is	1
 ranch_is	1
 film_is	6
+meantime_delivers	1
 photography_is	1
-husband_has	3
+realism_has	1
 picture_looks	2
 position_proves	1
 sidekick_is	1
-character_makes	1
+story_cuts	1
 effect_is	1
+hey_is	1
 IN_LS
 that_i	1
 RB_RB
@@ -4918,16 +5048,20 @@ so_often	1
 very_well	2
 VBD_IN
 stuck_with	1
+said_despite	1
+died_for	1
 related_on	1
 existed_in	1
 showed_in	1
 lived_with	1
+was_as	1
 released_as	1
 was_at	1
+expected_in	1
 followed_with	1
 was_in	1
 wrote_under	1
-appeared_on	1
+missed_as	1
 endured_at	1
 figured_if	1
 arrived_in	1
@@ -4935,6 +5069,7 @@ came_in	1
 vacationed_in	1
 made_for	1
 fell_in	1
+appeared_on	1
 believed_that	1
 put_on	1
 saw_with	1
@@ -4961,9 +5096,6 @@ film_seem	1
 Someone_please	1
 Movie_come	1
 cavalry_dispatch	2
-PRP$_''
-his_''	1
-his_'	1
 PRP_RB
 I_just	2
 me_just	1
@@ -5002,6 +5134,7 @@ I_first	1
 it_again	1
 he_specifically	1
 He_only	1
+they_as	1
 they_already	1
 VBG_.
 gambling_.	1
@@ -5022,61 +5155,19 @@ me_up	1
 her_up	1
 it_up	1
 it_down	1
-JJ_``
-crusty_`	1
-literary_``	1
-iconic_``	1
-original_``	1
-other_``	1
-disguised_``	1
-later_``	1
-modern_``	1
-early_`	1
-wonderful_``	1
-fabulous_``	1
-long-running_``	1
-many_``	1
-RB_VBZ
-also_saves	1
-before_is	1
-still_has	1
-then_attempts	1
-here_is	1
-first_shows	1
-really_hurts	1
-subsequently_has	1
-still_amazes	1
-certainly_lives	1
-still_remains	1
-probably_deserves	1
-nevertheless_makes	1
-really_impresses	1
-sometimes_scouts	1
-greatly_succeeds	1
-still_holds	1
-then_has	1
-also_means	1
-Also_shows	1
-majestically_reflects	1
-certainly_has	1
-also_appears	1
-even_includes	1
-soon_heads	1
-also_begins	1
-only_is	1
-eventually_kills	1
-alone_sets	1
-also_offers	1
-continually_lies	1
-clearly_states	1
-here_does	1
-closely_follows	1
-,_WP
-,_who	8
+NNPS_NNS
+Indians_movies	1
+NNPS_NNP
+Hawks_Hondo	2
+Searchers_Winchester	1
+Searchers_Rio	1
+VBG_WDT
+filming_which	1
 VBZ_VBG
 is_missing	2
 's_lying	1
 is_happening	2
+feels_missing	1
 is_running	1
 is_refreshing	1
 highlights_including	1
@@ -5090,6 +5181,7 @@ love-look_it	1
 find_it	2
 think_you	1
 suppose_it	1
+bother_her	1
 restore_it	1
 cast_him	1
 feed_me	1
@@ -5132,23 +5224,14 @@ kill_him	1
 take_me	1
 let_him	2
 get_them	1
-RB_VBP
-highly_recommend	2
-normally_do	1
-automatically_have	1
-actually_seem	1
-really_do	1
-ably_lend	1
-really_seem	1
-usually_occupy	1
-never_play	1
-already_have	1
-already_want	1
-already_own	1
-still_disagree	1
-never_lie	1
-desperately_need	1
-really_notice	1
+PRP_DT
+him_no	1
+him_a	2
+It_all	1
+itself_the	1
+me_this	1
+it_a	5
+me_the	1
 VBZ_VBN
 has_made	1
 is_loaded	1
@@ -5193,7 +5276,7 @@ CC_PRP$
 and_her	11
 &_her	2
 but_my	1
-and_his	3
+and_his	4
 and_their	6
 but_his	1
 DT_DT
@@ -5268,33 +5351,10 @@ artistically_captured	1
 Originally_shown	1
 twice_nominated	1
 originally_intended	1
-NN_''
-Thing_''	1
-Tin_''	1
-Actress_''	1
-y_''	1
-round-up_''	1
-realism_''	1
-City_''	1
-McQ_''	1
-Shootist_''	1
-downgrade_''	1
-O'Clock_''	1
-Dog_''	1
-Wax_''	1
-era_''	1
-Man_''	1
-Edition_''	1
-attitude_'	1
-method_''	1
-midair_'	1
-MOVIE_''	1
-Sky_''	1
-formula_''	1
-notion_''	1
-Rifleman_''	1
-frame_''	1
-earth_''	1
+VBP_WP
+mean_who	1
+believe_what	1
+Do_what	1
 RB_VBG
 meticulously_creating	1
 never_going	1
@@ -5351,6 +5411,7 @@ spear_that	1
 :-RRB-_For	1
 NNS_NN
 titles_sequence	1
+sets_directing	1
 impersonators_something	1
 chirstms_season	1
 CC_MD
@@ -5365,67 +5426,16 @@ compromised_story	1
 looked_nothing	1
 was_stage	1
 got_bit	1
-JJ_JJ
-several_historical	1
-weird_little	1
-unusual_3-D	1
-insolated_female	1
-6-years_old	1
-good_runaway	1
-lost_vertical	1
-scant_few	1
-excellent_previous	1
-washed-out_nostalgic	1
-many_phony	1
-wide_open	1
-occasional_co-star	1
-positive_social	1
-little_green	1
-several_savage	1
-red/blue_3-D	1
-first_3-D	1
-several_non-Wayne	1
-same_annoying	1
-mighty_impressive	1
-Many_other	1
-early_pleasant	1
-occasional_visual	1
-great_enterprising	1
-half-Indian_Cavalry	1
-good_Western	1
-first_big	1
-gorgeous_little	1
-cumbersome_dual	1
-personal_favorite	1
-only_discordant	1
-proper_widescreen	1
-therse_humble	1
-abrasive_solitary	1
-Western_much	1
-true_american	1
-lone_cavalry	1
-awful_red/blue	1
-fine_simple	1
-classic_Western	2
-traditional_American	1
-Native_American	3
-straigt_forward	1
-other_big	1
-disappointing_blu-ray	1
-unfortunate_3-D	1
-real_human	1
-stereoscopic_3-D	1
-bad_main	1
-wide_scenic	1
-original_3-D	1
-many_other	1
-original_stereoscopic	1
-young_courageous	1
-typical_Duke-ish	1
-personal_western	1
+NNPS_CD
+Berets_1968	1
+Streets_1953	1
+Leathernecks_1951	1
+Searchers_1956	2
+Eagles_1957	1
 NNP_TO
 Sam_to	1
 Mexico_to	1
+Rusty_to	1
 Wayne_to	2
 Lane_to	1
 Lowe_to	1
@@ -5450,33 +5460,19 @@ leads_to	2
 agrees_to	1
 proves_to	3
 gets_to	1
+NNPS_DT
+Searchers_The	1
+Indians_this	1
 POS_NNP
-'s_John	1
-'S_Hondo	1
 's_Blu-Ray	1
+'S_Hondo	1
+'s_Stock	1
+'s_Hondo	1
 '_Ward	1
+'s_Gunsmoke	1
+'s_John	1
+'_Shane	1
 's_Wayne	1
-,_IN
-,_by	2
-,_with	8
-,_in	8
-,_because	3
-,_though	1
-,_unlike	1
-,_between	1
-,_for	3
-,_if	1
-,_as	9
-,_despite	3
-,_so	5
-,_that	2
-,_like	1
-,_than	1
-,_till	1
-,_of	2
-,_during	1
-,_without	1
-,_out	1
 POS_NNS
 's_westerns	1
 's_legs	1
@@ -5491,13 +5487,9 @@ ones_who	1
 JJS_EX
 best_there	1
 least_there	1
-,_CD
-,_3	1
-,_one	4
-,_ten	1
-,_56	1
 VBG_CC
-missing_and	1
+lying_and	1
+missing_and	2
 looking_and	1
 coming_and	1
 being_and	1
@@ -5556,10 +5548,13 @@ performance_that	1
 ranch_that	1
 scenery_that	1
 dog_that	1
+process_which	1
 something_that	1
 approach_which	1
+story_which	1
 landscape_that	1
 dialogue_that	1
+battle_which	1
 father_which	1
 character_that	1
 VB_DT
@@ -5568,7 +5563,7 @@ notice_any	1
 be_an	1
 violate_a	1
 need_no	1
-say_the	1
+shoot_a	1
 get_some	1
 land_the	1
 rank_this	1
@@ -5595,20 +5590,21 @@ thank_the	1
 enjoy_this	1
 believe_a	1
 recommend_this	2
-capture_the	1
+see_the	1
 add_a	1
 get_an	1
 take_a	1
-shoot_a	1
+capture_the	1
 damage_the	1
-see_the	1
+say_the	2
 buy_this	3
 Watch_the	1
 Saw_this	1
-win_an	1
+put_a	1
 see_this	1
 realize_the	1
 complete_the	1
+win_an	1
 include_both	1
 outrun_the	1
 get_the	4
@@ -5642,8 +5638,6 @@ PDT_DT
 all_the	1
 such_an	1
 such_a	2
-PRP_``
-him_``	1
 VBZ_JJ
 is_perfect	3
 is_uninspired	1
@@ -5688,13 +5682,11 @@ is_true	2
 contains_classic	1
 is_beneficial	1
 is_well-cast	1
-''_DT
-''_The	1
 NN_TO
 price_to	1
 confession_to	1
 stranger_to	1
-disc_to	1
+off-camera_to	1
 figure_to	1
 joy_to	1
 side_to	1
@@ -5709,9 +5701,10 @@ husband_to	1
 face_to	1
 justice_to	1
 disliking_to	1
-ranch_to	1
+disc_to	1
 comparison_to	1
 security_to	1
+ranch_to	1
 inaccuracy_to	1
 Glad_to	1
 chance_to	1
@@ -5757,6 +5750,7 @@ those_in	1
 some_of	8
 PRP_IN
 them_although	1
+it_so	1
 it_for	5
 her_if	1
 you_like	1
@@ -5803,17 +5797,17 @@ less_distinguished	1
 more_talented	1
 more_observant	1
 more_eclectic	1
-JJS_,
-best_,	1
+WRB_MD
+how_could	1
+How_can	1
 NNPS_RB
+Searchers_then	1
 Apaches_never	1
 PRP_PRP$
 It_my	1
 NNP_FW
 Dolby_TrueHD	1
-PRP$_RBS
-my_most	1
-his_most	1
+Hope_etc.	1
 JJ_NNPS
 local_Apaches	1
 Native_Americans	1
@@ -5824,108 +5818,43 @@ who_sometimes	1
 who_only	1
 who_also	1
 what_really	1
-,_NN
-,_ho	1
-,_off-camera	1
-,_author	1
-,_3D	1
-,_kinderness	1
-,_crew	1
-,_none	1
-,_rider	1
-,_desert	1
-,_photo	1
-,_directing	1
-,_commentary	1
-,_something	1
-,_cowboy	1
-,_scenery	1
-,_rifle	1
-,_product	1
-,_plenty	2
-,_adventure	1
-,_mother	1
-,_scabbard	1
 NNP_RBR
 Cagney_more	1
 Fonda_more	1
 PRP$_RB
 Its_too	1
-WP_``
-what_``	1
+my_not	1
 FW_TO
 PROMISED_TO	1
-``_RB
-``_as	1
-CC_,
-and_,	2
-``_NNS
-`_90s	1
-``_Wings	1
-`_extras	1
-``_natives	1
-``_men	1
-``_Drums	1
 JJR_CC
 more_and	1
+faster_and	1
 tougher_and	1
-``_NNP
-``_High	2
-``_Young	1
-``_Melody	1
-``_Unforgiven	1
-``_Searchers	1
-``_McLintock	1
-``_Seven	2
-``_ET	1
-``_Rooster	1
-``_Sands	1
-``_Flying	1
-``_Rio	2
-``_THEY	1
-``_Fort	3
-``_Wonder	1
-``_Red	1
-``_Lassie	2
-``_Gunsmoke	3
-``_Wagon	2
-``_McClintock	1
-``_Duke	1
-``_Stagecoach	1
-``_Bronco	1
-``_A	1
-``_House	1
-``_Hondo	31
-``_El	2
-`_Good	1
-``_Rin-Tin-Tin	1
-``_Dances	1
-`_Bad	1
-`_Stock	1
-``_Cahill	2
-``_Shane	7
-``_Big	4
-`_Buffalo	1
 RB_DT
 likely_a	1
 Always_an	1
 Perhaps_the	1
 n't_the	1
+just_an	1
 just_a	1
 perhaps_this	1
-just_an	1
+However_these	1
 n't_any	1
 especially_the	1
+Overall_this	1
 almost_all	1
 quite_a	1
 Not_this	1
 primarily_a	1
 Only_the	1
 certainly_a	1
+then_no	1
 n't_all	1
 not_the	1
 even_a	2
 really_the	1
+Well_the	1
+Somehow_that	1
 basically_a	1
 not_all	2
 only_a	1
@@ -5939,6 +5868,7 @@ also_a	3
 aside_the	1
 Not_a	2
 Certainly_this	1
+mechanically_the	1
 almost_no	1
 often_the	1
 PRP$_JJS
@@ -5954,6 +5884,7 @@ pack_would	1
 pet-me-or-I_'ll	1
 film_will	1
 movie_could	1
+actor_would	1
 woman_should	1
 generation_will	1
 film_would	1
@@ -5967,38 +5898,6 @@ WRB_PRP$
 how_her	1
 CC_RBR
 and_more	2
-DT_``
-a_``	3
-the_``	6
-an_`	1
-The_``	1
-,_RB
-,_mainly	1
-,_well	1
-,_rather	1
-,_likely	1
-,_especially	1
-,_too	1
-,_instead	1
-,_efficiently	1
-,_even	4
-,_basically	1
-,_unfortunately	1
-,_particularly	1
-,_now	1
-,_not	3
-,_patiently	1
-,_however	1
-,_determinedly	1
-,_only	3
-,_beautifully	1
-,_meanwhile	1
-,_meticulously	1
-,_yet	1
-,_often	1
-,_as	2
-,_specially	1
-,_once	1
 CC_PRP
 And_she	1
 but_they	1
@@ -6020,18 +5919,11 @@ and_she	1
 &_they	1
 and_he	5
 But_we	1
-,_VBD
-,_learned	1
-,_spotted	1
-,_carried	1
-,_was	1
-,_vacationed	1
-,_appeared	1
 RB_VB
 n't_seem	1
 not_watch	1
 not_regret	1
-Also_look	1
+Also_look	2
 simply_put	1
 never_see	1
 n't_make	1
@@ -6044,6 +5936,7 @@ gladly_add	1
 n't_tell	1
 never_release	1
 highly_recommend	1
+not_bother	1
 not_stay	1
 n't_come	1
 only_be	1
@@ -6076,6 +5969,7 @@ either_end	1
 too_be	1
 n't_get	3
 not_satisfy	1
+Otherwise_seek	1
 not_be	1
 n't_hang	1
 not_disappoint	1
@@ -6087,16 +5981,15 @@ n't_see	1
 n't_afford	1
 finally_team	1
 n't_find	1
-''_JJ
-''_special	1
 VBN_PDT
 seen_all	1
 NNPS_IN
 Indians_as	2
 Americans_than	1
-Communists_in	1
 Searchers_in	1
+Apaches_so	1
 Sands_of	1
+Communists_in	1
 IN_IN
 along_at	1
 Because_of	1
@@ -6105,16 +5998,18 @@ from_amongst	1
 Despite_of	1
 along_with	3
 of_over	1
+As_for	1
+out_of	4
 so_that	1
-on_in	1
 out_on	1
 as_in	1
-out_of	4
+on_in	1
 Along_with	2
 as_if	1
 while_from	1
+for_Around	1
 from_under	1
-As_for	1
+that_by	1
 that_if	2
 in_that	1
 out_over	1
@@ -6122,21 +6017,20 @@ Out_of	1
 with_in	1
 because_of	1
 that_for	1
+Of_with	1
 that_from	1
 JJ_RB
 particular_quite	1
+grey_not	1
+violent_even	1
 good_now	1
 memorable_ever	1
 much_now	1
 nice_enough	1
-3-D_never	1
+grueling_yet	1
 special_otherwise	1
+3-D_never	1
 nice_as	1
-,_``
-,_`	1
-,_``	38
-NNS_``
-favorites_``	1
 VBZ_WP
 is_what	1
 VBG_PRP$
@@ -6146,25 +6040,6 @@ feeling_his	1
 loosing_his	1
 losing_their	1
 relearning_their	1
-,_VBG
-,_utilizing	1
-,_including	4
-,_alternating	1
-,_featuring	1
-,_running	1
-,_focusing	1
-,_being	1
-,_working	1
-,_hating	1
-,_expecting	1
-,_giving	1
-,_playing	2
-,_winning	1
-,_having	1
-,_restoring	1
-,_appearing	1
-,_offering	1
-,_leading	1
 NNS_.
 attackers_.	2
 Warners_.	1
@@ -6172,6 +6047,7 @@ characters_.	2
 50s_.	3
 roles_.	1
 features_.	2
+glasses_.	1
 settlers_.	1
 things_.	1
 braves_.	1
@@ -6193,7 +6069,7 @@ households_.	1
 shows_.	1
 details_.	1
 actors_.	1
-glasses_.	1
+natives_.	1
 classics_.	1
 movies_.	4
 apaches_.	1
@@ -6218,65 +6094,6 @@ materials_.	1
 exceptions_.	1
 shots_.	1
 americans_.	1
-,_VBN
-,_directed	1
-,_given	1
-,_made	1
-,_impressed	1
-,_granted	1
-,_blurred	1
-,_credited	1
-,_played	1
-,_based	3
-,_picked	1
-,_scripted	1
-NNS_,
-characters_,	1
-roles_,	1
-shoot-outs_,	1
-widescreen_,	1
-westerns_,	3
-spaces_,	1
-fans_,	1
-issues_,	1
-nuances_,	1
-mannerisms_,	1
-years_,	3
-commentaries_,	1
-sources_,	1
-times_,	1
-performances_,	3
-basics_,	1
-dilemmas_,	1
-shows_,	1
-cities_,	1
-uprisings_,	1
-scenes_,	1
-consequences_,	1
-90s_,	1
-titles_,	1
-characterizations_,	1
-movies_,	3
-films_,	4
-experts_,	1
-discrepancies_,	1
-interviews_,	1
-problems_,	1
-trailers_,	2
-extras_,	1
-adults_,	1
-compositions_,	1
-angles_,	1
-transfers_,	1
-settlers_,	2
-inaccuracies_,	1
-materials_,	1
-sets_,	1
-ways_,	1
-,_VBP
-,_altho	1
-,_do	1
-,_behave	1
 RBR_RB
 less_well	1
 more_sympathetically	1
@@ -6285,10 +6102,13 @@ suggested_Arness	1
 did_McLintock	1
 loved_Westerns	1
 was_Wayne	1
-was_Louis	1
-was_Marshall	1
 formed_Batjac	1
+was_Louis	1
+said_Hell	1
+was_Marshall	1
+made_Shane	1
 saw_Hondo	1
+were_Cahill	1
 balanced_Apache	1
 willed_Angie	1
 loved_Hondo	1
@@ -6306,32 +6126,19 @@ performances_...	1
 roles_--	1
 roles_-	1
 actors_-	1
+savages_--	1
 re-issues_...	1
 images_:	1
 ways_--	1
 scenes_-	1
-,_VBZ
-,_cuts	1
-,_bears	1
-,_explains	1
-,_has	1
-,_refuses	1
-,_chases	1
-,_becomes	1
-,_comes	1
-,_helps	1
-,_delivers	1
-,_stands	1
-,_likes	1
-,_decides	1
-,_calls	1
-,_tells	2
-,_is	9
 WRB_RB
 when_artistically	1
 when_only	1
+NNPS_PRP
+Searchers_one	1
 POS_DT
 's_all	1
+'s_That	1
 JJ_NNS
 main_players	1
 romantic_roles	1
@@ -6350,15 +6157,16 @@ humble_elements	1
 complex_portrayals	1
 other_reviewers	1
 few_sequences	1
-special_effects	1
+Great_performances	1
 Western_movies	2
 classic_films	1
 moral_dilemmas	1
 several_reviews	1
 several_scenes	1
 bad_ones	1
-memorable_devices	1
+special_features	3
 blu-ray_purchases	1
+savage_battles	1
 Many_books	1
 3-D_movies	1
 white_men	1
@@ -6377,8 +6185,8 @@ different_films	1
 white_people	2
 good_sources	1
 other_westerns	1
-special_features	3
-Great_performances	1
+memorable_devices	1
+new_westerns	1
 non-Wayne_films	1
 human_beings	1
 early_50s	1
@@ -6392,7 +6200,7 @@ year-old_shoots	1
 own_horses	1
 brief_bios	1
 terrific_performances	1
-savage_battles	1
+special_effects	1
 great_extras	1
 crappy_transfers	1
 scenic_shots	1
@@ -6424,6 +6232,8 @@ loud_kids	1
 strong_colors	1
 macho_roles	1
 good_performances	1
+early_90s	1
+classic_westerns	1
 many_people	1
 several_extras	1
 few_run-ins	1
@@ -6436,6 +6246,7 @@ multiple_featurettes	1
 few_times	1
 good_ones	1
 old_movies	1
+3-D_gimmicks	1
 native_americans	1
 good_guys	1
 many_scenes	1
@@ -6451,58 +6262,66 @@ other_characters	1
 adult_roles	1
 favorite_westerns	1
 own_lives	1
-VBG_RBS
-appearing_most	1
 DT_PRP$
 this_her	1
 JJ_NNP
 conservative_Wayne	1
 Action-packed_John	1
 few_Wayne	1
-half-breed_Apache	1
-violent_Apache	1
+non-John_Wayne	1
+handsome_Angie	1
+revealing_VERY	1
+half_Indian	1
 young_James	2
+original_Hondo	1
 fellow_Wayne	1
 steely-eyed_Hondo	1
 first_Duke	1
+long-running_Gunsmoke	1
 longtime_Wayne	1
 fine_Wayne	1
 ever-reliable_Ward	1
 low-key_Western	1
 usual_John	1
 great_Blu-Ray	1
+handsome_James	1
 true_John	1
 favorite_John	3
 good_Batjac	1
 young_Wayne	1
 wonderful_Leonard	1
+3-D_Hondo	2
 many_John	1
 luminous_Page	1
 classic_Western	1
+disguised_Lassie	1
 other_John	1
 huge_John	1
 apprehensive_Angie	1
 typical_John	1
+crusty_Buffalo	1
 rare_occasions.Hopefully	1
 great_Wayne	1
 usual_Amazon	1
 memorable_JOHN	1
+half-breed_Apache	1
 typical_L'Amour	1
 native_Apache	1
 historic_Chiricahua	1
 great_Western	1
 Sorry_Mr.	1
 classic_John	1
-half_Indian	1
+violent_Apache	1
 Oscar-nominated_Geraldine	1
-non-John_Wayne	1
+3-D_John	1
+talented_Jimmy	1
 various_Gunsmoke	1
 evil_Chirachaua	1
 co-star_Geraldine	1
 real_Wayne	1
 CD_IN
 one_at	1
-'82_on	1
+one_as	1
 one_by	1
 1953_before	1
 1940_among	1
@@ -6515,43 +6334,13 @@ one_on	1
 One_of	2
 1955_on	1
 one_of	33
-''_CD
-''_1957	2
-''_1955	1
-''_1944	1
-''_1945	1
-''_1946	1
-''_1968	1
-''_1966	2
-''_1948	3
-''_1963	1
-''_1960	1
-''_1952	5
-''_1942	1
-'_53	1
-''_1939	2
-''_1949	2
-''_1971	1
-''_1956	4
-''_1973	2
-''_1954	3
-''_1953	3
-''_1974	1
-''_1951	2
-''_1950	1
-''_1959	1
-''_1958	1
-''_CC
-'_and	1
-''_but	1
-''_and	6
-''_or	1
+'82_on	1
+JJ_SYM
+well-rounded_*	1
 IN_WP
 under_what	1
 from_what	1
 that_what	2
-RB_''
-ago_''	1
 JJR_VBZ
 better_is	1
 VBG_PRP
@@ -6565,6 +6354,7 @@ making_me	1
 punching_him	1
 renaming_him	1
 deceiving_them	1
+including_They	1
 trampling_you	1
 transferring_it	1
 doing_it	1
@@ -6608,21 +6398,28 @@ The_Searchers	10
 the_Comanches	1
 The_Indians	1
 NN_PRP
-time_it	1
+Heck_I	1
+fan_I	1
 film_itself	1
+earth_It	1
 way_it	1
+time_it	1
 image_we	1
+loaner_it	1
+part_she	1
 series_he	1
 information_we	1
 addendum_I	1
 star_himself	1
 time_I	1
 Movie_itself	1
-movie_I	2
+movie_I	4
 horse.as_he	1
+book_it	1
 desert_he	1
 opinion_it	1
 </a>_I	1
+screen_it	1
 novel_it	1
 transfer_I	1
 ratio_I	1
@@ -6632,17 +6429,23 @@ bug_me	1
 film_they	1
 scene_we	1
 time_she	1
+chance_you	1
+charisma_I	1
 book_he	1
 bonus_we	1
 work_she	1
 way_he	1
-fact_it	1
+fact_it	2
 attention_it	1
+book_I	1
 tape_I	1
+vista_they	1
 release_I	1
 fan_you	1
+role_he	1
 story_he	1
 story_I	1
+movie_you	1
 VB_PRP$
 remember_his	1
 save_their	1
@@ -6660,32 +6463,40 @@ reconsider_their	1
 make_his	1
 leav_their	1
 ._.
-!_.	1
+!_.	3
 ._.	3
-,_MD
-,_would	1
 JJ_DT
 accurate_a	1
 onscreen_the	1
 amazing_a	1
 bad_the	1
 hard-edged_a	1
+usual_the	1
 worth_the	3
 such_a	2
 RB_CC
-up_and	1
-nevertheless_and	1
-historically_or	1
-yet_and	1
-later_and	1
+sympathetically_and	1
+first_and	1
+else_but	1
 long_and	1
 ago_and	1
 ahead_and	1
-quickly_and	1
-well_and	1
-nowhere_and	1
+well_and	2
 soon_or	1
+once_and	1
+hopefully_and	1
+well_but	1
+out_And	1
+yet_and	1
+quickly_and	1
+nowhere_and	1
+historically_or	1
 off_and	1
+up_and	1
+thereafter_and	1
+nevertheless_and	1
+later_and	1
+bravely_and	1
 here_but	1
 MD_VB
 would_cast	1
@@ -6786,27 +6597,15 @@ be_enjoying	1
 quote_stretching	1
 VB_VBD
 Fix_was	1
-WRB_NNP
-when_Geronimo	1
-How_Hondo	1
-when_Hondo	2
-where_Amazon	1
-when_Maltin	1
-when_H.B.O.	1
-where_Honda	1
-when_Sam	1
+do_was	1
+RB_RBR
+much_less	1
+even_better	1
+much_more	1
+far_better	1
+even_longer	1
 WRB_NNS
 why_people	1
-,_DT
-,_this	7
-,_some	2
-,_these	2
-,_that	1
-,_another	1
-,_a	23
-,_the	28
-,_no	3
-,_The	3
 NNP_NNPS
 Green_Berets	1
 Howard_Hawks	2
@@ -6820,6 +6619,8 @@ rate_is	1
 VBZ_RBR
 is_less	1
 CD_PRP
+1948_She	1
+1939_They	1
 one_I	2
 CC_RB
 but_often	1
@@ -6829,6 +6630,7 @@ but_soon	1
 but_still	1
 and_little	1
 and_well	1
+and_unfortunately	1
 but_really	1
 or_tactically	1
 And_then	1
@@ -6851,10 +6653,6 @@ and_eventually	1
 and_not	1
 But_then	1
 and_again	1
-POS_``
-'s_``	3
-'s_`	1
-'_``	1
 VBZ_NN
 remains_today	1
 's_mine	1
@@ -6867,14 +6665,13 @@ lacks_power	1
 is_fun	2
 's_release	1
 likes_western	1
+chases_plenty	1
 opens_hondo	1
 has_everything	1
 is_part	1
 's_time	1
 knows_something	1
 does_stress	1
-UH_,
-Yes_,	1
 TO_JJ
 to_many	3
 to_wise	1
@@ -6897,6 +6694,7 @@ are_the	2
 have_the	1
 roam_the	1
 'm_no	1
+think_The	1
 show_the	1
 play_this	1
 recommend_this	1
@@ -6935,8 +6733,10 @@ really_ca	1
 just_ca	1
 UH_:
 Okay_...	1
-,_WDT
-,_which	7
+NNS_POS
+people_'s	1
+hands_'	1
+filmmakers_'	1
 POS_NNPS
 's_Apaches	1
 JJS_NNP
@@ -6977,190 +6777,27 @@ two_later	1
 two_very	1
 one_well	1
 1924-1987_as	1
-._''
-._'	1
-?_''	1
-!_''	4
-._''	11
+POS_JJS
+'s_biggest	1
+'s_most	2
+'s_best	8
 NNPS_WP
+Searchers_who	1
 Apaches_who	3
 NNP_JJ
-Wayne_psychological	1
-Wayne_favorite	1
 Taeger_short-lived	1
-Wayne_western	1
+Hondo_special	1
 Aaker_rusty	1
-NN_,
-level_,	1
-run-of-the-mill_,	1
-wife_,	3
-kissing_,	1
-rider_,	1
-presentation_,	1
-writing_,	1
-wilderness_,	1
-film_,	9
-son_,	2
-TV_,	2
-cinematography_,	1
-loaner_,	1
-addition_,	1
-height_,	1
-reduction_,	1
-video_,	1
-sequence_,	2
-wagon_,	1
-chief_,	2
-life_,	3
-cheesy_,	1
-quality_,	1
-Edition_,	1
-screen_,	3
-dog_,	3
-bar_,	1
-future_,	1
-sympathy_,	1
-era_,	1
-posturing_,	1
-Heck_,	1
-fan_,	4
-expert_,	1
-death_,	1
-actor_,	3
-classic_,	1
-figure_,	1
-attribute_,	1
-chemistry_,	1
-pace_,	1
-entertainment_,	1
-boy_,	3
-meantime_,	2
-book_,	2
-gallery_,	1
-romance_,	2
-industry_,	1
-off-camera_,	1
-story_,	4
-bat_,	1
-western_,	3
-acting_,	1
-presence_,	1
-treaty_,	2
-genre_,	1
-philosophy_,	1
-experience_,	2
-focus_,	1
-lead_,	1
-picture_,	2
-glance_,	1
-play_,	1
-place_,	1
-hand_,	2
-debut_,	2
-resolution_,	1
-stranger_,	1
-study_,	1
-hit_,	1
-cinema_,	1
-liar_,	1
-engagement_,	1
-movie_,	13
-coloring_,	1
-fight_,	1
-chance_,	1
-release_,	2
-vista_,	1
-hey_,	1
-end_,	3
-audio_,	1
-Scenery_,	1
-score_,	1
-Establishment_,	1
-actress_,	1
-dad_,	1
-novel_,	1
-commentary_,	1
-part_,	2
-format_,	1
-power_,	1
-process_,	1
-star_,	1
-fact_,	3
-thief_,	1
-homesteader_,	1
-vision_,	1
-hair_,	1
-war_,	1
-suspense_,	1
-dialog_,	1
-woman_,	3
-documentary_,	1
-anything_,	1
-collection_,	1
-career_,	1
-work_,	1
-deal_,	1
-director_,	1
-difference_,	1
-cast_,	2
-run_,	1
-scenery_,	1
-information_,	1
-feature_,	1
-role_,	3
-opinion_,	1
-action_,	2
-desert_,	1
-widescreen_,	1
-style_,	1
-directing_,	1
-look_,	1
-camera_,	1
-yeah_,	1
-way_,	1
-course_,	2
-lane_,	1
-charisma_,	1
-bodyguard_,	1
-brother_,	1
-blu-ray_,	1
-character_,	3
-land_,	1
-result_,	2
-husband_,	2
-year_,	1
-screw-up_,	1
-list_,	1
-point_,	1
-cavalry_,	1
-battle_,	1
-3D_,	2
-home_,	1
-love_,	2
-time_,	5
-case_,	1
-system_,	1
-``_NN
-``_y	1
-``_Best	1
-``_lie	1
-``_Rin	1
-``_wagon	1
-`_attitude	1
-``_Corporal	1
-``_Dog	1
-``_McQ	1
-`_midair	1
-``_Witch	1
-``_Support	1
-``_realism	1
-``_movie	1
-``_downgrade	1
-``_LIFE	1
-``_notion	1
-``_formula	1
-``_slaughter	1
-``_Island	1
+Wayne_favorite	1
+Wayne_western	1
+Page_deserving	1
+Wayne_psychological	1
+Hondo_straigt	1
+TO_CD
+to_one	2
+to_1	1
+to_7-11	1
+to_1975	1
 NN_.
 level_.	1
 father_.	1
@@ -7338,16 +6975,20 @@ subplot_.	1
 time_.	9
 3D_!	1
 scout_.	1
-POS_''
-'s_''	1
 NNP_VBG
 Johnny_renaming	1
+Arness_appearing	1
+Pate_playing	1
+Lassie_playing	1
 Page_earning	1
 Hondo_being	1
 Hondo_walking	1
-Arness_appearing	1
+Farrow_working	1
+Bond_playing	1
 Wayne_walking	1
+Oscar_winning	1
 Hondo_starring	1
+Mexico_utilizing	1
 WDT_VBZ
 that_prompts	1
 that_makes	2
@@ -7366,8 +7007,6 @@ that_features	1
 that_'s	1
 that_enhances	1
 which_does	1
-POS_,
-'_,	1
 JJR_TO
 more_to	2
 harder_to	1
@@ -7376,35 +7015,8 @@ that_attack	1
 that_result	1
 that_are	1
 which_create	1
-''_VBD
-''_were	1
-''_was	8
-''_thought	1
-''_added	1
-''_followed	1
-''_VBG
-''_looking	1
-''_playing	1
 PRP$_JJR
 his_more	1
-''_VBZ
-''_is	10
-''_shows	1
-''_gives	1
-''_deserves	1
-'_is	2
-''_tends	1
-''_opens	1
-''_has	2
-''_NN
-''_lead	1
-'_look	1
-''_director	1
-'_dog	1
-''_documentary	1
-''_fame	1
-''_philosophy	1
-''_western	1
 VBP_VB
 do_understand	1
 please_tell	1
@@ -7418,9 +7030,10 @@ PRP_CC
 it_and	4
 you_and	1
 him_and	2
-them_but	1
+me_but	1
+them_but	2
 her_&	1
-her_and	2
+her_and	3
 them_and	2
 WDT_VBD
 that_was	2
@@ -7432,10 +7045,7 @@ that_were	3
 that_did	1
 PRP_CD
 it_two	1
-RP_JJ
-up_wrong	1
-up_right	1
-up_next	1
+him_ten	1
 VBG_RB
 walking_slowly	1
 getting_away	1
@@ -7448,9 +7058,6 @@ Setting_aside	1
 FW_JJ
 Hondo_Blu-ray	1
 In_short	2
-DT_,
-that_,	3
-this_,	1
 DT_.
 both_.	1
 this_.	2
@@ -7471,8 +7078,10 @@ this_...	1
 DT_WDT
 That_which	1
 NNS_NNS
-americans/plains_indians	1
+interviews_trailers	1
+trailers_commentaries	1
 men_men	1
+americans/plains_indians	1
 RB_JJ
 pleasantly_surprise	1
 not_impressive	1
@@ -7575,20 +7184,19 @@ so_much	1
 very_documented	1
 very_close	1
 very_soft	1
-WRB_,
-when_,	1
-VB_``
-recommend_``	1
-be_``	2
 NNPS_POS
 Indians_'	1
 CD_DT
-1934-2003_The	1
 1953_the	1
+1952_The	1
+1934-2003_The	1
+1963_The	1
+1954_The	1
 one_another	1
+1948_The	1
 1956_the	1
 NNPS_.
-Searchers_.	1
+Searchers_.	2
 Apaches_.	7
 TO_NNP
 to_Angie	1
@@ -7602,9 +7210,6 @@ to_Geraldine	1
 to_Emil	1
 to_Louis	1
 to_Lane	1
-WRB_MD
-how_could	1
-How_can	1
 TO_NNS
 to_expectations	1
 to_problems	2
@@ -7612,6 +7217,7 @@ to_basics	1
 to_opticals	1
 VBG_DT
 creating_a	1
+including_The	1
 having_some	1
 hearing_the	1
 being_the	1
@@ -7642,29 +7248,41 @@ awaiting_the	1
 telling_a	1
 giving_the	1
 RB_PRP
+unfortunately_they	1
+someday_it	1
 together_they	1
 So_I	1
-later_he	1
-here_they	1
-soon_he	1
+Then_I	1
+However_it	1
+Unfortunately_they	1
+Yes_it	1
 yes_I	1
-Maybe_I	1
-maybe_it	1
-now_it	1
 so_I	1
 really_you	1
 Hence_he	1
-Then_I	1
+Maybe_I	1
+Eventually_it	1
+here_they	1
+Frankly_it	1
+soon_he	1
+However_I	1
+not_I	1
+later_he	1
+ago_I	1
+now_it	1
+Still_he	1
+maybe_it	1
 JJS_VBG
 most_going	1
 VBZ_PRP
 kills_him	1
+tells_her	1
 makes_it	1
 warns_her	3
 leaves_he	1
 Impresses_me	1
 calls_him	1
-tells_her	1
+grows_they	1
 finds_himself	1
 impresses_me	1
 finds_herself	1
@@ -7718,36 +7336,21 @@ sure_why	1
 NN_RBR
 lot_less	1
 movie_more	1
-RB_NNS
-just_performances	1
-``_JJ
-``_Special	1
-``_classic	1
-``_Western	1
-``_racist	1
-``_noble	1
-``_full	1
-`_natural	1
-``_typical	1
-``_Atomic	1
-``_Indian	1
-``_handsome	1
-``_half-Indian	1
-`_extra	1
-``_golden	1
-``_homely	1
-``_new	1
-VB_''
-bother_''	1
-look_'	1
-do_''	2
+NNS_WRB
+years_when	1
+NN_EX
+addition_there	1
+PRP$_RBS
+my_most	1
+his_most	1
 NNP_IN
 DAYS_about	1
 Akers_of	1
-</a>_for	1
+Ford_as	1
 Lowe_after	1
 Edwards_in	1
 Wonder_at	1
+Tracy_in	1
 Devil_in	1
 Cavalry_in	1
 Farrow_for	1
@@ -7758,7 +7361,7 @@ Duke_like	1
 Wayne_as	3
 3D_at	1
 Men_From	1
-Wayne_in	1
+Wayne_in	2
 Island_in	1
 Wayne_at	1
 Dean_on	1
@@ -7767,28 +7370,36 @@ Page_as	1
 Dillon_in	1
 USC_with	1
 Hondo_at	1
+Farrow_with	2
 Lowe_in	1
 Devil_at	1
 Hondo_as	1
 Mexico_in	1
-Farrow_with	1
+Aaker_during	1
+West_unlike	1
+Track_that	1
 Wayne_though	1
+Shane_with	1
+Kind_of	1
 Indian_in	1
 Aaker_through	1
 Appart_from	1
 Angie_that	1
-Duke_in	1
+Duke_in	2
 Batjac_in	1
-Track_that	1
-Aaker_during	1
+Wayne_during	1
+Hunt_for	1
+</a>_for	1
 Show_on	1
+Master_in	1
 Western_that	1
 Marshall_in	1
 Rusty_from	1
 Bond_as	3
 Hondo_that	3
 Dillon_on	1
-Hondo_in	1
+Gunsmoke_from	1
+Hondo_in	2
 Sands_of	1
 Oscar_for	1
 World_in	1
@@ -7798,31 +7409,25 @@ Shane_that	1
 Sons_of	1
 WRONG_about	1
 Lane_about	1
+Hondo_with	1
 Jane_from	1
 Hondo_by	1
 Wayne_with	1
 Page_in	1
 Western_for	1
+Cochise_by	1
 Theatre_in	1
 Apache_in	1
 Edwards_of	1
 Grant_from	1
-Kind_of	1
+Hatari_for	1
+Ford_between	1
 Hepburn_for	1
-,_SYM
-,_*	1
-FW_,
-etc._,	1
-,_TO
-,_to	3
+RB_NNS
+here_assays	1
+just_performances	1
 FW_.
 WOW_!	1
-JJS_VBN
-least_portrayed	1
-VBZ_``
-tops_``	1
-feels_`	1
-is_``	1
 IN_VBG
 of_making	1
 than_cutting	1
@@ -7856,22 +7461,15 @@ for_working	1
 of_capturing	1
 IN_VBD
 than_did	1
-``_CD
-``_3	1
-PRP_''
-they_''	1
-,_PRP
-,_he	3
-,_they	5
-,_himself	1
-,_you	5
-,_it	12
-,_I	15
-,_she	1
+VBN_WRB
+treated_when	1
+VBG_RBS
+appearing_most	1
 CC_JJR
 or_better	1
 and_more	1
 IN_VBN
+like_Cast	1
 of_reminded	1
 as_intended	1
 as_shown	1
@@ -7879,35 +7477,20 @@ for_blurred	1
 as_evidenced	1
 for_extended	1
 Although_delivered	1
-``_VBN
-``_Cast	1
 PRP$_NNP
 his_Lee	1
 my_John	1
 My_Darling	1
 her_Oscar	1
 Your_Local	1
-:_NNP
--_Honda	1
-;_Lee	1
-:_SPECIAL	1
-..._PLEASE	1
-..._AND	1
--_Tom	1
-..._Wayne	1
-;_Hondo	1
-..._Lane	2
-:_Stagecoach	1
---_Hondo	1
-,_RBR
-,_more	1
-VBG_,
-lying_,	1
-filming_,	1
+VBG_WRB
+telling_where	1
+considering_when	1
 JJ_CC
 airy_and	1
+excellent_and	1
 bad_but	1
-blurry_and	1
+amazing_and	1
 bright_and	1
 alive_and	1
 same_and	1
@@ -7915,34 +7498,46 @@ suberb_and	1
 tough_yet	1
 awkward_and	1
 right_or	1
+good_versus	1
 Last_but	1
 good_or	2
 sharp_and	1
 spare_but	1
+perfect_but	1
 exciting_and	2
 mature_and	1
-clean_and	1
+blurry_and	1
 straight_but	1
 busy_and	1
 unforgivable_and	1
+OK_but	1
 wonderful_and	2
 forward_&	1
+clean_and	1
 small_but	1
 forthright_and	1
 green_and	1
+other_and	1
 crazy_and	1
+memorable_and	1
 little_or	1
-good_versus	1
-unswerving_but	1
+welcome_but	1
+many_but	1
 great_but	1
 strong_and	1
+typical_or	1
+interesting_but	1
 human_and	1
-entertaining_and	1
+contrived_yet	1
+entertaining_and	2
+possible_but	1
 3-D_but	1
+great_and	1
 well-meaning_but	1
 honorable_and	1
 top_and	1
 fast-paced_and	1
+unswerving_but	1
 PDT_PRP$
 all_his	1
 VBN_RBR
@@ -7952,6 +7547,8 @@ though_does	1
 with_highlights	1
 JJ_CD
 superior_2.0	1
+Expendable_1944	1
+Expendable_1945	1
 top_ten	1
 bad_one	1
 standard_1.33	1
@@ -7959,33 +7556,6 @@ early_90	1
 great_one	2
 only_two	1
 only_one	1
-CD_,
-63_,	1
-1961_,	1
-1944_,	1
-1954_,	2
-one_,	1
-1955_,	1
-1949_,	1
-1966_,	1
-1952_,	5
-six_,	1
-1946_,	1
-1963_,	1
-1939_,	2
-1922-2000_,	1
-1.37:1_,	1
-1903-1960_,	1
-1971_,	1
-1968_,	1
-1973_,	1
-1956_,	1
-1953_,	1
-1948_,	3
-1950_,	1
-1945_,	1
-1957_,	1
-73_,	1
 CD_.
 1951_.	2
 1920-1974_.	1
@@ -8011,8 +7581,6 @@ when_compared	1
 when_released	1
 POS_PRP$
 's_your	1
-TO_PDT
-to_such	1
 WRB_VBD
 when_asked	1
 WRB_VBG
@@ -8023,12 +7591,15 @@ Where_is	1
 Why_is	1
 NNP_WP
 Indian_who	1
-Hondo_who	2
+Hondo_who	3
+Maltin_who	1
 Lane_who	2
 Hardin_who	1
-Maltin_who	1
-Angie_what	1
 Wayne_who	2
+Sam_who	1
+Page_who	1
+Angie_what	1
+Lowe_who	1
 Lamour_who	1
 CD_:
 1920_-	1
@@ -8090,34 +7661,36 @@ POS_NN
 's_spirit	1
 's_philosophy	1
 's_movie	1
-''_JJS
-''_best	1
 TO_NN
 to_TV	1
 to_3D	1
+to_downgrade	1
 to_boot	2
 to_tv	1
 to_anyone	1
 to_death	1
+to_life	1
 to_history	1
 to_DVD	1
-to_life	1
+to_LIFE	1
 IN_FW
 by_Apache	1
 in_1.78:1	1
 though_i	1
 CD_NNS
+1956_Wings	1
 56_years	1
 5_years	1
 22_years	1
 25_films	1
 3_lies	1
+1939_Drums	1
 84_minutes	1
 one_suspects	1
 20_years	1
 Thirty_years	1
 50_years	1
-ten_years	1
+50_films	1
 2_screens	1
 three_years	1
 300_shows	1
@@ -8130,21 +7703,31 @@ three_minutes	1
 four_films	1
 twenty-plus_years	1
 84_mins	1
-50_films	1
+ten_years	1
 two_exceptions	1
 80_Days	1
 CD_NNP
+1949_Rio	1
+1903-1960_Michael	1
+1944_Fort	1
+1953_High	1
+1953_Hondo	1
+1973_Big	1
+1955_El	1
+1971_McClintock	1
+1945_Fort	1
+1952_High	1
 I_CAN	1
 100_AFI	1
 2.0_Dolby	1
-1953_Hondo	1
 VBN_RB
 forgotten_much	1
+shipped_quickly	1
 based_almost	1
 been_actively	1
 retained_as	1
 lasted_even	1
-shipped_quickly	1
+acted_patiently	1
 treated_well	1
 restored_beautifully	1
 deemed_so	1
@@ -8158,6 +7741,7 @@ given_here	1
 delivered_somewhat	1
 treated_respectfully	1
 seen_before	1
+treated_even	1
 NNP_NN
 Wayne_vehicle	1
 Apache_tongue	1
@@ -8168,9 +7752,9 @@ Blu-Ray_edition	1
 Gunsmoke_TV	1
 Oscar_nomination	4
 Cable_TV	1
-Wayne_scribe	1
+US_government	2
 White_Establishment	1
-Wayne_message	1
+Duke_fan	1
 Blu-Ray_release	3
 Wayne_classic	1
 Batjac_production	1
@@ -8180,11 +7764,12 @@ Wayne_marathon	1
 U.S._cavalry	1
 Farrow_father	1
 Dukes_son	1
-Duke_fan	1
+Hondo_director	1
+Maltin_commentary	1
 Wayne_fan	9
-Apache_leader	2
 L'Amour_fan	1
 Apache_warrior	1
+Wayne_scribe	1
 Apache_war	2
 Wayne_film	2
 Apache_way	3
@@ -8192,10 +7777,13 @@ Apache_uprising	1
 Wayne_movie	7
 Wayne_list	1
 L'Amour_story	3
+Rin-Tin-Tin_fame	1
 Lane_character	1
 L'Amour_western	2
+Hoffman_author	1
 Hell_yeah	1
 Batjac_film	1
+Wayne_message	1
 Mexico_landscape	1
 VHS_release	1
 VHS_tape	2
@@ -8203,12 +7791,12 @@ Apache_wife	1
 Bob_leray	1
 L'Amour_novel	4
 Mexican_farmwoman	1
-Mexico_desert	1
+Mexico_desert	2
 Aaker_experience	1
 Apache_chief	6
 Wish_today	1
 Wayne_attribute	1
-US_government	2
+Apache_leader	2
 Wayne_western	2
 Apache_overview	1
 Oscar_G.Page	1
@@ -8259,7 +7847,7 @@ stays_very	1
 is_far	1
 is_exceptionally	2
 is_perfectly	1
-is_as	1
+is_as	2
 is_justifiably	1
 is_just	2
 is_n't	7
@@ -8300,6 +7888,8 @@ shows_almost	1
 's_just	1
 is_best	2
 is_truely	1
+NNP_EX
+Blu-Ray_there	1
 VBN_RP
 been_around	1
 given_out	1
@@ -8336,18 +7926,45 @@ people_will	1
 apaches_will	1
 movies_would	1
 films_should	1
-NNP_``
-Columbia_``	1
-Army_``	1
-Bob_``	1
-Wayne_``	1
-Acosta_``	1
-,_JJR
-,_faster	1
-,_MORE	1
-,_longer	1
-TO_RB
-to_long	1
+FW_VBP
+i_have	1
+RB_VBZ
+also_saves	1
+before_is	1
+still_has	1
+then_attempts	1
+here_is	1
+first_shows	1
+really_hurts	1
+subsequently_has	1
+still_amazes	1
+certainly_lives	1
+still_remains	1
+probably_deserves	1
+Also_is	1
+nevertheless_makes	1
+really_impresses	1
+sometimes_scouts	1
+greatly_succeeds	1
+still_holds	1
+then_has	1
+also_means	1
+Also_shows	1
+majestically_reflects	1
+certainly_has	1
+meanwhile_is	1
+also_appears	1
+even_includes	1
+soon_heads	1
+also_begins	1
+only_is	1
+eventually_kills	1
+alone_sets	1
+also_offers	1
+continually_lies	1
+clearly_states	1
+here_does	1
+closely_follows	1
 RBR_IN
 longer_than	1
 better_than	1
@@ -8415,6 +8032,7 @@ a_one	1
 DT_CC
 this_but	1
 all_and	1
+that_but	1
 any_and	1
 RP_DT
 away_the	1
@@ -8423,6 +8041,7 @@ VBP_RB
 're_not	1
 are_clearly	1
 're_just	1
+need_even	1
 are_gradually	1
 come_highly	1
 are_really	1
@@ -8454,86 +8073,9 @@ have_already	1
 are_quite	1
 have_n't	3
 'm_not	2
-VBG_``
-playing_``	1
-including_``	3
-''_NNP
-''_Angie	1
-''_Hell	1
-''_NNS
-''_movies	1
-''_years	1
-''_westerns	2
-''_items	1
-'_gimmicks	1
-''_fans	1
-''_booms	1
-''_performances	1
-NNP_,
-Bond_,	9
-Crowe_,	1
-West_,	1
-Angie_,	3
-Grande_,	1
-Pate_,	5
-Alamo_,	1
-Boetticher_,	1
-Hanks_,	1
-Mexico_,	2
-Newman_,	1
-Lowe_,	7
-Page_,	7
-Mitchum_,	1
-Johnny_,	2
-Maltin_,	2
-PROMISES_,	1
-City_,	1
-Neeson_,	1
-Lennie_,	1
-Vallance_,	1
-Chihuahua_,	1
-Arness_,	3
-Man_,	1
-Widescreen_,	1
-Australia_,	1
-Vittorio_,	5
-Sam_,	3
-Bravo_,	1
-Wayne_,	11
-Angry_,	1
-Camargo_,	3
-Indian_,	1
-Jima_,	1
-Blu-Ray_,	2
-Valance_,	1
-McLintock_,	1
-Apache_,	2
-Stagecoach_,	1
-Lane_,	6
-Hondo_,	8
-Hope_,	1
-L'amour_,	1
-Tracy_,	1
-Johnnie_,	1
-Grant_,	2
-Blue-Ray_,	1
-Warrior_,	1
-Shane_,	1
-Chief_,	1
-Westerns_,	1
-Army_,	2
-Friedhofer_,	1
-River_,	1
-Batjac_,	1
-Hoffman_,	1
-Hatari_,	1
-Baker_,	2
-Ford_,	3
-Greenville_,	1
-Farrow_,	3
-Edwards_,	1
-Oscar_,	1
-L'Amour_,	1
+JJ_VBZ
+honest_tells	1
+next_explains	1
 CD_JJ
 two_other	1
 six_year-old	2
@@ -8541,6 +8083,7 @@ One_interesting	1
 one_great	1
 two_Indian	1
 1953_3-D	1
+1952_Atomic	1
 NNP_.
 Cavalry_.	1
 West_.	2
@@ -8554,6 +8097,7 @@ Page_.	3
 Lowe_.	2
 Maltin_.	1
 Johnny_.	1
+Cogburn_.	1
 Aaker_.	2
 River_.	1
 Arness_.	3
@@ -8573,18 +8117,21 @@ Professor_.	1
 Indian_.	1
 McLintock_!	1
 Apache_.	1
+Ti_.	1
+Duke_!	1
 Christmas_.	1
 Lane_.	1
 Aker_.	1
-Hondo_.	7
+Hondo_.	8
 Grit_.	1
 Hondo_!	1
-Gunsmoke_.	1
-Shane_.	1
+Gunsmoke_.	2
+Shane_.	3
 Grant_.	2
 Taeger_.	1
 Russell_.	1
 Paramount_.	1
+Bad_.	1
 Ford_.	2
 Strasberg_.	1
 Gordon_.	1
@@ -8594,13 +8141,16 @@ SC_.	1
 IT_.	1
 Arizona_.	1
 L'Amour_.	2
+JJ_VBP
+independent_do	1
 FW_NN
 doubtless_hurt	1
 1880s_desert	1
 TrueHD_track	1
 mono_track	1
-NNP_WRB
-Hondo_when	1
+JJ_VBN
+3-D_started	1
+general_given	1
 POS_CD
 's_1953	1
 '_73	1
@@ -8612,8 +8162,9 @@ being_razor	1
 Supporting_Actress	1
 hating_man	1
 happening_today	1
-leading_lady	1
 riding_sequence	1
+leading_lady	1
+playing_Dog	1
 shoehorning_everything	1
 cropping_material	1
 bringing_conflict	1
@@ -8622,26 +8173,37 @@ being_something	1
 working_relationship	1
 leading_light	1
 JJ_VBG
+homely_looking	1
 dangerous_riding	1
-next_being	1
+spectacular_offering	1
+distinguished_being	1
 worth_seeing	1
+wonderful_Making	1
+enraged_hating	1
+next_being	1
 first_starring	1
 pleasant_looking	1
 worth_collecting	1
+fabulous_Making	1
 worth_seeking	1
 latter_being	1
 comfortable_working	1
 NNP_:
 Bond_...	1
 Hondo_:	1
-Hondo_...	1
+Hondo_...	2
+Jake_;	1
 Nicholson_-	1
+Layne_...	1
+Dorado_...	1
 Bond_;	1
+Elder_...	1
 Territory_...	1
 WOW_...	1
 Aaker_;	1
 Aaker_...	1
 Hondo_-	2
+Valance_...	1
 Scott_:	1
 LAND_...	1
 Ford_...	1
@@ -8649,33 +8211,41 @@ JJ_VBD
 3-D_was	1
 3-D_did	1
 3-D_faded	1
-PRP_DT
-It_all	1
-it_a	5
-me_the	1
-me_this	1
-him_a	2
-:_,
--_,	2
+RB_VBP
+highly_recommend	2
+normally_do	1
+automatically_have	1
+actually_seem	1
+really_do	1
+ably_lend	1
+really_seem	1
+usually_occupy	1
+never_play	1
+before_altho	1
+already_have	1
+already_want	1
+already_own	1
+still_disagree	1
+never_lie	1
+desperately_need	1
+really_notice	1
+TO_RB
+to_long	1
 JJ_PRP$
 sure_our	1
 worth_your	1
+handsome_his	1
 VBZ_.
+means_.	1
+regards_.	1
+takes_.	1
+gets_.	1
 deserves_.	1
 directs_.	1
-means_.	1
-takes_.	1
-regards_.	1
-VBZ_,
-grows_,	1
-teaches_,	1
-leaves_,	1
-debuts_,	1
-chases_,	1
-is_,	4
 RB_NN
 then_widow	1
 only_collection	1
+along_off-camera	1
 westward_expansion	1
 sometime_scout	1
 even_today	1
@@ -8690,61 +8260,88 @@ transfers_to	1
 studios_to	1
 cameras_to	1
 looks_to	1
+wagons_to	1
 consents_to	1
-VBP_``
-think_``	1
-VBD_''
-said_''	1
-VBZ_IN
-scouts_for	1
-is_on	1
-moves_along	1
-opens_on	1
-sees_through	1
-happens_on	1
-stops_at	1
-reveals_that	1
-is_at	2
-travels_with	1
-culminates_in	1
-is_for	1
-shows_that	1
-stands_above	1
-is_in	7
-is_from	1
-unfolds_in	1
-insists_that	1
-runs_into	2
-stands_as	1
-knows_that	1
-comes_at	1
-says_in	1
-wanders_into	1
-claims_in	1
-explains_that	2
-lives_with	1
-lies_about	1
-walks_in	1
-calls_for	1
-stays_for	1
-is_up	1
-ranks_among	1
-results_in	1
-appears_as	1
-stumbles_upon	1
-tells_of	1
-'s_about	1
-knows_about	1
-appears_in	2
-has_that	1
-forages_for	1
-puts_in	1
-looks_like	1
-is_that	3
-says_that	2
-moves_at	1
-stays_around	1
-comes_upon	1
+JJ_JJ
+several_historical	1
+weird_little	1
+unusual_3-D	1
+insolated_female	1
+washed-out_nostalgic	1
+right_good	1
+cumbersome_dual	1
+good_runaway	1
+lost_vertical	1
+scant_few	1
+many_other	1
+long_long	1
+straigt_forward	1
+many_phony	1
+hot_dusty	1
+real_human	1
+occasional_co-star	1
+positive_social	1
+little_green	1
+several_savage	1
+short_curly	1
+red/blue_3-D	1
+first_3-D	1
+several_non-Wayne	1
+same_annoying	1
+mighty_impressive	1
+Many_other	1
+early_pleasant	1
+occasional_visual	1
+odd_mid-period	1
+original_3-D	1
+good_old-fashioned	1
+bearded_crusty	1
+direct_forthright	1
+bad_main	1
+first_big	1
+gorgeous_little	1
+6-years_old	1
+fresh_natural	1
+personal_favorite	1
+wide_open	1
+angry_racist	1
+massive_cumbersome	1
+unsentimental_practical	1
+only_discordant	1
+proper_widescreen	1
+great_enterprising	1
+curly_blonde	1
+abrasive_solitary	1
+tight_trim	1
+rewarding_entertaining	1
+half-Indian_Cavalry	1
+true_american	1
+lone_cavalry	1
+awful_red/blue	1
+fine_simple	1
+classic_Western	2
+good_Western	1
+Western_much	1
+therse_humble	1
+traditional_American	1
+Native_American	3
+disappointing_blu-ray	1
+other_big	1
+dusty_foreign	1
+unfortunate_3-D	1
+slow_deliberate	1
+stereoscopic_3-D	1
+later_better-known	1
+wide_scenic	1
+wise_laconic	1
+literary_Western	1
+young_impressionable	1
+excellent_previous	1
+original_stereoscopic	1
+young_courageous	1
+typical_Duke-ish	1
+other_classic	1
+personal_western	1
 JJR_IN
 more_than	3
 better_than	6
@@ -8757,12 +8354,10 @@ i_wish	1
 -_THEY	1
 WRB_JJ
 where_human	1
-,_CC
-,_and	93
-,_or	5
-,_but	45
-,_yet	1
-,_And	1
+RP_JJ
+up_wrong	1
+up_right	1
+up_next	1
 VB_NN
 take_issue	1
 be_release	1
@@ -8780,9 +8375,9 @@ POS_IN
 's_so	1
 NN_WP
 kid_who	1
-wife_who	1
+wife_who	2
 Man_Who	3
-page_who	1
+rider_who	3
 actor_who	1
 warrior_who	1
 scout_whom	1
@@ -8790,23 +8385,23 @@ woman_who	1
 era_who	1
 character_who	1
 man_who	1
-dog_who	1
+dog_who	2
 breed_who	1
 loner_who	1
 halfbreed_who	1
-rider_who	3
+page_who	1
 anyone_who	1
 scout_who	1
 chap_who	1
-RB_RBR
-much_less	1
-even_better	1
-much_more	1
-far_better	1
-even_longer	1
-VBP_WP
-believe_what	1
-Do_what	1
+WRB_NNP
+when_Geronimo	1
+How_Hondo	1
+when_Hondo	2
+where_Amazon	1
+when_Maltin	1
+when_H.B.O.	1
+where_Honda	1
+when_Sam	1
 VBD_WP
 did_what	1
 CC_FW
@@ -8851,6 +8446,7 @@ westerns_show	1
 characters_arrive	1
 legs_everytime	1
 men_settle	1
+movies_behave	1
 scenes_are	1
 Westerns_are	1
 features_are	4
@@ -8861,24 +8457,24 @@ suspects_are	1
 settlers_are	1
 plots_are	1
 characters_are	3
-FW_VBP
-i_have	1
 NNP_MD
 Lane_will	1
 Wayne_can	1
-Wayne_will	1
+Hondo_may	1
 Lowe_can	1
+Hondo_can	1
 John_should	1
 A_must	1
 Baker_might	1
 Lane_would	1
-Wayne_would	2
+Wayne_will	1
 Johnny_can	1
-Hondo_can	1
+Wayne_would	2
 Wayne_could	1
 Furrow_must	1
 IN_CD
 in_11	1
+in_53	1
 in_50	1
 in_'82	1
 at_84	1
@@ -8911,9 +8507,12 @@ in_1953	3
 about_one	1
 than_100	1
 NNS_VBZ
+extras_is	1
 problems_is	1
-TVs_is	1
 effects_is	1
+shoot-outs_chases	1
+TVs_is	1
+adults_is	1
 VBD_PRP$
 begged_my	1
 shaped_my	1
@@ -8931,13 +8530,10 @@ over_and	1
 if_or	1
 of_both	1
 in_either	1
-IN_,
-that_,	2
-Although_,	1
-on_,	1
-ago_,	1
-if_,	1
+on_and	1
 NNS_VBD
+films_vacationed	1
+Features_was	1
 lessons_learned	2
 movies_were	1
 issues_dealt	1
@@ -8946,10 +8542,11 @@ whites_left	1
 studios_told	1
 people_were	1
 figures_cut	1
-50s_aspired	1
+consequences_learned	1
 actors_were	1
 films_were	2
 scenes_were	1
+50s_aspired	1
 Westerns_were	1
 people_wanted	1
 scenes_looked	1
@@ -8958,16 +8555,15 @@ NNS_VBG
 screens_running	1
 people_standing	1
 westerns_according	1
-films_including	1
+roles_including	1
+films_including	2
 extras_including	1
 beings_dealing	1
+basics_giving	1
 spears_flying	1
 knives_poking	1
 images_emanating	1
 films_having	1
-``_IN
-``_that	1
-``_Around	1
 RP_RB
 off_distractingly	1
 out_someday	1
@@ -8991,12 +8587,13 @@ develop_feelings	1
 VBP_NNP
 are_John	1
 find_Hondo	1
-rank_Hondo	1
 part_Apache	1
 watch_Terminator	1
 see_Hondo	1
+stay_Lane	1
+rank_Hondo	1
 RB_IN
-again_until	1
+forth_albeit	1
 n't_in	1
 quickly_as	1
 back_in	1
@@ -9006,16 +8603,19 @@ here_in	2
 right_in	1
 ever_in	1
 Not_of	1
+alone_that	1
 also_in	1
 also_as	1
+not_that	1
 now_as	2
 just_below	1
 together_in	1
 well_although	1
 often_as	1
 so_for	1
-forth_albeit	1
+later_as	2
 first_by	1
+Now_if	1
 well_on	1
 basically_like	1
 here_since	1
@@ -9026,17 +8626,18 @@ slowly_up	1
 notably_as	1
 much_against	1
 even_though	2
-Now_if	1
+Yet_in	1
+much_of	1
 well_in	1
 exactly_on	1
 Right_off	1
-often_for	1
 out_on	1
 rather_than	1
 much_that	1
 then_in	1
-later_as	1
+often_for	1
 well_as	6
+ago_in	1
 little_of	2
 distractingly_around	1
 just_like	1
@@ -9047,7 +8648,7 @@ Later_in	1
 Even_though	1
 even_by	1
 even_as	1
-much_of	1
+again_until	1
 not_in	2
 hopefully_on	1
 far_as	1
@@ -9065,21 +8666,11 @@ only_that	1
 Even_as	1
 specially_in	1
 especially_in	1
-''_WRB
-''_when	1
-``_PRP
-``_I	1
-``_They	2
-``_they	1
-``_She	1
-`_He	1
 NN_WP$
 role_whose	1
 son_whose	1
 VBG_WP
 enjoying_what	1
-PRP$_,
-my_,	1
 CD_JJS
 ten_best	1
 POS_JJ
@@ -9105,18 +8696,6 @@ POS_JJ
 ..._later	1
 -_bite-you	1
 ..._great	1
-VBN_``
-seen_``	1
-''_IN
-''_with	2
-''_from	1
-'_into	1
-''_by	1
-''_as	1
-''_at	1
-''_for	1
-''_in	6
-''_of	2
 :_TO
 ..._to	1
 :_to	1
@@ -9193,6 +8772,7 @@ re-worked_him	1
 caught_it	1
 added_it	1
 patterned_themselves	1
+wanted_you	1
 bought_it	3
 told_herself	1
 thought_they	2
@@ -9207,6 +8787,7 @@ was_going	1
 VBD_VBD
 felt_was	1
 VBD_VBZ
+made_is	1
 owned_is	1
 IN_JJ
 of_3-D	1
@@ -9257,6 +8838,7 @@ with_beautiful	1
 as_faceless	1
 of_Native	1
 with_interesting	1
+as_noble	1
 that_unusual	1
 in_full	1
 for_Oscar-nominated	1
@@ -9277,10 +8859,6 @@ of_passionate	1
 in_3-D	5
 RBR_.
 longer_.	1
-IN_''
-in_'	1
-Of_''	1
-of_''	1
 VBN_NN
 crafted_film	1
 lost_resolution	1
@@ -9296,6 +8874,7 @@ shot_movie	1
 remastered_process	1
 designated_protector	1
 NNP_RB
+Hondo_nevertheless	1
 Duke_ever	1
 I_honestly	1
 Hondo_back	1
@@ -9306,11 +8885,15 @@ Wayne_again	1
 Wayne_so	1
 Arness_ably	1
 Wayne_reportedly	1
+Hondo_once	1
 Hondo_then	1
+Sam_basically	1
 Wayne_ever	1
 Hondo_still	1
 Stout_strikingly	1
 Hondo_just	1
+Angie_determinedly	1
+Johnnie_only	1
 Blu-Ray_certainly	1
 NNP_VBP
 Shane_have	1
@@ -9321,12 +8904,13 @@ Roberson_have	1
 Page_have	1
 Apache_have	1
 Page_give	1
-Hondo_are	1
+Hondo_are	3
 :_PRP
 --_he	1
+..._it	1
 ..._I	3
 ..._He	1
-..._it	1
+:_He	1
 ;_you	1
 -_he	2
 ..._we	1
@@ -9362,17 +8946,19 @@ fans_of	2
 lives_because	1
 fans_for	1
 things_because	1
+men_as	1
 exchanges_between	1
 oats_as	1
 dirctors_that	1
 whizzes_at	1
+grounds_in	1
 comments_about	1
 homesteads_in	1
 transfers_with	1
 bonds_with	1
 friends_with	1
 elements_of	1
-films_in	1
+movies_with	1
 feelings_for	1
 saddlebags_in	1
 Drums_Along	1
@@ -9406,6 +8992,7 @@ sequences_by	1
 dispatches_for	1
 shades_of	1
 periods_of	1
+nuances_than	1
 people_like	1
 comments_by	1
 indians_on	1
@@ -9414,7 +9001,8 @@ years_until	1
 films_as	1
 makings_of	1
 years_since	2
-movies_with	1
+films_in	1
+settlers_as	1
 featurettes_on	1
 films_until	1
 minutes_of	1
@@ -9428,7 +9016,7 @@ warriors_for	1
 characters_in	1
 Westerns_from	1
 hundreds_of	1
-grounds_in	1
+uprisings_because	1
 makers_of	1
 thoughts_of	1
 years_after	2
@@ -9442,58 +9030,65 @@ bios_of	1
 rays_of	1
 women_of	1
 Lots_of	1
-VBN_CC
-speared_and	1
-published_&	1
-crowded_and	1
-promised_and	1
-scripted_and	1
-caught_and	1
-blurred_and	1
-filmed_and	1
-packaged_and	1
-magnified_and	1
+VB_TO
+appeal_to	1
+want_to	3
+get_to	1
+bring_to	1
+wear_to	1
+seem_to	1
+hondo_to	1
 NNP_VBZ
+Hondo_kills	1
 Hondo_tries	1
 Wayne_appears	1
+Baker_is	1
 Wayne_is	7
 Honda_is	1
 Angie_refuses	1
+Shane_is	1
 Hondo_sees	1
 Hondo_stands	1
 Lane_knows	2
 Hondo_meets	2
 Hondo_laments	1
+Hondo_opens	1
 Lane_leaves	1
+Hondo_shows	1
 Wayne_brings	1
-Hondo_has	3
+Hondo_has	5
 Indian_is	1
 Hondo_warns	1
 Wayne_puts	1
 Hondo_gets	1
 Hondo_stars	1
 Vittorio_wants	1
-Angie_is	1
+Angie_is	2
 Annie_is	1
 Honda_tries	1
 Wayne_does	1
-Lion_is	1
-Lowe_finds	1
+Ford_is	1
+Friedhofer_comes	1
+Hondo_tends	1
 Lowe_pays	1
+Lowe_finds	1
 Angie_likes	1
-Lane_is	2
+Sam_is	2
 Vittorio_makes	1
 Arness_has	1
 Version_shows	1
 Wayne_remains	1
 Michael_appears	1
+Hondo_gives	1
 Bond_plays	1
+Army_circles	1
 Hondo_manages	1
 Lane_claims	1
-Page_is	7
+Page_is	8
 Page_gives	1
 Hondo_takes	2
-Hondo_is	12
+Hondo_is	18
+Lowe_helps	1
 Lowe_repays	1
 Hondo_befriends	1
 Pate_appears	1
@@ -9502,13 +9097,19 @@ Pate_is	1
 Wayne_leaves	1
 Page_plays	1
 Angie_tries	1
+Hondo_bears	1
 Aaker_is	2
-Sam_is	2
+Army_becomes	1
+Lane_is	2
+Hondo_deserves	1
+Johnny_likes	1
 Hondo_does	1
 Hondo_teaches	1
 Frank_has	1
+Apache_has	1
 Aaker_plays	1
 Hondo_shoots	1
+Lion_is	1
 Hondo_ranks	1
 Wayne_plays	7
 Wayne_has	1
@@ -9518,10 +9119,11 @@ Hondo_stays	1
 Wayne_says	1
 Amazon_indicates	1
 Farrow_directs	1
-Hondo_kills	1
+Lassie_is	1
 Professor_is	1
 Hondo_makes	1
 VB_JJ
+be_homely	1
 help_direct	1
 encourage_further	1
 get_such	1
@@ -9531,6 +9133,7 @@ be_wrong	1
 be_pass&eacute;	1
 create_3-D	1
 get_new	1
+be_half-Indian	1
 upset_sensitive	1
 be_worth	1
 become_apparent	1
@@ -9559,7 +9162,7 @@ to_start	1
 to_create	1
 to_let	1
 to_recommend	1
-to_go	1
+to_go	2
 to_forget	1
 to_say	3
 to_win	1
@@ -9636,33 +9239,13 @@ which_both	1
 which_the	1
 NN_JJR
 movie_higher	1
-NN_``
-show_``	1
-movie_``	1
-DVD_`	1
-series_``	3
-story_``	1
-cartoon_``	1
-screen_``	1
-western_``	1
-film_``	1
 VBG_NNP
 starring_Ralph	1
 playing_Hondo	1
-Starring_Geraldine	1
-making_Hondo	1
 looking_Western	1
-VBD_,
-missed_,	1
-happened_,	1
-expected_,	1
-was_,	1
-did_,	1
-made_,	1
-died_,	1
-wanted_,	1
-began_,	1
-said_,	2
+making_Hondo	1
+Starring_Geraldine	1
+including_Big	1
 VBD_.
 surrendered_.	1
 included_.	1
@@ -9701,20 +9284,24 @@ ABC_did	1
 Scott_made	1
 H.B.O._played	1
 Ford_finished	1
-Hondo_was	7
+Hondo_was	11
 Hondo_followed	1
 Arness_was	2
 Apache_were	1
 Farrow_worked	1
 Pate_died	1
 Blu-Ray_was	1
+Acosta_got	1
 Hondo_had	1
 Wayne_played	1
+McLain_was	1
 Wayne_included	1
 Gable_was	1
+Men_was	1
 Wayne_held	1
 Duke_died	1
 Batjac_made	1
+Vittorio_was	1
 Farrow_directed	1
 Sam_was	1
 Cloud_said	1
@@ -9737,10 +9324,10 @@ Pate_was	2
 Warner_felt	1
 Wayne_had	1
 NNP_VBN
+Wayne_impressed	1
 Indian_given	1
-WP_NNP
-whom_Hondo	1
-Who_Shot	3
+Hondo_based	1
+Page_picked	1
 NNP_POS
 Woodward_'s	1
 Burks_'	1
@@ -9771,87 +9358,98 @@ Hondo_'s	5
 Batjac_'s	1
 TV_'s	1
 Lowe_'s	4
-VBD_CC
-went_and	1
-were_and	1
-came_and	1
-bought_and	1
 NN_RB
-presence_yet	1
-cast_here	1
 work_here	1
-honesty_also	1
-film_really	1
-movie_before	1
-husband_as	1
-movie_initially	1
-lady_as	1
-DVD_yet	1
-movie_up	1
-story_closely	1
-mine_nevertheless	1
-decision_not	1
-movie_prior	1
-3D_even	1
-dog_as	1
-version_only	1
+nothing_really	1
 edition_as	1
 bit_as	1
-son_alone	1
 rarity_back	1
-version_yes	1
-DVD_once	1
-Tin_not	1
-sub-chief_later	1
-Western_not	1
-climax_actually	1
-movie_even	1
-wife_then	1
-part_well	1
-someone_else	1
+TV_not	1
 today_perhaps	1
-print_not	1
-simple_yet	1
-DVD_also	1
-point_very	1
-story_so	1
-while.he_also	1
-dog_too	1
-DVD_not	1
-nomination_here	1
 day_off	1
-bit_here	1
+part_well	1
+simple_yet	1
+nomination_here	1
+picture_however	1
 book_accurately	1
-desert_alone	1
-role_well	1
+DVD_not	1
+pace_meticulously	1
 vehicle_not	1
-film_also	1
-listening_directly	1
-film_again	1
-DVD_already	1
-lesson_hopefully	1
-nothing_really	1
-experience_here	1
-western_not	1
-gift_very	1
-time_ago	1
-book_fairly	1
-basis_instead	1
-3D_here	1
-collection_as	1
+wife_then	1
+audio_meanwhile	1
+mine_nevertheless	1
+show_as	1
 living_alone	1
 cast_actually	1
 movie_as	1
-movie_apart	1
+Edition_certainly	1
+bar_only	1
+movie_initially	1
+DVD_yet	1
+movie_up	1
+story_closely	1
+movie_prior	1
+DVD_also	1
+revival_sometime	1
+Western_not	1
+climax_actually	1
+system_instead	1
+presence_yet	1
+while.he_also	1
+bit_here	1
+reduction_likely	1
+film_also	1
+experience_here	1
+time_ago	1
+role_well	1
+film_again	1
+something_totally	1
+western_efficiently	1
+husband_as	1
+western_not	1
+version_only	1
+level_as	1
+version_yes	1
+Tin_not	1
+sub-chief_later	1
+movie_even	1
+someone_else	1
+print_not	1
+point_very	1
+movie_before	1
+movie_now	1
+book_fairly	1
+lesson_hopefully	1
+life_only	1
+gift_very	1
+film_well	1
+3D_here	1
+honesty_also	1
 husband_back	1
+mistake_again	1
+movie_really	1
+cast_here	1
+film_really	1
+dog_too	1
+debut_specially	1
+decision_not	1
+lady_as	1
+3D_even	1
+movie_too	1
+dog_as	1
+case_rather	1
+collection_as	1
+story_so	1
+desert_alone	1
+DVD_already	1
+presence_even	1
+basis_instead	1
+movie_apart	1
+listening_directly	1
+son_alone	1
 saddle_so	1
 dust_artistically	1
-movie_too	1
-mistake_again	1
-revival_sometime	1
-movie_really	1
-something_totally	1
-show_as	1
+DVD_once	1
 cinematography_too	1
 JJ_IN
 human_as	1
@@ -9859,7 +9457,7 @@ entrahralled_with	1
 excellent_although	1
 tall_like	1
 detailed_of	1
-bad_that	1
+believable_as	2
 good_as	1
 noticeable_in	1
 perfect_for	1
@@ -9869,6 +9467,7 @@ must-have_for	1
 many_of	3
 great_on	1
 common_in	1
+enjoyable_throughout	1
 rid_of	1
 observant_of	1
 pass&eacute;_by	1
@@ -9877,15 +9476,16 @@ famous_for	1
 special_with	1
 paramount_in	1
 well-cast_as	1
-perfect_as	2
+short_if	1
 unbending_than	1
 tortured_by	1
 obnoxious_about	1
 advanced_for	1
 half-breed_with	1
-believable_as	2
+bad_that	1
 busy_in	1
 full_of	1
+weak_in	1
 interesting_with	1
 same_as	1
 wrong_with	2
@@ -9911,7 +9511,7 @@ available_in	1
 harsh_on	1
 suitable_for	1
 notorious_for	1
-enjoyable_throughout	1
+perfect_as	2
 capable_of	1
 sorry_that	1
 good_on	2
@@ -9935,14 +9535,8 @@ much_in	1
 aware_of	1
 impressive_in	1
 glad_that	2
-VBD_``
-were_``	1
-made_``	2
-''_PRP
-''_her	1
-''_he	1
-''_one	1
-''_It	1
+JJS_VBN
+least_portrayed	1
 VBG_JJ
 utilizing_massive	1
 being_part-Indian	1
@@ -9955,21 +9549,14 @@ offering_strong	1
 warring_Native	1
 being_able	1
 featuring_terrific	1
-TO_``
-to_``	2
 NN_RP
 exposition_down	1
 picture_off	1
-IN_:
-like_:	1
-though_...	1
-over_-	1
-about_...	1
-of_--	3
 VBZ_DT
 is_the	12
 finds_a	1
 offers_an	1
+tops_The	1
 reflects_the	1
 's_any	1
 's_a	10
@@ -10000,7 +9587,7 @@ has_the	2
 follows_the	2
 is_an	9
 wins_the	1
-leaves_the	1
+leaves_the	2
 takes_the	1
 contains_no	1
 has_a	4
@@ -10051,10 +9638,12 @@ one_basis	1
 1:85_ratio	1
 one_shot	1
 two_burning	1
+1952_Island	1
 5.1_track	1
 one_movie	1
 1953_western	1
 one_hand	1
+1968_McQ	1
 VBZ_NNP
 scolds_Hondo	1
 brings_Hondo	1
@@ -10068,7 +9657,7 @@ threatens_Mrs.	1
 has_Sam	1
 is_Page	1
 makes_Hondo	1
-is_Sam	1
+is_Sam	2
 kills_Lowe	1
 states_Hondo	1
 likes_Hondo	1
@@ -10102,20 +9691,9 @@ brave_stature	1
 dispatch_rider	2
 pay_lip	1
 NN_PRP$
+downgrade_her	1
 Support_Your	1
 insult_your	1
-JJ_''
-classic_''	1
-3-D_'	1
-Expendable_''	2
-typical_''	1
-natural_'	1
-half-Indian_''	1
-strong_''	1
-handsome_''	1
-homely_''	1
-racist_''	1
-new_''	1
 VB_CD
 be_one	2
 serve_one	1
@@ -10123,15 +9701,33 @@ tell_one	1
 pick_one	1
 be_22	1
 VB_CC
-Scan_and	1
 distract_or	1
+flee_and	1
+cheat_and	1
+be_and	1
+Scan_and	1
 grieve_or	1
 NNP_DT
-Lane_a	1
-Sam_the	2
+Lane_a	6
+Blue-Ray_some	1
+Edwards_the	1
+River_the	1
+Lennie_another	1
+Shane_this	1
+Wayne_the	1
+Baker_a	1
+Wayne_a	1
 Farrow_the	1
 NOT_the	1
-Hondo_a	1
+Sam_the	2
+Lowe_a	2
+Chase_The	1
+Bravo_The	1
+Sam_a	1
+Hondo_a	2
+Vittorio_the	2
+Vittorio_a	1
+Lane_the	1
 Andrea_this	1
 JJS_NN
 best_tradition	1
@@ -10164,70 +9760,33 @@ shot_years	1
 seen_films	1
 extended_periods	1
 been_years	1
-,_WP$
-,_whose	1
-,_NNP
-,_Wayne	4
-,_Rio	2
-,_Hatari	1
-,_Spencer	1
-,_Hondo	13
-,_Paul	2
-,_George	1
-,_Fort	1
-,_Jimmy	1
-,_Scott	1
-,_Sam	2
-,_Bob	1
-,_Winchester	1
-,_Michael	5
-,_Jack	1
-,_Russell	1
-,_Lee	2
-,_Chihuahua	1
-,_Geraldine	2
-,_SC	1
-,_James	8
-,_Johnny	3
-,_Lane	1
-,_Arizona	1
-,_The	3
-,_Arness	1
-,_US	1
-,_Vittorio	1
-,_John	6
-,_Ward	3
-,_True	1
-,_Bond	1
-,_Clark	1
-,_High	1
-,_Mexico	3
-,_Alan	1
-,_Angie	2
-,_VERY	1
-,_Liam	1
-,_Lowe	1
-,_Pate	1
 CC_NNP
-and_Paige	1
+and_Bad	1
+and_Bond	1
+and_A	1
 and_Island	1
+and_Cahill	1
 &_Mrs.	1
 and_Page	1
 and_Ward	2
 and_Frank	1
-and_The	1
-and_Bond	1
+and_Big	1
+and_Dances	1
+and_Paige	1
 but_Hondo	3
+and_Rio	1
 but_NOT	1
+and_The	1
 and_Batjac	1
 But_Johnnie	1
 and_Rodolfo	2
 and_James	1
 and_Henry	1
-but_John	1
+and_El	1
 or_Howard	2
 And_John	1
 and_Michael	3
+and_Seven	1
 and_Warner	1
 and_Lee	1
 and_Hugo	2
@@ -10238,10 +9797,13 @@ and_Chuck	1
 and_Mrs.	1
 and_LA	1
 and_Vittorio	1
+and_House	1
 and_Angie	1
 and_Paul	1
+and_Flying	1
 and_Archie	1
 and_Wayne	4
+but_John	1
 and_Hondo	3
 VBG_NNS
 carrying_dispatches	1
@@ -10250,17 +9812,59 @@ touching_issues	1
 supporting_roles	1
 showing_shades	1
 leading_roles	1
-,_NNS
-,_sets	1
-,_trailers	2
-,_assays	1
-,_commentaries	1
-,_indians	1
-,_tags	1
-NNS_POS
-people_'s	1
-hands_'	1
-filmmakers_'	1
+VBZ_IN
+scouts_for	1
+is_on	1
+moves_along	1
+opens_on	1
+sees_through	1
+happens_on	1
+stops_at	1
+reveals_that	1
+is_at	2
+travels_with	1
+lies_about	1
+culminates_in	1
+is_for	1
+shows_that	1
+stands_above	1
+is_in	8
+is_from	1
+unfolds_in	1
+is_as	1
+insists_that	1
+runs_into	2
+stands_as	1
+knows_that	1
+debuts_for	1
+comes_at	1
+says_in	1
+wanders_into	1
+claims_in	1
+explains_that	2
+lives_with	1
+is_of	1
+walks_in	1
+calls_for	1
+stays_for	1
+is_up	1
+ranks_among	1
+results_in	1
+appears_as	1
+stumbles_upon	1
+tells_of	1
+'s_about	1
+knows_about	1
+appears_in	2
+has_that	1
+forages_for	1
+puts_in	1
+looks_like	1
+is_that	3
+says_that	2
+moves_at	1
+stays_around	1
+comes_upon	1
 DT_TO
 another_to	1
 this_to	1
@@ -10324,6 +9928,7 @@ interesting_camera	1
 fullscreen_print	1
 runaway_husband	1
 honorable_death	1
+good_product	1
 theatrical_reissue	1
 favorite_script	1
 fine_grain	1
@@ -10333,6 +9938,7 @@ liberal_actress	1
 wild_dog	1
 first_book	1
 favorite_screenwriter	1
+iconic_movie	1
 widescreen_movie	1
 <a href="http://www.amazon.com/gp/product/B003YWV56Y">_HONDO	1
 same_year	1
@@ -10344,6 +9950,7 @@ mortal_knife	1
 wonderful_movie	1
 deliberate_pace	1
 top_notch	2
+modern_notion	1
 young_son	8
 original_Intermission	1
 foreign_location	1
@@ -10386,6 +9993,7 @@ old_son	2
 solid_Western	1
 Duke-ish_fashion	1
 4-star_DVD	1
+sympathetic_view	1
 western_movie	2
 only_reason	1
 little_son	1
@@ -10416,6 +10024,7 @@ broiling_summer	1
 auspicious_screen	1
 personal_sense	1
 great_deal	1
+natural_look	1
 entire_cast	1
 great_cinematography	1
 busy_child	1
@@ -10428,7 +10037,7 @@ barren_country	1
 first_viewing	1
 wide_screen	2
 next_production	1
-sympathetic_view	1
+many_slaughter	1
 fine_form	1
 Special_Edition	3
 abandoned_woman	1
@@ -10465,6 +10074,7 @@ original_aspect	1
 3-D_TV	1
 superb_actor	1
 ofbang_BANG	1
+crisp_something	1
 terrific_job	1
 widescreen_presentation	2
 3-D_process	1
@@ -10521,9 +10131,11 @@ big_screen	1
 first_property	1
 WESTERN_MOVIE	1
 nostalgic_look	1
+big_deal	1
 good_movie	3
 available_today	1
 Western_movie	1
+strong_philosophy	1
 classic_vein	1
 phony_child	1
 threatening_presence	1
@@ -10531,7 +10143,6 @@ brutish_husband	1
 matte_letterbox	1
 2-D_version	1
 other_hand	2
-short-lived_series	1
 personal_favorite	1
 complex_story	1
 pristine_image	1
@@ -10590,6 +10201,7 @@ Good_thing	1
 other_actor	1
 native_format	1
 white_lie	1
+racist_lead	1
 full_frame	2
 Quiet_Man	1
 ominous_warning	1
@@ -10599,6 +10211,7 @@ short-lived_TV	1
 hostile_force	1
 Western_genre	1
 big_break	1
+later_Corporal	1
 long_tracking	1
 late_son	1
 sound_quality	1
@@ -10641,7 +10254,7 @@ honest_character	1
 flighty_ranch	1
 real_shame	1
 personal_animosity	1
-big_deal	1
+short-lived_series	1
 Blu-ray_</a>	1
 Excellent_cinematography	1
 personal_life	1

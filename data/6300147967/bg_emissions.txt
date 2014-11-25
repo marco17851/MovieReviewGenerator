@@ -44,6 +44,7 @@ VBN_VBN
 been_said	1
 NNP_VB
 Vatican_try	1
+</a>_see	1
 VBP_JJR
 wish_more	1
 VBP_JJS
@@ -81,12 +82,6 @@ up_to	1
 VBN_:
 defeated_--	1
 cast_--	1
-VBP_,
-have_,	2
-say_,	1
-stink_,	1
-IN_``
-of_``	1
 VBP_.
 dunno_.	1
 respond_.	1
@@ -94,8 +89,8 @@ are_?	1
 do_.	1
 CD_WP
 one_who	1
-''_TO
-''_to	1
+VBP_CC
+have_but	1
 VBN_.
 charmed_.	1
 done_.	1
@@ -107,8 +102,6 @@ redeemed_.	1
 set_.	1
 released_.	1
 learned_.	1
-VBN_,
-defeated_,	2
 VB_JJR
 get_more	1
 WDT_MD
@@ -182,15 +175,13 @@ Navy_and	1
 Olmos_and	1
 Josephson_and	1
 GRACE_and	1
-Vatican_and	4
+Vatican_and	5
 Conti_and	3
 Leo_and	1
 Pope_and	1
 WP_MD
 who_'d	1
 Who_would	1
-``_WP
-``_Who	1
 JJR_NNS
 more_people	1
 more_shows	1
@@ -225,8 +216,11 @@ from_his	1
 with_our	1
 by_his	1
 NN_VB
-way_improve	1
+pleeeeeeze_bring	1
+movie_please	1
+movie_enjoy	1
 </a>_see	1
+way_improve	1
 PRP$_NN
 His_heart	1
 his_band	1
@@ -244,10 +238,12 @@ their_criticism	1
 my_wife	1
 your_Holiness	1
 my_duff	1
+His_escape	1
 My_husband	1
-His_character	1
+his_trilogy	1
 his_job	1
 his_time	1
+His_character	1
 his_wish	1
 my_faith	2
 his_fellow	1
@@ -263,38 +259,10 @@ his_gardening	1
 our_library	1
 his_help	1
 his_impulse	1
-``_VBZ
-``_Sounds	1
-VB_IN
-buy_at	1
-promise_that	1
-purchase_at	1
-improve_on	1
-escape_from	1
-pray_that	1
-occur_in	1
-cope_with	1
-be_like	1
-go_through	1
-rest_on	1
-wander_in	1
-LIVE_IN	1
-deal_with	2
-give_as	1
-live_like	3
-cover_for	1
-see_on	1
-do_in	1
-mingle_among	1
-jiggle_on	1
-marvel_for	1
-be_in	1
+JJ_NNPS
+lay_Catholics	1
 JJ_PRP
 glad_I	1
-``_VBP
-`_am	1
-,_''
-,_''	1
 VBD_RB
 did_n't	4
 was_very	2
@@ -307,16 +275,24 @@ were_often	1
 was_not	1
 had_n't	1
 NN_DT
+despair_this	1
 release_this	1
 allegiance_the	1
 movie_a	1
 movie_some	1
+story_the	1
 TV_some	1
-humor_the	1
+Naw_a	1
+misnomer_The	1
 time_a	1
+burning_the	1
 good_all	1
-gem_this	1
+humor_the	1
+store_the	1
+void_no	1
+gem_this	2
 <a href="http://www.amazon.com/gp/product/B000HD7KD0">_The	1
+death_the	1
 WDT_RB
 that_often	1
 TO_DT
@@ -325,6 +301,7 @@ to_the	4
 to_a	5
 NN_CD
 DVD_one	1
+novel_1986	1
 VBD_RP
 got_out	1
 ran_off	1
@@ -345,11 +322,11 @@ help_others	1
 win_followers	1
 VB_NNP
 save_Tom	1
-FW_VB
-!!!_get	1
-WRB_,
-why_,	1
-Why_,	1
+NNS_NNP
+days_Europe	1
+NNS_NNS
+doubts_fears	1
+children_widows	1
 CC_IN
 but_through	1
 but_like	1
@@ -358,6 +335,7 @@ but_if	1
 And_in	1
 and_if	1
 And_as	1
+and_like	1
 but_above	1
 But_as	1
 But_till	1
@@ -397,10 +375,6 @@ his_Petrine	1
 our_Church	1
 WDT_NN
 what_effect	1
-,_PRP$
-,_his	1
-,_my	2
-,_your	1
 IN_RB
 if_ever	1
 in_very	2
@@ -460,13 +434,8 @@ VBP_PRP$
 live_their	1
 sort_their	1
 see_my	1
-VB_,
-see_,	1
-exist_,	1
-buy_,	1
-sleep_,	1
-swallow_,	1
-help_,	1
+VBG_JJS
+blasting_most	1
 VB_.
 release_.	1
 act_.	1
@@ -487,6 +456,7 @@ do_?	1
 cope_?	1
 end_.	1
 JJ_TO
+impossible_to	1
 due_to	1
 difficult_to	1
 able_to	1
@@ -501,14 +471,10 @@ thankful_to	1
 glad_to	1
 UH_WRB
 oh_why	1
-WP_,
-who_,	1
-What_,	1
 WP_.
 what_?	1
-NNP_''
-Grace_''	1
 DT_PRP
+that_it	1
 this_I	1
 DT_NNS
 The_Shoes	1
@@ -549,6 +515,7 @@ for_others	1
 as_gifts	1
 by_people	1
 for_years	1
+of_Shoes	1
 if_fans	1
 OF_THIS	1
 of_people	1
@@ -633,26 +600,32 @@ bought_the	1
 CC_WP
 or_what	1
 NNS_CC
-reviews_or	1
-Popes_and	1
-concerns_and	2
-guys_and	1
 disasters_and	1
-doubts_and	1
-lives_and	1
-decisions_and	1
-popes_and	1
+feet_and	1
+others_and	1
 naysayers_and	1
-times_and	1
-fears_and	1
-obstacles_and	1
-senses_and	1
-ratings_and	1
+reviews_or	1
 vhs_and	1
+decisions_and	1
+ratings_and	1
 people_and	2
 years_but	1
-''_VBZ
-''_is	1
+friends_and	1
+popes_and	1
+theives_and	1
+senses_and	1
+theaters_and	1
+bishops_and	1
+scenes_or	1
+concerns_and	2
+Popes_and	1
+doubts_and	1
+lives_and	1
+fears_and	1
+obstacles_and	1
+aches_and	1
+guys_and	1
+times_and	1
 JJR_IN
 more_than	1
 VBP_IN
@@ -670,21 +643,26 @@ think_of	1
 believe_that	1
 result_in	1
 appear_on	1
+have_over	1
 am_on	1
 do_in	1
 hope_that	1
 NN_CC
 print_and	1
+way_and	1
 cinematography_and	1
-friend_and	1
-time_and	1
+step_and	1
+time_and	2
+movie_and	4
+bum_but	1
 village_and	1
 ??_and	1
 library_and	1
 box_and	1
-movie_and	3
+village_but	1
 life_and	1
-humor_and	1
+sheep_and	1
+humor_and	2
 duff_and	1
 surgery_and	1
 cry_but	1
@@ -692,22 +670,29 @@ oppression_and	1
 earth_and	1
 villain_and	1
 nihilism_and	1
+story_and	1
+writing_and	1
 job_and	1
 priest_and	1
 journey_and	1
 dvd_but	1
 pastor_and	1
 human-ness_and	1
-film_and	1
+husband_and	1
 pope_and	2
 family_and	2
-love_and	1
+love_and	2
 warmth_and	1
-husband_and	1
+film_and	2
 laugh_and	1
 man_and	1
+acting_and	1
+sleeper_and	1
+role_and	1
+movie_but	2
+friend_and	1
 shipping_and	1
-town_and	1
+town_and	2
 WDT_PRP
 which_you	1
 DT_JJS
@@ -720,9 +705,17 @@ those_whom	1
 NN_JJ
 film_available	1
 town_drunk	1
-movie_many	1
-concrete_good	1
+morality_modest	1
+irony_beautiful	1
 film_new	1
+moving_funny	1
+movie_Amazing	1
+movie_many	1
+unemployment_chronic	1
+concrete_good	1
+family_heart-warming	1
+plot_funny	1
+scenery_marvelous	1
 RB_EX
 then_there	1
 NNP_NNS
@@ -778,6 +771,7 @@ Vatican_City	1
 James_Olmos	1
 Paul_VI	1
 Paul_I	4
+Young_Writ	1
 ALWAYS_THOUGHT	1
 GRACE_Dir	1
 Leo_XIV	3
@@ -786,8 +780,10 @@ Rocket_Entertainment	1
 John_Paul	6
 Robert_M.	1
 The_Pope	1
+Gianinni_Fernando	1
 SAVING_GRACE	4
 Giancarlo_Gianinni	1
+Rey_Erland	1
 THIS_FILM	1
 Investigation_Into	1
 LONG_BUT	1
@@ -809,8 +805,9 @@ up_when	1
 VBN_CC
 elected_and	1
 overwhelmed_or	1
-used_and	1
+defeated_but	1
 directed_and	1
+used_and	1
 VBN_TO
 supposed_to	1
 guided_to	1
@@ -896,30 +893,9 @@ RB_WRB
 not_why	1
 back_when	1
 even_when	1
+Nonetheless_when	1
 CD_POS
 1991_'s	1
-RB_,
-Nonetheless_,	1
-unexpectedly_,	1
-back_,	1
-Soon_,	1
-Here_,	1
-Instead_,	1
-ago_,	1
-wrongly_,	1
-inadvertantly_,	1
-Naturally_,	1
-frankly_,	1
-Anyway_,	1
-later_,	1
-forever_,	1
-No_,	1
-not_,	1
-then_,	1
-so_,	1
-Also_,	1
-However_,	3
-Well_,	1
 RB_.
 down_.	1
 ever_!	1
@@ -943,11 +919,10 @@ perfectly_.	1
 MD_CC
 would_or	1
 can_and	1
-,_WRB
-,_when	1
-,_where	2
 VBD_CD
 died_33	1
+WRB_UH
+Why_oh	1
 NNPS_CC
 Catholics_or	1
 CC_RB
@@ -959,6 +934,7 @@ And_maybe	1
 And_suddenly	1
 and_gently	1
 and_never	1
+or_Maybe	1
 And_then	2
 and_over	1
 and_really	1
@@ -975,11 +951,11 @@ why_he	1
 how_he	1
 when_they	1
 When_I	3
+RBR_DT
+earlier_this	1
 :_IN
 ..._With	1
 --_with	1
-''_:
-'_...	1
 :_WDT
 ;_what	1
 PRP$_JJ
@@ -994,6 +970,9 @@ My_only	1
 his_spiritual	1
 PRP_PRP
 us_we	1
+it_I	1
+him_You	1
+it_you	1
 IN_PRP
 because_it	3
 into_it	1
@@ -1018,15 +997,12 @@ that_you	2
 of_it	1
 for_him	2
 about_himself	1
+since_I	1
 that_it	3
 than_I	1
 If_I	1
 of_us	3
 so_he	1
-''_.
-''_.	2
-''_,
-'_,	1
 NNS_VB
 actors_save	1
 :_NNP
@@ -1092,6 +1068,7 @@ the_story	8
 that_way	1
 the_spirit	1
 a_figurehead	1
+any_studio	1
 the_bureaucracy	1
 The_humanity	1
 This_film	3
@@ -1134,7 +1111,7 @@ the_ether	1
 this_dvd	1
 A_gem	1
 the_end	1
-any_studio	1
+a_sleeper	1
 This_experience	1
 the_guilt	1
 the_name	2
@@ -1263,7 +1240,7 @@ I_watch	1
 I_see	1
 They_do	1
 you_'re	2
-I_am	7
+I_am	8
 I_regard	1
 they_do	1
 I_dunno	1
@@ -1352,9 +1329,6 @@ BRING_THIS	1
 PLEASE_!!!	1
 WP_NNS
 what_doubts	1
-``_DT
-`_the	1
-``_The	2
 PRP_.
 me_.	2
 us_.	1
@@ -1363,12 +1337,8 @@ themselves_.	1
 it_!	1
 them_.	2
 it_.	8
-PRP_,
-us_,	1
-me_,	1
-him_,	1
-it_,	6
-you_,	1
+IN_:
+throughout_--	1
 CC_VBP
 but_have	1
 and_have	3
@@ -1391,17 +1361,20 @@ and_longs	1
 and_allows	1
 NN_WRB
 movie_when	1
+preacher_when	1
+tale_where	1
 loss_when	1
 priest_where	1
-place_where	1
+town_where	1
 mechanism_whereby	1
-preacher_when	1
+place_where	1
 RP_TO
 off_to	5
 NNP_PRP
 Paul_I	1
 Vatican_they	1
 May_I	1
+Eeeehhhhhhhh_I	1
 Miss_it	1
 CC_VBD
 and_decided	1
@@ -1421,31 +1394,6 @@ and_cast	1
 and_surrounded	1
 or_beaten	1
 and_dressed	1
-JJ_,
-epidemic_,	1
-touching_,	1
-intelligent_,	1
-difficult_,	1
-creative_,	1
-unknown_,	1
-deep_,	1
-gentle_,	1
-beautiful_,	1
-heartwarming_,	1
-wonderful_,	3
-favorite_,	1
-impossible_,	1
-human_,	1
-warm-hearted_,	1
-drunk_,	1
-stupid_,	1
-ugly_,	1
-Heartwarming_,	1
-skeptical_,	1
-mudered_,	1
-funny_,	1
-Later_,	1
-Catholic_,	1
 JJ_.
 heartwarming_.	1
 attractive_.	1
@@ -1537,6 +1485,10 @@ point_Isabella	1
 name_Leo	1
 WDT_NNS
 What_matters	1
+CD_CD
+1986_112	1
+UH_NN
+Please_pleeeeeeze	1
 CD_CC
 One_and	1
 1995_and	1
@@ -1586,6 +1538,8 @@ He_'ll	1
 we_could	1
 you_'ll	2
 You_can	1
+VBP_VBP
+stink_see	1
 VBP_VBN
 have_been	3
 are_defeated	1
@@ -1601,6 +1555,7 @@ and_see	1
 and_transform	1
 and_write	1
 and_take	1
+and_rebuild	1
 and_try	1
 and_be	1
 and_pin	1
@@ -1614,8 +1569,9 @@ VBP_VBD
 've_felt	1
 JJ_JJR
 worth_more	1
-JJS_IN
-most_of	1
+NNS_VBD
+clergymen_were	1
+others_were	1
 IN_NNPS
 for_Catholics	1
 WP_NN
@@ -1625,25 +1581,26 @@ there_is	2
 there_'s	3
 EX_VBP
 There_are	3
-CC_``
-and_`	2
-or_``	1
 NN_NN
 someone_release	1
-review_title	1
+infrastructure_etc	1
 cast_bio	1
+hope_despair	1
 faith_builder	1
 town_escape	1
 wonder_film	1
-God_</a>	1
+review_title	1
 A_COPY	1
 FIND_A	1
 family_film	1
+despair_love	1
 warming_movie	2
+acting_writing	1
 misfortune_one	1
 fellow_man	1
 DVD_format	1
 village_aquaduct	1
+growth_hope	1
 reading_mine	1
 DVD_version	2
 TV_series	1
@@ -1656,10 +1613,9 @@ village_Isabella	1
 self_respect	1
 morality_tale	1
 story_line	1
+God_</a>	1
 WRB_CC
 when_and	1
-TO_RB
-to_temporarily	1
 NNS_RB
 days_also	1
 days_later	1
@@ -1675,26 +1631,6 @@ there_were	1
 there_was	1
 JJS_.
 least_.	1
-,_JJ
-,_funny	2
-,_enjoyable	1
-,_subtle	1
-,_touching	1
-,_silly	1
-,_underrated	1
-,_chronic	1
-,_unique	1
-,_perfect	1
-,_heart-warming	1
-,_sane	1
-,_beautiful	1
-,_modest	1
-,_marvelous	1
-,_deep	1
-,_non	1
-,_warm-hearted	1
-,_EX
-,_there	1
 DT_JJ
 The_central	1
 all_excellent	1
@@ -1738,6 +1674,7 @@ the_adult	1
 the_criminal	1
 A_GREAT	1
 the_slight	1
+the_old	1
 a_Buddhist	1
 a_nearby	1
 a_low-budget	1
@@ -1791,19 +1728,15 @@ this_beautiful	1
 a_heartwarming	1
 WP$_NN
 whose_allegiance	1
-``_VB
-`_rebuild	1
-``_GIVE	1
 VBD_JJR
 were_more	1
-''_``
-''_``	1
 PRP_POS
 us_'	1
 NN_IN
 opposite_of	1
 </a>_after	1
 meaning_for	1
+role_as	1
 force_in	1
 copy_on	1
 performance_as	1
@@ -1849,6 +1782,7 @@ COPY_FOR	1
 explanation_of	1
 step_of	1
 dependency_on	1
+matter_despite	1
 film_about	1
 priest_in	1
 story_of	6
@@ -1859,7 +1793,9 @@ anyone_for	1
 elegance_in	1
 phone_from	1
 favorite_through	1
+trilogy_<a href="http://www.amazon.com/gp/product/1902881842">	1
 connexion_with	1
+Trilogy_on	1
 pope_for	1
 guilt_that	1
 character_in	1
@@ -1882,6 +1818,7 @@ anything_of	1
 version_for	1
 spirit_of	1
 movie_for	2
+bum_so	1
 power_of	2
 tire_of	1
 translataion_onto	1
@@ -1894,6 +1831,7 @@ criticism_of	1
 plenty_of	1
 film_without	1
 time_in	2
+Grace_with	1
 plot_of	1
 subject_in	1
 rest_of	2
@@ -1927,19 +1865,22 @@ and_the	10
 and_each	1
 and_this	2
 NN_VBN
+cast_headed	1
 ministry_supposed	1
 humanity_rooted	1
-cast_headed	1
+pope_fed	1
 tape_artrived	1
 NNS_PRP
 feelings_it	1
-FILMS_I	1
-confusions_he	1
 bureaucrats_he	1
+failings_I	1
+confusions_he	1
+FILMS_I	1
 NN_VBG
 story_telling	1
 name_starring	1
 series_having	1
+poverty_failing	1
 site_looking	1
 CC_WRB
 and_how	2
@@ -1960,6 +1901,7 @@ friend_recommended	1
 tape_caused	1
 someone_had	1
 world_were	1
+review_quit	1
 WP_PRP
 what_you	1
 what_I	2
@@ -1976,6 +1918,7 @@ god_becomes	1
 course_leaves	1
 character_is	1
 intention_is	1
+pope_lives	1
 society_deems	1
 performance_is	1
 town_has	1
@@ -1987,6 +1930,7 @@ impulse_is	1
 experience_transforms	1
 movie_derives	1
 format_is	1
+cardinal_gets	1
 movie_is	3
 village_is	1
 one_recognizes	1
@@ -1997,7 +1941,7 @@ character_has	1
 self_comes	1
 dvd_is	1
 case_does	1
-pope_lives	1
+thinking_Sounds	1
 gang_is	1
 title_is	1
 RB_RB
@@ -2006,8 +1950,10 @@ too_highly	1
 definitely_not	1
 just_as	1
 pretty_much	1
+later_then	1
 somewhat_unexpectedly	1
 once_again	2
+forever_just	1
 Quite_frankly	1
 not_just	2
 way_too	1
@@ -2041,6 +1987,7 @@ PRP_RB
 I_just	1
 I_regularly	1
 He_accidentally	1
+us_rather	1
 it_immediately	1
 I_already	1
 it_now	1
@@ -2069,6 +2016,7 @@ it_again	4
 It_literally	1
 them_highly	1
 it_always	1
+him_So	1
 I_too	1
 :_NN
 --_something	1
@@ -2078,14 +2026,13 @@ that_there	1
 PRP_RP
 it_out	2
 me_up	2
-JJ_``
-non-religious_``	1
 RB_VBZ
 accidentally_gets	2
 always_makes	1
 really_is	1
 maybe_sounds	1
 here_is	1
+inadvertantly_lives	1
 somehow_helps	1
 too_is	1
 truly_wants	1
@@ -2101,9 +2048,6 @@ RBR_VBN
 more_touched	1
 VBZ_VBD
 casts_were	1
-,_WP
-,_whom	1
-,_who	3
 VBZ_VBG
 is_falling	1
 VB_PRP
@@ -2131,13 +2075,15 @@ keep_me	1
 GIVE_US	1
 Give_it	1
 add_it	1
+help_he	1
 find_him	1
 help_themselves	1
 find_himself	1
 Let_me	1
 let_you	1
-see_it	2
+see_it	3
 change_it	1
+exist_it	1
 bring_it	1
 PRP_DT
 we_all	1
@@ -2193,19 +2139,13 @@ wonderfully_done	1
 absolutely_charmed	1
 not_disappointed	1
 partially_reconstructed	1
-NN_''
-Duo_''	1
-escape_''	1
-Grace_''	1
-Trilogy_''	1
-aqueduct_'	1
-sleeper_''	1
-trilogy_'	1
-wonder_''	1
+VBP_WP
+know_what	1
 VB_RBR
 happen_more	1
 VBZ_VBZ
 meets_bullies	1
+delights_inspires	1
 is_has	1
 RB_VBG
 really_doing	1
@@ -2235,20 +2175,6 @@ lost_track	1
 WOULD_FIND	1
 NNPS_CD
 Volumes_One	1
-JJ_JJ
-young_hopeless	1
-last_few	1
-beautiful_young	1
-many_good	1
-strong_humorous	1
-such_true	1
-main_bad	1
-small_Italian	1
-terrible_international	1
-exact_same	1
-impoverished_Italian	1
-little_known	1
-own_true	1
 NNP_TO
 Grace_to	1
 Rome_to	1
@@ -2267,33 +2193,19 @@ wishes_to	1
 happens_to	1
 deserves_to	1
 comes_to	1
-,_IN
-,_at	1
-,_after	1
-,_by	1
-,_as	1
-,_for	2
-,_if	2
-,_over	1
-,_despite	1
-,_so	1
-,_that	1
-,_<a href="http://www.amazon.com/gp/product/1902881842">	1
-,_from	1
-,_about	1
-,_along	1
+POS_NNP
+'s_Saving	1
 POS_NNS
 's_books	1
 's_intentions	1
 's_clothes	1
 NNS_WP
 people_who	2
+JJS_EX
+least_there	1
 VBG_CC
 telling_and	1
 seeing_and	1
-``_UH
-``_Please	1
-``_No	1
 MD_RB
 'll_just	1
 will_immediately	1
@@ -2347,6 +2259,7 @@ Enjoy_this	1
 add_this	1
 rebuild_an	1
 see_a	1
+call_The	1
 do_a	1
 do_some	1
 be_a	2
@@ -2362,9 +2275,6 @@ PDT_DT
 All_this	1
 all_the	3
 such_a	1
-PRP_``
-him_``	1
-I_`	1
 VBZ_JJ
 is_able	1
 is_perfect	1
@@ -2395,6 +2305,7 @@ treasure_to	1
 MOVIE_TO	1
 contribution_to	1
 way_to	2
+escape_to	1
 film_to	1
 movie_to	1
 DVD_to	1
@@ -2414,7 +2325,7 @@ DT_IN
 this_because	1
 this_as	1
 All_of	1
-all_about	1
+all_about	2
 all_of	1
 all_around	1
 this_for	1
@@ -2422,6 +2333,7 @@ This_of	1
 this_onto	1
 PRP_IN
 it_on	4
+it_by	1
 him_that	1
 me_with	1
 it_for	1
@@ -2436,56 +2348,57 @@ How_would	1
 WP_DT
 What_a	6
 what_any	1
-:_''
-..._''	1
+What_the	1
 CC_CD
 and_one	1
 and_2	1
 or_4	1
 and_Two	1
-JJ_NNPS
-lay_Catholics	1
+VB_IN
+buy_at	1
+promise_that	1
+purchase_at	1
+improve_on	1
+escape_from	1
+pray_that	1
+occur_in	1
+cope_with	1
+be_like	1
+go_through	1
+rest_on	1
+wander_in	1
+LIVE_IN	1
+deal_with	2
+give_as	1
+live_like	3
+cover_for	1
+see_on	1
+do_in	1
+mingle_among	1
+jiggle_on	1
+marvel_for	1
+be_in	1
 WP_RB
 who_truly	1
 who_accidentally	2
-,_NN
-,_love	1
-,_despair	1
-,_bug	1
-,_unemployment	1
-,_family	1
-,_writing	1
-,_heart	1
-,_someone	1
-,_pleeeeeeze	1
-,_movie	1
-,_hope	1
-,_irony	1
-,_etc	1
+who_inadvertantly	1
 RP_WP
 up_what	1
-``_RB
-``_So	2
-``_Maybe	1
-CC_,
-But_,	1
-``_NNS
-``_Shoes	1
-PRP$_``
-his_`	1
-His_``	1
-``_NNP
-``_Saving	1
+UH_PRP
+No_I	1
 RB_DT
 Maybe_that	1
 TRULY_A	1
-not_an	1
+Naturally_no	1
+However_the	2
 just_a	1
 not_a	3
 only_a	1
 not_the	1
-n't_this	1
+However_this	1
+not_an	1
 n't_these	1
+n't_this	1
 truly_a	1
 NN_MD
 life_can	1
@@ -2495,6 +2408,7 @@ one_can	1
 movie_could	1
 priest_would	1
 movie_will	1
+Holiness_ca	1
 one_could	1
 love_can	1
 studio_would	1
@@ -2505,20 +2419,8 @@ DT_VB
 a_marvel	1
 WRB_PRP$
 how_his	3
-DT_``
-a_``	1
-the_``	1
-,_RB
-,_inadvertantly	1
-,_not	1
-,_perhaps	1
-,_just	1
-,_maybe	1
-,_rather	1
-,_then	1
-,_even	2
-,_especially	1
-,_somewhat	1
+CC_RBR
+But_more	1
 CC_PRP
 and_they	1
 but_he	2
@@ -2531,8 +2433,6 @@ and_it	5
 And_I	1
 and_we	1
 and_he	2
-,_VBD
-,_quit	1
 RB_VB
 n't_seem	1
 n't_make	1
@@ -2564,7 +2464,7 @@ n't_want	2
 n't_understand	1
 N'T_BE	1
 IN_IN
-that_if	1
+that_if	2
 by_at	1
 through_at	1
 that_in	1
@@ -2575,21 +2475,17 @@ that_despite	1
 than_in	1
 with_at	1
 JJ_RB
+wonderful_not	1
 first_single-handedly	1
 Reminiscent_somewhat	1
 great_too	1
-,_``
-,_``	4
 VBZ_WP
 shows_what	1
 is_what	1
+asks_Who	1
 VBG_PRP$
 answering_my	1
 leaving_her	1
-,_VBG
-,_failing	1
-,_living	1
-,_striving	1
 NNS_.
 girls_.	1
 Olmos_.	1
@@ -2617,36 +2513,12 @@ people_.	3
 ways_.	1
 copies_.	1
 widows_.	1
-,_VBN
-,_fed	1
-NNS_,
-doubts_,	1
-characters_,	1
-feet_,	1
-children_,	1
-days_,	1
-lines_,	1
-failings_,	1
-features_,	1
-friends_,	1
-aches_,	1
-theives_,	1
-bishops_,	1
-outskirts_,	1
-scenes_,	1
-previews_,	1
-flocks_,	1
-others_,	1
-copies_,	1
-theaters_,	1
-,_VBP
-,_see	1
-,_do	2
 RBR_RB
 more_often	1
 more_importantly	1
 VBD_NNP
 SAW_THIS	1
+died_John	1
 NNS_:
 clothes_-	1
 movies_-	1
@@ -2656,13 +2528,6 @@ people_--	1
 males_--	1
 conclaves_:	1
 lives_:	1
-,_VBZ
-,_tends	1
-,_does	1
-,_inspires	1
-,_gets	1
-,_lives	1
-,_is	1
 POS_DT
 's_THE	1
 JJ_NNS
@@ -2706,8 +2571,6 @@ few_people	1
 various_types	1
 many_ways	1
 early_1980s	1
-CC_JJS
-and_most	1
 DT_PRP$
 all_their	1
 all_her	1
@@ -2722,14 +2585,13 @@ original_SAVING	1
 wonderful_Pope	1
 spiritual_Guide	1
 ex-priest_Abalardi	1
+drunk_Abalardi	1
 young_Edward	1
 young_Pope	1
 CD_IN
 one_of	5
 ONE_OF	1
 one_with	1
-''_CC
-''_and	1
 IN_WP
 of_who	1
 for_who	1
@@ -2754,22 +2616,30 @@ the_partially	1
 an_overly	1
 a_technically	1
 a_nearly	1
-JJS_,
-least_,	1
 MD_.
 should_.	1
 NN_PRP
 DAY_I	1
 pope_I	1
 demand_I	1
+meantime_I	1
+life_I	1
+version_I	1
+video_I	1
+way_I	1
 life_we	1
+film_you	1
+time_I	1
 dvd_I	1
 something_he	1
-movie_it	1
+movie_it	2
+help_he	1
+accident_he	1
 effect_he	1
-way_he	1
+way_he	2
 film_I	1
-movie_I	1
+message_you	1
+movie_I	2
 VB_PRP$
 see_my	2
 help_his	1
@@ -2782,19 +2652,17 @@ put_your	1
 make_his	1
 ._.
 ._.	2
-,_MD
-,_ca	1
-,_can	1
 JJ_DT
 last_the	1
 insignificant_a	1
 such_a	2
 RB_CC
 abroad_and	1
+so_and	1
 out_and	1
 over_and	1
 anyway_and	1
-ago_and	2
+ago_and	3
 along_and	1
 again_and	1
 MD_VB
@@ -2868,20 +2736,14 @@ RB_RBR
 now_more	1
 WRB_NNS
 where_people	1
-,_DT
-,_this	4
-,_a	2
-,_the	10
-,_no	2
 NNP_NNPS
 Fisherman_Volumes	1
 VB_VBZ
 burn_is	1
 NNS_DT
 Thanks_a	1
+characters_the	1
 places_all	1
-POS_``
-'s_``	1
 VBZ_NN
 IS_RARE	1
 knows_nothing	1
@@ -2891,10 +2753,6 @@ tends_sheep	1
 's_appeal	1
 POS_RB
 's_not	1
-UH_,
-No_,	1
-Please_,	1
-OK_,	1
 TO_JJ
 to_other	1
 VBP_DT
@@ -2923,6 +2781,8 @@ decided_to	2
 used_to	1
 moved_to	1
 showed_to	1
+VBN_VB
+defeated_take	1
 VB_VB
 be_be	1
 Please_get	1
@@ -2933,6 +2793,7 @@ MOST_FOND	1
 NN_:
 title_...	1
 mankind_--	1
+aqueduct_...	1
 Name_:	1
 production_:	1
 abstraction_--	1
@@ -2947,74 +2808,8 @@ TV_;	1
 shepherd_;	1
 seller_:	1
 mother_--	1
-._''
-?_''	6
-!_''	2
-._''	6
 NNP_JJ
 I_due	1
-NN_,
-bum_,	3
-meantime_,	1
-role_,	2
-death_,	1
-writing_,	1
-story_,	2
-poverty_,	1
-unemployment_,	1
-irony_,	1
-moving_,	1
-store_,	1
-day_,	1
-novel_,	1
-village_,	1
-way_,	3
-version_,	1
-acting_,	2
-ether_,	1
-video_,	1
-gem_,	1
-town_,	2
-remorse_,	1
-hope_,	1
-accident_,	1
-Naw_,	1
-review_,	1
-growth_,	1
-figurehead_,	1
-matter_,	1
-woman_,	1
-life_,	1
-tale_,	1
-infrastructure_,	1
-film_,	2
-thinking_,	1
-movie_,	9
-humor_,	1
-pope_,	1
-sheep_,	1
-morality_,	1
-pleeeeeeze_,	1
-respect_,	1
-cardinal_,	1
-despair_,	2
-job_,	1
-message_,	1
-Holiness_,	1
-burning_,	1
-void_,	1
-love_,	2
-time_,	2
-family_,	1
-plot_,	1
-scenery_,	1
-step_,	1
-help_,	1
-``_NN
-``_Naw	1
-``_escape	1
-`_trilogy	1
-``_sleeper	1
 NN_.
 intention_.	1
 way_.	1
@@ -3041,6 +2836,7 @@ DVD_!	4
 DVD_.	10
 village_.	3
 mine_!	1
+Duo_.	1
 secret_.	1
 society_.	1
 purchase_.	1
@@ -3064,6 +2860,7 @@ shot_.	1
 bunch_!	1
 </a>_.	1
 aqueduct_.	2
+wonder_.	1
 FILM_.	1
 list_.	1
 thing_.	1
@@ -3098,35 +2895,27 @@ which_represents	1
 which_spreads	1
 WDT_VBP
 that_mount	1
-''_VBG
-''_starring	1
-,_VB
-,_take	1
-,_bring	1
-,_please	1
-,_see	1
-,_inspire	1
-,_enjoy	1
-''_NN
-''_film	1
+VBP_VB
+say_GIVE	1
 IN_TO
 over_to	1
 PRP_CC
-it_and	1
-myself_and	1
+it_and	2
+it_both	1
 you_or	1
+me_but	1
+myself_and	1
 himself_and	1
 WDT_VBD
 that_was	1
 that_suffered	1
-DT_,
-that_,	1
-all_,	1
 DT_.
 this_.	2
 that_.	2
 DT_:
 that_...	1
+FW_VB
+!!!_get	1
 :_VBZ
 --_is	1
 --_asks	1
@@ -3170,8 +2959,6 @@ as_much	1
 so_glad	3
 NNS_RBR
 years_earlier	1
-VB_``
-call_``	1
 NNPS_.
 Catholics_.	1
 TO_NNP
@@ -3196,17 +2983,26 @@ seeing_this	1
 acting_all	1
 using_this	1
 RB_PRP
-then_you	1
-Once_I	1
+then_you	2
+back_I	1
+Well_we	1
+No_they	1
 Maybe_he	1
+unexpectedly_he	1
 Now_I	1
 else_it	1
+Instead_we	1
 instead_it	1
-Soon_he	1
+Soon_he	2
+Also_I	1
 even_you	1
 suddenly_he	1
 Instead_it	1
+frankly_I	1
+not_you	1
 So_I	1
+Anyway_he	1
+Once_I	1
 VBZ_PRP
 lifts_me	1
 asks_him	1
@@ -3214,6 +3010,7 @@ gets_himself	1
 manufactures_it	1
 helps_me	1
 finds_himself	2
+is_You	1
 recognizes_him	2
 allows_him	2
 makes_you	1
@@ -3240,36 +3037,29 @@ get_off	1
 bring_out	2
 figure_out	1
 run_off	1
-NNP_WP
-Pope_who	2
-Leo_who	1
+VBZ_PDT
+comes_all	1
+has_all	1
 JJ_WRB
 new_when	1
 NNS_WRB
 people_when	1
-``_JJ
-``_old	1
-``_Full	1
-``_religious	1
-``_Amazing	1
 NNP_IN
+Conti_along	1
 Rey_as	1
 Pope_for	1
 Cramer_after	1
 Pope_on	1
-Vatican_in	1
+Quinn_from	1
+GRACE_for	1
 Pope_in	1
+Vatican_in	1
 Olmos_in	1
 IT_IN	1
 Mauceri_as	1
 VHS_for	1
 Gianini_as	1
 I_in	1
-,_TO
-,_to	1
-VBZ_``
-is_`	1
-is_``	1
 IN_VBG
 of_being	1
 from_helping	1
@@ -3297,17 +3087,10 @@ POS_NN
 's_life	1
 's_<a href="http://www.amazon.com/gp/product/0786719842">	1
 '_nature	1
-,_PRP
-,_he	7
-,_they	1
-,_we	2
-,_you	5
-,_it	4
-,_I	15
+CC_JJS
+and_most	1
 IN_VBN
 Although_listed	1
-``_VBN
-``_murdered	1
 RB_NNP
 maybe_God	1
 then_Pope	1
@@ -3318,42 +3101,44 @@ JJS_MD
 most_would	1
 VBG_.
 following_!	1
-,_RBR
-,_more	1
-VBG_,
-blasting_,	1
 JJ_CC
-enjoyable_and	1
-sane_and	1
-rural_and	1
-venomous_and	1
-passionate_and	1
-complex_and	1
-feel-good_but	1
+stupid_but	1
 Catholic_or	1
-inaffective_and	1
 4th_or	1
-great_and	1
 good_and	1
 sensitive_but	1
-old_and	1
-young_and	1
+sane_and	1
+venomous_and	1
+skeptical_but	1
+feel-good_but	1
+inaffective_and	1
+deep_and	1
 rough_and	1
 funny_and	2
+enjoyable_and	1
+rural_and	1
+passionate_and	1
+ugly_and	1
+mudered_but	1
+old_and	1
+young_and	1
+complex_and	1
+great_and	1
 IN_VBZ
 as_is	1
 JJ_CD
 only_one	1
-CD_,
-1986_,	1
 CD_.
 one_.	2
 1978_.	1
 WRB_VBZ
+why_does	1
 Why_does	1
-VBZ_PDT
-comes_all	1
-has_all	1
+NNP_WP
+Pope_who	2
+Conti_who	1
+Leo_who	1
+Abalardi_who	1
 VBN_WRB
 lost_when	1
 TO_NN
@@ -3393,6 +3178,7 @@ NNP_NN
 Giannini_character	1
 VHS_player	1
 Church_today	1
+Story_movie	1
 Catholic_friend	1
 Petrine_ministry	1
 Christ_figure	2
@@ -3448,10 +3234,8 @@ the_most	3
 NNS_MD
 Viewers_will	1
 stores_should	1
-,_JJS
-,_most	1
-VBN_''
-murdered_''	1
+TO_RB
+to_temporarily	1
 RBR_IN
 more_than	1
 RB_IN
@@ -3468,6 +3252,7 @@ even_if	1
 somehow_that	1
 just_outside	1
 together_in	1
+Here_at	1
 n't_until	1
 Ever_since	1
 first_in	1
@@ -3522,23 +3307,6 @@ are_too	1
 do_n't	7
 are_somehow	1
 are_not	1
-''_NNP
-''_Pope	1
-NNP_,
-Pope_,	2
-Gianinni_,	1
-GRACE_,	1
-Conti_,	3
-Vatican_,	1
-Eeeehhhhhhhh_,	1
-</a>_,	1
-Rey_,	1
-Story_,	1
-Quinn_,	1
-Biondi_,	1
-Abalardi_,	1
-Young_,	1
-Fisherman_,	1
 CD_JJ
 one_concrete	1
 one_other	1
@@ -3578,6 +3346,7 @@ touching_movie	1
 malfunctioning_village	1
 recurring_favorite	1
 JJ_VBG
+human_striving	1
 old_malfunctioning	1
 NNP_:
 Catholic_-	1
@@ -3597,13 +3366,8 @@ has_;	1
 VBZ_.
 is_!	1
 is_.	1
-VBZ_,
-asks_,	1
-does_,	1
-bullies_,	1
-is_,	1
-delights_,	1
 RB_NN
+wrongly_bug	1
 never_tire	1
 n't_someone	1
 really_matter	1
@@ -3617,41 +3381,41 @@ gifts_to	1
 friends_to	1
 WDT_CD
 THAT_ONE	1
-VBZ_IN
-fills_in	1
-looks_like	1
-is_about	1
-is_out	1
-is_on	1
-lives_on	1
-'s_because	1
-lives_at	1
-derives_from	1
-demands_that	1
-is_that	1
-lives_among	2
-has_on	1
-is_by	1
-chooses_in	1
-improves_with	1
-is_in	1
+JJ_JJ
+main_bad	1
+little_known	1
+beautiful_sane	1
+warm-hearted_deep	1
+funny_enjoyable	1
+heartwarming_touching	1
+young_hopeless	1
+own_true	1
+such_true	1
+exact_same	1
+impoverished_Italian	1
+strong_humorous	1
+Heartwarming_subtle	1
+small_Italian	1
+gentle_silly	1
+last_few	1
+non-religious_religious	1
+touching_perfect	1
+unknown_underrated	1
+beautiful_young	1
+creative_unique	1
+terrible_international	1
+many_good	1
+Catholic_non	1
+intelligent_warm-hearted	1
 VBN_PRP
 seen_it	2
 shown_it	1
 watched_it	4
-,_CC
-,_or	1
-,_and	30
-,_both	1
-,_but	11
 VB_NN
 do_business	1
 see_movie	1
 be_pope	1
 do_battle	1
-,_CD
-,_1986	1
-,_112	1
 RP_CC
 off_and	1
 NN_WP
@@ -3662,12 +3426,14 @@ one_who	1
 figure_who	1
 Isabella_who	1
 reviewer_who	1
+woman_whom	1
 pope_who	3
 man_who	2
 writer_who	1
+job_who	1
 anyone_who	1
-VBP_WP
-know_what	1
+UH_PRP$
+OK_my	1
 VBD_WP
 liked_what	1
 PRP_TO
@@ -3675,17 +3441,19 @@ him_to	2
 it_to	5
 me_to	1
 NNS_VBP
+features_do	1
 scenes_are	1
 actions_seem	1
 people_live	1
 people_are	2
 villagers_sort	1
+characters_are	1
 actions_evoke	1
 results_are	1
 bishops_govern	1
 fans_do	1
 instances_result	1
-characters_are	1
+previews_do	1
 NNP_MD
 Pope_could	1
 XIV_could	1
@@ -3699,51 +3467,42 @@ like_one	1
 in_1978	1
 by_one	1
 NNS_VBZ
+outskirts_tends	1
 matters_is	1
 people_allows	1
 VBD_PRP$
 got_his	1
 IN_CC
 over_and	1
+since_and	1
 with_and	1
 before_and	1
-IN_,
-that_,	1
-since_,	2
-NNS_VBD
-clergymen_were	1
-others_were	1
+JJS_IN
+most_of	1
 NNS_VBG
 others_reviewing	1
 guns_blasting	1
-``_IN
-`_like	1
+flocks_living	1
 PRP_NNP
 I_WANT	1
+it_DO	1
+you_Abelardi	1
 PRP_NNS
 me_years	2
-,_UH
-,_oh	1
 VBN_NNP
 retitled_<a href="http://www.amazon.com/gp/product/630227706X">	1
+murdered_Pope	1
 VBP_NNP
 am_Methodist	1
 VBP_RP
 make_up	1
 fall_off	1
-``_PRP
-``_I	2
-``_You	2
-``_He	1
 POS_JJ
 's_disastrous	1
 's_beautiful	1
 's_final	1
 :_JJ
 :_immediate	1
-''_IN
-''_with	1
-''_on	1
 VBD_VBN
 was_made	1
 became_overwhelmed	1
@@ -3753,6 +3512,7 @@ was_published	1
 was_elected	2
 had_been	1
 was_used	1
+had_murdered	1
 felt_defeated	1
 had_seen	2
 was_isolated	1
@@ -3761,6 +3521,7 @@ was_set	1
 VBZ_VB
 does_exist	2
 does_have	1
+does_inspire	1
 does_understand	1
 VBD_PRP
 caused_it	1
@@ -3804,10 +3565,6 @@ in_real	1
 for_concrete	1
 for_humanitarian	1
 for_many	1
-JJ_''
-religious_''	1
-RBR_,
-earlier_,	1
 VBN_NN
 defeated_village	2
 elected_pope	2
@@ -3829,7 +3586,7 @@ Giannini_give	1
 ;_I	1
 -_he	1
 -_you	1
-..._I	1
+..._I	2
 --_I	1
 --_it	1
 -_it	1
@@ -3848,7 +3605,7 @@ occasions_in	1
 roots_of	1
 evenings_before	1
 clothes_with	1
-copies_for	1
+copies_for	2
 forces_in	1
 problems_of	1
 copies_of	1
@@ -3872,26 +3629,28 @@ VBD_:
 did_...	1
 NNP_VBZ
 Pope_chooses	1
-Entertainment_has	1
-Pope_has	1
-Conti_is	1
-Conti_gives	1
-Pope_grows	1
-Leo_has	1
-IT_IS	1
-Conti_does	1
-Conti_makes	1
 Leo_wishes	1
-Pope_asks	1
-Amazon_manufactures	1
-Abalardi_has	1
+Europe_does	1
+Conti_makes	1
+Grace_is	1
+Pope_is	1
+US_is	1
 Ponti_is	1
 God_does	3
 Grace_delights	1
+Entertainment_has	1
+Pope_has	1
+IT_IS	1
+Conti_is	1
+Conti_gives	1
+Amazon_manufactures	1
+Conti_does	1
 Petra_reaffirms	1
-Europe_does	1
-US_is	1
+Pope_grows	1
+Leo_has	1
 Abalardi_recognizes	1
+Abalardi_has	1
+Pope_asks	1
 VB_JJ
 be_available	1
 be_faithful	1
@@ -3952,22 +3711,18 @@ to_say	1
 to_win	1
 RB_MD
 also_would	1
-NN_``
-misnomer_``	1
-movie_``	1
 VBG_NNP
 starring_Anthony	1
 acknowledging_Morris	1
 doing_God	1
 watching_SAVING	1
 starring_Craig	1
-VBD_,
-died_,	1
 VBD_.
 did_.	1
 defeated_.	1
 paid_.	1
 NNP_VBG
+Fisherman_starring	1
 Grace_following	1
 NNP_VBD
 Amazon_manufactured	1
@@ -3991,50 +3746,57 @@ God_'s	2
 Conti_'s	4
 GRACE_'	1
 NN_RB
-movie_back	1
-film_quickly	1
-movie_again	1
-home_there	1
+movie_especially	1
 faith_somehow	1
+ether_even	1
+film_quickly	1
+DVD_immediately	1
+townspeople_back	1
+movie_perhaps	1
+movie_still	1
+act_somehow	1
+movie_back	1
+movie_again	1
+talent_here	1
+love_even	1
+home_there	1
+time_ago	1
+day_somewhat	1
 movie_as	1
 movie_first	1
 hit_readily	1
 movie_somehow	1
-movie_still	1
 builder_too	1
-townspeople_back	1
 town_once	1
 level_understandably	1
-act_somehow	1
-time_ago	1
-DVD_immediately	1
-talent_here	1
+figurehead_maybe	1
 JJ_IN
 prompt_in	1
+eager_for	1
 perfect_as	1
 hesitant_in	1
 good_as	1
 available_on	3
 out-of-touch_with	1
 good_for	1
+difficult_if	1
 Full_of	1
 happy_with	1
 good_about	1
 much_as	1
 heavy_from	1
 few_of	1
-eager_for	1
+favorite_that	1
 sorry_about	1
-VBD_``
-had_``	1
 NNS_NN
+lines_irony	1
 favorites_list	1
+VB_MD
+swallow_can	1
 NN_RP
 bug_off	1
-IN_:
-throughout_--	1
 VBZ_DT
-is_the	6
+is_the	7
 finds_a	1
 reaffirms_the	1
 's_a	4
@@ -4079,9 +3841,14 @@ MD_IN
 can_in	1
 VBZ_NNS
 makes_mistakes	1
+bullies_theives	1
 VBP_NN
 are_plenty	1
 know_anything	1
+NN_PRP$
+respect_your	1
+bum_his	1
+remorse_my	1
 MD_NNP
 Must_Diet	1
 WDT_VB
@@ -4091,12 +3858,17 @@ be_one	1
 VB_CC
 exist_but	1
 help_but	1
+buy_and	1
+sleep_and	1
 find_and	1
 NNP_DT
 US_these	1
-Abalardi_the	1
-Into_the	1
 Ciolin_the	1
+Abalardi_the	1
+Conti_a	1
+Biondi_the	1
+Pope_the	1
+Into_the	1
 JJS_NN
 best_action	1
 best_role	1
@@ -4108,15 +3880,6 @@ off_by	1
 out_on	3
 VBN_NNS
 orphaned_children	1
-,_NNP
-,_Erland	1
-,_Europe	1
-,_Abelardi	1
-,_Abalardi	1
-,_DO	1
-,_Writ	1
-,_Fernando	1
-,_John	1
 CC_NNP
 and_FISHERMAN	1
 and_Giannini	1
@@ -4135,10 +3898,25 @@ and_confusions	1
 and_obstacles	1
 and_problems	1
 and_bishops	1
-,_NNS
-,_theives	1
-,_widows	1
-,_fears	1
+VBZ_IN
+fills_in	1
+looks_like	1
+is_about	1
+is_after	1
+is_on	1
+lives_on	1
+is_in	1
+'s_because	1
+lives_at	1
+derives_from	1
+demands_that	1
+is_that	1
+lives_among	2
+has_on	1
+is_by	1
+chooses_in	1
+improves_with	1
+is_out	1
 TO_WDT
 to_which	1
 DT_TO
@@ -4175,13 +3953,14 @@ central_character	1
 good_time	1
 young_woman	1
 cheap_shot	1
-wonderful_family	1
+wonderful_family	2
 hard_pill	1
 soulful_mother	1
 Wonderful_movie	1
 sacrificial_lamb	1
 true_delight	1
 positive_step	1
+religious_film	1
 small_village	1
 only_problem	1
 own_review	1
@@ -4197,7 +3976,7 @@ make-you-think_message	1
 Heart-warming_story	1
 wonderful_movie	1
 compassionate_pope	1
-great_movie	1
+official_release	1
 positive_force	1
 slight_misnomer	1
 final_3rd	1
@@ -4233,18 +4012,19 @@ GREAT_FILM	1
 Italian_town	1
 charming_film	1
 marvelous_acting	1
+Later_someone	1
 bad_guy	1
 real_life	1
 incredible_cast	1
 silly_film	1
 other_film	1
 great_shape	1
-wonderful_heart	1
+wonderful_heart	2
 due_respect	1
 obvious_connexion	1
 young_pope	1
 smear_campaign	1
-official_release	1
+great_movie	1
 tremendous_loss	1
 old_god	1
 good_shape	1
@@ -4254,6 +4034,7 @@ perfect_box	1
 humorous_flavor	1
 human_theme	1
 beautiful_movie	1
+epidemic_unemployment	1
 Buddhist_priest	1
 subtle_humor	1
 exceptional_performance	1

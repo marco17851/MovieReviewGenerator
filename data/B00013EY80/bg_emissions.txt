@@ -1,4 +1,5 @@
 POS_NNP
+'_Old	1
 's_Truckin	1
 IN_NN
 in_obscurity	1
@@ -20,31 +21,26 @@ with_style	1
 of_mine	1
 of_style	1
 of_ground	1
-,_IN
-,_after	2
-,_for	3
-,_in	5
+VBN_VBN
+been_shown	1
 PRP_RB
 I_first	1
 I_always	1
 It_really	1
 he_so	1
-TO_PRP$
-to_their	1
 NNS_WRB
 trucks_why	1
 VBG_VBN
 being_taped	1
 being_videotaped	1
-VBN_VBN
-been_shown	1
 NNP_IN
 Lulubelle_from	1
+Carlyle_in	1
 Bobby_on	1
 Marvelous_for	1
 York_in	1
-Carlyle_in	1
 Short_at	2
+Ball_on	1
 DT_NNS
 the_CDs	1
 the_collections	1
@@ -60,8 +56,6 @@ and_sophisticated	1
 and_many	2
 VBG_CD
 performing_one	1
-CC_EX
-And_there	1
 MD_RB
 wo_n't	1
 should_also	1
@@ -70,6 +64,7 @@ Should_n't	2
 NN_WDT
 anything_that	1
 room_that	1
+coffee_which	1
 matter_what	1
 VB_DT
 sell_the	1
@@ -89,23 +84,15 @@ selected_are	1
 NNS_TO
 Thanks_to	1
 companies_to	1
-VBZ_``
-does_``	1
 IN_VBG
 That_Moving	1
-POS_NN
-'s_audience	1
-'s_piano	1
-'s_performance	1
-POS_,
-'_,	1
-IN_``
-with_``	1
-,_PRP
-,_he	5
-,_I	2
-,_we	2
-,_you	3
+RB_.
+again_.	1
+worldwide_.	1
+well_.	1
+forever_.	1
+VBP_.
+suppose_.	1
 VBZ_JJ
 is_intercut	1
 is_good	2
@@ -130,10 +117,11 @@ WP_PDT
 what_all	1
 DT_IN
 those_of	1
-this_on	1
 Those_of	1
-all_of	1
 some_of	1
+all_of	1
+this_on	1
+all_for	1
 IN_JJR
 for_more	1
 PRP_IN
@@ -149,38 +137,28 @@ and_now	1
 And_suddenly	1
 and_simply	1
 and_then	2
-JJS_IN
-most_of	1
-VBN_,
-known_,	1
 JJ_CC
 poor_and	1
 terrific_and	1
 superb_and	1
 WRB_MD
 Why_Should	2
-VBP_DT
-have_the	1
-call_that	1
 JJ_CD
 nightly_six	1
-VBG_TO
-trying_to	1
-going_to	1
 IN_CC
 over_and	2
 CD_.
 1955_.	1
 78_.	1
 1979_.	1
-,_PRP$
-,_his	1
-,_its	1
 PRP$_JJ
 his_inimitable	1
 his_personal	1
-,_``
-,_``	3
+POS_PRP$
+'s_Your	1
+WP_VBD
+who_made	1
+who_had	1
 CC_TO
 Yet_to	1
 IN_PRP
@@ -198,8 +176,8 @@ of_us	2
 of_myself	1
 that_he	1
 that_we	1
-PRP_RP
-it_up	1
+DT_PRP
+all_I	1
 VBN_RB
 seen_quite	1
 missed_forever	1
@@ -212,11 +190,12 @@ Is_Yet	1
 sings_and	1
 NNS_WDT
 songs_that	1
-,_NN
-,_Everybody	1
-``_CD
-``_One	1
-``_50	1
+PRP_RP
+it_up	1
+POS_NN
+'s_audience	1
+'s_piano	1
+'s_performance	1
 :_NNS
 ;_songs	1
 :_NNP
@@ -259,9 +238,8 @@ CD_NNS
 35_years	1
 3_cameras	1
 six_months	1
-WP_VBD
-who_made	1
-who_had	1
+PRP_PRP
+myself_he	1
 PRP_VBG
 him_performing	1
 NNP_NN
@@ -341,9 +319,8 @@ the_song	1
 the_club	1
 The_DVD	1
 the_cafe	1
-CC_,
-and_,	1
-And_,	1
+TO_PRP$
+to_their	1
 DT_VBZ
 this_is	1
 This_is	1
@@ -353,11 +330,8 @@ the_Moving	1
 VBN_RP
 grown_up	1
 backed_up	1
-``_NNP
-``_Bobby	1
-``_My	1
-``_Mabel	1
-``_American	1
+DT_VBD
+all_had	1
 PRP_VBP
 They_call	1
 you_'re	1
@@ -369,8 +343,6 @@ we_are	2
 I_think	1
 You_have	1
 I_suspect	1
-JJ_``
-great_``	2
 RB_DT
 well_the	1
 quite_a	1
@@ -397,22 +369,31 @@ He_'s	1
 it_deserves	1
 he_comes	1
 he_says	1
-``_VBZ
-``_is	1
-._''
-?_''	1
-._''	2
-TO_NNP
-to_New	1
+NNS_MD
+fans_wo	1
+NNP_CC
+Harlem_and	1
+TELEMINE_and	1
+Walls_and	1
+Mercer_and	1
+Rodgers_and	1
+Porter_and	1
+Amazon_and	1
+Noel_and	1
+Ellington_and	1
+Jay_and	1
+Carlyle_but	1
+Ball_and	1
+Short_and	2
+Carlyle_and	1
+Rodgers_&	1
+Bobby_and	1
+NNP_CD
+Property_50	1
 RP_NN
 up_close	1
-JJ_,
-sophisticated_,	1
-wonderful_,	1
-great_,	1
-IN_,
-Since_,	1
-about_,	1
+JJ_VBN
+significant_filmed	1
 IN_.
 in_.	1
 at_.	1
@@ -422,6 +403,7 @@ actually_in	1
 far_as	1
 now_that	1
 there_because	1
+suddenly_after	1
 Even_though	1
 ago_at	1
 always_with	1
@@ -432,9 +414,8 @@ dying_of	1
 Dancing_at	1
 $_CD
 $_38,000	1
-,_RB
-,_always	1
-,_mostly	1
+RP_.
+up_.	1
 RB_CC
 sometimes_and	1
 CC_PRP
@@ -458,17 +439,14 @@ I_?	1
 him_.	1
 us_.	1
 it_.	2
-PRP_,
-I_,	1
-myself_,	1
-him_,	1
-TO_PRP
-to_him	1
+IN_:
+in_...	1
 IN_PRP$
 at_his	1
 with_my	1
 in_his	2
 for_my	1
+about_its	1
 for_our	1
 of_his	3
 for_his	3
@@ -476,35 +454,8 @@ of_my	1
 that_his	1
 JJR_NN
 older_age	1
-''_NNP
-''_Short	1
-''_NNS
-''_entertainers	1
-''_songs	1
-IN_JJ
-on_regular	1
-of_individual	1
-by_black	1
-in_popular	1
-NNP_,
-Bobby_,	2
-Porter_,	1
-Carlyle_,	1
-Rawlings_,	1
-Bayport_,	1
-Short_,	1
-Cole_,	1
-Rose_,	1
-Window_,	1
-Razaf_,	1
-Johnson_,	1
-Ball_,	1
-Gershwin_,	2
-Tennessee_,	1
-Hall_,	1
-Words_,	1
-Property_,	1
-Harlem_,	1
+PRP_VB
+she_play	1
 NNP_.
 Carlyle_.	2
 N.Y._.	1
@@ -517,18 +468,13 @@ and_plays	1
 NN_WRB
 youth_when	1
 morning_when	1
-PRP_WRB
-it_whenever	1
-JJ_VBN
-significant_filmed	1
+NNP_WRB
+Ball_How	1
 IN_IN
 by_for	1
 at_That	1
-RB_.
-again_.	1
-worldwide_.	1
-well_.	1
-forever_.	1
+Since_after	1
+with_At	1
 PRP$_NN
 my_supper	1
 his_style	1
@@ -548,10 +494,11 @@ his_career	1
 His_knowledge	1
 his_LP	1
 Your_Romance	1
-DT_VBD
-all_had	1
+VBN_JJ
+shown_many	1
 NNP_PRP
 Short_we	1
+Bobby_you	1
 CC_VBD
 but_was	1
 and_brought	1
@@ -568,17 +515,14 @@ alive_now	1
 VB_IN
 live_at	1
 come_with	1
-''_``
-''_``	3
 JJ_VBG
 individual_striving	1
 tough_trying	1
 JJ_PRP
+wonderful_he	1
 interested_I	1
 RB_PDT
 only_half	1
-,_''
-,_''	6
 JJ_.
 stingy_.	1
 wonderful_.	1
@@ -598,14 +542,12 @@ got_together	1
 was_still	1
 NN_DT
 level_no	1
+ebullience_the	1
 level_the	1
-,_VBG
-,_Dancing	1
-,_performing	1
-RB_,
-suddenly_,	1
-Now_,	1
-Well_,	1
+tape_the	1
+PDT_DT
+all_the	2
+half_a	1
 VBN_IN
 held_into	1
 packed_for	1
@@ -624,28 +566,27 @@ tops_!	1
 jewels_.	1
 jobs_.	1
 customers_.	1
-RP_.
-up_.	1
 TO_DT
 to_every	1
 to_the	2
 to_a	4
-NNS_MD
-fans_wo	1
+VBD_TO
+intended_to	1
+had_to	1
+played_to	1
+refused_to	1
+moved_to	1
 VBD_NNS
 sang_songs	1
 VBD_NNP
 put_Bobby	1
 VBD_RP
 grew_up	1
-VBP_,
-know_,	1
-,_VBZ
-,_shows	1
-NNS_,
-favorites_,	1
-records_,	1
-spirits_,	1
+VBP_JJ
+'re_interested	1
+are_terrific	1
+CC_EX
+And_there	1
 RB_NN
 not_drive	1
 NNS_VBN
@@ -675,8 +616,8 @@ wonderful_interviews	1
 many_times	1
 such_companies	1
 loving_denizens	1
-VBP_.
-suppose_.	1
+CC_JJS
+and_most	1
 VBZ_IN
 shows_that	1
 learns_in	1
@@ -685,6 +626,7 @@ says_on	1
 JJ_NNP
 defunct_CBS	1
 posh_Hotel	1
+great_American	1
 CD_IN
 50_by	1
 One_of	1
@@ -692,25 +634,26 @@ PRP$_JJS
 his_best	1
 JJR_IN
 more_than	1
-''_CC
-''_and	3
-,_CC
-,_and	6
+VB_VBG
+Come_Dancing	1
+need_prompting	1
 VB_NN
 Thank_god	1
 VB_NNP
 hear_Bobby	1
 NN_NNS
-TV_trucks	1
 supper_clubs	1
+TV_trucks	1
+society_entertainers	1
+NNS_NNP
+CDs_Mabel	1
 PRP_WP
 us_who	1
 NN_NNP
+performance_Short	1
 witness_Bobby	1
 show_Short	1
 way_Leah	1
-``_VBG
-``_Moving	1
 VBG_PRP
 packing_them	1
 WDT_PRP
@@ -742,11 +685,16 @@ you_will	2
 it_should	1
 VBG_NNP
 Moving_Picture	3
+NN_PRP
+legend_he	1
+DVD_we	1
+century_he	1
+music_you	1
+professionalism_I	1
+work_you	1
+singer_he	1
 VB_PRP$
 get_his	1
-VB_TO
-listen_to	1
-go_to	1
 IN_RB
 after_only	1
 through_again	1
@@ -758,23 +706,11 @@ performed_many	1
 was_superb	1
 was_tough	1
 owned_mobile	1
-NNP_CC
-TELEMINE_and	1
-Walls_and	1
-Mercer_and	1
-Rodgers_and	1
-Porter_and	1
-Noel_and	1
-Ellington_and	1
-Jay_and	1
-Carlyle_but	1
-Short_and	1
-Carlyle_and	1
-Rodgers_&	1
-Bobby_and	1
-VBP_JJ
-'re_interested	1
-are_terrific	1
+PRP_WRB
+it_whenever	1
+VBG_TO
+trying_to	1
+going_to	1
 VBP_PRP
 suspect_he	1
 make_it	1
@@ -796,8 +732,8 @@ can_watch	1
 must_come	1
 VBD_WP
 loved_what	1
-VBZ_,
-says_,	1
+NNS_VBP
+sidemen_sing	1
 NN_VBN
 hand_held	1
 VB_VBN
@@ -808,12 +744,8 @@ be_seen	1
 be_offered	2
 WRB_PRP$
 how_his	1
-NNP_JJ
-Manhattan_high	1
-RB_VBN
-usually_backed	1
-always_liked	1
-well_known	1
+TO_PRP
+to_him	1
 IN_CD
 in_1955	1
 in_1979	1
@@ -822,8 +754,8 @@ than_35	1
 VB_CC
 sit_and	1
 splurge_and	1
-,_JJS
-,_most	1
+UH_NN
+Oh_hell	1
 CC_NN
 and_passion	1
 and_expert	1
@@ -833,11 +765,12 @@ and_sophistication	1
 and_everyone	1
 VBD_PRP$
 had_his	1
-,_DT
-,_the	2
-,_some	2
-,_The	1
-,_this	1
+RB_PRP
+Now_he	1
+So_I	2
+Well_we	1
+n't_I	2
+Now_I	1
 VBP_VBN
 are_seen	1
 NNP_VBZ
@@ -848,14 +781,12 @@ Bobby_is	1
 Bobby_deserves	1
 CD_VBZ
 one_learns	1
-VB_,
-Come_,	1
+JJS_IN
+most_of	1
 NNS_VBG
 times_including	1
-``_IN
-``_as	1
-``_At	1
-``_On	1
+NNP_JJ
+Manhattan_high	1
 CC_VB
 and_be	1
 or_sing	1
@@ -876,20 +807,18 @@ VBZ_NN
 loves_music	1
 is_gravy	1
 's_fun	1
-``_WRB
-``_Why	1
+VBP_NNS
+sing_standards	1
 TO_JJ
 to_great	1
 to_such	1
 to_beautiful	1
-``_PRP
-``_I	1
+VBP_DT
+know_this	1
+have_the	1
+call_that	1
 RP_CC
 up_and	1
-NNS_VBP
-sidemen_sing	1
-CC_``
-and_``	1
 NN_NN
 TV_audience	1
 saloon_singer	3
@@ -908,10 +837,8 @@ cable_channel	1
 song_styling	1
 cabaret_legend	1
 performance_film	1
-,_WP
-,_what	1
-CD_PRP
-38,000_I	1
+PRP_NNP
+I_Honeysuckle	1
 POS_JJ
 's_posh	1
 NN_VBD
@@ -961,11 +888,6 @@ EX_VBD
 there_were	1
 JJS_.
 best_.	1
-VBP_NNS
-sing_standards	1
-,_JJ
-,_great	1
-,_many	1
 DT_JJ
 the_other	1
 a_special	1
@@ -1024,12 +946,11 @@ produced_this	1
 was_the	1
 made_a	3
 was_an	2
-''_IN
-''_on	1
 NN_:
 style_;	1
 NNS_CC
 drums_and	1
+records_and	1
 clubs_and	1
 songs_and	1
 cameras_and	1
@@ -1050,32 +971,11 @@ was_going	1
 was_being	2
 NNP_VB
 Short_live	1
-,_WRB
-,_How	1
-NN_,
-interview_,	1
-treasure_,	1
-development_,	1
-tape_,	1
-music_,	1
-DVD_,	3
-ebullience_,	1
-life_,	1
-legend_,	1
-talent_,	1
-century_,	1
-professionalism_,	1
-hell_,	1
-coffee_,	1
-TV_,	1
-ground_,	1
-performance_,	1
-dedication_,	1
-work_,	1
-singer_,	3
-era_,	1
-``_NN
-``_cafe	1
+IN_JJ
+on_regular	1
+of_individual	1
+by_black	1
+in_popular	1
 NN_.
 craft_.	1
 action_.	1
@@ -1102,19 +1002,19 @@ audience_.	2
 time_.	1
 jazz_.	2
 adoration_.	1
-NNS_``
-CDs_``	1
 VBZ_WRB
 explains_how	1
 NN_IN
 buyer_for	1
-interpretation_of	1
+program_on	1
 LP_with	1
+cafe_for	1
 deal_of	1
 TV_on	1
 performance_because	1
 performance_at	1
-cafe_for	1
+dedication_in	1
+treasure_for	1
 edition_of	1
 presentation_of	1
 show_because	1
@@ -1128,13 +1028,16 @@ performer_of	1
 fixture_at	1
 look_of	1
 styling_of	1
+era_in	1
 recording_of	2
 performance_up	1
 film_of	1
+hell_in	1
 fact_that	1
 treasure_over	1
 distribution_as	1
 couple_of	1
+life_in	1
 deal_with	2
 epitome_of	1
 audience_in	1
@@ -1142,10 +1045,10 @@ level_of	1
 number_of	1
 triumph_of	1
 night_at	1
-end_of	2
+DVD_as	1
 evening_in	1
 god_for	1
-program_on	1
+DVD_in	1
 kind_of	1
 everyone_in	1
 retirement_at	1
@@ -1157,16 +1060,20 @@ interview_with	1
 discovery_for	1
 lot_of	1
 glow_of	1
+end_of	2
 feeling_that	1
 year_in	1
+interpretation_of	1
 anything_below	1
 NNP_VBP
 City_know	1
 VBN_DT
+known_some	1
 been_a	1
 VBP_IN
 think_of	1
 NNS_IN
+spirits_for	1
 songs_by	2
 denizens_of	1
 standards_in	1
@@ -1177,6 +1084,7 @@ recipients_of	1
 collections_of	1
 interviews_with	1
 plaudits_on	1
+favorites_On	1
 months_of	1
 composers_like	1
 IN_TO
@@ -1188,7 +1096,7 @@ gravy_and	1
 season_but	1
 crew_and	1
 ballad_and	1
-time_and	1
+piano_and	2
 jazz_and	1
 knowledge_and	1
 artistry_and	1
@@ -1196,16 +1104,15 @@ performer_and	2
 song_or	1
 producer_and	1
 style_and	2
-talent_and	1
+group_and	1
 club_and	1
+time_and	1
 product_and	1
 waltz_and	1
 sky_and	1
-piano_and	2
-group_and	1
+singer_and	2
+talent_and	2
 leukemia_and	1
-UH_NN
-Oh_hell	1
 TO_VB
 to_play	1
 to_splurge	1
@@ -1218,10 +1125,9 @@ to_Appreciate	1
 to_keep	1
 to_get	1
 to_make	1
-VBN_JJ
-shown_many	1
 CC_WRB
 and_why	1
+and_Why	1
 CC_NNP
 and_Johnson	1
 and_Rodgers	1
@@ -1239,6 +1145,7 @@ DVD_shows	1
 performance_is	2
 fame_has	1
 sound_is	1
+interview_shows	1
 piano_makes	1
 audience_is	2
 interview_is	1
@@ -1251,6 +1158,8 @@ VBD_.
 sang_.	1
 loved_.	1
 spent_.	1
+NNP_VBG
+Carlyle_performing	1
 NNP_VBD
 Short_died	1
 Short_made	1
@@ -1272,6 +1181,7 @@ dropped_by	1
 came_about	1
 PRP_CC
 it_and	4
+him_and	1
 NN_VBP
 niceness_make	1
 WDT_VBD
@@ -1287,26 +1197,21 @@ DT_$
 the_$	1
 NN_RB
 event_quite	1
+TV_mostly	1
 piano_extraordinarily	1
-PDT_DT
-all_the	2
-half_a	1
+ground_always	1
 JJ_IN
 intercut_with	1
 interested_in	1
 populist_for	1
 many_of	1
 last_of	1
-DT_,
-all_,	2
-''_PRP
-''_he	1
 VBG_JJ
 performing_nightly	1
 VBG_RP
 including_up	1
-IN_:
-in_...	1
+:_UH
+..._Oh	1
 NN_JJ
 anyone_interested	1
 bit_risque	1
@@ -1322,37 +1227,50 @@ one_night	1
 VBZ_NNP
 shows_Bobby	1
 NNP_NNS
+Songbook_songs	1
 Bobby_fans	1
 NNP_NNP
 Leah_Jay	1
 Hotel_Carlyle	1
 Dear_Bobby	1
 Personal_Property	1
+Rawlings_Bayport	1
 Town_Hall	1
 York_City	1
 Classical_Arts	1
 Mabel_Mercer	1
+Razaf_Ellington	1
 One_Dirty	1
 New_York	3
 Bobby_Short	11
+Gershwin_Porter	1
 Paul_Rawlings	1
+Window_Too	1
 VIEW_Video	1
 Too_Marvelous	1
 Honeysuckle_Rose	1
+Words_Streamlined	1
 Man_Harlem	1
 Old_Man	1
 American_Songbook	1
 Four_Walls	1
+Hall_Bobby	1
 Cafe_Carlyle	6
 Picture_Ball	3
+Porter_Gershwin	1
 My_Personal	1
 Arts_Showcase	1
+Gershwin_Rodgers	1
+Bobby_Noel	1
 Dirty_Window	1
 Streamlined_Lulubelle	1
+Bayport_N.Y.	1
+Rose_Four	1
+Cole_My	1
+CD_PRP
+38,000_I	1
 VBP_NN
 love_supper	1
-POS_PRP$
-'s_Your	1
 DT_WDT
 some_which	1
 RB_JJ
@@ -1365,6 +1283,8 @@ very_good	1
 quite_wonderful	1
 too_poor	1
 too_populist	1
+VBZ_VBG
+does_Moving	1
 VB_PRP
 have_it	1
 pay_me	1
@@ -1388,26 +1308,22 @@ VBZ_PRP$
 deserves_your	1
 CC_PRP$
 and_his	1
-,_WDT
-,_which	1
-VBD_TO
-intended_to	1
-had_to	1
-played_to	1
-refused_to	1
-moved_to	1
+And_his	1
+RB_VBN
+usually_backed	1
+always_liked	1
+well_known	1
 NNS_CD
 lessons_one	1
-NN_''
-society_''	1
-:_UH
-..._Oh	1
+TO_NNP
+to_New	1
+VBZ_VBZ
+says_is	1
 RB_VBG
 still_packing	1
-RB_PRP
-Now_I	1
-So_I	2
-n't_I	2
+NNP_DT
+Johnson_some	1
+Tennessee_The	1
 RB_VBD
 always_intended	1
 really_reminded	1
@@ -1425,8 +1341,9 @@ forgotten_songs	1
 VBZ_PRP
 eats_it	1
 shows_him	1
-VB_VBG
-need_prompting	1
+VB_TO
+listen_to	1
+go_to	1
 VBN_TO
 gone_to	1
 opposed_to	1
@@ -1438,21 +1355,6 @@ treated_to	1
 CC_IN
 and_over	1
 and_if	1
-PRP_VB
-she_play	1
-,_NNP
-,_Gershwin	1
-,_Old	1
-,_N.Y.	1
-,_Too	1
-,_Bayport	1
-,_Porter	1
-,_Noel	1
-,_Four	1
-,_Ellington	1
-,_Honeysuckle	1
-,_Streamlined	1
-,_Rodgers	1
 VBD_NN
 wanted_everyone	1
 played_piano	1
@@ -1460,13 +1362,11 @@ JJ_WP
 many_who	1
 JJ_JJ
 civilized_pre-wail-and-whine	1
-other_personal	1
 tired_old	1
 Great_American	1
-NNP_''
-Ball_''	2
-Amazon_''	1
-Songbook_''	1
+other_personal	1
+sophisticated_many	1
+great_great	1
 NNP_TO
 Carlyle_to	1
 VB_RP
@@ -1476,6 +1376,7 @@ when_I	2
 why_he	1
 whenever_I	1
 NN_WP
+development_what	1
 everyone_who	1
 VBZ_TO
 is_to	1
@@ -1537,6 +1438,7 @@ small_room	2
 personal_niceness	1
 whole_event	1
 American_treasure	1
+great_cafe	1
 marvelous_experience	1
 stellar_personality	1
 regular_TV	1

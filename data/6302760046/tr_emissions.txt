@@ -28,8 +28,8 @@ VBD_TO_DT
 went_to_the	1
 PRP$_NN_NNS
 your_aspect_ratios	1
-NN_JJ_,
-camera_negative_,	1
+VBZ_RB_JJ
+looks_as_good	1
 DT_NN_IN
 the_fact_that	1
 VB_FW_FW
@@ -40,32 +40,31 @@ IN_IN_PDT
 so_that_all	1
 FW_NN_NN
 2.20:1_aspect_ratio	1
-JJ_NNS_IN
-successive_passes_on	1
-straight_lenses_in	1
-composite_shots_as	1
 NN_PRP_VBP
 theater_you_are	1
+NN_WDT_VBZ
+Panavision_which_is	1
 RB_IN_DT
 rather_than_the	1
-,_RB_IN
-,_rather_than	1
-NN_NN_,
-zealot_reviewer_,	1
+CD_IN_DT
+one_of_the	1
 JJ_NNS_VBP
 visual_elements_are	1
 NN_NN_.
 ratio_format_.	1
 aspect_ratio_.	1
+IN_NNP_PRP
+of_Photography_I	1
 NN_IN_DT
 print_in_a	1
 generation_on_the	1
-NN_,_WDT
-Panavision_,_which	1
-JJ_NN_,
-anamorphic_Panavision_,	1
-JJ_,_JJ
-negative_,_70mm	1
+reviewer_as_a	1
+IN_VBZ_TO
+In_regards_to	1
+DT_JJ_CD
+the_uneducated_2.35:1	1
+JJ_NN_WDT
+anamorphic_Panavision_which	1
 VBP_JJ_NN
 are_first_generation	1
 RB_RB_JJ
@@ -80,37 +79,42 @@ DT_NNP_IN
 a_Director_of	1
 JJ_JJ_JJ
 composite_dupe_negative	1
-original_undeveloped_65mm	1
-common_optical_composite	1
 undeveloped_65mm_negative	1
 optical_composite_dupe	1
+65mm_negative_70mm	1
+original_undeveloped_65mm	1
+common_optical_composite	1
 VBD_RB_VBN
 was_not_shot	1
-,_PRP_MD
-,_I_can	1
-IN_NNP_,
-of_Photography_,	1
+CC_RBR_VBG
+or_more_waiting	1
 IN_DT_NN
 in_a_theater	1
 PRP$_JJ_NNS
 his_special_effects	1
+NN_JJ_RB
+camera_negative_rather	1
 VBN_RB_IN
 held_sometimes_in	1
-DT_CD_NN
-a_2.20:1_aspect	1
-,_WDT_VBD
-,_which_was	1
+JJ_NNS_.
+negative_generations_.	1
+anamorphic_formats_.	1
+negative_inserts_.	1
+IN_PDT_DT
+that_all_the	1
 JJ_NN_IN
 extraordinary_effort_of	1
 first_generation_on	1
 next_pass_so	1
 70mm_print_in	1
-,_WDT_VBZ
-,_which_is	1
+IN_NN_.
+with_soundtrack_.	1
 TO_VB_FW
 to_be_in	1
 IN_NN_IN
 in_refrigeration_for	1
+JJ_RB_IN
+negative_rather_than	1
 RBR_JJ_JJ
 more_common_optical	1
 NN_IN_NNP
@@ -125,6 +129,8 @@ VBG_IN_DT
 waiting_for_the	1
 NNP_NNP_:
 Beautiful_Film_...	1
+JJS_NNS_IN
+best_executions_of	1
 VBZ_DT_CD
 is_a_2.20:1	1
 DT_NN_PRP
@@ -143,6 +149,8 @@ CD_JJ_JJ
 70_65mm_negative	1
 RB_IN_CD
 unequivocally_that_2001	1
+VB_PRP$_NN
+Learn_your_aspect	1
 DT_JJ_JJ
 the_composite_visual	1
 No_optical_negative	1
@@ -163,14 +171,12 @@ was_shot_in	1
 NN_IN_IN
 pass_so_that	1
 refrigeration_for_up	1
-VBZ_RB_JJ
-looks_as_good	1
 PRP_VBZ_.
 it_does_.	1
 NNP_CD_JJ
 Panavision_70_65mm	1
-VB_PRP$_NN
-Learn_your_aspect	1
+JJ_JJ_NN
+negative_70mm_projection	1
 VBN_IN_NNP
 shot_in_Cinemascope	1
 JJ_IN_PRP
@@ -178,22 +184,17 @@ good_as_it	1
 negative_after_it	1
 CC_CD_IN
 and_one_of	1
-CC_RBR_VBG
-or_more_waiting	1
 NNS_IN_DT
 executions_of_the	1
 passes_on_the	1
-JJ_JJ_,
-65mm_negative_,	1
 NNP_NNP_.
 Visual_Masterpiece_.	1
 TO_VB_DT
 to_mention_the	1
-NN_,_IN
-reviewer_,_as	1
 NNS_JJ_NNS
 effects_composite_shots	1
 NN_NN_IN
+zealot_reviewer_as	1
 projection_print_with	1
 NN_IN_NN
 print_with_soundtrack	1
@@ -211,10 +212,6 @@ VBN_IN_JJ
 shot_with_straight	1
 IN_DT_NNP
 as_a_Director	1
-CD_,_WDT
-2.20:1_,_which	1
-,_IN_DT
-,_as_a	1
 VBD_RB_RB
 was_never_as	1
 DT_JJ_NNS
@@ -230,36 +227,33 @@ JJ_NN_NN
 IN_JJ_NNS
 with_straight_lenses	1
 as_successive_passes	1
-JJ_NNS_.
-negative_generations_.	1
-anamorphic_formats_.	1
-negative_inserts_.	1
+DT_CD_NN
+a_2.20:1_aspect	1
 IN_NNP_NNP
 in_Super_Panavision	1
-IN_PDT_DT
-that_all_the	1
-VBG_CD_,
-watching_2.20:1_,	1
 DT_VBZ_WRB
 That_is_why	1
-VBZ_CD_.
-is_2.35:1_.	1
+IN_DT_JJ
+as_the_anamorphic	1
+for_the_next	1
+on_the_original	2
+of_the_70mm	1
 MD_VB_RB
 can_state_unequivocally	1
 VB_DT_NN
 mention_the_fact	1
 NN_CC_RBR
 year_or_more	1
-IN_NN_.
-with_soundtrack_.	1
+JJ_NNS_IN
+successive_passes_on	1
+straight_lenses_in	1
+composite_shots_as	1
 PRP_VBZ_RB
 it_looks_as	1
 IN_NNP_VBD
 that_Kubrick_went	1
 NNS_IN_NNP
 lenses_in_Super	1
-,_JJ_NN
-,_70mm_projection	1
 RB_JJ_IN
 as_wide_as	1
 as_good_as	1
@@ -269,10 +263,8 @@ PRP_VBD_VBN
 It_was_shot	2
 IN_NNP_CC
 in_Cinemascope_or	1
-JJS_NNS_IN
-best_executions_of	1
-DT_JJ_CD
-the_uneducated_2.35:1	1
+IN_PRP_VBZ
+as_it_does	1
 NN_NNS_.
 aspect_ratios_.	1
 CD_VBZ_DT
@@ -283,29 +275,22 @@ JJ_NN_JJ
 original_camera_negative	1
 IN_PRP_VBG
 after_it_being	1
-IN_DT_JJ
-as_the_anamorphic	1
-for_the_next	1
-on_the_original	2
-of_the_70mm	1
+VBZ_CD_.
+is_2.35:1_.	1
 JJ_CD_NN
 uneducated_2.35:1_zealot	1
-IN_PRP_VBZ
-as_it_does	1
+NNP_PRP_MD
+Photography_I_can	1
 DT_NN_CC
 a_year_or	1
-NNP_,_PRP
-Photography_,_I	1
 CC_JJ_NN
 or_anamorphic_Panavision	1
 WDT_VBZ_CD
 which_is_2.35:1	1
-JJ_,_RB
-negative_,_rather	1
-RB_TO_VB
-Not_to_mention	1
 NNP_VBD_TO
 Kubrick_went_to	1
+CD_WDT_VBD
+2.20:1_which_was	1
 JJR_CC_RBR
 cheaper_and_more	1
 NN_RB_.
@@ -335,6 +320,8 @@ NN_NN_NN
 aspect_ratio_format	1
 NNS_IN_JJ
 shots_as_successive	1
+VBG_CD_WDT
+watching_2.20:1_which	1
 WDT_VBD_RB
 which_was_never	1
 RBR_VBG_IN
@@ -343,14 +330,12 @@ NNP_CD_VBZ
 Panavision_70_is	1
 :_CC_CD
 ..._and_one	1
-IN_VBZ_TO
-In_regards_to	1
+RB_TO_VB
+Not_to_mention	1
 RB_IN_NN
 sometimes_in_refrigeration	1
 RB_VBN_IN
 not_shot_in	1
-CD_IN_DT
-one_of_the	1
 DT_JJR_CC
 the_cheaper_and	1
 IN_TO_DT

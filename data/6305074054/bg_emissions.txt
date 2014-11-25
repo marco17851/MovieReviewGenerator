@@ -2,12 +2,6 @@ NNP_VB
 Dunaway_overact	1
 Reeves_hurl	1
 Kara_acquire	1
-,_IN
-,_while	1
-,_in	1
-,_as	1
-,_though	1
-,_with	1
 POS_NNS
 's_holes	1
 JJ_:
@@ -33,18 +27,17 @@ in_pursuit	2
 of_direction	1
 between_parody	1
 with_action	1
-IN_,
-above_,	1
+VBN_VBD
+been_gave	1
 VB_WP
 Enjoy_what	1
 VBP_TO
 decide_to	1
-IN_CC
-over_and	1
-over_&	1
 NNP_IN
-Girl_Of	1
+Supergirl_at	1
 City_in	1
+Girl_Of	1
+Olsen_while	1
 Supergirl_during	1
 Slater_in	1
 Vaccaro_as	1
@@ -55,16 +48,14 @@ years_ever	1
 movies_later	1
 years_ago	2
 days_ago	1
-''_,
-''_,	1
 CC_JJ
 and_difficult	1
 and_sound	1
 and_nutty	1
 and_enough	1
 and_impossible	1
-``_VB
-``_Let	1
+VBZ_RP
+stinks_up	1
 MD_RB
 would_likely	1
 would_n't	1
@@ -98,15 +89,18 @@ only_to	1
 else_to	1
 not_to	1
 along_to	1
-RB_,
-Admittedly_,	1
-back_,	1
-Somehow_,	1
-Also_,	1
-badly_,	1
-perhaps_,	1
-yes_,	1
-well_,	1
+PRP$_NNP
+her_Sancho	1
+her_Supergirl	1
+IN_VBG
+while_traveling	1
+that_making	1
+of_surviving	1
+with_pushing	1
+from_rolling	1
+for_being	1
+from_being	1
+on_walking	1
 RB_.
 ago_!	1
 together_!	1
@@ -115,26 +109,21 @@ enough_.	1
 though_.	1
 recently_.	1
 there_.	1
-IN_``
-as_``	1
-,_PRP
-,_it	2
-,_they	1
-,_I	4
-,_you	1
-,_herself	1
+RP_VBG
+up_watching	1
 FW_FW
 Que_??	1
 kinda_cheezy	1
 IN_VBN
 under_rated	1
-:_CC
-..._And	1
 EX_POS
 there_'s	1
-PRP$_NNP
-her_Sancho	1
-her_Supergirl	1
+RB_NNP
+back_Supergirl	1
+n't_Krypton	1
+N'T_Ms.	1
+Also_Brenda	1
+yes_Faye	1
 VBD_CD
 felt_30	1
 made_one	1
@@ -145,8 +134,6 @@ appeal_to	1
 appearance_to	1
 something_to	1
 anything_to	1
-WRB_VBZ
-When_DOES	1
 DT_IN
 any_of	1
 PRP_IN
@@ -161,41 +148,32 @@ himself_out	1
 me_of	1
 RBR_JJ
 more_critical	1
-CC_RB
-And_yes	2
-but_overall	1
-but_somewhat	1
-and_therefore	1
-but_certainly	1
+NNS_DT
+moments_the	1
+films_a	1
 JJS_IN
 best_in	1
-VBN_,
-been_,	2
-received_,	1
-VBG_,
-listening_,	1
 JJ_CC
 blurry_and	1
-fun-fantasy_and	1
 powerful_but	1
-DT_,
-this_,	1
+old_and	1
+fun-fantasy_and	1
+great_but	1
+funny_and	1
 FW_CC
 ??_And	1
+cheezy_but	1
 WRB_PRP
 when_you	1
 when_I	3
 where_you	1
-CD_,
-one_,	2
 CC_CD
 and_one	1
 and_eighteen	1
 CD_.
 1984_!	1
-,_PRP$
-,_my	2
-,_her	1
+PRP_PRP$
+it_his	1
 JJ_RB
 fair_enough	1
 PRP$_JJ
@@ -207,8 +185,6 @@ WDT_MD
 that_can	1
 that_should	1
 that_would	1
-RP_.
-up_!	1
 WRB_VBD
 how_did	1
 WRB_VBG
@@ -218,9 +194,10 @@ was_how	1
 IN_PRP
 As_I	1
 of_them	1
+like_her	1
 so_I	1
 for_it	1
-like_her	1
+above_I	1
 than_it	1
 than_I	1
 though_I	1
@@ -240,18 +217,13 @@ try_to	1
 have_to	1
 VBZ_CD
 is_one	2
-PRP_VBG
-you_listening	1
+NNP_PRP$
+Plus_my	1
 NNS_VB
 characters_annoy	1
 acts_occur	1
-VBP_.
-wish_!	1
 VBN_CD
 been_one	1
-,_NN
-,_*	1
-,_appart	1
 POS_NN
 's_cousin	1
 's_fortress	1
@@ -293,13 +265,17 @@ been_really	1
 known_only	1
 gotten_recently	1
 blown_apart	1
+been_only	1
 NNP_NN
-Goldsmith_score	1
+Digital_sound	1
+Superman_series	1
+Superman_movie	1
 Bay_video	1
 Slater_flying	1
-Digital_sound	1
+Goldsmith_score	1
 Supergirl_costume	1
 This_movie	1
+Super_series	1
 VBZ_RB
 is_unbelievably	1
 is_pretty	1
@@ -370,8 +346,6 @@ this_video	1
 this_picture	1
 this_film	2
 a_try	1
-CC_,
-And_,	1
 DT_VBZ
 this_has	1
 all_revolves	1
@@ -384,6 +358,8 @@ the_cutting	1
 the_flying	1
 VBN_RP
 done_in	1
+RB_PRP$
+Admittedly_my	1
 DT_VBD
 That_was	1
 the_conjured	1
@@ -404,12 +380,17 @@ I_wish	2
 ..._.	1
 RB_DT
 overall_the	1
-therefore_no	1
+Somehow_the	1
+not_a	1
+Also_the	1
 just_the	1
 really_a	1
-not_a	1
+therefore_no	1
 perhaps_a	1
 actually_a	1
+CD_RB
+one_perhaps	1
+one_hopefully	1
 DT_VBN
 a_forgotten	1
 some_added	1
@@ -439,22 +420,22 @@ NNP_CC
 Reeve_&	1
 Dunaway_&	1
 Selena_and	1
-Supergirl_and	1
+Supergirl_and	2
 City_and	1
 Zone_and	1
 Vaccaro_and	1
-JJ_WDT
-awesome_that	1
-VB_,
-explode_,	1
+Slater_and	1
+PRP_PRP
+it_you	1
+DT_PRP
+this_I	1
 VBP_NN
 have_nothing	1
 PRP_:
 itself_:	1
-VBD_``
-watched_``	1
-DT_``
-the_``	2
+IN_.
+since_.	2
+over_.	1
 RB_IN
 not_in	1
 ever_since	2
@@ -469,11 +450,8 @@ traveling_in	1
 helping_of	1
 VBN_WP
 taken_what	1
-,_RB
-,_well	1
-,_perhaps	1
-,_hopefully	1
-,_only	1
+RP_.
+up_!	1
 VBP_PRP
 wish_you	1
 think_she	1
@@ -508,23 +486,17 @@ Just_enjoy	1
 Just_think	1
 n't_expect	1
 n't_need	1
+perhaps_remember	1
 n't_want	1
 n't_back	1
 likely_improve	1
 n't_have	1
-JJ_``
-first_``	1
-successful_``	1
 PRP_.
 her_.	1
 it_.	1
 you_.	1
-RB_NNP
-n't_Krypton	1
-N'T_Ms.	1
-Also_Brenda	1
-PRP_,
-it_,	3
+IN_:
+on_...	1
 IN_PRP$
 in_her	2
 with_my	1
@@ -535,31 +507,8 @@ in_its	1
 of_my	2
 JJR_NN
 better_picture	1
-VBG_PRP$
-rolling_my	1
-pushing_her	1
-,_WP
-,_who	1
-''_NNS
-''_movies	1
-IN_JJ
-after_tangled	1
-of_sheer	1
-of_campy	1
-as_possible	1
-that_looks-superb-on-her	1
-at_ironic	1
-while_interesting	1
-in_such	1
-NNP_,
-BUT_,	1
-Slater_,	1
-Vaccaro_,	1
-Plus_,	1
-Superman_,	1
-Olsen_,	1
-Supergirl_,	2
-Dunaway_,	1
+PRP_VB
+you_know	1
 VBP_POS
 get_'s	1
 NNP_.
@@ -573,11 +522,11 @@ Brenda_!	1
 Selena_.	1
 Supergirl_.	1
 Steel_.	1
-,_VBG
-,_landing	1
-,_living	1
+CC_VBZ
+and_plays	1
 NN_WRB
 diversion_when	1
+way_When	1
 JJ_MD
 possible_would	1
 IN_IN
@@ -596,12 +545,9 @@ My_advice	1
 my_daughter	1
 her_appearance	1
 her_sidekick	1
-``_NNP
-``_Superman	3
-``_Super	1
-``_Supergirl	3
-VBZ_RP
-stinks_up	1
+NNP_PRP
+Supergirl_I	1
+Vaccaro_herself	1
 CC_VBD
 and_flew	1
 and_made	1
@@ -620,8 +566,6 @@ VBG_NN
 cutting_room	1
 CD_WDT
 one_that	1
-RB_CD
-still_one	1
 JJ_VBG
 large_helping	1
 JJ_PRP
@@ -632,16 +576,17 @@ Kara_...	1
 Omegahedron_...	1
 CC_VBN
 and_filled	1
-JJ_,
-interesting_,	1
-old_,	1
-funny_,	1
-great_,	1
+PRP_RB
+I_first	1
+me_so	1
+she_just	1
+I_really	1
+it_actually	1
 RB_VBP
 actually_get	1
-,_VBD
-,_did	1
-,_gave	1
+VBG_PRP$
+rolling_my	1
+pushing_her	1
 VBD_RB
 did_n't	3
 was_so	2
@@ -650,17 +595,13 @@ was_n't	2
 was_not	1
 was_really	1
 NN_DT
+retrospect_the	1
 film_a	1
 DVD_a	1
-IN_VBG
-while_traveling	1
-that_making	1
-of_surviving	1
-with_pushing	1
-from_rolling	1
-for_being	1
-from_being	1
-on_walking	1
+NNS_VBP
+sequences_are	1
+effects_are	1
+scenes_are	1
 POS_TO
 's_to	1
 :_VB
@@ -686,14 +627,6 @@ makings_.	1
 cynicisms_.	1
 stars_.	1
 people_!	1
-,_VBN
-,_accompanied	1
-NNS_,
-commericials_,	1
-films_,	1
-Kryptonians_,	1
-moments_,	1
-efforts_,	1
 WDT_RB
 that_really	1
 TO_DT
@@ -709,13 +642,14 @@ VBD_NNP
 watched_George	1
 saw_Supergirl	1
 did_Kara	1
+watched_Supergirl	1
 VBD_RP
 came_out	1
 conjured_up	1
 JJ_CD
 past_three	1
-,_VBZ
-,_does	1
+RB_NN
+well_*	1
 NNS_TO
 special-effects_to	1
 thanks_to	1
@@ -744,8 +678,8 @@ wild_horses	1
 countless_times	1
 few_days	1
 own_abilities	1
-CC_VBZ
-and_plays	1
+VBP_.
+wish_!	1
 JJ_JJ
 drop-dead_gorgeous	1
 timely_snide	1
@@ -760,8 +694,10 @@ requisite_all-star	1
 fantastic_musical	1
 JJ_NNP
 gorgeous_Supergirl	1
+first_Superman	1
 quixotic_Selena	1
 solid_Jerry	1
+successful_Superman	1
 CD_IN
 one_of	6
 one_from	1
@@ -773,10 +709,8 @@ sound_would	1
 girlfriend_should	1
 WRB_JJ
 how_awesome	1
-,_CC
-,_and	12
-,_&	2
-,_but	4
+JJ_WDT
+awesome_that	1
 VB_NN
 be_patient	1
 VB_NNP
@@ -790,10 +724,12 @@ movie_makings	1
 flying_sequences	1
 footage_skies	1
 NNS_NNP
+commericials_Brenda	1
 effects_Chris	1
 VBZ_JJR
 has_more	1
 NN_NNP
+subplot_Supergirl	1
 witch_Selena	1
 exception_Nigel	1
 direction_Jeannot	1
@@ -801,9 +737,8 @@ sidekick_Bianca	1
 VBP_JJ
 love_absolutley	1
 'm_sure	1
-VBD_JJ
-were_blurry	1
-turned_brown	1
+NN_WP
+son_who	1
 DT_RB
 a_pretty	1
 this_as	1
@@ -824,18 +759,21 @@ CC_NN
 and_menace	1
 and_man	1
 VBG_NNP
+being_Superman	1
+chasing_Ethan	1
 Seeing_Helen	1
 flying_Argo	1
-chasing_Ethan	1
 Co-starring_Faye	1
-being_Superman	1
+listening_Anchor	1
 NN_PRP
 role_I	1
 thrill_I	1
+docu-drama_it	1
 thing_I	1
 reason_I	2
 flying_he	1
 man_I	1
+floor_they	1
 movie_itself	1
 VB_PRP$
 Let_your	1
@@ -846,6 +784,9 @@ even_more	1
 IN_RB
 of_first	1
 over_again	1
+VBD_JJ
+were_blurry	1
+turned_brown	1
 :_DT
 ..._a	1
 --_the	1
@@ -857,9 +798,8 @@ VBG_TO
 coming_to	1
 RB_CC
 ago_and	1
-:_PRP
-;_I	2
-..._I	1
+JJ_VBZ
+interesting_does	1
 MD_VB
 would_think	1
 would_make	1
@@ -873,22 +813,8 @@ will_admit	1
 'll_love	2
 should_have	1
 'll_end	1
-VBZ_,
-progresses_,	1
-NNS_IN
-skies_of	1
-times_because	1
-years_before	1
-holes_in	1
-performances_in	1
-scenes_in	1
-standards_of	1
-powers_beyond	1
-lessons_on	1
-scenes_with	1
-movies_than	1
-hundreds_of	1
-initials_AS	1
+RB_CD
+still_one	1
 VB_VBN
 have_been	1
 be_known	1
@@ -922,9 +848,9 @@ WRB_NNP
 how_Kara	1
 when_Kal-El/Superman	1
 how_Anchor	1
-,_DT
-,_a	3
-,_the	4
+IN_CC
+over_and	1
+over_&	1
 VBP_VBN
 have_been	1
 've_watched	1
@@ -932,16 +858,23 @@ have_been	1
 've_missed	1
 've_been	2
 NN_CC
-dignity_and	1
+print_and	1
+gardener_and	1
 :-RRB-_&	1
 parody_and	1
 picture_and	1
-window_and	1
+score_and	1
 lake_and	1
-gardener_and	1
+window_and	1
+superheroine_and	1
+go_&	1
+hack_and	1
 story_and	1
-movie_and	1
+movie_and	2
+movie_but	1
+dignity_and	1
 plot_and	1
+tv_and	1
 heart_and	1
 CD_VBZ
 one_is	1
@@ -963,17 +896,12 @@ and_watch	1
 &_remember	1
 &_be	1
 And_get	1
-VBP_VBG
-love_watching	1
-PRP_RB
-I_first	1
-me_so	1
-she_just	1
-I_really	1
-it_actually	1
-IN_.
-since_.	2
-over_.	1
+CC_RB
+And_yes	2
+but_overall	1
+but_somewhat	1
+and_therefore	1
+but_certainly	1
 JJ_TO
 over-the-top_to	1
 difficult_to	1
@@ -989,8 +917,10 @@ VBN_NNP
 called_Gene	1
 VBP_NNP
 LOVE_THIS	1
-UH_,
-Okay_,	1
+POS_RB
+'s_well	1
+NNS_VBG
+Kryptonians_living	1
 TO_JJ
 to_superb	1
 NNS_JJ
@@ -999,32 +929,31 @@ VBP_DT
 think_this	1
 improve_the	1
 are_the	1
-NNS_VBP
-sequences_are	1
-effects_are	1
-scenes_are	1
+:_CC
+..._And	1
 NN_NN
-theatrical_release	2
 release_way	1
+kind_portrayal	1
+love_triangle	1
+room_floor	1
+superhero_film	1
+title_role	2
 release_print	1
 fun_diversion	1
+school_uniform	1
+stockroom_window	1
+film_appart	1
+source_material	1
+wannabe_witch	1
+theatrical_release	2
+sex_appeal	1
 villainess_subplot	1
 *_goodness	1
-picture_quality	1
-superhero_film	1
-kind_portrayal	1
-source_material	1
-title_role	2
-widescreen_edition	1
-love_triangle	1
-stock_footage	1
-school_uniform	1
 widescreen_remaster	1
-stockroom_window	1
-wannabe_witch	1
 goodness_*	1
-sex_appeal	1
-room_floor	1
+widescreen_edition	1
+stock_footage	1
+picture_quality	1
 RP_RB
 off_there	1
 POS_JJ
@@ -1032,6 +961,8 @@ POS_JJ
 's_blonde	1
 's_fantastic	1
 's_timely	1
+VBP_VBG
+love_watching	1
 DT_NNS
 the_movies	1
 the_films	1
@@ -1067,17 +998,15 @@ of_Kara	1
 if_Christopher	1
 in_anywhere.Lucy	1
 with_Dolby	1
-as_Supergirl	1
+as_Supergirl	2
 DT_NNP
-the_Phantom	1
-The_Girl	1
-the_Salkind	1
-the_Omegahedron	1
 The_Anchor	1
-''_IN
-''_at	1
-,_JJ
-,_fair	1
+the_Superman	1
+The_Girl	1
+the_Omegahedron	1
+the_Salkind	1
+the_Phantom	1
+the_Super	1
 VB_WRB
 think_how	1
 DT_JJ
@@ -1157,32 +1086,18 @@ left_it	1
 gave_it	2
 praised_it	1
 NNP_JJ
+Superman_fair	1
 Make_certain	1
 Sancho_Panza-like	1
-,_WRB
-,_When	1
-NN_,
-try_,	1
-floor_,	1
-control_,	1
-mess_,	1
-docu-drama_,	1
-cast_,	1
-tv_,	1
-*_,	1
-superheroine_,	1
-uniform_,	1
-hack_,	1
-transfer_,	1
-print_,	1
-retrospect_,	1
-way_,	1
-son_,	1
-film_,	1
-movie_,	2
-subplot_,	1
-score_,	1
-go_,	1
+IN_JJ
+after_tangled	1
+of_sheer	1
+of_campy	1
+as_possible	1
+that_looks-superb-on-her	1
+at_ironic	1
+while_interesting	1
+in_such	1
 NN_.
 release_.	1
 adventure_.	1
@@ -1214,8 +1129,6 @@ fun_.	1
 witch_.	1
 hit_.	1
 classic_.	1
-NNP_DT
-Slater_a	1
 NN_IN
 advantage_of	1
 ringer_for	1
@@ -1225,6 +1138,7 @@ idea_of	1
 filter_out	1
 slouch_at	1
 pursuit_of	2
+cast_with	1
 super-costume_while	1
 appearance_by	1
 DVD_with	1
@@ -1232,13 +1146,13 @@ expression_of	1
 thought_into	1
 mess_after	1
 sfx_for	1
-quality_of	1
-delight_as	1
+appart_from	1
+*_in	1
 half_of	1
 part_with	1
-appart_from	1
+delight_as	1
 inclusion_of	1
-video_so	1
+transfer_though	1
 fan_of	1
 flying_under	1
 remaster_on	1
@@ -1257,8 +1171,10 @@ score_in	1
 lot_of	1
 film_with	1
 triangle_between	1
+quality_of	1
 woman_of	1
 generouse_with	1
+video_so	1
 lust_for	1
 earth_in	1
 group_of	1
@@ -1275,18 +1191,25 @@ VBN_DT
 watched_this	1
 been_a	1
 CC_DT
-and_the	5
 But_the	1
+and_the	5
+And_a	1
 but_the	1
-NNP_VBD
-Kal-El/Superman_left	1
-Reeve_praised	1
-Lane_was	1
-Kara_skimmed	1
-Kara_changed	1
-Szwarc_was	1
-Slater_was	1
-Reeve_did	1
+NNS_IN
+skies_of	1
+times_because	1
+years_before	1
+holes_in	1
+performances_in	1
+efforts_as	1
+scenes_in	1
+standards_of	1
+powers_beyond	1
+lessons_on	1
+scenes_with	1
+movies_than	1
+hundreds_of	1
+initials_AS	1
 NNS_PRP
 discs_I	1
 NNP_VBZ
@@ -1319,8 +1242,8 @@ to_get	2
 to_wait	1
 to_give	1
 to_make	2
-''_VBD
-''_was	1
+NN_VBG
+control_landing	1
 CC_WRB
 And_how	1
 NN_VBD
@@ -1347,15 +1270,22 @@ witch_is	1
 flaw_is	1
 VBD_.
 resulted_.	1
-PRP_PRP$
-it_his	1
-''_NN
-''_movie	1
-''_series	2
+NNP_DT
+Supergirl_a	1
+Slater_a	1
 VBG_NNS
 surviving_Kryptonians	1
-POS_,
-'s_,	1
+NNP_VBD
+Kal-El/Superman_left	1
+Reeve_praised	1
+BUT_did	1
+Lane_was	1
+Kara_skimmed	1
+Kara_changed	1
+Szwarc_was	1
+Slater_was	1
+Supergirl_was	1
+Reeve_did	1
 VBD_IN
 flew_with	1
 was_in	2
@@ -1367,8 +1297,11 @@ stated_above	1
 were_of	1
 liked_about	1
 was_because	1
-NN_VBP
-fortress_are	1
+PRP_CC
+it_but	1
+it_&	1
+UH_VB
+Okay_listen	1
 NNP_VBN
 Krypton_blown	1
 JJ_.
@@ -1389,6 +1322,8 @@ Slater_'s	3
 Selina_'s	1
 DT_JJR
 a_better	1
+NN_VBP
+fortress_are	1
 NN_RB
 device_only	1
 way_back	1
@@ -1406,15 +1341,11 @@ dumb_for	1
 silly_as	1
 mine_with	1
 sure_that	1
-,_VB
-,_remember	1
-,_go	1
-,_give	1
-,_listen	1
 VB_NNS
 improve_things	1
 NN_VB
 costume_become	1
+try_go	1
 imagination_explode	1
 WDT_VBD
 that_was	1
@@ -1423,8 +1354,8 @@ stars_thing	1
 todays_movie	1
 IN_EX
 if_there	1
-IN_:
-on_...	1
+JJR_CC
+better_and	1
 NN_JJ
 A_likable	1
 series_next	1
@@ -1437,16 +1368,20 @@ does_a	1
 has_some	1
 plays_the	1
 NN_VBN
+mess_accompanied	1
 naivete_expected	1
 CD_NN
 one_thing	1
 one_exception	1
 One_day	1
 five_year	1
-._''
-._''	1
+:_PRP
+;_I	2
+..._I	1
 VBZ_NNP
 gives_Linda/Supergirl	1
+NNP_NNS
+Superman_movies	1
 NNP_NNP
 Jerry_Goldsmith	2
 anywhere.Lucy_Lane	1
@@ -1474,6 +1409,7 @@ Bianca_Brenda	1
 Ms._Slater	1
 Jimmy_Olsen	2
 Ms._Dunaway	1
+Dunaway_Brenda	1
 Supergirl_Helen	1
 Peter_Cook	1
 Phantom_Zone	1
@@ -1481,6 +1417,8 @@ VBZ_NNS
 survives_thanks	1
 DT_JJS
 the_best	3
+NN_PRP$
+uniform_her	1
 JJR_CD
 better_one	1
 RB_JJ
@@ -1506,8 +1444,6 @@ CC_VBP
 and_have	1
 but_do	1
 &_try	1
-FW_,
-cheezy_,	1
 VB_PRP
 Buy_it	1
 judge_it	1
@@ -1523,6 +1459,8 @@ PRP_DT
 herself_no	1
 it_a	2
 it_all	1
+VB_VB
+explode_give	1
 VBZ_VBN
 has_taken	1
 's_supposed	1
@@ -1538,10 +1476,6 @@ Almost_done	1
 well_received	1
 perfectly_cast	1
 heavily_edited	1
-JJR_,
-better_,	1
-RP_VBG
-up_watching	1
 TO_NNP
 to_Jerry	1
 :_WP
@@ -1560,6 +1494,7 @@ RB_PRP
 Overall_I	1
 hopefully_it	1
 later_it	1
+badly_I	1
 RB_VBD
 first_watched	1
 really_dissappointed	1
@@ -1578,19 +1513,17 @@ rated_special-effects	1
 VBZ_PRP
 makes_you	1
 is_it	1
+progresses_it	1
+VBN_CC
+received_and	1
 VBN_TO
 supposed_to	1
 VB_RB
 back_out	1
 Go_back	1
 Welcome_back	1
-PRP_VB
-you_know	1
-,_NNP
-,_Anchor	1
-,_Faye	1
-,_Supergirl	2
-,_Brenda	2
+WRB_VBZ
+When_DOES	1
 CC_NNP
 and_Helen	1
 &_Supergirl	1
@@ -1616,10 +1549,8 @@ makes_for	1
 's_like	1
 JJR_TO
 more_to	1
-NNP_''
-Supergirl_''	3
-Super_''	1
-Superman_''	3
+PRP_VBG
+you_listening	1
 VB_RP
 listen_up	1
 go_down	1

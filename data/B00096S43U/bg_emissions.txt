@@ -6,6 +6,7 @@ by_director	1
 in_microcosm	1
 of_blackness	1
 into_space	1
+of_Lightning	1
 of_childhood	1
 of_community	1
 on_stage	1
@@ -56,6 +57,8 @@ NNP_WDT
 LIVE_which	1
 Nomi_which	1
 York_that	1
+VBN_VBD
+constructed_was	1
 VBN_VBG
 been_waiting	1
 FW_DT
@@ -102,13 +105,8 @@ enough_to	1
 forward_to	1
 still_to	1
 entirely_to	1
-VBP_,
-confess_,	1
-IN_``
-as_``	1
-of_``	1
-for_``	1
-at_``	1
+VBP_.
+wave_.	1
 VBP_CD
 like_1980s	1
 VBG_VBN
@@ -120,12 +118,6 @@ forgotten_.	1
 been_.	1
 mesmerized_.	1
 sold_.	1
-VBN_,
-forgotten_,	1
-constructed_,	1
-gone_,	1
-profiled_,	1
-provided_,	1
 VB_JJR
 look_deeper	1
 know_MORE	1
@@ -134,10 +126,12 @@ War_when	1
 CC_TO
 but_to	2
 VBN_CC
+profiled_and	1
 come_and	1
 desired_and	1
 heard_and	1
 been_and	1
+gone_but	1
 described_and	1
 dead_and	1
 gone_and	1
@@ -147,9 +141,13 @@ appears_one	1
 is_one	1
 lists_one	1
 VBZ_CC
+is_or	1
 begins_and	1
-NNS_WDT
-styles_that	1
+follows_and	1
+VBN_CD
+forgotten_one	1
+RB_JJS
+Sure_most	1
 RB_JJR
 much_weirder	1
 never_more	1
@@ -172,14 +170,10 @@ who_knew	3
 who_got	2
 who_were	3
 what_thrived	1
-''_MD
-'_may	1
 RP_.
 out_.	2
 out_!	2
 off_.	1
-RP_,
-out_,	1
 VBN_JJ
 spent_many	1
 added_much	1
@@ -188,6 +182,8 @@ WP_VBP
 who_are	1
 who_have	1
 who_want	1
+JJ_VBD
+famous_died	1
 WP_VBZ
 who_is	1
 who_tries	1
@@ -197,17 +193,22 @@ What_is	1
 NNP_CC
 Europe_but	1
 Midwest_and	1
+Nomi_but	2
+Nomi_or	2
 Scibelli_and	1
-Nomi_and	3
-York_and	2
+Callas_or	1
+York_and	3
 Magnuson_and	1
 Aunt_and	1
 France_and	1
 Bowie_or	1
+SNL_and	1
 </a>_and	1
-Nomi_or	2
+Nomi_and	3
 NNP_CD
 June_2011	1
+Nomi_one	1
+Arias_one	1
 WP_MD
 who_may	3
 RP_VBG
@@ -268,8 +269,6 @@ NN_VB
 source_save	1
 dream_come	1
 MUST_SEE	1
-TO_CD
-to_two	1
 VBD_PDT
 took_all	1
 IN_WDT
@@ -334,16 +333,16 @@ reminisce_about	1
 toss_about	1
 save_for	1
 blend_of	2
+see_outside	1
+descend_from	1
 invest_in	1
 perform_with	1
-descend_from	1
 speed_on	1
 JJ_PRP
 worth_it	1
 much_I	1
 unto_himself	1
-,_''
-,_''	1
+general_you	1
 VBD_RB
 was_absolutely	1
 were_thus	1
@@ -377,14 +376,22 @@ was_quite	1
 NN_DT
 pity_the	1
 magazine-holding_a	1
+persona_the	1
 category_this	1
+work_a	1
 <a href="http://www.amazon.com/gp/product/B00001OH7P">_The	1
+docu-bio_No	1
+documentary_a	1
+summation_a	1
 style_both	1
-checking_this	1
 doubt_a	1
+angel_the	1
+Song_the	1
 film_a	1
 time_a	1
 appearance_the	1
+checking_this	1
+music_this	1
 AIDS_this	1
 VBN_JJR
 liked_more	1
@@ -431,14 +438,14 @@ lionize_Dylan	1
 experience_Klaus	1
 NNS_NNP
 photographers_Anthony	1
-PRP_WP
-me_who	1
-us_who	1
+NNS_NNS
+pictures_anecdotes	1
+clips_interviews	1
+videos_clips	1
+anecdotes_lots	1
 JJS_JJ
 most_other	1
 best_possible	1
-POS_JJS
-'_closest	1
 CC_IN
 and_if	1
 and_with	1
@@ -463,15 +470,15 @@ RB_NNP
 enough_K.	1
 only_Nomi	1
 particularly_East	1
+yet_Horn	1
 completely_New	1
 Certainly_Arias	1
 PRP_EX
 it_there	1
-,_PRP$
-,_his	4
-,_her	1
 IN_RB
 that_even	1
+that_perhaps	1
+in_always	1
 with_so	1
 on_here	1
 with_completely	1
@@ -482,10 +489,12 @@ from_then	1
 until_now	1
 of_late	1
 by_far	1
+for_even	1
 VBN_DT
 accomplished_a	1
 liked_an	1
 wanted_no	1
+provided_the	1
 Caught_this	1
 bought_all	1
 been_a	1
@@ -496,6 +505,7 @@ VBG_TO
 helping_to	1
 gratifying_to	1
 VBP_PRP
+confess_I	1
 miss_you	1
 recommend_you	1
 VB_:
@@ -532,12 +542,8 @@ VBP_PRP$
 interview_his	1
 satisfy_my	1
 CD_VBZ
+1983_has	1
 one_is	1
-VB_,
-say_,	1
-sing_,	1
-be_,	3
-see_,	1
 VB_.
 matter_.	1
 remember_.	1
@@ -545,8 +551,8 @@ see_.	1
 be_.	1
 SEE_.	1
 live_.	1
-VBP_''
-wave_''	1
+VBZ_UH
+is_alas	1
 JJ_TO
 Needless_to	1
 able_to	2
@@ -567,17 +573,18 @@ CD_VBP
 two_are	1
 NNS_JJ
 things_offbeat	1
+personalities_unique	1
+interviews_rare	1
 years_old	1
 by-turns_witty	1
+performances_audio	1
 FW_NNS
 sci-fi_films	1
 FW_NNP
 i.e._WHERE	1
-NNP_''
-Tart_''	1
-Nomi_''	3
-Again_''	1
-Wave_''	1
+DT_PRP
+this_you	1
+this_it	1
 DT_NNS
 the_times	1
 the_depths	1
@@ -697,6 +704,7 @@ of_AIDS	1
 in_Nomi	3
 as_Martin	1
 with_Nomi	3
+for_Nomi	1
 on_Saturday	2
 of_New	2
 on_Rush	1
@@ -706,14 +714,16 @@ DT_NNP
 the_Ira	1
 the_Extras	1
 a_New	4
-the_City	1
+the_Fiorucci	1
 the_Nomi	5
 The_Long	1
 the_Berlin	1
+the_Lime	1
 the_Nth	1
 an_Oscar	1
 A_Music	1
 The_Nomi	8
+the_City	1
 a_Fred	1
 an_Easter	1
 the_TV	1
@@ -725,8 +735,6 @@ the_Midwest	1
 The_TV	1
 the_Destroyer	1
 THE_NOMI	4
-VBZ_''
-Strikes_''	1
 :_EX
 :_there	1
 VB_WRB
@@ -746,12 +754,14 @@ learned_a	1
 saw_the	1
 preferred_an	1
 were_the	1
+looked_this	1
 preferred_the	1
 took_the	1
 knew_a	1
 was_an	2
 had_any	1
 started_the	1
+saw_The	1
 had_a	2
 developed_an	1
 watched_this	1
@@ -775,13 +785,14 @@ styles_and	1
 facts_and	1
 bandmates_and	1
 1970s_and	2
+aspirations_and	1
 features_but	1
 comments_and	1
 people_and	1
 performances_or	1
 friends_and	3
 performances_and	1
-interviews_and	2
+interviews_and	3
 songs_&	1
 groups_and	1
 possibilities_and	1
@@ -790,11 +801,7 @@ dreams_and	1
 others_and	1
 royalties_and/or	1
 skills_and	1
-NNPS_``
-Extras_``	1
-''_VBZ
-''_is	2
-''_faces	1
+70s_and	1
 VBN_PRP
 seen_him	1
 VBP_IN
@@ -803,45 +810,65 @@ love_that	1
 ponder_if	1
 NN_CC
 biography_and	1
-thing_or	1
-time_and	2
+outside_and	1
+mode_but	1
 identity_and	1
-online_and	1
-music_and	1
+film_and	2
+music_and	3
 opera_and	1
 mine_and	1
 life_and	5
+musician/singer_or	1
+kind_and	1
+story_but	1
+mood_and	1
+heartbreak_and	1
 etc_and	1
 costuming_and	1
 stage_and	1
 badge_and	1
 market_and	1
 street_and	1
-alien_and	1
+biography_but	1
 justice_and	1
 vocal_and	1
-outside_and	1
+thing_or	1
+curiosity_but	1
+recipe_and	1
+time_and	2
 reminisence_or	1
+segment_and	1
+Home_and	1
 knowledge_or	1
 documentary_&	2
-image_and	1
+view_and	1
 Rise_And	1
+image_and	1
+Nomi_and	1
 place_and	1
-rise_and	1
+online_and	1
 writer_and	1
+rise_and	1
 philosophy_or	1
-film_and	2
-musician/singer_or	1
-voice_and	2
+butch_or	1
+Song_and	1
+depth_but	1
+today_and	1
+voice_and	3
+oracle_and	1
 husband_and	1
 workshop_and	1
 invasion_and	1
-footage_and	3
-career_and	1
+footage_and	4
+career_and	3
 creativity_and	2
+detail_but	1
+quality_but	1
 show_and	1
 desire_and	1
+scene_and	1
 pop_and	1
+alien_and	1
 town_and	1
 WDT_PRP
 which_he	1
@@ -862,25 +889,35 @@ those_who	4
 WP_JJ
 what_little	1
 NN_JJ
+retrospect_sad	1
+pop_new	1
 Anyone_interested	1
-everything_new	1
-film_black	1
+camp_classical	1
 something_unique	1
-part_militant	1
 movie_last	1
-documentary_full	1
 AIDS_epidemic	1
 part_lonely	1
 anything_new	1
-town_ready	1
-culture_full	1
-feat_few	1
-nothing_short	1
 everything_twisted	1
+footage_old	1
+music_future	1
+film_black	1
+feat_few	1
+culture_full	1
 music_blended	1
+everything_new	1
+music_fancy	1
+community_artistic	1
+part_militant	1
+nothing_short	1
+point_many	1
+town_ready	1
+documentary_full	1
 NNP_NNS
+Wood_photographers	1
 AIDS_complications	1
 Nomi_fans	1
+Horn_trailers	1
 NNP_NNP
 Island_Four	1
 Ann_Magnuson	2
@@ -889,9 +926,9 @@ Wave_Vaudeville	3
 Stardust_</a>	1
 Lady_GaGa	1
 Life_Aquatic	1
-Born_Klaus	1
-Page_Wood	2
-Andrew_Horn	4
+Again_Christie	1
+Mars_Klaus	1
+SONG_Andrew	1
 Klaus_Nomi	31
 Andy_Horn	2
 manager/producer_Ron	1
@@ -907,50 +944,60 @@ New_Wave	11
 La_Fari	1
 New_York	14
 K._N.	1
+America_Nomi	1
+Halsband_Ann	1
 Though_Nomi	1
 Maria_Callas	1
 Akron_Beacon-Journal	1
 Herr_Sperber	1
 East_Village	2
+Page_Wood	2
 A_Music	1
 Lime_Tart	1
 East_Side	1
 Ron_Johnsen	1
+Side_Story	1
 SATURDAY_NIGHT	1
 The_Life	1
 David_Bowie	5
 War_</a>	1
 Saturaday_Night	1
 Vaudeville_Show	1
-Rush_Limbaugh	1
+<a href="http://www.amazon.com/gp/product/B000BRD6T4">_The	1
 Long_Island	1
 Ziggy_Stardust	2
 Aquatic_Studio	1
-Side_Story	1
+Born_Klaus	1
 JOEY_ARIAS	1
 Fred_Astaire	1
 Outer_Space	2
 THANKS_ALOT	1
 Alan_Platt	1
+Andrew_Horn	4
 Studio_Sessions	1
+Dylan_Horn	1
 Night_Live	3
 Beacon-Journal_Sunday	1
 TV_Party	2
 York_City	2
 Easter_Egg	1
 Gabriele_La	1
-<a href="http://www.amazon.com/gp/product/B000BRD6T4">_The	1
+Columbus_Ohio	1
 Kenny_Scharf	1
-Ace_Frehley	1
+Hoffman_manager/producer	1
+Rush_Limbaugh	1
+Germany_Nomi	1
+Urgh_A	1
 Music_War	2
+Ace_Frehley	1
 Nomi_Klaus	1
 NIGHT_LIVE	1
 Martin_Scorcese	1
 Anthony_Scibelli	1
 Klaus_Sperber	2
 Lou_Christie	2
-VBZ_JJR
-is_more	1
+:_RB
+..._Apart	1
 VBD_VB
 did_seem	1
 CC_EX
@@ -996,6 +1043,7 @@ in_the	35
 Through_the	1
 for_those	1
 than_a	4
+at_that	1
 In_a	2
 with_some	1
 with_no	1
@@ -1056,43 +1104,26 @@ By_the	1
 In_the	1
 from_this	2
 of_a	15
-VBG_''
-workin_'	1
+JJR_RB
+more_out	1
+NNS_WDT
+films_which	1
+styles_that	1
+CD_WRB
+85_when	1
 VB_WP
 perceive_what	1
 know_who	1
 be_what	1
+sing_what	1
+UH_DT
+alas_no	1
 RB_WRB
 also_how	1
 back_when	1
 CD_POS
 80_'s	3
 70_'s	2
-RB_,
-much_,	1
-However_,	1
-Now_,	1
-perhaps_,	1
-Sure_,	1
-actually_,	1
-rather_,	1
-too_,	2
-indeed_,	1
-forever_,	1
-well_,	1
-Also_,	1
-dear_,	1
-elsewhere_,	2
-so_,	2
-yet_,	1
-Hopefully_,	1
-here_,	2
-now_,	2
-cursorily_,	1
-Yes_,	1
-Unfortunately_,	1
-n't_,	1
-Sadly_,	1
 RB_.
 now_!	1
 soon_.	1
@@ -1105,8 +1136,10 @@ away_.	1
 well_.	2
 IN_VB
 that_buy	1
-VBN_PRP$
-gotten_my	1
+VBD_CC
+died_or	1
+was_and	2
+did_and	1
 VBD_CD
 was_14	1
 CC_RB
@@ -1189,6 +1222,9 @@ his_classic	1
 my_red	1
 her_sweet	1
 his_loyal	1
+PRP_PRP
+him_it	1
+him_I	1
 IN_PRP
 While_I	1
 though_they	1
@@ -1228,13 +1264,6 @@ so_you	1
 that_we	1
 that_one	1
 while_he	1
-''_.
-''_.	4
-''_,
-''_,	1
-,_FW
-,_etc.	1
-,_i.e.	1
 TO_WP
 to_who	1
 VBG_WRB
@@ -1485,6 +1514,7 @@ DT_VBG
 no_denying	1
 the_missing	1
 DT_VBD
+this_added	1
 this_was	4
 both_laughed	1
 both_were	1
@@ -1550,11 +1580,8 @@ He_needs	1
 he_presents	1
 he_starts	1
 He_is	1
-IN_,
-in_,	1
-for_,	2
-that_,	1
-although_,	1
+PRP_:
+him_...	1
 IN_.
 of_.	1
 though_.	1
@@ -1566,11 +1593,6 @@ EX_RB
 there_still	1
 WP_NNS
 what_lots	1
-``_DT
-`_The	1
-``_The	2
-``_No	1
-``_that	1
 PRP_.
 her_.	1
 him_.	9
@@ -1579,13 +1601,9 @@ you_.	1
 us_.	1
 it_.	1
 himself_.	1
-PRP_,
-me_,	2
-himself_,	2
-you_,	1
-him_,	6
-:_RB
-..._Apart	1
+IN_:
+with_...	1
+though_...	1
 CC_VBP
 and_have	2
 PRP_VB
@@ -1600,10 +1618,11 @@ and_ends	1
 and_tells	1
 NN_WRB
 segment_where	1
+time_when	1
 situation_where	1
+era_when	1
 kid_when	1
 place_where	1
-time_when	1
 RP_TO
 on_to	1
 up_to	1
@@ -1632,38 +1651,6 @@ and_having	1
 CC_VBN
 and_known	1
 and_gone	3
-JJ_,
-immigrant_,	1
-extraordinary_,	1
-long_,	1
-troubling_,	1
-Heady_,	1
-genre-defying_,	1
-sad_,	1
-feminine_,	1
-brief_,	1
-powerful_,	1
-engaging_,	1
-stand-out_,	1
-excellent_,	1
-strange_,	1
-general_,	1
-emblematic_,	1
-metaphoric_,	1
-mysterious_,	1
-cross-dressing_,	1
-high_,	1
-unparalleled_,	1
-shy_,	1
-offbeat_,	1
-non-mainstream_,	1
-clever_,	1
-short_,	1
-famous_,	2
-Alien_,	1
-true_,	2
-good_,	1
-different_,	1
 JJR_NNS
 longer_interviews	1
 bigger_questions	1
@@ -1755,38 +1742,46 @@ of_all	1
 in_all	2
 JJ_WDT
 few_that	1
+famous_that	1
 NN_NNS
-cardboard_cut-outs	1
 home_videos	1
-movie-making_skills	1
-film_days	1
-club_scenes	1
 AIDS_victims	1
-film_clips	1
-wave_freaks	1
 lime_tarts	1
+jacket_pants	1
+strangeness_children	1
+end_credits	1
+cardboard_cut-outs	1
+movie-making_skills	1
+club_scenes	1
 garde_circles	1
 length_performances	1
 AIDS_deaths	1
-band_audiences	1
+interview_clips	1
+death_people	1
+music_magazines	1
+film_days	1
 childhood_photos	1
 childhood_passages	1
+film_clips	1
+wave_freaks	1
+band_audiences	1
 DVD_extras	1
-death_people	1
-interview_clips	1
-end_credits	1
-music_magazines	1
 NN_NNP
-singer/dancer/collaborator_JOEY	1
+chef_Klaus	1
+degree_Klaus	1
+Song_Horn	1
 friend_Gabriele	1
 chef_Nomi	1
+voila_Klaus	1
+painter_Kenny	1
+fame_Nomi	1
 director_Andrew	2
 songwriter_Kristian	1
-painter_Kenny	1
+instance_Bowie	1
+singer/dancer/collaborator_JOEY	1
 countertenor_Klaus	1
+face_Nomi	1
 director_Page	1
-JJR_``
-more_``	1
 WDT_NNP
 which_Klaus	1
 CD_CC
@@ -1796,6 +1791,12 @@ with_less	1
 IN_JJS
 like_most	1
 at_least	2
+POS_PRP
+'s_You	1
+VBD_WRB
+died_when	1
+VBZ_FW
+s_ouvre	1
 :_DT
 -_a	1
 ;_the	1
@@ -1874,14 +1875,14 @@ there_'s	1
 There_is	2
 EX_VBP
 there_are	1
-CC_``
-or_``	2
 NN_NN
 stage_persona	1
 video_!!	1
 video_footage	1
+space_persona	1
 film_workshop	1
 television_set	1
+alien_visage	1
 strrrrange_man	1
 archive_footage	1
 film_footage	1
@@ -1889,17 +1890,20 @@ science_fiction	2
 rock_star	1
 music_magazine	1
 Direction_Home	1
+Klaus_RIP	1
 impersonator_rise	1
 picture_online	1
 star_biography	1
+art_director	1
 downtown_art	1
+Pop_programme	1
 hoop_skirt	1
 image_gallery	1
 hair_band	1
 music_heritage	1
 flea_market	1
 space_alien	2
-alien_visage	1
+Footage_page	1
 pastry_chef	4
 world_class	1
 folk_movement	1
@@ -1912,30 +1916,35 @@ falsetto_soprano	1
 fiction_film	1
 recording_career	1
 slide_show	2
+News_segment	1
 radio_station	1
+wave_opera	1
 cardboard_doll	1
 treasure_trove	1
 living_room	1
 singing_alien	1
 childhood_spot	1
+disco_camp	1
 television_interview	1
 Mon_caeur	1
 DVD_version	1
 passing_knowledge	1
 performance_artist	1
-art_director	1
+aria_Mon	1
 cabaret_performer	1
 music_world	1
 depth_look	1
+glam_makeup	1
 launching_point	1
 microcosm_Nomi	1
 pie_icon	1
 B-Movie_space	1
 singer/performance_artist	1
-glam_makeup	1
+hero_proof	1
 music_radio	1
 alien_persona	1
 opera_impersonator	1
+effort_creativity	1
 soprano_voice	1
 art_scene	2
 world_annihilation	1
@@ -1946,43 +1955,25 @@ school_freakism	1
 club_scene	1
 music_docu-bio	1
 tuxedo_outfit	1
-News_segment	1
+gig_writer	1
+PRP_NNP
+you_Klaus	1
+NNP_WP$
+Bowie_whose	1
+Nomi_whose	2
 NNS_RB
+skills_as	1
+years_ago	1
+interviewees_quite	1
 months_ago	1
 fans_long	1
-years_ago	1
-people_never	1
+people_yet	1
 extras_only	1
+people_never	1
 EX_VBD
 There_was	1
 JJS_.
 best_.	1
-,_JJ
-,_high	1
-,_eye-opening	1
-,_rare	1
-,_such	1
-,_unique	1
-,_sad	1
-,_new	1
-,_classical	1
-,_impatient	1
-,_short	1
-,_mind-bending	1
-,_many	1
-,_artistic	3
-,_troubled	1
-,_slow	1
-,_old	1
-,_creative	1
-,_exciting	1
-,_audio	1
-,_fancy	1
-,_otherworldy	1
-,_otherworldly	1
-,_female	1
-,_EX
-,_there	2
 DT_JJ
 a_final	1
 a_fantastic	1
@@ -2033,6 +2024,7 @@ the_sci-fi	1
 an_old	2
 the_surrounding	1
 a_TERRIFIC	1
+the_old	1
 a_fabulous	1
 an_operatic	1
 a_brief	4
@@ -2099,11 +2091,11 @@ whose_support	1
 whose_music	1
 VBD_JJR
 was_more	2
-''_``
-''_``	1
 NN_IN
 scene_of	1
 film_than	1
+library_of	1
+dollhouse_with	1
 idea_of	2
 ball_in	1
 man_beneath	1
@@ -2127,16 +2119,20 @@ substance_by	1
 commentary_by	1
 essence_of	1
 lot_of	1
+station_that	1
 lack_of	3
 </a>_In	1
 music_of	4
+stardom_as	1
 footage_from	2
 documentary_with	1
 DVD_in	1
 brim_with	1
+freakism_in	1
 proof_that	1
 fascination_with	1
 DVD_if	1
+space_in	1
 time_for	1
 feeling_of	1
 interview_with	1
@@ -2173,17 +2169,18 @@ rendition_of	1
 mixture_of	1
 side_of	1
 follower_of	1
-AIDS_in	1
+AIDS_in	2
 mix_of	1
 look_in	1
 way_that	1
 nephew_before	1
 knowledge_about	1
-station_that	1
+music_if	1
 look_at	2
 art_in	1
 artist_before	1
 feature_for	1
+director_from	1
 story_of	4
 video_in	1
 period_in	1
@@ -2198,8 +2195,10 @@ interest_in	3
 footage_of	5
 documentary_about	3
 criticisum_though	1
+wave_though	1
 issue_with	1
 length_in	1
+beginning_although	1
 delving_into	1
 image_although	1
 glimpse_in	2
@@ -2219,6 +2218,7 @@ point_than	1
 uniqueness_in	1
 mention_of	1
 Fall_Of	1
+macrocosm_by	1
 reunion_with	1
 cussing_in	1
 front_of	1
@@ -2232,6 +2232,7 @@ trove_of	1
 chronicle_of	1
 devotion_during	1
 anyone_like	1
+film_so	1
 hip_in	1
 turning_of	1
 designer_of	1
@@ -2252,8 +2253,10 @@ performer_from	1
 costuming_by	1
 way_of	1
 man_that	1
+hope_of	1
 singing_since	1
 night_after	1
+crew_with	1
 artist_with	1
 job_of	2
 moment_in	1
@@ -2267,6 +2270,7 @@ trail_of	1
 souvenir_of	1
 shot_of	1
 part_of	1
+contact_so	1
 film_at	1
 love_of	1
 button_with	1
@@ -2291,6 +2295,7 @@ sense_of	1
 death_from	1
 tour_of	1
 appearance_with	1
+kind_with	1
 life_for	1
 CC_DT
 and_an	1
@@ -2308,6 +2313,7 @@ And_the	1
 NN_VBN
 music_used	1
 persona_contrasted	1
+vest_infused	1
 movie_impressed	1
 way_left	1
 likeness_depicted	1
@@ -2315,9 +2321,12 @@ blackness_combined	1
 humanness_buried	1
 NNS_PRP
 artists_we	1
-years_he	1
-folks_I	1
+extras_it	1
 things_I	1
+years_he	1
+victims_he	1
+folks_I	1
+albums_he	1
 deaths_he	1
 stars_I	1
 pictures_she	1
@@ -2342,6 +2351,7 @@ care_went	1
 end_was	1
 anyone_knew	1
 loveling_crafted	1
+title_was	1
 none_were	1
 one_was	1
 aunt_was	1
@@ -2350,14 +2360,17 @@ one_visited	1
 heritage_set	1
 life_was	3
 lesson_was	1
-persona_was	1
+house_came	1
+persona_was	2
 visage_set	1
 talent_was	1
+life_told	1
 set_was	1
 hearing_was	1
 guy_started	1
 music_was	1
 support_jump-started	1
+head_pasted	1
 station_was	1
 WP_PRP
 what_it	2
@@ -2371,7 +2384,7 @@ case_lists	1
 one_has	1
 Song_does	2
 anyone_reads	1
-Song_is	2
+Song_is	4
 aunt_shares	1
 lifestyle_is	1
 heart_opens	1
@@ -2417,14 +2430,14 @@ n't_exactly	1
 so_expertly	1
 not_enough	1
 very_dear	1
-actually_rather	1
+still_vividly	1
 together_so	1
 too_soon	1
 not_far	1
 as_long	1
 so_far	1
 very_much	1
-still_vividly	1
+actually_rather	1
 all_together	1
 so_closely	1
 well_indeed	1
@@ -2437,6 +2450,8 @@ n't_quite	1
 not_always	1
 also_so	1
 so_unremittingly	1
+here_too	1
+too_especially	1
 very_well	2
 VBD_IN
 waited_for	1
@@ -2468,7 +2483,7 @@ came_for	1
 grew_out	1
 was_by	1
 died_of	1
-was_for	1
+was_for	2
 was_without	1
 worked_with	2
 WRB_PDT
@@ -2476,12 +2491,11 @@ how_all	1
 when_half	1
 NN_VBP
 band_are	1
+personality_are	1
 camera_seem	1
 music_serve	1
 :_WRB
 --_how	1
-PRP_''
-me_''	1
 PRP_RB
 you_never	1
 him_well	1
@@ -2502,6 +2516,7 @@ they_also	1
 I_really	2
 I_highly	1
 they_still	1
+himself_too	1
 He_truly	1
 he_so	1
 I_first	4
@@ -2514,9 +2529,6 @@ least_I	1
 PRP_RP
 him_up	1
 it_out	1
-JJ_``
-classic_``	1
-British_``	1
 RB_VBZ
 still_takes	1
 literally_defies	1
@@ -2529,9 +2541,6 @@ here_'s	1
 never_appears	1
 RBR_VBN
 more_known	1
-,_WP
-,_who	3
-,_what	2
 VBZ_VBG
 starts_talking	1
 VB_PRP
@@ -2548,16 +2557,17 @@ locate_it	1
 check_it	1
 say_you	1
 regret_it	1
-PRP_DT
-They_all	1
-We_both	1
-them_some	1
-you_the	1
-us_a	1
-him_the	1
+RB_VBP
+really_describe	1
+highly_recommend	1
+really_think	1
+now_wave	1
+now_see	1
+certainly_satisfy	1
 VBZ_VBN
 is_revealed	1
 is_discussed	1
+is_called	1
 's_gone	1
 is_gone	2
 is_learned	1
@@ -2607,16 +2617,6 @@ ever_achieved	1
 now_addicted	1
 thus_treated	1
 long_dreamed	1
-NN_''
-cancer_''	1
-Footage_''	1
-Song_'	1
-wave_''	1
-space_''	1
-Pop_''	1
-Song_''	3
-voice_''	2
-weirdo_''	1
 VB_RBR
 know_more	1
 be_more	1
@@ -2649,6 +2649,7 @@ never_lost	1
 really_did	1
 Just_had	1
 actually_danced	1
+perhaps_was	1
 eventually_led	1
 briefly_worked	1
 frequently_had	1
@@ -2659,17 +2660,19 @@ also_placed	1
 only_occurred	1
 apparently_was	1
 NNS_NN
+pants_vest	1
 tarts_lesson	1
 CC_MD
 and_could	2
 or_should	1
 and_will	1
 VBD_NN
-were_hearing	1
 detached_persona	1
-became_part	1
+heard_none	1
+were_hearing	1
 crafted_portrait	1
 left_hair	1
+became_part	1
 JJ_WP
 many_who	1
 sure_what	1
@@ -2686,25 +2689,6 @@ switches_to	1
 POS_NNP
 's_New	1
 's_Nomi	1
-,_IN
-,_after	1
-,_with	5
-,_in	8
-,_by	1
-,_though	1
-,_as	4
-,_for	1
-,_if	1
-,_although	1
-,_so	3
-,_that	2
-,_like	2
-,_during	1
-,_from	1
-,_underneath	1
-,_of	2
-,_outside	1
-,_along	1
 POS_NNS
 's_by-turns	1
 's_LPs	1
@@ -2729,16 +2713,18 @@ wo_n't	2
 could_hardly	1
 NN_WDT
 persona_that	1
+life_which	1
 disc_that	1
-break_that	1
-idea_that	1
-time_that	1
 garden_which	1
+break_that	1
+time_that	1
+world_which	1
 falsetto_that	1
 lifestyle_which	1
+scene_that	1
 style_which	1
 stardom_that	1
-scene_that	1
+idea_that	1
 film_that	1
 VB_DT
 see_a	1
@@ -2746,14 +2732,15 @@ remind_the	1
 Watch_this	1
 find_the	1
 make_a	2
+own_this	1
 be_a	2
 order_this	1
 love_this	1
 Buy_this	1
 make_this	1
 have_the	1
-be_the	2
-own_this	1
+be_the	3
+say_this	1
 bring_the	1
 do_a	1
 peak_some	1
@@ -2783,8 +2770,6 @@ has_miniature	1
 's_nice	1
 EX_POS
 there_'s	1
-''_DT
-''_the	1
 NN_TO
 study_to	1
 rise_to	1
@@ -2827,6 +2812,7 @@ it_in	1
 it_for	1
 him_from	1
 him_in	3
+him_so	1
 RBR_JJ
 more_modest	1
 more_satisfying	1
@@ -2840,36 +2826,16 @@ CC_CD
 or_two	1
 PRP_PRP$
 him_his	1
+RB_WDT
+cursorily_which	1
 WP_RB
 who_never	1
 who_briefly	1
 who_actually	1
 what_just	1
 who_already	1
-,_NN
-,_writer	1
-,_none	1
-,_creativity	1
-,_friend	1
-,_painter	1
-,_camp	1
-,_opera	1
-,_proof	1
-,_commentary	1
-,_director	1
-,_art	1
-,_vest	1
-,_etc	1
-,_RIP	1
 WP_PRP$
 what_his	1
-``_RB
-``_out	1
-``_now	1
-``_NNP
-``_Lime	1
-``_Nomi	3
-``_Fiorucci	1
 RB_DT
 Probably_the	1
 quite_the	1
@@ -2883,6 +2849,7 @@ far_the	1
 quite_a	1
 almost_every	1
 just_a	1
+now_this	1
 Perhaps_this	1
 instead_this	1
 even_a	3
@@ -2892,42 +2859,24 @@ not_a	1
 only_a	1
 Maybe_the	1
 perhaps_the	1
+actually_another	1
 also_a	2
 Now_that	1
 also_the	1
 NN_MD
-person_would	1
 film_would	1
 career_could	1
 one_could	2
 anyone_could	1
 reviewer_would	1
+Song_may	1
 originality_can	1
 DVD_will	1
+person_would	1
 DT_VB
 A_blend	1
 CC_RBR
 and_more	1
-DT_``
-the_``	3
-,_RB
-,_quite	1
-,_truly	1
-,_perhaps	1
-,_right	1
-,_yet	2
-,_as	2
-,_otherwise	1
-,_too	2
-,_here	2
-,_particularly	1
-,_still	1
-,_actually	1
-,_even	2
-,_always	1
-,_very	1
-,_especially	1
-,_literally	1
 CC_PRP
 and_they	1
 but_they	1
@@ -2939,9 +2888,6 @@ and_it	2
 and_I	5
 and_we	2
 and_he	1
-VBG_PRP$
-buying_his	1
-stealing_his	1
 RB_VB
 vividly_bring	1
 not_do	1
@@ -2970,29 +2916,21 @@ Ding_dong	1
 grade-B_sci-fi	1
 ta_voix	1
 JJ_RB
-Fast_forward	1
-available_elsewhere	1
 intriguing_even	1
+shy_very	1
+available_elsewhere	1
 different_back	1
+immigrant_right	1
+extraordinary_here	1
+Fast_forward	1
 great_too	1
-,_``
-,_`	1
-,_``	1
+Alien_yet	1
 VBZ_WP
 shows_what	1
 is_what	1
-,_VBD
-,_pasted	1
-,_added	1
-,_told	1
-,_was	4
-,_died	1
-,_came	1
-,_VBG
-,_riding	1
-,_seeing	1
-,_haunting	1
-,_including	1
+VBG_PRP$
+buying_his	1
+stealing_his	1
 NNS_.
 tears_.	1
 friends_.	1
@@ -3028,40 +2966,8 @@ cut-outs_.	1
 circles_.	1
 songs_.	1
 years_.	1
-,_VBN
-,_infused	1
-,_called	1
-,_fascinated	1
-NNS_,
-clips_,	1
-albums_,	1
-aspirations_,	1
-personalities_,	1
-people_,	1
-interviewees_,	1
-remixes_,	1
-artists_,	1
-performances_,	2
-pants_,	1
-pictures_,	1
-films_,	1
-70s_,	1
-skills_,	1
-70-80s_,	1
-interviews_,	3
-others_,	1
-trailers_,	1
-extras_,	2
-victims_,	1
-'70s_,	1
-1970s_,	1
-records_,	1
-anecdotes_,	1
-,_VBP
-,_watch	1
-,_are	1
 VBD_NNP
-saw_Klaus	3
+thought_Nomi	1
 thought_AIDS	1
 knew_Nomi	1
 admitted_Nomi	1
@@ -3073,10 +2979,9 @@ took_New	1
 knew_Klaus	1
 saw_Nomi	1
 knew_Andy	1
+saw_Klaus	3
 NNS_:
 things_:	1
-,_VBZ
-,_has	1
 WRB_RB
 how_much	1
 JJ_NNS
@@ -3154,29 +3059,22 @@ CD_IN
 two_about	1
 1974_in	1
 One_of	2
+1979_in	1
 one_among	1
 one_of	12
-''_CD
-'_85	1
-'_70	1
-CC_JJR
-and_longer	1
-''_CC
-''_and	2
-''_or	1
 IN_WP
 that_what	1
 from_what	1
 for_what	1
 about_what	1
 of_what	2
-RB_''
-there_''	1
 VBG_PRP
-lending_them	1
 giving_him	1
-seeing_himself	1
 happening_they	1
+seeing_himself	1
+lending_them	1
+absorbing_I	1
+workin_it	1
 DT_RB
 a_completely	1
 a_rather	1
@@ -3188,21 +3086,26 @@ a_little	1
 a_deeply	1
 this_very	2
 a_pretty	1
-VBD_CC
-was_and	1
-did_and	1
+VBN_PRP$
+gotten_my	1
 NN_PRP
-fan_it	1
+classic_It	1
+fan_it	2
 reason_I	1
-weekend_I	1
-AIDS_he	1
-time_I	2
-bit_you	1
+boy_he	1
+page_it	1
+interview_he	1
 film_It	1
+entertainer_you	1
+weekend_I	1
+bit_you	1
+sense_he	1
+footage_it	1
+AIDS_he	1
 way_they	1
 way_he	2
 persona_he	1
-boy_he	1
+time_I	2
 career_I	1
 DVD_we	1
 VB_PRP$
@@ -3218,12 +3121,17 @@ make_his	1
 DT_RP
 this_out	1
 JJ_DT
+offbeat_THE	1
 such_a	1
 RB_CC
+much_and	1
+dear_and	1
+literally_and	1
+too_but	1
 lovingly_and	1
 here_and	1
 well_and	1
-literally_and	1
+here_but	1
 MD_VB
 could_look	1
 should_be	2
@@ -3276,43 +3184,32 @@ CC_PDT
 and_all	1
 VB_VBG
 come_running	1
-VBG_NNS
-daydreaming_sessions	1
 WRB_NNP
 where_Nomi	1
 why_Horn	1
 when_AIDS	1
 where_Klaus	1
-,_DT
-,_this	4
-,_another	1
-,_a	4
-,_the	8
-,_no	1
-,_an	1
-,_THE	1
 NNP_NNPS
 York_Dolls	1
+FW_PRP$
+voix_My	1
 VB_VBZ
 believe_is	1
 VBZ_RBR
 resides_more	1
 NNS_DT
+performances_an	1
+70-80s_the	1
 sports_a	1
-POS_``
-'s_``	3
+remixes_a	1
 VBZ_NN
 re-energizes_interest	1
 includes_footage	1
 is_nothing	1
 defies_desciption	1
 mocks_AIDS	1
-DT_''
-the_'	1
 WRB_NN
 When_Rush	1
-UH_,
-alas_,	1
 TO_JJ
 to_great	1
 VBP_DT
@@ -3352,11 +3249,8 @@ was_to	1
 NN_JJR
 lot_more	1
 lot_less	1
-,_WDT
-,_which	4
-,_that	1
-``_PRP$
-``_My	1
+NNS_POS
+people_'s	1
 NNS_IN
 magazines_about	1
 80s_in	1
@@ -3399,6 +3293,7 @@ scenes_from	1
 songs_on	1
 clips_of	1
 interviews_with	7
+1970s_as	1
 people_like	1
 footages_about	1
 extras_as	1
@@ -3428,109 +3323,22 @@ movement_--	1
 extremity_-	1
 life_...	1
 recording_-	1
-._''
-._''	2
+CD_RB
+3_otherwise	1
+POS_JJS
+'_closest	1
 NNP_JJ
 New_york	1
 Nomi_available	1
 York_art/music	1
 N._full	1
-,_WRB
-,_when	3
-NN_,
-interview_,	1
-space_,	1
-community_,	1
-taste_,	1
-pop_,	1
-beginning_,	1
-man_,	1
-head_,	1
-world_,	1
-oracle_,	1
-vest_,	1
-footage_,	3
-music_,	5
-library_,	1
-Home_,	1
-gig_,	1
-macrocosm_,	1
-story_,	1
-effort_,	1
-quality_,	1
-camp_,	1
-house_,	1
-skirt_,	1
-curiosity_,	1
-summation_,	1
-hero_,	1
-freakism_,	1
-yeah_,	1
-recipe_,	1
-personality_,	1
-work_,	1
-voila_,	1
-butch_,	1
-page_,	1
-face_,	1
-disco_,	1
-mood_,	1
-art_,	1
-degree_,	1
-instance_,	1
-angel_,	1
-Nomi_,	1
-scene_,	1
-title_,	1
-view_,	1
-chef_,	1
-segment_,	1
-depth_,	1
-retrospect_,	1
-today_,	1
-Song_,	2
-dollhouse_,	1
-Klaus_,	1
-life_,	2
-mode_,	1
-documentary_,	1
-sense_,	1
-jacket_,	1
-fame_,	1
-hope_,	1
-film_,	1
-career_,	2
-persona_,	2
-era_,	3
-point_,	1
-wave_,	1
-thing_,	1
-director_,	1
-stardom_,	1
-fan_,	1
-outcast_,	1
-contact_,	1
-crew_,	1
-AIDS_,	1
-entertainer_,	1
-heartbreak_,	1
-kind_,	2
-side_,	1
-docu-bio_,	1
-strangeness_,	1
-talent_,	1
-biography_,	1
-detail_,	1
-roommate_,	1
-``_NN
-``_man	1
-``_Lightning	2
-``_Mon	1
-``_Pop	1
+TO_CD
+to_two	1
 NN_.
 woman_!	1
 biography_.	1
 desciption_.	1
+voice_.	1
 top_.	1
 make-up_.	1
 talent_.	1
@@ -3542,8 +3350,10 @@ insight_.	2
 story_.	1
 fall_.	1
 look_.	1
+weirdo_.	1
 ego_.	1
 lifetime_.	1
+sound_.	1
 subject_.	1
 day_.	2
 song_!	1
@@ -3557,7 +3367,7 @@ genre_.	1
 while_.	1
 work_.	1
 garde_.	1
-sound_.	1
+school_.	1
 astonishment_.	1
 man_.	3
 whole_.	1
@@ -3602,7 +3412,7 @@ magazine_.	1
 movie_.	2
 profile_.	1
 time_.	3
-school_.	1
+cancer_.	1
 show_.	1
 show_?	1
 WDT_VBZ
@@ -3614,23 +3424,16 @@ which_keeps	1
 WDT_VBP
 which_lead	1
 which_are	1
-''_VBD
-''_was	1
-,_VB
-,_articulate	1
-''_NN
-''_programme	1
-''_page	1
-''_persona	1
-''_recipe	1
-''_show	1
 IN_TO
 like_to	1
 PRP_CC
+him_but	2
 he_and	1
+him_and	2
+me_and	1
 him_or	1
+me_or	1
 himself_and	1
-him_and	1
 WDT_VBD
 that_was	4
 which_represented	1
@@ -3648,21 +3451,37 @@ doing_so	1
 having_even	1
 DT_WRB
 those_how	1
-DT_,
-this_,	4
-some_,	1
+CC_NNS
+and_footages	1
+and_'80s	1
+and_bandmates	1
+and_anecdotes	1
+and_80s	1
+and_places	1
+and_performances	1
+and_interviews	1
+and_followers	1
+and_trends	1
+and_artists	1
+and_photographs	1
+or_videos	1
 DT_.
 both_.	2
 that_.	1
+NNS_FW
+interviews_i.e.	1
+trailers_etc.	1
 VBG_RP
 coming_out	1
 seeking_out	1
 JJ_VB
+clever_articulate	1
 curious_blend	1
 DT_:
 this_--	1
-NNS_NNS
-videos_clips	1
+PRP_WP
+me_who	2
+us_who	1
 RB_JJ
 not_able	1
 very_different	1
@@ -3710,6 +3529,7 @@ deeply_tragic	1
 plain_androgynous	1
 pretty_full	1
 close_enough	1
+Unfortunately_impatient	1
 am_delighted	1
 quite_sure	1
 still_precious	1
@@ -3725,6 +3545,7 @@ about_like	1
 because_of	1
 as_if	1
 until_about	1
+although_in	1
 Up_until	1
 WRB_IN
 how_that	1
@@ -3751,11 +3572,18 @@ denying_the	1
 giving_an	1
 identifying_the	1
 RB_PRP
-Now_I	2
+elsewhere_he	1
+However_I	1
+Now_I	3
 here_it	1
 n't_he	1
+Yes_it	1
 otherwise_them	1
 frankly_I	1
+now_I	1
+n't_you	1
+Also_I	1
+Hopefully_he	1
 Then_I	1
 MD_DT
 could_a	1
@@ -3787,13 +3615,9 @@ take_off	1
 miss_out	1
 VBZ_EX
 says_there	1
-``_JJ
-``_high	1
-``_Additional	1
-``_future	1
-``_old	1
-``_gay	1
-``_Nomi	1
+NN_EX
+thing_there	1
+taste_there	1
 :_NNP
 -_Klaus	1
 NNP_IN
@@ -3806,18 +3630,22 @@ City_in	1
 Ohio_during	1
 Christie_in	1
 Nomi_while	1
+York_for	1
 Nomi_from	1
 York_of	1
-York_for	1
+Germany_as	1
 Nomi_on	1
 Fari_among	1
-Klaus_that	1
 Space_with	1
+Klaus_that	1
+Klaus_underneath	1
 Klaus_in	1
-York_in	1
+York_in	2
 Nomi_as	1
-Nomi_in	2
+Nomi_in	3
 Scorcese_for	1
+Nomi_like	1
+Nomi_with	1
 Maybe_because	1
 Manhattan_in	1
 Oscar_for	1
@@ -3847,8 +3675,6 @@ his_performances	1
 my_days	1
 FW_.
 etc._.	1
-VBZ_``
-s_`	1
 IN_VBG
 in_creating	1
 for_stealing	1
@@ -3872,13 +3698,8 @@ by_bringing	1
 while_watching	1
 IN_VBD
 as_did	1
-,_PRP
-,_it	7
-,_he	6
-,_I	7
-,_you	4
-FW_''
-voix_''	1
+CC_JJR
+and_longer	1
 IN_VBN
 with_cut	1
 unless_seen	1
@@ -3892,27 +3713,29 @@ my_NYU	1
 VBG_.
 dying_.	1
 performing_.	1
-VBG_,
-missing_,	1
-absorbing_,	1
 JJ_CC
-unique_and	1
-died-alone_and	1
-bright_and	1
+unparalleled_and	1
 amazing_and	2
-modest_and	1
 witty_and	1
-new_and	2
-red_and	1
-original_and	1
-superficial_and	1
-short_but	1
-negative_and	1
-extra-ordinary_and	1
-legendary_and	1
+bright_and	1
+good_and	1
 twisted_and	1
+negative_and	1
+died-alone_and	1
+different_but	1
 vocal_and	1
+short_but	2
+extra-ordinary_and	1
 interesting_and	1
+stand-out_and	1
+feminine_or	1
+red_and	1
+new_and	2
+modest_and	1
+original_and	1
+unique_and	1
+superficial_and	1
+legendary_and	1
 eye-opening_and	1
 scary_and	1
 PDT_PRP$
@@ -3923,11 +3746,6 @@ JJ_CD
 early_80	1
 complete_10	1
 latter_two	1
-CD_,
-85_,	1
-1979_,	1
-3_,	1
-1983_,	1
 CD_.
 1977_.	1
 1980s_.	1
@@ -3939,8 +3757,12 @@ POS_PRP$
 WRB_VBD
 how_knew	1
 how_differred	1
+NNPS_JJ
+Extras_Additional	1
 NNP_WP
 Japan_who	1
+Nomi_what	1
+Nomi_who	1
 Magnuson_who	1
 RB_POS
 here_'s	1
@@ -3956,6 +3778,7 @@ POS_NN
 's_goal	2
 's_cover	1
 's_story	1
+'s_man	1
 's_aunt	1
 's_life	1
 's_career	3
@@ -3996,17 +3819,22 @@ gone_forever	1
 done_very	1
 seen_as	1
 NNP_NN
+Party_segment	1
 Nomi_Song	8
 Vaudeville_performance	1
 Stardust_<a href="http://www.amazon.com/gp/product/B00001OH7P">	1
+Johnsen_art	1
 City_scene	1
 Nomi_style	1
 Wave_scene	1
+Klaus_commentary	1
+Tart_recipe	1
 Warhol_era	1
 Sessions_</a>	1
 Nomi_movement	1
 Egg_feature	1
 Nomi_badge	1
+Extras_painter	1
 Berlin_opera	1
 NY_club	1
 Party_appearance	1
@@ -4023,9 +3851,11 @@ Nomi_story	1
 Destroyer_era	1
 Astaire_film	1
 Wave/Brit/new_music	1
-Party_segment	1
+Scharf_friend	1
+WIGSTOCK_etc	1
 Wave_movement	2
 Vaudeville_gig	1
+Wave_show	1
 VBZ_RB
 is_well	1
 does_n't	1
@@ -4049,7 +3879,7 @@ is_very	1
 is_literally	1
 's_not	1
 feels_somewhat	1
-is_still	2
+is_still	3
 's_just	1
 is_best	1
 NN_POS
@@ -4068,6 +3898,8 @@ cut_out	2
 put_off	1
 RB_PRP$
 Unfortunately_his	1
+forever_his	1
+Sadly_his	1
 VBZ_RP
 burns_out	1
 opens_up	1
@@ -4079,14 +3911,15 @@ NNS_MD
 children_could	1
 videos_would	1
 children_would	1
-,_JJS
-,_most	1
+TO_RB
+to_almost	1
 RBR_IN
 more_about	1
 more_on	1
 RB_IN
 back_into	1
 back_in	4
+there_than	1
 rather_than	1
 fast_before	1
 Even_if	1
@@ -4102,7 +3935,7 @@ directly_from	1
 alone_from	1
 much_that	1
 faithfully_by	1
-well_as	4
+well_as	5
 ahead_of	2
 even_for	1
 up_from	1
@@ -4111,14 +3944,18 @@ right_through	1
 Apart_from	1
 shortly_before	1
 then_until	1
+so_during	1
+rather_in	1
 away_from	1
 away_in	1
 even_if	1
 far_from	1
 enthusiastically_about	1
 even_in	1
+elsewhere_though	1
 ago_at	1
 apart_that	1
+indeed_along	1
 VBG_IN
 seeing_during	1
 strutting_about	1
@@ -4132,8 +3969,12 @@ riding_on	1
 DT_CD
 the_1980s	1
 the_80	2
-the_1953	1
 the_1978	1
+the_1953	1
+the_70	1
+DT_CC
+some_but	1
+this_and	1
 RP_DT
 back_the	1
 VBP_RB
@@ -4153,54 +3994,14 @@ are_n't	1
 Do_n't	2
 have_only	1
 are_not	2
-''_NNP
-''_Lou	1
-''_Christie	1
-NNP_,
-Extras_,	1
-Columbus_,	1
-York_,	3
-Urgh_,	1
-America_,	1
-SONG_,	1
-Horn_,	2
-Halsband_,	1
-Germany_,	2
-Callas_,	1
-WIGSTOCK_,	1
-SNL_,	1
-Johnsen_,	1
-Village_,	1
-Klaus_,	2
-Dylan_,	1
-Mars_,	1
-Wood_,	1
-Bowie_,	1
-Arias_,	1
-Nomi_,	9
-Hoffman_,	1
-Scharf_,	1
+JJ_VBZ
+old_faces	1
 CD_JJ
 one_main	1
 one_jealous	1
 one_great	1
-NNP_.
-Klaus_!	1
-Space_.	1
-Platt_.	1
-Village_.	1
-Horn_.	1
-Klaus_.	3
-AIDS_.	2
-Urgh_!	2
-helium_.	1
-ARIAS_?	1
-NYC_.	1
-Live_.	1
-ALOT_!	1
-Youtube_.	1
-Nomi_.	9
-Klaus_?	1
+VBD_EX
+were_there	1
 POS_CC
 's_&	1
 's_and	1
@@ -4219,6 +4020,7 @@ missing_footage	1
 JJ_VBG
 worth_seeking	1
 nice_seeing	1
+powerful_haunting	1
 NNP_:
 BOWIE_-	1
 Nomi_;	1
@@ -4226,44 +4028,48 @@ Nomi_;	1
 RB_PDT
 literally_half	1
 together_all	1
-RB_VBP
-really_describe	1
-highly_recommend	1
-really_think	1
-now_wave	1
-now_see	1
-certainly_satisfy	1
-TO_RB
-to_almost	1
+PRP_DT
+They_all	1
+himself_The	1
+We_both	1
+them_some	1
+you_the	1
+us_a	1
+him_the	1
 VBZ_.
 happens_.	1
-VBZ_,
-follows_,	1
-is_,	4
 RB_NN
-truly_world	1
 just_RAW	1
 never_anyone	1
-just_uniqueness	1
 almost_everything	1
+truly_world	1
+so_director	1
+just_uniqueness	1
 NNS_TO
 times_to	1
 extras_to	1
 daughters_to	1
 JJ_JJ
-German_immigrant	1
-newfound_operatic	1
-many_added	1
-good_enough	1
-happy_little	1
+metaphoric_artistic	1
 such_homophobic	1
+many_added	1
+mysterious_otherworldly	1
+German_immigrant	1
+good_enough	1
+sad_short	1
+long_slow	1
+happy_little	1
+newfound_operatic	1
 many_other	1
 certain_key	1
 full-length_musical	1
 first_high-profile	1
 makeshift_miniature	1
+strange_artistic	1
 lime_tart	2
-unique_unto	1
+troubling_troubled	1
+Heady_creative	1
+brief_exciting	1
 many_live	1
 other_vintage	1
 huge_oversized	1
@@ -4275,8 +4081,14 @@ local_public	1
 Incredible_rare	1
 oversized_old	1
 bemused_little	1
+non-mainstream_otherworldy	1
+cross-dressing_female	1
+high_high	1
 amazing_mechanical	1
 tragic_short	1
+engaging_eye-opening	1
+unique_unto	1
+genre-defying_mind-bending	1
 JJR_IN
 weirder_than	2
 more_than	3
@@ -4290,10 +4102,6 @@ how_different	1
 how_much	1
 how_wonderful	1
 where_few	1
-,_CC
-,_and	34
-,_or	5
-,_but	19
 VB_NN
 start_diving	1
 hear_something	1
@@ -4301,8 +4109,8 @@ look_butch	1
 become_hip	1
 be_part	1
 do_justice	1
-,_CD
-,_one	3
+VBZ_JJR
+is_more	1
 CD_VBD
 1974_put	1
 NN_WP
@@ -4314,16 +4122,16 @@ guy_who	1
 aunt_who	1
 man_who	2
 countertenor_who	1
+roommate_who	1
 performer_who	1
 PRP_PDT
 him_all	1
-``_FW
-``_Ding	1
-`_ouvre	1
 RB_RBR
 once_more	1
 VBD_WP
 knew_what	1
+CC_FW
+or_Ding	1
 PRP_TO
 him_to	3
 me_to	1
@@ -4332,6 +4140,7 @@ shows_are	1
 songs_do	1
 scenes_are	1
 people_are	1
+artists_have	1
 ideas_come	1
 features_are	1
 issues_are	1
@@ -4339,7 +4148,7 @@ footages_are	1
 performances_include	1
 interviews_are	1
 extras_are	2
-artists_have	1
+artists_watch	1
 players_are	1
 trends_have	1
 NNP_MD
@@ -4358,6 +4167,7 @@ in_1983	2
 in_1974	2
 by_two	1
 of_thirty	1
+about_85	1
 in_70	1
 As_one	1
 of_one	1
@@ -4380,16 +4190,19 @@ transformed_his	1
 set_his	1
 brought_my	1
 treated_his	1
-PRP_:
-him_...	1
+IN_CC
+for_and	1
 JJS_IN
 most_of	1
 funniest_of	1
 NNS_VBG
 clips_lending	1
-misfits_searching	1
 lengths_creating	1
+misfits_searching	1
+extras_including	1
 costumes_coming	1
+'70s_riding	1
+others_seeing	1
 people_adjusting	1
 RP_RB
 out_so	1
@@ -4399,11 +4212,7 @@ him_royalties	1
 NNS_VBN
 props_used	1
 interviews_found	1
-,_UH
-,_alas	1
-``_PRP
-``_You	1
-``_It	1
+records_fascinated	1
 CD_JJR
 one_more	1
 POS_JJ
@@ -4413,15 +4222,12 @@ POS_JJ
 's_eponymous	1
 's_firm	1
 's_brief	1
-'s_complex	1
+'s_high	1
+'s_sad	1
 's_early	1
 's_gay	1
 's_lime	2
-'s_sad	1
-''_IN
-''_though	1
-''_than	1
-''_in	1
+'s_complex	1
 :_TO
 -_to	1
 RBR_:
@@ -4489,7 +4295,7 @@ of_new	1
 of_key	1
 with_many	2
 of_high	1
-in_general	1
+as_gay	1
 for_new	1
 via_casual	1
 that_first	1
@@ -4497,6 +4303,7 @@ in_high	1
 for_part-time	1
 of_great	1
 of_talented	1
+in_general	1
 for_other	1
 with_beautiful	1
 in_real	1
@@ -4513,8 +4320,6 @@ with_electronic	1
 with_generous	1
 on_superficial	1
 with_certain	1
-IN_''
-about_'	1
 VBN_NN
 scored_success	1
 known_anything	1
@@ -4522,6 +4327,7 @@ acquired_taste	1
 welcomed_addition	1
 enjoyed_singing	1
 NNP_RB
+York_particularly	1
 Wood_even	1
 Story_twice	1
 SONG_also	1
@@ -4601,11 +4407,6 @@ to_speed	1
 RB_MD
 here_may	1
 still_ca	1
-NN_``
-term_``	1
-music_``	1
-classic_``	1
-aria_``	1
 CC_NNP
 and_Nomi	1
 But_Klaus	1
@@ -4614,14 +4415,10 @@ and_Page	1
 and_Andrew	1
 and_Joey	2
 and_<a href="http://www.amazon.com/gp/product/B000BRD6T4">	1
+or_Nomi	1
 but_Nomi	1
 and_Lou	1
 and_Europe	1
-VBD_,
-died_,	2
-heard_,	1
-looked_,	1
-was_,	2
 VBD_.
 thought_.	1
 transfixed_.	1
@@ -4648,7 +4445,7 @@ Nomi_arrived	1
 Horn_was	1
 Sperber_took	1
 Nomi_became	1
-Nomi_was	6
+Nomi_was	7
 AIDS_was	1
 NNP_VBN
 Nomi_built	1
@@ -4669,30 +4466,38 @@ something_very	1
 music_literally	1
 story_shortly	1
 programme_back	1
-performance_as	1
+broadcast_back	1
 TV_ever	1
-nothing_much	1
+yeah_here	1
 singer_back	1
+side_literally	1
 annihilation_as	1
+term_now	1
+outcast_even	1
+era_actually	1
 album_as	1
 story_yet	1
 dollhouse_almost	1
+era_as	1
+talent_truly	1
 announcer_frequently	1
 narrative_still	1
 music_back	1
 film_also	1
 fact_never	1
+nothing_much	1
 guy_really	1
 goal_apparently	1
 rise_up	1
 month_ago	1
 introduction_rather	1
 man_indeed	1
-broadcast_back	1
+performance_as	1
 :_:
 ..._...	1
 JJ_IN
 enchanted_by	1
+excellent_with	1
 new_in	1
 honest_about	1
 thin_in	1
@@ -4700,6 +4505,7 @@ friendless_as	1
 many_of	1
 wonderful_that	1
 bad_about	1
+emblematic_in	1
 incisive_as	1
 old_like	1
 preserved_for	1
@@ -4711,6 +4517,7 @@ sad_that	1
 seminal_in	1
 ready_for	1
 captivating_as	1
+true_that	1
 unique_as	1
 avant-garde_that	1
 short_of	2
@@ -4726,22 +4533,14 @@ weird_as	2
 tragic_for	1
 similar_for	1
 wild_as	1
+true_like	1
 interested_in	3
-VBD_``
-thought_``	1
-saw_``	1
-''_PRP
-'_it	1
 VBG_JJ
 including_full-length	1
 impacting_many	1
 falling_short	1
+missing_such	1
 casting_such	1
-WP_,
-who_,	1
-IN_:
-with_...	1
-though_...	1
 VBZ_DT
 is_a	11
 's_a	3
@@ -4773,8 +4572,11 @@ JJS_VBZ
 least_re-energizes	1
 VBZ_NNP
 plays_Nomi	1
+Strikes_Lou	1
 Strikes_Again	1
 follows_Nomi	1
+RP_CC
+out_but	1
 VBZ_NNS
 credits_others	1
 VBP_NN
@@ -4782,12 +4584,20 @@ am_today	1
 want_something	1
 do_pity	1
 include_songwriter	1
-JJ_''
-old_''	1
+NN_PRP$
+skirt_her	1
+man_his	1
+art_his	1
 VB_CC
 articulate_and	1
-discover_or	1
 know_and	1
+discover_or	1
+be_but	1
+be_and	1
+NNP_DT
+Village_the	1
+Horn_the	1
+Nomi_the	1
 JJS_NN
 deepest_one	1
 slightest_interest	1
@@ -4799,18 +4609,6 @@ off_by	2
 out_for	1
 VBN_NNS
 expected_interviews	1
-,_WP$
-,_whose	3
-,_NNP
-,_Bowie	1
-,_manager/producer	1
-,_Andrew	1
-,_Ann	1
-,_Horn	3
-,_A	1
-,_Klaus	5
-,_Ohio	1
-,_Nomi	4
 VBG_NNP
 hearing_Nomi	1
 saying_Andy	1
@@ -4820,28 +4618,10 @@ recalling_Nomi	1
 helping_Klaus	1
 backing_David	1
 watching_<a href="http://www.amazon.com/gp/product/B0001W0X2W">	1
-CC_NNS
-and_footages	1
-and_'80s	1
-and_bandmates	1
-and_anecdotes	1
-and_80s	1
-and_places	1
-and_performances	1
-and_interviews	1
-and_followers	1
-and_trends	1
-and_artists	1
-and_photographs	1
-or_videos	1
-,_NNS
-,_children	1
-,_lots	1
-,_trailers	1
-,_interviews	1
-,_pants	1
-,_photographers	1
-,_anecdotes	1
+VBG_NNS
+daydreaming_sessions	1
+WP_IN
+who_after	1
 VBZ_IN
 is_that	2
 presents_in	1
@@ -4857,12 +4637,25 @@ is_up	1
 rises_above	1
 looks_at	1
 ends_with	1
-NNS_POS
-people_'s	1
 DT_TO
 this_to	1
-VBD_EX
-were_there	1
+NNP_.
+Klaus_!	1
+Space_.	1
+Platt_.	1
+Village_.	1
+Horn_.	1
+Klaus_.	3
+AIDS_.	2
+Urgh_!	2
+helium_.	1
+ARIAS_?	1
+NYC_.	1
+Live_.	1
+ALOT_!	1
+Youtube_.	1
+Nomi_.	9
+Klaus_?	1
 JJ_NN
 impossible_idea	1
 main_issue	1
@@ -4989,6 +4782,7 @@ TERRIFIC_pastry	1
 original_talent	1
 exemplary_movie-making	1
 extraterrestrial_angel	1
+British_Pop	1
 operatic_tragedy	1
 high_voice	1
 little_grin	1
@@ -5058,6 +4852,7 @@ original_performer	1
 private_film	1
 brief_recording	1
 miniature_garden	1
+classic_Lightning	1
 artistic_effect	1
 slow_rise	1
 Teutonic_countertenor	1

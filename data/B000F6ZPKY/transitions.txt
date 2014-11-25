@@ -8,8 +8,8 @@ VBG
 PRP$	1
 NN	2
 CC	1
-,	1
 TO	1
+PRP	1
 IN	2
 DT	3
 NNP	1
@@ -23,41 +23,18 @@ RB	5
 IN	1
 DT	10
 EX	1
-``
-VB	1
-DT	1
-NN	1
-NNP	1
 VBN
 MD	1
 VBG	2
 NN	1
-CC	1
-,	3
+CC	3
 JJR	2
+.	1
 TO	2
+RB	1
 IN	7
 RP	1
 DT	4
-.	1
-POS
-NN	2
-CC	2
-,	1
-CD	1
-JJ	1
-IN	1
-.	3
-NNS	2
-NNP	2
-''
-VB	1
-CC	1
-JJS	1
-,	1
-VBN	1
-VBP	1
-IN	1
 VBP
 VBG	3
 JJ	6
@@ -78,14 +55,13 @@ JJ
 VB	1
 RB	1
 NN	26
-CC	8
-,	6
+CC	13
 .	10
 TO	3
 PRP	1
 JJ	3
 IN	8
-DT	1
+DT	2
 :	1
 NNS	10
 NNP	2
@@ -112,9 +88,8 @@ DT	4
 NNP	2
 DT
 MD	1
-``	2
 RB	2
-NN	56
+NN	57
 JJS	3
 JJR	1
 CD	4
@@ -123,51 +98,50 @@ WP	1
 VBZ	8
 .	2
 NNS	13
-NNP	8
+NNP	9
 RP
 DT	2
 NN
 VBD	2
-VBN	1
-,	16
-''	4
+VBN	2
 VBP	2
 WDT	1
 JJ	2
-VBZ	17
-DT	1
-NN	15
+WP	1
+VBZ	18
+DT	4
+NN	16
 POS	6
 .	26
 TO	5
-PRP	3
-RB	6
+PRP	6
+RB	7
 :	1
 NNS	6
+NNP	1
+VB	1
 WRB	2
-CC	11
+CC	15
 RBR	1
 CD	1
-IN	29
+IN	31
 MD	1
+JJS	1
 JJR	1
 FW
 NNP	1
 VBP	1
 NNS	1
 CD	2
-,
-VB	1
-NN	1
-CC	17
+POS
+NN	2
+CC	3
+CD	1
+JJ	1
 IN	1
-VBN	1
-PRP	6
-RB	5
-WP	1
-VBZ	1
-DT	4
-NNP	3
+.	3
+NNS	2
+NNP	2
 TO
 VB	11
 NN	2
@@ -178,17 +152,16 @@ DT	2
 NNP	1
 PRP
 MD	13
-VB	1
+VB	2
 WRB	1
 RB	1
 VBG	1
 VBD	15
 CC	1
-,	2
 CD	1
 .	3
 VBP	29
-JJ	1
+JJ	2
 IN	1
 VBZ	6
 :	1
@@ -198,7 +171,7 @@ VBG	2
 RB	2
 NN	1
 VBD	1
-CC	2
+CC	4
 VBN	5
 .	3
 TO	2
@@ -210,7 +183,6 @@ IN	8
 VBZ	2
 DT	4
 :	1
-,	2
 JJR	2
 :
 NN	1
@@ -223,42 +195,40 @@ NNS
 MD	1
 WRB	1
 NN	3
-CC	7
+CC	9
 RBR	1
 VBN	1
 .	11
 TO	1
 VBP	11
 WDT	1
-PRP	2
+PRP	3
 RB	2
 IN	8
 VBZ	1
 DT	1
 NNS	1
-,	4
+NNP	1
 NNP
 VB	1
 :	1
 WRB	1
-NN	9
+NN	10
 VBD	2
-CC	4
+CC	6
 POS	10
 CD	1
-''	3
-PRP	1
+PRP	2
 IN	10
 VBZ	4
 .	3
 NNS	4
-,	2
-NNP	39
+NNP	40
 VB
 PRP$	4
 NNPS	1
 WRB	1
-RB	3
+RB	5
 NN	2
 WP	1
 VBN	6
@@ -268,20 +238,18 @@ EX	1
 JJ	2
 IN	7
 DT	7
-,	2
 PRP	5
 WRB
-''	1
 DT	1
+VBP	1
 PRP	3
 CC
 MD	1
-VB	4
+VB	5
 RB	4
 NN	5
 VBD	4
 FW	1
-``	1
 RBR	1
 VBN	1
 TO	1
@@ -319,7 +287,6 @@ NN	9
 FW	1
 CC	1
 PDT	2
-``	1
 JJR	1
 CD	3
 TO	1
@@ -328,7 +295,7 @@ RB	3
 IN	5
 WP	1
 VBZ	1
-DT	34
+DT	35
 .	1
 NNS	5
 NNP	10
@@ -346,5 +313,5 @@ JJR
 CC	1
 :	1
 NNS	1
-,	1
+VBN	1
 .	2

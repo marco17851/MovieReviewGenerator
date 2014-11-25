@@ -1,6 +1,3 @@
-,_IN
-,_in	1
-,_so	1
 POS_NNS
 's_opinions	1
 VBP_JJR
@@ -23,9 +20,8 @@ cry_the	1
 buy_this	1
 move_any	1
 Dispite_some	1
-RB_,
-away_,	1
-seriously_,	1
+DT_PRP$
+all_my	1
 RB_.
 well_.	1
 CC_JJR
@@ -110,6 +106,7 @@ we_'re	1
 RB_DT
 still_a	1
 not_the	1
+away_the	1
 DT_VBN
 all_used	1
 WP_VBZ
@@ -151,13 +148,6 @@ and_watch	1
 JJR_NN
 older_meaning	1
 older_anime	1
-NN_,
-theme_,	1
-show_,	1
-DVD_,	1
-etc._,	1
-series_,	1
-style_,	1
 NNP_.
 Gundam_.	1
 VBZ_VBG
@@ -165,8 +155,6 @@ is_going	1
 PRP_RB
 it_very	1
 You_really	1
-DT_PRP$
-all_my	1
 IN_IN
 because_of	2
 FW_NN
@@ -185,11 +173,10 @@ VBZ_WP
 is_what	1
 NNP_:
 READY_...	1
-JJ_,
-sad_,	1
 JJR_NNS
 newer_ones	1
 NN_DT
+theme_this	1
 way_the	1
 :_VB
 :_imagine	1
@@ -199,9 +186,6 @@ NNS_.
 DVDs_.	1
 gundams_.	1
 ones_.	1
-NNS_,
-times_,	1
-opinions_,	1
 TO_DT
 to_a	1
 CC_IN
@@ -225,18 +209,13 @@ JJR_IN
 more_than	1
 VB_NNS
 buy_rounds	1
-,_CC
-,_and	2
-,_or	1
-,_but	2
 VB_NNP
 offend_DBZ	1
 imagine_DBZ	1
 NN_NNS
 gundam_shows	1
-FW_VB
-wont_give	1
-i_find	1
+NNS_NNP
+opinions_G	1
 WDT_NNS
 which_blows	1
 PRP$_NNP
@@ -249,10 +228,10 @@ I_must	1
 they_can	1
 I_'ll	1
 you_should	1
-,_PRP$
-,_its	1
 NN_PRP
 right_it	1
+RB_CC
+seriously_and	1
 VBP_IN
 get_in	1
 MD_VB
@@ -273,13 +252,13 @@ otherwise_lacking	1
 CC_NN
 and_producer	1
 or_something	1
-,_DT
-,_this	1
-,_the	1
 NN_CC
-fan_and	1
 set_or	1
+fan_and	1
 director_and	1
+series_or	1
+DVD_but	1
+style_and	1
 CC_VB
 but_buy	1
 VBP_VBG
@@ -337,6 +316,7 @@ certain_comic	1
 CD_RB
 1-5_too	1
 NNS_CC
+times_but	1
 mechas_and	1
 1990s_and	1
 VBD_PRP
@@ -358,6 +338,7 @@ can_.	1
 episode_.	1
 NN_IN
 episode_on	1
+etc._so	1
 producer_of	1
 event_that	1
 climax_in	1
@@ -409,6 +390,7 @@ the_newer	1
 NN_RB
 series_away	1
 JJ_IN
+sad_in	1
 sharp_as	1
 corny_at	1
 VBG_JJ
@@ -430,6 +412,11 @@ Gundam_DVDs	1
 NNP_NNP
 Cartoon_Network	1
 G_Gundam	4
+FW_VB
+wont_give	1
+i_find	1
+NN_PRP$
+show_its	1
 RB_JJ
 so_sad	1
 as_sharp	1
@@ -461,8 +448,6 @@ used_to	1
 VB_RB
 be_otherwise	1
 find_so	1
-,_NNP
-,_G	1
 VBZ_TO
 comes_to	1
 IN_DT

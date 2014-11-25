@@ -6,6 +6,8 @@ VB_PRP$_NN
 say_my_son	1
 VBP_DT_NN
 think_this_video	1
+IN_NN_WP
+by_T-Rex_who	1
 NN_MD_VB
 son_would_prefer	1
 CC_NNS_VBP
@@ -14,8 +16,6 @@ NNS_VBP_JJ
 stories_teach_simple	1
 VBN_NN_RBR
 preferred_something_less	1
-,_WP_VBZ
-,_who_roars	1
 NNS_VBP_RB
 friends_are_often	1
 VBN_IN_NN
@@ -24,12 +24,10 @@ DT_NNP_NNS
 the_Hanna-Barbera_studios	1
 PRP$_NN_RB
 my_son_really	1
-IN_,_PRP
-Although_,_I	1
+NN_RBR_JJ
+something_less_intense	1
 DT_NN_:
 a_lion_-	1
-JJ_,_PRP
-fine_,_I	1
 TO_VB_PRP
 to_watch_it	1
 CC_DT_NNS
@@ -44,8 +42,6 @@ VBZ_CD_CC
 contains_5_or	1
 NNS_IN_VBG
 lessons_about_helping	1
-,_PRP_MD
-,_I_would	1
 RB_VBG_VBN
 often_being_chased	1
 NN_RB_NNS
@@ -57,8 +53,8 @@ practical_jokes_.	1
 little_dinosaurs_.	1
 NN_VBZ_JJ
 video_is_fine	1
-IN_NN_,
-by_T-Rex_,	1
+PRP_RB_VBP
+I_basically_think	1
 POS_NNS_IN
 '_adventures_as	1
 VB_VBN_NN
@@ -79,6 +75,8 @@ JJ_:_NN
 scary_-_Dink	1
 PRP$_NNS_POS
 his_friends_'	1
+VBZ_JJ_PRP
+is_fine_I	1
 VBZ_RB_TO
 's_not_to	1
 VB_PRP_.
@@ -112,14 +110,12 @@ CD_CC_RB
 IN_JJ_NNS
 of_practical_jokes	1
 as_little_dinosaurs	1
-NN_,_WP
-T-Rex_,_who	1
 MD_VB_IN
 would_prefer_that	1
+JJ_PRP_MD
+fine_I_would	1
 RB_VBP_DT
 basically_think_this	1
-,_PRP_RB
-,_I_basically	1
 MD_VB_VBN
 would_have_preferred	1
 JJ_NNS_IN
@@ -132,8 +128,6 @@ NN_VBZ_CD
 video_contains_5	1
 IN_NNP_CC
 about_Dink_and	1
-PRP_RB_VBP
-I_basically_think	1
 NNS_TO_VB
 wants/needs_to_watch	1
 VBZ_IN_DT
@@ -142,12 +136,12 @@ DT_NNS_VBP
 The_stories_teach	1
 VBN_IN_DT
 done_by_the	1
+IN_PRP_RB
+Although_I_basically	1
 RB_NNS_IN
 so_stories_about	1
 WP_VBZ_IN
 who_roars_like	1
-NN_RBR_JJ
-something_less_intense	1
 DT_NNS_IN
 the_dangers_of	1
 VBP_JJ_NNS
@@ -160,6 +154,8 @@ TO_VB_PRP$
 to_say_my	1
 CC_PRP$_NNS
 and_his_friends	1
+NN_WP_VBZ
+T-Rex_who_roars	1
 IN_PRP$_NN
 of_my_childhood	1
 NNP_CC_PRP$
@@ -170,8 +166,6 @@ VBZ_JJ_:
 is_scary_-	1
 NNP_NNS_IN
 Hanna-Barbera_studios_of	1
-VBZ_JJ_,
-is_fine_,	1
 PRP_MD_VB
 I_would_have	1
 NNS_IN_JJ

@@ -16,10 +16,6 @@ VBN
 believed	1
 seen	1
 Recorded	1
-POS
-'	1
-''
-''	3
 VBP
 Am	1
 're	3
@@ -110,8 +106,8 @@ amount	1
 ditty	1
 whole	1
 fact	1
-,
-,	21
+POS
+'	1
 .
 .	10
 TO
@@ -174,8 +170,14 @@ Hill	1
 Legendary	1
 The	2
 LPD	3
-``
-``	3
+VB
+sound	1
+be	2
+buy	1
+love	1
+look	1
+start	1
+see	1
 CC
 and	10
 But	1
@@ -207,11 +209,3 @@ JJS
 earliest	1
 JJR
 better	3
-VB
-sound	1
-be	2
-buy	1
-love	1
-look	1
-start	1
-see	1

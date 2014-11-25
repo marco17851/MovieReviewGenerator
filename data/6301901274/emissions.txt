@@ -53,63 +53,35 @@ were	4
 went	1
 pulled	1
 wrote	1
-VB
-GIVE	1
-think	1
-have	6
-do	1
-move	1
-wonder	1
-bring	1
-see	3
-explain	1
-want	1
-pass	1
-take	1
-hate	1
-find	3
-chase	1
-end	1
-start	1
-establish	1
-make	1
-scan	5
-mix	1
-SEE	2
-build	1
-save	1
-choose	1
-be	9
-buy	1
-get	6
-watch	1
-forgive	1
-pave	1
-break	1
-let	1
-know	1
-determine	1
-put	1
-hold	1
-come	2
-remember	1
-protect	1
-look	1
-work	1
-exploit	1
-keep	1
-range	1
-learn	1
-release	1
-Check	1
-mean	1
-POS
-'S	1
-'s	2
-'	1
-''
-''	3
-'	3
+VBN
+gone	1
+executed	2
+played	4
+depleted	1
+watched	1
+seen	3
+saved	1
+situated	1
+discarded	1
+compared	1
+dangled	1
+had	1
+been	3
+bogged	1
+taken	1
+recovered	1
+resolved	2
+misdirected	1
+threatened	1
+driven	1
+released	1
+disappointed	1
+directed	1
+lost	1
+presented	1
+thought	1
+supposed	1
+called	1
 VBP
 enjoy	1
 have	8
@@ -480,8 +452,10 @@ didn	1
 clich&eacute;d	1
 &#8217;	2
 THEATRES	1
-,
-,	94
+POS
+'S	1
+'s	2
+'	1
 .
 !	2
 ?	7
@@ -714,9 +688,56 @@ MALCOLM	1
 Panavision	1
 Malcolm	3
 TOO	1
-``
-`	1
-``	3
+VB
+GIVE	1
+think	1
+have	6
+do	1
+move	1
+wonder	1
+bring	1
+see	3
+explain	1
+want	1
+pass	1
+take	1
+hate	1
+find	3
+chase	1
+end	1
+start	1
+establish	1
+make	1
+scan	5
+mix	1
+SEE	2
+build	1
+save	1
+choose	1
+be	9
+buy	1
+get	6
+watch	1
+forgive	1
+pave	1
+break	1
+let	1
+know	1
+determine	1
+put	1
+hold	1
+come	2
+remember	1
+protect	1
+look	1
+work	1
+exploit	1
+keep	1
+range	1
+learn	1
+release	1
+Check	1
+mean	1
 WRB
 When	2
 when	3
@@ -738,35 +759,15 @@ RBS
 most	1
 RBR
 more	1
-VBN
-gone	1
-executed	2
-played	4
-depleted	1
-watched	1
-seen	3
-saved	1
-situated	1
-discarded	1
-compared	1
-dangled	1
-had	1
-been	3
-bogged	1
-taken	1
-recovered	1
-resolved	2
-misdirected	1
-threatened	1
-driven	1
-released	1
-disappointed	1
-directed	1
-lost	1
-presented	1
-thought	1
-supposed	1
-called	1
+CD
+1989	1
+&#8217;	11
+44	6
+one	8
+98	1
+2.35:1	1
+&#8230;	1
+One	4
 EX
 there	1
 There	2
@@ -813,15 +814,6 @@ though	2
 OF	1
 out	2
 If	2
-CD
-1989	1
-&#8217;	11
-44	6
-one	8
-98	1
-2.35:1	1
-&#8230;	1
-One	4
 MD
 'll	3
 would	9
