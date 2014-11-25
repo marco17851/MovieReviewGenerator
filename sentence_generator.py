@@ -94,6 +94,24 @@ def build_POS_table(posFile):
                 total_sequence.append(tags[1])
     return posTable
 
+"""
+# Function: build_Probabilistic_POS(posFile, transitions)
+# Input: posFile = an annotated text file with part-of-speech tags (named pos.txt)
+            transitions = a file (named bg_transitions.txt) consisting of transition frequencies for part-of-speech sequences
+
+# Output: a list of part-of-speech sequences
+
+# Description: Obtains a set of part-of-speech templates by doing the following:
+
+                Among the part-of-speech bigrams that start with DT, select one
+                Probabilistically generate next part-of-speech using transition probabilities
+                If you reach a "." part-of-speech, terminate the part-of-speech sequence there.
+                Keep the sentence under like 20 part-of-speeches
+"""
+def build_Probabilistic_POS(posFile, transitions):
+    """Note: Do not include part-of-speeches that are in the dontInclude global array. I'm not sure if Marco has already
+        filtered those out from the transitions file..."""
+    return [['DT', 'JJ', 'NN']]
 
 """
 # Function: tfidf()
@@ -172,9 +190,10 @@ def transitions(productID):
 
 """
 # Function: getWordFromUnigramEmissions(ID, pos)
-# Input: 
+# Input: ID: Product ID specifying the reviews from which to select the word
+        pos: the part of speech of the returned word
 
-# Description: 
+# Description: given a product ID, select any word that has the right part of speech given by pos
 """
 def getWordFromUnigramEmissions(ID, pos):
     array = []
@@ -222,7 +241,7 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
     sentences = []
     arpa_dict = transitions(productID)
 
-    for i in range(1):
+    for i in range(10):
 
         sentence = ''
         curr_key = '<s>'
@@ -363,6 +382,7 @@ def overlap(pos_sequence):
 """
 def generateSentence(pos_sequence, posEmissions):
     sentence = ""
+    print pos_sequence
     pos_sequence = overlap(pos_sequence)
 
     first_pos = True
@@ -407,6 +427,7 @@ def generateSentence(pos_sequence, posEmissions):
                     for y in range(0, len(words)):
                         sentence += words[y] + ' '
                 break
+    print sentence
     return sentence
 
 """
@@ -442,17 +463,24 @@ if __name__=='__main__':
 
     pos_sequences = build_POS_table("./data/" + sys.argv[1] + "/pos.txt")
     randomly_chosen_pos_sequences = []
-    while len(randomly_chosen_pos_sequences) != min(len(pos_sequences), 4):
-        x = random.randint(0,len(pos_sequences) - 1)
-        while len(pos_sequences[x]) == 0:
-            x = random.randint(0,len(pos_sequences) - 1)
 
-        while (pos_sequences[x] in randomly_chosen_pos_sequences) or (len(pos_sequences[x]) < 4):
+    #----------------
+    #populate randomly_chosen_pos_sequences with part-of-speech sequences
+    if int(pos_type) == 1:
+        pos_sequences = build_POS_table("./data/" + sys.argv[1] + "/pos.txt")
+        while len(randomly_chosen_pos_sequences) != min(len(pos_sequences), 4):
             x = random.randint(0,len(pos_sequences) - 1)
             while len(pos_sequences[x]) == 0:
                 x = random.randint(0,len(pos_sequences) - 1)
-        randomly_chosen_pos_sequences.append(pos_sequences[x])
 
+            while (pos_sequences[x] in randomly_chosen_pos_sequences) or (len(pos_sequences[x]) < 4):
+                x = random.randint(0,len(pos_sequences) - 1)
+                while len(pos_sequences[x]) == 0:
+                    x = random.randint(0,len(pos_sequences) - 1)
+            randomly_chosen_pos_sequences.append(pos_sequences[x])
+    elif int(pos_type) == 0:
+        randomly_chosen_pos_sequences = build_Probabilistic_POS("./data/" + sys.argv[1] + "/pos.txt", "./data/" + sys.argv[1] + "/bg_emissions.txt")
+    
     #----------------
 
     #----------------
@@ -468,7 +496,8 @@ if __name__=='__main__':
 
         for pos in randomly_chosen_pos_sequences:
             for sent in sentence(sys.argv[1], tfidf_dict, pos):
-                print sent.lower()
+                x = 5
+                #print sent.lower()
 
     elif int(word_selection_type) == 0:
         for pos in randomly_chosen_pos_sequences:

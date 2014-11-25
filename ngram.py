@@ -213,6 +213,8 @@ def sentence_extraction():
     for sent in sentences:
         tfidf_score = 0.0
         sent_words = sent.sentence.split()
+        if len(sent_words) > 20 or len(sent_words) < 4:
+            continue
         for w in sent_words:
             tfidf_score += float(tfidf_dict[w])
 
