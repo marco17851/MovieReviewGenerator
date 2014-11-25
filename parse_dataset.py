@@ -69,11 +69,15 @@ def compile_summaries_and_texts(filename):
                 f2.close()
                 break
 
-#write the text for a movie review to the texts.txt file specified by f
+"""
+write the text for a movie review to the texts.txt file specified by f
+"""
 def processText(textLine, f):
     f.write(textLine[13:])
 
-#write the summary for a movie review to the summaries.txt file specified by f
+"""
+write the summary for a movie review to the summaries.txt file or the allsummaries.txt specified by f
+"""
 def processSummary(summaryLine, f):
     f.write(summaryLine[16:])
     print summaryLine
