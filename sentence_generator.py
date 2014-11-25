@@ -485,6 +485,8 @@ if __name__=='__main__':
         ngram.sentence_extraction()
         sys.exit(0)
 
+    print "Title: " sys.argv[2] + "\nID: " + sys.argv[1] + "\n"
+
     #----------------
     #populate randomly_chosen_pos_sequences with part-of-speech sequences
 
