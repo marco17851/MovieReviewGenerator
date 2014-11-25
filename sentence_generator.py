@@ -108,10 +108,51 @@ def build_POS_table(posFile):
                 If you reach a "." part-of-speech, terminate the part-of-speech sequence there.
                 Keep the sentence under like 20 part-of-speeches
 """
-def build_Probabilistic_POS(posFile, transitions):
+def build_Probabilistic_POS(transitions):
+    pos_sequence_list = []
+    POS_frequencies = defaultdict(list)
+    starting_bg = ""
+    next_bg = ""
+    starters = []
+    for line in open(transitions):
+        tokens = line.split()
+        if len(tokens) == 1:
+            starting_bg = tokens[0]
+            if starting_bg.startswith("DT"):
+                starters.append(starting_bg)
+        else:
+            next_bg = tokens[0]
+            freq = int(tokens[1])
+            for i in range(0, freq):
+                POS_frequencies[starting_bg].append(next_bg)
+
+    for j in range(0, 10):
+        #CHOOSE A RANDOM STARTING KEY
+        current_sequence = []
+        starting_bg = random.choice(starters)
+        tokens = starting_bg.split('_')
+        current_sequence.append(tokens[0])
+        current_sequence.append(tokens[1])
+        sentenceCap = 20
+        #sentenceLength = random.randint(3,10)
+        while len(current_sequence) <= sentenceCap:
+            if starting_bg not in POS_frequencies:
+                break
+            next_bg = random.choice(POS_frequencies[starting_bg])
+            tokens = next_bg.split('_')
+            current_sequence.append(tokens[0])
+            if(tokens[0]=="." or tokens[0]=="!" or tokens[0]=="?"):
+                break
+            current_sequence.append(tokens[1])
+            if(tokens[0]=="." or tokens[0]=="!" or tokens[0]=="?"):
+                break
+            starting_bg = next_bg
+        #print current_sequence
+        pos_sequence_list.append(current_sequence)
+
     """Note: Do not include part-of-speeches that are in the dontInclude global array. I'm not sure if Marco has already
         filtered those out from the transitions file..."""
-    return [['DT', 'JJ', 'NN']]
+    return pos_sequence_list
 
 """
 # Function: tfidf()
@@ -382,7 +423,7 @@ def overlap(pos_sequence):
 """
 def generateSentence(pos_sequence, posEmissions):
     sentence = ""
-    print pos_sequence
+    #print pos_sequence
     pos_sequence = overlap(pos_sequence)
 
     first_pos = True
@@ -427,7 +468,7 @@ def generateSentence(pos_sequence, posEmissions):
                     for y in range(0, len(words)):
                         sentence += words[y] + ' '
                 break
-    print sentence
+    #print sentence
     return sentence
 
 """
@@ -473,8 +514,9 @@ if __name__=='__main__':
                     x = random.randint(0,len(pos_sequences) - 1)
             randomly_chosen_pos_sequences.append(pos_sequences[x])
     elif int(pos_type) == 0:
-        randomly_chosen_pos_sequences = build_Probabilistic_POS("./data/" + sys.argv[1] + "/pos.txt", "./data/" + sys.argv[1] + "/bg_emissions.txt")
-    
+        #randomly_chosen_pos_sequences = build_Probabilistic_POS("./data/" + sys.argv[1] + "/pos.txt", "./data/" + sys.argv[1] + "/bg_emissions.txt")
+        randomly_chosen_pos_sequences = build_Probabilistic_POS("./data/" + sys.argv[1] + "/bg_transitions.txt")
+    #print "****" + str(randomly_chosen_pos_sequences)
     #----------------
 
     #----------------
@@ -490,8 +532,8 @@ if __name__=='__main__':
 
         for pos in randomly_chosen_pos_sequences:
             for sent in sentence(sys.argv[1], tfidf_dict, pos):
-                x = 5
-                #print sent.lower()
+                #x = 5
+                print sent.lower()
 
     elif int(word_selection_type) == 0:
         for pos in randomly_chosen_pos_sequences:
