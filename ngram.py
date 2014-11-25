@@ -107,6 +107,8 @@ def parse_essayfile(filename):
                 array.append(x.split())
     return array
 
+#for each sentence in essay, construct an array containing only that sentence
+#store all such sentences in a larger array
 def sentence_grams(essay):
     array = []
 
@@ -158,30 +160,22 @@ def sentence_extraction():
     models['summaries'].normalize()
 
     #essay is an array of sentences, where each sentence is an array of words
-    #as an example: essay = [["that's", 'original,', 'but', 'not', 'independent'], ['<br', '/><br', '/>the', 'film', 'is', 'never', 'scary']]
     essay = parse_essayfile('./data/' + sys.argv[1] + '/texts.txt')
 
-    #the compute_perplexity method takes an array of sentences, and calculates its perplexity
-    #we want to compute the perplexity of each summary sentence, so we construct an array containing a single summary sentence
-    #so we can legally pass that array to compute_perplexity
-
-    #components is an array of array of sentences, where each inner array corresponds to a single summary sentence
+    #since we want to compute the perplexity of each sentence in a review, 
+    #construct an array with just a single sentence, and store the array in components
+    #components is an array of sentences in the review
     components = sentence_grams(essay)
 
     sent_scores = []
 
+    #loop through the sentences in components, and compute the perplexity of each sentence
     for c in components:
 
-        #compute the perplexity of c, which is an array containing a single summary sentence
         perplexities = map(lambda (language, model): (language, model.compute_perplexity(c)),
                            models.items())
 
-        #debugging:
-        #print c
-        #print perplexities
-        #print perplexities[0][1]
-
-        #make a SentenceScore object that contains the summary sentence and its perplexity
+        #make a SentenceScore object that contains the sentence and its perplexity
         sent_scores.append(SentenceScore(' '.join(c[0]), perplexities[0][1]))
 
     #sort sentences by perplexity
