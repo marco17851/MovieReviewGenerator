@@ -4,7 +4,8 @@
 """
 COMPUTATIONAL LINGUISTICS
 
-PYTHON TIPS AND TRICKS (Sep 17, 2014)
+Parses through summaries and texts of movie reviews and computes TFIDF scores for each word, stored in the tfidf.txt file
+Improves speed in that TFIDF scores do not have to be computed each time the program is run, but instead can be read off from a file
 """
 
 from __future__ import division          #integer division
@@ -23,29 +24,6 @@ class TF_IDF:
     def __init__(self, docCounts):
         self.documentCounts = docCounts
 
-"""
-# Function: build_POS_table(posFile)
-# Input: posFile = an annotated text file with part-of-speech tags (named pos.txt)
-# Output: a list of part-of-speech sequences, each corresponding to a sentence in posFile
-
-# Description:  Obtains a set of part-of-speech templates used to generate sentences
-"""
-def build_POS_table(posFile):
-    f = open(posFile).read()
-    posTable = []
-    total_sequence = []
-    for word in f.split():
-        tags = word.split("_")
-
-        if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
-            posTable.append(total_sequence)
-            total_sequence = []
-        else:
-            if tags[0] in dontInclude or tags[1] in dontInclude:
-                continue
-            else:
-                total_sequence.append(tags[1])
-    return posTable
 
 """
 # Function: get_document_counts(rootdir, documentCounts)
@@ -95,3 +73,5 @@ if __name__=='__main__':
 		f.write(key + '|' + counts[key] + '\n')
 
 	f.close()
+
+

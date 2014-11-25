@@ -16,7 +16,14 @@ import re    #for regular expressions
 import os
 import subprocess
 
-#filename is the dataset of Amazon reviews, consisting of summaries and texts for each movie review.
+"""
+# Function: compile_summaries_and_texts(filename)
+# Input: filename is the dataset of Amazon reviews, consisting of summaries and texts for each movie review.
+
+# Description: writes the texts and summaries for each movie to the movie's product ID folder
+            also writes the summaries for all movies to allsummaries.txt
+
+"""
 def compile_summaries_and_texts(filename):
     
     #Make a directory named "data", with subfolders for each product ID.
