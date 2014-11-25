@@ -107,8 +107,14 @@ def parse_essayfile(filename):
                 array.append(x.split())
     return array
 
-#for each sentence in essay, construct an array containing only that sentence
-#store all such sentences in a larger array
+"""
+# Function: sentence_grams(essay)
+# Input: essay: a nested array, particularly: an array of sentences, each of which is represented as an array of words
+# Output: returns an array of sentences, each of which can be legally passed to compute_perplexity to compute the sentence's perplexity
+
+# Description: for each sentence in essay, construct an array containing only that sentence
+    store all such sentences in a larger array, which is then returned
+"""
 def sentence_grams(essay):
     array = []
 
@@ -117,7 +123,13 @@ def sentence_grams(essay):
 
     return array
 
+"""
+# Function: tfidf()
+# Output: returns a dictionary storing words and their TFIDF scores
 
+# Description: parses the tfidf.txt file to obtain TFIDF scores; the tfidf.txt file is preprocessed to avoid having to recompute TFIDF values
+            for multiple runs of the program
+"""
 def tfidf():
     tfidf_dict = defaultdict(float)
     for line in open('./tfidf.txt'):
@@ -128,6 +140,9 @@ def tfidf():
             continue
     return tfidf_dict
 
+"""
+    inner class to store a sentence and its perplexity, so that sentences can later be sorted by perplexity
+"""
 class SentScore:
     def __init__(self, s, v):
         self.sentence = s
@@ -145,6 +160,12 @@ class SentScore:
     def __ne__ (self, other):
         return not self.__eq__(other)
 
+"""
+# Function: sentence_extraction()
+# Output: returns a set of sentences for a movie
+
+# Description: outputs the sentences from the reviews that have the lowest perplexity based on the ngram model trained on movie review summaries
+"""
 def sentence_extraction():
 
     #n-gram model parameters

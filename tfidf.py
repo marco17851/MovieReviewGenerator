@@ -4,7 +4,8 @@
 """
 COMPUTATIONAL LINGUISTICS
 
-PYTHON TIPS AND TRICKS (Sep 17, 2014)
+Parses through summaries and texts of movie reviews and computes TFIDF scores for each word, stored in the tfidf.txt file
+Improves speed in that TFIDF scores do not have to be computed each time the program is run, but instead can be read off from a file
 """
 
 from __future__ import division          #integer division
@@ -16,23 +17,22 @@ import re    #for regular expressions
 import os
 import math
 
+#do not use the following words/part-of-speech tags in generating the sentence
+dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
+
 class TF_IDF:
     def __init__(self, docCounts):
         self.documentCounts = docCounts
 
-def build_POS_table(posFile):
-    f = open(posFile).read()
-    posTable = []
-    total_sequence = []
-    for word in f.split():
-        tags = word.split("_")
-        if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
-            posTable.append(total_sequence)
-            total_sequence = []
-        else:
-            total_sequence.append(tags[1])
-    return posTable
 
+"""
+# Function: get_document_counts(rootdir, documentCounts)
+# Input: rootdir: the data directory, containing folders for each productID and preprocessed data for each productID
+        documentCounts: dictionary that maps each word to its TFIDF score (words in summaries are weighted higher than words in texts)
+# Output: the number of summaries.txt or texts.txt documents for each product ID
+
+# Description:  accumulates counts for each word in movie reviews, which will be normalized in the tfidf_counts method
+"""
 def get_document_counts(rootdir, documentCounts):
     numberDocuments = 0
     for subdir, dirs, files in os.walk(rootdir):
@@ -53,6 +53,12 @@ def get_document_counts(rootdir, documentCounts):
                     documentCounts[word] += 1*alpha                
     return numberDocuments
 
+"""
+# Function: tfidf_counts()
+# Output: dictionary that maps each word to its TFIDF score
+
+# Description: parses through summaries and texts of each movie review to compute TFIDF score of each word
+"""
 def tfidf_counts():  
     documentCounts = defaultdict(int)
     numberDocs = get_document_counts("./data", documentCounts)
@@ -67,3 +73,5 @@ if __name__=='__main__':
 		f.write(key + '|' + counts[key] + '\n')
 
 	f.close()
+
+

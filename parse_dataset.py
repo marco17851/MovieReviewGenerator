@@ -16,7 +16,14 @@ import re    #for regular expressions
 import os
 import subprocess
 
-#filename is the dataset of Amazon reviews, consisting of summaries and texts for each movie review.
+"""
+# Function: compile_summaries_and_texts(filename)
+# Input: filename is the dataset of Amazon reviews, consisting of summaries and texts for each movie review.
+
+# Description: writes the texts and summaries for each movie to the movie's product ID folder
+            also writes the summaries for all movies to allsummaries.txt
+
+"""
 def compile_summaries_and_texts(filename):
     
     #Make a directory named "data", with subfolders for each product ID.
@@ -69,11 +76,15 @@ def compile_summaries_and_texts(filename):
                 f2.close()
                 break
 
-#write the text for a movie review to the texts.txt file specified by f
+"""
+write the text for a movie review to the texts.txt file specified by f
+"""
 def processText(textLine, f):
     f.write(textLine[13:])
 
-#write the summary for a movie review to the summaries.txt file specified by f
+"""
+write the summary for a movie review to the summaries.txt file or the allsummaries.txt specified by f
+"""
 def processSummary(summaryLine, f):
     f.write(summaryLine[16:])
     print summaryLine

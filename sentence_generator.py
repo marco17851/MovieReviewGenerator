@@ -3,9 +3,28 @@
 #The above line specifies to the Unix that the file is a python script 
 
 """
-COMPUTATIONAL LINGUISTICS
+# Authors:  Marco Barragan, Barry Chen
+# Date:     November 16, 2014
 
-PYTHON TIPS AND TRICKS (Sep 17, 2014)
+Command to run program:
+python sentence_generator.py [Product ID] [Movie Name] [Type of Review] [Type of Part-of-speech Template] [Word Choice Selection Method]
+
+# Input:    Product ID: specifies the movie for which a review will be generated
+            Movie Name: Title of the movie (to be printed out, not actually used in generating review)
+            Type of Review: 
+                0: extract a set of sentences from user reviews that most closely matches review summaries
+                1: construct a computer-generated review
+            Type of Part-of-speech Template
+                0: randomly generate part-of-speech template based on an FSA
+                1: select a sentence from the review to use as the part-of-speech template
+            Word Choice Selection Method
+                0: select contiguous groups of words from user reviews for each triplet of part-of-speech tags
+                1: select one word at a time for each part-of-speech, using a bigram model based on the part-of-speech of the previous word
+
+# Output:   A set of sentences for a movie based on the command-line specifications
+
+# Description:  For extracting sentences directly from user reviews, refer to the ngram.py file.
+            For computer-generated reviews, words from user reviews are selected for each part-of-speech in a part-of-speech template.
 """
 
 from __future__ import division          #integer division
@@ -27,16 +46,13 @@ posEmissions = defaultdict(list)
 bgPosEmissions = defaultdict(list)
 uniPosEmissions = defaultdict(list)
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
-<<<<<<< HEAD
-dontInclude = ["-RRB-", "-LRB-", "<br />", "<br\xc2\xa0/>"]
-=======
+
+#do not use the following words/part-of-speech tags in generating the sentence
 dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
->>>>>>> 4e6680b729040fc87485c7ca8e5807a5becbca3d
 
-class TF_IDF:
-    def __init__(self, docCounts):
-        self.documentCounts = docCounts
-
+"""
+Inner class to compare two sentences (based on perplexity, TFIDF score, or some other measure)
+"""
 class SentScore:
     def __init__(self, s, v):
         self.sentence = s
@@ -54,7 +70,13 @@ class SentScore:
     def __ne__ (self, other):
         return not self.__eq__(other)
 
-#returns a list of part-of-speech sequences, each corresponding to a sentence in posFile
+"""
+# Function: build_POS_table(posFile)
+# Input: posFile = an annotated text file with part-of-speech tags (named pos.txt)
+# Output: a list of part-of-speech sequences, each corresponding to a sentence in posFile
+
+# Description:  Obtains a set of part-of-speech templates used to generate sentences
+"""
 def build_POS_table(posFile):
     f = open(posFile).read()
     posTable = []
@@ -72,33 +94,13 @@ def build_POS_table(posFile):
                 total_sequence.append(tags[1])
     return posTable
 
-def get_document_counts(rootdir, documentCounts):
-    numberDocuments = 0
-    for subdir, dirs, files in os.walk(rootdir):
-        for file in files:
-            #f = file.read()
-            fileCount = defaultdict(int)
-            pathName = os.path.join(subdir, file)
-            if pathName.endswith('summaries.txt') or pathName.endswith('texts.txt'):
-                if pathName.endswith('summaries.txt'):
-                    alpha = 0.5 # constant for summaries
-                else:
-                    alpha = 1
-                numberDocuments += 1
-                f = open(pathName).read()
-                for word in f.split():
-                    fileCount[word] += 1
-                for word in fileCount:
-                    documentCounts[word] += 1*alpha                
-    return numberDocuments
 
-def tfidf_counts():  
-    documentCounts = defaultdict(int)
-    numberDocs = get_document_counts("./data", documentCounts)
-    for word, count in documentCounts.iteritems():
-        documentCounts[word] = str(math.log(numberDocs/count))
-    return documentCounts
+"""
+# Function: tfidf()
+# Output: dictionary that maps each word to its TFIDF score
 
+# Description: uses precomputed TFIDF scores from a text file to generate the dictionary to improve speed
+"""
 def tfidf():
     tfidf_dict = defaultdict(float)
     for line in open('./tfidf.txt'):
@@ -109,6 +111,9 @@ def tfidf():
             continue
     return tfidf_dict
 
+"""
+Inner class to store a word and its frequency, used for computing emission probabilities
+"""
 class WordFreq:
     def __init__(self, w, f):
         self.word = w
@@ -117,19 +122,15 @@ class WordFreq:
     def __repr__(self):
         return '(' + self.word + ' ' + str(self.freq) + ')'
 
-#returns a sentenceID dictionary {word -> id's of sentences the word appears in}
-def create_sentence_id_dict(productID):
-    id_dict = defaultdict(list)
-    for line in open('./data/' + productID + '/sentence_ids.txt'):
-        tuples = line.split(':')
-        if len(tuples) != 2:
-            continue
-        word = tuples[0].translate(string.maketrans("",""), string.punctuation).lower()
-        for num in tuples[1].split():
-            id_dict[word].append(int(num))
-    return id_dict
+"""
+# Function: populateDicts(filename, productID, emissions)
+# Input: filename: text file containing words for each part-of-speech category and the frequencies of each word (i.e. emissions.txt)
+        productID: the product ID specifying the movie reviews that the emission probabilities are based on
+        emissions: a dictionary: key is part-of-speech, value is array of WordFreq
 
-#creates {part-of-speech sequence -> words} dictionary based on the emissions file
+# Description: a function that populates unigram, bigram, or trigram emission dictionaries (which are global variables)
+            Dictionary looks like: {'Det' -> [('the', 0.3), ('a', 0.7)], 'ADJ' -> [('red', 0.5), ('yellow', 0.5)]}
+"""
 def populateDicts(filename, productID, emissions):
     currPOS = ""
 
@@ -147,8 +148,17 @@ def populateDicts(filename, productID, emissions):
         for i in range(len(emissions[key])):
             emissions[key][i].freq = emissions[key][i].freq/total
 
-#returns dictionary {word -> {pos -> [words corresponding to pos]}}
-def pos_to_words(productID):
+"""
+# Function: transitions(productID)
+# Input: productID: the product ID specifying the movie reviews that the transition probabilities are based on
+# Output: returns a nested dictionary that specifies for each word, the part-of-speeches that follow that word, 
+            and the words belonging to that part-of-speech
+        Example: {'The' -> {'ADJ' -> ['red', 'yellow']}, 'red' -> {'NN' -> ['car', 'house']}}
+
+# Description: the transition probabilities are used to determine each subsequent word in the computer-generated sentence
+            using a bigram model based on the previous word
+"""
+def transitions(productID):
     arpa_dict = defaultdict(lambda: defaultdict(list))
     curr_key = ''
     for line in open('./data/' + productID + '/reviews.arpa'):
@@ -158,9 +168,14 @@ def pos_to_words(productID):
             continue
         for w in words[1].split():
             arpa_dict[curr_key][words[0].strip()].append(w.strip())
-    #print arpa_dict['<s>']
     return arpa_dict
 
+"""
+# Function: getWordFromUnigramEmissions(ID, pos)
+# Input: 
+
+# Description: 
+"""
 def getWordFromUnigramEmissions(ID, pos):
     array = []
     found = 0
@@ -191,48 +206,53 @@ def getWordFromUnigramEmissions(ID, pos):
 
     return array[rand]
 
-#returns list of sentences corresponding to pos_sequence
+"""
+# Function: sentenceBigrams(productID, tfidf_counts, pos_sequence)
+# Input: productID: the product ID specifying which movie to generate sentences for
+        tfidf_counts: dictionary: key is a word, and value of the word's TFIDF score
+        pos_sequence: part-of-speech template for the sentence
+# Output: returns a set of sentences for a movie product ID
+
+# Description: generates a set of sentences using a part-of-speech template
+            To generate the next word in a sentence, find the part-of-speeches that follow the current word and select one,
+            and then select a word for that part-of-speech
+"""
 def sentenceBigrams(productID, tfidf_counts, pos_sequence):
 
     sentences = []
-    arpa_dict = pos_to_words(productID)
-    #print arpa_dict['<s>']['PRP']
-    #print pos_sequence
+    arpa_dict = transitions(productID)
+
     for i in range(1):
+
         sentence = ''
         curr_key = '<s>'
         pos_seq_feasible = True
+
         for pos in pos_sequence:
             words = arpa_dict[curr_key][pos]
-            #print curr_key + '|' + pos + '|' + str(words)
             if len(words) == 0:
-                #pos_seq_feasible = False
-                #break
                 selected_word = getWordFromUnigramEmissions(productID, pos)
                 curr_key = selected_word
                 sentence += selected_word + ' '
             else:
                 x = random.randint(0,len(words) - 1)
-                #print words[x]
-                #print '------'
                 sentence += words[x] + ' '
                 curr_key = words[x]
+
         if pos_seq_feasible == True:
             sentences.append(sentence)
-    #print len(sentences)
+
     sent_scores = []
-    #print tfidf_counts
-    #print '--------------'
+
     for sent in sentences:
         tfidf_score = 0
         sent_words = sent.split()
-        for i in range(len(pos_sequence)):
 
+        for i in range(len(pos_sequence)):
             if pos_sequence[i] in tfidf_pos_tags:
-                #print 'word: ' + sent_words[i]
-                #print 'tfidf_score: ' + tfidf_counts[sent_words[i]]
                 tfidf_score += float(tfidf_counts[sent_words[i]])
         sent_scores.append(SentScore(sent, tfidf_score))
+    
     sent_scores.sort(reverse=True)
 
     best_sentences = []
@@ -240,11 +260,27 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
         best_sentences.append(sent_scores[i].sentence)
     return best_sentences
 
+"""
+# Function: sentence(productID, tfidf_counts, pos_sequence)
+# Input: productID: the product ID specifying which movie to generate sentences for
+        tfidf_counts: dictionary: key is a word, and value of the word's TFIDF score
+        pos_sequence: part-of-speech template for the sentence
+# Output: returns a set of sentences for a movie product ID
 
-#returns array of sentences that adhere to pos_sequence (a part of speech tag sequence)
+# Description: generates a set of sentences based on a part-of-speech template by selecting words
+            three at a time for each part-of-speech triplet (but overlap the triplets)
+
+        How it works:
+            POS Template: "DET" "ADJ" "NN" "PRP" "DET" "NN"
+            Generate three words for "DET" "ADJ" "NN", i.e. "the red house"
+            Generate three words for "NN" "PRP" "DET", i.e. "car in the"
+            Generate two words for "DET" "NN", i.e. "a neighborhood"
+
+        Generated sentence: the red house in the neighborhood
+
+        Finally, scores each sentence using TFIDF, and returns the sentence with the highest score
+"""
 def sentence(productID, tfidf_counts, pos_sequence):
-
-    sentence_id_dict = create_sentence_id_dict(productID)
 
     populateDicts('/tr_emissions.txt', productID, posEmissions)
     populateDicts('/bg_emissions.txt',productID, bgPosEmissions)
@@ -252,28 +288,18 @@ def sentence(productID, tfidf_counts, pos_sequence):
 
     sentences = []
     for i in range(10):
-        computed_sent = generateSentence(pos_sequence, posEmissions, sentence_id_dict)
+        computed_sent = generateSentence(pos_sequence, posEmissions)
         if computed_sent == None:
             return None
         sentences.append(computed_sent)
 
     sent_scores = []
-    #print tfidf_counts
-    #print '--------------'
     for sent in sentences:
         tfidf_score = 0
         sent_words = sent.split()
         separated_pos_seq = separate_pos(pos_sequence)
         for i in range(len(separated_pos_seq)):
             if separated_pos_seq[i] in tfidf_pos_tags:
-                #print
-                #print "I: ", i
-                #print "pos_sequence: ", pos_sequence
-                #print 'sentwords: ', sent_words, len(sent_words)
-                #print 'word: ' + sent_words[i]
-                #print 'tfidf_score: ' + str(tfidf_counts[sent_words[i]])
-                #print 'separated_pos_seq ', separated_pos_seq, len(separated_pos_seq)
-                #print
                 tfidf_score += float(tfidf_counts[sent_words[i]])
         sent_scores.append(SentScore(sent, tfidf_score))
     sent_scores.sort(reverse=True)
@@ -283,6 +309,14 @@ def sentence(productID, tfidf_counts, pos_sequence):
         best_sentences.append(sent_scores[i].sentence)
     return best_sentences
 
+"""
+# Function: separate_pos(pos_sequence)
+# Input: pos_sequence: part-of-speech template as triplets
+# Output: returns a sequence of unigram part of speeches
+
+# Description: converts a pos-sequence like ["DET_ADJ_NN", "PRP_DET_NN"] to ["DET", "ADJ", "NN", "PRP", "DET", "NN"]
+                serves as a helper method for overlapping the part-of-speech tags
+"""
 def separate_pos(pos_sequence):
     pos_seq = []
     for pos in pos_sequence:
@@ -291,14 +325,19 @@ def separate_pos(pos_sequence):
 
     return pos_seq
 
+"""
+# Function: overlap(pos_sequence)
+# Input: pos_sequence: part-of-speech template as triplets
+# Output: returns a sequence of unigram part of speeches
+
+# Description: converts a pos-sequence like ["DET_ADJ_NN", "PRP_DET_NN"] to ["DET", "ADJ", "NN", "PRP", "DET", "NN"]
+                serves as a helper method for overlapping the part-of-speech tags
+"""
 def overlap(pos_sequence):
     #print pos_sequence
     overlapping_pos_seq = []
 
-    unigram_pos_seq = []
-    for pos in pos_sequence:
-        for p in pos.split('_'):
-            unigram_pos_seq.append(p)
+    unigram_pos_seq = separate_pos(pos_sequence)
 
     curr_pos_seq = ''
     for i in range(len(unigram_pos_seq)):
@@ -315,14 +354,15 @@ def overlap(pos_sequence):
     #print overlapping_pos_seq
     return overlapping_pos_seq
 
-
-#generates a single sentence based on part of speech sequence (pos_sequence), emission probabilities (posEmissions), and sentence_ids (id_dictionary)
-def generateSentence(pos_sequence, posEmissions, id_dictionary):
+"""
+# Function: generateSentence(pos_sequence, posEmissions)
+# Input: pos_sequence: part-of-speech template as triplets
+        posEmissions: a dictionary: key is part-of-speech triplet, value is array of WordFreq consisting of three-word-sequences
+            that adhere to the part-of-speech triplet, along with their frequences
+# Output: returns a single sentence generated probabilistically based on posEmissions that adheres to the pos_sequence template
+"""
+def generateSentence(pos_sequence, posEmissions):
     sentence = ""
-    #print posEmissions
-    #print pos_sequence
-    #print overlap(pos_sequence)
-    #print '------'
     pos_sequence = overlap(pos_sequence)
 
     first_pos = True
@@ -336,13 +376,11 @@ def generateSentence(pos_sequence, posEmissions, id_dictionary):
             wordsToAdd = []
             if len(pos.split('_')) == 2:
                 for word in bgPosEmissions[pos][0].word.split('_'):
-                    #sentence += word + ' '
                     wordsToAdd.append(word)
 
             if len(pos.split('_')) == 1:
                 for word in uniPosEmissions[pos][0].word.split('_'):
                     wordsToAdd.append(word)
-                    #sentence += word + ' '
             if first_pos == True:
                 first_pos = False
                 for word in wordsToAdd:
@@ -369,111 +407,16 @@ def generateSentence(pos_sequence, posEmissions, id_dictionary):
                     for y in range(0, len(words)):
                         sentence += words[y] + ' '
                 break
-    
-    #print len(sentence.split())
-    #print '-------'
     return sentence
 
-#generates a single sentence based on part of speech sequence (pos_sequence), emission probabilities (posEmissions), and sentence_ids (id_dictionary)
-#the sentence ids restricts the words in the output sentence to come from nearby sentences in the reviews
-def generateSentenceOld(pos_sequence, posEmissions, id_dictionary):
-    
-    sentence = ""
-    
-    for pos in pos_sequence:
-        #try 19 times to find a sentence matching the constraints
-        #if unsuccessful, generate a sentence that just adheres the pos_sequence, and ignore sentence id restriction
-        for i in range(20):
-            stop_checking_id_restriction = False
-            if i == 19:
-                stop_checking_id_restriction = True
-
-            prev_word_sentence_ids = [-1]
-            success = False
-            #generate a random number between 0 and 1, representing which trigram to select
-            rand_num = random.random()
-            
-            if pos not in posEmissions:
-                return None
-
-            rand_num -= posEmissions[pos][0].freq
-            for i in range(1, len(posEmissions[pos])):
-                if rand_num > 0:
-                    rand_num -= posEmissions[pos][i].freq
-                else:
-                    #words is the randomly chosen trigram
-                    words = posEmissions[pos][i].word.split("_")
-                    
-                    #check that the chosen trigram is close to the previous trigram in the output sentence
-                    #based on whether the sentence id's of the currently chosen trigram and previous trigram are close values
-                    prev_word_sentence_ids = within_tolerance(prev_word_sentence_ids, words, id_dictionary)
-                    
-                    #if the sentence id's of the previous and current trigram are not close, break, and try again
-                    if len(prev_word_sentence_ids) == 0 and not stop_checking_id_restriction:
-                        break
-                    
-                    #success = True means we have found a trigram whos sentence id is close to the previously chosen trigram
-                    # and therefore adheres to the sentence id restriction
-                    success = True
-
-                    #add the trigram to the sentence
-                    if words[0] == "<s>":
-                        for y in range(1, len(words)):
-                            sentence += words[y] + ' '
-                    else:
-                        for y in range(0, len(words)):
-                            sentence += words[y] + ' '
-                    break
-            #if success is False, we need to keep generating trigrams for a total of 20 times until the sentence id constraint is met
-            #otherwise, break, and proceed with the next part of speech sequence
-            if success == True:
-                break
-
-    return sentence
-
-#id_dictionary has the sentence id's for each word
-#words is the current trigram
-#prev_word_sentence_id holds the sentence id's of the previous trigram
-
-#if prev_word_sentence_id has sentence id of -1, then there was no previous trigram, so return the sentence_ids of the current trigram 
-#otherwise, check if sentence id's of prev_word_sentence_id is within 3 (specified in tolerance global variable) of the sentence_id's of the current trigram,
-#and return the sentence id's of the current trigram that satisfy the constraint
-def within_tolerance(prev_word_sentence_id, words, id_dictionary):
-    
-    #common_ids holds the sentence_id's of each word in the current trigram
-    common_ids = []
-    for w in words:
-        if w == '<s>':
-            continue
-        else:
-            common_ids.append(id_dictionary[w.lower()])
-
-    #trigram_ids is the intersection of the sentence_id's of each word in the current trigram
-    #the code below finds the intersection
-    trigram_ids = []
-    for id in common_ids[0]:
-        for i in range(1,len(common_ids)):
-            match = False
-            for other_id in common_ids[i]:
-                if math.fabs(id - other_id) <= tolerance:
-                    match = True
-            if match == False:
-                break
-            if i == len(common_ids) - 1:
-                trigram_ids.append(id)
-
-    if prev_word_sentence_id[0] == -1:
-        return trigram_ids
-
-    #find the sentence_ids between the previous trigram's sentence ids and the current trigram's sentence ids
-    within_range_sentence_ids = []
-    for id in trigram_ids:
-        for other_id in prev_word_sentence_id:
-            if math.fabs(other_id - id) <= tolerance:
-                within_range_sentence_ids.append(id)
-    return within_range_sentence_ids
-
-#groups a part of speech sequence into triples: ['DET', 'ADJ', 'NOUN', 'PREP', 'DET', 'NOUN'] -> [ ['DET', 'ADJ', 'NOUN'], ['PREP', 'DET', 'NOUN'] ]
+"""
+# Function: trigramify_pos_seq(pos_seq)
+# Input: pos_seq: part-of-speech template
+        
+# Output: returns the part-of-speech sequence as triplets, with perhaps a unigram or bigram part-of-speech sequence at the
+            end if not divisible by 3
+    Example: "DET" "ADJ" "NN" "PRP "NN" -> "DET_ADJ_NN" "PRP_NN"
+"""
 def trigramify_pos_seq(pos_seq):
     trigrams = []
     for i in range(int(math.ceil(len(pos_seq)/3))):
@@ -482,6 +425,8 @@ def trigramify_pos_seq(pos_seq):
 
 if __name__=='__main__':
 
+    #process command-line arguments for the type of review to generate, the part-of-speech generation method, 
+    #and the method for selecting words for each part of speech
     word_selection_type = sys.argv[5]
     pos_type = sys.argv[4]
     review_type = sys.argv[3]
@@ -529,6 +474,5 @@ if __name__=='__main__':
         for pos in randomly_chosen_pos_sequences:
             for sent in sentenceBigrams(sys.argv[1], tfidf_dict, pos):
                 print sent.lower()
-                sys.exit()
 
-
+    #----------------
