@@ -24,9 +24,6 @@ been_sent	1
 been_given	1
 NNP_WDT
 Fund_that	1
-FW_DT
-<br />_A	1
-<br />_This	1
 CC_JJ
 and_seedy	1
 and_capitalist	1
@@ -95,8 +92,6 @@ who_keeps	1
 who_learns	1
 who_ponies	1
 who_encounters	1
-._-RRB-
-._-RRB-	1
 NNP_CC
 Gaza_and	1
 Africa_and	1
@@ -177,19 +172,10 @@ out_his	1
 up_his	1
 VB_NNS
 take_jobs	1
--LRB-_RB
--LRB-_Actually	1
 PRP_WP
 us_who	1
-PRP$_NNS
-their_homes	1
-his_compatriots	1
-his_principles	1
-his_dashiki	1
-his_labors	1
-his_travels	1
-his_adventures	1
-his_ethics	1
+,_TO
+,_to	1
 PRP$_NNP
 his_God	1
 WDT_NN
@@ -465,8 +451,6 @@ RBR_RB
 more_crassly	1
 VBD_CC
 prevailed_and	1
-NNP_-RRB-
-Wallach_-RRB-	1
 CC_RB
 or_hardly	1
 and_well	3
@@ -500,8 +484,6 @@ of_him	1
 for_it	1
 of_us	1
 for_them	1
-CD_FW
-1/2_<br />	1
 VBG_WRB
 depicting_how	1
 PRP_VBD
@@ -692,8 +674,6 @@ family_conflicts	1
 estate_interests	1
 CD_CD
 ***_1/2	1
-VBG_CC
-serving_both	1
 ,_WRB
 ,_when	1
 ,_where	3
@@ -896,6 +876,7 @@ and_the	3
 NN_VBN
 pastor_sent	1
 immigration_rung	1
+man_played	1
 milieu_filled	1
 film_based	1
 world_filled	1
@@ -1011,8 +992,6 @@ always_striving	1
 yet_ending	1
 RB_VBD
 absolutely_enjoyed	1
-FW_IN
-<br />_In	3
 CC_MD
 Or_will	2
 VBD_NN
@@ -1041,8 +1020,8 @@ NNS_WP
 exploiters_who	1
 RP_NN
 out_approach	1
--LRB-_VBN
--LRB-_played	1
+VBG_CC
+serving_both	1
 JJR_JJ
 more_prosperous	1
 MD_RB
@@ -1154,8 +1133,10 @@ now_take	1
 finally_reach	1
 NNPS_IN
 States_of	1
-FW_FW
-<br />_<br />	8
+IN_IN
+Except_for	1
+of_by	1
+like_for	1
 ,_``
 ,_``	1
 VBG_PRP$
@@ -1189,8 +1170,6 @@ ways_,	2
 peers_,	1
 personalities_,	1
 messages_,	1
--RRB-_DT
--RRB-_the	1
 NNS_:
 temptations_-	1
 ,_VBZ
@@ -1225,6 +1204,7 @@ former_Labor	1
 many_Hollywood	1
 saintly_James	1
 CD_IN
+1/2_In	1
 one_of	1
 ''_CC
 ''_and	1
@@ -1309,13 +1289,6 @@ VBZ_RBR
 teaches_more	1
 CD_PRP
 one_he	1
-WDT_VBP
-that_make	1
-that_progress	1
-that_befall	1
-that_take	1
-that_allow	1
-that_travel	1
 TO_JJ
 to_real	1
 VBP_DT
@@ -1398,9 +1371,13 @@ to_and	1
 VBN_DT
 enjoyed_this	1
 been_an	1
-NN_-LRB-
-man_-LRB-	1
-worker_-LRB-	1
+WDT_VBP
+that_make	1
+that_progress	1
+that_befall	1
+that_take	1
+that_allow	1
+that_travel	1
 ''_VBZ
 ''_is	2
 IN_TO
@@ -1430,10 +1407,6 @@ hardly_deserving	1
 very_Israeli	1
 rather_disturbing	1
 totally_charming	1
-IN_IN
-Except_for	1
-of_by	1
-like_for	1
 TO_NNP
 to_Israel	1
 to_Jerusalem	4
@@ -1457,8 +1430,6 @@ be_not	1
 get_ahead	1
 WRB_NN
 where_everyone	1
-FW_WDT
-<br />_Whatever	1
 RB_NNS
 certainly_ones	1
 ``_JJ
@@ -1474,8 +1445,15 @@ City_on	1
 Masebenza_from	1
 Europe_with	1
 Airport_in	1
-,_TO
-,_to	1
+PRP$_NNS
+their_homes	1
+his_compatriots	1
+his_principles	1
+his_dashiki	1
+his_labors	1
+his_travels	1
+his_adventures	1
+his_ethics	1
 IN_VBG
 of_being	1
 worth_learning	1
@@ -1694,11 +1672,6 @@ VBP_NNP
 see_James	1
 VBP_RP
 win_out	1
-RP_IN
-out_over	1
-out_for	1
-up_at	1
-out_with	1
 NN_WP$
 individual_whose	1
 EX_PRP
@@ -1800,11 +1773,12 @@ Pilgrim_'s	1
 Kishon_'s	1
 Shimi_'s	1
 NN_RB
-advantage_however	1
-generation_ago	1
 clip_instead	1
-*_quite	1
+worker_Actually	1
+generation_ago	1
 world_far	1
+advantage_however	1
+*_quite	1
 JJ_IN
 much_about	1
 cynical_than	1
@@ -1823,11 +1797,14 @@ learn_and	1
 exist_and	1
 NNP_DT
 James_the	1
+Wallach_the	1
 VBN_NNP
 recruited_Siyabonga	1
-FW_RB
-<br />_However	1
-<br />_Highly	1
+RP_IN
+out_over	1
+out_for	1
+up_at	1
+out_with	1
 ,_NNP
 ,_James	1
 ,_Gil	1

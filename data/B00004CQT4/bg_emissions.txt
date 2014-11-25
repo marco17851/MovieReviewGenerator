@@ -29,14 +29,10 @@ is_hysterical	1
 is_great	1
 DT_IN
 all_of	2
--LRB-_NNP
--LRB-_VJ	1
 JJ_CC
 great_and	1
 JJ_CD
 early_90	1
-CD_-RRB-
-1990-91_-RRB-	1
 CC_TO
 or_to	1
 IN_PRP
@@ -112,7 +108,6 @@ it_,	1
 NNP_,
 Plus_,	1
 FW_FW
-<br />_<br />	1
 ***_!!!	1
 VBG_NN
 featuring_alot	1
@@ -166,8 +161,6 @@ CC_DT
 and_the	1
 MD_VB
 would_recommend	1
-NNP_-LRB-
-MTV_-LRB-	1
 ,_JJR
 ,_more	1
 IN_CD
@@ -188,8 +181,6 @@ EX_VBZ
 there_is	1
 VBP_DT
 are_a	1
-FW_NNP
-<br />_MJ	1
 CC_``
 and_``	1
 NN_NN
@@ -210,8 +201,6 @@ DT_NNP
 an_Oscar	1
 ''_IN
 ''_from	1
--RRB-_RB
--RRB-_also	1
 DT_JJ
 a_serious	1
 a_good	2
@@ -227,6 +216,8 @@ were_a	1
 NN_:
 movie_...	1
 cameo_...	1
+CD_RB
+1990-91_also	1
 NNS_CC
 musicians_and	1
 actors_and	1
@@ -284,11 +275,12 @@ enhances_the	1
 makes_a	1
 wants_a	1
 NNP_NNP
-Ed_Lover	1
-Dennis_Leary	2
 MJ_This	1
-Rosi_O	1
+MTV_VJ	1
 Dr._Dre	1
+Dennis_Leary	2
+Ed_Lover	1
+Rosi_O	1
 RB_VBZ
 actually_enhances	1
 also_makes	1

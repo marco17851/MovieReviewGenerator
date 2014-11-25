@@ -25,11 +25,6 @@ NNP_WDT
 Sudan_that	1
 VBN_VBG
 enjoyed_learning	1
-FW_DT
-<br />_this	1
-<br />_This	1
-<br />_The	1
-<br />_the	1
 CC_JJ
 or_adult	1
 and_informative	1
@@ -88,10 +83,6 @@ WP_VBZ
 who_attempts	1
 who_looks	1
 What_is	1
--RRB-_,
--RRB-_,	1
-._-RRB-
-._-RRB-	1
 NNP_CC
 City_and	1
 DAYS_or	1
@@ -115,6 +106,37 @@ among_his	1
 for_his	1
 of_their	6
 in_their	2
+NN_,
+houston_,	1
+apartment_,	1
+TV_,	1
+story_,	1
+teacher_,	1
+language_,	1
+america_,	1
+camp_,	2
+problem_,	2
+surface_,	1
+test_,	1
+rent_,	1
+society_,	1
+employment_,	1
+instance_,	1
+school_,	2
+area_,	1
+car_,	1
+etc._,	1
+driving_,	1
+film_,	2
+country_,	1
+work_,	1
+point_,	1
+part_,	1
+supermarket_,	1
+manhood_,	1
+stove_,	1
+team_,	1
+fact_,	1
 VBP_PDT
 see_all	1
 IN_WDT
@@ -159,8 +181,6 @@ course_some	1
 journey_these	1
 VBN_JJR
 gotten_more	1
-JJR_-RRB-
-more_-RRB-	1
 TO_DT
 to_an	1
 to_these	1
@@ -177,27 +197,21 @@ look_awesome	1
 are_able	1
 're_angry	1
 are_interested	1
-CD_-LRB-
-200,000_-LRB-	1
-NN_-RRB-
-matter_-RRB-	1
-a._-RRB-	1
-USA_-RRB-	1
-b._-RRB-	1
 VB_NNS
-be_refugees	1
-have_families	1
 find_girlfriends	1
+have_families	1
+be_refugees	1
 make_friends	1
 receive_tickets	1
+kill_millions	1
 sing_songs	1
--LRB-_RB
--LRB-_predominantly	1
--LRB-_mostly	1
+VB_NNP
+try_DARK	1
+become_U.S.	1
 FW_VB
 i_am	1
-NNS_NNS
-problems_refugees	1
+PRP_WP
+it_what	1
 JJS_JJ
 most_working-class	1
 VBP_TO
@@ -206,8 +220,8 @@ flee_to	1
 hope_to	1
 get_to	2
 need_to	1
-,_TO
-,_to	1
+RB_NNS
+too_subjects	1
 IN_RB
 though_occasionally	1
 in_predominantly	1
@@ -333,6 +347,7 @@ found_this	1
 NNS_CC
 documentaries_and	1
 jobs_and	1
+neighborhoods_and	1
 BOYS_and	1
 clashes_but	1
 conveniences_and	1
@@ -357,11 +372,13 @@ consist_of	1
 NN_CC
 hand_but	1
 homeland_and	1
-mistrust_and	1
+child_or	1
 assimilation_and	1
 opportunity_but	1
+USA_&	1
 poverty_and	1
 movie_and	1
+mistrust_and	1
 work_and	1
 DVD_but	1
 country_and	1
@@ -373,8 +390,8 @@ TV_and	1
 car_and	1
 anyone_and	1
 tribe_and	1
--LRB-_VB
--LRB-_let	1
+WDT_PRP
+which_he	2
 RBS_VBN
 most_deprived	1
 DT_JJS
@@ -392,6 +409,7 @@ NNP_NNS
 Christian_groups	1
 U.S._citizens	1
 NNP_NNP
+US_Texas	1
 BORN_INTO	1
 Dave_Eggers	1
 LOST_BOYS	1
@@ -474,13 +492,8 @@ VBZ_WRB
 's_why	1
 VB_WP
 imagine_what	1
--LRB-_CC
--LRB-_or	2
--LRB-_and	1
 JJR_RP
 better_off	1
-WDT_PRP
-which_he	2
 JJ_PDT
 lonely_all	1
 RB_,
@@ -498,12 +511,7 @@ too_.	1
 first_.	1
 VBD_CC
 was_and	1
-PRP$_-LRB-
-his_-LRB-	1
-VBZ_-RRB-
-is_-RRB-	1
-NNP_-RRB-
-Long_-RRB-	1
+killed_and	1
 NNPS_CC
 Diaries_and	1
 African-Americans_and	1
@@ -726,14 +734,15 @@ he_enters	1
 He_tries	1
 he_finds	1
 He_sends	1
-FW_PRP
-<br />_I	2
-<br />_We	2
 IN_,
 for_,	1
 IN_.
 against_.	1
 about_.	1
+FW_FW
+in_kansas	1
+i_guarentee	1
+in_america	1
 PRP_.
 it_.	4
 it_!	1
@@ -765,8 +774,6 @@ city_where	1
 film_where	1
 camp_where	1
 village_when	1
-CC_FW
-but_i	1
 NNP_PRP
 Texas_I	1
 CC_VBD
@@ -819,8 +826,6 @@ were_able	1
 was_amazing	1
 was_able	1
 was_terrible	1
-VBD_-LRB-
-killed_-LRB-	1
 NN_NNS
 tent_cities	1
 refugee_camps	2
@@ -836,9 +841,8 @@ NN_NNP
 actress_Shelly	1
 NNPS_VBZ
 Diaries_is	1
-,_WRB
-,_when	1
-,_where	2
+CD_CC
+200,000_or	1
 IN_JJR
 by_more	1
 IN_JJS
@@ -852,6 +856,7 @@ RB_``
 not_``	1
 VBP_VBZ
 get_is	1
+think_is	1
 PRP_MD
 I_would	3
 I_ca	1
@@ -917,9 +922,8 @@ school_curriculum	1
 phone_call	1
 summer_camp	1
 refugee_camp	3
-RP_RB
-off_here	1
-out_horribly	1
+PRP_NNP
+me_America	1
 NNS_RB
 events_rather	1
 thumbs_down	1
@@ -928,10 +932,9 @@ refugees_first	1
 EX_VBD
 There_were	1
 there_were	1
-VB_-RRB-
-kill_-RRB-	1
--RRB-_RB
--RRB-_virtually	1
+,_JJ
+,_compelling	1
+,_cautionary	1
 DT_JJ
 the_other	4
 the_numerous	1
@@ -985,9 +988,6 @@ the_black	1
 the_Sudanese	1
 ``_VB
 ``_do	1
--RRB-_NNS
--RRB-_classmates	1
--RRB-_millions	1
 NN_IN
 color_of	1
 tribe_from	1
@@ -1015,6 +1015,7 @@ sponsorship_through	1
 environment_with	1
 phenomenon_in	1
 town_in	1
+home_if	1
 turbulence_of	1
 desolation_of	1
 pre-requisite_for	1
@@ -1049,6 +1050,7 @@ year_in	1
 impression_of	1
 war_in	1
 connection_out	1
+matter_out	1
 life_for	1
 group_of	1
 CC_DT
@@ -1062,6 +1064,7 @@ and_the	3
 and_this	1
 NN_VBG
 film_showing	1
+world_including	1
 CC_WRB
 and_how	2
 NN_VBD
@@ -1081,11 +1084,13 @@ whom_they	1
 what_we	1
 NN_VBZ
 documentary_shows	1
+b._Is	1
 journey_takes	1
 skin_is	1
 film_gets	1
 documentary_is	1
 situation_exists	1
+a._Is	1
 film_takes	1
 film_provides	1
 documentary_follows	1
@@ -1121,9 +1126,6 @@ I_really	1
 I_never	1
 TO_FW
 to_u.s.	1
-JJ_-LRB-
-foreign_-LRB-	1
-small_-LRB-	1
 POS_VB
 's_call	1
 RB_VBZ
@@ -1132,6 +1134,8 @@ also_buys	1
 also_pays	1
 virtually_ignores	1
 only_scratches	1
+VBZ_VBD
+is_were	1
 ,_WP
 ,_who	2
 VB_PRP
@@ -1173,12 +1177,8 @@ really_succeeded	1
 actually_received	1
 quite_liked	1
 FW_IN
-guarentee_after	1
-<br />_While	1
-<br />_If	1
 america_as	1
-<br />_For	2
-<br />_On	1
+guarentee_after	1
 CC_MD
 and_should	1
 VBD_NN
@@ -1216,6 +1216,8 @@ children_who	1
 characters_who	1
 RP_NN
 out_work	1
+JJR_JJ
+more_young	1
 MD_RB
 could_ever	1
 Ca_n't	1
@@ -1242,8 +1244,6 @@ am_a	1
 speak_the	1
 image!And_the	1
 show_this	1
--LRB-_VBG
--LRB-_including	1
 WRB_DT
 how_these	1
 when_the	1
@@ -1255,9 +1255,6 @@ is_important	1
 feels_lonely	1
 LS_VBP
 i_prefer	1
-JJ_-RRB-
-Caucasian_-RRB-	1
-white_-RRB-	1
 ''_DT
 ''_the	1
 ''_A	1
@@ -1290,11 +1287,6 @@ us_into	1
 RBR_JJ
 more_rounded	1
 more_successful	1
-JJR_VBD
-lighter_skinned	1
-,_JJ
-,_compelling	1
-,_cautionary	1
 LS_VBD
 i_had	2
 WP_DT
@@ -1310,6 +1302,8 @@ who_also	1
 ,_etc.	2
 ,_driving	1
 ,_language	1
+PRP$_RB
+his_mostly	1
 CC_,
 and_,	1
 RB_DT
@@ -1349,18 +1343,16 @@ then_receive	1
 not_feel	1
 n't_hear	1
 even_see	1
--RRB-_JJ
--RRB-_young	1
 NNPS_IN
 African-Americans_with	1
 Americans_because	1
-FW_FW
-in_kansas	1
-<br />_<br />	19
-<br />_i	1
-i_guarentee	1
-in_america	1
+IN_IN
+at_by	1
+out_of	3
+because_of	1
+with_at	1
 JJ_RB
+small_predominantly	1
 lucky_enough	1
 VBG_PRP$
 leaving_their	1
@@ -1369,9 +1361,6 @@ leaving_their	1
 ,_trying	1
 ,_sharing	1
 ,_paying	1
--RRB-_VBZ
--RRB-_Is	2
--RRB-_is	1
 NNS_.
 citizens_.	1
 boys_.	1
@@ -1419,8 +1408,6 @@ friends_,	1
 problems_,	1
 ,_VBP
 ,_are	1
--RRB-_VBD
--RRB-_were	1
 VBD_NNS
 were_recipients	1
 were_adults	1
@@ -1438,6 +1425,7 @@ medical_careers	1
 church-based_programs	1
 few_items	1
 poor_Africans	1
+white_classmates	1
 deleted_scenes	1
 prime_difficulties	1
 sudanese_refugees	1
@@ -1469,19 +1457,13 @@ early_1990s	1
 main_characters	1
 JJ_NNP
 various_Christian	1
-CD_IN
-two_of	1
-One_of	2
-4000_of	1
-one_of	1
+JJR_VBD
+lighter_skinned	1
 VBG_RBR
 learning_more	1
 IN_WP
 with_whom	1
 on_what	1
--RRB-_CC
--RRB-_&	1
--RRB-_and	1
 NNS_EX
 people_there	1
 VBG_PRP
@@ -1533,8 +1515,6 @@ have_seen	1
 have_gotten	1
 be_watched	1
 be_given	1
-VBN_-LRB-
-murdered_-LRB-	1
 VB_VBG
 be_wondering	1
 RB_RBR
@@ -1555,9 +1535,6 @@ VBZ_NN
 is_a.	1
 is_kind	1
 sends_money	1
-WDT_VBP
-that_have	1
-that_need	1
 TO_JJ
 to_young	1
 VBP_DT
@@ -1566,8 +1543,6 @@ receive_an	1
 take_any	1
 have_a	2
 have_no	1
-NNS_-RRB-
-neighborhoods_-RRB-	1
 VBD_TO
 managed_to	1
 tried_to	1
@@ -1576,39 +1551,18 @@ had_to	2
 ,_WDT
 ,_which	1
 ,_that	2
+VBN_VB
+murdered_let	1
 NN_:
 issue_...	1
-NN_,
-houston_,	1
-apartment_,	1
-TV_,	1
-story_,	1
-teacher_,	1
-language_,	1
-america_,	1
-camp_,	2
-problem_,	2
-surface_,	1
-test_,	1
-rent_,	1
-society_,	1
-employment_,	1
-instance_,	1
-school_,	2
-area_,	1
-car_,	1
-etc._,	1
-driving_,	1
-film_,	2
-country_,	1
-work_,	1
-point_,	1
-part_,	1
-supermarket_,	1
-manhood_,	1
-stove_,	1
-team_,	1
-fact_,	1
+,_WRB
+,_when	1
+,_where	2
+CD_IN
+two_of	1
+One_of	2
+4000_of	1
+one_of	1
 ``_NN
 ``_help	1
 ``_b	1
@@ -1651,11 +1605,9 @@ coloring_.	1
 VBN_DT
 given_this	1
 received_a	1
-NN_-LRB-
-child_-LRB-	1
-world_-LRB-	1
-church_-LRB-	1
-home_-LRB-	1
+WDT_VBP
+that_have	1
+that_need	1
 ,_VB
 ,_sing	1
 ,_buy	1
@@ -1675,23 +1627,18 @@ PRP_CD
 it_5	1
 VBG_RB
 living_together	1
--RRB-_NN
--RRB-_town	1
 DT_,
 both_,	1
 this_,	2
 all_,	1
 VBG_RP
 going_out	1
-VB_NNP
-try_DARK	1
-become_U.S.	1
 CC_LS
 and_i	1
 DT_WDT
 those_that	1
-PRP_WP
-it_what	1
+NNS_NNS
+problems_refugees	1
 RB_JJ
 yet_many	1
 pretty_big	1
@@ -1710,11 +1657,6 @@ so_many	1
 predominantly_Caucasian	1
 very_educational	1
 truly_amazing	1
-IN_IN
-at_by	1
-out_of	3
-because_of	1
-with_at	1
 NNPS_,
 States_,	1
 NNPS_.
@@ -1728,8 +1670,6 @@ to_Houston	1
 to_America	3
 to_Kansas	2
 to_Kenya	1
-RB_-LRB-
-too_-LRB-	1
 TO_NNS
 to_parties	1
 VBG_DT
@@ -1775,14 +1715,10 @@ School_as	1
 BOYS_OF	1
 America_through	1
 FW_,
+u.s._,	1
 etc._,	1
-PRP$_NNS
-their_lives	2
-his_differences	1
-their_pleas	1
-their_struggles	1
-their_children	1
-our_immigrants	1
+,_TO
+,_to	1
 VBZ_``
 says_``	1
 IN_VBG
@@ -1806,10 +1742,6 @@ and_more	1
 or_more	1
 IN_VBN
 as_opposed	2
--LRB-_NNP
--LRB-_Texas	1
--LRB-_NNS
--LRB-_subjects	1
 VBG_.
 seeing_.	1
 VBG_,
@@ -1824,9 +1756,6 @@ hard_and	1
 long_and	1
 successful_and	1
 interesting_and	1
-TO_NN
-to_refugee	1
-to_family	1
 CD_,
 2001_,	1
 WRB_VBN
@@ -1834,15 +1763,11 @@ when_given	1
 WRB_VBG
 how_leaving	1
 when_going	1
-VBP_-RRB-
-think_-RRB-	1
-FW_CD
-<br />_Ten	1
-<br />_One	2
 VBN_WRB
 surprised_how	1
-FW_CC
-<br />_But	1
+TO_NN
+to_refugee	1
+to_family	1
 CD_NNS
 two_boys	1
 one_journeys	1
@@ -1996,8 +1921,9 @@ get_access	1
 NN_WP
 youth_who	1
 person_who	1
--LRB-_WP
--LRB-_who	1
+church_who	1
+CC_FW
+but_i	1
 PRP_TO
 him_to	1
 them_to	1
@@ -2026,15 +1952,14 @@ boys_goes	1
 basics_is	1
 IN_CC
 with_and	1
-NNP_-LRB-
-US_-LRB-	1
 JJS_IN
 Most_of	1
 NNS_VBG
 immigrants_coming	1
 refugees_trying	1
-PRP_NNP
-me_America	1
+RP_RB
+off_here	1
+out_horribly	1
 PRP_NNS
 you_ideas	1
 NNS_VBN
@@ -2048,8 +1973,6 @@ attend_classes	1
 prefer_documentaries	1
 VBP_RP
 stand_out	1
-FW_RB
-<br />_even	1
 ``_PRP
 ``_They	1
 VBG_WP
@@ -2059,8 +1982,6 @@ POS_JJ
 '_tiny	1
 ''_IN
 ''_for	1
--RRB-_IN
--RRB-_out	1
 VBD_VBN
 were_followed	1
 were_used	1
@@ -2090,6 +2011,8 @@ VBN_NN
 known_nothing	1
 granted_refuge	1
 given_sanctuary	1
+NNP_RB
+Long_virtually	1
 :_PRP
 ..._I	1
 NNS_IN
@@ -2172,9 +2095,6 @@ CC_NNS
 and_opportunities	1
 NNP_VBD
 Africa_got	1
--LRB-_IN
--LRB-_as	1
--LRB-_if	1
 NN_RB
 money_back	1
 film_really	1
@@ -2184,6 +2104,7 @@ store_nearby	1
 homeland_too	1
 salary_also	1
 JJ_IN
+foreign_as	1
 adult_for	1
 first_in	1
 interested_in	1
@@ -2226,10 +2147,15 @@ shows_bits	1
 ,_i	1
 VBP_NN
 believe_everyone	1
+PRP$_NNS
+their_lives	2
+his_differences	1
+their_pleas	1
+their_struggles	1
+their_children	1
+our_immigrants	1
 JJ_''
 angry_''	1
-FW_-RRB-
-u.s._-RRB-	1
 VB_CC
 see_and	1
 have_and	1
@@ -2320,4 +2246,5 @@ different_race	1
 first_hand	1
 back_story	1
 FABULOUS_INSIGHT	1
+Caucasian_town	1
 displaced_youth	1

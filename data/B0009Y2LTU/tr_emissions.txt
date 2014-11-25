@@ -3,8 +3,9 @@ remain_behind_this	1
 excel_as_a	1
 NNP_,_MD
 Magnani_,_will	1
-CC_DT_NN
-and_the_film	1
+CC_RB_JJ
+and_never_boring	1
+and_discretely_poor	1
 DT_WP_VBP
 those_who_enjoy	1
 JJ_IN_NNS
@@ -30,9 +31,8 @@ Actress_in_any	1
 canvas_of_the	1
 VBZ_JJ_IN
 is_emotional_at	1
-CC_RB_JJ
-and_never_boring	1
-and_discretely_poor	1
+CC_DT_NN
+and_the_film	1
 JJ_CC_RB
 humble_and_discretely	1
 VBG_CD_IN
@@ -46,22 +46,16 @@ the_daughter_as	1
 the_film_as	1
 a_sense_of	1
 the_success_of	1
-FW_FW_RB
-<br />_<br />_Once	1
 ''_VBZ_JJ
 ''_is_emotional	1
 POS_NN_.
 's_determination_.	1
 RB_JJ_PRP
 never_boring_You	1
-FW_RB_JJR
-<br />_Once_more	1
 TO_VB_IN
 to_excel_as	1
 NN_:_NNP
 age_:_Anna	1
-FW_FW_``
-<br />_<br />_``	1
 NN_WDT_VBZ
 mother_that_wants	1
 NN_NN_.
@@ -137,9 +131,8 @@ art_is_eye-catching	1
 whole_is_exceptional	1
 life_takes_several	1
 story_is_incredible	1
-FW_FW_DT
-<br />_<br />_A	1
-<br />_<br />_The	1
+IN_NN_.
+of_fate_.	1
 CC_DT_JJ
 and_the_sumptuous	1
 IN_NN_,
@@ -153,9 +146,8 @@ RB_JJR_DT
 Once_more_the	1
 ,_NNP_MD
 ,_Visconti_will	1
-DT_RB_JJ
-this_very_simple	1
-this_apparently_innocent	1
+RBS_VBN_NNS
+most_reminded_pieces	1
 RB_,_VBZ
 however_,_is	1
 PRP$_NN_POS
@@ -168,8 +160,6 @@ RB_JJ_,
 very_fitting_,	1
 ''_VBZ_DT
 ''_is_a	1
-RBS_VBN_NNS
-most_reminded_pieces	1
 DT_NN_VBZ
 a_whole_is	1
 the_music_is	1
@@ -187,8 +177,6 @@ CC_PRP$_NN
 and_her_mother	1
 JJ_NNS_VBP
 Several_events_come	1
-FW_``_NNP
-<br />_``_Bellissima	1
 IN_DT_WP
 for_those_who	1
 ''_VBZ_NN
@@ -233,9 +221,6 @@ The_mother_'s	1
 PRP$_NN_VBZ
 her_life_takes	1
 her_daughter_wins	1
-FW_DT_NN
-<br />_The_film	1
-<br />_A_must-see	1
 NN_CC_DT
 personality_and_the	1
 MD_IN_PRP$
@@ -265,8 +250,8 @@ NNP_VBZ_VBN
 Director_is_carved	1
 IN_NNS_CC
 at_times_and	1
-VB_DT_JJS
-make_the_best	1
+JJ_NN_NN
+Italian_Neo_Realism	1
 IN_JJ_NNS
 in_multiple_ways	1
 ,_CD_DT
@@ -283,8 +268,8 @@ sumptuous_style_of	1
 admirable_canvas_of	1
 NN_VBZ_RB
 music_is_very	1
-IN_NN_.
-of_fate_.	1
+VB_DT_JJS
+make_the_best	1
 MD_VB_DT
 will_make_the	1
 will_compose_an	1
@@ -328,8 +313,6 @@ IN_PRP$_NN
 as_her_life	1
 for_her_daughter	1
 of_her_daughter	1
-FW_IN_DT
-<br />_Since_this	1
 NN_TO_VB
 daughter_to_excel	1
 PRP$_JJ_JJ
@@ -346,10 +329,9 @@ Bellissima_''_is	2
 Bellissima_''_captures	1
 ,_VBN_IN
 ,_starred_by	1
-JJ_NN_NN
-Italian_Neo_Realism	1
-FW_FW_IN
-<br />_<br />_Since	1
+DT_RB_JJ
+this_very_simple	1
+this_apparently_innocent	1
 RB_IN_NN
 Just_as_art	1
 DT_NN_:

@@ -30,11 +30,7 @@ been_authored	1
 been_made	2
 been_CENSORED	1
 FW_DT
-<br />_Some	2
 i.e._the	1
-<br />_A	2
-<br />_THE	2
-<br />_The	4
 CC_JJ
 either_drunk	2
 both_white	1
@@ -91,25 +87,12 @@ rapes_and	2
 NNS_WDT
 scenes_that	1
 events_that	4
+areas_that	1
 stereotypes_that	1
 RB_JJR
 even_worse	1
 much_better	2
 much_more	1
-VBD_DT
-saw_a	1
-were_the	1
-watched_the	1
-included_a	2
-had_a	1
-was_a	3
-turned_this	1
-showed_a	1
-did_this	1
-was_the	2
-was_an	1
-did_a	1
-saw_this	1
 WP_VBD
 who_was	2
 who_directed	1
@@ -129,23 +112,22 @@ up_--	1
 WP_VBZ
 what_gets	1
 who_comes	1
--RRB-_.
--RRB-_.	1
 NNP_CC
 Falana_and	1
 Burton_and	6
-Oroville_and	1
+Oroville_and	2
 California_and	2
 Marvin_and	2
 Marvin_or	1
 Young_and	1
+NNP_CD
+Mountain_75	1
 WP_MD
 what_could	1
 RBS_JJ
 most_complete	2
 :_NN
 -_change	1
-:_<br />	2
 IN_PRP$
 on_my	1
 for_its	1
@@ -226,9 +208,6 @@ NN_DT
 film_the	1
 bottle_a	2
 movie_this	1
-PDT_DT
-all_a	1
-all_the	1
 WDT_RB
 that_probably	1
 that_soon	2
@@ -247,8 +226,6 @@ show_people	1
 VB_NNP
 support_Secession	2
 see_Burton-Marvin	1
--RRB-_TO
--RRB-_to	2
 CC_IN
 and_in	1
 or_beyond	1
@@ -314,10 +291,8 @@ Characters_intact	1
 titles_unavailable	1
 RP_CC
 up_and	2
--RRB-_WDT
--RRB-_that	1
--LRB-_DT
--LRB-_This	2
+NNP_''
+Classic_''	1
 DT_NNS
 the_dvds	1
 the_theaters	1
@@ -394,14 +369,20 @@ was_more	1
 ..._There	1
 VB_WRB
 like_how	1
-PRP_-LRB-
-her_-LRB-	2
-JJ_JJ
-only_real	1
-ultra_low	1
-several_loose	1
-penniless_white	1
-young_black	2
+VBD_DT
+saw_a	1
+were_the	1
+watched_the	1
+included_a	2
+had_a	1
+was_a	3
+turned_this	1
+showed_a	1
+did_this	1
+was_the	2
+was_an	1
+did_a	1
+saw_this	1
 CC_WP
 but_what	1
 NNS_CC
@@ -438,6 +419,7 @@ picture_and	1
 Coincidence_or	1
 acting_but	1
 church_and	2
+packaging_but	1
 voting_and	1
 burton_and	1
 KKK_and	2
@@ -453,8 +435,8 @@ era_and	1
 change_and	1
 laugh_or	1
 film_but	1
-NN_CD
-<br />_Two	2
+WDT_PRP
+which_I	2
 DT_JJS
 the_best	1
 the_least	2
@@ -470,37 +452,33 @@ Redneck_Characters	1
 NNP_NNP
 years.The_Klansmen	1
 The_Klan	1
-<p>_This	2
 Dull_O.J.	1
-<p>_All	1
+Starring_Lee	1
 Richard_Burton	9
 The_Klansman	5
 Butte_County	1
 Black_Lady	1
-<p>_Burton	2
-Rape_Scene	1
 PARAMOUNT_VHS	1
 O.J._Simpson	4
 FROM_RUSSIA	1
 BILLY_JACK	1
-Poor_Acting	1
+Rape_Scene	1
 Lola_Falana	7
 OJ_Simpson	4
 Opening_Scene	1
 Aberdeen_Scotland	1
 PG_Rated	1
-<p>_Lee	1
 State_Theatre	1
 Ford_Bronco	1
 Falana_Rape	1
 Liz_Taylor	1
 Lee_Marvin	10
 Topless_Young	1
-Starring_Lee	1
 Original_Opening	1
 Linda_Evans	2
 Guy_Vase	1
 Jeanne_Bell	1
+Poor_Acting	1
 Film_Quality	1
 San_Diego	1
 Terrence_Young	1
@@ -509,6 +487,7 @@ Sugarloaf_Mountain	1
 Young_Black	1
 Cult_Classic	1
 White_Men	1
+Lady_Jeanne	1
 Grusome_But	1
 Cameron_Mitchell	5
 Vase_Aberdeen	1
@@ -588,17 +567,11 @@ shows_how	1
 CD_WRB
 1974_when	1
 1861_when	2
--LRB-_CD
--LRB-_75	1
 VB_WP
 imagine_what	1
 know_who	1
--LRB-_CC
--LRB-_and	1
 RP_WDT
 up_that	1
-WDT_PRP
-which_I	2
 RB_WRB
 ago_when	1
 RB_,
@@ -624,14 +597,6 @@ forever_.	1
 VBD_CD
 was_nine	1
 was_one	1
-NNP_-RRB-
-California_-RRB-	1
-Bell_-RRB-	1
-Evans_-RRB-	2
-Mitchell_-RRB-	2
-Falana_-RRB-	2
-Marvin_-RRB-	2
-Burton_-RRB-	2
 CC_RB
 and_promptly	2
 and_poorly	1
@@ -682,8 +647,6 @@ before_you	1
 ''_,	1
 ,_FW
 ,_i.e.	1
-CD_FW
-100:35_<br />	1
 :_NNP
 --_Richard	1
 PRP_VBD
@@ -867,6 +830,8 @@ in_,	1
 upon_,	2
 IN_.
 with_.	1
+FW_FW
+time.This_vhs	1
 PRP_.
 her_.	2
 it_.	1
@@ -979,12 +944,17 @@ movie_fans	1
 rate_actors	1
 mayor_notices	1
 NN_NNP
-PARAMOUNT_VHS	1
 scene_Richard	1
+PARAMOUNT_VHS	1
+sheriff_Lee	2
 downtown_San	1
+sheriff_Cameron	2
 year_Denny	2
 DVD_Producers	1
 director_Terrence	1
+landowner_Richard	2
+woman_Linda	2
+woman_Lola	2
 example_Burton	1
 thriller_Starring	1
 CD_CD
@@ -993,8 +963,6 @@ CD_CC
 1974_and	1
 IN_JJS
 for_most	1
-._-RRB-
-._-RRB-	4
 :_DT
 ..._This	1
 -_a	2
@@ -1005,6 +973,10 @@ this_must	2
 This_may	1
 EX_IN
 there_in	1
+VBP_VBN
+have_been	2
+are_jumped	2
+'ve_seen	1
 PRP_MD
 I_would	2
 she_will	2
@@ -1019,10 +991,8 @@ You_will	1
 you_'ll	3
 you_can	1
 You_would	1
-VBP_VBN
-have_been	2
-are_jumped	2
-'ve_seen	1
+:_CD
+:_Two	2
 CC_VB
 and_make	1
 or_stagger	2
@@ -1061,7 +1031,6 @@ ME_grit	1
 film_buff	1
 rifle_fire	2
 premium_channel	1
-<br />_racism	1
 blu_ray	1
 blood_pulp	1
 book_burning	1
@@ -1083,6 +1052,8 @@ night_projectionist	1
 bus_station	2
 112m_version	1
 rasict_picture	1
+NNP_WP$
+Burton_whose	2
 NNS_RB
 miles_north	1
 years_ago	1
@@ -1362,14 +1333,12 @@ more_lubed	1
 VBZ_VBG
 is_whacking	1
 VB_PRP
-<br />_It	1
 rush_her	2
 believe_it	2
-consider_it	1
 move_Me	1
 miss_it	1
 let_him	1
-<br />_I	1
+consider_it	1
 PRP_DT
 it_that	1
 it_a	1
@@ -1428,8 +1397,6 @@ probably_set	1
 actually_turned	1
 recently_saw	1
 immediately_put	1
-FW_IN
-<br />_Despite	1
 NNS_NN
 films_today	1
 CC_MD
@@ -1474,21 +1441,19 @@ let_the	1
 love_this	2
 buy_this	1
 make_some	1
-believe_the	1
 say_the	2
 do_these	1
 make_this	1
-<p>_The	1
+watch_this	1
 get_a	1
 handle_the	1
-watch_this	1
+see_some	1
 make_the	1
 get_this	1
-see_some	1
+believe_the	1
 recommend_this	1
 have_a	1
 be_the	1
-<br />_The	4
 WRB_DT
 when_this	2
 When_this	1
@@ -1497,13 +1462,9 @@ When_a	2
 how_some	1
 Where_a	1
 where_the	1
-IN_IN
-out_of	5
-along_with	3
-that_on	1
-around_for	1
-because_of	5
-as_for	1
+PDT_DT
+all_a	1
+all_the	1
 MD_``
 would_``	1
 VBZ_JJ
@@ -1526,6 +1487,7 @@ DT_IN
 this_into	1
 Some_of	2
 PRP_IN
+her_along	2
 it_as	1
 I_for	1
 yourself_into	1
@@ -1536,8 +1498,6 @@ more_repulsive	2
 CC_CD
 or_two	1
 and_two	3
-FW_-LRB-
-<br />_-LRB-	2
 JJ_NNPS
 pitiful_Pollyannas	1
 WP_RB
@@ -1547,6 +1507,8 @@ who_clandestinely	2
 ,_hatred	2
 CC_,
 but_,	1
+JJ_PRP
+long_It	1
 ``_NNS
 ``_slaps	1
 PRP$_``
@@ -1608,9 +1570,13 @@ n't_mumble	2
 n't_know	1
 :_UH
 ..._Oh	1
-FW_FW
-<br />_<br />	17
-time.This_vhs	1
+IN_IN
+out_of	5
+along_with	3
+that_on	1
+around_for	1
+because_of	5
+as_for	1
 JJ_RB
 unavailable_elsewhere	1
 bad_enough	1
@@ -1619,10 +1585,6 @@ full_back	1
 ,_``	1
 ,_VBD
 ,_was	2
--RRB-_VBZ
--RRB-_coerces	2
--RRB-_arrests	2
--RRB-_is	3
 NNS_.
 bushes_.	2
 protagonists_.	1
@@ -1711,8 +1673,6 @@ good_Job	1
 small_Alabama	2
 CD_IN
 one_of	1
--RRB-_CC
--RRB-_but	1
 VBG_PRP
 putting_them	1
 promising_she	2
@@ -1726,7 +1686,6 @@ thing_you	1
 buff_I	1
 shame_he	1
 think_they	1
-<p>_I	1
 society_we	1
 film_I	1
 film_it	1
@@ -1803,9 +1762,6 @@ has_alot	1
 is_part	1
 is_nothing	1
 makes_ME	1
-WDT_VBP
-that_are	1
-that_have	1
 UH_,
 Oh_,	1
 VBP_DT
@@ -1821,9 +1777,6 @@ find_this	1
 are_a	2
 mean_the	1
 want_a	1
-NNS_-RRB-
-areas_-RRB-	1
-buddies_-RRB-	2
 VBD_TO
 came_to	2
 refused_to	2
@@ -1932,10 +1885,9 @@ that_'s	1
 that_does	2
 that_has	1
 that_intimidates	2
-NN_-LRB-
-woman_-LRB-	4
-sheriff_-LRB-	4
-landowner_-LRB-	2
+WDT_VBP
+that_are	1
+that_have	1
 ''_VBZ
 ''_is	1
 ''_NN
@@ -1954,8 +1906,6 @@ No_,	1
 VBG_RP
 living_in	1
 busting_up	2
--RRB-_WP$
--RRB-_whose	2
 RB_JJ
 pretty_honest	1
 close_relative	1
@@ -1978,6 +1928,8 @@ pretty_funny	1
 very_good	1
 JJR_MD
 more_could	1
+CD_DT
+100:35_The	1
 TO_NNP
 to_Oroville	1
 TO_NNS
@@ -2011,8 +1963,6 @@ WRB_NN
 where_one	2
 NNS_WRB
 theaters_when	1
-NN_EX
-<p>_There	1
 NNP_IN
 Sacramento_in	1
 Burton_with	1
@@ -2020,6 +1970,7 @@ Klansman_on	1
 RUSSIA_WITH	1
 Job_in	1
 Theatre_in	1
+Falana_under	2
 Mitchell_into	1
 JACK_from	1
 All_in	1
@@ -2043,8 +1994,6 @@ into_promising	2
 upon_watching	1
 VBN_WRB
 lost_when	1
-NN_-RRB-
-packaging_-RRB-	1
 ,_PRP
 ,_he	4
 ,_It	1
@@ -2053,13 +2002,6 @@ packaging_-RRB-	1
 ,_it	1
 ,_I	2
 ,_she	2
--LRB-_NNP
--LRB-_Richard	2
--LRB-_Lee	2
--LRB-_Linda	2
--LRB-_Cameron	2
--LRB-_Jeanne	1
--LRB-_Lola	2
 VBG_.
 dangling_.	1
 VBG_,
@@ -2084,10 +2026,6 @@ CD_.
 one_.	2
 two_.	1
 five_!	1
-JJ_-LRB-
-long_-LRB-	1
-FW_CD
-<br />_Three	2
 POS_NN
 's_acting	2
 's_salary	1
@@ -2269,17 +2207,15 @@ not_whole.It	1
 NNS_TO
 claims_to	2
 names_to	1
-wishes_to	1
+buddies_to	2
 struggles_to	2
-VBZ_IN
-happens_after	1
-climaxes_on	2
-leaves_after	1
-comes_under	1
-is_that	1
-says_that	1
-stars_in	1
-thinks_that	1
+wishes_to	1
+JJ_JJ
+only_real	1
+ultra_low	1
+several_loose	1
+penniless_white	1
+young_black	2
 VBN_PRP
 liked_it	1
 released_I	1
@@ -2341,10 +2277,6 @@ destroyed_his	1
 IN_CC
 that_both	1
 before_and	1
-NNP_-LRB-
-Oroville_-LRB-	1
-Mountain_-LRB-	1
-Lady_-LRB-	1
 PRP_:
 itself_-	1
 NNS_VBD
@@ -2360,8 +2292,6 @@ scenes_missing	1
 blacks_walking	2
 RP_RB
 in_anyway	1
--LRB-_PRP
--LRB-_It	1
 PRP_NNS
 it_revelations	1
 NNS_VBN
@@ -2378,8 +2308,6 @@ seen_``	1
 ''_IN
 ''_as	1
 ''_at	1
--RRB-_IN
--RRB-_under	2
 VBD_VBN
 was_made	1
 were_excited	1
@@ -2470,13 +2398,17 @@ NNP_VBZ
 Circle_is	1
 Klansman_is	1
 OJ_comes	1
-Simpson_is	1
+Marvin_coerces	2
 Marvin_is	1
 Falana_is	2
-Klansman_makes	1
 Klansmen_is	1
-Simpson_stars	1
+Mitchell_arrests	2
+Simpson_is	1
+Bell_is	1
+Klansman_makes	1
+Evans_is	2
 This_is	2
+Simpson_stars	1
 VB_JJ
 be_aware	2
 omit_Racially-Charged	1
@@ -2525,8 +2457,6 @@ Taylor_were	2
 Scene_was	1
 Klan_was	1
 Marvin_did	1
--LRB-_IN
--LRB-_along	2
 NNP_POS
 Simpson_'s	1
 Marvin_'s	2
@@ -2604,10 +2534,9 @@ out_from	1
 out_as	2
 ,_WP$
 ,_whose	1
--LRB-_NN
--LRB-_Note	2
 ,_NNP
 ,_Lynchings	1
+,_This	1
 ,_Oroville	1
 ,_Marvin	1
 ,_Cherokee	1
@@ -2620,7 +2549,6 @@ out_as	2
 ,_The	1
 ,_Lee	2
 ,_Cameron	1
-,_<p>	1
 CC_NNP
 and_Lola	1
 and_Sugarloaf	1
@@ -2634,17 +2562,22 @@ CC_NNS
 and_actors	1
 and_states	1
 and_stereotypes	2
-FW_WRB
-<br />_When	2
-NNP_''
-Classic_''	1
+VBZ_IN
+happens_after	1
+climaxes_on	2
+leaves_after	1
+comes_under	1
+is_that	1
+says_that	1
+stars_in	1
+thinks_that	1
 NNP_.
 KKK_.	1
 Cam_!	1
 Burton_.	1
 Klansman_.	5
 Oroville_.	1
-California_.	2
+California_.	3
 Classic_!	1
 Cut_!	1
 Fire_.	1
@@ -2664,6 +2597,7 @@ lengthy_bus	1
 terrible_movie	4
 racial_bigotry	1
 next_scene	1
+interesting_film	1
 sound_track	1
 single_syllable	2
 low_budget	2
@@ -2683,7 +2617,7 @@ dirty_floor	2
 complete_version	2
 heated_discussion	1
 complete_failure	1
-interesting_film	1
+real_112m	1
 Good_movie	1
 honest_sherrif	1
 free_software	1
@@ -2693,7 +2627,6 @@ only_reason	1
 public_domain	1
 whole_lot	1
 bad_press	1
-good_feeling	1
 miserable_script	2
 polictial_correctness	1
 okay_film	1
@@ -2724,12 +2657,12 @@ current_state	1
 <a href="http://www.amazon.com/gp/product/6301954955">_PARAMOUNT	1
 Georgia-based_purveyor	1
 great_movie	2
-real_112m	1
+deep_racism	1
 nightmarish_explosion	2
 competent_depiction	2
 attempted_rape	1
 shooting_schedule	1
 simple_bit	1
 white_woman	4
-deep_<br />	1
+good_feeling	1
 awful_movie	2

@@ -22,12 +22,17 @@ POS_NNS
 's_aspirations	1
 PRP$_RBS
 their_most	1
-VBP_TO
-begin_to	1
+DT_RB
+the_cinematically	1
+this_unexpectedly	1
+a_strategically	1
 NNP_IN
 V.C._during	1
-NNS_RB
-men_gradually	1
+DT_NNS
+a_munitions	1
+the_men	1
+these_episodes	1
+the_characters	1
 CC_JJ
 and_visual	1
 and_many	1
@@ -53,8 +58,8 @@ POS_RBS
 VBZ_JJ
 becomes_clear	1
 is_unlikely	1
-JJ_-RRB-
-fanatic_-RRB-	1
+VBN_PRP$
+refined_his	1
 VBD_CD
 directed_1967	1
 NN_TO
@@ -63,11 +68,6 @@ order_to	1
 village_to	1
 DT_IN
 all_of	2
--LRB-_NNP
--LRB-_Hispanic	1
--LRB-_Anthony	1
-NNP_-RRB-
-Finetti_-RRB-	1
 CC_RB
 and_not	1
 VBN_,
@@ -168,8 +168,6 @@ viewer_will	1
 work_will	1
 PRP_VBZ
 it_is	2
--RRB-_,
--RRB-_,	1
 RB_IN
 specifically_in	1
 VBG_IN
@@ -253,6 +251,8 @@ have_appeared	1
 become_engaged	1
 are_released	1
 are_tasked	1
+JJ_,
+fanatic_,	1
 VBG_PRP$
 improving_their	1
 ,_VBG
@@ -287,14 +287,13 @@ films_,	1
 moments_,	1
 efforts_,	1
 squibs_,	1
--RRB-_VBG
--RRB-_leading	1
 RB_.
 elsewhere_.	1
 ,_VBZ
 ,_avoids	1
-NNP_-LRB-
-Rosello_-LRB-	1
+NNS_TO
+aspirations_to	1
+endeavours_to	1
 IN_WRB
 from_where	1
 VBG_JJ
@@ -334,10 +333,8 @@ demolition_specialists	1
 NN_NNP
 sanction_Rosello	1
 schlockmeister_Ciro	1
-DT_RB
-the_cinematically	1
-this_unexpectedly	1
-a_strategically	1
+VBP_TO
+begin_to	1
 DT_NNPS
 some_Marines	1
 the_Philippines	1
@@ -400,11 +397,10 @@ NNS_VBG
 efforts_having	1
 PRP$_CD
 its_90	1
-NNS_TO
-aspirations_to	1
-endeavours_to	1
 NNS_VBN
 hostages_captured	1
+VBP_NNP
+are_Hispanic	1
 IN_VBP
 as_are	1
 NNS_JJ
@@ -422,11 +418,8 @@ stock_company	1
 minute_length	1
 POS_JJ
 's_initial	1
-DT_NNS
-a_munitions	1
-the_men	1
-these_episodes	1
-the_characters	1
+NNS_RB
+men_gradually	1
 IN_NNS
 for_stuntmen	1
 of_gunfights	1
@@ -451,8 +444,6 @@ the_V.C.	1
 ,_unpersuasive	1
 ,_well-constructed	1
 ,_religious	1
-VBN_PRP$
-refined_his	1
 DT_JJ
 any_apparent	1
 This_watchable	1
@@ -554,6 +545,8 @@ squad_is	1
 film_is	1
 film_opens	1
 affair_is	1
+NNP_VBG
+Finetti_leading	1
 NNP_VBD
 Aldrich_directed	1
 NN_VBP
@@ -599,6 +592,7 @@ U._S.	1
 Anthony_Finetti	1
 Loren_Haynes	1
 Captain_Rosello	1
+Rosello_Anthony	1
 RB_VBZ
 soon_becomes	1
 NNPS_NNP
@@ -633,8 +627,6 @@ greatest_strength	1
 RP_IN
 up_of	1
 up_in	1
-VBP_-LRB-
-are_-LRB-	1
 VBN_TO
 reassigned_to	1
 CC_NNP

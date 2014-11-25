@@ -10,6 +10,8 @@ CC_DT_NN
 and_the_set	1
 NNP_MD_VB
 Gun_Can_Play	1
+:_NNP_#
+:_Disc_#	1
 CC_VBP_RB
 but_are_still	1
 IN_JJ_NN
@@ -41,21 +43,25 @@ VBP_VBN_RP
 have_come_through	1
 NNP_NNS_.
 Eastwoods_westerns_.	1
-FW_FW_NNP
-<br />_<br />_Disc	1
+NNS_DT_VBP
+movies_all_look	1
 NNS_IN_VBG
 companies_without_paying	1
 DT_VBP_JJ
 all_look_good	1
-NNP_:_FW
-Amazon_:_<br />	1
+DT_NN_IN
+this_set_of	1
+a_list_of	1
+the_vein_of	1
+the_set_as	1
+A_collection_of	1
 RB_DT_JJ
 quite_a_few	1
 DT_NNP_NNP
 The_Grand_Duel/This	1
 a_Horse/The_Hellbenders/White	1
 NNP_NNP_#
-<br />_Disc_#	2
+Amigo_Disc_#	1
 JJ_NN_IN
 mixed_bag_of	1
 JJ_NNS_IN
@@ -88,7 +94,6 @@ JJ_CC_DT
 good_and_the	1
 NNP_NNP_NNP
 Grand_Duel/This_Man	1
-Amigo_<br />_Disc	1
 Horse/The_Hellbenders/White_Comanche	1
 Clay/Johnny_Yuma/Any_Gun	1
 Minnesota_Clay/Johnny_Yuma/Any	1
@@ -175,10 +180,10 @@ VB_PRP_RP
 check_it_out	1
 NNP_NNP_DT
 Hellbenders/White_Comanche_these	1
-FW_NNP_#
-<br />_Disc_#	1
 RB_RB_.
 as_well_.	1
+NNP_:_NNP
+Amazon_:_Disc	1
 NNS_IN_NN
 lots_of_ripping-off	1
 lots_of_action	1
@@ -190,6 +195,8 @@ VBZ_VBN_VBG
 has_been_circling	1
 CC_JJ_NNS
 and_bad_movies	1
+VB_NNP_#
+Play_Disc_#	1
 JJ_IN_DT
 many_in_the	1
 few_of_these	1
@@ -215,8 +222,6 @@ VBN_IN_NNP
 provided_by_Amazon	1
 RB_VBN_PRP
 Just_thought_I	1
-:_FW_FW
-:_<br />_<br />	1
 JJ_CC_VBZ
 good_and_theres	1
 MD_RB_VB
@@ -228,7 +233,7 @@ st._clair_is	1
 VB_MD_VB
 Die/It_Can_Be	1
 ,_NNP_NNP
-,_Amigo_<br />	1
+,_Amigo_Disc	1
 IN_NNS_,
 for_years_,	1
 DT_JJ_IN
@@ -248,8 +253,6 @@ LS_VB_.
 i_recommend_.	1
 IN_DT_CD
 of_these_20	1
-NNS_DT_VBP
-movies_all_look	1
 DT_JJ_NNS
 a_few_extras	1
 VBN_PRP_MD
@@ -282,12 +285,6 @@ as_with_all	1
 off_of_this	1
 PRP_VBZ_RB
 it_'s_not	1
-DT_NN_IN
-this_set_of	1
-a_list_of	1
-the_vein_of	1
-the_set_as	1
-A_collection_of	1
 VBZ_RB_VBN
 's_not_provided	1
 VBZ_CD_IN
@@ -300,8 +297,6 @@ MD_VB_DT
 'd_post_this	1
 WDT_VBZ_VBN
 that_has_been	1
-VB_NNP_NNP
-Play_<br />_Disc	1
 DT_NNS_DT
 the_movies_all	1
 CC_NNS_RB
@@ -347,7 +342,7 @@ Disc_#_3	1
 DT_PRP$_NNS
 all_their_sets	1
 MD_VB_NNP
-Can_Play_<br />	1
+Can_Play_Disc	1
 Can_Be_Done	1
 NNS_CC_RB
 sets_and_once	1

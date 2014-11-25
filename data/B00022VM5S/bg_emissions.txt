@@ -18,8 +18,6 @@ VBG_VBN
 getting_caught	1
 ``_JJ
 ``_Ninja	2
-,_NN
-,_etc.	1
 ,_IN
 ,_with	1
 FW_:
@@ -38,9 +36,8 @@ and_hokey	1
 MD_RB
 would_highly	1
 VB_DT
-like_this	1
 keep_the	1
-<p>_The	1
+like_this	1
 watch_these	1
 recommend_this	1
 have_a	1
@@ -78,17 +75,8 @@ DT_IN
 those_on	1
 these_with	1
 Each_of	1
--LRB-_NNP
--LRB-_Grant	1
--LRB-_Glenn	1
--LRB-_Sally	1
 NNPS_WRB
 Rangers_when	1
-NNP_-RRB-
-Matrix_-RRB-	1
-MacMillan_-RRB-	1
-MacFarland_-RRB-	1
-Martin_-RRB-	1
 RBR_JJ
 more_light-hearted	1
 more_mature	1
@@ -131,20 +119,17 @@ unless_you	1
 Once_you	1
 ''_.
 ''_.	1
-PRP_VBG
-them_getting	1
+''_,
+''_,	2
 IN_VBG
 while_doing	1
 NNS_WDT
 characters_that	1
 storylines_that	1
-JJ_-LRB-
-funny_-LRB-	1
+,_NN
+,_etc.	1
 PRP$_RB
 Its_certainly	1
-NN_-RRB-
-Magasiva_-RRB-	1
-etc._-RRB-	1
 RB_JJR
 certainly_better	1
 extremely_better	1
@@ -234,10 +219,10 @@ it_'s	1
 IN_JJ
 that_previous	1
 as_many	1
--RRB-_,
--RRB-_,	4
 NNP_CC
 Beauty_and	1
+MacFarland_and	1
+MacMillan_and	1
 Crimson_and	1
 ,_''
 ,_''	3
@@ -255,12 +240,12 @@ only_for	1
 ,_as	1
 ,_especially	1
 ,_not	1
+PRP_VBG
+them_getting	1
 JJ_.
 hokey_.	1
 infectious_.	1
 likeable_.	1
--RRB-_:
--RRB-_;	1
 CC_PRP
 and_they	1
 but_I	1
@@ -272,8 +257,6 @@ have_much	1
 are_n't	1
 RB_VB
 highly_recommend	1
-''_-LRB-
-''_-LRB-	1
 PRP_,
 them_,	1
 VBD_RB
@@ -283,16 +266,17 @@ If_your	1
 with_my	1
 NNS_''
 citizens_''	1
--RRB-_VBP
--RRB-_are	1
+,_WP
+,_who	1
 PRP_VB
 me_say	1
 NNP_,
 Shane_,	1
-Ranger_,	1
-Force_,	1
-Team_,	1
 Zealand_,	1
+Matrix_,	1
+Ranger_,	1
+Team_,	1
+Force_,	1
 Tori_,	1
 CD_JJ
 two_new	1
@@ -332,8 +316,6 @@ DVD_the	1
 show_a	1
 ,_VBG
 ,_making	2
-''_-RRB-
-''_-RRB-	2
 VBN_IN
 joined_by	1
 produced_by	1
@@ -359,12 +341,9 @@ episodes_;	1
 ,_has	1
 ,_``
 ,_``	1
-NNP_-LRB-
-Lothor_-LRB-	1
-Roadshow_-LRB-	1
--LRB-_JJ
--LRB-_much	1
--LRB-_same	1
+NNS_TO
+graphics_to	1
+powers_to	1
 JJ_NNS
 realistic_ponits	1
 similar_lines	1
@@ -376,9 +355,13 @@ previous_seasons	1
 ninja_powers	1
 VBP_.
 appreciate_.	1
-VBZ_IN
-'s_in	1
-is_in	1
+JJ_JJ
+last_few	1
+possible_net	1
+funny_much	1
+cool_interactive	1
+many_other	1
+other_similar	1
 JJ_NNP
 beautiful_Blue	1
 CD_IN
@@ -400,8 +383,8 @@ from_all	1
 ,_and	9
 ,_&	1
 ,_but	4
--RRB-_CC
--RRB-_and	2
+VB_NNP
+be_Power	1
 NN_NNS
 fun_characters	1
 misfit_students	1
@@ -410,6 +393,9 @@ tsunami_cycles	1
 thunder_powers	1
 NNS_NNS
 kids_years	1
+NN_NNP
+gal_Sally	1
+guy_Glenn	1
 :_``
 ;_``	1
 VBG_PRP
@@ -437,8 +423,6 @@ I_would	1
 ,_its	1
 IN_RB
 than_ever	1
-VBN_DT
-maintained_a	1
 VBP_PRP
 know_I	1
 CC_DT
@@ -457,6 +441,8 @@ NNS_VBP
 actors_seem	1
 teenagers_appreciate	1
 cycles_are	1
+NNP_JJ
+Roadshow_same	1
 IN_CD
 from_3	1
 by_two	1
@@ -481,9 +467,6 @@ entertain_.	1
 VBN_.
 failed_.	1
 entertained_.	1
-NNS_TO
-graphics_to	1
-powers_to	1
 JJ_TO
 close_to	1
 enjoyable_to	1
@@ -492,11 +475,11 @@ IN_NNS
 with_characters	1
 of_graphics	1
 like_seasons	1
-WDT_VBP
-that_are	1
 EX_VBZ
 there_is	1
 There_'s	1
+VBN_,
+introduced_,	1
 NNS_JJ
 years_old	1
 shows_such	1
@@ -512,9 +495,11 @@ and_``	1
 or_``	1
 NN_NN
 skateboarder_guy	1
+reference_eps	1
 television_format	1
 PRNS_DVD	1
 porn_reference	1
+guy_Pua	1
 Pua_Magasiva	1
 motocross_guy	1
 Ninja_Storm	3
@@ -548,8 +533,6 @@ best_.	1
 ,_consistent	1
 ,_EX
 ,_there	1
--RRB-_RB
--RRB-_Also	1
 DT_JJ
 this_new	1
 a_ninja	1
@@ -570,11 +553,10 @@ made_the	1
 '_in	1
 NN_:
 academy_-	1
+Magasiva_;	1
 menu_-	1
 ._''
 ._''	1
-VBN_-RRB-
-introduced_-RRB-	1
 NNS_CD
 seasons_one	1
 JJ_JJR
@@ -609,11 +591,13 @@ hit_with	1
 quality_on	1
 lot_of	2
 series_over	1
-<p>_Once	1
 eps_after	1
+DVD_unless	1
 fun_while	1
-NNPS_''
-Rangers_''	3
+NNP_VBP
+Martin_are	1
+VBN_DT
+maintained_a	1
 VBP_IN
 realize_that	1
 NNS_IN
@@ -630,11 +614,8 @@ parallels_it	1
 NN_CC
 picture_and	1
 cgi_and	1
-NN_-LRB-
-guy_-LRB-	2
-DVD_-LRB-	1
-gal_-LRB-	1
-reference_-LRB-	1
+WDT_VBP
+that_are	1
 TO_VB
 to_like	1
 to_have	1
@@ -646,7 +627,6 @@ to_say	1
 to_keep	1
 to_entertain	1
 NN_CD
-<p>_Three	1
 season_2	1
 season_3	1
 NN_VBZ
@@ -675,15 +655,11 @@ definitely_not	1
 not_only	1
 as_well	1
 First_off	1
-,_WP
-,_who	1
 NN_VBP
 time_have	1
 WDT_VBD
 which_were	1
 that_made	1
--LRB-_IN
--LRB-_unless	1
 DT_JJS
 the_best	2
 this_newest	1
@@ -691,9 +667,11 @@ DT_JJR
 the_younger	1
 a_better	1
 the_lighter	1
+''_FW
+''_ex	1
 NN_RB
-<p>_Highly	1
 show_very	1
+etc._Also	1
 PRP_RB
 it_very	1
 They_then	1
@@ -701,8 +679,6 @@ DT_,
 this_,	1
 VBG_JJ
 using_ninja	1
-VB_NNP
-be_Power	1
 NN_JJ
 surfer_loving	1
 VBZ_DT
@@ -727,6 +703,7 @@ Time_Force	1
 Glenn_MacMillan	1
 New_Zealand	1
 Village_Roadshow	1
+Lothor_Grant	1
 ABC_Family	1
 Mighty_Morphin	1
 Blue_Ranger	1
@@ -748,8 +725,6 @@ and_are	1
 VB_PRP
 let_me	1
 combat_them	1
--LRB-_FW
--LRB-_ex	1
 PRP_DT
 they_all	1
 it_a	1
@@ -780,9 +755,8 @@ JJS_NN
 newest_DVD	1
 VBN_TO
 picked_to	1
--LRB-_NN
--LRB-_Pua	1
--LRB-_eps	1
+NNPS_''
+Rangers_''	3
 CC_NNP
 and_Navy	1
 and_Tori	1
@@ -790,12 +764,9 @@ CC_NNS
 and_graphics	1
 NN_RBR
 lot_more	1
-JJ_JJ
-other_similar	1
-last_few	1
-many_other	1
-possible_net	1
-cool_interactive	1
+VBZ_IN
+'s_in	1
+is_in	1
 ,_WDT
 ,_which	1
 CD_TO

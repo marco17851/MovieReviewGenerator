@@ -2,6 +2,11 @@ VBZ_NNS_IN
 permits_feelings_of	1
 VB_JJ_TO
 be_able_to	1
+IN_PRP$_NN
+upon_his_back	1
+on_their_part	1
+of_your_seat	1
+in_her_flight	1
 CC_DT_NN
 and_the_acting	1
 and_an_opposition	1
@@ -9,8 +14,6 @@ CC_RB_NNP
 and_soon_Wells	1
 RB_DT_JJ
 Not_a_top	1
--RRB-_IN_DT
--RRB-_of_a	1
 VBP_DT_NN
 'm_a_fan	1
 DT_VBZ_RB
@@ -36,9 +39,8 @@ NN_PRP_VBP
 film_I_have	1
 PRP$_VBG_NNS
 his_acting_abilites	1
-TO_VB_PRP
-to_aid_her	1
-to_bring_him	1
+NNS_IN_NNP
+abilities_of_Robert	1
 NNS_IN_PRP$
 minds_of_its	1
 NN_PRP_VBD
@@ -79,6 +81,8 @@ this_role_helped	1
 DT_NN_VBZ
 this_movie_is	1
 those_sleeper_hits	1
+NNP_VBP_PRP$
+Ant_have_their	1
 PRP$_NN_CC
 her_escape_and	1
 VBD_NNP_POS
@@ -91,6 +95,8 @@ PRP_VBN_IN
 you_involved_in	1
 JJ_TO_VB
 able_to_achieve	1
+NNP_,_NN
+Kemp_,_navigator	1
 VBP_IN_PRP$
 are_at_their	1
 VBZ_RB_CD
@@ -114,21 +120,16 @@ IN_PRP_RB
 that_I_just	1
 VBZ_IN_NNP
 turns_from_James	1
-NNP_-RRB-_,
-Paul_-RRB-_,	1
-Kemp_-RRB-_,	1
 PRP$_NN_NN
 their_shore_leave	1
-NNP_-RRB-_.
-Tattoo_-RRB-_.	1
 VBP_PRP$_NN
 have_their_shore	1
--RRB-_,_NN
--RRB-_,_navigator	1
+POS_NNP_.
+'s_Tattoo_.	1
 RB_,_RB
 alone_,_thereby	1
-NNP_,_WP
-Hays_,_who	1
+NN_VBD_VB
+role_helped_bring	1
 NN_,_WP
 temptress_,_who	1
 PRP_VBD_PRP
@@ -145,8 +146,6 @@ suprised_at_the	1
 seen_in_a	1
 typecast_as_this	1
 involved_in_the	1
-VB_-LRB-_DT
-hide_-LRB-_the	1
 NNP_,_VBN
 Wells_,_played	1
 CC_VBZ_PRP
@@ -198,8 +197,6 @@ a_fan_of	1
 the_craft_of	1
 the_location_in	1
 the_acting_on	1
--RRB-_,_JJ
--RRB-_,_weary	1
 PRP$_NN_RB
 her_objective_alone	1
 RB_VBN_WRB
@@ -216,6 +213,11 @@ JJS_NNS_MD
 Most_people_will	1
 ,_JJ_JJ
 ,_realistic_sci-fi	1
+NNP_NNP_NNP
+Jack_Morris_Martin	1
+Morris_Martin_Kemp	1
+Rebecca_Alexandra_Paul	1
+Manny_Adam_Ant	1
 NN_,_TO
 yacht_,_to	1
 VBZ_RB_RB
@@ -262,6 +264,8 @@ NN_VBG_DT
 billiarder_paying_a	1
 PRP$_NNP_NN
 his_Cockney_shipmate	1
+POS_VB_DT
+'s_hide_the	1
 PRP_MD_RB
 I_ca_n't	1
 she_will_not	1
@@ -292,6 +296,8 @@ at_their_best	1
 in_his_best	1
 PRP$_NN_.
 her_flight_.	1
+NNP_''_IN
+Tattoo_''_of	1
 CC_PRP_VB
 and_it_get	1
 NN_NNS_DT
@@ -307,6 +313,7 @@ DT_JJ_,
 an_energetic_,	1
 NNP_NNP_VBP
 Adam_Ant_are	1
+Adam_Ant_have	1
 JJ_IN_JJ
 mad_from_own	1
 JJS_NN_PRP
@@ -331,11 +338,8 @@ pacing_,_but	1
 wit_,_and	1
 PRP_VBZ_DT
 It_has_a	1
-IN_PRP$_NN
-upon_his_back	1
-on_their_part	1
-of_your_seat	1
-in_her_flight	1
+''_IN_DT
+''_of_a	1
 JJS_JJ_NN
 best_deadpan_manner	1
 JJ_NNS_NN
@@ -366,8 +370,6 @@ IN_NN_NNP
 of_scriptor_James	1
 VBZ_DT_JJS
 is_the_best	1
-NNP_-RRB-_VBP
-Ant_-RRB-_have	1
 WDT_VBZ_VBN
 that_is_engineered	1
 NN_IN_EX
@@ -404,6 +406,8 @@ the_stolen_data	1
 DT_NNP_NNP
 an_Adam_Ant	1
 Both_Martin_Kemp	1
+NN_RBR_JJ
+action_more_known	1
 NNP_:_DT
 Pacifica_:_The	1
 VBN_NNS_VBN
@@ -416,17 +420,19 @@ technology_mogul_,	1
 VBN_NN_IN
 financed_development_of	1
 NNP_NNP_,
-Grace_Jones_,	1
+Alexandra_Paul_,	1
 Morgan_Wells_,	1
+Grace_Jones_,	1
 Robert_Hays_,	1
+Martin_Kemp_,	1
 WDT_VBZ_JJ
 which_contains_encrypted	1
 DT_NN_.
 this_film_.	1
 POS_PRP_VBN
 's_you_involved	1
--LRB-_DT_JJ
--LRB-_the_original	1
+VB_DT_JJ
+hide_the_original	1
 RB_VB_PRP
 n't_say_I	1
 RB_RB_JJ
@@ -473,14 +479,6 @@ IN_PRP$_JJ
 of_its_outer	1
 for_his_made-him-rich	1
 of_his_harsh	1
-NNP_NNP_-LRB-
-Jack_Morris_-LRB-	1
-JJ_NN_-LRB-
-sci-fi_action_-LRB-	1
-POS_NNP_-RRB-
-'s_Tattoo_-RRB-	1
-NN_NNP_-LRB-
-shipmate_Manny_-LRB-	1
 VBG_JJ_NNP
 luring_naive_Jack	1
 NN_POS_VBZ
@@ -499,6 +497,7 @@ has_financed_development	1
 CC_NN_CC
 and_freedom_but	1
 NN_NNP_NNP
+shipmate_Manny_Adam	1
 scriptor_James_Robinson	1
 director_Erik_Fleming	1
 VBD_VB_RP
@@ -550,8 +549,9 @@ several_actors_in	1
 ,_CC_NN
 ,_and_neophtye	1
 ,_and_savoury	1
-NNS_IN_NNP
-abilities_of_Robert	1
+TO_VB_PRP
+to_aid_her	1
+to_bring_him	1
 JJ_CC_DT
 lovely_and_the	1
 VBD_IN_.
@@ -742,8 +742,6 @@ played_in_his	1
 tattooed_upon_his	1
 NNP_NN_CC
 Ant_lover_and	1
-POS_VB_-LRB-
-'s_hide_-LRB-	1
 VBZ_JJ_CC
 is_good_and	1
 VBP_VBN_IN
@@ -752,6 +750,8 @@ NNP_NNP_NN
 Adam_Ant_lover	1
 PRP$_JJ_NN
 his_harsh_treatment	1
+JJ_NN_RBR
+sci-fi_action_more	1
 NNS_,_CC
 characters_,_and	1
 CC_PRP_VBD
@@ -765,31 +765,20 @@ weapon_'s_implementation	1
 tycoon_'s_yacht	1
 VBN_TO_VB
 engineered_to_translocate	1
-NNP_NNP_-RRB-
-Alexandra_Paul_-RRB-	1
-Adam_Ant_-RRB-	1
-Martin_Kemp_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Adam_Ant	1
--LRB-_Martin_Kemp	1
--LRB-_Alexandra_Paul	1
 VBD_JJ_NNS
 were_several_actors	1
 RB_VBD_RB
 probably_did_n't	1
 FW_FW_VBN
 ipso_facto_ruled	1
-NNP_''_-RRB-
-Tattoo_''_-RRB-	1
 VB_DT_NNS
 translocate_the_minds	1
-,_NNP_-LRB-
-,_Rebecca_-LRB-	1
 NN_NN_IN
 book_background_of	1
 plot_line_of	1
 budget_film_as	1
 ,_NNP_NNP
+,_Rebecca_Alexandra	1
 ,_Morgan_Wells	1
 WP_VBZ_VBN
 who_has_financed	1
@@ -822,35 +811,28 @@ and_neophtye_director	1
 ,_ipso_facto	1
 EX_VBD_JJ
 there_were_several	1
-''_-RRB-_IN
-''_-RRB-_of	1
 NN_CC_VBZ
 freedom_but_understands	1
--LRB-_RBR_JJ
--LRB-_more_known	1
 CC_DT_VBD
 and_this_was	1
 IN_PRP_VBD
 that_I_knew	1
 CC_JJ_NN
 but_meagre_development	1
--RRB-_VBP_PRP$
--RRB-_have_their	1
-NN_VBD_VB
-role_helped_bring	1
+NNP_,_WP
+Hays_,_who	1
 RB_JJ_NNP
 wryly_devilish_Wells	1
 RBR_JJ_NN
 more_known_round	1
-NN_-LRB-_RBR
-action_-LRB-_more	1
 IN_DT_RB
 as_a_wryly	1
 PRP_IN_EX
 it_as_there	1
-NN_,_NNP
-mistress_,_Rebecca	1
-mogul_,_Morgan	1
+NN_CC_NN
+escape_and_freedom	1
+NNP_,_JJ
+Paul_,_weary	1
 WRB_PRP_VBZ
 how_it_ends	1
 CC_NNP_NNP
@@ -873,12 +855,9 @@ RB_PRP_VBD
 Perhaps_he_was	1
 NNS_NN_VBG
 powers_billiarder_paying	1
-NN_CC_NN
-escape_and_freedom	1
-NNP_-LRB-_NNP
-Rebecca_-LRB-_Alexandra	1
-Manny_-LRB-_Adam	1
-Morris_-LRB-_Martin	1
+NN_,_NNP
+mistress_,_Rebecca	1
+mogul_,_Morgan	1
 RB_VBN_IN
 unjustly_typecast_as	1
 VBD_CD_IN

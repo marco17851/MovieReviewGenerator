@@ -64,8 +64,10 @@ then_,	1
 n't_,	1
 Anyway_,	1
 Well_,	1
-NN_-RRB-
-singer_-RRB-	1
+RB_.
+instead_.	1
+horribly_.	1
+there_.	1
 VBP_,
 mean_,	1
 IN_VB
@@ -167,7 +169,7 @@ POS_NN
 's_Addiction	1
 's_face	1
 :_NNP
-..._<br />	1
+..._Poor	1
 TO_NN
 to_charm	1
 PRP_VBD
@@ -320,15 +322,11 @@ IN_JJ
 in_Much	1
 of_great	1
 as_free	1
-FW_PRP
-<br />_I	1
 NNP_CC
 Hoon_and	1
 Shannon_and	1
 NNP_CD
 September_27	1
-NNP_-LRB-
-Hoon_-LRB-	1
 FW_VBP
 i_do	1
 TO_RB
@@ -418,12 +416,7 @@ and_really	1
 or_just	1
 and_never	1
 FW_FW
-<br />_<br />	2
 et_al.	1
-RB_.
-instead_.	1
-horribly_.	1
-there_.	1
 PRP$_NN
 his_hair	1
 their_audience	1
@@ -502,8 +495,6 @@ chains_,	1
 VBP_WRB
 know_how	1
 mean_when	1
--RRB-_VBD
--RRB-_did	1
 PRP_DT
 me_the	1
 VBD_TO
@@ -690,6 +681,8 @@ VB_VBN
 have_gotten	1
 have_been	1
 be_labeled	1
+RB_VBZ
+really_does	1
 NNP_MD
 Hoon_would	1
 VBP_PRP$
@@ -868,8 +861,8 @@ VBD_PRP
 thought_they	1
 saved_me	1
 gave_me	1
-RB_VBZ
-really_does	1
+NNP_JJ
+Hoon_lead	1
 VBD_VBD
 enjoyed_were	1
 NN_,
@@ -971,6 +964,7 @@ NN_``
 song_``	1
 NN_VBD
 hoon_was	1
+singer_did	1
 hair_cut	1
 gig_was	1
 recording_was	1
@@ -1077,9 +1071,6 @@ Chains_Unplugged	1
 R.I.P_Shannon	1
 Paper_Scratcher	1
 Soak_The	1
-<br />_Poor	1
-<br />_Luckily	1
-<br />_Shannon	1
 VBG_RB
 performing_live	1
 NN_PRP$
@@ -1096,7 +1087,6 @@ as_much	2
 quite_good	1
 VB_PRP
 see_them	2
-<br />_I	1
 RB_VBP
 now_have	1
 highly_recommend	1
@@ -1117,8 +1107,6 @@ always_been	1
 NNP_VBD
 'd_downloaded	1
 Hoon_was	1
--LRB-_JJ
--LRB-_lead	1
 NN_''
 porcupine_''	1
 Rain_''	2
@@ -1136,8 +1124,6 @@ really_was	1
 effectively_ended	1
 VBN_NNP
 seen_Blind	1
-FW_RB
-<br />_Anyway	1
 VBP_NN
 live_music	1
 CC_NNP

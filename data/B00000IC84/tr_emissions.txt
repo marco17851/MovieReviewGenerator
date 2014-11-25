@@ -3,6 +3,7 @@ are_of_poor	1
 CD_NNS_POS
 Six_Pants_'	1
 NN_IN_CD
+DVD_with_six	1
 Song_Of_Six	1
 RB_DT_JJ
 hopefully_the_first	1
@@ -29,22 +30,18 @@ NNS_CC_VBP
 videos_and_need	1
 VBP_IN_DT
 are_in_the	1
-CD_NN_-RRB-
-one_disc_-RRB-	1
+:_RB_DT
+--_hopefully_the	1
 NNS_VBP_JJ
 shorts_are_great	1
 RB_CD_JJ
 about_fifty_different	1
 ,_CC_VB
 ,_and_avoid	1
-NN_NN_-LRB-
-video/audio_quality_-LRB-	1
 JJ_IN_JJ
 first_of_many	1
 CC_DT_NN
 and_a_copy	1
--LRB-_IN_CD
--LRB-_with_six	1
 JJR_NN_IN
 better_quality_by	1
 RB_VBN_CD
@@ -52,6 +49,8 @@ n't_released_55	1
 DT_NN_IN
 a_copy_of	1
 A_Song_Of	1
+CD_NN_:
+one_disc_--	1
 DT_NNP_NNS
 the_Stooges_films	1
 DT_NNP_NNP
@@ -89,6 +88,7 @@ NN_IN_DT
 MALICE_IN_THE	1
 DISORDER_IN_THE	1
 Malice_In_The	1
+quality_although_the	1
 copy_of_the	1
 POS_,_``
 '_,_`	2
@@ -100,8 +100,6 @@ JJ_NN_.
 own_video_.	1
 VB_DT_JJ
 avoid_these_cheap	1
--LRB-_IN_DT
--LRB-_although_the	1
 CC_VB_DT
 and_avoid_these	1
 RB_VB_PRP
@@ -151,8 +149,8 @@ VBN_DT_``
 released_an_`	1
 ,_NNP_RB
 ,_Columbia_still	1
-NNS_NN_-LRB-
-Stooges_DVD_-LRB-	1
+NNP_NN_RB
+Tristar_collection_yet	1
 DT_JJS_NN
 the_funniest_Stooge	1
 ''_NNS_NN
@@ -161,8 +159,8 @@ NN_NN_CC
 recording_equipment_and	1
 VBP_JJ_,
 are_great_,	1
-RB_-RRB-_.
-ever_-RRB-_.	1
+NNS_RB_.
+comedies_ever_.	1
 DT_NNS_,
 these_shorts_,	1
 NNP_NNP_NN
@@ -185,14 +183,14 @@ A_SONG_,	1
 BRIDELESS_GROOM_,	1
 CC_VBP_JJ
 and_need_different	1
-NNP_POS_RBS
-Shemp_'s_most	1
+NNS_NN_IN
+Stooges_DVD_with	1
 RB_JJ_:
 quite_good_--	1
 VBN_CD_IN
 released_55_of	1
--RRB-_:_RB
--RRB-_--_hopefully	1
+NNP_POS_RBS
+Shemp_'s_most	1
 NNS_,_CC
 shorts_,_but	1
 videos_,_and	1
@@ -201,8 +199,6 @@ DT_NN_,
 THE_PALACE_,	1
 JJ_,_DT
 wrong_,_all	1
-:_RB_DT
---_hopefully_the	1
 RB_CC_RB
 once_or_twice	1
 IN_DT_,
@@ -217,8 +213,6 @@ IN_NN_NN
 with_recording_equipment	1
 JJS_NN_NNS
 funniest_Stooge_comedies	1
-JJ_JJ_NN
-famous_short_MALICE	1
 JJ_''_NNS
 official_'_Stooges	1
 VBN_VBN_IN
@@ -237,8 +231,8 @@ VBN_IN_JJR
 released_in_better	1
 VBP_RB_VB
 Do_n't_get	1
-NN_-RRB-_:
-disc_-RRB-_--	1
+JJ_JJ_NN
+famous_short_MALICE	1
 DT_NNS_VBP
 the_results_are	1
 these_shorts_are	1
@@ -259,8 +253,8 @@ on_DVD_.	1
 NNP_POS_,
 Palace_'_,	1
 Court_'_,	1
-IN_NNP_,
-with_Columbia_,	1
+NN_NN_IN
+video/audio_quality_although	1
 ,_NNP_NNP
 ,_SING_A	2
 DT_JJ_IN
@@ -302,9 +296,6 @@ NN_RB_.
 collection_yet_.	1
 PRP_VBN_VBN
 they_been_released	1
-NN_-LRB-_IN
-quality_-LRB-_although	1
-DVD_-LRB-_with	1
 ,_CC_VBP
 ,_but_have	1
 JJ_NNS_,
@@ -335,6 +326,8 @@ is_one_of	1
 `_Sing_A	1
 RB_,_CC
 twice_,_but	1
+IN_NNP_,
+with_Columbia_,	1
 ,_CC_NNP
 ,_but_Shemp	1
 ,_and_BRIDELESS	1
@@ -370,8 +363,8 @@ JJR_IN_NNS
 better_that_videos	1
 NN_:_``
 set_--_`	1
-NNP_NN_RB
-Tristar_collection_yet	1
+NN_:_RB
+disc_--_hopefully	1
 PRP_JJ_,
 me_wrong_,	1
 NNP_,_CC
@@ -409,8 +402,6 @@ IN_NNP_RB
 by_Columbia_once	1
 DT_JJ_NN
 the_public_domain	1
-NNS_RB_-RRB-
-comedies_ever_-RRB-	1
 IN_JJ_.
 of_many_.	1
 RB_VBZ_RB

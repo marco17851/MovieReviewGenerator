@@ -19,25 +19,23 @@ RB_IN_DT
 away_from_the	1
 NNP_RB_PRP
 BET_recently_it	1
--RRB-_RB_VBZ
--RRB-_also_makes	1
 ''_IN_NNP
 ''_from_MTV	1
+CD_RB_VBZ
+1990-91_also_makes	1
 RB_JJ_JJ
 So_many_quotable	1
 really_long_funny	1
 VBG_TO_DT
 relating_to_the	1
-IN_CD_-RRB-
-around_1990-91_-RRB-	1
+CC_TO_NN
+or_to_someone	1
 NN_,_JJR
 movie_,_more	1
 NNP_VBZ_DT
 This_is_a	1
 IN_VBG_DT
 After_seeing_the	1
-FW_FW_NNP
-<br />_<br />_MJ	1
 DT_NN_IN
 The_parade_of	1
 the_movie_on	1
@@ -149,8 +147,6 @@ VBG_TO_VB
 searching_to_buy	1
 CC_PRP_VBP
 but_I_think	1
-CC_TO_NN
-or_to_someone	1
 ,_PRP_VBZ
 ,_it_takes	1
 CC_PRP_VBZ
@@ -171,8 +167,6 @@ IN_NN_FW
 as_h_***	1
 JJ_NNS_VBG
 good_memories_relating	1
--LRB-_NNP_IN
--LRB-_VJ_around	1
 TO_NN_WP
 to_someone_who	1
 ,_CC_PRP
@@ -188,6 +182,8 @@ RB_IN_``
 much_as_``	1
 JJ_JJ_NN
 long_funny_skit	1
+IN_CD_RB
+around_1990-91_also	1
 JJ_CD_POS
 early_90_'s	1
 EX_VBZ_RB
@@ -243,18 +239,15 @@ Though_it_was	1
 if_you_were	1
 IN_NNP_NNP
 with_Rosi_O	1
+from_MTV_VJ	1
 NN_:_PRP
 movie_..._It	1
-IN_NNP_-LRB-
-from_MTV_-LRB-	1
 WP_VBZ_DT
 who_wants_a	1
 NNP_NNP_VBP
 Ed_Lover_are	1
 IN_``_NNP
 as_``_Car	1
-CD_-RRB-_RB
-1990-91_-RRB-_also	1
 VB_DT_NN
 recommend_this_movie	1
 buy_a_copy	1
@@ -276,8 +269,6 @@ CC_``_NNP
 and_``_Duff	1
 VBN_IN_DT
 contained_in_the	1
-FW_NNP_NNP
-<br />_MJ_This	1
 NNS_RB_VBZ
 stars_actually_enhances	1
 NN_,_CC
@@ -353,6 +344,9 @@ CD_WRB_VBP
 54_where_are	1
 PRP_VBD_RP
 it_brought_back	1
+VBD_DT_JJ
+was_a_young	1
+were_a_young	1
 CD_POS_.
 90_'s_.	1
 IN_RB_JJ
@@ -363,14 +357,11 @@ VBG_DT_NN
 seeing_the_movie	1
 NN_,_RB
 pair_,_very	1
-NNP_-LRB-_NNP
-MTV_-LRB-_VJ	1
 VB_TO_VB
 claim_to_know	1
 VBP_EX_VBZ
 think_there_is	1
-VBD_DT_JJ
-was_a_young	1
-were_a_young	1
+NNP_NNP_IN
+MTV_VJ_around	1
 JJ_IN_NN
 funny_as_h	1

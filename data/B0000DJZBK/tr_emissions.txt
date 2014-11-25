@@ -7,8 +7,6 @@ RBS_JJ_NN
 most_welcome_addition	1
 POS_``_UH
 '_``_Oops	1
-DT_NN_-LRB-
-a_try_-LRB-	1
 LS_VB_JJR
 i_find_better	1
 NNP_MD_VB
@@ -57,15 +55,12 @@ NN_PRP_VBZ
 dance/video_she_whishes	1
 PRP_RB_WP
 you_just_what	1
-NN_EX_VBZ
-<p>_There_is	1
 NN_PRP_VBP
 DVD_you_get	1
 dvd_I_'ve	1
 course_you_'ve	1
 price_I_have	1
 way_I_am	1
-<p>_I_go	1
 fun_they_express	1
 VB_IN_NNS
 see_for_yourselves	1
@@ -260,8 +255,6 @@ you_get_from	1
 you_pay_for	1
 they_express_in	1
 I_go_over	1
-NN_-LRB-_RB
-try_-LRB-_twice	1
 VBG_IN_PRP
 considering_that_I	1
 JJ_NNS_RB
@@ -294,8 +287,6 @@ MD_VB_NN
 will_have_emphasis	1
 ,_CC_IN
 ,_and_if	1
-VB_PRP_VBZ
-<p>_It_is	1
 :_RB_RB
 ..._way_too	1
 JJ_NN_MD
@@ -313,8 +304,6 @@ IN_PRP$_NNS
 in_their_videos	1
 VB_PRP_VBP
 mention_you_do	1
-NN_WP_PRP
-<p>_What_you	1
 NNS_,_WDT
 moves_,_which	1
 VBZ_DT_RBS
@@ -441,8 +430,6 @@ make_you_a	1
 get_it_the	1
 NNP_NNP_NNS
 Janet_Jackson_moves	1
-JJ_._-RRB-
-right_?_-RRB-	1
 VBZ_RB_RB
 's_only_about	1
 PRP_IN_DT
@@ -507,9 +494,6 @@ RB_CC_RB
 ago_and_still	1
 NNS_PRP_DT
 ones_she_all	1
-RB_._-RRB-
-twice_!_-RRB-	1
-too_._-RRB-	1
 IN_PRP_WP
 of_us_who	1
 CD_NNS_RB
@@ -518,8 +502,6 @@ PRP_VBP_VBD
 you_'ve_had	1
 VB_VBN_IN
 be_achieved_at	1
-FW_PRP_VBP
-<br />_I_find	1
 CC_JJ_NNS
 or_professional_dancers	1
 and_other_interuptions	1
@@ -594,6 +576,8 @@ formal_dance_traning	1
 enough_body_coordination	1
 last_dance_segment	1
 teeny_booper_singer/dance	1
+NN_RB_.
+try_twice_!	1
 VBN_RB_RB
 bought_so_far	1
 NNS_VBZ_NN
@@ -669,8 +653,6 @@ DT_NN_VBN
 this_video_used	1
 CC_CD_IN
 and_one_by	1
-VB_TO_VB
-like_to_learn	1
 VBD_RB_CD
 bought_almost_10	1
 VBZ_JJ_,
@@ -952,6 +934,8 @@ the_dancers_to	1
 ,_imo_.	1
 PRP_RB_''
 it_again_''	1
+DT_NN_RB
+a_try_twice	1
 JJ_CC_PRP
 cheesy_and_I	1
 NNP_NNPS_''
@@ -1148,8 +1132,8 @@ worth_a_shot	1
 NN_,_RB
 DVD_,_too	1
 image_,_not	1
--LRB-_PRP_VBP
--LRB-_I_feel	1
+VB_TO_VB
+like_to_learn	1
 VBZ_DT_NN
 is_no_mirror	1
 is_no_way	1
@@ -1368,8 +1352,6 @@ video_used_may	1
 ,_Christina_Aguilera	1
 ,_Britney_Spears	1
 ,_Ms._Landon	1
--LRB-_NNP_RB
--LRB-_Tina_even	1
 NN_IN_NN
 month_in_dance	1
 lot_of_information	1
@@ -1450,18 +1432,12 @@ is_one_of	1
 IN_NN_,
 for_ballroom_,	1
 of_information_,	1
--LRB-_RB_.
--LRB-_twice_!	1
 VB_NN_IN
 have_emphasis_on	1
 NNS_VBZ_,
 titles_indicates_,	1
 NNS_TO_VB
 beginners_to_learn	1
--LRB-_NN_JJ
--LRB-_Nothing_worthwhile	1
-FW_FW_PRP
-<br />_<br />_I	1
 NNS_RB_DT
 instructions_not_the	1
 NN_NNS_.
@@ -1513,8 +1489,6 @@ IN_RB_.
 over_again_.	1
 IN_RB_,
 If_not_,	1
-NN_._-RRB-
-video_._-RRB-	1
 IN_CC_VB
 in_and_possess	1
 VB_PRP_IN

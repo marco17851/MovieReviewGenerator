@@ -107,8 +107,6 @@ later_``	1
 PRP_VBZ
 it_lets	1
 It_is	1
--RRB-_.
--RRB-_.	1
 NNS_MD
 people_would	1
 NNP_CD
@@ -146,8 +144,6 @@ NNP_.
 Vietnam_.	1
 ``_VBD
 ``_won	1
-FW_FW
-<br />_<br />	1
 PRP$_NN
 his_lesson	1
 his_counsel	1
@@ -279,8 +275,6 @@ EX_VBZ
 There_is	1
 NNPS_TO
 Americans_to	1
-FW_NNP
-<br />_Charles	1
 VBN_DT
 fed_the	1
 NN_NN
@@ -289,10 +283,8 @@ CD_JJR
 three_more	1
 RP_RB
 out_just	1
--LRB-_DT
--LRB-_the	1
-IN_-LRB-
-over_-LRB-	1
+,_WDT
+,_which	1
 ``_RBS
 `_most	1
 IN_NNS
@@ -366,6 +358,8 @@ RBS_VBN
 most_trusted	1
 NN_VBZ
 documentary_includes	1
+VBD_.
+thought_.	1
 VBD_VBG
 were_gearing	1
 ''_NN
@@ -394,8 +388,6 @@ gearing_up	1
 VBZ_DT
 is_no	1
 lets_the	1
-VBD_-RRB-
-thought_-RRB-	1
 NNP_NNP
 Bland_Niagara	1
 Drang_Valley	1
@@ -438,8 +430,6 @@ VBG_NNP
 including_Colonel	1
 CC_NNS
 and_facts	1
-,_WDT
-,_which	1
 IN_DT
 on_both	1
 of_the	8
@@ -447,7 +437,7 @@ as_a	1
 on_this	1
 that_the	1
 from_the	1
-over_the	1
+over_the	2
 after_the	1
 in_any	1
 by_the	1

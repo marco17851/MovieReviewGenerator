@@ -1,9 +1,7 @@
 VBZ_NNS_IN
 features_biographies_of	1
-DT_NN_-LRB-
-A_VIETNAM_-LRB-	1
--LRB-_NN_NN
--LRB-_HELICOPTER_CREWCHIEF	1
+NN_VBD_DT
+crane_introduced_a	1
 CC_DT_NN
 and_the_fact	1
 DT_WP_VBP
@@ -44,6 +42,8 @@ seen_this_film	1
 seen_this_movie	1
 VBD_IN_NNS
 was_in_subtitles	1
+NNS_DT_VBZ
+lovers_this_is	1
 VBG_PRP_IN
 loosing_them_through	1
 CC_RB_IN
@@ -70,9 +70,8 @@ JJ_,_JJ
 young_,_ordinary	1
 NN_CC_WP
 WW_and_what	1
--LRB-_VBN_IN
--LRB-_used_by	1
 NN_VBZ_NNP
+Front_plays_Paul	1
 WAR_IS_FOUGHT	1
 NNS_IN_PRP
 boots_as_they	1
@@ -107,8 +106,8 @@ to_their_seats	1
 to_my_eyes	1
 RB_VBP_DT
 ONLY_IMAGINE_THE	1
-PRP_-LRB-_VB
-it_-LRB-_let	1
+VBZ_PRP$_NNS
+exhorts_his_students	1
 DT_NN_VBD
 all_dialouge_was	1
 This_film_won	1
@@ -127,6 +126,8 @@ VBG_JJ_IN
 seeing_many_of	1
 VBD_``_IN
 wrote_``_As	1
+NN_NNP_,
+GUNNER_VETERAN_,	1
 DT_CD_VBG
 each_one_loosing	1
 VBP_JJ_NN
@@ -138,8 +139,6 @@ glorious_to_wear	1
 enthusiastic_to_serve	1
 DT_NNS_VBN
 the_comments_passed	1
-IN_NNP_-RRB-
-of_Claire_-RRB-	1
 VBD_IN_RB
 were_like_back	1
 VBD_RP_DT
@@ -168,8 +167,6 @@ do_n't_mind	1
 -_powerful_,	1
 WP_JJ_IN
 what_many_of	1
-NN_-RRB-_VBD
-crane_-RRB-_introduced	1
 WDT_NNP_NNP
 WHAT_THESE_WWI	1
 RB_DT_NN
@@ -182,21 +179,20 @@ VBZ_IN_NNS
 arrives_at_times	1
 IN_NNS_.
 in_movies_.	1
+in_subtitles_.	1
 IN_NNS_,
 of_times_,	1
 NNP_VBD_.
 Paul_died_.	1
-NN_IN_FW
-<br />_For_me	1
 VBD_VBN_TO
 were_pinned_to	1
 IN_CD_CC
 between_1914_and	1
 in_1929_and	1
--RRB-_VBD_IN
--RRB-_complained_about	1
 PRP$_NN_NN
 his_school_master	1
+JJR_''_NN
+better_''_someone	1
 IN_DT_CD
 in_the_1930	1
 OF_A_TWO	1
@@ -204,9 +200,8 @@ of_the_1930	1
 of_the_9,000,000	1
 VBD_JJ_WRB
 were_awestruck_when	1
-JJ_NN_-RRB-
-revolving_crane_-RRB-	1
-Western_Front_-RRB-	1
+NNP_WP_VBD
+Aires_who_was	1
 NN_''_NN
 BOOK_''_FORM	1
 NN_VBZ_JJR
@@ -227,6 +222,7 @@ of_how_old	1
 JJ_NNS_RB
 last_words_just	1
 NNP_VBD_IN
+Claire_complained_about	1
 French_advanced_on	1
 VBZ_RB_VB
 does_n't_seem	1
@@ -234,6 +230,8 @@ PRP_VBD_DT
 I_was_a	1
 DT_RBR_JJ
 a_more_realistic	1
+DT_NNS_DT
+no_subtitles_the	1
 VBN_IN_DT
 used_by_a	1
 FASCINATED_WITH_THE	1
@@ -243,8 +241,6 @@ CD_NN_NN
 TWO_DISC_SET	1
 CC_VBZ_RB
 and_leaves_enthusiastically	1
--RRB-_CC_PRP
--RRB-_but_I	1
 IN_VBG_NN
 on_recreating_war	1
 JJ_NN_MD
@@ -255,8 +251,6 @@ for_my_students	1
 at_your_feet	1
 of_his_comrades	1
 of_our_fathers/grandfathers	1
-NN_-RRB-_VBZ
-Front_-RRB-_plays	1
 PRP_,_NN
 it_,_s	1
 NN_WDT_VBZ
@@ -302,12 +296,16 @@ you_want_to	1
 I_want_to	1
 NN_NN_NN
 trench_warfare.The_story	1
+DISC_SET_BLU-RAY	1
+VIETNAM_HELICOPTER_CREWCHIEF	1
+AGE_MAN_OR	1
 MAN_OR_WOMAN	1
 ANY_AGE_MAN	1
-AGE_MAN_OR	1
 OR_ANY_AGE	1
 CC_JJS_IN
 and_most_of	1
+NN_NNS_VBN
+war_scenes_used	1
 NN_NNS_VBD
 film_makers_did	1
 PRP_VBZ_VBN
@@ -319,9 +317,9 @@ how_glorious_to	1
 ,_CC_JJ
 ,_and_several	1
 NN_NNS_VBP
-art_lovers_<br />	1
 school_mates_join	1
 CC_NN_IN
+AND_DVD_IN	1
 AND_UGLINESS_IN	1
 NN_NNS_VBZ
 world_cultures_is	1
@@ -331,8 +329,6 @@ IN_NN_WRB
 in_class_when	1
 NNP_''_.
 Picture_''_.	1
-PRP_VBP_VBD
-I_think_was	1
 VBD_IN_JJ
 was_in_black	1
 RB_IN_DT
@@ -342,14 +338,14 @@ even_on_the	1
 back_in_the	1
 CC_JJ_.
 and_white_.	1
--RRB-_VBD_DT
--RRB-_introduced_a	1
 VBZ_PRP_.
 moves_me_.	1
 NNP_IN_NNP
 ANNIVERSARY_OF_THIS	1
 DT_CD_WP
 the_9,000,000_who	1
+NN_NN_NNP
+DOOR_GUNNER_VETERAN	1
 ''_IN_NNP
 ''_IN_EUROPE	1
 PRP_VBD_IN
@@ -406,8 +402,6 @@ CC_JJ_VBD
 and_several_cried	1
 POS_NNS_VBD
 's_lives_ended	1
-VBZ_PRP_-LRB-
-knows_it_-LRB-	1
 VBD_IN_CD
 won_in_1929	1
 ended_between_1914	1
@@ -415,8 +409,6 @@ NNP_VBD_NNP
 REALLY_WENT_THROUGH	1
 DT_JJS_IN
 the_greatest_of	1
-NN_-RRB-_NNP
-GUNNER_-RRB-_VETERAN	1
 NNP_NNP_NNP
 Erich_Maria_Remarque	1
 THROUGH_LIVING_AND	1
@@ -449,6 +441,7 @@ think_was_the	1
 ,_yet_you	1
 NNS_VBN_IN
 comments_passed_by	1
+scenes_used_by	1
 strains_involved_with	1
 NNP_CC_DT
 Ayres_&_the	1
@@ -480,16 +473,10 @@ RB_RB_IN
 Not_only_that	1
 DT_JJ_CD
 the_top_5	1
-NN_EX_VBP
-<br />_There_are	1
-NNS_-LRB-_DT
-subtitles_-LRB-_the	1
 NNS_WRB_PRP
 parents_when_I	1
 :_PRP$_NNS
 ;_my_students	1
--LRB-_WP_VBD
--LRB-_who_was	1
 RB_JJ_CC
 straight_forward_but	1
 TO_DT_NN
@@ -515,19 +502,20 @@ that_makes_no	1
 CC_JJ_NNS
 and_emotional_strains	1
 DT_NN_NN
-The_DVD_version	1
-the_realistc_brutality	1
 the_DVD_version	1
 any_film_collection	1
+A_VIETNAM_HELICOPTER	1
+The_DVD_version	1
+the_realistc_brutality	1
 a_war_film	1
+MD_VB_CC
+would_care_but	1
 VBZ_JJ_WRB
 is_good_when	1
 CC_RB_DT
 and_definately_the	1
 IN_NNP_IN
 in_France_while	1
--RRB-_VBZ_NNP
--RRB-_plays_Paul	1
 VB_PRP$_NN
 serve_his_nation	1
 VBN_IN_NNP
@@ -550,8 +538,6 @@ NN_VBZ_VBG
 year_is_tying	1
 NN_NN_WDT
 war_film_that	1
-VBP_DT_VBZ
-<br />_this_is	1
 MD_IN_PRP
 must_if_you	1
 NN_VBZ_VBN
@@ -565,16 +551,14 @@ PRP$_NN_.
 their_country_.	1
 TO_NNP_.
 to_WWI_.	1
--LRB-_VB_RB
--LRB-_let_alone	1
 NN_MD_RB
 bombing_might_just	1
 NN_IN_WP
 reviewer_below_who	1
 VBZ_DT_MD
 is_a_must	2
-VB_PRP$_NNS
-brush_your_nerves	1
+NN_NNS_DT
+art_lovers_this	1
 DT_NNP_VBD
 the_French_advanced	1
 VBD_NNS_TO
@@ -593,6 +577,7 @@ CC_CD_.
 and_1918_.	1
 NN_NN_CC
 HELICOPTER_CREWCHIEF_AND	1
+SET_BLU-RAY_AND	1
 DT_JJ_,
 a_young_,	1
 DT_NN_WRB
@@ -609,6 +594,8 @@ wear_a_uniform	1
 follow_a_pair	1
 JJS_IN_DT
 greatest_of_all	1
+''_NN_IN
+''_someone_by	1
 PRP_VBD_VBG
 I_remembered_seeing	1
 ,_JJ_NN
@@ -621,14 +608,12 @@ PRP$_JJ_NNS
 your_other_reviewers	1
 JJS_NNS_IN
 best_films_of	1
-NN_-RRB-_IN
-DVD_-RRB-_IN	1
 NNP_VBZ_CC
 Paul_enlists_and	1
--RRB-_IN_``
--RRB-_IN_``	1
 VBZ_VBN_RP
 's_cracked_up	1
+VB_PRP$_NNS
+brush_your_nerves	1
 NN_NNS_PRP
 type_movies_you	1
 VBP_DT_NN
@@ -673,6 +658,9 @@ enthusiastically_to_serve	1
 ``_NN_''
 ``_BOOK_''	1
 ``_enemy_''	1
+VBG_IN_DT
+living_on_the	1
+going_through_a	1
 DT_MD_IN
 a_must_if	1
 VBP_JJ_.
@@ -681,8 +669,6 @@ JJ_WRB_PRP
 good_when_you	1
 FW_FW_RB
 me_i_just	1
-NNP_-RRB-_VBD
-Claire_-RRB-_complained	1
 RB_RB_VBN
 so_tightly_scripted	1
 IN_WP_VBD
@@ -700,8 +686,6 @@ VB_IN_NN
 serve_in_battle	1
 VB_DT_NNS
 re-iterate_the_comments	1
-VBZ_PRP$_NNS
-exhorts_his_students	1
 VBZ_TO_NN
 brings_to_life	1
 CC_NN_NNP
@@ -710,9 +694,8 @@ JJ_NNP_VBN
 so-called_Academy_granted	1
 VB_DT_PRP
 be_all_it	1
-VBG_IN_DT
-living_on_the	1
-going_through_a	1
+NN_CC_VBZ
+set_and_features	1
 WP_POS_NNS
 who_'s_lives	1
 VBG_DT_NN
@@ -731,8 +714,8 @@ NNS_''_IN
 TRENCHES_''_IN	1
 TO_NN_DT
 to_life_the	1
-NNP_-LRB-_WP
-Aires_-LRB-_who	1
+PRP_VBP_VBD
+I_think_was	1
 VB_IN_DT
 buy_for_any	1
 NN_VBZ_DT
@@ -814,8 +797,6 @@ NNP_NNP_,
 Paul_Baumer_,	1
 THIS_MOVIE_,	1
 FOUGHT_TECHNICALLY_,	1
-NNS_-RRB-_.
-subtitles_-RRB-_.	1
 DT_NN_,
 a_teacher_,	1
 the_nation_,	1
@@ -828,24 +809,15 @@ the_volume_.	1
 the_camara_.	1
 all_time_.	1
 another_age_.	1
--LRB-_DT_JJ
--LRB-_the_original	1
 RB_IN_PRP
 even_though_it	1
 NN_IN_WRB
 master_on_how	1
-VB_DT_JJ
-<br />_The_anti	1
-<br />_The_final	1
-IN_NNS_-RRB-
-in_subtitles_-RRB-	1
 RB_VB_PRP
 n't_watch_it	1
 just_think_it	1
 RB_RB_JJ
 quite_straight_forward	1
-''_-LRB-_NN
-''_-LRB-_someone	1
 IN_JJ_NN
 of_Western_Front	1
 before_Western_Front	1
@@ -864,7 +836,6 @@ WAR_FILM_IS	1
 NNP_NNP_VBZ
 Lew_Ayres_portrays	1
 WAYS_IT_IS	1
-<p>_This_is	1
 IN_DT_NN
 of_the_DVD	1
 on_the_battlefield	1
@@ -892,9 +863,11 @@ on_the_set	1
 through_a_phase	1
 JJ_NN_VBD
 poor_sound_did	1
+revolving_crane_introduced	1
 JJ_NN_VBZ
 final_scene_is	1
 cine-matic_quality_reigns	1
+Western_Front_plays	1
 VBG_IN_PRP$
 flocking_at_your	1
 NN_NN_VBN
@@ -914,16 +887,12 @@ NN_CC_RB
 time_and_definately	1
 IN_PRP$_JJ
 of_your_other	1
-NNP_NNP_-LRB-
-Lew_Aires_-LRB-	1
 CD_IN_DT
 22_during_the	1
 NNS_,_RB
 scratches_,_even	1
 NNP_NNP_.
 Lewis_Milestone_.	1
-NNS_-LRB-_VBN
-scenes_-LRB-_used	1
 VB_NNP_NNP
 SEE_THIS_MOVIE	1
 CC_PRP_RB
@@ -985,8 +954,8 @@ no_claims_to	1
 ,_ect_,	1
 ,_NN_.
 ,_ect_.	1
-VB_-RRB-_CC
-care_-RRB-_but	1
+VB_CC_PRP
+care_but_I	1
 IN_``_NN
 IN_``_BOOK	1
 VBZ_JJR_''
@@ -1017,8 +986,6 @@ DT_JJ_NNP
 the_so-called_Academy	1
 NNS_DT_CD
 soldiers_each_one	1
-JJR_''_-LRB-
-better_''_-LRB-	1
 NNP_NN_NNS
 Hero_type_movies	1
 ,_NNS_,
@@ -1055,9 +1022,8 @@ went_through_.	1
 RB_IN_NNP
 just_outside_Hollywood	1
 NNS_DT_JJ
+subtitles_the_original	1
 deaths_no_famous	1
--RRB-_NNP_,
--RRB-_VETERAN_,	1
 ,_NN_IN
 ,_s_in	1
 IN_IN_PRP
@@ -1092,8 +1058,11 @@ DT_NNS_IN
 the_eyes_of	1
 DT_NNS_VBG
 the_girls_flocking	1
-NNS_VBP_DT
-lovers_<br />_this	1
+IN_PRP_VBP
+as_we_look	1
+so_you_do	1
+if_you_want	1
+as_they_are	1
 PRP_VBP_DT
 I_believe_this	1
 JJ_NN_TO
@@ -1173,6 +1142,8 @@ JJS_NN_NN
 best_war_movie	1
 VBP_VBN_DT
 've_seen_this	1
+IN_NNP_VBD
+of_Claire_complained	1
 IN_VBG_IN
 with_living_on	1
 NN_VBD_RB
@@ -1211,9 +1182,6 @@ NNS_,_DT
 reviewers_,_a	1
 feet_,_the	1
 vocals_,_all	1
-NN_-LRB-_NN
-SET_-LRB-_BLU-RAY	1
-VIETNAM_-LRB-_HELICOPTER	1
 VBZ_VBN_TO
 is_devoted_to	1
 JJ_NN_CC
@@ -1241,8 +1209,6 @@ NN_VBN_IN
 book_written_by	1
 WOMAN_FASCINATED_WITH	1
 lecturing_led_by	1
-NN_NN_-LRB-
-DISC_SET_-LRB-	1
 IN_FW_FW
 For_me_i	1
 CC_NN_RB
@@ -1260,8 +1226,6 @@ VBP_VBN_RB
 are_taken_back	1
 VBP_NNS_,
 are_scratches_,	1
--LRB-_NN_IN
--LRB-_someone_by	1
 TO_VB_DT
 to_see_every	1
 to_be_all	1
@@ -1279,7 +1243,6 @@ great_episodes_eg	1
 NN_IN_DT
 part_of_the	1
 quality_of_the	1
-<br />_For_those	1
 sound_throughout_the	1
 someone_by_the	1
 uniform_with_the	1
@@ -1356,8 +1319,6 @@ WRB_NNP_VBD
 when_Paul_died	1
 DT_JJS_NN
 the_best_war	1
-MD_VB_-RRB-
-would_care_-RRB-	1
 IN_VBG_JJ
 while_seeing_many	1
 IN_RB_IN
@@ -1376,6 +1337,8 @@ WATCHED_THIS_MOVIE	1
 CLASSIC_WWI_WAR	1
 VBP_VBG_IN
 am_going_through	1
+NN_IN_``
+DVD_IN_``	1
 CC_PRP_VBP
 and_I_think	1
 and_you_are	1
@@ -1419,8 +1382,6 @@ NNS_VBP_IN
 comrades_die_in	1
 VBN_TO_VB
 Compared_to_todays	1
-NN_NN_-RRB-
-DOOR_GUNNER_-RRB-	1
 TO_VB_NN
 to_be_anything	1
 to_todays_war	1
@@ -1429,8 +1390,6 @@ to_todays_war	1
 ,_a_real	1
 VB_NN_RB
 be_anything_else	1
-NN_NNS_-LRB-
-war_scenes_-LRB-	1
 PRP_VBZ_JJ
 it_becomes_easy	1
 it_is_dated	1
@@ -1469,8 +1428,6 @@ NN_VBZ_.
 film_is_.	1
 NN_VBZ_,
 movie_begins_,	1
--LRB-_NN_CC
--LRB-_BLU-RAY_AND	1
 PRP$_NNS_IN
 your_nerves_as	1
 PRP_VBP_VBN
@@ -1492,8 +1449,6 @@ IN_DT_IN
 for_all_that	1
 NNS_VBG_IN
 girls_flocking_at	1
-CC_NN_-RRB-
-AND_DVD_-RRB-	1
 IN_JJ_NNS
 by_various_soldiers	1
 NNS_IN_DT
@@ -1520,8 +1475,6 @@ IN_IN_DT
 out_of_the	1
 NN_CC_VBP
 film_and_are	1
-DT_NNS_-LRB-
-no_subtitles_-LRB-	1
 NNS_TO_VB
 claims_to_be	1
 characters_to_follow	1
@@ -1530,8 +1483,8 @@ students_to_follow	1
 VBZ_IN_DT
 reigns_amongst_the	1
 is_of_another	1
-NN_CC_VBZ
-set_and_features	1
+NNP_NNP_WP
+Lew_Aires_who	1
 NNS_RB_DT
 words_just_the	1
 NN_''_VBZ
@@ -1552,6 +1505,8 @@ PRP_RB_VBZ
 it_still_moves	1
 IN_PRP_VBZ
 that_it_becomes	1
+VBZ_PRP_VB
+knows_it_let	1
 CC_JJ_NN
 and_cine-matic_quality	1
 and_poor_sound	1
@@ -1567,6 +1522,8 @@ RBR_JJ_NN
 more_realistic_view	1
 WP_VBP_RB
 who_have_not	1
+PRP_VB_RB
+it_let_alone	1
 VBD_IN_DT
 complained_about_the	1
 advanced_on_the	1
@@ -1626,8 +1583,3 @@ was_the_third	1
 did_a_tremendous	1
 introduced_a_new	1
 was_the_1st	1
-IN_PRP_VBP
-as_we_look	1
-so_you_do	1
-if_you_want	1
-as_they_are	1

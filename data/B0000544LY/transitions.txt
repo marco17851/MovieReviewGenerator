@@ -147,7 +147,7 @@ IN	2
 NN
 VBG	5
 VBD	5
-VBN	1
+VB	2
 ,	43
 ''	7
 VBP	1
@@ -161,7 +161,7 @@ NN	15
 POS	2
 .	50
 TO	16
-PRP	7
+PRP	6
 RB	3
 :	12
 NNS	9
@@ -169,10 +169,9 @@ NNP	4
 ``	2
 WRB	1
 CC	21
-CD	1
-IN	70
+VBN	1
+IN	67
 MD	5
-VB	2
 FW
 .	1
 ,
@@ -305,7 +304,7 @@ VBZ	8
 :	1
 NNS	5
 ,	8
-NNP	24
+NNP	23
 VB
 PRP$	1
 VBN	3
@@ -318,7 +317,7 @@ NN	1
 ,	1
 .	4
 TO	5
-PRP	11
+PRP	10
 RB	2
 :	1
 NNS	1

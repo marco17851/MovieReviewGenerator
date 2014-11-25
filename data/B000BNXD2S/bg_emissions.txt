@@ -7,8 +7,6 @@ for_everyone	1
 ,_if	2
 JJ_IN
 familiar_with	1
-FW_DT
-<br />_All	1
 VBG_VBG
 considering_paying	1
 NNP_IN
@@ -36,6 +34,8 @@ looks_good	1
 is_raw	1
 VBD_CC
 was_and	1
+''_DT
+''_this	1
 DT_IN
 All_in	1
 NNP_VBZ
@@ -53,8 +53,6 @@ moving_,	1
 JJ_CC
 First_and	1
 good_and	1
-VBP_DT
-Am_The	1
 JJ_CD
 early_87	1
 CD_,
@@ -116,12 +114,8 @@ it_'s	1
 itself_is	1
 it_is	1
 it_culminates	1
--RRB-_,
--RRB-_,	1
 CC_,
 But_,	1
--LRB-_DT
--LRB-_the	1
 RB_IN
 away_from	1
 not_for	1
@@ -130,6 +124,8 @@ there_for	1
 VBG_IN
 looking_for	1
 rolling_as	1
+``_PRP
+``_I	1
 ,_RB
 ,_then	1
 ,_rather	1
@@ -157,9 +153,8 @@ IN_JJ
 in_early	1
 NNP_,
 Way_,	1
+LPD_,	1
 Truth_,	1
-FW_FW
-<br />_<br />	3
 PRP$_NN
 their_music	1
 CC_VBG
@@ -176,15 +171,11 @@ big-budget_,	1
 raw_,	1
 intimate_,	1
 fine_,	1
-''_-RRB-
-''_-RRB-	1
 VBN_IN
 Recorded_in	1
 WDT_RB
 that_rarely	1
 that_just	1
--RRB-_DT
--RRB-_this	1
 NNS_:
 shows_;	1
 NNS_TO
@@ -239,8 +230,6 @@ VBG_DT
 capturing_the	1
 PRP_MD
 you_must	1
-NNP_-RRB-
-LPD_-RRB-	1
 ,_DT
 ,_this	2
 ,_the	1
@@ -251,17 +240,16 @@ VB_,
 see_,	1
 NNS_VBG
 things_moving	1
-NN_-LRB-
-everyone_-LRB-	1
+VB_.
+buy_.	1
 CC_VB
 and_love	1
 VBP_VBG
 're_considering	1
 're_looking	1
-``_PRP
-``_I	1
-VB_.
-buy_.	1
+VBP_DT
+Am_The	1
+have_the	1
 NN_NN
 home_video	1
 camera_work	1
@@ -270,10 +258,8 @@ camera_angle	1
 epic_set	1
 video_concert	1
 stage_affair	1
-NNP_''
-Luna_''	1
-Asylum_''	1
-Light_''	1
+POS_JJ
+'_live	1
 NNS_RB
 Twins_really	1
 zooms_here	1
@@ -321,6 +307,7 @@ whole_.	1
 NN_IN
 ditty_from	1
 aspect_of	1
+everyone_of	1
 angle_for	1
 angle_in	1
 glimpse_into	1
@@ -356,8 +343,6 @@ RB_RB
 So_much	1
 hardly_ever	1
 mostly_there	1
--LRB-_IN
--LRB-_of	1
 NNP_POS
 Dots_'	1
 DT_JJR
@@ -399,9 +384,6 @@ already_familiar	1
 rather_intimate	1
 completely_amazing	1
 very_good	1
-FW_JJ
-<br />_First	1
-<br />_Great	1
 PRP_DT
 it_all	1
 JJR_.
@@ -417,8 +399,6 @@ JJS_NN
 earliest_music	1
 RP_IN
 off_for	1
-VBP_-LRB-
-have_-LRB-	1
 VBN_TO
 seen_to	1
 VB_RB
@@ -429,8 +409,10 @@ CC_NNP
 and_Echo	1
 JJ_JJ
 odd_little	1
-POS_JJ
-'_live	1
+NNP_''
+Luna_''	1
+Asylum_''	1
+Light_''	1
 VB_RP
 start_off	1
 VBZ_TO

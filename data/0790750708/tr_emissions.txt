@@ -1,5 +1,6 @@
 NNP_VBZ_TO
 Carter_has_to	1
+Caine_returns_to	1
 Jack_decides_to	1
 Carter_travels_to	1
 Sheriff_seems_to	1
@@ -60,6 +61,8 @@ actors_and_stays	1
 ;_maybe_a	1
 PRP_TO_NNS
 us_to_places	1
+PRP_NNP_VBZ
+them_Carter_is	1
 RB_JJS_IN
 very_best_of	1
 VB_NN_JJ
@@ -68,17 +71,8 @@ VBP_,_IN
 are_,_as	1
 ,_IN_PRP$
 ,_since_his	1
-FW_FW_NNP
-<br />_<br />_Charlie	1
-<br />_<br />_Well	1
-<br />_<br />_Hodges	1
-<br />_<br />_Great	1
-<br />_<br />_Michael	3
-<br />_<br />_Edgy	1
-<br />_<br />_Carter	2
-<br />_<br />_Caine	3
-FW_FW_NNS
-<br />_<br />_Loads	1
+NNS_DT_VBP
+structures_all_seem	1
 NNS_IN_VBG
 hopes_after_reading	1
 rows_of_decaying	1
@@ -102,6 +96,7 @@ shotgun_he_uses	1
 pistol_he_uses	1
 anything_he_does	1
 someone_it_is	1
+anything_he_seems	1
 fact_it_contains	1
 CC_VB_TO
 but_wish_to	1
@@ -115,8 +110,8 @@ fan_you_are	1
 night_I_'ve	1
 scene_we_see	1
 moment_we_start	1
+day_I_count	1
 actor_I_love	1
-<p>_I_have	1
 anything_I_'ve	1
 NN_RB_VBZ
 vengence_finally_arrives	1
@@ -138,10 +133,9 @@ one_does_n't	1
 NNP_:_VBZ
 Woo_-_gives	1
 CD_NN_DT
-6.3_<p>_This	2
-NNP_-RRB-_CC
-Bridge_-RRB-_but	2
-Caine_-RRB-_and	1
+70s_practice_no	1
+NN_RB_VBG
+remake_comparatively_speaking	1
 NNP_NN_PRP
 Caine_fan_you	1
 London_boss_he	1
@@ -166,7 +160,6 @@ similarities_in_their	1
 performances_in_his	1
 NN_PRP_VBD
 time_I_saw	1
-<p>_I_had	1
 something_he_had	1
 moment_he_stepped	1
 way_they_made	1
@@ -177,6 +170,7 @@ dialogue_I_sampled	1
 claim_he_had	1
 movie_I_had	1
 NN_RB_VBN
+Connection_coincidentally_released	1
 film_ever_made	1
 WRB_RB_PRP
 how_badly_it	1
@@ -192,8 +186,6 @@ VBZ_FW_FW
 is_michael_caine	1
 NN_:_RB
 commentary_..._then	1
-JJ_-LRB-_CC
-first_-LRB-_but	1
 PRP_''_NNP
 us_'_A	1
 ,_IN_``
@@ -229,8 +221,6 @@ found_the_end	1
 was_a_kid	1
 played_a_part	1
 was_a_suicide	1
-RB_-LRB-_``
-ever_-LRB-_`	1
 JJ_NNS_POS
 tight_men_'s	1
 JJ_NN_IN
@@ -280,6 +270,7 @@ casual_interest_in	1
 industrial_landscape_of	1
 singular_journey_of	1
 industrial_town_on	1
+same_year_of	1
 minimalist_approach_in	1
 perverse_sort_of	1
 favorite_part_in	1
@@ -359,8 +350,8 @@ DT_NNP_CC
 No_L.A._And	1
 both_London_and	1
 the_Newcastle_and	1
--LRB-_NNP_POS
--LRB-_Brian_'s	1
+WRB_VBP_RB
+Why_do_n't	1
 DT_NN_VBN
 a_prologue_set	1
 the_character_protrayed	1
@@ -485,6 +476,7 @@ VBG_JJ_IN
 being_stylish_by	1
 DT_CD_.
 this_one_.	2
+another_one_.	1
 DT_NN_VBP
 the_film_are	2
 the_shore_are	2
@@ -536,6 +528,7 @@ NNP_,_NN
 Caine_,_director	1
 JJ_NNS_NNP
 early_1970s_Newcastle	1
+memorable_characters_Harry	1
 VBN_CC_VBN
 written_and_created	1
 written_and_played	1
@@ -563,16 +556,14 @@ for_audience_sympathy	1
 than_film_nudity	1
 CD_CD_,
 1971_one_,	1
--RRB-_:_PRP
--RRB-_;_he	1
+NN_VBG_VBZ
+element_missing_is	1
 JJ_''_NNS
 colorful_''_characters	1
 DT_,_NN
 that_,_mate	1
 that_,_nothing	1
 all_,_business	1
--LRB-_``_PRP
--LRB-_`_You	1
 FW_,_''
 File_,_''	1
 JJS_NN_RB
@@ -582,8 +573,9 @@ day_someone_may	1
 end_scene_will	1
 NNS_JJ_.
 means_necessary_!	1
-TO_VB_-LRB-
-to_leave_-LRB-	1
+NNS_JJ_,
+hands_dirty_,	1
+years_old_,	1
 NN_,_PRP
 dope_,_he	1
 anybody_,_it	1
@@ -611,8 +603,6 @@ NNP_NNPS_.
 Marching_Girls_?	1
 VBZ_NNP_NN
 is_Micha_l	1
-''_-RRB-_CC
-''_-RRB-_and	1
 RB_VB_VBN
 also_be_praised	1
 n't_get_paid	1
@@ -640,17 +630,11 @@ n't_bother_remaking	1
 VBP_JJ_JJ
 wear_white_high	1
 are_many_memorable	1
-RB_JJ_-RRB-
-very_good_-RRB-	1
-not_likely_-RRB-	1
 PRP$_NN_NN
 his_brother_drink	1
 his_brother.his_investigation	1
 his_childhood_home	1
 his_lead_actor	1
--LRB-_FW_.
--LRB-_er_.	1
--LRB-_eg_.	1
 PRP_VBZ_NNS
 it_'s_actors	1
 JJ_:_DT
@@ -667,8 +651,6 @@ gets_what_he	1
 is_what_he	1
 :_RB_JJ
 ;_almost_nihilistic	1
-VBZ_-RRB-_,
-Comes_-RRB-_,	1
 PRP_,_NNS
 him_,_people	1
 NNP_CC_NN
@@ -742,25 +724,15 @@ brutal_people_inside	2
 few_years_ago	1
 VBG_''_RB
 affirming_''_here	1
-NNP_:_FW
-Line_:_<br />	1
-VBG_NN_IN
-underlining_feeling_of	1
-seeking_revenge_for	1
-moving_rocking-chair_of	1
-making_alot_of	1
-Ordering_beer_in	1
-CD_-RRB-_.
-71_-RRB-_.	1
-one_-RRB-_.	1
+JJ_IN_JJS
+boring_at_most	1
+POS_FW_.
+'s_eg_.	1
 VBP_TO_DT
 relate_to_the	1
 lead_to_the	1
 VB_CC_WRB
 succeed_but_when	1
-``_VB_''
-`_draw_'	1
-``_investigate_''	1
 DT_VBZ_IN
 That_'s_because	1
 that_'s_because	1
@@ -842,6 +814,7 @@ NNP_VBZ_IN
 Carter_sets_about	1
 Carter_reads_on	1
 Jack_discovers_that	1
+Caine_travels_from	1
 Jack_asks_for	1
 Carter_is_in	1
 Caine_stars_as	1
@@ -850,6 +823,8 @@ VB_DT_.
 like_this_.	1
 ._._.
 ._._?	1
+NNP_:_.
+Ekland_..._.	1
 VBN_RP_NN
 mobbed_up_pornographer	1
 VBP_PRP_IN
@@ -874,8 +849,6 @@ PRP_NN_.
 it_today_.	1
 CC_VB_CC
 and_have_either	1
-PRP$_NN_WP
-his_cowhand_who	1
 NN_WRB_PRP$
 revenge_when_his	1
 VBD_PRP_.
@@ -900,12 +873,8 @@ POS_NNS_RB
 ,_is_its	2
 ,_CC_WP
 ,_but_what	1
-JJS_NN_,
-greatest_performance_,	1
 IN_VBN_NN
 with_added_material	1
-NN_IN_-RRB-
-screen_by_-RRB-	1
 NNP_VBD_VBN
 Carter_had_gotten	1
 VBD_VB_IN
@@ -913,8 +882,6 @@ was_remade_as	1
 was_remade_with	1
 :_``_VB
 ..._``_Get	1
-:_CD_NN
--_6.3_<p>	2
 CC_VBD_DT
 and_opened_the	1
 and_kept_the	1
@@ -934,10 +901,8 @@ n't_be_able	1
 n't_find_noir	1
 finally_be_able	1
 really_be_disturbing	1
-JJS_VBZ_DT
-least_is_the	1
-,_IN_CD
-,_as_one	1
+NNP_DT_VBG
+Eckland_a_cutting	1
 WP_MD_VB
 Who_Would_Be	1
 who_'ll_snap	1
@@ -974,10 +939,12 @@ they_'re_guilty	1
 PRP_VBP_EX
 we_realize_there	1
 I_wish_there	1
+''_:_PRP
+''_;_he	1
 CD_DT_NNP
 1970_the_British	1
--LRB-_CC_DT
--LRB-_but_that	1
+VBZ_JJR_IN
+is_more_like	1
 VB_RB_CC
 sit_back_and	1
 CC_DT_NNP
@@ -992,13 +959,8 @@ that_may_be	1
 this_might_be	1
 VBN_JJ_IN
 been_easy_for	1
-FW_DT_JJ
-<br />_A_brutal	1
-<br />_A_ruthless	1
 NNP_TO_DT
 London_to_the	1
-NNS_NNP_,
-1970s_Newcastle_,	1
 NNS_IN_IN
 rolls_along_at	1
 60s_except_for	1
@@ -1117,6 +1079,7 @@ the_beginning_of	1
 The_story_of	1
 the_idea_that	1
 An_anti-hero_without	1
+a_remake_although	1
 a_scene_about	1
 an_injection_of	1
 an_inch_of	1
@@ -1196,8 +1159,6 @@ a_lifetime_as	1
 a_coincidence_that	1
 an_example_of	1
 a_shift_in	1
-CD_WDT_MD
-one_that_will	1
 ''_VBZ_JJ
 ''_is_breathtaking	1
 ,_CC_VBP
@@ -1259,20 +1220,6 @@ and_honest_-	1
 ``_The_Italian	3
 ``_The_Limey	1
 ``_The_Long	1
-NN_,_JJ
-realism_,_other	1
-brother_,_dead	1
-hi-definition_,_slow	1
-hearted_,_cold-blooded	1
-thing_,_naked	1
-hope_,_few	1
-climax_,_terrific	1
-fire_,_absent	1
-body_,_plumpish	1
-ashy_,_wet	1
-side_,_rare	1
-suicide_,_needless	1
-cast_,_grandiose	1
 ,_NN_RB
 ,_nothing_else	1
 ,_half_ruthlessly	1
@@ -1285,10 +1232,9 @@ have_Carter_make	1
 RB_DT_NNP
 much_a_Chandler	1
 Even_the_Northern	1
-NN_NN_DT
-cult_classic_no	1
--LRB-_TO_WDT
--LRB-_to_which	1
+VBD_RB_IN
+was_inexplicably_about	1
+played_apparently_on	2
 RB_CD_POS
 very_70_'s	1
 NNS_CC_PRP
@@ -1303,8 +1249,6 @@ Caine_and_long	1
 Newcastle_and_now	1
 VBD_IN_CC
 worked_with_and	1
-PRP$_NN_-RRB-
-his_niece_-RRB-	1
 RB_VB_WRB
 n't_see_how	1
 n't_know_why	1
@@ -1321,8 +1265,6 @@ And_while_his	1
 ,_his_portrayal	1
 NNS_CC_RBS
 standards_and_most	1
-FW_VBN_PDT
-<br />_Given_such	1
 NN_VBD_NN
 presence_did_sort	1
 criminal_themed_film	1
@@ -1391,13 +1333,12 @@ injection_of_drugs	1
 world_of_wolves	1
 alot_of_people	1
 movie_without_disruptions	1
-<p>_At_times	1
+fear_in_terms	1
 use_of_locations	1
 number_of_scenes	1
 bunch_of_extras	1
 tapestry_of_lies	1
 minimum_of_flecks	1
-fear_in_terms	1
 NN_IN_NNP
 affection_for_Bernie	1
 hatred_like_Michael	1
@@ -1433,6 +1374,7 @@ realization_that_Jack	1
 backdrop_for_Carter	1
 hometown_of_Newcastle	1
 location_of_Newcastle	1
+screen_by_Ted	1
 feature_with_Point	1
 performance_of_Michael	1
 remake_with_Stallone	1
@@ -1451,11 +1393,6 @@ brother_in_England	1
 likes_of_Ian	1
 number_of_Eastwood	1
 home_of_Newcastle	1
--LRB-_CD_-RRB-
--LRB-_1971_-RRB-	1
--LRB-_1967_-RRB-	1
--LRB-_1.74:1_-RRB-	1
--LRB-_1972_-RRB-	1
 RB_,_VBZ
 though_,_is	1
 around_,_ignores	1
@@ -1467,6 +1404,8 @@ the_truest_actors	1
 the_hottest_girls	2
 the_greatest_actors	3
 the_coldest_eyes	1
+NN_DT_NNP
+picturesque_the_Tyne	2
 RB_JJ_,
 highly_original_,	1
 uniformly_superb_,	1
@@ -1534,8 +1473,9 @@ as_much_as	1
 as_casually_as	1
 So_even_if	1
 as_well_with	1
-IN_NN_-RRB-
-in_Anger_-RRB-	1
+NN_WRB_JJ
+matter_how_high	1
+wasteland_where_grim	1
 VBG_DT_JJS
 getting_the_most	1
 being_the_coolest	1
@@ -1548,6 +1488,9 @@ CC_VBZ_PRP$
 and_wears_his	1
 DT_IN_NNP
 that_in_England	1
+CC_JJ_``
+and_sympathetic_``	1
+and_clumsy_``	1
 NN_VBG_DT
 half_drowning_a	1
 mobster_pursuing_a	1
@@ -1588,6 +1531,9 @@ PRP_VBD_NN
 they_made_action	1
 CC_JJ_DT
 and_deep_an	1
+NN_CD_,
+widescreen_1.74:1_,	1
+Man_1972_,	1
 PRP_MD_RB
 you_ca_n't	4
 it_can_ever	1
@@ -1611,10 +1557,10 @@ VBD_,_RB
 died_,_ably	1
 remembered_,_apart	1
 directed_,_also	1
--RRB-_VBP_IN
--RRB-_are_in	1
 ,_IN_WDT
 ,_in_which	1
+VBP_,_PRP
+do_,_it	1
 :_NN_VBZ
 ;_permission_is	1
 --_everything_is	1
@@ -1682,8 +1628,6 @@ RB_VBN_VBN
 ever_been_made	1
 IN_WDT_NNP
 in_which_London	1
-NNP_NN_-LRB-
-Marvin_character_-LRB-	1
 :_RB_VB
 ..._then_enjoy	1
 ..._then_listen	1
@@ -1713,7 +1657,8 @@ at_its_best	1
 VBG_,_IN
 confronting_,_in	1
 ''_,_CC
-''_,_and	4
+'_,_and	1
+''_,_and	5
 VBP_NNS_CC
 add_gimmicks_and	1
 TO_VB_PDT
@@ -1738,8 +1683,9 @@ DT_NNP_VBD
 The_Godfather_arrived	1
 RBR_VBG_NN
 more_demanding_viewer	1
-VB_-LRB-_TO
-leave_-LRB-_to	1
+``_VB_''
+`_draw_'	1
+``_investigate_''	1
 NN_IN_VB
 version_of_Get	1
 effect_in_GET	1
@@ -1793,6 +1739,7 @@ proto-Acid_Jazz_score	1
 same_car_park	1
 rich_film_experience	1
 gritty_music_score	1
+mouthy_landlady_anything	1
 gorgeous_porn_star	1
 difficult_story_line	1
 JJ_NNS_WDT
@@ -1808,10 +1755,6 @@ either_by_starvation	1
 and_of_course	1
 JJ_VBZ_IN
 dangerous_is_that	1
-VBZ_NNP_IN
-features_Caine_in	1
-is_Cain_at	1
-plays_Carter_with	1
 NN_VBZ_CD
 film_evokes_one	1
 gem_features_one	1
@@ -1841,8 +1784,6 @@ as_his_most	1
 at_his_most	1
 FW_VBG_NNS
 caine_asking_questions	1
-NN_-RRB-_IN
-year_-RRB-_of	1
 NN_JJ_CC
 icy_cool_and	1
 flesh_undistorted_either	1
@@ -1852,9 +1793,6 @@ with_pubs_that	1
 NNP_DT_NNP
 London_a_Britt	1
 Late_the_Hero	1
-JJ_NNS_-RRB-
-British_gangsters_-RRB-	1
-other_things_-RRB-	1
 VBZ_NN_MD
 says_irony_may	1
 FW_JJ_PRP
@@ -1888,11 +1826,13 @@ remorse_,_and	1
 release_,_and	1
 mission_,_and	1
 western_,_but	1
+glove_,_and	1
 reputation_,_but	1
 overdose_,_or	1
 dude_,_but	1
 support_,_but	1
 life_,_but	1
+niece_,_but	1
 man_,_but	3
 film_,_but	1
 movie_,_and	1
@@ -1938,15 +1878,15 @@ VBG_NN_DT
 demanding_viewer_these	1
 IN_NNP_WDT
 of_Newcastle_which	2
--RRB-_NNS_IN
--RRB-_stars_as	1
+NNS_VBP_RBR
+dialogs_become_more	1
 CC_PRP$_NNS
 and_his_flaws	1
 and_her_Sisters	1
 and_Her_Sisters	1
 and_his_emotions	1
-WRB_VBP_RB
-Why_do_n't	1
+IN_JJ_DT
+in_particular_the	1
 CC_NNS_WP
 and_gangsters_who	1
 CC_VBZ_JJ
@@ -1973,9 +1913,9 @@ he_recognizes_one	1
 PRP_VBZ_CC
 it_'s_either	1
 he_loves_and	1
-NNP_-RRB-_VBZ
-Caine_-RRB-_travels	1
-Caine_-RRB-_returns	1
+TO_DT_NNS
+to_the_ganglands	1
+to_the_people	1
 TO_DT_NNP
 to_a_Hollywood	1
 CD_IN_PRP
@@ -1994,6 +1934,9 @@ times_a_little	1
 NNP_DT_JJ
 Carter_a_english	1
 Caine_an_international	1
+Moffat_The_Last	1
+Newcastle_a_bleak	1
+Alfie_the_cheeky	1
 VBG_``_VB
 remaking_`_Get	1
 seeing_`_Get	1
@@ -2006,8 +1949,8 @@ time_now_and	1
 stand_out_and	1
 NN_NNP_RB
 horror_Carter_barely	1
-POS_-LRB-_FW
-'s_-LRB-_eg	1
+CD_DT_VBZ
+6.3_This_is	2
 NNS_:_CC
 greatcoats_:_and	1
 films_..._but	1
@@ -2034,14 +1977,15 @@ CC_NN_NNS
 and_film_actors	1
 and_rackmanesque_businessmen	1
 or_gangster_films	1
-PRP_IN_NN
-me_with_horror	1
 JJ_TO_PRP$
 prejudicial_to_your	1
 PRP_IN_WRB
 us_of_how	1
+NNP_NNP_CD
+POINT_BLANK_1967	1
 NNP_NNP_CC
-Michael_Caine_and	2
+Tyne_Bridge_but	2
+Michael_Caine_and	3
 Good_Friday_and	1
 Bernard_Hepton_and	1
 British_MGM_and	1
@@ -2139,6 +2083,7 @@ RB_VBZ_IN
 mainly_shoves_in	1
 NNP_NN_WP
 London_criminal_who	1
+Marvin_character_who	1
 London_mob_who	1
 ,_VBG_NN
 ,_womanizing_hit	1
@@ -2164,8 +2109,8 @@ modern_film-makers_achieve	2
 ,_and_brutal	1
 NN_IN_PRP
 element_in_him	1
+while_before_I	1
 study_as_it	1
-<p>_If_you	1
 display_for_us	1
 history_that_you	1
 film_as_he	1
@@ -2175,8 +2120,8 @@ man_like_him	1
 movie_because_I	1
 godfather_if_you	1
 vicousness_that_he	1
-while_before_I	1
 disgust_as_he	1
+remake_although_I	1
 fact_that_he	1
 sense_throughout_he	1
 aura_about_him	1
@@ -2241,11 +2186,10 @@ wears_his_role	1
 makes_his_living	1
 takes_your_breath	1
 is_its_legacy	1
-IN_CD_CC
-between_six_and	1
 PRP_VBP_,
-I_mean_,	1
+we_do_,	1
 I_watch_,	1
+I_mean_,	1
 I_fear_,	1
 VBP_PRP_VB
 do_you_need	1
@@ -2287,14 +2231,8 @@ VBZ_,_DT
 thinks_,_this	1
 is_,_this	1
 watches_,_a	1
-NNS_NN_-LRB-
-characters_name_-LRB-	1
-JJ_NN_-LRB-
-French_Connection_-LRB-	1
-dismal_remake_-LRB-	1
-anamorphic_widescreen_-LRB-	1
-mouthy_landlady_-LRB-	1
-wonderful_film_-LRB-	1
+NNP_VBP_IN
+Dunham_are_in	1
 RB_:_JJ
 alone_-_cold	1
 NN_NN_CC
@@ -2306,8 +2244,6 @@ plot_movement_or	1
 audience_sympathy_or	1
 location_atmosphere_and	1
 action_film_and	1
--RRB-_WP_VBZ
--RRB-_who_works	1
 LS_VBD_DT
 i_saw_this	1
 VBG_IN_DT
@@ -2318,11 +2254,12 @@ lacking_in_some	1
 working_for_the	1
 wondering_if_this	1
 driving_on_the	1
-taking_on_the	1
+speaking_of_this	1
 dealing_with_a	1
 burning_for_the	1
 Winding_through_the	1
 cheering_for_the	1
+taking_on_the	1
 NN_VBD_,
 comment_was_,	1
 film_remembered_,	1
@@ -2336,10 +2273,12 @@ VBZ_RP_PRP$
 lives_out_his	1
 NNP_NNP_:
 Jack_Carter_;	1
+Britt_Ekland_...	1
 MY_RATING_-	2
-Michael_Caine_;	1
 John_Woo_-	1
+Michael_Caine_;	1
 DR._PHIBES_-	1
+F._Holder_-	1
 Bottom_Line_:	1
 Captain_Kronos_-	1
 NNP_POS_DT
@@ -2347,46 +2286,46 @@ Fuest_'s_THE	1
 Peckinpah_'s_THE	1
 VBZ_NN_WDT
 is_something_that	1
-JJ_TO_PRP
-interesting_to_me	1
+NNS_NN_NNP
+characters_name_Jack	1
 VBG_JJ_NNS
 concerning_British_gangsters	1
 casting_former_crooks	2
 RB_NN_CD
 hardly_distracts.Overall_4/5	1
-NNP_NNP_,
-Britt_Ekland_,	1
-Ian_Hendry_,	1
-<br />_Overall_,	2
-Wolfgang_Suschitzky_,	1
-Point_Blank_,	1
-Chris_Jarmick_,	1
-Richard_Burton_,	1
-<p>_Caine_,	1
-Flash_Gordon_,	1
-Terminal_Man_,	1
-Mike_Hodges_,	5
-Jack_Carter_,	10
-Italian_Job_,	1
-John_Osborne_,	3
-Michael_Caine_,	5
-Benny_Hill_,	1
-Sylvester_Stallone_,	2
-John_Osbourne_,	1
+DT_NN_PRP
+this_movie_I	1
+an_actor_I	1
+a_shotgun_he	1
+the_way_they	1
+the_fact_it	1
+a_film_I	1
+the_moment_he	1
+the_train_he	1
+this_film_he	1
+a_day_I	1
+a_movie_I	1
+the_movie_itself	1
+the_end_he	1
+a_pistol_he	1
+the_DVD_I	1
+a_mov_I	2
+the_moment_we	1
 NNP_NNP_.
 Ian_Hendry_.	2
 Lethal_Weapon_.	1
 Britt_Ekland_.	2
 Roy_Budd_.	1
 My_Lovely_.	2
+Foxy_Brown_.	1
 American_Ending_.	1
 Point_Blank_.	1
 POINT_BLANK_.	1
 Britt_Eklund_.	1
 Cockney_Classic_.	1
+Regan/George_Carter_.	1
 Laurence_Olivier_!	1
 Mona_Lisa_.	1
-<p>_Recommended_.	2
 Jack_Carter_.	4
 Mike_Hodges_.	1
 Michael_Caine_.	5
@@ -2425,9 +2364,11 @@ character_Jack_Carter	1
 cinematographer_Wolfgang_Suschitzky	2
 Author_Ted_Lewis	1
 star_Ian_Hendry	2
+name_Jack_Regan/George	1
 director_Mike_Hodges	4
 way_Michael_Caine	1
 gangster_Jack_Carter	2
+landlady_Rosemarie_Dunham	1
 playwright_John_Osborne	3
 classic_Point_Blank	1
 series_The_Sweeney	1
@@ -2513,8 +2454,6 @@ VBZ_PRP_VBZ
 helps_him_gets	1
 WRB_LS_VBD
 When_i_saw	1
-FW_RB_NN
-<br />_Then_something	1
 JJ_VBP_IN
 stale_stink_of	1
 NN_VBP_NN
@@ -2523,8 +2462,6 @@ TO_PRP$_VBG
 to_his_working	1
 NNP_POS_RB
 Caine_'s_highly	1
-IN_JJ_DT
-in_particular_the	1
 VBG_IN_JJ
 indulging_in_small	1
 ''_CC_RBR
@@ -2584,9 +2521,6 @@ VB_VBN_VBN
 have_been_channelled	1
 IN_``_JJ
 of_``_colorful	1
-FW_FW_NN
-<br />_<br />_Caine/Carter	1
-<br />_<br />_Caine	1
 VBN_PRP_.
 betrayed_him_.	1
 shown_us_.	1
@@ -2596,8 +2530,12 @@ VBZ_NN_NN
 's_cinema_improv	1
 DT_NN_RP
 the_funeral_up	1
-''_:_WP
-''_..._what	1
+VBG_NN_IN
+underlining_feeling_of	1
+seeking_revenge_for	1
+moving_rocking-chair_of	1
+making_alot_of	1
+Ordering_beer_in	1
 NNP_PRP_,
 Caine_himself_,	1
 Carter_himself_,	1
@@ -2627,13 +2565,17 @@ Marvin_character_Walker	1
 VB_NN_,
 be_king_,	1
 GET_CARTER_,	1
-RP_WP_RB
-out_what_exactly	1
-out_what_really	1
+NNP_NN_NNS
+Newcastle_setting_compliments	1
+Lone_gunfighter_rides	1
+London_gansta_movies	1
+Job_etc_stars	1
+Northern_gang_enforcers	1
 DT_NN_DT
 this_film_a	2
 the_way_the	1
 the_viewer_a	1
+the_picturesque_the	2
 NN_VBZ_RP
 wall_breaks_down	1
 investigation_ends_up	1
@@ -2655,9 +2597,6 @@ would_recommend_without	1
 might_expect_from	1
 must_own_for	1
 should_be_in	1
-IN_NNP_-LRB-
-that_Carter_-LRB-	1
-of_Newcastle_-LRB-	1
 VBN_WRB_PRP
 become_when_it	1
 RB_VBP_DT
@@ -2702,14 +2641,16 @@ NNS_VBP_.
 emotions_explode_!	1
 WDT_VBZ_NN
 that_says_irony	1
+VB_TO_WDT
+leave_to_which	1
 JJ_CC_DT
+first_but_that	1
 great_and_the	1
 hard_and_the	1
 Timeless_and_the	1
 PRP_CC_PRP
+him_and_we	1
 it_and_I	1
-NN_VBG_VBZ
-element_missing_is	1
 MD_PRP_VB
 can_you_say	1
 would_they_do	1
@@ -2799,6 +2740,8 @@ the_members_of	1
 these_types_of	1
 DT_IN_VBG
 this_by_casting	2
+DT_IN_VBD
+all_as_was	1
 ,_VBZ_NNP
 ,_drives_Carter	1
 NNP_NNP_``
@@ -2808,11 +2751,7 @@ DT_NNS_VBN
 the_locations_used	1
 the_boys_sent	1
 FW_IN_DT
-<br />_In_the	1
-<br />_After_that	1
-<br />_By_the	1
-<br />_As_the	1
-<br />_At_the	1
+Cookieman108_By_the	1
 JJ_,_IN
 realistic_,_with	1
 dead_,_like	1
@@ -2855,9 +2794,8 @@ CC_VBN_.
 and_overdubbed_!	1
 VB_VBN_JJ
 have_been_easy	1
-PRP_VBP_-RRB-
-we_do_-RRB-	1
-I_suppose_-RRB-	1
+VBD_PRP_VBD
+thought_I_was	1
 CC_WP_RB
 But_what_really	1
 But_what_else	1
@@ -2897,7 +2835,6 @@ market_right_now	1
 commentary_then_frequently	1
 friend_just_as	1
 film_as_well	1
-<p>_So_even	1
 CD_JJ_NN
 one_powerful_moment	1
 One_nice_touch	1
@@ -2907,12 +2844,6 @@ VBP_VBN_DT
 've_seen_this	1
 have_created_an	1
 've_seen_the	1
--LRB-_``_NNP
--LRB-_``_Hannah	1
--LRB-_``_Gambit	1
-NNS_JJ_,
-hands_dirty_,	1
-years_old_,	1
 IN_RB_JJ
 on_so_many	1
 for_similarly_antiheroic	1
@@ -2946,8 +2877,6 @@ movie_,_especially	1
 DT_NNP_WP
 the_Cinematographer_whom	1
 the_Sheriff_who	1
-RB_VBG_-RRB-
-comparatively_speaking_-RRB-	1
 VBP_IN_JJ
 're_in_bad	3
 seem_like_adolescent	1
@@ -2955,17 +2884,14 @@ are_in_current	1
 realize_that_several	1
 JJ_NNS_VBG
 high_marks_playing	1
-,_VBG_RB
-,_driving_recklessly	1
-,_showing_virtually	1
-,_showing_not	2
-,_observing_methodically	1
+VBZ_NNP_CC
+drives_Carter_and	1
 TO_RB_NN
 to_ever_mistake	1
 POS_VBN_NN
 's_dressed_corpse	1
-NN_-LRB-_NN
-landlady_-LRB-_anything	1
+VB_VBG_``
+bother_remaking_`	1
 DT_WRB_NNP
 this_when_Caine	1
 CC_VBP_RB
@@ -2973,6 +2899,7 @@ and_love_so	1
 RB_VBD_NNS
 long_tipped_collars	1
 RB_VBD_NNP
+excellently_acted_Michael	1
 keenly_interested_Caine	1
 also_directed_Croupier	1
 VBN_CD_JJ
@@ -2984,8 +2911,6 @@ any_one_loving	1
 ,_explaining_how	1
 PRP$_,_NN
 his_,_um	1
-VBZ_NN_.
-does_anything_!	1
 IN_PRP_IN
 off_him_for	1
 NNP_IN_PRP$
@@ -3041,8 +2966,6 @@ for_micheal_caine	1
 VBN_,_DT
 involved_,_a	1
 told_,_the	1
-NN_''_MD
-more.i_'_will	1
 NN_,_WDT
 one_,_which	1
 industry_,_that	1
@@ -3050,10 +2973,6 @@ IN_IN_RB
 about_if_only	1
 RB_VBZ_VBN
 as_has_been	1
-JJ_-RRB-_NN
-likely_-RRB-_<p>	1
-British_-RRB-_film	1
-good_-RRB-_film	1
 PRP_RP_,
 her_up_,	1
 IN_IN_``
@@ -3062,8 +2981,6 @@ Along_with_``	1
 ,_Americans_talking	1
 RB_RB_PRP$
 n't_really_his	1
-FW_IN_VBZ
-<br />_As_is	1
 VBG_''_,
 swinging_''_,	1
 VBN_,_NNP
@@ -3075,6 +2992,8 @@ CD_NNS_.
 5_stars_.	1
 CD_NNS_,
 two_gasps_,	1
+CD_VBD_IN
+1967_was_with	1
 JJS_NN_VBG
 youngest_daughter_being	1
 NN_,_DT
@@ -3100,9 +3019,10 @@ Carter_and_for	1
 NNS_CC_DT
 critics_and_the	1
 standards_but_no	1
+Barrels_and_The	1
 Barrels_and_the	1
 repeats_and_a	1
-Barrels_and_The	1
+films_and_the	1
 commentaries_and_a	1
 trailers_and_an	1
 NN_DT_VBP
@@ -3145,7 +3065,6 @@ it_seems_everyone	1
 it_'s_time	1
 NN_DT_VBZ
 course_this_makes	1
-<p>_This_is	2
 NNS_DT_NN
 befits_the_story	1
 Wails_a_cowboy	1
@@ -3246,7 +3165,7 @@ on_location_.	1
 at_dawn_.	1
 with_horror_.	1
 under_arrest_.	1
-of_chivalry_.	1
+in_Anger_.	1
 on_film_.	2
 of_concrete_.	1
 for_cremation_.	1
@@ -3256,6 +3175,7 @@ on_DVD_.	1
 of_vengeance_.	1
 for_breath_.	1
 on_target_.	1
+of_chivalry_.	1
 of_caution_.	1
 of_action_.	1
 IN_NN_,
@@ -3285,9 +3205,6 @@ of_death_,	1
 ,_RB_CD
 ,_very_70s	1
 ,_only_two	1
--LRB-_IN_JJ
--LRB-_for_good	1
--LRB-_among_other	1
 PRP_RB_VBZ
 he_only_cultivates	1
 It_definitely_holds	1
@@ -3325,10 +3242,11 @@ CD_NN_IN
 One_aspect_of	1
 2000_remake_with	1
 IN_VBG_JJ
+of_concerning_British	1
 by_casting_former	2
 for_making_serious-minded	1
-VB_DT_RBS
-<p>_The_most	1
+,_VBN_RP
+,_laid_out	1
 VB_IN_VBG
 hesitate_in_checking	1
 know_by_writng	1
@@ -3337,8 +3255,6 @@ done_well_-	1
 VB_RP_NN
 find_out_more.i	1
 run_down_row	1
-JJ_-RRB-_.
-lovable_-RRB-_.	1
 IN_NNS_JJ
 of_scenes_worthy	1
 of_people_mad	1
@@ -3417,8 +3333,6 @@ NNS_NNP_POS
 orders_Caine_'s	1
 POS_RB_VBN
 's_now_laid	1
-NNP_-LRB-_WRB
-Micklewhite_-LRB-_how	1
 CD_WDT_RB
 one_that_once	1
 RB_VBZ_TO
@@ -3429,10 +3343,9 @@ CD_NN_WP
 One_kid_who	1
 JJ_NNS_VBN
 post-hippie_threads_sported	1
+other_things_named	1
 various_individuals_involved	1
 polluted_beaches_peopled	1
-VB_PRP_MD
-<p>_You_can	1
 NNS_CC_VB
 crims_and_con	1
 fingers_and_demand	1
@@ -3468,22 +3381,6 @@ workingman_'s_town	1
 brother_'s_killer	1
 VBZ_WP_RB
 knows_what_else	1
-NNP_NNP_-RRB-
-Michael_Caine_-RRB-	4
-Rosemarie_Dunham_-RRB-	1
-Tyne_Bridge_-RRB-	2
-Regan/George_Carter_-RRB-	1
-Foxy_Brown_-RRB-	1
-Vampire_Hunter_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Tomorrow_Never	1
--LRB-_Michael_Caine	4
--LRB-_Rosemarie_Dunham	1
--LRB-_Jack_Regan/George	1
--LRB-_The_Terminal	1
--LRB-_Captain_Kronos	1
--LRB-_Harry_Palmer	1
--LRB-_Mike_Hodges	1
 ``_NNP_NNP
 `_Jaws_IV	1
 ``_Mona_Lisa	1
@@ -3498,12 +3395,8 @@ VB_:_NNP
 believe_--_Sylvester	1
 VBD_VBG_NN
 was_paying_homage	1
-NNPS_-LRB-_RB
-Americans_-LRB-_apart	1
 VBD_NN_DT
 took_home_the	1
-NNP_''_-RRB-
-Gambit_''_-RRB-	1
 RP_NNS_IN
 out_performances_by	1
 VBD_PRP_RB
@@ -3561,9 +3454,6 @@ NN_PRP$_NNS
 anger_his_employers	1
 ,_VBD_PRP$
 ,_loved_their	1
-NN_''_-RRB-
-job_'_-RRB-	1
-Man_''_-RRB-	1
 VBP_PRP$_NN
 understand_his_mission	1
 IN_DT_NNP
@@ -3633,14 +3523,10 @@ as_the_flaws	1
 of_this_characters	1
 :_NN_NN
 -_someone_close	1
--RRB-_FW_FW
--RRB-_<br />_<br />	1
 RBR_JJ_CC
 more_cynical_and	1
 TO_VB_JJR
 to_find_more	1
-RB_VBD_-LRB-
-excellently_acted_-LRB-	1
 VBZ_JJ_DT
 's_such_an	1
 VB_NNP_VBD
@@ -3771,23 +3657,10 @@ NNS_RB_VBP
 ends_always_appear	1
 films_however_add	1
 women_also_have	1
--RRB-_,_VBG
--RRB-_,_starring	1
--RRB-_NN_IN
--RRB-_<p>_If	1
--RRB-_version_of	1
 VBN_CC_IN
 remastered_and_with	1
-RB_,_RB
-quickly_,_almost	1
-So_,_instead	1
-Well_,_only	1
-very_,_very	2
-No_,_here	1
-slowly_,_not	1
-here_,_just	2
-alone_,_much	1
-Consequently_,_as	1
+JJS_NN_MD
+best_performance_will	1
 NNS_RB_VBD
 films_ever_made	1
 CC_JJ_NN
@@ -3811,8 +3684,8 @@ and_censorious_neighbour	1
 and_protracted_rendition	1
 VBZ_CC_VBZ
 loves_and_cares	1
-POS_NN_CC
-'s_dialogue_and	1
+VBZ_,_NNP
+Comes_,_Geraldine	1
 VB_DT_``
 buy_this_``	1
 be_no_``	1
@@ -3858,10 +3731,12 @@ PRP$_NNS_RP
 his_aggressions_out	1
 their_clothes_off	1
 NN_''_,
-Villain_'_,	1
-Swarm_'_,	1
+Man_''_,	1
+job_'_,	1
 Home_''_,	1
 File_''_,	1
+Villain_'_,	1
+Swarm_'_,	1
 NNS_JJ_NN
 people_mad_cult	1
 NNP_POS_VBP
@@ -3876,8 +3751,6 @@ NNP_POS_VBZ
 Carter_'_is	1
 IN_RB_.
 from_there_.	1
-,_VBN_RP
-,_laid_out	1
 IN_RB_,
 that_well_,	1
 NNS_:_NN
@@ -3895,8 +3768,8 @@ IN_,_DT
 in_,_The	1
 ,_EX_VBP
 ,_there_are	1
-DT_NNS_-RRB-
-the_Nerds_-RRB-	1
+POS_,_VBZ
+'s_,_is	1
 VB_PRP_PDT
 interest_you_all	1
 VBZ_NNP_NNP
@@ -3926,12 +3799,6 @@ is_one_of	13
 gives_one_of	1
 features_one_of	3
 delivers_one_of	1
-JJ_,_PRP
-such_,_I	1
-original_,_it	1
-perfect_,_you	1
-VB_EX_POS
-<br />_There_'s	1
 VB_NNS_TO
 con_men_to	1
 EX_VBD_NNS
@@ -3941,6 +3808,7 @@ The_Limey_''	1
 :_VBP_RB
 :_do_n't	1
 RB_VBG_IN
+comparatively_speaking_of	1
 still_turning_in	1
 WP$_JJ_NN
 whose_only_character	1
@@ -3960,15 +3828,33 @@ Caine_can_smudge	1
 Stallone_will_be	1
 VBD_DT_JJR
 had_a_better	1
-._._-RRB-
-._?_-RRB-	1
 NN_,_EX
 commentary_,_there	1
-IN_VBG_NNS
-of_Marching_Girls	1
-of_crumbling_factories	1
-by_casting_playwrights	2
-of_decaying_workers	1
+NN_VBZ_DT
+professional_becomes_an	1
+accident_is_no	1
+film_presents_a	1
+lot_gets_a	1
+film_is_a	2
+north_is_a	1
+film_has_some	1
+movie_exposes_some	1
+outset_adds_a	1
+movie_is_some	1
+version_has_a	1
+CARTER_is_a	1
+disc_contains_some	1
+film_is_the	1
+shotgun_is_a	1
+DVD-version_features_a	1
+soundtrack_is_a	1
+movie_has_a	1
+script_is_the	1
+hand_is_a	1
+theme_is_a	1
+Revenge_is_the	1
+mobsters.Jack_puts_each	1
+film_takes_a	1
 JJ_NN_VBP
 rusting_machinery_lurk	1
 grim_conclusion_prevent	1
@@ -3978,6 +3864,8 @@ JJ_NNS_EX
 mean_streets_there	1
 NNP_NN_VBN
 Chandler_plot_transplanted	1
+NNP_RB_VBN
+Edwards_well_known	1
 VBN_VBP_VBN
 made_have_created	1
 NN_VBD_PRP$
@@ -4022,11 +3910,11 @@ lover_of_1960s-70	1
 tide_of_awful	1
 process_behind_much	1
 world_of_Northern	1
-<p>_Like_stylish	1
 target_of_various	1
 milestone_in_British	1
 couple_of_local	1
 touch_of_pleasant	1
+pornographer_among_other	1
 obsession_with_chilling	1
 IN_IN_NNP
 that_beneath_Carter	1
@@ -4097,10 +3985,8 @@ north_:_Farewell	1
 ,_that_hardly	1
 VBZ_NNP_MD
 plays_Carter_will	1
-CD_-RRB-_,
-1972_-RRB-_,	1
-1971_-RRB-_,	1
-1.74:1_-RRB-_,	1
+VBD_CC_WRB
+died_and_where	1
 JJ_,_JJ
 bleak_,_relentless	1
 ruthless_,_frightening	1
@@ -4138,10 +4024,7 @@ bleak_,_ugly	1
 slimy_,_working-class	1
 mysterious_,_rusting	1
 dry_,_black	1
-VB_JJ_TO
-be_able_to	2
 NN_CC_WP
-<p>_But_what	1
 commercialism_and_what	1
 JJ_NNP_CD
 available_January_2001	1
@@ -4158,6 +4041,8 @@ VBZ_VBN_.
 is_served_.	1
 NN_IN_:
 time_around_...	1
+IN_JJ_VBG
+without_destructive_compromising	1
 RB_VBN_TO
 desperately_tried_to	1
 much_limited_to	1
@@ -4216,8 +4101,8 @@ is_basically_a	1
 is_n't_a	1
 CD_NN_VB
 1971_film_Get	1
-:_-RRB-_NN
-..._-RRB-_<p>	1
+IN_CC_VBN
+on_and_adapted	1
 NNS_WDT_VBD
 cars_that_were	1
 VBN_TO_NN
@@ -4256,6 +4141,8 @@ DT_VBZ_VBN
 This_has_become	1
 this_is_reflected	1
 that_'s_achieved	1
+RB_RB_CD
+also_very_70	1
 IN_EX_VBZ
 as_there_'s	1
 that_there_is	1
@@ -4274,19 +4161,18 @@ interested_Caine_'s	1
 VBN_RP_.
 set_up_.	1
 NN_DT_NN
-home_the_prize	1
+practice_no_charcter	1
 view_the_casting	1
 kidnapping_another_woman	1
 pace.and_every_scene	1
 course_the_scene	1
+home_the_prize	1
 command_a_level	1
 film_a_winner	1
 film_a_bit	1
 instance_the_scene	1
 way_the_plot	1
 person_each_scene	1
-FW_IN_VBG
-<br />_While_investigating	1
 MD_RB_IN
 may_not_after	1
 JJS_IN_NN
@@ -4306,8 +4192,6 @@ VBD_IN_RB
 watched_for_only	2
 VBD_RP_DT
 stepped_off_the	1
-IN_NNPS_-LRB-
-about_Americans_-LRB-	1
 PRP$_JJR_JJ
 his_more_unappreciated	1
 WRB_VBD_NNP
@@ -4445,16 +4329,8 @@ and_Geralds_'	1
 and_Eric_'s	1
 VBD_TO_NNP
 said_to_Bob	1
-NNP_-RRB-_,
-Osborne_-RRB-_,	1
-Krull_-RRB-_,	1
-Hunter_-RRB-_,	1
-Croupier_-RRB-_,	1
-Stallone_-RRB-_,	1
-Caine_-RRB-_,	1
-NNP_-RRB-_.
-Brown_-RRB-_.	1
-Carter_-RRB-_.	1
+VB_WRB_IN
+understand_why_after	1
 NNP_NNP_WDT
 Good_Friday_which	1
 Mona_Lisa_which	1
@@ -4491,25 +4367,17 @@ this_superb_British	1
 the_only_redemptive	1
 DT_VBN_JJ
 the_isolated_musical	1
--LRB-_WRB_VBZ
--LRB-_how_'s	1
 RB_DT_VBZ
 once_that_'s	1
 VBP_RB_NN
 have_ever_scene	1
 RBS_RB_JJ
 most_powerfully_effective	1
-NNS_DT_VBP
-structures_all_seem	1
-FW_FW_PRP
-<br />_<br />_I	1
-i_felt.but_it	1
-<br />_<br />_It	2
-bleep_outta_you	1
+CD_VBZ_,
+one_thinks_,	1
 NNP_WP_VBD
+Osborne_who_wrote	1
 Caine_who_played	1
-VB_PRP_VBG
-leave_you_gasping	1
 RP_NN_,
 out_retribution_,	1
 DT_``_NN
@@ -4519,12 +4387,8 @@ a_`_reputation	1
 this_``_film	1
 the_`_official	1
 The_`_hero	1
-NNP_-LRB-_DT
-Newcastle_-LRB-_a	1
-Eckland_-LRB-_a	1
-Moffat_-LRB-_The	1
-Ekland_-LRB-_The	1
-Alfie_-LRB-_the	1
+NNP_NNP_WRB
+Joseph_Micklewhite_how	1
 JJ_CD_NNS
 last_30_minutes	1
 PRP_VBP_IN
@@ -4548,20 +4412,21 @@ do_n't_these	1
 ai_n't_no	1
 CD_NN_PRP
 one_scene_we	1
--LRB-_IN_IN
--LRB-_as_in	1
+NNP_WP_VBZ
+London_who_decides	1
+Caine_who_works	1
+London_who_returns	1
+Carter_who_travels	1
+Sheriff_who_fails	1
 ,_JJS_,
 ,_bleakest_,	1
 NN_VBN_NNP
 guy_named_Carter	1
-CD_-RRB-_VBD
-1967_-RRB-_was	1
 TO_VB_TO
 to_happen_to	1
 to_go_to	1
 to_travel_to	1
-VBD_CC_WRB
-died_and_where	1
+to_leave_to	1
 DT_VBP_VBN
 all_seem_imbued	1
 PRP_NNS_NN
@@ -4584,8 +4449,6 @@ The_Tyneside_locations	1
 RB_VBP_TO
 really_want_to	1
 always_appear_to	1
-NNS_RB_-LRB-
-films_ever_-LRB-	1
 ,_CC_NNP
 ,_and_Michael	2
 ,_and_BIGGER	1
@@ -4632,33 +4495,26 @@ mob_operative_who	1
 gang_member_who	1
 hit_man_who	1
 title_character_who	1
-''_-RRB-_:
-''_-RRB-_;	1
 VBP_MD_VB
 stare_can_burn	1
-VB_PRP_VBP
-<br />_I_do	1
+DT_FW_.
+all_er_.	1
 VBD_VBN_CC
 was_edited_and	1
 was_made_and	1
-NN_NN_:
-investment_banker_:	1
-someone_close_-	1
-crime_drama_:	1
+VBP_VBN_TO
+are_exposed_to	1
+have_wanted_to	1
 VBD_VBN_CD
 was_made_30	1
 CC_VBN_NN
 and_repressed_violence	1
-''_-RRB-_,
-''_-RRB-_,	1
-'_-RRB-_,	1
-NN_NN_-RRB-
-Wicker_Man_-RRB-	1
-series_Minder_-RRB-	1
+NN_''_MD
+more.i_'_will	1
 VBZ_RP_DT
 trots_out_a	1
-VBD_-LRB-_NNP
-acted_-LRB-_Michael	1
+MD_VB_NNS
+can_burn_holes	1
 MD_VB_NNP
 Would_Be_King	1
 may_think_Carter	1
@@ -4701,6 +4557,7 @@ NN_NNS_VBG
 gangster_flicks_encapsulating	1
 NN_NN_,
 side_note_,	1
+Wicker_Man_,	1
 crime_dramas_,	1
 demolition_today_,	1
 heroin_overdose_,	1
@@ -4755,11 +4612,11 @@ VB_TO_PRP
 happen_to_him	1
 VBZ_CC_TO
 's_either_to	1
-FW_NNP_VBZ
-<br />_Carter_has	1
-<br />_Caine_plays	1
-<br />_Caine_stands	1
-<br />_Carter_travels	1
+NN_NNS_VBP
+action_setpieces_are	1
+gang_enforcers_are	1
+fact_things_are	1
+supporting_players_are	2
 VBN_NN_WDT
 received_dvd_that	1
 NNS_VBG_DT
@@ -4768,8 +4625,6 @@ WDT_VBP_JJ
 which_are_ugly	1
 which_provide_appropriate	2
 that_are_dirty	1
-DT_:_IN
-all_..._<p>	1
 ``_NNP_``
 ``_Sleuth_``	1
 CC_CD_RB
@@ -4831,17 +4686,15 @@ to_perfection_by	1
 to_everyone_with	1
 to_time_during	2
 to_death_with	1
-FW_FW_VBN
-<br />_<br />_Given	1
+CC_NN_PRP
+and_dialogue_I	1
+and_film_it	1
 EX_VBP_NNS
 there_are_influences	1
 DT_RBR_RB
 the_more_brutally	1
-VBG_IN_IN
-operating_out_of	1
-mucking_about_if	1
-doing_that_until	1
-messing_about_with	1
+VBG_PRP_NNS
+giving_them_lines	1
 DT_NN_.
 no_remorse_.	1
 an_accident_.	1
@@ -4991,8 +4844,8 @@ try_and_remake	1
 help_but_wish	1
 rent_or_buy	1
 like_and_identify	1
-VBZ_JJ_-RRB-
-'s_lovable_-RRB-	1
+JJR_IN_``
+better_in_``	1
 WRB_NN_RB
 when_vengence_finally	1
 TO_NNP_NNP
@@ -5027,8 +4880,6 @@ RB_JJS_VBZ
 Not_least_is	1
 ,_IN_,
 ,_with_,	1
-VB_VBG_``
-bother_remaking_`	1
 PRP$_NN_DT
 my_view_the	1
 RB_VBZ_DT
@@ -5100,8 +4951,6 @@ NN_RB_NNP
 talent_namely_Lee	1
 NNS_DT_NNS
 movies_these_days	1
-IN_DT_-LRB-
-above_all_-LRB-	1
 NN_VBP_JJ
 cinematography_are_perfect	1
 VBP_PRP$_JJ
@@ -5176,11 +5025,12 @@ more_like_a	1
 more_of_the	1
 FW_PRP_VBZ
 felt.but_it_'s	1
-<br />_It_is	2
 MD_,_PRP
 can_,_I	1
 PRP_IN_NNP
 me_if_Carter	1
+NNS_''_:
+Sisters_''_;	1
 ,_WP$_VBD
 ,_whose_got	1
 NN_IN_IN
@@ -5191,6 +5041,8 @@ film_because_of	1
 spiral_out_of	1
 WRB_PRP_MD
 how_it_can	1
+PRP_DT_FW
+us_all_er	1
 NN_NNP_VBN
 boss_Kinnear_played	1
 NN_NNS_CC
@@ -5199,12 +5051,15 @@ hero_standards_but	1
 direction_styles_and	1
 theatrical_trailers_and	1
 level_thugs_and	1
+crime_films_and	1
 Smoking_Barrels_and	2
 porn_victims_and	1
 day_standards_and	1
 construction_projects_and	1
 PRP$_NN_VBN
 its_carcass_dominated	1
+DT_:_PRP
+all_..._It	1
 JJ_JJ_,
 prototypical_bad_,	1
 VBZ_RBR_JJ
@@ -5236,8 +5091,8 @@ his_cast_is	1
 his_world_is	1
 His_vengeance_is	1
 his_employer_is	1
--RRB-_DT_NN
--RRB-_no_charcter	1
+POS_CC_``
+'_and_`	1
 CC_VB_IN
 and_identify_with	1
 VBZ_RP_WP
@@ -5254,15 +5109,13 @@ The_Swarm_'	1
 JJ_VBN_IN
 universal_lauded_by	1
 NNP_NNP_VBZ
-<p>_Carter_is	1
-<br />_Caine_is	1
 Ian_Hendry_gets	1
 Mike_Hodges_has	1
 Mike_Hodges_inhabits	1
 Michael_Cain_is	1
 Michael_Caine_turns	1
 Michael_Caine_dominates	1
-<p>_This_is	1
+Michael_Caine_travels	1
 Michael_Caine_stands	1
 Laon_This_is	1
 Michael_Caine_gives	1
@@ -5273,11 +5126,11 @@ Jack_Carter_cries	1
 Jack_Carter_is	7
 Director_Hodges_is	1
 Michael_Caine_justifies	1
+Carter_Caine_returns	1
 Director_Hodges_seems	1
 Mike_Hodges_makes	1
 Michael_Caine_is	4
 Tomorrow_Never_Comes	1
-<p>_Caine_is	1
 Jack_Carter_sets	1
 Old_Maurice_lives	1
 Michael_Caine_delivers	1
@@ -5297,14 +5150,10 @@ to_London_.	1
 to_Newcastle_.	1
 PRP_IN_IN
 you_that_in	1
-NN_NNS_-RRB-
-crime_films_-RRB-	1
 IN_WDT_VBD
 of_which_was	1
 ''_CC_,
-''_and_,	1
-NNS_WDT_MD
-reasons_which_could	1
+''_and_,	2
 VBZ_RP_VBZ
 stands_out_is	1
 VB_PRP$_NNS
@@ -5315,9 +5164,8 @@ achieve_his_goals	1
 take_your_eyes	2
 take_their_clothes	1
 investigate_his_brothers	1
-VBN_IN_-LRB-
-Based_on_-LRB-	1
-heard_of_-LRB-	1
+VBD_PRP_WDT
+was_he_that	1
 WDT_PRP_MD
 which_you_can	1
 VBP_DT_RB
@@ -5343,8 +5191,6 @@ VBD_PRP$_JJS
 was_his_best	1
 PRP_CD_NNS
 it_5_stars	1
-PRP_DT_-LRB-
-us_all_-LRB-	1
 WRB_VBZ_IN
 how_'s_that	1
 RB_VB_DT
@@ -5367,16 +5213,19 @@ n't_give_the	1
 n't_get_a	1
 n't_let_these	1
 n't_recommmend_this	1
+NNP_NNP_VBP
+Rosemarie_Dunham_are	1
 IN_``_NNP
 in_``_Carter	1
 in_``_Zulu	1
 as_``_Carter	1
 that_`_Rocky	1
 JJ_IN_JJ
-full_of_telling	1
 sparse_by_modern	1
 plumpish_by_current	1
 dead_under_strange	1
+full_of_telling	1
+less-famous_for_good	1
 deliberate_than_slow	1
 CC_VBZ_WRB
 and_shows_why	1
@@ -5408,26 +5257,16 @@ will_leave_you	4
 will_remind_you	1
 could_give_it	1
 'll_tell_you	1
-RB_JJ_-LRB-
-very_English_-LRB-	1
 NN_CC_PRP
-mine_and_I	1
-material_and_it	1
 end_and_it	2
+material_and_it	1
+mine_and_I	1
 death_but_it	1
-<p>_But_it	1
 brother_and_I	1
 JJR_,_RBR
 darker_,_more	1
 MD_VB_FW
 'll_have_yo	1
--LRB-_CC_PRP
--LRB-_and_we	1
--LRB-_RB_IN
--LRB-_especially_if	1
--LRB-_apart_from	1
-IN_:_FW
-because_..._<br />	1
 NN_VBD_JJ
 one.Caine_had_many	1
 pacing_felt_slow	1
@@ -5437,6 +5276,7 @@ knees_begging_for	1
 audiences_cheering_for	1
 DT_NN_CC
 a_look_or	1
+a_mobster_and	1
 the_plot_and	1
 a_re-make_and	1
 a_line_or	1
@@ -5447,7 +5287,7 @@ a_dummy_and	1
 any_occaision_and	1
 a_gun_and	1
 an_inner-turmoil_and	1
-a_mobster_and	1
+the_mood_but	1
 a_kid_and	1
 the_director_and	1
 a_portrait_or	1
@@ -5469,6 +5309,8 @@ had_made_enough	1
 RB_IN_IN
 Apart_from_that	1
 much_as_for	1
+,_IN_CD
+,_as_one	1
 CC_JJ_JJ
 and_brilliant_central	1
 IN_PRP$_NN
@@ -5543,20 +5385,17 @@ DT_NNS_WRB
 the_scenes_when	1
 PRP_MD_DT
 he_would_an	1
--RRB-_VBZ_IN
--RRB-_travels_from	1
 NNP_,_CC
-devil_,_and	1
 Hodges_,_and	2
-Blank_,_but	1
-England_,_and	2
 Caine_,_and	2
+Blank_,_but	1
+devil_,_and	1
+England_,_and	2
+Krull_,_and	1
 JJS_CD_NN
 best_1970s_vein	1
 NNP_,_CD
 Hodges_,_1971	1
-NNS_-RRB-_VBN
-things_-RRB-_named	1
 PRP_VB_IN
 you_need_in	1
 us_know_that	1
@@ -5682,8 +5521,6 @@ NN_PRP_IN
 mistake_him_for	1
 film_it_as	1
 movie_itself_because	1
-IN_VBN_IN
-since_fallen_into	1
 WDT_VBZ_PRP
 that_fits_him	1
 which_means_they	1
@@ -5694,6 +5531,8 @@ WDT_VBZ_VBG
 that_is_troubling	1
 RP_JJ_,
 up_dead_,	1
+NNS_,_WP
+Sisters_,_who	1
 IN_PRP_:
 in_them_;	1
 against_it_--	1
@@ -5744,8 +5583,8 @@ With_me_,	1
 NNP_POS_CD
 Hodges_'_1971	1
 Boorman_'s_1967	1
-NNP_-LRB-_WP
-Osborne_-LRB-_who	1
+IN_TO_JJR
+on_to_bigger	1
 NNP_POS_CC
 Orange_'_and	1
 Fletcher_'s_and	1
@@ -5789,22 +5628,23 @@ Sylvester_Stallone_'s	1
 Robert_Fuest_'s	1
 Mike_Hodges_'s	2
 Clockwork_Orange_'	1
+Casey_Brian_'s	1
+Harold_Budd_'s	1
 John_Boorman_'s	2
-Steve_McQueen_'s	1
-<p>_Caine_'s	1
+?!_Caine_'s	1
 Sly_Stallone_'s	1
 Sid_Fletcher_'s	1
 Jack_Carter_'s	3
 Ted_Lewis_'	3
 Michael_Caine_'s	9
-Harold_Budd_'s	1
+Steve_McQueen_'s	1
 Bernie_Casey_'s	1
 Mike_Hodges_'	1
 Straw_Dogs_'	1
 NN_WRB_VBG
 film_where_dressing	1
-RB_RB_CD
-also_very_70	1
+,_CD_EX
+,_1971_There	1
 POS_JJS_NNS
 's_finest_performances	1
 's_greatest_films	1
@@ -5878,13 +5718,13 @@ extras_,_there	1
 WP_PRP_MD
 what_you_would	1
 NN_:_NNP
-<p>_--_Chris	1
-detail_..._Carter	1
 time_-_Michael	2
+detail_..._Carter	1
 cinema_-_Robert	1
-NNS_-RRB-_CC
-Nerds_-RRB-_and	1
-films_-RRB-_and	1
+NN_NN_:
+investment_banker_:	1
+someone_close_-	1
+crime_drama_:	1
 PRP_VBP_RB
 I_do_n't	6
 I_'m_not	1
@@ -5894,14 +5734,14 @@ I_have_not	1
 I_have_ever	1
 you_are_almost	1
 I_have_n't	2
-DT_JJ_-LRB-
-a_less-famous_-LRB-	1
-the_original_-LRB-	1
+CD_WDT_MD
+one_that_will	1
 NN_NN_TO
-lead_actor_to	1
+landlady_anything_to	1
 class_background_to	1
 train_ride_to	1
 story_line_to	1
+lead_actor_to	1
 NN_,_PRP$
 appearance_,_his	1
 brother_,_his	1
@@ -5946,6 +5786,7 @@ cigarette_smoke_.	1
 film_nudity_.	1
 porn_film_.	1
 mob_flick_.	1
+series_Minder_.	1
 gangster_film_.	1
 workingclass_street_.	1
 crime_thriller_.	1
@@ -5965,17 +5806,15 @@ he_is_tracking	1
 He_starts_making	1
 he_does_coming	1
 he_'s_acting	1
-FW_NNS_IN
-<br />_Loads_of	1
 VBZ_NNP_POS
 contains_Caine_'s	1
 is_Caine_'s	1
 makes_Caine_'s	1
-NNS_-RRB-_.
-gangsters_-RRB-_.	1
-NNS_-RRB-_,
-efforts_-RRB-_,	1
-Sisters_-RRB-_,	1
+VBG_IN_IN
+operating_out_of	1
+mucking_about_if	1
+doing_that_until	1
+messing_about_with	1
 CD_JJ_NNS
 two_main_characters	1
 three_tasty_geezers	1
@@ -5987,11 +5826,15 @@ n't_say_it	1
 n't_interest_you	1
 then_kill_them	1
 n't_hate_it	1
+:_NNP_VBZ
+..._Caine_is	1
 RBS_JJ_NNS
 most_entertaining_mysteries	1
 most_worthy_imitators	1
 most_contemporary_thrillers	1
 most_misquoted_films	1
+NNS_VBN_NNP
+things_named_Kinnear	1
 VBZ_NN_IN
 takes_place_in	1
 's_release_in	1
@@ -6244,8 +6087,8 @@ of_the_situation	1
 in_a_hi-definition	1
 DT_VBP_DT
 these_are_the	1
--RRB-_NNP_NNP
--RRB-_Ted_Lewis	1
+NNP_VBG_JJ
+Caine_making_final	1
 CC_VBD_IN
 and_adapted_for	1
 and_languished_in	1
@@ -6273,9 +6116,8 @@ gangsters_who_are	1
 IN_CD_VBZ
 If_one_is	1
 as_one_expects	1
-PRP$_NNS_-RRB-
-their_efforts_-RRB-	1
-Her_Sisters_-RRB-	1
+IN_VBN_IN
+since_fallen_into	1
 IN_TO_VB
 out_to_seek	1
 as_to_say	1
@@ -6315,8 +6157,6 @@ VBG_VBN_PRP$
 having_seen_his	1
 EX_VBP_DT
 there_are_no	1
-NNP_NN_-RRB-
-Job_etc_-RRB-	1
 VBP_VBN_CC
 are_repulsed_and	1
 WP_VBZ_NN
@@ -6324,26 +6164,19 @@ who_heads_home	1
 who_seeks_revenge	1
 who_returns_home	1
 who_'s_nothing	1
-VBZ_NNP_CC
-drives_Carter_and	1
+PRP_IN_NN
+me_with_horror	1
 CC_VBZ_NN
 but_destroys_everything	1
 and_finds_something	1
-NNP_-LRB-_RB
-Edwards_-LRB-_well	1
 :_NN_PRP
 ;_someone_it	1
 ..._something_he	1
 PRP$_NNS_POS
 his_brothers_'	1
-``_CD_-RRB-
-`_71_-RRB-	1
 VB_WRB_PRP
 see_how_it	1
 Sleep_When_I	1
-NNP_NNP_WP
-Michael_Caine_who	1
-Jack_Carter_who	1
 DT_NN_TO
 the_movie_to	2
 an_inspiration_to	1
@@ -6362,6 +6195,8 @@ a_man_to	2
 the_audience_to	1
 the_film_to	1
 a_candle_to	1
+NNP_DT_NN
+Ekland_The_Wicker	1
 RB_VBP_NNS
 however_add_gimmicks	1
 VBZ_VBN_PRP$
@@ -6374,6 +6209,8 @@ DT_RB_JJS
 the_very_best	1
 NNP_VBD_NNPS
 Blank_was_Marvins	1
+TO_VB_WRB
+to_reason_why	1
 FW_PRP_.
 outta_you_.	1
 PRP_RB_MD
@@ -6459,20 +6296,15 @@ VB_VBG_.
 be_telling_.	1
 DT_JJR_,
 a_darker_,	1
-:_-RRB-_.
-..._-RRB-_.	1
-NN_-RRB-_CC
-mood_-RRB-_but	1
 ,_CD_RB
 ,_one_certainly	1
 ,_two_actually	1
-IN_-RRB-_NNP
-by_-RRB-_Ted	1
 NN_CC_MD
 occaision_and_will	1
 revenge_and_will	1
 JJ_IN_IN
 ironic_that_while	2
+English_as_in	1
 IN_CD_JJ
 For_one_powerful	1
 NN_NNP_VBZ
@@ -6565,6 +6397,7 @@ the_cheeky_Casonova	1
 No_Happy_American	1
 the_bleak_Newcastle	1
 an_intense_Michael	1
+the_original_UK	1
 the_great_John	1
 the_wonderful_Ian	1
 VBG_NNP_,
@@ -6585,8 +6418,6 @@ DT_VBP_WRB
 a_romp_when	1
 PRP_NNP_VB
 you_MUST_see	1
-VBD_PRP_VBD
-thought_I_was	1
 NN_NNS_''
 Smoking_Barrels_''	1
 VB_TO_DT
@@ -6641,8 +6472,6 @@ apart_from_Michael	1
 Often_by_Jack	1
 VBP_RB_TO
 pop_up_to	1
-JJS_NN_MD
-best_performance_will	1
 RP_DT_JJ
 out_the_contemporary	1
 out_the_real	1
@@ -6704,6 +6533,7 @@ toughs_encourage_him	1
 NNP_''_CC
 Friday_''_and	1
 Limey_''_and	1
+Gambit_''_and	1
 IV_'_and	1
 King_''_and	1
 ,_VBG_PRP$
@@ -6716,8 +6546,8 @@ NN_VB_NNP
 ability_Get_Carter	1
 film_Get_Carter	1
 money_Get_Carter	1
--RRB-_VBN_NNP
--RRB-_named_Kinnear	1
+PRP$_NNS_VBD
+their_products_were	1
 PRP$_NNS_VBG
 his_knees_begging	1
 ,_JJ_TO
@@ -6740,9 +6570,8 @@ official_'_recounting	1
 PRP$_NNS_VBP
 his_flaws_are	1
 his_emotions_explode	1
--RRB-_,_VBZ
--RRB-_,_looks	1
--RRB-_,_is	1
+VBP_VBN_VBN
+have_been_fed	1
 NN_''_VBN
 flick_'_cranked	1
 NNS_,_``
@@ -6752,6 +6581,7 @@ fanned_the_flames	1
 NNP_NN_IN
 Caine_film_of	1
 Carter_character_in	1
+UK_version_of	1
 Fat_chance_of	1
 London_gangster_in	2
 Caine_performance_in	1
@@ -6813,8 +6643,8 @@ in_shades_of	1
 with_firearms_in	1
 of_drugs_because	1
 in_terms_of	3
--RRB-_NN_VBG
--RRB-_film_starring	1
+IN_NNPS_RB
+about_Americans_apart	1
 TO_VB_RB
 to_get_too	2
 to_come_back	1
@@ -6849,6 +6679,7 @@ Wolfgang_Suschitzky_with	1
 Mike_Hodges_for	1
 John_Osborne_in	1
 Philip_Marlowe_in	1
+Mosley_Far_from	1
 Jack_Carter_in	1
 Sylvester_Stallone_in	2
 VBZ_TO_CD
@@ -6858,7 +6689,6 @@ changes_to_one	1
 :_Farewell_My	1
 -_Robert_Fuest	1
 -_Michael_Caine	2
-..._<br />_<br />	1
 --_Sylvester_Stallone	1
 -_Mykal_Banta	1
 -_Vampire_Hunter	1
@@ -6913,8 +6743,6 @@ witty_quip_and	1
 humourless_tone_and	1
 gritty_style_and	1
 sexual_revolution_and	1
-CD_-RRB-_FW
-1971_-RRB-_<br />	1
 NNP_POS_NN
 Carter_'s_niece	1
 Caine_'s_temper	1
@@ -6956,6 +6784,8 @@ man_who_'ll	1
 character_who_wo	1
 man_who_would	1
 Man_Who_Would	1
+JJ_NN_CD
+anamorphic_widescreen_1.74:1	1
 VBG_IN_NN
 bursting_with_hate	1
 being_that_gangsterism	1
@@ -6986,15 +6816,12 @@ TO_WP_PRP
 to_what_he	1
 NNS_:_EX
 movies_--_there	1
-VBG_RP_IN
-letting_up_on	1
-stepping_out_onto	1
-blasting_away_with	1
-stretching_out_in	1
-running_out_into	1
-wandering_around_with	1
-NN_NN_-LRB-
-underworld_community_-LRB-	1
+,_IN_NNP
+,_despite_Sylvester	1
+,_as_Carter	2
+,_in_Newcastle	1
+VB_PRP_RBR
+make_him_more	1
 VBP_VBN_RP
 get_caught_up	1
 IN_EX_VBD
@@ -7018,12 +6845,8 @@ VB_PRP_TO
 want_him_to	1
 convince_him_to	1
 convince_you_to	1
-NNP_-RRB-_WP
-Caine_-RRB-_who	1
 VBZ_IN_VBG
 stars_as_simmering	1
-VBD_NN_-LRB-
-Hit_Man_-LRB-	1
 IN_DT_PRP$
 in_all_his	1
 VBZ_IN_VBN
@@ -7033,8 +6856,6 @@ Carter_against_it	1
 London_with_them	1
 U.S_since_it	1
 Carter_that_he	1
-FW_RB_NNP
-<br />_Gradually_Carter	1
 IN_CD_NN
 In_one_scene	1
 with_70s_cool	1
@@ -7052,15 +6873,10 @@ VBD_PRP_''
 gave_us_'	1
 RB_NNS_VBP
 not_boring.things_are	1
-RP_IN_NNS
-around_with_firearms	1
 JJ_NN_WDT
 simple_melody_that	1
 moral_decay_that	1
 harsh_movie_that	1
-VBD_RB_IN
-was_inexplicably_about	1
-played_apparently_on	2
 RB_IN_TO
 far_as_to	2
 IN_NN_DT
@@ -7079,14 +6895,15 @@ VB_NN_TO
 have_something_to	1
 make_sense_to	1
 NNP_,_DT
+Kinnear_,_the	1
 Osborne_,_the	1
-Caine_,_a	1
 Osbourne_,_the	1
+Caine_,_a	1
 Caine_,_an	1
 Carter_,_the	1
 Newcastle_,_the	1
 Carter_,_a	7
-Kinnear_,_the	1
+Croupier_,_the	1
 Overall_,_a	2
 Carter_,_an	1
 VB_:_``
@@ -7144,11 +6961,11 @@ plot_is_paper-thin	1
 humour_is_direct	1
 movie_is_grimy	1
 dialogue_is_great	1
-FW_FW_DT
-<br />_<br />_This	4
-<br />_<br />_A	2
-<br />_<br />_The	7
-Hmmm_&#8230;_This	1
+VBZ_RB_,
+is_very_,	1
+behaves_badly_,	1
+pokes_around_,	1
+is_slowly_,	1
 ,_NN_,
 ,_tripod_,	1
 ,_gaffertape_,	1
@@ -7180,9 +6997,6 @@ VBZ_NN_TO
 heads_home_to	1
 is_shure_to	1
 has_something_to	1
-NN_._-RRB-
-today_._-RRB-	1
-trunk_._-RRB-	1
 VBN_IN_PRP$
 rocked_by_its	1
 ignored_at_their	1
@@ -7194,6 +7008,7 @@ stuck_in_its	1
 WRB_VBG_DT
 where_dressing_the	1
 JJ_NNP_NN
+original_UK_version	1
 ultra-derivative_London_gansta	1
 decaying_Newcastle_setting	1
 first_UK_release	1
@@ -7217,8 +7032,6 @@ PRP$_NN_TO
 its_power_to	1
 his_disposal_to	1
 his_brother_to	2
-DT_CD_-RRB-
-another_one_-RRB-	1
 JJ_:_NN
 fantastic_-_Caine	1
 ''_,_PRP
@@ -7305,8 +7118,9 @@ and_I_liked	1
 DT_JJ_IN
 all_full_of	1
 the_amateur_of	1
-the_same_of	1
+a_less-famous_for	1
 a_few_of	1
+the_same_of	1
 JJ_CC_JJ
 tough_and_vengeful	1
 seedy_and_ugly	1
@@ -7444,6 +7258,7 @@ JJ_IN_PRP
 convincing_as_he	1
 sure_if_I	1
 percolationg_as_he	1
+likely_If_you	1
 premature_as_he	1
 bad_because_he	1
 tough_for_you	1
@@ -7464,19 +7279,6 @@ living_bleep_outta	1
 impression_i_felt.but	1
 WP_VBZ_RP
 who_'s_out	1
-NN_-RRB-_,
-death_-RRB-_,	1
-Chapter_-RRB-_,	1
-glove_-RRB-_,	1
-Man_-RRB-_,	1
-niece_-RRB-_,	1
-NN_-RRB-_.
-death_-RRB-_.	1
-star_-RRB-_.	1
-business_-RRB-_.	1
-Anger_-RRB-_.	1
-Minder_-RRB-_.	1
-Crowd_-RRB-_.	1
 PRP_WP_VBD
 We_who_had	1
 VBP_IN_NNP
@@ -7558,6 +7360,7 @@ VB_JJ_VBN
 find_noir_influenced	1
 IN_DT_IN
 in_some_of	1
+above_all_as	1
 with_the_on	1
 VBG_WRB_DT
 explaining_how_the	1
@@ -7567,9 +7370,6 @@ his_greatest_performances	1
 his_chilliest_roles	1
 VBD_:_DT
 was_..._a	1
-RB_RB_VBZ
-as_always_delivers	1
-then_frequently_grinds	1
 ,_RBS_RB
 ,_most_importantly	1
 NNP_VBG_IN
@@ -7578,9 +7378,9 @@ JJ_CC_NN
 low-life_and_scum	1
 grim_and_repellant	1
 noir_or_gangster	1
-VBP_VBN_TO
-are_exposed_to	1
-have_wanted_to	1
+RBR_JJ_TO
+more_appetizing_to	1
+more_interesting_to	1
 ''_IN_CD
 ''_in_60	1
 VBZ_VBG_RB
@@ -7591,6 +7391,8 @@ does_coming_back	1
 NN_:_DT
 revenge_--_no	1
 lodger_-_a	1
+NNS_,_NNP
+efforts_,_Carter	1
 NN_CC_VBD
 brother_and_corrupted	1
 story_and_presented	1
@@ -7641,10 +7443,10 @@ VBP_RB_CC
 come_together_and	1
 VB_IN_FW
 care_for_micheal	1
-,_WRB_NN
-,_where_rain	1
-VB_NNS_VBG
-have_audiences_cheering	1
+NN_VBN_CC
+film_remastered_and	1
+VBZ_NN_CC
+'s_nothing_but	1
 IN_PRP_VBD
 if_I_had	1
 Whilst_it_was	1
@@ -7658,15 +7460,12 @@ because_she_played	1
 that_he_was	1
 because_I_did	1
 because_I_thought	1
--LRB-_CC_VBN
--LRB-_and_adapted	1
 IN_PRP_VBZ
 since_it_'s	1
 that_it_'s	1
 as_he_recognizes	1
 as_it_seems	1
 though_it_is	1
-<p>_It_'s	1
 that_he_'s	1
 that_it_turns	1
 though_he_does	1
@@ -7742,8 +7541,6 @@ NN_TO_PRP
 difference_to_him	1
 EX_VBD_CD
 there_were_two	1
-CD_NN_-RRB-
-70s_practice_-RRB-	1
 NNS_NN_VBZ
 brothers_accident_is	1
 POS_NNP_NN
@@ -7753,26 +7550,29 @@ makes_most_contemporary	1
 RBR_JJ_NNP
 more_mature_Alfie	1
 NN_,_NNP
-family_,_Jack	1
-professional_,_Jack	1
-film_,_Carter	1
 revenge_,_Carter	1
+death_,_Carter	1
 nudity_,_Michael	1
-way_,_Sylvester	1
-opinion_,_Caines	1
-moment_,_Jack	1
-shotgun_,_Jack	1
-past_,_Caine	1
+Chapter_,_Alun	1
+Man_,_John	1
 director_,_Hodges	1
 director_,_Mike	1
-style_,_Mam	1
-death_,_Jack	1
 case_,_Jack	1
-time_,_Jack	1
 way_,_Carter	1
-mistress_,_Brit	1
-co-creating_,_Mike	1
+family_,_Jack	1
 nemesis_,_Kinnear	1
+moment_,_Jack	1
+shotgun_,_Jack	1
+death_,_Jack	1
+mistress_,_Brit	1
+professional_,_Jack	1
+opinion_,_Caines	1
+way_,_Sylvester	1
+film_,_Carter	1
+past_,_Caine	1
+style_,_Mam	1
+time_,_Jack	1
+co-creating_,_Mike	1
 IN_NNS_VB
 if_needs_be	1
 TO_NNS_VBN
@@ -7826,12 +7626,12 @@ JJ_:_RB
 drunk_;_maybe	1
 JJR_IN_PRP
 better_for_it	1
-NN_-LRB-_IN
-community_-LRB-_after	1
-pornographer_-LRB-_among	1
-remake_-LRB-_although	1
-NN_-LRB-_DT
-picturesque_-LRB-_the	2
+CD_POS_IN
+70_'s_in	1
+WDT_VBP_RP
+which_end_up	1
+NNP_CD_VBD
+BLANK_1967_was	1
 NN_CC_NN
 ne_plus_ultra	1
 pace_or_style	1
@@ -7864,20 +7664,8 @@ hatred_and_bent	1
 fog_or_atmosphere	1
 time_and_money	1
 lighting_and_cinematography	1
-NNP_-LRB-_NNP
-Casey_-LRB-_Brian	1
-Carter_-LRB-_Caine	1
-Caine_-LRB-_Zulu	1
-Carter_-LRB-_Mike	1
-Grier_-LRB-_Coffy	1
-Carter_-LRB-_Michael	3
-Carter_-LRB-_Stallone	1
-Kinnear_-LRB-_Osborne	1
-Osborne_-LRB-_Tomorrow	1
-Mosley_-LRB-_Far	1
-Hodges_-LRB-_The	1
-Hendry_-LRB-_Captain	1
-Armstrong_-LRB-_Krull	1
+IN_PRP_CC
+for_him_and	1
 NN_POS_JJ
 director_'s_neat	1
 landlady_'s_prim	1
@@ -7892,6 +7680,7 @@ JJS_IN_CD
 best_of_1970	1
 IN_PRP_NNP
 If_you_MUST	1
+with_them_Carter	1
 VBZ_NNS_IN
 cries_tears_of	1
 cultivates_relationships_in	1
@@ -7899,14 +7688,17 @@ VBZ_VBN_NNS
 's_made_choices	1
 has_had_lots	1
 JJ_NN_RB
+dismal_remake_comparatively	1
 happy_film_anyway	1
 general_public_alike	1
-whole_world_alone	1
+French_Connection_coincidentally	1
 terrific_soundtrack_too	1
+whole_world_alone	1
 fresh_air_here	1
 lead_role_here	1
 small_role_here	1
 strange_way_almost	2
+wonderful_film_especially	1
 next_train_back	1
 believable_ending.A_very	1
 DT_NNS_,
@@ -7925,10 +7717,8 @@ NN_VBD_DT
 time_allowed_the	1
 movie_was_the	1
 death_was_a	1
-DT_NN_-LRB-
-the_picturesque_-LRB-	2
-a_day_-LRB-	1
-a_remake_-LRB-	1
+VB_JJ_TO
+be_able_to	2
 CC_DT_NN
 and_the_soundtrack	1
 and_the_commentary	1
@@ -8064,9 +7854,10 @@ WP_VBD_IN
 who_died_in	1
 VBZ_RB_VBD
 has_never_had	1
-NN_WRB_JJ
-matter_how_high	1
-wasteland_where_grim	1
+JJ_NNP_DT
+mature_Alfie_the	1
+JJS_VBZ_DT
+least_is_the	1
 RP_WRB_PRP$
 out_how_his	2
 NNS_IN_NNP
@@ -8108,8 +7899,8 @@ CD_POS_,
 1970_'s_,	1
 WP_NNP_VBZ
 what_Carter_is	1
--LRB-_IN_DT
--LRB-_after_all	1
+NN_NN_DT
+cult_classic_no	1
 VBG_DT_LS
 writng_this_i	1
 NNP_WDT_VBP
@@ -8120,9 +7911,6 @@ look_in_to	1
 measure_up_to	1
 NNP_NNS_PRP$
 Carter_trusts_its	1
-FW_NNP_IN
-<br />_Edgy_as	1
-<br />_Great_as	1
 NN_VBZ_NNP
 thriller_features_Caine	1
 Execution_is_Impecable	1
@@ -8160,10 +7948,14 @@ VBD_IN_,
 was_in_,	2
 VB_DT_VBZ
 believe_this_is	1
+NNS_NNP_NNP
+characters_Harry_Palmer	1
 PRP$_NNS_,
 his_roots_,	1
 his_veins_,	1
 their_mums_,	1
+their_efforts_,	1
+Her_Sisters_,	1
 RB_IN_NNS
 far_as_extras	1
 Recently_for_reasons	1
@@ -8197,8 +7989,6 @@ of_control_from	1
 ,_RB_PRP
 ,_here_it	2
 ,_once_you	1
-JJ_,_CD
-perfect_,_one	1
 CD_POS_VBG
 60_'s_swinging	1
 ,_JJ_IN
@@ -8240,8 +8030,6 @@ coolest_man_on	1
 WRB_PRP_VBD
 when_I_was	1
 where_he_put	1
-NNS_-LRB-_NNP
-characters_-LRB-_Harry	1
 CC_VBP_JJ
 but_feel_bad	1
 VBD_NNS_IN
@@ -8263,14 +8051,10 @@ the_90_'s	1
 NN_NN_JJ
 cyber_thriller_available	1
 crime_drama_worth	1
-FW_NNP_,
-<br />_Well_,	1
 ,_IN_EX
 ,_as_there	1
 WRB_NNP_RB
 when_Carter_first	1
-FW_EX_VBZ
-<br />_There_'s	1
 POS_VBG_NNP
 's_swinging_London	1
 JJS_NN_NNS
@@ -8285,8 +8069,8 @@ come_through_well	1
 ,_is_what	1
 RP_NNP_NNP
 up_Sylvester_Stallone	1
--RRB-_CC_DT
--RRB-_and_the	1
+NNS_NNP_,
+1970s_Newcastle_,	1
 CC_VBN_IN
 and_driven_by	1
 and_adapted_for	1
@@ -8299,10 +8083,11 @@ VBP_IN_VBN
 :_hard_,	1
 VB_PRP_RP
 shut_her_up	1
--RRB-_,_IN
--RRB-_,_despite	1
--LRB-_NNP_VBZ
--LRB-_Carter_is	1
+,_VBG_RB
+,_driving_recklessly	1
+,_showing_virtually	1
+,_showing_not	2
+,_observing_methodically	1
 PRP_,_WDT
 them_,_which	1
 DT_VB_VBN
@@ -8383,6 +8168,7 @@ expects_from_Michael	1
 is_that_British	1
 stands_alongside_Marvin	1
 NNS_CC_NNP
+Nerds_and_Pam	1
 talent.Hodges_and_Boorman	1
 VB_,_RB
 convince_,_especially	1
@@ -8409,16 +8195,16 @@ be_human_.	1
 remain_untouched_.	1
 feel_good_.	1
 be_disturbing_.	1
--RRB-_CC_JJ
--RRB-_but_other	2
-JJ_NN_-RRB-
-Madding_Crowd_-RRB-	1
-certain_death_-RRB-	1
-suspicious_death_-RRB-	1
-Last_Chapter_-RRB-	1
-northern_coast_-RRB-	1
-same_year_-RRB-	1
-international_star_-RRB-	1
+RB_,_RB
+quickly_,_almost	1
+So_,_instead	1
+Well_,_only	1
+very_,_very	2
+No_,_here	1
+slowly_,_not	1
+here_,_just	2
+alone_,_much	1
+Consequently_,_as	1
 JJ_WP_VBZ
 little_what_happens	1
 VBG_CD_IN
@@ -8437,14 +8223,10 @@ anymore_''_films	1
 NN_,_WP
 girl_,_who	1
 brother_,_who	1
-VB_RB_PRP
-<br />_However_it	2
 ''_VBZ_CD
 ''_is_one	1
 JJ_WP_VBD
 local_who_had	1
-FW_FW_EX
-<br />_<br />_There	1
 ``_NNP_POS
 ``_Jack_'s	1
 VBZ_IN_JJ
@@ -8453,10 +8235,12 @@ is_in_magnetic	1
 RB_JJ_IN
 quickly_percolationg_as	1
 almost_nihilistic_in	1
+very_English_as	1
+as_brilliant_as	1
 so_good_that	1
 almost_naked_in	1
-as_brilliant_as	1
 as_important_as	1
+not_likely_If	1
 almost_absent_of	1
 extremely_Grim_Up	1
 not_sure_if	1
@@ -8493,8 +8277,6 @@ POS_NN_IN
 's_performance_in	1
 '_funeral_in	1
 's_death_in	1
-''_._-RRB-
-''_._-RRB-	1
 NNS_:_IN
 effects_..._because	1
 CD_VBZ_DT
@@ -8503,9 +8285,6 @@ one_is_a	1
 VB_PRP_VBN
 leave_you_dazed	1
 leave_you_drained	1
-FW_NNP_NNP
-<br />_Charlie_Tesoro	1
-<br />_Michael_Caine	3
 RB_VB_CC
 n't_rent_or	1
 n't_help_but	1
@@ -8516,10 +8295,8 @@ tell_it_seemed	1
 get_us_nicked	1
 NNP_NN_CC
 Chandler_flair_but	2
-RP_NN_-LRB-
-up_pornographer_-LRB-	1
-JJ_-LRB-_NNP
-original_-LRB-_UK	1
+VB_PRP_VBG
+leave_you_gasping	1
 NNS_VBP_CD
 girls_are_one	1
 CD_NN_WDT
@@ -8527,11 +8304,9 @@ CD_NN_WDT
 ,_MD_VB
 ,_will_leave	1
 VB_PRP_VBZ
+say_he_does	1
 say_he_'s	1
 see_it_'s	1
-say_he_does	1
-<p>_It_is	1
-<p>_It_'s	2
 say_it_'s	1
 VBN_RB_VB
 needed_thruout_GET	1
@@ -8574,7 +8349,6 @@ for_his_brothers	1
 VBG_PRP_WDT
 troubling_her_which	1
 :_IN_PRP
-..._<p>_It	1
 -_although_it	1
 NNP_''_VBD
 Rocky_'_did	1
@@ -8583,18 +8357,17 @@ Carter_'_is	1
 Carter_''_is	6
 Carter_''_has	1
 Carter_''_provides	1
+''_MD_VB
+'_will_say	1
+''_may_be	1
 NNS_,_WDT
 standards_,_which	1
 NNP_''_VBP
 Lisa_''_are	1
-VBG_VBZ_DT
-missing_is_the	1
 VBZ_PRP$_JJS
 is_his_greatest	1
 NNS_PRP$_NN
 trusts_its_material	1
--RRB-_,_WP
--RRB-_,_who	1
 VBN_PRP_VBG
 found_myself_doing	1
 VBP_JJ_CC
@@ -8620,6 +8393,7 @@ Hendry_,_Bernard	1
 Jarmick_,_co-Author	1
 Kinnear_,_Britt	1
 Ekland_,_Ian	1
+Hunter_,_Britt	1
 Hero_,_Sleuth	1
 Alfie_,_The	1
 Coffy_,_Foxy	1
@@ -8637,9 +8411,10 @@ DT_CD_POS
 the_70_'s	3
 the_1970_'s	1
 a_70_'s	1
-NNP_IN_VBG
-Oscar_for_supporting	1
-Hodges_for_allowing	1
+JJ_,_PRP
+such_,_I	1
+original_,_it	1
+perfect_,_you	1
 NNS_,_RB
 faults_,_apart	1
 films_,_probably	1
@@ -8652,10 +8427,6 @@ NN_VBZ_RBS
 sex_makes_most	1
 VBP_CC_VBP
 enjoy_and_love	1
--RRB-_CC_PRP$
--RRB-_and_his	1
-NN_POS_.
-father_'s_.	1
 VBD_NNP_.
 played_Alfie_.	1
 ''_VBZ_VBN
@@ -8755,12 +8526,11 @@ Still_on_the	1
 back_in_the	1
 just_about_the	1
 instinctively_like_a	1
-PRP$_NNS_VBD
-their_products_were	1
 RP_IN_.
 in_since_.	1
-NN_-LRB-_WP
-character_-LRB-_who	1
+RB_RB_VBZ
+as_always_delivers	1
+then_frequently_grinds	1
 NNP_,_TO
 Newcastle_,_to	1
 NNP_IN_NNP
@@ -8818,8 +8588,6 @@ points_,_play	1
 RB_VBD_VBN
 else_was_edited	1
 simply_were_rocked	1
-PRP$_NN_-LRB-
-his_landlady_-LRB-	1
 DT_WP_VBP
 those_who_get	1
 IN_WRB_TO
@@ -8841,10 +8609,8 @@ NNS_,_VB
 pubs_,_run	1
 NNS_RBR_CC
 years_earlier_and	1
-NN_-LRB-_PRP
-charisma_-LRB-_I	1
-day_-LRB-_I	1
-anything_-LRB-_he	1
+IN_:_NNP
+because_..._Well	1
 :_PRP_MD
 ;_he_can	1
 :_you_ca	1
@@ -8854,8 +8620,6 @@ Carter_makes_light	1
 Carter_encounters_plenty	1
 PRP_VBD_:
 he_was_...	1
-VB_NNP_WRB
-Get_Carter_where	1
 DT_JJ_PRP
 those_responsible_it	1
 JJ_PRP$_NN
@@ -8873,13 +8637,8 @@ PRP_VBD_,
 he_took_,	1
 I_thought_,	1
 I_said_,	1
-NN_-LRB-_NNP
-name_-LRB-_Jack	1
-landlady_-LRB-_Rosemarie	1
 POS_NNS_VBD
 '_voices_overdubbed	1
-VBP_VBN_VBN
-have_been_fed	1
 RBS_JJ_.
 most_primal_.	1
 RB_TO_PRP$
@@ -8890,39 +8649,47 @@ the_most_of	1
 the_best_on	1
 the_best_of	1
 the_slimiest_of	1
-FW_IN_PRP
-<br />_If_you	1
 NNP_NNP_NNS
 Art_Deco_objects	1
 Jack_Carter_novels	1
 East_End_cliches	1
 Michael_Caine_stars	1
-NN_-RRB-_NNS
-etc_-RRB-_stars	1
 NNP_NNP_NNP
+Alun_Armstrong_Krull	1
 The_Glass_Cocoon	1
+John_Osborne_Tomorrow	1
 Boormans_POINT_BLANK	1
+Michael_Caine_Zulu	1
 Lee_Marvin.Get_Carter	1
+Mike_Hodges_The	1
+The_Bottom_Line	1
 Jack_Regan/George_Carter	1
 Long_Good_Friday	4
+Jack_Carter_Michael	1
+Osborne_Tomorrow_Never	1
 Serena_F._Holder	1
 Nowadays_Old_Maurice	1
+Bryan_Mosley_Far	1
+Carter_Michael_Caine	3
 ABOMINABLE_DR._PHIBES	1
 Farewell_My_Lovely	1
 The_Terminal_Man	1
-<p>_Laon_This	1
+Hodges_The_Terminal	1
 Maurice_Joseph_Micklewhite	1
 A_Clockwork_Orange	1
 The_Italian_Job	1
-?!_<p>_Caine	1
-The_Long_Good	1
-The_Bottom_Line	1
-<br />_<br />_Caine	1
+Pam_Grier_Coffy	1
+Jack_Carter_Caine	1
+Ian_Hendry_Captain	1
+Pianist_Roy_Budd	1
 Charlie_Tesoro_The	1
-Tesoro_The_Bottom	1
+Carter_Mike_Hodges	1
+Hendry_Captain_Kronos	1
 Sir_Laurence_Olivier	1
 John_Boormans_POINT	1
-Pianist_Roy_Budd	1
+Tesoro_The_Bottom	1
+Bernie_Casey_Brian	1
+The_Long_Good	1
 POS_NNS_VBP
 's_movies_show	1
 's_filmmakers_have	1
@@ -8979,8 +8746,6 @@ NN_VBP_DT
 soul_watch_the	1
 NN_VBG_CC
 movie_going_but	1
-FW_RB_DT
-<br />_Gradually_the	1
 NN_VBG_CD
 movie_including_one	1
 NNP_POS_PRP
@@ -9002,9 +8767,6 @@ are_one_of	1
 think_one_of	1
 VB_NN_WDT
 mean_mov_that	2
-FW_VB_NNP
-<br />_Get_Carter	1
-<p>_Get_Carter	1
 VBG_NN_,
 acting_performance_,	1
 supporting_actor_,	1
@@ -9072,8 +8834,6 @@ can_feel_,	1
 MD_VB_.
 might_be_.	1
 may_be_.	1
-JJ_IN_JJS
-boring_at_most	1
 RB_CD_IN
 definitely_one_of	2
 also_one_of	1
@@ -9148,8 +8908,6 @@ a_burning_hatred	1
 A_side_note	1
 IN_:_RB
 around_..._then	1
-FW_DT_VBZ
-<br />_This_is	2
 NN_PRP_RB
 film_he_really	1
 girl_he_just	1
@@ -9204,13 +8962,13 @@ JJ_CC_VBZ
 memorable_and_has	1
 uncompromising_and_feels	2
 vengeful_and_shows	1
-FW_FW_FW
-<br />_Cookieman108_<br />	1
-Cookieman108_<br />_<br />	1
-<br />_<br />_Cookieman108	1
+VB_NNP_WRB
+Get_Carter_where	1
 IN_CD_POS
 of_1970_'s	1
 in_60_'s	1
+NNS_RB_``
+films_ever_`	1
 NN_,_WP$
 charm_,_whose	1
 VBN_DT_VBN
@@ -9236,6 +8994,7 @@ entirely_believable_ending.A	1
 wonderfully_dated_theatrical	1
 very_long_time	1
 normally_calm_professional	1
+very_good_film	1
 very_personal_mystery	1
 perhaps_unrecognized_co-star	1
 pretty_fair_argument	1
@@ -9265,12 +9024,15 @@ characters_that_pop	1
 features_that_make	1
 RB_``_VBG
 never_``_swinging	1
+RB_``_PRP
+ever_`_You	1
 DT_NNS_CC
-the_actions_or	1
+the_sets_and	1
+the_Nerds_and	1
+the_guts_or	1
 the_works_but	1
 the_80s_and	1
-the_guts_or	1
-the_sets_and	1
+the_actions_or	1
 NN_MD_RB
 lead_could_not	1
 target.i_wo_n't	1
@@ -9287,8 +9049,6 @@ now_forever_to	1
 only_not_to	1
 right_up_to	1
 back_up_to	1
-VBZ_JJR_IN
-is_more_like	1
 NNP_VBD_TO
 Caine_said_to	1
 NN_RB_JJ
@@ -9296,7 +9056,6 @@ ending.A_very_good	1
 something_totally_unexpected.Gritty	1
 doubt_perfectly_acceptable	1
 half_ruthlessly_competent	1
-<p>_Totally_memorable	1
 music_only_audio	1
 nothing_else_worth	1
 life_too_many	1
@@ -9312,6 +9071,8 @@ life_affirming_''	1
 ,_check_out	1
 ,_cheak_out	1
 ,_run_down	1
+NN_CC_WRB
+mood_but_when	1
 JJ_JJ_IN
 urban_chic_in	1
 NN_RB_,
@@ -9349,16 +9110,12 @@ VB_JJ_PRP
 make_sure_he	1
 RP_,_CC
 down_,_and	1
-NN_VBZ_NNS
-version_hits_theaters	1
 VB_DT_NN
 see_a_bit	1
 give_the_plot	1
 Bought_the_DVD	1
 know_the_truth	1
-<p>_The_plot	1
 love_this_flick	1
-<p>_The_copy	1
 see_the_film	1
 Avoid_the_remake	1
 find_an_answer	1
@@ -9369,7 +9126,6 @@ be_a_investment	1
 save_this_picture	1
 mention_a_gunfight	1
 demand_a_pint	1
-be_a_bit	2
 be_a_thing	1
 see_the_entirety	1
 make_any_difference	1
@@ -9380,17 +9136,13 @@ exemplify_the_difference	1
 need_a_remake	1
 oversee_the_funeral	1
 purchase_the_DVD	1
-<br />_The_disc	1
+be_a_bit	2
 be_THE_standout	1
 attend_the_funeral	2
 unravel_the_truth	1
 watch_the_remake	1
 watch_the_movie	2
-<br />_The_film	2
 watch_the_commentary	1
-<p>_The_violence	1
-<p>_The_story	1
-<p>_The_way	1
 raise_the_bar	1
 uncover_the_truth	1
 hold_a_candle	1
@@ -9401,7 +9153,6 @@ remake_a_movie	1
 have_a_way	1
 be_a_stand	1
 have_a_template	1
-<p>_The_film	3
 Get_this_movie	1
 create_a_frisson	1
 NN_VBD_JJR
@@ -9438,16 +9189,19 @@ I_was_dealing	1
 WDT_VBP_PRP
 that_make_it	1
 VBN_IN_VBG
+heard_of_concerning	1
 dazed_after_finishing	1
 peopled_by_working	1
 praised_for_showcasing	1
 done_by_casting	2
--LRB-_DT_VBG
--LRB-_a_cutting	1
 PRP_VBD_VBN
 it_was_made	1
+POS_NN_CC
+'s_dialogue_and	1
 NNP_CD_.
 January_2001_.	1
+NNP_CD_,
+Carter_1971_,	1
 VB_JJ_CC
 be_warm_and	1
 be_funny_and	1
@@ -9455,6 +9209,7 @@ VB_NNP_NNS
 Get_Carter_trusts	1
 VB_NNP_NNP
 believe_Jack_Carter	1
+Get_Carter_Mike	1
 remind_Jack_Carter	1
 NNS_NN_NNS
 People_smoking_cigarettes	1
@@ -9520,12 +9275,13 @@ never_denied_his	1
 :_PRP_VBZ
 ..._he_'s	1
 :_he_reads	1
+..._It_'s	1
 ;_it_does	1
 -_it_is	1
 ,_WP$_JJ
 ,_whose_only	1
-NNP_VBG_JJ
-Caine_making_final	1
+VBG_RB_JJ
+reading_so_many	1
 IN_WRB_PRP$
 of_how_his	1
 JJ_NNS_NN
@@ -9536,6 +9292,7 @@ IN_DT_EX
 Except_that_there	1
 IN_NNP_DT
 in_London_a	1
+of_Newcastle_a	1
 RB_VBP_PRP
 else_do_you	1
 also_realize_he	1
@@ -9557,8 +9314,6 @@ sexy_Britt_Eklund	1
 drab_North_England	1
 VBD_NN_NN
 realized_character_study	1
--RRB-_CC_WRB
--RRB-_but_when	1
 RB_RB_VBG
 never_once_letting	1
 RB_RB_PRP
@@ -9568,10 +9323,6 @@ is_simple_:	1
 is_breathtaking_;	1
 PRP$_NN_VB
 my_money_Get	1
--LRB-_PRP_VBP
--LRB-_I_count	1
-VBZ_NN_CC
-'s_nothing_but	1
 RB_RB_VBN
 too_emotionally_involved	1
 not_manically_paced	1
@@ -9602,6 +9353,7 @@ is_razor-sharp_,	1
 VBZ_JJ_.
 is_superb_.	1
 's_brutal_.	1
+'s_lovable_.	1
 is_sharp_.	1
 is_magnificent_!	1
 's_real_.	1
@@ -9723,8 +9475,8 @@ the_70s_.	2
 the_participants_.	1
 WP_RB_VBZ
 what_really_makes	1
--LRB-_PRP_VBZ
--LRB-_he_seems	1
+NN_:_''
+man_..._''	1
 WP_RB_VBD
 what_really_happened	2
 what_exactly_happened	1
@@ -9733,8 +9485,10 @@ RB_VBP_``
 also_have_``	1
 NN_:_JJ
 version_-_pure	1
-NN_-RRB-_TO
-coast_-RRB-_to	1
+RB_VB_RB
+even_go_so	1
+n't_go_so	1
+then_sit_back	1
 NNP_``_VB
 Banta_``_Get	1
 Carter_``_investigate	1
@@ -9771,8 +9525,10 @@ mannered_``_ballet	1
 likable_``_cheeky	1
 DT_VBG_DT
 that_being_the	1
-NN_POS_-LRB-
-persona_'s_-LRB-	1
+VBZ_NNP_IN
+features_Caine_in	1
+is_Cain_at	1
+plays_Carter_with	1
 NNP_VBZ_NNP
 BIGGER_is_BETTER	1
 Caine_plays_Carter	2
@@ -9830,6 +9586,7 @@ or_to_inflict	1
 either_to_satisfy	1
 PRP$_NN_NNP
 his_neice_Doreen	1
+his_landlady_Rosemarie	1
 his_journey_Carter	1
 my_opinion_Caine	1
 VBG_RB_CC
@@ -9845,8 +9602,6 @@ CC_RB_RBR
 and_somewhat_more	1
 RB_NN_TO
 back_home_to	1
-CD_POS_IN
-70_'s_in	1
 NNP_``_DT
 Though_``_The	1
 Sleuth_``_this	1
@@ -9863,14 +9618,16 @@ to_his_cowhand	1
 to_his_brother	4
 NN_RB_TO
 train_back_to	1
--LRB-_DT_JJ
--LRB-_the_cheeky	1
--LRB-_The_Last	1
--LRB-_a_bleak	1
+,_RB_,
+,_however_,	1
+,_honestly_,	1
+,_thankfully_,	1
+,_furthermore_,	1
+,_then_,	1
+,_instead_,	1
+,_maybe_,	1
 DT_JJR_IN
 the_better_for	1
--RRB-_IN_DT
--RRB-_of_this	1
 VBG_DT_NNP
 softening_the_Carter	1
 VBG_DT_NNS
@@ -9880,8 +9637,6 @@ stalking_the_streets	1
 ruffling_some_feathers	1
 making_the_rounds	1
 eliminating_the_murderers	1
--RRB-_,_PRP
--RRB-_,_it	1
 JJ_VBP_PRP$
 memorable_are_his	1
 NN_TO_NN
@@ -9896,10 +9651,8 @@ that_'s_saying	1
 ,_while_being	1
 PRP_IN_PRP$
 him_at_his	1
-FW_FW_RB
-<br />_<br />_Then	1
-<br />_<br />_Gradually	2
-<br />_<br />_Apart	1
+NNP_,_NNPS
+Caine_,_Americans	1
 NN_NN_VBZ
 brother.his_investigation_ends	1
 DVD_picture_is	1
@@ -9943,10 +9696,9 @@ Films_that_unflinchingly	1
 VB_NN_CC
 glorify_crime_or	1
 portray_menace_and	1
-NN_NNP_.
-drink_Whiskey_.	1
-<p>_Cheers_!	1
-l_Caine_.	1
+IN_DT_VBZ
+if_this_is	1
+that_this_is	3
 WDT_VBP_VBN
 which_have_doomed	1
 JJ_RB_VBN
@@ -9982,12 +9734,12 @@ VBG_NNS_VBP
 Marching_girls_are	1
 TO_JJ_,
 to_slimy_,	1
-NNP_NNP_NNPS
-<p>_Marching_Girls	1
+CD_,_VBG
+1972_,_starring	1
 VBP_NN_NNS
 like_crime_films	1
-FW_VBP_RB
-<br />_Do_not	1
+VB_IN_:
+remade_with_--	1
 IN_PRP$_JJ
 into_its_own	1
 in_his_mannered	1
@@ -10041,6 +9793,8 @@ CC_RB_EX
 And_naturally_there	1
 NNP_:_DT
 Jaws_:_The	2
+Line_:_A	1
+Holder_-_a	1
 Atlantic_:_a	1
 VBG_NN_TO
 travelling_north_to	1
@@ -10056,8 +9810,12 @@ I_took_to	1
 I_had_to	3
 :_NN_VBG
 -_Caine_answering	1
+NNP_WRB_VBZ
+Micklewhite_how_'s	1
 CD_,_VBZ
+1.74:1_,_looks	1
 1970_,_reminds	1
+1971_,_is	1
 DT_IN_NN
 the_on_screen	1
 this_on_cable	1
@@ -10075,15 +9833,16 @@ amazing_considering_that	1
 ,_VBN_TO
 ,_determined_to	1
 ,_stoked_to	1
-NN_VBD_TO
-eyebrow_raised_to	1
-story_turned_to	2
+NN_POS_FW
+persona_'s_eg	1
 JJ_CC_,
 responsible_and_,	1
-MD_VB_TO
-would_do_to	1
-would_want_to	2
-would_have_to	1
+NNP_NNP_DT
+Too_Late_the	1
+Jack_Carter_a	1
+Britt_Ekland_The	1
+Brit_Eckland_a	1
+Geraldine_Moffat_The	1
 RB_IN_CD
 now_for_one	1
 RB_RB_,
@@ -10111,7 +9870,7 @@ made_Caine_an	1
 NN_PRP_MD
 film_I_would	1
 emotion_he_can	1
-<p>_I_wo	1
+charisma_I_would	1
 TO_WDT_PRP
 to_which_they	1
 JJ_DT_JJ
@@ -10126,8 +9885,8 @@ PRP$_JJS_,
 his_best_,	1
 VB_IN_JJ
 be_of_much	1
-VBD_PRP_WDT
-was_he_that	1
+NNPS_VBP_TO
+British_seem_to	1
 PRP_VBZ_,
 he_arrives_,	1
 it_is_,	1
@@ -10196,6 +9955,7 @@ England_,_in	1
 Carter_,_as	1
 Stallone_,_on	1
 Carter_,_although	1
+Stallone_,_despite	1
 Newcastle_,_while	1
 Jack_,_in	1
 Suschitzky_,_along	1
@@ -10219,10 +9979,6 @@ TO_NN_VBP
 to_violence_are	1
 POS_RB_NNS
 's_not_boring.things	1
-WRB_DT_NN
-when_this_film	1
-how_the_film	1
-When_the_movie	1
 ''_IN_VBG
 '_by_revealing	1
 VBN_NNS_IN
@@ -10260,8 +10016,6 @@ more_fans_as	1
 MD_VB_VBG
 'll_be_wasting	1
 would_be_telling	1
-JJ_NNS_-LRB-
-memorable_characters_-LRB-	1
 NNS_,_IN
 routines_,_in	1
 circumstances_,_so	1
@@ -10316,8 +10070,6 @@ shows_why_he	1
 is_why_we	1
 ,_JJ_PRP
 ,_rare_they	1
-VB_NNP_-LRB-
-Get_Carter_-LRB-	2
 CC_NNP_,
 and_Carter_,	1
 and_Newcastle_,	1
@@ -10481,22 +10233,12 @@ remind_us_he	1
 NNP_VBG_NN
 Carter_travelling_north	1
 London_working_class	1
-DT_NN_-RRB-
-a_glove_-RRB-	1
-the_mood_-RRB-	1
+PRP$_NN_WP
+his_cowhand_who	1
 JJS_NN_.
 best_performance_.	1
-NN_IN_RB
-impact_than_practically	1
-<p>_In_nearly	1
-control_from_there	1
-door_for_similarly	1
-couple_of_amusingly	1
-mind_since_then.Easily	1
-everyone_with_even	1
-scene_about_halfway	1
-memory_for_quite	1
-CARTER_with_only	1
+JJS_NN_,
+greatest_performance_,	1
 PRP$_JJ_JJ
 our_own_dark	1
 his_Nice_guy-Working	1
@@ -10516,9 +10258,10 @@ to_satisfy_his	1
 to_further_his	1
 to_bury_his	1
 VBD_NNP_NNP
-were_Sid_Fletcher	1
-said_?!_<p>	1
+said_?!_Caine	1
+acted_Michael_Caine	1
 overdubbed_?!?!?!?_God	1
+were_Sid_Fletcher	1
 :_WRB_.
 -_Why_?	1
 CC_JJ_.
@@ -10621,8 +10364,6 @@ CC_CD_IN
 but_one_of	1
 NNP_VBG_PRP$
 Newcastle_investigating_his	1
-VBG_RB_JJ
-reading_so_many	1
 NN_VBP_VBG
 actor_are_being	1
 IN_RB_PRP$
@@ -10709,6 +10450,7 @@ with_industrial_life	1
 with_chilling_understatement	1
 by_real_life	1
 with_ice-cold_water	1
+in_British_film	1
 like_grim_factory	1
 in_current_action	1
 of_slow_rot	1
@@ -10731,8 +10473,6 @@ from_low_level	1
 NNP_IN_JJ
 Osborne_in_awesome	1
 Carter_with_ice-cold	1
-NNS_VBP_RBR
-dialogs_become_more	1
 IN_VBN_,
 although_doomed_,	1
 ``_NNP_IN
@@ -10743,9 +10483,6 @@ IN_VBG_VBN
 while_being_observed	1
 from_being_embraced	1
 After_having_seen	1
-NNP_-LRB-_:
-Holder_-LRB-_-	1
-Ekland_-LRB-_...	1
 NN_,_VBG
 style_,_observing	1
 park_,_revealing	1
@@ -10789,8 +10526,6 @@ see_Carter_wandering	1
 ,_for_outstanding	1
 ,_though_many	1
 ,_like_many	1
-NNP_-RRB-_NN
-UK_-RRB-_version	1
 VBD_RB_``
 was_never_``	1
 PRP_VB_,
@@ -10925,6 +10660,7 @@ motive_in_both	1
 proportion_of_the	1
 revenge_for_the	1
 glimpse_of_a	1
+community_after_all	1
 man_in_the	1
 protagonist_as_the	1
 aspect_of_the	1
@@ -11081,8 +10817,6 @@ plot_was_convoluted	1
 guy_was_supposed	1
 RB_NNP_,
 Even_Carter_,	1
--LRB-_NN_TO
--LRB-_anything_to	1
 IN_DT_``
 with_the_``	1
 of_those_``	1
@@ -11102,8 +10836,6 @@ crime_films_to	1
 gansta_movies_to	1
 class_beginnings_to	1
 underworld_attempts_to	1
-VBZ_NN_-RRB-
-is_business_-RRB-	1
 VBZ_JJ_CC
 is_great_and	1
 is_excellent_and	1
@@ -11126,8 +10858,9 @@ is_grim_and	1
 VB_IN_IN
 believe_that_for	1
 be_like_since	1
--RRB-_IN_NN
--RRB-_of_gangster	1
+FW_FW_PRP
+i_felt.but_it	1
+bleep_outta_you	1
 POS_,_NNP
 's_,_Britt	2
 VBZ_DT_CD
@@ -11193,8 +10926,6 @@ one_day_someone	1
 VBN_,_NN
 aroused_,_everybody	1
 taught_,_dark	1
-DT_-LRB-_FW
-all_-LRB-_er	1
 VBD_,_IN
 proposed_,_because	1
 VBN_TO_VB
@@ -11209,8 +10940,20 @@ tried_to_avoid	1
 got_to_be	1
 ,_NNP_JJS
 ,_Caines_greatest	1
-FW_PRP_MD
-<br />_I_ca	1
+NN_,_JJ
+realism_,_other	1
+brother_,_dead	1
+hi-definition_,_slow	1
+hearted_,_cold-blooded	1
+thing_,_naked	1
+hope_,_few	1
+climax_,_terrific	1
+fire_,_absent	1
+body_,_plumpish	1
+ashy_,_wet	1
+side_,_rare	1
+suicide_,_needless	1
+cast_,_grandiose	1
 TO_VB_NN
 to_inflict_pain	1
 to_portray_menace	1
@@ -11236,13 +10979,13 @@ allows_us_opportunities	1
 ,_grandiose_scenes	1
 VB_NN_RB
 GET_CARTER_soon	1
-TO_DT_NNS
-to_the_ganglands	1
-to_the_people	1
+RBS_JJ_IN
+most_notable_during	1
+most_convincing_as	1
 VB_VB_NN
 watch_GET_CARTER	1
--RRB-_VBD_IN
--RRB-_was_with	1
+NN_VBZ_NNS
+version_hits_theaters	1
 NNS_RB_WRB
 years_ago_when	1
 :_NN_,
@@ -11253,8 +10996,6 @@ purposefully_sheds_his	1
 completely_jettisons_his	1
 first_sees_his	1
 invariably_dispatches_his	1
-IN_JJ_-RRB-
-in_British_-RRB-	1
 VBD_NNS_WDT
 built_cars_that	1
 VBN_NNP_POS
@@ -11265,19 +11006,13 @@ RBR_RB_JJ
 more_brutally_violent	1
 FW_FW_VBG
 michael_caine_asking	1
-VB_WRB_IN
-understand_why_after	1
 DT_VBN_TO
 all_made_to	1
--LRB-_PRP_MD
--LRB-_I_would	1
+NNS_WDT_MD
+reasons_which_could	1
 CD_,_IN
 one_,_unless	1
 15_,_except	1
--LRB-_NNP_``
--LRB-_Though_``	1
-FW_FW_VBP
-<br />_<br />_Do	1
 NNP_POS_JJ
 Caine_'s_constant	1
 Hodges_'s_bleak	1
@@ -11303,6 +11038,7 @@ footage_shot_for	1
 screen_presence_of	1
 music_score_by	1
 standout_example_of	1
+B-movie_western_with	1
 class_town_of	1
 A_DVD_for	1
 DVD_release_of	1
@@ -11315,7 +11051,7 @@ jazz_improv_on	1
 burning_hatred_for	1
 GANGSTER_movie_in	1
 film_career_as	1
-B-movie_western_with	1
+underworld_community_after	1
 cool_movie_before	1
 film_history_that	1
 saving_grace_of	1
@@ -11351,8 +11087,6 @@ to_``_Get	2
 to_`_draw	1
 POS_VBZ_RB
 '_is_very	1
-,_CD_-RRB-
-,_1971_-RRB-	1
 PRP$_NNS_IN
 his_victims_without	1
 his_employers_so	1
@@ -11381,8 +11115,6 @@ then_GET_CARTER	1
 DT_NNS_WDT
 those_films_that	1
 the_characteristics_that	1
-NNP_-RRB-_VBP
-Dunham_-RRB-_are	1
 RB_,_CC
 back_,_and	1
 well_,_and	1
@@ -11462,7 +11194,8 @@ with_Mike_Hodges	1
 of_Ian_Hendry	1
 with_Sylvester_Stallone	1
 by_John_Woo	1
-like_Michael_Caine	1
+about_Jack_Carter	1
+by_Michael_Caine	2
 of_The_Glass	1
 by_Jack_Carter	2
 as_Jack_Carter	4
@@ -11473,9 +11206,11 @@ by_Ian_Hendry	1
 in_UK_TV	1
 of_Sly_Stallone	1
 of_Harold_Budd	1
-in_Michael_Caine	1
+with_Sir_Laurence	1
 of_Michael_Caine	4
 as_Long_Good	1
+in_Michael_Caine	1
+that_Carter_Stallone	1
 by_John_Osborne	2
 by_John_Boorman	1
 like_Straight_Time	1
@@ -11490,17 +11225,16 @@ with_Point_Blank	1
 Like_POINT_BLANK	1
 of_Jack_Carter	2
 since_Sylvester_Stallone	1
-with_Sir_Laurence	1
+like_Michael_Caine	1
 by_Mike_Hodges	3
 in_Jack_Carter	1
 with_Serena_F.	1
 that_British_MGM	1
 for_Bernie_Casey	1
-about_Jack_Carter	1
+by_Ted_Lewis	1
 from_Michael_Caine	2
 as_Point_Blank	1
 like_Jack_Carter	1
-by_Michael_Caine	2
 by_John_Osbourne	1
 VBZ_NNP_``
 makes_Carter_``	1
@@ -11524,11 +11258,8 @@ cheak_out_Caine	1
 !_'_.	2
 CC_NN_NN
 and_cigarette_smoke	1
-VBZ_RB_,
-is_very_,	1
-behaves_badly_,	1
-pokes_around_,	1
-is_slowly_,	1
+FW_FW_DT
+Hmmm_&#8230;_This	1
 NN_DT_PRP
 classic_no_I	1
 VBG_RP_TO
@@ -11540,8 +11271,6 @@ best_,_modern	1
 RB_TO_NN
 close_to_anyone	2
 up_to_north	1
-IN_-LRB-_CC
-on_-LRB-_and	1
 IN_RB_NN
 that_hardly_distracts.Overall	1
 TO_DT_CD
@@ -11552,15 +11281,15 @@ IN_NN_''
 of_death_''	1
 VBP_NN_VBZ
 GET_CARTER_is	1
-VBG_VBP_DT
-Directing_are_all	1
+NNP_NNP_WP
+Michael_Caine_who	2
+Jack_Carter_who	1
+John_Osborne_who	1
 VBG_PRP_DT
 giving_us_a	2
 offering_him_a	1
 NN_VBP_PRP
 conclusion_prevent_it	1
--LRB-_:_-RRB-
--LRB-_..._-RRB-	2
 NN_VBZ_FW
 movie_is_michael	1
 POS_VBP_NN
@@ -11571,10 +11300,6 @@ film_,_when	1
 VBD_PRP_DT
 made_it_the	1
 gave_me_this	1
-NN_:_''
-man_..._''	1
-FW_FW_UH
-<br />_<br />_Well	1
 CC_VB_NNS
 and_con_men	1
 RP_TO_DT
@@ -11589,6 +11314,8 @@ So_many_movies	1
 brutally_violent_films	1
 PRP$_NNS_NNS
 his_brothers_hands	1
+``_CD_.
+`_71_.	1
 RB_JJ_NNP
 puzzlingly_irresistible_Michael	1
 JJR_TO_PRP$
@@ -11604,13 +11331,10 @@ who_get_caught	1
 PRP_IN_EX
 us_that_there	1
 itself_because_there	1
-IN_PRP_-LRB-
-for_him_-LRB-	1
-with_them_-LRB-	1
+RP_IN_NNS
+around_with_firearms	1
 RB_DT_WDT
 n't_all_THAT	1
-NN_-RRB-_DT
-practice_-RRB-_no	1
 JJ_TO_DT
 superior_to_the	1
 inherent_to_all	1
@@ -11624,13 +11348,6 @@ dvd_that_would	1
 NNP_,_JJ
 Carter_,_elegant	1
 Carter_,_suspicious	1
-RB_VB_RB
-even_go_so	1
-n't_go_so	1
-then_sit_back	1
-FW_FW_VB
-<br />_<br />_Avoid	1
-<br />_<br />_Get	2
 ,_RB_VBP
 ,_then_do	1
 CC_NNP_NNP
@@ -11655,6 +11372,8 @@ and_London_gangs	1
 ,_ably_supported	1
 ,_still_stuck	1
 ,_simply_titled	1
+NNPS_RB_IN
+Americans_apart_from	1
 NNS_VBP_PRP$
 characters_have_their	1
 girls_play_their	1
@@ -11750,8 +11469,8 @@ was_the_late	1
 liked_the_secondary	1
 wanted_the_original	1
 were_the_British	1
-WDT_VBP_RP
-which_end_up	1
+RP_NN_IN
+up_pornographer_among	1
 RB_RB_DT
 not_just_the	2
 so_right_the	1
@@ -11845,8 +11564,8 @@ our_memories_.	1
 ''_amongst_others	1
 IN_VBZ_DT
 with_becomes_the	1
-IN_JJ_-LRB-
-at_first_-LRB-	1
+JJ_,_CD
+perfect_,_one	1
 JJ_,_CC
 brutal_,_and	1
 quiet_,_and	1
@@ -11883,7 +11602,6 @@ are_inherent_to	1
 NNS_VBP_NNP
 times_Get_Carter	1
 screenwriters_have_Carter	1
-<p>_Get_Carter	1
 NNS_VBP_NNS
 enforcers_are_dandies	1
 POS_NN_VBZ
@@ -11901,6 +11619,8 @@ POS_,_WDT
 MD_DT_NN
 would_an_enemy	1
 would_a_man	1
+NNP_CC_JJ
+Bridge_but_other	2
 ''_VBG_.
 '_recounting_.	1
 CC_,_IN
@@ -11918,11 +11638,6 @@ executed_without_pace	1
 created_on_screen	1
 sported_by_Caine	1
 Driven_by_hatred	1
-NNP_WP_VBZ
-Sheriff_who_fails	1
-London_who_returns	1
-Carter_who_travels	1
-London_who_decides	1
 POS_NN_VBN
 '_novel_titled	1
 's_gang_come	1
@@ -11953,17 +11668,14 @@ go_into_details	1
 VB_IN_NNP
 know_that_Carter	1
 appear_that_way.at	1
-FW_NN_VBZ
-<br />_Caine_is	1
-<br />_Caine/Carter_is	1
+NNP_IN_VBG
+Oscar_for_supporting	1
+Hodges_for_allowing	1
 POS_VBN_IN
 's_been_in	1
 's_painted_in	1
--RRB-_,_DT
--RRB-_,_the	1
-RBR_JJ_TO
-more_appetizing_to	1
-more_interesting_to	1
+NN_POS_.
+father_'s_.	1
 ,_VBP_NNP
 ,_pale_UK	1
 IN_NNP_TO
@@ -11975,8 +11687,6 @@ for_Caine_to	1
 ,_our_would-be	1
 NNS_JJ_NNPS
 ones_few_Americans	1
-CD_VBZ_,
-one_thinks_,	1
 VB_EX_VBD
 know_there_were	1
 DT_VBG_NNP
@@ -11992,8 +11702,6 @@ eyes_off_him	1
 drugs_because_she	1
 ``_NN_VBD
 `_nuff_said	1
-NN_VB_IN
-<p>_Take_for	1
 WRB_VBP_DT
 Where_are_the	1
 where_are_the	1
@@ -12025,17 +11733,12 @@ NNS_NNS_.
 brothers_hands_.	1
 JJ_JJ_VBG
 many_memorable_leading	1
-NNP_-LRB-_CD
-Carter_-LRB-_1971	1
-BLANK_-LRB-_1967	1
 VBN_JJ_VBN
 been_universal_lauded	1
 NNS_NN_WRB
 beggars_belief_why	2
 RB_VBZ_NNP
 really_becomes_Jack	1
-FW_WRB_VBD
-<br />_Why_were	1
 RB_VBZ_NNS
 only_cultivates_relationships	1
 NNS_IN_WP
@@ -12063,7 +11766,6 @@ IN_NNS_RB
 of_locations_as	1
 VB_RB_IN
 exchange_now_for	1
-<br />_Apart_from	1
 Look_also_for	2
 NN_''_WP
 trade_'_who	1
@@ -12071,9 +11773,9 @@ NN_NNP_,
 character_Walker_,	1
 example_Lock_,	1
 era_Britain_,	1
-JJ_-LRB-_IN
-English_-LRB-_as	1
-less-famous_-LRB-_for	1
+NN_NNP_.
+drink_Whiskey_.	1
+l_Caine_.	1
 NNP_CC_NNP
 Newcastle_and_London	1
 Boorman_and_Lee	1
@@ -12097,6 +11799,16 @@ of_that_.	1
 into_this_.	1
 EX_NNP_VBZ
 there_Jack_becomes	1
+NN_IN_RB
+impact_than_practically	1
+control_from_there	1
+door_for_similarly	1
+couple_of_amusingly	1
+mind_since_then.Easily	1
+everyone_with_even	1
+scene_about_halfway	1
+memory_for_quite	1
+CARTER_with_only	1
 VBD_RB_NN
 headed_back_home	1
 IN_DT_VBN
@@ -12214,6 +11926,8 @@ JJ_,_NNS
 culpable_,_orders	1
 CD_NNS_CC
 two_versions_both	1
+NNP_,_WP$
+Osborne_,_whose	1
 DT_``_NNP
 the_``_The	1
 the_``_Limey	1
@@ -12224,17 +11938,10 @@ his_working_class	1
 RB_VBN_CD
 only_made_30	1
 only_been_three	1
--RRB-_TO_VB
--RRB-_to_attend	1
+VB_NNS_VBG
+have_audiences_cheering	1
 FW_DT_NN
-<br />_The_film	2
 &#8230;_This_review	1
-<br />_The_look	1
-<br />_The_picture	1
-<br />_The_violence	1
-<br />_This_film	2
-<br />_The_viewer	1
-<br />_The_movie	1
 CC_DT_JJ
 and_the_recent	1
 and_the_next	1
@@ -12259,8 +11966,8 @@ and_the_drab	1
 and_the_wonderful	1
 and_the_senior	1
 and_the_flamboyant	1
-NNS_._-RRB-
-trivia_?_-RRB-	1
+VBG_VBZ_DT
+missing_is_the	1
 JJ_NN_VB
 female_cast_take	1
 acting_ability_Get	1
@@ -12274,8 +11981,8 @@ likewise_had_many	1
 NN_POS_RB
 man_'s_now	1
 pace.it_'s_not	1
--RRB-_CC_NNP
--RRB-_and_Pam	1
+IN_CD_CC
+between_six_and	1
 ''_IN_PRP$
 ''_in_my	1
 '_with_his	1
@@ -12288,8 +11995,9 @@ found_it_hard	1
 NNP_VBZ_.
 Hodges_inhabits_.	1
 NNP_VBZ_,
-Jack_watches_,	1
 Carter_is_,	1
+Jack_watches_,	1
+Never_Comes_,	1
 Caine_is_,	2
 JJ_IN_``
 such_as_``	1
@@ -12339,18 +12047,12 @@ quotable_lines_`	2
 JJ_IN_RB
 stylish_by_carefully	1
 recommendable_on_so	1
--RRB-_NN_.
--RRB-_film_.	1
 CC_,_RBS
 And_,_most	1
 EX_POS_JJ
 There_'s_enough	1
 VBD_TO_NN
 played_to_perfection	1
-NN_-LRB-_RB
-film_-LRB-_especially	1
-remake_-LRB-_comparatively	1
-Connection_-LRB-_coincidentally	1
 NNP_._''
 Swift_?_''	1
 Alfie_._''	1
@@ -12365,8 +12067,6 @@ Godfather_arrived_in	1
 Caine_traded_in	1
 Carter_was_in	1
 Stallone_appeared_in	1
-JJ_NNP_-LRB-
-mature_Alfie_-LRB-	1
 NNP_PRP_VBD
 Walker_it_was	1
 IN_VBG_PRP$
@@ -12398,10 +12098,6 @@ WP_MD_PRP
 What_can_you	1
 VBD_VBN_TO
 was_supposed_to	1
-FW_JJ_NNP
-<br />_Low-level_London	1
-FW_NNP_MD
-<br />_Hodges_should	1
 NNP_PRP_VBZ
 Newcastle_he_'s	1
 Carter_it_is	1
@@ -12423,8 +12119,6 @@ MD_VB_NN
 would_be_king	1
 NNP_,_VBG
 Warner_,_showing	1
-._-RRB-_.
-?_-RRB-_.	1
 VB_VBN_RB
 be_found_here	1
 NNP_,_VBP
@@ -12474,6 +12168,7 @@ VBZ_VBN_CC
 has_written_and	1
 :_DT_JJ
 :_a_compulsive	1
+:_A_brutal	1
 ..._a_local	1
 -_a_steamy	1
 VBN_NN_,
@@ -12503,6 +12198,8 @@ to_guns_,	1
 ,_suffer_for	1
 VBN_NNP_NNP
 born_Maurice_Joseph	1
+named_Carter_Michael	1
+named_Kinnear_Osborne	1
 named_Albert_Swift	1
 NN_VBD_NNP
 nuff_said_?!	1
@@ -12550,7 +12247,6 @@ type_action_flick	1
 film_Academy_Award	1
 parade_ground_drill	1
 actor_revenge_flick	1
-<p>_A_DVD	1
 Academy_Award_winner	1
 planning_board_study	1
 city_planning_board	1
@@ -12566,9 +12262,6 @@ JJS_NNS_TO
 greatest_actors_to	1
 DT_RB_VBG
 a_truly_haunting	1
-IN_NN_-LRB-
-of_charisma_-LRB-	1
-for_anything_-LRB-	1
 PRP$_NNS_''
 her_Sisters_''	1
 RB_,_DT
@@ -12587,9 +12280,9 @@ not_,_those	1
 before_,_this	1
 DT_IN_PDT
 All_in_all	1
-''_MD_VB
-'_will_say	1
-''_may_be	1
+VBZ_NN_.
+does_anything_!	1
+is_business_.	1
 JJ_NN_DT
 different_person_each	1
 frenetic_pace.and_every	1
@@ -12600,6 +12293,7 @@ in_it_such	1
 RB_VBD_TO
 finally_got_to	1
 :_NNP_,
+..._Well_,	1
 :_Kinnear_,	1
 VB_''_WRB
 investigate_''_how	1
@@ -12618,10 +12312,10 @@ NN_RB_IN
 way_almost_in	2
 public_alike_as	1
 script_just_for	1
-<p>_Still_on	1
-ky_Just_on	1
 Look_Back_in	1
+ky_Just_on	1
 plot_away_beyond	1
+film_especially_if	1
 NNP_CC_PRP
 Croupier_and_I	1
 VBN_PRP$_NNP
@@ -12640,8 +12334,6 @@ the_British_still	1
 :_CC_IN
 ..._and_with	1
 ..._but_if	1
-RP_VBZ_DT
-out_is_the	1
 EX_VBZ_NN
 there_is_something	1
 CC_NNS_VBP
@@ -12663,16 +12355,13 @@ NN_:_VBZ
 close_-_has	1
 NNP_WRB_PRP$
 England_where_my	1
--LRB-_:_DT
--LRB-_-_a	1
 VBP_,_VBP
 watch_,_enjoy	1
 fear_,_do	1
 mean_,_pale	1
-VBP_-RRB-_,
-do_-RRB-_,	1
-VBP_-RRB-_.
-suppose_-RRB-_.	1
+IN_NNP_WP
+in_London_who	1
+from_London_who	1
 WP_VBD_,
 who_directed_,	1
 VBN_``_NNP
@@ -12736,18 +12425,11 @@ JJ_PRP_VBP
 authentic_we_feel	2
 RBR_CC_RBR
 more_and_more	1
-FW_FW_IN
-<br />_<br />_By	1
-<br />_<br />_If	1
-<br />_<br />_As	2
-<br />_<br />_At	1
-<br />_<br />_In	1
-<br />_<br />_After	1
-<br />_<br />_While	1
+NNS_,_PRP$
+roots_,_his	1
+bodies_,_their	1
 TO_JJ_NNPS
 to_other_Americans	1
-NN_CD_NN
-<br />_I_love	1
 VBG_NN_NN
 working_class_town	1
 cutting_edge_scene	1
@@ -12768,8 +12450,6 @@ NN_POS_NNS
 today_'s_standards	1
 today_'s_filmmakers	1
 today_'s_movies	2
-MD_VB_NNS
-can_burn_holes	1
 POS_NN_MD
 's_neice_wo	1
 's_soul_must	1
@@ -12861,6 +12541,7 @@ many_levels_.	1
 French_subtitles_.	1
 various_censors_.	1
 own_sports_?	1
+British_gangsters_.	1
 JJ_NNS_,
 english_mobsters_,	1
 usual_portrayals_,	1
@@ -12926,7 +12607,6 @@ least_that_'s	1
 NN_EX_VBZ
 brutality_there_is	1
 hand_there_'s	1
-<p>_There_'s	1
 JJ_IN_CD
 acceptable_in_1970	1
 loaded_with_70s	1
@@ -12956,6 +12636,7 @@ the_first_and	1
 NNS_DT_IN
 objects_some_of	1
 PRP_VBP_.
+I_suppose_.	1
 we_meet_.	1
 PRP_WDT_VBZ
 her_which_makes	1
@@ -12964,15 +12645,11 @@ him_that_makes	1
 POS_``_VB
 's_``_Get	1
 's_``_Hit	1
--LRB-_IN_VBD
--LRB-_as_was	1
 DT_NNS_NN
 the_directors_use	1
 this_characters_name	1
 VBN_PRP_RB
 realized_it_yet	1
--LRB-_WP_VBD
--LRB-_who_wrote	1
 RB_JJ_CC
 sometimes_aimless_but	1
 very_steely_and	1
@@ -13012,8 +12689,6 @@ together_and_once	1
 RB_CD_,
 about_15_,	1
 very_70s_,	1
--LRB-_WP_VBZ
--LRB-_who_walks	1
 VBG_NN_:
 cracking_pace_-	1
 PRP_WDT_VBD
@@ -13115,8 +12790,6 @@ directed_by_John	1
 set_in_London	1
 played_by_John	3
 written_on_Jack	1
-NNS_''_-RRB-
-Sisters_''_-RRB-	1
 VBZ_VBG_RP
 's_blasting_away	1
 's_going_on	1
@@ -13175,13 +12848,14 @@ VBZ_RB_RP
 is_now_out	1
 PRP$_NN_,
 his_location_,	2
-his_mission_,	1
+his_niece_,	1
 his_mistress_,	1
 his_flat_,	1
 my_opinion_,	1
 his_family_,	1
 his_brother_,	4
 her_bath_,	1
+his_mission_,	1
 my_introduction_,	1
 its_bleakness_,	1
 his_shotgun_,	1
@@ -13314,6 +12988,7 @@ Carter_puts_it	1
 Carter_reminds_you	1
 Caine_allows_us	1
 VBN_IN_CC
+Based_on_and	1
 crackerjack_through_and	1
 come_in_and	1
 JJS_IN_DT
@@ -13335,8 +13010,6 @@ RB_JJ_VBZ
 so_dangerous_is	1
 NN_FW_VB
 end_i_know	1
--RRB-_CC_,
--RRB-_and_,	1
 RP_,_IN
 up_,_until	1
 PRP$_JJ_``
@@ -13372,11 +13045,6 @@ VBD_CC_IN
 were_both_in	1
 DT_VBN_RP
 a_mobbed_up	1
-IN_DT_VBZ
-if_this_is	1
-that_this_is	3
-VB_PRP_RBR
-make_him_more	1
 JJR_NN_CC
 better_role_nor	1
 VBZ_VBN_RB
@@ -13395,14 +13063,10 @@ will_haunt_your	1
 'll_snap_his	1
 could_share_his	1
 can_smudge_their	1
-IN_TO_JJR
-on_to_bigger	1
 VBZ_IN_IN
 's_that_for	1
 is_from_so	1
 comes_out_of	1
-VBG_-RRB-_IN
-speaking_-RRB-_of	1
 NNP_VBD_DT
 Soderbergh_made_the	1
 File_isnt_a	1
@@ -13419,11 +13083,6 @@ be_intentionally_so	1
 get_too_close	2
 be_too_emotionally	1
 play_just_as	1
-JJ_-LRB-_``
-sympathetic_-LRB-_``	1
-clumsy_-LRB-_``	1
-POS_CC_``
-'_and_`	1
 VBG_TO_JJ
 talking_to_other	1
 JJS_NNS_,
@@ -13450,7 +13109,7 @@ about_halfway_through	1
 through_well_enough	1
 if_only_not	1
 NNP_CC_PRP$
-Caine_and_his	1
+Caine_and_his	2
 Hannah_and_Her	1
 Carter_and_his	1
 Hannah_and_her	1
@@ -13482,26 +13141,19 @@ The_normally_calm	1
 the_puzzlingly_irresistible	1
 a_truly_absurd	1
 The_perhaps_unrecognized	1
-NN_NNS_VBP
-action_setpieces_are	1
-<p>_Women_wear	1
-gang_enforcers_are	1
-fact_things_are	1
-supporting_players_are	2
 WRB_NNP_NNP
 why_Ipress_File	1
 when_Steven_Soderbergh	1
 when_Jack_Carter	1
 RP_PRP$_RB
 away_his_fairly	1
--LRB-_LS_MD
--LRB-_i_ca	1
 ,_NNP_.
 ,_Newcastle_.	1
 ,_Mam_.	1
 DT_JJS_CC
 the_grittiest_and	1
 ,_NNP_,
+,_Croupier_,	1
 ,_Sleuth_,	1
 ,_Kinnear_,	1
 VBG_NNS_.
@@ -13542,14 +13194,12 @@ shirts_with_long	1
 JJ_``_NNP
 undisputed_``_King	1
 superlative_``_Carter	1
+clumsy_``_Gambit	1
+sympathetic_``_Hannah	1
 DT_JJS_,
 the_best_,	1
 The_grimmest_,	1
-VB_IN_:
-remade_with_--	1
 FW_VB_DT
-<br />_Avoid_the	1
-<br />_Get_this	1
 yo_watch_the	1
 NN_``_NNP
 film_``_Payback	1
@@ -13601,31 +13251,13 @@ analogy_to_what	1
 justice_to_what	1
 IN_VBG_NNP
 as_simmering_London	1
-NN_VBZ_DT
-professional_becomes_an	1
-accident_is_no	1
-film_presents_a	1
-lot_gets_a	1
-film_is_a	2
-north_is_a	1
-film_has_some	1
-movie_exposes_some	1
-outset_adds_a	1
-movie_is_some	1
-version_has_a	1
-CARTER_is_a	1
-disc_contains_some	1
-film_is_the	1
-shotgun_is_a	1
-DVD-version_features_a	1
-soundtrack_is_a	1
-movie_has_a	1
-script_is_the	1
-hand_is_a	1
-theme_is_a	1
-Revenge_is_the	1
-mobsters.Jack_puts_each	1
-film_takes_a	1
+IN_VBG_NNS
+of_Marching_Girls	1
+of_crumbling_factories	1
+by_casting_playwrights	2
+of_decaying_workers	1
+CD_EX_VBZ
+1971_There_'s	1
 DT_RB_VBN
 the_newly_built	2
 a_long_gone	1
@@ -13633,9 +13265,6 @@ the_loosely_threaded	1
 This_little_seen	1
 PRP_RP_IN
 himself_up_at	1
-RBS_JJ_IN
-most_notable_during	1
-most_convincing_as	1
 CD_IN_NNP
 one_of_Michael	4
 one_of_Carter	1
@@ -13648,8 +13277,8 @@ VB_PRP$_JJ
 advance_his_relentless	1
 further_his_own	1
 satisfy_his_sexual	1
-IN_JJ_VBG
-without_destructive_compromising	1
+:_NNP_.
+..._Cheers_!	1
 NNS_,_PRP
 performers_,_they	1
 rackets_,_you	1
@@ -13669,7 +13298,6 @@ for_quite_a	1
 with_only_the	1
 In_nearly_all	1
 FW_FW_JJ
-<br />_<br />_Low-level	1
 micheal_caine_second	1
 VBZ_NN_RB
 finds_something_totally	1
@@ -13684,8 +13312,6 @@ VBN_VBG_IN
 been_burning_for	1
 VB_IN_.
 identify_with_.	1
--RRB-_VBZ_TO
--RRB-_returns_to	1
 WDT_VBD_NNP
 that_made_Caine	1
 ,_WP_VBD
@@ -13718,21 +13344,20 @@ NNP_JJ_NN
 Angry_young_man	1
 Jackie_Mason-like_wit	1
 London_based_villain	1
-IN_-LRB-_VBG
-of_-LRB-_concerning	1
 NN_WDT_VBP
 film_which_are	1
 JJ_,_VBZ
 malevolent_,_has	1
 dirty_,_has	1
+VBG_VBP_DT
+Directing_are_all	1
 RP_IN_CC
 off_from_both	1
--RRB-_,_NNP
--RRB-_,_Alun	1
--RRB-_,_John	1
--RRB-_,_Geraldine	1
--RRB-_,_Britt	1
--RRB-_,_Carter	2
+NNS_,_NNS
+heels_,_miniskirts	1
+tears_,_splashes	1
+streets_,_pubs	1
+suits_,_shirts	1
 JJ_,_VBP
 sure_,_do	1
 NN_WDT_VBZ
@@ -13778,23 +13403,29 @@ period_that_gave	1
 JJ_,_VBN
 dead_,_determined	1
 ugly_,_littered	1
-DT_NN_PRP
-this_movie_I	1
-an_actor_I	1
-a_shotgun_he	1
-the_way_they	1
-the_fact_it	1
-a_film_I	1
-the_moment_he	1
-the_train_he	1
-this_film_he	1
-a_movie_I	1
-the_movie_itself	1
-the_end_he	1
-a_pistol_he	1
-the_DVD_I	1
-a_mov_I	2
-the_moment_we	1
+NNP_NNP_,
+Chris_Jarmick_,	1
+Flash_Gordon_,	1
+Terminal_Man_,	1
+Grier_Coffy_,	1
+Vampire_Hunter_,	1
+Armstrong_Krull_,	1
+Benny_Hill_,	1
+John_Osbourne_,	1
+Caine_Zulu_,	1
+Wolfgang_Suschitzky_,	1
+Mike_Hodges_,	5
+Kinnear_Osborne_,	1
+Italian_Job_,	1
+John_Osborne_,	3
+Jack_Carter_,	10
+Richard_Burton_,	1
+Carter_Stallone_,	1
+Michael_Caine_,	6
+Britt_Ekland_,	1
+Ian_Hendry_,	1
+Point_Blank_,	1
+Sylvester_Stallone_,	2
 WDT_VBZ_JJ
 which_is_amazing	1
 JJ_VBG_RP
@@ -13834,10 +13465,11 @@ a_way_,	1
 a_brother_,	1
 the_film_,	3
 the_earth_,	1
+the_genre_,	1
 no_one_,	1
 the_soul_,	1
 the_truth_,	3
-the_genre_,	1
+a_glove_,	1
 a_kid_,	1
 a_reason_,	1
 the_ending_,	1
@@ -13860,9 +13492,6 @@ a_thug_,	1
 the_music_,	1
 the_plot_,	1
 the_villain_,	1
-CC_JJ_-LRB-
-and_sympathetic_-LRB-	1
-and_clumsy_-LRB-	1
 JJ_,_VBG
 immoral_,_womanizing	1
 gritty_,_working	1
@@ -13884,14 +13513,13 @@ have_the_superlative	1
 make_those_responsible	1
 live_the_ballsy	1
 be_an_above	1
-find_the_human	1
 be_a_Brit-classic	1
 be_the_same	1
 become_a_listed	1
 be_a_ruthless	1
 make_a_long	1
 get_a_long	1
-<p>_The_last	1
+find_the_human	1
 be_a_complete	1
 RB_RB_JJ
 not_highly_original	1
@@ -13958,6 +13586,7 @@ NN_JJ_RB
 nothing_sacred_anymore	1
 JJ_NN_VBG
 wry_smile_hovering	1
+good_film_starring	1
 suburban_street_wearing	1
 fine_job_portraying	1
 recent_re-make_starring	1
@@ -13970,8 +13599,6 @@ unromantic_world_it	1
 last_night_I	1
 whole_film_they	1
 first_time_I	1
--RRB-_NN_NNP
--RRB-_<p>_Cheers	1
 JJ_NN_VBD
 British_film_was	1
 good_friend_gave	1
@@ -14035,30 +13662,13 @@ home_and_memorably	1
 glass_and_then	1
 character_and_menacingly	1
 masterpiece_and_not	1
-NNP_NNP_-LRB-
-John_Osborne_-LRB-	2
-Geraldine_Moffat_-LRB-	1
-Jack_Carter_-LRB-	2
-POINT_BLANK_-LRB-	1
-Joseph_Micklewhite_-LRB-	1
-Britt_Ekland_-LRB-	2
-Bernie_Casey_-LRB-	1
-Ian_Hendry_-LRB-	1
-F._Holder_-LRB-	1
-Michael_Caine_-LRB-	1
-Alun_Armstrong_-LRB-	1
-Glynn_Edwards_-LRB-	1
-Mike_Hodges_-LRB-	1
-Brit_Eckland_-LRB-	1
-Bryan_Mosley_-LRB-	1
-Pam_Grier_-LRB-	1
 VBN_,_RB
 collected_,_completely	1
 made_,_even	1
-POS_,_VBZ
-'s_,_is	1
 RP_PRP$_``
 off_his_``	1
+:_CD_DT
+-_6.3_This	2
 VBP_VBG_DT
 'm_watching_a	1
 NNP_''_MD
@@ -14088,27 +13698,18 @@ But_ours_not	1
 IN_DT_WP
 from_those_who	1
 for_those_who	1
-VBN_NNP_-LRB-
-named_Kinnear_-LRB-	1
-named_Carter_-LRB-	1
 CD_JJ_JJ
 1971_British_noir	1
 three_good_british	1
 one_loving_noir	1
-TO_VB_WRB
-to_reason_why	1
+NN_VBD_TO
+eyebrow_raised_to	1
+story_turned_to	2
 NN_IN_WDT
 scene_in_which	1
 TO_RB_VB
 to_really_be	1
 to_finally_be	1
-NNS_,_NNS
-heels_,_miniskirts	1
-tears_,_splashes	1
-streets_,_pubs	1
-suits_,_shirts	1
--RRB-_,_NNPS
--RRB-_,_Americans	1
 NN_,_NN
 um_,_shotgun	1
 music_,_cinematography	1
@@ -14151,16 +13752,22 @@ as_he_would	1
 ,_without_apologies	1
 ,_with_rows	1
 ,_of_thugs	1
-NNP_NNP_DT
-Too_Late_the	1
-Jack_Carter_a	1
+MD_VB_TO
+would_do_to	1
+would_want_to	2
+would_have_to	1
 VBG_PRP$_NNS
 taking_his_aggressions	1
 regarding_his_roots	1
-,_IN_NNP
-,_despite_Sylvester	1
-,_as_Carter	2
-,_in_Newcastle	1
+VBG_RP_IN
+letting_up_on	1
+stepping_out_onto	1
+blasting_away_with	1
+stretching_out_in	1
+running_out_into	1
+wandering_around_with	1
+JJ_TO_PRP
+interesting_to_me	1
 JJ_``_NN
 other_``_gangster	1
 contemporary_`_Villain	1
@@ -14220,7 +13827,6 @@ story_and_the	1
 revolution_and_the	1
 score_and_the	1
 line_or_a	1
-<p>_And_this	1
 mobster_and_the	1
 atmosphere_and_the	1
 trailer_and_a	1
@@ -14245,12 +13851,9 @@ re-make_starring_Sylvester	1
 NN_VBG_NNS
 co_starring_roles	1
 VB_DT_IN
-<p>_Some_of	1
 mention_this_in	1
 do_that_in	1
 exhibit_some_of	1
-FW_NNP_WRB
-<br />_Caine_when	1
 DT_NNP_POS
 the_Kray_'s	1
 VBZ_RBR_RB
@@ -14263,18 +13866,12 @@ much_the_better	1
 DT_VBZ_JJ
 this_is_British	1
 this_seems_hard	1
-NN_VBN_CC
-film_remastered_and	1
-NNP_VBZ_-RRB-
-Never_Comes_-RRB-	1
+,_WRB_NN
+,_where_rain	1
 IN_NNP_''
 of_Cool_''	1
 PRP$_NN_PRP
 his_investigation_he	2
-DT_-LRB-_IN
-all_-LRB-_as	1
-VBG_PRP_NNS
-giving_them_lines	1
 CD_CC_RB
 six_and_about	1
 IN_JJS_NNS
@@ -14326,10 +13923,11 @@ PRP_JJ_IN
 it_such_as	1
 him_alive_in	1
 IN_JJ_CC
+As_cunning_and	1
 of_telling_and	1
 by_familiar_but	1
 of_ultra-violent_or	1
-As_cunning_and	1
+at_first_but	1
 VBZ_RP_IN
 sets_out_on	1
 stands_out_in	1
@@ -14384,9 +13982,6 @@ It_'s_very	1
 it_'s_still	1
 He_'s_not	1
 he_is_not	1
-IN_NNP_WP
-in_London_who	1
-from_London_who	1
 RB_,_NNP
 Nonetheless_,_Caine	1
 yet_,_Mike	1
@@ -14414,8 +14009,6 @@ has_readily_admitted	1
 is_highly_recommended	1
 is_now_called	1
 is_so_identified	2
--LRB-_DT_NN
--LRB-_The_Wicker	1
 NNP_JJS_NNS
 Caines_best_performances	1
 ,_NNP_MD
@@ -14438,9 +14031,6 @@ RP_DT_NNS
 up_the_locals	1
 RB_VBZ_JJ
 also_takes_full	2
--LRB-_RB_VBN
--LRB-_coincidentally_released	1
--LRB-_well_known	1
 DT_RBR_VBG
 the_more_demanding	1
 VBP_NNP_NNS
@@ -14449,18 +14039,16 @@ CC_WRB_NN
 but_when_vengence	1
 VBP_NNP_NNP
 like_Michael_Caine	1
--LRB-_RB_VBG
--LRB-_comparatively_speaking	1
 NN_RP_NNS
 stand_out_performances	1
 CC_VBZ_VBN
 and_has_been	2
 and_is_directed	1
 and_is_blessed	1
+VB_NNP_CD
+Get_Carter_1971	1
 NN_''_RB
 hero_'_invariably	1
-FW_UH_,
-<br />_Well_,	1
 IN_VBG_NN
 by_working_class	1
 for_supporting_actor	1
@@ -14493,15 +14081,17 @@ long_time_to	1
 heavy_price_to	1
 unwise_attempt_to	1
 visceral_thrill_to	1
+northern_coast_to	1
 VBD_VBG_TO
 was_going_to	1
 NN_:_``
 time_..._``	1
 NNP_NNP_RB
-?!?!?!?_God_only	1
-Michael_Caine_as	1
+Glynn_Edwards_well	1
 Michael_Caine_recently	1
+Michael_Caine_as	1
 Jack_Carter_so	1
+?!?!?!?_God_only	1
 Britt_Ekland_almost	1
 NN_TO_VB
 town_to_avenge	1
@@ -14521,14 +14111,13 @@ brother_to_be	1
 time_to_get	2
 something_to_raise	1
 willingness_to_throw	1
-way_to_describe	1
+coast_to_attend	1
 order_to_avoid	1
 need_to_stand	1
 idiot_to_try	1
 nothing_to_show	1
 actor_to_create	1
 thrill_to_be	1
-<p>_To_make	1
 movie_to_see	1
 imagination_to_do	1
 anything_to_be	1
@@ -14537,6 +14126,7 @@ move_to_shed	1
 north_to_find	1
 power_to_shock	1
 attempt_to_make	1
+way_to_describe	1
 order_to_further	1
 something_to_soften	1
 something_to_let	1
@@ -14581,7 +14171,7 @@ never_allows_himself	1
 soon_finds_himself	1
 NN_WP_VBZ
 member_who_specializes	1
-man_who_'s	1
+character_who_walks	1
 guy_who_gets	1
 kid_who_helps	1
 killer_who_seeks	1
@@ -14591,6 +14181,7 @@ villain_who_returns	1
 mob_who_returns	1
 protagonist_who_'s	1
 death_who_'s	1
+man_who_'s	1
 gangster_who_stops	1
 professional_who_is	1
 criminal_who_decides	1
@@ -14611,8 +14202,6 @@ nihilistic_in_its	1
 great_in_their	1
 PRP_RBR_JJ
 him_more_appetizing	1
-NNPS_VBP_TO
-British_seem_to	1
 NNS_CC_RB
 lapels_and_long	1
 60s_and_probably	1
@@ -14846,8 +14435,6 @@ all_that_well	1
 RB_NNP_NNP
 Probably_Michael_Caine	1
 namely_Lee_Marvin.Get	1
--LRB-_DT_NNP
--LRB-_the_Tyne	2
 VBG_VBN_DT
 having_seen_the	1
 VB_NNP_POS
@@ -14859,8 +14446,6 @@ NNP_,_WRB
 London_,_where	1
 VBP_EX_VBD
 wish_there_was	1
-PRP_-LRB-_CC
-him_-LRB-_and	1
 VBZ_JJ_NN
 's_startling_realism	1
 avoids_certain_death	1
@@ -14883,6 +14468,7 @@ gangster_flicks_of	1
 crime/gangster_films_since	1
 cop_movies_from	1
 gunfighter_rides_into	1
+etc_stars_as	1
 gangsta_movies_of	1
 camera_angles_from	1
 motion_pictures_of	1
@@ -14910,20 +14496,10 @@ Carter_and_keeps	1
 WDT_RB_VBD
 that_once_bustled	1
 that_unflinchingly_focused	1
--RRB-_,_WP$
--RRB-_,_whose	1
-,_RB_,
-,_however_,	1
-,_honestly_,	1
-,_thankfully_,	1
-,_furthermore_,	1
-,_then_,	1
-,_instead_,	1
-,_maybe_,	1
+''_:_WP
+''_..._what	1
 IN_VBG_RB
 after_reading_so	1
--LRB-_VBG_JJ
--LRB-_concerning_British	1
 JJ_NN_NNS
 intriguing_character_details	1
 real_life_events	1
@@ -14964,17 +14540,12 @@ that_Carter_is	1
 as_Carter_puts	1
 as_Caine_is	1
 as_Carter_is	1
-VBZ_,_PRP
-is_,_it	1
-is_,_he	2
 CC_NN_MD
 and_death_will	1
-NNS_,_PRP$
-roots_,_his	1
-bodies_,_their	1
-FW_FW_WRB
-<br />_<br />_When	1
-<br />_<br />_Why	1
+WRB_DT_NN
+when_this_film	1
+how_the_film	1
+When_the_movie	1
 NNS_POS_NN
 brothers_'_funeral	1
 NN_NN_RB
@@ -15066,10 +14637,11 @@ marks_-_Why	1
 JJ_NN_,
 incredible_film_,	2
 industrial_life_,	1
+brooding_lead_,	1
 compelling_one_,	1
 remorseless_killer_,	1
 cold-blooded_killer_,	1
-little_hope_,	1
+Last_Chapter_,	1
 industrial_north_,	1
 bad_dude_,	1
 nice_guy_,	1
@@ -15101,16 +14673,17 @@ insolent_chancer_,	1
 theatrical_trailer_,	1
 sexual_appetite_,	1
 startling_realism_,	1
-red_engine_,	1
+little_hope_,	1
 ok_performance_,	1
 central_performance_,	1
 audio_track_,	1
 big_man_,	3
 absolute_favourite_,	1
 other_film_,	1
-own_profitability_,	1
+red_engine_,	1
 strong_stuff_,	1
-brooding_lead_,	1
+own_trap_,	1
+own_profitability_,	1
 enjoyable_film_,	1
 same_title_,	1
 local_porn-king_,	1
@@ -15123,7 +14696,7 @@ average_remake_,	1
 unforgettable_climax_,	1
 proper_support_,	1
 broad_daylight_,	1
-own_trap_,	1
+certain_death_,	1
 telling_scene_,	1
 human_side_,	1
 brief_shoot-out_,	1
@@ -15131,9 +14704,11 @@ straight_dope_,	1
 same_place_,	1
 IN_NN_PRP
 of_anything_he	1
-as_anything_I	1
 of_thing_you	1
+as_anything_I	1
+of_charisma_I	1
 Upon_arrival_he	1
+for_anything_he	1
 JJ_NN_.
 fatal_mistake_.	1
 own_brother_?	1
@@ -15161,6 +14736,7 @@ recent_death_.	1
 noteworthy_film_.	1
 postwar_decline_.	1
 frightening_gangster_.	1
+British_film_.	1
 animalistic_killer_.	1
 bad_man_.	1
 moral_outrage_.	1
@@ -15173,6 +14749,7 @@ slow_rot_.	1
 tremendous_actor_.	1
 bad_shape_!	2
 good_reason_.	1
+suspicious_death_.	1
 unmitigated_darkness_.	1
 memorable_delight_.	1
 bad_guy_.	2
@@ -15182,6 +14759,7 @@ original_w/M_.	1
 lovable_sort_.	1
 good_person_.	1
 musical_score_.	1
+international_star_.	1
 great_music_.	2
 excellent_presentation_.	1
 GREAT_FILM_!	1
@@ -15189,6 +14767,7 @@ courageous_performance_.	1
 moral_core_.	1
 much_use_.	1
 relentless_ugliness_.	1
+personal_favorite_!	1
 long_time_.	2
 variable_career_.	1
 central_premise_.	2
@@ -15198,7 +14777,7 @@ chilling_understatement_.	1
 awesome_form_.	1
 laughing_gas_.	1
 political_correctness_.	1
-personal_favorite_!	1
+Madding_Crowd_.	1
 underground_world_.	1
 brutal_film_.	1
 WDT_MD_RB
@@ -15336,9 +14915,6 @@ Stallone_version_-	1
 ,_probably_my	1
 ,_VBG_TO
 ,_trying_to	1
--RRB-_,_CC
--RRB-_,_but	1
--RRB-_,_and	4
 POS_CD_JJ
 's_three_tasty	1
 PRP$_NN_POS
@@ -15431,19 +15007,15 @@ flats_,_and	1
 ends_,_and	1
 events_,_but	1
 pubs_,_and	1
-FW_WRB_DT
-<br />_When_the	1
 TO_VB_``
 to_get_``	1
 VBN_RBR_JJ
 been_more_interesting	1
 POS_VBP_MD
 's_stare_can	1
-JJR_IN_``
-better_in_``	1
 NNP_:_NNP
 Kronos_-_Vampire	1
-Carter_..._<br />	1
+Carter_..._Caine	1
 ``_EX_VBP
 ``_There_have	1
 VB_NNP_,
@@ -15492,14 +15064,13 @@ NN_VBZ_PRP
 film_progresses_we	1
 remake_fills_me	1
 gangsterism_affects_us	1
-,_NNP_-RRB-
-,_Croupier_-RRB-	1
+RP_VBZ_DT
+out_is_the	1
+VBD_NN_CD
+Hit_Man_1972	1
 VB_,_NNP
 say_,_Carter	1
 prevail_,_Hodges	1
-:_FW_FW
-..._<br />_<br />	1
-:_<br />_<br />	1
 EX_VBZ_RB
 There_is_absolutely	1
 NN_CC_EX
@@ -15546,6 +15117,7 @@ angel_of_death	1
 spate_of_television	1
 pain_for_information-gathering	1
 town_of_decay	1
+year_of_gangster	1
 undercurrent_of_evil	1
 despatch_with_aid	1
 desire_for_revenge	1
@@ -15595,7 +15167,6 @@ plenty_of_sex	1
 hail_of_lead	1
 portrait_without_justification	1
 world_of_pornography	1
-<p>_Upon_arrival	1
 VBZ_RB_NN
 is_unmistakeably_home	1
 is_also_good.for	1
@@ -15661,8 +15232,6 @@ sacred_anymore_?	1
 NNP_PRP_.
 Carter_himself_.	1
 Caine_himself_.	1
-FW_RB_IN
-<br />_Apart_from	1
 JJ_CD_IN
 single_one_of	1
 IN_JJ_NNS
@@ -15722,21 +15291,9 @@ What_'s_the	1
 ,_VBG_NNP
 ,_starring_Bernie	1
 ,_including_Ekland	1
-CC_NN_PRP
-and_dialogue_I	1
-and_film_it	1
 PRP_,_RB
 it_,_even	2
 himself_,_apart	1
--LRB-_NNP_,
--LRB-_Zulu_,	1
--LRB-_Coffy_,	1
--LRB-_NNP_-RRB-
--LRB-_Caine_-RRB-	1
--LRB-_UK_-RRB-	1
--LRB-_Osborne_-RRB-	1
--LRB-_Stallone_-RRB-	1
--LRB-_Krull_-RRB-	1
 NNS_TO_VB
 actors_to_have	1
 films_to_come	1
@@ -15752,8 +15309,6 @@ warnings_to_lay	1
 people_to_remind	1
 attempts_to_force	1
 warnings_to_subsist	1
--LRB-_NNP_IN
--LRB-_Far_from	1
 WP_VBN_PRP$
 Who_Killed_His	1
 VBZ_TO_``
@@ -15785,11 +15340,9 @@ it_,_than	1
 ,_''_in	1
 POS_JJ_CC
 's_prim_and	1
-NNP_NN_NNS
-Newcastle_setting_compliments	1
-London_gansta_movies	1
-Northern_gang_enforcers	1
-Lone_gunfighter_rides	1
+RP_WP_RB
+out_what_exactly	1
+out_what_really	1
 PRP_DT_VBN
 it_all_written	1
 RB_,_JJ
@@ -15820,11 +15373,6 @@ JJ_,_WRB
 big_,_when	1
 IN_NNS_VBZ
 in_peoples_faces	1
--LRB-_IN_PRP
--LRB-_although_I	1
-NN_-LRB-_CD
-widescreen_-LRB-_1.74:1	1
-Man_-LRB-_1972	1
 RB_VBN_NNS
 even_tarnished_ones	1
 well_known_faces	1
@@ -15930,7 +15478,10 @@ watch_,_the	1
 ,_the_script	1
 ,_the_mummy	1
 ,_some_care	1
-PRP_-LRB-_NNP
-them_-LRB-_Carter	1
+VBZ_,_PRP
+is_,_it	1
+is_,_he	2
+NNS_._.
+trivia_?_.	1
 VBZ_TO_VBG
 comes_to_dealing	1

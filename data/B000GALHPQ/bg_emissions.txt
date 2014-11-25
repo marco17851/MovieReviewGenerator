@@ -1,5 +1,3 @@
--RRB-_,
--RRB-_,	1
 IN_NN
 like_dictionary	1
 ,_IN
@@ -36,11 +34,11 @@ n't_know	2
 VB_DT
 know_a	1
 be_a	1
+JJ_TO
+like_to	1
 IN_VBG
 of_explaining	1
 about_screenwriting	1
-NN_-RRB-
-accent_-RRB-	1
 RB_JJ
 really_like	1
 VBG_PDT
@@ -60,8 +58,6 @@ CC_NN
 and_lingo	1
 VBD_PRP$
 was_his	1
-NNP_-LRB-
-Stuart_-LRB-	1
 ,_PRP
 ,_I	1
 PRP$_JJ
@@ -149,15 +145,14 @@ a_lot	2
 a_movie	1
 VBD_VBG
 finished_hearing	1
-JJ_TO
-like_to	1
+NNP_RB
+Stuart_maybe	1
 IN_WP
 about_what	1
 NN_,
 lingo_,	1
 movie_,	1
--LRB-_RB
--LRB-_maybe	1
+accent_,	1
 PRP_VBP
 I_do	1
 they_do	1

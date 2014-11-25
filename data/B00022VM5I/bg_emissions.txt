@@ -4,7 +4,6 @@ of_course	5
 in_comparison	1
 in_honor	1
 of_ignorance	1
-in_<br />	1
 of_attraction	1
 of_freedom	1
 of_view	1
@@ -47,7 +46,6 @@ in_sight	1
 In_sum	2
 in_hiding	2
 against_fate	1
-of_<br />	2
 of_tragedy	2
 if_anyone	1
 of_depth	1
@@ -89,7 +87,6 @@ for_black	1
 in_spite	1
 of_excellence	2
 since_ambiguity	1
-than_<br />	1
 into_sickness	1
 FOR_ALL	1
 of_flashes-back	1
@@ -175,6 +172,7 @@ through_life	1
 of_everyone	1
 like_grist	1
 in_highschool	1
+of_blood	1
 of_melodrama	1
 In_addition	1
 into_something	1
@@ -189,7 +187,6 @@ for_revenge	1
 of_nostalgia	1
 in_time	3
 from_class	1
-with_<br />	1
 over_everything	1
 in_common	1
 of_loop	1
@@ -242,6 +239,7 @@ been_deleted	1
 been_known	1
 been_created	1
 been_dedicated	1
+been_exercised	1
 VBG_VBN
 being_stalked	2
 being_pursued	1
@@ -272,13 +270,7 @@ been_keeping	1
 been_carrying	1
 thought_provoking	1
 FW_DT
-<br />_Those	1
-<br />_Some	1
-<br />_An	1
 i.e._the	1
-<br />_All	3
-<br />_This	6
-<br />_The	26
 VBG_VBG
 starting_getting	1
 TO_WRB
@@ -392,7 +384,7 @@ better_to	1
 prior_to	1
 close_to	2
 sexually_to	1
-not_to	4
+not_to	5
 also_to	1
 just_to	1
 mainly_to	1
@@ -429,8 +421,9 @@ know_.	1
 have_.	1
 shine_.	1
 are_.	1
-POS_CC
-'s_and	4
+FW_NN
+his/her_life	1
+ex-Nam_nutcase	1
 VBP_CD
 are_one	1
 have_two	1
@@ -441,7 +434,10 @@ are_3	1
 ''_to	2
 WP$_RB
 whose_vividly	1
+LS_PRP
+b_I	1
 VBP_CC
+do_or	1
 develop_and	1
 exist_or	1
 connect_and	1
@@ -542,6 +538,7 @@ cast_and	1
 battered_and	1
 detached_and	1
 assigned_&	1
+revealed_and	1
 revealed_or	1
 solved_but	1
 worked_either	1
@@ -557,9 +554,6 @@ directed_and	1
 colored_and	1
 IN_UH
 of_Oops	1
-IN_VBD
-as_did	2
-on_was	1
 VBZ_CC
 speaks_and	1
 dies_and	1
@@ -593,8 +587,6 @@ stars_that	1
 things_that	1
 WRB_TO
 how_to	2
--RRB-_FW
--RRB-_<br />	1
 DT_FW
 the_psycho	1
 the_ex	1
@@ -680,8 +672,6 @@ who_manage	1
 Who_do	1
 who_choose	1
 whom_are	1
--LRB-_PRP$
--LRB-_his	2
 RP_:
 up_;	1
 POS_FW
@@ -694,31 +684,25 @@ their_being	1
 his_coming	1
 His_resulting	1
 his_being	2
--RRB-_MD
--RRB-_could	1
--RRB-_will	1
--RRB-_,
--RRB-_,	38
-._-RRB-
-!_-RRB-	3
-._-RRB-	5
-?_-RRB-	5
 NNP_CC
-Sinise_and	7
-Harris_and	5
+Sinise_and	8
+Harris_and	6
 Viagra_and	1
 Kidman_and	10
+Atlantis_and	1
+Smith_and	1
 Wolfe_or	1
 Clinton_and	1
 Silk_and	9
 Coleman_and	4
-Hopkins_and	16
+Hopkins_and	17
 Lawrence_and	1
 Hopkinds_and	1
-Jewish_and	1
-Bracco_and	1
 Hopkins_&	1
+Bracco_and	1
+Jewish_and	1
 Asia_and	1
+Barrett_and	1
 Europe_and	1
 American_and	1
 Meyer_and	1
@@ -732,6 +716,7 @@ Hollywood_and	1
 Lewinsky_and	1
 Miller_and	3
 Benton_and	2
+Zuckerman_and	2
 WP_MD
 who_must	1
 who_could	1
@@ -740,9 +725,6 @@ who_will	1
 who_would	1
 VBG_VBD
 moving_was	1
-VBZ_PDT
-has_such	1
-is_half	1
 RP_VBG
 up_writing	1
 up_being	1
@@ -759,10 +741,6 @@ bigger_secrets	1
 better_lines	1
 :_JJR
 -_better	1
-VB_-LRB-
-masquerade_-LRB-	1
--RRB-_:
--RRB-_:	4
 RBS_JJ
 most_perverse	1
 most_powerful	1
@@ -774,20 +752,17 @@ most_straightforward	1
 most_underrated	1
 JJS_CC
 best_or	1
-''_-LRB-
-''_-LRB-	2
 VB_WDT
 stain_which	1
 :_NN
 :_Best	1
 :_Silk	1
-:_<p>	1
 :_anti-Semitism	1
 ;_t	1
 --_kind	1
-..._<br />	1
 ..._irony	1
 -_something	1
+:_Web	1
 ;_something	1
 ..._derrr	1
 IN_PRP$
@@ -864,6 +839,282 @@ squidlings_''	1
 resigns_''	1
 secrets_''	2
 spooks_'	1
+NN_,
+meaning_,	1
+embarrassment_,	1
+sum_,	2
+dissapointment_,	1
+society_,	1
+wife_,	5
+eject_,	1
+reason_,	1
+scholar_,	1
+survival_,	1
+writing_,	1
+privacy_,	1
+bit_,	1
+tragedy_,	2
+hypocrisy_,	1
+approach_,	1
+everyone_,	4
+loneliness_,	1
+professor_,	3
+lifetime_,	1
+today_,	1
+hilt_,	1
+perfection_,	1
+intern_,	1
+importance_,	1
+attention_,	2
+term_,	1
+hate_,	1
+home_,	1
+Ah_,	1
+potential_,	1
+community_,	1
+emotion_,	1
+school_,	2
+invisibility_,	1
+mind_,	1
+title_,	1
+shame_,	2
+pride_,	2
+greed_,	1
+person_,	1
+thought_,	2
+Silk_,	4
+life_,	8
+diversity_,	1
+hurt_,	1
+track_,	1
+release_,	1
+screen_,	2
+experience_,	1
+part_,	3
+cinematography_,	1
+excellence_,	1
+homosexuality_,	1
+left_,	1
+relationship_,	2
+tale_,	2
+masterpiece_,	1
+issue_,	1
+worker_,	1
+aftermath_,	1
+aneurysm_,	1
+academia_,	2
+puritanism_,	1
+half-hour_,	1
+actor_,	2
+sexuality_,	1
+struggle_,	1
+loop_,	1
+generation_,	1
+drek_,	1
+damage_,	1
+dialogue_,	1
+entertainment_,	1
+time_,	2
+color_,	4
+book_,	10
+top_,	1
+thrill_,	1
+literature_,	1
+underclass_,	1
+talent_,	1
+casting_,	1
+justice_,	1
+R_,	1
+story_,	8
+stream_,	1
+trash_,	1
+money_,	1
+subject_,	1
+humanity_,	1
+thriller_,	1
+significance_,	1
+landscape_,	1
+smoking_,	1
+acting_,	2
+university_,	1
+culture_,	1
+soap_,	1
+Traffic_,	1
+self-rejection_,	1
+light_,	1
+heartbreak_,	1
+remark_,	1
+classism_,	1
+context_,	1
+classroom_,	1
+race_,	2
+complexity_,	1
+wealth_,	1
+essence_,	1
+spoiler_,	1
+campus_,	1
+place_,	3
+hand_,	3
+clarity_,	1
+enemy_,	1
+semester_,	1
+truth_,	1
+process_,	1
+fire_,	1
+skinned_,	1
+down-and-out_,	1
+correctness_,	3
+flesh_,	1
+student_,	1
+phrase_,	2
+profile_,	1
+anti-Semitism_,	1
+principle_,	1
+choice_,	2
+turn_,	2
+drama_,	3
+writer_,	4
+supreme_,	1
+failure_,	2
+anger_,	2
+review_,	1
+side_,	2
+husband_,	6
+movie_,	15
+jealousy_,	1
+existence_,	1
+snow_,	1
+accent_,	2
+man_,	3
+difference_,	1
+source_,	1
+administration_,	1
+right_,	1
+Etc_,	1
+ageism_,	1
+Kidman_,	1
+grade_,	1
+end_,	6
+divorce_,	1
+fine_,	1
+score_,	1
+BTW_,	1
+purpose_,	1
+prejudice_,	1
+match_,	1
+start_,	1
+Tyranny_,	1
+material_,	1
+appearance_,	1
+victim_,	1
+player_,	1
+environment_,	1
+novel_,	3
+secret_,	1
+vet_,	1
+power_,	3
+case_,	1
+bigotry_,	1
+ignorance_,	1
+pain_,	2
+affair_,	4
+fact_,	4
+accident_,	1
+world_,	1
+racist_,	1
+n`t_,	1
+past_,	9
+shrift_,	1
+snobbishness_,	1
+interest_,	1
+woman_,	5
+rebound_,	1
+author_,	2
+pacing_,	1
+parent_,	1
+skin_,	1
+film_,	11
+f-word_,	1
+mess_,	1
+definition_,	1
+liaison_,	1
+decline_,	1
+comment_,	1
+affirmation_,	1
+clout_,	1
+cast_,	6
+hype_,	1
+Stain_,	1
+class_,	1
+identity_,	2
+etc_,	1
+trilogy_,	1
+Production-wise_,	1
+arrival_,	1
+manhood_,	1
+flowering_,	1
+background_,	2
+boxing_,	1
+colleague_,	1
+mate_,	1
+role_,	3
+ex-professor_,	1
+neighbor_,	1
+opinion_,	2
+Jew_,	3
+microphone_,	1
+psychotherapist_,	1
+sex_,	1
+communication_,	1
+flick_,	2
+youth_,	2
+flooziness_,	1
+sexism_,	1
+mark_,	1
+hypocricy_,	1
+way_,	3
+course_,	3
+cowardice_,	1
+pace_,	1
+treatment_,	1
+lawyer_,	1
+look_,	1
+cause_,	1
+performance_,	2
+drift_,	1
+mother_,	2
+ex-husband_,	1
+age_,	2
+brother_,	1
+matter_,	1
+character_,	8
+head_,	1
+respectability_,	1
+selfishness_,	1
+task_,	1
+result_,	3
+college_,	2
+year_,	1
+injury_,	1
+plot_,	3
+mulatto_,	1
+group_,	1
+point_,	3
+spectre_,	1
+fear_,	1
+joy_,	1
+job_,	1
+janitor_,	1
+lover_,	3
+gossip_,	1
+DVD_,	2
+comfort_,	1
+love_,	7
+scrutiny_,	1
+family_,	3
+everything_,	1
+racism_,	6
+forefront_,	1
 ``_VBG
 ``_acting	1
 ``_murdering	1
@@ -943,7 +1194,6 @@ their_list	1
 their_humanity	1
 his_family	15
 his_tenure	2
-his_<br />	1
 his_memory	1
 his_time	1
 his_wife	8
@@ -1035,7 +1285,7 @@ his_blackness	3
 his_retirement	2
 their_relationship	1
 her_hand	1
-his_heritage	1
+his_heritage	2
 his_lawyer	1
 our_view	1
 his_career	3
@@ -1114,9 +1364,16 @@ Throw_on	1
 mean_for	1
 be_for	1
 accept_that	1
-VBG_''
-acting_''	1
-murdering_''	1
+JJ_PRP
+sure_it	1
+bad_they	1
+complicated_it	1
+great_I	1
+present_he	1
+black_you	1
+fair_it	1
+short_it	1
+decent_I	1
 ``_VBP
 ``_Are	1
 ``_Do	1
@@ -1184,24 +1441,27 @@ was_terribly	1
 was_really	1
 NN_DT
 pacing_this	1
-end_the	1
-sketch_the	1
-<a href="http://www.amazon.com/gp/product/B0001XAPX8">_The	1
-hand_the	1
 humanity_all	1
-Silk_every	1
-side_the	1
-<br />_another	1
-<br />_no	1
 film_a	1
-time_a	1
-movie_an	1
 son_the	1
 screen_a	1
-fact_a	1
-condition_the	1
-lease_the	1
 matter_the	1
+ex-husband_this	1
+<a href="http://www.amazon.com/gp/product/B0001XAPX8">_The	1
+hand_the	1
+side_the	1
+community_no	1
+fact_a	1
+time_a	1
+condition_the	1
+end_the	1
+sketch_the	1
+mother_a	1
+Silk_every	1
+silence_the	1
+person_no	1
+movie_an	1
+lease_the	1
 way_the	3
 book_The	1
 VBN_JJR
@@ -1214,6 +1474,7 @@ that_even	1
 which_ultimately	1
 that_still	2
 that_never	2
+what_only	1
 that_critically	1
 that_deliberately	1
 TO_DT
@@ -1275,7 +1536,6 @@ work_fine	1
 are_willing	1
 are_different	1
 are_remarkable	1
-<br />_black	1
 'm_sorry	1
 are_available	1
 play_young	1
@@ -1310,14 +1570,24 @@ affect_things	1
 milk_cows	1
 recite_lines	1
 make_efforts	1
--LRB-_RB
--LRB-_somewhere	1
--LRB-_well	1
--LRB-_maybe	1
--LRB-_especially	1
--LRB-_often	1
--LRB-_as	2
--LRB-_Perhaps	1
+VB_NNP
+be_ABOUT	1
+ruin_Silk	1
+sound_American	1
+match_Miller	1
+bring_Nathan	1
+say_The	1
+ruin_Coleman	1
+write_Coleman	1
+Enter_Nicole	1
+make_Nicole	1
+see_Kidman	1
+Enter_Nathan	1
+buy_Anthony	1
+play_Silk	1
+appreciate_Anthony	1
+be_Frank	1
+Enter_Faunia	1
 NNS_NNP
 portraits_Hopkins	1
 life-choices_Lawrence	1
@@ -1335,41 +1605,50 @@ getting_stupider	1
 JJS_JJ
 subtlest_emotional	1
 least_effective	1
--RRB-_TO
--RSB-_to	1
--RRB-_to	2
 POS_JJS
 's_finest	1
 's_best	1
 's_greatest	1
-CC_IN
-or_that	2
-but_without	1
-and_because	1
-and_although	1
-and_if	3
-but_if	1
-and_in	8
-but_in	3
-and_without	1
-but_as	1
-and_while	1
-both_from	1
-and_from	1
-and_for	7
-and_before	1
-but_because	1
-but_despite	1
-or_for	2
-and_over	1
-and_at	1
-and_as	1
-But_on	2
-or_at	1
-either_because	1
-Or_so	1
-or_of	1
-but_for	2
+VBD_JJ
+was_illiterate	1
+had_such	1
+held_inside	1
+was_less-than	1
+were_outstanding	1
+was_interesting	1
+knew_little	1
+was_harmless	1
+were_challenging	1
+thought_provoking	1
+was_necessary	2
+was_sure	1
+were_absent	1
+got_mediocre	1
+was_capable	1
+played_young	1
+was_trivial	1
+was_ideal	1
+were_excellent	3
+was_harsh	1
+seemed_oppressive	1
+was_black	1
+came_unraveled	1
+was_able	1
+did_fine	1
+was_flawless	1
+was_wrong	1
+seemed_ludicrous	1
+crazed_violent	1
+wore_green	1
+was_enough	1
+was_inspiring	1
+was_strong	1
+was_good	1
+was_great	2
+was_excellent	2
+was_due	1
+gone_insane	1
+was_superb	1
 VBP_TO
 choose_to	1
 gravitate_to	1
@@ -1394,13 +1673,13 @@ CC_:
 either_--	1
 PRP$_NNP
 his_Coleman	1
+his_Silk	1
 her_Vietnam	2
 WDT_NN
 which_society	1
 what_Silk	1
 What_horror	1
 What_effect	1
-what_<br />	1
 what_effect	2
 what_extent	1
 whatever_movie	1
@@ -1408,7 +1687,7 @@ which_humanity	1
 which_sketch	1
 which_time	1
 ,_PRP$
-,_his	7
+,_his	8
 ,_her	1
 ,_their	2
 JJS_DT
@@ -1468,7 +1747,7 @@ chosen_another	1
 catapulted_the	1
 born_a	2
 made_the	1
-read_the	6
+shown_a	1
 had_this	1
 seen_some	1
 made_these	1
@@ -1480,8 +1759,9 @@ hit_a	1
 been_a	4
 become_a	1
 heard_the	1
+shot_the	1
 developed_an	1
-shown_a	1
+read_the	6
 set_the	1
 advised_all	1
 done_a	1
@@ -1540,8 +1820,8 @@ three_put	1
 two_lost	1
 WP_WRB
 who_where	1
-CC_-LRB-
-and_-LRB-	2
+VB_:
+work_;	1
 JJS_VB
 least_go	1
 CD_VBG
@@ -1678,6 +1958,7 @@ pass_.	1
 C'mon_!	1
 follow_.	1
 watch_.	2
+give_.	1
 bear_.	1
 approve_.	1
 fit_.	1
@@ -1735,24 +2016,9 @@ movies_imaginable	1
 FW_NNS
 i.e._ghosts	1
 a._haines	1
-FW_NNP
-<br />_Robert	1
-<br />_Ed	1
-<br />_Philip	1
-e.g._Gary	1
-<br />_Anthony	2
-<br />_Nicole	1
-<br />_Coleman	6
-<br />_Overall	2
-<br />_Kidman	2
-<br />_Hopkins	2
-<br />_Laurel-Rain	1
-<br />_Into	1
-<br />_Sylk	1
-<br />_Thad	1
-<br />_Ironically	1
--RRB-_WDT
--RRB-_which	1
+MD_IN
+would_of	1
+can_with	1
 DT_VBG
 The_plotting	1
 the_discriminating	1
@@ -1822,6 +2088,7 @@ the_flashbacks	4
 these_performers	1
 the_thoughts	1
 any_expectations	1
+the_nuances	1
 the_moviemakers	1
 The_mysteries	1
 the_events	2
@@ -2035,7 +2302,6 @@ with_Coleman	2
 of_Professor	1
 so_Hopkins	1
 for_Anna	1
-as_<br />	1
 for_Anthony	1
 without_Roth	1
 for_Roth	1
@@ -2141,7 +2407,7 @@ by_Philip	8
 than_Hopkins	2
 into_Coleman	1
 of_Philip	3
-as_Jewish	1
+as_Jewish	2
 of_Roth	4
 as_Kidman	1
 by_Wentworth	7
@@ -2180,7 +2446,6 @@ the_College	1
 the_Clinton/Lewinsky	2
 a_Zuckerman	1
 both_Anthony	1
-the_U.S.	1
 The_Human	16
 a_New	1
 the_HUMAN	2
@@ -2193,7 +2458,7 @@ the_Board	1
 a_Vietnam	2
 the_Bill	2
 the_Clinton	2
-Those_<br />	1
+the_U.S.	1
 the_Clinton-Lewinsky	1
 Both_Anthony	1
 a_Negro	1
@@ -2367,10 +2632,7 @@ deaths_and	1
 families_and	1
 characterizations_and	2
 features_and	1
-VBN_-RRB-
-Cast_-RRB-	1
 ,_VB
-,_<br />	1
 ,_get	1
 ,_give	1
 ,_distrust	1
@@ -2393,8 +2655,6 @@ higher_in	1
 more_for	1
 better_in	1
 older_than	1
-FW_VB
-<br />_Enter	1
 VBP_IN
 appear_on	1
 imagine_that	1
@@ -2402,7 +2662,6 @@ understand_that	1
 admit_that	1
 unfold_in	1
 wonder_whether	1
-<br />_among	1
 are_with	1
 are_at	1
 are_in	2
@@ -2468,6 +2727,7 @@ style_and	1
 soul_and	1
 person_or	1
 job_or	1
+problem_and	1
 job_and	1
 patience_and	1
 PC_and	1
@@ -2499,7 +2759,7 @@ time_and	3
 type_and	1
 music_and	1
 shame_and	1
-society_or	1
+society_or	2
 tragedy_and	1
 respect_and	1
 sex_or	1
@@ -2538,7 +2798,6 @@ novel_and	1
 hour_and	1
 nature_and	2
 synopsis_and	1
-<br />_And	1
 convention_and	1
 truth_and	1
 sickness_and	1
@@ -2553,15 +2812,14 @@ threat_and	1
 screenplay_and	1
 story_and	3
 opposition_both	1
-<p>_But	2
 casting_and	1
 Instinct_or	1
-family_and	6
+family_and	7
 blackness_and	3
 ex-husband_and	2
 action_and	1
 faculty_and	1
-husband_and	1
+husband_and	2
 anything_but	1
 front_or	1
 cabin_and	1
@@ -2582,7 +2840,6 @@ university_and	1
 Sand_and	1
 attack_and	1
 past_and	2
-<br />_but	1
 point_or	1
 woman_and	3
 plot_and	2
@@ -2611,7 +2868,6 @@ form_or	1
 loss_and	1
 misfortune_and	1
 tension_or	1
-<br />_or	1
 love_and	2
 film_and	8
 book_and	3
@@ -2623,12 +2879,14 @@ to_two	2
 NN_CD
 conclusion_one	1
 show_100	1
-film_3	1
 age_71	1
-<br />_Four	1
+film_3	1
+Fawnia_one	1
 class_one	1
 ''_VBP
 ''_are	1
+CC_LS
+and_b	1
 JJ_FW
 social_stratas	1
 unstable_ex	1
@@ -2663,13 +2921,9 @@ an_earlier	1
 the_less	1
 DT_WP
 those_who	6
--RRB-_WP
--RRB-_who	6
 WP$_NNS
 whose_scenes	1
 whose_lives	1
-VBG_-RRB-
-discussing_-RRB-	1
 NN_JJ
 path_riddled	1
 A_real	1
@@ -2696,7 +2950,7 @@ life_new	1
 extremist_political	1
 luck_next	1
 somebody/anybody_else	1
-<br />_blind	1
+novel_illiterate	1
 year_old	5
 couple_brief	1
 philosophy_flowing	1
@@ -2724,19 +2978,19 @@ Hollywood_movies	1
 Lewinsky_accusations	1
 Trek_movies	1
 NNP_NNP
+Silk_Wentworth	1
+Sinise_Snake	1
+Real_World	1
 Professor_Coleman	2
 Michael_LaRocca	1
-Luan_Gaines	1
+Prof._Delphine	1
 Believing_Hopkins	1
 Coleman_Silks	1
-Prof._Delphine	1
 Phyllis_Newman	2
 Athena_College	4
-<br />_Third	1
 Operation_Shylock	1
 <a href="http://www.amazon.com/gp/product/B0001XAPX8">_The	1
 Hard_Knocks	1
-<br />_<br />	2
 Clinton/Monica_Lewinsky	1
 Coleman_Silk	46
 Jean-Yves_Escoffier	2
@@ -2745,43 +2999,45 @@ Convoluting_Coleman	1
 Jacinda_Barrett	3
 The_Matrix	2
 Wentworth_Miller	26
-Theodore_Dreiser	1
+Harris_The	1
 SPOILER_ALERT	1
-<p>_Coleman	1
+Luan_Gaines	1
 England_Athena	1
 Nicole_Kidman	68
 Impeachment_Summer	1
 Laurel-Rain_Snow	1
 Philip_Ross	1
 Matrix_Reloaded	1
-<br />_Life	1
 Anthony_H	2
-Ms._Lewinsky	1
+Farely_Kidman	1
+Lennix_The	1
 Vietnam_Vet	2
 Starr_Report	1
 Ed_Harris	41
 Deavere_Smith	6
 Rachel_Portman	1
+Vietnam_Ed	1
 Lorraine_Bracco	1
+Canada_Anthony	1
 Ms._Kidman	1
 East_Orange	1
 E._Lawrence	1
 Escoffer_Tribute	1
 World_London	1
 Jacinta_Barrett	1
+Farley_Nicole	8
 photographer_Jean-Yves	1
 40ish_Nicole	1
 Minnesotan_Sheena	1
-<p>_Hopkins	3
 Sir_Anthony	2
 American_Pastoral	1
 DeVere_Smith	1
 A_Human	1
-<p>_Background	1
-<br />_See	1
+Ms._Lewinsky	1
+Zuckerman_Sinise	1
 North_America	1
-<p>_Angry	1
-<br />_Now	1
+Kidman_Dogville	1
+Hopkins_Hannibal	1
 Bill_Clinton	2
 Buffy_The	1
 Catherine_Zeta-Jones	1
@@ -2789,17 +3045,20 @@ THINK_NOT	1
 Anna_Deavere	6
 Nicholas_Meyer	6
 Robert_Benton	8
+Sylk_Hopkins	1
 Harry_Lennix	1
 Viet_Nam	1
 Mr._Miller	2
 Sean_Connery	1
 Faunia_Farley	16
+White_Palace	1
 Dr._Coleman	1
 Hannibal_Lector	2
 AND_THEIR	1
 Jean_Yves	2
 Monica_Lewinsky	1
 Philip_Roth	20
+Nathan_Gary	1
 The_Rock	1
 Devere_Smith	1
 Gary_Sinese	6
@@ -2810,31 +3069,33 @@ Ms._Smith	1
 The_Vampire	1
 Star_Trek	1
 Susan_Sarandon	1
-<p>_Though	2
+Stain_Robert	1
 Deveare_Smith	4
-Real_World	1
+Miller_Dinotopia	1
 Gary_Siniese	1
 Gary_Sinise	29
 Monica_Lewenski	1
 HUMAN_STAIN	6
+Theodore_Dreiser	1
 Hannibal_Lecter	1
 Frank_Langella	1
 Robert_Bolt	1
-The_<br />	1
 Anthony_Hopkins	72
 Mr._Silk	1
 War_II	1
+Lawrence_Peter	1
 Vietnam_veteran/Kidman	1
+Coleman_Anthony	1
 Gary_Senise	1
 Anna_DeVere	1
 Lester_Farley	5
 Steena_Paulsson	1
 South_America	1
 Edward_G.	1
-<br />_Coleman	1
 Faunia_Farely	1
 I_THINK	1
 </a>_Benton	1
+Silk_Anthony	8
 Director_Robert	1
 Mr._Roth	1
 Nathan_Zuckerman	16
@@ -2842,7 +3103,6 @@ G._Robinson	1
 Our_Lord	1
 Yves_Escoffer	2
 Literature_Cathedra	1
-<p>_This	1
 Human_Stain	23
 Virginia_Wolfe	1
 ***_SPOILER	1
@@ -2852,14 +3112,13 @@ Magister_Class	1
 World_War	1
 Atlanta_Georgia	1
 Peter_O'Toole	1
-<br />_Jewish	2
 Phillip_Roth	6
 Anna_Deveare	4
 Centre_St.	1
 African_American	4
-<p>_Stylistically	1
-<br />_Wentworth	1
 U.S._The	1
+Iris_Phyllis	1
+Sheena_Jacinda	1
 Jeff_Bridges	1
 Clark_Gregg	1
 New_York	1
@@ -2868,9 +3127,11 @@ Professor_Silk	2
 Antony_Hopkins	3
 Ivy_League	1
 Nathan_Zukerman	1
+Faunia_Nicole	1
 T._E.	1
-White_Palace	1
+Zuckerman_Gary	6
 Mystic_River	1
+Lester_Ed	2
 Mimi_Kuzyk	1
 Anna_Devere	1
 Mr._Hopkins	2
@@ -2880,7 +3141,6 @@ Wentworh_Miller	1
 Pres._Clinton	1
 LOVE_STORY	1
 Delphine_Roux	1
-<br />_Fine	1
 Vampire_Slayer	1
 P._Roth	1
 PUHLEEZE_I	1
@@ -2890,26 +3150,25 @@ less_one	1
 ;_so	2
 :_extremely	1
 ;_thankfully	1
-..._so	1
+..._So	1
 ..._actually	1
 ..._as	1
 ..._never	1
+-_somewhere	1
 ..._yes	1
 ..._utterly	1
 --_even	1
 --_chiefly	1
 :_sexually	1
+..._so	1
 ..._well	1
 VBP_RBR
 are_more	2
-DT_-RRB-
-a_-RRB-	1
 CC_EX
 and_there	3
 but_there	1
 VB_VBP
 forgive_are	1
-<br />_have	1
 JJR_DT
 hammier_these	1
 JJR_.
@@ -2923,14 +3182,13 @@ older_,	1
 better_,	2
 RP_WRB
 out_why	1
-VBN_WRB
-undermined_when	1
 DT_PRP
-all_I	1
 each_it	1
-those_we	1
 Both_she	1
 those_it	1
+all_I	1
+those_we	1
+a_I	1
 VBN_TO
 supposed_to	6
 played_to	1
@@ -2967,8 +3225,6 @@ compared_to	1
 made_to	1
 drawn_to	1
 inserted_to	1
-VBG_-LRB-
-saying_-LRB-	1
 VBZ_CD
 remains_one	1
 is_one	5
@@ -3075,7 +3331,6 @@ in_that	3
 through_every	1
 as_a	42
 from_this	2
-<p>_THE	1
 than_that	4
 than_the	3
 under_any	1
@@ -3190,21 +3445,18 @@ appears_when	1
 retires_when	1
 remembers_how	1
 WDT_JJ
-which_great	1
 What_wonderful	1
+that_black	1
+What_recent	1
+which_great	1
 which_black	1
 which_many	1
-What_recent	1
 VBN_CD
 been_one	1
-LS_-RRB-
-b_-RRB-	1
 EX_MD
 there_will	1
 there_must	1
 there_would	1
--LRB-_CD
--LRB-_one	1
 VB_WP
 imagine_what	1
 view_what	1
@@ -3214,14 +3466,6 @@ be_who	1
 wonder_what	1
 belevie_what	1
 determine_what	1
--LRB-_CC
--LRB-_or	2
--LRB-_And	1
--LRB-_and	7
-NNS_-LRB-
-SEASONS_-LRB-	1
-flashbacks_-LRB-	1
-performances_-LRB-	1
 WDT_PRP
 which_we	2
 which_he	6
@@ -3229,9 +3473,6 @@ which_she	1
 which_they	3
 whatever_it	1
 which_I	1
-PRP_WP
-you_who	1
-me_what	1
 UH_DT
 alas_the	1
 RB_WRB
@@ -3362,8 +3603,9 @@ back_.	1
 before_.	1
 haphazardly_.	1
 so_.	2
+perhaps_.	1
 quite_.	1
-here_.	4
+here_.	5
 otherwise_.	1
 now_.	1
 again_.	5
@@ -3398,35 +3640,8 @@ VBD_CD
 put_4	1
 was_one	1
 admired_forty	1
-PRP$_-LRB-
-his_-LRB-	2
-VBZ_-RRB-
-progresses_-RRB-	1
-NNP_-RRB-
-Miller_-RSB-	1
-Kidman_-RSB-	1
-Kidman_-RRB-	14
-Sinise_-RSB-	1
-Barrett_-RRB-	1
-Canada_-RSB-	1
-Miller_-RRB-	5
-Smith_-RRB-	4
-St._-RRB-	1
-Escoffier_-RRB-	1
-Atlantis_-RRB-	1
-Hopkins_-RSB-	1
-ARABIA_-RRB-	1
-Hopkins_-RRB-	15
-Hollywood_-RRB-	1
-Sinise_-RRB-	7
-O'Toole_-RRB-	1
-Siniese_-RRB-	1
-Harris_-RRB-	9
-Slayer_-RRB-	1
-Lector_-RRB-	1
-STORY_-RRB-	1
-Sinese_-RRB-	2
-Girl_-RRB-	1
+NNPS_CC
+Revolutions_and	1
 CC_RB
 or_otherwise	1
 and_frequently	1
@@ -3446,7 +3661,7 @@ and_reasonably	1
 but_certainly	1
 and_always	2
 and_even	1
-but_also	1
+but_also	2
 but_gradually	1
 and_THEN	1
 and_totally	1
@@ -3532,12 +3747,11 @@ why_they	1
 when_you	3
 how_he	1
 When_he	1
-CD_-RRB-
-2003_-RRB-	1
 :_IN
 --_because	1
 ;_in	1
 ..._if	1
+..._If	1
 --_that	1
 ..._With	1
 ;_like	1
@@ -3564,7 +3778,7 @@ her_extreme	1
 her_Vietnam-scarred	1
 her_improbable	1
 her_white	1
-his_twilight	1
+his_imaginary	1
 its_theatrical	1
 his_African	1
 its_rich	1
@@ -3631,6 +3845,7 @@ its_other	1
 his_blonde	1
 their_beloved	1
 their_black	1
+his_twilight	1
 her_abusive	1
 her_own	3
 her_innate	1
@@ -3640,6 +3855,7 @@ his_first	2
 his_past	1
 PRP_PRP
 he_himself	1
+him_he	1
 EX_DT
 there_an	1
 IN_PRP
@@ -3723,7 +3939,7 @@ once_you	1
 of_you	2
 of_it	8
 as_her	1
-with_him	1
+with_him	2
 than_I	2
 with_it	1
 for_me	4
@@ -3764,32 +3980,26 @@ so_he	3
 ''_,
 '_,	2
 ''_,	10
-PRP_-RRB-
-him_-RRB-	2
-we_-RRB-	1
+NNS_VB
+scenes_arouse	1
 ,_FW
 ,_etc.	2
 ,_i.e.	2
-,_<br />	1
--RRB-_PRP
--RRB-_he	1
--RRB-_I	2
--RRB-_you	1
 TO_WP
 to_whom	1
 :_NNP
 -_Ed	1
+..._Ed	1
 ;_Nicole	1
 :_Kramer	1
 -_Nicole	1
 :_Hopkins	1
 ;_Gary	1
--_Anthony	2
 ..._Fabulous	1
 -_Roth	1
 ;_Anthony	1
 ..._PUHLEEZE	1
-..._<p>	1
+-_Anthony	2
 --_NOT	1
 ..._Hopkins	1
 /_Monica	1
@@ -3801,6 +4011,7 @@ to_whom	1
 ..._AND	1
 ..._Kidman	1
 -_Ottawa	1
+..._Though	1
 --_Anthony	1
 PRP_VBD
 I_had	7
@@ -4105,7 +4316,6 @@ the_coast	1
 the_thought	1
 The_genius	1
 a_treasure	1
-the_<br />	2
 a_means	1
 this_plot	1
 a_story	3
@@ -4385,7 +4595,7 @@ this_guy	1
 the_pacing	1
 a_lie	1
 this_aspect	1
-the_story	37
+the_story	38
 a_divorce	1
 a_jumble	1
 a_classroom	1
@@ -4410,6 +4620,7 @@ no_chemistry	1
 that_choice	1
 This_movie	10
 a_woman	8
+the_decadence	1
 the_blame	1
 this_movie	26
 the_credit	1
@@ -4831,10 +5042,6 @@ it_fits	1
 It_heads	1
 it_seems	4
 he_receives	1
-FW_PRP
-<br />_It	4
-<br />_I	10
-<br />_We	1
 VBP_EX
 think_there	1
 are_there	1
@@ -4859,21 +5066,19 @@ along_.	1
 within_.	1
 behind_.	1
 of_.	2
+through_.	1
 about_.	1
 for_.	2
 FW_FW
-<p>_Plotwise	1
-stratas_<br />	1
-Kidman_<br />	1
+psycho_ex-Nam	1
 THEM_OURS	1
 in_his/her	1
-per_se	1
 stephen_a.	1
-<br />_<br />	143
+per_se	1
 HENCE_EVEN	1
-***_<br />	1
 etc._etc.	4
-psycho_ex-Nam	1
+MD_VBP
+may_have	1
 VBN_WP
 gotten_what	1
 MD_VBN
@@ -4895,7 +5100,7 @@ could_exposing	1
 PRP_.
 me_.	3
 her_.	2
-him_.	7
+him_.	8
 you_?	1
 itself_.	2
 them_.	5
@@ -4911,8 +5116,6 @@ though_...	1
 for_:	1
 over_...	1
 because_...	1
-FW_WP
-<br />_What	4
 CC_VBP
 and_think	1
 and_offer	1
@@ -4926,8 +5129,6 @@ and_do	1
 and_realize	1
 NNP_WDT
 Silks_that	1
-POS_-LRB-
-'s_-LRB-	1
 PRP_VB
 it_suffice	1
 me_feel	1
@@ -4992,15 +5193,12 @@ matter_how	4
 age_when	1
 past_where	1
 scene_where	3
-<br />_whenever	1
 college_where	1
 idea_how	1
 reaction_when	1
 Stain_when	1
 age_where	1
 moment_when	2
-,_-LRB-
-,_-LRB-	1
 RP_TO
 on_to	1
 around_to	1
@@ -5008,11 +5206,13 @@ in_to	1
 out_to	3
 down_to	1
 NNP_PRP
-Society_itself	1
 Thought_it	1
-Miller_himself	1
-Hopkins_I	1
 Nathan_himself	1
+Miller_himself	1
+Kidman_she	1
+Gregg_We	1
+Society_itself	1
+Hopkins_I	1
 CC_VBD
 but_was	2
 and_decided	1
@@ -5058,8 +5258,6 @@ VB_PDT
 enjoy_all	1
 overlook_all	1
 get_all	1
--LRB-_UH
--LRB-_No	1
 CC_VBN
 or_interconnected	1
 and_turned	1
@@ -5118,6 +5316,7 @@ beautiful_,	2
 necessary_,	1
 troubled_,	1
 extensive_,	1
+perennial_,	1
 certain_,	1
 prime_,	1
 strong_,	1
@@ -5200,8 +5399,6 @@ believeable_,	1
 own_,	1
 likeable_,	1
 captivating_,	1
-FW_EX
-<br />_There	3
 JJ_.
 extraordinary_.	1
 much_.	1
@@ -5285,6 +5482,7 @@ PC-bashing_.	1
 white_?	1
 clear_.	2
 high_?	1
+worthy_.	1
 miscast_.	4
 wrong_.	2
 vague_.	1
@@ -5375,6 +5573,7 @@ dedicated_in	1
 battered_by	1
 seen_by	1
 cast_in	1
+Cast_in	1
 set_in	5
 backed_by	1
 dealt_with	2
@@ -5470,46 +5669,34 @@ etched_on	1
 lived_for	1
 VBP_WRB
 wonder_why	1
-VBD_JJ
-was_illiterate	1
-had_such	1
-held_inside	1
-was_less-than	1
-were_outstanding	1
-was_interesting	1
-knew_little	1
-was_harmless	1
-were_challenging	1
-thought_provoking	1
-was_necessary	2
-was_sure	1
-were_absent	1
-got_mediocre	1
-was_capable	1
-played_young	1
-was_trivial	1
-was_ideal	1
-were_excellent	3
-was_harsh	1
-seemed_oppressive	1
-was_black	1
-came_unraveled	1
-was_able	1
-did_fine	1
-was_flawless	1
-was_wrong	1
-seemed_ludicrous	1
-crazed_violent	1
-wore_green	1
-was_enough	1
-was_inspiring	1
-was_strong	1
-was_good	1
-was_great	2
-was_excellent	2
-was_due	1
-gone_insane	1
-was_superb	1
+CC_IN
+or_that	2
+but_without	1
+and_because	1
+and_although	1
+and_if	3
+but_if	1
+and_in	9
+but_in	3
+and_without	1
+but_as	1
+and_while	1
+both_from	1
+and_from	1
+and_for	7
+and_before	1
+but_because	1
+but_despite	1
+or_for	2
+and_over	1
+and_at	1
+and_as	1
+But_on	2
+or_at	1
+either_because	1
+Or_so	1
+or_of	1
+but_for	2
 JJ_:
 unwanted_...	1
 white_--	1
@@ -5583,8 +5770,6 @@ what_has	1
 NNS_WP$
 Jews_whose	1
 people_whose	2
-CD_''
-four_''	1
 IN_PDT
 for_half	1
 With_all	1
@@ -5599,8 +5784,6 @@ of_all	1
 despite_all	1
 PRP$_JJR
 his_younger	3
--LRB-_.
--LRB-_!	1
 NN_NNS
 world_circumstances	1
 movie_titles	1
@@ -5611,7 +5794,6 @@ love_affairs	1
 woman_whos	1
 plot_points	1
 college_days	1
-<br />_Americans	2
 movie_pleads	1
 credibility_issues	1
 day_scenes	1
@@ -5623,6 +5805,7 @@ Bee_Girls	1
 audience_members	1
 ending_credits	1
 faculty_members	2
+character_s	1
 skin_scenes	1
 race_relations	2
 living_writers	1
@@ -5646,7 +5829,7 @@ worry_lines	1
 ALL_SEASONS	1
 love_scenes	1
 war_movies	1
-<br />_nuances	1
+man_opts	1
 contact_lenses	1
 adulthood_roles	1
 movement_characteristics	1
@@ -5654,52 +5837,63 @@ production_values	1
 battlefield_events	1
 concentration_camps	1
 movie_touches	1
-man_opts	1
-<br />_questions	1
 character_depths	1
 color_spectra	1
 film_states	1
 university_officials	1
 NNP_PRP$
+Miller_his	1
 AND_his	1
 Hope_my	1
 Fawnia_his	1
-<br />_his	1
 NNPS_VBP
 Americans_are	1
 NN_NNP
+Silk_Wentworth	1
 writer_Ross	1
+element_Roth	1
 cinematographer_Jean-Yves	1
+Actor_Hopkins	1
 novelist_Nathan	1
-role_Susan	1
+Actor_Miller	1
 film_LAWRENCE	1
 director_Robert	2
 screenwriter_Nicholas	3
-<br />_Ed	1
+man_Wentworth	1
 writer_Nathan	1
 Birthday_Girl	1
 wife_Iris	1
+life_Wentworth	1
 cinematographer_Jean	1
+vet_Ed	1
 friend_Nathan	1
 Best_Picture	1
 plot.Nicole_Kidman	1
 husband_Lester	1
 narrator_Zuckerman	1
 woman_Faunia	2
+ex-husband_Ed	3
+janitor_Nicole	1
 megawatt_Hollywood	1
 vet_Lester	2
 actor_Anthony	1
 writer_Nicholas	1
 part_Anthony	2
-ego_Nathan	1
+professor_Anthony	2
+mother_Anna	2
+name_Phillip	1
 novelist_Roth	1
+writer_Gary	2
+ego_Nathan	1
+woman_Nicole	3
 film_White	1
+role_Susan	1
 ''_RB
 ''_only	1
 ''_just	2
 :_``
 -_``	1
-:_``	5
+:_``	7
 WDT_NNS
 Which_boundaries	1
 which_people	1
@@ -5707,6 +5901,7 @@ which_people	1
 ,_when	6
 ,_why	1
 ,_where	2
+,_whenever	1
 ,_how	1
 IN_JJR
 with_more	1
@@ -5720,11 +5915,8 @@ At_least	1
 at_least	5
 POS_PRP
 's_he	1
-POS_-RRB-
-'s_-RRB-	2
--RRB-_.
--RRB-_.	25
--RSB-_.	1
+NNS_NNPS
+blacks_Americans	1
 VBZ_FW
 MAKES_THEM	1
 is_in	1
@@ -5739,7 +5931,7 @@ it_when	1
 :_a	2
 ;_this	2
 -_a	2
-..._The	1
+..._The	2
 ;_a	4
 --_these	1
 -_the	2
@@ -5841,6 +6033,7 @@ I_'d	6
 he_should	1
 He_will	1
 them_may	1
+we_will	1
 It_would	1
 he_would	2
 it_should	2
@@ -5981,7 +6174,6 @@ actors_did	1
 scenes_did	1
 viewers_saw	1
 lives_knew	1
-<br />_survived	1
 roles_were	1
 millions_were	1
 critics_said	1
@@ -6028,21 +6220,17 @@ man_passing	3
 end_product	1
 trash_transformation	1
 trailer_trash	5
-<br />_blood	1
-<br />_parent	1
-sex_<br />	1
+NO_WAY	1
 love_story	2
 vs._reality	1
 job_pacing	1
 university_position	1
 birthday_present	1
 movie_clout	1
-complexion_<br />	1
+sex_scandel	1
 class_acting	1
-cameo_role	1
 part_well	1
 gravel_road	1
-anyone_<br />	1
 writer_friend	2
 laundry_list	1
 school_dropout	1
@@ -6062,7 +6250,7 @@ trash_role	1
 film_school	1
 heart_attack	5
 sex_deal	1
-<br />_pass	1
+Jew_huh	1
 skin_color	1
 character_development	1
 campus_classroom	1
@@ -6088,14 +6276,12 @@ park_trash	1
 age_transition	1
 May/December_relationship	1
 town_college	1
-community_<br />	1
 living_room	1
 term_spooky	1
 eye_color	1
 writer_suffering	1
-<br />_A	1
+film_role	1
 Screenplay_writer	1
-<br />_scandel	1
 plot_point	1
 force_trauma	1
 school_janitor	1
@@ -6106,12 +6292,9 @@ tour-de-force_cast	1
 college_girlfriend	1
 story_development	1
 trailer_park	1
-<br />_heritage	1
 college_environment	1
-film_role	1
 Stain_</a>	1
 mix_vengeance	1
-Silk_<br />	1
 slave_girl	2
 tragedy_one	1
 TV_soap	1
@@ -6128,31 +6311,29 @@ cleaning_woman	6
 slur_charge	1
 girlfriend_home	1
 supporting_cast	1
-trash_type	1
+woman_Fawnia	1
 body_movement	1
 star_ensemble	1
-<br />_slur	1
 *_woman	1
 turning_point	1
 office_draw	1
 movie_machine	1
 century_america	1
-dream_cast	1
+trash_type	1
 credibility_problem	1
 source_material	1
-<br />_embarrassment	1
 rent_Instinct	1
 view_point	1
 face_role	1
 soul_mate	1
 hardtack_brunette	1
-<p>_Silk	1
+cameo_role	1
+woman_Kidman	1
 someone_down-and-out	1
 character_drama	2
 plot_development	1
 dairy_farm	1
 well_cast	1
-injustice_<br />	1
 brain_aneurysm	1
 pickup_truck	1
 actor_playing	1
@@ -6166,7 +6347,6 @@ cleaning_lady	1
 movie_work	1
 age_movie	1
 Best_Actor	1
-NO_WAY	1
 college_professor	8
 aging_professor	1
 college_dean	1
@@ -6181,11 +6361,11 @@ terrifice_soundtrack	1
 direction_style	1
 roadside_stream	1
 dairy_worker	1
+dream_cast	1
 story_line	3
 man_side	1
 movie_library	1
 roughwoman_make	1
-<br />_story	1
 film_adaptation	1
 actress.This_movie	1
 base_theme	1
@@ -6195,7 +6375,6 @@ permormance_rent	1
 correctness_theme	1
 icy_road	1
 minute_span	1
-<br />_Author	1
 growth_period	1
 letter_grade	1
 farm_woman	1
@@ -6230,6 +6409,7 @@ elements_never	1
 Kudos_also	1
 winds_up	1
 years_hence	1
+flashbacks_often	1
 questions_as	1
 motions_now	1
 elements_together	1
@@ -6245,19 +6425,19 @@ people_regardless	1
 pieces_never	1
 people_instead	1
 people_not	1
--LRB-_WDT
--LRB-_which	2
+CD_''
+four_''	1
 EX_VBD
 there_was	2
 There_was	1
 JJS_.
+best_.	1
 least_.	1
 JJS_,
+least_,	1
 most_,	1
 ,_EX
 ,_there	3
--RRB-_RB
--RRB-_Also	1
 DT_JJ
 A_good	3
 a_mulatto	2
@@ -6373,7 +6553,6 @@ a_last	1
 an_odd	1
 a_worth	1
 an_impotent	1
-the_<br />	1
 a_compelling	2
 a_drunken	1
 The_political	1
@@ -6739,11 +6918,11 @@ meaning_of	1
 movie_in	1
 hate_that	1
 way_with	1
-<p>_If	2
+novel_of	2
 job_as	1
 performance_by	4
 PC_with	1
-<p>_In	1
+range_for	1
 position_over	1
 lake_on	1
 retirement_from	1
@@ -6833,7 +7012,6 @@ featurette_about	1
 educator_for	1
 story_about	3
 book_on	1
-<br />_against	1
 story_with	2
 quarter_of	1
 love_between	1
@@ -6866,23 +7044,20 @@ life_as	2
 correctness_at	1
 nothing_in	1
 work_of	2
-complexion_of	1
+complexion_of	2
 genius_of	1
 state_of	2
 picture_of	1
 time_since	1
-<br />_At	1
 nexus_of	1
 point_in	1
 professor_with	3
-novel_of	2
 tale_in	1
 movie_with	3
 recluse_after	1
 performance_as	1
 development_in	1
 MAN_FOR	1
-<p>_For	1
 time_on	1
 woman_with	2
 way_since	1
@@ -6892,14 +7067,11 @@ consideration_of	1
 grab_for	1
 love_with	1
 bond_between	1
-<br />_without	1
 wife_into	1
 job_in	2
 passing_as	2
 interpretation_of	1
-range_for	1
 everyone_around	1
-<p>_At	2
 film_on	3
 girl_that	1
 compassion_for	1
@@ -6955,7 +7127,6 @@ process_of	1
 determination_of	1
 writer_in	2
 funeral_about	1
-friendship_of	1
 sensitivity_by	1
 race_by	1
 post_in	1
@@ -7120,7 +7291,7 @@ victim_of	1
 set_of	1
 romance_with	1
 sharing_with	1
-<p>_On	1
+commentary_on	1
 way_along	2
 disbelief_for	1
 power_in	1
@@ -7131,7 +7302,6 @@ history_of	3
 novel_upon	1
 feeling_that	1
 interest_in	2
-commentary_on	1
 commentary_so	1
 scenery_as	1
 work_for	1
@@ -7175,6 +7345,7 @@ soliloquy_with	1
 background_during	1
 foray_into	1
 chemistry_with	1
+injustice_against	1
 person_that	1
 racism_as	1
 past_behind	1
@@ -7318,7 +7489,7 @@ world_of	1
 progress_along	1
 %_of	1
 meat_of	1
-<br />_In	2
+friendship_of	1
 story_from	2
 role_that	1
 pace_of	1
@@ -7383,17 +7554,10 @@ believability_of	1
 professor_at	4
 apology_for	1
 majority_of	1
-<br />_of	2
 background_with	1
 family_of	1
 emotion_of	1
 lesson_in	1
--LRB-_LS
--LRB-_b	1
-FW_PDT
-<br />_All	2
-VB_-RRB-
-give_-RRB-	1
 CC_DT
 and_that	5
 and_an	6
@@ -7428,11 +7592,10 @@ both_a	1
 both_an	1
 NN_VBN
 catalyst_needed	1
-<br />_exercised	1
 theme_superimposed	1
 self_portrayed	1
 film_raised	1
-<br />_done	1
+couple_played	1
 age_gone	1
 vet_named	1
 case_needed	1
@@ -7443,6 +7606,8 @@ movie_bombed	1
 writer_played	1
 murder_occurred	1
 movie_come	1
+movie_played	1
+nostalgia_accompanied	1
 character_played	2
 heart_broken	1
 bit_forced	1
@@ -7453,9 +7618,11 @@ hypocrisy_thrown	1
 dialogue_offered	1
 film_backed	1
 madness_induced	1
-remark_taken	1
+Silk_portrayed	1
 emotion_based	1
 dialog_delivered	1
+remark_taken	1
+protagonist_played	1
 woman_beset	1
 career_brought	1
 countryside_covered	1
@@ -7478,7 +7645,6 @@ fashion_reflecting	1
 man_leaving	1
 soul_being	1
 town_buzzing	1
-<br />_playing	1
 controversy_involving	1
 man_resembling	1
 time_trying	1
@@ -7491,7 +7657,6 @@ film_dealing	2
 anyone_adapting	1
 woman_running	1
 message_saying	1
-<br />_understanding	1
 relief_seeing	1
 country_teetering	1
 Best_Supporting	1
@@ -7517,11 +7682,8 @@ job_playing	1
 novelist_suffering	1
 man_carrying	1
 problem_portraying	1
-<br />_being	1
-VBP_NNP
-are_Anthony	1
-think_Gary	1
-love_Anthony	1
+PRP_FW
+her_ex	1
 CC_WRB
 but_when	3
 and_how	4
@@ -7629,7 +7791,7 @@ score_captures	1
 director_seems	1
 sister_hears	1
 movie_evolves	1
-actor_performs	1
+watching_has	1
 dean_befriends	1
 Silk_has	2
 news_sends	1
@@ -7641,6 +7803,7 @@ parent_is	1
 film_loses	1
 comment_is	1
 performance_is	1
+Bounce_is	1
 film_grabs	1
 adaptation_is	1
 story_exposes	1
@@ -7671,11 +7834,13 @@ car_is	1
 romance_is	1
 face_is	1
 wife_drops	1
+casting_coaxes	1
 Something_has	1
 Silk_gets	1
 Silk_meets	2
 movie_staggers	1
 family_sees	1
+nuance_has	1
 direction_is	1
 prejudice_has	1
 scene_is	3
@@ -7689,14 +7854,14 @@ plot_sounds	1
 mother_gets	1
 remark_is	1
 man_harbors	1
-watching_has	1
+actor_performs	1
 credit_is	1
 professor_notes	1
 perspective_tells	1
 plot_is	1
 plot_unfolds	1
 life_takes	1
-casting_coaxes	1
+problem_is	1
 one_falls	1
 chain-smoking_does	1
 cinematography_catches	1
@@ -7705,6 +7870,7 @@ story_comes	1
 horror_has	1
 turn_reveals	1
 one_supports	1
+profile_does	1
 woman_is	2
 STAIN_begins	1
 camera_flatters	1
@@ -7755,7 +7921,7 @@ material_feels	1
 part_is	2
 whole_interprets	1
 film_deserves	1
-nuance_has	1
+age_is	1
 writer_slaps	1
 one_becomes	1
 latter_suggests	1
@@ -7787,7 +7953,7 @@ sister_says	1
 respectability_is	1
 Silk_is	2
 man_has	1
-tenure_is	1
+date_keeps	1
 Silk_starts	1
 name_is	1
 heritage_does	1
@@ -7797,6 +7963,7 @@ witch_hunts	1
 press_has	1
 man_is	1
 depth_is	1
+tenure_is	1
 novel_is	3
 vehicle_has	1
 story_jumps	1
@@ -7806,7 +7973,7 @@ movie_relies	1
 screenplay_is	1
 everyone_is	1
 storyline_is	1
-problem_is	1
+acclaim_has	1
 movie_sends	1
 cast_is	1
 script_does	1
@@ -7829,7 +7996,6 @@ expertise_has	1
 theme_is	2
 story_ends	1
 existence_is	1
-<br />_Puts	1
 cast_helps	1
 movie_concerns	1
 change_is	1
@@ -7876,7 +8042,6 @@ away_here	1
 normally_really	1
 never_even	1
 not_always	1
-n't_<br />	1
 clearly_much	1
 so_beautifully	1
 not_just	5
@@ -8005,7 +8170,7 @@ NN_VBP
 lover_are	1
 prejudice_have	1
 life_have	1
-usage_seem	1
+employer_bear	1
 movie_are	1
 lover_stand	1
 tale_are	1
@@ -8020,6 +8185,7 @@ Silk_are	1
 story_remain	1
 boxer_are	1
 film_mean	1
+usage_seem	1
 youth_are	1
 PRP_RB
 I_just	5
@@ -8095,20 +8261,16 @@ I_also	5
 ,_Hearts	1
 JJS_CD
 least_four	1
-MD_-RRB-
-can_-RRB-	1
 IN_EX
 because_there	1
 that_there	3
 as_there	1
-JJ_-LRB-
-unexplained_-LRB-	1
-decent_-LRB-	1
-intact_-LRB-	1
-obscure_-LRB-	1
-insane_-LRB-	1
-monstrous_-LRB-	1
-stupid_-LRB-	1
+PRP_RP
+them_down	1
+himself_off	1
+it_down	2
+it_out	1
+it_off	1
 JJ_``
 primary_``	1
 big_`	1
@@ -8169,6 +8331,7 @@ definitely_is	1
 diligently_picks	1
 perhaps_has	1
 always_leaves	1
+ago_does	1
 also_meets	1
 really_takes	1
 unjustly_accuses	1
@@ -8205,7 +8368,7 @@ VBZ_VBD
 has_had	1
 ,_WP
 ,_whom	1
-,_who	29
+,_who	30
 ,_what	2
 VBZ_VBG
 's_running	1
@@ -8229,7 +8392,6 @@ is_legitimizing	1
 is_stalking	1
 VB_PRP
 Bought_it	1
-divulge_it	1
 rate_it	1
 sell_me	1
 declare_themselves	1
@@ -8259,7 +8421,7 @@ bring_himself	1
 lead_them	1
 tell_he	1
 compare_it	1
-<br />_It	1
+divulge_it	1
 get_it	1
 destroy_them	1
 have_it	1
@@ -8451,7 +8613,7 @@ and_her	1
 or_his	1
 and_its	1
 but_his	2
-and_his	9
+and_his	10
 and_their	4
 but_their	1
 and_your	1
@@ -8564,6 +8726,7 @@ only_shown	1
 just_watched	1
 n't_watched	1
 always_made	1
+annoyingly_interrupted	1
 so_haunted	1
 beautifully_shot	2
 NN_''
@@ -8671,16 +8834,7 @@ successfully_convinced	1
 simply_sought	1
 never_appeared	1
 FW_IN
-<br />_While	2
-<br />_So	1
-<br />_Like	1
-<br />_That	1
-<br />_If	2
-<br />_Of	1
-<br />_For	1
-<br />_In	2
-<br />_Despite	1
-<br />_of	1
+stratas_of	1
 NNS_NN
 arts_college	1
 characters_battle	1
@@ -8722,9 +8876,6 @@ DID_work	1
 JJ_WP
 sure_what	1
 afro-american_who	1
--LRB-_MD
--LRB-_would	1
--LRB-_Could	1
 NNP_TO
 Zuckerman_to	1
 Fawnia_to	1
@@ -8732,11 +8883,8 @@ Escoffer_to	1
 Roth_to	1
 College_to	1
 America_to	1
+Sinise_to	1
 Hopkins_to	1
--LRB-_VBN
--LRB-_portrayed	1
--LRB-_accompanied	1
--LRB-_played	3
 VBZ_TO
 is_to	5
 moves_to	1
@@ -8778,6 +8926,7 @@ POS_NNP
 's_Black	1
 's_Buffy	1
 's_Real	1
+'s_Hopkins	1
 ,_IN
 ,_with	6
 ,_though	2
@@ -8837,8 +8986,6 @@ friends_who	1
 1940s_who	1
 performers_who	1
 possessions_who	1
--LRB-_VBZ
--LRB-_is	1
 IN_VBP
 on_smack	1
 through_are	1
@@ -8899,13 +9046,13 @@ divide_that	1
 truck_that	1
 tale_that	1
 thing_that	1
+order_which	1
 sadness_that	1
 man_that	1
 hypocrisy_that	1
 background_that	1
 potential_that	1
 society_that	2
-<p>_What	1
 movie_that	4
 point_that	1
 role_that	1
@@ -8913,12 +9060,14 @@ professor_that	1
 accident_that	1
 material_which	1
 cartel_which	1
+RACISM_which	1
 story_which	1
 film_that	8
 secret_that	1
 way_that	3
 school_which	1
 touch_that	1
+truck_which	1
 choice_that	1
 bias_that	1
 behavior_that	1
@@ -8942,9 +9091,8 @@ endure_the	1
 leave_a	1
 address_the	1
 fight_the	2
-<p>_The	7
 buy_that	1
-raise_the	1
+shed_all	1
 find_the	1
 watch_this	1
 portray_the	1
@@ -8987,7 +9135,6 @@ rate_a	1
 channel_a	1
 pollute_the	1
 say_this	1
-<br />_The	2
 top_that	1
 enjoy_the	1
 feel_any	1
@@ -9003,8 +9150,9 @@ confront_some	1
 show_a	1
 believe_the	1
 wain_the	1
+raise_the	1
 suspend_some	1
-shed_all	1
+see_another	1
 make_this	1
 reconstruct_the	1
 reccomend_this	1
@@ -9051,9 +9199,6 @@ fit_the	1
 write_the	1
 see_this	3
 be_the	4
--LRB-_VBG
--LRB-_playing	1
--LRB-_Trying	1
 WRB_DT
 when_that	1
 Why_this	1
@@ -9079,8 +9224,6 @@ half_a	1
 all_an	1
 all_the	20
 such_a	3
-NNS_NNPS
-blacks_Americans	1
 NNS_WRB
 camps_where	1
 moments_where	1
@@ -9189,24 +9332,21 @@ is_reluctant	1
 's_theatrical	1
 EX_POS
 There_'s	1
-JJ_-RRB-
-worthy_-RRB-	1
-perennial_-RRB-	1
-imaginary_-RRB-	1
 ''_DT
 ''_a	1
 NN_TO
 coast_to	1
 link_to	1
-<p>_To	2
 power_to	3
 cheek_to	1
+effort_to	1
 impetus_to	1
 blood_to	1
 tendency_to	1
 character_to	2
 extent_to	1
 connection_to	1
+hero_to	1
 order_to	3
 deal_to	1
 racism_to	1
@@ -9216,7 +9356,7 @@ time_to	1
 life_to	1
 struggle_to	1
 path_to	1
-<br />_to	1
+learning_to	1
 role_to	2
 disbelief_to	1
 race_to	2
@@ -9228,6 +9368,7 @@ news_to	1
 make-up_to	1
 road_to	2
 one_to	1
+course_to	1
 nothing_to	1
 way_to	2
 pugnaciousness_to	1
@@ -9247,13 +9388,12 @@ approach_to	1
 porter_to	1
 crazedness_to	1
 treasure_to	1
-learning_to	1
 family_to	1
 challenge_to	1
 youth_to	1
 reflection_to	1
-book_to	1
 script_to	1
+book_to	1
 attempt_to	3
 genius_to	1
 puzzle_to	1
@@ -9262,7 +9402,7 @@ home_to	2
 contrast_to	1
 insult_to	2
 embarresment_to	1
-effort_to	1
+color_to	1
 closure_to	1
 novel_to	2
 WAY_to	1
@@ -9488,7 +9628,7 @@ who_else	1
 ,_selfishness	1
 ,_racism	4
 ,_moralizing	1
-,_<br />	3
+,_power	1
 ,_pacifism	1
 ,_pain	1
 ,_joy	1
@@ -9502,7 +9642,6 @@ who_else	1
 ,_anyone	1
 ,_heartache	1
 ,_ageism	1
-,_power	1
 ,_age	1
 ,_snobbishness	1
 ,_Best	2
@@ -9533,8 +9672,6 @@ VBD_WRB
 wondered_why	1
 RP_WP
 out_what	1
-FW_TO
-<br />_To	1
 ``_RB
 ``_spectacularly	1
 ``_now	1
@@ -9544,15 +9681,6 @@ and_,	5
 Or_,	1
 or_,	3
 but_,	1
-JJ_PRP
-sure_it	1
-bad_they	1
-great_I	1
-present_he	1
-black_you	1
-fair_it	1
-short_it	1
-complicated_it	1
 ``_NNS
 ``_resigns	1
 ``_secrets	1
@@ -9636,7 +9764,6 @@ simply_a	1
 just_the	1
 Only_a	1
 finally_the	2
-<br />_a	1
 then_this	1
 almost_a	1
 still_a	1
@@ -9653,6 +9780,7 @@ present_might	1
 character_should	1
 question_would	1
 movie_could	4
+identity_could	1
 movie_might	1
 family_should	1
 earth_should	1
@@ -9664,6 +9792,7 @@ cast_could	1
 spooky_will	1
 sense_can	1
 theme_could	1
+accent_would	1
 movie_would	3
 mother_would	1
 story_will	1
@@ -9874,7 +10003,7 @@ really_meld	1
 simply_be	1
 n't_have	1
 not_work	2
-n't_understand	1
+n't_understand	2
 beyond_compare	1
 not_accept	1
 even_see	1
@@ -9907,19 +10036,11 @@ n't_imagine	1
 n't_want	4
 n't_be	6
 definitely_recommend	1
-<br />_understand	1
 n't_find	1
 VBG_VB
 saying_please	1
-JJS_-RRB-
-least_-RRB-	1
-best_-RRB-	1
 :_UH
 ..._oh	1
--RRB-_JJ
--RRB-_illiterate	1
--RRB-_direct	1
--RRB-_bizarre	1
 NNPS_IN
 Americans_into	1
 Achilles_with	1
@@ -9965,6 +10086,7 @@ for_over	1
 across_with	1
 for_about	1
 JJ_RB
+unexplained_especially	1
 equal_instead	1
 alittle_sexually	1
 depressed_quite	1
@@ -10004,9 +10126,6 @@ leaving_his	1
 abandoning_his	1
 relating_his	1
 costuming_his	1
--RRB-_VBP
--RRB-_bear	1
--RRB-_deliver	1
 ,_VBG
 ,_exploring	1
 ,_presenting	1
@@ -10034,28 +10153,14 @@ costuming_his	1
 ,_using	1
 ,_seeing	1
 ,_leading	2
-''_-RRB-
-''_-RRB-	1
 ``_NNPS
 ``_Places	1
--RRB-_VBZ
--RRB-_chooses	1
--RRB-_has	1
--RRB-_begins	1
--RRB-_meets	1
--RRB-_delivers	1
--RSB-_is	1
--RRB-_does	3
--RRB-_keeps	1
--RRB-_hunts	1
--RRB-_is	7
--RRB-_arrives	1
 NNS_.
 relationships_.	1
 qualities_.	2
 spooks_?	1
 pedestrians_.	1
-messes_.	1
+roles_.	4
 lives_.	2
 communities_.	1
 characters_.	3
@@ -10063,10 +10168,10 @@ bullets_.	1
 spooks_.	1
 directions_.	1
 women_.	1
-ethnicities_.	1
 ideas_.	1
 circumstances_.	2
 performers_.	1
+messes_.	1
 flashbacks_.	3
 enemies_.	2
 roadblocks_.	1
@@ -10090,7 +10195,7 @@ souls_.	1
 actors_.	4
 books_.	1
 stories_.	1
-situations_.	1
+Soldiers_.	1
 problems_.	2
 roots_.	1
 days_.	3
@@ -10112,19 +10217,20 @@ Girls_.	1
 affairs_.	1
 nominations_.	1
 stars_.	2
+situations_.	1
 points_.	1
 ones_.	1
 aspirations_.	1
 struggles_.	1
 consequences_.	2
 possessions_.	1
-roles_.	4
+ethnicities_.	1
 minutes_.	1
 depths_.	1
 people_.	1
 wounds_.	1
 afterthoughts_.	1
-scenes_.	4
+scenes_.	5
 actresses_.	1
 answers_.	1
 '60s_?	1
@@ -10158,6 +10264,7 @@ nuances_,	1
 performances_,	3
 moments_,	2
 jobs_,	1
+ghosts_,	1
 characterizations_,	1
 townspeople_,	1
 theatres_,	1
@@ -10193,7 +10300,8 @@ relationships_,	2
 1940s_,	2
 reviewers_,	1
 ways_,	1
-characters_,	6
+s_,	1
+characters_,	7
 wishes_,	1
 scholarships_,	1
 words_,	1
@@ -10221,6 +10329,7 @@ intentions_,	1
 hours_,	1
 friends_,	1
 untwists_,	1
+ex-in-laws_,	1
 favorites_,	1
 ironies_,	1
 states_,	1
@@ -10231,7 +10340,7 @@ risks_,	1
 lines_,	1
 movies_,	4
 Novelists_,	1
-films_,	2
+films_,	3
 expectations_,	2
 Eyes_,	1
 minutes_,	1
@@ -10245,14 +10354,6 @@ values_,	1
 ,_carry	1
 ,_are	3
 ,_seem	1
--RRB-_DT
--RSB-_a	1
--RRB-_This	1
--RRB-_the	1
--RRB-_a	1
--RRB-_VBD
--RRB-_was	3
--RRB-_had	1
 RBR_RB
 more_carefully	1
 less_so	1
@@ -10283,8 +10384,9 @@ was_Nicole	2
 reminded_Silk	1
 thought_Anthony	1
 were_Black	1
--RRB-_VBN
--RRB-_interrupted	1
+PRP_WP
+you_who	1
+me_what	1
 NNS_:
 characters_-	1
 performances_...	1
@@ -10338,8 +10440,6 @@ men_-	1
 ,_has	5
 ,_proves	1
 ,_sits	1
--RRB-_NNP
--RSB-_Anthony	1
 WRB_RB
 how_much	1
 how_often	1
@@ -10416,6 +10516,7 @@ rich_characterizations	1
 American_Novelists	1
 first_frames	1
 ordinary_films	1
+moral_questions	1
 racist_fallacies	1
 own_struggles	1
 young_performers	1
@@ -10435,7 +10536,7 @@ authentic_depths	1
 internal_wounds	1
 many_kinds	1
 other_forms	1
-black_Americans	1
+black_Americans	2
 other_countries	1
 solid_performances	1
 impressive_performances	1
@@ -10507,6 +10608,7 @@ good_reasons	1
 splendid_novels	1
 racial_tensions	1
 great_actors	2
+white_Americans	1
 Certain_reviewers	1
 past_scenes	1
 abusive_relationships	1
@@ -10544,7 +10646,6 @@ interwoven_stories	1
 ethnic_biases	1
 old_men	1
 great_demands	1
-few_<br />	1
 abject_depths	1
 real_performances	1
 innocent_remarks	1
@@ -10631,18 +10732,20 @@ abusive_Vietnam	1
 recent_Zuckerman	1
 recent_Philip	1
 whole_New	1
+insane_Ed	1
 recent_House	1
 deep_Kidman	1
 amazing_Hopkins	1
-face_AND	1
+adequate_Jacinda	1
 mulatto_African	1
 ex-husband_Lester	1
+monstrous_Nathan	1
 sorry_Nicole	1
 black_American	1
 bemused_Everyman	1
 class-less_American	1
 young_Coleman	8
-adequate_Jacinda	1
+face_AND	1
 vulnerable_Faunia	1
 eastern_Ivy	1
 leering_Hannibal	1
@@ -10650,8 +10753,17 @@ distinctive_Welsh	1
 fabulous_Gary	1
 formidable_Dean	1
 psychotic_Vietnam	2
-JJR_VBD
-lower_rung	1
+CD_IN
+one_in	1
+three_of	1
+one_at	1
+14_after	1
+one_as	1
+two_of	3
+2003_with	1
+one_of	21
+one_from	1
+One_of	3
 FW_''
 f_''	1
 ''_CC
@@ -10669,9 +10781,6 @@ of_what	2
 for_what	4
 RB_''
 now_''	1
--RRB-_CC
--RRB-_and	10
--RRB-_but	1
 JJR_VBZ
 odder_is	1
 VBG_PRP
@@ -10764,6 +10873,7 @@ may_,	1
 can_,	1
 NN_PRP
 dignity_you	1
+fan_I	1
 time_she	1
 thing_I	1
 actress_I	1
@@ -10786,9 +10896,8 @@ product_I	1
 time_they	1
 novel_it	1
 rate_it	1
-<br />_him	1
 performance_I	1
-film_I	1
+film_I	2
 crow_we	1
 story_itself	5
 way_we	1
@@ -10809,6 +10918,7 @@ role_he	1
 film_you	1
 reason_he	1
 way_she	1
+performance_he	1
 fact_she	1
 time_you	1
 movie_itself	2
@@ -10845,7 +10955,6 @@ advance_our	1
 forsook_his	1
 accept_his	2
 live_his	1
-<br />_his	1
 meet_his	1
 save_his	1
 quit_his	1
@@ -10855,6 +10964,7 @@ cure_his	1
 ruin_his	1
 ._.
 ._.	3
+?_.	1
 ,_MD
 ,_could	1
 ,_may	1
@@ -10863,33 +10973,36 @@ JJ_DT
 gross_the	1
 such_an	1
 afraid_the	1
+worth_a	1
 quick_the	1
 strong_an	1
 sure_the	1
-worth_a	1
+stupid_the	1
 such_a	3
 RB_CC
-well_and	2
 figuratively_and	1
-now_and	1
 finally_and	1
+back_and	3
+well_and	2
+socially_and	1
 out_and	1
 slightly_and	1
+purposefully_and	1
+again_and	1
+nowhere_and	1
+forever_and	1
+physically_and	1
+yet_but	1
+now_and	1
 racially_and	1
 completely_and	1
 genuinely_and	1
-nowhere_and	1
-purposefully_and	1
-amok_and	1
-socially_and	1
-back_and	3
-forever_and	1
+strongly_and	1
+periodically_and	1
 off_and	1
 properly_but	1
 together_and	2
-physically_and	1
-strongly_and	1
-again_and	1
+amok_and	1
 MD_VB
 can_serve	1
 can_destroy	1
@@ -10905,7 +11018,6 @@ could_get	1
 can_run	1
 can_get	1
 could_do	1
-may_<br />	1
 can_go	1
 will_know	1
 can_tell	1
@@ -10985,16 +11097,12 @@ should_know	2
 will_run	1
 would_be	6
 can_say	1
-RB_CD
-especially_one	1
-n't_one	2
-just_one	1
-otherwise_2	1
-notably_one	1
-down_three	1
-probably_one	1
-about_two	1
-only_one	1
+:_JJ
+..._strange	1
+..._alarming	1
+-_many	1
+..._Many	1
+:_current	1
 VB_VBN
 be_altered	1
 be_sliced	1
@@ -11023,7 +11131,7 @@ have_bought	1
 have_read	1
 be_heard	1
 have_created	1
-have_done	2
+have_done	3
 be_thrown	1
 have_liked	1
 have_made	3
@@ -11047,9 +11155,6 @@ be_hidden	1
 stay_rooted	1
 CC_PDT
 and_all	3
-VBN_-LRB-
-revealed_-LRB-	1
-shot_-LRB-	1
 VB_VBG
 intersect_giving	1
 avoid_hitting	2
@@ -11067,8 +11172,6 @@ be_sitting	1
 avoid_falling	1
 continue_going	1
 go_rushing	1
-:_-LRB-
--_-LRB-	1
 VB_VBD
 have_had	1
 find_was	1
@@ -11107,10 +11210,9 @@ when_townspeople	1
 ,_every	1
 ,_an	5
 ,_all	2
-,_The	3
+,_The	4
 NNP_NNPS
 Matrix_Revolutions	1
-<br />_Jews	1
 TO_VBN
 to_asked	1
 VBZ_RBR
@@ -11122,6 +11224,7 @@ best_acting	1
 CD_PRP
 one_I	1
 NNS_DT
+SEASONS_both	1
 lands_a	1
 touches_the	1
 clues_the	1
@@ -11132,47 +11235,6 @@ strains_the	1
 issues_the	1
 POS_``
 's_``	2
-VB_JJ
-be_believable	1
-Get_real	1
-feel_sorry	1
-reach_late	1
-call_American	1
-be_grateful	1
-be_monstrous	1
-confess_further	1
-look_plain	1
-give_real	1
-find_such	1
-be_amazing	1
-have_little	1
-say_serious	1
-teach_classical	1
-be_racial	1
-see_useless	1
-fix/rehabilitate_stupid	1
-develop_instant	1
-be_faithful	1
-give_impressive	1
-be_illiterate	1
-be_clear	1
-hide_self-hatred	1
-raise_such	1
-feel_bad	1
-feel_responsible	1
-be_free	1
-be_pretentious	1
-bring_pulsating	1
-be_excellent	1
-hurt_well-meaning	1
-be_black	2
-take_great	1
-play_white	1
-bash_political	1
-be_good	1
-include_many	1
-say_much	1
-be_fair	1
 VBZ_NN
 accuses_Silk	1
 takes_place	1
@@ -11196,18 +11258,6 @@ has_depth	1
 's_kind	1
 travels_light	1
 seeks_comfort	1
-WDT_VBP
-that_get	1
-which_persist	1
-that_restore	1
-that_go	1
-which_imbue	1
-that_appear	1
-that_deny	2
-that_reveal	1
-that_<br />	1
-that_are	3
-that_cause	1
 POS_RB
 's_already	1
 's_rather	2
@@ -11282,15 +11332,6 @@ bet_the	1
 reveal_an	1
 play_an	1
 think_the	4
-NNS_-RRB-
-Soldiers_-RRB-	1
-Hours_-RRB-	1
-characters_-RRB-	1
-films_-RRB-	1
-ex-in-laws_-RRB-	1
-scenes_-RRB-	1
-s_-RRB-	1
-ghosts_-RRB-	1
 VBD_TO
 wanted_to	2
 alluded_to	1
@@ -11415,282 +11456,14 @@ NNPS_WP
 Jews_who	2
 Americans_who	1
 NNP_JJ
-Viagra_dependant	1
 Roth_perennial	1
-England_private	1
+Smith_direct	1
 England_liberal	2
+England_private	1
+Viagra_dependant	1
 Oscar_worthy	1
-NN_,
-meaning_,	1
-embarrassment_,	1
-sum_,	2
-dissapointment_,	1
-society_,	1
-wife_,	5
-eject_,	1
-reason_,	1
-scholar_,	1
-survival_,	1
-writing_,	1
-privacy_,	1
-bit_,	1
-tragedy_,	2
-hypocrisy_,	1
-approach_,	1
-everyone_,	4
-loneliness_,	1
-professor_,	3
-today_,	1
-hilt_,	1
-perfection_,	1
-intern_,	1
-importance_,	1
-attention_,	2
-term_,	1
-hate_,	1
-home_,	1
-Ah_,	1
-potential_,	1
-community_,	1
-comment_,	1
-school_,	2
-invisibility_,	1
-mind_,	1
-title_,	1
-shame_,	2
-pride_,	2
-greed_,	1
-person_,	1
-thought_,	2
-Silk_,	4
-life_,	8
-diversity_,	1
-hurt_,	1
-track_,	1
-release_,	1
-screen_,	2
-experience_,	1
-part_,	3
-cinematography_,	1
-excellence_,	1
-homosexuality_,	1
-left_,	1
-relationship_,	2
-tale_,	2
-issue_,	1
-worker_,	1
-aftermath_,	1
-aneurysm_,	1
-academia_,	2
-puritanism_,	1
-half-hour_,	1
-actor_,	2
-sexuality_,	1
-struggle_,	1
-loop_,	1
-generation_,	1
-drek_,	1
-damage_,	1
-dialogue_,	1
-entertainment_,	1
-time_,	2
-color_,	4
-book_,	10
-top_,	1
-thrill_,	1
-literature_,	1
-underclass_,	1
-talent_,	1
-casting_,	1
-justice_,	1
-R_,	1
-story_,	8
-stream_,	1
-trash_,	1
-money_,	1
-subject_,	1
-humanity_,	1
-thriller_,	1
-significance_,	1
-landscape_,	1
-smoking_,	1
-acting_,	2
-university_,	1
-culture_,	1
-soap_,	1
-Traffic_,	1
-self-rejection_,	1
-light_,	1
-heartbreak_,	1
-remark_,	1
-classism_,	1
-context_,	1
-classroom_,	1
-race_,	2
-complexity_,	1
-wealth_,	1
-essence_,	1
-lifetime_,	1
-campus_,	1
-place_,	3
-hand_,	3
-clarity_,	1
-enemy_,	1
-semester_,	1
-truth_,	1
-process_,	1
-fire_,	1
-skinned_,	1
-down-and-out_,	1
-correctness_,	3
-flesh_,	1
-student_,	1
-phrase_,	2
-profile_,	1
-anti-Semitism_,	1
-principle_,	1
-choice_,	2
-turn_,	2
-drama_,	3
-writer_,	4
-supreme_,	1
-failure_,	2
-anger_,	2
-review_,	1
-side_,	2
-husband_,	6
-movie_,	15
-jealousy_,	1
-existence_,	1
-snow_,	1
-accent_,	2
-man_,	3
-difference_,	1
-source_,	1
-administration_,	1
-right_,	1
-ageism_,	1
-Etc_,	1
-grade_,	1
-end_,	6
-divorce_,	1
-fine_,	1
-score_,	1
-BTW_,	1
-purpose_,	1
-prejudice_,	1
-match_,	1
-start_,	1
-Tyranny_,	1
-material_,	1
-appearance_,	1
-victim_,	1
-player_,	1
-environment_,	1
-novel_,	3
-secret_,	1
-vet_,	1
-power_,	3
-case_,	1
-bigotry_,	1
-ignorance_,	1
-pain_,	2
-affair_,	4
-fact_,	4
-accident_,	1
-world_,	1
-racist_,	1
-past_,	9
-shrift_,	1
-snobbishness_,	1
-interest_,	1
-woman_,	5
-rebound_,	1
-author_,	2
-pacing_,	1
-parent_,	1
-skin_,	1
-film_,	11
-f-word_,	1
-mess_,	1
-definition_,	1
-liaison_,	1
-decline_,	1
-emotion_,	1
-affirmation_,	1
-cast_,	6
-hype_,	1
-Stain_,	1
-class_,	1
-identity_,	2
-etc_,	1
-trilogy_,	1
-Production-wise_,	1
-arrival_,	1
-manhood_,	1
-flowering_,	1
-background_,	2
-boxing_,	1
-colleague_,	1
-mate_,	1
-role_,	2
-ex-professor_,	1
-neighbor_,	1
-opinion_,	1
-Jew_,	3
-microphone_,	1
-psychotherapist_,	1
-sex_,	1
-communication_,	1
-flick_,	2
-youth_,	2
-flooziness_,	1
-sexism_,	1
-mark_,	1
-hypocricy_,	1
-way_,	3
-course_,	3
-cowardice_,	1
-pace_,	1
-treatment_,	1
-lawyer_,	1
-look_,	1
-cause_,	1
-performance_,	2
-drift_,	1
-mother_,	2
-ex-husband_,	1
-age_,	2
-brother_,	1
-matter_,	1
-character_,	8
-head_,	1
-respectability_,	1
-selfishness_,	1
-task_,	1
-result_,	3
-college_,	2
-year_,	1
-injury_,	1
-plot_,	3
-mulatto_,	1
-group_,	1
-point_,	3
-spectre_,	1
-fear_,	1
-joy_,	1
-job_,	1
-janitor_,	1
-lover_,	3
-gossip_,	1
-DVD_,	2
-comfort_,	1
-love_,	7
-scrutiny_,	1
-family_,	3
-everything_,	1
-racism_,	6
-forefront_,	1
+JJR_VBD
+lower_rung	1
 ``_NN
 ``_feel	1
 ``_scandal	1
@@ -11751,7 +11524,7 @@ etc._.	2
 Silk_.	2
 life_.	19
 planet_.	1
-sense_.	1
+sense_.	2
 change_.	1
 control_.	1
 prejuice_.	1
@@ -11843,12 +11616,12 @@ responsibility_.	1
 anger_.	1
 ILIAD_.	1
 movie_!	2
-movie_.	19
+movie_.	20
 husband_.	3
 responsibility_?	1
 perspective_.	1
 biography_.	1
-accent_.	1
+man_!	1
 america_.	1
 man_.	9
 photograph_.	1
@@ -11870,7 +11643,7 @@ material_.	1
 town_.	2
 existence_.	1
 character_.	5
-novel_.	2
+novel_.	3
 secret_.	5
 nudity_.	1
 opinion_.	1
@@ -11901,6 +11674,7 @@ overall_.	1
 work_.	2
 ensemble_.	1
 act_.	1
+accent_.	1
 part_.	2
 sadness_.	1
 cast_.	1
@@ -12001,10 +11775,8 @@ time_.	4
 HELL_!	1
 racism_.	2
 force_.	1
-boxer_.	1
+boxer_.	2
 self-apprehension_.	1
--LRB-_TO
--LRB-_to	1
 NNP_VBG
 Kidman_having	1
 Sinese_conversing	1
@@ -12012,6 +11784,7 @@ Stain_starring	1
 Hopkins_being	1
 American_passing	1
 Escoffer_working	1
+Sinise_playing	1
 THEIR_BEING	1
 Kidman_being	1
 Australian_playing	1
@@ -12059,41 +11832,17 @@ JJR_TO
 more_to	1
 harder_to	1
 easier_to	2
-NN_-LRB-
-Fawnia_-LRB-	1
-protagonist_-LRB-	1
-accent_-LRB-	1
-RACISM_-LRB-	1
-novel_-LRB-	1
-nostalgia_-LRB-	1
-silence_-LRB-	1
-Silk_-LRB-	2
-professor_-LRB-	2
-hero_-LRB-	1
-janitor_-LRB-	1
-vet_-LRB-	1
-movie_-LRB-	1
-ex-husband_-LRB-	4
-Jew_-LRB-	1
-film_-LRB-	1
-truck_-LRB-	1
-mother_-LRB-	3
-writer_-LRB-	2
-fan_-LRB-	1
-highschool_-LRB-	1
-couple_-LRB-	1
-sister_-LRB-	1
-man_-LRB-	3
-family_-LRB-	1
-performance_-LRB-	1
-person_-LRB-	1
-life_-LSB-	1
-name_-LRB-	1
-character_-LRB-	1
-element_-LRB-	1
-woman_-LRB-	5
-Actor_-LRB-	2
-society_-LRB-	1
+WDT_VBP
+that_get	1
+which_persist	1
+that_restore	1
+that_go	1
+which_imbue	1
+that_appear	1
+that_deny	2
+that_reveal	1
+that_are	3
+that_cause	1
 ''_VBD
 ''_was	4
 ''_had	1
@@ -12172,22 +11921,12 @@ coming_together	1
 moving_along	1
 being_sexually	1
 stimulating_nonetheless	1
-FW_JJ
-<br />_Huge	1
-<br />_Happy	1
-<br />_Many	1
-<br />_Moody	1
-<br />_Other	1
 WDT_,
 whatever_,	1
 which_,	2
 RBR_TO
 smarter_to	1
 closer_to	1
--RRB-_NN
--RRB-_character	1
--RRB-_Jewishness	1
--RRB-_novel	1
 DT_,
 another_,	3
 that_,	3
@@ -12204,6 +11943,8 @@ this_!	1
 both_.	1
 this_.	3
 all_.	3
+NNS_FW
+performances_e.g.	1
 VBG_RP
 growing_up	1
 setting_up	1
@@ -12489,16 +12230,6 @@ casually_willing	1
 n't_violent	1
 deeply_flawed	1
 pretty_certain	1
--LRB-_FW
--LSB-_stephen	1
--LRB-_e.g.	1
-RB_-RRB-
-here_-RRB-	1
-ago_-RRB-	1
-anyway_-RRB-	1
-perhaps_-RRB-	1
-yet_-RRB-	1
-annoyingly_-RRB-	1
 NNS_RBR
 words_more	1
 VB_``
@@ -12521,9 +12252,8 @@ to_Meyer	1
 to_Coleman	1
 to_Silk	1
 to_Mimi	1
-RB_-LRB-
-here_-LRB-	1
-periodically_-LRB-	1
+WRB_MD
+Why_could	1
 TO_NNS
 to_tears	1
 to_aspects	1
@@ -12564,7 +12294,7 @@ watching_the	5
 restoring_a	1
 using_a	1
 hitting_an	1
-understanding_the	1
+seeing_a	1
 being_a	8
 making_a	1
 viewing_the	1
@@ -12572,6 +12302,7 @@ telling_the	1
 playing_the	3
 showing_the	1
 writing_a	2
+understanding_the	1
 hitting_some	1
 enjoying_the	2
 including_the	1
@@ -12580,7 +12311,7 @@ seeing_the	2
 playing_an	1
 allowing_a	1
 highlighting_the	1
-seeing_a	1
+saying_a	1
 Casting_this	1
 reflecting_the	1
 receiving_no	1
@@ -12749,8 +12480,9 @@ figure_out	1
 go_along	1
 sum_up	1
 fill_up	1
-NNS_VB
-scenes_arouse	1
+VBZ_PDT
+has_such	1
+is_half	1
 VBG_MD
 plotting_may	1
 JJ_WRB
@@ -12765,8 +12497,6 @@ wonderful_when	1
 NN_RBR
 bit_harder	1
 bit_more	1
-FW_WDT
-<br />_Which	1
 EX_TO
 there_to	1
 RB_NNS
@@ -12775,7 +12505,6 @@ ultimately_clues	1
 often_actors	1
 even_critics	1
 NN_EX
-<p>_There	1
 thene_there	1
 temptation_there	1
 ``_JJ
@@ -12801,9 +12530,10 @@ ex_--	1
 NNP_IN
 Smith_along	1
 Welsh_like	1
-Silk_in	1
+Silk_in	2
 Farley_while	1
-LAWRENCE_OF	2
+Hollywood_as	1
+H_as	1
 Dean_of	2
 Hopkins_as	3
 Benton_that	1
@@ -12815,8 +12545,9 @@ Faculty_at	1
 Sinise_as	3
 Harris_in	1
 Lester_as	1
+Hopkins_despite	1
 Sinese_as	1
-Zuckerman_about	1
+LAWRENCE_OF	2
 Lester_in	1
 Background_for	1
 Barrett_as	1
@@ -12831,19 +12562,22 @@ Kidman_in	1
 Invasion_of	1
 School_Of	1
 Robinson_in	1
+Zuckerman_about	1
 Black_for	1
-H_as	1
+Benton_of	1
 BEFORE_that	1
 Professor_of	1
 Faunia_with	1
 Wales_if	1
 Faunia_in	2
+Barrett_from	1
 Smith_as	1
 Kuzyk_as	1
 Miller_as	4
 DT_NNPS
-those_Jews	1
+Those_Jews	1
 some_Americans	1
+those_Jews	1
 FW_,
 se_,	1
 Plotwise_,	1
@@ -12898,19 +12632,8 @@ their_names	1
 his_losses	1
 their_stories	1
 FW_.
-ex_.	1
+ex_.	2
 etc._.	3
-CD_IN
-one_in	1
-three_of	1
-one_at	1
-14_after	1
-one_as	1
-two_of	3
-2003_with	1
-one_of	21
-one_from	1
-One_of	3
 VBZ_``
 has_``	1
 is_``	1
@@ -12926,9 +12649,11 @@ of_showing	1
 of_telling	1
 without_developing	1
 of_challeging	2
+in_playing	1
 of_summing	1
 after_watching	2
 about_battling	1
+than_understanding	1
 of_passing	2
 in_passing	1
 of_seeing	2
@@ -12941,7 +12666,7 @@ Without_giving	1
 after_using	1
 through_loving	1
 After_experiencing	1
-of_being	6
+of_being	7
 as_having	1
 with_revealing	1
 with_using	1
@@ -12995,34 +12720,12 @@ in_unlocking	1
 of_marrying	1
 from_being	3
 upon_reading	1
-FW_UH
-<br />_Yes	1
-NN_-RRB-
-n`t_-RRB-	1
-age_-RRB-	1
-Kidman_-RRB-	1
-Bounce_-RRB-	1
-role_-RRB-	1
-masterpiece_-RRB-	1
-husband_-RRB-	1
-acclaim_-RRB-	1
-movie_-RRB-	1
-course_-RRB-	1
-Fawnia_-RRB-	1
-sense_-RRB-	1
-date_-RRB-	1
-employer_-RRB-	1
-order_-RRB-	1
-problem_-RRB-	1
-spoiler_-RRB-	1
-novel_-RRB-	2
-word_-RRB-	1
-profile_-RRB-	1
-identity_-RRB-	1
-boxer_-RRB-	1
-opinion_-RRB-	1
-color_-RRB-	1
-clout_-RRB-	1
+IN_VBD
+as_was	1
+as_did	2
+on_was	1
+VBN_WRB
+undermined_when	1
 ,_PRP
 ,_he	29
 ,_they	8
@@ -13059,37 +12762,6 @@ Perhaps_Miller	1
 Then_Zuckerman	1
 also_Anthony	1
 especially_Hopkins	1
--LRB-_NNP
--LRB-_Roth	1
--LRB-_Wentworth	3
--LSB-_Sinise	1
--LSB-_Wentworth	1
--LRB-_Dogville	1
--LRB-_Nathan	1
--LSB-_Hopkins	1
--LRB-_Zorro	1
--LRB-_Snake	1
--LRB-_Ed	9
--LRB-_Hannibal	1
--LRB-_Phillip	1
--LRB-_The	2
--LRB-_Peter	1
--LRB-_Gary	9
--LRB-_Hopkins	2
--LRB-_Anna	2
--LRB-_Robert	1
--LSB-_Nicole	1
--LRB-_Anthony	11
--LRB-_Kidman	1
--LRB-_Dinotopia	1
--LRB-_Jacinda	1
--LRB-_Silk	1
--LRB-_Phyllis	1
--LRB-_Nicole	12
--LRB-_Miller	1
--LRB-_NNS
--LRB-_ghosts	1
--LRB-_s	1
 VBG_.
 affecting_.	1
 touching_.	1
@@ -13102,7 +12774,7 @@ concealing_.	1
 thinking_.	1
 Watching_!	1
 going_.	1
-discussing_.	1
+discussing_.	2
 WRB_JJS
 how_most	1
 when_most	1
@@ -13122,7 +12794,7 @@ separate_but	1
 thought-provoking_and	1
 superflous_and	1
 huge_and	1
-mature_and	1
+intact_and	1
 shocking_and	1
 acclaimed_and	2
 unrealistic_and	1
@@ -13203,6 +12875,7 @@ bombastic_and	1
 odd_but	1
 Old_and	1
 private_versus	1
+mature_and	1
 first_and	1
 stable_and	1
 black_and	1
@@ -13235,8 +12908,6 @@ looked_more	1
 been_smarter	1
 FW_CC
 OURS_AND	1
-<br />_And	3
-<br />_Both	1
 IN_VBZ
 in_is	1
 though_is	1
@@ -13283,15 +12954,19 @@ WRB_VBZ
 Why_has	1
 Why_is	1
 NNP_WP
+Harris_who	1
+Faunia_who	1
 Miller_who	3
-Hopkins_who	1
+Hopkins_who	2
 Benton_what	1
 Meyer_who	1
+Coleman_who	1
 Smith_who	1
 Zuckerman_who	1
-Kidman_who	1
+Silk_who	1
+Kidman_who	4
 Sinise_who	1
-<br />_who	1
+Slayer_who	1
 CD_:
 4_-	1
 1990s_:	1
@@ -13299,14 +12974,6 @@ CD_:
 5_-	1
 2_-	1
 3_-	1
-PRP_RP
-them_down	1
-himself_off	1
-it_down	2
-it_out	1
-it_off	1
-FW_CD
-<br />_One	1
 VBG_PDT
 unveiling_all	1
 POS_NN
@@ -13348,7 +13015,7 @@ POS_NN
 's_direction	2
 's_world	1
 's_destiny	1
-'s_character	7
+'s_character	8
 '_character	3
 '_acting	1
 's_web	1
@@ -13375,13 +13042,13 @@ POS_NN
 's_movie	1
 TO_NN
 to_past	1
-to_classes.Being	1
 to_buying	1
 to_narrator	1
+to_pass	1
 to_cheek	1
 to_gossip	1
 to_fame	1
-to_<br />	1
+to_classes.Being	1
 to_court	1
 to_anyone	1
 to_film	3
@@ -13422,10 +13089,11 @@ two_students	6
 five_years	2
 CD_NNP
 Five_Stars	1
-1944_New	1
-***_Enough	1
+2003_Robert	1
 71_Coleman	1
 100_Centre	1
+***_Enough	1
+1944_New	1
 VBN_RB
 been_fairly	1
 seen_repeatedly	1
@@ -13457,7 +13125,7 @@ written_so	1
 left_only	1
 altered_inextricably	1
 NNP_NN
-Snow_<br />	1
+The_press	1
 Hopkins_character	1
 Lewenski_scandal	1
 Clinton/Lewinsky_scandal	1
@@ -13482,11 +13150,11 @@ Roth_novel	5
 Pullman_porter	1
 Vet_husband	1
 Hopkins_use	1
+Snow_Author	1
 Vietnam_vet	6
 Kidman_thinking	1
 VA_counselor	1
 Black_mother	1
-<br />_press	1
 Negro_family	1
 Vietnam_veteran	3
 Oscar_material	1
@@ -13520,7 +13188,6 @@ has_yet	1
 is_periodically	1
 is_finally	1
 has_so	1
-begins_<br />	1
 's_not	6
 is_still	1
 is_predictably	1
@@ -13719,8 +13386,6 @@ Harris_`	1
 NOT_``	1
 !!_``	1
 Sheena_``	1
-FW_VBP
-<br />_Do	1
 TO_RB
 to_fully	1
 to_not	1
@@ -13787,7 +13452,7 @@ soon_after	1
 much_as	1
 quite_up	1
 just_like	1
-instead_of	4
+instead_of	5
 well_under	1
 adeptly_by	1
 often_in	1
@@ -13800,6 +13465,7 @@ here_as	1
 not_for	3
 brilliantly_by	1
 not_that	1
+here_along	1
 strongly_about	1
 presumably_from	1
 so_in	1
@@ -13818,6 +13484,7 @@ again_in	3
 forth_in	2
 especially_between	1
 together_through	1
+Seemingly_without	1
 here_because	1
 long_that	1
 often_out	1
@@ -13844,8 +13511,7 @@ only_for	3
 even_with	1
 freely_in	1
 FW_VBZ
-<br />_plays	1
-<br />_Turns	1
+Kidman_plays	1
 VBG_IN
 resigning_from	1
 failing_of	1
@@ -13916,8 +13582,6 @@ rolling_into	1
 striving_for	1
 going_through	1
 sensing_at	1
-FW_VBG
-<br />_Going	1
 DT_CD
 a_5	1
 a_4	1
@@ -13950,10 +13614,6 @@ those_or	1
 All_but	1
 all_but	1
 that_and	1
-FW_``
-<br />_``	6
-NNPS_-RRB-
-Revolutions_-RRB-	1
 RP_DT
 off_the	1
 out_a	1
@@ -14023,6 +13683,8 @@ regreattable_is	1
 great_is	1
 ''_NNP
 ''_ONLY	1
+''_NNS
+''_ghosts	1
 NNP_,
 Barrett_,	1
 Achilles_,	1
@@ -14038,17 +13700,20 @@ Langella_,	1
 Rock_,	1
 Jewish_,	2
 Dogville_,	1
-Harris_,	6
+Harris_,	9
+St._,	1
 Board_,	1
+Smith_,	1
 Third_,	1
 Senise_,	1
 STAIN_,	2
 Dinotopia_,	1
+Escoffier_,	1
 Spanish_,	1
 Zuckerman_,	12
 College_,	1
 Kramer_,	1
-Hopkins_,	34
+Hopkins_,	38
 Ross_,	2
 Stylistically_,	1
 Roux_,	1
@@ -14056,10 +13721,10 @@ Lester_,	2
 Oxford_,	1
 Silk_,	22
 Picture_,	1
-Sinise_,	6
+Sinise_,	10
 Heart_,	1
 Meyer_,	2
-Miller_,	4
+Miller_,	6
 WWII_,	1
 Hollywood_,	1
 Athena_,	1
@@ -14070,7 +13735,7 @@ Jersey_,	1
 Farley_,	7
 Satine_,	1
 Benton_,	1
-Sinese_,	3
+Sinese_,	4
 REGRETTABLE_,	1
 Stain_,	2
 Coleman_,	1
@@ -14078,7 +13743,7 @@ Ottawa_,	1
 Lord_,	1
 Newman_,	1
 Yes_,	1
-Kidman_,	21
+Kidman_,	28
 Zorro_,	1
 Overall_,	2
 Faunia_,	3
@@ -14125,23 +13790,26 @@ Hispanic_.	1
 Jewish_.	4
 Palace_.	1
 Damn_.	1
-Harris_.	5
-Kidman_.	11
+Harris_.	6
+ARABIA_.	1
+Kidman_.	13
 Black_.	2
 Zuckerman_.	3
 HMMMM_.	1
 ABOUT_.	1
-Hopkins_.	6
+Hopkins_.	7
 Paulsson_.	1
 ALERT_!	1
 LaRocca_?	1
 York_.	1
+Sinise_.	1
 Silk_.	7
 Miller_.	1
 Ooooo_!	1
+Lector_.	1
 Lecter_.	1
 Georgia_.	1
-Smith_.	1
+Smith_.	2
 Farley_.	2
 Jersey_.	1
 War_.	1
@@ -14149,7 +13817,9 @@ Benton_.	1
 English_.	1
 NOT_!	1
 Stain_.	2
+Sinese_.	1
 College_.	2
+STORY_.	1
 Faunia_.	3
 Coleman_.	3
 JJ_VBP
@@ -14157,14 +13827,8 @@ indelible_stain	1
 old_are	1
 old_stain	1
 brilliant_are	1
-FW_NN
-<br />_Yep	1
-<br />_Silk	4
-<br />_<a href="http://www.amazon.com/gp/product/B0001XAPX8">	1
-ex-Nam_nutcase	1
-his/her_life	1
-<br />_Screenplay	1
-<br />_Production-wise	1
+POS_CC
+'s_and	4
 WDT_PRP$
 which_his	1
 JJ_VBN
@@ -14203,6 +13867,16 @@ shifting_one	1
 going_public	1
 scanning_amazon	1
 discriminating_viewer	1
+RB_CD
+especially_one	1
+n't_one	2
+just_one	1
+otherwise_2	1
+notably_one	1
+down_three	1
+probably_one	1
+about_two	1
+only_one	1
 JJ_VBG
 revampted_telling	1
 many_remaining	1
@@ -14226,20 +13900,26 @@ NNP_:
 Gaines_/	1
 Clinton_/	1
 Silk_--	1
+Harris_--	1
 Sinise_--	1
 America_--	1
 American_-	1
 Miller_--	1
 College_-	1
 Hopkins_--	1
+Sinise_:	1
 Meyer_-	1
-Harris_--	1
+O'Toole_:	1
 Faunia_-	1
+Kidman_:	2
 JJ_VBD
 many_were	1
 interesting_had	1
-first_was	1
 old_was	1
+first_was	1
+few_survived	1
+NNP_PDT
+Kidman_half	1
 PRP_DT
 them_a	1
 we_all	1
@@ -14265,8 +13945,6 @@ succumbs_...	1
 responds_:	1
 JJ_PRP$
 worthy_its	1
-VB_:
-work_;	1
 VBZ_.
 dies_.	1
 means_.	1
@@ -14296,23 +13974,24 @@ hunts_,	1
 passes_,	1
 is_,	7
 resigns_,	1
+VBG_''
+acting_''	1
+murdering_''	1
 RB_NN
 vividly_delivery	1
 almost_everyone	1
 really_shone	1
-not_<br />	1
 absolutely_nothing	1
 Absolutely_nothing	1
 suddenly_blossom	1
-sometimes_<br />	1
 just_drift	1
+anyway_novel	1
+sometimes_embarrassment	1
 even_love	1
 never_mind	1
 even_self	1
 simply_NO	1
-Seemingly_<br />	1
 not_emotion	1
-instead_<br />	1
 NNS_TO
 efforts_to	2
 years_to	1
@@ -14340,8 +14019,6 @@ recommend_``	1
 dance_`	1
 think_``	1
 learn_``	1
--LRB-_JJ
--LRB-_imaginary	1
 WDT_CD
 which_two	1
 JJ_JJ
@@ -14356,6 +14033,7 @@ young_troubled	1
 much_personal	1
 light_skinned	1
 light-skinned_black	2
+seperate_little	1
 own_emotional	1
 secret_black	1
 well-acted_little	1
@@ -14406,7 +14084,7 @@ brief_female	1
 only_minor	1
 boorish_former	1
 incredible_A-list	1
-seperate_little	1
+own_blind	1
 current_political	1
 gleaming_finished	1
 correct_postmodern	1
@@ -14414,7 +14092,6 @@ vivacious_thirty-something	1
 dependant_old	1
 many_significant	1
 surprising_dramatic	1
-<br />_wrong	1
 many_blatant	1
 heroic_historical	1
 lead_experienced	1
@@ -14474,9 +14151,6 @@ met_them	1
 brought_her	1
 lost_her	1
 given_him	1
-:_FW
-..._<br />	4
-:_<br />	1
 WRB_JJ
 how_scruffy	1
 how_many	1
@@ -14496,9 +14170,9 @@ where_few	1
 ,_either	1
 ,_nor	3
 ,_both	1
-,_or	9
+,_or	10
 ,_&	1
-,_but	101
+,_but	102
 ,_and	135
 VB_NN
 live_life	1
@@ -14506,8 +14180,6 @@ keep_track	1
 mention_racism	1
 watch_TV	1
 be_nothing	1
-see_<br />	1
-have_<br />	1
 find_meaning	1
 bring_closure	1
 gain_college	1
@@ -14559,18 +14231,18 @@ school_who	1
 ex-husband_who	5
 idea_what	1
 Everyone_who	1
+friend_who	1
 writer_who	2
 veteran_who	1
 boy_who	1
-<br />_who	1
 someone_who	1
 ascencendence_who	1
 girl_who	2
 racism_who	1
 actor_who	2
-character_who	2
+Fawnia_who	1
 type_who	1
-friend_who	1
+character_who	2
 sudden-widower_who	1
 film_who	1
 Instructor_who	1
@@ -14583,21 +14255,18 @@ woman_whom	1
 woman_who	6
 secret_who	1
 author_who	1
+Silk_who	1
 janitor_who	1
 block_who	1
 professor_who	5
 boxer_who	1
 ``_FW
 ``_f	1
-PRP_FW
-her_ex	1
 WRB_NNP
 where_Zuckerman	1
 when_Sheena	1
 how_Silk	1
 how_Einstein	1
-FW_-RRB-
-ex_-RRB-	1
 VBP_WP
 discover_what	1
 VBD_WP
@@ -14674,7 +14343,6 @@ films_have	2
 premises_are	2
 lives_have	1
 scenes_are	1
-spectra_<br />	1
 men_forge	1
 ones_appear	1
 critics_are	1
@@ -14745,9 +14413,8 @@ turning_when	1
 seeing_how	1
 thinking_when	1
 including_how	1
-JJS_-LRB-
-best_-LRB-	1
 NNS_VBZ
+Hours_delivers	1
 injustices_leads	1
 films_is	1
 characters_looks	1
@@ -14769,35 +14436,9 @@ that_both	1
 over_and	1
 whether_or	1
 about_and	1
-by_both	1
 as_both	1
-NNP_-LRB-
-Miller_-LRB-	2
-Zuckerman_-LRB-	9
-Faunia_-LRB-	2
-Hopkins_-LRB-	2
-Newman_-LRB-	1
-Lester_-LRB-	3
-Zuckerman_-LSB-	1
-Lennix_-LRB-	1
-Iris_-LRB-	1
-Benton_-LRB-	1
-Gregg_-LRB-	1
-Coleman_-LRB-	2
-Harris_-LRB-	2
-Sinise_-LRB-	3
-Sheena_-LRB-	1
-Lawrence_-LRB-	1
-Nathan_-LRB-	1
-Silk_-LRB-	12
-Kidman_-LRB-	4
-Vietnam_-LRB-	1
-Farely_-LRB-	1
-Stain_-LRB-	1
-Farley_-LRB-	7
-Barrett_-LRB-	1
-Farley_-LSB-	1
-Sylk_-LSB-	1
+by_both	1
+for_and	1
 PRP_:
 it_--	2
 me_:	1
@@ -14806,7 +14447,7 @@ you_...	1
 JJS_IN
 longest_in	1
 most_of	6
-best_of	2
+best_of	3
 best_in	1
 NNS_VBG
 things_going	1
@@ -14833,11 +14474,6 @@ out_well	1
 out_early	1
 out_too	1
 across_as	1
--LRB-_PRP
--LRB-_I	4
--LRB-_she	1
--LRB-_he	1
--LRB-_We	1
 PRP_NNS
 it_suites	1
 He_contacts	1
@@ -14866,24 +14502,15 @@ endure_challenges	1
 watch_movies	1
 ask_questions	1
 are_actors	2
--RRB-_PDT
--RRB-_half	1
+VBP_NNP
+are_Anthony	1
+think_Gary	1
+love_Anthony	1
 VBP_RP
 stand_out	1
 go_on	1
 ''_WRB
 ''_when	1
-FW_RB
-<br />_However	3
-<br />_Also	1
-<br />_Ultimately	1
-<br />_So	2
-<br />_Thus	1
-<br />_Instead	1
-<br />_Furthermore	1
-<br />_Just	1
-<br />_Once	2
-<br />_Still	1
 ``_PRP
 ``_She	1
 VBZ_RBS
@@ -14905,6 +14532,7 @@ RP_PDT
 up_all	1
 POS_JJ
 's_wonderful	1
+'s_bizarre	1
 's_critical	1
 's_tumultuous	2
 's_racial	2
@@ -14934,12 +14562,6 @@ POS_JJ
 's_university-days	1
 's_mixed	1
 's_psychotic	1
-:_JJ
-..._strange	1
--_many	1
-..._alarming	1
-:_current	1
-:_<br />	1
 VBN_``
 perceived_`	1
 enjoyed_``	1
@@ -14948,6 +14570,7 @@ enjoyed_``	1
 ''_than	1
 ''_since	1
 ''_because	1
+''_from	1
 ''_despite	1
 ''_so	1
 '_that	1
@@ -14961,10 +14584,6 @@ enjoyed_``	1
 ''_of	3
 :_TO
 -_to	1
--RRB-_IN
--RRB-_in	1
--RRB-_with	1
--RRB-_as	1
 VBD_VBN
 had_inhabited	1
 was_based	2
@@ -15225,7 +14844,6 @@ better_.	1
 VBN_NN
 stained_dress	1
 limited_theatre	1
-been_<br />	1
 seen_tragedy	1
 rated_R	1
 titled_character	1
@@ -15255,31 +14873,12 @@ amazon.com_again	1
 Society_still	2
 Coleman_angrily	1
 Coleman_also	1
-<br />_also	1
 American_also	1
 Silk_so	1
 Sinise_just	1
 Hopkins_really	1
-Kidman_as	1
+Kidman_as	2
 Miller_alone	1
-VB_NNP
-be_ABOUT	1
-ruin_Silk	1
-sound_American	1
-match_Miller	1
-bring_Nathan	1
-say_The	1
-ruin_Coleman	1
-write_Coleman	1
-Enter_Nicole	1
-make_Nicole	1
-see_Kidman	1
-Enter_Nathan	1
-buy_Anthony	1
-play_Silk	1
-appreciate_Anthony	1
-be_Frank	1
-Enter_Faunia	1
 NNP_VBP
 Harris_make	1
 Sinese_are	3
@@ -15287,9 +14886,10 @@ Sinise_do	1
 Hopkins_have	1
 Faunia_have	1
 Kidman_do	1
+Wentworth_are	1
 Kidman_are	4
 Smith_are	1
-Wentworth_are	1
+Girl_deliver	1
 Faunia_gravitate	1
 Zeta-Jones_seem	1
 Bridges_have	1
@@ -15371,6 +14971,7 @@ woods_for	1
 clunks_along	1
 impacts_on	1
 places_of	1
+spectra_among	1
 limits_of	1
 predecesors_out	1
 deaths_of	1
@@ -15539,8 +15140,8 @@ begin_to	2
 come_to	2
 want_to	3
 NNP_VBZ
-Meyer_is	1
-Harris_is	7
+Stain_takes	1
+Harris_is	8
 Hopkins_has	1
 Kidman_plays	1
 Coleman_asks	1
@@ -15551,7 +15152,7 @@ Senise_is	1
 Kidman_transforms	1
 ARABIA_remembers	1
 Smith_is	2
-Stain_takes	1
+Miller_does	2
 Silk_is	3
 Benton_has	1
 Fawnia_lives	1
@@ -15560,7 +15161,7 @@ Silk_encounters	1
 Silk_falls	1
 Sinise_is	5
 Silk_turns	1
-Hopkins_is	22
+Hopkins_is	26
 Faunia_describes	1
 Iris_is	1
 Coleman_is	2
@@ -15576,7 +15177,9 @@ Sinese_appears	1
 Farley_is	3
 Dubbing_is	1
 STAIN_leaves	1
+Meyer_is	1
 This_is	1
+Harris_arrives	1
 Smith_plays	1
 Coleman_believes	1
 Silk_chooses	1
@@ -15587,8 +15190,10 @@ Miller_plays	1
 Action_is	1
 Zuckeman_is	1
 Coleman_gets	1
+H_meets	1
 STAIN_offers	1
 Sinese_plays	1
+Miller_chooses	1
 Kidman_has	3
 </a>_takes	1
 Kidman_is	9
@@ -15598,16 +15203,17 @@ Coleman_finds	1
 Meyer_resists	1
 Coleman_begins	2
 Hopkins_refuses	1
-H_meets	1
-Sinise_plays	1
+Miller_meets	1
+Hopkins_begins	1
 Kidman_does	1
-Miller_is	7
+Sinise_plays	1
+Miller_is	8
 Silk_gets	1
 Lector_has	1
 Faunia_is	1
 Coleman_has	4
 Roth_is	3
-Miller_does	1
+Harris_hunts	1
 Silk_begins	1
 Stain_makes	1
 STAIN_is	1
@@ -15618,10 +15224,47 @@ Stain_has	1
 Coleman_makes	1
 Life_is	1
 Harris_steals	1
-IN_-RRB-
-for_-RRB-	1
-through_-RRB-	1
-as_-RRB-	1
+VB_JJ
+be_believable	1
+Get_real	1
+feel_sorry	1
+reach_late	1
+call_American	1
+be_grateful	1
+be_monstrous	1
+confess_further	1
+look_plain	1
+give_real	1
+find_such	1
+be_amazing	1
+have_little	1
+say_serious	1
+teach_classical	1
+be_racial	1
+see_useless	1
+fix/rehabilitate_stupid	1
+develop_instant	1
+be_faithful	1
+give_impressive	1
+be_illiterate	1
+be_clear	1
+hide_self-hatred	1
+raise_such	1
+feel_bad	1
+feel_responsible	1
+be_free	1
+be_pretentious	1
+bring_pulsating	1
+be_excellent	1
+hurt_well-meaning	1
+be_black	2
+take_great	1
+play_white	1
+bash_political	1
+be_good	1
+include_many	1
+say_much	1
+be_fair	1
 TO_VB
 to_play	2
 to_ponder	1
@@ -15798,7 +15441,6 @@ person_``	1
 suffering_``	1
 word_``	3
 term_``	1
-<p>_``	3
 subtitle_``	1
 movie_``	1
 film_``	1
@@ -15851,8 +15493,6 @@ But_Miller	1
 But_Silk	1
 and_Ms.	1
 And_Anthony	1
-but_<br />	1
-and_<br />	1
 but_Mr.	1
 VBD_,
 put_,	1
@@ -15897,11 +15537,11 @@ Agamemnon_coveted	1
 Einstein_had	1
 Sarandon_popularized	1
 Kidman_was	3
-Hopkins_had	1
+Hopkins_had	2
 Coleman_wanted	1
 Miller_was	1
 Benton_emerged	1
-Hopkins_was	4
+Hopkins_was	6
 Silk_brought	1
 Hopkins_did	2
 Escoffier_died	1
@@ -15937,14 +15577,6 @@ London_Cast	1
 WP_NNP
 who_Silk	1
 whom_Silk	1
--LRB-_IN
--LRB-_along	1
--LRB-_of	2
--LRB-_from	2
--LRB-_By	1
--LRB-_for	1
--LRB-_despite	1
--LRB-_in	2
 NNP_POS
 Faunia_'s	7
 Kidman_'s	18
@@ -15977,12 +15609,11 @@ NN_RB
 point_soon	1
 work_just	1
 film_basically	1
-cast_alone	1
+word_Also	1
 racism_yet	1
 book_yet	1
 bit_as	1
 movie_ultimately	1
-<p>_Perhaps	1
 movie_essentially	1
 point_then	1
 society_always	1
@@ -16003,7 +15634,6 @@ bridge_too	1
 wife_too	1
 bride-to-be_just	1
 story_now	1
-<br />_ever	1
 tale_anyway	1
 theme_very	1
 family_forever	1
@@ -16013,8 +15643,10 @@ presence_indirectly	1
 something_seemingly	1
 part_wonderfully	1
 screen_instead	1
+cast_alone	1
 book_first	1
 situations.I_personally	1
+sister_as	1
 film_not	1
 actor_yet	1
 movie_completely	1
@@ -16024,6 +15656,7 @@ life_alone	1
 love_easily	1
 director_really	1
 story_all	1
+novel_maybe	1
 Silk_instead	2
 self_consciously	1
 film_even	1
@@ -16066,9 +15699,9 @@ film_perfectly	1
 casting_too	1
 score_also	1
 work_better	1
+anyone_ever	1
 anyone_else	2
 Silk_finally	1
-<p>_Simply	1
 past_so	1
 face_alone	1
 homage_only	1
@@ -16082,11 +15715,9 @@ diversity_regardless	1
 anything_off	1
 standpoint_alone	1
 scholar_only	1
-<br />_only	1
+man_well	1
 fight_differently	1
 janitor_really	1
-FW_WRB
-<br />_When	1
 JJ_IN
 else_besides	1
 wonderful_if	1
@@ -16152,6 +15783,7 @@ black_than	1
 necessary_for	1
 interesting_at	1
 ideal_on	1
+obscure_for	1
 miniscule_in	1
 outstanding_in	2
 easy_for	1
@@ -16224,6 +15856,7 @@ thought_``	1
 were_``	1
 was_``	2
 ''_PRP
+''_you	1
 ''_he	1
 VBG_JJ
 being_admirable	1
@@ -16237,18 +15870,15 @@ legitimizing_racist	1
 being_credible	1
 having_white	1
 being_black	2
+being_wrong	1
 getting_upset	1
 being_racist	2
 remaining_undercover	1
 being_Jewish	1
-being_<br />	1
 experiencing_disastrous	1
 WP_,
 whom_,	1
 who_,	3
-TO_WDT
-to_which	2
-To_what	1
 NN_RP
 quality_up	1
 PRP_,
@@ -16327,6 +15957,7 @@ befriends_a	1
 plays_an	1
 portrays_the	1
 takes_a	5
+progresses_This	1
 has_an	3
 makes_this	1
 has_the	1
@@ -16346,7 +15977,7 @@ steals_every	1
 looks_the	1
 acts_the	2
 is_any	1
-begins_a	3
+begins_a	4
 captures_the	2
 is_the	25
 is_this	1
@@ -16433,8 +16064,9 @@ meets_Nicole	1
 revitalizes_Silk	1
 is_Silk	1
 is_Nicole	1
-MD_IN
-would_of	1
+FW_NNP
+***_Anthony	1
+e.g._Gary	1
 VBZ_NNS
 brings_tears	1
 has_enemies	1
@@ -16458,6 +16090,7 @@ molding_our	1
 preface_my	1
 purity_his	1
 college_his	1
+highschool_his	1
 JJ_''
 pompous_'	1
 colored_''	1
@@ -16471,12 +16104,8 @@ respectable_'	1
 Special_''	1
 WDT_VB
 that_be	1
-WRB_MD
-Why_could	1
 VBD_:
 won_;	1
--LRB-_WP
--LRB-_who	4
 VB_CD
 deduce_one	1
 be_five	1
@@ -16498,17 +16127,27 @@ know_or	1
 convey_both	1
 be_and	1
 help_but	1
+masquerade_and	1
 challenge_and	1
 cooperate_and	1
 understand_or	1
 NNP_DT
-Harris_all	1
+Lester_an	1
+Silk_a	1
+Sinise_a	1
+Siniese_the	1
+Newman_an	1
 Harris_this	1
+Harris_all	1
 Though_another	1
 Into_this	1
 Farley_a	1
+Harris_The	1
+Hopkins_a	1
 Though_the	1
 See_this	1
+Kidman_a	1
+Zuckerman_a	1
 VBN_NNP
 rejected_Viagra	1
 retired_Coleman	1
@@ -16555,8 +16194,6 @@ premeditated_impressions	1
 obsessed_people	1
 lost_souls	1
 written_words	1
-VBP_-LRB-
-do_-LRB-	1
 ,_WP$
 ,_whose	4
 ,_WDT
@@ -16565,10 +16202,6 @@ do_-LRB-	1
 ,_which	25
 ,_that	2
 ,_what	2
--LRB-_NN
--LRB-_Fawnia	1
--LRB-_huh	1
--LRB-_Kidman	1
 ,_NNP
 ,_Coleman	15
 ,_Hollywood	1
@@ -16578,7 +16211,6 @@ do_-LRB-	1
 ,_Hopkin	1
 ,_Anna	1
 ,_Benton	2
-,_<br />	2
 ,_Sinese	1
 ,_Massachusetts	2
 ,_Lorraine	1
@@ -16594,19 +16226,21 @@ do_-LRB-	1
 ,_African	1
 ,_Hopkins	3
 ,_Kidman	9
-,_Ed	5
+,_Ed	6
 ,_Zuckerman	2
 ,_Iris	2
 ,_Nicole	8
 ,_Canada	1
 ,_Lester	1
 ,_Steena	1
+,_Wentworth	1
 ,_Phillip	2
 ,_Sinise	4
 ,_Roth	1
 ,_Faunia	6
 VBG_NNP
 starring_Anthony	1
+seeing_Ms.	1
 playing_Kidman	1
 playing_Virginia	1
 involving_Kidman	1
@@ -16616,9 +16250,8 @@ attending_NYU	1
 stalking_Vietnam	1
 plaguing_Faunia	1
 Following_Coleman	1
-seeing_Ms.	1
+being_Jewish	1
 starring_Harry	1
-being_<br />	1
 playing_Nathan	1
 playing_Hannibal	1
 including_Gary	1
@@ -16754,15 +16387,9 @@ appears_in	2
 is_throughout	1
 starts_with	1
 begins_with	2
--LRB-_DT
--LRB-_an	2
--LRB-_a	5
--LRB-_The	1
--LRB-_no	1
--LRB-_This	1
--LRB-_both	1
--LRB-_the	3
--LRB-_this	1
+TO_WDT
+to_which	2
+To_what	1
 DT_TO
 all_to	2
 that_to	1
@@ -16797,7 +16424,6 @@ human_condition	2
 indelible_mark	1
 last_love	3
 entire_film	2
-local_writer	1
 strange_choice	1
 misanthropic_treatise	1
 literary_spellbinder	1
@@ -16872,7 +16498,7 @@ easy_progress	1
 hidden_core	1
 vacuous_existence	1
 definitive_context	1
-such_injustice	1
+imaginary_Jewishness	1
 derogatory_meaning	1
 pungent_piece	1
 bleak_landscape	1
@@ -17144,7 +16770,6 @@ unknown_biography	1
 aimless_woman	1
 last_quarter	1
 Strange_thing	1
-<br />_Web	1
 enduring_character	1
 public_prejudice	1
 good_performance	1
@@ -17160,7 +16785,6 @@ disreputable_label	1
 wonderful_picture	1
 much_talent	1
 controversial_issue	1
-<br />_decadence	1
 violent_husband	1
 own_family	1
 hard_fight	1
@@ -17189,6 +16813,7 @@ fine_choice	1
 seeming_turn	1
 last_orgasm	1
 oncoming_truck	1
+American_parent	1
 odd_way	1
 disturbing_past	1
 obvious_need	1
@@ -17226,7 +16851,6 @@ racial_passing	1
 black_community	1
 little_movie	1
 gratuous_nudity	1
-bad_mark	1
 terrific_acting	1
 liberal_bias	1
 quiet_sadness	1
@@ -17237,7 +16861,7 @@ improbable_affair	1
 real_situations.I	1
 effective_narrator	1
 proper_school	1
-American_<br />	1
+absolute_masterpiece	1
 tremendous_job	1
 psychotic_ex-husband	2
 casual_remark	2
@@ -17266,7 +16890,7 @@ young_intern	1
 insane_ex-husband	1
 only_crime	1
 complex_story	1
-racial_slur	5
+racial_slur	6
 HUMAN_STAIN	6
 great_literature	1
 finished_product	1
@@ -17277,7 +16901,6 @@ short_shrift	1
 trite_tale	1
 whole_incident	1
 other_source	1
-absolute_masterpiece	1
 obsessive_husband	1
 later_life	1
 verbal_plug	1
@@ -17314,6 +16937,7 @@ self-imposed_exile	1
 political_correctness	14
 eventual_payoff	1
 amazing_thriller	1
+such_injustice	1
 British_actor	1
 surprising_conclusion	1
 favorite_part	1
@@ -17385,7 +17009,6 @@ ravishing_beauty	1
 unstable_husband	1
 straightforward_plot	1
 young_Silk	7
-moral_<br />	1
 vast_age	1
 difficult_novel	1
 fatal_relationship	1
@@ -17398,7 +17021,6 @@ effective_score	1
 American_character	1
 white_world	1
 crazed_husband	1
-black_<br />	1
 great_pride	1
 high_school	1
 ironic_twist	1
@@ -17423,14 +17045,13 @@ narrative_sense	1
 racial_profile	1
 unheralded_film	1
 great_movie	3
-white_<br />	1
+local_writer	1
 unimaginable_upheaval	1
 unusual_friendship	1
 multi-layered_performance	1
 own_pedigree	1
 personal_identity	1
 negative_side	1
-racial_<br />	1
 new_romance	1
 present_day	3
 big_finish	1
@@ -17467,7 +17088,7 @@ direct_result	1
 heartbroken_mother	1
 original_sin	1
 preppy_lawyer	1
-own_<br />	1
+bad_mark	1
 verbal_diarrhea	1
 inner_nexus	1
 whole_point	1

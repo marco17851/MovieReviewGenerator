@@ -32,12 +32,12 @@ to_her	1
 NNS_WRB
 cases_where	1
 deaths_when	1
+WP_RB
+who_nonetheless	1
 VBP_TO
 add_to	1
 RB_WRB
 berserk_whenever	1
--LRB-_VBN
--LRB-_played	1
 CC_JJ
 and_driven	1
 and_sick	1
@@ -56,8 +56,6 @@ VB_DT
 wish_all	1
 spoil_the	1
 find_the	1
-FW_NNPS
-<br />_Synopsis	1
 WRB_DT
 where_the	1
 how_the	1
@@ -97,12 +95,11 @@ widow_to	1
 victim_to	1
 DT_IN
 those_of	1
--LRB-_NNP
--LRB-_Debra	1
-NNP_-RRB-
-Bullock_-RRB-	1
-Winger_-RRB-	1
-Russell_-RRB-	1
+PRP_IN
+herself_into	1
+her_across	1
+them_in	1
+herself_for	1
 CC_RB
 and_kind	1
 and_later	1
@@ -137,8 +134,6 @@ VB_VBN
 have_been	1
 WRB_VBG
 when_sleeping	1
-FW_DT
-<br />_Both	1
 IN_PRP
 of_them	2
 if_you	1
@@ -223,8 +218,6 @@ a_gas	1
 DT_VBP
 Both_are	1
 both_are	1
--LRB-_NN
--LRB-_mistress	1
 DT_VBZ
 This_is	2
 ``_NNP
@@ -244,16 +237,24 @@ WP_VBZ
 What_happens	1
 NN_MD
 life_can	1
--RRB-_MD
--RRB-_will	1
--RRB-_,
--RRB-_,	2
+PRP_VBZ
+it_looks	1
+She_follows	1
+He_believes	1
+he_is	2
+It_is	1
+them_goes	1
+she_is	1
+she_meets	1
+she_realizes	1
+she_finds	1
+she_gets	1
+He_dies	1
+It_'s	1
 ,_DT
 ,_an	1
 ,_a	2
 ,_the	3
-._-RRB-
-?_-RRB-	1
 CC_,
 But_,	1
 And_,	1
@@ -315,6 +316,7 @@ in_clever	1
 like_normal	1
 of_similar	1
 NNP_,
+Bullock_,	1
 Winger_,	1
 Curse_,	1
 Seattle_,	1
@@ -332,8 +334,6 @@ spell_when	1
 guilt_when	1
 DT_PRP$
 all_her	1
-FW_FW
-<br />_<br />	4
 PRP$_NN
 his_spell	1
 her_desk	2
@@ -374,6 +374,8 @@ short_.	1
 driven_.	1
 VBG_PRP$
 leaving_her	1
+NN_DT
+girlfriend_a	1
 IN_VBG
 before_beginning	1
 with_leaving	1
@@ -389,8 +391,6 @@ intrigued_with	1
 played_by	2
 thrown_into	1
 portrayed_as	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 thrillers_.	1
 deaths_.	1
@@ -413,8 +413,6 @@ MD_PRP
 will_she	1
 NNS_TO
 efforts_to	1
-NN_-RRB-
-champion_-RRB-	1
 VBN_NN
 married_anthropologist	1
 JJ_NNS
@@ -464,23 +462,12 @@ prove_Russell	1
 NN_NNS
 copy_DOES	1
 kidnapper_contacts	1
-PRP_VBZ
-it_looks	1
-She_follows	1
-He_believes	1
-he_is	2
-It_is	1
-them_goes	1
-she_is	1
-she_meets	1
-she_realizes	1
-she_finds	1
-she_gets	1
-He_dies	1
-It_'s	1
+DT_VB
+this_be	2
 NN_NNP
 fianc&eacute;_Sandra	1
 veteran_Bob	1
+investigator_Debra	1
 NNPS_VBZ
 Bridges_is	1
 VBG_PRP
@@ -522,6 +509,7 @@ better_drama	1
 ,_VBZ
 ,_becomes	1
 NN_VBN
+killer_played	1
 lady_played	1
 detective_played	1
 PRP_TO
@@ -530,8 +518,8 @@ NNS_VBP
 women_are	1
 DOES_have	1
 events_are	1
-WP_RB
-who_nonetheless	1
+NNP_MD
+Winger_will	1
 POS_VBD
 's_had	1
 RB_VBG
@@ -541,11 +529,6 @@ it_should	1
 he_will	1
 he_must	1
 I_will	1
-PRP_IN
-herself_into	1
-her_across	1
-them_in	1
-herself_for	1
 IN_CC
 in_both	1
 NNP_NNPS
@@ -556,8 +539,8 @@ job_and	1
 setting_and	1
 disappearance_and	1
 law_and	1
-WDT_VBP
-that_look	1
+VB_.
+be_.	1
 ,_VBD
 ,_loved	1
 VBP_VBG
@@ -573,10 +556,8 @@ fianc&eacute;s_same	1
 VBP_DT
 have_the	1
 recommend_this	1
-FW_NNP
-<br />_CA	1
-VB_.
-be_.	1
+VBG_,
+calculating_,	1
 VBN_DT
 taken_the	1
 been_a	1
@@ -586,11 +567,15 @@ NN_NN
 chess_champion	1
 gas_station	1
 DVD_set	1
+master_mistress	1
 blood_test	1
 family_life	1
 desk_job	2
--LRB-_DT
--LRB-_a	1
+NNP_''
+Breakdown_''	1
+Widow_''	1
+Vanishing_''	1
+Gigolo_''	1
 DT_NNS
 Both_women	1
 the_films	1
@@ -655,13 +640,14 @@ husbands_and	1
 options_and	1
 ._''
 ._''	1
-DT_VB
-this_be	2
+VBG_RB
+being_very	1
 NN_,
 sum_,	1
 death_,	1
 killer_,	1
 job_,	1
+champion_,	1
 agent_,	1
 victim_,	1
 package_,	1
@@ -748,13 +734,9 @@ Vanishing_falls	1
 Widow_is	1
 Widow_works	1
 Winger_is	1
-Russell_is	2
-NN_-LRB-
-killer_-LRB-	1
-manipulator_-LRB-	1
-girlfriend_-LRB-	1
-investigator_-LRB-	1
-master_-LRB-	1
+Russell_is	3
+WDT_VBP
+that_look	1
 VB_JJ
 be_sure	2
 TO_VB
@@ -886,8 +868,6 @@ newly_married	1
 TO_NNP
 to_Seattle	1
 to_Hawaii	3
--LRB-_WP
--LRB-_who	1
 VB_CD
 review_one	1
 VBG_DT
@@ -895,8 +875,6 @@ beginning_another	1
 conducting_a	1
 catching_the	1
 suspecting_the	1
-FW_IN
-<br />_In	1
 RP_IN
 up_on	1
 VBZ_PRP
@@ -910,8 +888,6 @@ trails_her	1
 VBN_TO
 Claimed_to	1
 played_to	1
-VBG_,
-calculating_,	1
 CC_MD
 but_ca	1
 ,_NNP
@@ -919,21 +895,16 @@ but_ca	1
 ,_Black	2
 PRP_VB
 she_prove	1
-VBG_RB
-being_very	1
 JJ_JJ
 ambitious_federal	1
 excellent_double	1
-NNP_''
-Breakdown_''	1
-Widow_''	1
-Vanishing_''	1
-Gigolo_''	1
 NNP_TO
 Hawaii_to	1
 Northwest_to	1
 VB_RP
 give_up	1
+NN_WP
+manipulator_who	1
 VBZ_TO
 goes_to	1
 gets_to	1

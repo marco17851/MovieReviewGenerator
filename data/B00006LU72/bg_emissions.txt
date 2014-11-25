@@ -4,8 +4,6 @@ on_youtube	2
 ,_as	1
 JJ_IN
 ok_for	1
--LRB-_CC
--LRB-_or	1
 NNP_IN
 Soken_on	1
 MD_RB
@@ -24,18 +22,12 @@ VBZ_JJ
 is_ok	1
 is_very	1
 is_discernable	1
-JJ_-RRB-
-irratating_-RRB-	1
 NN_TO
 lot_to	1
--RRB-_PRP
--RRB-_I	1
-CC_RB
-or_so	1
+VBN_.
+desired_.	1
 JJ_CC
 great_but	1
-FW_DT
-<br />_The	1
 IN_PRP
 if_you	1
 PRP_VBD
@@ -69,9 +61,8 @@ so_the	1
 just_a	1
 PRP_VBZ
 it_is	1
-FW_PRP
-<br />_I	1
 NNP_CC
+Hakutusuru_or	1
 Soken_but	1
 RB_IN
 not_from	1
@@ -93,16 +84,12 @@ NNP_.
 Shorin-Ryu_.	1
 CC_VBZ
 but_is	1
-FW_FW
-<br />_<br />	4
-FW_NN
-<br />_PS	1
 PRP$_NN
 your_money	1
+JJ_PRP
+irratating_I	1
 RB_PDT
 n't_all	1
-FW_EX
-<br />_There	1
 JJ_.
 excellent_.	1
 free_.	1
@@ -110,6 +97,8 @@ short_.	1
 VBD_RB
 was_just	1
 was_very	2
+NN_DT
+PS_The	1
 PDT_DT
 all_that	1
 JJ_$
@@ -128,15 +117,12 @@ just_search	1
 VB_NN
 make_money	1
 have_everything	1
--RRB-_CC
--RRB-_but	1
 NN_NNS
 narrator_Claims	1
 $_$
 $_$	1
-PRP_MD
-I_would	1
-you_will	1
+$_TO
+$_to	1
 VB_PRP$
 waste_your	1
 VBG_TO
@@ -151,32 +137,26 @@ weaponry/kata_performed	1
 VB_VBN
 be_desired	1
 be_found	1
-$_TO
-$_to	1
+PRP_MD
+I_would	1
+you_will	1
 ,_DT
 ,_the	1
-NNP_-LRB-
-Hakutusuru_-LRB-	1
 VBN_MD
 shown_can	1
 VB_.
 offer_.	1
-VBN_.
-desired_.	1
+CC_RB
+or_so	1
 JJ_TO
 excited_to	1
 EX_VBZ
 There_is	2
 VBP_DT
 have_the	1
-NNS_-RRB-
-Claims_-RRB-	1
 NN_NN
 lot_footage	1
-NN_FW
-enthusiast_<br />	1
--LRB-_DT
--LRB-_The	1
+enthusiast_PS	1
 DT_NNS
 The_peices	1
 IN_NNP
@@ -196,6 +176,8 @@ some_other	1
 the_extra	1
 VBD_DT
 left_a	1
+NNS_CC
+Claims_but	1
 VBD_PRP
 reccomend_it	1
 NN_,
@@ -222,8 +204,6 @@ NNS_IN
 peices_of	1
 NN_CC
 youtube_and	1
-NN_-LRB-
-PS_-LRB-	1
 TO_VB
 to_be	1
 to_offer	1

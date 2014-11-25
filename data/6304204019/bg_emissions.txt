@@ -57,6 +57,7 @@ of_``	2
 VBP_CC
 see_and	1
 VBN_.
+seen_.	1
 gone_.	2
 involved_.	1
 equaled_.	1
@@ -100,10 +101,6 @@ who_have	2
 who_complain	2
 WP_VBZ
 who_thinks	1
--RRB-_,
--RRB-_,	3
--RRB-_.
--RRB-_.	3
 NNP_CC
 Redding_and	1
 Digipack_and	1
@@ -113,14 +110,16 @@ Jimi_and	2
 Hendrix_and	1
 NNP_CD
 May_7	1
+Festival_1996	1
+Festival_1995	1
 Wight_1970	1
+Blue_2004	1
 WP_MD
 who_can	1
 What_can	1
 who_would	1
--RRB-_:
--RRB-_-	1
--RRB-_;	2
+:_NN
+:_Message	1
 IN_PRP$
 in_his	2
 before_his	3
@@ -132,6 +131,8 @@ with_his	4
 on_their	2
 from_his	1
 in_my	1
+NN_VB
+footage_see	1
 IN_WDT
 of_whatever	1
 PRP$_NN
@@ -395,18 +396,13 @@ misshaps_and	1
 solos_but	1
 bits_and	1
 lots_and	1
-VBN_-RRB-
-seen_-RRB-	1
-CD_-LRB-
-1970_-LRB-	1
+releases_both	1
 ,_VB
 ,_buy	1
 ,_join	1
 ,_thank	1
 ,_get	1
 ,_give	2
--RRB-_-RRB-
--RRB-_-RRB-	1
 VBN_PRP
 satisfied_me	1
 pleased_you	1
@@ -474,10 +470,7 @@ Buddy_Guy	1
 WILD_BLUE	1
 Jimi_The	1
 Blue_Angel	2
-<p>_This	1
-<br />_First	1
 Red_House	1
-<br />_All	1
 Palmer_Isle	1
 A_Different	1
 Muddy_Waters	1
@@ -498,13 +491,9 @@ Blue_Wild	1
 The_Master	1
 BLUE_ANGEL	1
 Different_Kind	1
-<p>_Second	1
-<p>_Third	1
 C._Young	1
-<br />_Second	1
 Wight_Festival	3
 Miles_Electric	1
-<p>_First	1
 VBZ_JJR
 is_better	1
 TO_PRP$
@@ -577,19 +566,10 @@ whatever_narrative/interview	1
 EX_MD
 there_can	1
 there_would	1
--LRB-_CD
--LRB-_1995	1
--LRB-_1996	1
--LRB-_2006	1
--LRB-_2004	1
 VB_WP
 be_who	1
 see_what	1
 hear_what	1
--LRB-_CC
--LRB-_both	1
-NNS_-LRB-
-releases_-LRB-	1
 JJS_TO
 best_to	1
 RB_,
@@ -627,8 +607,6 @@ up_.	1
 well_.	2
 VBD_CC
 was_either	1
-NNP_-RRB-
-Australia_-RSB-	1
 CC_RB
 or_somehow	1
 but_also	1
@@ -647,12 +625,6 @@ when_it	2
 why_you	1
 When_I	1
 when_he	1
-CD_-RRB-
-1996_-RRB-	1
-2004_-RRB-	1
-2006_-RRB-	1
-1995_-RRB-	1
-2000_-RRB-	1
 PRP$_JJ
 his_right	1
 his_improvisational	1
@@ -984,9 +956,6 @@ captivated_by	1
 made_in	1
 based_on	1
 reminded_that	1
--LRB-_VB
--LRB-_see	1
--LRB-_Think	1
 VBD_JJ
 was_interested	1
 was_fine	1
@@ -1004,6 +973,7 @@ studio_recordings	1
 equipment_problems	2
 ALL_PERFORMANCES	1
 NN_NNP
+TV_SBS	1
 record_Jimi	2
 novice_Hendrix	1
 hardcore_Jimi	1
@@ -1012,6 +982,8 @@ everything_Hendrix	2
 NO_Hendrix	1
 ''_RB
 ''_also	1
+CD_CD
+1970_2006	1
 CD_CC
 two_or	1
 IN_JJR
@@ -1077,7 +1049,6 @@ there_'s	2
 CC_``
 and_``	1
 NN_NN
-<br />_ALL	1
 star_improvement	1
 drug_overdose	1
 performance_relete	1
@@ -1184,7 +1155,6 @@ fan_of	1
 switching_from	1
 time_of	1
 none_of	1
-<br />_For	1
 2AM_in	1
 idea_that	1
 glare_of	1
@@ -1215,7 +1185,6 @@ guitar_like	1
 player_of	1
 appearance_at	1
 portrayal_of	1
-<p>_Unless	1
 playing_on	1
 account_of	1
 end_of	1
@@ -1238,9 +1207,7 @@ improvement_over	1
 shame_that	1
 breath_for	1
 verse_of	1
-<br />_If	1
 stage_of	1
-<p>_That	1
 top_of	1
 editing_by	1
 player_than	1
@@ -1252,6 +1219,7 @@ or_the	1
 and_the	3
 and_this	1
 NN_VBN
+p_erformed	1
 documentary_focused	1
 background_involved	1
 music_woven	1
@@ -1358,7 +1326,6 @@ make_you	1
 tell_me	1
 view_it	2
 recommend_you	1
-<br />_I	2
 fascinate_you	1
 have_it	1
 RB_VBP
@@ -1427,8 +1394,6 @@ POS_NNS
 's_pyrotechnics	1
 RP_NN
 out_track	1
--LRB-_VBN
--LSB-_erformed	1
 ``_UH
 ``_Hey	1
 MD_RB
@@ -1454,15 +1419,12 @@ give_some	1
 prefer_the	1
 consider_this	2
 be_a	2
-<p>_The	1
-<p>_the	1
 be_no	1
 pass_this	1
 show_the	1
 purchase_the	1
 buy_the	1
 alter_the	1
-<br />_The	1
 give_this	2
 WRB_DT
 how_the	2
@@ -1593,8 +1555,6 @@ n't_save	1
 n't_purchase	1
 VBG_VB
 playing_show	1
--RRB-_JJ
--RSB-_last	1
 IN_IN
 with_between	1
 that_like	1
@@ -1608,6 +1568,7 @@ in_between	1
 that_at	1
 As_for	2
 JJ_RB
+available_not	1
 wrong_here	1
 available_before	1
 ,_``
@@ -1622,8 +1583,6 @@ is_what	1
 ,_playing	1
 ,_starting	1
 ,_reacting	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 things_.	1
 influences_.	1
@@ -1723,7 +1682,6 @@ thing_I	1
 anything_you	1
 everything_they	1
 left_we	2
-<p>_I	1
 mind_yourself	1
 way_he	1
 VB_PRP$
@@ -1775,8 +1733,6 @@ be_replaced	1
 have_approved	1
 have_been	1
 EH_put	1
-:_-LRB-
-:_-LRB-	1
 RB_RBR
 much_more	1
 WRB_NNS
@@ -1789,8 +1745,6 @@ where_solos	1
 NNS_DT
 songs_all	1
 YEARS_this	1
-IN_-RRB-
-that_-RRB-	1
 VBZ_NN
 is_nothing	1
 is_head	1
@@ -1827,6 +1781,7 @@ one_now	1
 NNP_JJ
 Amazon_listed	1
 Murray_Lerner-produced	1
+Australia_last	1
 ,_WRB
 ,_when	1
 NN_,
@@ -1842,7 +1797,7 @@ illness_,	1
 today_,	1
 disc_,	1
 song_,	1
-A.M_,	1
+DVD_,	2
 copy_,	1
 talking_,	1
 penny_,	1
@@ -1857,13 +1812,14 @@ place_,	1
 morning_,	1
 overdose_,	1
 film-maker_,	1
-fan_,	2
+fan_,	3
 death_,	1
 concert_,	2
-DVD_,	1
+price_,	2
+viewpoint_,	1
 playing_,	2
 fact_,	1
-price_,	2
+A.M_,	1
 course_,	1
 ``_NN
 ``_foxy	1
@@ -1913,12 +1869,6 @@ got_the	1
 seen_this	1
 JJR_TO
 longer_to	1
-NN_-LRB-
-p_-LSB-	1
-footage_-LRB-	1
-fan_-LRB-	1
-TV_-LSB-	1
-release_-LRB-	1
 ''_VBZ
 ''_is	1
 '_is	1
@@ -1948,9 +1898,6 @@ this_.	2
 this_?	1
 VBG_RP
 finding_out	1
--LRB-_RB
--LRB-_especially	1
--LRB-_not	1
 JJS_NN
 greatest_guitar	1
 RB_JJ
@@ -2011,7 +1958,6 @@ die_accidently	2
 have_otherwise	1
 care_otherwise	1
 find_here	1
-<br />_So	1
 pick_apart	1
 Think_just	1
 have_much	1
@@ -2022,11 +1968,16 @@ his_three	1
 VB_RP
 make_up	1
 work_out	1
+NN_RBR
+dvd_more	1
+NN_EX
+fan_there	1
 ``_JJ
 `_Red	1
 ``_serious	1
 ``_casual	1
 NNP_IN
+AM_from	1
 All_of	1
 Isle_Of	1
 Isle_of	6
@@ -2037,8 +1988,6 @@ FACT_that	1
 ,_to	1
 JJS_VBN
 best_filmed	1
--RRB-_RBR
--RRB-_more	1
 IN_VBG
 for_buying	1
 of_filming	1
@@ -2050,11 +1999,6 @@ in_finding	1
 while_playing	1
 IN_VBD
 than_was	1
-NN_-RRB-
-DVD_-RRB-	1
-dvd_-RRB-	1
-viewpoint_-RRB-	1
-fan_-RRB-	1
 ,_PRP
 ,_it	3
 ,_he	5
@@ -2066,8 +2010,6 @@ or_less	1
 IN_VBN
 as_shown	1
 of_extended	1
--LRB-_NNP
--LSB-_SBS	1
 VBG_.
 missing_.	1
 dying_.	2
@@ -2082,13 +2024,20 @@ complete_but	1
 shameful_or	1
 atrocious_and	1
 intense_and	1
+IN_VBZ
+that_is	1
 JJ_CD
 marked_5	1
 CD_,
 7_,	1
 five_,	1
-JJ_-LRB-
-available_-LRB-	1
+CD_.
+2006_.	1
+2000_.	1
+CD_:
+2004_;	1
+1995_-	1
+1996_;	1
 POS_NN
 's_appearance	1
 's_review	2
@@ -2197,8 +2146,6 @@ have_n't	1
 are_n't	1
 'm_not	1
 do_n't	6
--LRB-_EX
--LRB-_there	1
 JJ_VBZ
 great_is	1
 ''_NNP
@@ -2263,7 +2210,6 @@ performances_to	1
 lyrics_to	1
 JJ_JJ
 other_performer	1
-only_bad	1
 no-doubt_exhausting	1
 old_8-track	1
 performer_alive	1
@@ -2272,7 +2218,7 @@ other_unfortunate	1
 last_documented	1
 Baby/New_Rising	1
 many_other	1
-<br />_Great	1
+only_bad	1
 real_creative	1
 Great_great	1
 JJR_IN
@@ -2315,10 +2261,6 @@ over_30	2
 at_2	1
 VBD_PRP$
 said_his	2
-NNP_-LRB-
-AM_-LRB-	1
-Festival_-LRB-	2
-Blue_-LRB-	1
 PRP_:
 You_:	1
 NNS_VBD
@@ -2502,8 +2444,6 @@ Jimi_reinvented	1
 Hendrix_died	1
 Jimi_did	1
 Jimi_played	1
--LRB-_IN
--LRB-_from	1
 NNP_POS
 Hendrix_'s	2
 Jimi_'s	8
@@ -2513,6 +2453,7 @@ soloing_as	1
 truth_Also	1
 art_as	1
 DVD_instead	1
+release_especially	1
 video_now	1
 anything_currently	1
 version_now	1
@@ -2590,8 +2531,6 @@ down_on	1
 off_at	1
 VBN_NNS
 extended_solos	1
--LRB-_NN
--LRB-_Message	1
 ,_NNP
 ,_Jimi	1
 ,_Elmore	1

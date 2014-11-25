@@ -25,8 +25,6 @@ NNP_CC_VBD
 POINT_and_kept	1
 NN_DT_NN
 interest_every_step	1
-NNP_-LRB-_RB
-Pluto_-LRB-_Already	1
 LS_RB_RB
 i_am_not	1
 NN_VBN_IN
@@ -35,6 +33,8 @@ CC_RB_RB
 but_not_as	1
 IN_FW_FW
 by_Terri_Hawkes	1
+,_NNP_JJ
+,_Rini_chibi-usa	1
 CC_DT_NN
 and_the_fate	1
 JJ_CC_RB
@@ -101,10 +101,8 @@ VBZ_VBN_,
 is_kidnapped_,	1
 VBZ_NN_IN
 didnt_return_for	1
-IN_NNP_NNP
-of_Sailors_Saturn	1
-WRB_VBN_NN
-How_come_nobody	1
+CD_,_CC
+2_,_and	1
 VBD_DT_NN
 preferred_the_original	1
 NNP_NNP_VBZ
@@ -131,12 +129,14 @@ DT_CD_NNS
 all_5_seasons	1
 VB_DT_.
 watch_this_!	1
--RRB-_,_CC
--RRB-_,_and	1
+NN_IN_NNP
+fate_of_Sailors	1
 DT_NN_VBN
 the_original_voiced	1
 NN_DT_NNS
 ashame_these_DVDs	1
+JJ_VBZ_VBN
+chibi-usa_is_kidnapped	1
 DT_NN_VBD
 The_story_was	1
 VBZ_JJ_CC
@@ -152,14 +152,10 @@ Sailor_Moon_.	1
 ,_Kaorinite_returns	1
 FW_FW_CC
 Terri_Hawkes_and	1
-NNP_-LRB-_JJ
-Rini_-LRB-_chibi-usa	1
 NNP_CC_NNP
 Saturn_and_Pluto	1
 RB_JJ_CC
 so_crazy_and	1
-JJ_-RRB-_VBZ
-chibi-usa_-RRB-_is	1
 CD_CC_CD
 4_&_5	1
 ,_CC_DT
@@ -168,12 +164,18 @@ NN_,_NN
 arc_,_Kaorinite	1
 MD_VB_DT
 should_watch_this	1
+CC_NNP_VBP
+and_Pluto_are	1
 JJ_IN_DT
 crazy_about_the	1
 DT_NN_NN
 the_heart_snatcher	1
-CC_NNP_VBP
-and_Pluto_are	1
+WRB_VBN_NN
+How_come_nobody	1
+,_NNP_RB
+,_Pluto_Already	1
+NN_CD_,
+season_2_,	1
 NN_IN_IN
 favorite_out_of	1
 VBN_,_CC
@@ -184,13 +186,10 @@ FW_CC_VBD
 Hawkes_and_was	1
 NNP_VBP_VBN
 Pluto_are_revealed	1
--LRB-_JJ_-RRB-
--LRB-_chibi-usa_-RRB-	1
 VBN_VBN_.
 been_discontinued_.	1
-,_NNP_-LRB-
-,_Rini_-LRB-	1
-,_Pluto_-LRB-	1
+NNP_RB_VBN
+Pluto_Already_revealed	1
 RB_NNP_NNP
 lastly_Sailor_Saturn	1
 VBD_PRP$_NN
@@ -202,8 +201,6 @@ RB_DT_VBZ
 Anyways_this_is	1
 IN_DT_CD
 of_all_5	1
-NN_CD_-RRB-
-season_2_-RRB-	1
 CC_CD_.
 &_5_.	1
 JJ_VBN_NN
@@ -221,8 +218,6 @@ scouts_,_Uranus	1
 returns_,_Rini	1
 VBN_IN_FW
 voiced_by_Terri	1
-CD_-RRB-_,
-2_-RRB-_,	1
 RB_JJ_IN
 not_crazy_about	1
 as_gorgeous_as	1
@@ -239,8 +234,6 @@ series_and_is	1
 NN_NNS_,
 sailor_scouts_,	1
 Kaorinite_returns_,	1
--LRB-_RB_VBN
--LRB-_Already_revealed	1
 DT_NNS_VBP
 these_DVDs_have	1
 VBD_DT_.
@@ -254,12 +247,12 @@ DT_NN_CC
 the_S_&	1
 NNS_VBP_VBN
 DVDs_have_been	1
+NNP_JJ_VBZ
+Rini_chibi-usa_is	1
 CC_JJ_.
 and_unbareable_.	1
 NN_WP_VBZ
 person_who_does	1
-NN_IN_NNP
-fate_of_Sailors	1
 VBP_VBN_VBN
 have_been_discontinued	1
 JJ_NN_DT
@@ -290,8 +283,8 @@ VBZ_NNP_NNP
 does_Sailor_Moon	1
 RB_PRP$_NN
 really_my_favorite	1
--RRB-_VBZ_VBN
--RRB-_is_kidnapped	1
+IN_NNP_NNP
+of_Sailors_Saturn	1
 NN_CC_NN
 S_&_SuperS	1
 RB_VBN_IN

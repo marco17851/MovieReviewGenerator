@@ -98,9 +98,6 @@ film_when	1
 room_where	1
 VBN_VBG
 been_pursuing	1
-FW_DT
-<br />_This	1
-<br />_The	1
 VBG_VBG
 including_having	1
 CC_JJ
@@ -220,8 +217,6 @@ is_one	6
 finds_one	1
 delivers_one	1
 opens_one	1
-IN_VBD
-as_said	1
 VBZ_CC
 is_both	1
 is_neither	1
@@ -262,13 +257,6 @@ who_deserve	1
 who_talk	1
 PRP$_VBG
 her_retiring	1
--RRB-_MD
--RRB-_would	1
--RRB-_,
--RRB-_,	18
--RRB-_.
--RRB-_.	18
--RRB-_!	1
 NNP_CC
 GROUND_and	1
 Jackson_&	1
@@ -284,11 +272,13 @@ OZ_or	1
 Pride_and	1
 Monroe_and	7
 Ray_and	1
+Arthur_and	1
 Shirley_and	1
 Dad_and	1
 Blethyn_and	5
 Voice_or	1
 Fitzgerald_and	1
+England_or	1
 LV_and	1
 Globe_and	1
 Caine_and	4
@@ -298,14 +288,10 @@ whoever_will	1
 who_could	1
 SYM_JJ
 *_different	1
--LRB-_VBD
--LRB-_was	1
 RP_VBG
 up_being	1
 JJR_NNS
 more_occasions	1
-VB_-LRB-
-Say_-LRB-	3
 RBS_JJ
 most_remarkable	1
 most_impressed	1
@@ -313,8 +299,6 @@ most_satisfying	1
 most_vile	1
 most_unique	1
 most_adept	1
-''_-LRB-
-''_-LRB-	6
 VB_WDT
 do_whatever	1
 say_which	1
@@ -371,6 +355,7 @@ scenes_''	1
 NN_VB
 girl_come	1
 love_train	1
+standout_compare	1
 movie_win	1
 ``_VBD
 ``_made	1
@@ -507,8 +492,6 @@ mean_that	1
 sing_in	1
 CD_WDT
 one_that	1
-MD_IN
-will_by	1
 JJ_PRP
 tension-filled_I	1
 afraid_I	1
@@ -553,15 +536,14 @@ cut_out	1
 played_well	1
 NN_DT
 singing_a	1
+mother_the	1
 mother_a	1
-course_the	1
 end_a	1
 screen_the	1
+course_the	1
 room_each	1
 VBN_JJR
 watched_more	1
-JJR_-RRB-
-less_-RRB-	1
 WDT_RB
 that_easily	1
 TO_DT
@@ -594,6 +576,7 @@ VB_NNP
 see_Jane	1
 hear_Horrocks	1
 Enter_Ray	1
+remind_Mari	1
 get_L.V.	1
 get_LV	1
 bring_LV	1
@@ -601,13 +584,14 @@ reciprocate_Mari	1
 fuel_Mari	1
 exploit_LV	1
 exploit_L.V.	1
-remind_Mari	1
+Say_Michael	2
 mimic_Judy	1
 see_Caine	1
 WRB_.
 why_.	1
 NNS_NNS
 pigeons_cages	1
+talents_Horrocks	1
 VBG_JJR
 wanting_more	1
 POS_JJS
@@ -779,6 +763,7 @@ listen_.	1
 JJ_TO
 Needless_to	1
 nice_to	1
+unknown_to	1
 easy_to	1
 Much_to	1
 afraid_to	1
@@ -801,10 +786,9 @@ two_seek	1
 one_have	1
 WP_,
 who_,	1
-FW_NNP
-<br />_Mari	2
-<br />_Jane	1
-<br />_L.V.	2
+RP_CC
+out_and	2
+up_and	2
 NNP_''
 Wingfield_''	1
 Parkinson_''	1
@@ -824,6 +808,8 @@ AbFab_''	1
 Grin_''	1
 VBP_NNPS
 find_Horrocks	1
+NNP_JJS
+Voice_best	1
 DT_NNS
 the_divas	1
 these_records	1
@@ -1017,6 +1003,7 @@ PRP_NN
 me_cry	1
 me_laugh	1
 you_laugh	1
+him_LV	1
 VBD_DT
 saw_this	3
 loved_the	2
@@ -1064,9 +1051,11 @@ characters_and	1
 cages_and	1
 minutes_and	1
 performances_and	1
+talks_and	1
 records_and	1
 strippers_and	1
 awards_and	1
+Horrocks_and	1
 Secrets_and	1
 vocalists_and	1
 battles_and	1
@@ -1082,8 +1071,6 @@ times_and	2
 ,_be	1
 ,_understand	1
 ,_check	1
--LRB-_PDT
--LRB-_all	1
 VBN_PRP
 won_him	1
 helped_me	1
@@ -1099,10 +1086,9 @@ NNPS_RB
 Horrocks_rather	1
 NN_CC
 character_and	1
-daughter_or	1
+daughter_or	2
 accent_and	1
 friend_and	1
-<p>_But	1
 attention_and	1
 rise_and	1
 day_and	1
@@ -1134,6 +1120,7 @@ library_both	1
 characterisation_and	1
 house_and	2
 story_and	1
+nominee_and	1
 performance_and	2
 force_and	1
 greed_and	1
@@ -1173,7 +1160,6 @@ NN_CD
 tribute_2	1
 home_one	1
 film_3	1
-<p>_I	1
 WP$_DT
 whose_every	1
 DT_JJS
@@ -1193,9 +1179,6 @@ less_the	1
 better_the	1
 MD_TO
 can_to	1
--RRB-_WP
--RRB-_what	1
--RRB-_who	2
 NN_JJ
 bit_disturbing	1
 s_own	1
@@ -1212,7 +1195,6 @@ luck_British	1
 everything_good	1
 feel_good	1
 person_other	1
-<p>_Needless	1
 day_long	1
 A_Freudian	1
 time_theatrical	1
@@ -1222,14 +1204,18 @@ Academy_Awards	2
 Mari_talks	1
 Horrocks_honors	1
 NNP_NNP
-<p>_Laura	1
+Jackson_George	1
 Mark_Herman	5
+Horrocks_LV	1
 SECRET_AND	1
 Director_Mark	1
 Brenda_Blethyn	28
 Mr._Ray	1
 LOVE_HONOUR	1
+L.V._Little	1
 Katie_Grin	1
+Mari_Brenda	2
+Blethyn_Pride	1
 Marlilyn_Monroe	1
 Billie_Holiday	2
 House_Rules	1
@@ -1249,6 +1235,7 @@ Marlena_Deitrich	1
 HONOUR_AND	1
 la_Bassey	1
 Graham_Turner	1
+Badland_Sadie	1
 Golden_Globe	2
 AND_OBEY	1
 Micheal_Caine	1
@@ -1256,24 +1243,23 @@ Never_Mind	1
 writer/director_Mark	1
 Mr._Boo	3
 Laurence_Olivier	1
-<p>_Little	1
+Billy_Ewan	2
 The_Quiet	1
 Tennesse_Williams	1
 Marilyn_Monroe	16
 Mind_The	1
-<p>_Brenda	1
 Adina_Monsoon	1
 Ewan_McGregor	19
 Shirly_Bassie	1
 Northern_England	2
 Marlene_Dietrich	1
 Philip_Jackson	2
+Laura_LV	1
 Billie_Hollyday	1
 Little_Voice	51
 Glass_Menagerie	1
 LOCAL_HERO	1
 Fred_Feast	1
-<p>_Ewan	1
 Ms._Horrocks	3
 Ewan_MCGregor	1
 Kathy_Lee	1
@@ -1283,42 +1269,50 @@ Victor_Fleming	1
 Michale_Caine	1
 Cider_House	1
 L.V._Hoff	1
+Ray_Michael	1
+Horrocks_Bubble	1
 Ewan_MacGregor	1
 Mr_Boo	1
 Marilyn_Munro	2
+Feast_Arthur	1
 Mike_Leigh	1
 Ewan_Mcgregor	1
+Turner_L.V.	1
 Wizard_Oz	1
-<p>_This	3
+Hoff_Horrocks	1
 Judy_Garland	21
-The_Big	1
 Miss_Horrocks	1
+The_Big	1
+Hoff_Jane	1
 Blethyn_Horrocks	1
 Jim_Broadbent	6
+Blethyn_Oscar	1
 Roy_Orbison	1
 Big_Time	1
 Jim_Cartwright	1
 Mari_Hoff	1
 The_Horrocks	1
 Michael_Caine	31
+Brenda_LV	1
 Brenda_Blethen	1
-<p>_Let	1
 Jane_Horracks	1
 Patsy_Kline	1
-<p>_Never	1
 Jane_Horrock	2
 Ella_Fitzgerald	1
 Bill_Forsyth	1
 Julie_Walters	2
-<p>_Ms.	1
 Brenda_Blythen	1
 VBZ_JJR
 has_more	1
 CC_EX
 and_there	1
 but_there	1
+''_WP
+''_what	1
+''_who	1
 JJR_.
 more_.	3
+less_!	1
 JJR_,
 more_,	1
 RP_WRB
@@ -1339,9 +1333,8 @@ permitted_to	1
 begun_to	1
 shown_to	1
 amazed_to	1
--LRB-_DT
--LRB-_the	1
--LRB-_a	2
+''_RB
+''_hence	1
 IN_UH
 that_yes	1
 IN_DT
@@ -1438,16 +1431,6 @@ comes_when	1
 knows_how	1
 VBN_CD
 listened_2	1
--LRB-_CC
--LRB-_or	1
--LRB-_and	1
-NNS_-LRB-
-antics_-LRB-	1
-talks_-LRB-	1
-singers_-LRB-	1
-tears_-LRB-	1
-talents_-LSB-	1
-divas_-LRB-	1
 WDT_PRP
 which_she	1
 whatever_it	1
@@ -1497,28 +1480,8 @@ were_and	1
 performed_and	1
 VBD_CD
 got_three	1
-VBZ_-RRB-
-lies_-RRB-	1
-NNP_-RRB-
-Sweet_-RRB-	1
-George_-RRB-	1
-Monroe_-RRB-	1
-MCGregor_-RRB-	1
-Caine_-RRB-	3
-UK_-RRB-	1
-Broadbent_-RRB-	1
-Arthur_-RRB-	1
-Horrocks_-RRB-	2
-LV_-RRB-	2
-Lee_-RRB-	1
-Prejudice_-RRB-	1
-McGregor_-RRB-	2
-Blethyn_-RRB-	6
-Sadie_-RRB-	1
-Garland_-RRB-	2
-Voice_-RRB-	2
-Herman_-RRB-	1
 NNS_DT
+blocks_The	1
 performances_all	1
 times_a	1
 ways_this	1
@@ -1545,6 +1508,7 @@ when_you	2
 ..._of	1
 -_unless	1
 -_although	1
+..._For	1
 PRP$_JJ
 her_loud	1
 her_boisterous	1
@@ -1602,8 +1566,6 @@ who_saw	1
 Who_knew	1
 who_re-created	1
 who_played	1
-VBD_WRB
-purchased_when	1
 IN_PRP
 of_us	1
 until_you	1
@@ -1664,17 +1626,13 @@ for_yourself	1
 so_you	1
 As_it	1
 ''_.
-''_.	7
+''_.	8
 ''_,
 '_,	1
 ''_,	6
-PRP_-RRB-
-him_-RRB-	1
 ,_FW
 ,_etc.	1
 ,_i	1
--RRB-_PRP
--RRB-_it	1
 TO_WP
 to_whom	1
 RB_NNS
@@ -1684,10 +1642,9 @@ barely_whispers	1
 rarely_ventures	1
 :_NNP
 -_Brenda	1
-..._Brenda	1
+..._Brenda	2
 -_Little	1
 :_Judy	1
-..._<p>	1
 ..._Rather	1
 -_Jane	1
 :_Jane	1
@@ -1745,8 +1702,6 @@ she_were	1
 I_got	1
 I_liked	2
 it_seemed	1
--RRB-_JJS
--RRB-_best	1
 PRP_VBG
 you_wanting	1
 them_having	1
@@ -2153,10 +2108,6 @@ She_goes	1
 he_discovers	2
 she_mimicks	1
 she_frees	1
-FW_PRP
-<br />_It	1
-<br />_I	1
-<br />_We	1
 IN_,
 that_,	1
 though_,	1
@@ -2164,10 +2115,17 @@ If_,	1
 with_,	1
 IN_.
 around_.	2
-that_.	1
-from_?	1
+on_.	1
 in_.	1
 by_?	1
+though_.	1
+from_?	1
+that_.	1
+FW_FW
+too.all_i	1
+qute_a	1
+a_voice.after	1
+et_al	1
 EX_RB
 there_really	1
 ``_DT
@@ -2200,14 +2158,10 @@ it_,	5
 ..._brilliantly	1
 --_not	1
 -_especially	1
-FW_WP
-<br />_What	1
 CC_VBP
 and_am	1
 JJS_``
 most_``	1
-POS_-LRB-
-'s_-LRB-	3
 PRP_VB
 us_feel	1
 me_hate	1
@@ -2244,14 +2198,13 @@ and_finds	1
 but_gets	1
 NNS_PRP$
 records_her	1
-,_-LRB-
-,_-LRB-	1
 RP_TO
 on_to	3
 along_to	1
 up_to	1
 NNP_PRP
 Let_me	1
+Horrocks_she	1
 CC_VBD
 but_had	1
 and_decided	1
@@ -2266,8 +2219,6 @@ CC_VBG
 And_living	1
 and_touching	1
 and_devastating	1
--LRB-_UH
--LRB-_Okay	1
 CC_VBN
 and_used	1
 and_understated	1
@@ -2323,8 +2274,6 @@ contemptuous_,	1
 loud-mouthed_,	1
 over-the-top_,	1
 well-developed_,	1
-FW_EX
-<br />_There	1
 JJ_.
 terrific_.	2
 superb_.	1
@@ -2347,6 +2296,7 @@ grand_.	1
 uplifting_.	1
 bitter_.	1
 simple_.	1
+him-rich_.	1
 inpenetrable_.	1
 interesting_.	1
 hilarious_.	1
@@ -2360,7 +2310,7 @@ great_.	1
 metaphorical_.	1
 incredible_!	1
 incredible_.	1
-own_.	1
+own_.	2
 pathetic_.	1
 unbelievable_.	1
 VBN_IN
@@ -2422,8 +2372,6 @@ not_what	1
 exactly_who	1
 VBP_WRB
 feel_when	1
--LRB-_VB
--LRB-_compare	1
 CC_IN
 and_although	1
 But_despite	1
@@ -2482,10 +2430,14 @@ who_plays	3
 who_gets	1
 what_is	1
 who_enjoys	1
+JJ_WDT
+live_which	1
 NN_NNS
+love_fans	1
 dollar_signs	1
 kind_words	1
 filmgoing_audiences	1
+introvert_Horrocks	1
 telephone_men	1
 karaoke_scenes	1
 movie_adults	1
@@ -2510,7 +2462,7 @@ agent_Micheal	1
 owner_Mr	1
 s_Dad	1
 friend_Sadie	2
-<p>_Michael	1
+director_Mark	1
 Here_Michael	1
 name_Little	1
 producer/womanizer/lothario_Mr.	1
@@ -2524,17 +2476,13 @@ Ms.Horrocks_does	1
 -_``	1
 WDT_NNS
 whatever_vestiges	1
-VBG_CC
-touching_and	1
 ,_WRB
 ,_why	1
 ,_where	4
 IN_JJS
 At_least	1
-._-RRB-
-!_-RRB-	1
-._-RRB-	2
-?_-RRB-	3
+VBD_WRB
+purchased_when	1
 VBZ_FW
 has_qute	1
 awaits_too.all	1
@@ -2628,8 +2576,6 @@ are_discovering	1
 're_going	1
 VBP_VBD
 've_got	1
--LRB-_WRB
--LRB-_wherein	1
 JJ_JJS
 sensational_best	1
 JJ_JJR
@@ -2648,9 +2594,6 @@ There_is	1
 there_'s	1
 There_'s	1
 there_is	2
-NNS_NNP
-men_George	1
-people_ALIVE	1
 EX_VBP
 There_are	1
 there_are	2
@@ -2667,6 +2610,7 @@ LP_collection	1
 speaking_voice	1
 video_library	1
 bit_part	1
+film_husshhh	1
 grace_center	1
 fiction_personality	1
 region_dvd	1
@@ -2675,8 +2619,8 @@ night_show	1
 room_singing	1
 biz_type	1
 talent_agent	1
+agent_one	1
 throwing_act	1
-<br />_Here	1
 seaside_town	1
 wish_list	1
 world_outside	1
@@ -2695,12 +2639,13 @@ academy_award	1
 razor_wit	1
 tavern_act	1
 center_stage	1
+way_read	1
 l_Caine	1
-<p>_A	1
 variety_club	1
 eye_contact	1
 wiring_job	1
 bedroom_day	1
+life_witness	1
 knife_throwing	1
 climax_moment	1
 talk_show	1
@@ -2721,6 +2666,7 @@ talent_scout	2
 s_level	1
 background_music	1
 repair_man	1
+agent_Caine	1
 stage_role	1
 stage_version	1
 advertizing_machine	1
@@ -2738,7 +2684,7 @@ record_store	3
 lip_synch	1
 pidgeon_messenger	1
 singing_talent	1
-pet_name	1
+meal_ticket	1
 love_interest	2
 upstairs_bedroom	1
 stage_play	2
@@ -2763,7 +2709,7 @@ record_collection	2
 upstairs_room	1
 tv_series	1
 title_character	1
-meal_ticket	1
+pet_name	1
 performance_s	1
 self_confidence	1
 music_entrepreneur	1
@@ -2780,6 +2726,7 @@ films_together	1
 years_ago	1
 films_too	1
 reviews_here	1
+tears_mostly	1
 roles_actually	1
 performances_ever	2
 accents_often	1
@@ -2789,8 +2736,6 @@ songs_beautifully	1
 boxsets_just	1
 :_MD
 -_will	1
--LRB-_WDT
--LRB-_which	1
 EX_VBD
 there_was	1
 JJS_.
@@ -3024,12 +2969,11 @@ was_better	1
 had_more	1
 NNS_``
 guys_``	1
--RRB-_NNP
--RRB-_Jane	1
+TO_VBN
+to_shared	1
 NN_IN
 spirit_than	1
 feature_on	1
-something_that	1
 tale_in	1
 contempt_for	1
 owner_of	1
@@ -3073,7 +3017,7 @@ foil_for	1
 music_of	1
 pulse_of	1
 end_of	3
-<p>_If	3
+something_that	1
 turn_as	2
 none_of	1
 performance_in	1
@@ -3147,6 +3091,7 @@ heart_of	1
 spirit_in	1
 characterization_throughout	1
 use_of	1
+LV_as	1
 interest_in	3
 sympathising_with	1
 feel_of	1
@@ -3168,7 +3113,6 @@ tour_de	1
 ending_that	1
 film_about	1
 misconception_about	1
-<br />_Throughout	1
 sadness_of	1
 day_after	1
 collection_of	2
@@ -3184,7 +3128,7 @@ success_of	1
 heart_within	1
 humor_that	1
 gem_of	2
-beginning_of	1
+knack_for	1
 fondness_for	1
 front_of	1
 laughter_through	1
@@ -3211,6 +3155,7 @@ character_because	1
 mother_towards	1
 motor-mouth_with	1
 pot_of	1
+performance_although	1
 stage_with	1
 tale_for	1
 tale_of	1
@@ -3223,7 +3168,7 @@ rest_of	3
 role_of	2
 finding_of	1
 sleeper_of	1
-knack_for	1
+beginning_of	1
 sanctuary_of	1
 room_with	1
 time_that	1
@@ -3263,7 +3208,6 @@ end_that	1
 home_with	1
 twist_of	1
 play_of	1
-<br />_Although	1
 impersonator_of	1
 admiration_of	1
 ''_VB
@@ -3295,9 +3239,11 @@ NN_VBN
 ive_seen	1
 play_based	1
 couple_dressed	1
+CD_released	1
+character_named	1
 comedy_set	1
 concert_organised	1
-character_named	1
+mother_played	2
 series_called	1
 comedy_provided	1
 NNS_PRP
@@ -3393,7 +3339,7 @@ LV_goes	1
 perfomrance_makes	1
 film_has	1
 music_drives	1
-performance_continues	1
+Caine_discovers	1
 script-writer_is	1
 one_'s	1
 go_is	1
@@ -3402,8 +3348,10 @@ picture_is	1
 mother_comes	1
 talent_is	1
 story_is	4
+expression_is	1
 movie_is	8
 body_is	1
+performance_continues	1
 life_has	1
 mother_babbles	1
 Mom_wants	1
@@ -3414,7 +3362,7 @@ role_is	1
 surprise_is	1
 transformation_is	1
 fire_destroys	1
-expression_is	1
+DVD_offers	1
 acting_is	3
 music_is	2
 film_is	12
@@ -3428,7 +3376,7 @@ question_is	1
 part_befriends	1
 LV_sings	1
 script_is	2
-DVD_offers	1
+mom_is	1
 star_is	1
 shell_is	1
 film_refers	1
@@ -3556,12 +3504,8 @@ NN_FW
 format_i	1
 JJS_PRP
 best_I	1
-JJ_-LRB-
-fabulous_-LRB-	1
-amazing_-LRB-	1
-interesting_-LRB-	1
-unknown_-LRB-	1
-live_-LRB-	1
+PRP_RP
+it_out	1
 JJ_``
 British_`	1
 RB_VBZ
@@ -3570,6 +3514,7 @@ only_means	1
 often_happens	1
 really_strains	1
 really_is	2
+well_is	1
 deftly_handles	1
 continually_belittles	1
 suddenly_discovers	1
@@ -3615,20 +3560,17 @@ cause_her	1
 bring_him	1
 chap_himself	1
 believe_it	1
-hate_her	1
 buy_it	1
 glorify_herself	1
 get_her	1
 express_herself	1
 enjoy_them	1
 get_it	1
-<p>_It	1
 have_it	1
-<p>_We	2
 say_I	1
 let_me	1
 Check_it	1
-<br />_I	1
+hate_her	1
 imitate_her	1
 use_her	1
 keep_it	1
@@ -3780,12 +3722,6 @@ apparently_inherited	1
 only_wished	1
 thoroughly_enjoyed	2
 really_blew	1
-FW_IN
-<br />_So	1
-<br />_Besides	1
-<br />_In	1
-<br />_Of	1
-<br />_After	1
 NNS_NN
 daughters_talent	1
 pawns_everything	1
@@ -3870,11 +3806,13 @@ begins_to	1
 VBP_PDT
 are_all	1
 POS_NNP
+'s_Jim	1
 's_LOCAL	1
 's_SECRET	1
 '_Little	1
 's_Little	1
 's_Billy	1
+'s_Blethyn	1
 's_LITTLE	1
 's_saturday	1
 '_Miss	1
@@ -3915,10 +3853,8 @@ RP_NN
 up_carreer	1
 RBR_CC
 more_and	2
--LRB-_VBN
--LRB-_released	1
--LRB-_written	1
--LRB-_played	3
+VBG_CC
+touching_and	1
 MD_RB
 ca_n't	3
 might_well	1
@@ -3956,6 +3892,7 @@ expression_that	1
 role_that	1
 VB_DT
 enjoy_the	1
+Say_a	1
 compare_the	1
 love_this	1
 balance_the	1
@@ -3968,7 +3905,7 @@ get_a	1
 spin_a	1
 add_the	1
 feel_any	1
-<p>_The	5
+imitate_these	1
 Keep_a	1
 Put_these	1
 recreate_the	1
@@ -3991,12 +3928,8 @@ share_the	1
 find_the	1
 miss_this	2
 make_the	1
-imitate_these	1
-see_this	1
-<br />_The	1
 have_that	1
--LRB-_VBG
--LRB-_imitating	2
+see_this	1
 WRB_DT
 When_this	1
 Why_the	1
@@ -4056,11 +3989,9 @@ is_interested	1
 is_terrific	2
 's_nice	1
 is_rewarding	1
-JJ_-RRB-
-him-rich_-RRB-	1
-own_-RRB-	1
 ''_DT
 ''_the	2
+''_a	1
 ''_this	1
 NN_TO
 ploy_to	1
@@ -4335,13 +4266,18 @@ entirely_work	1
 ''_JJ
 ''_real	1
 ''_funny	1
-FW_FW
-a_voice.after	1
-et_al	1
-qute_a	1
-<p>_LITTLE	1
-too.all_i	1
-<br />_<br />	25
+IN_IN
+on_during	1
+because_above	1
+out_of	4
+along_with	1
+albeit_for	1
+because_of	1
+as_if	2
+at_despite	1
+while_at	1
+if_at	1
+out_with	1
 JJ_RB
 unlikable_enough	1
 blind_as	1
@@ -4370,12 +4306,6 @@ little_too	1
 ,_singing	1
 ,_making	1
 ,_finding	1
-''_-RRB-
-''_-RRB-	2
--RRB-_VBZ
--RRB-_discovers	1
--RRB-_locks	1
--RRB-_is	5
 NNS_.
 renditions_.	1
 characters_.	3
@@ -4410,7 +4340,7 @@ songs_.	1
 ,_VBN
 ,_played	6
 NNS_,
-albums_,	1
+talents_,	2
 women_,	1
 whispers_,	1
 awards_,	1
@@ -4420,6 +4350,7 @@ performances_,	1
 bras_,	1
 stars_,	2
 actors_,	1
+albums_,	1
 individuals_,	2
 characterizations_,	1
 movies_,	1
@@ -4428,7 +4359,6 @@ films_,	3
 kids_,	1
 bluebirds_,	1
 impressions_,	2
-talents_,	1
 others_,	2
 people_,	1
 records_,	3
@@ -4439,10 +4369,6 @@ ways_,	1
 ,_think	1
 ,_do	2
 ,_make	1
--RRB-_DT
--RRB-_both	1
--RRB-_the	1
--RRB-_The	1
 RB_.
 ever_!	1
 away_.	2
@@ -4474,8 +4400,6 @@ remembered_Horrocks	1
 wished_Ewan	1
 watched_Caine	1
 liked_Bill	1
--RRB-_VBN
--RRB-_shared	1
 NNS_:
 problems_...	1
 reasons_;	1
@@ -4629,10 +4553,6 @@ IN_WP
 despite_what	1
 RB_''
 really_''	1
--RRB-_CC
--RSB-_and	1
--RRB-_and	2
--RRB-_or	1
 VBG_PRP
 allowing_it	1
 expressing_herself	1
@@ -4675,19 +4595,21 @@ NN_PRP
 bedroom_he	1
 time_it	1
 film_itself	1
+FREE_she	1
 pain_she	1
 life_she	1
-<p>_I	3
 nomination_herself	1
 time_I	1
 movie_I	2
-something_I	1
+father_it	1
 overlay_him	1
 type_he	1
+syntax_I	1
 everything_he	1
 end_she	1
 actress_she	1
 idea_she	1
+something_I	1
 guarantee_you	1
 artist_she	1
 performance_I	1
@@ -4713,6 +4635,8 @@ eat_my	1
 escape_her	1
 DT_RP
 this_up	1
+._.
+?_.	1
 ,_MD
 ,_should	1
 ,_will	1
@@ -4810,9 +4734,6 @@ even_more	2
 ,_an	4
 FW_PRP$
 voice.after_her	1
-<br />_Her	1
-VBZ_-LRB-
-fancies_-LRB-	1
 VB_VBZ
 communicate_is	1
 Say_is	1
@@ -4855,10 +4776,8 @@ and_really	1
 and_again	1
 POS_``
 's_``	2
-IN_-RRB-
-on_-RRB-	1
-though_-RRB-	1
 VBZ_NN
+fancies_read	1
 strains_credibility	1
 sees_nothing	1
 finds_comfort	1
@@ -4873,10 +4792,6 @@ is_something	1
 wears_pushup	1
 is_normality	1
 finds_refuge	1
-WDT_VBP
-that_incite	1
-that_are	1
-that_will	1
 POS_RB
 's_brilliantly	1
 WRB_NN
@@ -4902,12 +4817,6 @@ own_a	1
 wish_the	1
 want_a	1
 enjoy_the	1
-NNS_-RRB-
-Horrocks_-RSB-	1
-Horrocks_-RRB-	1
-audiences_-RRB-	1
-blocks_-RRB-	1
-talents_-RRB-	1
 VBD_TO
 wanted_to	1
 started_to	1
@@ -4922,12 +4831,8 @@ something_more	1
 ,_that	1
 UH_NNP
 Okay_Marilyn	1
-:_-RRB-
-..._-RRB-	1
 NNS_PDT
 talks_all	1
-''_RB
-''_hence	1
 JJS_NNS
 best_friends	1
 best_movies	1
@@ -4970,6 +4875,7 @@ voice_,	1
 father_,	2
 wife_,	1
 stage_,	2
+telephone_,	1
 performer_,	1
 Ah_,	1
 hero_,	1
@@ -4985,6 +4891,7 @@ contact_,	1
 owner_,	1
 business_,	1
 host_,	1
+way_,	1
 entertainment_,	2
 book_,	1
 fortune_,	1
@@ -4994,6 +4901,7 @@ hobby_,	1
 Talent_,	1
 presence_,	1
 cane_,	1
+whisper_,	1
 bonus_,	1
 week_,	1
 fame_,	1
@@ -5022,7 +4930,7 @@ producer_,	1
 production_,	1
 beau_,	1
 something_,	1
-recluse_,	1
+silly_,	1
 secretary_,	1
 film_,	8
 type_,	1
@@ -5032,6 +4940,7 @@ part_,	1
 repairman_,	1
 inventor_,	1
 cast_,	2
+etc_,	1
 entertainer_,	1
 friend_,	2
 role_,	2
@@ -5054,7 +4963,7 @@ daughter_,	1
 performance_,	2
 mother_,	11
 husband_,	1
-silly_,	1
+recluse_,	1
 fun_,	1
 actress_,	1
 lady_,	2
@@ -5065,7 +4974,7 @@ TO_CD
 to_5	1
 NN_.
 moment_!	1
-father_.	5
+father_.	6
 voice_.	4
 voice_!	1
 writing_.	1
@@ -5096,7 +5005,7 @@ machine_.	1
 talent_.	3
 edgewise_.	1
 comeuppance_.	1
-story_.	3
+story_.	4
 normality_.	1
 society_?	1
 rest_.	1
@@ -5110,6 +5019,7 @@ development_.	1
 collection_.	1
 buying_.	1
 outside_.	1
+cinema_.	1
 Award_.	1
 movie_!	3
 movie_.	6
@@ -5117,6 +5027,7 @@ synching_.	1
 stardom_.	1
 year_!	1
 surprise_.	1
+accent_.	1
 man_.	1
 spirit_.	1
 moment_.	1
@@ -5166,7 +5077,7 @@ dance_!	1
 room_.	1
 library_!	1
 DVD_.	1
-way_.	5
+way_.	6
 LV_.	2
 contempt_.	1
 daughter_.	3
@@ -5193,8 +5104,6 @@ home_.	1
 time_.	4
 scout_.	1
 game_.	1
--LRB-_TO
--LRB-_to	1
 NNP_VBG
 LV_singing	1
 Perfect_casting	1
@@ -5215,36 +5124,25 @@ that_keeps	2
 POS_,
 's_,	1
 ''_VBN
+''_written	1
 ''_directed	1
 VB_WP$
 say_whose	1
-NN_-LRB-
-one_-LRB-	1
-FREE_-LRB-	1
-freedom_-LRB-	1
-LV_-LRB-	1
-standout_-LRB-	1
-CD_-LRB-	1
-love_-LRB-	1
-<br />_-LRB-	1
-agent_-LRB-	2
-film_-LRB-	1
-mother_-LRB-	3
-introvert_-LRB-	1
-performance_-LRB-	1
-way_-LRB-	1
-director_-LRB-	1
-syntax_-LRB-	1
-life_-LRB-	1
+WDT_VBP
+that_incite	1
+that_are	1
+that_will	1
 ''_VBD
 ''_were	1
 ''_was	2
 ''_VBG
+''_imitating	2
 ''_doing	1
 ''_VBZ
 ''_is	3
 ''_NN
 ''_performance	1
+''_kinda	1
 ''_soundtrack	1
 '_Caine	1
 ''_movie	1
@@ -5274,10 +5172,6 @@ bouncing_up	1
 touching_as	1
 FW_JJ
 i_frequent	1
--RRB-_NN
--RRB-_<p>	1
--RRB-_LV	1
--RRB-_variety	1
 DT_,
 no_,	1
 that_,	3
@@ -5291,16 +5185,14 @@ Rounding_out	1
 linking_up	1
 grabbing_on	1
 belting_out	1
--LRB-_RB
--LRB-_mostly	1
--LRB-_Maybe	1
--LRB-_here	1
 JJ_VB
 great_mimic	1
-RB_-RRB-
-well_-RRB-	1
-FW_VB
-<br />_Enter	1
+NNS_NNP
+divas_Bassey	1
+men_George	1
+singers_Shirley	1
+people_ALIVE	1
+audiences_Jane	1
 RB_JJ
 equally_brilliant	1
 very_funny	1
@@ -5391,18 +5283,6 @@ suitably_seedy	1
 virtually_unknown	1
 rather_annoying	1
 practically_catatonic	1
-IN_IN
-on_during	1
-because_above	1
-out_of	4
-along_with	1
-albeit_for	1
-because_of	1
-as_if	2
-at_despite	1
-while_at	1
-if_at	1
-out_with	1
 VB_``
 include_``	1
 say_``	1
@@ -5528,6 +5408,7 @@ film_more	1
 NNS_WRB
 things_when	1
 instances_when	1
+antics_wherein	1
 ``_JJ
 ``_real	1
 ``_cute	1
@@ -5559,6 +5440,7 @@ Bassey_in	1
 BAFTA_for	1
 England_until	1
 Blethyn_that	1
+Garland_with	1
 WIZARD_OF	1
 Oscar_for	1
 McGregor_as	1
@@ -5567,6 +5449,7 @@ Garland_in	1
 LV_for	1
 Enough_of	1
 Bubble_from	1
+Judy_though	1
 PRP$_NNS
 her_fears	1
 her_songs	1
@@ -5607,21 +5490,10 @@ of_imitating	1
 for_differing	1
 than_being	1
 of_grabbing	1
+IN_VBD
+as_said	1
 VBN_WRB
 sharpened_when	1
-NN_-RRB-
-way_-RRB-	2
-nominee_-RRB-	1
-father_-RRB-	2
-whisper_-RRB-	1
-Caine_-RRB-	2
-mom_-RRB-	1
-etc_-RRB-	1
-story_-RRB-	1
-cinema_-RRB-	1
-accent_-RRB-	1
-telephone_-RRB-	1
-daughter_-RRB-	1
 ,_PRP
 ,_she	11
 ,_we	1
@@ -5643,31 +5515,6 @@ her_Dad	1
 My_God	1
 IN_EX
 that_there	1
--LRB-_NNP
--LRB-_George	1
--LRB-_Pride	1
--LRB-_Arthur	1
--LRB-_Jane	1
--LRB-_Horrocks	1
--LRB-_Michael	3
--LRB-_Little	1
--LRB-_Bassey	1
--LRB-_Bubble	1
--LRB-_Oscar	1
--LRB-_Sadie	1
--LRB-_Shirley	1
--LRB-_L.V.	1
--LRB-_Ewan	2
--LRB-_Mark	1
--LRB-_LV	3
--LRB-_Philip	1
--LRB-_Brenda	2
--LRB-_Jim	1
--LRB-_Blethyn	1
--LRB-_NNS
--LSB-_Horrocks	1
--LRB-_Horrocks	1
--LRB-_fans	1
 VBG_.
 seeing_.	3
 singing_.	1
@@ -5746,16 +5593,12 @@ WRB_VBZ
 how_does	1
 Why_is	1
 NNP_WP
-McGregor_who	1
 Caine_who	1
 ALIVE_who	1
+McGregor_who	1
+Herman_who	1
 Horrocks_who	1
-VBP_-RRB-
-mean_-RRB-	1
-PRP_RP
-it_out	1
-FW_CD
-<br />_One	1
+Laura_whom	1
 WRB_VBP
 where_are	1
 POS_NN
@@ -5839,11 +5682,12 @@ England_city	1
 Academy_Award	2
 English_sitcom	1
 Ray_band	1
-Yorkshire_life	1
+Broadbent_variety	1
 Micha_l	2
 Fabulous_sleeper	1
 Yorkshire_seaside	1
 LV_singing	1
+Yorkshire_life	1
 Monroe_singing	1
 London_glamour	1
 Hollywood_today	1
@@ -6089,33 +5933,36 @@ Yorkshire_,	1
 Billy_,	3
 McGregor_,	2
 England_,	1
+MCGregor_,	1
 Bassie_,	1
 Horrocks_,	11
 Hoff_,	3
 L.V._,	2
-Voice_,	9
+Voice_,	10
 Scarborough_,	2
 Mari_,	1
 God_,	1
 Deitrich_,	1
 Malcolm_,	1
 Herman_,	1
-Caine_,	12
+Caine_,	14
 Badland_,	1
 LV_,	4
 HERO_,	1
 Rather_,	1
 L.V_,	1
-Sadie_,	2
-Monroe_,	6
+Lee_,	1
+Sadie_,	3
+Monroe_,	7
 Holiday_,	2
-Blethyn_,	8
+Blethyn_,	12
 Garland_,	14
 Bubble_,	1
 Rules_,	1
 Ray_,	2
 Laura_,	2
 Fabulous_,	1
+George_,	1
 English_,	1
 Britian_,	1
 Judy_,	1
@@ -6137,28 +5984,29 @@ L.V._.	2
 Mari_.	1
 Daddy_.	1
 Herman_.	1
-LV_.	3
+LV_.	4
 Caine_.	1
 America_?	1
+Sweet_.	1
 Munro_.	1
 Menagerie_.	1
 Walters_.	1
-Blethyn_.	2
+Blethyn_.	4
 Jane_!	1
 Hollyday_.	1
 AMAZING_!	1
 Blythen_.	1
+Garland_.	1
 Bubble_.	1
 Dad_?	1
 UK_.	1
 Voice_.	9
 Dench_.	1
-McGregor_.	1
+McGregor_.	3
 Ray_.	1
 Oscar_.	1
 FW_NN
 LITTLE_VOICE	1
-<br />_LV	1
 JJ_VBN
 much_lauded	1
 many_misspelled	1
@@ -6190,6 +6038,8 @@ NNP_:
 Garland_-	1
 Ray_...	1
 L.V._-	1
+JJ_VBD
+fabulous_was	1
 RB_VBP
 normally_watch	1
 fully_enjoy	1
@@ -6212,6 +6062,7 @@ skirts_,	1
 LIES_,	1
 confirms_,	1
 says_,	1
+lies_,	1
 speaks_,	1
 is_,	3
 RB_NN
@@ -6225,8 +6076,6 @@ references_to	1
 scenes_to	1
 VBN_EX
 warned_there	1
--LRB-_JJ
--LRB-_short	1
 VBZ_IN
 gets_in	1
 turns_in	1
@@ -6290,8 +6139,6 @@ Enter_telephone	1
 notice_anything	1
 ,_CD
 ,_one	1
-TO_-RRB-
-to_-RRB-	1
 NN_WP
 singer_who	1
 anyone_who	1
@@ -6315,6 +6162,7 @@ entrepreneur_who	1
 guy_who	1
 man_who	1
 date_who	1
+Caine_who	1
 engineer_who	1
 daughter_who	1
 woman_who	3
@@ -6355,11 +6203,12 @@ books_many	1
 characters_are	1
 impressions_are	1
 NNP_MD
-Elvie_should	1
 Mari_can	1
-Blethen_would	1
 Herman_must	1
+Blethen_would	1
 Horrocks_will	1
+Elvie_should	1
+UK_would	1
 IN_CD
 for_5	1
 with_three	1
@@ -6372,8 +6221,9 @@ of_two	1
 NNS_POS
 records_'s	1
 NNS_VBZ
-talents_is	1
 micromini_skirts	1
+talents_is	1
+Horrocks_locks	1
 VBD_PRP$
 caught_her	1
 exceeded_my	1
@@ -6386,23 +6236,6 @@ as_both	1
 of_both	1
 while_either	1
 from_both	1
-NNP_-LRB-
-Hoff_-LRB-	2
-Blethyn_-LRB-	2
-Badland_-LRB-	1
-Brenda_-LRB-	1
-Horrocks_-LRB-	3
-Judy_-LRB-	1
-Ray_-LRB-	1
-Jackson_-LRB-	1
-England_-LRB-	1
-Voice_-LRB-	1
-Turner_-LRB-	1
-Laura_-LRB-	2
-L.V._-LRB-	1
-Mari_-LRB-	2
-Feast_-LRB-	1
-Billy_-LRB-	2
 PRP_:
 me_-	1
 herself_...	1
@@ -6431,9 +6264,6 @@ ya_Jane	1
 you_must.it	1
 it_Scotland	1
 you_MUST	1
--LRB-_PRP
--LRB-_she	2
--LRB-_I	1
 NNS_VBN
 stories/scripts_put	1
 records_owned	1
@@ -6448,16 +6278,12 @@ VBP_NNP
 see_LV	1
 install_Mari	1
 are_Philip	1
+mean_Michael	1
 are_L.V.	1
 VBP_RP
 find_out	1
 meet_up	1
 send_up	1
-FW_RB
-<br />_However	1
-<br />_Highly	1
-<br />_Nonetheless	1
-<br />_Ultimately	1
 ``_PRP
 ``_I	1
 ``_It	2
@@ -6468,6 +6294,7 @@ VBG_WP
 giving_what	1
 NN_PDT
 movie_such	1
+freedom_all	1
 CD_JJR
 one_more	1
 POS_JJ
@@ -6487,6 +6314,7 @@ POS_JJ
 's_amazing	2
 's_first	1
 's_wanna-be	1
+'s_short	1
 's_old	2
 's_own	2
 :_JJ
@@ -6504,9 +6332,6 @@ called_``	2
 ''_on	1
 :_TO
 ..._to	1
--RRB-_IN
--RRB-_For	1
--RRB-_with	1
 VBD_VBN
 was_built	2
 was_meant	1
@@ -6727,6 +6552,7 @@ Sadie_is	1
 Voice_comes	1
 LV_has	1
 Jane_plays	1
+LV_is	1
 L.V._agrees	1
 Mari_is	1
 Broadbent_is	1
@@ -6741,7 +6567,7 @@ Voice_is	6
 Mari_deserves	1
 Ray_wants	1
 Billy_is	1
-Horrocks_is	9
+Horrocks_is	11
 Horrocks_demonstrates	1
 McGregor_appears	1
 Horrocks_gives	2
@@ -6914,15 +6740,10 @@ died_,	1
 said_,	1
 VBD_.
 recommended_.	1
-CC_NNS
-and_boys	1
-and_others	3
-and_lots	1
-and_pawns	1
-and_shapes	1
-and_actors	1
-and_words	1
-and_books	1
+VBG_NNS
+stopping_performances	1
+towering_heels	1
+differing_reasons	1
 NNP_VBD
 Munro_was	1
 Horrocks_delivered	1
@@ -6944,13 +6765,10 @@ LV_sorted	1
 Caine_were	1
 Horrocks_blew	1
 Time_written	1
+NNP_VBN
+Voice_played	1
 WP_NNP
 whom_Mari	1
--LRB-_IN
--LRB-_despite	1
--LRB-_as	2
--LRB-_although	1
--LRB-_though	1
 NNP_POS
 Voice_'s	6
 Hoff_'s	1
@@ -6982,14 +6800,13 @@ NN_RB
 premise_so	1
 jerk_so	1
 film_quite	1
+one_here	1
 talent_purely	1
 entertainment_well	1
 metaphore_really	1
 anything_else	1
 boozy_best	1
 film_deservedly	1
-<p>_Nevertheless	1
-<p>_Highly	1
 part_well	1
 disappointment_just	1
 comfort_only	1
@@ -7010,7 +6827,6 @@ music_as	1
 movie_very	1
 shop/house_perfectly	1
 movie_often	1
-<p>_However	1
 JJ_IN
 Loved_By	1
 potential_than	1
@@ -7024,17 +6840,18 @@ hopeful_at	1
 many_of	1
 jealous_of	3
 rid_of	1
-sort-of_like	1
+amazing_as	1
 seedy_as	1
 amazing_in	1
 powerful_as	1
 talent-spotted_by	1
+sort-of_like	1
 impressed_by	1
 full_of	1
 wrong_with	1
 excellent_as	1
 certain_that	1
-heartful_of	1
+interesting_despite	1
 rough_without	1
 brilliant_in	1
 brilliant_as	1
@@ -7046,6 +6863,7 @@ wonderful_in	1
 available_on	1
 remarkable_by	1
 impressed_with	1
+heartful_of	1
 great_in	1
 sure_that	1
 good_about	1
@@ -7056,7 +6874,7 @@ superb_as	1
 available_in	1
 short_for	1
 other_than	3
-impressive_as	1
+nonstop_in	1
 stunning_as	1
 shaded_that	1
 deserving_of	1
@@ -7066,7 +6884,7 @@ sorry_for	2
 spellbinding_as	1
 funny_at	1
 such_as	1
-nonstop_in	1
+impressive_as	1
 interested_in	1
 much_of	1
 VBD_``
@@ -7177,9 +6995,8 @@ is_Jane	2
 makes_LV	1
 hears_LV	2
 discovers_LV	1
-RP_CC
-out_and	2
-up_and	2
+MD_IN
+will_by	1
 VBZ_NNS
 raises_pigeons	1
 VBP_NN
@@ -7200,9 +7017,6 @@ cheap_''	1
 big_''	3
 Happy_''	1
 real_''	1
--LRB-_WP
--LRB-_who	1
--LRB-_whom	1
 VB_CD
 be_one	2
 do_one	1
@@ -7211,10 +7025,12 @@ VB_CC
 help_but	1
 sing_and	2
 NNP_DT
-Blethyn_a	1
-Voice_a	1
-Never_the	1
 VOICE_the	1
+Voice_a	1
+Caine_both	1
+Blethyn_a	1
+Prejudice_the	1
+Never_the	1
 JJS_NN
 best_comedy	1
 best_friend	1
@@ -7241,13 +7057,6 @@ VBN_NNS
 misspelled_words	1
 ,_WP$
 ,_whose	1
--LRB-_NN
--LRB-_Caine	1
--LRB-_one	1
--LRB-_kinda	1
--LRB-_witness	1
--LRB-_read	2
--LRB-_husshhh	1
 ,_NNP
 ,_Ray	4
 ,_Little	4
@@ -7267,6 +7076,7 @@ misspelled_words	1
 ,_L.V.	3
 ,_Hoff	1
 ,_Shirley	4
+,_Philip	1
 ,_Monroe	1
 ,_The	1
 ,_Jane	3
@@ -7282,10 +7092,15 @@ making_Mari	1
 imitating_Judy	2
 dating_Ray	1
 annoying_Brenda	1
-VBG_NNS
-stopping_performances	1
-towering_heels	1
-differing_reasons	1
+CC_NNS
+and_boys	1
+and_others	3
+and_lots	1
+and_pawns	1
+and_shapes	1
+and_actors	1
+and_words	1
+and_books	1
 ,_NNS
 ,_thanks	2
 ,_micromini	1

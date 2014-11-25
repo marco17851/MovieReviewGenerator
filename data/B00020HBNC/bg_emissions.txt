@@ -10,8 +10,6 @@ by_slave	1
 ,_IN
 ,_with	1
 ,_so	1
-FW_DT
-<br />_This	2
 NNP_IN
 Tamahome_of	1
 Priestess_of	1
@@ -159,6 +157,8 @@ RB_,
 There_,	1
 RB_DT
 Suddenly_a	1
+PRP_JJ
+her_mulitple	1
 PRP$_JJS
 her_best	2
 PRP_VBZ
@@ -168,8 +168,6 @@ she_follows	1
 it_'s	2
 It_is	1
 she_meets	1
--RRB-_,
--RRB-_,	1
 NNP_CC
 Suzaku_and	1
 Miaka_and	1
@@ -242,9 +240,6 @@ but_finds	1
 and_assumes	1
 and_learns	1
 and_begins	1
-FW_FW
-<br />_<br />	5
-<br />_Miaka	1
 PRP$_NN
 her_entrance	1
 her_thinking	1
@@ -290,6 +285,7 @@ exams_.	1
 wishes_.	1
 episodes_.	1
 NNS_,
+times_,	1
 episodes_,	2
 exams_,	1
 TO_DT
@@ -312,8 +308,6 @@ NNS_TO
 returns_to	1
 :_PRP$
 :_her	1
--LRB-_JJ
--LRB-_mulitple	1
 JJ_NNS
 terrible_ordeals	1
 mulitple_times	1
@@ -378,8 +372,6 @@ will_be	1
 must_buy	1
 must_find	1
 can_make	1
-PRP_-LRB-
-her_-LRB-	1
 NN_VBN
 box_set	1
 book_called	2
@@ -398,8 +390,6 @@ at_one	1
 with_four	1
 VB_CC
 buy_and	1
-FW_IN
-<br />_As	1
 CC_NN
 or_cry	1
 and_romance	1
@@ -441,10 +431,6 @@ EX_VBZ
 there_is	1
 EX_VBP
 there_are	1
-FW_NNP
-<br />_Fushigi	1
-NNS_-RRB-
-times_-RRB-	1
 NN_NN
 friend_Yui	2
 Yui_travel	1

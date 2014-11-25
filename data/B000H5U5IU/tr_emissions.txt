@@ -22,10 +22,6 @@ NN_IN_JJ
 picture_with_average	1
 VB_NN_JJ
 have_something_redeeming	1
-NNS_-LRB-_NN
-clubs_-LRB-_esp	1
-FW_FW_NNS
-<br />_<br />_Thanks	1
 NNS_IN_VBG
 Thanks_for_reading	1
 VBZ_RB_JJ
@@ -40,12 +36,6 @@ VBP_VBG_IN
 are_looking_for	1
 NN_RB_VBG
 movie_not_expecting	1
-NN_IN_NN
-Case_in_point	1
-revenge_by_use	1
-consideration_of_budget	1
-passion_for_horror	1
-making_of_featurette	1
 PRP$_NN_TO
 my_money_to	1
 NNS_IN_PRP$
@@ -87,10 +77,8 @@ RB_VBN_JJ
 otherwise_considered_guilty	1
 RBR_VBN_IN
 more_entertained_than	1
-DT_NN_VBZ
-this_fact_is	1
-this_movie_centers	1
-that_opportunity_is	1
+VB_PRP_CC
+watch_it_and	1
 VBG_JJ_IN
 being_generous_with	1
 VBZ_IN_RB
@@ -116,8 +104,8 @@ do_n't_want	1
 Do_n't_expect	1
 NN_,_PRP
 predisposition_,_I	1
-FW_DT_NN
-<br />_The_plot	1
+VBP_DT_JJ
+have_a_tremendous	1
 CC_DT_JJ
 or_a_widescreen	1
 ,_VB_,
@@ -137,8 +125,8 @@ this_and_hate	1
 IN_DT_CD
 from_a_four	1
 with_the_four	1
-FW_FW_PRP
-<br />_<br />_I	1
+IN_IN_PRP
+as_if_you	1
 VBN_NN_VBZ
 executed_stupidity_is	1
 PRP_VBP_IN
@@ -201,8 +189,8 @@ to_watch_what	1
 ,_creative_,	1
 PRP_VBP_JJ
 you_are_okay	1
-VB_PRP$_NN
-admit_my_appreciation	1
+RB_IN_DT
+So_with_this	1
 NN_MD_VB
 polynesia_may_be	1
 VBN_JJ_IN
@@ -236,13 +224,8 @@ RB_,_VB
 away_,_avoid	1
 RBR_RB_VB
 more_likely_appreciate	1
-FW_FW_IN
-<br />_<br />_If	1
-<br />_<br />_In	1
 VB_PRP_DT
 give_it_a	1
-FW_IN_PRP
-<br />_If_you	1
 NNP_NNP_NNP
 Tequila_Body_Shots	1
 ,_CC_PRP
@@ -291,29 +274,28 @@ VBD_DT_TO
 wanted_this_to	1
 NN_VBG_PRP
 fun_watching_it	1
--RRB-_VBP_IN
--RRB-_are_as	1
+NN_IN_NN
+Case_in_point	1
+revenge_by_use	1
+consideration_of_budget	1
+passion_for_horror	1
+making_of_featurette	1
 DT_NN_NN
 any_movie_time	1
 a_tiki_doll	1
-FW_DT_VBZ
-<br />_This_is	1
 NN_IN_IN
 schlock_out_of	1
-FW_PRP_VBD
-<br />_I_had	1
 VBN_IN_NNS
 humiliated_by_snobs	1
-NN_NNS_CC
-murder_methods_and	1
+VB_PRP$_NN
+admit_my_appreciation	1
 SYM_NN_NN
 **_p_production	1
 VBZ_VBN_IN
 is_humiliated_by	1
 FW_FW_FW
-<a href="http://www.amazon.com/gp/product/B000H5U5IU">_Tiki_</a>	1
 blah_blah_blah	1
-etc._<br />_<br />	1
+<a href="http://www.amazon.com/gp/product/B000H5U5IU">_Tiki_</a>	1
 PRP$_NN_VBZ
 my_review_causes	1
 VBP_RB_VBN
@@ -367,6 +349,8 @@ I_was_hoping	1
 ,_terrible_acting	1
 NN_TO_NNS
 money_to_people	1
+NNP_VBP_IN
+Kahiki_are_as	1
 VBP_VB_NN
 go_tell_somebody	1
 NN_CC_PRP
@@ -382,6 +366,8 @@ PRP_VBZ_DT
 it_is_a	1
 me_is_a	1
 itself_is_a	1
+NN_NNS_CC
+murder_methods_and	1
 IN_PRP$_NN
 of_your_life	1
 if_my_review	1
@@ -410,10 +396,10 @@ comparing_the_movie	1
 watching_any_movie	1
 VB_IN_DT
 live_in_a	1
--LRB-_NN_.
--LRB-_esp_.	1
 VB_CC_NN
 help_but_laugh	1
+NNS_NN_.
+clubs_esp_.	1
 DT_VB_PRP$
 a_knock_your	1
 NNS_VBP_JJ
@@ -422,10 +408,14 @@ CC_RB_JJ
 and_sometimes_comical	1
 IN_VBG_DT
 for_reading_the	1
+NN_NNS_NN
+supper_clubs_esp	1
 NN_JJ_.
 something_redeeming_.	1
-VB_PRP_CC
-watch_it_and	1
+DT_NN_VBZ
+this_fact_is	1
+this_movie_centers	1
+that_opportunity_is	1
 PRP_VBD_NNP
 I_popped_Tiki	1
 PRP_VBP_RB
@@ -457,8 +447,6 @@ NN_IN_PRP
 talent_because_I	1
 somebody_that_you	1
 rating_because_I	1
-FW_NNS_IN
-<br />_Thanks_for	1
 DT_NN_,
 this_case_,	1
 this_predisposition_,	1
@@ -520,8 +508,6 @@ VBP_JJ_,
 are_brutal_,	1
 WP_VBP_RBR
 who_will_more	1
-FW_VBP_RB
-<br />_Do_n't	1
 WDT_VBZ_PRP$
 that_approaches_my	1
 RB_VBG_PRP
@@ -563,8 +549,8 @@ JJ_CC_PRP
 high_but_I	1
 IN_IN_NN
 out_of_hollywood	1
-RB_PRP_MD
-then_you_will	1
+PRP_TO_VB
+you_to_watch	1
 VBD_RB_RB
 were_not_very	1
 VBN_IN_PRP
@@ -608,7 +594,7 @@ I_have_a	1
 JJ_NN_TO
 great_privilege_to	1
 FW_IN_DT
-<br />_In_this	1
+etc._In_this	1
 NN_TO_VB
 privilege_to_live	1
 ability_to_watch	1
@@ -668,6 +654,8 @@ NNP_POS_NN
 Hallow_'s_End	1
 JJ_NN_NNS
 polynesian_supper_clubs	1
+,_FW_IN
+,_etc._In	1
 NNP_IN_PRP$
 Tiki_into_my	1
 CD_NNS_IN
@@ -737,16 +725,13 @@ VBZ_DT_JJ
 is_a_great	1
 is_a_beautiful	1
 is_a_low	1
-VBP_DT_JJ
-have_a_tremendous	1
 TO_VB_VBN
 to_be_entertained	1
 NN_VBZ_JJ
 opportunity_is_enough	1
 fact_is_enough	1
-FW_FW_DT
-<br />_<br />_This	1
-<br />_<br />_The	1
+IN_NN_.
+of_hollywood_.	1
 PRP_RB_VBP
 I_typically_dig	1
 I_otherwise_hesitate	1
@@ -789,16 +774,12 @@ VBP_,_WRB
 want_,_when	1
 ,_JJ_NNS
 ,_personal_expectations	1
-NN_NNS_-LRB-
-supper_clubs_-LRB-	1
 NN_VBZ_PRP
 review_causes_you	1
 VBP_IN_NN
 rate_with_consideration	1
-FW_FW_VBP
-<br />_<br />_Do	1
-RB_IN_DT
-So_with_this	1
+NNP_NN_.
+Story_line_.	1
 NN_NN_IN
 budget_picture_with	1
 star_rating_because	1
@@ -828,8 +809,6 @@ PRP_DT_NN
 it_a_shot	1
 IN_DT_NNS
 in_the_50s	1
-NNP_-RRB-_VBP
-Kahiki_-RRB-_are	1
 IN_NNS_CC
 of_extras_or	1
 by_snobs_and	1
@@ -841,16 +820,13 @@ IN_JJ_NNS
 with_average_actors	1
 NNS_IN_DT
 spoilers_in_the	1
-PRP_TO_VB
-you_to_watch	1
+RB_PRP_MD
+then_you_will	1
 ,_DT_VBZ
 ,_this_is	2
-IN_NN_.
-of_hollywood_.	1
 VBZ_PRP_TO
 causes_you_to	1
 ,_FW_FW
-,_etc._<br />	1
 ,_blah_blah	1
 NN_,_.
 i.e_,_.	1
@@ -862,16 +838,12 @@ of_budget_,	1
 by_mainstream_,	1
 RB_VB_TO
 n't_want_to	1
-NNP_NN_.
-Story_line_.	1
 VB_NN_IN
 tell_somebody_that	1
 TO_NNS_WP
 to_people_who	1
 RB_RBR_VBN
 definitely_more_entertained	1
-IN_IN_PRP
-as_if_you	1
 NN_NNS_.
 horror_flicks_.	1
 NN_NNS_,

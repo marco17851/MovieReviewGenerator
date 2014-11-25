@@ -20,8 +20,6 @@ WP_PRP_VBP
 what_you_pay	1
 IN_PRP_VBP
 If_you_want	2
-FW_IN_PRP
-<br />_If_you	1
 JJ_NN_NNS
 public_domain_titles	1
 VBP_JJ_,
@@ -44,8 +42,6 @@ NNS_,_VBD
 DVDs_,_restored	1
 DT_NNP_NNP
 the_SONY_Three	1
-FW_FW_PRP
-<br />_<br />_They	1
 VBP_IN_RB
 pay_for_here	1
 IN_RB_.
@@ -62,16 +58,14 @@ NNP_NNPS_.
 SONY_DVDs_.	1
 VBP_NN_VB
 want_quality_buy	1
-FW_PRP_RB
-<br />_They_also	1
+PRP_MD_VB
+you_'ll_get	1
 PRP_VBP_IN
 you_pay_for	1
 VB_WP_PRP
 get_what_you	1
 RB_RB_.
 up_everwhere_.	1
-FW_FW_IN
-<br />_<br />_If	1
 DT_JJ_JJ
 the_same_old	1
 PRP_VBP_NN
@@ -86,7 +80,5 @@ NNP_NNP_NNP
 SONY_Three_Stooges	1
 VBP_RB_RB
 pop_up_everwhere	1
-PRP_MD_VB
-you_'ll_get	1
 NN_NNS_WDT
 domain_titles_that	1

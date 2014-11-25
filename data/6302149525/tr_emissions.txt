@@ -1,7 +1,7 @@
 WRB_PRP_VBZ
 when_she_leaves	1
-DT_NN_-LRB-
-the_limelight_-LRB-	1
+NNP_,_DT
+Overall_,_this	1
 NN_VBZ_DT
 appearance_is_a	1
 enthusiasm_infuses_every	1
@@ -14,8 +14,8 @@ CC_DT_NN
 and_a_chance	1
 and_the_band	1
 both_the_audience	1
-JJR_NNS_-LRB-
-earlier_albums_-LRB-	1
+NNS_,_DT
+songs_,_the	1
 NNP_RB_VBD
 Grant_really_came	1
 RB_IN_DT
@@ -24,8 +24,8 @@ NN_IN_CC
 interaction_with_both	1
 JJ_NN_CC
 talented_singer_and	1
-NNS_,_IN
-keyboards_,_before	1
+RB_VBD_IN
+really_came_of	1
 NNP_RB_VBZ
 Amy_absolutely_shines	1
 VB_RB_CD
@@ -41,13 +41,13 @@ JJ_,_CC
 down-to-earth_,_and	1
 WRB_PRP_VBD
 why_they_gave	1
-FW_DT_JJ
-<br />_The_only	1
 NN_VBN_IN
 doubt_influenced_by	1
 downer_compared_with	1
 NNP_VBZ_DT
 Gary_is_a	1
+JJR_NNS_DT
+earlier_albums_no	1
 TO_RBR_JJ
 to_more_trendy	1
 VBZ_CC_JJ
@@ -62,8 +62,8 @@ VB_IN_PRP$
 help_with_his	1
 NNP_NNS_,
 Amy_fans_,	1
-NNS_,_DT
-songs_,_the	1
+VBD_RB_VB
+did_n't_help	1
 VBD_PRP_NN
 gave_him_center	1
 DT_NN_IN
@@ -74,10 +74,10 @@ the_scenery_for	1
 a_must-have_for	1
 RB_VB_DT
 n't_have_a	1
-FW_FW_NNP
-<br />_<br />_Overall	1
 CC_NNP_VBG
 and_Michael_performing	1
+NNS_TO_RBR
+'70s_to_more	1
 ,_DT_VBZ
 ,_this_is	1
 RB_VBZ_IN
@@ -86,6 +86,8 @@ DT_VBZ_DT
 this_is_a	1
 JJ_NNP_NN
 old_VHS_copy	1
+NN_WDT_VBZ
+limelight_that_goes	1
 IN_CD_NNS
 of_FIVE_songs	1
 NN_,_PRP$
@@ -112,11 +114,8 @@ scenery_for_a	1
 piece_of_the	1
 transition_from_the	1
 friendship_at_this	1
-DT_NN_.
-the_band_.	1
-every_song_.	1
-the_pie_?	1
-this_video_.	1
+PRP$_NN_IN
+her_interaction_with	1
 JJ_NN_,
 flawless_concert_,	1
 JJ_NN_.
@@ -180,8 +179,8 @@ JJ_NN_IN
 Christian_performer_with	1
 life-long_friendship_at	1
 middle_section_with	1
-FW_FW_DT
-<br />_<br />_The	1
+,_WDT_VBZ
+,_which_makes	1
 IN_NN_,
 on_DVD_,	1
 IN_NN_IN
@@ -198,6 +197,8 @@ NN_IN_NNS
 section_with_songs	1
 NNP_NN_VBD
 Gary_section_seemed	1
+,_NNP_.
+,_Vince_.	1
 VBD_PRP$_NN
 did_her_husband	1
 DT_NN_VBN
@@ -233,8 +234,6 @@ NNS_,_RB
 fans_,_especially	1
 NNP_NNP_.
 Gary_Chapman_.	1
-NNS_-LRB-_DT
-albums_-LRB-_no	1
 TO_VB_NNS
 to_change_outfits	1
 IN_PRP$_CD
@@ -258,10 +257,8 @@ TO_DT_NN
 to_the_video	1
 ,_CC_PRP$
 ,_and_her	1
-NNP_,_DT
-Overall_,_this	1
-JJ_NNS_VBD
-sweaty-face_close-ups_did	1
+NNS_DT_NN
+albums_no_doubt	1
 CC_PRP_VBD
 but_he_ended	1
 JJ_TO_VB
@@ -269,20 +266,16 @@ nice_to_see	1
 JJ_CC_JJ
 trendy_and_pop-influenced	1
 energetic_and_down-to-earth	1
-FW_NNP_,
-<br />_Overall_,	1
 ,_RB_,
 ,_too_,	1
 RB_CD_,
 only_one_,	1
 VB_WRB_PRP
 wonder_why_they	1
--LRB-_WDT_VBZ
--LRB-_that_goes	1
 NNS_IN_IN
 spouses_out_of	1
-VB_NNP_DT
-give_Amy_a	1
+JJ_NNS_VBD
+sweaty-face_close-ups_did	1
 VBG_DT_JJ
 finding_an_old	1
 CC_JJ_NNS
@@ -293,6 +286,8 @@ Amy_a_break	1
 ,_especially_fans	1
 DT_NN_NN
 this_concert_video	1
+DT_NN_WDT
+the_limelight_that	1
 PRP$_JJR_NNS
 her_earlier_albums	1
 PRP_MD_VB
@@ -311,10 +306,13 @@ performed_by_Amy	1
 performed_with_Amy	1
 VBD_IN_NN
 came_of_age	1
-,_NNP_-RRB-
-,_Vince_-RRB-	1
 WDT_VBN_IN
 which_performed_with	1
+DT_NN_.
+the_band_.	1
+every_song_.	1
+the_pie_?	1
+this_video_.	1
 VBD_PRP_MD
 thought_he_would	1
 TO_VB_DT
@@ -323,6 +321,8 @@ PRP$_NN_VBZ
 her_enthusiasm_infuses	1
 WDT_VBZ_IN
 that_goes_for	1
+DT_NNS_TO
+the_'70s_to	1
 NN_CC_DT
 audience_and_the	1
 break_and_a	1
@@ -352,8 +352,6 @@ out_of_print	1
 out_of_place	1
 PRP$_NNS_IN
 her_spouses_out	1
-NNP_-RRB-_.
-Vince_-RRB-_.	1
 VBP_PRP$_NN
 love_her_interaction	1
 PRP_VBD_RP
@@ -387,8 +385,8 @@ A_22-year-old_Amy	1
 a_young_Michael	1
 a_young_Amy	1
 the_hippy-flavored_Jesus	1
-VBD_RB_VB
-did_n't_help	1
+NNS_VBP_RB
+concerts_are_best	1
 ,_CC_VBD
 ,_or_did	1
 IN_NNP_POS
@@ -403,10 +401,10 @@ n't_help_with	1
 PRP_VBD_PRP
 they_gave_him	1
 I_thought_he	1
-NNS_VBP_RB
-concerts_are_best	1
-RB_VBD_IN
-really_came_of	1
+PRP_VBZ_IN
+it_'s_out	1
+NNS_,_IN
+keyboards_,_before	1
 NN_,_WDT
 concert_,_which	1
 JJ_NN_VBD
@@ -425,8 +423,6 @@ RB_,_NNP
 too_,_Vince	1
 ,_PRP$_JJ
 ,_his_droll	1
--LRB-_DT_NN
--LRB-_no_doubt	1
 CC_VBD_PRP$
 or_did_her	1
 PRP$_JJ_NNS
@@ -439,16 +435,12 @@ VBZ_IN_DT
 shines_in_this	1
 PRP_VB_WRB
 me_wonder_why	1
-NN_-LRB-_WDT
-limelight_-LRB-_that	1
 NN_NNS_,
 playing_keyboards_,	1
 VBN_IN_DT
 influenced_by_the	1
 RB_WRB_PRP
 best_when_she	1
-NNS_-RRB-_TO
-'70s_-RRB-_to	1
 CC_RB_IN
 and_not_on	1
 VBP_DT_NN
@@ -496,8 +488,8 @@ NNP_NN_IN
 VHS_copy_for	1
 IN_CC_DT
 with_both_the	1
-PRP_VBZ_IN
-it_'s_out	1
+VB_NNP_DT
+give_Amy_a	1
 NNP_POS_NNS
 Amy_'s_concerts	1
 CC_JJ_,
@@ -533,8 +525,6 @@ VB_NNS_,
 change_outfits_,	1
 PRP_VBZ_CC
 She_'s_both	1
--RRB-_TO_RBR
--RRB-_to_more	1
 DT_JJ_NN
 this_early_stage	1
 the_first_place	1
@@ -542,14 +532,8 @@ a_decent_price	1
 a_Christian_performer	1
 The_only_downside	1
 the_middle_section	1
-VBZ_DT_NN
-infuses_every_song	1
-is_a_must-have	1
-'s_a_treat	1
-DT_NNS_-RRB-
-the_'70s_-RRB-	1
-PRP$_NN_IN
-her_interaction_with	1
+JJ_NNP_RB
+22-year-old_Amy_absolutely	1
 ''_NN_CC
 ''_album_and	1
 WDT_VBZ_PRP
@@ -588,9 +572,9 @@ RB_IN_NN
 not_on_DVD	1
 TO_VB_PRP$
 to_see_their	1
-JJ_NNP_RB
-22-year-old_Amy_absolutely	1
-,_WDT_VBZ
-,_which_makes	1
+VBZ_DT_NN
+infuses_every_song	1
+is_a_must-have	1
+'s_a_treat	1
 NNP_NNP_IN
 Jesus_Movement_of	1

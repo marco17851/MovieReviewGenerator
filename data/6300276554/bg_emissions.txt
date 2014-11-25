@@ -47,6 +47,8 @@ do_,	1
 IN_``
 OF_``	1
 for_``	1
+VBP_.
+do_.	1
 VBP_CD
 'm_57	1
 VBG_VBN
@@ -93,14 +95,13 @@ who_have	1
 WHO_PREFER	1
 WP_VBZ
 who_does	1
-._-RRB-
-!_-RRB-	2
 NNP_CC
-Disney_and	2
 Hiragana_or	1
-Indies_and	1
-VHS_and	1
+Disney_and	2
 Eisner_and	1
+Indies_and	1
+!!_And	1
+VHS_and	1
 RBS_JJ
 most_innocent	1
 :_NN
@@ -161,8 +162,8 @@ anything_this	1
 reading_this	1
 Root_the	1
 release_this	1
-JJR_-RRB-
-lower_-RRB-	1
+WDT_RB
+whatever_probably	1
 TO_DT
 to_the	1
 to_that	1
@@ -183,15 +184,14 @@ be_friends	2
 VB_NNP
 be_O.K.	1
 outlive_Eisner	1
-FW_VB
-<br />_thank	1
 PRP_WP
 YOU_WHO	1
-VBD_JJ
-were_free	1
-was_available	1
-were_true	1
-were_kind	1
+CC_IN
+and_that	1
+and_through	1
+and_by	1
+and_for	1
+and_in	1
 VBP_TO
 want_to	2
 PRP$_NNS
@@ -365,6 +365,7 @@ story_and	1
 light_and	1
 movie_and	1
 child_and	2
+video_and	1
 elsewhere_and	1
 time_but	1
 grandson_and	1
@@ -382,6 +383,8 @@ DT_JJS
 the_most	1
 DT_JJR
 THE_<	1
+JJR_DT
+lower_the	1
 WP_JJ
 what_wonderful	1
 NN_JJ
@@ -399,7 +402,6 @@ PUT_OUT	1
 Tom_Ridge	2
 COME_CLOSE	1
 Next_Generation	1
-<p>_Walt	1
 Sing-A-Long_Songs	1
 PUT_IT	1
 NOT_EVEN	1
@@ -487,9 +489,6 @@ VB_WP
 know_what	1
 enjoy_what	1
 decide_what	1
--LRB-_CC
--LRB-_And	1
--LRB-_and	2
 RB_WRB
 exactly_how	1
 aloud_when	1
@@ -700,14 +699,9 @@ IN_.
 about_!	1
 with_.	1
 since_.	1
-FW_FW
-fOR_ANYONE	1
-<br />_<br />	1
-WHERE_CAN	1
-<br />_Write	1
-INSANE_!!	1
 PRP_.
 YOU_!	1
+me_.	1
 it_.	2
 them_.	1
 PRP_,
@@ -717,6 +711,7 @@ it_,	1
 CC_VBP
 and_have	1
 NNP_WDT
+ANGLO_THAT	1
 South_that	1
 PRP_VB
 I_be	1
@@ -758,6 +753,7 @@ mad_.	1
 strong_.	1
 :_VB
 -_please	1
+..._thank	1
 VBN_IN
 had_by	1
 viewed_as	1
@@ -771,12 +767,11 @@ loved_in	1
 banned_from	1
 deprived_of	1
 disappointed_that	1
-CC_IN
-and_that	1
-and_through	1
-and_by	1
-and_for	1
-and_in	1
+VBD_JJ
+were_free	1
+was_available	1
+were_true	1
+were_kind	1
 MD_PRP
 can_it	1
 Should_I	1
@@ -796,8 +791,6 @@ liberal_Hollywood	1
 boy_CAN	1
 man_CAN	1
 FAMILY_ENTERTAINMENT	1
-WDT_-LRB-
-whatever_-LRB-	1
 ,_JJ
 ,_great	1
 ,_gentle	1
@@ -807,8 +800,6 @@ CD_CC
 72_and	1
 IN_JJS
 on_most	1
--RRB-_.
--RRB-_.	2
 VBZ_FW
 IS_INSANE	1
 :_DT
@@ -860,8 +851,13 @@ VBP_VBG
 are_passing	1
 POS_VBP
 's_are	1
-JJS_IN
-most_of	1
+NNS_VBD
+means_did	1
+stories_were	1
+songs_came	1
+slaves_were	3
+parents_grew	1
+overtones_turned	1
 EX_VBZ
 there_is	1
 There_'s	1
@@ -899,10 +895,6 @@ minutes_long	1
 perversions_yet	1
 JJ_EX
 threadbare_there	1
-,_RB
-,_even	1
-,_too	1
-,_here	1
 JJS_.
 most_.	1
 JJS_,
@@ -1004,8 +996,6 @@ film_that	1
 film_from	1
 alot_of	2
 ALL_IN	1
-VB_-RRB-
-sit_-RRB-	1
 CC_DT
 and_a	1
 but_a	1
@@ -1017,6 +1007,7 @@ NNS_PRP
 people_they	1
 NN_VBG
 story_telling	1
+life_including	1
 crap_being	1
 whitebread_upbringing	1
 grandmother_trying	1
@@ -1092,7 +1083,6 @@ still_hopes	1
 ``_blacklisted	1
 VB_PRP
 tell_them	1
-<br />_They	1
 believe_me	1
 find_it	1
 buy_it	1
@@ -1186,8 +1176,6 @@ withdraw_this	1
 promote_any	1
 celebrate_the	1
 have_a	2
--LRB-_VBG
--LRB-_including	1
 WRB_DT
 How_a	1
 when_the	1
@@ -1261,8 +1249,10 @@ movie_should	1
 DT_``
 a_``	1
 the_``	2
--LRB-_WDT
--LRB-_THAT	1
+,_RB
+,_even	1
+,_too	1
+,_here	1
 VBZ_NN
 Makes_NO	1
 IS_ALL	1
@@ -1289,14 +1279,10 @@ So_please	1
 never_see	1
 n't_have	1
 n't_know	1
-IN_IN
-out_of	1
-because_of	2
-as_if	1
-that_despite	1
-so_that	1
-on_because	1
-that_because	1
+FW_FW
+INSANE_!!	1
+WHERE_CAN	1
+fOR_ANYONE	1
 ,_``
 ,_``	2
 VBZ_WP
@@ -1326,8 +1312,6 @@ actors_,	1
 ,_VBP
 ,_am	1
 ,_do	2
--RRB-_DT
--RRB-_the	1
 VBD_NNS
 had_Aunts	1
 VBD_NNP
@@ -1376,8 +1360,6 @@ only_Disney	1
 ''_but	1
 ''_and	3
 ''_or	1
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 making_it	1
 reading_them	1
@@ -1398,8 +1380,11 @@ childhood_I	1
 botht_he	1
 belief_it	1
 WAY_YOU	1
-VBP_-RRB-
-do_-RRB-	1
+VB_PRP$
+want_your	1
+show_my	1
+til_its	1
+open_their	1
 ._.
 !_.	2
 ._.	7
@@ -1468,10 +1453,6 @@ stop_making	1
 ,_that	1
 VB_VBP
 please_do	1
-WDT_VBP
-that_be	1
-that_are	1
-THAT_THIS	1
 UH_,
 yes_,	1
 TO_JJ
@@ -1567,9 +1548,10 @@ that_has	1
 which_includes	1
 POS_,
 's_,	2
-NN_-LRB-
-video_-LRB-	1
-life_-LRB-	1
+WDT_VBP
+that_be	1
+that_are	1
+THAT_THIS	1
 ,_VB
 ,_see	1
 VBP_VB
@@ -1589,8 +1571,6 @@ this_?	1
 all_.	1
 VBG_RP
 blowing_up	1
--LRB-_RB
--LRB-_probably	1
 NNS_NNS
 gays_rights	1
 children_songs	1
@@ -1611,6 +1591,14 @@ almost_35-year	1
 very_good	1
 so_MANY	1
 so_much	1
+IN_IN
+out_of	1
+because_of	2
+as_if	1
+that_despite	1
+so_that	1
+on_because	1
+that_because	1
 CD_DT
 one_another	1
 TO_NNP
@@ -1637,8 +1625,6 @@ be_even	1
 VB_RP
 available.Keep_up	1
 Wake_up	1
-PRP_-RRB-
-me_-RRB-	1
 JJ_WRB
 Strange_how	1
 NN_RBR
@@ -1684,7 +1670,7 @@ black_and	1
 beaten_and	1
 good_and	1
 kind_and	1
-old_and	1
+old_and	2
 timeless_and	1
 free_but	1
 CD_.
@@ -1693,13 +1679,6 @@ one_.	1
 57_.	1
 WRB_VBZ
 why_is	1
-VB_PRP$
-want_your	1
-show_my	1
-til_its	1
-open_their	1
-JJ_-LRB-
-old_-LRB-	1
 POS_NN
 's_film	1
 TO_NN
@@ -1838,8 +1817,6 @@ great_classic	1
 35-year_interracial	1
 VBN_PRP
 found_it	1
-:_FW
-..._<br />	1
 WRB_JJ
 how_pure	1
 ,_CC
@@ -1886,16 +1863,8 @@ songs_reminds	1
 VBD_PRP$
 took_my	1
 got_our	1
-NNP_-LRB-
-!!_-LRB-	1
-ANGLO_-LRB-	1
-NNS_VBD
-means_did	1
-stories_were	1
-songs_came	1
-slaves_were	3
-parents_grew	1
-overtones_turned	1
+JJS_IN
+most_of	1
 NNS_VBG
 movies_showing	1
 people_killing	1
@@ -2033,7 +2002,6 @@ SOOOO_enjoyed	1
 NNP_POS
 USA_'s	1
 NN_RB
-<br />_Here	1
 someone_always	1
 tradition_orally	1
 dud_really	1
@@ -2082,10 +2050,11 @@ will_children	1
 VB_CD
 love_one	1
 VB_CC
-make_and	1
 see_and	1
 admire_and	1
 relent_and	1
+make_and	1
+sit_and	1
 share_and	1
 NNP_DT
 Christmas_a	1

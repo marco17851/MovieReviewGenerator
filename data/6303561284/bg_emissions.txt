@@ -47,6 +47,8 @@ a_kid	1
 PRP_VBP
 I_'m	1
 I_'ve	1
+RB_DT
+now_The	1
 PRP_VBZ
 It_is	1
 It_'s	1
@@ -74,9 +76,6 @@ NNP_.
 Nickelodeon_.	1
 CC_VBZ
 and_is	1
-FW_FW
-<br />_<br />	2
-<br />_Pssst	1
 VB_IN
 appear_on	1
 have_for	1
@@ -91,8 +90,6 @@ recorded_in	2
 done_that	1
 NNS_.
 fans_.	1
--RRB-_DT
--RRB-_The	1
 VBD_RP
 took_off	1
 NNS_:
@@ -107,8 +104,6 @@ VB_NN
 please_vote	1
 NN_NNS
 ARM_fans	1
-FW_PRP
-<br />_I	1
 JJ_DT
 such_a	1
 DT_MD
@@ -125,8 +120,6 @@ you_can	1
 ,_this	1
 VBP_VBN
 've_loved	1
--LRB-_PRP
--LRB-_I	1
 VBP_DT
 ;-RRB-_This	1
 NN_NN
@@ -221,8 +214,6 @@ very_colorful	1
 so_cheap	1
 VB_PRP
 watch_it	1
-RB_-RRB-
-now_-RRB-	1
 RB_VBN
 badly_done	1
 NN_''

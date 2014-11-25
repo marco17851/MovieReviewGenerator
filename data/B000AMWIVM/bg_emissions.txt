@@ -294,12 +294,7 @@ been_constructing	1
 been_waiting	2
 been_lacking	1
 FW_DT
-<br />_These	1
 Whenever_the	1
-<br />_An	1
-<br />_A	2
-<br />_This	7
-<br />_The	38
 ray_This	1
 JJS_''
 best_''	1
@@ -403,8 +398,6 @@ and_raw	1
 and_micro-cassette	1
 and_unlikely	2
 and_interesting	1
-``_-LRB-
-`_-LRB-	1
 VBN_VBZ
 revealed_is	1
 involved_is	1
@@ -456,10 +449,11 @@ admit_,	1
 abound_,	1
 scan_,	1
 do_,	2
-see_,	1
-know_,	2
-spooky_,	1
 gore_,	4
+know_,	2
+see_,	1
+spooky_,	1
+think_,	1
 find_,	1
 Came_,	1
 overact_,	1
@@ -518,6 +512,9 @@ RP_''
 up_''	1
 ''_TO
 ''_to	5
+LS_PRP
+1_they	1
+2_they	1
 VBP_CC
 act_and	1
 have_and	2
@@ -547,6 +544,7 @@ decapitated_.	1
 terrified_.	1
 swindled_.	1
 warned_!	1
+bound_.	1
 recommended_.	1
 heard_.	1
 surprised_.	2
@@ -563,7 +561,7 @@ tested_.	1
 disturbed_.	1
 VBN_,
 Granted_,	1
-finished_,	1
+given_,	2
 confused_,	1
 written_,	1
 tricked_,	1
@@ -571,6 +569,7 @@ done_,	1
 terrified_,	1
 conceived_,	1
 entertained_,	1
+named_,	1
 frightened_,	1
 misunderstood_,	1
 answered_,	1
@@ -588,7 +587,7 @@ seen_,	2
 used_,	1
 obsessed_,	1
 shown_,	1
-given_,	2
+finished_,	1
 VB_JJS
 satisfy_most	1
 cause_most	1
@@ -598,26 +597,6 @@ get_better	1
 be_better	1
 be_higher	1
 say_more	1
--LRB-_``
--LRB-_``	2
--LRB-_`	2
--LRB-_RB
--LSB-_maybe	1
--LRB-_Incidentally	1
--LRB-_presumably	1
--LRB-_thus	1
--LRB-_mostly	1
--LRB-_especially	1
--LRB-_much	1
--LRB-_just	2
--LRB-_ever	1
--LRB-_finally	1
--LRB-_often	1
--LRB-_even	3
--LRB-_badly	1
--LRB-_closely	1
--LCB-_not	1
--LRB-_sadly	1
 WDT_MD
 that_might	1
 that_would	1
@@ -675,13 +654,6 @@ becomes_one	1
 wants_one	1
 reaches_6:00	1
 involves_two	1
-PRP_NN
-me_review	1
-it_story	1
-myself_second-guessing	1
-they_dawn	1
-them_credit	1
-you_laugh	1
 VBZ_CC
 opens_and	1
 works_and	1
@@ -728,8 +700,6 @@ things_that	1
 expressions_that	1
 WRB_TO
 how_to	2
--RRB-_FW
--RRB-_<br />	1
 DT_FW
 the_CG	1
 RB_JJS
@@ -783,7 +753,7 @@ out_!	3
 on_.	2
 out_.	9
 off_.	1
-up_.	2
+up_.	3
 in_.	2
 RP_,
 out_,	5
@@ -858,41 +828,37 @@ who_plays	2
 who_tries	1
 what_is	3
 who_tortures	1
--RRB-_MD
--RRB-_would	1
 ``_UH
 ``_Please	1
 ``_Wow	1
 ``_No	1
 ``_Yes	1
--RRB-_,
--RRB-_,	34
--RRB-_.
--RRB-_.	25
--RSB-_.	1
 NNP_CC
-Glover_and	3
+Glover_and	6
 Law_and	1
 Seven_or	1
 SEVEN_and	1
+Tights_and	2
 photographer_and	1
 Jason_or	1
 Bell_and	1
 Saw_or	1
+Shield_and	1
 Lawrence_but	1
 Lawrence_and	8
-Gordon_and	1
+Gordon_and	2
 Deathtrap_and	1
 Whannel_and	1
 Horizon_or	1
 Meyer_and	1
 Lies_and	1
 Bride_and	1
-Elwes_and	5
+Elwes_and	10
 Saw_and	1
 Wan_and	6
 Story_and	1
 Whannell_and	2
+Potter_and	2
 Pitt_and	1
 Leigh_or	1
 Jason_and	1
@@ -904,10 +870,13 @@ Seven_and	1
 Holmes_and	1
 Porter_but	1
 NNP_CD
+Saw_2004	1
+Mask_2	1
+October_2005	1
 Saw_2	3
+Hellraiser_I	1
 August_08,2010	1
 Jigsaw_one	1
-Mask_2	1
 WP_MD
 What_can	1
 who_could	3
@@ -926,16 +895,16 @@ who_may	2
 VBN_WDT
 seen_that	1
 JJ_RBR
+informed_more	1
 little_less	1
 RP_VBZ
 out_is	1
--LRB-_VBD
--LRB-_did	1
 RP_VBG
 up_loving	1
 up_taking	1
 out_knowing	1
 up_sawing	1
+out_being	1
 up_being	1
 up_making	1
 JJR_NNS
@@ -943,14 +912,6 @@ more_movies	1
 more_ways	1
 more_reviews	1
 better_films	2
-VB_-LRB-
-act_-LRB-	1
-follow_-LRB-	1
-Sing_-LRB-	2
-play_-LRB-	1
--RRB-_:
--RRB-_...	2
--RSB-_...	1
 RBS_JJ
 most_striking	1
 most_horrific	1
@@ -968,9 +929,10 @@ most_original	2
 most_disturbing	1
 most_horrifying	1
 most_famous	1
-''_-LRB-
-''_-LRB-	2
-'_-LRB-	1
+RP_VBN
+out_soiled	1
+VB_WDT
+follow_which	1
 :_NN
 :_Best	1
 ..._puzzler	1
@@ -980,8 +942,6 @@ most_famous	1
 :_Men	1
 ..._car	1
 ..._nothing	1
--LRB-_FW
--LRB-_i	1
 IN_PRP$
 of_your	5
 on_our	3
@@ -1060,6 +1020,7 @@ Traps_his	1
 NN_VB
 life_depend	1
 perp_win	1
+saw_let	1
 jaw_drop	1
 audience_make	1
 stomach_turn	1
@@ -1311,7 +1272,7 @@ get_into	1
 walk_into	1
 come_into	1
 smell_through	1
-play_in	2
+play_in	3
 remain_with	1
 elaborate_on	1
 disturb_if	1
@@ -1360,6 +1321,8 @@ sure_it	1
 much_it	1
 stupid_you	1
 glad_I	3
+unnecessary_they	1
+dead_I	1
 first_it	1
 glad_you	1
 long_it	1
@@ -1368,14 +1331,13 @@ wise_I	1
 sure_you	1
 good_it	1
 psychological_it	1
+engrossing_I	1
 in-between_them	1
 ``_VBP
 ``_Do	1
 ,_''
 ,_''	17
 ,_'	1
-VBG_RBR
-being_more	1
 VBD_RB
 got_there	4
 knew_exactly	1
@@ -1418,6 +1380,7 @@ were_very	1
 had_just	1
 was_independently	1
 went_out	1
+waited_instead	1
 was_not	4
 was_pleasantly	2
 was_once	1
@@ -1448,11 +1411,13 @@ downgrade_the	1
 performance_the	1
 situation_a	1
 tone_this	1
+scene_the	1
 doubt_the	1
 way_the	1
 promise_all	1
 instance_the	1
 film_the	2
+movie_another	1
 film_this	1
 time_the	1
 extent_a	1
@@ -1461,18 +1426,20 @@ night_all	1
 ~_The	1
 cause_no	1
 manner_no	1
-insanity.Through_the	1
+Lambs_the	1
 movie_a	1
 weekend_the	1
 ordeal_the	1
 delight_the	1
 suspense_a	1
 hope_this	1
-fact_this	1
+ending_no	1
+flick_The	1
 originality_every	1
-movie_another	1
+fact_this	1
+insanity.Through_the	1
+none_the	1
 creation_the	1
-genre_a	1
 conversation_the	1
 room_a	1
 story_a	1
@@ -1488,13 +1455,11 @@ impression_the	1
 scene_a	1
 bathroom_both	1
 person_this	1
-none_the	1
+genre_a	1
 POS_TO
 's_to	1
 VBN_JJR
 given_more	1
-JJR_-RRB-
-more_-RRB-	1
 WDT_RB
 that_just	1
 that_often	1
@@ -1530,7 +1495,6 @@ thing_two	1
 Predator_2	1
 Cube_1	1
 SAW_I	1
-<br />_One	2
 Saw_II	1
 SAW_3	2
 Saw_2	4
@@ -1624,8 +1588,6 @@ WRB_:
 why_:	1
 PRP_JJS
 me_most	1
-DT_-LRB-
-a_-LRB-	1
 VB_NNS
 help_people	1
 get_points	1
@@ -1662,6 +1624,7 @@ kill_Adam	8
 end_Jigsaw	1
 assume_Dr.	1
 watch_Cary	1
+Sing_Ken	2
 be_Jack	1
 love_SAW	1
 make_Tobin	1
@@ -1674,7 +1637,6 @@ recommend_Saw	1
 FW_VB
 i_think	1
 i_know	2
-<br />_See	1
 VBG_JJS
 making_most	1
 VBG_JJR
@@ -1684,8 +1646,6 @@ most_cinematic	1
 least_favorite	1
 best_desperate	1
 finest_available	1
--RRB-_TO
--RRB-_to	2
 POS_JJS
 's_biggest	1
 's_filthiest	1
@@ -1747,8 +1707,6 @@ wan_to	1
 gore_to	2
 prove_to	1
 hate_to	2
-NNS_LS
-guts_i	1
 PRP$_NNS
 our_heads	1
 his_victims	20
@@ -2203,13 +2161,13 @@ happy_to	2
 powerless_to	1
 grateful_to	2
 good_to	2
+lethal_to	1
 close_to	1
 many_to	1
 evident_to	1
 ungrateful_to	2
 straight_to	1
 unable_to	4
-possible_to	1
 dumb_to	1
 due_to	1
 weak_to	1
@@ -2218,7 +2176,7 @@ sorry_to	3
 willing_to	3
 unsettling_to	1
 bad_to	1
-<br />_to	1
+possible_to	1
 available_to	1
 similar_to	1
 ready_to	1
@@ -2243,6 +2201,7 @@ developments_implausible	1
 scores_big	1
 methods_tasty	1
 shows_such	1
+vices_first	1
 pipes_adjacent	1
 survivors_novel	1
 men_chained	6
@@ -2250,26 +2209,8 @@ scenes_raw	1
 families_captive	1
 goals_subtle	1
 films_such	1
-FW_NNS
-<br />_Comments	1
-<br />_Spoilers	1
 FW_NNP
-<br />_My	1
-<br />_Let	1
-<br />_First	2
-<br />_Cary	3
-<br />_Director	1
-<br />_Dr.	1
-<br />_Overall	3
-<br />_Carey	2
-<br />_Danny	1
 yada_Saw	1
-<br />_Dammit	1
-<br />_August	1
-<br />_Lionsgate	1
-<br />_Grade	1
-<br />_Adam	1
-<br />_Beyond	1
 WDT_DT
 which_the	3
 which_a	1
@@ -2308,6 +2249,7 @@ this_we	1
 all_he	1
 all_I	1
 this_it	1
+a_I	1
 DT_NNS
 the_movies	2
 the_theaters	1
@@ -2711,15 +2653,13 @@ understand_how	2
 make_when	1
 learn_how	2
 know_how	2
-PRP_-LRB-
-he_-LCB-	1
-it_-LRB-	1
-WRB_MD
-why_would	1
-why_ca	1
-Why_would	1
-When_will	1
-how_could	1
+PRP_NN
+me_review	1
+it_story	1
+myself_second-guessing	1
+they_dawn	1
+them_credit	1
+you_laugh	1
 VBD_DT
 was_all	1
 LOVED_this	1
@@ -2810,6 +2750,7 @@ sequels_but	1
 details_and	1
 ideas_and	1
 shots_and	1
+Troopers_and	1
 supporters_and	1
 films_but	2
 remakes_or	1
@@ -2828,6 +2769,7 @@ times_and	4
 words_and	1
 parts_and	1
 guts_and	1
+elements_But	1
 obsessions_and	1
 flashbacks_and	1
 scenes_and	1
@@ -2872,12 +2814,9 @@ crimes_and	1
 recollections_and	1
 traps_and	2
 films_or	1
-VBN_-RRB-
-granted_-RSB-	1
-bound_-RRB-	1
-named_-RRB-	1
 NNS_CD
 parts_2-4	1
+acts_two	1
 Parts_2-4	1
 ,_VB
 ,_mind	1
@@ -2906,8 +2845,6 @@ Parts_2-4	1
 ,_gore	2
 ,_rent	1
 ,_'cause	1
--RRB-_-RRB-
--RRB-_-RRB-	2
 VBN_PRP
 seen_it	5
 released_it	1
@@ -2929,15 +2866,16 @@ JJR_VB
 heavier_gore	1
 VBP_IN
 are_on	1
+cut_through	1
 decide_that	1
 act_in	1
 am_in	1
-cut_through	1
+!!_at	1
 're_into	2
 are_in	2
 bite_that	1
 learn_that	1
-gore_in	2
+think_that	1
 conclude_that	1
 talk_about	1
 play_with	1
@@ -2947,7 +2885,7 @@ recommend_that	1
 remember_that	1
 guarantee_that	1
 go_through	2
-think_that	1
+gore_in	2
 pile_on	1
 watch_for	1
 star_in	1
@@ -2984,11 +2922,10 @@ unfold_at	1
 'm_about	1
 mean_before	1
 learn_about	1
-JJR_-LRB-
-higher_-LRB-	1
 NN_CC
 wife_&	1
 disc_and	1
+course_and	1
 excitement_and	1
 bathroom_and	3
 arm_or	1
@@ -3011,6 +2948,7 @@ wire_and	1
 horror_and	2
 turn_and	2
 survival_but	1
+Thunder_and	1
 edit_and	1
 horror_but	1
 flesh_and	1
@@ -3021,6 +2959,7 @@ tool_or	1
 originality_and	3
 leg_and	1
 DEAL_AND	1
+go_and	1
 acting_and	7
 life_or	1
 favor_and	1
@@ -3040,6 +2979,7 @@ CUBE_and	1
 movie_and	9
 life_and	3
 slasher_and	1
+acting_but	1
 whodunit_and	1
 matter_and	2
 logic_and	1
@@ -3090,6 +3030,7 @@ thought_and	1
 abducted_and	1
 anyone_and	1
 player_and	1
+screenplay_and	1
 flick_but	1
 song_and	1
 room_and	2
@@ -3100,7 +3041,7 @@ fee_and	1
 dark_and	1
 story_and	1
 savagery_and	1
-blood_and	6
+blood_and	7
 writing_and	1
 making_and	1
 voice_and	1
@@ -3197,9 +3138,6 @@ whose_M.O.	1
 RBR_PRP
 more_I	1
 better_I	1
--RRB-_WP
--RRB-_who	1
--RCB-_who	1
 WP$_NNS
 whose_obsessions	1
 WP_JJ
@@ -3226,10 +3164,12 @@ plot_wise	1
 movie_scary	1
 SAW_other	1
 something_satisfying	1
+way_frightening	1
 anything_worth	1
 anything_special	1
 past_tense	1
 bit_amateur	1
+nothing_okay	1
 part_one-the	1
 door_wide	1
 PG-13_Japanese	1
@@ -3251,7 +3191,8 @@ mind_next	1
 bit_unrestrained	1
 tad_confusing	1
 originality_explicit	1
-way_frightening	1
+buyer_sorry	1
+S_awful	1
 RB_EX
 then_there	2
 So_there	1
@@ -3266,30 +3207,36 @@ Jigsaw_stages	1
 Ray_discs	1
 NNP_NNP
 I_Saw	1
-<br />_Writer	1
 Dario_Argento	1
+Elwes_Dr.	1
+Jigsaw_Tobin	2
 Vincenzo_Natali	1
 John_Doe	1
 Keanu_Reeves	1
 Trent_Reznor	1
 Well_I	1
 I_Never	1
+Gordon_Cary	1
 Aleister_Crowley	1
 Lawrence_Gordon	4
 Stephen_King	1
 Texas_Chainsaw	1
 Morgan_Freeman	1
-<br />_<br />	4
+Steven_Sing	1
 Blu_Ray	2
 Boston_Legal	1
+Whannell_Adam	1
 David_Mamet	2
 Michael_Meyers	1
-Det._David	1
 ??_Seriously	1
+Det._David	1
+Smith_Saw	1
+Rob_SAW	1
 George_Michael	1
 The_Lethal	1
 Matrix_Reloaded	1
 Tvs_Becker	1
+Elwes_The	3
 Lethal_Weapon	5
 John_Kramer	1
 Wes_Craven	1
@@ -3298,32 +3245,33 @@ Artificial_Intelligence	1
 Jack_Nicholson	1
 Sherlock_Holmes	1
 Rush_Hour	2
-Steven_Sing	1
 Razor_Eaters	1
+Whannell_Razor	1
 writer/actor_Leigh	1
 Saw_This	1
-<br />_No	1
+Martinez_TV	1
 !!_This	1
 Reservoir_Dogs	1
+Potter_Tv	1
 Hood_Men	2
-Clarice_Starling	1
+Tapp_Danny	3
 James_Wan	13
 Chainsaw_Massacre	1
 Det._Steven	1
+Diana_Makenzie	1
 John_Carpenter	1
 !!!!_This	1
 Wish_I	1
+Martinez_Tv	1
 A_Spider	1
 Dr._Lawrence	5
 Edward_Albee	1
 Leigh_Whannell	16
 Grand_Canyon	1
-<br />_<a href="http://www.amazon.com/gp/product/1419654047">	1
 Doctor_Gordon	2
-<br />_My	1
+Alison_Monica	1
 Saw_II	2
 Dina_Meyer	3
-Leigh_Wannell	2
 Grand_Guignol	1
 The_Cell	1
 Bottom_Line	1
@@ -3334,43 +3282,51 @@ Emergency_Room	1
 Color_Purple	1
 Saw_IV	1
 A_Cut	1
-See_Saw	1
+Bell_Black	1
+Glover_Grand	1
+Lawrence_Cary	3
 David_Tapp	1
 ~_Rob	1
+<a href="http://www.amazon.com/gp/product/1419654047">_The	1
 Makenzie_Vega	1
 Robbie_Van	1
 Event_Horizon	2
 Black_Mask	1
 David_Fincher	2
-<br />_Well	1
 Flying_Zombie	1
 Zombie_Death	1
 Dr._Gordon	5
 THe_Pelican	1
+Meyer_Starship	1
 In_Tights	2
+Nicholson_Oscar	1
+Leung_Rush	2
+Men_In	2
+Adam_Whannell	2
 co-writer_Leigh	2
 Monica_Potter	7
 Shawnee_Smith	4
 Cary_Ewles	1
+Lawrence_Elwes	1
 HAVE_EYES/any	1
 Over_Heels	1
 In_Seattle	1
 Rob_Zombie	1
 Head_Over	1
+Glover_The	1
 </a>_This	1
 American_Film	1
 Hannibal_Lecter	2
 Never_Saw	1
+Sing_Ken	1
 NYPD_Blue	1
-<br />_Whether	1
 Leigh_Whannel	1
-R._Saw	1
+R._Saw	2
 Anthony_Hopkins	2
 HOSTEL/HILLS_HAVE	1
+Meyer_Saw	1
 Benito_Martinez	2
-<br />_Overall	1
-<br />_Intense	1
-<br />_But	1
+Cold_Play	1
 The_Shield	1
 High_Tension	1
 Doctor_Lawrence	1
@@ -3379,7 +3335,8 @@ Van_Winkle	1
 !!_Sorry	1
 The_Curse	1
 Dr._Gordan	2
-<br />_Saw	2
+Bell_THe	1
+Leung_Vanilla	1
 Carey_Elwes	4
 Danny_Glover	30
 Monica_Porter	1
@@ -3387,27 +3344,28 @@ Sleepless_In	1
 The_Princess	3
 Will_Lawrence	2
 Lawrence_Gordan	1
-Men_In	2
+Clarice_Starling	1
 Mr._Glover	1
 Mr._Hindel	1
 Tobin_Bell	10
-R._<br />	1
+Leigh_Wannell	2
 Cary_Elwes	29
 Came_A	1
 Vanilla_Sky	1
-Cold_Play	1
 Madness_</a>	1
 Zork_I	1
+Adam_Leigh	4
 Twisted_Pictures	2
 Princess_Bride	8
+Gordon_Elwes	1
 Cut_Above	1
-<a href="http://www.amazon.com/gp/product/1419654047">_The	1
+See_Saw	1
 My_Rating	1
 Director_James	2
 *****_This	1
 Roger_Murtaugh	1
 Underground_Empire	1
-<br />_Plus	1
+Glover_Lethal	1
 JJR_:
 worse_...	1
 better_...	1
@@ -3462,18 +3420,12 @@ easier_,	1
 better_,	3
 higher_,	1
 smaller_,	1
--LRB-_JJ
--LRB-_sorry	1
--LRB-_okay	1
 JJR_$
 <_$	1
 RP_WRB
 out_why	2
 out_how	3
 up_where	1
-VBN_WRB
-Given_how	1
-seen_how	1
 VBN_CC
 rescued_and	1
 seen_and	1
@@ -3484,7 +3436,7 @@ sprung_and	1
 eliminated_or	1
 occurred_but	1
 scared_and	2
-killed_or	1
+killed_or	2
 produced_and	1
 overdone_but	1
 anticipated_and	1
@@ -3526,18 +3478,11 @@ introduced_to	2
 compared_to	2
 drawn_to	1
 destined_to	1
-POS_VBG
-'s_twisting	1
-VBG_-LRB-
-wailing_-LRB-	1
-surviving_-LRB-	1
 WDT_NNP
 What_Jigsaw	1
 which_Adam	1
-VBP_FW
-!!_<br />	1
-TO_-LRB-
-to_-LRB-	2
+RBR_TO
+closer_to	1
 IN_DT
 with_another	1
 As_a	1
@@ -3765,22 +3710,13 @@ whatever_satelite/fiber	1
 JJR_RB
 better_yet	1
 VBN_CD
-seen_thirty	1
 been_one	1
+shot_18	1
+seen_thirty	1
 seen_SEVEN	1
 realized_one	1
-LS_-RRB-
-1_-RRB-	1
-2_-RRB-	1
 VBG_''
 Coming_'	1
--LRB-_CD
--LRB-_18	1
--LRB-_I	1
--LRB-_two	1
--LRB-_1	1
--LRB-_2005	1
--LRB-_2004	1
 VB_WP
 appreciate_what	2
 explain_what	2
@@ -3791,23 +3727,6 @@ know_what	3
 see/guess_what	1
 understand_what	1
 do_what	1
--LRB-_CC
--LRB-_or	3
--LCB-_or	1
--LRB-_and	1
-NNS_-LRB-
-acts_-LRB-	1
-lights_-LRB-	1
-flaws_-LRB-	1
-protagonists_-LRB-	1
-men_-LRB-	1
-performances_-LRB-	1
-pockets_-LRB-	1
-victims_-LSB-	1
-lines_-LRB-	1
-sequels_-LRB-	2
-movies_-LRB-	1
-flicks_-LRB-	1
 RB_WRB
 here_where	1
 Just_where	1
@@ -3818,6 +3737,7 @@ too_When	1
 again_when	1
 just_when	2
 Even_when	1
+away_when	1
 together_when	1
 CD_POS
 90_'s	1
@@ -3901,7 +3821,7 @@ either_,	2
 no_,	1
 Sure_,	4
 violently_,	1
-n't_,	3
+n't_,	4
 entirely_,	1
 So_,	5
 RB_.
@@ -3911,7 +3831,7 @@ dramatically_.	1
 away_?	2
 lately_.	1
 ahead_.	1
-ever_.	1
+ever_.	2
 straight_.	1
 appropriately_.	1
 first_.	1
@@ -3980,42 +3900,17 @@ jumped_one	1
 was_one	1
 RP_NNP
 out_Saw	2
--RRB-_LS
--RRB-_i	1
-NNP_-RRB-
-Rob_-RCB-	1
-Spider_-RRB-	1
-Wan_-RRB-	1
-Gordon_-RRB-	1
-Intelligence_-RRB-	1
-Smith_-RRB-	1
-Vega_-RRB-	1
-Glover_-RRB-	5
-HBO_-RRB-	1
-Reloaded_-RRB-	1
-Shield_-RRB-	2
-Bell_-RRB-	2
-Adam_-RRB-	1
-Amazon_-RRB-	1
-Heels_-RRB-	1
-Becker_-RRB-	1
-Potter_-RRB-	2
-Leung_-RRB-	3
-Elwes_-RRB-	7
-Sky_-RRB-	1
-Whannell_-RRB-	6
-Tights_-RRB-	2
-Elwes_-RSB-	1
 NNPS_CC
 Games_and	1
 NNS_DT
 theaters_this	1
 times_a	1
-buttons_a	1
+pockets_the	1
 movies_a	1
 movies_these	1
 scenarios_all	1
 ways_the	2
+buttons_a	1
 films_these	1
 people_the	1
 channels_the	1
@@ -4025,6 +3920,7 @@ RB_:
 Well_...	1
 ago_-	1
 before_...	1
+yet_...	1
 strongly_-	1
 enough_...	1
 off_-	1
@@ -4032,9 +3928,6 @@ well_...	1
 soon_...	1
 TO_.
 to_.	3
--RRB-_WRB
--RRB-_Why	1
--RRB-_when	1
 TO_,
 to_,	1
 WRB_PRP
@@ -4063,15 +3956,8 @@ how_you	2
 how_he	3
 why_they	9
 When_they	1
-CD_-RRB-
-1_-RRB-	1
-2_-RRB-	2
-II_-RRB-	1
-2004_-RRB-	1
-?!_-RRB-	1
-8_-RRB-	1
-2005_-RRB-	1
 :_IN
+..._Despite	1
 :_As	1
 ;_in	2
 ..._Before	1
@@ -4216,6 +4102,7 @@ so_it	5
 because_they	4
 as_it	6
 at_her	1
+through_I	1
 If_you	20
 If_it	2
 upon_it	1
@@ -4265,27 +4152,20 @@ about_it	7
 so_he	1
 ''_.
 ''_?	2
-''_.	8
+''_.	10
 '_?	1
 '_.	5
 ''_,
 '_,	11
 ''_,	13
-PRP_-RRB-
-me_-RRB-	1
-themselves_-RRB-	1
-it_-RRB-	1
-she_-RCB-	1
+NNS_VB
+teenagers_get	1
+lines_remember	1
 ,_FW
 ,_etc.	2
 ,_i	4
--RRB-_PRP
--RRB-_It	2
--RRB-_they	2
--RRB-_I	1
 CD_FW
-08,2010_<br />	1
-3.5_<br />	1
+3.5_Horror/Gore	1
 RB_LS
 well_i	1
 so_i	1
@@ -4309,9 +4189,9 @@ to_what	2
 ;_Carey	1
 :_Anthony	1
 :_Descent	1
+:_Saw	1
 ..._Tobin	1
 ..._Dr	1
-:_<br />	1
 PRP_VBD
 he_portrayed	1
 himself_stopped	1
@@ -4463,10 +4343,9 @@ myself_likening	1
 myself_yelling	1
 you_wondering	2
 we_going	1
-:_JJ
-..._violent	1
--_OK	1
-..._okay	1
+VB_LS
+say_i	1
+think_i	1
 DT_VBP
 both_tell	1
 both_are	1
@@ -4482,6 +4361,8 @@ these_are	1
 the_verb	1
 all_gore	1
 This_ai	1
+NN_UH
+glass_yes	1
 DT_NN
 the_beauty	1
 a_cult	1
@@ -5228,6 +5109,7 @@ through_and	1
 of_both	1
 down_and	1
 whether_or	2
+for_but	1
 WP$_JJ
 whose_sole	1
 DT_VBZ
@@ -5422,27 +5304,28 @@ a_masked	1
 those_placed	1
 the_obsessed	2
 PRP_JJ
+it_necessary	1
+myself_laughing	1
+it_hard	1
+them_chained	2
+me_impressed	1
 me_fearful	1
 you_sure	1
-you_spellbound	1
-myself_laughing	1
-it_necessary	1
 ya_next	1
+themselves_several	1
+you_quick	1
+himself_barefoot	1
+you_spellbound	1
 it_exciting	1
-me_impressed	1
+me_cold	1
+themselves_chained	3
+yourself_chained	1
 me_much	1
 you_grateful	1
-you_quick	1
-them_chained	2
+it_enough	1
 themselves_open	1
 you_stunned	1
-themselves_chained	3
-me_cold	1
 me_interested	2
-it_enough	1
-it_hard	1
-yourself_chained	1
-himself_barefoot	1
 LS_MD
 i_'ll	1
 i_can	1
@@ -5531,13 +5414,8 @@ it_ends	2
 he_discovers	1
 It_does	1
 it_ranks	1
-FW_PRP
-<br />_It	5
-!!_I	1
-<br />_it	1
-<br />_We	1
-<br />_I	18
-<br />_You	1
+IN_$
+for_$	1
 VBZ_VBP
 is_are	1
 VBP_EX
@@ -5559,7 +5437,7 @@ IN_.
 along_!	1
 that_?	1
 from_?	1
-on_.	2
+on_.	3
 in_.	2
 across_.	1
 with_.	2
@@ -5583,7 +5461,7 @@ what_motives	1
 ``_That	1
 PRP_.
 them_!	1
-me_.	11
+me_.	12
 him_.	1
 itself_.	1
 Me_.	1
@@ -5613,9 +5491,7 @@ you_,	7
 yourself_,	1
 us_,	1
 himself_,	1
-it_,	19
-FW_WP
-<br />_What	1
+it_,	20
 CC_VBP
 and_gore	1
 and_torture	1
@@ -5628,10 +5504,6 @@ and_hope	1
 and_watch	1
 and_do	2
 nor_do	1
-TO_MD
-to_will	1
-POS_-LRB-
-'s_-LRB-	1
 PRP_VB
 them_escape	1
 me_say	2
@@ -5710,9 +5582,6 @@ trigger_when	1
 GLAD_WHEN	1
 feeling_when	1
 end_where	1
-,_-LRB-
-,_-LCB-	1
-,_-LRB-	1
 VBP_RBR
 think_more	1
 become_more	1
@@ -5780,13 +5649,13 @@ and_shifting	1
 or_owning	1
 &_whimpering	1
 and_polishing	1
+RP_UH
+off_yes	1
 VB_PDT
 cause_all	1
 have_all	1
 repeat_all	1
 put_all	1
--LRB-_UH
--LRB-_yes	1
 EX_FW
 there_in	1
 CC_VBN
@@ -5936,8 +5805,8 @@ next_,	2
 own_,	2
 first_,	1
 over-the-top_,	1
-FW_EX
-<br />_There	1
+TO_JJR
+to_more	2
 JJ_.
 alive_?	1
 much_.	2
@@ -6013,6 +5882,7 @@ flawless_.	1
 safe_.	1
 teriffic_.	1
 free_.	1
+orginial_.	1
 unhappy_.	1
 stale_.	1
 secondary_.	1
@@ -6127,6 +5997,7 @@ based_on	2
 done_with	1
 told_from	1
 hidden_underneath	1
+granted_in	1
 dragged_in	1
 seen_since	1
 born_for	1
@@ -6227,9 +6098,8 @@ do_when	1
 know_why	1
 wonder_how	1
 like_how	1
-CD_-LRB-
-one_-LRB-	1
-II_-LRB-	1
+TO_MD
+to_will	1
 VBD_JJ
 had_such	1
 was_unique	1
@@ -6330,6 +6200,7 @@ with_all	1
 in_such	2
 of_all	1
 CD_``
+2004_`	1
 1976_``	1
 NN_NNS
 running_lengths	1
@@ -6346,13 +6217,14 @@ music_videos	1
 audio_tracks	1
 grade_actors	1
 Seven/Se7en_leftovers	1
+camera_tricks	1
 death_traps	1
 cassette_tapes	1
 plot_lines	1
 lighting_fixtures	1
 dozen_points	1
 adam_talks	1
-camera_tricks	1
+film_speed-ups	1
 splatter_films	1
 serial_killers	1
 par_performances	1
@@ -6396,7 +6268,7 @@ ability_limitations	1
 timing_devices	1
 mind_games	1
 Saw_movies	2
-<br />_Characters	1
+horror_franchises	1
 plot_developments	1
 heart_conditions	1
 minute_cuts	1
@@ -6411,6 +6283,7 @@ motive_stays	1
 hell_breaks	1
 gun_shots	1
 trauma_situations	1
+doctor_Ewles	1
 camera_moves	1
 video_games	1
 plot_twists	6
@@ -6440,7 +6313,6 @@ body_parts	2
 jump_scenes	1
 murder_victims	1
 slasher_fans	1
-horror_franchises	1
 murder_scenes	1
 NNP_PRP$
 Hope_my	1
@@ -6450,16 +6322,19 @@ NN_NNP
 youngster_Adam	1
 Fear_Factory	1
 director_James	6
+doctor_Cary	1
 <a href="http://www.amazon.com/gp/product/1906669023">_Sherlock	1
 movie_Phonebooth	1
 doctor_Lawrence	1
+Firm_Monica	1
 man_Adam	2
 writer/director_Leigh	1
 freelance_photographer	1
 wait_!!	1
-<br />_Story	1
 film_Elwes	1
 Best_Picture	1
+date_Shawnee	1
+cop_Danny	1
 character_John	1
 band_Tool	1
 somebody_Leigh	1
@@ -6468,14 +6343,15 @@ film_Seven	1
 voyeur_photographer	1
 button_Monica	1
 rescue_Adam	1
+detective_Danny	1
 writer_Leigh	2
 digit_IQ	1
 villain_Jigsaw	1
 friend_Robbie	1
 situation_Cary	1
-<br />_Overall	1
 way_Saw	1
 policeman_Det.	1
+wife_Monica	1
 winner_Morgan	1
 ''_RB
 ''_only	1
@@ -6506,6 +6382,7 @@ films_is	1
 films_gives	1
 people_is	1
 movies_is	2
+Ewles_has	1
 positives_is	1
 victims_is	1
 principals_is	1
@@ -6534,13 +6411,9 @@ Since_most	1
 for_best	1
 at_least	16
 POS_PRP
-'s_I	1
-POS_-RRB-
-'_-RRB-	2
-._-RRB-
-!_-RRB-	3
-._-RRB-	2
-?_-RRB-	2
+'s_I	2
+VBD_WRB
+meant_when	1
 VBZ_FW
 has_ok	1
 MD_NN
@@ -6554,14 +6427,14 @@ think_dr.	1
 ..._that	1
 -_some	1
 :_All	1
-..._a	1
+..._the	3
 :_A	1
 -_the	1
 ;_the	1
 :_the	1
-..._This	1
-..._the	3
-..._The	1
+..._This	2
+..._a	1
+..._The	3
 DT_MD
 the_could	1
 This_might	1
@@ -6631,9 +6504,6 @@ humanized_vampires	1
 VBP_VBZ
 believe_is	1
 think_is	2
-RP_-RRB-
-up_-RRB-	1
-off_-RRB-	1
 $_LS
 $_i	1
 WRB_``
@@ -6641,9 +6511,8 @@ When_`	1
 how_``	1
 RP_NNS
 up_gallons	1
--LRB-_VB
--LSB-_let	1
--LRB-_remember	1
+POS_VBG
+'s_twisting	1
 PRP_MD
 they_will	3
 I_should	3
@@ -6863,6 +6732,7 @@ its_a	2
 POS_VBP
 's_have	1
 JJ_JJR
+super-sale_<	1
 other_better	1
 JJS_IN
 least_for	1
@@ -6881,12 +6751,13 @@ there_'s	11
 there_has	2
 there_is	14
 NNS_NNP
+men_Cary	1
 scenarios_Jigsaw	1
 EX_VBP
 there_are	14
 There_are	9
--RRB-_``
--RRB-_`	1
+VBG_RBR
+being_more	1
 NNS_RP
 things_up	1
 legs_off	1
@@ -6945,6 +6816,7 @@ killer_thriller	1
 motion_picture	1
 head_split	1
 video_game	1
+single-layer_25GB	1
 slasher_horror	1
 drug_addict	1
 cassette_tape	2
@@ -6972,8 +6844,9 @@ name_make	1
 laughing_clown	1
 horror_film	23
 theater_version	1
-camera_effect	1
+plot_device	2
 set_design	1
+camera_effect	1
 cult_hit	1
 stomach_turn	1
 cult_film	1
@@ -6982,12 +6855,14 @@ horror/thriller_type	1
 make_sense	1
 college_age	1
 group_shower	1
+rebuttal_Ok	1
 Best_Director	1
 character_actor	1
 fun_viewing	1
 watch_SAW	1
 cellar_bathroom	1
 intercom_system	1
+motion_example	1
 girl_scene	1
 type_sound	1
 suspense_factor	1
@@ -7007,7 +6882,6 @@ blood_lust	1
 crime_film	1
 production_company	1
 story_line	2
-<br />_A	1
 slasher_movie	1
 motion_effect	1
 doll_scene	1
@@ -7035,6 +6909,7 @@ A_lot	1
 video_concept	1
 horror_thriller	1
 director_Wan	1
+passer_catch	1
 warehouse_bathroom	1
 sewer_bathroom	1
 action_fare	1
@@ -7062,6 +6937,7 @@ tape_deck	1
 age_horror	1
 Con_Air	1
 adventure_video	1
+puppermaster_motivation	1
 film_thinking	1
 time_writer	1
 DTS-HD_master	1
@@ -7085,6 +6961,7 @@ Saw_movie	1
 amount_ot	1
 background_information	1
 surprise_ending	2
+ex-cop_Glover	1
 Factor_show	1
 film_offer	1
 horror/thriller_genre	1
@@ -7107,12 +6984,12 @@ way_adam	1
 star_DVD	1
 horror_movie	12
 authority_figure	1
-plot_device	2
 puzzle_master	2
 enforcement_officer	1
 body_part	1
 movie_fan	2
 daughter_hostage	1
+25GB_disc	1
 film_work	1
 desire_life	1
 screen_play	1
@@ -7121,9 +6998,6 @@ sub_par	1
 MPEG2_encoding	1
 movie_theatre	1
 suspence_movie	1
-RP_-LRB-
-out_-LRB-	1
-off_-LRB-	2
 PRP_NNP
 them_??	1
 it_Rob	1
@@ -7132,8 +7006,6 @@ WRB_CC
 how_or	1
 when_or	1
 how_and	1
-:_-LRB-
-..._-LRB-	1
 WRB_CD
 where_two	1
 when_one	1
@@ -7141,7 +7013,7 @@ NNS_RB
 borrowings_even	1
 scenes_also	1
 winters_ago	1
-times_there	1
+suspects_just	1
 explosions_continuously	1
 movies_as	1
 cops_also	1
@@ -7153,10 +7025,11 @@ characters_together	1
 spoilers_here	1
 reviews_here	1
 scenes_here	1
+flaws_mostly	1
 movies_seriously	1
 writers_seemingly	1
 heads_instead	1
-vampires_here	1
+winds_up	1
 tactics_there	1
 details_too	1
 thrillers_out	1
@@ -7171,12 +7044,15 @@ betters_carefully	1
 guns_so	1
 makers_probably	1
 comments_already	1
+flicks_even	1
 years_ago	1
 Spoilers_ahead	1
+times_there	1
 viewers_straight	1
 friends_again	1
+movies_ever	1
 Elwes_shamefully	1
-winds_up	1
+vampires_here	1
 points_too	1
 victims_very	1
 :_MD
@@ -7227,7 +7103,6 @@ are_victims	1
 ,_unable	2
 ,_religious	1
 ,_psychological	1
-,_<br />	1
 ,_disgusting	1
 ,_ingenious	1
 ,_real	1
@@ -7278,11 +7153,6 @@ are_victims	1
 ,_full	1
 ,_EX
 ,_there	16
--RRB-_RB
--RRB-_greatly	1
--RRB-_much	1
--RRB-_then	1
--RRB-_instead	1
 DT_JJ
 a_dumb	1
 a_fantastic	1
@@ -7697,8 +7567,8 @@ the_orginial	1
 an_intriguing	1
 WP$_NN
 whose_family	1
-WP_``
-What_`	1
+:_VBD
+..._did	1
 ``_VB
 ``_feel	1
 ``_gore	1
@@ -7728,14 +7598,6 @@ off_you	1
 ''_``	2
 TO_VBN
 to_perceived	1
-EX_:
-there_...	2
--RRB-_NNS
--RRB-_speed-ups	1
--RRB-_resources	1
--RRB-_NNP
--RRB-_Monica	1
--RCB-_SAW	1
 NN_IN
 scene_of	2
 vein_as	1
@@ -7743,7 +7605,7 @@ bathroom_with	5
 theater_with	1
 dimension_as	1
 humming_of	1
-blood_in	1
+blood_in	2
 context_of	1
 remake_of	1
 favorite_of	1
@@ -7858,6 +7720,7 @@ story_with	2
 stupidity_of	1
 wish_at	1
 plenty_of	5
+cast_though	1
 corner_of	1
 boyfriend_of	1
 movie_since	1
@@ -7922,6 +7785,7 @@ franchise_in	1
 horror_of	1
 mark_on	1
 viewing_of	1
+winner_in	1
 instruction_that	1
 film_for	2
 duration_of	1
@@ -8039,7 +7903,7 @@ advantage_of	1
 point_of	4
 view_from	1
 order_for	1
-player_in	2
+player_in	3
 viewer_into	2
 performance_like	1
 wait_for	1
@@ -8053,7 +7917,6 @@ type_of	4
 film_as	5
 life_in	2
 recollection_of	1
-<br />_If	2
 corpse_of	1
 problem_in	1
 future_in	1
@@ -8220,7 +8083,6 @@ decrease_in	1
 face_down	1
 back_of	2
 middle_of	10
-<br />_than	1
 execution_of	1
 copy_of	2
 familiarity_with	1
@@ -8300,6 +8162,7 @@ film_like	1
 pleasure_of	1
 background_of	1
 use_near	1
+storyline_if	1
 tape_with	2
 trick_of	1
 commentary_by	1
@@ -8351,6 +8214,7 @@ pool_of	3
 making_of	1
 trail_of	1
 identity_of	5
+righteousness_that	1
 question_for	2
 period_of	1
 wife_for	1
@@ -8364,8 +8228,6 @@ spree_in	1
 majority_of	3
 writer_than	1
 world_with	1
-VB_-RRB-
-say_-RRB-	1
 CC_DT
 and_that	4
 but_these	1
@@ -8398,6 +8260,7 @@ NN_VBN
 killer_named	1
 dialogue_driven	1
 intellectualism_exhibited	1
+packet_intended	1
 CELL_thrown	1
 truck_involved	1
 game_weaved	1
@@ -8433,9 +8296,9 @@ movies_it	1
 pieces_them	1
 choices_we	1
 tasks_they	1
-scenes_you	1
+stars_It	1
 flicks_we	1
-movies_I	2
+scenes_you	1
 tools_he	1
 characters_he	1
 games_you	1
@@ -8443,6 +8306,7 @@ places_you	1
 things_I	1
 lives_they	1
 victims_himself	1
+movies_I	2
 saws_they	1
 :_VBG
 -_tacking	1
@@ -8483,6 +8347,7 @@ man_lying	2
 killer_locking	1
 person_acting	1
 crowd_pleasing	1
+saw_removing	1
 spine_tingling	1
 tripe_coming	1
 jaw_dropping	1
@@ -8554,6 +8419,7 @@ time_left	1
 killer_was	2
 movie_scared	1
 horror_meant	1
+grudge_were	1
 story_was	1
 oil_had	1
 storyline_was	2
@@ -8626,7 +8492,7 @@ anticipation_is	1
 premises_is	1
 SE7EN_is	1
 perp_is	1
-voice_is	1
+genre_has	1
 film_cheats	1
 performance_is	1
 plot_deems	1
@@ -8667,6 +8533,7 @@ horror_scares	1
 word_means	1
 horror_relies	1
 story_uses	1
+wall_does	1
 dialogue_is	1
 hack_saws	1
 movie_takes	1
@@ -8716,6 +8583,8 @@ movie_ends	1
 soundtrack_is	1
 uncut_is	1
 horror_works	1
+voice_is	1
+Glover_is	1
 wall_reaches	1
 title_is	1
 disc_is	1
@@ -8771,7 +8640,7 @@ lifes.Jigsaw_is	1
 everything_comes	1
 movie_does	5
 news_is	1
-end_does	1
+end_does	2
 die_is	1
 script_is	2
 anybody_finds	1
@@ -8818,6 +8687,7 @@ director_loves	1
 story_goes	1
 cast_is	2
 say_is	1
+vengeance_Turns	1
 one_is	1
 system_thinks	1
 Killer_is	1
@@ -8897,6 +8767,7 @@ not_just	3
 yet_very	1
 not_even	4
 just_arbitrarily	1
+away_even	1
 just_plain	1
 very_little	1
 long_before	1
@@ -9020,26 +8891,28 @@ succeeded_in	1
 TO_IN
 to_over	1
 NN_VBP
-mystery_build	1
-acting_seem	1
-didnt_buy	1
-case_are	1
-TV_show	1
-genre_are	1
-filmmaker_maintain	1
-movie_are	1
 movie-you_have	1
+daughter_have	1
+screen_do	1
+film_are	1
+case_are	1
+genre_are	1
+water_are	1
+room_are	1
+acting_have	1
+3rd_are	1
+fare_are	1
+TV_show	1
+blood_say	1
+movie_are	1
+didnt_buy	1
+filmmaker_maintain	1
+acting_seem	1
 material_lead	1
 lighting_serve	1
 viewer_think	1
-daughter_have	1
-fare_are	1
-blood_say	1
-screen_do	1
 doctor_use	1
-room_are	1
-acting_have	1
-water_are	1
+mystery_build	1
 :_WRB
 ..._how	1
 ..._when	1
@@ -9061,8 +8934,6 @@ seven_and	1
 1_or	1
 I_and	1
 two_and	1
-RP_VBN
-out_soiled	1
 VBG_VB
 helping_save	1
 PRP_RB
@@ -9180,24 +9051,14 @@ least_it	1
 ``_JJS
 ``_Most	1
 ``_most	1
-JJ_-LRB-
-dead_-LRB-	1
-super-sale_-LRB-	1
-good_-LRB-	1
-disturbing_-LCB-	1
-inexpensive_-LRB-	1
-alive_-LRB-	1
-informed_-LRB-	1
-engrossing_-LRB-	1
-bad_-LRB-	1
-mental_-LRB-	1
-lethal_-LRB-	1
-formulaic_-LRB-	1
-unnecessary_-LRB-	1
-visiual_-LRB-	1
-VBD_-RRB-
-saw_-RSB-	1
-waited_-RRB-	1
+PRP_RP
+them_up	1
+it_off	3
+it_out	5
+you_off	1
+me_up	1
+us_off	1
+it_up	3
 JJ_``
 damn_``	1
 novel_`	1
@@ -9289,6 +9150,7 @@ much_destroys	1
 completely_ignores	1
 deliberately_begins	1
 never_has	1
+presumably_has	1
 then_asks	1
 only_furthers	1
 RBR_VBN
@@ -9376,7 +9238,6 @@ call_it	2
 admit_I	1
 stop_it	1
 let_me	3
-<br />_I	2
 make_him	1
 forget_him	1
 imagine_you	1
@@ -9399,7 +9260,6 @@ get_it	1
 thrill_you	1
 save_her	1
 say_I	2
-<br />_We	1
 watch_it	5
 weigh_them	1
 avoid_them	1
@@ -9431,7 +9291,6 @@ help_them	1
 help_us	1
 think_it	3
 Mind_you	1
-<br />_You	1
 color_me	1
 'cause_you	1
 judge_it	1
@@ -9454,6 +9313,7 @@ really_do	1
 never_know	1
 also_carry	1
 arbitrarily_say	1
+finally_see	1
 just_seem	1
 soon_discover	1
 just_do	4
@@ -9657,7 +9517,7 @@ either_misunderstood	1
 quickly_shot	1
 only_seen	2
 mostly_found	1
-n't_seen	7
+n't_seen	8
 normally_preferred	1
 as_obsessed	1
 finally_produced	1
@@ -9838,26 +9698,13 @@ just_went	1
 apparently_had	1
 probably_was	1
 FW_IN
-<br />_At	2
 machina_after	1
-<br />_While	1
-<br />_Without	1
-<br />_So	2
-<br />_at	1
-<br />_Because	1
+Cookieman108_By	1
 ****_out	1
-<br />_As	3
-<br />_After	1
-<br />_From	1
-<br />_If	6
-<br />_By	1
-<br />_For	7
-<br />_In	1
-<br />_Despite	1
-<br />_During	1
 JJ_WRB
 sure_why	1
 elegant_when	1
+excited_Why	1
 terrible_when	1
 CC_MD
 and_can	1
@@ -9894,8 +9741,6 @@ added_realism	1
 got_topless	1
 NNP_TO
 Gordan_to	1
--LRB-_VBN
--LRB-_intended	1
 DT_LS
 All_i	1
 VBZ_TO
@@ -9986,11 +9831,6 @@ friends_who	1
 individuals_who	1
 men_what	1
 fans_who	1
--LRB-_VBZ
--LRB-_does	1
--LRB-_sounds	1
--LRB-_VBP
--LRB-_remember	1
 RP_NN
 out_guy	1
 off_limb	1
@@ -10060,6 +9900,7 @@ should_really	1
 should_definitely	1
 could_also	1
 NN_WDT
+shock_which	1
 murderer_that	1
 person_that	1
 thing_that	4
@@ -10182,7 +10023,6 @@ save_the	1
 say_this	2
 engineer_the	1
 think_the	1
-<br />_The	1
 enjoy_the	2
 discover_the	1
 keep_the	2
@@ -10207,7 +10047,6 @@ catagorize_this	1
 break_a	2
 Hand_That	2
 provide_some	1
-<br />_This	2
 hire_a	1
 hold_a	1
 miss_a	1
@@ -10270,10 +10109,6 @@ do_this	2
 get_this	1
 see_this	5
 be_the	9
--LRB-_VBG
--LRB-_removing	1
--LSB-_Showing	1
--LRB-_being	1
 WRB_DT
 When_this	1
 how_this	1
@@ -10424,16 +10259,11 @@ LS_VBP
 i_have	1
 i_'m	2
 i_'ve	1
-JJ_-RRB-
-disturbing_-RRB-	1
-orginial_-RRB-	1
-talented_-RRB-	1
-necessary_-RRB-	1
-disgusting_-RCB-	1
-excited_-RRB-	1
-cringe-worthy_-RRB-	1
+NNS_LS
+guts_i	1
 ''_DT
 ''_The	1
+'_The	1
 ''_the	1
 ''_a	1
 ''_this	1
@@ -10519,6 +10349,7 @@ ONLY_to	1
 role_to	1
 credit_to	1
 horror_to	1
+series_to	1
 frame_to	1
 ankle_to	1
 bathroom_to	2
@@ -10694,8 +10525,6 @@ and_two	1
 and_one	2
 And_one	1
 &_5.1	1
-FW_-LRB-
-<br />_-LRB-	2
 PRP$_RP
 its_up	1
 WP_RB
@@ -10714,7 +10543,7 @@ what_really	1
 ,_timing	1
 ,_Con	1
 ,_lol	1
-,_death	1
+,_writer/director	1
 ,_insanity	1
 ,_SAW	2
 ,_gun	1
@@ -10736,12 +10565,13 @@ what_really	1
 ,_whereupon	1
 ,_something	1
 ,_mood	1
-,_frighten	1
+,_death	1
 ,_will	1
 ,_blood	1
 ,_horror	2
 ,_suspense	1
 ,_watch	1
+,_frighten	1
 ,_Silence	1
 ,_dialogue	1
 ,_definition	1
@@ -10764,12 +10594,12 @@ its_not	1
 its_very	1
 my_normally	1
 your_just	1
+WP_``
+What_`	1
 WP_PRP$
 what_your	1
 CC_$
 and_$	1
-VBD_WRB
-meant_when	1
 RP_WP
 out_who	4
 ``_RB
@@ -10924,7 +10754,7 @@ mother_would	1
 one_could	1
 movie_would	2
 horror/suspense_can	1
-hand_will	1
+team_would	1
 person_will	1
 nobody_could	1
 ending_should	1
@@ -10933,6 +10763,7 @@ movie_can	1
 explanation_might	1
 reputation_would	1
 end_will	1
+hand_will	1
 toilet_would	1
 horror_should	1
 genre_would	1
@@ -10981,8 +10812,6 @@ The_`	1
 A_``	1
 the_`	2
 This_``	1
-FW_#
-<br />_#	5
 ,_RB
 ,_though	3
 ,_no	1
@@ -11152,7 +10981,6 @@ quite_say	1
 not_have	1
 n't_drop	1
 even_admit	1
-n't_<br />	1
 possibly_be	1
 n't_forget	1
 n't_comment	1
@@ -11237,18 +11065,11 @@ probably_guess	1
 ''_gruesome	1
 ''_fascist	1
 ''_artistic	1
-JJS_-RRB-
-least_-RRB-	1
-best_-RSB-	1
+EX_:
+there_...	2
 :_UH
 --_oh	1
 -_oh	1
--RRB-_JJ
--RRB-_awful	1
--RRB-_several	1
--RRB-_first	1
-RBR_TO
-closer_to	1
 JJ_RP
 straight_up	1
 chained_up	1
@@ -11265,35 +11086,28 @@ i_go	1
 i_think	2
 i_hear	1
 FW_FW
-de_la	1
-per_se	1
-in_SAW	1
-dr._gordons	1
-CG_****	1
-<br />_<br />	202
-<br />_Cookieman108	1
-Hee_hee	1
-etc._<br />	1
-<br />_***	1
 ok_extra	1
-yada_yada	3
-i_dont	1
-!!_<br />	1
 in_Se7en	1
-<br />_Horror/Gore	1
+de_la	1
+i_dont	1
 Yada_yada	1
-Cookieman108_<br />	1
+CG_****	1
+yada_yada	3
+per_se	1
 ex_machina	1
 blu_ray	1
-<br />_Whenever	1
+Hee_hee	1
+in_SAW	1
 Enjoy_!!	1
+dr._gordons	1
 in_awe	1
 JJ_RB
 great_almost	1
 twisted_enough	1
-OK_then	1
+disturbing_not	1
 Other_then	1
 beautiful_yet	1
+active_then	1
 little_too	1
 strong_enough	1
 chained_up	1
@@ -11301,6 +11115,7 @@ comfortable_then	1
 clever_enough	1
 real_enough	1
 creepy_enough	1
+OK_then	1
 shocking_here	1
 few_really	1
 humorous_instead	1
@@ -11309,7 +11124,7 @@ graphic_too	1
 good_only	1
 good_also	1
 bad_also	1
-active_then	1
+visiual_often	1
 easy_especially	1
 menacing_enough	1
 chained_together	1
@@ -11339,12 +11154,6 @@ pumping_my	1
 slicing_their	1
 giving_his	1
 sawing_his	1
--RRB-_VBP
--RRB-_are	3
--RSB-_are	1
--RRB-_find	1
--RRB-_see	1
--RRB-_wake	3
 ,_VBG
 ,_forcing	1
 ,_staying	1
@@ -11376,15 +11185,6 @@ sawing_his	1
 ,_whiling	1
 ,_opening	1
 ,_leading	2
-''_-RRB-
-''_-RRB-	3
-'_-RRB-	1
--RRB-_VBZ
--RRB-_does	1
--RRB-_has	3
--RSB-_Turns	1
--RSB-_is	1
--RRB-_is	5
 NNS_.
 characters_.	2
 negatives_.	1
@@ -11408,6 +11208,7 @@ hits_.	1
 parts_.	2
 fans_.	4
 aftermaths_.	1
+standards_.	1
 monsters_.	1
 victims_.	6
 visuals_.	1
@@ -11517,6 +11318,7 @@ kudos_,	1
 events_,	1
 fans_,	1
 tortures_,	1
+days_,	1
 games_,	1
 surroundings_,	1
 elements_,	1
@@ -11527,7 +11329,7 @@ critics_,	1
 releases_,	1
 ways_,	1
 killings_,	3
-characters_,	3
+characters_,	4
 tears_,	1
 resources_,	1
 cajones_,	1
@@ -11551,7 +11353,7 @@ rights_,	1
 talks_,	1
 superstars_,	1
 hounds_,	1
-roles_,	2
+roles_,	3
 killers_,	2
 improbabilities_,	1
 whiners_,	1
@@ -11563,13 +11365,13 @@ scenes_,	3
 actors_,	1
 situations_,	1
 holes_,	1
-movies_,	6
+movies_,	7
 reviews_,	1
 fests_,	1
 films_,	5
 theaters_,	1
 newcomers_,	1
-others_,	2
+others_,	3
 people_,	3
 spots_,	1
 other/themselves_,	1
@@ -11585,14 +11387,6 @@ men_,	5
 ,_Be	1
 ,_kinda	1
 ,_have	2
--RRB-_DT
--RRB-_the	2
--RRB-_This	1
--RRB-_The	1
--RRB-_VBD
--RRB-_were	1
--RRB-_uncovered	1
--RRB-_was	1
 RBR_RB
 more_closely	1
 more_so	1
@@ -11610,6 +11404,7 @@ thought_Saw	1
 Gone_Fishin	1
 did_Saw	1
 PRP_WP
+she_who	1
 you_what	1
 me_what	2
 NNS_:
@@ -11788,6 +11583,7 @@ modern_movies	1
 prefabricated_copycats	1
 separate_levels	1
 Usual_Suspects	3
+necessary_resources	1
 large_amounts	1
 key_moments	1
 Bad_effects	1
@@ -11960,6 +11756,7 @@ cute_Cary	1
 CD_IN
 three_of	1
 one_that	1
+one_at	1
 2_amongst	1
 4_out	1
 two_near	1
@@ -11988,7 +11785,7 @@ but_more	1
 ''_and	9
 '_or	1
 ''_but	2
-''_or	2
+''_or	3
 '_but	1
 '_and	5
 ''_&	1
@@ -12014,16 +11811,9 @@ for_granted	2
 of_scared	1
 of_known	1
 if_done	1
--RRB-_CC
--RRB-_but	2
--RSB-_and	1
--RRB-_and	19
--RRB-_or	1
--RRB-_But	1
 FW_MD
 i_would	2
 i_could	1
-<br />_Wo	1
 i_can	1
 JJR_VBP
 more_do	1
@@ -12044,6 +11834,7 @@ calling_it	1
 forcing_you	2
 clearing_them	1
 owning_it	1
+surviving_You	1
 putting_them	1
 keeping_you	1
 thinking_it	1
@@ -12151,6 +11942,7 @@ NN_PRP
 SAW_it	1
 killer_himself	1
 film_itself	1
+lol_I	1
 point_I	1
 fray_they	1
 thing_I	1
@@ -12178,6 +11970,7 @@ ending.Trust_me	1
 dought_I	1
 film_I	2
 way_you	1
+Dilemma_you	1
 part_it	1
 therapy_he	1
 acting_I	1
@@ -12259,6 +12052,7 @@ this_up	1
 another_out	1
 ._.
 ._.	17
+?_.	1
 ,_MD
 ,_could	3
 ,_would	2
@@ -12268,9 +12062,10 @@ fake_the	1
 desperate_this	1
 jarring_the	1
 aforementioned_The	1
+bad_That	1
 much_every	1
 open_a	1
-good_the	1
+good_the	2
 other_a	1
 worth_a	2
 fake_a	1
@@ -12485,7 +12280,7 @@ have_won	1
 be_solved	1
 be_replaced	1
 have_seemed	1
-<br />_seen	1
+have_learned	1
 be_explained	1
 be_tricked	1
 have_pulled	1
@@ -12495,7 +12290,6 @@ be_shocked	1
 get_decapitated	1
 have_done	2
 be_driven	1
-have_learned	1
 have_made	1
 be_forewarned	1
 be_accomplished	1
@@ -12520,9 +12314,6 @@ get_slashed	1
 CC_PDT
 and_all	1
 but_all	1
-VBN_-LRB-
-killed_-LRB-	1
-shot_-LRB-	1
 VB_VBG
 Forget_comapring	1
 let_attempting	1
@@ -12613,16 +12404,6 @@ Death_Monkeys	1
 UK_Playstations	1
 Starship_Troopers	1
 Weapon_Movies	1
-FW_PRP$
-<br />_My	1
-<br />_Its	1
-VBZ_-LRB-
-says_-LRB-	1
--LRB-_NNS
--LRB-_Elwes	1
--LSB-_People	1
--LRB-_Ewles	1
--LRB-_Cellmates	1
 VB_VBZ
 say_is	1
 gore_does	1
@@ -12634,8 +12415,11 @@ is_more	1
 VBZ_RBS
 is_most	1
 CD_PRP
-5_I	1
 4_I	1
+2_It	1
+08,2010_I	1
+5_I	1
+1_It	1
 one_you	1
 CC_RB
 Or_even	1
@@ -12717,11 +12501,6 @@ but_rather	2
 and_again	1
 POS_``
 's_``	5
-IN_-RRB-
-on_-RRB-	1
-for_-RRB-	1
-Off_-RRB-	1
-that_-RSB-	1
 VBZ_NN
 's_nothing	2
 lacks_depth	1
@@ -12758,30 +12537,6 @@ is_hunting	1
 takes_advantage	1
 's_predecessor	1
 cares_?!	1
-WDT_VBP
-that_dislike	1
-that_keep	1
-that_fill	1
-that_ask	1
-that_prove	1
-that_feel	1
-that_indicate	1
-that_love	1
-that_have	3
-that_allow	1
-that_do	2
-that_pertain	1
-that_play	1
-that_bite	1
-that_unfold	1
-that_kill	1
-which_are	1
-that_we	1
-that_relied	1
-that_say	1
-that_are	9
-that_end	1
-which_have	1
 POS_RB
 's_so	1
 's_apparently	1
@@ -12904,18 +12659,6 @@ am_a	4
 involve_the	1
 do_the	2
 co-wrote_the	2
-NNS_-RRB-
-movies_-RRB-	1
-standards_-RRB-	1
-roles_-RRB-	1
-days_-RRB-	1
-eyes_-RRB-	1
-others_-RRB-	2
-characters_-RRB-	1
-Troopers_-RRB-	1
-vices_-RRB-	1
-elements_-RRB-	1
-Ewles_-RRB-	1
 VBD_TO
 started_to	1
 felt_to	1
@@ -12940,13 +12683,13 @@ needed_to	1
 decided_to	5
 seemed_to	5
 NN_FW
-flick_<br />	1
 cr&egrave;me_de	1
 game_per	1
 twist_i	1
 deus_ex	1
 film_i	1
 time_i	1
+movie_i	1
 NNS_POS
 men_'s	2
 sequels_'	1
@@ -12962,12 +12705,9 @@ but_why	1
 and_how	2
 and_when	2
 or_why	2
--RRB-_UH
--RRB-_yes	1
-:_-RRB-
-..._-RRB-	2
 JJS_NNP
 least_Lord	1
+best_Maybe	1
 JJS_NNS
 latest_victims	2
 Most_people	3
@@ -12977,6 +12717,7 @@ best_villians	1
 most_people	2
 scariest_movies	1
 NN_:
+school_...	1
 ending_--	1
 film_...	4
 original_...	1
@@ -12989,6 +12730,7 @@ plot_...	1
 collection_...	1
 case_:	1
 thinking_...	1
+break_...	1
 book_...	1
 PPS_:	1
 example_...	1
@@ -13026,10 +12768,12 @@ bad_...	1
 movie_-	3
 CD_RB
 one_nevertheless	1
+II_just	1
 SEVEN_then	2
 20_richly	1
 !!!_Especially	1
 one_really	1
+II_much	1
 six_o'clock	1
 ._''
 ?_''	8
@@ -13077,6 +12821,7 @@ sequel_,	2
 life_,	4
 chance_,	1
 sense_,	2
+shower_,	1
 release_,	1
 screen_,	1
 captor_,	1
@@ -13084,6 +12829,7 @@ murderer_,	1
 comedy_,	1
 fault_,	1
 seat_,	1
+department_,	1
 girl_,	1
 fan_,	2
 pompousness_,	1
@@ -13158,10 +12904,11 @@ evil_,	1
 tumor_,	2
 scale_,	1
 peak_,	1
-mouth_,	1
+mouth_,	2
 night_,	2
 hankering_,	1
 splatter_,	1
+Brief_,	1
 guy_,	1
 fact_,	2
 movie_,	36
@@ -13204,7 +12951,7 @@ planning_,	1
 Ok_,	1
 doctor_,	2
 ground_,	1
-film_,	14
+film_,	15
 decoupage_,	1
 work_,	2
 flow_,	1
@@ -13259,8 +13006,9 @@ family_,	1
 room_,	7
 pibb_,	1
 stomache_,	1
+year_,	1
 performance_,	1
-department_,	1
+mean_,	1
 imagery_,	1
 budget_,	1
 Wax_,	1
@@ -13273,7 +13021,7 @@ pm_,	1
 filmmaking_,	1
 horror_,	6
 realism_,	1
-year_,	1
+Air_,	1
 individual_,	1
 plot_,	3
 point_,	1
@@ -13316,6 +13064,7 @@ DVD_,	2
 ``_Se7en	3
 ``_making	1
 `_blech	1
+`_S	1
 ``_Cube	1
 `_Lord	1
 ``_Silence	1
@@ -13357,6 +13106,8 @@ attention_.	1
 window_.	1
 series_.	6
 eeriness_.	1
+reference_.	1
+bonanza_.	1
 date_.	1
 cheese_.	1
 comment_.	1
@@ -13368,7 +13119,7 @@ trouble_.	1
 lust_.	1
 title_.	2
 2-disc_.	1
-something_.	1
+something_.	2
 bout_.	1
 thinking_?	1
 thought_.	1
@@ -13376,7 +13127,8 @@ message_.	1
 atmosphere_.	1
 scariness_.	1
 regard_.	2
-life_.	2
+head_.	1
+domain_.	1
 sense_.	3
 deal_.	2
 captor_.	1
@@ -13393,7 +13145,7 @@ pipe_.	2
 extreme_.	2
 fan_.	3
 dialogue_.	1
-scene_.	2
+scene_.	3
 apartment_.	1
 condition_.	2
 perspective_.	2
@@ -13445,7 +13197,7 @@ A_.	1
 experience_.	1
 acting_?	1
 recorder_.	3
-picture_.	3
+picture_.	4
 SAW_!	1
 BR_.	1
 design_.	1
@@ -13454,6 +13206,7 @@ twist_.	2
 STORY_.	1
 place_.	3
 decision_.	1
+Faith_.	1
 fare_.	1
 script_.	1
 service_.	1
@@ -13508,7 +13261,7 @@ bathroom_?	1
 half_.	1
 secret_.	1
 restroom_.	1
-domain_.	1
+role_.	1
 horror/comedy_.	1
 collection_.	1
 star_?	1
@@ -13518,6 +13271,7 @@ instinct_.	1
 existence_.	1
 originality_.	2
 ending_.	6
+screentime_.	1
 guy_!	1
 attack_.	1
 fantasy_.	1
@@ -13629,10 +13383,12 @@ disposal_.	1
 movie_.	48
 leg_.	1
 floor_?	1
+sequel_.	1
 task_.	1
 ride_.	2
 idea_.	3
 year_.	2
+life_.	2
 filmmaking_.	2
 camp_.	1
 inprisonment_.	1
@@ -13652,10 +13408,11 @@ time_.	10
 prequel_!	1
 Ring2_.	1
 something_?	1
+TO_CC
+to_or	1
 ''_CD
+'_1	1
 ''_one	1
--LRB-_TO
--LRB-_to	2
 WDT_VBZ
 that_makes	4
 that_brings	1
@@ -13695,49 +13452,37 @@ that_tries	3
 that_is	11
 that_sickens	1
 POS_,
-'_,	2
+'_,	3
 ''_VBN
 ''_thrown	1
 ''_made	1
 JJR_TO
-more_to	1
+more_to	2
 better_to	1
-NN_-LRB-
-wall_-LRB-	1
-shock_-LRB-	1
-packet_-LRB-	1
-violence_-LRB-	1
-Dilemma_-LRB-	1
-wife_-LRB-	1
-single-layer_-LRB-	1
-movie_-LRB-	1
-doctor_-LRB-	1
-series_-LRB-	1
-storyline_-LSB-	1
-nothing_-LRB-	1
-ending_-LRB-	1
-noun_-LRB-	1
-detective_-LRB-	1
-compliment_-LRB-	1
-captor_-LRB-	1
-screen_-LRB-	1
-ex-cop_-LRB-	1
-passer_-LRB-	1
-doctor_-LSB-	1
-date_-LRB-	1
-area_-LRB-	1
-motion_-LRB-	1
-nudity_-LRB-	1
-Lambs_-LRB-	1
-cop_-LRB-	1
-tweeking_-LRB-	1
-buyer_-LRB-	1
-closet_-LRB-	1
-saw_-LRB-	1
-cast_-LRB-	1
-sub-genre_-LRB-	1
-saw_-LSB-	1
-blood_-LRB-	1
+WDT_VBP
+that_dislike	1
+that_keep	1
+that_fill	1
+that_ask	1
+that_prove	1
+that_feel	1
+that_indicate	1
+that_love	1
+that_have	3
+that_allow	1
+that_do	2
+that_pertain	1
+that_play	1
+that_bite	1
+that_unfold	1
+that_kill	1
+which_are	1
+that_we	1
+that_relied	1
+that_say	1
+that_are	9
+that_end	1
+which_have	1
 ''_VBD
 '_was	2
 ''_was	2
@@ -13746,8 +13491,6 @@ blood_-LRB-	1
 ''_VBG
 '_going	1
 ''_going	1
-VBP_VBD
-wish_had	1
 ''_VBZ
 ''_is	24
 '_makes	1
@@ -13806,6 +13549,7 @@ than_to	1
 about_to	1
 PRP_CC
 it_and	5
+he_or	1
 you_and	1
 it_but	1
 him_or	1
@@ -13875,20 +13619,11 @@ inducing_just	1
 cutting_away	1
 staying_away	1
 acting_cinematically	1
-FW_JJ
-<br />_okay	1
-<br />_Outside	1
 DT_$
 the_$	2
 DT_WRB
 this_when	1
 that_when	1
--RRB-_NN
--RRB-_motivation	1
--RRB-_imagery	1
--RRB-_disc	1
--RCB-_climax	1
--RSB-_horror	1
 DT_,
 another_,	1
 This_,	1
@@ -13903,9 +13638,7 @@ that_?	1
 another_.	1
 all_.	5
 NNS_FW
-stars_<br />	1
 people_i	1
-suspects_<br />	1
 VBG_RP
 coming_out	3
 offering_up	1
@@ -13935,14 +13668,8 @@ CC_LS
 or_2	1
 but_i	2
 and_i	2
-RB_-RRB-
-away_-RRB-	1
-ever_-RRB-	1
-badly_-RRB-	1
-n't_-RRB-	1
-finally_-RRB-	1
-yet_-RRB-	1
-presumably_-RRB-	1
+:_#
+:_#	1
 WRB_.
 How_?	1
 why_.	1
@@ -13954,9 +13681,11 @@ Troopers_-	1
 DT_WDT
 those_that	1
 NNS_NNS
+victims_People	1
 killings_scenes	1
-killers_movies	1
+performances_Elwes	1
 days_people	1
+killers_movies	1
 movies_fans	1
 RB_JJ
 as_grisly	1
@@ -14254,6 +13983,7 @@ completely_horrible	1
 ''_which	1
 IN_IN
 for_in	3
+on_like	1
 on_after	1
 because_like	1
 because_with	1
@@ -14326,10 +14056,6 @@ to_Hannibal	1
 to_Pitt	1
 to_Cary	1
 to_Dr.	1
-RB_-LRB-
-away_-LRB-	1
--LRB-_JJR
--LRB-_<	1
 TO_NNS
 to_movies	1
 to_extremes	1
@@ -14532,10 +14258,12 @@ hurt_either	1
 stay_away	2
 die_instead	1
 back_just	1
+act_badly	1
 be_far	1
 get_through	1
 be_seriously	1
 think_back	1
+say_greatly	1
 act_extremely	1
 wait_long	1
 be_bit	1
@@ -14589,8 +14317,6 @@ go_down	1
 keep_up	2
 play_out	2
 hack_off	1
-NNS_VB
-teenagers_get	1
 RB_FW
 just_yada	1
 VBZ_EX
@@ -14603,8 +14329,6 @@ lot_more	1
 something_more	1
 film_more	1
 point_better	1
-FW_WDT
-<br />_Which	1
 VBZ_WDT
 wasnt_THAT	1
 RB_NNS
@@ -14612,6 +14336,7 @@ then_revelations	1
 NN_EX
 Se7en_there	1
 course_there	1
+violence_there	1
 ``_JJ
 ``_creepy	1
 ``_scary	1
@@ -14650,11 +14375,13 @@ Guignol_of	1
 Adam_by	3
 WOW_once	1
 House_of	1
+Descent_into	1
 Empire_in	1
 Vigilante_since	1
 Jigsaw_like	1
-Descent_into	1
+Leung_in	1
 Cary_in	1
+Heels_as	1
 NOTHING_for	1
 Glover_in	2
 Lawrence_in	1
@@ -14666,6 +14393,7 @@ Curse_of	1
 HALLOWEEN_in	1
 Adam_before	2
 WIZARD_OF	1
+Potter_Along	2
 WAY_down	1
 Tool_in	1
 Westley_from	1
@@ -14680,9 +14408,6 @@ Men_in	1
 DT_NNPS
 the_Jigsaws	1
 the_Rockies	1
-FW_UH
-<br />_OK	1
-<br />_Okay	1
 WRB_VBP
 How_dare	1
 why_are	1
@@ -14692,7 +14417,7 @@ FW_,
 se_,	1
 ,_TO
 ,_To	1
-,_to	5
+,_to	6
 FW_.
 etc._.	1
 ''_WP$
@@ -14790,60 +14515,19 @@ in_trying	1
 of_waking	1
 in_cutting	1
 without_giving	1
+VBN_WRB
+Given_how	1
+seen_how	1
 ``_CD
 `_One	1
 ``_one	1
-NN_-RRB-
-Firm_-RRB-	1
-break_-RRB-	1
-film_-RSB-	1
-shower_-RRB-	1
-something_-RRB-	1
-S_-RRB-	1
-Brief_-RRB-	1
-school_-RSB-	1
-Glover_-RRB-	1
-grudge_-RRB-	1
-lol_-RRB-	1
-winner_-RRB-	1
-go_-RRB-	1
-role_-RRB-	1
-genre_-RRB-	1
-film_-RRB-	2
-puppermaster_-RRB-	1
-team_-RRB-	1
-reference_-RRB-	1
-picture_-RRB-	1
-course_-RRB-	1
-mean_-RRB-	1
-scene_-RRB-	2
-25GB_-RRB-	1
-sequel_-RRB-	1
-head_-RRB-	1
-vengeance_-RSB-	1
-blood_-RRB-	1
-mouth_-RRB-	1
-acting_-RRB-	1
-end_-RRB-	1
-screenplay_-RRB-	1
-player_-RRB-	1
-Air_-RRB-	1
-part_-RRB-	1
-righteousness_-RRB-	1
-Thunder_-RRB-	1
-glass_-RRB-	1
-Faith_-RRB-	1
-3rd_-RRB-	1
-screentime_-RRB-	1
-bonanza_-RRB-	1
-rebuttal_-RRB-	1
 ,_PRP
 ,_he	15
 ,_they	15
 ,_we	7
 ,_you	32
 ,_it	48
-,_I	74
+,_I	75
 JJS_VBP
 most_know	1
 Most_love	1
@@ -14859,37 +14543,6 @@ my_Grudge	1
 ,_more	1
 JJS_JJS
 most_strongest	1
--LRB-_NNP
--LRB-_Adam	1
--LRB-_Vanilla	1
--LRB-_Dr.	1
--LRB-_Razor	1
--LRB-_Ken	3
--LRB-_Shawnee	1
--LRB-_Leigh	3
--LRB-_FYI	1
--LRB-_Whannell	2
--LRB-_Grand	1
--LRB-_The	4
--LRB-_Oscar	1
--LRB-_Tobin	2
--LRB-_Makenzie	1
--LRB-_Tv	2
--LRB-_THe	1
--LRB-_Starship	1
--LSB-_Leigh	1
--LSB-_Cary	1
--LRB-_Elwes	2
--LSB-_Maybe	1
--LRB-_Monica	2
--LRB-_TV	1
--LRB-_Saw	2
--LRB-_Cary	5
--LRB-_Rush	2
--LRB-_Edward	1
--LRB-_Lethal	1
--LRB-_Danny	5
--LRB-_Black	1
 PRP_EX
 you_there	1
 TO_``
@@ -14940,7 +14593,7 @@ gruesome_but	1
 gory_and	2
 scuzzy_and	2
 amateur_and	1
-suspenseful_and	2
+mental_or	1
 devious_and	1
 preposterous_and	1
 gory_&	1
@@ -14954,6 +14607,7 @@ unintelligent_and	1
 chained_and	1
 rusty_and	1
 dangerous_and	1
+captivating_and	1
 unorthodox_and	1
 bloody_and	1
 disturbing_and	1
@@ -14977,7 +14631,7 @@ great_and	1
 idiotic_and/or	1
 raw_and	2
 good_and	3
-captivating_and	1
+talented_and	1
 alarming_and	1
 contrived_and	2
 nonsensical_and	1
@@ -14997,6 +14651,7 @@ strong_and	1
 key_and	2
 boring_but	1
 ingenuous_and	1
+suspenseful_and	2
 boring_and	1
 random_and	1
 unexplained_or	1
@@ -15031,30 +14686,12 @@ VBN_RBR
 been_less	1
 been_better	1
 done_better	3
-TO_NN
-to_death	1
-to_horror/thriller	1
-to_cop	1
-to_survival	1
-to_surprise	1
-to_fray	1
-to_detail	1
-to_hell	1
-to_justice	1
-to_anyone	1
-to_film	2
-to_date	2
-to_injury	1
-to_life	2
-to_writing	1
-to_metal	1
-to_horror	3
-to_intellectualism	1
 IN_VBZ
 as_is	1
+in_is	1
 than_meets	1
 beneath_is	1
-in_is	1
+that_is	1
 :_LS
 ..._i	1
 JJ_CD
@@ -15077,14 +14714,17 @@ visual_one	1
 brilliant_!!!!	1
 CD_,
 two_,	3
+2005_,	1
+8_,	1
 2004_,	1
-2_,	4
+2_,	5
 Two_,	1
 one_,	5
 three_,	1
 CD_.
 4_.	1
 1_.	2
+?!_.	1
 6:00_.	1
 2004_.	1
 two_.	1
@@ -15114,25 +14754,15 @@ when_i	1
 why_i	2
 NNP_WP
 Adam_whom	1
+Bell_who	1
 Well_what	1
 Cary_who	1
-VBP_-RRB-
-think_-RRB-	1
+Whannell_who	3
 CD_:
 one_-	1
 four_...	1
-PRP_RP
-them_up	1
-it_off	3
-it_out	5
-you_off	1
-me_up	1
-us_off	1
-it_up	3
 FW_CD
-<br />_Two	2
 ***_1/2	1
-<br />_2	1
 RB_POS
 Here_'s	1
 here_'s	1
@@ -15184,9 +14814,25 @@ POS_NN
 's_identity	2
 's_Dilemma	1
 's_movie	1
-FW_CC
-<br />_But	2
-<br />_And	4
+TO_NN
+to_death	1
+to_horror/thriller	1
+to_cop	1
+to_survival	1
+to_surprise	1
+to_fray	1
+to_detail	1
+to_hell	1
+to_justice	1
+to_anyone	1
+to_film	2
+to_date	2
+to_injury	1
+to_life	2
+to_writing	1
+to_metal	1
+to_horror	3
+to_intellectualism	1
 IN_FW
 as_i	1
 although_i	1
@@ -15238,6 +14884,7 @@ three_men	1
 two_men	21
 two_films	1
 8_friends	1
+3_Characters	1
 2_actors	2
 two_hacksaws	1
 5_times	1
@@ -15247,7 +14894,9 @@ twenty_bucks	1
 six_hours	1
 CD_NNP
 1/2_Stars	1
+4.5_Overall	1
 6_P.M.	1
+4.5_Story	1
 VBN_RB
 left_so	1
 integrated_nicely	1
@@ -15301,6 +14950,7 @@ Adam_guy	1
 SAW_franchise	1
 Jigsaw_Killer	4
 MTV_type	1
+Adam_screenwriter	1
 Hollywood_formula	1
 Oscar_winner	1
 VBZ_RB
@@ -15455,9 +15105,6 @@ to_her	1
 to_its	1
 VB_POS
 let_'s	4
-VB_LS
-say_i	1
-think_i	1
 VBN_RP
 grossed_out	2
 gotten_out	1
@@ -15547,14 +15194,13 @@ FW_VBP
 i_have	2
 i_'m	1
 i_do	1
-<br />_Do	1
 TO_RB
 to_not	3
 to_never	1
 To_further	1
 to_quickly	1
 to_successfully	1
-to_finally	1
+to_finally	2
 to_actually	1
 to_completely	1
 to_really	1
@@ -15562,10 +15208,16 @@ to_much	1
 to_just	2
 VBN_''
 granted_'	1
--LRB-_DT
--LRB-_the	4
--LRB-_That	1
--LRB-_no	1
+RBR_IN
+more_in	1
+more_than	1
+better_than	3
+more_on	1
+smarter_than	1
+Better_than	1
+more_as	1
+better_because	1
+better_if	1
 RB_IN
 back_on	1
 so_out	1
@@ -15618,6 +15270,7 @@ partly_because	1
 n't_until	1
 enough_as	1
 nearly_as	1
+badly_while	1
 forth_between	2
 rightly_at	1
 soon_after	1
@@ -15710,8 +15363,6 @@ instead_of	8
 even_with	1
 Not_since	1
 loud_at	1
-FW_VBZ
-<br />_Lets	1
 VBG_IN
 appearing_in	1
 lying_between	2
@@ -15826,11 +15477,8 @@ the_ten	1
 DT_CC
 that_and	1
 this_and	2
-FW_``
-<br />_`	2
-<br />_``	7
 RP_DT
-off_the	2
+off_the	3
 out_a	1
 out_the	4
 up_the	2
@@ -15882,6 +15530,7 @@ have_not	4
 do_highly	1
 fall_back	1
 are_far	1
+get_maybe	1
 have_always	2
 are_n't	4
 think_back	1
@@ -15922,7 +15571,9 @@ disturbing_is	1
 Disturbing_is	1
 alive_has	1
 ''_NNP
-''_<br />	2
+''_Intense	1
+''_Carey	1
+''_<a href="http://www.amazon.com/gp/product/1419654047">	1
 ''_Halloween	1
 ''_NNS
 '_movies	1
@@ -15932,7 +15583,9 @@ alive_has	1
 ''_sequences	1
 NNP_,
 Bride_,	5
+Hour_,	2
 Gordon_,	2
+Shield_,	1
 Bell_,	1
 Jigsaw_,	8
 Saw_,	9
@@ -15941,17 +15594,20 @@ Legal_,	1
 II_,	1
 Hannibal_,	1
 Glover_,	3
+Reloaded_,	1
 Disney_,	1
 Spider_,	1
-Smith_,	1
+Becker_,	1
+Smith_,	2
 Mamet_,	1
-Pictures_,	1
+Amazon_,	1
 P.M._,	1
 Exorcist_,	1
-Elwes_,	5
+Elwes_,	6
 Kramer_,	1
 c'mon_,	1
 Omen_,	1
+Sky_,	1
 Dr_,	1
 Linda_,	1
 Eaters_,	1
@@ -15959,26 +15615,28 @@ Seriously_,	1
 SAW_,	1
 Murtaugh_,	1
 Hostel_,	1
-Seven_,	4
+Hollywood_,	1
 SEVEN_,	1
-Whannell_,	5
+Whannell_,	9
 Dammit_,	1
 BUT_,	1
 Wan_,	3
 I_,	1
-Hollywood_,	1
 Plus_,	3
-Hour_,	2
+Leung_,	2
 Argento_,	1
 Canyon_,	1
 Adam_,	7
+Wannell_,	1
+Pictures_,	1
 photographer_,	1
 Freddy_,	1
 Yes_,	1
 REMAKES_,	1
 Film_,	1
-Wannell_,	1
 Overall_,	4
+HBO_,	1
+Seven_,	4
 CD_JJ
 ten_thousandth	1
 one_dead	1
@@ -16008,8 +15666,10 @@ Game_.	1
 photographer_.	1
 Elwes_?	1
 Room_?	1
+Intelligence_.	1
 Halloween_.	1
 Hopkins_.	1
+Spider_.	1
 Wan_.	1
 SAW_!	1
 OZ_.	1
@@ -16030,33 +15690,18 @@ Adam_?	2
 Wannell_.	1
 JJ_VBP
 much_gore	1
-few_do	1
-many_have	1
-didnt_see	1
 excessive_gore	1
+many_have	1
+few_do	1
+alive_remember	1
 severe_gore	1
+didnt_see	1
 solid_gore	1
--LRB-_WDT
--LRB-_which	2
-FW_NNPS
-<br />_Aficionados	1
 FW_NN
-<br />_Miracle	1
-la_cr&egrave;me	1
-<br />_PPS	1
-<br />_Spoiler	2
-<br />_SAW	2
-gordons_character	1
-dont_plan	1
 SAW_N-2	1
-<br />_Saw	4
-<br />_A	1
-<br />_Brass	1
-<br />_<a href="http://www.amazon.com/gp/product/1906669023">	1
-<br />_Ok	1
-<br />_Note	2
-<br />_PS	1
-<br />_Acting	1
+la_cr&egrave;me	1
+dont_plan	1
+gordons_character	1
 DT_VBD
 that_was	1
 this_was	7
@@ -16077,6 +15722,7 @@ orderly_called	1
 VBG_NN
 acting_ability	1
 making_something	1
+wailing_something	1
 involving_barbwire	2
 laying_face	1
 grossing_franchise	1
@@ -16139,12 +15785,14 @@ JJ_VBD
 implausible_became	1
 other_directed	1
 amateur_wrote	1
+cringe-worthy_was	1
 TO_WRB
 to_how	1
 to_why	1
 PRP_DT
 them_a	1
 him_a	1
+it_the	1
 you_that	1
 It_all	1
 them_the	1
@@ -16225,6 +15873,7 @@ people_to	2
 victims_to	5
 fixtures_to	1
 ankles_to	1
+eyes_to	1
 references_to	1
 editions_to	1
 dangers_to	1
@@ -16259,10 +15908,11 @@ edits_to	1
 cuts_to	1
 VBP_``
 say_`	1
+believe_``	1
 see_``	1
+verb_``	1
 feel_``	1
 say_``	1
-believe_``	1
 VBD_''
 saw_'	1
 was_''	1
@@ -16400,6 +16050,7 @@ more_without	1
 less_on	1
 more_with	1
 deeper_than	2
+higher_for	1
 older_than	1
 LS_NN
 i_say	1
@@ -16407,8 +16058,6 @@ i_mean	1
 i_hope	1
 :_FW
 -_in	1
-..._<br />	7
-:_<br />	1
 WRB_JJ
 how_preposterous	1
 why_scary	1
@@ -16490,12 +16139,11 @@ victim_who	1
 killer_who	6
 cop_who	3
 anyone_who	3
-IN_$
-for_$	1
+FW_PRP
+etc._I	1
+!!_I	2
 ``_FW
 `_em	1
-RBR_-RRB-
-more_-RRB-	1
 WRB_NNP
 When_Saw	1
 where_Adam	1
@@ -16686,8 +16334,6 @@ asking_why	1
 wondering_how	1
 saying_how	1
 learning_why	1
-JJS_-LRB-
-best_-LSB-	1
 ,_JJS
 ,_most	2
 ,_worst	1
@@ -16722,30 +16368,6 @@ Amanda_the	1
 Maybe_the	1
 Gordon_a	1
 Adam_the	1
-NNP_-LRB-
-Glover_-LRB-	3
-Nicholson_-LRB-	1
-Adam_-LSB-	1
-Gordon_-LRB-	2
-Adam_-LRB-	6
-Bell_-LRB-	2
-Jigsaw_-LRB-	2
-Elwes_-LRB-	4
-Whannell_-LRB-	6
-Glover_-LSB-	1
-October_-LRB-	1
-Leung_-LRB-	3
-Alison_-LRB-	1
-Smith_-LRB-	1
-Hellraiser_-LRB-	1
-Lawrence_-LRB-	4
-Tapp_-LRB-	3
-Potter_-LRB-	3
-Sing_-LRB-	1
-Meyer_-LRB-	2
-Saw_-LRB-	1
-Martinez_-LRB-	2
-Diana_-LRB-	1
 IN_,
 Besides_,	1
 throughout_,	2
@@ -16757,6 +16379,7 @@ that_,	3
 of_,	1
 up_,	1
 about_,	2
+Off_,	1
 out_,	1
 like_,	1
 NNS_VBD
@@ -16825,6 +16448,7 @@ up_as	1
 out_recently	1
 out_even	1
 out_right	1
+off_especially	1
 out_well	1
 CD_VBZ
 million_does	1
@@ -16834,29 +16458,12 @@ four_comes	1
 III_is	1
 One_gets	1
 One_is	1
--LRB-_PRP
--LRB-_You	1
--LRB-_I	5
--LRB-_they	1
--LRB-_he	1
--LRB-_you	1
--LCB-_I	1
 PRP_NNS
 he_saws	1
 it_fans	1
 he_winds	1
 us_clues	1
 yourself_questions	1
-RBR_IN
-more_in	1
-more_than	1
-better_than	3
-more_on	1
-smarter_than	1
-Better_than	1
-more_as	1
-better_because	1
-better_if	1
 NNS_VBN
 events_related	1
 scenes_captured	1
@@ -16913,36 +16520,6 @@ go_on	1
 ''_when	1
 ''_How	1
 ''_where	1
-RP_IN
-off_for	1
-out_before	1
-in_between	1
-down_by	1
-up_for	7
-along_with	1
-out_by	3
-out_with	3
-up_by	1
-out_on	2
-off_with	2
-out_that	4
-away_with	2
-up_until	2
-out_for	1
-up_on	3
-up_til	1
-off_as	1
-up_into	1
-out_in	4
-up_with	6
-out_at	2
-up_as	2
-out_as	1
-up_in	14
-out_if	2
-down_on	1
-down_for	1
-in_with	1
 ``_PRP
 ``_She	1
 `_it	1
@@ -16960,6 +16537,12 @@ wondering_what	2
 EX_PRP
 there_we	1
 there_it	1
+WRB_MD
+why_would	1
+why_ca	1
+Why_would	1
+When_will	1
+how_could	1
 POS_JJ
 's_new	1
 's_unrated	1
@@ -16971,9 +16554,10 @@ POS_JJ
 's_novel	1
 's_final	1
 's_just	1
-IN_-LRB-
-through_-LRB-	1
-on_-LRB-	1
+:_JJ
+..._violent	1
+-_OK	1
+..._okay	2
 VBN_``
 titled_`	1
 announced_``	1
@@ -16982,22 +16566,17 @@ seen_``	1
 called_``	1
 ingested_``	1
 ''_IN
-''_In	1
 '_if	1
-'_in	2
+''_In	1
 ''_so	1
+''_If	1
 ''_with	2
 ''_as	2
+'_in	2
 ''_in	4
+''_if	1
 :_TO
 ..._to	1
--RRB-_IN
--RRB-_in	4
--RRB-_for	1
--RRB-_that	1
--RRB-_as	1
--RSB-_in	1
--RRB-_while	1
 VBD_VBN
 was_named	1
 was_shot	1
@@ -17338,31 +16917,33 @@ WP_,
 what_,	2
 NNP_VBP
 MRI_scan	1
-Adam_find	1
+Whannell_wake	2
+Adam_find	2
 Adam_decide	1
 Dogs_have	1
-Lawrence_wake	1
+Elwes_wake	1
+Vega_are	1
 Whannell_have	1
+Elwes_are	1
 Identity_are	1
+Lawrence_wake	1
 Wan_make	1
 Picture_have	1
-TO_JJR
-to_more	2
 :_PRP
 -_he	1
 -_I	2
 -_you	3
 ;_they	1
-..._I	4
+..._I	5
 ..._he	1
 -_she	1
 ;_you	2
-..._it	8
+..._it	9
 ;_we	1
 ..._we	2
 ;_it	3
 ;_he	2
-..._It	1
+..._It	2
 ..._they	2
 NNS_IN
 thrillers_in	1
@@ -17396,6 +16977,7 @@ scripts_like	1
 walls_with	1
 lives_through	1
 franchises_in	1
+protagonists_if	1
 traps_for	1
 films_with	1
 videos_for	1
@@ -17457,6 +17039,7 @@ scenes_at	1
 proceeds_from	1
 2/3s_of	1
 charachters_in	1
+pawns_of	1
 cahoots_with	1
 efforts_like	1
 goals_while	1
@@ -17467,6 +17050,7 @@ toys_with	1
 terms_of	3
 types_of	2
 sequels_with	1
+sequels_at	1
 fears_of	1
 ideas_of	1
 dozens_of	1
@@ -17500,11 +17084,11 @@ pleasures_of	1
 films_that	1
 gaffs_in	1
 leaps_in	1
-pawns_of	1
+others_for	1
 cops_with	1
 characters_like	1
 films_than	1
-sequels_though	1
+sequels_though	2
 notches_from	1
 lives_of	1
 voices_in	1
@@ -17535,6 +17119,7 @@ scenes_of	3
 flaws_in	1
 survivors_of	1
 shocks_in	1
+lights_if	1
 pictures_of	1
 ways_than	1
 puzzels_for	1
@@ -17608,7 +17193,7 @@ Glover_looks	1
 Jigsaw_makes	1
 Hollywood_rushes	1
 Gordan_awakens	1
-Wan_is	1
+Wan_is	2
 Saw_has	1
 This_has	1
 Rings_does	1
@@ -17619,12 +17204,12 @@ Lawrence_finds	2
 Saw_brings	1
 Lawrence_is	2
 Saw_gets	1
-Glover_is	4
+Glover_is	5
 Wan_has	1
 Elwes_puts	1
 Adam_replies	1
 Saw_begins	1
-Elwes_has	1
+Starling_is	1
 Whannel_is	1
 This_is	1
 Adam_finds	1
@@ -17638,8 +17223,9 @@ Lawrence_knows	1
 Wan_ratchets	1
 Bell_does	1
 Lawrence_has	2
+Elwes_has	1
 Wan_shows	1
-Bell_is	1
+Bell_is	2
 Lawrence_lives	1
 Saw_is	11
 Inside_is	1
@@ -17654,13 +17240,13 @@ Lawrence_discovers	1
 Lawrence_believes	1
 SAW_fulfills	1
 Jigsaw_chooses	1
-Hopkins_is	1
+Whannell_sounds	1
 Adam_discovers	1
 Whannell_keeps	1
 SAW_stands	1
 Jigsaw_does	1
 Saw_proves	1
-Starling_is	1
+Hopkins_is	1
 Jigsaw_is	5
 Elwes_says	1
 Wan_gets	1
@@ -17902,8 +17488,10 @@ just_ca	4
 simply_can	1
 NN_``
 video_`	1
+compliment_`	1
 title_`	1
 aka_``	1
+noun_``	1
 standard_``	1
 average_``	1
 PG-13_``	1
@@ -17938,11 +17526,9 @@ rattled_,	1
 appeared_,	1
 had_,	1
 FW_VBN
-<br />_Based	1
-i_appreciated	1
 i_thought	1
+i_appreciated	1
 i_watched	1
-<br />_Weighed	1
 i_found	1
 VBD_.
 helped_.	1
@@ -17953,6 +17539,7 @@ worked_.	1
 missed_!	1
 was_.	4
 unfolded_.	1
+saw_.	1
 did_.	2
 succeeded_.	1
 said_.	1
@@ -17960,26 +17547,29 @@ were_.	1
 had_.	1
 rescued_?	1
 POS_.
-'_.	2
+'_.	3
 's_.	2
 NNP_VBG
-Gordan_sitting	1
+Gordan_killing	1
 Adam_waking	1
 Adam_freaking	1
 Gordon_being	1
 Adam_solving	1
-Gordan_killing	1
+Glover_Showing	1
+Gordan_sitting	1
 NNP_VBD
 Saw_had	2
 MPAA_made	1
 Elwes_surprised	1
 Saw_was	3
+Glover_uncovered	1
 SAW_put	1
 Lawrence_was	1
 Saw_Was	1
 Saw_turned	1
-Saw_became	1
 Elwes_was	1
+Saw_became	1
+Glover_was	1
 Gordon_was	1
 Whannell_were	1
 Jigsaw_used	1
@@ -17994,7 +17584,6 @@ Ewles_was	1
 Saw_earned	1
 Winkle_used	1
 Amazon_seemed	1
-Glover_was	1
 DT_''
 the_''	1
 This_''	1
@@ -18002,19 +17591,6 @@ NNP_VBN
 WAY_complicated	1
 WP_NNP
 What_I	1
--LRB-_IN
--LRB-_under	1
--LRB-_Along	2
--LRB-_though	2
--LRB-_if	3
--LSB-_if	1
--LRB-_like	1
--LRB-_for	1
--LRB-_If	1
--LRB-_as	1
--LRB-_at	2
--LRB-_with	2
--LRB-_in	1
 NNP_POS
 Saw_'	1
 Glover_'s	3
@@ -18056,15 +17632,16 @@ Cary_'s	1
 Factory_'s	1
 ''_FW
 ''_!!	1
-''_<br />	2
 ''_Hee	1
 NN_RB
 movie_so	1
+part_then	1
 time_soon	1
 shelf_right	1
 film_nearly	1
 detail_too	1
 plot_only	1
+sub-genre_thus	1
 anything_else	1
 man_first	1
 crap_either	1
@@ -18084,13 +17661,15 @@ thing_instead	1
 DVD_rather	1
 ending_so	1
 film_here	1
+nudity_sadly	1
 extent_nonetheless	1
 Everything_else	1
 name_so	1
+closet_closely	1
 anything_away	3
 mind_long	1
 willingness_not	1
-advantage_really	1
+mind_easily	1
 step_forward	1
 thing_rather	1
 route_so	1
@@ -18104,6 +17683,7 @@ question_soon	1
 someone_not	1
 movie_just	2
 type_either	1
+captor_presumably	1
 actor_probably	1
 something_else	1
 resolution_completely	1
@@ -18122,6 +17702,7 @@ something_very	1
 edition_later	1
 R_enough	1
 movie_certainly	1
+screen_even	1
 feel_so	1
 killer_still	1
 tentative_yes	1
@@ -18138,6 +17719,7 @@ movie_now	1
 tank_first	1
 movie_not	1
 remake_so	1
+tweeking_much	1
 budget_yet	1
 vigilanteism_still	1
 scene_here	3
@@ -18154,7 +17736,7 @@ movie_really	4
 place_here	1
 something_as	1
 killer_already	1
-mind_easily	1
+advantage_really	1
 acting_literally	1
 thing_here	1
 time_yet	1
@@ -18184,17 +17766,14 @@ caution_though	1
 splice_together	1
 arm_off	1
 movie_very	2
+area_just	1
 FW_WRB
-<br />_When	2
-<br />_Where	1
 Se7en_when	1
--LRB-_EX
--LRB-_there	1
 :_:
 ..._...	1
 JJ_IN
 sure_if	1
-bloody_than	1
+inexpensive_under	1
 frustrating_than	1
 sure_as	1
 unfortunate_because	1
@@ -18204,13 +17783,14 @@ disappointed_with	1
 insted_of	1
 original_as	1
 plentiful_unlike	1
-next_because	1
+bloody_than	1
 much_about	1
 bad_that	1
 uncomfortable_about	1
 own_for	1
 long_as	1
 screwy_with	1
+formulaic_with	1
 laughing_at	1
 disturbing_without	1
 cute_as	1
@@ -18227,9 +17807,10 @@ such_as	2
 lukewarm_as	1
 nerve-racking_as	1
 apparent_in	1
+next_because	1
 satisfying_in	1
 resolute_in	1
-chilling_at	1
+limited_for	1
 chained_down	1
 glad_that	1
 great_so	1
@@ -18282,6 +17863,7 @@ gory_as	1
 skewed_as	1
 definitive_in	1
 brutal_that	1
+impressive_than	1
 big_into	1
 short_in	1
 ridiculous_at	1
@@ -18333,7 +17915,7 @@ adequate_in	1
 explicit_in	1
 interested_throughout	1
 worthless_in	1
-limited_for	1
+chilling_at	1
 right_on	1
 clever_than	1
 inappropriate_for	1
@@ -18347,6 +17929,8 @@ funny_by	1
 selective_in	1
 disturbing_in	1
 high_on	1
+RBR_LS
+more_i	1
 VBD_``
 replied_``	1
 saw_``	1
@@ -18354,6 +17938,7 @@ was_`	1
 was_``	1
 ''_PRP
 ''_you	1
+''_he	1
 ''_I	1
 ''_it	1
 NNS_NN
@@ -18369,8 +17954,6 @@ audiences_laughing	1
 ones_goodbye	1
 VB_MD
 mention_would	1
--LRB-_-LRB-
--LRB-_-LRB-	2
 TO_WDT
 to_which	1
 NN_RP
@@ -18482,8 +18065,6 @@ one_puzzle	1
 one_victim	1
 million_budget	1
 two_hack	1
-3_<br />	1
-4.5_<br />	2
 2004_nobody	1
 SEVEN_type	1
 one_time	1
@@ -18516,6 +18097,8 @@ one_piece	1
 6_pm	1
 one_horror	1
 two_music	1
+JJS_VBZ
+least_is	1
 VBZ_NNP
 believes_Lawrence	1
 is_Danny	2
@@ -18541,6 +18124,7 @@ out_and	1
 off_and	1
 up_and	3
 :_.
+..._.	1
 -_.	1
 VBZ_NNS
 has_dozens	1
@@ -18614,8 +18198,6 @@ being_played	1
 getting_thrown	1
 being_toyed	1
 being_disturbed	1
--LRB-_WP
--LRB-_who	3
 VB_CD
 be_one	1
 rent_two	1
@@ -18660,7 +18242,7 @@ best_bet	1
 most_hardcore	1
 biggest_problem	1
 filthiest_bathroom	1
-best_horror	5
+best_horror	6
 worst_role	1
 best_part	2
 worst_performance	1
@@ -18670,33 +18252,40 @@ most_part	4
 best_way	1
 biggest_reason	1
 freshest_thing	1
-FW_RB
-<br />_Graphically	1
-<br />_so	1
-<br />_Definitively	1
-<br />_As	2
-<br />_anyway	1
-<br />_Instead	1
-<br />_Now	1
-<br />_just	1
-<br />_Then	1
+RP_IN
+off_for	1
+out_before	1
+in_between	1
+down_by	1
+up_for	7
+along_with	1
+out_by	3
+out_with	3
+up_by	1
+out_on	2
+off_with	2
+out_that	4
+away_with	2
+up_until	2
+out_for	1
+up_on	3
+up_til	1
+off_as	1
+up_into	1
+out_in	4
+up_with	6
+out_at	2
+up_as	2
+out_as	1
+up_in	14
+out_if	2
+down_on	1
+down_for	1
+in_with	1
 DT_PDT
 the_all	1
-VBP_-LRB-
-verb_-LRB-	1
-get_-LSB-	1
--LRB-_RBR
--LRB-_more	1
--LRB-_NN
--LRB-_25GB	1
--LRB-_catch	1
--LRB-_Glover	1
--LRB-_example	1
--LRB-_screenwriter	1
--LRB-_edit	1
--LRB-_writer/director	1
--LRB-_S	1
--LRB-_something	1
+VBP_VBD
+wish_had	1
 ,_NNP
 ,_Benito	2
 ,_Det.	1
@@ -18828,7 +18417,7 @@ helps_at	1
 fulfills_that	1
 discovers_that	2
 ends_with	1
-misdirects_on	1
+thinks_that	1
 masquerades_as	1
 seems_like	1
 thinks_of	1
@@ -18860,7 +18449,7 @@ falls_within	1
 goes_by	1
 turns_into	1
 succeeds_in	1
-thinks_that	1
+misdirects_on	1
 knocks_against	1
 relies_on	2
 improves_upon	1
@@ -18873,6 +18462,7 @@ sounds_like	2
 feels_like	2
 appears_on	1
 talks_like	1
+says_with	1
 is_that	8
 gets_out	1
 blares_for	1
@@ -19254,6 +18844,7 @@ good_deal	2
 dead_man	12
 on-screen_daughter	1
 good_guy	1
+disturbing_imagery	1
 cinematic_killers.He	1
 original_element	1
 old-fashioned_terror	1
@@ -19364,6 +18955,7 @@ smart_screenplay	1
 interesting_premise	2
 barf_bag	1
 similar_siutation	1
+disgusting_climax	1
 much_violence	1
 fancy_package	1
 own_right	1
@@ -19430,7 +19022,6 @@ long_future	1
 popular_talk	1
 noir-styled_thriller	1
 mental_insanity	1
-impressive_<br />	1
 mad_person	1
 good_cinematography	1
 decent_acting	1

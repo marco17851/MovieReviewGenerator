@@ -33,10 +33,6 @@ so_I	1
 ''_.	1
 VBZ_CD
 's_one	1
-JJ_-LRB-
-bad_-LRB-	2
-NN_-RRB-
-area_-RRB-	1
 PRP_VBD
 they_copied	2
 I_had	1
@@ -71,12 +67,10 @@ WP_VBZ
 What_is	1
 PRP_VBZ
 It_'s	2
--RRB-_,
--RRB-_,	1
+IN_,
+that_,	1
 VBG_IN
 claiming_that	1
--RRB-_:
--RRB-_;	1
 CC_PRP
 but_I	1
 VBP_RB
@@ -97,6 +91,8 @@ PRP$_NN
 my_mouth	1
 CC_VBG
 and_claiming	1
+JJ_PRP
+bad_they	1
 JJ_.
 original_.	1
 ridiculous_.	1
@@ -124,6 +120,8 @@ CC_IN
 but_in	1
 DT_RB
 A_very	1
+JJ_DT
+bad_the	1
 JJR_NN
 wider_area	1
 NNS_VBP
@@ -135,15 +133,11 @@ off_other	1
 ,_the	1
 NNS_VBD
 scenes_were	1
--LRB-_PRP
--LRB-_they	1
 UH_.
 Wow_.	1
 NN_NN
 fight_scene	1
 hallway_scene	1
--LRB-_DT
--LRB-_the	1
 IN_NNP
 of_OldBoy	1
 DT_NNP
@@ -163,6 +157,7 @@ heard_the	1
 copied_the	1
 NN_:
 blockbuster_-	1
+area_;	1
 NNS_CC
 movies_and	1
 VBD_VBG
@@ -190,8 +185,6 @@ movies_so	1
 NN_CC
 movie_but	2
 scene_but	1
-IN_-RRB-
-that_-RRB-	1
 TO_VB
 to_copy	1
 to_watch	1

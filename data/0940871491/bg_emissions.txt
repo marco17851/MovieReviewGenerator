@@ -86,15 +86,11 @@ NN_MD
 care_should	1
 tape_would	1
 version_will	1
-FW_PRP
-<br />_I	1
 NNP_CC
 English_and	1
 Yang_and	1
 DT_``
 the_``	1
-FW_FW
-<br />_<br />	2
 VBG_IN
 working_with	1
 DT_MD
@@ -116,10 +112,10 @@ JJR_NN
 more_audio	1
 ''_NNP
 ''_T'ai	1
-NN_,
-slo-mo_,	1
-audio_,	2
-music_,	1
+IN_JJ
+of_different	1
+through_various	1
+in_early	1
 ``_VBG
 ``_picking	1
 NN_WRB
@@ -190,8 +186,6 @@ EX_VBP
 there_are	1
 VBP_DT
 wish_this	1
-FW_NNP
-<br />_Bottom	1
 NN_NN
 NO_step-by-step	1
 saber_style	1
@@ -238,10 +232,10 @@ included_more	1
 VBD_VBG
 started_attending	1
 was_going	1
-IN_JJ
-of_different	1
-through_various	1
-in_early	1
+NN_,
+slo-mo_,	1
+audio_,	2
+music_,	1
 ``_NN
 ``_family	1
 ``_chapter	1

@@ -33,8 +33,6 @@ NNP_WDT
 Jersey_that	1
 VBN_VBG
 done_buying	1
-FW_DT
-<br />_The	1
 CC_JJ
 and_bad	1
 and_brassy	1
@@ -85,6 +83,7 @@ what_makes	1
 who_has	2
 NNP_CC
 Tyler_and	1
+Back_and	1
 Jay_and	1
 NNP_CD
 McDermott_?!?	1
@@ -234,6 +233,8 @@ must_for	1
 NNP_''
 Jersey_''	2
 Clerks_''	1
+VBG_:
+saying_...	1
 DT_NNS
 the_others	1
 the_actors	2
@@ -281,8 +282,9 @@ was_the	1
 was_no	1
 NNS_CC
 flicks_both	1
-people_and	1
 actors_and	1
+people_and	1
+Lanes_and	1
 times_but	1
 JJR_IN
 hotter_in	1
@@ -335,6 +337,7 @@ Working_Girl	2
 Girl_Will	1
 Mr._Right	1
 Mr._McDermott	1
+Smith_Clerks	1
 Ben_Afflec	1
 George_Carlin	1
 Vegas_Lounge	1
@@ -346,7 +349,7 @@ Jersey_Girl	6
 White_Castles	1
 Dylan_McDermott	6
 Lounge_Legend	1
-<br />_Jami	1
+Afflec_Shakespear	1
 Jami_Gertz	3
 Bon_Jovi	1
 American_Studies	1
@@ -424,9 +427,6 @@ VBN_PRP$
 seen_my	1
 VBD_CD
 was_one	1
-NNP_-RRB-
-Gertz_-RRB-	1
-Back_-RRB-	1
 CC_RB
 and_just	2
 and_even	3
@@ -627,15 +627,10 @@ She_decides	1
 She_falls	1
 it_stars	1
 it_'s	6
-FW_PRP
-<br />_It	1
 PRP_:
 them_;	1
 IN_.
 behind_!	1
-FW_FW
-<br />_<br />	6
-=]_<br />	1
 EX_RB
 there_ever	1
 ``_DT
@@ -1012,8 +1007,6 @@ they_just	1
 I_also	1
 IN_EX
 that_there	1
-JJ_-LRB-
-wise-guy_-LRB-	1
 CD_UH
 ?!?_Hello	1
 JJ_``
@@ -1034,12 +1027,11 @@ begins_stalking	1
 is_running	1
 is_coming	1
 VB_PRP
-<br />_It	1
-get_it	2
 Found_it	1
-Let_me	1
+get_it	2
 watch_it	1
 rent_it	1
+Let_me	1
 RB_VBP
 just_hope	1
 now_own	1
@@ -1096,8 +1088,6 @@ women_who	2
 RP_NN
 up_money	1
 up_anything	1
--LRB-_VBN
--LRB-_played	1
 MD_RB
 would_actually	1
 ca_n't	1
@@ -1223,8 +1213,6 @@ actually_give	1
 not_give	1
 So_take	1
 n't_tell	1
-,_VBG
-,_Changing	1
 IN_IN
 of_by	1
 out_of	1
@@ -1235,10 +1223,8 @@ perfect_anymore	1
 VBG_PRP$
 saying_its	1
 wrecking_his	1
-VBG_:
-saying_...	1
--RRB-_VBZ
--RRB-_is	1
+,_VBG
+,_Changing	1
 NNS_.
 dreams_.	1
 mannerisms_.	1
@@ -1276,9 +1262,10 @@ favorite_movies	1
 tacky_cloths	1
 cultural_aspects	1
 early_90s	1
+many_times	1
 serveral_years	1
 negative_reviews	1
-many_times	1
+wise-guy_girls	1
 subsequent_events	1
 JJ_NNP
 young_Dylan	1
@@ -1302,8 +1289,6 @@ one_for	1
 ''_and	2
 IN_WP
 of_what	1
--RRB-_CC
--RRB-_and	2
 VBG_PRP
 stalking_him	1
 thinking_it	1
@@ -1376,9 +1361,6 @@ know_these	1
 are_a	1
 recommend_this	1
 play_the	1
-NNS_-RRB-
-girls_-RRB-	1
-Lanes_-RRB-	1
 VBD_TO
 had_to	1
 was_to	1
@@ -1542,8 +1524,6 @@ girl_there	1
 ``_cool	1
 ``_sweet	1
 ``_exciting	1
-FW_:
-<br />_-	1
 NNP_IN
 Charming_in	1
 Start_with	1
@@ -1573,11 +1553,6 @@ POS_NN
 ,_she	1
 ,_I	3
 ,_he	1
--LRB-_NNP
--LRB-_Clerks	1
--LRB-_Shakespear	1
--LRB-_NNS
--LRB-_girls	1
 JJ_CC
 bad_and	1
 handsome_and	1
@@ -1594,7 +1569,7 @@ sweet_and	3
 PDT_PRP$
 all_his	1
 FW_CC
-<br />_and	1
+=]_and	1
 JJ_CD
 random_80s	1
 early_90	1
@@ -1684,8 +1659,6 @@ this_one	4
 a_14	1
 DT_CC
 all_but	1
-FW_``
-<br />_``	1
 RP_DT
 away_the	1
 VBP_RB
@@ -1786,10 +1759,6 @@ wore_her	1
 IN_CC
 over_and	1
 with_and	1
-NNP_-LRB-
-Cinderella_-LRB-	1
-Afflec_-LRB-	1
-Smith_-LRB-	1
 NNS_VBG
 reviews_coming	1
 PRP_NNP
@@ -1797,8 +1766,6 @@ You_Proud	1
 VBP_NNP
 love_Kevin	1
 hate_Ben	1
-FW_RB
-<br />_Not	1
 ``_PRP
 ``_You	1
 VBG_WP
@@ -1808,8 +1775,6 @@ one_better	1
 POS_JJ
 's_bare	1
 's_primary	1
--RRB-_IN
--RRB-_with	1
 VBD_VBN
 was_filmed	1
 were_born	1
@@ -1840,12 +1805,13 @@ others_like	1
 aspects_of	1
 portrayals_of	1
 events_in	1
+girls_with	1
 movies_like	1
 VBD_:
 wrecked_...	1
 NNP_VBZ
 McDermott_is	1
-Gertz_is	2
+Gertz_is	3
 Gertz_has	1
 Girl_is	2
 VB_JJ
@@ -1876,6 +1842,8 @@ Jersey_looking	1
 Galo_making	1
 NNP_VBD
 Gertz_wore	1
+NNP_VBN
+Cinderella_played	1
 NNP_POS
 Gertz_'s	2
 McDermott_'s	3

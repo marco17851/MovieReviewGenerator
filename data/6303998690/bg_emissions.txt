@@ -1,14 +1,3 @@
-NN_-LRB-
-movie_-LRB-	1
-WOMAN_-LRB-	1
-poetry_-LRB-	1
-origin_-LRB-	1
-seat_-LRB-	1
-marshall_-LRB-	1
-treatment_-LRB-	1
-babe_-LRB-	1
-Cal_-LRB-	1
-warden_-LRB-	1
 IN_NN
 with_clay	1
 from_hell	1
@@ -96,8 +85,10 @@ into_``	2
 of_`	1
 VBP_.
 go_.	1
-POS_CC
-'s_and	2
+FW_NN
+THEIR_BLOOD	1
+heh_heh	1
+sci-fi_buff	1
 VBP_:
 mean_...	1
 VBN_.
@@ -112,11 +103,6 @@ be_shorter	1
 have_more	1
 NNP_WRB
 Canaveral_where	1
--LRB-_``
--LRB-_``	1
-FW_DT
-<br />_This	1
-<br />_The	3
 VB_TO
 like_to	2
 listen_to	1
@@ -153,16 +139,13 @@ who_plays	1
 who_likes	1
 who_seems	1
 what_is	4
--RRB-_,
--RRB-_,	6
--RRB-_.
--RRB-_.	7
 NNP_CC
-Crow_and	1
-Southern_and	1
+Graham_and	1
 Yvette_and	1
 Liz_and	2
-Vickers_and	1
+Vickers_and	2
+Crow_and	1
+Southern_and	1
 NNP_CD
 July_1959	1
 July_'59	1
@@ -175,8 +158,6 @@ better_rolls	1
 :_JJS
 ..._Most	1
 -_most	1
--RRB-_:
--RRB-_...	1
 :_NN
 --_man	1
 ..._love	1
@@ -298,15 +279,13 @@ are_hilarious	1
 are_grown	1
 are_femme	1
 are_above	1
-DT_-LRB-
-the_-LRB-	1
 VB_NNS
 have_thousands	1
--LRB-_RB
--LRB-_now	1
--LRB-_probably	1
--LRB-_sadly	1
--LRB-_usually	1
+VB_NNP
+recast_Miss	1
+act_Southern	1
+see_Yvette	1
+think_Ill	1
 NNS_NNP
 memories_Miss	1
 catches_Liz	1
@@ -322,14 +301,6 @@ and_of	1
 but_from	1
 but_if	1
 But_since	1
-IN_IN
-except_for	1
-out_of	6
-about_like	1
-because_of	3
-as_if	1
-that_for	1
-As_for	1
 VBP_TO
 seem_to	2
 have_to	1
@@ -352,11 +323,13 @@ although_admittedly	1
 than_actually	1
 about_as	1
 for_back	1
-VBN_DT
-changed_a	1
-been_a	2
-enjoyed_this	1
-found_a	1
+WDT_VBZ
+that_gets	1
+that_has	2
+that_moves	1
+which_is	1
+that_appears	1
+that_is	3
 VBG_TO
 trying_to	1
 starting_to	1
@@ -391,6 +364,7 @@ VBP_PRP$
 keep_their	1
 have_your	1
 CD_VBZ
+1959_is	1
 one_does	1
 VB_,
 add_,	1
@@ -413,10 +387,8 @@ dark_to	1
 NNS_JJ
 titles_available	2
 years_old	1
-FW_NNP
-<br />_GFT	1
-<br />_Vickers	1
-<br />_Fat	1
+RP_CC
+out_and	1
 NNP_''
 Month_''	1
 Dame_''	1
@@ -519,6 +491,7 @@ the_Florida	1
 The_Yellow	1
 VB_WRB
 cheer_when	1
+swamp_where	1
 VBD_DT
 was_a	2
 KIDNAPPED_A	1
@@ -541,8 +514,8 @@ scenes_and	1
 poets_and	1
 buddies_and	1
 leeches_and	2
-VBN_-RRB-
-departed_-RRB-	1
+NNS_CD
+budgets_five	1
 JJR_IN
 more_over	1
 less_than	1
@@ -616,6 +589,7 @@ fun_double	1
 hero_hairy-chested	1
 bit_heavy	1
 bit_wooden	1
+origin_hokey	1
 lady_clingy	1
 backwater_white	1
 print_available	1
@@ -624,29 +598,32 @@ Vickers_stars	1
 Vickers_camps	1
 Florida_swamps	1
 NNP_NNP
+Liz_Yvette	2
 Yvette_Vickers	13
 Chase_Winstead	1
-<br />_Ken	1
+Julian_Burton	1
 Playboy_Playmate	1
 The_ONLY	1
+Walker_Yvette	1
+Winstead_Don	1
 Alfred_Hitchcock	1
 Wasp_Woman	1
+Pat_Boone	1
 Walter_Paisley	1
 Famous_Monsters	1
-Julian_Burton	1
 Sultry_Liz	1
 Ray_Kellogg	1
+Miller_Joe	1
 Yellow_Door	1
 Twilight_Zone	1
-Pat_Boone	1
-<br />_<br />	1
+Jeff_Fred	1
 Alex_Hassilev	1
 Ft_Woman	1
 Dick_Miller	5
 Cape_Canaveral	2
 GIANT_LEECHES	2
 Foot_Woman	2
-LEECHES_HAVE	1
+Roger_Corman	6
 Reviewer_This	1
 Miss_Vickers	2
 Giant_Gila	1
@@ -654,21 +631,27 @@ South_Pacific	3
 ?!_The	1
 Though_Marengo	1
 Liz_Walker	2
+Dave_Bruno	2
 Ken_Clark	8
 WE_NEED	1
-Barboura_Morris	2
+Vickers_July	1
 Fred_Graham	1
+Maxwell_Julian	1
 A_Bucket	2
 A_Dame	1
+Vickers_Attack	1
 Amazon_Reviewer	1
 Joe_Dante	1
 Corman_Presents	1
+Barboura_Morris	2
 Susan_Cabot	1
-Roger_Corman	6
+LEECHES_HAVE	1
+Steve_Ken	1
 Playmate_Yvette	1
 NEED_SODIUM	1
 Michael_Emmet	2
 Tyler_McVey	1
+Greyson_Tyler	1
 Don_Sullivan	1
 Doc_Greyson	1
 Bruno_VeSoto	1
@@ -677,7 +660,6 @@ Giant_Leeches	3
 Clint_Walker	1
 Bruno_VeSota	2
 Little_Shop	2
-<br />_Make	1
 :_RB
 ..._well	1
 ..._as	1
@@ -765,43 +747,35 @@ VBZ_WRB
 's_why	1
 WDT_JJ
 which_normal	1
--LRB-_CD
--LRB-_five	1
 VB_WP
 see_what	1
 Forget_what	1
--LRB-_CC
--LRB-_and	1
-NNS_-LRB-
-times_-LRB-	1
-reviewers_-LRB-	1
-lines_-LRB-	1
-budgets_-LRB-	1
 CD_POS
 60_'s	1
 1960_'s	1
 50_'s	1
 RB_,
-well_,	1
 not_,	1
 Still_,	1
 Yet_,	1
 However_,	1
 here_,	1
+now_,	1
+slowly_,	1
 again_,	1
 soon_,	1
 Yes_,	1
 long_,	1
 Actually_,	2
 Yep_,	1
-Well_,	1
+well_,	1
 Anyway_,	1
-slowly_,	1
+Well_,	1
 RB_.
 on_.	1
 ago_.	1
 again_.	1
-then_.	1
+then_.	2
 anyway_.	1
 well_.	1
 only_.	1
@@ -809,19 +783,6 @@ VBD_CD
 took_four	1
 was_9	1
 had_one	1
-NNP_-RRB-
-VeSoto_-RRB-	1
-McVey_-RRB-	1
-VeSota_-RRB-	1
-Woman_-RRB-	1
-Clark_-RRB-	2
-Marengo_-RRB-	1
-Emmet_-RRB-	1
-Graham_-RRB-	1
-Burton_-RRB-	1
-Walker_-RRB-	1
-Vickers_-RRB-	5
-Sullivan_-RRB-	1
 CC_RB
 and_fast	1
 but_up	1
@@ -851,10 +812,6 @@ when_he	1
 When_I	1
 where_you	1
 when_you	2
-CD_-RRB-
-1959_-RRB-	1
-30,000_-RRB-	1
-1960_-RRB-	1
 JJS_DT
 most_all	1
 least_some	1
@@ -870,6 +827,8 @@ her_hulkish	1
 her_recent	1
 his_hot	1
 his_mighty	1
+PRP_PRP
+it_I	1
 IN_PRP
 though_they	1
 for_you	1
@@ -893,20 +852,12 @@ Though_it	1
 that_it	1
 like_he	1
 unless_they	1
+''_.
+''_.	1
 ''_,
 ''_,	1
 NNS_VB
 people_go	1
-IN_VBG
-while_screaming	1
-as_having	1
-of_busting	1
-without_wasting	1
-of_having	1
-after_seeing	1
-as_being	1
-around_playing	1
-of_watching	1
 ,_FW
 ,_i.e.	1
 ,_heh	1
@@ -1167,9 +1118,13 @@ It_is	2
 She_does	1
 FW_PRP
 </a>_I	1
-<br />_I	1
 IN_,
 on_,	1
+FW_FW
+SUCKING_THEIR	1
+fifties_sci-fi	1
+heh_heh	1
+Shrews_</a>	1
 WP_NNP
 what_?!	1
 PRP_.
@@ -1251,6 +1206,8 @@ femme_.	1
 special_.	1
 threatening_.	1
 unique_.	1
+VBN_NNP
+departed_Yvette	1
 VBN_IN
 accepted_by	1
 presented_under	1
@@ -1335,15 +1292,18 @@ leech_suits	1
 NN_NNP
 tramp_Liz	1
 zillion_Roger	1
+babe_Vickers	1
 movie_Liz	1
 slob_Dave	1
 warden_Steve	1
 hubby_Dave	1
+warden_Ken	1
 lover_Michael	1
 course_Yvette	1
 Killer_Shrews	1
-point_Walter	1
 director_Ray	1
+point_Walter	1
+Cal_Michael	1
 wife_Liz	2
 :_``
 -_``	1
@@ -1366,8 +1326,6 @@ surprised_when	1
 --_This	1
 JJR_NN
 more_attention	1
-PRP_-LRB-
-it_-LRB-	1
 VBP_VBZ
 swamp_is	1
 RP_NNP
@@ -1412,8 +1370,6 @@ swamp_fooling	1
 keep_disappearing	1
 are_going	1
 are_running	1
--LRB-_WRB
--LRB-_where	1
 JJS_IN
 most_of	3
 IN_NNPS
@@ -1421,13 +1377,11 @@ by_Californians	1
 EX_VBZ
 There_is	2
 there_'s	1
-._-RRB-
-._-RRB-	1
-?_-RRB-	2
 EX_VBP
 There_are	1
 there_are	1
 NN_NN
+treatment_Season	1
 night_watchman	1
 popcorn_classic	1
 love_story	1
@@ -1459,6 +1413,7 @@ house_care	1
 movie_cliche	1
 MST3K_version	1
 credit_combo	1
+store_owner	1
 version_check	1
 blood_sucking	1
 grade_science	1
@@ -1478,32 +1433,23 @@ character_actor	1
 film_remaid	1
 science_fiction	1
 monster_feature	1
-store_owner	1
+poetry_ala	1
 town_tramp	1
 NNS_RB
 people_only	1
 years_ago	1
 minutes_anyway	1
+times_usually	1
 fifties_certainly	1
 beats_only	1
 leeches_practically	1
 stars_once	1
+reviewers_now	1
 cuts_rather	1
 :_MD
 :_Can	1
-,_RB
-,_almost	1
-,_not	1
-,_overall	1
-,_so	1
-,_hence	1
-,_slowly	1
-,_maybe	1
-,_even	1
 JJS_,
 best_,	1
--RRB-_RB
--RRB-_just	1
 DT_JJ
 a_hard	1
 the_dreadful	1
@@ -1583,8 +1529,6 @@ the_key	1
 This_double	1
 ''_``
 ''_``	2
--RRB-_NNP
--RRB-_Yvette	1
 NN_IN
 time_through	1
 idea_of	1
@@ -1688,8 +1632,6 @@ relationship_between	1
 swap_with	1
 Attack_of	7
 complaint_about	1
-VB_-LRB-
-swamp_-LRB-	1
 CC_DT
 but_that	2
 and_a	1
@@ -1745,6 +1687,7 @@ feature_is	1
 hero_is	1
 scripting_is	1
 element_is	1
+would-be-sculptor_wants	1
 flick_is	1
 boy_is	1
 part_comes	1
@@ -1759,7 +1702,7 @@ cast_is	1
 movie_is	4
 everybody_is	1
 acting_is	2
-would-be-sculptor_wants	1
+enforcement_mounts	1
 surprise_is	1
 hunter_comes	1
 budget_is	1
@@ -1809,6 +1752,7 @@ WRB_PDT
 where_all	1
 NN_VBP
 direction_are	1
+mine_are	1
 :_WRB
 ..._how	1
 --_how	1
@@ -1952,10 +1896,11 @@ actually_prefered	1
 just_said	1
 still_found	1
 always_was	1
-FW_IN
-<br />_Against	1
-<br />_If	1
-<br />_As	2
+NNS_NN
+fifties_creature	1
+effects_budget	1
+drinks_coffee	1
+leeches_origin	1
 VBD_NN
 did_float	1
 got_ta	1
@@ -1967,8 +1912,9 @@ original_black	1
 several_other	1
 blond_hairy	1
 great_cheesy	1
-sweaty_drunk	1
+early_pre	1
 same_mysterious	1
+teenage_hot	2
 juvenile_delinquent	1
 many_other	1
 waterborne_dead	1
@@ -1976,7 +1922,7 @@ goofy_hillbilly	1
 non-lady_cleavaged	1
 hokey_fourth	1
 lovely_young	1
-teenage_hot	2
+sweaty_drunk	1
 big_strong	1
 unbelievable_giant	1
 VBZ_TO
@@ -2012,6 +1958,7 @@ would_n't	1
 should_not	1
 NN_WDT
 creature_that	1
+WOMAN_which	1
 hunter_that	1
 science_that	1
 anything_that	1
@@ -2066,8 +2013,6 @@ looks_soft	1
 's_cheap	1
 is_worried	1
 shows_genuine	1
-JJ_-RRB-
-nasty_-RRB-	1
 ''_DT
 ''_the	1
 ''_this	1
@@ -2175,8 +2120,15 @@ a_swamp	1
 DT_``
 a_``	1
 the_``	3
--LRB-_WDT
--LRB-_which	1
+,_RB
+,_almost	1
+,_not	1
+,_overall	1
+,_so	1
+,_hence	1
+,_slowly	1
+,_maybe	1
+,_even	1
 CC_PRP
 but_they	2
 but_he	2
@@ -2206,13 +2158,14 @@ not_be	1
 n't_have	2
 So_have	1
 so_give	1
-FW_FW
-heh_heh	1
-SUCKING_THEIR	1
-Shrews_</a>	1
-<br />_<br />	21
-<br />_Enjoy	1
-fifties_sci-fi	1
+IN_IN
+except_for	1
+out_of	6
+about_like	1
+because_of	3
+as_if	1
+that_for	1
+As_for	1
 JJ_RB
 young_then	1
 short_enough	1
@@ -2222,8 +2175,6 @@ VBG_PRP$
 busting_his	1
 rehearsing_their	1
 exposing_his	1
--RRB-_VBP
--RRB-_are	1
 ,_VBG
 ,_meaning	1
 ,_starting	1
@@ -2232,16 +2183,6 @@ exposing_his	1
 ,_dashing	1
 ,_roaming	1
 ,_finding	1
-''_-RRB-
-''_-RRB-	2
--RRB-_VBZ
--RRB-_has	1
--RRB-_catches	1
--RRB-_decides	1
--RRB-_keeps	1
--RRB-_mounts	1
--RRB-_gets	1
--RRB-_is	3
 NNS_.
 dances_!	1
 leeches_?	1
@@ -2273,7 +2214,7 @@ dreams_,	1
 suits_,	1
 houses_,	1
 movies_,	1
-eyes_,	1
+dollars_,	1
 decades_,	1
 people_,	1
 sculptures_,	1
@@ -2284,9 +2225,8 @@ songs_,	1
 minutes_,	1
 men_,	1
 cops_,	1
+eyes_,	1
 rodders_,	1
--RRB-_DT
--RRB-_the	1
 VBD_NNS
 liked_movies	1
 saw_images	1
@@ -2297,6 +2237,7 @@ saw_Roger	1
 turned_Crow	1
 NNS_:
 swamps_-	1
+swamps_...	1
 leeches_...	1
 ,_VBZ
 ,_gives	1
@@ -2386,8 +2327,6 @@ one_by	1
 ''_and	2
 IN_WP
 that_what	1
--RRB-_CC
--RRB-_and	2
 VBG_PRP
 watching_it	1
 expecting_him	1
@@ -2403,6 +2342,7 @@ The_really	1
 a_bit	1
 a_mercifully	1
 some_very	1
+the_sadly	1
 the_very	1
 a_pretty	1
 This_really	1
@@ -2412,12 +2352,14 @@ the_Limeliters	1
 NN_PRP
 cliche_you	1
 movie_they	1
+movie_she	1
 flame_he	1
 clay_he	1
 time_it	1
 reason_it	1
 free-spirit_she	1
 someone_you	1
+seat_I	1
 check_it	1
 point_it	1
 time_I	1
@@ -2427,6 +2369,8 @@ hide_her	1
 read_their	1
 DT_RP
 this_out	1
+._.
+?_.	1
 ,_MD
 ,_should	1
 JJ_DT
@@ -2499,8 +2443,6 @@ when_Joel	1
 NNP_NNPS
 Giant_Leeches	2
 Green_Berets	1
-FW_PRP$
-<br />_Our	1
 NNS_DT
 times_a	1
 chops_the	1
@@ -2537,16 +2479,14 @@ read_the	1
 recommend_this	1
 have_a	3
 get_a	1
-NNS_-RRB-
-swamps_-RRB-	1
-dollars_-RRB-	1
 VBD_TO
 wanted_to	1
 had_to	1
 NN_FW
 Killer_Shrews	1
-NNS_POS
-leeches_'	1
+,_WDT
+,_which	1
+,_that	1
 JJS_NNS
 most_muscles	1
 best_elements	1
@@ -2581,6 +2521,7 @@ buff_,	1
 today_,	1
 tramp_,	1
 day_,	1
+rodder_,	1
 monster_,	1
 LEAP_,	1
 town_,	1
@@ -2602,7 +2543,7 @@ era_,	1
 fun_,	4
 treatment_,	1
 drama_,	1
-rodder_,	1
+actor_,	1
 sort_,	1
 budget_,	2
 parody_,	1
@@ -2655,6 +2596,7 @@ shift_.	1
 budget_.	1
 generation_.	1
 tension_.	1
+combo_?	1
 misery_.	1
 abundance_!	1
 lesson_.	1
@@ -2666,7 +2608,7 @@ investigation_.	1
 heh_.	1
 movie_.	3
 script_.	1
-combo_?	1
+sheriff_.	1
 woman_.	1
 cheek_.	1
 horror_.	1
@@ -2695,13 +2637,11 @@ husband_.	1
 artwork_.	1
 jazz_.	1
 pause_?	1
-WDT_VBZ
-that_gets	1
-that_has	2
-that_moves	1
-which_is	1
-that_appears	1
-that_is	3
+VBN_DT
+changed_a	1
+been_a	2
+enjoyed_this	1
+found_a	1
 POS_,
 '_,	2
 WDT_VBP
@@ -2733,21 +2673,12 @@ watching_once	1
 hanging_around	1
 FW_JJ
 i.e._sweaty	1
-<br />_Bad	1
--RRB-_NN
--RRB-_wife	1
--RRB-_offering	1
 DT_.
 this_.	2
 VBG_RP
 figuring_out	1
 fooling_around	1
 stepping_out	1
-VB_NNP
-recast_Miss	1
-act_Southern	1
-see_Yvette	1
-think_Ill	1
 :_VBZ
 --_puts	1
 RB_JJ
@@ -2799,9 +2730,6 @@ only_new	1
 very_poor	1
 stereotypically_ready	1
 pretty_decent	1
-RB_-RRB-
-then_-RRB-	1
-now_-RRB-	1
 NNPS_.
 Limeliters_.	1
 VBG_DT
@@ -2861,6 +2789,7 @@ Monsters_of	1
 Morris_as	1
 Shop_of	1
 Bucket_of	3
+Woman_in	1
 Liz_on	1
 Servo_into	1
 Texas_for	1
@@ -2875,15 +2804,18 @@ FW_.
 Enjoy_!	1
 VBZ_``
 is_`	1
-NNS_NN
-fifties_creature	1
-effects_budget	1
-drinks_coffee	1
-leeches_origin	1
+IN_VBG
+while_screaming	1
+as_having	1
+of_busting	1
+without_wasting	1
+of_having	1
+after_seeing	1
+as_being	1
+around_playing	1
+of_watching	1
 VBN_WRB
 given_when	1
-POS_NN
-'_lair	1
 ,_PRP
 ,_she	2
 ,_they	1
@@ -2897,19 +2829,6 @@ IN_VBN
 as_inspired	1
 RB_NNP
 Only_God	1
--LRB-_NNP
--LRB-_Bruno	3
--LRB-_July	1
--LRB-_Yvette	3
--LRB-_Joe	1
--LRB-_Michael	1
--LRB-_Don	1
--LRB-_Vickers	1
--LRB-_Ken	2
--LRB-_Tyler	1
--LRB-_Julian	1
--LRB-_Fred	1
--LRB-_Attack	1
 VBG_.
 happening_.	1
 screaming_.	1
@@ -2928,11 +2847,10 @@ available_and	1
 hairy-chested_and	1
 cheap_and	1
 quick_&	1
+gorgeous_and	1
 black_&	1
 VBN_RBR
 seemed_more	1
-FW_CC
-<br />_But	1
 IN_VBZ
 as_does	1
 JJ_CD
@@ -2940,12 +2858,14 @@ short_62	1
 early_1960	1
 late_50	1
 CD_,
-4_,	1
 138,000_,	1
+4_,	1
+30,000_,	1
 1950s_,	2
 two_,	1
 CD_.
 one_.	1
+1960_.	1
 1959_.	1
 WRB_VBZ
 how_is	1
@@ -2953,14 +2873,8 @@ NNP_WP
 Boone_who	1
 CD_:
 39_--	1
-JJ_-LRB-
-gorgeous_-LRB-	1
-early_-LRB-	1
-NN_-RRB-
-enforcement_-RRB-	1
-sheriff_-RRB-	1
-mine_-RRB-	1
-actor_-RRB-	1
+POS_NN
+'_lair	1
 TO_NN
 to_cult	1
 to_misadventure	1
@@ -2987,8 +2901,9 @@ put_together	1
 NNP_NN
 Playboy_pinup	1
 Fat_slob	1
-Corman_horror	1
 Ill_watch	1
+Corman_horror	1
+Marengo_offering	1
 Corman_film	2
 Saturday_afternoon	2
 Gila_Monster	1
@@ -3051,6 +2966,8 @@ adjectives_can	1
 others_may	1
 features_should	1
 LEECHES_can	1
+NNP_``
+Kellogg_``	1
 TO_RB
 to_really	1
 RBR_IN
@@ -3114,8 +3031,6 @@ THE_FIFTY	1
 the_1960	1
 DT_CC
 That_and	1
-FW_``
-<br />_``	1
 RP_DT
 out_the	1
 VBP_RB
@@ -3134,7 +3049,7 @@ VBG_``
 singing_``	1
 NNP_,
 GFT_,	1
-Presents_,	1
+VeSoto_,	1
 Corman_,	1
 Blood_,	1
 Zone_,	1
@@ -3144,10 +3059,11 @@ Morris_,	1
 Hassilev_,	1
 Shrews_,	1
 Miller_,	3
-Canaveral_,	1
+Vickers_,	3
 Paisley_,	1
 Clark_,	1
-Vickers_,	2
+Canaveral_,	1
+Presents_,	1
 Carla_,	1
 CD_JJ
 50s_giant	1
@@ -3155,23 +3071,20 @@ NNP_.
 Bucket_.	1
 Cabot_.	1
 Walker_.	1
+Emmet_.	1
 Pacific_.	2
 Hallelujah_!	1
 Vickers_.	1
 Yvette_.	1
 Horror_.	1
 Dinosaur_.	1
+Sullivan_.	1
 SODIUM_!	1
 Vickers_!	1
 JJ_VBP
 smarmy_swamp	1
-FW_NN
-heh_heh	1
-sci-fi_buff	1
-THEIR_BLOOD	1
-<br />_Mean	1
-<br />_<a href="http://www.amazon.com/gp/product/B00006II54">	1
-<br />_Note	1
+POS_CC
+'s_and	2
 JJ_VBN
 average_mutated	1
 interesting_given	1
@@ -3217,9 +3130,6 @@ NNS_TO
 thanks_to	1
 assets_to	1
 caves_to	1
--LRB-_JJ
--LRB-_hokey	1
--LRB-_pre	1
 VBZ_IN
 discovers_that	1
 works_for	1
@@ -3313,19 +3223,6 @@ pulled_their	1
 attributed_his	1
 appreciated_her	1
 had_his	1
-NNP_-LRB-
-Maxwell_-LRB-	1
-Miller_-LRB-	1
-Vickers_-LRB-	2
-Greyson_-LRB-	1
-Liz_-LRB-	2
-Kellogg_-LRB-	1
-Walker_-LRB-	1
-Jeff_-LRB-	1
-Clark_-LRB-	1
-Steve_-LRB-	1
-Winstead_-LRB-	1
-Dave_-LRB-	2
 NNS_VBD
 locals_needed	1
 leeches_did	1
@@ -3337,9 +3234,6 @@ men_wearing	1
 types_running	1
 ``_IN
 ``_near	1
--LRB-_PRP
--LRB-_she	1
--LRB-_I	2
 NNS_VBN
 movies_presented	1
 leeches_put	1
@@ -3355,16 +3249,6 @@ VBP_RP
 carry_off	1
 rise_up	1
 hang_out	1
-RP_IN
-around_with	1
-out_on	1
-up_out	1
-over_from	1
-out_at	1
-up_as	1
-up_of	1
-off_into	1
-out_after	1
 POS_JJ
 's_go-to	1
 's_gruesome	1
@@ -3374,8 +3258,6 @@ POS_JJ
 ''_for	1
 ''_with	2
 ''_unless	1
--RRB-_IN
--RRB-_in	1
 VBD_VBN
 was_shot	1
 were_made	1
@@ -3431,6 +3313,7 @@ VBN_NN
 mutated_creature	1
 accepted_Beat	1
 NNP_RB
+Vickers_just	1
 Hunter_really	1
 Yvette_undoubtedly	1
 :_PRP
@@ -3462,6 +3345,7 @@ actors_in	1
 fifties_in	1
 days_with	1
 images_from	1
+lines_except	1
 victims_under	1
 captives_in	1
 minutes_of	1
@@ -3489,18 +3373,24 @@ actors_that	1
 VBD_:
 was_:	1
 NNP_VBZ
+Sullivan_has	1
 LEECHES_is	1
 Marengo_has	1
-Miller_plays	1
+Clark_gets	1
+Walker_is	1
 Marengo_does	1
+Miller_plays	1
 Dave_scares	1
 Walter_starts	1
+McVey_decides	1
+Clark_plays	1
 Paisley_is	1
 Hitchcock_Presents	1
-Vickers_is	1
-Clark_plays	1
+VeSota_catches	1
+Vickers_is	2
 This_is	1
-Sullivan_has	1
+Burton_has	1
+Vickers_keeps	1
 VB_JJ
 get_curious	1
 find_giant	1
@@ -3565,8 +3455,6 @@ HAVE_KIDNAPPED	1
 Vickers_was	1
 ``_DT
 ``_The	6
--LRB-_IN
--LRB-_except	1
 NNP_POS
 Leeches_'	2
 Miller_'s	1
@@ -3586,6 +3474,7 @@ remaid_someday	1
 grandmother_now	1
 adolescence_back	1
 course_not	1
+marshall_probably	1
 movie_occasionally	1
 appeal_so	1
 roll_then	1
@@ -3663,8 +3552,6 @@ is_Alex	1
 plays_Walter	1
 is_Barboura	1
 is_Yvette	1
-RP_CC
-out_and	1
 VBZ_NNS
 Presents_episodes	1
 makes_sculptures	1
@@ -3684,8 +3571,10 @@ VB_CC
 faint_and	1
 go_and	1
 NNP_DT
-Make_no	1
+Clark_the	1
 Barney_the	1
+Make_no	1
+Clark_a	1
 Bruno_the	1
 JJS_NN
 latest_flame	1
@@ -3693,14 +3582,16 @@ best_print	1
 most_part	1
 best_friend	1
 greatest_asset	1
-FW_RB
-<br />_Nearly	1
-,_WDT
-,_which	1
-,_that	1
--LRB-_NN
--LRB-_Season	1
--LRB-_ala	1
+RP_IN
+around_with	1
+out_on	1
+up_out	1
+over_from	1
+out_at	1
+up_as	1
+up_of	1
+off_into	1
+out_after	1
 ,_NNP
 ,_Barboura	1
 ,_Ken	1
@@ -3714,8 +3605,8 @@ and_Yvette	1
 ,_poachers	1
 WP_IN
 what_with	1
--LRB-_DT
--LRB-_a	1
+NNS_POS
+leeches_'	1
 JJ_NN
 believeable_character	1
 low_budget	1
@@ -3745,6 +3636,7 @@ hairy-chested_stud	1
 cheap_rubber	1
 Priceless_entertainment	1
 great_script	1
+nasty_wife	1
 local_game	1
 double_feature	4
 fourth_grade	1

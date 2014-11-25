@@ -7,8 +7,6 @@ VBP_JJR
 do_more	1
 VB_WP
 know_what	1
-FW_DT
-<br />_The	1
 NNS_RB
 suits_effectively	1
 gundams_also	1
@@ -17,6 +15,7 @@ should_as	1
 might_not	1
 NN_WDT
 element_that	1
+system_which	1
 VB_DT
 complete_a	1
 give_any	1
@@ -24,17 +23,13 @@ cry_the	1
 buy_this	1
 move_any	1
 Dispite_some	1
-FW_FW
-<br />_<br />	3
-i_wont	1
-<br />_GUNDAM	1
+RB_,
+away_,	1
+seriously_,	1
 RB_.
 well_.	1
 CC_JJR
 and_earlier	1
-RB_VBP
-also_do	1
-effectively_embody	1
 DT_IN
 those_in	1
 some_of	1
@@ -54,8 +49,6 @@ his_own	1
 its_own	1
 WDT_MD
 that_might	1
-RP_.
-on_.	1
 IN_PRP
 Though_I	1
 that_it	1
@@ -68,8 +61,6 @@ NNS_WDT
 storyboards_which	1
 PRP$_RB
 its_just	1
-NN_-RRB-
-etc._-RRB-	1
 VBD_DT
 saw_the	1
 IN_FW
@@ -131,14 +122,14 @@ PRP_VBZ
 It_is	1
 it_is	1
 it_personifies	1
--RRB-_,
--RRB-_,	2
 NNP_CC
 DBZ_but	1
+FW_FW
+i_wont	1
 VBG_IN
 wanting_for	1
--LRB-_WDT
--LRB-_which	1
+RP_.
+on_.	1
 FW_VBD
 i_saw	1
 JJ_.
@@ -153,16 +144,20 @@ not_be	1
 PRP_.
 themselves_.	1
 you_.	2
-FW_.
-<br />_!	1
+:_NN
+..._GO	1
 CC_VBP
 and_watch	1
 JJR_NN
 older_meaning	1
 older_anime	1
-IN_JJ
-in_other	2
-with_huge	1
+NN_,
+theme_,	1
+show_,	1
+DVD_,	1
+etc._,	1
+series_,	1
+style_,	1
 NNP_.
 Gundam_.	1
 VBZ_VBG
@@ -196,8 +191,6 @@ JJR_NNS
 newer_ones	1
 NN_DT
 way_the	1
-RB_,
-seriously_,	1
 :_VB
 :_imagine	1
 VBN_IN
@@ -246,8 +239,6 @@ wont_give	1
 i_find	1
 WDT_NNS
 which_blows	1
-FW_PRP
-<br />_I	1
 PRP$_NNP
 my_G	1
 IN_JJR
@@ -289,8 +280,6 @@ NN_CC
 fan_and	1
 set_or	1
 director_and	1
-WDT_VBP
-which_take	1
 CC_VB
 but_buy	1
 VBP_VBG
@@ -312,8 +301,9 @@ enhancement_etc.	1
 box_set	1
 ALL_SET	1
 piloting_system	1
-NN_FW
-time_i	1
+RB_MD
+here_might	1
+really_must	1
 NNS_POS
 people_'s	1
 DT_NNS
@@ -353,12 +343,9 @@ VBD_PRP
 took_it	1
 NNS_CD
 rounds_1-5	1
-NN_,
-show_,	1
-series_,	1
-theme_,	1
-DVD_,	1
-style_,	1
+IN_JJ
+in_other	2
+with_huge	1
 NN_.
 something_.	1
 GO_!	1
@@ -388,18 +375,16 @@ fighters_themselves	1
 NNP_VBZ
 Everything_comes	1
 Gundam_is	2
-NN_-LRB-
-system_-LRB-	1
-series_-LRB-	1
+WDT_VBP
+which_take	1
 VB_JJ
 be_corny	1
 TO_VB
 to_complete	1
 to_cry	1
 to_spoil	1
-RB_MD
-here_might	1
-really_must	1
+NN_JJR
+series_older	1
 NN_VBD
 series_took	1
 WP_PRP
@@ -426,8 +411,6 @@ series_away	1
 JJ_IN
 sharp_as	1
 corny_at	1
-:_NN
-..._GO	1
 VBG_JJ
 lacking_digital	1
 VBG_RP
@@ -457,8 +440,9 @@ of_its	1
 VB_PRP
 leave_you	1
 spoil_it	1
-RB_-RRB-
-away_-RRB-	1
+RB_VBP
+also_do	1
+effectively_embody	1
 VBZ_PRP$
 is_my	1
 has_his	1
@@ -466,8 +450,8 @@ JJR_.
 more_.	1
 VBD_TO
 wanted_to	1
--LRB-_JJR
--LRB-_older	1
+NN_FW
+time_i	1
 VBG_DT
 getting_the	1
 RB_PRP

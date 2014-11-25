@@ -28,8 +28,8 @@ NNP_WDT
 England_that	1
 ``_JJ
 ``_public	1
-FW_DT
-<br />_All	1
+,_IN
+,_with	1
 NNP_IN
 John_while	1
 John_in	1
@@ -37,20 +37,11 @@ CBS_from	1
 Ladies_of	1
 Coming_of	2
 Robin_of	1
+England_from	1
 Food_For	1
 Sheriff_of	1
-England_from	1
+Agent_a/k/a	1
 Pleasence_as	1
-,_CD
-,_1960	1
-,_1955	1
-,_143	1
-,_10/21/57	1
-,_11/14/55	1
-,_4/22/57	1
-,_2/27/56	1
-NNS_-LRB-
-seasons_-LRB-	1
 CC_JJ
 and_uncut	1
 and_nefarious	1
@@ -69,7 +60,6 @@ series_that	2
 VB_DT
 find_no	1
 see_the	1
-<br />_These	1
 know_the	1
 Enjoy_a	1
 PRP$_NNP
@@ -78,10 +68,9 @@ my_Youth	1
 RB_,
 However_,	1
 consequently_,	1
-POS_NN
-'_premiere	1
-'s_print	1
-'s_program	1
+RB_.
+n't_.	1
+now_.	1
 POS_,
 's_,	1
 IN_``
@@ -118,16 +107,6 @@ Some_of	1
 all_from	1
 each_of	1
 All_in	1
--LRB-_NNP
--LRB-_S.	4
--LRB-_Friar	1
--LRB-_Sir	1
--LRB-_Prince	1
--LRB-_Lady	1
--LRB-_Sheriff	1
--LRB-_Little	2
--LRB-_Maid	2
--LRB-_Robin	1
 NNP_VBZ
 Greene_lives	1
 Greene_does	1
@@ -147,9 +126,6 @@ terrific_and	1
 complete_and	1
 white_and	1
 violent_or	1
--LRB-_CD
--LRB-_1957-1960	1
--LRB-_1956-1958	1
 JJ_CD
 first_three	1
 other_three	1
@@ -162,23 +138,8 @@ CD_,
 1960_,	1
 CC_CD
 and_10	1
-CD_-RRB-
-69_-RRB-	1
-10_-RRB-	1
-four_-RRB-	1
-1955-1956_-RRB-	1
-4/22/57_-RRB-	1
-10/21/57_-RRB-	1
-1957-1960_-RRB-	1
-82_-RRB-	1
-11/14/55_-RRB-	1
-2/27/56_-RRB-	1
-1956-1958_-RRB-	1
-1955-1958_-RRB-	1
-1955-1959_-RRB-	1
-23_-RRB-	1
-1955-1957_-RRB-	1
-8_-RRB-	1
+CD_.
+10_.	1
 :_IN
 -_for	1
 ''_:
@@ -198,37 +159,50 @@ recognize_from	1
 learn_of	1
 appear_at	1
 ****_for	1
+CD_:
+11/14/55_-	1
+2/27/56_-	1
+10/21/57_-	1
+4/22/57_-	1
+CD_NNP
+1955-1958_Rufus	1
+1956-1958_Alan	1
+69_Food	1
+1955-1957_Patricia	1
+1955-1959_Alexander	1
+1955-1956_Archie	1
+8_Queen	1
+23_Ladies	1
+1957-1960_Gillian	1
 IN_PDT
 in_all	1
 ''_.
 ''_.	1
 VBZ_CD
 is_one	1
+''_,
+''_,	1
 NNP_WP
 Mullhare_who	1
-IN_VBG
-for_recurring	1
-with_protecting	1
-of_including	1
-with_watching	1
 ,_FW
 ,_i.e.	1
 ,_NN
 ,_everything	1
 ,_etc.	1
 ,_dirt	1
--RRB-_FW
--RRB-_<br />	1
-NN_-RRB-
-time_-RRB-	1
+POS_NN
+'_premiere	1
+'s_print	1
+'s_program	1
 WP_VBP
 who_are	1
 :_NNP
-:_Robin	1
--_John	1
--_Harry	1
--_Jill	1
 -_Walter	1
+-_John	1
+-_Jill	1
+:_Robin	1
+-_Harry	1
+:_Richard	1
 TO_NN
 to_date	1
 PRP_VBD
@@ -342,18 +316,18 @@ CD_``
 PRP_VBZ
 It_is	3
 it_'s	1
--RRB-_,
--RRB-_,	2
--RRB-_NN
--RRB-_<br />	4
--RRB-_.
--RRB-_.	1
+CD_DT
+82_The	1
+VBD_TO
+wanted_to	1
 NNP_CC
 U.S._and	1
 Robin_and	1
 Hood_and	1
 NNP_CD
 John_1955-1958	1
+S._1	2
+John_1956-1958	1
 November_12	1
 September_26	1
 Volume_10	1
@@ -361,7 +335,7 @@ John_1955-1956	1
 Nottingham_1955-1959	1
 S._2	1
 S._3	1
-S._1	2
+Fitzwater_1957-1960	1
 Volume_one	1
 Fitzwater_1955-1957	1
 JJ_,
@@ -398,8 +372,6 @@ still_be	1
 not_know	1
 always_remember	1
 n't_appear	1
--RRB-_:
--RRB-_-	4
 CC_PRP
 but_it	1
 But_I	1
@@ -412,10 +384,6 @@ are_not	1
 ``_The	11
 PRP_.
 it_.	1
-:_NN
-:_<br />	1
-FW_-LRB-
-<br />_-LRB-	1
 IN_PRP$
 on_our	1
 for_my	1
@@ -431,6 +399,7 @@ dirt_,	1
 dialog_,	1
 date_,	1
 company_,	1
+time_,	1
 innuendo_,	1
 Tax_,	1
 NNP_,
@@ -442,19 +411,24 @@ Saint_,	1
 CD_JJ
 143_half-hour	1
 NNP_.
-Youth_.	1
 O'Farrel_?	1
-Hood_.	3
-Sherwood_!	1
+Youth_.	1
+Genevieve_.	1
 Ambush_.	1
+Sherwood_!	1
+Hood_.	3
 NN_WRB
 era_when	1
 time_when	1
 PRP_RB
 it_always	1
 I_just	1
-FW_FW
-<br />_<br />	12
+IN_IN
+on_during	1
+Except_for	1
+along_with	1
+that_on	1
+in_from	1
 IN_WDT
 of_which	1
 PRP$_NN
@@ -477,9 +451,6 @@ including_picture	1
 JJ_VBG
 worth_noting	1
 dark_making	1
-VBP_VBN
-have_fallen	1
-have_been	3
 ,_VB
 ,_buy	1
 ,_''
@@ -499,17 +470,11 @@ was_away	1
 was_also	1
 NN_DT
 Amazon.co.uk_each	1
-NNS_VBP
-prints_are	1
-episodes_are	1
-seasons_are	1
-scripts_are	1
-outlaws_flourish	1
-episodes_have	1
-plots_are	1
-credits_are	1
-''_-RRB-
-''_-RRB-	1
+IN_VBG
+for_recurring	1
+with_protecting	1
+of_including	1
+with_watching	1
 VBN_IN
 produced_in	1
 included_on	1
@@ -548,9 +513,6 @@ roles_,	1
 releases_,	1
 numbers_,	1
 actors_,	1
--RRB-_DT
--RRB-_this	1
--RRB-_The	1
 TO_DT
 to_the	1
 NN_CD
@@ -572,9 +534,6 @@ RP_PRP$
 up_your	1
 VBP_``
 are_``	1
-JJR_TO
-easier_to	1
-closer_to	1
 #_CD
 #_69	1
 #_23	1
@@ -603,6 +562,7 @@ JJ_JJ
 great_old	1
 corporate_fuelled	1
 Communist_labelled	1
+greasy_rich	1
 JJ_NNP
 other_Robin	1
 fuelled_McCarthy	1
@@ -610,6 +570,7 @@ famous_Robin	1
 blacklisted_Hollywood	1
 evil_Prince	1
 CD_IN
+four_in	1
 one_of	4
 20_per	1
 1955_through	1
@@ -633,26 +594,17 @@ domain_releases	1
 plot_twists	1
 end_credits	1
 plastic_cases	1
-FW_VB
-<br />_Enjoy	1
 VBZ_JJR
 is_closer	1
 NN_NNP
-<br />_Gillian	1
-<br />_Patricia	1
 actor_Richard	1
-<br />_Bernadette	1
-<br />_Richard	1
 beauty_Bernadette	1
-<br />_Donald	1
 JJS_JJ
 best_available	1
 :_``
 :_``	1
 CC_IN
 and_on	1
-FW_PRP
-<br />_It	1
 DT_RB
 the_very	1
 the_only	1
@@ -671,8 +623,8 @@ Unlike_most	1
 at_least	1
 VBG_NNP
 protecting_England	1
-._-RRB-
-?_-RRB-	1
+NN_PRP
+format_you	1
 WRB_NNP
 where_Richard	1
 IN_RB
@@ -706,11 +658,15 @@ also_one	1
 only_8	1
 PRP_TO
 it_to	1
-NNP_NNPS
-United_States	1
-CAST_MEMBERS	1
--LRB-_#
--LRB-_#	4
+NNS_VBP
+prints_are	1
+episodes_are	1
+seasons_are	1
+scripts_are	1
+outlaws_flourish	1
+episodes_have	1
+plots_are	1
+credits_are	1
 VBP_PRP$
 think_my	1
 IN_CD
@@ -734,52 +690,31 @@ when_programs	1
 ,_each	1
 ,_a	1
 ,_the	3
-NNP_-LRB-
-O'Farrell_-LRB-	1
-Charter_-LRB-	1
-Cruikshank_-LRB-	1
-<br />_-LRB-	3
-Duncan_-LRB-	1
-Wheatley_-LRB-	1
-Hunter_-LRB-	1
-Sherwood_-LRB-	1
-Agent_-LRB-	1
-Sterret_-LRB-	1
-John_-LRB-	1
-Driscoll_-LRB-	1
-Gauge_-LRB-	1
-Fitzwater_-LRB-	1
-Pleasence_-LRB-	1
-Eleanor_-LRB-	1
-Greene_-LRB-	1
-Thought_-LRB-	1
-FW_PRP$
-<br />_My	1
+VBP_VBN
+have_fallen	1
+have_been	3
+JJR_TO
+easier_to	1
+closer_to	1
 CD_VBZ
 1_features	1
 JJS_IN
 most_of	2
 NNS_VBG
 companies_specializing	1
-WDT_VBP
-that_have	1
+NN_VB
+rate_start	1
 CC_VB
 and_enjoy	1
-FW_NN
-<br />_Volume	1
--LRB-_PRP
--LRB-_you	1
--LRB-_I	1
+VBP_VBG
+are_making	1
 JJ_TO
 difficult_to	1
 NNS_VBN
 episodes_included	1
 prints_used	1
-VBN_NNP
-become_Robin	1
-Borrowed_Baby	2
-FW_.
-<br />_.	1
+JJS_NN
+best_way	1
 WRB_NN
 when_rhey	1
 NNS_JJ
@@ -796,7 +731,7 @@ watch_.	1
 CC_``
 and_``	2
 NN_NN
-<br />_Program	1
+Program_list	1
 domain_material	1
 premiere_episode	1
 set_design	1
@@ -804,7 +739,6 @@ character_developement	1
 series_run	1
 disney_movie	1
 picture_quality	1
-Program_list	1
 theme_song	1
 WDT_DT
 which_this	1
@@ -815,13 +749,9 @@ Muir_''	1
 Baby_''	1
 Man_''	1
 Hood_''	3
-:_-LRB-
-;_-LRB-	1
 NN_``
 series_``	1
 episode_``	1
-VBP_VBG
-are_making	1
 DT_NNS
 the_episodes	2
 the_plots	1
@@ -882,8 +812,8 @@ the_CBS-TV	1
 ,_wonderful	1
 ,_many	1
 ,_nifty	1
--RRB-_IN
--RRB-_in	1
+NN_JJ
+year_old	1
 DT_JJ
 the_other	1
 a_first	1
@@ -935,9 +865,6 @@ work_;	1
 print_...	1
 casting_--	1
 today_;	1
-FW_NNP
-<br />_Digital	1
-<br />_REGULAR	1
 NNS_CC
 villains_and	1
 airdates_and	1
@@ -948,8 +875,6 @@ VBD_PRP
 loved_it	1
 VBD_VBG
 was_missing	1
-PRP_DT
-me_the	1
 IN_JJ
 at_present	1
 by_blacklisted	1
@@ -992,19 +917,12 @@ CC_NN
 and_guest	1
 and_audio	1
 but_reek	1
-IN_PRP
-if_it	1
-If_you	1
--RRB-_NNP
--RRB-_<br />	5
--RRB-_Food	1
--RRB-_Queen	1
--RRB-_Ladies	1
 NN_IN
 souvenir_from	1
 reek_of	1
 touch_of	1
 run_in	1
+design_for	1
 entertainment_for	1
 song_at	1
 syndication_for	1
@@ -1020,13 +938,13 @@ series_of	1
 status_in	1
 picture_in	1
 DVD_from	1
-collection_with	1
+number_of	2
 market_at	1
 movie_of	1
 debut_on	1
 variety_of	2
 fact_that	1
-number_of	2
+collection_with	1
 trip_through	1
 way_of	1
 acting_by	1
@@ -1036,9 +954,6 @@ Hood_now	1
 NN_#
 episode_#	1
 DVD_#	1
-NN_JJ
-<br />_rich	1
-year_old	1
 NNP_VBP
 Alpha_are	1
 WDT_VBZ
@@ -1053,7 +968,7 @@ writers_like	1
 seasons_on	1
 shows_like	1
 episodes_in	1
-seasons_of	1
+seasons_of	2
 Sixties_for	1
 episodes_from	1
 programs_like	1
@@ -1071,10 +986,8 @@ etc._and	1
 acting_and	1
 value_and	1
 Ghost_and	1
-NN_-LRB-
-collection_-LRB-	1
-format_-LRB-	1
-design_-LRB-	1
+WDT_VBP
+that_have	1
 VB_JJ
 be_okay	1
 TO_VB
@@ -1132,15 +1045,12 @@ WDT_VBD
 which_were	1
 that_ran	1
 that_aired	1
--LRB-_IN
--LRB-_of	1
--LRB-_for	1
--LRB-_a/k/a	1
 NNP_POS
 Video_'s	1
 NN_RB
 everything_else	1
 something_not	1
+collection_now	1
 CC_NNS
 and_men	1
 and_scripts	1
@@ -1160,16 +1070,10 @@ interested_in	1
 unusual_for	1
 VBN_DT
 enjoyed_the	1
-NN_VB
-rate_start	1
 DT_.
 all_.	1
 VBG_JJ
 starring_British	1
-VBD_TO
-wanted_to	1
--LRB-_RB
--LRB-_now	1
 RB_RB
 often_very	1
 Not_so	1
@@ -1184,6 +1088,7 @@ CD_NN
 2_DVD	1
 10_year	1
 :_PRP
+;_I	1
 ..._it	1
 ..._I	1
 NNP_NNS
@@ -1194,56 +1099,65 @@ NNP_NNP
 The_Ambush	2
 ROBIN_HOOD	1
 Sir_Richard	1
-Edwards_<br />	1
 Prince_John	3
+Pleasence_Prince	1
+Wheatley_Sheriff	1
+Charter_S.	1
 Archie_Duncan	1
-Esmond/Ballard_Berkeley/Gerald	1
+Hunter_Sir	1
 Richard_Greene	4
-Alexander_Gauge	1
+Duncan_Little	1
 Walter_Hudd/Laurie	1
 Rufus_Cruikshank	1
 Layshon/Meredith_Edwards	1
 Jill_Esmond/Ballard	1
+Thought_S.	1
 Lynch/Philip_Ray	1
 Ian_Hunter	1
 John_Sharplin/Emrys	1
-Gillian_Sterret	1
+Tuck_Ian	1
+Driscoll_Maid	1
+Eleanor_S.	1
+H._Corbett/Sean	1
 Maid_Marian	2
+Richard_Bernadette	1
+REGULAR_CAST	1
+O'Farrell_Maid	1
 Bernadette_O'Farrel	1
 Great_Britain	1
-<br />_Rufus	1
 Edward_Mullhare	1
 British_Invasion	1
 Friar_Tuck	1
 Danger_Man	1
 Lady_Genevieve	1
 Patricia_Driscoll	1
-<br />_Alexander	1
+Esmond/Ballard_Berkeley/Gerald	1
+Cruikshank_Little	1
 Robin_Hood	16
-<br />_Archie	1
 Alan_Wheatley	1
 Bernadette_O'Farrell	1
-<br />_Alan	1
+Sherwood_S.	1
 Sharplin/Emrys_Layshon/Meredith	1
 Donald_Pleasence	2
 Amazon_UK	1
 Queen_Eleanor	1
 Berkeley/Gerald_Cross	1
-Ray_<br />	1
-Main_<br />	1
-H._Corbett/Sean	1
+Gillian_Sterret	1
+Gauge_Friar	1
 Harry_H.	1
 Mrs._Muir	1
 Corbett/Sean_Lynch/Philip	1
 Secret_Agent	1
 Alpha_Video	1
-Hudd/Laurie_Main	1
+Greene_Robin	1
+Sterret_Lady	1
 Ring_Lardner	1
-REGULAR_CAST	1
+Hood_Donald	1
 Marian_Fitzwater	2
 Little_John	2
+Hudd/Laurie_Main	1
 King_Richard	1
-<br />_Ian	1
+Alexander_Gauge	1
 VBD_CD
 ran_four	1
 DT_JJS
@@ -1252,8 +1166,14 @@ NNPS_:
 MEMBERS_:	1
 VBZ_VBD
 has_had	1
-JJS_NN
-best_way	1
+,_CD
+,_1960	1
+,_1955	1
+,_143	1
+,_10/21/57	1
+,_11/14/55	1
+,_4/22/57	1
+,_2/27/56	1
 RB_JJ
 very_bad	1
 mostly_solid	1
@@ -1270,15 +1190,14 @@ VB_PRP
 buy_them	1
 recommend_it	1
 remember_me	1
-IN_IN
-on_during	1
-Except_for	1
-along_with	1
-that_on	1
-in_from	1
+PRP_DT
+me_the	1
 VBZ_VBN
 is_become	1
 has_enjoyed	1
+NNP_NNPS
+United_States	1
+CAST_MEMBERS	1
 CC_PRP$
 and_our	1
 ''_WP
@@ -1295,28 +1214,28 @@ NNPS_.
 Crusades_.	1
 NN_''
 domain_''	1
-RB_.
-n't_.	1
-now_.	1
 TO_NNS
 to_others	1
 VBG_DT
 noting_that	1
 fighting_the	1
 including_the	2
+NNP_DT
+UK_this	1
 RB_VBD
 later_had	1
-FW_IN
-<br />_While	1
-<br />_Since	1
-FW_RB
-<br />_Perhaps	1
-,_IN
-,_with	1
+VBN_NNP
+become_Robin	1
+Borrowed_Baby	2
+IN_PRP
+if_it	1
+If_you	1
 VB_TO
 start_to	1
-,_WDT
-,_which	1
+NNP_#
+Main_#	1
+Edwards_#	1
+Ray_#	1
 ,_NNP
 ,_Jr.	1
 CC_NNP
@@ -1331,12 +1250,8 @@ VBZ_IN
 is_in	1
 VBZ_NN
 includes_episode	1
-NNP_-RRB-
-Tuck_-RRB-	1
-UK_-RRB-	1
-Hood_-RRB-	1
-Genevieve_-RRB-	1
-Richard_-RRB-	1
+,_WDT
+,_which	1
 CD_TO
 1_to	1
 VBD_NN
@@ -1395,7 +1310,6 @@ nifty_plot	1
 first_episode	2
 British_actor	1
 great_value	1
-greasy_<br />	1
 wonderful_character	1
 nefarious_collection	1
 solid_contrast	1

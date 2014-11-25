@@ -1,11 +1,3 @@
-NN_-LRB-
-village_-LRB-	1
-DVD_-LRB-	1
-</a>_-LRB-	1
-film_-LRB-	1
-pope_-LRB-	2
-figure_-LRB-	1
-guy_-LRB-	1
 IN_NN
 of_course	1
 against_oppression	1
@@ -56,11 +48,9 @@ VBP_JJR
 wish_more	1
 VBP_JJS
 AM_MOST	1
--LRB-_``
--LRB-_``	3
-FW_DT
-<br />_This	2
-<br />_The	6
+VBN_VBG
+been_looking	3
+been_waiting	1
 VBG_VBZ
 doing_is	1
 CC_JJ
@@ -121,18 +111,21 @@ VBN_,
 defeated_,	2
 VB_JJR
 get_more	1
-VBN_VBG
-been_looking	3
-been_waiting	1
 WDT_MD
 that_will	2
 CC_TO
 and_to	2
-VBN_CC
-elected_and	1
-overwhelmed_or	1
-used_and	1
-directed_and	1
+VB_TO
+try_to	3
+want_to	3
+attempt_to	1
+do_to	1
+travel_to	1
+grow_to	1
+seem_to	1
+return_to	1
+continue_to	1
+go_to	1
 VBZ_CD
 's_one	2
 IS_ONE	1
@@ -145,15 +138,17 @@ obstacles_that	1
 powers_that	1
 WRB_TO
 how_to	1
+RB_JJS
+highly_most	1
 WP_VBD
 who_was	1
 what_captivated	1
 who_loved	1
 who_did	1
 who_had	1
-VBG_CC
-telling_and	1
-seeing_and	1
+RP_.
+out_?	1
+up_.	1
 VBN_JJ
 gotten_ugly	1
 become_inaffective	1
@@ -181,10 +176,6 @@ who_happens	1
 who_states	1
 who_gets	1
 what_has	1
--RRB-_,
--RRB-_,	1
--RRB-_.
--RRB-_.	10
 NNP_CC
 Tom_and	1
 Navy_and	1
@@ -194,6 +185,7 @@ GRACE_and	1
 Vatican_and	4
 Conti_and	3
 Leo_and	1
+Pope_and	1
 WP_MD
 who_'d	1
 Who_would	1
@@ -202,8 +194,6 @@ Who_would	1
 JJR_NNS
 more_people	1
 more_shows	1
-VB_-LRB-
-imagine_-LRB-	1
 RBS_JJ
 most_insignificant	1
 most_significant	1
@@ -236,6 +226,7 @@ with_our	1
 by_his	1
 NN_VB
 way_improve	1
+</a>_see	1
 PRP$_NN
 His_heart	1
 his_band	1
@@ -298,8 +289,6 @@ mingle_among	1
 jiggle_on	1
 marvel_for	1
 be_in	1
-MD_IN
-can_in	1
 JJ_PRP
 glad_I	1
 ``_VBP
@@ -328,10 +317,6 @@ time_a	1
 good_all	1
 gem_this	1
 <a href="http://www.amazon.com/gp/product/B000HD7KD0">_The	1
-PDT_DT
-All_this	1
-all_the	3
-such_a	1
 WDT_RB
 that_often	1
 TO_DT
@@ -451,6 +436,8 @@ have_it	1
 VB_:
 explain_:	1
 matter_-	1
+POS_IN
+'_with	1
 CC_NN
 and_life	1
 and_self	1
@@ -486,6 +473,7 @@ act_.	1
 BE_!	1
 do_.	1
 know_.	1
+decide_.	1
 inspire_.	1
 come_.	1
 say_.	1
@@ -516,12 +504,8 @@ oh_why	1
 WP_,
 who_,	1
 What_,	1
-FW_NNS
-<br />_Viewers	1
 WP_.
 what_?	1
--RRB-_WDT
--RRB-_that	1
 NNP_''
 Grace_''	1
 DT_PRP
@@ -695,6 +679,7 @@ cinematography_and	1
 friend_and	1
 time_and	1
 village_and	1
+??_and	1
 library_and	1
 box_and	1
 movie_and	3
@@ -732,8 +717,6 @@ DT_JJR
 any_more	1
 DT_WP
 those_whom	1
--RRB-_WP
--RRB-_who	2
 NN_JJ
 film_available	1
 town_drunk	1
@@ -752,14 +735,15 @@ AS_A	1
 Celia_Gittelson	2
 Patricia_Mauceri	1
 SCREEN_FORMAT	1
-Vatican_City	1
+Giannini_sp	1
 POPE_MUST	1
 A_CHILD	1
 Stefano_Cardinal	1
 Anthony_Quinn	1
 HAVE_ALWAYS	1
-<br />_May	1
+Craig_Ferguson	1
 SO_LONG	1
+Diet_VHS	1
 ex-Father_Abalardi	1
 Edward_James	1
 NOW_!!!	1
@@ -769,7 +753,6 @@ Retro_Rocket	1
 Richard_Cramer	1
 Edward_Olmos	1
 Erland_Josephson	1
-<br />_<br />	1
 Giancarlo_Gianini	1
 Morris_West	3
 WIDE_SCREEN	1
@@ -788,14 +771,15 @@ M._Young	1
 CHILD_AND	1
 I_HAVE	1
 AND_IT	1
-Craig_Ferguson	1
 Saving_Grace	4
 !!!_Tom	1
 Tom_Conti	10
+Vatican_City	1
 James_Olmos	1
+Paul_VI	1
 Paul_I	4
 ALWAYS_THOUGHT	1
-Paul_VI	1
+GRACE_Dir	1
 Leo_XIV	3
 Paul_II	1
 Rocket_Entertainment	1
@@ -822,17 +806,11 @@ JJR_.
 more_.	1
 RP_WRB
 up_when	1
-VB_TO
-try_to	3
-want_to	3
-attempt_to	1
-do_to	1
-travel_to	1
-grow_to	1
-seem_to	1
-return_to	1
-continue_to	1
-go_to	1
+VBN_CC
+elected_and	1
+overwhelmed_or	1
+used_and	1
+directed_and	1
 VBN_TO
 supposed_to	1
 guided_to	1
@@ -914,11 +892,6 @@ of_a	7
 VB_WP
 explain_what	1
 know_who	1
--LRB-_CC
--LRB-_or	1
--LRB-_and	1
-NNS_-LRB-
-actors_-LRB-	1
 RB_WRB
 not_why	1
 back_when	1
@@ -955,7 +928,7 @@ back_.	2
 ago_.	1
 highly_.	1
 here_.	1
-ever_.	1
+ever_.	2
 again_.	6
 maybe_.	1
 already_.	1
@@ -975,12 +948,8 @@ can_and	1
 ,_where	2
 VBD_CD
 died_33	1
-NNP_-RRB-
-Olmos_-RRB-	1
-I_-RRB-	1
-XIV_-RRB-	1
-Conti_-RRB-	1
-Methodist_-RRB-	1
+NNPS_CC
+Catholics_or	1
 CC_RB
 and_once	1
 and_simply	1
@@ -1025,8 +994,6 @@ My_only	1
 his_spiritual	1
 PRP_PRP
 us_we	1
-VBD_WRB
-posted_when	1
 IN_PRP
 because_it	3
 into_it	1
@@ -1060,8 +1027,8 @@ so_he	1
 ''_.	2
 ''_,
 '_,	1
-PRP_-RRB-
-it_-RRB-	1
+NNS_VB
+actors_save	1
 :_NNP
 :_Fernando	1
 ;_Giancarlo	1
@@ -1107,6 +1074,7 @@ I_used	1
 I_paid	1
 He_wished	1
 they_had	1
+it_came	1
 I_became	1
 they_did	1
 I_thought	1
@@ -1367,9 +1335,6 @@ It_is	5
 it_brings	1
 he_hopes	1
 he_works	1
-FW_PRP
-<br />_It	4
-<br />_I	4
 VBP_EX
 wish_there	1
 PRP_:
@@ -1382,9 +1347,9 @@ of_.	1
 OF_.	1
 in_.	1
 with_.	1
-RP_.
-out_?	1
-up_.	1
+FW_FW
+BRING_THIS	1
+PLEASE_!!!	1
 WP_NNS
 what_doubts	1
 ``_DT
@@ -1404,15 +1369,11 @@ me_,	1
 him_,	1
 it_,	6
 you_,	1
-FW_WP
-<br />_What	1
 CC_VBP
 but_have	1
 and_have	3
 NNP_WDT
 THOUGHT_THAT	1
-POS_-LRB-
-'_-LRB-	1
 PRP_VB
 me_believe	1
 me_explain	1
@@ -1435,12 +1396,11 @@ priest_where	1
 place_where	1
 mechanism_whereby	1
 preacher_when	1
-:_-LRB-
-..._-LRB-	1
 RP_TO
 off_to	5
 NNP_PRP
 Paul_I	1
+Vatican_they	1
 May_I	1
 Miss_it	1
 CC_VBD
@@ -1538,9 +1498,6 @@ isolated_from	1
 RB_WP
 So_what	1
 only_who	1
--LRB-_VB
--LRB-_see	1
--LRB-_save	1
 VBD_JJ
 found_difficult	1
 were_great	1
@@ -1571,9 +1528,10 @@ government_handouts	1
 sex_scenes	1
 star_ratings	1
 world_politics	1
-youth_groups	1
-location_scenes	1
 way_Popes	1
+location_scenes	1
+guy_Olmos	1
+youth_groups	1
 NN_NNP
 point_Isabella	1
 name_Leo	1
@@ -1586,8 +1544,8 @@ One_and	1
 3_or	1
 IN_JJS
 at_least	4
-._-RRB-
-?_-RRB-	1
+VBD_WRB
+posted_when	1
 MD_NN
 will_laugh	1
 :_DT
@@ -1597,14 +1555,13 @@ will_laugh	1
 -_a	1
 :_this	1
 :_no	1
+..._The	1
 DT_MD
 this_would	1
 a_must	4
 all_must	1
 JJR_NN
 more_visibility	1
-PRP_-LRB-
-him_-LRB-	1
 RP_NNP
 out_Saving	1
 POS_VBG
@@ -1673,11 +1630,12 @@ and_`	2
 or_``	1
 NN_NN
 someone_release	1
+review_title	1
 cast_bio	1
 faith_builder	1
 town_escape	1
 wonder_film	1
-review_title	1
+God_</a>	1
 A_COPY	1
 FIND_A	1
 family_film	1
@@ -1694,10 +1652,10 @@ campaign_story	1
 video_store	1
 world_incognito	1
 Purchase_it-you	1
+village_Isabella	1
 self_respect	1
 morality_tale	1
 story_line	1
-God_</a>	1
 WRB_CC
 when_and	1
 TO_RB
@@ -1737,8 +1695,6 @@ least_.	1
 ,_warm-hearted	1
 ,_EX
 ,_there	1
--RRB-_RB
--RRB-_single-handedly	1
 DT_JJ
 The_central	1
 all_excellent	1
@@ -1846,6 +1802,7 @@ PRP_POS
 us_'	1
 NN_IN
 opposite_of	1
+</a>_after	1
 meaning_for	1
 force_in	1
 copy_on	1
@@ -1870,6 +1827,7 @@ struggle_against	1
 turn_in	1
 none_of	1
 job_as	1
+DVD_if	1
 disappointment_that	1
 seduction_of	1
 movie_at	1
@@ -1902,6 +1860,7 @@ elegance_in	1
 phone_from	1
 favorite_through	1
 connexion_with	1
+pope_for	1
 guilt_that	1
 character_in	1
 recommendation_of	1
@@ -1959,8 +1918,6 @@ synopsis_for	1
 deal_about	1
 ministry_in	1
 delight_for	1
-VB_-RRB-
-decide_-RRB-	1
 CC_DT
 both_the	1
 But_that	1
@@ -2022,7 +1979,7 @@ intention_is	1
 society_deems	1
 performance_is	1
 town_has	1
-gang_is	1
+movie_makes	1
 tape_is	1
 mechanism_is	1
 edit/rewrite_is	1
@@ -2037,10 +1994,11 @@ film_is	6
 character_says	1
 community_fills	1
 character_has	1
+self_comes	1
 dvd_is	1
 case_does	1
 pope_lives	1
-movie_makes	1
+gang_is	1
 title_is	1
 RB_RB
 not_so	1
@@ -2073,6 +2031,7 @@ came_on	1
 proved_that	1
 NN_VBP
 film_appear	1
+review_make	1
 fact_have	1
 direction_are	1
 :_WRB
@@ -2266,9 +2225,6 @@ again_proved	1
 Just_finished	1
 literally_took	1
 first_saw	1
-FW_IN
-<br />_Although	1
-<br />_If	1
 CC_MD
 and_may	1
 or_could	1
@@ -2291,7 +2247,6 @@ small_Italian	1
 terrible_international	1
 exact_same	1
 impoverished_Italian	1
-<br />_Heart-warming	1
 little_known	1
 own_true	1
 NNP_TO
@@ -2333,8 +2288,9 @@ POS_NNS
 's_clothes	1
 NNS_WP
 people_who	2
--LRB-_VBN
--LRB-_played	1
+VBG_CC
+telling_and	1
+seeing_and	1
 ``_UH
 ``_Please	1
 ``_No	1
@@ -2352,6 +2308,7 @@ can_not	1
 NN_WDT
 village_that	1
 movie_that	2
+matter_that	1
 lamb_which	1
 reaction_which	1
 life_that	1
@@ -2401,12 +2358,12 @@ keep_a	1
 WRB_DT
 when_a	1
 how_the	1
-FW_FW
-<br />_<br />	33
-<br />_BRING	1
-PLEASE_!!!	1
-BRING_THIS	1
+PDT_DT
+All_this	1
+all_the	3
+such_a	1
 PRP_``
+him_``	1
 I_`	1
 VBZ_JJ
 is_able	1
@@ -2429,8 +2386,6 @@ comes_alive	1
 grows_heavy	1
 has_such	1
 sounds_stupid	1
-JJ_-RRB-
-first_-RRB-	1
 NN_TO
 mind_to	1
 extent_to	1
@@ -2608,10 +2563,9 @@ n't_need	3
 n't_want	2
 n't_understand	1
 N'T_BE	1
--RRB-_JJ
--RRB-_due	1
 IN_IN
 that_if	1
+by_at	1
 through_at	1
 that_in	1
 out_of	6
@@ -2621,6 +2575,7 @@ that_despite	1
 than_in	1
 with_at	1
 JJ_RB
+first_single-handedly	1
 Reminiscent_somewhat	1
 great_too	1
 ,_``
@@ -2631,29 +2586,24 @@ is_what	1
 VBG_PRP$
 answering_my	1
 leaving_her	1
--RRB-_VBP
--RRB-_make	1
 ,_VBG
 ,_failing	1
 ,_living	1
 ,_striving	1
-''_-RRB-
-''_-RRB-	3
--RRB-_VBZ
--RRB-_comes	1
 NNS_.
 girls_.	1
+Olmos_.	1
 responsibilities_.	1
 friends_.	1
 places_.	1
 politics_.	1
 favorites_.	1
 results_.	1
-highjinks_.	1
+handouts_.	1
 years_.	1
 concerns_.	1
 performances_.	1
-handouts_.	1
+highjinks_.	1
 books_.	1
 rags_?	1
 causes_.	1
@@ -2662,6 +2612,7 @@ dispositions_.	1
 problems_.	1
 others_.	2
 groups_.	1
+minutes_.	1
 people_.	3
 ways_.	1
 copies_.	1
@@ -2691,8 +2642,6 @@ theaters_,	1
 ,_VBP
 ,_see	1
 ,_do	2
--RRB-_VBD
--RRB-_came	1
 RBR_RB
 more_often	1
 more_importantly	1
@@ -2788,8 +2737,6 @@ as_what	1
 of_what	1
 with_whom	1
 on_what	1
--RRB-_CC
--RRB-_and	1
 VBG_PRP
 watching_it	1
 helping_me	1
@@ -2813,6 +2760,7 @@ MD_.
 should_.	1
 NN_PRP
 DAY_I	1
+pope_I	1
 demand_I	1
 life_we	1
 dvd_I	1
@@ -2820,6 +2768,7 @@ something_he	1
 movie_it	1
 effect_he	1
 way_he	1
+film_I	1
 movie_I	1
 VB_PRP$
 see_my	2
@@ -2915,8 +2864,6 @@ be_stopped	1
 VB_VBG
 be_waiting	1
 help_using	1
-CD_-LRB-
-1980s_-LRB-	1
 RB_RBR
 now_more	1
 WRB_NNS
@@ -2928,12 +2875,6 @@ where_people	1
 ,_no	2
 NNP_NNPS
 Fisherman_Volumes	1
-FW_PRP$
-<br />_My	1
-VBZ_-LRB-
-is_-LRB-	1
-JJS_MD
-most_would	1
 VB_VBZ
 burn_is	1
 NNS_DT
@@ -2973,10 +2914,6 @@ hope_the	1
 have_a	1
 find_the	1
 need_this	1
-NNS_-RRB-
-Olmos_-RRB-	1
-clothes_-RRB-	1
-minutes_-RRB-	1
 VBD_TO
 started_to	1
 needed_to	1
@@ -2986,8 +2923,6 @@ decided_to	2
 used_to	1
 moved_to	1
 showed_to	1
-:_JJ
-:_immediate	1
 VB_VB
 be_be	1
 Please_get	1
@@ -3016,6 +2951,8 @@ mother_--	1
 ?_''	6
 !_''	2
 ._''	6
+NNP_JJ
+I_due	1
 NN_,
 bum_,	3
 meantime_,	1
@@ -3095,6 +3032,7 @@ money_.	1
 soul_.	1
 acting_.	1
 wish_.	1
+etc_.	1
 shape_!	1
 today_.	1
 day_.	1
@@ -3109,7 +3047,7 @@ purchase_.	1
 format_.	1
 gem_.	1
 DVD_?	1
-film_.	1
+film_.	2
 MYSELF_.	1
 position_.	1
 work_?	1
@@ -3131,6 +3069,7 @@ list_.	1
 thing_.	1
 view_.	1
 figure_.	1
+review_.	1
 priest_.	2
 restoration_.	1
 respect_.	1
@@ -3180,16 +3119,12 @@ himself_and	1
 WDT_VBD
 that_was	1
 that_suffered	1
-FW_JJ
-<br />_Later	1
 DT_,
 that_,	1
 all_,	1
 DT_.
 this_.	2
 that_.	2
--LRB-_RB
--LRB-_later	1
 DT_:
 that_...	1
 :_VBZ
@@ -3233,8 +3168,6 @@ as_good	1
 readily_available	1
 as_much	1
 so_glad	3
-RB_-RRB-
-ever_-RRB-	1
 NNS_RBR
 years_earlier	1
 VB_``
@@ -3245,10 +3178,6 @@ TO_NNP
 to_Rome	1
 to_Spain	1
 to_John	1
-RB_-LRB-
-highly_-LRB-	1
--LRB-_JJS
--LRB-_most	1
 VBG_DT
 becoming_a	1
 helping_a	1
@@ -3328,6 +3257,7 @@ Rey_as	1
 Pope_for	1
 Cramer_after	1
 Pope_on	1
+Vatican_in	1
 Pope_in	1
 Olmos_in	1
 IT_IN	1
@@ -3335,12 +3265,11 @@ Mauceri_as	1
 VHS_for	1
 Gianini_as	1
 I_in	1
-FW_UH
-<br />_Please	1
 ,_TO
 ,_to	1
 VBZ_``
 is_`	1
+is_``	1
 IN_VBG
 of_being	1
 from_helping	1
@@ -3355,18 +3284,19 @@ of_seeing	1
 by_burning	1
 in_helping	1
 from_beginning	1
-VBN_WRB
-lost_when	1
-NN_-RRB-
-matter_-RRB-	1
-review_-RRB-	2
-etc_-RRB-	1
-self_-RRB-	1
-film_-RRB-	1
-Isabella_-RRB-	1
-??_-RRB-	1
-</a>_-RSB-	1
-pope_-RRB-	1
+POS_NN
+'s_work	1
+'s_Name	1
+'s_performance	1
+'s_pope	1
+'s_help	1
+'s_<a href="http://www.amazon.com/gp/product/B000HD7KD0">	1
+'s_story	1
+'s_novel	1
+'s_character	1
+'s_life	1
+'s_<a href="http://www.amazon.com/gp/product/0786719842">	1
+'_nature	1
 ,_PRP
 ,_he	7
 ,_they	1
@@ -3384,13 +3314,8 @@ then_Pope	1
 Then_Leo	1
 n't_Miss	1
 Naturally_Leo	1
--LRB-_NNP
--LRB-_David	1
--LRB-_Dir	1
--LRB-_sp	1
--LSB-_VHS	1
--LRB-_NNS
--LRB-_Olmos	1
+JJS_MD
+most_would	1
 VBG_.
 following_!	1
 ,_RBR
@@ -3415,16 +3340,6 @@ old_and	1
 young_and	1
 rough_and	1
 funny_and	2
-TO_NN
-to_world	1
-to_youth	1
-to_earth	1
-to_hell	2
-to_anyone	1
-TO_DVD	1
-to_family	2
-to_someone	1
-to_dvd	1
 IN_VBZ
 as_is	1
 JJ_CD
@@ -3439,22 +3354,18 @@ Why_does	1
 VBZ_PDT
 comes_all	1
 has_all	1
-POS_NN
-'s_work	1
-'s_Name	1
-'s_performance	1
-'s_pope	1
-'s_help	1
-'s_<a href="http://www.amazon.com/gp/product/B000HD7KD0">	1
-'s_story	1
-'s_novel	1
-'s_character	1
-'s_life	1
-'s_<a href="http://www.amazon.com/gp/product/0786719842">	1
-'_nature	1
-FW_CC
-<br />_But	1
-<br />_And	3
+VBN_WRB
+lost_when	1
+TO_NN
+to_world	1
+to_youth	1
+to_earth	1
+to_hell	2
+to_anyone	1
+TO_DVD	1
+to_family	2
+to_someone	1
+to_dvd	1
 CD_NNS
 5_copies	1
 2_conclaves	1
@@ -3464,6 +3375,8 @@ two_copies	1
 one_notices	1
 3_popes	1
 33_days	1
+CD_NNP
+1980s_David	1
 VBN_RB
 said_already	1
 watched_repeatedly	1
@@ -3615,7 +3528,7 @@ NNP_,
 Pope_,	2
 Gianinni_,	1
 GRACE_,	1
-Conti_,	2
+Conti_,	3
 Vatican_,	1
 Eeeehhhhhhhh_,	1
 </a>_,	1
@@ -3630,18 +3543,21 @@ CD_JJ
 one_concrete	1
 one_other	1
 NNP_.
-I_.	1
+Self-Realization_.	1
 Church_.	1
 Spain_.	1
 Christ_.	1
 Writ_.	1
-God_.	1
+I_.	1
+Olmos_.	1
 City_?	1
 Vatican_.	3
+XIV_.	1
 Guide_.	1
 FISHERMAN_.	1
-Self-Realization_.	1
+God_.	1
 Dir_.	1
+Methodist_.	1
 sp_?	1
 Pope_.	1
 Ferguson_.	1
@@ -3675,8 +3591,6 @@ frankly_do	1
 too_wish	1
 just_need	1
 truly_love	1
-NNPS_-LRB-
-Catholics_-LRB-	1
 VBZ_:
 works_;	1
 has_;	1
@@ -3701,8 +3615,6 @@ THIS_TO	1
 flaws_to	1
 gifts_to	1
 friends_to	1
--LRB-_JJ
--LRB-_epidemic	1
 WDT_CD
 THAT_ONE	1
 VBZ_IN
@@ -3727,8 +3639,6 @@ VBN_PRP
 seen_it	2
 shown_it	1
 watched_it	4
-:_FW
-..._<br />	1
 ,_CC
 ,_or	1
 ,_and	30
@@ -3747,10 +3657,12 @@ off_and	1
 NN_WP
 town_who	1
 someone_who	1
-one_who	1
 fan_who	1
+one_who	1
+figure_who	1
+Isabella_who	1
 reviewer_who	1
-pope_who	2
+pope_who	3
 man_who	2
 writer_who	1
 anyone_who	1
@@ -3795,14 +3707,6 @@ IN_CC
 over_and	1
 with_and	1
 before_and	1
-NNP_-LRB-
-Vatican_-LRB-	2
-DIE_-LRB-	1
-Diet_-LSB-	1
-Pope_-LRB-	1
-Giannini_-LRB-	1
-XIV_-LRB-	1
-GRACE_-LRB-	1
 IN_,
 that_,	1
 since_,	2
@@ -3816,9 +3720,6 @@ guns_blasting	1
 `_like	1
 PRP_NNP
 I_WANT	1
--LRB-_PRP
--LRB-_they	1
--LRB-_I	3
 PRP_NNS
 me_years	2
 ,_UH
@@ -3830,10 +3731,6 @@ am_Methodist	1
 VBP_RP
 make_up	1
 fall_off	1
-FW_RB
-<br />_Here	1
-<br />_Naturally	1
-<br />_Now	1
 ``_PRP
 ``_I	2
 ``_You	2
@@ -3842,14 +3739,11 @@ POS_JJ
 's_disastrous	1
 's_beautiful	1
 's_final	1
-IN_-LRB-
-by_-LRB-	1
+:_JJ
+:_immediate	1
 ''_IN
 ''_with	1
 ''_on	1
--RRB-_IN
--RRB-_with	1
--RSB-_after	1
 VBD_VBN
 was_made	1
 became_overwhelmed	1
@@ -3921,11 +3815,12 @@ quarantined_village	1
 reconstructed_aqueduct	1
 lost_gem	1
 NNP_RB
-DO_N'T	1
-God_again	1
-Pope_now	1
-Leo_really	1
+DIE_later	1
 Europe_too	1
+God_again	1
+DO_N'T	1
+Leo_really	1
+Pope_now	1
 POS_:
 's_-	1
 NNP_VBP
@@ -3934,6 +3829,7 @@ Giannini_give	1
 ;_I	1
 -_he	1
 -_you	1
+..._I	1
 --_I	1
 --_it	1
 -_it	1
@@ -3951,6 +3847,7 @@ residents_of	1
 occasions_in	1
 roots_of	1
 evenings_before	1
+clothes_with	1
 copies_for	1
 forces_in	1
 problems_of	1
@@ -3996,11 +3893,12 @@ Europe_does	1
 US_is	1
 Abalardi_recognizes	1
 VB_JJ
-be_faithful	1
-be_great	1
-be_difficult	1
-travel_outside	1
 be_available	1
+be_faithful	1
+be_difficult	1
+imagine_epidemic	1
+be_great	1
+travel_outside	1
 TO_VB
 to_rekindle	1
 to_rest	1
@@ -4079,12 +3977,8 @@ Leo_did	1
 God_did	1
 JJ_WP
 available_What	1
--LRB-_IN
--LRB-_if	1
--LRB-_at	1
--LRB-_with	1
--LRB-_in	1
--LRB-_for	1
+NNP_VBN
+XIV_played	1
 NNP_POS
 West_'s	3
 Coltrane_'s	1
@@ -4181,8 +4075,8 @@ is_Leo	1
 compares_Conti	1
 finds_God	1
 says_God	1
-FW_NNP
-<br />_Saving	1
+MD_IN
+can_in	1
 VBZ_NNS
 makes_mistakes	1
 VBP_NN
@@ -4192,8 +4086,6 @@ MD_NNP
 Must_Diet	1
 WDT_VB
 that_be	1
--LRB-_WP
--LRB-_who	1
 VB_CD
 be_one	1
 VB_CC
@@ -4216,8 +4108,6 @@ off_by	1
 out_on	3
 VBN_NNS
 orphaned_children	1
--LRB-_NN
--LRB-_Isabella	1
 ,_NNP
 ,_Erland	1
 ,_Europe	1
@@ -4249,8 +4139,6 @@ and_bishops	1
 ,_theives	1
 ,_widows	1
 ,_fears	1
-FW_WRB
-<br />_When	1
 TO_WDT
 to_which	1
 DT_TO

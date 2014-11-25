@@ -78,12 +78,9 @@ been_made	1
 been_reworked	1
 ''_TO
 ''_to	1
--LRB-_``
--LRB-_``	6
+VBN_VBG
+been_making	1
 FW_DT
-<br />_That	1
-<br />_This	2
-<br />_The	6
 yuki_no	1
 CC_JJ
 and_important	1
@@ -152,8 +149,6 @@ fired_,	1
 disappointed_,	1
 VB_JJR
 do_better	1
-VBN_VBG
-been_making	1
 WDT_MD
 which_will	2
 that_will	2
@@ -177,8 +172,6 @@ scenes_that	1
 films_that	1
 movies_that	1
 subplots_that	1
--RRB-_FW
--RRB-_<br />	1
 DT_FW
 no_maki	1
 RB_JJR
@@ -199,6 +192,8 @@ on_.	1
 in_.	1
 up_.	1
 out_.	1
+RP_,
+up_,	1
 VBN_JJ
 been_several	1
 reworked_anamorphic	1
@@ -210,8 +205,6 @@ who_refuse	1
 who_mean	1
 who_accuse	1
 who_do	2
--LRB-_PRP$
--LRB-_his	1
 WP_VBZ
 who_is	1
 who_excels	1
@@ -222,19 +215,16 @@ who_portrays	1
 what_has	1
 who_takes	1
 who_puts	1
--RRB-_MD
--RRB-_will	1
--RRB-_,
--RRB-_,	6
--RRB-_.
--RRB-_.	9
 NNP_CC
 Gilbert_and	1
 Christ_but	1
 II_and	1
 Asano_and	3
 Arthur_and	1
+Yojimbo_or	1
 Code_and	1
+Tokyo_and	1
+Trilogy_and	1
 RP_VBG
 out_sitting	1
 :_JJS
@@ -245,8 +235,6 @@ most_expensive	1
 most_interesting	1
 most_popular	1
 most_important	1
-''_-LRB-
-''_-LRB-	3
 :_NN
 :_calligraphy	1
 -_suicide	1
@@ -367,10 +355,11 @@ was_incredibly	1
 was_mildly	1
 NN_DT
 way_this	1
-motion_the	1
 soundtrack_all	1
+motion_the	1
 story_the	1
 wife_the	1
+Chusingura_the	1
 film_the	1
 PDT_DT
 all_a	1
@@ -399,23 +388,8 @@ feel_real	1
 are_ridiculous	1
 are_breathtaking	1
 are_many	1
-CD_-LRB-
-1959_-LRB-	1
-NN_-RRB-
-subordinate_-RRB-	1
-Samurai_-RRB-	1
-screen_-RRB-	1
-power_-RRB-	1
-culture_-RRB-	1
-version_-RRB-	1
-puppet_-RRB-	1
-Ronin_-RRB-	1
-sword-film_-RRB-	1
-ronin_-RSB-	1
-story_-RRB-	2
-Sampei_-RRB-	1
-time_-RRB-	1
-suicide_-RRB-	1
+RP_PRP$
+up_their	1
 VB_NNS
 take_breaks	1
 scan_lines	1
@@ -583,14 +557,21 @@ two_are	1
 NNS_JJ
 films_first	1
 men_willing	1
+versions_many	1
 films_narrative	1
 FW_NNP
-<br />_Second	1
 aka_Musashi	1
--LRB-_DT
--LRB-_the	1
--LRB-_that	1
--LRB-_this	1
+NNP_''
+Musashi_''	1
+King_''	1
+Chushingura_''	2
+Samurai_''	3
+Beard_''	1
+Blossoms_''	1
+Mikado_''	1
+Mount_''	1
+Ronin_''	2
+Alamo_''	1
 NNP_JJR
 MUCH_better	1
 DT_NNS
@@ -751,6 +732,7 @@ swords_and	1
 adaptations_and	1
 documents_but	1
 trifles_and	1
+hours_and	2
 deliberations_and	1
 VBN_PRP
 seen_it	1
@@ -770,6 +752,7 @@ modernization_and	1
 scope_and	1
 time_and	2
 timing_and	1
+puppet_and	1
 past_or	1
 glory_and	1
 pal_and	1
@@ -799,6 +782,7 @@ honor_and	2
 purpose_and	1
 duty_and	1
 love_and	1
+theme_and	1
 law_and	1
 self-sacrifice_and	1
 world_and	1
@@ -824,9 +808,12 @@ a_better	2
 NN_JJ
 movie_many	1
 something_new	1
+ronin_Masterless	1
 time_private	1
 story_unfinished	1
 redone_befitting	1
+ronin_due	1
+surrealism_surreal	1
 samurai_aesthetic	1
 core_Japanese	1
 offence_punishable	1
@@ -856,28 +843,29 @@ Miyamoto_Musashi	2
 Lord_Kira	5
 Toshiro_Mifune	5
 Toho_Films	1
+Kira_Chusha	2
 Lord_Asano	11
 Asian_Arts	1
 Samurai_Code	1
 Arts_Museum	1
-<p>_Thankfully	1
 Christmas_Carol	1
 Hiroshi_Inagaki	3
 Robin_Hood	1
 Civil_War	1
-Yuzo_Kayama	2
 SEVEN_SAMURAI	1
 Red_Beard	1
 Part_I	1
+Sanjuro_Mifune	1
 John_Wayne	1
 Takashi_Shimura	2
 Akira_Kurosawa	1
 Musashi_Miyamoto	1
+Asano_Yuzo	1
 King_Arthur	1
 Yuzo_Kayami	1
 Director_Hiroshi	1
 Samurai_Trilogy	2
-<p>_Chushingura	1
+Yuzo_Kayama	2
 VBZ_JJR
 is_more	2
 ''_WP
@@ -988,12 +976,6 @@ VBZ_WRB
 is_where	1
 smiles_when	1
 is_when	1
--LRB-_CC
--LRB-_or	1
--LRB-_and	2
-NNS_-LRB-
-minutes_-LRB-	1
-versions_-LRB-	1
 WDT_PRP
 which_you	1
 RB_WRB
@@ -1030,13 +1012,6 @@ least_once	1
 VBD_CD
 was_one	1
 became_one	1
-NNP_-RRB-
-Ichikawa_-RRB-	2
-Yojimbo_-RRB-	1
-Kayami_-RRB-	1
-Japan_-RRB-	1
-Tokyo_-RRB-	1
-Musashi_-RRB-	1
 CC_RB
 and_just	1
 and_even	2
@@ -1066,8 +1041,6 @@ how_I	1
 where_you	1
 when_he	1
 When_it	1
-CD_-RRB-
-4.5_-RSB-	1
 :_IN
 --_for	1
 -_as	1
@@ -1137,8 +1110,6 @@ If_I	1
 ,_FW
 ,_e.g.	1
 ,_etc	1
--RRB-_PRP
--RRB-_It	1
 :_NNS
 -_years	1
 :_NNP
@@ -1468,8 +1439,6 @@ It_is	9
 he_feels	1
 It_runs	1
 he_succeeds	1
-FW_PRP
-<br />_I	3
 PRP_:
 it_-	1
 WP_NNS
@@ -1487,8 +1456,6 @@ us_,	1
 me_,	1
 themselves_,	1
 it_,	2
-FW_WP
-<br />_What	1
 CC_VBP
 and_kill	1
 and_are	1
@@ -1571,6 +1538,7 @@ painful_.	1
 full_.	1
 heart-lifting_.	1
 fleeting_.	1
+great_.	1
 wrong_.	1
 good_.	1
 RBS_RB
@@ -1671,10 +1639,11 @@ samurai_masterpieces	1
 action_scenes	1
 movie_bogs	1
 winter_scenes	1
-<p>_Others	1
 NN_NNP
+buddy_Mifune	1
 actor_Takashi	1
 country_Samurai	1
+Edo_Tokyo	1
 master_Lord	1
 actor_Toshiro	1
 lord_Kira	2
@@ -1713,10 +1682,10 @@ better_DVD	1
 RB_``
 sometimes_``	1
 somewhat_``	1
+VBN_NNS
+titled_BLOSSOMS	1
 :_CD
 :_4.5	1
-RP_-RRB-
-up_-RRB-	1
 PRP_MD
 they_will	1
 he_may	1
@@ -1803,7 +1772,7 @@ art_gallery	1
 drinking_buddy	1
 paulonia_woodwork	1
 Zen_gardening	1
-<br />_Scenery	1
+love_story	1
 sound_track	1
 fighting_spirit	1
 capital_offense	1
@@ -1811,7 +1780,6 @@ morality_play	1
 color_photgraphy	1
 ritual_suicide	2
 scroll_painting	1
-science_fiction	1
 movie_justice	1
 running_time	1
 widescreen_format	1
@@ -1819,10 +1787,12 @@ samurai_code	3
 word_loyalty	1
 film_viewer	1
 demand_justice	1
+character_Sampei	1
 action_film	1
 box-office_star	1
-bunraku_puppet	1
+bunraku_puppet	2
 samurai_face	1
+time_budget	1
 cameo_role	1
 hour_epic	1
 puppet_play	1
@@ -1838,7 +1808,7 @@ character_development	2
 price_Image	1
 widescreen_presentation	1
 background_figure	1
-love_story	1
+science_fiction	1
 picture_quality	1
 samurai_ronin	1
 film_library	1
@@ -1859,8 +1829,6 @@ deals_primarily	1
 samurais_anywhere	1
 visuals_only	1
 tears_yet	1
--LRB-_WDT
--LRB-_which	2
 EX_VBD
 There_had	1
 there_was	1
@@ -2004,9 +1972,6 @@ whose_title	1
 whose_subject	1
 ''_``
 ''_``	1
--RRB-_NNP
--RRB-_Takashi	1
--RRB-_Yuzo	1
 NN_IN
 seppukku_for	1
 price_of	1
@@ -2031,18 +1996,16 @@ cinematography_of	1
 suicide_without	1
 ALL_of	1
 conflict_between	2
-version_of	3
 suicide_during	1
 master_of	2
 work_by	1
 favorite_among	1
 gist_of	1
 teller_in	1
-<p>_If	1
 sword_in	3
 kind_of	1
 intrigue_at	1
-<p>_In	1
+version_of	3
 movie_for	1
 revenge_on	1
 fiefdom_with	1
@@ -2169,12 +2132,11 @@ judgment_at	1
 time_at	1
 division_into	1
 love_with	1
-<br />_As	1
+egging_of	1
 insight_into	1
 person_in	1
 time_until	1
 right_of	1
-egging_of	1
 fascination_with	1
 action_until	1
 part_of	1
@@ -2226,19 +2188,22 @@ official_named	1
 tale_stuffed	1
 protagonist_named	1
 NNS_PRP
+times_you	1
 values_it	1
 lives_we	1
 times_I	1
-times_you	1
+hours_It	1
 NN_VBG
-thing_happening	1
+power_coming	1
+spirit_preparing	1
 honor_following	1
 sword_being	1
-clan_assisting	1
-spirit_preparing	1
+samurai_enacting	1
+subordinate_committing	1
+thing_happening	1
 gun_being	1
 clan_leaving	1
-samurai_enacting	1
+clan_assisting	1
 CC_WRB
 and_when	1
 NN_VBD
@@ -2267,6 +2232,7 @@ what_he	1
 NN_VBZ
 suicide_becomes	1
 film_drags	1
+Ronin_is	1
 cinematography_is	1
 CHUSHINGURA_is	1
 viewer_is	3
@@ -2306,6 +2272,7 @@ betrayal_is	1
 photography_is	1
 Image_does	1
 roster_is	1
+Sampei_appears	1
 movie_lasts	1
 sound_is	1
 time_begins	1
@@ -2387,7 +2354,6 @@ samurai_swear	1
 movie_are	1
 samurai_hatch	1
 Asana_plot	1
-<p>_Do	1
 samurai_argue	1
 ronin_are	1
 film_seem	1
@@ -2416,10 +2382,9 @@ IN_EX
 because_there	1
 JJS_PRP
 least_we	1
-JJ_-LRB-
-masterless_-LSB-	1
-non-progressive_-LRB-	1
-huge_-LRB-	1
+PRP_RP
+it_out	2
+them_up	1
 JJ_``
 would-be_``	1
 many_``	1
@@ -2448,7 +2413,6 @@ show_him	1
 let_them	1
 fight_it	1
 stretch_it	1
-<p>_It	1
 pick_them	1
 think_I	1
 find_it	1
@@ -2507,9 +2471,9 @@ uses_his	1
 CC_PRP$
 and_his	2
 and_their	2
-:_VBZ
---_makes	1
--_is	1
+VB_RP
+hold_off	1
+give_up	1
 DT_DT
 this_an	1
 this_a	1
@@ -2566,9 +2530,6 @@ really_liked	1
 first_saw	1
 also_Disneylanded	1
 always_had	1
-FW_IN
-<br />_For	1
-<br />_As	2
 POS_NN
 's_judgment	1
 's_ritual	1
@@ -2604,8 +2565,6 @@ VBG_,
 changing_,	1
 planning_,	1
 preparing_,	1
--RRB-_DT
--RRB-_a	1
 VBD_NN
 were_part	1
 JJ_WP
@@ -2704,9 +2663,8 @@ address_the	1
 stand_the	1
 Imagine_the	1
 reach_the	1
-<p>_The	4
 develop_every	1
-rewatch_this	1
+rock_all	1
 watch_this	1
 take_a	1
 reference_an	1
@@ -2717,7 +2675,7 @@ conceal_this	1
 make_a	2
 restore_the	1
 see_another	1
-rock_all	1
+rewatch_this	1
 meet_both	1
 need_an	1
 clarify_the	1
@@ -2735,7 +2693,6 @@ When_the	1
 where_the	3
 why_this	1
 FW_FW
-<br />_<br />	23
 etc_etc.	1
 maki_yuki	1
 VBZ_JJ
@@ -2761,8 +2718,6 @@ is_fantastic	1
 is_excellent	2
 is_stellar	1
 does_little	1
-JJ_-RRB-
-great_-RRB-	1
 ''_DT
 ''_the	1
 ''_this	1
@@ -2901,6 +2856,7 @@ NN_MD
 problem_will	1
 samurai_will	1
 release_will	1
+story_will	1
 clan_will	1
 film_could	1
 conflict_can	1
@@ -2978,9 +2934,8 @@ not_accept	1
 ever_discern	1
 not_lean	1
 longer_stand	1
--RRB-_JJ
--RRB-_sophisticated	1
--RSB-_due	1
+''_JJ
+''_Full	1
 IN_IN
 that_if	1
 over_whether	1
@@ -3016,11 +2971,6 @@ wounding_his	1
 ,_building	1
 ,_leading	1
 ,_following	1
-''_-RRB-
-''_-RRB-	6
--RRB-_VBZ
--RRB-_appears	1
--RRB-_is	3
 NNS_.
 characters_.	1
 ethics_.	1
@@ -3082,9 +3032,6 @@ retainers_,	1
 ,_do	1
 ,_are	1
 ,_make	1
--RRB-_VBG
--RRB-_committing	1
--RRB-_coming	1
 RB_.
 wholeheartedly_.	1
 here_.	1
@@ -3188,8 +3135,9 @@ CD_IN
 !!_Despite	1
 one_of	11
 one_as	1
+4.5_If	1
 ''_CC
-''_and	3
+''_and	4
 ''_or	1
 IN_WP
 that_what	1
@@ -3197,9 +3145,6 @@ for_what	1
 of_what	1
 RB_''
 indirectly_''	1
--RRB-_CC
--RRB-_and	5
--RRB-_or	1
 VBG_PRP
 watching_it	1
 revealing_it	1
@@ -3220,18 +3165,17 @@ influenced_my	1
 :_1	1
 NN_PRP
 swordplay_I	1
-rage_he	1
-<p>_I	1
+art_you	1
 DVD_it	1
 deference_he	1
-pain_I	1
 film_it	1
-fact_I	1
+pain_I	1
 pain_you	1
 novel_it	1
 time_you	1
 movie_you	1
-art_you	1
+rage_he	1
+fact_I	1
 time_I	1
 comment_I	1
 VB_PRP$
@@ -3246,7 +3190,7 @@ revenge_their	1
 fulfill_their	1
 avenge_their	2
 ''_WDT
-''_which	1
+''_which	2
 ,_MD
 ,_can	1
 JJ_DT
@@ -3254,10 +3198,11 @@ befitting_this	1
 worth_a	1
 worth_the	1
 RB_CC
+anywhere_and	1
+else_or	1
+willingly_or	1
 coherently_and	1
 calmly_and	1
-anywhere_and	1
-willingly_or	1
 again_and	1
 MD_VB
 must_leave	1
@@ -3366,8 +3311,6 @@ be_understood	1
 be_interrupted	1
 RP_JJ
 up_intense	1
-RP_PRP$
-up_their	1
 WRB_NNP
 when_Lord	1
 ,_DT
@@ -3378,15 +3321,12 @@ when_Lord	1
 ,_a	1
 ,_the	31
 ,_all	1
-FW_PRP$
-<br />_Their	1
 NNS_DT
 details_the	1
 accounts_a	1
+minutes_that	1
 POS_``
 's_``	3
-IN_-RRB-
-on_-RRB-	1
 VBZ_NN
 's_FINALLY	1
 commits_suicide	1
@@ -3399,10 +3339,6 @@ requires_patience	1
 is_motion	1
 's_time	1
 is_something	1
-WDT_VBP
-that_make	1
-which_believe	1
-that_serve	1
 WRB_NN
 where_ALL	1
 where_nothing	1
@@ -3473,8 +3409,6 @@ is_here	1
 is_uncompromisingly	1
 is_very	3
 is_as	2
-NNS_-RRB-
-hours_-RRB-	3
 VBD_TO
 were_to	1
 had_to	2
@@ -3483,8 +3417,6 @@ decided_to	1
 led_to	1
 ,_WDT
 ,_which	5
-:_-RRB-
-..._-RRB-	1
 JJS_NNP
 most_Robert	1
 JJS_NNS
@@ -3505,96 +3437,101 @@ story_-	1
 palace_-	1
 Edition_-	1
 everything_:	1
+CD_RB
+1959_never	1
 POS_JJR
 's_younger	1
 ._''
 ._''	4
+LS_DT
+3_a	1
 NN_,
-calligraphy_,	1
-collection_,	1
-theme_,	1
-development_,	1
-beginning_,	2
-man_,	1
-death_,	2
-opinion_,	1
-action_,	1
-anything_,	1
-plot_,	2
-music_,	1
-seat_,	1
-contrast_,	1
-justice_,	1
-something_,	1
-self_,	1
-gallery_,	1
-bit_,	1
-son_,	1
-antagonist_,	1
-loyalty_,	1
-addition_,	1
-bushido_,	1
-Loyalty_,	1
-day_,	1
-surface_,	2
-DVD_,	2
 theater_,	2
-version_,	1
-imagination_,	1
-part_,	1
-video_,	1
-format_,	1
-contempt_,	1
-society_,	1
-clan_,	1
-code_,	1
-passion_,	1
-place_,	1
-instance_,	1
-comparison_,	1
 koto_,	1
-daimyo_,	1
-misery_,	1
-maki_,	1
-sensibility_,	1
-legend_,	1
-light_,	1
 gardening_,	1
+seat_,	1
+bit_,	1
+film_,	10
+son_,	1
+mess_,	1
+video_,	1
+clan_,	1
 ronin_,	1
-gunfight_,	1
-play_,	1
 life_,	3
 devotion_,	1
-samurai_,	4
-aftermath_,	1
-film_,	10
 patience_,	1
-mess_,	1
-ritual_,	1
-fidelity_,	1
+light_,	1
 era_,	1
-act_,	1
-disadvantage_,	1
 spy_,	1
+aftermath_,	1
+death_,	2
+painting_,	1
+example_,	2
+offense_,	1
+legend_,	1
+justice_,	1
+story_,	4
+bushido_,	1
+surface_,	2
+version_,	2
+society_,	1
+instance_,	1
+daimyo_,	1
+misery_,	1
+sword-film_,	1
+play_,	1
+place_,	1
+lord_,	1
+collection_,	1
+development_,	1
+fidelity_,	1
+loyalty_,	1
+drama_,	2
+calligraphy_,	1
+counterparty_,	1
+fact_,	2
+plot_,	2
+woodwork_,	1
+theme_,	1
+man_,	1
+disadvantage_,	1
+contrast_,	1
+gallery_,	1
+ritual_,	1
+format_,	1
+code_,	1
+passion_,	1
+comparison_,	1
+something_,	1
+imagination_,	1
+anything_,	1
+addition_,	1
+act_,	1
+part_,	1
+anniversary_,	1
+pace_,	1
+disk_,	1
+gunfight_,	1
+Loyalty_,	1
+beginning_,	2
+antagonist_,	1
+opinion_,	1
+action_,	1
+music_,	1
+self_,	1
+day_,	1
+DVD_,	2
+survival_,	1
+contempt_,	1
+budget_,	1
+maki_,	1
+sensibility_,	1
+movie_,	2
 fuse_,	1
 castle_,	2
-anniversary_,	1
-survival_,	1
-pace_,	1
-drama_,	2
-disk_,	1
-lord_,	1
-painting_,	1
+samurai_,	4
 home_,	1
-budget_,	1
-example_,	2
-counterparty_,	1
 time_,	1
-fact_,	2
-movie_,	2
-woodwork_,	1
-offense_,	1
-story_,	4
 ``_NN
 ``_art	1
 ``_Loyalty	1
@@ -3620,7 +3557,7 @@ shame_.	1
 pride_.	1
 spirit_.	1
 speechifying_.	1
-screen_.	1
+screen_.	2
 lance_.	1
 era_.	1
 tale_.	1
@@ -3635,9 +3572,10 @@ legend_.	1
 justice_.	1
 demise_.	1
 ideal_?	1
-story_.	2
+story_.	3
 rendezvous_.	1
 vow_.	1
+culture_.	1
 genre_.	1
 solution_.	1
 experience_.	1
@@ -3651,7 +3589,8 @@ transfer_.	1
 loyalty_.	3
 drama_.	1
 hindsight_.	1
-suicide_.	2
+Samurai_.	1
+suicide_.	3
 movie_.	1
 treat_.	1
 box_.	1
@@ -3713,27 +3652,24 @@ that_unfolds	1
 which_runs	2
 JJR_TO
 more_to	1
-NN_-LRB-
-Chusingura_-LRB-	1
-character_-LRB-	1
-surrealism_-LRB-	1
-Edo_-LRB-	1
-movie_-LRB-	1
-bunraku_-LRB-	1
-ronin_-LRB-	1
-chambara_-LRB-	1
-buddy_-LRB-	1
-theme_-LRB-	1
-samurai_-LRB-	1
-CHUSHINGURA_-LRB-	1
+WDT_VBP
+that_make	1
+which_believe	1
+that_serve	1
+VBZ_NNP
+'s_Sanjuro	1
+deserves_MUCH	1
 ''_VBD
 ''_was	1
 ''_VBZ
+''_is	2
 ''_conjures	1
 ''_brings	1
 ''_NN
-''_account	1
+''_genre	1
 ''_exhibit	1
+''_sword-film	1
+''_account	1
 ''_sound	1
 ''_trilogy	1
 VBP_VB
@@ -3754,17 +3690,10 @@ buying_once	1
 Appearing_originally	1
 doing_so	1
 seeing_just	1
--RRB-_NN
--RRB-_authenticity	1
--RRB-_genre	1
--RRB-_budget	1
 DT_,
 those_,	1
 VBG_RP
 backing_up	1
--LRB-_RB
--LRB-_never	1
--LRB-_maybe	1
 JJ_VB
 interlaced_scan	1
 CC_LS
@@ -3825,8 +3754,6 @@ to_John	1
 to_Chushingura	1
 to_Asano	2
 to_Kobayashi	1
-RB_-LRB-
-else_-LRB-	1
 TO_NNS
 to_ones	1
 to_moments	1
@@ -3876,9 +3803,9 @@ discern_exactly	1
 develop_coherently	1
 CD_MD
 46_wo	1
-VB_RP
-hold_off	1
-give_up	1
+:_VBZ
+--_makes	1
+-_is	1
 VBZ_PDT
 is_all	1
 NN_RBR
@@ -3890,22 +3817,20 @@ geishas_when	1
 ``_western	1
 NNP_IN
 Japan_under	1
+Ichikawa_As	1
 Tokugawa_in	1
-Becket_in	1
+Asano_for	1
+Directed_by	2
 Chushingura_as	1
 Museum_in	1
 Mifune_in	1
 West_for	1
-Directed_by	2
+Becket_in	1
 Furuda_in	1
 Japan_in	1
 Japan_for	1
 FW_,
 e.g._,	1
-LS_-RRB-
-1_-RRB-	1
-2_-RRB-	1
-3_-RRB-	1
 FW_.
 etc._.	1
 JJS_VBN
@@ -3937,12 +3862,6 @@ CC_JJR
 and_more	2
 IN_VBN
 As_opposed	1
--LRB-_NNP
--LSB-_Stars	1
--LRB-_Yuzo	1
--LRB-_Chusha	2
--LRB-_Tokyo	1
--LRB-_Mifune	2
 VBG_WRB
 remembering_how	1
 ,_RBS
@@ -3967,8 +3886,6 @@ right_and	1
 incredible_and	1
 popular_and	1
 Japanese_and	1
-FW_CC
-<br />_And	1
 IN_VBZ
 as_is	1
 JJ_CD
@@ -3992,14 +3909,9 @@ WRB_VBN
 when_compared	1
 NNP_WP
 Spearman_who	1
+Inagaki_who	1
 Samurai_what	1
 Samurai_who	1
-PRP_RP
-it_out	2
-them_up	1
-FW_CD
-<br />_Ten	1
-<br />_One	1
 VBN_WRB
 outraged_when	1
 seen_when	1
@@ -4040,6 +3952,7 @@ Holliwood_mainstream	1
 Samurai_film	1
 Yoshikawa_novel	1
 Tokugawa_shogunate	2
+Seppuku_ritual	1
 Tokugawa_period	1
 Asano_clan	1
 Tokugawa_era	3
@@ -4076,6 +3989,11 @@ beggars_ca	1
 vassals_will	1
 sentences_can	1
 viewers_may	1
+NNP_``
+Mihashi_``	1
+Mifune_``	1
+Shimura_``	1
+Kayama_``	1
 TO_RB
 to_ever	2
 RBR_IN
@@ -4161,10 +4079,14 @@ do_n't	5
 are_now	1
 live_long	1
 are_not	1
+''_NNP
+''_Yuzo	1
+''_Takashi	1
 NNP_,
 England_,	1
 Yojimbo_,	2
 Sanjuro_,	1
+Musashi_,	1
 Horibe_,	1
 Asano_,	2
 Thankfully_,	1
@@ -4199,8 +4121,10 @@ NNP_.
 Lord_.	1
 Gettysburg_.	1
 Francisco_.	1
-Japan_.	4
+Japan_.	5
 Shogunate_.	1
+Kayami_.	1
+Ichikawa_.	1
 Kira_.	6
 SAMURAI_.	1
 Ronin_.	1
@@ -4285,11 +4209,6 @@ events_to	1
 appeals_to	1
 plans_to	2
 orders_to	1
--LRB-_JJ
--LRB-_many	1
--LRB-_Full	1
--LRB-_Masterless	1
--LRB-_surreal	1
 JJ_JJ
 ridiculous_romantic	1
 beautiful_ballet	1
@@ -4308,7 +4227,6 @@ sweeping_historical	1
 snow-swept_feudal	1
 famous_Japanese	1
 such_pure	1
-<p>_Political	1
 ancient_Japanese	1
 rudimentary_visual	1
 spiteful_superior	1
@@ -4320,6 +4238,8 @@ more_from	1
 less_from	1
 more_than	2
 more_of	2
+LS_NN
+2_authenticity	1
 WRB_JJ
 how_awful	1
 ,_CC
@@ -4392,8 +4312,6 @@ of_47	2
 over_3	1
 with_one	2
 than_eight	1
-NNS_POS
-actors_'	1
 NNS_VBZ
 times_seems	1
 adjectives_is	1
@@ -4406,18 +4324,8 @@ liked_his	1
 doubted_his	1
 IN_CC
 as_both	1
-NNP_-LRB-
-Sanjuro_-LRB-	1
-Shimura_-LRB-	1
-Trilogy_-LRB-	1
-Mihashi_-LRB-	1
-Kira_-LRB-	2
-Inagaki_-LRB-	1
-Seppuku_-LRB-	1
-Kayama_-LRB-	1
-Chushingura_-LRB-	1
-Asano_-LRB-	2
-Mifune_-LRB-	1
+IN_,
+on_,	1
 JJS_IN
 most_of	1
 least_in	1
@@ -4445,8 +4353,6 @@ based_Samurai	1
 VBP_RP
 give_up	1
 believe_in	1
-RP_IN
-out_for	1
 NN_WP$
 film_whose	2
 CD_JJS
@@ -4464,8 +4370,6 @@ titled_``	1
 '_for	1
 ''_for	2
 ''_with	2
--RRB-_IN
--RSB-_If	1
 VBD_VBN
 was_forbidden	1
 were_interpreted	1
@@ -4639,6 +4543,8 @@ which_the	2
 NN_``
 masterpiece_``	1
 epic_``	1
+CHUSHINGURA_``	1
+chambara_``	1
 VBG_NNP
 assisting_Tokugawa	1
 recalling_Oishi	1
@@ -4674,9 +4580,6 @@ Japan_were	1
 Asano_was	1
 ``_DT
 ``_The	2
--LRB-_IN
--LRB-_so	1
--LRB-_for	2
 NNP_POS
 Mizoguchi_'s	1
 Wayne_'s	1
@@ -4702,7 +4605,6 @@ film_usually	1
 allegiance_only	1
 delivery_just	1
 character_simply	1
-fate_calmly	1
 someone_else	1
 someone_not	1
 movie_again	1
@@ -4711,11 +4613,12 @@ movie_alone	1
 delivery_here	1
 film_highly	1
 nothing_else	1
-<p>_Definitely	1
+fate_calmly	1
 culture_shamelessly	1
 honor_ultimately	1
 scene_then	1
 track_so	1
+movie_maybe	1
 JJ_IN
 wonderful_in	1
 unclear_in	1
@@ -4727,6 +4630,7 @@ Western_in	1
 vivid_as	1
 tacky_that	1
 excellent_as	1
+non-progressive_so	1
 rich_in	1
 equal_of	1
 available_on	1
@@ -4735,6 +4639,7 @@ popular_in	1
 gorgeous_with	1
 ballet_of	1
 unfamiliar_with	1
+huge_for	1
 interesting_as	1
 live_in	1
 flagging_of	1
@@ -4782,9 +4687,8 @@ one_love	1
 one_movie	1
 1962_classic	1
 47_Ronin	1
-VBZ_NNP
-'s_Sanjuro	1
-deserves_MUCH	1
+:_,
+..._,	1
 VBZ_NNS
 sheds_tears	1
 conjures_images	1
@@ -4793,34 +4697,28 @@ conjures_images	1
 VBP_NN
 find_something	1
 face_disgrace	1
+NN_PRP$
+samurai_his	1
 JJ_''
 western_''	1
 aesthetic_'	1
--LRB-_WP
--LRB-_who	1
 VB_CC
 see_and	1
 surrender_and	1
 find_and	1
 NNP_DT
 Hana_no	1
+Chushingura_this	1
 JJS_NN
 best_swordplay	1
 best_Samurai	1
 biggest_box-office	1
 finest_art	1
 best_samurai	1
-FW_RB
-<br />_Unfortunately	1
-<br />_Therefore	1
-VBN_NNS
-titled_BLOSSOMS	1
--LRB-_NN
--LRB-_sword-film	1
--LRB-_Sampei	1
--LSB-_ronin	1
--LRB-_puppet	1
--LRB-_ritual	1
+RP_IN
+out_for	1
+LS_JJ
+1_sophisticated	1
 ,_NNP
 ,_Seven	1
 ,_II	1
@@ -4885,17 +4783,8 @@ is_that	2
 lies_underneath	1
 comes_for	1
 lasts_over	1
-NNP_''
-Musashi_''	1
-King_''	1
-Chushingura_''	2
-Samurai_''	3
-Beard_''	1
-Blossoms_''	1
-Mikado_''	1
-Mount_''	1
-Ronin_''	2
-Alamo_''	1
+NNS_POS
+actors_'	1
 JJ_NN
 same_pain	1
 small_theater	1
@@ -5014,6 +4903,7 @@ good_reason	1
 decent_widescreen	1
 half_hour	1
 sworn_samurai	1
+masterless_ronin	1
 little_action	1
 Special_Edition	1
 casual_film	1

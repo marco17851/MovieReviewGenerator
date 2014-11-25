@@ -1,8 +1,3 @@
-NN_-LRB-
-B00000IC8F_-LRB-	1
-DVD_-LRB-	1
-orangutan_-LRB-	1
-stooge_-LRB-	1
 IN_NN
 at_scene	1
 in_circulation	1
@@ -40,13 +35,10 @@ VBP_JJR
 are_worse	1
 VBN_VBG
 been_searching	1
-FW_DT
-<br />_That	1
-<br />_Both	1
 VBG_VBG
 considering_returning	1
-PRP$_IN
-its_in	1
+POS_NNS
+'s_films	1
 CC_JJ
 and_great	1
 and_white	1
@@ -87,8 +79,6 @@ even_more	1
 noticeably_sharper	1
 WP_VBD
 who_lived	1
--LRB-_VBN
--LRB-_taken	1
 RP_,
 up_,	1
 VBN_JJ
@@ -97,10 +87,8 @@ WP_VBP
 who_'ve	2
 PRP$_VBD
 its_got	1
--RRB-_.
--RRB-_.	3
 NNP_CC
-Buck_and	1
+Wal-Mart_and	1
 Jack_&	2
 Besser_and	1
 Abbott_&	1
@@ -112,6 +100,7 @@ Abbot_and	3
 Screams/Jack_and	1
 MADACY_and	1
 Beanstalk_and	1
+Buck_and	1
 Jack_and	7
 Abbott_and	5
 Screams_and	4
@@ -126,8 +115,8 @@ younger_folks	2
 earlier_films	1
 cheaper_discs	1
 more_transfers	1
-:_NN
-..._<p>	1
+JJS_CD
+least_1	1
 IN_PRP$
 with_their	1
 for_their	1
@@ -167,7 +156,7 @@ were_independently	1
 was_originally	1
 NN_DT
 mess_the	1
-<br />_These	1
+orangutan_a	1
 transfer_this	1
 DVD_a	1
 POS_TO
@@ -177,14 +166,14 @@ which_also	1
 TO_DT
 to_the	2
 to_a	2
-NN_CD
-reviewer_100	1
 VBD_RP
 picked_up	1
 VBP_JJ
 are_available	1
 VB_NNP
 forget_Abbot	1
+NNS_NNP
+companies_Goodtimes	1
 NNS_NNS
 Others_companies	1
 VBD_JJ
@@ -241,8 +230,10 @@ NNS_JJ
 copies_available	1
 RP_CC
 out_and	1
--LRB-_DT
--LRB-_a	1
+NNP_''
+Collection_''	1
+Screams_''	1
+Beanstalk_''	1
 DT_NNS
 these_titles	1
 The_transfers	1
@@ -307,8 +298,9 @@ titles_&	1
 enhancements_and	1
 harps_and	1
 films_or	1
-VBN_PRP
-done_it	2
+JJR_IN
+cheaper_than	1
+worse_than	1
 VBP_IN
 have_from	1
 have_over	1
@@ -333,8 +325,9 @@ collection_and	1
 Sound_and	1
 jack_and	1
 beaty_or	1
--LRB-_VB
--LRB-_See	1
+NN_CD
+reviewer_100	1
+DVD_6.99	1
 ''_VBP
 ''_have	1
 DT_JJS
@@ -356,13 +349,12 @@ Costello_films	1
 NNP_NNP
 Laser_Disc	1
 Lou_Costello	1
-<p>_This	2
 Bud_Abbott	1
-<br />_Africa	1
 Costello_Meet	1
 Ent_Laser	1
 Africa_Screams	13
-Franchise_Collection	1
+Young_Jack	1
+Howard_Shemp	1
 Saint_Bernard	1
 Hillary_Brooke	1
 Clyde_Beatty	1
@@ -374,14 +366,13 @@ AND_COSTELLO	1
 Home_Video	2
 The_Beanstalk	4
 Super_Cinecolor	1
-<p>_Jack	1
+Franchise_Collection	1
 Caveat_Emptor	1
 Charlie_Chaplin	2
 Joe_Besser	2
 Roan_Group	4
 Africa_Screams/Jack	1
 Frank_Buck	1
-<br />_Jack	1
 ABBOTT_AND	1
 Meet_Frankenstein	1
 VBZ_JJR
@@ -432,13 +423,8 @@ than_the	1
 of_a	1
 CD_TO
 one_to	1
--LRB-_CD
--LRB-_6.99	1
 VB_WP
 realize_what	1
-NNS_-LRB-
-titles_-LRB-	2
-companies_-LRB-	1
 CD_POS
 1990_'s	1
 RB_,
@@ -460,12 +446,9 @@ VBN_PRP$
 received_my	1
 VBD_CD
 was_one	1
-NNP_-RRB-
-Wal-Mart_-RRB-	1
-Howard_-RRB-	1
-Young_-RRB-	1
-NNS_DT
-performances_all	1
+CC_RB
+and_Not	1
+but_really	1
 RB_:
 again_...	2
 WRB_PRP
@@ -675,6 +658,7 @@ NN_NNP
 Image_Ent	1
 generation_VHS	1
 anything_Universal	1
+stooge_Joe	1
 CD_CD
 three_hundred	1
 CD_CC
@@ -686,10 +670,6 @@ because_younger	2
 IN_JJS
 In_most	1
 at_least	1
-POS_-RRB-
-'s_-RRB-	2
-._-RRB-
-._-RRB-	5
 :_DT
 -_this	1
 ..._the	1
@@ -724,28 +704,27 @@ films_were	2
 CC_``
 &_``	1
 NN_NN
-list_price	1
-release_version	1
-Image_Entertainment	1
-fairy_tale	1
-Entertainment_laserdisc	1
-dvd_combo	1
-film_history	1
-bean_stalk	1
-DVD_copy	1
-<p>_Sound	1
-fantasy_world	1
+legacy_DVD	2
 comedy_team	1
+copyright_notice	1
 ASIN_B00000IC8F	1
+list_price	1
 comedy_duo	1
+DVD_copy	1
+dvd_combo	1
+Image_Entertainment	1
 SLP_speed	1
 source_material	1
-boe_peep	1
-legacy_DVD	2
-copyright_notice	1
+release_version	1
 video_transfer	2
+fairy_tale	1
+bean_stalk	1
 clide_beaty	1
+fantasy_world	1
 picture_quality	2
+film_history	1
+Entertainment_laserdisc	1
+boe_peep	1
 NNS_RB
 films_together	1
 sequences_also	1
@@ -754,8 +733,6 @@ films_so	1
 extras_not	1
 kids_too	1
 adults_however	1
--LRB-_WDT
--LRB-_which	1
 JJS_.
 best_.	1
 ,_JJ
@@ -804,9 +781,6 @@ a_greenish	1
 a_certain	1
 a_blind	1
 the_black	1
--RRB-_NNP
--RRB-_<br />	1
--RRB-_Shemp	1
 NN_IN
 edition_of	1
 price_of	1
@@ -908,18 +882,17 @@ TO_IN
 to_that	1
 NN_VBP
 boy_do	1
+Platinum_have	1
 PRP_RB
 It_also	1
 it_again	2
 it_alot	1
 I_still	1
 you_really	1
-JJS_CD
-least_1	1
 JJS_PRP
 best_I	1
-JJ_-LRB-
-clear_-LRB-	1
+PRP_RP
+it_out	1
 JJ_``
 ubiquitous_``	1
 closing-door_``	1
@@ -967,10 +940,9 @@ seriously_considering	1
 still_entertaining	1
 RB_VBD
 also_featured	1
-FW_IN
-<br />_Since	1
 NNS_NN
 monsters_series	1
+titles_check	2
 kids_fairy	1
 VBD_NN
 went_Ape	1
@@ -989,8 +961,8 @@ seems_to	1
 ,_on	1
 ,_if	1
 ,_although	1
-POS_NNS
-'s_films	1
+PRP$_IN
+its_in	1
 NNS_WP
 folks_who	2
 VBG_CC
@@ -1005,6 +977,7 @@ will_not	1
 wo_n't	1
 can_generally	1
 NN_WDT
+B00000IC8F_which	1
 title_that	1
 humor_that	1
 VB_DT
@@ -1014,9 +987,8 @@ meet_the	1
 get_both	1
 collect_all	1
 purchase_any	1
-<p>_The	1
-get_this	1
 be_the	1
+get_this	1
 get_a	1
 give_this	1
 WRB_DT
@@ -1105,13 +1077,10 @@ not_purchase	1
 n't_go	1
 generally_find	1
 FW_FW
-<br />_<br />	3
 AFRICA_SCREAMS	3
 africa_kinda	1
 JJ_RB
 honest_though	1
--RRB-_VBP
--RRB-_have	1
 ,_VBG
 ,_meaning	1
 NNS_.
@@ -1128,6 +1097,7 @@ changes_.	1
 credits_.	2
 movies_.	2
 favorites_.	1
+dates_.	1
 years_.	1
 NNS_,
 scratches_,	1
@@ -1184,8 +1154,6 @@ one_of	3
 2_of	1
 ''_CC
 ''_&	1
--RRB-_CC
--RRB-_and	1
 FW_MD
 i_could	2
 VBG_PRP
@@ -1194,17 +1162,18 @@ DT_RB
 the_generally	1
 this_well	1
 NN_PRP
-<p>_I	1
-dvd_it	1
-DVD_I	1
 VCD_I	1
+DVD_I	1
+dvd_it	1
 laserdisc_I	1
 transfer_I	1
-VBP_-RRB-
-believe_-RRB-	1
+VB_PRP$
+be_my	1
+See_my	1
 ,_MD
 ,_will	1
 JJ_DT
+great_These	1
 worth_the	1
 worth_any	1
 MD_VB
@@ -1267,9 +1236,8 @@ NNP_NNPS
 Warner_Brothers	2
 VB_VBZ
 get_is	1
-CC_RB
-and_Not	1
-but_really	1
+NNS_DT
+performances_all	1
 VBZ_NN
 involves_music	1
 leaves_JACK	1
@@ -1281,8 +1249,6 @@ are_both	1
 get_this	1
 love_these	1
 am_a	1
-NNS_-RRB-
-dates_-RRB-	1
 NN_FW
 feature_i	1
 ,_WDT
@@ -1374,8 +1340,6 @@ PRP_CD
 you_two	1
 DT_$
 the_$	2
--RRB-_NN
--RRB-_<br />	1
 DT_.
 those_.	1
 VBG_RP
@@ -1453,18 +1417,10 @@ anywhere_DVDs	1
 IN_VBG
 of_varying	1
 of_producing	2
-POS_NN
-'s_brand	1
-'s_mansion	1
-'s_character	2
-'_lack	1
 ,_PRP
 ,_it	5
 ,_I	2
 ,_they	1
--LRB-_NNP
--LRB-_Goodtimes	1
--LRB-_Joe	1
 JJ_CC
 silly_but	1
 unamusing_and	1
@@ -1494,15 +1450,13 @@ WRB_VBZ
 why_does	1
 VBZ_PDT
 puts_all	1
-VB_PRP$
-be_my	1
-See_my	1
 CD_:
 1952_:	1
-PRP_RP
-it_out	1
-NN_-RRB-
-Platinum_-RRB-	1
+POS_NN
+'s_brand	1
+'s_mansion	1
+'s_character	2
+'_lack	1
 FW_CC
 SCREAMS_and	1
 IN_FW
@@ -1615,6 +1569,7 @@ are_still	1
 've_ever	1
 are_incredibly	1
 shine_here	1
+believe_So	1
 do_n't	1
 have_just	1
 have_never	1
@@ -1640,6 +1595,8 @@ A&C_.	1
 Group_.	1
 POS_CC
 's_and	2
+JJ_VBN
+clear_taken	1
 VBG_NN
 opening_logo	1
 varying_quality	1
@@ -1652,9 +1609,8 @@ VBZ_IN
 is_by	1
 thats_about	1
 bleeds_through	1
-JJR_IN
-cheaper_than	1
-worse_than	1
+VBN_PRP
+done_it	2
 ,_CC
 ,_and	7
 ,_but	6
@@ -1682,8 +1638,6 @@ in_1952	1
 over_three	1
 for_one	2
 with_one	1
-NNS_POS
-dropouts_'	1
 NNS_VBZ
 minutes_is	2
 films_has	1
@@ -1692,8 +1646,6 @@ CD_SYM
 6.99_@	1
 JJS_IN
 most_as	1
--LRB-_PRP
--LRB-_It	1
 VBP_NNP
 are_Bud	1
 ''_IN
@@ -1729,6 +1681,8 @@ Beanstalk_continually	1
 NNP_VBP
 Beanstalk_are	1
 Lou_are	1
+:_PRP
+..._I	1
 :_JJ
 -_many	1
 NNP_VBZ
@@ -1782,14 +1736,12 @@ and_Lou	1
 VBD_.
 acted_.	1
 POS_.
-'s_.	1
-VBG_NNS
-closing_credits	1
+'s_.	3
+CC_NNS
+and_lots	1
+but_kids	1
 POS_,
 's_,	2
--LRB-_IN
--LRB-_Although	1
--LRB-_In	1
 NNP_POS
 Besser_'s	1
 Brooke_'s	1
@@ -1797,10 +1749,9 @@ Costello_'s	1
 Shemp_'s	1
 NN_RB
 ALL_very	1
-<br />_So	1
 version_cunningly	1
-copy_currently	1
 tape_originally	1
+copy_currently	1
 quality_anyway	1
 JJ_IN
 silly_for	1
@@ -1851,8 +1802,6 @@ has_Africa	1
 VBP_NN
 are_ALL	1
 want_JACK	1
--LRB-_WP
--LRB-_Who	1
 DT_:
 each_...	1
 JJS_NN
@@ -1866,21 +1815,16 @@ around_for	1
 away_with	2
 out_for	1
 in_with	1
--LRB-_NN
--LRB-_check	2
 ,_NNP
 ,_Frank	1
 VBG_NNP
-entertaining_<br />	1
-CC_NNS
-and_lots	1
-but_kids	1
+entertaining_Africa	1
+VBG_NNS
+closing_credits	1
 ,_NNS
 ,_dropouts	1
-NNP_''
-Collection_''	1
-Screams_''	1
-Beanstalk_''	1
+NNS_POS
+dropouts_'	1
 DT_TO
 this_to	1
 JJ_NN
@@ -1897,7 +1841,6 @@ faithful_representation	1
 same_source	1
 bad_quality	1
 same_price	1
-only_problem	1
 great_deal	1
 amusing_movie	1
 excellent_shape	1
@@ -1913,7 +1856,7 @@ extra_expense	1
 greenish_tint	1
 cheep_DVD	1
 third_generation	1
-great_<br />	1
+only_problem	1
 early_sequence	1
 wrong_impression	2
 low-quality_legacy	2

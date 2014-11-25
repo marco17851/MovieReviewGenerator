@@ -28,19 +28,13 @@ are_more	1
 ``_JJ
 ``_Trivial	1
 ``_Complete	2
--LRB-_``
--LRB-_``	2
-FW_DT
-<br />_This	1
-<br />_The	1
 NNP_IN
 SUNDAE_IN	1
 Montreal_from	1
 Love_In	1
 Works_of	1
-NNS_-LRB-
-others_-LRB-	1
-COMFORTS_-LRB-	1
+VBG_VBZ
+doing_lectures	1
 CC_JJ
 and_several	1
 and_explicit	1
@@ -69,10 +63,8 @@ NNS_WP
 people_who	1
 CD_POS
 1990_'s	1
-IN_IN
-out_of	2
-in_that	1
-because_of	1
+RB_,
+Also_,	1
 ``_CD
 ``_25	1
 IN_``
@@ -83,8 +75,8 @@ for_``	2
 ,_PRP
 ,_we	2
 ,_they	1
-FW_''
-Raisans_''	1
+FW_FW
+Calafornia_Raisans	1
 RP_``
 out_``	1
 EX_VBD
@@ -102,18 +94,6 @@ Way_to	1
 tape_to	1
 DT_IN
 some_of	2
--LRB-_NNP
--LRB-_Condie	1
--LRB-_Rybczynski	1
--LRB-_Wheldon	1
--LRB-_Van	1
--LRB-_Nick	1
--LRB-_Picker	1
--LRB-_Barker	1
--LRB-_Ring	1
--LRB-_Kroyer	1
--LRB-_Fedorenco	1
--LRB-_Minnis	1
 PRP_EX
 it_there	1
 VBP_:
@@ -127,28 +107,19 @@ recognized_,	1
 RB_:
 Back_-	1
 JJ_CC
+funny_but	1
 obvious_and	1
 long_but	1
 NNS_VBN
 adults_stamped	1
--RRB-_IN
--RRB-_of	1
-CD_-RRB-
-1988_-RRB-	2
-1984_-RRB-	1
-1981_-RRB-	1
-1987_-RRB-	1
-1989_-RRB-	1
-1979_-RRB-	1
-1978_-RRB-	1
-1985_-RRB-	2
-1990_-RRB-	1
-1986_-RRB-	1
-1980_-RRB-	1
-1983_-RRB-	1
-1982_-RRB-	2
+CD_.
+1978-1990_.	1
+1978_.	1
+one_.	1
 PRP_IN
 you_like	1
+NN_JJ
+tape_last	1
 PRP$_JJ
 his_short	1
 his_recent	1
@@ -166,30 +137,38 @@ whoever_compiled	1
 who_did	1
 WRB_VBG
 when_doing	1
--LRB-_CC
--LRB-_but	1
--LRB-_and	1
 IN_PRP
-While_it	1
-<p>_They	1
-on_it	4
-that_it	2
-If_you	1
 Whether_you	1
+While_it	1
+that_it	2
+on_it	4
+If_you	1
 ''_.
-''_.	2
+''_.	4
 ''_,
 ''_,	5
-VB_RP
-check_out	1
-VB_PRP$
-get_his	1
-POS_,
-'_,	1
+NNP_WP
+McElheron_who	1
+VBZ_CC
+lectures_or	1
+CD_:
+1982_;	2
+1985_;	2
+1986_;	1
+1979_;	1
+1989_;	1
+1983_;	1
+1987_;	1
+1990_;	1
+1980_;	1
+1984_;	1
+1988_;	2
+1981_;	1
 ,_NN
 ,_hey	1
 NNP_.
 Crac_!	1
+Amazon_.	1
 IN_.
 at_.	1
 POS_NN
@@ -202,11 +181,12 @@ impossibly_worst	1
 RB_JJR
 also_more	1
 :_NNP
+;_SUNDAE	1
 ;_TANGO	1
 ;_ANNA	1
 ;_SPECIAL	1
 ;_EVERY	1
-;_SUNDAE	1
+-_Picker	1
 ;_CHARADE	1
 TO_NN
 to_some-one	1
@@ -322,8 +302,8 @@ nearly_the	1
 together_the	1
 n't_any	1
 also_a	1
-JJ_WRB
-under-stand_why	1
+NN_MD
+segment_can	1
 PRP_VBZ
 it_is	2
 it_has	1
@@ -331,12 +311,10 @@ it_'s	1
 it_seems	1
 PRP$_VBD
 their_was	1
--RRB-_,
--RRB-_,	1
+NNS_MD
+plymptoons_would	1
 DT_RBR
 a_more	1
--RRB-_.
--RRB-_.	5
 NNP_CC
 Fedorenco_and	1
 sunday_and	1
@@ -389,8 +367,6 @@ n't_expect	1
 also_get	1
 ever_be	1
 so_please	1
--RRB-_:
--RRB-_;	15
 CC_PRP
 and_it	2
 but_I	1
@@ -473,11 +449,10 @@ parent_when	1
 ``_Liquid	1
 VBD_PDT
 thought_all	1
--LRB-_.
--LRB-_.	1
-FW_FW
-Calafornia_Raisans	1
-<br />_<br />	3
+IN_IN
+out_of	2
+in_that	1
+because_of	1
 IN_WDT
 in_which	1
 PRP$_NN
@@ -485,12 +460,33 @@ His_brand	1
 his_feature	1
 his_television	1
 my_wife	1
+NN_.
+title_.	1
+today_.	1
+PG_.	1
+fan_.	1
+DVD_.	1
+audience_.	1
+com_.	1
+version_.	1
+footage_.	1
+style_.	1
+actor_.	1
+gallery_.	1
+CRAC_!	1
+cartoon_.	1
+screen_.	1
+collection_!	1
+section_.	1
+boy_!	1
+work_.	1
+Television_.	1
 VBG_RB
 walking_around	1
 JJ_VBN
 short_scored	1
-JJ_.
-dumb_.	1
+JJ_RB
+lengthy_approx	1
 VB_IN
 be_on	1
 poke_at	1
@@ -537,10 +533,15 @@ older_releases	1
 VBD_RB
 was_n't	1
 was_badly	1
-RB_,
-Also_,	1
-''_-RRB-
-''_-RRB-	3
+NN_DT
+rain_another	1
+NNS_VBP
+ones_are	1
+interviews_are	1
+works_are	1
+kids_are	1
+JJ_.
+dumb_.	1
 VBN_IN
 had_by	1
 sung_by	1
@@ -589,18 +590,10 @@ passed_over	1
 VBP_JJ
 are_frank	1
 am_glad	1
-NNS_MD
-plymptoons_would	1
-:_-LRB-
--_-LRB-	1
 NNS_TO
 brains_to	1
 punchlines_to	1
 Thanks_to	1
-NN_-RRB-
-title_-RRB-	1
-staple_-RRB-	1
-com_-RRB-	1
 JJ_NNS
 additional_shorts	1
 bad_selections	1
@@ -635,17 +628,15 @@ one_of	1
 JJR_IN
 more_of	1
 more_by	1
-VBZ_JJ
-is_subtle	1
-is_worth	1
-has_lengthy	1
-''_VBZ
-''_is	1
-''_differs	1
+FW_''
+Raisans_''	1
+CD_''
+1990_''	1
 ''_CC
+''_but	1
 ''_and	1
-NN_MD
-segment_can	1
+JJ_UH
+first_Hey	1
 VB_NNS
 expect_moments	1
 VB_VBG
@@ -655,9 +646,10 @@ enjoy_attending	1
 VB_NN
 see_explosion	1
 try_migraine	1
--LRB-_RB
--LRB-_Back	1
--LRB-_approx	1
+TO_DT
+to_any	1
+to_the	1
+To_the	1
 NN_NNS
 communisum_threats	1
 feature_films	1
@@ -669,6 +661,8 @@ porn_images	1
 Award_winners	1
 Creature_Comforts	1
 animation_festivals	2
+NNS_NNP
+COMFORTS_Nick	1
 ,_CD
 ,_1990	1
 ,_two	1
@@ -684,6 +678,9 @@ animation_festivals	2
 ,_1981	1
 ,_1980	1
 ,_1978	1
+NN_NNP
+THREAT_Kroyer	1
+TRAGEDY_Van	1
 JJR_``
 more_`	1
 :_``
@@ -711,8 +708,8 @@ it_should	1
 NN_PRP
 cartoon_they	1
 middle_I	1
-CD_''
-1990_''	1
+VB_PRP$
+get_his	1
 VB_TO
 appeal_to	1
 NN_''
@@ -735,18 +732,11 @@ VBP_PRP
 hate_them	1
 use_them	1
 watch_it	1
-JJ_VBZ
-worthwhile_is	1
 JJR_NN
 younger_audience	1
 more_PG	1
 more_NC-17	1
 younger_animator	1
-NNS_VBP
-ones_are	1
-interviews_are	1
-works_are	1
-kids_are	1
 RB_``
 really_`	1
 :_JJ
@@ -776,16 +766,8 @@ much_better	1
 ,_the	1
 ,_all	2
 ,_The	1
-NNP_-LRB-
-SNIT_-LRB-	1
-TANGO_-LRB-	1
-BELLA_-LRB-	1
-Amazon_-LRB-	1
-CHARADE_-LRB-	1
-CHILD_-LRB-	1
-BACK_-LRB-	1
-DELIVERY_-LRB-	1
-McElheron_-LRB-	1
+VBP_VBN
+are_ambushed	1
 NNP_VBZ
 Bill_does	1
 VBZ_``
@@ -794,10 +776,8 @@ CD_VBZ
 5/5_stars	1
 VB_,
 relax_,	1
-WDT_VBP
-that_are	1
-which_are	1
-that_contain	1
+:_CC
+;_and	1
 CC_RB
 but_undeniably	1
 and_even	1
@@ -816,16 +796,10 @@ NNS_VBD
 ones_did	1
 segments_were	1
 concepts_passed	1
-VBG_VBZ
-doing_lectures	1
 JJS_NN
 most_feature	1
 EX_VBZ
 there_is	2
-TO_DT
-to_any	1
-to_the	1
-To_the	1
 TO_JJ
 to_frequent	1
 EX_VBP
@@ -836,21 +810,21 @@ love_these	1
 are_a	2
 know_the	1
 represent_a	1
-:_CC
-;_and	1
 CC_``
 and_``	3
 and_`	1
-NNS_-RRB-
-minutes_-RRB-	1
 NN_NN
+migraine_boy	1
 Liquid_Television	1
+claymation_film	1
 animation_style	1
 Best_Animation	1
-claymation_film	1
+COGNITO_Vinton	1
+FACE_Plympton	1
+FLY_Rofuscz	1
 TV_pilot	1
 animation_piece	1
-migraine_boy	1
+BALANCE_Lauenstein	1
 film_footage	1
 smiley_crap	1
 NON-ANIMATED_nudity	1
@@ -859,10 +833,6 @@ animation_fan	1
 feature_film	1
 acid_rain	1
 service_message	1
-<p>_A	1
-JJ_-LRB-
-lengthy_-LRB-	1
-funny_-LRB-	1
 DT_VBG
 those_wishing	1
 a_rocking	1
@@ -999,6 +969,7 @@ animator_,	1
 DVD_,	1
 winner_,	11
 nudity_,	1
+staple_,	1
 nominee_,	5
 commentary_,	1
 hey_,	1
@@ -1007,27 +978,17 @@ film_,	1
 work_,	1
 TO_CD
 to_1990	1
-NN_.
-today_.	1
-PG_.	1
-fan_.	1
-DVD_.	1
-audience_.	1
-version_.	1
-footage_.	1
-style_.	1
-actor_.	1
-gallery_.	1
-CRAC_!	1
-cartoon_.	1
-screen_.	1
-collection_!	1
-section_.	1
-boy_!	1
-work_.	1
-Television_.	1
-JJ_UH
-first_Hey	1
+''_VBZ
+''_is	1
+''_differs	1
+NNS_``
+others_``	1
+VB_RP
+check_out	1
+VBZ_JJ
+is_subtle	1
+is_worth	1
+has_lengthy	1
 NN_IN
 message_on	1
 brand_of	1
@@ -1076,6 +1037,7 @@ but_that	1
 and_no	1
 NNS_IN
 nominees_from	1
+minutes_of	1
 commercials_for	1
 moments_of	1
 plymptoons_on	1
@@ -1096,15 +1058,10 @@ NN_CC
 wife_and	1
 DVD_and	1
 language_and	1
-NN_-LRB-
-THREAT_-LRB-	1
-room_-LRB-	1
-COGNITO_-LRB-	1
-rain_-LRB-	1
-FACE_-LRB-	1
-BALANCE_-LRB-	1
-TRAGEDY_-LRB-	1
-FLY_-LRB-	1
+WDT_VBP
+that_are	1
+which_are	1
+that_contain	1
 VB_JJ
 have_distinct	1
 TO_VB
@@ -1118,10 +1075,8 @@ to_have	1
 to_encourage	1
 NN_VBG
 woman_walking	1
-CD_.
-1978-1990_.	1
-one_.	1
 NN_``
+room_``	1
 piece_``	1
 film_``	1
 WDT_PRP
@@ -1147,13 +1102,8 @@ did_.	1
 ,_check	1
 ''_NN
 ''_version	1
-RB_RB
-no_really	1
-now_widely	1
-as_well	1
-not_really	1
-all_around	1
-very_nearly	1
+POS_,
+'_,	1
 DT_JJS
 the_worst	1
 the_best	1
@@ -1203,14 +1153,15 @@ animations_foremost	1
 IN_EX
 though_there	1
 If_there	1
--RRB-_CC
--RRB-_but	1
-VBP_VBN
-are_ambushed	1
 NN_CD
 tape_5/5	1
-NN_JJ
-tape_last	1
+RB_RB
+no_really	1
+now_widely	1
+as_well	1
+not_really	1
+all_around	1
+very_nearly	1
 VBZ_DT
 has_a	1
 is_the	1
@@ -1234,24 +1185,29 @@ NNP_NNP
 NEW_YORK	1
 Nick_Park	1
 Quit_Smoking	1
-BIG_SNIT	1
-Classic_Works	1
 Mondo_Plympton	1
 NOTHING_Bill	1
-Great_Cogniteo	1
-The_Cat	1
-EVERY_CHILD	1
 Bill_Plympton	4
-Came_Back	1
 !!!!!!!!!!!!!!_Bill	1
 SPECIAL_DELIVERY	1
 CAT_CAME	1
-Van_Goethem	1
 Maureen_McElheron	1
-CAME_BACK	1
+SNIT_Condie	1
+BELLA_Ring	1
+BIG_SNIT	1
+Great_Cogniteo	1
+EVERY_CHILD	1
 Cat_Came	1
-._-RRB-
-!_-RRB-	1
+Van_Goethem	1
+CAME_BACK	1
+BACK_Barker	1
+Classic_Works	1
+CHILD_Fedorenco	1
+TANGO_Rybczynski	1
+The_Cat	1
+Came_Back	1
+DELIVERY_Wheldon	1
+CHARADE_Minnis	1
 RB_VBZ
 also_has	1
 finally_makes	1
@@ -1268,10 +1224,8 @@ n't_under-stand	1
 undeniably_clever	1
 really_bad	1
 relatively_simple	1
-FW_JJ
-<br />_Great	1
-VB_PRP
-<br />_We	1
+JJ_VBZ
+worthwhile_is	1
 RB_VBP
 either_love	1
 already_know	1
@@ -1291,8 +1245,6 @@ widely_recognized	1
 TO_NNP
 to_Quit	1
 to_Amazon	1
--LRB-_WP
--LRB-_who	1
 TO_NNS
 to_people	1
 VBG_DT
@@ -1310,13 +1262,8 @@ RP_IN
 over_from	1
 VBN_CC
 scored_and	1
--LRB-_DT
--LRB-_another	1
--LRB-_NN
--LRB-_Plympton	1
--LRB-_Vinton	1
--LRB-_Lauenstein	1
--LRB-_Rofuscz	1
+JJ_WRB
+under-stand_why	1
 ,_NNP
 ,_Bill	2
 CC_NNP
@@ -1395,5 +1342,3 @@ powerful_claymation	1
 only_segment	1
 TECHNOLOGICAL_THREAT	1
 extra_film	1
-VBZ_CC
-lectures_or	1

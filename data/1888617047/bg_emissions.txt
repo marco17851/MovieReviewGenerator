@@ -20,8 +20,6 @@ DT_RB
 that_too	1
 NNP_IN
 Piano_for	1
-NNS_-LRB-
-Quitters_-LRB-	1
 CC_JJ
 and_first	1
 MD_RB
@@ -29,12 +27,11 @@ would_n't	1
 NN_WDT
 way_that	1
 VB_DT
-know_the	1
-<p>_The	1
-try_this	1
 have_any	1
-do_that	1
 play_the	3
+try_this	1
+know_the	1
+do_that	1
 WRB_DT
 how_the	1
 VBZ_``
@@ -175,8 +172,6 @@ It_provides	1
 It_'s	2
 it_becomes	1
 it_'s	1
--RRB-_,
--RRB-_,	1
 VB_,
 play_,	2
 IN_.
@@ -217,6 +212,8 @@ library_,	1
 creativity_,	1
 lesson_,	1
 piano_,	1
+NNP_,
+Life_,	1
 CD_DT
 one_another	1
 CC_VBZ
@@ -339,8 +336,6 @@ you_should	1
 he_could	1
 ,_PRP$
 ,_my	1
-NN_PRP
-<p>_I	1
 VB_PRP$
 destroy_his	1
 steal_his	1
@@ -418,8 +413,6 @@ TO_JJ
 to_complex	1
 ``_PRP
 ``_I	1
--LRB-_CC
--LRB-_and	1
 NN_NN
 make_sense	1
 work_chart	1
@@ -477,11 +470,12 @@ bought_a	1
 NN_:
 quitter_--	1
 NNS_CC
-rhythms_and	1
-children_and	1
-chords_and	1
-lessons_and	1
+Quitters_and	1
 progressions_and	1
+children_and	1
+lessons_and	1
+rhythms_and	1
+chords_and	1
 ._''
 !_''	1
 VBD_VBG
@@ -621,7 +615,6 @@ JJ_''
 natural_''	1
 VB_PRP
 get_it	1
-<p>_It	1
 recommend_it	1
 teach_him	1
 VBD_TO
@@ -662,8 +655,6 @@ PRP$_CD
 My_seven	1
 JJ_JJ
 various_other	1
-NNP_-RRB-
-Life_-RRB-	1
 WRB_NN
 when_piano	1
 VBG_PRP

@@ -20,6 +20,8 @@ VBP_DT_NN
 wish_this_version	1
 love_this_movie	1
 love_this_film	1
+NNS_FW_NNP
+characters_e.g._Katherine	1
 ,_IN_IN
 ,_as_in	1
 POS_JJ_,
@@ -48,8 +50,6 @@ film_of_one	1
 ,_in_his	1
 CC_,_IN
 But_,_with	1
-FW_FW_NNP
-<br />_<br />_Though	1
 VBZ_RB_JJ
 is_incredibly_rare	1
 is_almost_unbearable	1
@@ -75,8 +75,6 @@ CC_DT_NNS
 and_the_gentlemen	1
 IN_DT_JJS
 of_the_best	1
--LRB-_FW_NNP
--LRB-_e.g._Katherine	1
 WP_,_IN
 who_,_though	1
 CC_NN_NNS
@@ -88,8 +86,6 @@ underrated_,_gut-wrenching	1
 frightened_,_sensitive	1
 TO_VB_TO
 to_contact_to	1
--LRB-_IN_DT
--LRB-_on_both	1
 VBP_PRP_.
 view_it_.	1
 VBP_JJ_IN
@@ -100,6 +96,8 @@ DT_VBZ_RB
 this_is_not	1
 IN_VBG_TO
 than_attempting_to	1
+JJ_CC_IN
+well-meaning_but_at	1
 VBD_DT_NN
 received_no_reply	1
 permeated_the_play	1
@@ -131,10 +129,8 @@ VBD_NNP_MD
 resigned_Laura_can	1
 IN_NN_IN
 in_favor_of	1
-NN_-RRB-_WDT
-love_-RRB-_that	1
-,_NNP_NNP
-,_Karen_Allen	1
+IN_WP_TO
+out_whom_to	1
 NN_IN_``
 film_of_``	1
 DT_NN_VBN
@@ -152,12 +148,13 @@ NN_VBG_DT
 statement_considering_the	1
 DT_NN_VBZ
 the_character_is	1
+the_remainder_is	1
 the_acting_is	1
 This_movie_stays	1
 the_revelation_is	1
 this_role_is	1
 the_scenery_is	1
-the_remainder_is	1
+the_camera_does	1
 IN_NNS_RB
 with_emotions_so	1
 ,_CC_NNP
@@ -202,20 +199,16 @@ unbearable_on_some	1
 thankful_that_the	1
 NNP_VBZ_DT
 Ballhaus_gives_every	1
-FW_IN_NNP
-<br />_Since_Paul	1
 NN_,_PRP
 film_,_it	1
-JJ_-RRB-_NNP
-miscast_-RRB-_Gertrude	1
 NNP_MD_RB
 Laura_can_not	1
 NNS_VBG_JJ
 times_smothering_narcissistic	1
 ,_PRP_VBD
 ,_it_was	1
--RRB-_WDT_VBZ
--RRB-_that_is	1
+CC_IN_NNS
+but_at_times	1
 NNS_TO_NN
 transfers_to_film	1
 NN_,_IN
@@ -223,39 +216,34 @@ order_,_with	1
 soliloquy_,_in	1
 version_,_alonside	1
 play_,_in	1
-FW_DT_NN
-<br />_The_pathos	1
-CC_DT_JJ
-and_this_faithful	1
+RB_VBG_,
+so_confiding_,	1
+,_``_VB
+,_``_blow	1
 EX_VBZ_JJ
 There_is_great	1
 JJ_TO_DT
 close_to_the	1
-RB_JJ_-RRB-
-wildly_miscast_-RRB-	1
+VBP_JJ_JJ
+are_inferior_sorry	1
 PRP$_NN_NN
 Our_college_copy	1
-NNP_-RRB-_.
-Waterston_-RRB-_.	1
-Hephburn_-RRB-_.	1
 PRP_VBZ_NNS
 he_leaves_viewers	1
 CC_CC_PRP
 and_neither_I	1
 WDT_VBD_DT
 that_permeated_the	1
-FW_FW_PRP
-<br />_<br />_I	2
 VB_IN_PRP
 live_inside_us	1
 be_with_them	1
+NNP_WP_VBD
+Allen_who_knew	1
 NN_''_NN
 den_''_rant	1
 NNP_,_WP
 Amanda_,_who	1
 Woodward_,_who	1
-VB_NN_PRP
-say_everything_I	1
 ,_MD_DT
 ,_can_those	1
 PDT_DT_RBR
@@ -290,6 +278,7 @@ POS_NN_IN
 ,_MD_VB
 ,_will_become	1
 VBN_IN_DT
+involved_on_both	1
 adapted_from_a	1
 intended_in_the	1
 manifested_in_the	1
@@ -297,8 +286,6 @@ FW_NNP_NNP
 e.g._Katherine_Hepburn	1
 VBG_PRP$_NNP
 dumping_their_VHS	1
--RRB-_CC_VBG
--RRB-_and_bursting	1
 NN_JJ_IN
 anyone_interested_in	1
 RB_PRP_,
@@ -316,37 +303,29 @@ POS_``_NNS
 's_``_jonquils	1
 VBN_NN_.
 Named_Desire_.	1
-DT_-LRB-_RB
-the_-LRB-_vastly	1
-the_-LRB-_wildly	1
 JJ_,_RB
 clueless_,_then	1
 :_DT_JJ
 --_a_strong	1
-PRP_VBP_DT
-I_love_these	1
-I_think_the	1
-I_love_this	1
 DT_VBG_NN
 each_passing_year	1
 WRB_DT_VBZ
 why_this_is	1
 NNP_''_VBZ
 Menagerie_''_is	1
+Laura_''_achieves	1
 CC_VBN_NN
 and_lost_love	1
 IN_NN_:
 on_DVD_--	1
-CC_NNS_IN
-and_layers_of	1
 NNS_,_WDT
 versions_,_which	1
 VBZ_DT_RBS
 is_the_most	1
-VB_VBZ_WRB
-know_is_why	1
 NNS_VBP_TO
 students_tend_to	1
+VBN_NNP_NNP
+overrated_Katherine_Hepburn	1
 DT_RBS_JJ
 the_most_convincing	1
 JJ_:_NNP
@@ -386,16 +365,17 @@ NNP_RB_.
 VCR_anymore_?	1
 PRP$_``_NN
 his_``_opium	1
-,_JJ_NNS
-,_special_accolades	1
+,_DT_JJ
+,_a_sentimental	1
+,_the_artful	1
 ,_CC_JJ
 ,_and_genuine	1
 RBR_RB_,
 more_powerfully_,	1
 CC_NN_IN
 and_tenderness_in	1
-VBN_-LRB-_IN
-involved_-LRB-_on	1
+WDT_VBP_JJ
+which_are_inferior	1
 ,_CC_CD
 ,_and_one	1
 VBN_IN_NNS
@@ -408,8 +388,9 @@ VBP_VBN_,
 've_seen_,	1
 VBD_IN_JJ
 was_that_powerful	1
--RRB-_VBZ_NNS
--RRB-_achieves_effects	1
+NN_NNS_CC
+scene_layers_and	1
+year_people_and	1
 RB_,_JJ
 kindly_,_clueless	1
 NNP_IN_NNP
@@ -430,8 +411,8 @@ to_spirit_of	1
 to_film_of	1
 DT_RBR_RB
 the_more_powerfully	1
-FW_PRP$_NNP
-<br />_Her_Amanda	1
+JJ_CC_VBG
+absurd_and_bursting	1
 DT_NN_IN
 this_version_of	1
 an_adaptation_into	1
@@ -459,8 +440,6 @@ to_be_with	1
 RB_JJ_TO
 incredibly_rare_to	1
 very_close_to	1
-VBN_NN_-LRB-
-lost_time_-LRB-	1
 DT_VBZ_DT
 this_is_the	1
 This_is_the	2
@@ -480,8 +459,8 @@ JJ_PRP_VBP
 heart-breaking_they_are	1
 ``_DT_NNP
 ``_The_Glass	2
-FW_FW_IN
-<br />_<br />_Since	1
+IN_JJ_:
+that_powerful_-	1
 VB_WRB_DT
 ask_why_this	1
 IN_WDT_DT
@@ -519,8 +498,6 @@ IN_NNP_,
 as_Amanda_,	1
 NN_VB_DT
 someone_turn_this	1
-JJ_-LRB-_JJ
-inferior_-LRB-_sorry	1
 MD_VB_JJ
 will_become_available	1
 JJ_NNS_,
@@ -577,14 +554,12 @@ DT_NNS_:
 these_characters_--	1
 VBZ_PRP$_NN
 holds_her_family	1
-VBP_DT_JJ
-think_the_other	1
 VBP_DT_NNS
 love_these_characters	1
 DT_NNS_NN
 the_gentlemen_caller	1
--LRB-_WP_VBD
--LRB-_who_knew	1
+,_NNP_NNP
+,_Karen_Allen	1
 RB_JJ_CC
 too_morose_and	1
 TO_DT_NN
@@ -622,12 +597,8 @@ WP_TO_VB
 whom_to_contact	1
 VBG_DT_JJ
 considering_the_many	1
-FW_PRP_VBP
-<br />_I_love	1
 CC_JJ_NNS
 and_beatific_eyes	1
-FW_DT_VBD
-<br />_All_told	1
 DT_NN_NN
 the_glass_unicorn	1
 this_film_version	1
@@ -647,6 +618,8 @@ VBN_,_CC
 seen_,_and	1
 POS_RB_,
 's_kindly_,	1
+VBN_NN_CC
+lost_time_and	1
 CC_RB_DT
 and_then_the	1
 ,_JJ_,
@@ -672,13 +645,8 @@ NNP_VBZ_RB
 Tom_is_achingly	1
 Amanda_is_never	1
 Woodward_is_also	1
-IN_NN_.
-on_DVD_?	1
-despite_everything_.	1
 ''_NN_,
 ''_speech_,	1
-''_-RRB-_VBZ
-''_-RRB-_achieves	1
 NN_VB_.
 poetry_dominate_.	1
 VBG_NNP_TO
@@ -713,6 +681,9 @@ is_perhaps_the	1
 NNP_VBZ_JJ
 Amanda_is_brilliant	1
 Newman_is_subtle	1
+CC_DT_RB
+both_the_wildly	1
+and_the_vastly	1
 CC_RB_,
 and_again_,	1
 IN_``_NNP
@@ -733,16 +704,8 @@ NN_RB_TO
 achievement_not_to	1
 NNP_NNP_VBN
 A_Streetcar_Named	1
-:_WP_VBZ
---_who_has	1
 VB_DT_.
 do_both_.	1
-VBG_IN_PRP$
-watching_for_his	1
-RB_JJ_-LRB-
-achingly_brilliant_-LRB-	1
-JJ_-LRB-_DT
-brilliant_-LRB-_the	1
 NNS_VBZ_RB
 actors_is_quite	1
 CC_VBG_IN
@@ -763,13 +726,6 @@ a_decade_and	1
 the_text_and	1
 PRP_VBP_NNP
 I_think_Williams	1
-IN_NNP_VBZ
-as_Amanda_is	1
-NN_NNS_CC
-scene_layers_and	1
-year_people_and	1
-JJ_NNS_-LRB-
-powerful_characters_-LRB-	1
 NN_:_CC
 nostalgia_;_and	1
 NNP_,_CC
@@ -780,6 +736,7 @@ nor_my_students	1
 RB_VBP_PRP
 only_wish_they	1
 JJ_NNP_NNP
+miscast_Gertrude_Lawrence	1
 great_Michael_Ballhaus	1
 sorry_Jessica_Tandy	1
 NN_._''
@@ -789,13 +746,14 @@ decade_and_neither	1
 DT_RB_JJ
 an_especially_priceless	1
 a_much_underrated	1
+the_wildly_miscast	1
 the_infinitesimally_few	1
 NNS_''_NN
 jonquils_''_speech	1
-CC_VBZ_JJ
-and_remains_faithful	1
-VBN_-RRB-_NNP
-overrated_-RRB-_Katherine	1
+VBN_NN_WDT
+lost_love_that	1
+,_NNP_,
+,_Laura_,	1
 PRP$_NN_VB
 its_poetry_dominate	1
 JJS_RBS_JJ
@@ -816,6 +774,8 @@ here_easily_trumps	1
 ``_jonquils_''	1
 IN_PRP_:
 by_it_--	1
+NN_CC_VBZ
+poetry_and_lets	1
 WP_RB_VBZ
 who_compassionately_loves	1
 NNP_VBN_NN
@@ -824,10 +784,6 @@ DT_JJS_:
 the_best_--	1
 RB_VB_RB
 still_visualize_so	1
-WDT_VBP_JJ
-which_are_inferior	1
-NNP_-LRB-_WP
-Allen_-LRB-_who	1
 IN_VBG_NNP
 of_allowing_Tom	1
 VB_IN_DT
@@ -835,14 +791,15 @@ settle_for_any	1
 NN_,_NNP
 speech_,_Malkovich	1
 NN_VBZ_DT
+camera_does_a	1
 role_is_the	1
 style_is_an	1
 :_NNP_,
 --_Tom_,	1
+DT_RB_VBN
+the_vastly_overrated	1
 VBN_,_RB
 preserved_,_rather	1
-NN_NNP_POS
-mother_Amanda_'s	1
 NNP_RB_VBZ
 Woodward_perfectly_inhabits	1
 NNS_NN_,
@@ -853,8 +810,8 @@ Jessica_Tandy_and	1
 Gertrude_Lawrence_and	1
 Laura_Wingfield_and	1
 Katherine_Hepburn_and	1
-JJ_CC_IN
-well-meaning_but_at	1
+''_VBZ_NNS
+''_achieves_effects	1
 NNP_,_WDT
 MENAGERIE_,_which	1
 NNP_RB_VBP
@@ -869,8 +826,6 @@ Paul_Newman_'s	1
 St._Tennessee_'s	1
 John_Malkovich_'s	1
 Tennessee_Williams_'	1
-VBD_JJ_-RRB-
-was_absurd_-RRB-	1
 NNP_:_NNP
 GM_--_Woodward	1
 VB_RB_VBN
@@ -900,6 +855,8 @@ originator_--_Laurette	1
 potential_;_Joanne	1
 PRP_VBP_RB
 I_'ve_ever	1
+NN_WDT_VBZ
+love_that_is	1
 RB_IN_DT
 there_with_the	1
 NN_NN_,
@@ -932,8 +889,8 @@ the_heartbreak_.	1
 no_reply_.	1
 WDT_DT_NN
 which_the_text	1
--LRB-_DT_JJ
--LRB-_the_semi-literate	1
+VB_NN_PRP
+say_everything_I	1
 CD_JJ_NNS
 two_human_volcanos	1
 RB_RB_JJ
@@ -999,15 +956,14 @@ complete_plot_was	1
 JJ_NN_VBZ
 entire_film_is	1
 percussive_style_is	1
--RRB-_NNP_NNP
--RRB-_Katherine_Hepburn	1
--RRB-_Gertrude_Lawrence	1
+VBG_IN_PRP$
+watching_for_his	1
 NNP_NNP_VBG
 Christian_Slater_playing	1
--RRB-_VBZ_DT
--RRB-_does_a	1
 NNS_CC_NN
 duties_and_wanderlust	1
+TO_NNP_POS
+to_William_'s	1
 NNS_WP_VBP
 actors_who_'ve	1
 VBP_JJ_,
@@ -1015,12 +971,8 @@ are_superb_,	1
 IN_PRP$_JJ
 in_his_final	1
 through_her_unique	1
-NNP_NNP_-LRB-
-Karen_Allen_-LRB-	1
 NNP_NNP_:
 Mother_Amanda_--	1
-VBP_JJ_-LRB-
-are_inferior_-LRB-	1
 CC_PRP_RB
 And_I_too	1
 CD_IN_DT
@@ -1030,16 +982,16 @@ Joanne_Woodward_,	2
 Mr._Malkovitch_,	1
 GLASS_MENAGERIE_,	1
 NNP_NNP_.
-Mr._Williams_.	1
+Sam_Waterston_.	1
 Gentleman_Caller_.	1
-Laurette_Taylor_.	1
 Tom_Wingfield_.	1
+Laurette_Taylor_.	1
+Katherine_Hephburn_.	1
+Mr._Williams_.	1
 VBG_TO_VB
 attempting_to_alter	1
 DT_IN_NN
 this_on_DVD	1
-FW_FW_CC
-<br />_<br />_And	2
 POS_NN_NN
 's_GLASS_MENAGERIE	1
 CC_NN_CC
@@ -1062,15 +1014,15 @@ TO_RB_VB
 to_really_understand	1
 VBG_NN_NNS
 passing_year_people	1
--LRB-_``_VB
--LRB-_``_blow	1
+IN_NNP_VBZ
+as_Amanda_is	1
 NNS_IN_NN
 layers_of_meaning	1
 volcanos_despite_everything	1
 NN_PRP_MD
 everything_I_would	1
-FW_CC_NNP
-<br />_And_Mr.	1
+JJ_DT_JJ
+brilliant_the_semi-literate	1
 PRP_VBZ_,
 she_conveys_,	1
 RB_JJ_NNS
@@ -1086,11 +1038,12 @@ Malkovitch_,_in	1
 Amanda_,_since	1
 Woodward_,_though	1
 NN_,_``
+camera_,_``	1
 play_,_``	1
 WP_VBZ_RB
 who_is_perhaps	1
-FW_FW_PRP$
-<br />_<br />_Her	1
+NNP_POS_RB
+Naughton_'s_kindly	1
 TO_VB_DT
 to_petition_a	1
 to_find_a	1
@@ -1101,8 +1054,6 @@ VBD_PRP_PDT
 made_it_such	1
 ,_NN_,
 ,_direction_,	1
-RB_VBN_-RRB-
-vastly_overrated_-RRB-	1
 NNP_,_NNP
 Tom_,_Laura	1
 VB_DT_IN
@@ -1111,16 +1062,14 @@ DT_NN_RB
 any_sensitivity_as	1
 VB_VBN_VBN
 have_been_born	1
-NN_VBN_-LRB-
-everyone_involved_-LRB-	1
 NNP_TO_VB
 Tom_to_become	1
 DT_JJ_NNS
 the_other_reviews	1
 the_numerous_interpretations	1
 any_other_versions	1
--LRB-_RB_JJ
--LRB-_wildly_miscast	1
+NN_NNP_POS
+mother_Amanda_'s	1
 RB_,_IN
 again_,_despite	1
 DT_JJ_NNP
@@ -1160,8 +1109,6 @@ It_is_incredibly	1
 ,_and_acting	1
 TO_VB_PRP
 to_alter_it	1
-JJ_-RRB-_CC
-absurd_-RRB-_and	1
 IN_EX_WP
 out_there_who	1
 POS_NN_.
@@ -1170,8 +1117,6 @@ NNS_MD_VB
 schools_will_be	1
 DT_CD_JJ
 these_two_human	1
--LRB-_RB_VBN
--LRB-_vastly_overrated	1
 NNP_POS_NNP
 Malkovich_'s_Tom	1
 IN_PRP_RB
@@ -1182,8 +1127,8 @@ VBZ_DT_NNP
 has_a_VCR	1
 PRP$_NNP_NNS
 their_VHS_players	1
-,_-LRB-_``
-,_-LRB-_``	1
+RB_JJ_DT
+achingly_brilliant_the	1
 IN_DT_JJ
 in_the_pivotal	1
 for_any_other	1
@@ -1202,13 +1147,15 @@ NN_MD_VB
 adaptation_will_disappear	1
 DT_NNS_IN
 both_sides_of	1
-NN_-RRB-_VBZ
-camera_-RRB-_does	1
+PRP_VBP_DT
+I_love_these	1
+I_think_the	1
+I_love_this	1
 JJ_NN_TO
 first_actress_to	1
 final_address_to	1
-DT_NN_-RRB-
-the_camera_-RRB-	1
+VB_VBZ_WRB
+know_is_why	1
 JJ_,_IN
 superb_,_with	1
 VBN_DT_NNP
@@ -1254,13 +1201,13 @@ the_Kazan_film	1
 the_VHS_version	1
 NNS_CC_PRP$
 ambitions_or_her	1
+JJ_JJ_NNP
+inferior_sorry_Jessica	1
 NNP_NNS_IN
 Hepburn_versions_of	1
 IN_NN_RB
 on_DVD_soon	1
 on_display_here	1
-IN_WP_TO
-out_whom_to	1
 NN_TO_DT
 access_to_a	1
 address_to_the	1
@@ -1307,8 +1254,8 @@ PRP_VBZ_.
 he_is_.	1
 PRP_RB_CC
 them_again_and	1
-VBD_._-RRB-
-knew_?_-RRB-	1
+:_WP_VBZ
+--_who_has	1
 VBZ_JJ_NN
 is_great_humor	1
 IN_NNS_IN
@@ -1326,8 +1273,6 @@ VBZ_NN_NNP
 inhabits_mother_Amanda	1
 RB_TO_VB
 not_to_be	1
-NN_,_-LRB-
-camera_,_-LRB-	1
 VB_TO_VB
 want_to_say	1
 contact_to_petition	1
@@ -1345,8 +1290,6 @@ the_characters_Laura	1
 ;_Joanne_Woodward	1
 --_Laurette_Taylor	1
 -_Joanne_Woodward	1
-NNS_-LRB-_FW
-characters_-LRB-_e.g.	1
 PRP_CC_PRP$
 I_nor_my	1
 NNS_,_DT
@@ -1370,6 +1313,8 @@ Newman_'s_death	1
 Tennessee_'s_GLASS	1
 Proust_'s_madeleine	1
 Woodward_'s_delineation	1
+VBD_JJ_CC
+was_absurd_and	1
 VBG_IN_NN
 bursting_with_resentment	1
 IN_PRP_IN
@@ -1381,6 +1326,7 @@ is_worth_watching	1
 NN_VBG_.
 way_lacking_.	1
 NN_VBN_IN
+everyone_involved_on	1
 feeling_manifested_in	1
 artist_torn_between	1
 film_adapted_from	1
@@ -1406,8 +1352,6 @@ IN_DT_PRP
 of_any_I	1
 ,_JJ_CC
 ,_sensitive_and	1
-NNP_POS_RB
-Naughton_'s_kindly	1
 ,_IN_JJ
 ,_with_hushed	1
 ,_though_deluded	1
@@ -1422,8 +1366,8 @@ can_still_visualize	1
 ,_yes_,	2
 RB_,_MD
 powerfully_,_will	1
-CC_IN_NNS
-but_at_times	1
+JJ_NNS_FW
+powerful_characters_e.g.	1
 NN_WDT_RB
 play_that_actually	1
 NN_IN_DT
@@ -1490,9 +1434,8 @@ NN_NN_''
 opium_den_''	1
 EX_WP_VBP
 there_who_love	1
-CC_DT_-LRB-
-and_the_-LRB-	1
-both_the_-LRB-	1
+NN_POS_NNS
+mother_'s_ambitions	1
 :_CC_RB
 ;_and_then	1
 NNP_NN_,
@@ -1502,8 +1445,8 @@ oh_why_,	1
 VBZ_DT_JJ
 does_a_first	1
 is_an_ideal	1
-RB_VBG_,
-so_confiding_,	1
+VBP_DT_JJ
+think_the_other	1
 TO_VB_VBN
 to_have_been	1
 to_be_missed	1
@@ -1516,6 +1459,8 @@ film_is_worth	1
 IN_IN_DT
 as_in_the	1
 for_about_a	1
+CC_DT_JJ
+and_this_faithful	1
 IN_NN_,
 of_meaning_,	1
 TO_VB_VBZ
@@ -1526,8 +1471,12 @@ WP_VBP_VBN
 who_'ve_been	1
 VBZ_NN_TO
 gives_oxygen_to	1
+CC_VBZ_JJ
+and_remains_faithful	1
 NN_VBD_VBN
 plot_was_preserved	1
+IN_PRP_.
+of_it_.	1
 PRP$_NN_POS
 her_brother_'s	1
 her_mother_'s	1
@@ -1537,8 +1486,6 @@ NNP_VBG_NNP
 Slater_playing_Tom/Tennessee	1
 DT_IN_DT
 this_in_the	1
-,_NNP_,
-,_Laura_,	1
 VBZ_JJ_CC
 is_subtle_and	1
 VBP_JJ_TO
@@ -1568,8 +1515,6 @@ and_I_want	1
 and_I_am	1
 JJ_TO_NN
 faithful_to_spirit	1
--LRB-_JJ_NNP
--LRB-_sorry_Jessica	1
 NNS_,_CC
 players_,_and	1
 NNP_,_DT
@@ -1580,8 +1525,6 @@ morose_and_self-absorbed	1
 faithful_and_compelling	1
 sensitive_and_shy	1
 intense_and_percussive	1
-VBN_NN_-RRB-
-lost_love_-RRB-	1
 CC_VBZ_DT
 and_avoids_the	1
 RB_VBZ_TO
@@ -1608,14 +1551,12 @@ NN_POS_NN
 role_'s_originator	1
 VBN_TO_VB
 born_to_play	1
-NNP_NNP_-RRB-
-Katherine_Hephburn_-RRB-	1
-Sam_Waterston_-RRB-	1
+CC_NNS_IN
+and_layers_of	1
 ``_NNP_NNP
 ``_A_Streetcar	1
-,_DT_JJ
-,_a_sentimental	1
-,_the_artful	1
+,_JJ_NNS
+,_special_accolades	1
 TO_DT_JJ
 to_the_original	1
 JJS_:_DT
@@ -1623,8 +1564,6 @@ best_--_a	1
 JJ_IN_PRP
 heartbroken_as_he	1
 genuine_that_he	1
-NNP_''_-RRB-
-Laura_''_-RRB-	1
 VBZ_DT_JJS
 is_the_best	3
 MD_RB_NN
@@ -1656,8 +1595,6 @@ must-see_for_anyone	1
 atmosphere_of_futility	1
 PRP_VBP_PRP
 I_view_it	1
-FW_CC_PRP
-<br />_And_I	1
 PRP_VBP_VBN
 I_have_written	1
 I_'ve_used	1
@@ -1709,13 +1646,11 @@ MD_VB_DT
 would_release_this	1
 ,_DT_VBZ
 ,_this_is	1
-FW_FW_DT
-<br />_<br />_The	1
-<br />_<br />_All	1
+IN_NN_.
+on_DVD_?	1
+despite_everything_.	1
 NNS_,_NNP
 monologues_,_Karen	1
-NN_POS_NNS
-mother_'s_ambitions	1
 NN_CC_VBD
 play_and_made	1
 :_IN_RB
@@ -1724,8 +1659,8 @@ PRP_RB_VBP
 I_also_use	1
 I_too_want	1
 I_only_wish	2
-TO_NNP_POS
-to_William_'s	1
+NN_CC_VBN
+time_and_lost	1
 RB_VB_TO
 ever_want_to	1
 IN_NNP_:
@@ -1734,8 +1669,8 @@ VBZ_IN_DT
 is_in_no	1
 PRP$_NNS_NN
 my_students_tire	1
-NN_CC_VBZ
-poetry_and_lets	1
+NNP_NNP_WP
+Karen_Allen_who	1
 NN_NNS_,
 closing_monologues_,	1
 VBD_VBN_,
@@ -1744,8 +1679,6 @@ was_preserved_,	1
 ``_blow_out	1
 ,_UH_WRB
 ,_oh_why	1
--LRB-_CC_VBN
--LRB-_and_lost	1
 IN_PRP_VBZ
 that_he_leaves	1
 as_he_is	1
@@ -1779,8 +1712,8 @@ POS_JJ_CC
 's_intense_and	1
 RB_VBP_WP
 also_capture_what	1
-IN_PRP_.
-of_it_.	1
+RB_JJ_NNP
+wildly_miscast_Gertrude	1
 EX_VBZ_DT
 There_is_no	1
 RBR_JJ_NN
@@ -1794,10 +1727,13 @@ NN_:_WP
 DVD_--_who	1
 PRP_IN_EX
 us_out_there	1
-IN_JJ_:
-that_powerful_-	1
-FW_NNP_NN
-<br />_Though_everyone	1
+NN_CC_NN
+stage_and_screen	1
+opening_and_closing	1
+resentment_and_anger	1
+humor_and_tenderness	1
+courage_and_desperation	1
+futility_and_hopelessness	1
 RB_NN_VB
 n't_someone_turn	1
 RB_IN_NN
@@ -1812,14 +1748,10 @@ and_Mother_Amanda	1
 and_Katherine_Hephburn	1
 And_Mr._Malkovitch	1
 and_James_Naughton	2
-NN_-LRB-_CC
-time_-LRB-_and	1
 CD_VBP_JJ
 two_generate_real	1
 ,_``_DT
 ,_``_The	1
-FW_PRP_RB
-<br />_I_only	1
 VB_PRP_IN
 alter_it_in	1
 IN_NN_JJ
@@ -1836,13 +1768,8 @@ JJ_:_RB
 effective_-_quite	1
 VBZ_CD_IN
 is_one_of	1
-NN_CC_NN
-stage_and_screen	1
-opening_and_closing	1
-resentment_and_anger	1
-humor_and_tenderness	1
-courage_and_desperation	1
-futility_and_hopelessness	1
+RB_VBN_NNP
+vastly_overrated_Katherine	1
 ,_DT_NN
 ,_every_time	1
 ,_the_artist	1

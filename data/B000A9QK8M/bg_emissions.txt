@@ -108,17 +108,16 @@ advanced_and	1
 separate_and	1
 great_and	1
 black_and	1
-DT_RBS
-the_most	1
 JJ_CD
 successful_1957-1959	1
 last_50	1
 CD_,
 one_,	1
+1990-1993_,	1
 IN_FW
 of_b/w	1
-CD_-RRB-
-1990-1993_-RRB-	1
+CD_.
+1980s_.	1
 NNP_FW
 Diego_aka	1
 PRP$_JJ
@@ -162,31 +161,6 @@ It_was	2
 it_did	1
 CD_NNS
 3_copies	1
-NN_IN
-world_of	1
-stupidity_of	1
-b/w_because	1
-Terror_By	1
-time_on	1
-sense_of	2
-action_for	1
-film_in	1
-colorization_as	1
-swordfight_between	1
-interpretation_of	1
-beauty_of	1
-standard_of	1
-b/w_in	1
-fan_of	1
-note_in	1
-item_in	1
-day_in	1
-version_of	2
-expense_of	1
-highlight_of	1
-costume_in	1
-vision_of	1
-portrayal_by	1
 NNP_NN
 SOME_sense	1
 Zorro_attire	1
@@ -275,8 +249,8 @@ he_kills	1
 he_threatens	1
 It_wastes	1
 it_rears	1
--RRB-_,
--RRB-_,	1
+DT_RBS
+the_most	1
 DT_RBR
 a_more	1
 VBN_VBN
@@ -367,7 +341,6 @@ NN_WRB
 color_when	1
 point_where	1
 FW_FW
-<br />_<br />	1
 b/w_pureness	1
 because-SPOILERS_!!!	1
 PRP$_NN
@@ -438,8 +411,31 @@ RB_NN
 halfway_point	1
 WRB_RB
 How_utterly	1
--LRB-_JJ
--LRB-_well-portrayed	1
+NN_IN
+world_of	1
+stupidity_of	1
+b/w_because	1
+Terror_By	1
+time_on	1
+sense_of	2
+action_for	1
+film_in	1
+colorization_as	1
+swordfight_between	1
+interpretation_of	1
+beauty_of	1
+standard_of	1
+b/w_in	1
+fan_of	1
+note_in	1
+item_in	1
+day_in	1
+version_of	2
+expense_of	1
+highlight_of	1
+costume_in	1
+vision_of	1
+portrayal_by	1
 JJ_NNS
 old_days	1
 swashbuckling_classics	1
@@ -557,8 +553,8 @@ I_'ll	1
 I_can	1
 NNP_DT
 NOT_an	1
-NNP_-LRB-
-Zorro_-LRB-	1
+VBP_VBN
+are_shot	1
 NNP_VBZ
 Zorro_saves	1
 Fox_has	1
@@ -689,6 +685,8 @@ programs_or	1
 Films_and	1
 VBZ_VB
 is_address	1
+NNP_JJ
+Zorro_well-portrayed	1
 IN_JJ
 of_silent	1
 over_colorized	1
@@ -713,12 +711,8 @@ score_.	1
 image_.	1
 NNS_VBD
 shows_were	1
-FW_NNS
-<br />_Films	1
 WRB_PRP
 when_it	1
-VBP_NNP
-wish_Superman	1
 VBN_DT
 been_a	1
 made_that	1
@@ -758,8 +752,8 @@ to_go	1
 to_show	1
 to_release	1
 To_Kill	1
-CD_.
-1980s_.	1
+VBP_NNP
+wish_Superman	1
 VBD_NN
 thought_colorization	1
 NN_VBZ
@@ -809,8 +803,6 @@ DT_.
 this_.	1
 NNS_NN
 movies_today	1
-VBP_VBN
-are_shot	1
 VBZ_DT
 's_All	1
 is_the	1

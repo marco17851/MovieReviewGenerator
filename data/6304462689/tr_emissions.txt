@@ -21,18 +21,18 @@ JJ_NN_CC
 disastrous_ambush_and	1
 NNP_POS_NN
 Moore_'s_study	1
-NNP_IN_NNP
-Secretary_of_Defense	1
+IN_DT_NNPS
+over_the_Americans	1
 ''_IN_NNS
 ''_in_terms	1
 CD_CD_.
 14-18_1965_.	1
+JJR_NN_NNS
+earlier_documentary_repairs	1
 VBD_NNS_,
 were_soldiers_,	1
 NNS_MD_VB
 people_would_accept	1
-NN_CC_VB
-ambush_and_take	1
 ``_VBD_''
 ``_won_''	1
 CC_VB_PRP$
@@ -61,12 +61,10 @@ JJ_CC_RB
 brief_and_very	1
 VBD_JJ_NN
 had_little_application	1
-VBD_-RRB-_.
-thought_-RRB-_.	1
+NNS_,_VBN
+soldiers_,_based	1
 NNP_JJ_NN
 Cav_main_battle	1
--LRB-_DT_NNPS
--LRB-_the_Americans	1
 WP_VBD_DT
 who_fought_this	1
 DT_NNP_NNP
@@ -77,6 +75,8 @@ came_out_just	1
 PRP_VBD_NNS
 We_Were_Soldiers	1
 we_were_soldiers	1
+NNPS_VBD_.
+Americans_thought_.	1
 JJ_IN_PRP$
 honest_in_its	1
 NN_WDT_VBZ
@@ -142,8 +142,6 @@ Ia_Drang_Valley	1
 Bland_Niagara_Falls	1
 DT_NNP_IN
 the_First_of	1
-VBD_IN_-LRB-
-was_over_-LRB-	1
 CC_DT_NN
 and_a_disservice	1
 JJ_NN_:
@@ -156,8 +154,8 @@ TO_NNP_NNP
 to_Colonel_Moore	1
 ,_CC_PRP
 ,_but_it	1
-JJ_NNS_MD
-American_people_would	1
+NNP_IN_NNP
+Secretary_of_Defense	1
 VBD_TO_VB
 chose_to_ignore	1
 VBD_DT_NN
@@ -205,8 +203,6 @@ DT_NN_TO
 a_disservice_to	1
 NN_,_VBN
 series_,_presented	1
-NNPS_VBD_-RRB-
-Americans_thought_-RRB-	1
 DT_NN_VBD
 The_battle_was	1
 the_war_was	1
@@ -283,8 +279,8 @@ NN_CD_VBG
 anyone_one_wanting	1
 IN_NNPS_TO
 for_Americans_to	1
-JJR_NN_NNS
-earlier_documentary_repairs	1
+JJ_NNS_MD
+American_people_would	1
 ,_DT_JJ
 ,_no_critical	1
 NN_,_PRP
@@ -368,8 +364,6 @@ good_''_film	1
 ,_that_the	1
 NN_WDT_DT
 atrocity_which_this	1
-FW_FW_NNP
-<br />_<br />_Charles	1
 DT_JJ_NNS
 the_American_people	1
 DT_JJ_NNP
@@ -453,10 +447,6 @@ Barber_'s_Adagio	1
 America_'_Cronkite	1
 VBN_IN_DT
 based_on_this	1
-FW_NNP_NNP
-<br />_Charles_Bland	1
-NNS_,_VBN
-soldiers_,_based	1
 VBZ_DT_NNP
 is_no_Barber	1
 NNP_NNP_JJ
@@ -490,8 +480,8 @@ EX_VBZ_DT
 There_is_no	1
 WDT_VBD_JJ
 that_had_little	1
-IN_-LRB-_DT
-over_-LRB-_the	1
+NN_CC_VB
+ambush_and_take	1
 NNP_VBD_TO
 Westmoreland_chose_to	1
 NNP_VBZ_JJ
@@ -500,6 +490,8 @@ JJ_NNP_NNP
 7th_Air_Cav	1
 ``_RBS_VBN
 `_most_trusted	1
+VBD_IN_DT
+was_over_the	1
 DT_NNP_NN
 the_Vietnam_war	1
 The_Hollywood_film	1

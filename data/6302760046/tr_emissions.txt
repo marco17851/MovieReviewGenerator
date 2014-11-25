@@ -8,8 +8,8 @@ VBZ_VBN_TO
 is_supposed_to	1
 IN_DT_JJR
 than_the_cheaper	1
-NNP_CD_-LRB-
-Panavision_70_-LRB-	1
+IN_DT_JJS
+of_the_best	1
 NNP_NNP_CD
 Super_Panavision_70	2
 NNP_IN_NNP
@@ -22,12 +22,12 @@ VBP_VBG_DT
 are_watching_a	1
 NNS_VBP_JJ
 elements_are_first	1
+NNP_CC_JJ
+Cinemascope_or_anamorphic	1
 VBD_TO_DT
 went_to_the	1
 PRP$_NN_NNS
 your_aspect_ratios	1
-FW_FW_NNP
-<br />_<br />_A	1
 NN_JJ_,
 camera_negative_,	1
 DT_NN_IN
@@ -40,26 +40,30 @@ IN_IN_PDT
 so_that_all	1
 FW_NN_NN
 2.20:1_aspect_ratio	1
+JJ_NNS_IN
+successive_passes_on	1
+straight_lenses_in	1
+composite_shots_as	1
 NN_PRP_VBP
 theater_you_are	1
 RB_IN_DT
 rather_than_the	1
 ,_RB_IN
 ,_rather_than	1
-IN_NN_-RRB-
-with_soundtrack_-RRB-	1
+NN_NN_,
+zealot_reviewer_,	1
 JJ_NNS_VBP
 visual_elements_are	1
 NN_NN_.
 ratio_format_.	1
 aspect_ratio_.	1
-FW_DT_JJ
-<br />_A_true	1
-IN_DT_JJS
-of_the_best	1
 NN_IN_DT
 print_in_a	1
 generation_on_the	1
+NN_,_WDT
+Panavision_,_which	1
+JJ_NN_,
+anamorphic_Panavision_,	1
 JJ_,_JJ
 negative_,_70mm	1
 VBP_JJ_NN
@@ -88,6 +92,8 @@ IN_NNP_,
 of_Photography_,	1
 IN_DT_NN
 in_a_theater	1
+PRP$_JJ_NNS
+his_special_effects	1
 VBN_RB_IN
 held_sometimes_in	1
 DT_CD_NN
@@ -97,11 +103,10 @@ a_2.20:1_aspect	1
 JJ_NN_IN
 extraordinary_effort_of	1
 first_generation_on	1
+next_pass_so	1
 70mm_print_in	1
 ,_WDT_VBZ
 ,_which_is	1
-NNP_-LRB-_CC
-Cinemascope_-LRB-_or	1
 TO_VB_FW
 to_be_in	1
 IN_NN_IN
@@ -120,16 +125,12 @@ VBG_IN_DT
 waiting_for_the	1
 NNP_NNP_:
 Beautiful_Film_...	1
--LRB-_CC_JJ
--LRB-_or_anamorphic	1
 VBZ_DT_CD
 is_a_2.20:1	1
 DT_NN_PRP
 a_theater_you	1
 VB_RB_IN
 state_unequivocally_that	1
-JJ_-LRB-_IN
-negative_-LRB-_after	1
 VBD_VBN_IN
 was_shot_with	1
 PRP_VBG_VBN
@@ -138,18 +139,16 @@ VBP_VBG_CD
 are_watching_2.20:1	1
 TO_DT_NN
 to_a_year	1
+CD_JJ_JJ
+70_65mm_negative	1
 RB_IN_CD
 unequivocally_that_2001	1
-VB_PRP$_NN
-Learn_your_aspect	1
 DT_JJ_JJ
 the_composite_visual	1
 No_optical_negative	1
 the_original_undeveloped	1
 VBG_VBN_RB
 being_held_sometimes	1
-FW_RB_TO
-<br />_Not_to	1
 VBG_DT_JJ
 watching_a_70mm	1
 CD_NN_NN
@@ -162,21 +161,21 @@ supposed_to_be	1
 VBD_VBN_FW
 was_shot_in	1
 NN_IN_IN
+pass_so_that	1
 refrigeration_for_up	1
 VBZ_RB_JJ
 looks_as_good	1
 PRP_VBZ_.
 it_does_.	1
-DT_JJ_NNP
-A_true_Visual	1
-VBZ_WRB_PRP
-is_why_it	1
--RRB-_,_WDT
--RRB-_,_which	1
+NNP_CD_JJ
+Panavision_70_65mm	1
+VB_PRP$_NN
+Learn_your_aspect	1
 VBN_IN_NNP
 shot_in_Cinemascope	1
 JJ_IN_PRP
 good_as_it	1
+negative_after_it	1
 CC_CD_IN
 and_one_of	1
 CC_RBR_VBG
@@ -192,14 +191,8 @@ TO_VB_DT
 to_mention_the	1
 NN_,_IN
 reviewer_,_as	1
-FW_NNP_NNP
-<br />_A_Beautiful	1
-NN_-RRB-_,
-Panavision_-RRB-_,	1
 NNS_JJ_NNS
 effects_composite_shots	1
-NN_-RRB-_.
-soundtrack_-RRB-_.	1
 NN_NN_IN
 projection_print_with	1
 NN_IN_NN
@@ -226,11 +219,12 @@ VBD_RB_RB
 was_never_as	1
 DT_JJ_NNS
 the_anamorphic_formats	1
-JJ_NN_-RRB-
-anamorphic_Panavision_-RRB-	1
-next_pass_-RRB-	1
+DT_JJ_NNP
+A_true_Visual	1
 IN_IN_TO
 for_up_to	1
+JJ_JJ_IN
+65mm_negative_after	1
 JJ_NN_NN
 70mm_projection_print	1
 IN_JJ_NNS
@@ -242,29 +236,22 @@ anamorphic_formats_.	1
 negative_inserts_.	1
 IN_NNP_NNP
 in_Super_Panavision	1
-IN_NNP_-LRB-
-in_Cinemascope_-LRB-	1
+IN_PDT_DT
+that_all_the	1
 VBG_CD_,
 watching_2.20:1_,	1
 DT_VBZ_WRB
 That_is_why	1
-FW_FW_DT
-<br />_<br />_A	1
-IN_DT_JJ
-as_the_anamorphic	1
-for_the_next	1
-on_the_original	2
-of_the_70mm	1
+VBZ_CD_.
+is_2.35:1_.	1
 MD_VB_RB
 can_state_unequivocally	1
 VB_DT_NN
 mention_the_fact	1
 NN_CC_RBR
 year_or_more	1
-JJ_NNS_IN
-successive_passes_on	1
-straight_lenses_in	1
-composite_shots_as	1
+IN_NN_.
+with_soundtrack_.	1
 PRP_VBZ_RB
 it_looks_as	1
 IN_NNP_VBD
@@ -276,18 +263,14 @@ lenses_in_Super	1
 RB_JJ_IN
 as_wide_as	1
 as_good_as	1
-FW_FW_RB
-<br />_<br />_Not	1
+VBZ_WRB_PRP
+is_why_it	1
 PRP_VBD_VBN
 It_was_shot	2
-PRP$_JJ_NNS
-his_special_effects	1
--RRB-_IN_IN
--RRB-_so_that	1
+IN_NNP_CC
+in_Cinemascope_or	1
 JJS_NNS_IN
 best_executions_of	1
-NN_-RRB-_IN
-pass_-RRB-_so	1
 DT_JJ_CD
 the_uneducated_2.35:1	1
 NN_NNS_.
@@ -300,16 +283,17 @@ JJ_NN_JJ
 original_camera_negative	1
 IN_PRP_VBG
 after_it_being	1
-VBZ_CD_.
-is_2.35:1_.	1
+IN_DT_JJ
+as_the_anamorphic	1
+for_the_next	1
+on_the_original	2
+of_the_70mm	1
 JJ_CD_NN
 uneducated_2.35:1_zealot	1
 IN_PRP_VBZ
 as_it_does	1
 DT_NN_CC
 a_year_or	1
-JJ_JJ_-LRB-
-65mm_negative_-LRB-	1
 NNP_,_PRP
 Photography_,_I	1
 CC_JJ_NN
@@ -318,10 +302,6 @@ WDT_VBZ_CD
 which_is_2.35:1	1
 JJ_,_RB
 negative_,_rather	1
-CD_-LRB-_JJ
-70_-LRB-_65mm	1
--LRB-_JJ_JJ
--LRB-_65mm_negative	1
 RB_TO_VB
 Not_to_mention	1
 NNP_VBD_TO
@@ -334,8 +314,6 @@ JJ_JJ_NNS
 dupe_negative_inserts	1
 composite_visual_elements	1
 optical_negative_generations	1
--LRB-_IN_PRP
--LRB-_after_it	1
 PRP_VBD_RB
 It_was_not	1
 NNP_:_CC
@@ -357,10 +335,6 @@ NN_NN_NN
 aspect_ratio_format	1
 NNS_IN_JJ
 shots_as_successive	1
-IN_PDT_DT
-that_all_the	1
-NN_NN_,
-zealot_reviewer_,	1
 WDT_VBD_RB
 which_was_never	1
 RBR_VBG_IN

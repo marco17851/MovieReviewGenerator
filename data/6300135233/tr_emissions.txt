@@ -8,8 +8,6 @@ go_with_the	1
 act_in_a	1
 NN_VBZ_DT
 story_has_a	1
-WRB_JJ_CC
-how_fresh_and	1
 NN_RB_IN
 movie_again_as	1
 CC_DT_NN
@@ -37,6 +35,8 @@ RB_VBD_NN
 N'T_FIND_ANYTHING	1
 NN_MD_VB
 movie_should_be	1
+NNP_NNP_CC
+Mr._DuVall_or	1
 DT_NN_VBD
 the_public_reminded	1
 CC_WP_VBZ
@@ -60,8 +60,6 @@ a_plot_that	1
 RB_VB_IN
 n't_know_of	1
 never_act_in	1
-UH_RB_.
-Oh_well_!	1
 IN_EX_VBZ
 because_there_is	1
 PRP_VBP_VBN
@@ -88,16 +86,12 @@ DT_NN_IN
 the_fact_that	2
 the_Rom_among	1
 a_lot_of	1
-PRP_MD_VB
-I_will_say	1
 DT_IN_PRP$
 some_of_their	1
 JJ_IN_EX
 obvious_that_there	1
 RB_VBD_DT
 first_saw_this	1
--LRB-_NNP_,
--LRB-_BTW_,	1
 TO_VB_IN
 to_act_in	1
 to_go_with	1
@@ -126,8 +120,8 @@ many_,_many	1
 JJ_CC_JJ
 fresh_and_entertaining	1
 entertaining_and_revealing	1
--LRB-_NNS_-RRB-
--LRB-_gypsies_-RRB-	1
+WRB_JJ_CC
+how_fresh_and	1
 PRP$_NN_TO
 their_culture_to	1
 IN_NNP_PRP
@@ -167,6 +161,8 @@ VB_PRP_DT
 get_it_the	1
 PRP_RB_,
 it_again_,	1
+NNS_MD_RB
+gypsies_will_never	1
 PRP_RB_.
 it_again_.	1
 CC_RB_VBZ
@@ -220,6 +216,8 @@ VBZ_DT_JJ
 is_a_good	1
 DT_NNS_MD
 the_customs_might	1
+DT_NNP_NNS
+the_Roma_gypsies	1
 JJ_NN_IN
 great_film_on	1
 good_chance_that	1
@@ -273,8 +271,8 @@ New_York_City	1
 York_City_Rom	1
 ANYBODY_KNOW_WHATEVER	1
 NOT_EVEN_ON	1
-NNP_NNP_-LRB-
-Mr._DuVall_-LRB-	1
+VBZ_NNP_.
+IS_TODAY_?	1
 IN_DT_NNPS
 of_the_Gypsies	1
 NN_VBD_IN
@@ -314,6 +312,8 @@ facets_of_Gypsy	1
 PRP_VBD_PRP
 I_saw_it	1
 they_helped_him	1
+IN_DT_.
+for_this_.	1
 VBP_VBN_CC
 are_forgotten_and	1
 JJ_NNS_VBZ
@@ -323,8 +323,8 @@ and_I_was	1
 and_they_helped	1
 VBP_PRP_VBZ
 WHERE_HE_IS	1
-IN_DT_-RRB-
-for_this_-RRB-	1
+NNP_NNS_MD
+Roma_gypsies_will	1
 NNS_RP_,
 things_out_,	1
 :_RB_PRP
@@ -343,12 +343,8 @@ VB_VBN_IN
 be_put_on	1
 IN_NN_NN
 of_Gypsy_life	1
-VBD_TO_NNP
-HAPPENED_TO_ANGELO	1
 RB_VBP_RB
 above_have_already	1
--RRB-_MD_RB
--RRB-_will_never	1
 TO_NNP_NNP
 TO_ANGELO_EVANS	1
 VBZ_PRP_RP
@@ -373,8 +369,8 @@ JJ_TO_PRP
 inconceivable_to_me	1
 VBD_JJ_IN
 was_obvious_that	1
-NNS_-RRB-_MD
-gypsies_-RRB-_will	1
+PRP_MD_VB
+I_will_say	1
 RB_VBN_VBZ
 so_forgotten_seems	1
 VBP_RB_VB
@@ -382,8 +378,6 @@ do_not_like	1
 do_n't_know	1
 CC_DT_.
 or_both_.	1
-VBZ_NNP_.
-IS_TODAY_?	1
 PRP_VBD_VBD
 he_researched_was	1
 NN_NNP_IN
@@ -394,12 +388,12 @@ PRP_VBZ_JJ
 It_is_inconceivable	1
 VBD_VBG_NN
 was_regarding_Gypsy	1
-PRP_VBZ_IN
-it_is_about	1
 FW_NN_:
 MY_ADVICE_:	1
 RB_CC_PRP
 out_and_I	1
+FW_FW_NN
+***_MY_ADVICE	1
 PRP_IN_NNP
 it_in_Chicago	1
 TO_VB_DT
@@ -440,12 +434,12 @@ they_want_it	1
 I_see_it	1
 VBZ_NNP_VB
 does_NOT_star	1
-DT_-RRB-_.
-this_-RRB-_.	1
 NN_VBZ_,
 one_has_,	1
-FW_FW_NN
-***_MY_ADVICE	1
+VBD_TO_NNP
+HAPPENED_TO_ANGELO	1
+NNP_CC_WP
+DuVall_or_whoever	1
 NNS_VBP_PRP
 ABOUT_WHERE_HE	1
 DT_NNS_CC
@@ -503,8 +497,8 @@ in_New_York	1
 on_Mr._DuVall	1
 NN_:_PRP
 movie_-_he	1
-DT_NNP_-LRB-
-the_Roma_-LRB-	1
+PRP_VBZ_IN
+it_is_about	1
 VBZ_RB_JJ
 is_so_revealing	1
 DT_NN_WRB
@@ -540,8 +534,6 @@ PRP_VBD_VBN
 I_was_stunned	1
 PRP$_JJ_NNS
 their_cultural_customs	1
-NNP_-LRB-_CC
-DuVall_-LRB-_or	1
 JJ_NNPS_TO
 real_Gypsies_to	1
 VBD_IN_NNPS
@@ -556,8 +548,6 @@ DT_NNP_NNP
 the_New_York	1
 DT_NNPS_VBP
 The_Gypsies_do	1
-NN_._-RRB-
-way_!_-RRB-	1
 NNS_MD_VB
 customs_might_be	1
 DT_VBD_TO
@@ -620,15 +610,11 @@ DT_NNS_RB
 the_reviews_above	1
 EX_VBZ_DT
 there_is_a	1
--LRB-_CC_WP
--LRB-_or_whoever	1
 NN_CC_VB
 movie_and_tell	1
 DVD_and_get	1
 PRP_VBP_RB
 I_do_n't	1
-NNP_._-RRB-
-DEAD_?_-RRB-	1
 NNPS_IN_PRP$
 Gypsies_in_his	1
 VB_JJS_IN
@@ -653,9 +639,6 @@ along_nicely_,	1
 DT_NN_:
 Another_thing_:	1
 the_movie_-	1
-RB_VBN_IN
-so_forgotten_as	1
-already_done_that	1
 VBP_TO_VB
 seem_to_be	1
 WP_VBZ_JJ
@@ -697,8 +680,8 @@ it_was_obvious	1
 He_found_real	1
 VBZ_NNP_NNP
 IS_NOT_EVEN	1
--LRB-_UH_RB
--LRB-_Oh_well	1
+UH_RB_.
+Oh_well_!	1
 ``_VBN_''
 ``_outdated_''	1
 WDT_VBZ_PRP
@@ -724,8 +707,9 @@ NN_CC_NN
 director_or_producer	1
 NN_NNS_VBP
 ANYTHING_ABOUT_WHERE	1
-NNP_-LRB-_NNS
-Roma_-LRB-_gypsies	1
+RB_VBN_IN
+so_forgotten_as	1
+already_done_that	1
 VB_TO_VB
 like_to_reveal	1
 CC_VBP_TO

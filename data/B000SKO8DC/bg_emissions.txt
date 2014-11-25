@@ -24,9 +24,6 @@ nothing_to	2
 order_to	1
 PRP$_JJ
 my_hard-earned	1
-FW_DT
-<br />_This	1
-<br />_The	1
 IN_PRP
 like_I	1
 that_I	1
@@ -54,8 +51,6 @@ I_'ve	1
 I_feel	1
 PRP_VBZ
 It_'s	1
-FW_PRP
-<br />_I	1
 VBP_NN
 have_nothing	1
 IN_.
@@ -82,8 +77,6 @@ in_general	1
 for_free	1
 NNP_.
 Les_.	1
-FW_FW
-<br />_<br />	5
 JJ_RB
 free_instead	1
 VB_IN
@@ -133,8 +126,9 @@ NNS_VBP
 producers_have	1
 VB_VBG
 be_reading	1
-RB_VBG
-so_ensuring	1
+VBG_DT
+reading_the	1
+buying_the	1
 PRP_MD
 I_will	1
 ,_DT
@@ -209,21 +203,16 @@ PRP_RB
 I_also	1
 VBZ_DT
 's_the	1
-FW_NNP
-<br />_Les	1
 RB_VBZ
 only_serves	1
 PRP_DT
 you_no	1
 NNPS_.
 Decibels_.	1
-VBG_DT
-reading_the	1
-buying_the	1
+RB_VBG
+so_ensuring	1
 RB_VBD
 also_got	1
-FW_IN
-<br />_In	1
 RP_IN
 off_by	1
 VBZ_PRP

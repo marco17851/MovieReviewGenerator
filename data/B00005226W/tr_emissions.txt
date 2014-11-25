@@ -4,6 +4,7 @@ VB_JJ_TO
 be_due_to	1
 JJ_NN_RB
 favorite_actor_once	1
+sour_note_gorgeously	1
 ,_IN_IN
 ,_along_with	1
 RBS_JJ_NN
@@ -19,8 +20,6 @@ and_the_satisfaction	1
 WRB_PRP_VBP
 how_you_get	1
 why_I_love	1
--RRB-_IN_DT
--RRB-_outside_a	1
 VBP_DT_NN
 know_a_film	1
 love_this_film	1
@@ -126,7 +125,6 @@ affluent_suburbs_of	1
 fleeting_visions_of	1
 saturated_colours_in	1
 NN_PRP_VBP
-<p>_I_do	1
 history_you_do	1
 NN_RB_VBZ
 turmoil_closely_resembles	1
@@ -151,6 +149,7 @@ NN_PRP_VBD
 time_I_saw	2
 film_I_was	1
 NN_RB_VBN
+note_gorgeously_contradicted	1
 woman_so_obsessed	1
 CC_NN_NNS
 and_crew_biographies	1
@@ -188,8 +187,6 @@ showed_the_simplicity	1
 saw_the_movie	1
 CC_NN_.
 and_cinematography_.	1
-WRB_NNP_-LRB-
-when_Ricky_-LRB-	1
 NNS_WDT_VBP
 surfaces_that_hide	1
 moments_that_give	1
@@ -326,8 +323,6 @@ still_sympathise_.	1
 ,_but_its	1
 POS_NN_VBG
 's_job_quitting	1
-NN_NN_JJ
-<p>_A_brilliant	1
 JJ_TO_VB
 impossible_to_dissect	1
 able_to_play	1
@@ -389,6 +384,8 @@ lovable_Lester_,	1
 NN_,_IN
 context_,_because	1
 life_,_while	1
+NNP_NNP_VBD
+Wes_Bentley_showed	1
 VBZ_RB_``
 is_n't_``	1
 VBN_,_IN
@@ -418,8 +415,6 @@ Chris_Cooper_who	1
 ''_and_to	1
 PRP$_NN_NN
 his_finding_beauty	1
-NNP_-RRB-_.
-Birch_-RRB-_.	1
 PRP_VBZ_NNS
 It_uses_extremes	1
 JJ_:_DT
@@ -470,8 +465,6 @@ NN_NNP_NN
 Best_Picture_nomination	1
 RB_VBN_CC
 n't_seen_and	1
-NN_-LRB-_RB
-note_-LRB-_gorgeously	1
 VBD_VBG_IN
 was_playing_before	1
 CC_JJ_CC
@@ -509,8 +502,6 @@ and_points_for	1
 and_fears_of	1
 CC_RB_NN
 or_indeed_anybody	1
--RRB-_CC_VBZ
--RRB-_and_argues	1
 RB_VBN_DT
 ever_seen_a	1
 ``_JJ_''
@@ -536,6 +527,8 @@ something_special_about	1
 something_different_upon	1
 VBP_NN_IN
 are_commentary_from	1
+RP_JJ_,
+up_dead_,	1
 ,_CC_IN
 ,_and_in	1
 ,_and_over	1
@@ -543,8 +536,6 @@ are_commentary_from	1
 ,_and_above	1
 CC_VBZ_PRP
 and_allows_him	1
-VB_PRP_VBZ
-<p>_It_'s	1
 NNP_VBZ_IN
 Academy_considers_for	1
 Beauty_ends_in	1
@@ -619,8 +610,6 @@ NNP_NNP_,
 Sam_Mendes_,	1
 NN_NN_NN
 rifle_range_education	1
-VBZ_NNP_-LRB-
-meets_Ricky_-LRB-	1
 CC_TO_VB
 and_to_see	1
 and_to_focus	1
@@ -685,8 +674,6 @@ Just_like_the	1
 n't_until_the	1
 somewhere_that_the	1
 then_as_the	1
--RRB-_VBD_DT
--RRB-_showed_the	1
 NN_MD_VB
 everybody_will_like	1
 awakening_might_be	1
@@ -830,13 +817,14 @@ the_best_of	1
 VBD_PRP_VBD
 knew_it_had	1
 touched_me_was	1
-CC_IN_PRP$
-and_in_its	1
+NNP_NNP_NNP
+Meet_Lester_Burnham	1
+Jane_Thora_Birch	1
+Ricky_Wes_Bently	1
+Ricky_Wes_Bentley	1
 DT_NNP_IN
 every_Oscar_that	1
 the_Academy_for	1
-JJ_._-RRB-
-apt_._-RRB-	1
 CC_VBZ_DT
 and_makes_a	1
 PRP_IN_DT
@@ -950,8 +938,8 @@ VBG_PRP_NN
 bringing_him_happiness	1
 RB_JJ_CC
 extremely_provocative_and	1
-NNP_-RRB-_IN
-Bently_-RRB-_outside	1
+RB_VBG_IN
+lately_dealing_with	1
 TO_DT_NN
 to_the_execution	1
 to_the_film	1
@@ -982,9 +970,6 @@ NNP_NNP_''
 American_Beauty_''	2
 CC_NN_VBP
 and_daughter_despise	1
-PRP_VBZ_CD
-It_'s_one	2
-It_is_one	1
 IN_NN_CC
 like_love_or	1
 for_blood_and	1
@@ -1121,6 +1106,7 @@ VBZ_NNP_NNP
 resembles_Ang_Lee	1
 is_Sam_Mendes	1
 does_American_Beauty	1
+meets_Ricky_Wes	1
 is_Lester_Burnham	1
 CC_NN_,
 or_life_,	1
@@ -1188,16 +1174,14 @@ RB_VB_DT
 n't_get_the	1
 n't_have_a	1
 n't_stop_the	1
-NNP_VBZ_PRP
-Lester_tells_him	1
+NNP_NNP_VBP
+Kevin_Spacey_say	1
+American_Beauty_are	1
 VB_DT_NN
-be_the_chance	1
-stop_the_machine	1
-<p>_The_DVD	1
-<p>_The_cast	1
 be_the_person	1
 define_this_film	1
-<p>_The_acting	1
+be_the_chance	1
+stop_the_machine	1
 be_no_one	1
 VBP_IN_PDT
 stand_above_all	1
@@ -1253,6 +1237,7 @@ VBZ_VBN_RB
 is_crafted_flawlessly	1
 DT_NN_CC
 every_front_and	1
+the_score_and	1
 this_film_and	1
 a_living_and	1
 the_director_and	1
@@ -1272,6 +1257,8 @@ CC_JJ_JJ
 and_ambitious_real	1
 NNS_CC_NN
 images_and_music	1
+NNP_VBD_DT
+Bentley_showed_the	1
 IN_PRP$_NN
 if_your_system	1
 of_his_finding	1
@@ -1317,6 +1304,8 @@ a_very_high	1
 a_completely_different	1
 ``_JJ_.
 ``_perfect_.	1
+WRB_NNP_NNP
+when_Ricky_Wes	1
 CC_NN_IN
 and_music_from	1
 JJ_WRB_PRP
@@ -1372,8 +1361,9 @@ WDT_VBZ_PRP
 that_allows_you	1
 WDT_VBZ_VBG
 that_is_being	1
-RP_JJ_,
-up_dead_,	1
+PRP_CC_VB
+them_and_worry	1
+it_and_allow	1
 ``_DT_JJ
 ``_The_Usual	1
 VBD_,_VBN
@@ -1389,8 +1379,6 @@ POS_RB_JJ
 's_eerily_lovable	1
 WP_RB_VBZ
 who_constantly_anounces	1
-NN_``_NNP
-<p>_``_American	1
 VBG_DT_NN
 watching_the_movie	1
 considering_a_Best	1
@@ -1477,6 +1465,8 @@ movies_is_the	1
 NN_DT_NN
 movie_that_everybody	1
 context_the_behaviour	1
+NNP_VBZ_PRP
+Lester_tells_him	1
 NN_NN_:
 freight_train_...	1
 NNS_VBP_JJ
@@ -1539,8 +1529,6 @@ hypereality_that_is	1
 triumph_that_is	1
 achievement_that_reveals	1
 film_that_is	1
-VB_DT_VBP
-<p>_Some_have	1
 IN_NN_NNS
 with_material_possessions	1
 TO_PRP_IN
@@ -1608,6 +1596,7 @@ which_the_title	1
 ,_RB_,
 ,_secondly_,	1
 NNP_NNP_.
+Thora_Birch_.	1
 Western_Culture_.	1
 RB_IN_PRP
 ahead_of_him	1
@@ -1718,9 +1707,8 @@ JJ_NN_PRP
 real_person_he	1
 second_time_I	1
 first_time_I	1
-NNP_NNP_VBP
-Kevin_Spacey_say	1
-American_Beauty_are	1
+JJ_NN_VBD
+whole_life_was	1
 JJ_NN_VBZ
 superficial_world_is	1
 mental_coma_is	1
@@ -1776,8 +1764,6 @@ PRP_VBD_WRB
 me_was_when	1
 VBN_RB_CC
 crafted_flawlessly_and	1
-NN_NNP_-LRB-
-girlfriend_Jane_-LRB-	1
 NNP_:_DT
 Burnham_;_a	1
 CD_IN_DT
@@ -1806,6 +1792,8 @@ POS_NN_NN
 's_haunting_score	1
 VBZ_RB_RB
 is_n't_so	1
+NN_NNP_NNP
+girlfriend_Jane_Thora	1
 NNP_,_''
 Club_,_''	1
 NNP_,_DT
@@ -1903,8 +1891,6 @@ NN_RB_''
 summer_long_''	1
 CC_NN_RB
 and_son_respectively	1
-NN_-RRB-_CC
-score_-RRB-_and	1
 IN_PRP_DT
 as_they_all	1
 of_them_all	1
@@ -2018,8 +2004,6 @@ like_,_it	1
 admit_,_I	1
 VBP_PRP_RB
 find_it_very	1
-JJ_NN_-LRB-
-sour_note_-LRB-	1
 ,_NN_IN
 ,_care_for	1
 ,_RB_RB
@@ -2028,8 +2012,6 @@ JJ_TO_PRP
 true_to_yourself	1
 NNS_RB_IN
 characters_rather_than	1
--LRB-_RB_VBN
--LRB-_gorgeously_contradicted	1
 DT_NNS_VBP
 these_characters_seem	1
 The_characters_are	1
@@ -2088,7 +2070,6 @@ time_to_erase	1
 title_to_be	1
 claim_to_be	1
 script_to_follow	1
-<p>_To_begin	1
 sight_to_see	1
 VBD_RB_.
 performed_perfectly_.	1
@@ -2210,8 +2191,6 @@ a_Two-Disc_edition	1
 a_simplistic_message	1
 an_extraordinary_achievement	1
 The_first_time	1
-NNP_-RRB-_VBD
-Bentley_-RRB-_showed	1
 CC_PRP$_VBG
 and_his_buffing	1
 NN_RB_RB
@@ -2225,8 +2204,6 @@ play_father_and	1
 VBP_VBN_DT
 have_considered_the	1
 have_seen_the	1
-,_RB_IN
-,_not_about	1
 IN_VBG_IN
 about_breaking_out	1
 of_sleeping_with	1
@@ -2270,9 +2247,8 @@ plays_a_character	1
 is_the_history	1
 is_a_film	1
 seems_a_bit	1
-PRP_CC_VB
-them_and_worry	1
-it_and_allow	1
+NNP_NNP_IN
+Wes_Bently_outside	1
 TO_VB_RP
 to_pick_up	1
 to_break_out	1
@@ -2380,10 +2356,8 @@ out_of_my	1
 MD_RB_VB
 'll_just_have	1
 could_n't_get	1
--LRB-_NNP_DT
--LRB-_Althought_the	1
-DT_NN_-RRB-
-the_score_-RRB-	1
+,_RB_IN
+,_not_about	1
 JJ_:_CC
 disturbing_..._and	1
 VBZ_IN_VBZ
@@ -2512,8 +2486,8 @@ context_of_their	1
 break_with_his	1
 beauty_of_their	1
 milestone_in_his	1
-JJ_TO_DT
-due_to_a	1
+RB_DT_.
+just_that_.	1
 WDT_VBD_PRP
 that_touched_me	1
 IN_NN_VBZ
@@ -2592,8 +2566,6 @@ n't_even_want	1
 n't_even_look	1
 NN_VBD_VBG
 movie_was_playing	1
-JJ_NN_VBD
-whole_life_was	1
 NN_CC_NNS
 blood_and_roses	1
 VBZ_JJ_CC
@@ -2601,9 +2573,8 @@ is_fantastic_and	1
 NNP_NNP_NN
 American_Beauty_claim	1
 Kevin_Spacey_fan	1
-NNP_NNP_NNP
-Meet_Lester_Burnham	1
-<p>_Meet_Lester	1
+CC_IN_PRP$
+and_in_its	1
 NNS_TO_DT
 points_to_the	1
 PRP$_JJ_NN
@@ -2680,8 +2651,6 @@ a_rigid_military	1
 ,_and_the	2
 VBZ_JJ_,
 is_refreshing_,	1
-RB_DT_.
-just_that_.	1
 NN_CC_JJ
 anything_but_ordinary	1
 VB_IN_JJ
@@ -2698,14 +2667,9 @@ tried_to_define	1
 encouraged_to_recognise	1
 NNS_PRP_VBP
 movies_you_have	1
-NNP_NNP_-RRB-
-Thora_Birch_-RRB-	1
-Wes_Bently_-RRB-	1
-Wes_Bentley_-RRB-	1
--LRB-_NNP_NNP
--LRB-_Wes_Bently	1
--LRB-_Thora_Birch	1
--LRB-_Wes_Bentley	1
+PRP_VBZ_CD
+It_'s_one	2
+It_is_one	1
 NNS_WRB_PRP$
 years_where_his	1
 VBG_VBN_,
@@ -2902,13 +2866,12 @@ NN_CC_VBZ
 living_and_makes	1
 front_and_does	1
 friend_and_starts	1
+score_and_argues	1
 role_and_brings	1
 NN_NNS_.
 film_people_.	1
 NN_NNS_,
 crew_biographies_,	1
-RB_VBG_IN
-lately_dealing_with	1
 NN_VBP_PRP
 daughter_despise_him	1
 RB_''_IN
@@ -2992,14 +2955,8 @@ VBZ_PDT_DT
 is_all_a	1
 JJ_''_NNS
 petty_''_things	1
-,_DT_NN
-,_the_film	3
-,_a_woman	1
-,_the_family	1
-,_a_loner	2
-,_this_film	1
-,_a_daughter	1
-,_the_fun	1
+JJ_TO_DT
+due_to_a	1
 VBZ_IN_RB
 argues_that_simply	1
 NNS_:_NN
@@ -3038,6 +2995,8 @@ IN_JJ_.
 than_great_.	1
 IN_JJ_,
 of_primal_,	1
+NNP_IN_DT
+Bently_outside_a	1
 JJ_:_RB
 twofold_:_firstly	1
 VBZ_CD_IN
@@ -3061,9 +3020,14 @@ NN_,_NNP
 scene_,_Lester	1
 resolution_,_Lester	1
 film_,_American	1
-NNP_-LRB-_NNP
-Ricky_-LRB-_Wes	2
-Jane_-LRB-_Thora	1
+,_DT_NN
+,_the_film	3
+,_a_woman	1
+,_the_family	1
+,_a_loner	2
+,_this_film	1
+,_a_daughter	1
+,_the_fun	1
 IN_PRP_CC
 for_them_and	1
 from_ourselves_and	1

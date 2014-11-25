@@ -35,8 +35,6 @@ NN_TO
 concept_to	1
 DT_IN
 some_of	2
--LRB-_NNP
--LRB-_August	1
 PRP_IN
 it_in	1
 NNS_DT
@@ -54,8 +52,6 @@ VB_JJR
 be_happier	1
 IN_FW
 with_me	1
-CD_-RRB-
-2008_-RRB-	1
 PRP$_JJ
 My_two-year-old	1
 their_educational	1
@@ -142,6 +138,8 @@ especially_the	1
 still_a	1
 PRP$_JJS
 my_youngest	1
+NN_MD
+T-Mom_Ca	1
 PRP_VBZ
 Me_seems	1
 it_is	2
@@ -265,8 +263,6 @@ Maybe_age	1
 NNS_TO
 links_to	1
 characters_to	1
-NN_-RRB-
-T-Mom_-RRB-	1
 JJ_NNS
 other_kids	1
 few_years	1
@@ -297,8 +293,8 @@ NN_NNS
 music_videos	1
 DVD/CD-ROM_releases	1
 income_families	1
--RRB-_MD
--RRB-_Ca	1
+NN_NNP
+content_August	1
 ''_RB
 ''_quite	1
 CC_IN
@@ -396,8 +392,6 @@ on_Amazon	1
 DT_NNP
 the_Sesame	1
 the_Play	1
--RRB-_RB
--RRB-_So	1
 DT_JJ
 a_good	1
 the_last	1
@@ -421,6 +415,8 @@ chose_the	1
 found_this	1
 ``_VB
 ``_Play	1
+CD_RB
+2008_So	1
 NNS_CC
 months_and	1
 songs_but	1
@@ -474,8 +470,6 @@ NN_CC
 price_and	1
 length_and	1
 series_and	1
-NN_-LRB-
-content_-LRB-	1
 VB_JJ
 keep_young	1
 TO_VB
@@ -593,8 +587,6 @@ more_on	1
 VB_RB
 shop_anywhere	1
 get_enough	1
--LRB-_NN
--LRB-_T-Mom	1
 CC_NNS
 and_characters	1
 PRP$_CD

@@ -86,10 +86,6 @@ done_was	1
 VBN_VBG
 been_thinking	1
 been_waiting	1
-FW_DT
-<br />_This	1
-<br />_All	1
-<br />_The	3
 VBG_VBZ
 reviewing_is	1
 CC_JJ
@@ -131,6 +127,7 @@ besides_``	1
 VBP_.
 need_.	1
 work_.	1
+buy_.	1
 VBN_.
 married_.	1
 dated_.	1
@@ -185,6 +182,7 @@ JJS_NNP
 best_John	1
 PRP_PRP
 myself_I	1
+you_I	1
 it_myself	1
 PRP$_VBP
 his_are	1
@@ -208,8 +206,6 @@ who_are	1
 who_want	1
 who_buy	1
 who_wish	1
--LRB-_PRP$
--LRB-_my	1
 WP_VBZ
 who_makes	1
 who_owns	1
@@ -220,14 +216,8 @@ who_plays	1
 who_falls	1
 who_says	1
 who_takes	1
--RRB-_MD
--RRB-_will	1
 PRP$_VBD
 Our_bought	1
--RRB-_,
--RRB-_,	8
--RRB-_.
--RRB-_.	5
 NNP_CC
 McClintock_but	1
 Ohara_and	1
@@ -243,7 +233,7 @@ MPI_and	1
 Birnbaum_and	1
 Movie_but	1
 Duke_and	1
-VHS_and	3
+VHS_and	4
 John_and	1
 NNP_CD
 OPINION_ONE	1
@@ -264,8 +254,6 @@ older_movies	1
 -_worst	1
 JJS_CC
 funniest_and	1
-''_-LRB-
-''_-LRB-	1
 :_NN
 :_B000006OS2	1
 ..._Fav	1
@@ -275,8 +263,6 @@ funniest_and	1
 ..._Heck	1
 :_B000ANVPPQ	1
 ..._WAIT	1
--RRB-_PRP$
--RRB-_its	1
 IN_PRP$
 of_your	1
 with_my	3
@@ -308,10 +294,8 @@ like_her	1
 that_their	1
 with_his	4
 Before_their	1
-RB_``
-alone_``	1
--LRB-_MD
--LRB-_must	1
+``_VBG
+``_Taming	1
 NN_VB
 boyfriend_ride	1
 dad_watch	1
@@ -436,13 +420,13 @@ spanking_the	1
 pan-and-scan_an	1
 purchase_the	1
 Love_this	1
+mine_the	1
 sand_THE	1
+course_the	1
 ending_this	1
 film_the	1
 !!_The	1
-course_the	1
-JJR_-RRB-
-more_-RRB-	1
+format_a	1
 WDT_RB
 that_almost	1
 TO_DT
@@ -456,6 +440,7 @@ DVD_!!	1
 ANOTHER_ONE	1
 case_one	1
 collection_one	1
+Man_1952	1
 DVD_2	1
 notch_FIVE	1
 VBD_RP
@@ -480,24 +465,20 @@ RP_PRP$
 off_their	1
 PRP$_JJR
 his_younger	1
-DT_-LRB-
-this_-LRB-	1
 VB_NNS
 recommend_others	1
 be_tears	1
 entice_customers	1
 find_men	1
 make_movies	1
--LRB-_RB
--LRB-_not	1
--LRB-_very	1
+VB_NNP
+write_Amazon	1
+win_McLintock	1
+Leave_Home	1
+NNS_NNP
+actors_Burt	1
 NNS_NNS
 media_reviews	1
--RRB-_TO
--RRB-_to	1
-POS_JJS
-'s_finest	1
-'s_best	1
 VBD_JJ
 was_blotchy	1
 was_terrible	1
@@ -510,20 +491,6 @@ was_blury	1
 was_awful	2
 said_many	1
 released_horrible	1
-IN_IN
-that_if	1
-in_on	1
-that_under	1
-out_of	3
-along_with	2
-with_in	1
-because_of	2
-as_if	1
-off_of	1
-as_though	1
-in_throughout	1
-like_in	2
-in_with	1
 VBP_TO
 are_to	1
 appear_to	1
@@ -624,10 +591,18 @@ CD_VBZ
 2_thumbs	1
 VB_,
 watch_,	1
-WDT_VBP
-that_are	2
-that_criticize	1
-that_move	1
+VB_.
+watch_.	2
+have_!	1
+come_.	1
+produce_.	1
+disappoint_.	1
+get_.	1
+expect_.	1
+buy_.	1
+enjoy_.	1
+Enjoy_.	1
+happen_?	1
 JJ_TO
 impervious_to	1
 good_to	1
@@ -648,12 +623,7 @@ NNS_JJ
 movies_great	1
 scenes_good	1
 FW_NNP
-<br />_Summary	1
-<br />_Katie	1
-<br />_Life	1
-<br />_BUT	1
-<br />_BTW	1
-<br />_George	2
+!!!!!!!!!_Summary	1
 NNP_''
 Shrew_''	2
 SPAT_''	1
@@ -787,6 +757,7 @@ The_Corset	1
 the_Shrew	2
 the_Quiet	1
 the_VHS	2
+this_Chill	1
 the_Comanche	1
 the_Wayne	5
 A_VHS	1
@@ -834,6 +805,7 @@ was_the	1
 NNS_CC
 places_and	1
 burns_and	1
+movies_and	1
 issues_and	1
 hands_and	1
 actors_and	1
@@ -880,6 +852,7 @@ government_and	1
 gift_but	1
 money_and	1
 age_and	1
+flick_but	1
 slope_and	1
 DVD_and	4
 BEST_AND	1
@@ -908,8 +881,6 @@ governor_and	1
 copy_and	1
 WDT_PRP
 which_we	1
-MD_-LRB-
-can_-LRB-	1
 DT_JJS
 the_funniest	3
 the_worst	3
@@ -925,11 +896,10 @@ a_better	2
 a_lighter	1
 DT_WP
 those_who	2
--RRB-_WP
--RRB-_who	2
 NN_JJ
 movie_many	1
 order_very	1
+Man_Good	1
 DVD_superb	1
 movie_short	1
 part_comedic	1
@@ -959,26 +929,26 @@ Chill_Wills	2
 THIS_MOVIE	1
 Mrs._Ohara	1
 BTW_Leonard	1
-G.W._McLintock	1
+G.W._McLintock	2
 Johnny_Horton	1
 Quiet_Man	1
 ANYTHING_FROM	1
-<br />_<br />	1
+Batjac_Wayne	1
+Kahtarine_Maureen	1
 George_Washington	3
 Authorized_Edition	1
-<br />_Yes	1
+Wayne_McLintock	1
 Paramount_Home	1
 THIS_AUTHENTIC	1
 ESPECIALLY_THIS	1
+Rebecca_Stefanie	1
 McLintock_Wayne	1
 AUTHENTIC_COLLECTOR	1
 American_Cowboy	1
 Great_Movie	1
-<br />_Now	1
 Burt_Reynolds	1
 FROM_GOODTIME	1
-<br />_H.cAllister	1
-Great_Father	1
+Goodtimes_Video	1
 Washington_McLintock	1
 Rio_Grande	1
 :-RRB-_McLintock	1
@@ -1000,7 +970,7 @@ Maureen_o'Hara	1
 MY_OPINION	1
 Wayne_Western	1
 John_Wayne/McLintock	1
-<br />_Photo	1
+Delta_Entertainment	1
 Good_Times	1
 Family_Entertainment	1
 !!!_Due	1
@@ -1009,6 +979,7 @@ WAS_EXCELLENT	1
 san_NORTH	1
 Bad_Times	1
 Andrew_V.	2
+Becky_Stefanie	1
 Gene_Pitney	1
 Batjac_Productions	2
 BUY_ANYTHING	1
@@ -1026,7 +997,7 @@ John_Wayne	56
 Wayne_Authorized	1
 Mrs._McLintock	2
 NOT_BUY	1
-<br />_Well	1
+Mclintock_Wayne	1
 AUTHENTIC_VERSION	1
 Van_Dyke	1
 Yvonne_deCarlo	1
@@ -1035,18 +1006,20 @@ Wayne_World	1
 Pacific_Family	1
 Hong_Kong	1
 LEAVE_A	1
+Washington_G.W.	1
 AND_LEAVE	1
-<p>_McLintock	1
-Goodtimes_Video	1
+Great_Father	1
 SHOT_LIBERTY	1
 Wayne/Maureen_O'Hara	1
-Delta_Entertainment	1
+McLintock_John	3
 DO_NOT	1
 LIBERTY_VALENS	1
+Katherine_Maureen	1
 Jerry_Van	1
 H.cAllister_Unfortunatly	1
 Amazon_Prime	1
 Stephanie_Powers	2
+Warren_Patrick	1
 Devlin_Warren	1
 VBZ_JJR
 owns_more	1
@@ -1176,16 +1149,8 @@ extras_that	1
 reviews_that	1
 lines_that	1
 themes_that	1
--LRB-_CD
--LRB-_1952	1
 VB_WP
 see_what	1
--LRB-_CC
--LRB-_but	1
-NNS_-LRB-
-actors_-LRB-	1
-favorites_-LRB-	1
-settlers_-LRB-	1
 RB_WRB
 best_when	1
 then_why	1
@@ -1237,33 +1202,13 @@ CD_CC
 VBD_CD
 was_one	1
 purchased_three	1
-NNP_-RRB-
-o'Hara_-RRB-	1
-O'Hara_-RRB-	1
-Edition_-RRB-	1
-G.W._-RRB-	1
-VHS_-RRB-	2
-Dyke_-RRB-	1
-Powers_-RRB-	3
-Wayne_-RRB-	6
-Carlo_-RRB-	2
 NNPS_CC
 Americans_and	1
-CC_RB
-and_just	2
-or_even	1
-and_even	2
-but_not	3
-but_mostly	1
-but_really	1
-and_am	1
-but_apparently	1
-and_not	2
-and_also	1
-and_quite	1
-and_then	1
-and_over	1
-But_still	1
+NNS_DT
+scenes_the	1
+settlers_a	1
+people_a	1
+cents_a	1
 RB_:
 there_:	1
 well_-	1
@@ -1277,8 +1222,6 @@ how_they	1
 when_you	1
 when_I	2
 where_you	1
-CD_-RRB-
-1952_-RRB-	1
 :_IN
 -_so	1
 -_AT	1
@@ -1356,12 +1299,8 @@ since_it	1
 ''_.	3
 ''_,
 ''_,	3
-PRP_-RRB-
-her_-RRB-	1
 ,_FW
 ,_etc.	1
--RRB-_PRP
--RRB-_I	2
 RB_NNS
 still_cracks	1
 back_favorites	1
@@ -1766,8 +1705,6 @@ he_slides	1
 he_continues	1
 he_says	1
 It_does	2
-FW_PRP
-<br />_I	2
 IN_,
 If_,	1
 on_,	1
@@ -1776,9 +1713,14 @@ throughout_.	2
 on_.	2
 in_.	1
 from_.	2
-for_.	2
+for_.	3
 like_.	1
 upon_.	1
+FW_FW
+maureen_o'hara	1
+knockoff_Goodtimes	1
+VERY_POOR	1
+xtras_!!!	1
 ``_DT
 ``_The	2
 ``_the	2
@@ -1789,7 +1731,7 @@ itself_.	1
 themselves_.	1
 it_!	2
 you_.	1
-her_.	2
+her_.	3
 it_.	12
 PRP_,
 him_,	1
@@ -1822,6 +1764,7 @@ fight_where	1
 RP_TO
 out_to	1
 NNP_PRP
+VHS_I	1
 Europe_I	1
 VCR_he	1
 CC_VBD
@@ -1869,8 +1812,6 @@ lighthearted_,	1
 crappy_,	1
 funny_,	1
 entertaining_,	1
-FW_EX
-<br />_There	1
 JJ_.
 superb_.	1
 gorgeous_.	1
@@ -2006,36 +1947,51 @@ time_favorites	1
 Introduction_plays	1
 JW_films	1
 childhood_films	1
+NNP_PRP$
+McClintock_my	1
 NNPS_VBP
 Comanches_have	1
 NN_NNP
 way_Paramount	1
+farmer_Patrick	1
 comedian_John	1
+boy_Jerry	1
+family_Maureen	1
 john_Wayne	1
 way_Amazon	1
 fave_Wayne	1
 character_McLintock	1
 wife_Katherine	1
+mother_Yvonne	2
+chief_G.W.	1
 daughter_Becky	1
 movie_McClintock	1
+B000ANVPPQ_McLintock	1
 WDT_NNP
 THAT_WAYNE	1
+NNS_VBZ
+daughters_is	1
+scenes_is	1
+settlers_shows	1
+moments_shows	1
 ,_WRB
 ,_when	1
 IN_JJS
 that_most	1
 throughout_most	1
 MD_NN
+can_HOPEFULLY	1
 will_laugh	1
 can_stream	1
 PRP_WRB
 them_when	1
 :_DT
-;_this	1
-..._This	1
 -_This	1
-..._these	1
 --_the	1
+;_this	1
+:_The	1
+..._This	1
+..._these	1
 DT_MD
 A_must	1
 this_will	1
@@ -2055,9 +2011,8 @@ beter_quality	1
 lighter_side	1
 longer_playing	1
 better_version	2
-PRP_-LRB-
-you_-LRB-	1
-it_-LRB-	1
+RB_``
+alone_``	1
 VBP_VBZ
 have_is	1
 RP_NNP
@@ -2065,6 +2020,7 @@ out_McLintock	1
 PRP_MD
 they_will	1
 I_will	2
+it_must	1
 he_could	1
 he_can	2
 you_will	2
@@ -2131,8 +2087,6 @@ PRP$_DT
 my_all	1
 its_the	2
 its_a	1
--LRB-_WRB
--LRB-_when	1
 POS_VBP
 's_are	1
 NNS_VBD
@@ -2168,6 +2122,7 @@ letterbox_format	1
 formula_plot	1
 transfer_quality	1
 movie_work	1
+!!_purchase	1
 type_store	1
 O'Hara-Wayne_team	1
 DVD_transfer	2
@@ -2199,16 +2154,16 @@ Panavision_widescreen	1
 quality_DVD	2
 mud_pit	2
 THis_version	1
-MOVIE_LOVER	1
+B000006OS2_McLintock	1
 Fav_scene	1
 quality_version	1
 mining_operation	1
 course_nothing	1
-<br />_A	1
+DVD_version	3
 pit_action	1
 viewing_experience	1
 screen_format	1
-fun_movie	1
+MOVIE_LOVER	1
 job_cooking	1
 supporting_cast	2
 western_comedy	1
@@ -2230,7 +2185,7 @@ DVD_quality	1
 motion_picture	1
 story_line	1
 family_favorite	1
-DVD_version	3
+fun_movie	1
 widescreen_version	1
 picture_quality	2
 pan/scan_format	1
@@ -2275,8 +2230,6 @@ finest_.	1
 ,_vertical	1
 ,_EX
 ,_there	5
--RRB-_RB
--RRB-_perfectly	1
 DT_JJ
 a_fantastic	1
 A_good	1
@@ -2423,8 +2376,6 @@ spent_most	1
 used_most	1
 RP_PRP
 out_it	1
--RRB-_NNP
--RRB-_McLintock	2
 NN_IN
 home_from	3
 point_for	1
@@ -2461,7 +2412,7 @@ fun_of	2
 swing_at	1
 DVD_as	1
 fan_in	1
-version_of	5
+version_of	6
 annals_of	1
 time_for	1
 week_after	1
@@ -2532,6 +2483,7 @@ DVD_WITH	1
 quality_of	7
 experience_than	1
 tape_of	1
+dirt_like	1
 cast_of	1
 half_of	1
 picture_like	1
@@ -2682,6 +2634,7 @@ someone_taped	1
 film_was	2
 product_arrived	1
 surface_lay	1
+way_came	1
 dad_took	1
 image_was	1
 WP_PRP
@@ -2708,6 +2661,7 @@ quality_looks	1
 someone_does	1
 chief_walks	1
 mother_is	1
+friend_is	1
 word_comes	1
 presentation_is	1
 fight_is	2
@@ -2776,6 +2730,7 @@ As_far	1
 not_yet	1
 really_too	1
 so_far	1
+loosely_very	1
 very_much	1
 almost_out	1
 right_up	1
@@ -2820,6 +2775,7 @@ picture_are	1
 pit_are	1
 me.I_prefer	1
 track_are	1
+family_are	1
 :_WRB
 ..._when	1
 PRP_RB
@@ -2991,6 +2947,7 @@ never_seen	1
 really_disappointed	1
 not_authorized	1
 ever_written	1
+loosely_based	1
 NN_''
 version_''	1
 wish_''	1
@@ -3025,7 +2982,6 @@ just_returned	1
 really_looked	1
 FW_IN
 o'hara_at	1
-<br />_As	1
 CC_MD
 and_would	1
 and_can	1
@@ -3055,7 +3011,6 @@ official_authorized	1
 awful_latter	1
 fussy_little	1
 other_familiar	1
-<br />_Original	1
 hilarious_broad	1
 non-political_correct	1
 blurry_able	1
@@ -3075,8 +3030,9 @@ deft_comic	1
 same_poor	1
 NNP_TO
 Due_to	1
-Wayne_to	1
 NORTH_TO	1
+Wayne_to	1
+Carlo_to	1
 VBZ_TO
 is_to	1
 wants_to	1
@@ -3179,7 +3135,6 @@ watch_any	1
 see_the	2
 buy_this	3
 use_the	1
-<br />_This	1
 take_this	1
 match_the	1
 replace_the	1
@@ -3192,7 +3147,6 @@ direct_this	1
 see_this	3
 explain_the	1
 be_the	1
-<br />_The	2
 WRB_DT
 how_this	1
 where_the	1
@@ -3232,6 +3186,8 @@ is_top	1
 is_good	1
 is_poor	3
 looks_good	1
+''_DT
+''_the	1
 NN_TO
 ranch_to	1
 movie_to	2
@@ -3291,8 +3247,6 @@ and_one	2
 but_one	1
 PRP_PRP$
 me_its	1
-NNP_FW
-Video_<br />	1
 JJ_NNPS
 Native_Americans	1
 displaced_Indians	1
@@ -3370,6 +3324,7 @@ everyone_should	1
 version_should	1
 DVD_would	1
 dad_could	1
+company_will	1
 version_would	1
 DT_VB
 this_happen	1
@@ -3447,18 +3402,20 @@ only_have	1
 so_save	1
 not_recommend	2
 n't_find	1
--RRB-_JJ
--RRB-_Good	1
-FW_FW
-<br />_Bird	1
-knockoff_Goodtimes	1
-!!!!!!!!!_<br />	1
-maureen_o'hara	1
-<br />_<br />	27
-etc._<br />	1
-VERY_POOR	1
-xtras_!!!	1
-<br />_Thru	1
+IN_IN
+that_if	1
+in_on	1
+that_under	1
+out_of	3
+along_with	2
+with_in	1
+because_of	2
+as_if	1
+off_of	1
+as_though	1
+in_throughout	1
+like_in	2
+in_with	1
 JJ_RB
 relevant_now	1
 other_vastly	1
@@ -3471,15 +3428,10 @@ hires_who	1
 ,_VBD
 ,_eventhough	1
 ,_said	1
--RRB-_VBP
--RRB-_are	1
 ,_VBG
 ,_blurring	1
 ,_making	1
 ,_dealing	1
--RRB-_VBZ
--RRB-_owns	1
--RRB-_is	5
 NNS_.
 faults_.	1
 parts_.	1
@@ -3535,16 +3487,10 @@ homesteaders_,	2
 ,_have	1
 ,_do	3
 ,_make	1
--RRB-_VBG
--RRB-_returning	1
--RRB-_VBD
--RRB-_came	1
 RBR_RB
 more_down	1
 VBD_NNP
 bought_VHS	1
--RRB-_VBN
--RRB-_based	1
 NNS_:
 reviews_-	1
 movies_-	1
@@ -3648,8 +3594,6 @@ with_what	1
 of_what	1
 RB_''
 away_''	2
--RRB-_CC
--RRB-_and	2
 VBD_WDT
 said_what	1
 VBG_PRP
@@ -3687,7 +3631,6 @@ movie_he	1
 thing_I	1
 copy_they	1
 review_I	1
-<p>_I	3
 everything_you	1
 time_I	1
 movie_I	2
@@ -3695,6 +3638,7 @@ movie_they	2
 side_it	1
 territory_we	1
 Lady_It	1
+version_I	1
 video_I	1
 course_I	1
 edition_you	1
@@ -3704,9 +3648,18 @@ fan_you	1
 quality_itself	1
 eye_I	1
 dreck_they	1
+crew_they	1
 movie_itself	1
-VBP_-RRB-
-buy_-RRB-	1
+VB_PRP$
+get_my	1
+see_my	1
+see_their	1
+replace_our	1
+waste_your	2
+RELEASE_HIS	1
+save_your	2
+support_his	1
+track_my	1
 DT_RP
 this_off	1
 ''_WDT
@@ -3800,16 +3753,25 @@ how_movies	1
 ,_the	15
 ,_that	1
 ,_The	1
-FW_PRP$
-<br />_My	1
 VB_VBZ
 say_is	1
-NNS_DT
-scenes_the	1
-people_a	1
-cents_a	1
-IN_-RRB-
-for_-RRB-	1
+CD_PRP
+1952_I	1
+CC_RB
+and_just	2
+or_even	1
+and_even	2
+but_not	3
+but_mostly	1
+but_really	1
+and_am	1
+but_apparently	1
+and_not	2
+and_also	1
+and_quite	1
+and_then	1
+and_over	1
+But_still	1
 VBZ_NN
 plays_john	1
 's_nothing	1
@@ -3861,8 +3823,6 @@ are_a	3
 have_that	1
 am_a	1
 reserve_the	1
-NNS_-RRB-
-movies_-RRB-	1
 VBD_TO
 wanted_to	1
 tried_to	1
@@ -3898,9 +3858,9 @@ hint_...	1
 scene_...	1
 money_-	1
 movie_...	1
-._''
-!_''	2
-._''	2
+POS_JJS
+'s_finest	1
+'s_best	1
 NNP_JJ
 God_awful	1
 Wayne_fanatic	1
@@ -3932,7 +3892,8 @@ party_,	1
 version_,	3
 settler_,	1
 video_,	2
-theatre_,	1
+theatre_,	2
+edition_,	1
 setting_,	1
 daughter_,	2
 fault_,	1
@@ -3958,6 +3919,7 @@ cast_,	2
 pit_,	1
 watching_,	1
 focus_,	1
+example_,	1
 love_,	1
 time_,	1
 fact_,	3
@@ -4002,7 +3964,7 @@ fan_.	1
 fan_!	1
 scam_.	1
 try_.	1
-classic_.	1
+classic_.	2
 truth_.	1
 park_.	1
 entertainment_.	1
@@ -4089,6 +4051,7 @@ move_.	1
 sale_.	1
 cover_.	1
 age_.	1
+McLintock_.	1
 etc._.	1
 sheriff_.	1
 attitude_.	1
@@ -4103,6 +4066,8 @@ time_.	2
 family_.	1
 TO_CC
 to_and	1
+NNP_VBG
+Powers_returning	1
 WDT_VBZ
 that_makes	1
 that_comes	1
@@ -4113,22 +4078,10 @@ which_makes	1
 that_is	4
 POS_,
 '_,	1
-NN_-LRB-
-product_-LRB-	1
-format_-LRB-	1
-flick_-LRB-	1
-boy_-LRB-	1
-crew_-LRB-	1
-farmer_-LRB-	1
-B000006OS2_-LRB-	1
-Man_-LRB-	1
-family_-LRB-	1
-mother_-LRB-	2
-chief_-LRB-	1
-dirt_-LRB-	1
-mine_-LRB-	1
-version_-LRB-	1
-B000ANVPPQ_-LRB-	1
+WDT_VBP
+that_are	2
+that_criticize	1
+that_move	1
 CC_UH
 But_alas	1
 ,_VB
@@ -4165,11 +4118,8 @@ VBG_RB
 doing_now	1
 floating_around	1
 FW_JJ
-<br />_Nice	1
 !!!_Great	1
-<br />_Prior	1
--RRB-_NN
--RRB-_purchase	1
+etc._Nice	1
 DT_,
 those_,	1
 all_,	3
@@ -4181,10 +4131,6 @@ VBG_RP
 laughing_out	1
 curling_up	1
 dropping_out	1
-VB_NNP
-write_Amazon	1
-win_McLintock	1
-Leave_Home	1
 DT_:
 these_...	1
 NNPS_:
@@ -4250,8 +4196,6 @@ as_good	1
 very_poor	3
 really_curious	1
 finely_focused	1
-RB_-RRB-
-loosely_-RRB-	1
 VB_``
 see_``	1
 NNPS_,
@@ -4267,8 +4211,6 @@ to_Europe	1
 to_Paramount/Batjac	1
 TO_ALASKA	1
 to_Amazon	1
-RB_-LRB-
-loosely_-LRB-	1
 VBG_DT
 watching_an	1
 complementing_the	1
@@ -4336,6 +4278,7 @@ when_word	1
 VBZ_PDT
 dumps_all	1
 NNS_WRB
+favorites_when	1
 actors_when	1
 scenes_where	1
 NN_EX
@@ -4353,27 +4296,28 @@ BUT_there	1
 RP_''
 up_''	1
 NNP_IN
-Home_without	1
-Christmas_so	1
-Amazon_as	1
-McLintock_on	1
-McLintock_if	1
 Ford_except	1
-Now_for	1
-O'hara_at	1
-O'Hara_in	1
-Yvonne_de	1
 Washington_that	1
-Wayne_with	1
-West_around	1
-Ford_so	1
-REVIEW_OF	2
-O'Hara_at	1
 Classic_in	1
 Wayne_as	1
-Productions_along	1
 Wayne_at	1
+Yvonne_de	1
+Christmas_so	1
+O'hara_at	1
+Amazon_as	1
+Now_for	1
+Home_without	1
+Ford_so	1
+Video_As	1
+REVIEW_OF	2
+O'Hara_at	1
+McLintock_on	1
 Edition_from	1
+McLintock_if	1
+O'Hara_in	1
+Wayne_with	1
+West_around	1
+Productions_along	1
 ,_TO
 ,_to	1
 IN_VBG
@@ -4391,24 +4335,6 @@ of_seeing	1
 about_buying	1
 of_watching	1
 after_being	1
-FW_UH
-<br />_Yes	1
-POS_NN
-'s_friend	1
-'s_work	1
-'s_fault	1
-'s_strategy	1
-'s_production	1
-'s_movement	1
-'S_EDITION	1
-'s_mother	1
-'s_son	2
-'s_edition	1
-'s_response	1
-'s_daughter	1
-'s_belly	1
-'s_company	1
-'s_Edition	1
 ,_PRP
 ,_he	1
 ,_they	1
@@ -4435,19 +4361,6 @@ My_VHS	1
 their_VHS	1
 my_Father	1
 your_Family	1
--LRB-_NNP
--LRB-_Maureen	3
--LRB-_John	3
--LRB-_Chill	1
--LRB-_Jerry	1
--LRB-_Burt	1
--LRB-_G.W.	2
--LRB-_Stefanie	2
--LRB-_Patrick	2
--LRB-_Wayne	2
--LRB-_Rio	1
--LRB-_McLintock	1
--LRB-_Yvonne	2
 VBG_.
 missing_.	3
 VBG_,
@@ -4469,9 +4382,6 @@ interesting_and	1
 east_and	1
 poor_and	1
 funny_and	2
-FW_CC
-<br />_But	1
-<br />_And	1
 IN_VBZ
 of_is	1
 JJ_CD
@@ -4494,38 +4404,29 @@ How_did	1
 WRB_VBZ
 Where_'s	1
 NNP_WP
+Dyke_who	1
 O'Hara_who	1
-VB_PRP$
-get_my	1
-see_my	1
-see_their	1
-replace_our	1
-waste_your	2
-RELEASE_HIS	1
-save_your	2
-support_his	1
-track_my	1
 CD_:
 1963_...	1
 three_...	1
-FW_CD
-<br />_One	1
 WRB_VBP
 Why_are	1
-NN_-RRB-
-lol_-RRB-	1
-company_-RRB-	1
-McLintock_-RRB-	1
-way_-RRB-	1
-family_-RRB-	1
-version_-RRB-	1
-edition_-RRB-	1
-Man_-RRB-	1
-friend_-RRB-	1
-example_-RRB-	1
-!!_-RRB-	1
-classic_-RRB-	1
-theatre_-RRB-	1
+POS_NN
+'s_friend	1
+'s_work	1
+'s_fault	1
+'s_strategy	1
+'s_production	1
+'s_movement	1
+'S_EDITION	1
+'s_mother	1
+'s_son	2
+'s_edition	1
+'s_response	1
+'s_daughter	1
+'s_belly	1
+'s_company	1
+'s_Edition	1
 TO_NN
 to_everyone	1
 to_criticism	1
@@ -4720,8 +4621,6 @@ riding_on	1
 going_into	1
 $_CD
 $_50	1
-FW_VBD
-<br />_Did	1
 DT_CD
 another_one	2
 the_two	1
@@ -4782,16 +4681,19 @@ O'hara_,	1
 Birnbaum_,	1
 Paramount/Batjac_,	1
 Duke_,	1
-Wayne_,	1
+Wayne_,	2
 Wills_,	1
 Western_,	1
-O'Hara_,	3
+O'Hara_,	4
 Victor_,	1
+Edition_,	1
 BUT_,	1
 Europe_,	1
+o'Hara_,	1
 Reynolds_,	1
 Yes_,	1
 VanDyke_,	1
+Carlo_,	1
 Katie_,	2
 ALASKA_,	1
 Well_,	1
@@ -4833,9 +4735,10 @@ Hatari_!	1
 Shakespeare_.	1
 Batjac_.	1
 Kong/Taiwan_.	1
+JJR_WP
+more_who	1
 FW_NN
 Goodtimes_video	1
-<br />_BUT	1
 POOR_QUALITY	1
 Bird_Lady	1
 NNP_WRB
@@ -4861,9 +4764,6 @@ PRP_DT
 They_all	1
 it_a	2
 him_an	1
-TO_RB
-to_so	1
-to_finally	1
 WRB_EX
 when_there	2
 JJ_PRP$
@@ -4912,8 +4812,6 @@ kidnapped_her	1
 purchased_it	1
 found_it	1
 averaged_it	1
-:_FW
-:_<br />	1
 WRB_JJ
 how_many	1
 ,_CC
@@ -4935,8 +4833,6 @@ have_commentary	1
 ,_one	2
 VBZ_JJS
 's_best	1
-``_VBG
-``_Taming	1
 CD_VBD
 one_got	1
 NN_WP
@@ -4990,11 +4886,9 @@ without_one	1
 with_one	1
 WRB_VB
 why_waste	1
-NNS_VBZ
-daughters_is	1
-scenes_is	1
-settlers_shows	1
-moments_shows	1
+TO_RB
+to_so	1
+to_finally	1
 IN_CC
 from_and	1
 before_and	1
@@ -5002,17 +4896,6 @@ over_and	2
 on_and	1
 like_but	1
 over_&	1
-NNP_-LRB-
-McLintock_-LRB-	3
-McClintock_-LRB-	1
-Katherine_-LRB-	1
-Becky_-LRB-	1
-Mclintock_-LRB-	1
-Kahtarine_-LRB-	1
-Warren_-LRB-	1
-Washington_-LRB-	1
-Batjac_-LRB-	1
-Rebecca_-LRB-	1
 PRP_:
 them_...	1
 it_...	2
@@ -5027,9 +4910,6 @@ attitudes_being	1
 versions_floating	1
 RP_RB
 out_loud	1
--LRB-_PRP
--LRB-_they	1
--LRB-_I	2
 PRP_NNS
 you_images	1
 us_old-timers	1
@@ -5048,21 +4928,6 @@ love_O'Hara	1
 love_John	1
 VBP_RP
 find_out	1
-FW_RB
-<br />_So	1
-<br />_Still	1
-VB_.
-watch_.	2
-have_!	1
-come_.	1
-produce_.	1
-disappoint_.	1
-get_.	1
-expect_.	1
-buy_.	1
-enjoy_.	1
-Enjoy_.	1
-happen_?	1
 CD_JJR
 one_higher	1
 POS_JJ
@@ -5071,8 +4936,6 @@ POS_JJ
 's_final	1
 ''_IN
 ''_by	1
--RRB-_IN
--RRB-_of	1
 VBD_VBN
 were_bought	1
 was_cut	1
@@ -5169,17 +5032,15 @@ given_movie	1
 estranged_family	1
 made_copy	1
 NNP_RB
-Wayne_together	1
-O'Hara_again	1
-Stay_away	1
+Wayne_perfectly	1
 World_then	1
 G.W._then	1
+Stay_away	1
+O'Hara_again	1
+Wayne_together	1
 NNP_VBP
 Wayne_have	1
 O'Hara_are	2
--LRB-_NN
--LRB-_HOPEFULLY	1
--LRB-_McLintock	1
 :_PRP
 ..._it	1
 ..._I	3
@@ -5240,7 +5101,7 @@ Lots_of	2
 extras_on	1
 scenes_in	1
 NNP_VBZ
-Wayne_is	1
+Wayne_is	3
 McClintock_is	1
 Wayne_does	1
 Amazon_delivers	1
@@ -5259,10 +5120,12 @@ G.W._calls	1
 Productions_is	1
 Amazon_is	2
 Comanche_is	1
+Wayne_owns	1
 Amazon_dumps	1
 Wayne_has	1
 McLintock_takes	1
 McLintock_is	5
+Powers_is	2
 Video_has	1
 O'Hara_is	1
 West_is	1
@@ -5355,8 +5218,6 @@ Duke_made	1
 WP_NNP
 whom_G.W.	1
 WHO_SHOT	1
--LRB-_IN
--LRB-_like	1
 NNP_POS
 McLintock_'s	1
 Wayne_'s	7
@@ -5382,11 +5243,11 @@ college_back	1
 school_back	1
 DO_N'T	1
 copy_just	1
+product_not	1
 DVD_either	1
 picture_occasionally	1
 music_as	1
 nobody_ever	1
-<br />_Very	1
 TV_always	1
 DVD_officially	1
 wife_even	1
@@ -5492,6 +5353,9 @@ two_ooze	1
 FIVE_STAR	1
 5,000_streaming	1
 one_star	1
+._''
+!_''	2
+._''	2
 VBZ_NNP
 is_Amazon	1
 is_NOT	1
@@ -5513,6 +5377,7 @@ SEE_movie	1
 are_plenty	1
 think_everyone	1
 NN_PRP$
+lol_its	1
 movie_its	1
 JJ_''
 grainy_''	1
@@ -5562,9 +5427,6 @@ been_oodles	1
 extended_scenes	1
 ,_WP$
 ,_whose	1
-,_WDT
-,_which	1
-,_that	1
 VBP_VBD
 have_said	1
 ,_NNP
@@ -5609,9 +5471,9 @@ and_years	1
 ,_fans	1
 ,_homesteaders	1
 ,_teens	1
--LRB-_DT
--LRB-_the	2
--LRB-_a	2
+,_WDT
+,_which	1
+,_that	1
 DT_TO
 this_to	1
 JJ_NN

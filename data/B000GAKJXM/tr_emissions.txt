@@ -34,8 +34,9 @@ NNP_:_WDT
 Love_;_which	1
 IN_EX_VBZ
 because_there_is	1
-FW_FW_IN
-</a>_<br />_If	1
+DT_NN_,
+this_reason_,	1
+the_question_,	1
 CD_CC_DT
 one_or_the	1
 NNS_VBP_RB
@@ -74,7 +75,7 @@ this_site_.	1
 PRP_VBZ_RBR
 it_is_less	1
 FW_IN_PRP
-<br />_If_you	1
+</a>_If_you	1
 VBZ_RB_VBN
 is_not_included	1
 ,_CC_RB
@@ -111,8 +112,6 @@ NNP_CD_,
 Flight_93_,	1
 NN_IN_NNP
 mention_of_God	1
-CD_FW_FW
-93_</a>_<br />	1
 NN_VBD_VBN
 narration_was_based	2
 CD_,_VBD
@@ -134,6 +133,8 @@ NNP_NNP_.
 Deena_Burnett_.	1
 Grizzly_Adams_.	1
 Cheryl_McGuiness_.	1
+CD_FW_IN
+93_</a>_If	1
 ,_PRP_VBP
 ,_I_recommend	1
 VBD_VBN_IN
@@ -147,9 +148,6 @@ CC_PRP_VBZ
 plus_it_is	1
 NNPS_''_IN
 Ashes_''_by	1
-DT_NN_,
-this_reason_,	1
-the_question_,	1
 VBP_IN_PRP
 recommend_that_you	1
 NNP_NNP_DT

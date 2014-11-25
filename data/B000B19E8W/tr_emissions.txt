@@ -46,6 +46,8 @@ NN_NNP_NN
 n_Roll_history	1
 WRB_PRP_VBP
 when_you_see	1
+NNP_NNP_JJ
+Shannon_Hoon_lead	1
 VBP_VBG_IN
 're_talking_about	1
 :_IN_PRP
@@ -58,7 +60,7 @@ enjoyed_were_``	1
 CC_VBG_PRP$
 and_flaling_his	1
 RB_:_NNP
-accordingly_..._<br />	1
+accordingly_..._Poor	1
 NNS_IN_NNP
 weeks_before_Shanon	1
 NN_PRP_VBD
@@ -116,8 +118,6 @@ DT_NN_TO
 the_chance_to	1
 this_dvd_to	1
 a_chance_to	1
--RRB-_VBD_RB
--RRB-_did_n't	1
 DT_NN_VBD
 the_recording_was	1
 The_gig_was	1
@@ -234,10 +234,8 @@ a_great_live	1
 ,_and_the	1
 IN_DT_CD
 of_the_90	1
-FW_FW_PRP
-<br />_<br />_I	1
-JJ_NN_-RRB-
-lead_singer_-RRB-	1
+RB_,_RB
+n't_,_well	1
 VBD_PRP_DT
 gave_me_the	1
 NN_WDT_MD
@@ -251,6 +249,8 @@ VBD_NN_IN
 searched_youtube_for	1
 VBP_RB_DT
 'm_not_a	1
+:_VB_NN
+-_go_search	1
 CC_VBD_PRP
 and_saved_me	1
 RB_JJ_IN
@@ -282,8 +282,6 @@ VBN_IN_DT
 passed_over_the	1
 CC_VBZ_RB
 but_is_not	1
-VB_PRP_VBD
-<br />_I_purchased	1
 VB_VBN_RB
 have_been_there	1
 ,_CC_IN
@@ -385,10 +383,6 @@ It_came_on	1
 they_were_as	1
 VBZ_CD_NNS
 includes_3_tracks	1
-VBP_VBN_VBG
-have_been_watching	1
-FW_PRP_MD
-<br />_I_would	1
 VBD_PRP_NN
 thought_they_sort	1
 saved_me_time	1
@@ -423,6 +417,7 @@ CC_LS_NN
 and_i_think	1
 NN_VBD_RB
 hair_cut_so	1
+singer_did_n't	1
 PRP_VBD_.
 they_were_.	1
 NN_POS_NNS
@@ -434,11 +429,12 @@ Melon_fan_this	1
 NNP_NNP_NNS
 Blind_Melon_burns	1
 NNP_NNP_NNP
-<br />_Shannon_Hoon	1
 Soak_The_Sun	1
 Either_Shannon_Hoon	1
 VBZ_RB_RB
 is_really_quite	1
+:_NNP_NN
+..._Poor_guy	1
 ,_CC_PRP
 ,_and_it	1
 NNP_CC_DT
@@ -711,8 +707,6 @@ is_the_best	1
 is_the_worst	1
 IN_NN_NNS
 for_rock_fans	1
-NNP_NNP_,
-<br />_Luckily_,	1
 NN_NN_FW
 music_fan_i	1
 NN_IN_EX
@@ -776,8 +770,8 @@ of_capturing_the	1
 of_buying_the	1
 CD_NN_PRP
 One_thing_you	1
-:_VB_NN
--_go_search	1
+NNP_JJ_NN
+Hoon_lead_singer	1
 RB_NN_TO
 n't_vow_to	1
 DT_NNP_NNP
@@ -818,8 +812,6 @@ VBN_NN_IN
 renewed_appreciation_for	1
 NN_WDT_VBD
 energy_that_was	1
--LRB-_JJ_NN
--LRB-_lead_singer	1
 WDT_VBZ_JJ
 that_'s_sure	1
 which_is_excellent	1
@@ -893,6 +885,8 @@ VB_VBN_:
 be_labeled_...	1
 JJ_NN_PRP
 live_band_they	1
+JJ_NN_VBD
+lead_singer_did	1
 JJ_NN_VBZ
 much_music_brings	1
 POS_NNS_IN
@@ -921,8 +915,6 @@ JJ_WRB_VBG
 obvious_when_looking	1
 RB_VB_WP
 n't_know_what	2
-NNP_NNP_-LRB-
-Shannon_Hoon_-LRB-	1
 VBN_:_PRP
 labeled_..._I	1
 VB_IN_,
@@ -938,8 +930,6 @@ Shannon_Hoon_.	1
 Blind_Melon_.	1
 NNS_TO_VB
 fans_to_own	1
-NNP_-LRB-_JJ
-Hoon_-LRB-_lead	1
 ``_VB_IN
 `_Live_At	1
 NN_NNP_NNP
@@ -1068,8 +1058,6 @@ i_think_that	1
 ,_well_then	1
 DT_NNS_VBP
 The_songs_are	1
-NN_-RRB-_VBD
-singer_-RRB-_did	1
 IN_PRP_RB
 that_I_thoroughly	1
 VBP_NNP_NNP
@@ -1127,8 +1115,8 @@ NN_NN_NNS
 stone_temple_pilots	1
 NN_NN_NNP
 lead_singer_Shannon	1
-FW_RB_,
-<br />_Anyway_,	1
+VBP_VBN_VBG
+have_been_watching	1
 RB_VBD_DT
 effectively_ended_the	1
 NN_IN_VBN
@@ -1194,8 +1182,6 @@ NNP_NNP_IN
 Blind_Melon_in	1
 DT_VBD_PRP
 This_gave_me	1
-:_NNP_NNP
-..._<br />_Poor	1
 PRP_NN_TO
 me_time_to	1
 VBP_WRB_PRP
@@ -1234,8 +1220,6 @@ where_some_footage	1
 VBD_RB_VB
 did_n't_get	1
 did_not_get	1
-FW_FW_RB
-<br />_<br />_Anyway	1
 DT_IN_PRP$
 some_of_their	1
 POS_NN_.
@@ -1354,7 +1338,6 @@ have_left_for	1
 NNP_NNP_NN
 Blind_Melon_fan	5
 Blind_Melon_concert	1
-<br />_Poor_guy	1
 CC_IN_PRP$
 and_if_your	1
 PRP$_JJ_NN
@@ -1516,8 +1499,6 @@ TO_NN_PRP$
 to_charm_their	1
 NN_,_WRB
 DVD_,_where	1
-RB_,_RB
-n't_,_well	1
 CC_JJ_NN
 and_tough_showing	1
 IN_PRP_VBP

@@ -1,10 +1,8 @@
 POS_NNP
 's_My	1
 IN_NN
-while_<br />	1
 because_anything	1
 that_way	1
-in_<br />	1
 on_sheep	1
 at_midnight	1
 by_everyone	1
@@ -13,7 +11,6 @@ RB_VB
 ever_see	1
 not_waste	1
 totally_love	1
-not_<br />	1
 n't_believe	1
 JJ_IN
 sure_that	1
@@ -34,6 +31,7 @@ VBN_VBG
 wasted_watching	1
 ,_IN
 ,_while	1
+,_because	1
 ,_as	1
 NNP_IN
 Braveheart_since	1
@@ -118,7 +116,7 @@ RBR_JJ
 more_independent	1
 CC_RB
 And_yes	1
-but_actually	1
+but_actually	2
 either_absolutely	1
 or_not	1
 VBG_.
@@ -169,8 +167,6 @@ PRP_VBG
 you_going	1
 NNS_NN
 drivers_license	1
-,_NN
-,_<br />	1
 WRB_VBP
 How_do	1
 PRP$_RB
@@ -200,6 +196,7 @@ three_stars	1
 20_minutes	1
 2_hours	1
 VBN_RB
+improved_drastically	1
 asked_here	1
 done_respectfully	1
 mentioned_anywhere	1
@@ -226,7 +223,7 @@ that_way	1
 that_film	1
 a_sheep	2
 No_kidding	1
-the_fact	1
+the_fact	2
 the_DVD	1
 the_acting	1
 This_film	3
@@ -251,6 +248,7 @@ this_product	1
 the_product	2
 the_screen	1
 some_discussion	1
+a_grammar	1
 a_crush	1
 the_toilet	1
 the_price	1
@@ -258,7 +256,6 @@ a_spoof	2
 a_fan	1
 the_money	2
 a_dream	1
-the_<br />	1
 this_rip	1
 this_film	3
 TO_VBG
@@ -337,7 +334,6 @@ CC_RBS
 and_most	1
 VBP_NN
 start_hyperventilating	1
-know_<br />	1
 PDT_DT
 all_the	1
 IN_.
@@ -417,7 +413,6 @@ Gibson_.	1
 Grail_.	1
 FW_FW
 per_se	1
-<br />_<br />	4
 HILARIOUS_!!!	1
 FW_NN
 !!!_Raw	1
@@ -481,7 +476,6 @@ laughed_so	1
 NN_DT
 price_a	1
 cleverness_the	1
-<br />_the	1
 ,_VBG
 ,_cheering	1
 RBS_RB
@@ -528,8 +522,6 @@ NNS_VBN
 films_made	1
 VBP_``
 quote_``	1
-VBN_NN
-improved_<br />	1
 JJ_NNS
 drunken_idiots	1
 homophobic_jokes	1
@@ -569,8 +561,6 @@ NNPS_,
 Texans_,	1
 VBG_PRP
 laughing_I	1
-FW_PRP
-<br />_I	1
 NNP_POS
 Wallace_'s	1
 Cross_'	1
@@ -582,8 +572,7 @@ and_20	1
 ,_Where	1
 CC_NN
 plus_shipping	1
-but_<br />	1
-and_<br />	1
+and_film	1
 and_everyone	1
 NN_PRP
 !!_I	1
@@ -598,6 +587,7 @@ VBD_PRP$
 granted_its	1
 saw_his	1
 IN_RB
+while_irresponsibly	1
 than_once	1
 by_far	1
 CC_IN
@@ -613,6 +603,8 @@ VBP_PRP
 think_it	2
 carry_you	1
 do_I	1
+VBP_IN
+know_that	1
 MD_VB
 will_want	1
 might_appreciate	1
@@ -713,9 +705,6 @@ there_is	1
 There_needs	1
 WDT_DT
 which_the	1
-FW_NNP
-<br />_P.S.	1
-<br />_P.P.S.	1
 VBZ_RBS
 is_most	1
 NN_''
@@ -725,8 +714,6 @@ slap-stick_comedy	1
 AV_club	1
 film_quality	1
 length_film	1
-comprehension_level	1
-<br />_film	1
 school_AV	1
 grammar_school	1
 product_description	2
@@ -739,7 +726,7 @@ dream_sequence	1
 budget_film	1
 budget_remake	1
 qaulity_movie	1
-<br />_fact	1
+comprehension_level	1
 school_play	1
 NN_FW
 movie_per	1
@@ -767,8 +754,8 @@ that_Strangeheart	1
 from_Anna	1
 by_Irish	2
 at_Mel	1
+with_Irish	1
 like_Rocky	1
-with_<br />	1
 through_Wallace	1
 of_Braveheart	2
 DT_NNP
@@ -807,7 +794,6 @@ a_little	1
 The_rugby	1
 an_independent	1
 some_good	1
-a_<br />	1
 a_pink	1
 the_whole	1
 an_impromptu	1
@@ -881,7 +867,6 @@ NN_IN
 film_after	1
 sport_for	1
 perspective_of	1
-<br />_that	1
 sheep_in	1
 money_that	1
 midnight_with	1
@@ -892,7 +877,6 @@ mistake_that	1
 age_of	1
 thing_during	1
 fun_at	1
-<br />_because	1
 sheep_underneath	1
 story_so	1
 film_as	1
@@ -941,7 +925,6 @@ Wallace_is	1
 Wallace_has	1
 VB_JJ
 be_able	1
-<br />_appropriate	1
 TO_VB
 to_be	5
 to_see	3
@@ -1009,12 +992,9 @@ in_which	1
 VBG_VBN
 being_asked	1
 NN_RB
-<br />_irresponsibly	1
-<br />_actually	1
 ancestry_directly	1
 mask_back	1
 way_close	1
-<br />_drastically	1
 rip_off	1
 something_better	1
 movie_really	1
@@ -1064,7 +1044,6 @@ New_Zealander	1
 Ian_Cross	2
 P.P.S._Brian	1
 IT_WAS	1
-<br />_Irish	1
 WAS_SO	1
 Sir_William	1
 SO_MUCH	1
@@ -1081,6 +1060,7 @@ really_needs	1
 RB_JJ
 entirely_false	1
 really_gay	1
+not_appropriate	1
 definitely_misleading	1
 quite_sure	1
 Well_worth	1
@@ -1128,8 +1108,6 @@ first_saw	1
 really_reminded	1
 VBN_NNP
 seen_Braveheart	2
-FW_RB
-<br />_Anyway	1
 VBN_NNS
 deleted_scenes	1
 VBZ_PRP
@@ -1178,7 +1156,7 @@ because_all	1
 like_the	1
 about_this	1
 with_the	1
-in_the	2
+in_the	3
 with_a	1
 Besides_the	1
 after_some	1
@@ -1233,7 +1211,6 @@ middle_school	1
 down_time	1
 big_budget	1
 full_length	1
-<br />_grammar	1
 high_qaulity	1
 pure_comedy	1
 old_world	1

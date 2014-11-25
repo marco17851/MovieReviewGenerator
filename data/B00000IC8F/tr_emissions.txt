@@ -22,12 +22,10 @@ for_the_best	1
 NN_VBZ_DT
 anyone_knows_a	1
 quality_makes_this	1
-POS_-RRB-_.
-'s_-RRB-_.	2
+PRP$_NNS_.
+my_favorites_.	1
 PRP$_NNS_,
 their_films_,	1
-VBG_RP_,
-growing_up_,	1
 CC_CD_NNS
 &_16mm_dupes	1
 DT_WP_PRP
@@ -58,8 +56,6 @@ AND_THE_BEANSTALK	5
 &_The_Beanstalk	1
 VBD_JJ_NN
 were_bad_quality	1
-NNS_-LRB-_NN
-titles_-LRB-_check	2
 NNS_IN_VBG
 dupes_of_varying	1
 VBZ_RB_JJ
@@ -92,7 +88,6 @@ featured_some_extras	1
 NN_PRP_VBP
 transfer_I_'ve	1
 laserdisc_I_believe	1
-<p>_I_have	1
 DVD_I_have	1
 NN_RB_VBZ
 version_cunningly_edits	1
@@ -102,12 +97,12 @@ JJ_,_PRP
 bad_,_I	1
 JJ_IN_NNS
 great_for_kids	1
+NN_POS_.
+DVD_'s_.	2
 JJS_VBZ_DT
 worst_is_the	2
 NN_POS_,
 DVD_'s_,	2
-NNP_-RRB-_CC
-Wal-Mart_-RRB-_and	1
 JJ_IN_NNP
 vibrant_as_Technicolor	1
 available_in_Super	1
@@ -139,8 +134,6 @@ RB_NNS_VBP
 anywhere_DVDs_are	1
 VBP_JJ_IN
 are_available_on	1
--LRB-_VBN_IN
--LRB-_taken_from	1
 JJ_NNP_CC
 average_Abbott_and	1
 NN_VBZ_NNP
@@ -149,21 +142,17 @@ JJ_CC_DT
 good_and_the	1
 NNS_IN_PRP
 people_in_it	1
--LRB-_DT_NN
--LRB-_a_nod	1
 NN_VB_IN
 transfer_look_like	1
 VBD_PRP_IN
 owned_them_on	1
 turned_them_into	2
-PRP$_NNS_.
-my_favorites_.	1
 VBD_DT_NN
 were_a_comedy	1
 CC_NN_,
 and_costello_,	1
-JJR_NNS_IN
-more_transfers_from	1
+NNS_NNP_NNP
+companies_Goodtimes_Home	1
 VB_VBG_DT
 recommend_getting_this	1
 start_collecting_the	1
@@ -190,9 +179,10 @@ on_EBay_for	1
 :_DT_NN
 -_this_one	1
 :_the_opening	1
-NNP_NN_RB
-VHS_tape_originally	1
-Digiview_version_cunningly	1
+DT_NNP_CC
+the_Beanstalk_and	1
+the_Abbott_and	1
+This_Abbott_and	1
 ,_RB_PRP
 ,_here_it	1
 PDT_DT_JJ
@@ -226,16 +216,14 @@ DT_NN_VBZ
 the_color_is	1
 this_one_has	1
 the_transfer_is	1
-NNS_-LRB-_NNP
-companies_-LRB-_Goodtimes	1
 IN_NNS_RB
 for_kids_too	1
 for_adults_however	1
--RRB-_NN_RB
--RRB-_<br />_So	1
 DT_CD_,
 this_one_,	1
 the_two_,	1
+NNS_NN_IN
+titles_check_out	2
 PRP$_NN_CC
 my_collection_and	1
 IN_DT_VBZ
@@ -298,8 +286,6 @@ performances_all_mixed	1
 CC_VBZ_IN
 and_bleeds_through	1
 but_thats_about	1
-CD_NNS_VBD
-two_films_were	1
 NNS_IN_DT
 times_until_the	1
 impressions_of_the	1
@@ -380,10 +366,8 @@ DT_CD_TO
 the_one_to	1
 MD_VB_RP
 may_walk_away	2
-VB_WP_DT
-realize_what_a	1
-JJ_CD_NNS
-first_30_minutes	1
+VBZ_NN_,
+involves_music_,	1
 JJ_CD_NNP
 first_three_BEST	1
 DT_NNP_''
@@ -402,8 +386,8 @@ MD_VB_RB
 would_look_much	1
 RB_RB_VBP
 as_always_are	1
--LRB-_IN_IN
--LRB-_Although_as	1
+RB_,_PRP$
+though_,_Its	1
 JJ_NNS_RB
 white_sequences_also	1
 JJ_CD_CC
@@ -438,14 +422,12 @@ POS_NN_IN
 '_lack_of	1
 CC_NNS_IN
 and_lots_of	1
-CC_VBZ_PRP
-and_mixes_them	1
 CC_PRP$_RB
 but_its_not	1
 DT_VBZ_IN
 this_is_by	1
 VBG_NNP_NNP
-entertaining_<br />_Africa	1
+entertaining_Africa_Screams	1
 VBN_IN_DT
 done_by_a	1
 taken_from_the	1
@@ -453,8 +435,6 @@ copied_from_a	1
 taken_from_a	1
 used_for_this	1
 produced_by_the	1
-NNS_._-RRB-
-sequences_._-RRB-	1
 CC_VBZ_RB
 and_looks_as	1
 DT_FW_MD
@@ -465,10 +445,8 @@ VB_VBN_RB
 be_found_almost	1
 ,_CC_IN
 ,_and_if	1
--RRB-_CC_VBZ
--RRB-_and_looks	1
-NN_POS_-RRB-
-DVD_'s_-RRB-	2
+CC_VBZ_PRP
+and_mixes_them	1
 NNP_,_VBZ
 Technicolor_,_is	1
 DT_NNS_RB
@@ -489,8 +467,8 @@ suggest_beginning_with	1
 ..._taken_what	2
 POS_,_RB
 's_,_just	2
-FW_DT_VBZ
-<br />_That_leaves	1
+VBG_RP_,
+growing_up_,	1
 PRP$_JJR_NNS
 their_earlier_films	1
 NNP_''_VBP
@@ -538,8 +516,6 @@ PRP_VBD_RP
 I_picked_up	1
 VBG_IN_CD
 beginning_with_one	1
-IN_NN_-LRB-
-on_DVD_-LRB-	1
 IN_PRP$_NNS
 of_their_films	1
 of_my_favorites	2
@@ -573,8 +549,8 @@ CC_NNP_.
 and_Costello_.	1
 VB_NNP_CC
 forget_Abbot_and	1
-NN_RB_IN
-<br />_So_if	1
+JJ_NNS_WDT
+real_things_that	1
 CC_RB_JJ
 and_Not_Giant	1
 but_really_good	1
@@ -634,8 +610,6 @@ a_number_of	1
 a_lot_of	1
 PRP_VBP_CD
 I_have_three	1
-SYM_NNP_-RRB-
-@_Wal-Mart_-RRB-	1
 NN_IN_VBG
 history_of_producing	2
 IN_NN_TO
@@ -664,17 +638,6 @@ JJ_IN_NN
 good_as_anything	1
 NNP_``_NNP
 COSTELLO_``_Franchise	1
-NN_,_DT
-circulation_,_the	1
-example_,_the	1
-BEANSTALK_,_the	1
-NNP_-RRB-_NNP
-Young_-RRB-_<br />	1
-Howard_-RRB-_Shemp	1
-NN_-LRB-_NNP
-stooge_-LRB-_Joe	1
-FW_FW_IN
-<br />_<br />_Since	1
 VBZ_VBG_TO
 is_pleasing_to	1
 VBZ_IN_PRP
@@ -683,10 +646,10 @@ NN_CD_NN
 reviewer_100_%	1
 PRP_VBG_TO
 yourself_having_to	1
+JJ_VBN_IN
+clear_taken_from	1
 JJS_NNS_MD
 most_collectors_can	1
-NNS_CC_PRP$
-moments_but_its	1
 VBD_IN_CD
 asked_for_one	1
 CD_,_CC
@@ -700,24 +663,28 @@ the_most_as	1
 NNP_NNP_NNS
 Caveat_Emptor_folks	1
 RB_VBG_NNP
-still_entertaining_<br />	1
+still_entertaining_Africa	1
 CD_CC_VBD
 0_or_asked	1
 NNP_NNP_NNP
 Costello_Meet_Frankenstein	1
-<br />_Africa_Screams	1
+Shemp_Howard_Shemp	1
 ABBOTT_AND_COSTELLO	1
 Ent_Laser_Disc	1
+Joe_Young_Jack	1
 Goodtimes_Home_Video	2
 Mighty_Joe_Young	1
 NN_VBG_CD
 version_running_78	1
-JJ_._-RRB-
-dupey-looking_._-RRB-	1
+JJ_,_JJR
+other_,_cheaper	1
 FW_VBZ_RB
 SCREAMS_is_not	1
-VBZ_RB_RB
-is_not_as	1
+CC_VBZ_DT
+and_is_a	1
+and_has_a	1
+and_has_all	1
+and_contains_a	1
 ''_NN_WDT
 ''_title_that	1
 ,_CC_PRP
@@ -734,6 +701,8 @@ from_Universal_,	1
 IN_NNP_.
 for_Universal_.	1
 for_A&C_.	1
+NN_VBP_DT
+Platinum_have_the	1
 RB_VBG_VBG
 seriously_considering_returning	1
 RP_IN_DT
@@ -755,8 +724,9 @@ TO_JJS_NNS
 to_most_copies	1
 DT_CD_NNP
 the_1949_Mighty	1
-VBP_JJR_IN
-are_worse_than	1
+VBP_IN_NNP
+are_outside_Hillary	1
+have_from_MADACY	1
 ,_MD_RB
 ,_will_not	1
 ,_WDT_VBP
@@ -780,9 +750,8 @@ mediocre_copies_available	1
 VBP_RB_VBG
 'm_seriously_considering	1
 are_still_entertaining	1
-NNP_NN_IN
-Costello_version_of	1
-Roan_edition_of	1
+NNS_CC_PRP$
+moments_but_its	1
 VBZ_JJ_TO
 's_superior_to	1
 RB_JJ_,
@@ -802,12 +771,8 @@ POS_TO_NN
 's_to_date	1
 PRP_VB_WP
 you_realize_what	1
-VBP_-RRB-_NN
-believe_-RRB-_<br />	1
 RB_RB_NNS
 almost_anywhere_DVDs	1
-NNS_NNS_-LRB-
-Others_companies_-LRB-	1
 CD_SYM_NNP
 6.99_@_Wal-Mart	1
 JJ_,_VB
@@ -823,6 +788,8 @@ DT_JJ_CC
 an_adult_but	1
 the_good_and	1
 the_black_and	1
+NNP_NNP_WDT
+Africa_Screams_which	1
 DT_NNS_NN
 the_monsters_series	1
 the_kids_fairy	1
@@ -834,8 +801,8 @@ NN_VBG_DT
 %_regarding_the	1
 VBZ_VBN_PRP
 has_done_it	2
-NN_TO_NN
-B&W_to_blue	1
+NNS_NNS_NNP
+Others_companies_Goodtimes	1
 TO_DT_NN
 to_a_misunderstanding	1
 to_the_eye	1
@@ -851,8 +818,6 @@ IN_IN_$
 for_around_$	1
 VB_PRP_RP
 point_it_out	1
-RB_._-RRB-
-here_._-RRB-	1
 PRP_MD_RB
 You_wo_n't	1
 You_can_generally	1
@@ -863,6 +828,7 @@ Africa_Screams_''	1
 Franchise_Collection_''	1
 CC_NN_VBP
 and_boy_do	1
+and_Platinum_have	1
 IN_NN_CC
 of_JACK_AND	1
 of_abbot_and	1
@@ -955,6 +921,8 @@ have_just_received	1
 've_ever_seen	1
 ``_NNP_CC
 ``_Jack_and	1
+NN_NN_WDT
+ASIN_B00000IC8F_which	1
 VBN_NN_NN
 known_fairy_tale	1
 VBZ_TO_VB
@@ -994,8 +962,6 @@ has_Africa_Screams	1
 has_Clyde_Beatty	1
 WDT_VBP_VBG
 that_are_missing	1
-NN_NNS_-RRB-
-release_dates_-RRB-	1
 CC_VBG_NN
 and_acting_lot	1
 DT_JJ_VB
@@ -1011,8 +977,6 @@ copy_currently_available	1
 ALL_very_poor	1
 DT_VBZ_NN
 That_leaves_JACK	1
-NN_-LRB-_WDT
-B00000IC8F_-LRB-_which	1
 NN_NNS_DT
 character_performances_all	1
 JJ_CC_LS
@@ -1027,8 +991,8 @@ DT_CD_CC
 a_0_or	1
 VBG_NN_CC
 opening_logo_and	1
-JJ_NN_PRP
-third_DVD_I	1
+VB_WP_DT
+realize_what_a	1
 TO_VB_VBG
 to_start_collecting	1
 NNP_CD_CC
@@ -1055,7 +1019,6 @@ available_on_other	1
 available_from_other	1
 VB_DT_NN
 get_a_version	1
-<p>_The_quality	1
 JJS_NN_PRP
 worst_transfer_I	1
 VB_DT_$
@@ -1084,8 +1047,6 @@ best_efforts_for	1
 most_copies_of	1
 CC_DT_``
 and_the_``	1
-RB_JJ_-LRB-
-incredibly_clear_-LRB-	1
 NN_CC_PRP
 collection_and_I	1
 NNP_CC_VB
@@ -1118,8 +1079,8 @@ films_and_great	1
 DT_NN_CC
 the_opening_and	1
 each_scene_and	1
-DT_CD_JJ
-the_81_minute	1
+:_PRP_VBP
+..._I_have	1
 PRP_VBZ_DT
 It_is_a	1
 it_'s_a	1
@@ -1139,10 +1100,9 @@ WDT_VBZ_CD
 which_features_2	1
 NNS_,_NN
 stars_,_nothing	1
-DT_NNP_CC
-the_Beanstalk_and	1
-the_Abbott_and	1
-This_Abbott_and	1
+NNP_NN_RB
+VHS_tape_originally	1
+Digiview_version_cunningly	1
 JJS_CD_NN
 least_1_star	1
 IN_JJS_CD
@@ -1153,9 +1113,6 @@ VB_JJ_VBG
 go_wrong_watching	1
 ``_NN_''
 ``_End_''	1
-NNP_NNP_-RRB-
-Joe_Young_-RRB-	1
-Shemp_Howard_-RRB-	1
 JJ_NNP_NNS
 favorite_A&C_pictures	1
 JJ_NNP_NNP
@@ -1167,12 +1124,13 @@ to_it_.	1
 to_me_!	1
 DT_RB_JJ
 the_generally_mediocre	1
-NNS_WP_VBP
-folks_who_'ve	2
+NN_NN_CC
+boe_peep_and	1
+clide_beaty_or	1
 NN_RB_.
 quality_anyway_.	1
 JJ_NN_DT
-great_<br />_These	1
+giant_orangutan_a	1
 $_CD_DT
 $_20_each	1
 DT_NN_TO
@@ -1184,16 +1142,15 @@ FW_VBZ_DT
 SCREAMS_is_the	1
 VBG_NNS_.
 closing_credits_.	1
-FW_IN_JJ
-<br />_Since_excellent-quality	1
-NN_DT_CD
-<br />_These_2	1
+JJ_NN_WP
+old_woman_who	1
 DT_CD_NNS
 The_two_films	1
 These_2_films	1
 this_0_stars	1
-FW_DT_IN
-<br />_Both_of	1
+VBZ_JJ_.
+is_hysterical_.	1
+is_ok_.	1
 NN_,_JJ
 music_,_magic	1
 shoe_,_little	1
@@ -1267,10 +1224,9 @@ NNP_NNP_CC
 Frank_Buck_and	1
 Home_Video_and	1
 Africa_Screams_and	4
-<p>_Jack_And	1
 Bud_Abbott_&	1
 Joe_Besser_and	1
-<br />_Jack_and	1
+Young_Jack_and	1
 Africa_Screams/Jack_and	1
 NNP_,_WDT
 Universal_,_which	1
@@ -1280,6 +1236,7 @@ NNS_,_PRP
 discs_,_it	1
 NNP_NNP_POS
 Hillary_Brooke_'s	1
+Howard_Shemp_'s	1
 Joe_Besser_'s	1
 VBP_DT_WP
 are_both_what	1
@@ -1294,6 +1251,7 @@ stars_is_all	1
 NN_DT_NN
 transfer_this_bad	1
 DVD_a_waste	1
+orangutan_a_nod	1
 mess_the_fantasy	1
 NNP_VBZ_PRP
 Screams_gives_you	1
@@ -1307,8 +1265,8 @@ DT_NN_VB
 this_transfer_look	1
 VBN_VBG_IN
 been_searching_for	1
-DT_JJ_``
-the_closing-door_``	1
+VB_IN_.
+live_without_.	1
 VBZ_JJ_IN
 is_great_though	1
 PRP$_NN_NNS
@@ -1319,8 +1277,8 @@ VBN_RBR_RB
 fought_more_then	1
 NNS_,_DT
 films_,_the	1
-VBZ_NN_,
-involves_music_,	1
+NN_NNS_NN
+Madacy_titles_check	2
 JJ_NNS_WRB
 digital_restorations_why	1
 NNP_JJ_NN
@@ -1328,10 +1286,6 @@ Stooges_third_stooge	1
 Costello_Double_Feature	1
 CD_NN_:
 one_back_...	1
-VBD_RB_VBN
-were_independently_produced	1
-was_cleverly_written	1
-was_originally_released	1
 DT_NNP_NNP
 this_Roan_Group	1
 The_Roan_Group	1
@@ -1351,14 +1305,16 @@ NN_:_DT
 Beanstalk_..._an	1
 PRP_VBP_RB
 I_have_just	1
-I_'m_seriously	1
 they_are_still	1
 I_'ve_ever	1
+I_'m_seriously	1
 I_have_never	1
+I_believe_So	1
 VBD_IN_JJ
 was_in_excellent	1
 NN_WDT_VBZ
 humor_that_is	1
+B00000IC8F_which_has	1
 ,_PRP$_RB
 ,_Its_not	1
 PRP$_JJS_NNS
@@ -1380,8 +1336,8 @@ Clyde_Beatty_,	1
 Super_Cinecolor_,	1
 WDT_VBZ_JJ
 that_is_watchable	1
-NNS_-RRB-_.
-dates_-RRB-_.	1
+JJR_NNS_IN
+more_transfers_from	1
 DT_NN_,
 a_shoe_,	1
 THE_BEANSTALK_,	3
@@ -1445,7 +1401,6 @@ Africa_Screams_is	2
 Africa_Screams_has	2
 Roan_Group_offers	1
 Africa_Screams_gives	1
-<p>_This_is	1
 The_Beanstalk_is	1
 Home_Video_has	1
 ''_CC_``
@@ -1474,8 +1429,8 @@ in_the_opening	1
 for_the_price	1
 DT_NNS_MD
 these_classics_may	2
-NN_:_NN
-back_..._<p>	1
+JJ_NN_PRP
+third_DVD_I	1
 NNP_NNP_VBP
 The_Beanstalk_are	1
 VB_DT_JJS
@@ -1483,8 +1438,6 @@ expect_the_best	1
 JJ_NN_VBZ
 sound_quality_makes	1
 cheep_DVD_features	1
--RRB-_NNP_NNP
--RRB-_<br />_Jack	1
 POS_NNS_IN
 's_films_on	1
 CC_VBD_IN
@@ -1498,10 +1451,8 @@ NN_NN_VBG
 release_version_running	1
 NN_NN_VBD
 film_history_were	1
-NN_NN_CC
-boe_peep_and	1
-<p>_Sound_and	1
-clide_beaty_or	1
+NNS_WP_VBP
+folks_who_'ve	2
 NN_CC_RB
 Ape_and_Not	1
 NNP_CC_NNP
@@ -1521,11 +1472,8 @@ movies_though_.	1
 kids_too_.	1
 films_together_!	1
 adults_however_.	1
-IN_PRP_IN
-like_it_because	1
-if_you_like	1
--LRB-_CD_SYM
--LRB-_6.99_@	1
+DT_JJ_``
+the_closing-door_``	1
 DT_:_DT
 each_..._the	1
 NNS_NN_NNS
@@ -1563,10 +1511,9 @@ VBZ_RB_JJR
 has_noticeably_sharper	1
 NN_NNP_NNP
 Image_Ent_Laser	1
+stooge_Joe_Besser	1
 PRP$_RB_IN
 Its_not_that	1
--RRB-_NNP_POS
--RRB-_Shemp_'s	1
 CD_NNS_IN
 eight_movies_per	1
 16mm_dupes_of	1
@@ -1579,8 +1526,6 @@ NNP_''_NNS
 Collection_''_volumes	1
 MD_VB_TO
 would_have_to	1
-:_NN_PRP
-..._<p>_I	1
 RB_RB_.
 actually_there_!	1
 so_much_!	1
@@ -1598,8 +1543,6 @@ copies_in_circulation	1
 films_on_DVD	1
 copies_of_JACK	1
 favorites_of_abbot	1
--LRB-_WDT_VBZ
--LRB-_which_has	1
 RB_VBP_RB
 just_do_n't	1
 JJ_DT_JJ
@@ -1609,12 +1552,10 @@ plays_Jack_and	1
 is_BEAUTIFUL_and	1
 RB_VBP_NNP
 always_are_Bud	1
-NNP_NNP_WDT
-Africa_Screams_which	1
+RB_JJ_VBN
+incredibly_clear_taken	1
 VB_IN_JJ
 look_at_other	2
-RB_,_PRP$
-though_,_Its	1
 PRP_VBZ_.
 it_is_.	1
 RB_IN_JJ
@@ -1624,7 +1565,6 @@ and_involves_music	1
 JJ_JJ_NN
 poor_sound_quality	1
 low-cost_low-quality_legacy	2
-certain_great_<br />	1
 minute_pre-view_version	1
 RP_IN_NN
 up_on_EBay	1
@@ -1640,8 +1580,6 @@ TO_VB_DT
 to_pay_the	1
 to_get_both	1
 to_get_a	1
-NN_NN_-LRB-
-ASIN_B00000IC8F_-LRB-	1
 VBG_IN_JJ
 missing_from_other	1
 RP_CC_JJ
@@ -1692,8 +1630,6 @@ DT_NN_WDT
 the_humor_that	1
 PRP$_IN_NN
 its_in_color	1
--LRB-_IN_JJS
--LRB-_In_most	1
 DT_NN_DT
 a_transfer_this	1
 this_DVD_a	1
@@ -1770,8 +1706,6 @@ because_Jack_and	1
 like_Abbott_and	1
 with_Abbot_and	1
 for_Jack_and	1
--RRB-_VBP_DT
--RRB-_have_the	1
 IN_JJ_IN
 that_big_of	1
 CD_RB_JJ
@@ -1787,6 +1721,8 @@ JJ_NN_FW
 double_feature_i	1
 ,_RB_RB
 ,_not_quite	1
+DT_CD_JJ
+the_81_minute	1
 DT_NNS_VBP
 both_editions_seem	1
 the_movies_speak	1
@@ -1796,8 +1732,8 @@ IN_PRP_RB
 If_you_really	1
 JJ_IN_.
 great_though_.	1
-VB_IN_.
-live_without_.	1
+CD_NNS_VBD
+two_films_were	1
 VBZ_DT_NNP
 is_the_Abbott	1
 RB_JJ_DT
@@ -1825,6 +1761,8 @@ NNS_VBP_DT
 titles_get_this	1
 JJ_VBG_DT
 wrong_watching_these	1
+JJ_JJ_DT
+certain_great_These	1
 IN_FW_MD
 if_i_could	1
 PRP_VBP_DT
@@ -1843,7 +1781,6 @@ JJS_NN_.
 best_quality_.	1
 NNP_NNP_RB
 Africa_Screams_here	1
-<p>_This_very	1
 NN_TO_VB
 expense_to_spare	1
 way_to_get	1
@@ -1851,6 +1788,8 @@ BEANSTALK_to_pay	1
 deal_to_get	1
 IN_VBG_NN
 of_varying_quality	1
+SYM_NNP_CC
+@_Wal-Mart_and	1
 DT_NN_VBG
 a_misunderstanding_looking	1
 CC_NN_IN
@@ -1876,8 +1815,6 @@ JJ_IN_PRP$
 good_as_their	1
 VB_VBN_JJ
 have_been_decent	2
-PRP_VBP_-RRB-
-I_believe_-RRB-	1
 RB_MD_VB
 here_would_be	1
 still_would_recommend	1
@@ -1889,8 +1826,9 @@ DT_NNP_NN
 the_Digiview_release	1
 the_Digiview_version	1
 the_Roan_edition	2
-NN_-RRB-_VBP
-Platinum_-RRB-_have	1
+NNP_NN_IN
+Costello_version_of	1
+Roan_edition_of	1
 NNP_VBD_RB
 Beanstalk_was_cleverly	1
 VBP_DT_NNS
@@ -1982,12 +1920,11 @@ is_a_shame	2
 NNP_NNP_IN
 Africa_Screams_on	1
 Laser_Disc_from	1
--LRB-_PRP_VBZ
--LRB-_It_seems	1
 CC_NNP_IN
 and_Costello_like	1
 NNP_CC_VBZ
 BEAUTIFUL_and_has	1
+Wal-Mart_and_looks	1
 ,_RB_VB
 ,_just_look	2
 IN_WRB_RB
@@ -2000,8 +1937,6 @@ NN_NN_POS
 legacy_DVD_'s	2
 WDT_RB_VBD
 which_also_featured	1
--LRB-_WP_MD
--LRB-_Who_could	1
 JJ_NN_CC
 African_Culture_and	1
 funny_picture_and	1
@@ -2024,11 +1959,12 @@ they_acted_.	1
 JJ_NN_NNS
 numerous_DVD_companies	1
 other_DVD_editions	1
-JJ_NN_-LRB-
-third_stooge_-LRB-	1
-giant_orangutan_-LRB-	1
+IN_PRP_IN
+like_it_because	1
+if_you_like	1
 JJ_NN_NNP
 third_generation_VHS	1
+third_stooge_Joe	1
 PRP$_VBD_DT
 its_got_some	1
 NNP_,_''
@@ -2039,6 +1975,8 @@ NN_VBN_IN
 print_used_for	1
 CC_NNP_VBP
 and_Lou_are	1
+VBP_RB_IN
+believe_So_if	1
 DT_NN_POS
 the_team_'s	1
 these_DVD_'s	1
@@ -2089,18 +2027,12 @@ POS_NN_.
 's_brand_.	1
 VB_PRP_TO
 add_it_to	1
--LRB-_VB_PRP$
--LRB-_See_my	1
 PRP$_RB_PRP$
 its_not_their	1
--LRB-_NN_IN
--LRB-_check_out	2
 VBN_WP_MD
 taken_what_could	2
 CC_DT_MD
 but_neither_can	1
-JJ_NNS_WDT
-real_things_that	1
 MD_RB_VB
 can_generally_find	1
 wo_n't_go	1
@@ -2120,9 +2052,10 @@ CD_NNS_,
 0_stars_,	1
 IN_FW_FW
 of_AFRICA_SCREAMS	2
-NN_,_WDT
-disc_,_which	1
-laserdisc_,_which	1
+NN_,_DT
+circulation_,_the	1
+example_,_the	1
+BEANSTALK_,_the	1
 JJ_NN_,
 excellent_shape_,	1
 good_buy_,	1
@@ -2164,8 +2097,8 @@ returning_it_.	1
 IN_NN_VBZ
 from_film_is	2
 if_anyone_knows	1
-JJ_NNS_MD
-video_tapes_would	1
+NN_CD_SYM
+DVD_6.99_@	1
 NN_POS_NNS
 team_'s_films	1
 NNP_NN_.
@@ -2209,8 +2142,6 @@ DT_JJS_NN
 the_worst_transfer	1
 the_best_quality	1
 the_best_DVD	1
-TO_DT_JJ
-to_a_certain	1
 CD_NN_IN
 1_disc_from	1
 IN_VBG_JJ
@@ -2248,8 +2179,6 @@ CC_,_PRP
 And_,_it	1
 JJ_CD_.
 other_one_.	1
-,_RB_VBP
-,_just_do	1
 NN_''_NNS
 domain_''_titles	1
 JJ_NN_:
@@ -2282,15 +2211,10 @@ CD_CC_CD
 8_&_16mm	1
 CC_IN_PRP
 and_if_you	1
-CC_VBZ_DT
-and_is_a	1
-and_has_a	1
-and_has_all	1
-and_contains_a	1
+VBZ_RB_RB
+is_not_as	1
 RB_PRP$_JJS
 not_their_best	1
-JJ_NN_WP
-old_woman_who	1
 DT_JJ_JJ
 a_certain_great	1
 ,_CC_DT
@@ -2306,9 +2230,6 @@ contrast_and_poor	1
 CD_NN_NN
 2_dvd_combo	1
 19.98_list_price	1
-VBZ_JJ_.
-is_hysterical_.	1
-is_ok_.	1
 NNS_VBP_IN
 movies_speak_for	1
 sequences_are_in	1
@@ -2318,23 +2239,26 @@ IN_WRB_DT
 of_how_the	1
 VBG_JJ_JJ
 producing_low-cost_low-quality	2
--LRB-_NNP_NNP
--LRB-_Goodtimes_Home	1
--LRB-_Joe_Besser	1
+VBD_RB_VBN
+were_independently_produced	1
+was_cleverly_written	1
+was_originally_released	1
 ``_NNP_NNP
 ``_Franchise_Collection	1
 ``_Super_Cinecolor	1
 ``_Africa_Screams	1
 VBZ_JJ_JJ
 has_many_funny	1
+JJ_NNS_MD
+video_tapes_would	1
 RP_,_PRP
 up_,_they	1
 ,_JJ_NNS
 ,_magic_harps	1
 ,_JJ_NNP
 ,_deft_Saint	1
-NN_NNS_-LRB-
-Madacy_titles_-LRB-	2
+TO_DT_JJ
+to_a_certain	1
 FW_MD_VB
 i_could_give	2
 VBD_NN_CC
@@ -2365,11 +2289,12 @@ africa_kinda_has	1
 NNS_WDT_MD
 things_that_would	1
 titles_that_can	1
-VBP_IN_NNP
-are_outside_Hillary	1
-have_from_MADACY	1
+VBP_JJR_IN
+are_worse_than	1
 IN_PRP$_VBD
 because_its_got	1
+NN_TO_NN
+B&W_to_blue	1
 CD_TO_VB
 one_to_get	1
 NN_NN_IN
@@ -2384,12 +2309,12 @@ DT_NN_JJS
 a_title_most	1
 ,_NNP_NNP
 ,_Frank_Buck	1
+IN_NN_CD
+on_DVD_6.99	1
 NNS_IN_JJ
 lots_of_great	1
 movies_per_two-disc	1
 copies_of_AFRICA	1
-IN_IN_DT
-Although_as_a	1
 NN_IN_NN
 waste_of_money	2
 jack_in_bean	1
@@ -2419,6 +2344,8 @@ in_the_Beanstalk	1
 from_the_Roan	2
 although_the_Digiview	1
 for_the_Digiview	1
+JJ_DT_CD
+great_These_2	1
 IN_DT_NNS
 of_these_films	2
 as_some_others	1
@@ -2436,8 +2363,6 @@ PRP_VBZ_JJR
 it_looks_cheaper	1
 NNP_VBZ_VBN
 Madacy_has_done	2
-CC_NN_-RRB-
-and_Platinum_-RRB-	1
 JJ_NNP_NNPS
 original_Warner_Brothers	2
 DT_JJ_NNP
@@ -2467,16 +2392,20 @@ outside_Hillary_Brooke	1
 for_Africa_Screams	1
 as_Africa_Screams	1
 of_Africa_Screams/Jack	1
+NN_:_PRP
+back_..._I	1
 NNP_IN_DT
 Disc_from_the	1
 Jack_in_the	1
+NN_,_WDT
+disc_,_which	1
+laserdisc_,_which	1
 ''_NNS_IN
 ''_volumes_from	1
 ,_DT_VBZ
 ,_this_is	1
-FW_FW_DT
-<br />_<br />_Both	1
-<br />_<br />_That	1
+IN_IN_DT
+Although_as_a	1
 NN_CC_VBG
 fun_and_acting	1
 CC_DT_JJS
@@ -2503,8 +2432,9 @@ NN_CC_VBZ
 Culture_and_mixes	1
 NN_NNS_.
 opening_credits_.	1
-DVD_editions_.	1
+release_dates_.	1
 scene_changes_.	1
+DVD_editions_.	1
 CD_NNS_VBZ
 50_minutes_is	1
 30_minutes_is	1
@@ -2548,8 +2478,6 @@ if_you_want	1
 If_you_'re	1
 VBZ_CC_VBZ
 shifts_and_bleeds	1
-WDT_VBP_RB
-that_shine_here	1
 NNS_RB_RB
 films_so_much	1
 CC_DT_VBZ
@@ -2563,8 +2491,6 @@ inexcusably_bad_copies	1
 generally_mediocre_copies	1
 PRP_RB_MD
 I_still_would	1
-JJ_,_JJR
-other_,_cheaper	1
 NN_TO_PRP
 tint_to_it	1
 deal_to_me	1
@@ -2588,13 +2514,10 @@ due_to_a	1
 Entertaining_to_a	1
 IN_PRP_CC
 for_me_but	1
-NN_._-RRB-
-release_._-RRB-	1
-classic_._-RRB-	1
 WP_DT_NN
 what_a_mess	1
-NN_-LRB-_CD
-DVD_-LRB-_6.99	1
+,_RB_VBP
+,_just_do	1
 VBZ_RB_DT
 is_definitly_a	1
 is_not_the	1
@@ -2610,6 +2533,8 @@ and_Joe_Besser	1
 and_The_Beanstalk	1
 LS_IN_PRP
 i_like_it	1
+JJ_CD_NNS
+first_30_minutes	1
 CC_NNP_NNS
 and_Costello_movies	1
 and_Costello_films	1
@@ -2643,8 +2568,8 @@ RB_PRP_VBD
 then_they_acted	1
 CD_:_DT
 1952_:_the	1
-NN_-LRB-_DT
-orangutan_-LRB-_a	1
+WDT_VBP_RB
+that_shine_here	1
 RB_PRP_VBZ
 Basically_it_'s	1
 here_it_is	1
@@ -2672,5 +2597,3 @@ VBD_DT_JJ
 got_some_real	1
 TO_VB_JJ
 To_be_honest	1
-JJ_-LRB-_VBN
-clear_-LRB-_taken	1

@@ -35,6 +35,8 @@ and_visual	1
 and_talented	1
 and_interesting	1
 and_disorganized	1
+VBN_VBZ
+composed_is	1
 VBN_VBP
 interviewed_are	1
 RB_TO
@@ -51,6 +53,8 @@ of_``	2
 VBP_CD
 see_32	1
 are_two	1
+LS_PRP
+2_It	1
 VBP_CC
 fail_and	1
 VBN_.
@@ -84,12 +88,9 @@ WP_VBZ
 Who_knows	1
 who_is	1
 who_loves	1
--RRB-_,
--RRB-_,	1
-._-RRB-
-!_-RRB-	1
 NNP_CC
 Gould_and	2
+Gould_but	1
 DT_PRP
 this_it	1
 RP_VBG
@@ -97,8 +98,6 @@ up_learning	1
 up_wanting	1
 :_JJS
 --_most	1
-''_-LRB-
-''_-LRB-	1
 IN_PRP$
 from_his	1
 as_his	1
@@ -155,6 +154,7 @@ was_never	2
 was_not	2
 was_truly	1
 NN_DT
+Syndrome_a	1
 cover_every	1
 WDT_RB
 that_steadily	1
@@ -172,12 +172,8 @@ VBP_JJ
 'm_tired	1
 have_quirky	1
 know_much	1
-:_-LRB-
-:_-LRB-	1
 VB_NNS
 watch_DUNGEONS	1
--LRB-_RB
--LRB-_perhaps	1
 NNS_NNP
 stars_Amazon	1
 JJS_JJ
@@ -190,9 +186,11 @@ VBP_TO
 listen_to	1
 RB_``
 never_``	1
-LS_-RRB-
-1_-RRB-	1
-2_-RRB-	1
+PRP$_NNS
+his_relationships	1
+his_mannerisms	1
+his_obsessions	1
+my_students	3
 PRP$_NNP
 our_VHS	1
 his_French	1
@@ -238,12 +236,13 @@ CD_VBP
 two_are	1
 NNS_JJ
 mosts_famous	1
+Variations_unique	1
 RP_CC
 out_and	1
 up_and	1
--LRB-_DT
--LRB-_the	1
--LRB-_a	1
+NNP_''
+Vincent_''	1
+Suites_''	1
 DT_NNS
 all_boundaries	1
 these_people	1
@@ -327,8 +326,6 @@ interludes_and	1
 ideas_and	1
 colleagues_and	1
 years_but	1
-VBN_-RRB-
-composed_-RRB-	1
 NNS_CD
 students_five	1
 ,_VB
@@ -347,6 +344,7 @@ NN_CC
 love_or	1
 loneliness_and	1
 pianist_and	1
+man_but	1
 awe_and	1
 man_and	3
 passion_and	1
@@ -362,8 +360,8 @@ DVD_and	1
 wit_and	1
 move_or	1
 mood_and	1
-NN_CD
-<p>_Thirty	1
+WDT_PRP
+Which_I	1
 ''_VBP
 ''_are	1
 DT_JJR
@@ -372,6 +370,8 @@ JJR_DT
 less_a	1
 WP_JJ
 what_biographical	1
+NN_JJ
+piano_such	1
 NNP_NNS
 GOULD_variations	1
 Goldberg_Variations	2
@@ -382,7 +382,6 @@ Colm_Feore	4
 Mr._Menhuin	1
 Sir_Yehudi	1
 Yehudi_Menhuin	1
-<p>_Gould	1
 French_Suites	1
 ORANGE_COUNTY	1
 Yehudi_Menuhin	1
@@ -393,6 +392,7 @@ Glenn_Gould	11
 --_now	1
 --_even	1
 :_rather	1
+:_perhaps	1
 ..._just	1
 VBP_RBR
 think_more	1
@@ -458,12 +458,6 @@ VBZ_WRB
 is_why	1
 VB_WP
 think_what	1
-NNS_-LRB-
-players_-LRB-	1
-sections_-LRB-	1
-Variations_-LRB-	1
-WDT_PRP
-Which_I	1
 RB_,
 Otherwise_,	1
 here_,	1
@@ -475,8 +469,6 @@ directly_.	1
 together_.	1
 VBD_CC
 created_and	1
-NNP_-RRB-
-Gould_-RRB-	1
 NNPS_CC
 Canadians_and	1
 CC_RB
@@ -682,8 +674,6 @@ him_--	1
 IN_.
 with_!	1
 by_.	1
-FW_FW
-<br />_<br />	4
 ``_DT
 ``_The	1
 ``_This	1
@@ -809,8 +799,6 @@ in_more	1
 IN_JJS
 of_most	1
 Unlike_most	1
--RRB-_.
--RRB-_.	2
 :_DT
 ;_some	1
 ;_an	2
@@ -954,12 +942,11 @@ it_'s	1
 NN_IN
 point_in	1
 venture_in	1
-interview_at	1
+idea_of	1
 quote_by	1
 biography_of	2
-collection_of	1
 vampire_of	1
-idea_of	1
+travesty_of	1
 criticism_of	1
 character_of	1
 copy_of	1
@@ -971,15 +958,14 @@ story_from	1
 dictum_that	1
 language_in	1
 movie_without	1
-<br />_At	1
+collection_of	1
 pang_of	1
-travesty_of	1
 man_in	1
 statement_of	1
 recording_of	1
 film_like	1
 video_over	1
-<p>_As	1
+interview_at	1
 fact_before	1
 disorder_with	1
 life_in	1
@@ -995,7 +981,6 @@ view_of	1
 review_in	1
 number_of	1
 journey_with	1
-<p>_If	1
 documentary_of	1
 variety_of	1
 engagement_with	1
@@ -1113,9 +1098,7 @@ find_it	1
 hate_him	1
 give_it	1
 drop_me	1
-<p>_I	1
 find_him	1
-<br />_I	1
 replace_it	1
 RB_VBP
 still_own	1
@@ -1174,13 +1157,13 @@ thoroughly_enjoyed	1
 actually_knew	1
 already_had	1
 selflessly_gave	1
-FW_IN
-<br />_As	1
 VBD_NN
 gave_rise	1
 VBZ_TO
 purports_to	1
 seems_to	1
+NNPS_DT
+Variations_each	1
 POS_NNP
 's_Goldberg	1
 ,_IN
@@ -1365,19 +1348,18 @@ telling_its	1
 ,_using	1
 ,_employing	1
 ,_trying	1
--RRB-_VBZ
--RRB-_is	1
 NNS_.
 chapters_.	1
 days_.	1
 variations_.	1
 moments_.	1
 biopics_!	1
-years_.	1
+years_.	2
 devices_.	1
 films_.	1
 documentaries_.	1
 mannerisms_.	1
+names_.	1
 Thanks_!	1
 classmates_.	1
 NNS_,
@@ -1395,9 +1377,6 @@ ways_,	1
 interviews_,	1
 ,_VBP
 ,_please	1
--RRB-_DT
--RRB-_The	1
--RRB-_each	1
 NNS_:
 friends_;	1
 charms_:	1
@@ -1442,8 +1421,6 @@ One_of	1
 one_by	1
 ''_CC
 ''_and	1
--RRB-_CC
--RRB-_but	2
 VBG_PRP
 watching_it	1
 avoiding_him	1
@@ -1455,7 +1432,6 @@ a_very	3
 NN_PRP
 film_itself	1
 film_you	1
-<p>_I	1
 man_he	1
 way_he	1
 moment_she	1
@@ -1511,8 +1487,8 @@ when_words	1
 ,_The	1
 NNP_NNPS
 Goldberg_Variations	2
-FW_PRP$
-<br />_My	1
+NNS_DT
+sections_the	1
 VBZ_NN
 Does_anybody	1
 demands_attention	1
@@ -1546,9 +1522,6 @@ is_obviously	1
 is_tastefully	1
 has_never	1
 is_sonically	1
-NNS_-RRB-
-years_-RRB-	1
-names_-RRB-	1
 VBD_TO
 dared_to	1
 led_to	1
@@ -1571,6 +1544,8 @@ player_:	1
 structure_:	1
 ._''
 ._''	2
+LS_DT
+1_The	1
 NN_,
 theme_,	1
 accuracy_,	1
@@ -1594,6 +1569,7 @@ struggle_,	1
 person_,	1
 twist_,	1
 intensity_,	1
+autism_,	1
 year_,	1
 film_,	2
 narrative_,	1
@@ -1659,10 +1635,6 @@ captured_the	1
 enriched_the	1
 loved_this	1
 read_a	1
-NN_-LRB-
-piano_-LRB-	1
-<p>_-LRB-	1
-Syndrome_-LRB-	1
 ''_VBZ
 ''_proclaims	1
 ''_NN
@@ -1762,11 +1734,8 @@ Gould_in	1
 Germany_that	1
 FW_,
 ie_,	1
-PRP$_NNS
-his_relationships	1
-his_mannerisms	1
-his_obsessions	1
-my_students	3
+,_TO
+,_to	1
 FW_.
 etc._.	1
 IN_VBG
@@ -1776,14 +1745,6 @@ of_being	1
 in_learning	1
 IN_VBD
 as_were	1
-POS_NN
-'s_work	2
-'s_piano	1
-'s_sleep	1
-'s_Syndrome	1
-'s_dislike	1
-'s_passion	1
-'s_life	4
 ,_PRP
 ,_it	5
 ,_I	1
@@ -1792,8 +1753,6 @@ VBG_RBR
 learning_more	1
 RB_NNP
 not_Gould	1
--RRB-_PRP
--RRB-_It	1
 VBG_.
 playing_.	1
 IN_VBP
@@ -1813,9 +1772,14 @@ JJ_CD
 mere_five	1
 CD_.
 Two_.	1
-NN_-RRB-
-man_-RRB-	1
-autism_-RRB-	1
+POS_NN
+'s_work	2
+'s_piano	1
+'s_sleep	1
+'s_Syndrome	1
+'s_dislike	1
+'s_passion	1
+'s_life	4
 TO_NN
 to_stress	1
 to_autism	1
@@ -1874,8 +1838,6 @@ the_32	2
 a_million	1
 DT_CC
 this_and	1
-NNPS_-RRB-
-Variations_-RRB-	1
 RP_DT
 up_the	1
 VBP_RB
@@ -1911,8 +1873,6 @@ NNP_:
 Gould_:	1
 PRP_DT
 me_an	1
-,_TO
-,_to	1
 VBZ_.
 makes_.	1
 does_?	1
@@ -1929,9 +1889,6 @@ recordings_to	1
 gifts_to	1
 similarities_to	1
 forces_to	1
--LRB-_JJ
--LRB-_unique	1
--LRB-_such	1
 JJ_JJ
 amazing_technical	1
 thirty-two_short	1
@@ -1990,8 +1947,6 @@ students_became	1
 ``_after	1
 PRP_NNP
 it_Colm	1
--LRB-_PRP
--LRB-_I	1
 NNS_VBN
 people_interviewed	1
 ``_PRP
@@ -2054,6 +2009,7 @@ canals_than	1
 films_with	1
 images_in	1
 clips_of	1
+players_of	1
 obsessions_with	1
 works_of	1
 lives_of	1
@@ -2121,9 +2077,6 @@ Glenn_was	1
 Gould_suffered	1
 WP_NNP
 whom_Gould	1
--LRB-_IN
--LRB-_of	1
--LRB-_If	1
 NNP_POS
 Bach_'s	1
 Gould_'s	11
@@ -2152,6 +2105,7 @@ eccentric_in	1
 cold_by	1
 ''_PRP
 ''_him	1
+''_I	1
 NNS_NN
 Menhuins_relationship	1
 NN_RP
@@ -2177,9 +2131,6 @@ uses_Gould	1
 speaks_French	1
 is_Gould	1
 evokes_Germany	1
-FW_NNP
-<br />_Glenn	1
-<br />_Now	1
 VBP_NN
 love_music	1
 VB_CD
@@ -2216,9 +2167,6 @@ VBZ_IN
 is_from	1
 opts_for	1
 is_like	2
-NNP_''
-Vincent_''	1
-Suites_''	1
 DT_TO
 both_to	1
 this_to	2

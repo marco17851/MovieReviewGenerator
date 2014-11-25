@@ -36,15 +36,19 @@ movie_there	1
 ,_NN
 ,_love	1
 ,_everyone	1
-FW_DT
-<br />_This	2
-<br />_A	1
+DT_RB
+the_very	1
+a_little	1
+A_very	1
+a_wonderfully	1
+a_very	2
 NNP_IN
 Christmas_in	1
+SAFE_FOR	1
+WWII_in	1
 FEMALE_IN	1
 December_on	1
 Peace_on	1
-SAFE_FOR	1
 DT_NNS
 a_women	1
 these_reviews	1
@@ -57,8 +61,8 @@ The_actors	1
 VBG_CC
 acting_&	1
 captivating_and	1
-NNS_-LRB-
-reviews_-LRB-	1
+PRP$_IN
+Its_about	1
 CC_JJ
 and_believeable	1
 either_meaningless	1
@@ -96,8 +100,7 @@ when_a	1
 When_a	1
 RB_TO
 prior_to	1
--RRB-_IN
--RRB-_in	1
+enough_to	1
 IN_VBG
 outside_talking	1
 of_getting	1
@@ -146,9 +149,6 @@ woman_to	1
 addition_to	2
 VBP_CC
 seem_either	1
--LRB-_NNP
--LRB-_WWII	1
--LRB-_Linda	1
 PRP_IN
 it_on	1
 it_so	1
@@ -181,13 +181,11 @@ VB_JJR
 get_more	1
 TO_,
 to_,	1
-VB_-RRB-
-mine_-RRB-	1
 WP_DT
 What_an	1
 what_the	1
-PRP$_IN
-Its_about	1
+CD_,
+TWO_,	1
 IN_CC
 outside_and	1
 from_both	1
@@ -212,6 +210,8 @@ VB_VBN
 be_expressed	1
 be_enjoyed	1
 have_given	1
+FW_DT
+</a>_This	1
 IN_PRP
 in_them	1
 if_it	1
@@ -239,8 +239,6 @@ comments_that	1
 CD_NN
 one_reexamen	1
 One_scene	1
-VBD_PRP$
-wanted_my	1
 PRP$_RB
 its_very	1
 POS_NN
@@ -412,8 +410,6 @@ With_German	1
 with_excellent	1
 DT_RBS
 a_most	1
--RRB-_.
--RRB-_.	2
 NNS_MD
 THIS_WILL	1
 enemies_can	2
@@ -425,8 +421,9 @@ VBP_NN
 are_history	1
 PDT_DT
 all_the	1
-NNS_VBN
-buddies_lost	1
+NN_VBG
+spectrum_playing	1
+son_aiding	1
 RB_IN
 well_as	1
 along_in	1
@@ -470,7 +467,6 @@ soon_disappear	1
 n't_see	1
 not_get	1
 Well_let	1
-<br />_Remember	1
 n't_take	1
 n't_get	1
 n't_listen	1
@@ -514,6 +510,7 @@ one_German	1
 NNP_.
 Bulge_.	1
 Christmas_.	1
+Amazon_.	1
 Soldier_.	1
 II_.	2
 Eve_.	1
@@ -525,12 +522,12 @@ NN_WRB
 reexamen_how	1
 DT_PRP$
 all_our	1
-FW_FW
-<br />_<br />	7
-</a>_<br />	1
-<br />_Barb	1
-FW_NN
-<br />_A	1
+IN_IN
+For_at	1
+out_of	1
+along_with	2
+because_of	1
+because_since	1
 PRP$_NN
 their_way	1
 her_mom	1
@@ -569,8 +566,6 @@ live_in	1
 get_out	1
 CD_WDT
 one_which	1
-PRP_PDT
-it_all	1
 JJ_PRP
 fortunate_we	1
 short_you	1
@@ -608,10 +603,9 @@ movie_all	1
 movie_every	1
 dinner_no	1
 TV_a	1
+peace_This	1
 ,_VBG
 ,_singing	1
--RRB-_VBZ
--RRB-_flees	1
 VBN_IN
 enjoyed_during	1
 packaged_as	1
@@ -626,6 +620,7 @@ Some_may	1
 This_could	1
 A_must	1
 NNS_.
+soldiers_.	1
 buffs_.	1
 gifts_.	1
 friends_.	2
@@ -639,16 +634,13 @@ hours_,	1
 gifts_,	1
 WDT_RB
 that_soon	1
--RRB-_DT
--RRB-_This	1
 TO_DT
 to_any	1
 to_each	1
 to_the	3
 to_a	3
--LRB-_VB
--LRB-_Pray	1
--LRB-_Thank	1
+NN_CD
+WAR_TWO	1
 CC_NNPS
 and_Germans	1
 VBD_NNP
@@ -672,8 +664,6 @@ Thanks_to	1
 classics_to	1
 NNPS_VBG
 Germans_invading	1
-NN_-RRB-
-peace_-RRB-	1
 VBN_NN
 produced_film	1
 JJ_NNS
@@ -724,8 +714,6 @@ see_movie	1
 keep_peace	2
 see_film	1
 restore_faith	1
--LRB-_RB
--LRB-_prior	1
 NN_NNS
 exchange_gifts	1
 history_buffs	1
@@ -745,6 +733,9 @@ it_does	1
 It_'s	1
 NNPS_VBP
 Americans_find	1
+NN_NNP
+mother_Linda	1
+war_WWII	1
 RB_VBN
 well_done	1
 not_watched	1
@@ -752,12 +743,8 @@ superbly_produced	1
 easily_been	1
 Highly_recommended	1
 always_admired	1
-IN_IN
-For_at	1
-out_of	1
-along_with	2
-because_of	1
-because_since	1
+PRP_PDT
+it_all	1
 VBP_TO
 are_to	1
 have_to	1
@@ -842,12 +829,6 @@ IN_CD
 under_13	1
 RB_VBG
 not_giving	1
-DT_RB
-the_very	1
-a_little	1
-A_very	1
-a_wonderfully	1
-a_very	2
 NNS_PRP
 stars_I	1
 times_you	1
@@ -857,10 +838,8 @@ I_would	2
 I_may	1
 I_could	2
 it_should	1
-NNP_-RRB-
-WWII_-RRB-	1
-Hamilton_-RRB-	1
-Amazon_-RRB-	1
+VBD_PRP$
+wanted_my	1
 WRB_NNS
 how_enemies	1
 When_Nazis	1
@@ -899,7 +878,6 @@ for_.	1
 JJ_TO
 inspiring_to	1
 able_to	2
-<br />_to	1
 surprised_to	1
 NNS_VBD
 people_said	1
@@ -907,8 +885,6 @@ scenes_were	1
 actors_were	1
 IN_NNPS
 of_Americans	1
-VBN_NNP
-admired_Linda	1
 EX_VBZ
 there_is	3
 There_is	1
@@ -930,20 +906,16 @@ enjoy_a	1
 have_no	1
 know_this	1
 have_a	1
-FW_NNP
-<br />_Trudy	1
-NNS_-RRB-
-soldiers_-RRB-	1
 NN_NN
 freezing_cold	1
 christmas_day	1
 length_film	1
+meal_food	1
 OUR_TIME	1
 DVD_collection	1
 holiday_DVD	1
 winter_cabin	1
 christmas_time	1
-war_<br />	1
 WORLD_WAR	1
 FAMILY_VIEWING	1
 wound_scene	1
@@ -955,15 +927,15 @@ holiday_spirit	1
 music_CD	1
 VBG_PRP
 watching_them	1
-NNP_VBZ
-HAMILTON_IS	1
-This_is	1
+CC_VB
+and_begin	1
 WRB_CD
 where_one	1
 VBP_VBG
 are_reading	1
 NNS_RB
 friends_long	1
+reviews_prior	1
 weapons_outside	1
 years_ago	1
 IN_NNS
@@ -1084,8 +1056,6 @@ getting_along	1
 PRP_DT
 we_all	1
 it_this	1
-CC_VB
-and_begin	1
 NN_,
 hype_,	1
 guard_,	1
@@ -1140,9 +1110,6 @@ time_.	3
 family_.	1
 VBZ_VBG
 is_captivating	1
-NNP_JJ
-Christmas_Special	1
-NOT_YOUR	1
 ''_NN
 ''_character	1
 NN_IN
@@ -1192,8 +1159,6 @@ forest_during	1
 comment_on	1
 shame_that	1
 group_of	2
-CD_,
-TWO_,	1
 VBN_DT
 been_a	1
 earned_a	1
@@ -1240,17 +1205,15 @@ decency_and	1
 rifle_and	1
 safety_and	1
 mother_and	1
-anyone_&	1
 misstake_but	1
+anyone_&	1
 WW11_&	1
-<br />_and	1
 TV_and	2
+war_and	1
 television_and	1
 kindness_and	1
-NN_-LRB-
-meal_-LRB-	1
-mother_-LRB-	1
-war_-LRB-	1
+NNS_VBN
+buddies_lost	1
 VB_JJ
 be_able	2
 be_wrong	1
@@ -1276,9 +1239,10 @@ to_keep	2
 to_live	1
 to_get	1
 to_make	1
-NN_VBG
-spectrum_playing	1
-son_aiding	1
+NNP_VBZ
+Hamilton_flees	1
+HAMILTON_IS	1
+This_is	1
 NN_VBD
 movie_arrived	1
 movie_was	1
@@ -1374,8 +1338,6 @@ EX_VBP
 there_are	3
 IN_EX
 as_there	1
-NN_CD
-WAR_TWO	1
 NN_JJ
 film_short	1
 movie_such	1
@@ -1416,7 +1378,6 @@ World_War	2
 <a href="http://www.amazon.com/gp/product/B0010VXL1S">_Silent	1
 TOO.LINDA_HAMILTON	1
 CHRISTMAS_MOVIE	1
-<br />_Now	1
 Christmas_Soldier	1
 War_II	2
 Christmas_Eve	1
@@ -1441,7 +1402,6 @@ very_good	2
 very_sad	1
 very_strong	1
 very_worthwhile	1
-enough_<br />	1
 very_positive	1
 CC_VBP
 but_are	1
@@ -1452,6 +1412,7 @@ VB_PRP
 put_you	1
 like_it	1
 find_it	1
+mine_you	1
 let_'s	1
 catch_it	1
 purchase_it	2
@@ -1508,8 +1469,8 @@ first_viewed	1
 just_had	1
 also_contained	1
 first_saw	1
-FW_IN
-<br />_If	1
+VBN_NNP
+admired_Linda	1
 RP_IN
 up_of	1
 up_with	1
@@ -1527,8 +1488,6 @@ VB_RB
 enjoy_together	1
 have_easily	1
 listen_closely	1
--LRB-_NN
--LRB-_food	1
 ,_NNP
 ,_WELL	1
 ,_SAFE	1
@@ -1555,8 +1514,9 @@ take_away	1
 come_out	1
 DT_TO
 this_to	2
--RRB-_PRP
--RRB-_you	1
+NNP_JJ
+Christmas_Special	1
+NOT_YOUR	1
 VBZ_TO
 tries_to	1
 fights_to	1

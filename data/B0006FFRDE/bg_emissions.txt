@@ -8,8 +8,6 @@ that_amazon	1
 ,_if	1
 NNP_WDT
 Niro_which	1
-FW_DT
-<br />_This	1
 NNP_IN
 NOT_like	1
 MD_RB
@@ -18,7 +16,6 @@ VB_DT
 love_this	1
 FW_FW
 THen_YOu	1
-<br />_<br />	4
 shell/mamoru_oshi	1
 VBZ_JJ
 is_wrong	1
@@ -88,18 +85,19 @@ RB_VB
 n't_waste	1
 not_be	1
 well_be	1
+PRP_VB
+we_show	1
+NNP_.
+Fun_.	1
+XXX_.	1
 NN_,
 series_,	1
 stuff_,	1
 money_,	1
 HOwever_,	1
-NNP_.
-Fun_.	1
-XXX_.	1
 IN_IN
 in_that	1
 FW_NN
-<br />_HOwever	1
 oshi_stuff	1
 PRP$_NN
 your_money	1
@@ -151,8 +149,6 @@ VB_NN
 Please_note	1
 NN_NNS
 action_sequences	1
-FW_VB
-<br />_Please	1
 FW_MD
 YOu_would	1
 DT_RB
@@ -255,12 +251,8 @@ RB_PRP
 then_it	1
 VBN_NNP
 rated_XXX	1
-FW_RB
-<br />_Not	1
 VBN_TO
 used_to	1
-PRP_VB
-we_show	1
 CC_NNP
 or_Najica	1
 VBG_NNS

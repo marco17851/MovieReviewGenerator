@@ -50,11 +50,6 @@ secretary_to	1
 attempt_to	1
 DT_IN
 all_of	1
--LRB-_NNP
--LRB-_Gale	1
--LRB-_Lucille	1
--LRB-_Frankie	1
--LRB-_Vivian	1
 PRP_IN
 IT_FOR	1
 him_in	1
@@ -192,6 +187,7 @@ she_does	1
 VBD_TO
 traveled_to	1
 NNP_CC
+Ball_and	1
 Goulet_and	1
 Lucy_and	4
 IN_,
@@ -209,8 +205,6 @@ feigns_illness	1
 DT_CD
 these_four	1
 this_10	1
-FW_``
-<br />_``	10
 CC_PRP
 and_they	1
 but_she	1
@@ -239,10 +233,14 @@ in_black	1
 CD_JJ
 10_great	1
 NNP_.
-York_.	1
-SHOW_.	1
+Bergerac_.	1
 Lucy_.	1
 Street_.	1
+Lee_.	1
+SHOW_.	1
+York_.	1
+Gordon_.	1
+Burnett_.	1
 CC_VBZ
 and_joins	1
 and_enters	1
@@ -268,8 +266,6 @@ wait_for	1
 be_of	1
 VBG_NN
 taking_mine	1
-FW_NNP
-<br />_Pretty	1
 JJ_PRP
 glad_I	1
 JJ_,
@@ -288,8 +284,6 @@ DVD_a	1
 ,_Being	1
 VBN_IN
 set_for	1
--RRB-_VBZ
--RRB-_has	1
 NNS_.
 BUCKS_.	1
 entrants_.	1
@@ -301,8 +295,6 @@ seasons_,	1
 fans_,	1
 WDT_RB
 that_rarely	1
--RRB-_VBG
--RRB-_raising	1
 TO_DT
 to_the	1
 NN_CD
@@ -318,13 +310,6 @@ VBP_JJ
 'm_glad	1
 RP_PRP$
 off_her	1
-NNP_-LRB-
-Mooney_-LRB-	1
-Bagley_-LRB-	1
-Bradford_-LRB-	1
-Carmichael_-LRB-	1
--LRB-_JJ
--LRB-_guest	1
 JJ_NNS
 classic_commercials	1
 good_episodes	1
@@ -358,9 +343,10 @@ notices_Mr	1
 widows_Lucy	1
 NN_NNP
 librarian_Carol	1
-banker_Mr	1
 star_Hans	1
+banker_Mr	1
 star_Jacques	1
+nephew_Frankie	1
 star_Carol	1
 star_Ruta	1
 VBD_JJ
@@ -378,8 +364,6 @@ NN_PRP
 fan_I	1
 VB_PRP$
 launch_his	1
-WRB_NNP
-when_Lucy	1
 NN_''
 Roommate_''	1
 Quartet_''	1
@@ -404,6 +388,8 @@ Extras_include	1
 episodes_are	1
 VBP_VBZ
 see_is	1
+NNP_MD
+Conreid_can	1
 IN_CD
 for_five	1
 FOR_FIVE	1
@@ -412,15 +398,8 @@ boys_'	1
 PRP_MD
 I_'d	1
 I_can	1
-NNP_-RRB-
-Avalon_-RRB-	1
-Lee_-RRB-	1
-Burnett_-RRB-	1
-Ball_-RRB-	1
-Vance_-RRB-	1
-Conreid_-RRB-	1
-Gordon_-RRB-	1
-Bergerac_-RRB-	1
+WRB_NNP
+when_Lucy	1
 IN_CC
 on_and	1
 VBP_VBN
@@ -436,6 +415,7 @@ Lucy_feigns	1
 Lucy_Gets	1
 Lucy_wants	1
 Entertainment_comprises	1
+Avalon_has	1
 Lucy_joins	1
 VB_VBZ
 say_is	1
@@ -469,21 +449,22 @@ DVD_package	1
 edition_DVD	1
 episode_DVD	1
 golfing_tournament	1
-bank_robber	1
+client_guest	1
 guest_star	3
+coach_guest	1
 singing_voice	1
 voice_coach	1
 celebrity_client	2
 DVD_set	1
+bank_robber	1
 tournament_engagement	1
 barbershop_group	1
 entertainment_career	1
+replacement_guest	1
 shower_episode	1
 film_copy	1
 bargain_bin	1
 Movie_Star	1
-FW_FW
-<br />_<br />	11
 ,_WDT
 ,_which	1
 DT_NNS
@@ -551,6 +532,7 @@ brought_it	1
 snatched_it	1
 NNP_JJ
 Pretty_good	1
+Bradford_guest	1
 NN_,
 flatmate_,	1
 color_,	1
@@ -615,11 +597,6 @@ voice_and	1
 quiz_and	1
 illness_and	1
 vacation_and	1
-NN_-LRB-
-replacement_-LRB-	1
-client_-LRB-	1
-coach_-LRB-	1
-nephew_-LRB-	1
 VB_JJ
 be_good	1
 make_much	1
@@ -631,10 +608,6 @@ to_be	2
 to_install	1
 to_save	1
 to_join	1
--RRB-_.
--RRB-_.	4
--RRB-_MD
--RRB-_can	1
 NN_VBD
 series_changed	1
 set_was	1
@@ -648,6 +621,7 @@ couple_places	1
 POS_.
 '_.	1
 NNP_VBG
+Vance_raising	1
 Arnaz_playing	1
 RB_RB
 Not_as	1
@@ -680,8 +654,6 @@ DT_.
 this_.	1
 NNS_NN
 trivia_quiz	1
--RRB-_CC
--RRB-_and	1
 VBZ_DT
 has_a	1
 's_a	1
@@ -716,8 +688,11 @@ Lucille_Ball	1
 Palm_Springs	1
 Main_Street	2
 Lucy_Carmichael	1
+Bagley_Vivian	1
 Lucie_Arnaz	1
 Sheldon_Leonard	1
+Carmichael_Lucille	1
+Mooney_Gale	1
 Love_Lucy	1
 Madacy_Entertainment	1
 Frankie_Avalon	1
@@ -782,8 +757,6 @@ enters_him	1
 receives_it	1
 VBN_TO
 supposed_to	1
--LRB-_NN
--LRB-_guest	3
 ,_NNP
 ,_Lucy	3
 CC_NNP

@@ -16,8 +16,6 @@ POS_NNS
 VBG_VBN
 being_delighted	1
 getting_used	1
-FW_DT
-<br />_The	1
 DT_NNS
 the_climaxes	1
 the_performances	1
@@ -76,6 +74,8 @@ is_one	1
 ''_,	2
 ,_NN
 ,_everything	1
+:_NNP
+:_Haydn	1
 TO_NN
 to_earth	1
 to_instrument	1
@@ -156,8 +156,6 @@ are_not	1
 ``_The	1
 PRP_.
 them_.	1
-FW_WP
-<br />_What	1
 CC_VBP
 and_want	1
 and_are	1
@@ -179,10 +177,8 @@ three_famous	1
 NNP_.
 Scotland_.	1
 Yarrrr_.	1
-FW_FW
-<br />_<br />	6
-FW_NN
-<br />_Format	1
+IN_IN
+As_for	1
 PRP$_NN
 their_choice	1
 their_presentation	1
@@ -236,8 +232,6 @@ JJ_NNP
 famous_String	1
 CD_IN
 one_of	1
-:_FW
-:_<br />	1
 NNS_DT
 players_all	1
 ,_CC
@@ -252,14 +246,11 @@ movement_comparisons	1
 Quartet_members	1
 NN_NNP
 violist_Roger	1
-IN_IN
-As_for	1
 PRP$_NNS
 their_interviews	1
-PRP_MD
-I_wo	1
-You_can	1
-I_can	1
+CC_NN
+and_beauty	1
+and_ensemble	1
 NN_PRP
 gospel_they	1
 everything_I	1
@@ -286,9 +277,10 @@ VBP_VBZ
 hear_is	1
 RB_VBG
 not_being	1
-CC_NN
-and_beauty	1
-and_ensemble	1
+PRP_MD
+I_wo	1
+You_can	1
+I_can	1
 VBD_PRP$
 was_their	1
 ,_DT
@@ -320,8 +312,6 @@ have_an	1
 love_the	1
 have_a	1
 are_the	1
-FW_NNP
-<br />_Haydn	1
 NN_NN
 ensemble_clarity	1
 pirate_shirt	1
@@ -484,9 +474,6 @@ VBG_DT
 watching_this	1
 RB_VBD
 really_irked	1
-FW_IN
-<br />_Before	1
-<br />_As	1
 VBN_TO
 used_to	1
 CC_MD

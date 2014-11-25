@@ -84,14 +84,14 @@ cute_and	1
 WRB_PRP
 how_it	1
 why_she	1
+IN_CC
+before_and	1
 JJ_RB
 rare_indeed	1
 PRP$_JJ
 your_average	1
 PRP_PRP
 me_it	1
-FW_DT
-<br />_The	1
 IN_PRP
 like_you	1
 that_I	1
@@ -101,8 +101,6 @@ for_me	1
 as_It	1
 as_he	1
 as_it	1
--LRB-_CC
--LRB-_and	2
 VBZ_CD
 's_one	1
 gets_zero	1
@@ -180,8 +178,6 @@ is_not	2
 does_n't	1
 oscilates_dangerously	1
 's_not	1
--LRB-_VBN
--LRB-_divorced	1
 RB_PRP$
 then_his	1
 VBN_JJ
@@ -230,10 +226,6 @@ he_is	2
 He_plays	1
 it_oscilates	1
 he_says	1
-FW_PRP
-<br />_I	1
-._-RRB-
-!_-RRB-	1
 NNP_CC
 Allen_and	1
 NNP_CD
@@ -274,6 +266,8 @@ n't_stand	1
 even_say	1
 never_make	1
 n't_beat	1
+VBD_JJ
+was_excellent	1
 PRP_.
 it_.	2
 PRP_,
@@ -298,10 +292,8 @@ Destiny_.	1
 ,_playing	1
 LS_VB
 i_love	1
-FW_FW
-<br />_<br />	2
-<p>_JOE	1
-<p>_i	1
+IN_IN
+that_in	1
 FW_NN
 JOE_SOMEBODY	1
 PRP$_NN
@@ -337,8 +329,6 @@ playing_their	1
 VBD_RB
 had_only	1
 was_n't	1
--RRB-_.
--RRB-_.	1
 VB_VBN
 be_played	1
 VBN_IN
@@ -452,18 +442,15 @@ hope_to	1
 get_to	1
 NN_PRP
 way_they	1
-<p>_I	1
 way_you	1
 promotion_he	1
--RRB-_VB
--RRB-_enjoy	1
 NNS_DT
 characters_a	1
 IN_RB
 than_just	1
 until_just	1
-VBD_JJ
-was_excellent	1
+._.
+!_.	1
 WDT_VBZ
 that_makes	1
 which_is	1
@@ -479,10 +466,9 @@ will_be	1
 should_be	2
 can_figure	1
 'd_put	1
+will_enjoy	1
 may_be	1
 would_read	1
-PRP_-LRB-
-I_-LRB-	1
 RB_CD
 just_one	1
 NNS_VBP
@@ -521,12 +507,8 @@ close_to	1
 VBZ_NN
 ans_sickness	1
 teaches_karate	1
-WDT_VBP
-that_are	1
 VBP_NNP
 enjoy_Allen	1
-MD_-RRB-
-will_-RRB-	1
 VBP_DT
 am_a	1
 think_the	1
@@ -594,12 +576,11 @@ a_former	1
 PRP_NN
 it_downfall	1
 JJ_JJ
-straight_forward	1
-HILARIOUS_deleted	1
-half_enjoyable	1
 first_few	1
-<p>_good	1
+HILARIOUS_deleted	1
 pretty_funny	1
+straight_forward	1
+half_enjoyable	1
 JJS_NNS
 most_comedys	1
 Most_people	1
@@ -612,8 +593,6 @@ reviews_and	1
 VBD_PRP
 enjoyed_it	2
 loved_it	1
-PRP_DT
-it_a	1
 NN_,
 mother_,	1
 form_,	1
@@ -688,9 +667,8 @@ fan_and	1
 daughter_and	1
 squash_and	1
 energy_and	1
-<p>_But	1
-NN_-LRB-
-drama_-LRB-	1
+WDT_VBP
+that_are	1
 TO_VB
 to_be	1
 to_have	1
@@ -728,6 +706,8 @@ just_recently	1
 not_anywhere	1
 VBD_IN
 lost_in	1
+PRP_CC
+I_and	1
 NN_VBP
 laugh_are	1
 film_have	1
@@ -737,7 +717,6 @@ NNP_POS
 Allen_'s	3
 Belushi_'s	2
 NN_RB
-<p>_also	1
 film_soon	1
 role_exactly	1
 PRP_RB
@@ -753,7 +732,6 @@ DT_.
 all_.	1
 NN_JJ
 day_present	1
-<p>_overall	1
 feel_good	1
 brand_new	1
 VBZ_DT
@@ -764,6 +742,8 @@ plays_this	1
 is_a	3
 gives_a	1
 includes_some	1
+NN_VBN
+drama_divorced	1
 CD_NN
 one_time	1
 zero_respect	1
@@ -778,7 +758,6 @@ Tool_Man	1
 LOVE_Belushi	1
 TIm_Allen	1
 Mr._Destiny	1
-<br />_But	1
 Chuck_Scarett	1
 AFI_Top	1
 Tim_Allen	5
@@ -799,11 +778,9 @@ VBZ_VBG
 starts_wondering	1
 VB_PRP
 skip_it	1
-<br />_It	1
 read_it	1
-<br />_I	1
-IN_IN
-that_in	1
+PRP_DT
+it_a	1
 VBZ_VBN
 is_played	1
 VBZ_PRP$
@@ -857,8 +834,6 @@ Joe_to	1
 VB_RP
 stand_out	1
 figure_out	1
-IN_-LRB-
-before_-LRB-	1
 VBG_PRP
 watching_it	1
 VBZ_TO

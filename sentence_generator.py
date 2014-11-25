@@ -27,7 +27,7 @@ posEmissions = defaultdict(list)
 bgPosEmissions = defaultdict(list)
 uniPosEmissions = defaultdict(list)
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
-dontInclude = ["-RRB-", "-LRB-", "<br />"]
+dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
 
 class TF_IDF:
     def __init__(self, docCounts):
@@ -60,8 +60,11 @@ def build_POS_table(posFile):
         if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
             posTable.append(total_sequence)
             total_sequence = []
-        elif tags[1] not in dontInclude:
-            total_sequence.append(tags[1])
+        else:
+            if tags[0] in dontInclude or tags[1] in dontInclude:
+                continue
+            else:
+                total_sequence.append(tags[1])
     return posTable
 
 def get_document_counts(rootdir, documentCounts):
@@ -161,7 +164,7 @@ def getWordFromUnigramEmissions(ID, pos):
 
     for line in file:
         words = line.strip().split("\t")
-        
+
         if words[0] == pos and len(words) == 1:
             found = 1
             continue
@@ -258,8 +261,14 @@ def sentence(productID, tfidf_counts, pos_sequence):
         separated_pos_seq = separate_pos(pos_sequence)
         for i in range(len(separated_pos_seq)):
             if separated_pos_seq[i] in tfidf_pos_tags:
+                #print
+                #print "I: ", i
+                #print "pos_sequence: ", pos_sequence
+                #print 'sentwords: ', sent_words, len(sent_words)
                 #print 'word: ' + sent_words[i]
                 #print 'tfidf_score: ' + str(tfidf_counts[sent_words[i]])
+                #print 'separated_pos_seq ', separated_pos_seq, len(separated_pos_seq)
+                #print
                 tfidf_score += float(tfidf_counts[sent_words[i]])
         sent_scores.append(SentScore(sent, tfidf_score))
     sent_scores.sort(reverse=True)

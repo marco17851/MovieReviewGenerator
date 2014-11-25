@@ -47,12 +47,6 @@ been_signed	1
 been_given	2
 VBG_VBN
 having_been	2
-FW_DT
-<br />_Some	1
-<br />_A	2
-<br />_That	1
-<br />_These	1
-<br />_The	9
 TO_WRB
 to_how	1
 CC_JJ
@@ -146,10 +140,6 @@ who_knows	1
 what_hits	1
 who_tells	1
 who_medaties	1
--RRB-_,
--RRB-_,	3
--RRB-_.
--RRB-_.	3
 NNP_CC
 Modern_and	1
 Herzog_and	1
@@ -161,8 +151,6 @@ RBS_JJ
 most_advanced	1
 most_marginal	1
 most_intriguing	1
-''_-LRB-
-''_-LRB-	1
 VB_WDT
 dominate_which	1
 IN_PRP$
@@ -182,8 +170,6 @@ of_their	5
 in_their	2
 into_your	1
 at_his	1
--LRB-_MD
--LRB-_Wo	1
 VBP_PDT
 are_all	1
 IN_WDT
@@ -239,6 +225,7 @@ were_finally	1
 were_almost	1
 NN_DT
 reach_the	1
+dream_the	1
 TO_DT
 to_this	1
 to_an	2
@@ -256,18 +243,8 @@ are_important	1
 are_compelling	1
 VB_NNS
 answer_questions	1
--LRB-_RB
--LRB-_very	1
 NNS_NNP
 years_Herzog	1
-IN_IN
-that_of	1
-along_with	1
-as_if	2
-if_by	1
-so_that	1
-if_in	1
-in_between	1
 VBP_TO
 assist_to	1
 go_to	1
@@ -328,7 +305,6 @@ and_vastness	1
 and_inability	1
 VBP_PRP$
 are_his	3
-<br />_their	1
 VB_,
 Fly_,	1
 understand_,	1
@@ -346,8 +322,12 @@ WP_,
 who_,	1
 RP_CC
 out_and	1
--LRB-_DT
--LRB-_the	1
+NNP_''
+Dominion_''	2
+Fitzcarraldo_''	1
+Morgana_''	1
+Max_''	1
+Progress_'	1
 DT_NNS
 the_souls	1
 the_members	1
@@ -387,7 +367,6 @@ at_times	1
 IN_NNP
 in_Australia	1
 Of_Kaspar	1
-in_<br />	1
 of_Herzog	4
 by_Aki	1
 of_Australia	2
@@ -400,6 +379,7 @@ that_Herzog	1
 Of_Glass	2
 into_Bas	1
 for_Werner	1
+in_Werner	1
 like_Herzog	1
 of_Jean-Francois	1
 of_Violence	1
@@ -420,14 +400,12 @@ an_Industrial	1
 a_Master	1
 the_Earth	1
 this_Earth	1
-the_<br />	1
 the_Marianas	1
 The_Green	3
 The_Old	1
 The_Australian	1
 the_Dreamtime	1
 VB_WRB
-<br />_Where	1
 learn_how	1
 VBD_DT
 paid_a	1
@@ -458,13 +436,13 @@ argue_in	1
 talk_about	1
 NN_CC
 civilization_and	1
-time_and	1
 camera_and	1
 failure_and	1
 myth_and	2
+dispute_and	1
 edge_and	1
 earth_and	1
-emptiness_and	1
+time_and	1
 depth_or	1
 machinery_and	1
 technology_and	1
@@ -473,6 +451,7 @@ film_and	1
 heuristic_and	1
 rape_and	1
 world_and	2
+emptiness_and	1
 man_and	1
 intervention_and	1
 bureaucracy_and	1
@@ -514,16 +493,14 @@ Kaspar_Hauser	1
 Werner_Herzog	6
 Supreme_Court	1
 Jean-Francois_Lyotard	1
-<p>_Herzog	1
 Australian_Bush	1
 Cobra_Verde	1
 Noble_Savage	1
 Chris_Eyre	1
 Bruce_Spence	1
 e.g._Aguirre	1
-<br />_Werner	1
+Herzog_e.g.	1
 Klaus_Kinski	1
-<br />_Bushmen	1
 Jorg_Schmidt-Reitwein	1
 :_RB
 -_so	1
@@ -600,8 +577,6 @@ is_how	1
 's_why	1
 VBN_CD
 become_one	1
--LRB-_CC
--LRB-_and	2
 RB_WRB
 best_when	1
 even_when	1
@@ -624,8 +599,6 @@ VBN_PRP$
 revealed_their	1
 VBD_CD
 had_one	1
-NNP_-RRB-
-God_-RRB-	1
 NNPS_CC
 Americans_and	1
 Elders_and	1
@@ -646,8 +619,6 @@ to_.	2
 WRB_PRP
 how_he	1
 when_he	1
-CD_-RRB-
-1:26_-RRB-	1
 :_IN
 -_that	1
 PRP$_JJ
@@ -866,8 +837,6 @@ It_becomes	1
 it_'s	1
 he_explores	1
 he_is	1
-FW_PRP
-<br />_I	1
 IN_,
 if_,	1
 because_,	1
@@ -875,6 +844,8 @@ through_,	1
 IN_.
 for_.	1
 throughout_.	1
+FW_FW
+Gr&uuml;nen_Ameisen	1
 PRP_.
 it_.	4
 them_.	1
@@ -989,6 +960,8 @@ NN_NNP
 director_Chris	1
 director_Werner	1
 view_Herzog	1
+:_``
+:_``	2
 ,_WRB
 ,_Where	1
 ,_when	1
@@ -998,7 +971,7 @@ Die_Gr&uuml;nen	1
 :_DT
 -_this	1
 ;_the	1
-:_The	1
+:_The	2
 JJR_NN
 younger_director	1
 lesser_entry	1
@@ -1051,7 +1024,6 @@ There_are	4
 NN_NN
 guy_movie	1
 version_reality	1
-sense_<br />	1
 pop_culture	1
 anthropology_course	1
 culture_type	1
@@ -1360,10 +1332,9 @@ n't_even	1
 not_only	1
 NN_VBP
 tribe_are	1
-court_<br />	1
-land_argue	1
 t_have	1
 Friend_are	1
+land_argue	1
 world_are	1
 PRP_RB
 himself_not	1
@@ -1438,19 +1409,12 @@ earth_''	1
 Dream_''	2
 RB_VBG
 still_waiting	1
+deliberately_turning	1
 accurately_recognizing	1
 spiritually_suffocating	1
 only_leading	1
 beautifully_haunting	1
 ever_creeping	1
-FW_IN
-<br />_In	2
-<br />_During	1
-POS_NN
-'s_magnetism	1
-'_universe	1
-'_s	1
-'s_aberrancy	1
 VBD_NN
 made_Smoke	1
 VBZ_TO
@@ -1496,17 +1460,17 @@ must_inevitably	1
 will_never	1
 will_just	1
 NN_WDT
+director_that	1
 fable_that	1
 discrepancy_that	1
 concoction_that	1
 poetry_which	1
 juggernaut_which	1
-<br />_that	1
 strip_that	1
 world_which	1
-land_that	1
+sense_that	1
 art_that	1
-director_that	1
+land_that	1
 trial_which	1
 culture_that	1
 film_that	1
@@ -1625,6 +1589,7 @@ their_holiest	1
 his_greatest	1
 NN_MD
 earth_will	1
+Dream_Wo	1
 destruction_must	1
 ending_will	1
 hope_will	1
@@ -1668,9 +1633,14 @@ n't_worry	1
 not_beat	1
 NNPS_IN
 Europeans_with	1
-FW_FW
-<br />_<br />	24
-Gr&uuml;nen_Ameisen	1
+IN_IN
+that_of	1
+along_with	1
+as_if	2
+if_by	1
+so_that	1
+if_in	1
+in_between	1
 JJ_RB
 many_brightly	1
 ,_``
@@ -1717,18 +1687,17 @@ tracks_,	1
 termites_,	1
 films_,	1
 times_,	1
-moments_,	1
+operations_,	1
 Skins_,	1
 beads_,	1
 proposals_,	1
 feelings_,	1
 civilizations_,	1
+moments_,	1
 principles_,	1
 ,_VBP
 ,_have	1
 ,_feel	1
--RRB-_VBG
--RRB-_turning	1
 VBD_NNP
 Started_Small	2
 NNS_:
@@ -1744,6 +1713,7 @@ groups_;	1
 `_Where	2
 JJ_NNS
 distinct_styles	1
+wonderful_predictors	1
 particular_realities	1
 little_moments	1
 Australian_films	1
@@ -1797,7 +1767,6 @@ sharp_reflections	1
 white_men	1
 apocalyptic_hovels	1
 natural_filters	1
-<br />_predictors	1
 deep_mysteries	1
 noble_efforts	1
 faceless_buildings	1
@@ -1806,8 +1775,8 @@ traditional_societies	1
 barren_vistas	1
 JJ_NNP
 classic_J.G.	1
-wise_<br />	1
 other_Herzog	1
+wise_Bushmen	1
 CD_IN
 three_of	1
 one_of	11
@@ -1829,16 +1798,15 @@ a_very	3
 an_extremely	1
 the_always	1
 DT_NNPS
-The_Aborigines	2
+the_Aborigines	3
 the_Elders	1
-the_Aborigines	2
+The_Aborigines	2
 NN_PRP
 vastness_they	1
 land_they	1
 director_himself	1
 case_he	1
 imagination_it	1
-<p>_I	2
 admission_it	1
 film_I	1
 time_I	1
@@ -1852,8 +1820,8 @@ restore_their	1
 ,_can	1
 JJ_DT
 second_an	1
-:_JJ
--_such	3
+RB_CC
+rapidly_and	1
 ,_PDT
 ,_all	1
 MD_VB
@@ -1881,10 +1849,11 @@ n't_one	1
 Definitely_one	1
 VB_VBN
 have_fallen	1
+be_shared	1
+be_uprooted	1
+be_passed	1
 be_discussed	1
 be_faced	1
-be_shared	1
-be_passed	1
 VB_VBG
 finish_watching	1
 WRB_NNP
@@ -1898,7 +1867,6 @@ where_Herzog	1
 ,_all	1
 NNP_NNPS
 Green_Ants	7
-<br />_Aborigines	1
 VB_VBZ
 do_is	1
 CD_PRP
@@ -1910,9 +1878,6 @@ has_something	1
 is_progress	1
 chooses_desolation	1
 's_something	1
-WDT_VBP
-that_are	1
-that_have	1
 WRB_RB
 when_not	1
 UH_,
@@ -1932,8 +1897,6 @@ have_no	2
 am_a	1
 recommend_this	1
 have_a	2
-NNS_-RRB-
-operations_-RRB-	1
 VBD_TO
 turned_to	1
 managed_to	1
@@ -1966,6 +1929,7 @@ Aborigines_who	1
 NNP_JJ
 Savage_Native	1
 NN_,
+dispute_,	1
 aberrancy_,	1
 wasteland_,	1
 outback_,	1
@@ -2032,8 +1996,9 @@ weather_.	1
 head_.	1
 trench_.	1
 possibility_.	1
+Tra&uuml;men_.	1
 land_.	3
-film_.	2
+film_.	3
 direction_.	1
 thing_.	1
 point_.	1
@@ -2061,11 +2026,9 @@ aided_this	1
 spawned_a	1
 seen_this	1
 located_a	1
-NN_-LRB-
-dispute_-LRB-	1
-Violence_-LRB-	1
-Dream_-LRB-	1
-dream_-LRB-	1
+WDT_VBP
+that_are	1
+that_have	1
 CC_UH
 But_alas	1
 ''_VBZ
@@ -2081,12 +2044,9 @@ it_and	1
 VBG_RB
 looking_back	1
 FW_JJ
-<br />_Stunning	1
 vs._bad	1
 DT_,
 all_,	1
-VB_NNP
-be_<br />	1
 RB_JJ
 always_worried	1
 as_close	1
@@ -2109,16 +2069,10 @@ extremely_relevant	1
 too_preachy	1
 very_interesting	1
 very_important	1
-RB_-RRB-
-deliberately_-RRB-	1
-VB_``
-<br />_``	1
 NNPS_POS
 Aborigines_'	1
 TO_NNP
 to_Herzog	1
-RB_-LRB-
-rapidly_-LRB-	1
 TO_NNS
 to_Natives	1
 VBG_DT
@@ -2189,10 +2143,11 @@ while_praising	1
 without_shrieking	1
 In_charting	1
 by_protecting	1
-NN_-RRB-
-dispute_-RRB-	1
-film_-RRB-	1
-Tra&uuml;men_-RRB-	1
+POS_NN
+'s_magnetism	1
+'_universe	1
+'_s	1
+'s_aberrancy	1
 ,_PRP
 ,_it	3
 ,_I	1
@@ -2202,9 +2157,6 @@ of_isolated	1
 as_wished	1
 RB_NNP
 not_Herzog	1
--LRB-_NNP
--LRB-_Genesis	1
--LRB-_e.g.	1
 VBG_.
 shrieking_.	1
 VBG_,
@@ -2225,10 +2177,10 @@ perfect_and	1
 interesting_and	1
 intriguing_and	1
 slow_but	1
-TO_NN
-to_domination	1
 CD_,
 one_,	2
+CD_.
+1:26_.	1
 WRB_VBZ
 where_does	1
 NNP_WP
@@ -2237,8 +2189,8 @@ VBN_WRB
 thrilled_when	1
 ``_CC
 ``_And	1
-FW_CC
-<br />_But	1
+TO_NN
+to_domination	1
 CD_NNS
 40,000_years	2
 two_worlds	1
@@ -2307,9 +2259,6 @@ each_one	1
 the_two	1
 DT_CC
 This_and	1
-FW_``
-<br />_`	1
-<br />_``	3
 RP_DT
 up_the	1
 VBP_RB
@@ -2327,13 +2276,15 @@ Do_n't	1
 have_never	1
 JJ_VBZ
 first_expresses	1
+''_NNP
+''_Genesis	1
 NNP_,
 Morgana_,	1
 Aborigine_,	1
 Kaurismaki_,	1
 Arnold_,	1
 Man_,	1
-God_,	1
+God_,	2
 Glass_,	1
 Herzog_,	1
 Hauser_,	1
@@ -2393,7 +2344,7 @@ contemporary_condescending	1
 own_particular	1
 favorite_Australian	1
 excellent_Australian	1
-wonderful_<br />	1
+cold_hard	1
 absolute_good	1
 ongoing_American	1
 many_brilliant	1
@@ -2405,14 +2356,11 @@ mythical_green	1
 Native_American	1
 state-of-nature_blissful	1
 own_personal	1
-cold_hard	1
 non_conformist	1
 VBN_PRP
 seen_it	1
 enabled_him	1
 watched_it	1
-:_FW
-:_<br />	3
 WRB_JJ
 where_mythical	1
 ,_CC
@@ -2462,8 +2410,6 @@ lost_our	1
 IN_CC
 over_and	1
 with_both	1
-NNP_-LRB-
-Herzog_-LRB-	1
 NNS_VBD
 lands_were	1
 realities_prevented	1
@@ -2502,6 +2448,8 @@ POS_JJ
 's_excellent	1
 '_American	1
 's_final	1
+:_JJ
+-_such	3
 VBN_``
 given_``	1
 ''_IN
@@ -2673,8 +2621,6 @@ Herzog_managed	1
 Glass_was	1
 Herzog_filmed	1
 English_turned	1
-NNP_VBN
-<br />_uprooted	1
 NNP_POS
 Wenders_'	1
 Herzog_'	1
@@ -2684,6 +2630,7 @@ theme_as	1
 sink_deeply	1
 film_always	1
 film_best	1
+Violence_very	1
 JJ_IN
 odd_as	1
 compelling_without	1
@@ -2739,6 +2686,8 @@ VBZ_NNS
 rejects_dreams	1
 VBP_NN
 are_nothing	1
+NN_PRP$
+court_their	1
 VB_CC
 explore_and	1
 think_and	1
@@ -2776,12 +2725,6 @@ is_beyond	1
 unfolds_amidst	1
 is_that	2
 rises_above	1
-NNP_''
-Dominion_''	2
-Fitzcarraldo_''	1
-Morgana_''	1
-Max_''	1
-Progress_'	1
 JJ_NN
 out-of-balance_civilization	1
 hellish_culture	1
