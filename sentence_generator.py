@@ -27,7 +27,11 @@ posEmissions = defaultdict(list)
 bgPosEmissions = defaultdict(list)
 uniPosEmissions = defaultdict(list)
 tfidf_pos_tags = ['NNP', 'VBZ', 'JJ', 'NN', 'VB', 'NNS', 'VBD', 'NNPS', 'VBG']
+<<<<<<< HEAD
+dontInclude = ["-RRB-", "-LRB-", "<br />", "<br\xc2\xa0/>"]
+=======
 dontInclude = ["-RRB-", "-LRB-", "<br\xc2\xa0/>", "<p>"]
+>>>>>>> 4e6680b729040fc87485c7ca8e5807a5becbca3d
 
 class TF_IDF:
     def __init__(self, docCounts):
@@ -57,6 +61,7 @@ def build_POS_table(posFile):
     total_sequence = []
     for word in f.split():
         tags = word.split("_")
+
         if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
             posTable.append(total_sequence)
             total_sequence = []
