@@ -390,7 +390,7 @@ def sentence(productID, tfidf_counts, pos_sequence):
         separated_pos_seq = separate_pos(pos_sequence)
         for i in range(len(separated_pos_seq)):
             if separated_pos_seq[i] in tfidf_pos_tags:
-                if len(sent_words) >= i:
+                if len(sent_words) > i:
                     if sent_words[i] in tfidf_counts:
                         tfidf_score += float(tfidf_counts[sent_words[i]])
         sent_scores.append(SentScore(sent, tfidf_score))
