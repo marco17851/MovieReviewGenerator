@@ -86,7 +86,7 @@ def build_POS_table(posFile):
     total_sequence = []
     for word in f.split():
         tags = word.split("_")
-        # look for the end of a sentence
+
         if tags[1] is "." or tags[1] is "!" or tags[1] is "?":
             posTable.append(total_sequence)
             total_sequence = []
@@ -142,25 +142,26 @@ def build_Probabilistic_POS(posFile, transitions):
                 starters.append(starter)
                 starter = ""
                 next_is_start2 = False
-    # build the bigram to bigram frequency dictionary, maps bigrams to list of
-    # succeeding bigrams
-    for line in open(transitions):
-        tokens = line.split()
+
+# build the bigram to bigram frequency dictionary, maps bigrams to list of
+# succeeding bigrams
+for line in open(transitions):
+    tokens = line.split()
         if len(tokens) == 1:
             starting_bg = tokens[0]
             if starting_bg.startswith("DT"):
                 starters.append(starting_bg)
-        else:
-            next_bg = tokens[0]
+    else:
+        next_bg = tokens[0]
             freq = int(tokens[1])
             for i in range(0, freq):
                 POS_frequencies[starting_bg].append(next_bg)
 
-    # select random bigrams from the starting bigram successor list and continue
-    # until sentenceCap is reached
-    for j in range(0, 10):
+# select random bigrams from the starting bigram successor list and continue
+# until sentenceCap is reached
+for j in range(0, 10):
     #CHOOSE A RANDOM STARTING KEY
-        current_sequence = []
+    current_sequence = []
         starting_bg = random.choice(starters)
         tokens = starting_bg.split('_')
         current_sequence.append(tokens[0])
@@ -175,12 +176,13 @@ def build_Probabilistic_POS(posFile, transitions):
             if(tokens[0]=="." or tokens[0]=="!" or tokens[0]=="?"):
                 break
             current_sequence.append(tokens[1])
-            if(tokens[1]=="." or tokens[1]=="!" or tokens[1]=="?"):
+            if(tokens[0]=="." or tokens[0]=="!" or tokens[0]=="?"):
                 break
             starting_bg = next_bg
-        pos_sequence_list.append(current_sequence)
+    #print current_sequence
+    pos_sequence_list.append(current_sequence)
 
-    return pos_sequence_list
+return pos_sequence_list
 """
 # Function: tfidf()
 # Output: dictionary that maps each word to its TFIDF score
@@ -309,7 +311,6 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
     sentences = []
     arpa_dict = transitions(productID)
 
-    # generate 10 sentences
     for i in range(10):
 
         sentence = ''
@@ -332,7 +333,6 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
 
     sent_scores = []
 
-    # update TFIDF scores
     for sent in sentences:
         tfidf_score = 0
         sent_words = sent.split()
@@ -344,7 +344,6 @@ def sentenceBigrams(productID, tfidf_counts, pos_sequence):
     
     sent_scores.sort(reverse=True)
 
-    # return the best sentences
     best_sentences = []
     for i in range(min( len(sent_scores), 1)):
         best_sentences.append(sent_scores[i].sentence)
@@ -390,9 +389,7 @@ def sentence(productID, tfidf_counts, pos_sequence):
         separated_pos_seq = separate_pos(pos_sequence)
         for i in range(len(separated_pos_seq)):
             if separated_pos_seq[i] in tfidf_pos_tags:
-                if len(sent_words) >= i:
-                    if sent_words[i] in tfidf_counts:
-                        tfidf_score += float(tfidf_counts[sent_words[i]])
+                tfidf_score += float(tfidf_counts[sent_words[i]])
         sent_scores.append(SentScore(sent, tfidf_score))
     sent_scores.sort(reverse=True)
 
@@ -426,6 +423,7 @@ def separate_pos(pos_sequence):
                 serves as a helper method for overlapping the part-of-speech tags
 """
 def overlap(pos_sequence):
+    #print pos_sequence
     overlapping_pos_seq = []
 
     unigram_pos_seq = separate_pos(pos_sequence)
@@ -442,6 +440,7 @@ def overlap(pos_sequence):
             continue
         else:
             curr_pos_seq += unigram_pos_seq[i] + '_'
+    #print overlapping_pos_seq
     return overlapping_pos_seq
 
 """
@@ -453,6 +452,7 @@ def overlap(pos_sequence):
 """
 def generateSentence(pos_sequence, posEmissions):
     sentence = ""
+    #print pos_sequence
     pos_sequence = overlap(pos_sequence)
 
     first_pos = True
@@ -465,16 +465,12 @@ def generateSentence(pos_sequence, posEmissions):
         if pos not in posEmissions:            
             wordsToAdd = []
             if len(pos.split('_')) == 2:
-                if pos in bgPosEmissions:
-                    if len (bgPosEmissions[pos][0].word.split('_')) > 0:
-                        for word in bgPosEmissions[pos][0].word.split('_'):
-                            wordsToAdd.append(word)
+                for word in bgPosEmissions[pos][0].word.split('_'):
+                    wordsToAdd.append(word)
 
             if len(pos.split('_')) == 1:
-                if pos in uniPosEmissions:
-                    if len (uniPosEmissions[pos][0].word.split('_')) > 0:
-                        for word in uniPosEmissions[pos][0].word.split('_'):
-                            wordsToAdd.append(word)
+                for word in uniPosEmissions[pos][0].word.split('_'):
+                    wordsToAdd.append(word)
             if first_pos == True:
                 first_pos = False
                 for word in wordsToAdd:
@@ -501,6 +497,7 @@ def generateSentence(pos_sequence, posEmissions):
                     for y in range(0, len(words)):
                         sentence += words[y] + ' '
                 break
+    #print sentence
     return sentence
 
 """
@@ -593,6 +590,7 @@ if __name__=='__main__':
             randomly_chosen_pos_sequences.append(pos_sequences[x])
     elif int(pos_type) == 0:
         randomly_chosen_pos_sequences = build_Probabilistic_POS("./data/" + sys.argv[1] + "/pos.txt", "./data/" + sys.argv[1] + "/bg_transitions.txt")
+    #print "****" + str(randomly_chosen_pos_sequences)
     #----------------
 
     #----------------
@@ -602,11 +600,13 @@ if __name__=='__main__':
 
     if int(word_selection_type) == 1:
         for i in range(len(randomly_chosen_pos_sequences)):
+            #print 'heyo' + str(len(randomly_chosen_pos_sequences[i]))
             tri_pos_seq = trigramify_pos_seq(randomly_chosen_pos_sequences[i])
             randomly_chosen_pos_sequences[i] = tri_pos_seq
 
         for pos in randomly_chosen_pos_sequences:
             for sent in sentence(sys.argv[1], tfidf_dict, pos):
+                #x = 5
                 print sent.lower()
 
     elif int(word_selection_type) == 0:
