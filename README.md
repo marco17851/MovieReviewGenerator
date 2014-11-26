@@ -29,7 +29,7 @@ The data directory contains a folder for each product ID. Each product ID folder
 	summaries.txt: the summaries collected from a movie's reviews
 
 ====================
-How the run program:
+How to run program:
 If you downloaded all files from GitHub, simply do steps 1 and 5. If you want to recreate the data files that we have preprocessed, then do steps 1 through 5.
 
 1. Download the data set file from https://snap.stanford.edu/data/web-Movies.html and name the file "movies.txt" in the same folder as parse_dataset.py. We did not include the movies.txt file in our submission on Github because it is too large.
